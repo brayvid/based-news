@@ -523,14 +523,14 @@ def main():
             json.dump(history, f, indent=2)
 
         # Git commit and push
-        # try:
-        #     import subprocess
-        #     subprocess.run(["git", "add", "public/digest.html"], check=True, cwd=BASE_DIR)
-        #     subprocess.run(["git", "commit", "-m", "Auto-update digest"], check=True, cwd=BASE_DIR)
-        #     subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
-        #     logging.info("Digest committed and pushed to GitHub.")
-        # except Exception as e:
-        #     logging.error(f"Git commit/push failed: {e}")
+        try:
+            import subprocess
+            subprocess.run(["git", "add", "public/digest.html", "history.json"], check=True, cwd=BASE_DIR)
+            subprocess.run(["git", "commit", "-m", "Auto-update digest"], check=True, cwd=BASE_DIR)
+            subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+            logging.info("Digest committed and pushed to GitHub.")
+        except Exception as e:
+            logging.error(f"Git commit/push failed: {e}")
 
     finally:
         nltk_path = os.path.expanduser("~/nltk_data")
