@@ -79,3 +79,30 @@ a:focus {
   color: #d33c2d;
   text-decoration: underline;
 }
+
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.8em;
+  }
+
+  .subheading {
+    font-size: 0.95em;
+  }
+
+  main {
+    padding: 1em;
+  }
+
+  section h3 {
+    font-size: 1.1em;
+  }
+
+  section p {
+    font-size: 0.95em;
+    line-height: 1.4;
+  }
+
+  a {
+    font-size: 0.95em;
+  }
+}
