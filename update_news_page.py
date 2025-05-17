@@ -43,6 +43,7 @@ from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
+import subprocess
 
 # Initialize logging immediately to capture all runtime info
 log_path = os.path.join(BASE_DIR, "logs/update_news_page.log")
@@ -524,11 +525,17 @@ def main():
 
         # Git commit and push
         try:
-            import subprocess
+            GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+            GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
+            REPO = "tha-news"
+
+            remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
+
+            subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
             subprocess.run(["git", "add", "public/digest.html", "history.json"], check=True, cwd=BASE_DIR)
-            subprocess.run(["git", "commit", "-m", "Auto-update digest"], check=True, cwd=BASE_DIR)
+            subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
             subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
-            logging.info("Digest committed and pushed to GitHub.")
+            logging.info("Digest and history committed and pushed to GitHub.")
         except Exception as e:
             logging.error(f"Git commit/push failed: {e}")
 
