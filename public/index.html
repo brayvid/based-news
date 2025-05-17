@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily News Digest</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
+<script defer>
+document.addEventListener("DOMContentLoaded", function () {
+    fetch("digest.html")
+    .then((res) => res.text())
+    .then((html) => {
+        const parser = new DOMParser();
+        const digestDoc = parser.parseFromString(html, "text/html");
+        const digestContent = digestDoc.body.innerHTML;
+
+        // Inject news content
+        document.getElementById("news-digest").innerHTML = digestContent;
+
+        // Move 'Last updated' to footer if present
+        const lastUpdated = digestDoc.getElementById("last-updated");
+        if (lastUpdated) {
+            const footerContainer = document.querySelector("footer .container");
+            const gitHubLink = footerContainer.querySelector("p");
+
+            const timeStamp = document.createElement("p");
+            timeStamp.className = "timestamp";
+            timeStamp.style.fontSize = "0.9em";
+            timeStamp.style.color = "#666";
+            timeStamp.style.marginBottom = "0.25em";
+            timeStamp.textContent = lastUpdated.textContent;
+
+            // Insert the timestamp *before* the GitHub <p>
+            footerContainer.insertBefore(timeStamp, gitHubLink);
+        }
+    })
+    .catch(() => {
+        document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
+    });
+});
+</script>
+
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Today's Top News</h1>
+      <p class="subheading">Curated headlines, updated hourly.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="news-digest">
+      <!-- digest.html will be injected here -->
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p><a href="https://github.com/brayvid/news-site">GitHub</a> | <a href="https://blakerayvid.com">Portfolio</a></p>
+    </div>
+  </footer>
+</body>
+</html>
