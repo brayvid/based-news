@@ -1,6 +1,6 @@
 # Based News
 
-This Python script is designed to fetch the latest Google News RSS headlines for a user-defined list of topics and update a static Netlify webpage every hour. It uses Google Gemini to prioritize headlines based on the user's preferences.
+This Python script is designed to fetch the latest Google News RSS headlines for a user-defined list of topics and update a Netlify webpage every hour. It uses Google Gemini to prioritize headlines based on the user's preferences.
 
 ---
 
