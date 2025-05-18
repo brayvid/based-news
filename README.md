@@ -9,7 +9,7 @@ This Python script is designed to fetch the latest Google News RSS headlines for
 * Reads your preferences from a [configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing)
 * Retrieves the latest headlines from Google News RSS for each topic
 * Filters out banned keywords and already-seen headlines using a local history file
-* Scores headlines using Google Gemini based on topic and keyword weights
+* Prioritizes headlines using Google Gemini based on topic and keyword weights
 * Updates a styled `index.html` file for Netlify (or any static host)
 * Designed to run hourly using `cron`
 
