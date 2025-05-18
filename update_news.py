@@ -467,8 +467,39 @@ def main():
                 digest[topic] = selected
 
         if not digest:
-            logging.info("Gemini returned no digest-worthy content.")
+            logging.info("Gemini returned no digest-worthy content. Updating timestamp only.")
+
+            digest_path = os.path.join(BASE_DIR, "public", "digest.html")
+            os.makedirs(os.path.dirname(digest_path), exist_ok=True)
+
+            last_updated = datetime.now(ZONE).strftime("%A, %d %B %Y at %I:%M %p %Z")
+            footer_html = (
+                f"<div id='last-updated' style='display: none;'>"
+                f"Last updated: {last_updated}"
+                f"</div>\n"
+            )
+
+            try:
+                with open(digest_path, "r+", encoding="utf-8") as f:
+                    content = f.read()
+                    # Replace old timestamp or append if missing
+                    new_content = re.sub(
+                        r"<div id='last-updated'.*?</div>",
+                        footer_html.strip(),
+                        content,
+                        flags=re.DOTALL
+                    )
+                    if new_content == content:
+                        new_content += "\n" + footer_html
+                    f.seek(0)
+                    f.write(new_content)
+                    f.truncate()
+            except FileNotFoundError:
+                with open(digest_path, "w", encoding="utf-8") as f:
+                    f.write(footer_html)
+
             return
+
 
         # Build HTML digest file
         digest_path = os.path.join(BASE_DIR, "public", "digest.html")
