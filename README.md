@@ -1,6 +1,6 @@
 # Based News
 
-This Python script is designed to fetch the latest Google News RSS headlines for a user-defined list of topics and [update a webpage](https://basednews.netlify.app) every hour. It uses Google Gemini to prioritize headlines based on the user's preferences.
+This Python script is designed to fetch the latest Google News RSS headlines for a user-defined list of topics and update a static Netlify webpage every hour. It uses Google Gemini to prioritize headlines based on the user's preferences.
 
 ---
 
@@ -131,7 +131,7 @@ The script overwrites `index.html` with a summary page that can be deployed to a
 
 ## Lockfile Notice
 
-If interrupted, the script may leave behind a lockfile (`newspagebot.lock`). Remove it manually if needed:
+If interrupted, the script may leave behind a lockfile (`based_news.lock`). Remove it manually if needed:
 
 ```bash
 rm newspagebot.lock
