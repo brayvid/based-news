@@ -38,7 +38,7 @@ based-news/
 
 ```bash
 git clone https://github.com/brayvid/based-news.git
-cd newspagebot
+cd based-news
 ```
 
 ### 2. Install dependencies
