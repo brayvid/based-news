@@ -19,7 +19,7 @@ KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
 
 # Prevent concurrent runs using a lockfile
-LOCKFILE = os.path.join(BASE_DIR, "newsbot.lock")
+LOCKFILE = os.path.join(BASE_DIR, "based_news.lock")
 if os.path.exists(LOCKFILE):
     print("Script is already running. Exiting.")
     sys.exit()
@@ -46,7 +46,7 @@ import google.generativeai as genai
 import subprocess
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/update_news.log")
+log_path = os.path.join(BASE_DIR, "logs/based_news.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO)
 logging.info(f"Script started at {datetime.now()}")

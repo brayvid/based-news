@@ -1,16 +1,16 @@
-# BasedNews
+# Based News
 
-This Python script fetches the latest Google News RSS headlines for a user-specified set of topics and generates a static HTML summary page. It runs hourly, filters and prioritizes headlines using Gemini based on the user's preferences, and updates a Netlify-hosted page with the results.
+This Python script is designed to fetch the latest Google News RSS headlines for a user-defined list of topics and [update a webpage](https://basednews.netlify.app) every hour. It uses Google Gemini to prioritize headlines based on the user's preferences.
 
 ---
 
 ## How it works
 
-* Reads your preferences from a [configuration spreadsheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing)
+* Reads your preferences from a [configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing)
 * Retrieves the latest headlines from Google News RSS for each topic
 * Filters out banned keywords and already-seen headlines using a local history file
 * Scores headlines using Google Gemini based on topic and keyword weights
-* Outputs a clean, static `index.html` file for Netlify (or any static host)
+* Updates a styled `index.html` file for Netlify (or any static host)
 * Designed to run hourly using `cron`
 
 ---
@@ -18,14 +18,16 @@ This Python script fetches the latest Google News RSS headlines for a user-speci
 ## Directory Structure
 
 ```plaintext
-newspagebot/
-├── newspagebot.py         # Main script
+based-news/
+├── based_news.py         # Main script
 ├── requirements.txt       # Python dependencies
-├── history.json           # Stores previously seen headlines
-├── index.html             # Static output file
+├── history.json           # Stores previously posted headlines
+├── public/                # Directory to serve
+│   ├── index.html         # Main page, does not change
+│   └── digest.html        # Gets updated hourly
 ├── .env                   # Contains Gemini API key (excluded from version control)
 ├── logs/                  # Log directory (excluded from version control)
-│   └── newspagebot.log    # Cron and runtime logs
+│   └── based_news.log    # Cron and runtime logs
 ```
 
 ---
@@ -35,7 +37,7 @@ newspagebot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/newspagebot.git
+git clone https://github.com/brayvid/based-news.git
 cd newspagebot
 ```
 
@@ -63,7 +65,7 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ### 4. Configure preferences
 
-Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing), publish each tab as CSV, and update the relevant URLs in `newspagebot.py`.
+Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing), publish each tab as CSV, and update the relevant URLs in `update_news.py`.
 
 #### Topics (scored 1-5)
 
