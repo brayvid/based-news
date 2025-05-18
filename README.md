@@ -139,8 +139,4 @@ rm newspagebot.lock
 
 ## Logging
 
-Logs are stored in `logs/newspagebot.log` for monitoring and debugging.
-
----
-
-Let me know if you'd like me to tailor it for GitHub Pages, add screenshots, or generate the HTML template.
+Logs are stored in `logs/based_news.log` for monitoring and debugging.
