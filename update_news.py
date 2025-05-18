@@ -571,12 +571,12 @@ def main():
             logging.error(f"Git commit/push failed: {e}")
 
     finally:
-        nltk_path = os.path.expanduser("~/nltk_data")
-        if os.path.exists(nltk_path):
-            try:
-                shutil.rmtree(nltk_path)
-            except Exception as e:
-                logging.warning(f"Failed to delete ~/nltk_data: {e}")
+        # nltk_path = os.path.expanduser("~/nltk_data")
+        # if os.path.exists(nltk_path):
+        #     try:
+        #         shutil.rmtree(nltk_path)
+        #     except Exception as e:
+        #         logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
