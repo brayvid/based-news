@@ -31,7 +31,7 @@ else:
 import csv
 import html
 import logging
-import shutil
+# import shutil
 import json
 import re
 import ast
