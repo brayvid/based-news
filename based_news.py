@@ -558,11 +558,12 @@ def main():
         try:
             GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
             GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
-            REPO = "tha-news"
+            REPO = "based-news"
 
             remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
 
             subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
+            subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
             subprocess.run(["git", "add", "public/digest.html", "history.json"], check=True, cwd=BASE_DIR)
             subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
             subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
