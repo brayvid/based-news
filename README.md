@@ -65,7 +65,7 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ### 4. Configure preferences
 
-Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing), publish each tab as CSV, and update the relevant URLs in `update_news.py`.
+Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing), publish each tab as CSV, and update the relevant URLs in `based_news.py`.
 
 #### Topics (scored 1-5)
 
