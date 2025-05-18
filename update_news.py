@@ -46,7 +46,7 @@ import google.generativeai as genai
 import subprocess
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/update_news_page.log")
+log_path = os.path.join(BASE_DIR, "logs/update_news.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO)
 logging.info(f"Script started at {datetime.now()}")
