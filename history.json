@@ -163,10 +163,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Why so many CEOs crossed paths with Trump in the Middle East, from Sam Altman to Jensen Huang - Yahoo Finance",
-      "pubDate": "Sat, 17 May 2025 18:57:37 GMT"
-    },
-    {
       "title": "\u2018Fight back\u2019: Pedro Pascal urges Cannes to resist US political pressure - Al Jazeera",
       "pubDate": "Sat, 17 May 2025 22:06:09 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Trump Berates Walmart and Mattel for Warning About Tariff Price Increases - The New York Times",
       "pubDate": "Mon, 19 May 2025 20:21:10 GMT"
+    },
+    {
+      "title": "Trump and Putin talk more than 2 hours, but there's no Russia-Ukraine ceasefire - NPR",
+      "pubDate": "Mon, 19 May 2025 21:30:04 GMT"
     }
   ],
   "us_economy": [
@@ -411,6 +411,10 @@
     {
       "title": "US economy is outperforming all industrial peers on a GDP basis, economist says - Fox Business",
       "pubDate": "Mon, 19 May 2025 19:37:50 GMT"
+    },
+    {
+      "title": "Moody's downgrade of U.S. credit rating serves as a 'warning sign' for American economy - NBC News",
+      "pubDate": "Mon, 19 May 2025 20:31:42 GMT"
     }
   ],
   "us_politics": [
@@ -553,6 +557,10 @@
     {
       "title": "Federal judge overturns Trump\u2019s efforts to take over and cripple US Institute of Peace - News Channel 3-12",
       "pubDate": "Mon, 19 May 2025 17:33:45 GMT"
+    },
+    {
+      "title": "Tim Walz says Trump has been \u2018more effective\u2019 this term. He doesn\u2019t mean it nicely - The Independent",
+      "pubDate": "Mon, 19 May 2025 21:05:00 GMT"
     }
   ],
   "recession": [
@@ -667,6 +675,10 @@
     {
       "title": "10 States Worrying About a Recession the Most, According to Their Internet Searches - Yahoo Finance",
       "pubDate": "Mon, 19 May 2025 14:01:23 GMT"
+    },
+    {
+      "title": "Westport Farmers\u2019 Market a beacon of light amidst recession fears - Inklings News",
+      "pubDate": "Mon, 19 May 2025 21:36:10 GMT"
     }
   ],
   "trade_war": [
@@ -1019,6 +1031,10 @@
     {
       "title": "Zelensky says US should not distance itself from talks, as Russia says no timeline agreed - BBC",
       "pubDate": "Mon, 19 May 2025 20:06:01 GMT"
+    },
+    {
+      "title": "Trump says Vatican might host imminent Russia-Ukraine ceasefire talks - Catholic News Agency",
+      "pubDate": "Mon, 19 May 2025 21:25:00 GMT"
     }
   ],
   "brics": [
@@ -1243,6 +1259,12 @@
     {
       "title": "Israeli ground operations underway in Gaza, some food to be allowed in - The Washington Post",
       "pubDate": "Mon, 19 May 2025 03:34:19 GMT"
+    }
+  ],
+  "us_senate": [
+    {
+      "title": "US Senate Democratic leader proposes ban on foreign Air Force One planes - Reuters",
+      "pubDate": "Mon, 19 May 2025 20:53:35 GMT"
     }
   ]
 }
