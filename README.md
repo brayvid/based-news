@@ -73,14 +73,16 @@ Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQ
 Topic,Weight
 Technology,5
 Global Health,4
+...
 ```
 
 #### Keywords (scored 1-5)
 
 ```
 Keyword,Weight
-breakthrough,5
-emergency,4
+nuclear,5
+emergency,5
+...
 ```
 
 #### Overrides
@@ -88,7 +90,8 @@ emergency,4
 ```
 Override,Action
 buzzfeed,ban
-opinion,demote
+celebrity,demote
+...
 ```
 
 #### Parameters
@@ -134,7 +137,7 @@ The script overwrites `index.html` with a summary page that can be deployed to a
 If interrupted, the script may leave behind a lockfile (`based_news.lock`). Remove it manually if needed:
 
 ```bash
-rm newspagebot.lock
+rm based_news.lock
 ```
 
 ---
