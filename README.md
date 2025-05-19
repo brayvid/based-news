@@ -109,7 +109,7 @@ celebrity,demote
 ## Running the Script
 
 ```bash
-python3 newspagebot.py
+python3 based_news.py
 ```
 
 To run every hour:
@@ -121,7 +121,7 @@ crontab -e
 Example crontab entry:
 
 ```cron
-0 * * * * cd /path/to/newspagebot && /usr/bin/env python3 newspagebot.py >> /path/to/newspagebot/logs/newspagebot.log 2>&1
+0 * * * * cd /path/to/based_news && /usr/bin/env python3 based_news.py >> /path/to/based_news/logs/based_news.log 2>&1
 ```
 
 ---
