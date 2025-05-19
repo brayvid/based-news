@@ -126,12 +126,6 @@ Example crontab entry:
 
 ---
 
-## Output
-
-The script overwrites `index.html` with a summary page that can be deployed to any static host (e.g., Netlify). Use Netlify CLI or auto-deploy from Git for updates.
-
----
-
 ## Lockfile Notice
 
 If interrupted, the script may leave behind a lockfile (`based_news.lock`). Remove it manually if needed:
