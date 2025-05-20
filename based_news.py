@@ -544,11 +544,11 @@ def main():
             history[key] = history[key][-40:]
 
         # Clean old history
-        one_month_ago = datetime.now(ZONE) - timedelta(days=30)
+        two_weeks_ago = datetime.now(ZONE) - timedelta(days=15)
         for topic in list(history.keys()):
             history[topic] = [
                 a for a in history[topic]
-                if parsedate_to_datetime(a["pubDate"]).astimezone(ZONE) >= one_month_ago
+                if parsedate_to_datetime(a["pubDate"]).astimezone(ZONE) >= two_weeks_ago
             ]
 
         with open(HISTORY_FILE, "w") as f:
