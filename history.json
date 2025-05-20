@@ -1,10 +1,6 @@
 {
   "artificial_intelligence": [
     {
-      "title": "How OpenAI\u2019s o3 and o4-mini Models Are Revolutionizing Visual Analysis and Coding - Unite.AI",
-      "pubDate": "Sun, 18 May 2025 15:56:40 GMT"
-    },
-    {
       "title": "Artificial Intelligence (AI) Infrastructure Spend Could Hit $6.7 Trillion by 2030, According to McKinsey. 4 Data Center Stocks to Load Up on Right Now Like There's No Tomorrow. - The Motley Fool",
       "pubDate": "Sun, 18 May 2025 19:22:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "This Artificial Intelligence (AI) Chipmaker Just Got a Game-Changing Boost From Amazon, and Nvidia Investors Should Be Paying Close Attention - Yahoo Finance",
       "pubDate": "Tue, 20 May 2025 13:45:00 GMT"
+    },
+    {
+      "title": "Geospatial intelligence agency urges faster AI deployment - SpaceNews",
+      "pubDate": "Tue, 20 May 2025 15:00:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: Lawmakers discuss Trump's 'big, beautiful bill,' Qatari jet gift - The Hill",
-      "pubDate": "Sun, 18 May 2025 17:23:00 GMT"
-    },
     {
       "title": "'Profound issues': Mike Pence says it's a 'bad idea' for Donald Trump to accept Qatari jet - USA Today",
       "pubDate": "Sun, 18 May 2025 13:01:59 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump arrives on Capitol Hill to unify Republicans behind his tax and spending megabill \u2013 live - The Guardian",
       "pubDate": "Tue, 20 May 2025 09:34:00 GMT"
+    },
+    {
+      "title": "Trump told House GOP to stop negotiating and move ahead with his tax and spending cuts bill, sources say - CNN",
+      "pubDate": "Tue, 20 May 2025 15:33:00 GMT"
     }
   ],
   "us_economy": [
@@ -446,10 +446,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "\u2018Watch Me,\u2019 Biden Said. But Hearing Him in Hur Interview Is More Revealing. - The New York Times",
-      "pubDate": "Sat, 17 May 2025 20:34:53 GMT"
-    },
     {
       "title": "Trump Administration Abandons Fight to Ban Powerful Gun Accessory - The New York Times",
       "pubDate": "Sat, 17 May 2025 22:06:31 GMT"
@@ -605,6 +601,10 @@
     {
       "title": "\u2018This government was illegally run\u2019: Trump continues fixation on Biden\u2019s autopen and says he will investigate - The Independent",
       "pubDate": "Tue, 20 May 2025 14:08:00 GMT"
+    },
+    {
+      "title": "Trump crudely tells Kennedy Center crowd of political foes: \u2018I\u2019ll shove it up their a**!\u2019 - The Independent",
+      "pubDate": "Tue, 20 May 2025 15:18:00 GMT"
     }
   ],
   "recession": [
@@ -763,13 +763,13 @@
     {
       "title": "Billionaire Ken Fisher Warns Trump Tariffs Could Trigger Recession - MSN",
       "pubDate": "Tue, 20 May 2025 13:38:14 GMT"
+    },
+    {
+      "title": "Homebuyers Believe Recession Is On the Horizon\u2014But Some Hope it Will Make it Easier to Buy - Realtor.com",
+      "pubDate": "Tue, 20 May 2025 15:32:17 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump orders Walmart to \u2018eat the tariffs\u2019 and stop blaming his trade war for rising prices: \u2018I\u2019ll be watching\u2019 - The Independent",
-      "pubDate": "Sat, 17 May 2025 23:42:00 GMT"
-    },
     {
       "title": "The US and China are in more than a trade war - The Spectator",
       "pubDate": "Sun, 18 May 2025 04:30:00 GMT"
@@ -925,6 +925,10 @@
     {
       "title": "Choose France Summit: Indonesia eyes new markets and strategy to navigate Trump's trade war - France 24",
       "pubDate": "Tue, 20 May 2025 09:19:04 GMT"
+    },
+    {
+      "title": "U.S. Exporters Rethink Supply Chains Amid Trade War: Allianz Trade Survey - Supply & Demand Chain Executive",
+      "pubDate": "Tue, 20 May 2025 15:16:22 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -978,10 +982,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Caught between the U.S. and China, young people in Taiwan just want things to stay the same - NBC News",
-      "pubDate": "Sun, 18 May 2025 12:02:17 GMT"
-    },
     {
       "title": "China-US Trade Truce Prompts Nations to Consider Tougher Tactics - Bloomberg.com",
       "pubDate": "Sun, 18 May 2025 16:01:00 GMT"
@@ -1137,6 +1137,10 @@
     {
       "title": "Top US state Republicans urge SEC to consider delisting Chinese companies - Financial Times",
       "pubDate": "Tue, 20 May 2025 14:00:06 GMT"
+    },
+    {
+      "title": "China aims JY-27V radar at stealthy targets, such as US fifth-gen fighters - South China Morning Post",
+      "pubDate": "Tue, 20 May 2025 10:02:07 GMT"
     }
   ],
   "russia": [
@@ -1479,6 +1483,10 @@
     {
       "title": "Democrats Are Overperforming in 2025 Thanks to Trump and a Fresh Focus on Grassroots Organizing - The Nation",
       "pubDate": "Tue, 20 May 2025 10:37:35 GMT"
+    },
+    {
+      "title": "For these liberal women, the future of Democratic politics is still female - The Washington Post",
+      "pubDate": "Tue, 20 May 2025 15:39:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1505,6 +1513,12 @@
     {
       "title": "Senate advances a major crypto regulation bill on a bipartisan vote - NBC News",
       "pubDate": "Tue, 20 May 2025 01:35:00 GMT"
+    }
+  ],
+  "iran": [
+    {
+      "title": "Iran leader casts doubt on US nuclear talks, saying Tehran won't stop enrichment - ABC News",
+      "pubDate": "Tue, 20 May 2025 10:50:57 GMT"
     }
   ]
 }
