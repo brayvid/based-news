@@ -8,6 +8,7 @@ import logging
 from datetime import datetime
 from dotenv import load_dotenv
 import google.generativeai as genai
+import subprocess
 
 # --- Setup ---
 BASE_DIR = os.path.dirname(__file__)
@@ -90,6 +91,24 @@ try:
 except Exception as e:
     logging.error(f"Failed to write summary.html: {e}")
 
+# Git commit and push
+try:
+    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+    GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
+    REPO = "based-news"
+
+    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
+
+    subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "add", "public/summary.html"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+    logging.info("Digest and history committed and pushed to GitHub.")
+except Exception as e:
+    logging.error(f"Git commit/push failed: {e}")
+
+    
 # --- Cleanup ---
 if os.path.exists(LOCKFILE):
     os.remove(LOCKFILE)
