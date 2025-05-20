@@ -8,38 +8,62 @@
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
 <script defer>
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("digest.html")
+  // Load digest.html
+  fetch("digest.html")
     .then((res) => res.text())
     .then((html) => {
-        const parser = new DOMParser();
-        const digestDoc = parser.parseFromString(html, "text/html");
-        const digestContent = digestDoc.body.innerHTML;
+      const parser = new DOMParser();
+      const digestDoc = parser.parseFromString(html, "text/html");
+      const digestContent = digestDoc.body.innerHTML;
+      document.getElementById("news-digest").innerHTML = digestContent;
 
-        // Inject news content
-        document.getElementById("news-digest").innerHTML = digestContent;
-
-        // Move 'Last updated' to footer if present
-        const lastUpdated = digestDoc.getElementById("last-updated");
-        if (lastUpdated) {
-            const footerContainer = document.querySelector("footer .container");
-            const gitHubLink = footerContainer.querySelector("p");
-
-            const timeStamp = document.createElement("p");
-            timeStamp.className = "timestamp";
-            timeStamp.style.fontSize = "0.9em";
-            timeStamp.style.color = "#666";
-            timeStamp.style.marginBottom = "0.25em";
-            timeStamp.textContent = lastUpdated.textContent;
-
-            // Insert the timestamp *before* the GitHub <p>
-            footerContainer.insertBefore(timeStamp, gitHubLink);
-        }
+      const lastUpdated = digestDoc.getElementById("last-updated");
+      if (lastUpdated) {
+        const stamp = document.createElement("p");
+        stamp.className = "timestamp";
+        stamp.style.fontSize = "0.9em";
+        stamp.style.color = "#666";
+        stamp.style.marginTop = "0.5em";
+        stamp.textContent = lastUpdated.textContent;
+        stamp.style.textAlign = "center";
+        document.getElementById("news-digest").appendChild(stamp);
+      }
     })
     .catch(() => {
-        document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
+      document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
+    });
+
+  // Load summary.html
+  fetch("summary.html")
+    .then((res) => res.text())
+    .then((html) => {
+      const parser = new DOMParser();
+      const summaryDoc = parser.parseFromString(html, "text/html");
+      const summaryContent = summaryDoc.body.innerHTML;
+      document.getElementById("world-summary").innerHTML = `
+        <h2 class="summary-heading" style="margin-bottom: 0.5em;">Global Outlook</h2>
+        ${summaryContent}
+      `;
+
+      const lastUpdated = summaryDoc.getElementById("summary-last-updated");
+      if (lastUpdated) {
+        const stamp = document.createElement("p");
+        stamp.className = "timestamp";
+        stamp.style.fontSize = "0.9em";
+        stamp.style.color = "#666";
+        stamp.style.marginTop = "0.5em";
+        stamp.textContent = lastUpdated.textContent;
+        stamp.style.textAlign = "center";
+        document.getElementById("world-summary").appendChild(stamp);
+      }
+    })
+    .catch(() => {
+      document.getElementById("world-summary").innerHTML = "<p>Unable to load summary.</p>";
     });
 });
 </script>
+
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LC9EF8GSD"></script>
@@ -64,6 +88,10 @@ document.addEventListener("DOMContentLoaded", function () {
     <section id="news-digest">
       <!-- digest.html will be injected here -->
     </section>
+
+    <section id="world-summary">
+    <!-- summary.html will be injected here -->
+  </section>
   </main>
 
   <footer>

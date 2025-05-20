@@ -33,4 +33,5 @@ dist/
 .idea/
 
 
-newsbot.lock
+based_news.lock
+summary.lock

@@ -115,3 +115,11 @@ a:focus {
     text-decoration: none;
   }
 }
+
+.summary-heading {
+  font-family: 'Merriweather', serif;
+  font-size: 1.3em;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
