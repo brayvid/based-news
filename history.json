@@ -1,10 +1,6 @@
 {
   "artificial_intelligence": [
     {
-      "title": "Apple Users Ditch Google Search, Trump Praises Nvidia's Jensen Huang At Saudi Summit, SMCI Stock In 'Sweet Spot' And More: This Week In Artificial Intelligence - Benzinga",
-      "pubDate": "Sun, 18 May 2025 11:00:15 GMT"
-    },
-    {
       "title": "Musk\u2019s AI bot Grok blames its Holocaust scepticism on \u2018programming error\u2019 - The Guardian",
       "pubDate": "Sun, 18 May 2025 14:45:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Fortnite faces complaint from actors' union over AI Darth Vader - BBC",
       "pubDate": "Tue, 20 May 2025 10:36:25 GMT"
+    },
+    {
+      "title": "AI Advances Are Accelerating, and We\u2019re Not Ready - Bloomberg.com",
+      "pubDate": "Tue, 20 May 2025 12:30:00 GMT"
     }
   ],
   "donald_trump": [
@@ -443,10 +443,6 @@
   ],
   "us_politics": [
     {
-      "title": "\"Good God. This Is Pure Evil\": 26 Very Harsh But Very True Tweets About American Politics This Week - Yahoo",
-      "pubDate": "Sat, 17 May 2025 16:55:38 GMT"
-    },
-    {
       "title": "\u2018Eddington\u2019 star Pedro Pascal on US politics: \u201cF**k the people that try to make you scared\u201d - Screen Daily",
       "pubDate": "Sat, 17 May 2025 15:22:30 GMT"
     },
@@ -601,6 +597,10 @@
     {
       "title": "After a political career shaped by cancer, ex-US President Biden faces his own grim diagnosis - The New Indian Express",
       "pubDate": "Tue, 20 May 2025 06:37:48 GMT"
+    },
+    {
+      "title": "US hostage envoy: \u2018We\u2019re closer than we ever were\u2019 to a deal with Hamas - Jewish Telegraphic Agency",
+      "pubDate": "Tue, 20 May 2025 11:49:29 GMT"
     }
   ],
   "recession": [
@@ -747,13 +747,13 @@
     {
       "title": "Housing Market Surprise: New Survey Reveals Why Recession Could Actually Boost Home Buying - Stock Titan",
       "pubDate": "Tue, 20 May 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Morgan Stanley Sees Bank M&A Picking Up as Recession Risks Fade - Bloomberg.com",
+      "pubDate": "Tue, 20 May 2025 11:47:09 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "The whiplash of covering the trade war from inside China - NPR",
-      "pubDate": "Sat, 17 May 2025 15:58:40 GMT"
-    },
     {
       "title": "Exclusive: Some Chinese companies eye Singapore listings to expand markets amid trade war - Reuters",
       "pubDate": "Sat, 17 May 2025 23:04:17 GMT"
@@ -909,6 +909,10 @@
     {
       "title": "On the front line: what a trade war means for one US importer - Yahoo Finance",
       "pubDate": "Tue, 20 May 2025 07:42:32 GMT"
+    },
+    {
+      "title": "Americans could soon see price hikes thanks to Trump\u2019s trade war. Here are 5 items to stock up on - Yahoo Finance",
+      "pubDate": "Tue, 20 May 2025 10:03:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -954,10 +958,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump lowered tariffs on China. Here\u2019s why that won\u2019t spare Americans from price hikes and shortages - CNN",
-      "pubDate": "Sun, 18 May 2025 09:00:00 GMT"
-    },
     {
       "title": "Pilotless planes are taking flight in China. Bank of America says it's time to buy - CNBC",
       "pubDate": "Sun, 18 May 2025 13:03:00 GMT"
@@ -1113,6 +1113,10 @@
     {
       "title": "China Ran Record Budget Deficit With Spending Blitz Amid Tariffs - Bloomberg.com",
       "pubDate": "Tue, 20 May 2025 10:45:15 GMT"
+    },
+    {
+      "title": "Taiwan president pledges peace with China but says island must strengthen defences - Reuters",
+      "pubDate": "Tue, 20 May 2025 12:09:48 GMT"
     }
   ],
   "russia": [
@@ -1175,6 +1179,10 @@
     {
       "title": "New EU sanctions target Russia\u2019s shadow fleet of tankers illicitly transporting oil and gas - WTOP",
       "pubDate": "Tue, 20 May 2025 11:43:22 GMT"
+    },
+    {
+      "title": "Russia Classifies Population Data as Birth Rates Plunge to 200-Year Low - Newsweek",
+      "pubDate": "Tue, 20 May 2025 07:56:02 GMT"
     }
   ],
   "brics": [
@@ -1287,6 +1295,10 @@
     {
       "title": "\"Zero-Knowledge Proof Technology Can Secure AI Reliability and Safety\" [Coin Interview] - bloomingbit",
       "pubDate": "Tue, 20 May 2025 04:49:33 GMT"
+    },
+    {
+      "title": "Mounting GenAI Cyber Risks Spur Investment in AI Security - Infosecurity Magazine",
+      "pubDate": "Tue, 20 May 2025 12:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1349,6 +1361,10 @@
     {
       "title": "Bitcoin and Gold in Sweet Spot As Bond Market 'Smackdown' Exposes the U.S. Fiscal Kayfabe: Godbole - CoinDesk",
       "pubDate": "Tue, 20 May 2025 07:53:33 GMT"
+    },
+    {
+      "title": "This Morgan Stanley investor warns of three big disconnects with stocks on the verge of a bull market - MarketWatch",
+      "pubDate": "Tue, 20 May 2025 10:55:00 GMT"
     }
   ],
   "ukraine": [
