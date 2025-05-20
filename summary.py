@@ -3,12 +3,16 @@
 import os
 import sys
 import json
-import re
 import logging
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 import google.generativeai as genai
 import subprocess
+import requests
+import csv
+
+CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 
 # --- Setup ---
 BASE_DIR = os.path.dirname(__file__)
@@ -33,6 +37,45 @@ logging.info(f"Summary started at {datetime.now()}")
 # --- Load environment ---
 load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+# Loads key-value config settings from a CSV Google Sheet URL.
+def load_config_from_sheet(url):
+    config = {}
+    try:
+        response = requests.get(url, timeout=15)
+        response.raise_for_status()
+        lines = response.text.splitlines()
+        reader = csv.reader(lines)
+        next(reader, None)  # skip header
+        for row in reader:
+            if len(row) >= 2:
+                key = row[0].strip()
+                val = row[1].strip()
+                try:
+                    if '.' in val:
+                        config[key] = float(val)
+                    else:
+                        config[key] = int(val)
+                except ValueError:
+                    config[key] = val  # fallback to string
+        return config
+    except Exception as e:
+        logging.error(f"Failed to load config from {url}: {e}")
+        return None
+
+# Load config before main
+CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
+if CONFIG is None:
+    logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
+    sys.exit(1)  # Stop immediately if config fails
+
+# Load specified timezone to report in
+USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
+try:
+    ZONE = ZoneInfo(USER_TIMEZONE)
+except Exception:
+    logging.warning(f"Invalid TIMEZONE '{USER_TIMEZONE}' in config. Falling back to 'America/New_York'")
+    ZONE = ZoneInfo("America/New_York")
 
 # --- Load history ---
 try:
@@ -74,7 +117,7 @@ except Exception as e:
 
 # --- Format HTML output ---
 formatted = answer.replace('\n', '<br>')
-timestamp = datetime.now().strftime("%A, %d %B %Y at %I:%M %p %Z")
+timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
 html_output = f"""<html>
   <body>
     <p>{formatted}</p>
