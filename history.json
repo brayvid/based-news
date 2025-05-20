@@ -1,10 +1,6 @@
 {
   "artificial_intelligence": [
     {
-      "title": "Nvidia's Huang set to showcase latest AI tech at Taiwan's Computex - Reuters",
-      "pubDate": "Sun, 18 May 2025 23:04:40 GMT"
-    },
-    {
       "title": "Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare - CBS News",
       "pubDate": "Sun, 18 May 2025 23:00:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Few politicians ask critical questions about artificial intelligence - Phys.org",
       "pubDate": "Tue, 20 May 2025 20:00:34 GMT"
+    },
+    {
+      "title": "California state lawmakers ask Congress not to ban their AI laws - San Francisco Chronicle",
+      "pubDate": "Tue, 20 May 2025 21:13:56 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "The secretive US factory that lays bare the contradiction in Trump's America First plan - BBC",
-      "pubDate": "Sun, 18 May 2025 21:55:21 GMT"
-    },
     {
       "title": "Harvard, jousting with Trump, found a real Magna Carta. It\u2019s a grand coincidence - The Guardian",
       "pubDate": "Sun, 18 May 2025 18:43:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump unveils plans for 'Golden Dome' missile defence system - BBC",
       "pubDate": "Tue, 20 May 2025 20:33:07 GMT"
+    },
+    {
+      "title": "Trump Says 'Big Adversary' Admitted He'd Tried And Failed To Replicate Silicon Valley - Newsweek",
+      "pubDate": "Tue, 20 May 2025 20:59:20 GMT"
     }
   ],
   "us_economy": [
@@ -463,13 +463,13 @@
     {
       "title": "Budget bill could block renewable energy boost to U.S. economy - Solar Builder",
       "pubDate": "Tue, 20 May 2025 17:57:37 GMT"
+    },
+    {
+      "title": "Dollar falls on more downbeat Fed comments; focus on Japan talks, House vote - Reuters",
+      "pubDate": "Tue, 20 May 2025 20:21:45 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "This land is their land: Trump is selling out the US\u2019s beloved wilderness - The Guardian",
-      "pubDate": "Sun, 18 May 2025 13:00:00 GMT"
-    },
     {
       "title": "The future of history: Trump could leave less documentation behind than any previous US president - newspressnow.com",
       "pubDate": "Sun, 18 May 2025 15:58:06 GMT"
@@ -625,13 +625,13 @@
     {
       "title": "Meet the Biden \u2018politburo\u2019 accused of running the country in secret - The Times",
       "pubDate": "Tue, 20 May 2025 18:00:07 GMT"
+    },
+    {
+      "title": "DOGE sought access to Government Publishing Office - Politico",
+      "pubDate": "Tue, 20 May 2025 19:02:14 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Russian economy faces downturn: Recession fears intensify - MSN",
-      "pubDate": "Sat, 17 May 2025 22:58:06 GMT"
-    },
     {
       "title": "JPMorgan Sees Slow Growth Ahead But No Recession in 2025 - Cryptodnes.bg",
       "pubDate": "Sun, 18 May 2025 07:50:02 GMT"
@@ -787,13 +787,13 @@
     {
       "title": "Most homebuyers see a recession ahead. Some are even asking for it - Inman",
       "pubDate": "Tue, 20 May 2025 19:47:14 GMT"
+    },
+    {
+      "title": "Souring sentiment signals recession: Fitch - Investment Executive",
+      "pubDate": "Tue, 20 May 2025 19:08:43 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump\u2019s tariffs are failing, but the old model won\u2019t save us either - Al Jazeera",
-      "pubDate": "Sun, 18 May 2025 11:04:54 GMT"
-    },
     {
       "title": "This pause in the trade war will be brief. Small businesses, plan accordingly - The Guardian",
       "pubDate": "Sun, 18 May 2025 11:00:00 GMT"
@@ -949,6 +949,10 @@
     {
       "title": "Kansas businesses hit by Trump\u2019s trade war are wooing Canadian customers - CityNews Halifax",
       "pubDate": "Tue, 20 May 2025 17:49:17 GMT"
+    },
+    {
+      "title": "Shipping Stands to Benefit from the US-China Trade War Truce - Hellenic Shipping News",
+      "pubDate": "Tue, 20 May 2025 21:07:49 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1014,10 +1018,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's April retail sales growth of 5.1% misses expectations as consumption remains a worry - CNBC",
-      "pubDate": "Mon, 19 May 2025 02:09:00 GMT"
-    },
     {
       "title": "China Tells Officials to Rein in Alcohol, Cigarette Spending - Bloomberg.com",
       "pubDate": "Mon, 19 May 2025 02:55:00 GMT"
@@ -1173,6 +1173,10 @@
     {
       "title": "China\u2019s battery giant eyes world domination - The Economist",
       "pubDate": "Tue, 20 May 2025 18:22:59 GMT"
+    },
+    {
+      "title": "Taiwan president calls for peace and dialogue with China amid heightened military activity - The Guardian",
+      "pubDate": "Tue, 20 May 2025 18:47:00 GMT"
     }
   ],
   "russia": [
@@ -1247,6 +1251,10 @@
     {
       "title": "Russia opens criminal case against journalist critical of Ukraine war - Reuters",
       "pubDate": "Tue, 20 May 2025 18:21:56 GMT"
+    },
+    {
+      "title": "UK Sanctions British Accountant for Alleged Russia Ship Deals - Bloomberg",
+      "pubDate": "Tue, 20 May 2025 20:44:54 GMT"
     }
   ],
   "brics": [
