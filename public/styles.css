@@ -106,3 +106,12 @@ a:focus {
     font-size: 0.95em;
   }
 }
+
+
+@media (hover: none) and (pointer: coarse) {
+  a:hover,
+  a:focus {
+    color: #003366; /* Original link color */
+    text-decoration: none;
+  }
+}
