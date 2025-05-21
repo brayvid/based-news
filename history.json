@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump health cuts create \u2018real danger\u2019 around disease outbreaks, workers warn - The Guardian",
-      "pubDate": "Sun, 11 May 2025 09:01:00 GMT"
-    },
-    {
       "title": "Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar: Sources - ABC News",
       "pubDate": "Sun, 11 May 2025 11:05:35 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "These 7 executive actions show how Trump wants to reshape American history - NPR",
       "pubDate": "Wed, 21 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Live updates: Trump goes to Capitol Hill to push for his sweeping tax and spending bill | CNN Politics - CNN",
+      "pubDate": "Wed, 21 May 2025 09:15:00 GMT"
     }
   ],
   "ukraine": [
@@ -220,10 +220,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "CIOs prepare for recession with greater cost control - Computer Weekly",
-      "pubDate": "Tue, 06 May 2025 11:30:20 GMT"
-    },
     {
       "title": "RSM chief economist: \u2018Recession will start on the docks of Los Angeles\u2019 - Fortune",
       "pubDate": "Tue, 06 May 2025 16:12:00 GMT"
@@ -477,6 +473,10 @@
     {
       "title": "Putin makes first visit to Kursk since Russia claimed to have recaptured the region - CNN",
       "pubDate": "Wed, 21 May 2025 06:36:00 GMT"
+    },
+    {
+      "title": "Six Ukrainian soldiers killed in Russian missile strike during training exercise - BBC",
+      "pubDate": "Wed, 21 May 2025 08:32:57 GMT"
     }
   ],
   "israel": [
@@ -544,10 +544,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence voice gender, gender role congruity, and trust in automated vehicles - Nature",
-      "pubDate": "Sun, 11 May 2025 03:10:57 GMT"
-    },
     {
       "title": "Vyvo COO: AI's Next Step - Becoming a Tool for Self-Awareness - Bitcoin.com News",
       "pubDate": "Sun, 11 May 2025 06:30:50 GMT"
@@ -703,6 +699,10 @@
     {
       "title": "Billionaire Stanley Druckenmiller Dumped Shares of Nvidia and Palantir and Is Loading Up on His New Favorite Artificial Intelligence (AI) Stock - Yahoo Finance",
       "pubDate": "Wed, 21 May 2025 07:51:00 GMT"
+    },
+    {
+      "title": "Google AI Advances Cheered by Wall Street. Why the Stock Reaction Is Less Bullish. - Barron's",
+      "pubDate": "Wed, 21 May 2025 11:09:00 GMT"
     }
   ],
   "public_health": [],
@@ -758,6 +758,10 @@
     {
       "title": "European capital markets reform could unlock trillions in investment - Top1000funds.com",
       "pubDate": "Wed, 21 May 2025 08:22:13 GMT"
+    },
+    {
+      "title": "Morning Bid: Bad week for bonds - Reuters",
+      "pubDate": "Wed, 21 May 2025 11:05:46 GMT"
     }
   ],
   "renewable_energy": [
@@ -992,10 +996,6 @@
   ],
   "china": [
     {
-      "title": "Tesla's China-made EV sales fall 6% y/y in April as woes deepen - Reuters",
-      "pubDate": "Thu, 08 May 2025 03:24:07 GMT"
-    },
-    {
       "title": "China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters",
       "pubDate": "Wed, 07 May 2025 23:53:05 GMT"
     },
@@ -1150,6 +1150,10 @@
     {
       "title": "US chip export controls are a \u2018failure\u2019 because they spur Chinese development, Nvidia boss says - The Guardian",
       "pubDate": "Wed, 21 May 2025 05:25:00 GMT"
+    },
+    {
+      "title": "China 'seriously concerned' over US Golden Dome defence system - Reuters",
+      "pubDate": "Wed, 21 May 2025 08:33:05 GMT"
     }
   ],
   "solar_power": [],
@@ -1286,6 +1290,10 @@
     {
       "title": "Short-Circuited: How Semiconductor Tariffs Would Harm the U.S. Economy and Digital Industry Leadership - Information Technology and Innovation Foundation (ITIF)",
       "pubDate": "Wed, 21 May 2025 10:04:52 GMT"
+    },
+    {
+      "title": "Even After Moody\u2019s, \u2018US Is the US\u2019 for Sovereign Wealth Funds - Bloomberg.com",
+      "pubDate": "Wed, 21 May 2025 11:00:15 GMT"
     }
   ],
   "terrorism": [
@@ -1465,6 +1473,10 @@
     {
       "title": "Opinion | Hong Kong firms must take initiative on safe AI practices - South China Morning Post",
       "pubDate": "Wed, 21 May 2025 08:30:08 GMT"
+    },
+    {
+      "title": "The Time Sam Altman Asked for a Countersurveillance Audit of OpenAI - WIRED",
+      "pubDate": "Wed, 21 May 2025 11:00:00 GMT"
     }
   ],
   "finance": [],
@@ -1612,6 +1624,10 @@
     {
       "title": "Democrats call for investigation into Elon Musk\u2019s Golden Dome bid - The Independent",
       "pubDate": "Wed, 21 May 2025 09:54:00 GMT"
+    },
+    {
+      "title": "Trump Squeezes His Party on Domestic Policy Bill as G.O.P. Hunts for Votes - The New York Times",
+      "pubDate": "Wed, 21 May 2025 08:25:00 GMT"
     }
   ],
   "brics": [
