@@ -1,10 +1,6 @@
 {
   "artificial_intelligence": [
     {
-      "title": "Beyond browsing: How artificial intelligence is reshaping online retail - London Daily News",
-      "pubDate": "Mon, 19 May 2025 00:02:11 GMT"
-    },
-    {
       "title": "Why it pays to use AI on the sly at work - AFR",
       "pubDate": "Mon, 19 May 2025 01:21:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Google unleashes \u2018A.I. Mode' in the next phase of its journey to change search - NBC Bay Area",
       "pubDate": "Tue, 20 May 2025 18:49:23 GMT"
+    },
+    {
+      "title": "Google I/O 2025 recap: Pichai unveils Google Beam, Android XR glasses, Gemini AI advances, deep search - NBC News",
+      "pubDate": "Tue, 20 May 2025 19:10:09 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "May 18, 2025: Donald Trump presidency news - CNN",
-      "pubDate": "Mon, 19 May 2025 00:14:00 GMT"
-    },
     {
       "title": "Obama, Trump, Harris and other political leaders react to Biden's cancer diagnosis - ABC News",
       "pubDate": "Sun, 18 May 2025 22:07:30 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Live updates: US immigration authorities appear to have begun deporting migrants to South Sudan, attorneys say - AP News",
       "pubDate": "Tue, 20 May 2025 22:25:00 GMT"
+    },
+    {
+      "title": "Trump administration live updates: President urges House Republicans to pass budget bill; RFK Jr. grilled on health cuts - NBC News",
+      "pubDate": "Tue, 20 May 2025 23:20:59 GMT"
     }
   ],
   "us_economy": [
@@ -637,10 +637,6 @@
   ],
   "recession": [
     {
-      "title": "Emergency savings are crucial in a recession. Here's the dollar figure to aim for. - USA Today",
-      "pubDate": "Sun, 18 May 2025 09:07:43 GMT"
-    },
-    {
       "title": "\u2018Almost in a Recession\u2019: Fox Reporter Raises Red Flag on Trump - MSN",
       "pubDate": "Sun, 18 May 2025 15:30:45 GMT"
     },
@@ -795,6 +791,10 @@
     {
       "title": "Billionaire Ray Dalio warns about the consequences of Trump\u2019s tariffs: They could cause something \u201cmuch worse - Diario AS",
       "pubDate": "Tue, 20 May 2025 22:28:06 GMT"
+    },
+    {
+      "title": "CNBC Flash Fed survey finds recession outlook has dipped slightly after China talks - CNBC",
+      "pubDate": "Tue, 20 May 2025 21:32:44 GMT"
     }
   ],
   "trade_war": [
@@ -1023,10 +1023,6 @@
   ],
   "china": [
     {
-      "title": "Brazil hopes China, other countries may loosen trade bans over bird flu - Reuters",
-      "pubDate": "Mon, 19 May 2025 03:10:00 GMT"
-    },
-    {
       "title": "China's retail sales disappoint as stimulus fails to spur demand; industrial output defies tariffs - CNBC",
       "pubDate": "Mon, 19 May 2025 02:09:00 GMT"
     },
@@ -1181,6 +1177,10 @@
     {
       "title": "Congo Gambles on Cobalt as US-China Metals Fight Heats Up - Bloomberg.com",
       "pubDate": "Tue, 20 May 2025 21:00:00 GMT"
+    },
+    {
+      "title": "China launches classified comms satellite, conducts commercial sea launch - SpaceNews",
+      "pubDate": "Tue, 20 May 2025 18:35:48 GMT"
     }
   ],
   "russia": [
@@ -1465,6 +1465,10 @@
     {
       "title": "House Budget Bill Creates Awkward Moment for Markets - Bloomberg.com",
       "pubDate": "Tue, 20 May 2025 16:15:46 GMT"
+    },
+    {
+      "title": "Jamie Dimon warns of stock-market \u2018complacency\u2019 as investors keep shaking off bad news. Strategists see evidence he\u2019s right. - MarketWatch",
+      "pubDate": "Tue, 20 May 2025 19:39:00 GMT"
     }
   ],
   "ukraine": [
@@ -1603,6 +1607,10 @@
     {
       "title": "Iran leader casts doubt on US nuclear talks, saying Tehran won't stop enrichment - ABC News",
       "pubDate": "Tue, 20 May 2025 10:50:57 GMT"
+    },
+    {
+      "title": "New intelligence suggests Israel is preparing possible strike on Iranian nuclear facilities, US officials say - CNN",
+      "pubDate": "Tue, 20 May 2025 22:01:00 GMT"
     }
   ]
 }
