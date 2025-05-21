@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration considering suspending habeas corpus - BBC",
-      "pubDate": "Sat, 10 May 2025 08:50:44 GMT"
-    },
-    {
       "title": "Trump Is Obsessed With His Last Campaign: The Midterms - Politico",
       "pubDate": "Sat, 10 May 2025 14:00:00 GMT"
     },
@@ -158,6 +154,10 @@
     },
     {
       "title": "IMF urges US to curb deficit as Trump tax cut plan stirs debt fears - Financial Times",
+      "pubDate": "Wed, 21 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "South Africa\u2019s Ramaphosa visits Trump for high-stakes talks that could reset or worsen fraught ties - CNN",
       "pubDate": "Wed, 21 May 2025 04:00:00 GMT"
     }
   ],
@@ -347,6 +347,10 @@
     {
       "title": "Recession Odds Slip Below 40% On Crypto Betting Marketplace As Trump Tariff Fears Fade After China Deal - Benzinga",
       "pubDate": "Wed, 21 May 2025 05:32:22 GMT"
+    },
+    {
+      "title": "'We don't have a recession in our baseline, odds are higher than they were': Northern Trust Chief Economist - MSN",
+      "pubDate": "Wed, 21 May 2025 08:11:16 GMT"
     }
   ],
   "russia": [
@@ -541,10 +545,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI firms warned to calculate threat of super intelligence or risk it escaping human control - The Guardian",
-      "pubDate": "Sat, 10 May 2025 11:29:00 GMT"
-    },
-    {
       "title": "Wave of job losses hits tech sector as AI makes human roles more dispensable - TechRadar",
       "pubDate": "Sat, 10 May 2025 17:32:00 GMT"
     },
@@ -699,14 +699,14 @@
     {
       "title": "Alphabet Just Made a Moonshot Stock One of Its Biggest Investments and Dumped 83% of Its Stake in a High-Flying Artificial Intelligence (AI) Giant - The Motley Fool",
       "pubDate": "Wed, 21 May 2025 04:49:00 GMT"
+    },
+    {
+      "title": "Federal bill could affect TN\u2019s regulations on artificial intelligence - WKRN News 2",
+      "pubDate": "Wed, 21 May 2025 03:18:33 GMT"
     }
   ],
   "public_health": [],
   "financial_markets": [
-    {
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq to open lower as rally stalls; Fed to start 2-day meeting; Palantir shares dive after earnings - MarketWatch",
-      "pubDate": "Tue, 06 May 2025 08:45:00 GMT"
-    },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with US-China trade talks, Fed rate call in focus - Yahoo Finance",
       "pubDate": "Wed, 07 May 2025 08:49:41 GMT"
@@ -754,6 +754,10 @@
     {
       "title": "USD/JPY, USD/CHF: Cracks Widen After Trend Breaks - FOREX.com",
       "pubDate": "Wed, 21 May 2025 05:58:42 GMT"
+    },
+    {
+      "title": "European capital markets reform could unlock trillions in investment - Top1000funds.com",
+      "pubDate": "Wed, 21 May 2025 08:22:13 GMT"
     }
   ],
   "renewable_energy": [
@@ -825,10 +829,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "America\u2019s trading partners have a massive bazooka in the trade war. They may never use it - CNN",
-      "pubDate": "Tue, 06 May 2025 14:29:00 GMT"
-    },
     {
       "title": "US stocks sink again as more companies detail damage they're taking because of Trump's trade war - Los Angeles Times",
       "pubDate": "Tue, 06 May 2025 21:48:26 GMT"
@@ -984,13 +984,13 @@
     {
       "title": "Trump Approval Polls: Favorability Rises Following Tariff Reprieve, Middle East Tour - Forbes",
       "pubDate": "Wed, 21 May 2025 05:32:52 GMT"
+    },
+    {
+      "title": "Canadians Fear Trump\u2019s Tariffs Will Create a \u2018Ghost Town\u2019 in Ontario - The New York Times",
+      "pubDate": "Wed, 21 May 2025 07:33:05 GMT"
     }
   ],
   "china": [
-    {
-      "title": "US-China Trade: Trump Says He Won\u2019t Lower China Tariffs to Jump-Start Talks - Bloomberg.com",
-      "pubDate": "Wed, 07 May 2025 18:24:37 GMT"
-    },
     {
       "title": "China touts new law as foundation for private sector growth - South China Morning Post",
       "pubDate": "Thu, 08 May 2025 02:29:57 GMT"
@@ -1146,6 +1146,10 @@
     {
       "title": "US and China are already feuding again after unexpected trade truce - CNN",
       "pubDate": "Wed, 21 May 2025 06:23:00 GMT"
+    },
+    {
+      "title": "Nvidia CEO praises Trump move to scrap some AI export curbs - Reuters",
+      "pubDate": "Wed, 21 May 2025 05:06:00 GMT"
     }
   ],
   "solar_power": [],
@@ -1274,6 +1278,10 @@
     {
       "title": "Billionaire Ray Dalio has strong reaction to US debt rating cut - TheStreet",
       "pubDate": "Wed, 21 May 2025 02:14:27 GMT"
+    },
+    {
+      "title": "Insights | U.S. tariff policies will backfire on its domestic economy: Filipino scholar - Ecns.cn",
+      "pubDate": "Wed, 21 May 2025 07:56:02 GMT"
     }
   ],
   "terrorism": [
@@ -1441,6 +1449,10 @@
     {
       "title": "NY lawmakers push AI safety bills - NEWS10 ABC",
       "pubDate": "Tue, 20 May 2025 20:57:20 GMT"
+    },
+    {
+      "title": "Opinion | Hong Kong firms must take initiative on safe AI practices - South China Morning Post",
+      "pubDate": "Wed, 21 May 2025 08:30:08 GMT"
     }
   ],
   "finance": [],
@@ -1576,6 +1588,10 @@
     {
       "title": "Fifth US prisoner recaptured after jailbreak - News.com.au",
       "pubDate": "Wed, 21 May 2025 04:07:30 GMT"
+    },
+    {
+      "title": "DOJ investigates former governor Andrew Cuomo over pandemic testimony - The Independent",
+      "pubDate": "Wed, 21 May 2025 08:31:00 GMT"
     }
   ],
   "brics": [
