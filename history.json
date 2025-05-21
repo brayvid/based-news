@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's float of a tax hike for the wealthy quickly runs into GOP resistance - NBC News",
-      "pubDate": "Fri, 09 May 2025 20:05:06 GMT"
-    },
-    {
       "title": "Trump floats raising taxes on the rich to pay for his sweeping tax and spending cuts package - CNN",
       "pubDate": "Fri, 09 May 2025 22:15:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump tax-cut bill faces rare overnight stress test with US House Republicans - Reuters",
       "pubDate": "Wed, 21 May 2025 05:19:22 GMT"
+    },
+    {
+      "title": "Trump details plan to build \u2018Golden Dome\u2019 missile shield by end of term - CNN",
+      "pubDate": "Wed, 21 May 2025 04:22:00 GMT"
     }
   ],
   "ukraine": [
@@ -220,10 +220,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "These Economists Decide Whether the U.S. Had a Recession. There\u2019s No Sign Yet. - Barron's",
-      "pubDate": "Tue, 06 May 2025 06:30:00 GMT"
-    },
     {
       "title": "CIOs prepare for recession with greater cost control - Computer Weekly",
       "pubDate": "Tue, 06 May 2025 11:30:20 GMT"
@@ -347,13 +343,13 @@
     {
       "title": "This Warren Buffett Dividend Stock Looks Attractive for a Recession-Proof Portfolio - Insider Monkey",
       "pubDate": "Wed, 21 May 2025 04:40:33 GMT"
+    },
+    {
+      "title": "Recession Odds Slip Below 40% On Crypto Betting Marketplace As Trump Tariff Fears Fade After China Deal - Benzinga",
+      "pubDate": "Wed, 21 May 2025 05:32:22 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine-Russia war latest: Moscow airports shut as \u2018more than 100 drones\u2019 attack Russia ahead of Putin\u2019s parade - The Independent",
-      "pubDate": "Tue, 06 May 2025 06:31:00 GMT"
-    },
     {
       "title": "Ukraine Destroys Rare Russian Naval Radar-on-Wheels: Video - Newsweek",
       "pubDate": "Tue, 06 May 2025 09:37:56 GMT"
@@ -537,10 +533,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI System Can Predict Cancer Survival Prognosis Better Than Doctors, Researchers Say - PYMNTS.com",
-      "pubDate": "Fri, 09 May 2025 19:29:16 GMT"
-    },
-    {
       "title": "Memphis Command Center Uses AI to Enhance Emergency Response - GovTech",
       "pubDate": "Fri, 09 May 2025 23:00:27 GMT"
     },
@@ -695,6 +687,10 @@
     {
       "title": "CNBC Daily Open: Artificial intelligence is still key to markets despite tariffs overshadowing the technology - CNBC",
       "pubDate": "Wed, 21 May 2025 01:07:00 GMT"
+    },
+    {
+      "title": "Report: Apple to Let Third-Party Developers Use Its AI Models - PYMNTS.com",
+      "pubDate": "Wed, 21 May 2025 01:52:30 GMT"
     }
   ],
   "public_health": [],
@@ -742,6 +738,10 @@
     {
       "title": "BNP Paribas Financial Markets Increases Position in British American Tobacco p.l.c. (NYSE:BTI) - MarketBeat",
       "pubDate": "Wed, 21 May 2025 05:52:47 GMT"
+    },
+    {
+      "title": "Asset Tokenization in Financial Markets: The Next Generation of Value Exchange - The World Economic Forum",
+      "pubDate": "Wed, 21 May 2025 04:24:26 GMT"
     }
   ],
   "renewable_energy": [
@@ -976,10 +976,6 @@
   ],
   "china": [
     {
-      "title": "AMD CEO Lisa Su calls China a 'large opportunity' and warns against strict U.S. chip controls - CNBC",
-      "pubDate": "Wed, 07 May 2025 16:24:34 GMT"
-    },
-    {
       "title": "China's Xi arrives in Moscow in show of support for Putin after Ukrainian drones target capital - Reuters",
       "pubDate": "Wed, 07 May 2025 17:47:46 GMT"
     },
@@ -1134,6 +1130,10 @@
     {
       "title": "China warns of legal consequences to those involved in US chip measures - Reuters",
       "pubDate": "Wed, 21 May 2025 01:30:00 GMT"
+    },
+    {
+      "title": "China slams new US chip curbs as 'bullying,' vows response - France 24",
+      "pubDate": "Wed, 21 May 2025 02:09:23 GMT"
     }
   ],
   "solar_power": [],
@@ -1143,12 +1143,7 @@
       "pubDate": "Fri, 09 May 2025 16:37:00 GMT"
     }
   ],
-  "world_news": [
-    {
-      "title": "Hamas no longer interested in truce talks after Israel\u2019s new Gaza plan, senior official says \u2013 Israel-Gaza war live - The Guardian",
-      "pubDate": "Tue, 06 May 2025 06:27:00 GMT"
-    }
-  ],
+  "world_news": [],
   "health_care": [],
   "united_states": [],
   "health": [],
@@ -1361,10 +1356,6 @@
   "drones": [],
   "hamas": [
     {
-      "title": "Top Hamas official: 'No sense' in hostage-ceasefire talks while 'hunger war' continues in Gaza - The Times of Israel",
-      "pubDate": "Tue, 06 May 2025 06:39:08 GMT"
-    },
-    {
       "title": "Hamas warns Israeli plans to expand Gaza assault mean 'sacrificing' captives - Middle East Eye",
       "pubDate": "Tue, 06 May 2025 14:40:00 GMT"
     },
@@ -1403,10 +1394,6 @@
   ],
   "climate": [],
   "ai_safety": [
-    {
-      "title": "Focusing AI Governance on Qualitative Capability Leaps - The Regulatory Review",
-      "pubDate": "Tue, 06 May 2025 06:33:45 GMT"
-    },
     {
       "title": "Singapore\u2019s Vision for AI Safety Bridges the US-China Divide - WIRED",
       "pubDate": "Thu, 08 May 2025 00:00:00 GMT"
