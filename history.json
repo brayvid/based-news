@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump seeks to lower drug prices in U.S. by pressing other countries to pay more - The Washington Post",
-      "pubDate": "Mon, 12 May 2025 21:15:58 GMT"
-    },
-    {
       "title": "Trump\u2019s gifted Qatari 747 would be a security problem, officials say - The Washington Post",
       "pubDate": "Tue, 13 May 2025 03:04:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump, Musk to confront South Africa's president on treatment of white Afrikaners - ABC News",
       "pubDate": "Wed, 21 May 2025 13:52:30 GMT"
+    },
+    {
+      "title": "Trump's big tax and policy bill stalls as GOP conservatives push for changes - USA Today",
+      "pubDate": "Wed, 21 May 2025 16:12:10 GMT"
     }
   ],
   "ukraine": [
@@ -216,10 +216,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "RSM chief economist: \u2018Recession will start on the docks of Los Angeles\u2019 - Fortune",
-      "pubDate": "Tue, 06 May 2025 16:12:00 GMT"
-    },
     {
       "title": "The price gap between oil and gold points to a recession and $4,000 gold - Bloomberg\u2019s Mike McGlone - KITCO",
       "pubDate": "Tue, 06 May 2025 18:24:41 GMT"
@@ -363,13 +359,13 @@
     {
       "title": "BRP Inc.: Already Priced For An Extended Recession (NASDAQ:DOOO) - Seeking Alpha",
       "pubDate": "Wed, 21 May 2025 14:27:00 GMT"
+    },
+    {
+      "title": "Hiring Newly-Minted Real Estate Agents in a Recession - firsttuesday Journal",
+      "pubDate": "Wed, 21 May 2025 15:55:17 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "EU to propose end-2027 halt to all Russian gas imports - Reuters",
-      "pubDate": "Tue, 06 May 2025 16:22:59 GMT"
-    },
     {
       "title": "Xi Jinping set to arrive in Moscow as Putin\u2019s \u2018guest of honor\u2019 ahead of Victory Day military parade - CNN",
       "pubDate": "Wed, 07 May 2025 00:58:00 GMT"
@@ -561,10 +557,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Army to rely heavily on artificial intelligence (AI) in crew stations for next-gen armored combat vehicles - Military Aerospace",
-      "pubDate": "Mon, 12 May 2025 09:44:05 GMT"
-    },
-    {
       "title": "New AI tool predicts your biological age from a selfie - The Washington Post",
       "pubDate": "Mon, 12 May 2025 21:54:40 GMT"
     },
@@ -719,6 +711,10 @@
     {
       "title": "A new AI-based weather tool surpasses current forecasts - Science News",
       "pubDate": "Wed, 21 May 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Alan Turing papers saved from shredder could fetch \u00a3150,000 - The Guardian",
+      "pubDate": "Wed, 21 May 2025 15:51:00 GMT"
     }
   ],
   "public_health": [],
@@ -838,6 +834,10 @@
     {
       "title": "VIDEO: Senator Rosen Blasts Secretary Rubio for Complicity in Trump Administration\u2019s Disastrous Foreign Policies - Jacky Rosen (.gov)",
       "pubDate": "Tue, 20 May 2025 22:04:41 GMT"
+    },
+    {
+      "title": "\u201cBrazil is not so vulnerable to U.S. pressure,\u201d ex-IMF official says - Valor International",
+      "pubDate": "Wed, 21 May 2025 11:21:54 GMT"
     }
   ],
   "machine_learning": [
@@ -853,10 +853,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "How a Chinese delicacy got caught in the crossfire of Trump's trade war - Yahoo Finance",
-      "pubDate": "Thu, 08 May 2025 04:06:00 GMT"
-    },
     {
       "title": "Bolton on US adversaries under tariffs: In any trade war, everyone suffers - NewsNation",
       "pubDate": "Thu, 08 May 2025 02:49:31 GMT"
@@ -1012,13 +1008,13 @@
     {
       "title": "EU/US aircraft trade war imminent, key lawmaker warns - Euronews",
       "pubDate": "Wed, 21 May 2025 12:52:12 GMT"
+    },
+    {
+      "title": "The H Mart paradox: Why the beloved Asian grocer might be OK despite Trump\u2019s trade war - Fast Company",
+      "pubDate": "Wed, 21 May 2025 11:05:09 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Xi vows to stand with friend Putin against \u2018hegemonic bullying\u2019 - Al Jazeera",
-      "pubDate": "Thu, 08 May 2025 11:58:57 GMT"
-    },
     {
       "title": "Lawmakers push tech leaders on AI, energy in race with China - The Hill",
       "pubDate": "Thu, 08 May 2025 21:09:00 GMT"
@@ -1174,6 +1170,10 @@
     {
       "title": "Israel Fired Warning Shots at Europe, China Diplomats by Mistake - Bloomberg.com",
       "pubDate": "Wed, 21 May 2025 14:00:19 GMT"
+    },
+    {
+      "title": "Roof of historic Ming Dynasty tower collapses in China - BBC",
+      "pubDate": "Wed, 21 May 2025 14:52:17 GMT"
     }
   ],
   "solar_power": [],
@@ -1326,6 +1326,10 @@
     {
       "title": "Trump tax cuts, deregulation will 'fire up' the US economy: Kenny Polcari - Fox Business",
       "pubDate": "Wed, 21 May 2025 13:23:00 GMT"
+    },
+    {
+      "title": "Tax cuts, trade clarity will boost U.S. economy in H2 2025, White House economist Hassett says (DXY:null) - Seeking Alpha",
+      "pubDate": "Wed, 21 May 2025 16:10:00 GMT"
     }
   ],
   "terrorism": [
@@ -1388,6 +1392,10 @@
     {
       "title": "A huge Democratic victory in Omaha offers a lesson for the party | Katrina vanden Heuvel - The Guardian",
       "pubDate": "Wed, 21 May 2025 12:01:00 GMT"
+    },
+    {
+      "title": "Democratic challenger defeats Pittsburgh mayor in a primary after a clash over the party's future - NBC News",
+      "pubDate": "Wed, 21 May 2025 14:18:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1513,6 +1521,10 @@
     {
       "title": "Build 2025 disrupted by protests \u2014 and Microsoft leaked private AI plans - Windows Central",
       "pubDate": "Wed, 21 May 2025 13:08:52 GMT"
+    },
+    {
+      "title": "Do No Harm, Build AI Safely - Forbes",
+      "pubDate": "Wed, 21 May 2025 15:34:43 GMT"
     }
   ],
   "finance": [],
@@ -1676,6 +1688,10 @@
     {
       "title": "Big Beautiful tax bill summary: what it means for Americans - The Times",
       "pubDate": "Wed, 21 May 2025 12:20:06 GMT"
+    },
+    {
+      "title": "Musk was once a political force on X. Now he\u2019s back to business. - The Washington Post",
+      "pubDate": "Wed, 21 May 2025 16:29:10 GMT"
     }
   ],
   "brics": [
