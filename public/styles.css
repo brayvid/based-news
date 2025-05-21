@@ -97,11 +97,11 @@ a:focus {
   section h3 {
     font-size: 1.1em;
   }
-
+/* 
   section p {
     font-size: 0.95em;
     line-height: 1.4;
-  }
+  } */
 
   a {
     font-size: 0.95em;
@@ -126,13 +126,13 @@ a:focus {
 }
 
 
-.timestamp {
-  font-size: 0.75em; /* Default size on desktop */
+p.timestamp {
+  font-size: 0.85em !important; /* Default size on desktop */
   color: #888;
 }
 
 @media (max-width: 600px) {
-  .timestamp {
-    font-size: 0.65em; /* Smaller on mobile */
+  p.timestamp {
+    font-size: 0.8em !important; /* Smaller on mobile */
   }
 }

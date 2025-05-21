@@ -513,7 +513,7 @@ def main():
                     f.write(
                         f'<p>'
                         f'<a href="{article["link"]}" target="_blank">{html.escape(article["title"])}</a><br>'
-                        f'<small>📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")}</small>'
+                        f'<small>{pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")}</small>'
                         f'</p>\n'
                     )
         # Add last updated footer
