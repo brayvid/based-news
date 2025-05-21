@@ -151,7 +151,6 @@ try:
 except Exception as e:
     logging.error(f"Git commit/push failed: {e}")
 
-    
 # --- Cleanup ---
 if os.path.exists(LOCKFILE):
     os.remove(LOCKFILE)
