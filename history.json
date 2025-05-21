@@ -1,10 +1,6 @@
 {
   "artificial_intelligence": [
     {
-      "title": "Dubai Police Awarded Artificial Intelligence Management Systems Certification - Asia Pacific Security Magazine",
-      "pubDate": "Mon, 19 May 2025 00:16:21 GMT"
-    },
-    {
       "title": "Four free Coursera courses to jump-start your AI journey - Fast Company",
       "pubDate": "Mon, 19 May 2025 04:34:56 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Reitz: State\u2019s AI regulatory framework can be based on fear or optimism - The Detroit News",
       "pubDate": "Wed, 21 May 2025 00:07:17 GMT"
+    },
+    {
+      "title": "CNBC Daily Open: Artificial intelligence is still key to markets despite tariffs overshadowing the technology - CNBC",
+      "pubDate": "Wed, 21 May 2025 01:07:00 GMT"
     }
   ],
   "donald_trump": [
@@ -475,13 +475,13 @@
     {
       "title": "Trump\u2019s approval rating ticks lower, economic concerns weigh, Reuters/Ipsos poll finds By Reuters - Investing.com",
       "pubDate": "Tue, 20 May 2025 20:26:20 GMT"
+    },
+    {
+      "title": "US business owners are concerned about Venezuelan employees with temporary status - Fort Bragg Advocate-News",
+      "pubDate": "Tue, 20 May 2025 21:08:49 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Tributes pour in from across the political spectrum as Joe Biden announces prostate cancer diagnosis - The Independent",
-      "pubDate": "Sun, 18 May 2025 20:48:00 GMT"
-    },
     {
       "title": "Biden diagnosed with \u2018aggressive form\u2019 of prostate cancer - News Channel 3-12",
       "pubDate": "Sun, 18 May 2025 21:18:51 GMT"
@@ -637,13 +637,13 @@
     {
       "title": "Justice Dept. Opens Inquiry Into Andrew Cuomo, Singling Out Another Political Target - The New York Times",
       "pubDate": "Tue, 20 May 2025 23:58:32 GMT"
+    },
+    {
+      "title": "Chip Roy, Demanding More Spending Cuts, Reprises Role as Ringleader of G.O.P. Rebels - The New York Times",
+      "pubDate": "Tue, 20 May 2025 23:44:53 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "\u2018What we\u2019re doing is very big\u2019: Trump says he won\u2019t rule out a recession \u2014 here are 3 simple strategies to help keep your finances safe in a downturn - MSN",
-      "pubDate": "Sun, 18 May 2025 15:50:36 GMT"
-    },
     {
       "title": "Great Recession lessons that still apply now - Cleveland.com",
       "pubDate": "Sun, 18 May 2025 15:00:00 GMT"
@@ -799,13 +799,13 @@
     {
       "title": "Subprime lenders see opportunity in recession talks - Auto Finance News",
       "pubDate": "Tue, 20 May 2025 19:56:01 GMT"
+    },
+    {
+      "title": "Canada is entering a recession and will soon bleed another 100,000 jobs: TD chief economist - The Globe and Mail",
+      "pubDate": "Tue, 20 May 2025 20:55:43 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "China puts heavy 75% tax on US imports of vital engineering plastic - South China Morning Post",
-      "pubDate": "Sun, 18 May 2025 13:00:13 GMT"
-    },
     {
       "title": "Trade war fallout: Chinese e-commerce firms intensify push for Europe\u2019s shoppers - South China Morning Post",
       "pubDate": "Sun, 18 May 2025 14:00:08 GMT"
@@ -961,6 +961,10 @@
     {
       "title": "Opinion | US-China tariff truce offers hope for resolution on fentanyl and other issues - South China Morning Post",
       "pubDate": "Wed, 21 May 2025 00:00:11 GMT"
+    },
+    {
+      "title": "U.S. loudspeaker maker sounds the alarm on 'unnecessary' trade war - Nikkei Asia",
+      "pubDate": "Wed, 21 May 2025 01:22:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1030,10 +1034,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US prepares for long war with China that might hit its bases, homeland: Peter Apps - Reuters",
-      "pubDate": "Mon, 19 May 2025 00:59:00 GMT"
-    },
     {
       "title": "China 'fully' respects Denmark's sovereignty on Greenland, foreign minister says - Reuters",
       "pubDate": "Mon, 19 May 2025 07:00:47 GMT"
@@ -1189,6 +1189,10 @@
     {
       "title": "Oil prices little changed on geopolitical uncertainty, weak China demand signals - Reuters",
       "pubDate": "Tue, 20 May 2025 19:08:58 GMT"
+    },
+    {
+      "title": "Pacific must not become a \u2018military zone\u2019 amid rise of China, New Zealand\u2019s deputy PM warns - The Guardian",
+      "pubDate": "Wed, 21 May 2025 00:05:00 GMT"
     }
   ],
   "russia": [
@@ -1587,6 +1591,10 @@
     {
       "title": "Sanders concedes lack of \u2018fair primary\u2019 makes Democrats \u2018threat to democracy\u2019 - Baltimore Sun",
       "pubDate": "Tue, 20 May 2025 17:47:23 GMT"
+    },
+    {
+      "title": "Biden's deterioration unnerved House Democrats as early as 2023, new book reveals - Axios",
+      "pubDate": "Tue, 20 May 2025 23:35:46 GMT"
     }
   ],
   "cybersecurity": [
