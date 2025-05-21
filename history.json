@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump admin's threat to suspend core U.S. legal right sparks outcry, alarm - NBC News",
-      "pubDate": "Mon, 12 May 2025 03:11:00 GMT"
-    },
-    {
       "title": "Trump Seeks to Align US Drug Costs With Cheapest Ones Abroad - Bloomberg",
       "pubDate": "Mon, 12 May 2025 07:01:50 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump administration live updates: Trump to host South African president; House committee meets to advance budget bill - NBC News",
       "pubDate": "Wed, 21 May 2025 13:35:18 GMT"
+    },
+    {
+      "title": "South Africa's Ramaphosa visits Trump at the White House: live updates - BBC",
+      "pubDate": "Wed, 21 May 2025 14:12:42 GMT"
     }
   ],
   "ukraine": [
@@ -355,6 +355,10 @@
     {
       "title": "Bulls welcome the bond market recession indicator that gave a false reading. Hopefully. - MarketWatch",
       "pubDate": "Wed, 21 May 2025 08:19:00 GMT"
+    },
+    {
+      "title": "U.S. Recession Odds Fall to 35% from 45%, Shows Reuters Economist Poll - TipRanks",
+      "pubDate": "Wed, 21 May 2025 14:01:25 GMT"
     }
   ],
   "russia": [
@@ -481,6 +485,10 @@
     {
       "title": "Six Ukrainian soldiers killed in Russian missile strike during training exercise - BBC",
       "pubDate": "Wed, 21 May 2025 08:32:57 GMT"
+    },
+    {
+      "title": "Russian Advance in Ukraine Is Slowing Despite Putin\u2019s Confidence - Bloomberg.com",
+      "pubDate": "Wed, 21 May 2025 12:15:06 GMT"
     }
   ],
   "israel": [
@@ -544,10 +552,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Insurers Begin Covering AI Mishap-Related Losses - PYMNTS.com",
-      "pubDate": "Sun, 11 May 2025 21:44:37 GMT"
-    },
     {
       "title": "OpenAI and Microsoft Reportedly Rework Pact Ahead of Possible IPO - PYMNTS.com",
       "pubDate": "Sun, 11 May 2025 22:18:08 GMT"
@@ -703,6 +707,10 @@
     {
       "title": "Prediction: This Artificial Intelligence Stock Will Be More Valuable Than Nvidia, Apple, and Microsoft in 5 Years - Nasdaq",
       "pubDate": "Wed, 21 May 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Shopify launches AI tool that builds complete online stores from keywords - Reuters",
+      "pubDate": "Wed, 21 May 2025 14:06:14 GMT"
     }
   ],
   "public_health": [],
@@ -766,6 +774,10 @@
     {
       "title": "Bloomberg financial markets data service hit by outage - The Elkhart Truth",
       "pubDate": "Wed, 21 May 2025 11:31:17 GMT"
+    },
+    {
+      "title": "Stocks to Watch: Dow Falls 300 Points; Treasury Yields Rise in Global Bond Selloff \u2014 Live Updates - WSJ",
+      "pubDate": "Wed, 21 May 2025 14:31:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -775,10 +787,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "The beginning of the end of unshakeable support: Why US public opinion is turning away from Israel - Middle East Monitor",
-      "pubDate": "Tue, 06 May 2025 15:00:00 GMT"
-    },
     {
       "title": "Trump team urged Ukraine to take U.S. deportees amid war, documents show - The Washington Post",
       "pubDate": "Wed, 07 May 2025 02:56:21 GMT"
@@ -833,10 +841,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "Tesla's EV rival Rivian warns Trump's trade war means it will sell fewer of its American-made cars than expected - Fortune",
-      "pubDate": "Wed, 07 May 2025 12:34:00 GMT"
-    },
     {
       "title": "China agrees to trade talks with the U.S. and rolls out more stimulus as tariffs hit economy - PBS",
       "pubDate": "Wed, 07 May 2025 16:35:27 GMT"
@@ -992,13 +996,13 @@
     {
       "title": "The U.S. is targeting Huawei\u2019s AI chips, and China says that could undermine an uneasy truce in the trade war - Fortune",
       "pubDate": "Wed, 21 May 2025 11:49:00 GMT"
+    },
+    {
+      "title": "How China\u2019s next five-year plan hones in on weak links laid bare by trade war - South China Morning Post",
+      "pubDate": "Wed, 21 May 2025 14:00:09 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's Baidu looks to patent AI system to decipher animal sounds - Reuters",
-      "pubDate": "Thu, 08 May 2025 07:50:48 GMT"
-    },
     {
       "title": "China\u2019s Xi vows to stand with friend Putin against \u2018hegemonic bullying\u2019 - Al Jazeera",
       "pubDate": "Thu, 08 May 2025 11:58:57 GMT"
@@ -1154,6 +1158,10 @@
     {
       "title": "China \u2018gravely concerned\u2019 by Trump Golden Dome plan - The Hill",
       "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
+    },
+    {
+      "title": "Israel Fired Warning Shots at Europe, China Diplomats by Mistake - Bloomberg.com",
+      "pubDate": "Wed, 21 May 2025 14:00:19 GMT"
     }
   ],
   "solar_power": [],
@@ -1302,6 +1310,10 @@
     {
       "title": "Weak US economic outlook persists despite brief trade truce with China - Reuters",
       "pubDate": "Wed, 21 May 2025 13:05:17 GMT"
+    },
+    {
+      "title": "Trump tax cuts, deregulation will 'fire up' the US economy: Kenny Polcari - Fox Business",
+      "pubDate": "Wed, 21 May 2025 13:23:00 GMT"
     }
   ],
   "terrorism": [
@@ -1408,10 +1420,6 @@
   "drones": [],
   "hamas": [
     {
-      "title": "Hamas warns Israeli plans to expand Gaza assault mean 'sacrificing' captives - Middle East Eye",
-      "pubDate": "Tue, 06 May 2025 14:40:00 GMT"
-    },
-    {
       "title": "Hamas: Jenin operation is the strongest response to Israeli attempts to suppress resistance - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0642\u062f\u0633",
       "pubDate": "Thu, 08 May 2025 08:20:23 GMT"
     },
@@ -1489,6 +1497,10 @@
     {
       "title": "The Time Sam Altman Asked for a Countersurveillance Audit of OpenAI - WIRED",
       "pubDate": "Wed, 21 May 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Build 2025 disrupted by protests \u2014 and Microsoft leaked private AI plans - Windows Central",
+      "pubDate": "Wed, 21 May 2025 13:08:52 GMT"
     }
   ],
   "finance": [],
@@ -1648,6 +1660,10 @@
     {
       "title": "Democratic Virginia congressman Gerry Connolly dies aged 75 - The Guardian",
       "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
+    },
+    {
+      "title": "Big Beautiful tax bill summary: what it means for Americans - The Times",
+      "pubDate": "Wed, 21 May 2025 12:20:06 GMT"
     }
   ],
   "brics": [
