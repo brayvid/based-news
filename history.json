@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump reportedly set to accept a luxury jet from Qatar for possible use as Air Force One - PBS",
-      "pubDate": "Sun, 11 May 2025 16:40:30 GMT"
-    },
-    {
       "title": "Trump admin's threat to suspend core U.S. legal right sparks outcry, alarm - NBC News",
       "pubDate": "Mon, 12 May 2025 03:11:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Donald Trump Jr says on running for president: 'that calling is there' - Reuters",
       "pubDate": "Wed, 21 May 2025 10:22:33 GMT"
+    },
+    {
+      "title": "Trump administration live updates: Trump to host South African president; House committee meets to advance budget bill - NBC News",
+      "pubDate": "Wed, 21 May 2025 13:35:18 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukrainian drones attack Moscow, halting flights ahead of major military parade - CNN",
-      "pubDate": "Tue, 06 May 2025 13:50:00 GMT"
-    },
     {
       "title": "Vance says Russia \u2018asking for too much\u2019 to end war with Ukraine - Politico",
       "pubDate": "Wed, 07 May 2025 15:56:51 GMT"
@@ -355,6 +351,10 @@
     {
       "title": "Bartender Has An Interesting Perspective On How To Tell When A Recession Is Coming - TwistedSifter",
       "pubDate": "Wed, 21 May 2025 12:51:12 GMT"
+    },
+    {
+      "title": "Bulls welcome the bond market recession indicator that gave a false reading. Hopefully. - MarketWatch",
+      "pubDate": "Wed, 21 May 2025 08:19:00 GMT"
     }
   ],
   "russia": [
@@ -545,10 +545,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI negotiates with Microsoft for new funding and future IPO, FT reports - Reuters",
-      "pubDate": "Sun, 11 May 2025 13:33:33 GMT"
-    },
-    {
       "title": "Insurers Begin Covering AI Mishap-Related Losses - PYMNTS.com",
       "pubDate": "Sun, 11 May 2025 21:44:37 GMT"
     },
@@ -703,6 +699,10 @@
     {
       "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
       "pubDate": "Wed, 21 May 2025 12:20:00 GMT"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence Stock Will Be More Valuable Than Nvidia, Apple, and Microsoft in 5 Years - Nasdaq",
+      "pubDate": "Wed, 21 May 2025 10:30:00 GMT"
     }
   ],
   "public_health": [],
@@ -762,6 +762,10 @@
     {
       "title": "Morning Bid: Bad week for bonds - Reuters",
       "pubDate": "Wed, 21 May 2025 11:05:46 GMT"
+    },
+    {
+      "title": "Bloomberg financial markets data service hit by outage - The Elkhart Truth",
+      "pubDate": "Wed, 21 May 2025 11:31:17 GMT"
     }
   ],
   "renewable_energy": [
@@ -818,10 +822,6 @@
   ],
   "machine_learning": [
     {
-      "title": "AI-powered 'ulrb' uncovers Earth's hidden microbial gems - Tech Xplore",
-      "pubDate": "Tue, 06 May 2025 13:40:02 GMT"
-    },
-    {
       "title": "After that 2024 Windows fiasco, CrowdStrike has a plan \u2013 jobs cuts, leaning on AI - theregister.com",
       "pubDate": "Wed, 07 May 2025 23:28:00 GMT"
     },
@@ -833,10 +833,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "US, China to hold ice-breaker trade talks in Geneva on Saturday - Reuters",
-      "pubDate": "Wed, 07 May 2025 11:29:44 GMT"
-    },
     {
       "title": "Tesla's EV rival Rivian warns Trump's trade war means it will sell fewer of its American-made cars than expected - Fortune",
       "pubDate": "Wed, 07 May 2025 12:34:00 GMT"
@@ -992,13 +988,13 @@
     {
       "title": "\u2018Special and different\u2019: Former envoys advocate for Hong Kong\u2019s unique global value - South China Morning Post",
       "pubDate": "Wed, 21 May 2025 10:24:29 GMT"
+    },
+    {
+      "title": "The U.S. is targeting Huawei\u2019s AI chips, and China says that could undermine an uneasy truce in the trade war - Fortune",
+      "pubDate": "Wed, 21 May 2025 11:49:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Xi Jinping likens \u2018US hegemony\u2019 to \u2018fascist forces\u2019 ahead of Vladimir Putin summit - Financial Times",
-      "pubDate": "Thu, 08 May 2025 02:53:56 GMT"
-    },
     {
       "title": "China's Baidu looks to patent AI system to decipher animal sounds - Reuters",
       "pubDate": "Thu, 08 May 2025 07:50:48 GMT"
@@ -1154,6 +1150,10 @@
     {
       "title": "China says Trump's \"Golden Dome\" missile defense plan increases risk of \"space becoming a battlefield\" - CBS News",
       "pubDate": "Wed, 21 May 2025 12:18:33 GMT"
+    },
+    {
+      "title": "China \u2018gravely concerned\u2019 by Trump Golden Dome plan - The Hill",
+      "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
     }
   ],
   "solar_power": [],
@@ -1298,6 +1298,10 @@
     {
       "title": "Market Minute: A widening U.S. 30-year/10-year spread points to long-term change - The Real Economy Blog",
       "pubDate": "Wed, 21 May 2025 10:00:44 GMT"
+    },
+    {
+      "title": "Weak US economic outlook persists despite brief trade truce with China - Reuters",
+      "pubDate": "Wed, 21 May 2025 13:05:17 GMT"
     }
   ],
   "terrorism": [
@@ -1640,6 +1644,10 @@
     {
       "title": "Elon Musk\u2019s pullback from politics comes after his last big investment was a flop - newspressnow.com",
       "pubDate": "Wed, 21 May 2025 10:26:57 GMT"
+    },
+    {
+      "title": "Democratic Virginia congressman Gerry Connolly dies aged 75 - The Guardian",
+      "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
     }
   ],
   "brics": [
