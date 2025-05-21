@@ -517,7 +517,7 @@ def main():
                         f'</p>\n'
                     )
         # Add last updated footer
-        last_updated = datetime.now(ZONE).strftime("%A, %d %B %Y at %I:%M %p %Z")
+        last_updated = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
         footer_html = (
             f"<div id='last-updated' style='display: none;'>"
             f"Last updated: {last_updated}"
