@@ -10,8 +10,12 @@ body {
   width: 90%;
   max-width: 800px;
   margin: auto;
-  padding: 1em;
+  padding-left: 1.6em;
+  padding-right: 1.6em;
+  padding-top: 0.3em;
+  padding-bottom: 1em;
 }
+
 
 header {
   background-color: #1a1a1a;
