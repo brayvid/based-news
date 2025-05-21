@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says U.S. will end sanctions on Syria \u2018to give them a chance at greatness\u2019 - The Washington Post",
-      "pubDate": "Wed, 14 May 2025 03:18:00 GMT"
-    },
-    {
       "title": "Trump meets Syria\u2019s president after lifting US sanctions on country - The Guardian",
       "pubDate": "Wed, 14 May 2025 08:38:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Why Donald Trump is blocking conservatives\u2019 attempts to get bigger Medicaid cuts - Politico",
       "pubDate": "Wed, 21 May 2025 17:48:22 GMT"
+    },
+    {
+      "title": "Trump\u2019s Truth Social attacks on Springsteen, Oprah and Beyonc\u00e9 aren't legally sound - MSNBC News",
+      "pubDate": "Wed, 21 May 2025 18:18:00 GMT"
     }
   ],
   "ukraine": [
@@ -367,6 +367,10 @@
     {
       "title": "Valley Business Forecast warns of rising recession risks amid economic uncertainty - Ceres Courier",
       "pubDate": "Wed, 21 May 2025 16:28:00 GMT"
+    },
+    {
+      "title": "Homebuyers see silver lining in a potential recession, viewing it as buying opportunity - Fox Business",
+      "pubDate": "Wed, 21 May 2025 20:31:00 GMT"
     }
   ],
   "russia": [
@@ -565,10 +569,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Leveraging explainable artificial intelligence with ensemble of deep learning model for dementia prediction to enhance clinical decision support systems - Nature",
-      "pubDate": "Tue, 13 May 2025 18:52:42 GMT"
-    },
-    {
       "title": "US tech firms Nvidia, AMD secure AI deals as Trump tours Gulf states - Reuters",
       "pubDate": "Wed, 14 May 2025 01:03:00 GMT"
     },
@@ -723,6 +723,10 @@
     {
       "title": "iPhone designer Jony Ive will join OpenAI to build AI-powered devices - The Washington Post",
       "pubDate": "Wed, 21 May 2025 18:42:30 GMT"
+    },
+    {
+      "title": "OpenAI Acquires Former Apple Design Chief\u2019s AI Device Startup - PYMNTS.com",
+      "pubDate": "Wed, 21 May 2025 19:43:40 GMT"
     }
   ],
   "public_health": [],
@@ -873,10 +877,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "As US and China begin trade talks in Geneva, Trump's tariff hammer looks less mighty than he claims - AP News",
-      "pubDate": "Fri, 09 May 2025 19:14:00 GMT"
-    },
     {
       "title": "China's Nuclear Trade War Option--How Xi Could Destroy The US Housing Market In 1 Fell Swoop - Yahoo Finance",
       "pubDate": "Fri, 09 May 2025 23:38:57 GMT"
@@ -1032,13 +1032,13 @@
     {
       "title": "How China's Online Army Helped Beijing Fight US Tariff War - Newsweek",
       "pubDate": "Wed, 21 May 2025 19:17:52 GMT"
+    },
+    {
+      "title": "Trade war far from over as retaliation looms if US talks fail, JPMorgan warns - Investing.com",
+      "pubDate": "Wed, 21 May 2025 19:14:56 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China and Russia accuse US of raising nuclear war risk, vow to respond jointly - South China Morning Post",
-      "pubDate": "Thu, 08 May 2025 22:28:45 GMT"
-    },
     {
       "title": "Xi and Putin vow stronger ties at Russia's World War II Victory Day parade ahead of U.S.-China trade talks - NBC News",
       "pubDate": "Fri, 09 May 2025 18:26:58 GMT"
@@ -1194,6 +1194,10 @@
     {
       "title": "Days After India's Taliban Outreach, China Huddles With Pakistan, Afghanistan - NDTV",
       "pubDate": "Wed, 21 May 2025 13:26:21 GMT"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Calls US Curbs on Advanced Chip Exports to China \u2018Failure\u2019 - Investopedia",
+      "pubDate": "Wed, 21 May 2025 16:19:26 GMT"
     }
   ],
   "solar_power": [],
@@ -1350,6 +1354,10 @@
     {
       "title": "Tax cuts, trade clarity will boost U.S. economy in H2 2025, White House economist Hassett says (DXY:null) - Seeking Alpha",
       "pubDate": "Wed, 21 May 2025 16:10:00 GMT"
+    },
+    {
+      "title": "The US is still on top of the world, economy not headed for recession \u2013 MS - Seeking Alpha",
+      "pubDate": "Wed, 21 May 2025 15:30:00 GMT"
     }
   ],
   "terrorism": [
@@ -1424,6 +1432,10 @@
     {
       "title": "Ousted Fort Bend County Democratic Party chair sues in attempt to be reinstated - Houston Public Media",
       "pubDate": "Wed, 21 May 2025 18:42:37 GMT"
+    },
+    {
+      "title": "Opinion: To win again, Democrats must \u2018make life better\u2019 for all Americans - City & State Pennsylvania",
+      "pubDate": "Wed, 21 May 2025 19:19:16 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1736,6 +1748,10 @@
     {
       "title": "Oman confirms new round of US-Iran talks despite enrichment dispute - Al Jazeera",
       "pubDate": "Wed, 21 May 2025 17:49:20 GMT"
+    },
+    {
+      "title": "Senate Democrats Ask for Inquiry Into Pam Bondi\u2019s Role in Qatar Jet Gifted to Trump - The New York Times",
+      "pubDate": "Wed, 21 May 2025 20:00:05 GMT"
     }
   ],
   "brics": [
