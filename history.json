@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump meets Syria\u2019s president after lifting US sanctions on country - The Guardian",
-      "pubDate": "Wed, 14 May 2025 08:38:00 GMT"
-    },
-    {
       "title": "Trump meets Syrian president, urges him to establish ties with Israel - Reuters",
       "pubDate": "Wed, 14 May 2025 13:36:02 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump\u2019s Truth Social attacks on Springsteen, Oprah and Beyonc\u00e9 aren't legally sound - MSNBC News",
       "pubDate": "Wed, 21 May 2025 18:18:00 GMT"
+    },
+    {
+      "title": "Trump administration officially accepts jet from Qatar for use as Air Force One - NPR",
+      "pubDate": "Wed, 21 May 2025 20:40:53 GMT"
     }
   ],
   "ukraine": [
@@ -569,10 +569,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "US tech firms Nvidia, AMD secure AI deals as Trump tours Gulf states - Reuters",
-      "pubDate": "Wed, 14 May 2025 01:03:00 GMT"
-    },
-    {
       "title": "A.I. Was Coming for Radiologists\u2019 Jobs. So Far, They\u2019re Just More Efficient. - The New York Times",
       "pubDate": "Wed, 14 May 2025 09:00:57 GMT"
     },
@@ -727,6 +723,10 @@
     {
       "title": "OpenAI Acquires Former Apple Design Chief\u2019s AI Device Startup - PYMNTS.com",
       "pubDate": "Wed, 21 May 2025 19:43:40 GMT"
+    },
+    {
+      "title": "News - Training in Artificial Intelligence Technologies Critical to Future of Military Medicine - DVIDS",
+      "pubDate": "Wed, 21 May 2025 16:19:00 GMT"
     }
   ],
   "public_health": [],
@@ -877,10 +877,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "China's Nuclear Trade War Option--How Xi Could Destroy The US Housing Market In 1 Fell Swoop - Yahoo Finance",
-      "pubDate": "Fri, 09 May 2025 23:38:57 GMT"
-    },
     {
       "title": "Donald Trump tariffs live updates: China-US trade talks begin in Geneva, de-escalation in tariff war expected - Times of India",
       "pubDate": "Sat, 10 May 2025 09:17:44 GMT"
@@ -1036,13 +1032,13 @@
     {
       "title": "Trade war far from over as retaliation looms if US talks fail, JPMorgan warns - Investing.com",
       "pubDate": "Wed, 21 May 2025 19:14:56 GMT"
+    },
+    {
+      "title": "Trade war tremors: A Q and A with a Kansas economist about tariffs, manufacturing and the workforce - Kansas Reflector",
+      "pubDate": "Wed, 21 May 2025 20:46:10 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Xi and Putin vow stronger ties at Russia's World War II Victory Day parade ahead of U.S.-China trade talks - NBC News",
-      "pubDate": "Fri, 09 May 2025 18:26:58 GMT"
-    },
     {
       "title": "U.S.-China Trade Talks Begin; Bessent, Top Chinese Officials Aim To De-Escalate Trump Tariff War - Investor's Business Daily",
       "pubDate": "Sat, 10 May 2025 12:01:00 GMT"
@@ -1198,6 +1194,10 @@
     {
       "title": "Nvidia CEO Jensen Huang Calls US Curbs on Advanced Chip Exports to China \u2018Failure\u2019 - Investopedia",
       "pubDate": "Wed, 21 May 2025 16:19:26 GMT"
+    },
+    {
+      "title": "New species of space-adapted bacteria discovered on China's Tiangong space station - Space",
+      "pubDate": "Wed, 21 May 2025 17:00:00 GMT"
     }
   ],
   "solar_power": [],
@@ -1223,10 +1223,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Greek-American Investment Titans Calamos, Koudounis Signal Optimism on US Economy - GreekReporter.com",
-      "pubDate": "Tue, 06 May 2025 21:51:10 GMT"
-    },
     {
       "title": "Strong labor market data doesn't mean the coast is clear for the US economy - Yahoo Finance",
       "pubDate": "Wed, 07 May 2025 12:49:02 GMT"
@@ -1358,6 +1354,10 @@
     {
       "title": "The US is still on top of the world, economy not headed for recession \u2013 MS - Seeking Alpha",
       "pubDate": "Wed, 21 May 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Back to Economics 101: The US economy and the functions of money - Daily Maverick",
+      "pubDate": "Wed, 21 May 2025 19:02:31 GMT"
     }
   ],
   "terrorism": [
@@ -1436,6 +1436,10 @@
     {
       "title": "Opinion: To win again, Democrats must \u2018make life better\u2019 for all Americans - City & State Pennsylvania",
       "pubDate": "Wed, 21 May 2025 19:19:16 GMT"
+    },
+    {
+      "title": "Honestly, I Am So Sick of Hearing Democrats Apologize for Their Joe Biden Mistake - Slate Magazine",
+      "pubDate": "Wed, 21 May 2025 21:53:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1752,6 +1756,10 @@
     {
       "title": "Senate Democrats Ask for Inquiry Into Pam Bondi\u2019s Role in Qatar Jet Gifted to Trump - The New York Times",
       "pubDate": "Wed, 21 May 2025 20:00:05 GMT"
+    },
+    {
+      "title": "Billy Long: Trump\u2019s choice to lead IRS has a few tax issues of his own - The Times",
+      "pubDate": "Wed, 21 May 2025 17:35:42 GMT"
     }
   ],
   "brics": [
