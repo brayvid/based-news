@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar: Sources - ABC News",
-      "pubDate": "Sun, 11 May 2025 11:05:35 GMT"
-    },
-    {
       "title": "Trump reportedly set to accept a luxury jet from Qatar for possible use as Air Force One - PBS",
       "pubDate": "Sun, 11 May 2025 16:40:30 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Live updates: Trump goes to Capitol Hill to push for his sweeping tax and spending bill | CNN Politics - CNN",
       "pubDate": "Wed, 21 May 2025 09:15:00 GMT"
+    },
+    {
+      "title": "Donald Trump Jr says on running for president: 'that calling is there' - Reuters",
+      "pubDate": "Wed, 21 May 2025 10:22:33 GMT"
     }
   ],
   "ukraine": [
@@ -351,6 +351,10 @@
     {
       "title": "Mary Daly and Other Fed Presidents Warn Don\u2019t Expect Recession or Rate Cuts - Barron's",
       "pubDate": "Wed, 21 May 2025 09:32:00 GMT"
+    },
+    {
+      "title": "Bartender Has An Interesting Perspective On How To Tell When A Recession Is Coming - TwistedSifter",
+      "pubDate": "Wed, 21 May 2025 12:51:12 GMT"
     }
   ],
   "russia": [
@@ -527,10 +531,6 @@
       "pubDate": "Tue, 06 May 2025 15:35:04 GMT"
     },
     {
-      "title": "Exhausted Sudanese flee into Chad as fighting escalates - UN News",
-      "pubDate": "Tue, 06 May 2025 12:18:00 GMT"
-    },
-    {
       "title": "Israeli envoy at UN says Houthi attacks will not go unanswered - Yahoo",
       "pubDate": "Wed, 07 May 2025 17:19:20 GMT"
     },
@@ -544,10 +544,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Vyvo COO: AI's Next Step - Becoming a Tool for Self-Awareness - Bitcoin.com News",
-      "pubDate": "Sun, 11 May 2025 06:30:50 GMT"
-    },
     {
       "title": "OpenAI negotiates with Microsoft for new funding and future IPO, FT reports - Reuters",
       "pubDate": "Sun, 11 May 2025 13:33:33 GMT"
@@ -703,6 +699,10 @@
     {
       "title": "Google AI Advances Cheered by Wall Street. Why the Stock Reaction Is Less Bullish. - Barron's",
       "pubDate": "Wed, 21 May 2025 11:09:00 GMT"
+    },
+    {
+      "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
+      "pubDate": "Wed, 21 May 2025 12:20:00 GMT"
     }
   ],
   "public_health": [],
@@ -833,10 +833,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "U.S. and Chinese officials will meet in Geneva in first sign of thaw in trade war - NPR",
-      "pubDate": "Wed, 07 May 2025 08:09:46 GMT"
-    },
     {
       "title": "US, China to hold ice-breaker trade talks in Geneva on Saturday - Reuters",
       "pubDate": "Wed, 07 May 2025 11:29:44 GMT"
@@ -992,13 +988,13 @@
     {
       "title": "The old trade war that brought foreign carmakers to the U.S. : The Indicator from Planet Money - NPR",
       "pubDate": "Wed, 21 May 2025 07:00:59 GMT"
+    },
+    {
+      "title": "\u2018Special and different\u2019: Former envoys advocate for Hong Kong\u2019s unique global value - South China Morning Post",
+      "pubDate": "Wed, 21 May 2025 10:24:29 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters",
-      "pubDate": "Wed, 07 May 2025 23:53:05 GMT"
-    },
     {
       "title": "China\u2019s Xi Jinping likens \u2018US hegemony\u2019 to \u2018fascist forces\u2019 ahead of Vladimir Putin summit - Financial Times",
       "pubDate": "Thu, 08 May 2025 02:53:56 GMT"
@@ -1154,6 +1150,10 @@
     {
       "title": "China 'seriously concerned' over US Golden Dome defence system - Reuters",
       "pubDate": "Wed, 21 May 2025 08:33:05 GMT"
+    },
+    {
+      "title": "China says Trump's \"Golden Dome\" missile defense plan increases risk of \"space becoming a battlefield\" - CBS News",
+      "pubDate": "Wed, 21 May 2025 12:18:33 GMT"
     }
   ],
   "solar_power": [],
@@ -1294,6 +1294,10 @@
     {
       "title": "Even After Moody\u2019s, \u2018US Is the US\u2019 for Sovereign Wealth Funds - Bloomberg.com",
       "pubDate": "Wed, 21 May 2025 11:00:15 GMT"
+    },
+    {
+      "title": "Market Minute: A widening U.S. 30-year/10-year spread points to long-term change - The Real Economy Blog",
+      "pubDate": "Wed, 21 May 2025 10:00:44 GMT"
     }
   ],
   "terrorism": [
@@ -1352,6 +1356,10 @@
     {
       "title": "Biden's deterioration unnerved House Democrats as early as 2023, new book reveals - Axios",
       "pubDate": "Wed, 21 May 2025 08:38:14 GMT"
+    },
+    {
+      "title": "A huge Democratic victory in Omaha offers a lesson for the party | Katrina vanden Heuvel - The Guardian",
+      "pubDate": "Wed, 21 May 2025 12:01:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1628,6 +1636,10 @@
     {
       "title": "Trump Squeezes His Party on Domestic Policy Bill as G.O.P. Hunts for Votes - The New York Times",
       "pubDate": "Wed, 21 May 2025 08:25:00 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s pullback from politics comes after his last big investment was a flop - newspressnow.com",
+      "pubDate": "Wed, 21 May 2025 10:26:57 GMT"
     }
   ],
   "brics": [
