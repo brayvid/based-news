@@ -22,12 +22,13 @@ based-news/
 ├── based_news.py         # Main script
 ├── requirements.txt       # Python dependencies
 ├── history.json           # Stores previously posted headlines
-├── public/                # Directory to serve
+├── public/                # Webpage directory
 │   ├── index.html         # Main page, does not change
-│   └── digest.html        # Gets updated hourly
+│   ├── digest.html        # Gets updated hourly
+│   └── summary.html       # Gets updated biweekly
 ├── .env                   # Contains Gemini API key (excluded from version control)
-├── logs/                  # Log directory (excluded from version control)
-│   └── based_news.log    # Cron and runtime logs
+└── logs/                  # Log directory (excluded from version control)
+    └── based_news.log     # Cron and runtime logs
 ```
 
 ---

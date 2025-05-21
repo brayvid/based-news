@@ -121,7 +121,7 @@ timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
 html_output = f"""<html>
   <body>
     <p>{formatted}</p>
-    <div id='summary-last-updated' style='display: none;'>Last updated: {timestamp}</div>
+    <div class='timestamp' id='summary-last-updated' style='display: none;'>Last updated: {timestamp}</div>
   </body>
 </html>"""
 

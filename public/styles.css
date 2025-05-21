@@ -9,11 +9,8 @@ body {
 .container {
   width: 90%;
   max-width: 800px;
-  margin: auto;
-  padding-left: 1.6em;
-  padding-right: 1.6em;
-  padding-top: 0.3em;
-  padding-bottom: 1em;
+  margin: 0 auto;
+  /* Remove padding from here */
 }
 
 
@@ -40,7 +37,7 @@ main {
   background: #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-top: 2em;
-  padding: 2em;
+  padding: 2em 1.6em; /* Move horizontal padding here */
 }
 
 section h3 {
@@ -126,4 +123,16 @@ a:focus {
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.3em;
   margin-bottom: 1em;
+}
+
+
+.timestamp {
+  font-size: 0.75em; /* Default size on desktop */
+  color: #888;
+}
+
+@media (max-width: 600px) {
+  .timestamp {
+    font-size: 0.65em; /* Smaller on mobile */
+  }
 }
