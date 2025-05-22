@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump warns Walmart against raising prices, tells company to \"eat the tariffs\" - CBS News",
-      "pubDate": "Sun, 18 May 2025 01:12:34 GMT"
-    },
-    {
       "title": "Trump lowered tariffs on China. Here\u2019s why that won\u2019t spare Americans from price hikes and shortages - CNN",
       "pubDate": "Sun, 18 May 2025 09:00:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - CNN",
       "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
+    },
+    {
+      "title": "House passes Trump\u2019s \u2018big, beautiful bill\u2019 in marathon overnight session - The Hill",
+      "pubDate": "Thu, 22 May 2025 10:56:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Vance says Russia \u2018asking for too much\u2019 to end war with Ukraine - Politico",
-      "pubDate": "Wed, 07 May 2025 15:56:51 GMT"
-    },
     {
       "title": "Russia-Ukraine war: List of key events, day 1,169 - Al Jazeera",
       "pubDate": "Thu, 08 May 2025 04:51:58 GMT"
@@ -216,10 +212,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Goldman's Waldron: Obvious there will be economic impact from tariffs but recession is unclear - MSN",
-      "pubDate": "Thu, 08 May 2025 16:23:01 GMT"
-    },
     {
       "title": "Why one market vet sees more big pain coming for the dollar \u2014 and a recession by year-end - businessinsider.com",
       "pubDate": "Thu, 08 May 2025 19:40:00 GMT"
@@ -375,6 +367,10 @@
     {
       "title": "Millennials are sharing recession tips on TikTok - Fast Company",
       "pubDate": "Thu, 22 May 2025 08:10:58 GMT"
+    },
+    {
+      "title": "5 Under-the-Radar Recession Indicators Actually Worth Watching - Politico",
+      "pubDate": "Thu, 22 May 2025 14:00:00 GMT"
     }
   ],
   "russia": [
@@ -549,6 +545,10 @@
     {
       "title": "'I have nothing left after paying my bills' - BBC",
       "pubDate": "Wed, 21 May 2025 15:12:23 GMT"
+    },
+    {
+      "title": "BOE\u2019s Pill Questions Prominence of Forecasts in Era of Shocks - Bloomberg.com",
+      "pubDate": "Thu, 22 May 2025 14:19:57 GMT"
     }
   ],
   "cybersecurity": [
@@ -592,10 +592,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "U. researchers unveil AI-powered tool for disease prediction with 'unprecedented accuracy' - KSL News",
-      "pubDate": "Sat, 17 May 2025 21:04:47 GMT"
-    },
     {
       "title": "EU Parliament: more AI to combat VAT fraud - VATCalc",
       "pubDate": "Sat, 17 May 2025 23:00:22 GMT"
@@ -751,6 +747,10 @@
     {
       "title": "NASA wants enabling technologies in 3D printing, artificial intelligence (AI), radar, and robotics in space - Military Aerospace",
       "pubDate": "Thu, 22 May 2025 09:32:59 GMT"
+    },
+    {
+      "title": "1 Artificial Intelligence Stock Poised for Explosive Gains Over the Next 10 Years - Yahoo Finance",
+      "pubDate": "Thu, 22 May 2025 10:15:00 GMT"
     }
   ],
   "public_health": [],
@@ -914,10 +914,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "Bullying only leads to self-isolation, Xi says day after US-China tariff truce - CNN",
-      "pubDate": "Tue, 13 May 2025 17:37:00 GMT"
-    },
-    {
       "title": "Oil prices hold near two-week highs on trade war reprieve, weaker dollar - Reuters",
       "pubDate": "Wed, 14 May 2025 00:56:00 GMT"
     },
@@ -1072,13 +1068,13 @@
     {
       "title": "2 Artificial Intelligence (AI) Stocks That May Have a Hard Time Bouncing Back From President Trump's Trade War - Nasdaq",
       "pubDate": "Thu, 22 May 2025 07:35:00 GMT"
+    },
+    {
+      "title": "RBA deputy governor says China knew it had a 'strong hand' in trade war with US - Australian Broadcasting Corporation",
+      "pubDate": "Thu, 22 May 2025 11:10:41 GMT"
     }
   ],
   "china": [
-    {
-      "title": "US-China Trade Clash Risks Making Europe Dumping Ground for Cheap Goods - Bloomberg",
-      "pubDate": "Thu, 15 May 2025 11:37:44 GMT"
-    },
     {
       "title": "US space chief warns China, Russia are greatest risks to space defense capabilities - The Hill",
       "pubDate": "Thu, 15 May 2025 20:12:00 GMT"
@@ -1234,6 +1230,10 @@
     {
       "title": "Chinese investment rebounds despite growing frictions - Chinese FDI in Europe: 2024 Update - Mercator Institute for China Studies (MERICS)",
       "pubDate": "Thu, 22 May 2025 08:53:19 GMT"
+    },
+    {
+      "title": "Tariffs or not, China\u2019s infiltration of US systems needs new attention - Defense News",
+      "pubDate": "Thu, 22 May 2025 10:12:42 GMT"
     }
   ],
   "solar_power": [],
@@ -1256,17 +1256,13 @@
     {
       "title": "Exclusive: Iran to send Russia launchers for short-range missiles, sources say - Reuters",
       "pubDate": "Fri, 09 May 2025 20:28:32 GMT"
+    },
+    {
+      "title": "Iran says will hold US responsible for any Israeli attack on nuclear sites - Al Jazeera",
+      "pubDate": "Thu, 22 May 2025 14:31:20 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Strong labor market data doesn't mean the coast is clear for the US economy - Yahoo Finance",
-      "pubDate": "Wed, 07 May 2025 12:49:02 GMT"
-    },
-    {
-      "title": "NRF: Recession Possible, But U.S. Economy Solid For Now - Store Brands",
-      "pubDate": "Wed, 07 May 2025 15:38:10 GMT"
-    },
     {
       "title": "US Treasuries Rise as Fed Cites Uncertain Path for US Economy - Bloomberg.com",
       "pubDate": "Wed, 07 May 2025 18:16:59 GMT"
@@ -1402,6 +1398,10 @@
     {
       "title": "Jamie Dimon sees stagflation's storm clouds coming for the US, sounds alarm for economy - The Economic Times",
       "pubDate": "Thu, 22 May 2025 07:35:56 GMT"
+    },
+    {
+      "title": "Jamie Dimon says the US is still at risk of a fate worse than recession - Business Insider",
+      "pubDate": "Thu, 22 May 2025 14:51:00 GMT"
     }
   ],
   "terrorism": [
@@ -1645,6 +1645,10 @@
     {
       "title": "Oman unveils new national AI safety and ethics policy - ZAWYA",
       "pubDate": "Thu, 22 May 2025 06:02:32 GMT"
+    },
+    {
+      "title": "From Doomsday to Due Diligence: A Broader Mandate for AI Safety - Tech Policy Press",
+      "pubDate": "Thu, 22 May 2025 12:46:57 GMT"
     }
   ],
   "finance": [],
@@ -1681,10 +1685,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Pope Leo XIV must carefully thread needle between Catholic Church's mission, US politics: Experts - ABC News",
-      "pubDate": "Sat, 10 May 2025 21:01:03 GMT"
-    },
     {
       "title": "House Republican Proposal Would Shrink Medicaid Coverage to Advance Trump\u2019s Agenda - The New York Times",
       "pubDate": "Mon, 12 May 2025 21:14:40 GMT"
@@ -1840,6 +1840,10 @@
     {
       "title": "Kalshi's politics events contracts are redefining US betting - sbcnews.co.uk",
       "pubDate": "Thu, 22 May 2025 09:20:11 GMT"
+    },
+    {
+      "title": "Washington DC shooting: suspect in deaths of two Israeli embassy staff is believed to have acted alone, says US attorney general \u2013 latest - The Guardian",
+      "pubDate": "Thu, 22 May 2025 15:12:48 GMT"
     }
   ],
   "brics": [
