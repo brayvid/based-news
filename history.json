@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump lowered tariffs on China. Here\u2019s why that won\u2019t spare Americans from price hikes and shortages - CNN",
-      "pubDate": "Sun, 18 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "US policy shifts on Syria, Yemen, Iran \u2013 but not Israel - Al Jazeera",
       "pubDate": "Sun, 18 May 2025 14:32:04 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "House passes Trump\u2019s \u2018big, beautiful bill\u2019 in marathon overnight session - The Hill",
       "pubDate": "Thu, 22 May 2025 10:56:00 GMT"
+    },
+    {
+      "title": "House passes sweeping domestic policy package after Trump and Speaker Johnson win over holdouts - NBC News",
+      "pubDate": "Thu, 22 May 2025 14:15:26 GMT"
     }
   ],
   "ukraine": [
@@ -212,10 +212,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Why one market vet sees more big pain coming for the dollar \u2014 and a recession by year-end - businessinsider.com",
-      "pubDate": "Thu, 08 May 2025 19:40:00 GMT"
-    },
     {
       "title": "Small Business Owners Fear a Recession, but Aren\u2019t Backing Down, Surveys Say - Inc.com",
       "pubDate": "Fri, 09 May 2025 16:20:10 GMT"
@@ -371,6 +367,10 @@
     {
       "title": "5 Under-the-Radar Recession Indicators Actually Worth Watching - Politico",
       "pubDate": "Thu, 22 May 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Recession fear is no more, claim experts but send chilling warning about US economy - The Economic Times",
+      "pubDate": "Thu, 22 May 2025 16:39:39 GMT"
     }
   ],
   "russia": [
@@ -517,6 +517,10 @@
     {
       "title": "Ukraine-Russia war latest: Zelensky reveals \u2018significant\u2019 Russian losses in Kursk and says fight continues - The Independent",
       "pubDate": "Thu, 22 May 2025 08:47:29 GMT"
+    },
+    {
+      "title": "Putin Says Russia Creating Buffer Zone Along Ukrainian Border - Bloomberg.com",
+      "pubDate": "Thu, 22 May 2025 15:45:37 GMT"
     }
   ],
   "israel": [
@@ -592,10 +596,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "EU Parliament: more AI to combat VAT fraud - VATCalc",
-      "pubDate": "Sat, 17 May 2025 23:00:22 GMT"
-    },
     {
       "title": "Experienced defense professional to discuss artificial intelligence in industry and government - Today's Medical Developments",
       "pubDate": "Sun, 18 May 2025 05:32:19 GMT"
@@ -751,14 +751,14 @@
     {
       "title": "1 Artificial Intelligence Stock Poised for Explosive Gains Over the Next 10 Years - Yahoo Finance",
       "pubDate": "Thu, 22 May 2025 10:15:00 GMT"
+    },
+    {
+      "title": "Illinois Limits Colleges' Use of ChatGPT - Newsweek",
+      "pubDate": "Thu, 22 May 2025 16:10:13 GMT"
     }
   ],
   "public_health": [],
   "financial_markets": [
-    {
-      "title": "Why the Asian currency blowup matters - Axios",
-      "pubDate": "Wed, 07 May 2025 16:12:33 GMT"
-    },
     {
       "title": "Stock futures are little changed after S&P 500 posts first positive day in three following Fed decision: Live updates - CNBC",
       "pubDate": "Thu, 08 May 2025 00:22:00 GMT"
@@ -898,6 +898,10 @@
     {
       "title": "Trump, Ramaphosa Debate \u2018White Genocide\u2019 Allegations at White House - Foreign Policy",
       "pubDate": "Wed, 21 May 2025 22:04:51 GMT"
+    },
+    {
+      "title": "Under Trump, U.S. Foreign Policy Stopped Preaching and Started Performing - Modern Ghana",
+      "pubDate": "Thu, 22 May 2025 13:39:25 GMT"
     }
   ],
   "machine_learning": [
@@ -913,10 +917,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "Oil prices hold near two-week highs on trade war reprieve, weaker dollar - Reuters",
-      "pubDate": "Wed, 14 May 2025 00:56:00 GMT"
-    },
     {
       "title": "How the U.S.-China trade war\u2019s 90-day pause was 70 years in the making - Fortune",
       "pubDate": "Thu, 15 May 2025 14:57:00 GMT"
@@ -1072,13 +1072,13 @@
     {
       "title": "RBA deputy governor says China knew it had a 'strong hand' in trade war with US - Australian Broadcasting Corporation",
       "pubDate": "Thu, 22 May 2025 11:10:41 GMT"
+    },
+    {
+      "title": "Why Trump's Kinder, Gentler Trade War May Still Be A Bumpy Ride For The Stock Market - Investor's Business Daily",
+      "pubDate": "Thu, 22 May 2025 16:57:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "US space chief warns China, Russia are greatest risks to space defense capabilities - The Hill",
-      "pubDate": "Thu, 15 May 2025 20:12:00 GMT"
-    },
     {
       "title": "China\u2019s defence chief forges Europe ties in Paris, Berlin plus UN peace pledge - South China Morning Post",
       "pubDate": "Fri, 16 May 2025 03:26:16 GMT"
@@ -1234,6 +1234,10 @@
     {
       "title": "Tariffs or not, China\u2019s infiltration of US systems needs new attention - Defense News",
       "pubDate": "Thu, 22 May 2025 10:12:42 GMT"
+    },
+    {
+      "title": "CNBC's Inside India newsletter: Why Make-in-India isn't a guaranteed success despite U.S. tariffs on China - CNBC",
+      "pubDate": "Thu, 22 May 2025 16:08:50 GMT"
     }
   ],
   "solar_power": [],
@@ -1402,6 +1406,10 @@
     {
       "title": "Jamie Dimon says the US is still at risk of a fate worse than recession - Business Insider",
       "pubDate": "Thu, 22 May 2025 14:51:00 GMT"
+    },
+    {
+      "title": "U.S. economy improves in May after slump last month, S&P PMI surveys show - MarketWatch",
+      "pubDate": "Thu, 22 May 2025 13:49:00 GMT"
     }
   ],
   "terrorism": [
@@ -1649,6 +1657,10 @@
     {
       "title": "From Doomsday to Due Diligence: A Broader Mandate for AI Safety - Tech Policy Press",
       "pubDate": "Thu, 22 May 2025 12:46:57 GMT"
+    },
+    {
+      "title": "US, allies recommend security protections for AI models - Cybersecurity Dive",
+      "pubDate": "Thu, 22 May 2025 16:14:13 GMT"
     }
   ],
   "finance": [],
@@ -1685,10 +1697,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House Republican Proposal Would Shrink Medicaid Coverage to Advance Trump\u2019s Agenda - The New York Times",
-      "pubDate": "Mon, 12 May 2025 21:14:40 GMT"
-    },
     {
       "title": "RFK Jr. Defends HHS Overhaul as Democrats Denounce \u2018War on Science\u2019 - The New York Times",
       "pubDate": "Wed, 14 May 2025 18:14:20 GMT"
@@ -1844,6 +1852,10 @@
     {
       "title": "Washington DC shooting: suspect in deaths of two Israeli embassy staff is believed to have acted alone, says US attorney general \u2013 latest - The Guardian",
       "pubDate": "Thu, 22 May 2025 15:12:48 GMT"
+    },
+    {
+      "title": "Supreme Court deadlock leaves in place ruling blocking nation\u2019s first religious charter school - CNN",
+      "pubDate": "Thu, 22 May 2025 16:37:00 GMT"
     }
   ],
   "brics": [
