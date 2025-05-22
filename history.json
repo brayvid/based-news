@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Suggests Supreme Court Is \u2018Illegally\u2019 Blocking His Lawless Deportations - Rolling Stone",
-      "pubDate": "Sat, 17 May 2025 21:12:25 GMT"
-    },
-    {
       "title": "Trump warns Walmart against raising prices, tells company to \"eat the tariffs\" - CBS News",
       "pubDate": "Sun, 18 May 2025 01:12:34 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump agenda bill clears critical hurdle as GOP leaders push ahead to full House vote - CNN",
       "pubDate": "Thu, 22 May 2025 06:46:00 GMT"
+    },
+    {
+      "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - CNN",
+      "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -216,10 +216,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "PIMCO sees heightened US recession risks, FT reports - The Mighty 790 KFGO",
-      "pubDate": "Thu, 08 May 2025 05:20:39 GMT"
-    },
     {
       "title": "Goldman's Waldron: Obvious there will be economic impact from tariffs but recession is unclear - MSN",
       "pubDate": "Thu, 08 May 2025 16:23:01 GMT"
@@ -375,6 +371,10 @@
     {
       "title": "VIDEO: US recession more likely than not, says PwC US chief economist - Australian Broadcasting Corporation",
       "pubDate": "Thu, 22 May 2025 07:52:24 GMT"
+    },
+    {
+      "title": "Millennials are sharing recession tips on TikTok - Fast Company",
+      "pubDate": "Thu, 22 May 2025 08:10:58 GMT"
     }
   ],
   "russia": [
@@ -517,6 +517,10 @@
     {
       "title": "Russia\u2019s struggling war economy might be what finally drives Moscow to the negotiating table - CNBC",
       "pubDate": "Thu, 22 May 2025 05:22:28 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Zelensky reveals \u2018significant\u2019 Russian losses in Kursk and says fight continues - The Independent",
+      "pubDate": "Thu, 22 May 2025 08:47:29 GMT"
     }
   ],
   "israel": [
@@ -527,6 +531,10 @@
     {
       "title": "Two Israeli embassy staff shot dead outside Jewish museum in Washington, DC - Al Jazeera",
       "pubDate": "Thu, 22 May 2025 06:04:36 GMT"
+    },
+    {
+      "title": "Israel preparing to strike Iran fast if Trump's nuclear talks break down - Axios",
+      "pubDate": "Thu, 22 May 2025 03:31:06 GMT"
     }
   ],
   "inflation": [
@@ -584,10 +592,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "With Trump\u2019s trip, Persian Gulf states take center stage in AI boom - The Washington Post",
-      "pubDate": "Fri, 16 May 2025 04:46:00 GMT"
-    },
     {
       "title": "How Microsoft's AI Helped Israeli Military In Its War Against Gaza - NDTV",
       "pubDate": "Sat, 17 May 2025 14:36:53 GMT"
@@ -743,14 +747,14 @@
     {
       "title": "AI learns how vision and sound are connected, without human intervention - MIT News",
       "pubDate": "Thu, 22 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "54% of US Workers Wary of GenAI\u2019s Impact on Jobs, Report Finds - PYMNTS.com",
+      "pubDate": "Thu, 22 May 2025 08:03:59 GMT"
     }
   ],
   "public_health": [],
   "financial_markets": [
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with US-China trade talks, Fed rate call in focus - Yahoo Finance",
-      "pubDate": "Wed, 07 May 2025 08:49:41 GMT"
-    },
     {
       "title": "Why the Asian currency blowup matters - Axios",
       "pubDate": "Wed, 07 May 2025 16:12:33 GMT"
@@ -906,10 +910,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "US-China trade war as it happened: Washington and Beijing agree to reduce tariffs; S&P 500 notches third-biggest jump past of 5 years - Financial Times",
-      "pubDate": "Mon, 12 May 2025 22:17:12 GMT"
-    },
-    {
       "title": "Trump tariffs live updates: US slashes 'de minimis' tariff, China lifts Boeing ban amid trade war thaw - Yahoo Finance",
       "pubDate": "Tue, 13 May 2025 11:47:25 GMT"
     },
@@ -1064,13 +1064,13 @@
     {
       "title": "Tariff war: Europe open to trade concessions but draw the line at importing America\u2019s hormone treated \u2018beautiful beef\u2019 - Genetic Literacy Project",
       "pubDate": "Thu, 22 May 2025 04:06:54 GMT"
+    },
+    {
+      "title": "US Stocks \u2018Astronomically Complacent\u2019 About Trade War, CLSA Says - Bloomberg.com",
+      "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China launches first of 2,800 satellites for AI space computing constellation - SpaceNews",
-      "pubDate": "Wed, 14 May 2025 22:50:58 GMT"
-    },
     {
       "title": "EU \u2018has no interest\u2019 in reviving stalled investment deal with China, says trade official - South China Morning Post",
       "pubDate": "Thu, 15 May 2025 08:18:55 GMT"
@@ -1226,6 +1226,10 @@
     {
       "title": "Chinese army reveals helicopter encounters with foreign navy over East China Sea - South China Morning Post",
       "pubDate": "Thu, 22 May 2025 02:13:29 GMT"
+    },
+    {
+      "title": "China says US trade talks important but multilateralism key to solution - Reuters",
+      "pubDate": "Thu, 22 May 2025 07:44:12 GMT"
     }
   ],
   "solar_power": [],
@@ -1390,6 +1394,10 @@
     {
       "title": "JPMorgan CEO Jamie Dimon discusses potential U.S. stagflation risks - Investing.com",
       "pubDate": "Thu, 22 May 2025 05:26:31 GMT"
+    },
+    {
+      "title": "Jamie Dimon sees stagflation's storm clouds coming for the US, sounds alarm for economy - The Economic Times",
+      "pubDate": "Thu, 22 May 2025 07:35:56 GMT"
     }
   ],
   "terrorism": [
@@ -1629,6 +1637,10 @@
     {
       "title": "AI Chatbot Jailbreaking Security Threat is \u2018Immediate, Tangible, and Deeply Concerning\u2019 - TechRepublic",
       "pubDate": "Thu, 22 May 2025 00:05:06 GMT"
+    },
+    {
+      "title": "Oman unveils new national AI safety and ethics policy - ZAWYA",
+      "pubDate": "Thu, 22 May 2025 06:02:32 GMT"
     }
   ],
   "finance": [],
@@ -1665,10 +1677,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Pope Leo's stance on key issues, from climate change to LGBTQ+ rights to U.S. politics - NPR",
-      "pubDate": "Fri, 09 May 2025 17:16:39 GMT"
-    },
     {
       "title": "Trump administration live updates: President Trump suggests 80% China tariff; Newark mayor Ras Baraka arrested at an ICE detention facility - NBC News",
       "pubDate": "Sat, 10 May 2025 02:16:00 GMT"
@@ -1824,6 +1832,10 @@
     {
       "title": "US President Donald Trump accepts luxurious Qatari jet despite security, ethical concerns - Australian Broadcasting Corporation",
       "pubDate": "Thu, 22 May 2025 01:09:09 GMT"
+    },
+    {
+      "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
+      "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
     }
   ],
   "brics": [
