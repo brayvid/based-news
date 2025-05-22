@@ -22,13 +22,13 @@ SUMMARY_FILE = os.path.join(BASE_DIR, "public", "summary.html")
 LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
 os.makedirs(os.path.dirname(LOGFILE), exist_ok=True)
 
-# --- Locking to prevent concurrent runs ---
-if os.path.exists(LOCKFILE):
-    print("summary.py is already running. Exiting.")
-    sys.exit()
-else:
-    with open(LOCKFILE, "w") as f:
-        f.write("locked")
+# # --- Locking to prevent concurrent runs ---
+# if os.path.exists(LOCKFILE):
+#     print("summary.py is already running. Exiting.")
+#     sys.exit()
+# else:
+#     with open(LOCKFILE, "w") as f:
+#         f.write("locked")
 
 # --- Logging ---
 logging.basicConfig(filename=LOGFILE, level=logging.INFO)
@@ -151,7 +151,7 @@ try:
 except Exception as e:
     logging.error(f"Git commit/push failed: {e}")
 
-# --- Cleanup ---
-if os.path.exists(LOCKFILE):
-    os.remove(LOCKFILE)
-    logging.info("Lockfile released.")
+# # --- Cleanup ---
+# if os.path.exists(LOCKFILE):
+#     os.remove(LOCKFILE)
+#     logging.info("Lockfile released.")

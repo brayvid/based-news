@@ -18,14 +18,14 @@ TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_
 KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
 
-# Prevent concurrent runs using a lockfile
-LOCKFILE = os.path.join(BASE_DIR, "based_news.lock")
-if os.path.exists(LOCKFILE):
-    print("Script is already running. Exiting.")
-    sys.exit()
-else:
-    with open(LOCKFILE, 'w') as f:
-        f.write("locked")
+# # Prevent concurrent runs using a lockfile
+# LOCKFILE = os.path.join(BASE_DIR, "based_news.lock")
+# if os.path.exists(LOCKFILE):
+#     print("Script is already running. Exiting.")
+#     sys.exit()
+# else:
+#     with open(LOCKFILE, 'w') as f:
+#         f.write("locked")
 
 # Import all required libraries
 import csv
@@ -572,16 +572,17 @@ def main():
             logging.error(f"Git commit/push failed: {e}")
 
     finally:
-        # nltk_path = os.path.expanduser("~/nltk_data")
-        # if os.path.exists(nltk_path):
-        #     try:
-        #         shutil.rmtree(nltk_path)
-        #     except Exception as e:
-        #         logging.warning(f"Failed to delete ~/nltk_data: {e}")
+        pass
+    #     # nltk_path = os.path.expanduser("~/nltk_data")
+    #     # if os.path.exists(nltk_path):
+    #     #     try:
+    #     #         shutil.rmtree(nltk_path)
+    #     #     except Exception as e:
+    #     #         logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
-        if os.path.exists(LOCKFILE):
-            os.remove(LOCKFILE)
-        logging.info(f"Lockfile released at {datetime.now()}")
+    #     if os.path.exists(LOCKFILE):
+    #         os.remove(LOCKFILE)
+    #     logging.info(f"Lockfile released at {datetime.now()}")
 
 
 if __name__ == "__main__":
