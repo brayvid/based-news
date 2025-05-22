@@ -213,10 +213,6 @@
   ],
   "recession": [
     {
-      "title": "Small Business Owners Fear a Recession, but Aren\u2019t Backing Down, Surveys Say - Inc.com",
-      "pubDate": "Fri, 09 May 2025 16:20:10 GMT"
-    },
-    {
       "title": "Why the Federal Reserve risks falling behind the curve as recession fears rise - The Hill",
       "pubDate": "Sat, 10 May 2025 18:00:00 GMT"
     },
@@ -371,6 +367,10 @@
     {
       "title": "Recession fear is no more, claim experts but send chilling warning about US economy - The Economic Times",
       "pubDate": "Thu, 22 May 2025 16:39:39 GMT"
+    },
+    {
+      "title": "Recession warning from banking giant: 100k job cuts likely as housing falters - MPA Mag",
+      "pubDate": "Thu, 22 May 2025 13:10:08 GMT"
     }
   ],
   "russia": [
@@ -521,6 +521,10 @@
     {
       "title": "Putin Says Russia Creating Buffer Zone Along Ukrainian Border - Bloomberg.com",
       "pubDate": "Thu, 22 May 2025 15:45:37 GMT"
+    },
+    {
+      "title": "Russia Redeploys Nuclear-Tipped Air-to-Air Missiles in Echo of Cold War - Newsweek",
+      "pubDate": "Thu, 22 May 2025 17:37:08 GMT"
     }
   ],
   "israel": [
@@ -583,10 +587,6 @@
   ],
   "united_nations": [
     {
-      "title": "Israeli envoy at UN says Houthi attacks will not go unanswered - Yahoo",
-      "pubDate": "Wed, 07 May 2025 17:19:20 GMT"
-    },
-    {
       "title": "UN envoy emphasizes China's role in victory over fascism - China Daily",
       "pubDate": "Thu, 08 May 2025 02:04:00 GMT"
     },
@@ -596,10 +596,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Experienced defense professional to discuss artificial intelligence in industry and government - Today's Medical Developments",
-      "pubDate": "Sun, 18 May 2025 05:32:19 GMT"
-    },
     {
       "title": "Musk\u2019s AI bot Grok blames its Holocaust scepticism on \u2018programming error\u2019 - The Guardian",
       "pubDate": "Sun, 18 May 2025 14:45:00 GMT"
@@ -755,6 +751,10 @@
     {
       "title": "Illinois Limits Colleges' Use of ChatGPT - Newsweek",
       "pubDate": "Thu, 22 May 2025 16:10:13 GMT"
+    },
+    {
+      "title": "Melania Trump releases audiobook of memoir created with artificial intelligence - ABC News",
+      "pubDate": "Thu, 22 May 2025 12:45:00 GMT"
     }
   ],
   "public_health": [],
@@ -918,10 +918,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "How the U.S.-China trade war\u2019s 90-day pause was 70 years in the making - Fortune",
-      "pubDate": "Thu, 15 May 2025 14:57:00 GMT"
-    },
-    {
       "title": "Tariffs plunged Chinese imports to lowest levels since the pandemic - USA Today",
       "pubDate": "Thu, 15 May 2025 20:05:20 GMT"
     },
@@ -1076,13 +1072,13 @@
     {
       "title": "Why Trump's Kinder, Gentler Trade War May Still Be A Bumpy Ride For The Stock Market - Investor's Business Daily",
       "pubDate": "Thu, 22 May 2025 16:57:00 GMT"
+    },
+    {
+      "title": "Trump trade war costs US farmers lucrative Chinese export market for breeding pigs, cattle semen - Reuters",
+      "pubDate": "Thu, 22 May 2025 12:13:47 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s defence chief forges Europe ties in Paris, Berlin plus UN peace pledge - South China Morning Post",
-      "pubDate": "Fri, 16 May 2025 03:26:16 GMT"
-    },
     {
       "title": "'You start to go crazy': The Australian who survived five years in a Chinese prison - BBC",
       "pubDate": "Sat, 17 May 2025 23:16:56 GMT"
@@ -1238,6 +1234,10 @@
     {
       "title": "CNBC's Inside India newsletter: Why Make-in-India isn't a guaranteed success despite U.S. tariffs on China - CNBC",
       "pubDate": "Thu, 22 May 2025 16:08:50 GMT"
+    },
+    {
+      "title": "China\u2019s Xiaomi claims new phone chip rivals Apple at a cheaper price - CNBC",
+      "pubDate": "Thu, 22 May 2025 12:36:55 GMT"
     }
   ],
   "solar_power": [],
@@ -1410,6 +1410,10 @@
     {
       "title": "U.S. economy improves in May after slump last month, S&P PMI surveys show - MarketWatch",
       "pubDate": "Thu, 22 May 2025 13:49:00 GMT"
+    },
+    {
+      "title": "US economy at 'much more delicate point': Economist talks Fed - Yahoo Finance",
+      "pubDate": "Thu, 22 May 2025 13:42:57 GMT"
     }
   ],
   "terrorism": [
@@ -1661,6 +1665,10 @@
     {
       "title": "US, allies recommend security protections for AI models - Cybersecurity Dive",
       "pubDate": "Thu, 22 May 2025 16:14:13 GMT"
+    },
+    {
+      "title": "Researchers Find It All Too Easy to Bypass AI Safety Systems - WebProNews",
+      "pubDate": "Thu, 22 May 2025 15:00:58 GMT"
     }
   ],
   "finance": [],
@@ -1697,10 +1705,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "RFK Jr. Defends HHS Overhaul as Democrats Denounce \u2018War on Science\u2019 - The New York Times",
-      "pubDate": "Wed, 14 May 2025 18:14:20 GMT"
-    },
     {
       "title": "Supreme court hears arguments on birthright citizenship dispute \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 15 May 2025 14:31:18 GMT"
@@ -1856,6 +1860,10 @@
     {
       "title": "Supreme Court deadlock leaves in place ruling blocking nation\u2019s first religious charter school - CNN",
       "pubDate": "Thu, 22 May 2025 16:37:00 GMT"
+    },
+    {
+      "title": "Sleep-Deprived Lawmakers Stay Up All Night to Pass the \u2018Big, Beautiful\u2019 Bill - The New York Times",
+      "pubDate": "Thu, 22 May 2025 14:59:06 GMT"
     }
   ],
   "brics": [
