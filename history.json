@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook' - CNBC",
-      "pubDate": "Thu, 15 May 2025 09:17:28 GMT"
-    },
-    {
       "title": "Live updates: Trump, during Mideast trip, says a meeting with Putin is key to Russia-Ukraine talks - The Washington Post",
       "pubDate": "Thu, 15 May 2025 21:53:45 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump has turned the GOP toward populism. But the megabill mostly helps the wealthy. - Politico",
       "pubDate": "Thu, 22 May 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Second Oval Office ambush by Trump could make foreign leaders think twice - Reuters",
+      "pubDate": "Wed, 21 May 2025 22:53:43 GMT"
     }
   ],
   "ukraine": [
@@ -216,10 +216,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Apparently Everything Is a Recession Indicator Now - glamour.com",
-      "pubDate": "Wed, 07 May 2025 13:00:00 GMT"
-    },
     {
       "title": "Goldman Sachs expects China tariffs to drop soon. But the bank still puts the chance of a recession at 45% - Fortune",
       "pubDate": "Wed, 07 May 2025 16:48:00 GMT"
@@ -375,6 +371,10 @@
     {
       "title": "Singapore could enter technical recession, trade ministry official says By Reuters - Investing.com",
       "pubDate": "Thu, 22 May 2025 01:11:48 GMT"
+    },
+    {
+      "title": "Larry Summers Asks Trump To 'Retreat' On Taxes Just Like He Did On Tariffs: 'Few More Days Like This And Recession Will Be Likely' - Benzinga",
+      "pubDate": "Thu, 22 May 2025 02:08:31 GMT"
     }
   ],
   "russia": [
@@ -509,6 +509,10 @@
     {
       "title": "Putin aims to destroy Ukraine and has zero interest in a compromise peace - Atlantic Council",
       "pubDate": "Wed, 21 May 2025 20:51:00 GMT"
+    },
+    {
+      "title": "Russia Fielding New Nuclear-Armed Air-To-Air Missiles: U.S. Intel - The War Zone",
+      "pubDate": "Wed, 21 May 2025 22:12:46 GMT"
     }
   ],
   "israel": [
@@ -572,10 +576,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Scientists use AI to encrypt secret messages that are invisible to cybersecurity systems - Live Science",
-      "pubDate": "Thu, 15 May 2025 15:49:25 GMT"
-    },
     {
       "title": "Scammers use AI to spoof senior U.S. officials' voices, FBI warns - Axios",
       "pubDate": "Thu, 15 May 2025 17:55:04 GMT"
@@ -731,6 +731,10 @@
     {
       "title": "Artificial intelligence against prison threats: A disruptive innovation in X-ray screening - Corrections1",
       "pubDate": "Wed, 21 May 2025 21:02:53 GMT"
+    },
+    {
+      "title": "Santa Clara County turns uses artificial intelligence sensors to help detect fires early before major destruction - ABC7 San Francisco",
+      "pubDate": "Thu, 22 May 2025 01:33:11 GMT"
     }
   ],
   "public_health": [],
@@ -824,10 +828,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump team urged Ukraine to take U.S. deportees amid war, documents show - The Washington Post",
-      "pubDate": "Wed, 07 May 2025 02:56:21 GMT"
-    },
-    {
       "title": "Vance slams Biden\u2019s foreign policy in response to Zelensky meeting criticism: \u2018Total disaster\u2019 - New York Post",
       "pubDate": "Fri, 09 May 2025 04:49:59 GMT"
     },
@@ -893,10 +893,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "US-China agree to \u2018trade consultation mechanism\u2019, conduct further talks, He Lifeng says - South China Morning Post",
-      "pubDate": "Sun, 11 May 2025 20:10:02 GMT"
-    },
     {
       "title": "US-China trade war latest: Global markets lifted by tariff deal - Financial Times",
       "pubDate": "Mon, 12 May 2025 09:07:16 GMT"
@@ -1052,13 +1048,13 @@
     {
       "title": "Family offices brace for trade war and tilt portfolios toward liquidity and AI - Citywire",
       "pubDate": "Thu, 22 May 2025 00:14:04 GMT"
+    },
+    {
+      "title": "Singapore economy beats Q1 forecasts, warns of trade war risks - Times of India",
+      "pubDate": "Thu, 22 May 2025 02:29:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Xi Defiance Pays Off as Trump Meets Most China Trade Demands - Bloomberg.com",
-      "pubDate": "Tue, 13 May 2025 00:44:00 GMT"
-    },
     {
       "title": "China Surrounded Xi\u2019s Aide With Seasoned Experts to Seal US Deal - Bloomberg.com",
       "pubDate": "Wed, 14 May 2025 02:03:18 GMT"
@@ -1214,6 +1210,10 @@
     {
       "title": "China's BYD sold 213,325 vehicles with smart-assisted driving features in April - Reuters",
       "pubDate": "Thu, 22 May 2025 01:02:57 GMT"
+    },
+    {
+      "title": "Baidu Reports Surprise Revenue Jump During China\u2019s AI Battle - Bloomberg",
+      "pubDate": "Wed, 21 May 2025 23:33:31 GMT"
     }
   ],
   "solar_power": [],
@@ -1796,6 +1796,10 @@
     {
       "title": "US House works all night as Trump's budget bill still on hold - BBC",
       "pubDate": "Wed, 21 May 2025 17:29:17 GMT"
+    },
+    {
+      "title": "Democrats warn GOP is weakening filibuster as Senate moves to nullify California\u2019s electric vehicle mandate - KTVZ",
+      "pubDate": "Thu, 22 May 2025 01:57:14 GMT"
     }
   ],
   "brics": [
