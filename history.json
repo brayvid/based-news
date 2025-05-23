@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump signs bill outlawing \u2018revenge porn\u2019 - Al Jazeera",
-      "pubDate": "Tue, 20 May 2025 05:53:01 GMT"
-    },
-    {
       "title": "Trump Heads to Capitol Hill to Rally GOP Support For Budget Bill: Live Updates - Newsweek",
       "pubDate": "Tue, 20 May 2025 15:19:23 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump urges Senate to pass his tax and immigration bill \u2018as soon as possible\u2019 - The Washington Post",
       "pubDate": "Fri, 23 May 2025 01:55:10 GMT"
+    },
+    {
+      "title": "Administration bars Harvard from enrolling foreign students, says thousands must transfer - AP News",
+      "pubDate": "Thu, 22 May 2025 23:47:00 GMT"
     }
   ],
   "ukraine": [
@@ -212,10 +212,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "America faces a summer of smaller raises \u2014 and fewer jobs - Business Insider",
-      "pubDate": "Thu, 15 May 2025 08:03:00 GMT"
-    },
     {
       "title": "A Recession Can Decimate Your Savings. Protect Your Money by Keeping It in These Places - CNET",
       "pubDate": "Fri, 16 May 2025 03:10:10 GMT"
@@ -371,6 +367,10 @@
     {
       "title": "This Canadian Retailer Yielding 4.3% is My Top Recession-Resilient Pick - Yahoo",
       "pubDate": "Thu, 22 May 2025 23:00:00 GMT"
+    },
+    {
+      "title": "America's most powerful banker Jamie Dimon stuns with warning US faces something worse than recession - Daily Mail",
+      "pubDate": "Fri, 23 May 2025 02:26:32 GMT"
     }
   ],
   "russia": [
@@ -521,6 +521,10 @@
     {
       "title": "Russian hackers target Western firms shipping aid to Ukraine, US intelligence says - AP News",
       "pubDate": "Thu, 22 May 2025 20:47:00 GMT"
+    },
+    {
+      "title": "G7 vows to address global economic \u2018imbalances\u2019, considers Russia sanctions - Al Jazeera",
+      "pubDate": "Thu, 22 May 2025 21:09:33 GMT"
     }
   ],
   "israel": [
@@ -583,19 +587,11 @@
   ],
   "united_nations": [
     {
-      "title": "UN envoy emphasizes China's role in victory over fascism - China Daily",
-      "pubDate": "Thu, 08 May 2025 02:04:00 GMT"
-    },
-    {
       "title": "UN warns copper shortage risks slowing global energy and technology shift - UN News",
       "pubDate": "Fri, 09 May 2025 20:53:13 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How Artificial Intelligence Is Re-Shaping Litigation - The National Law Review",
-      "pubDate": "Tue, 20 May 2025 13:56:08 GMT"
-    },
     {
       "title": "Google I/O: Artificial Intelligence To Rule The Day With Gemini, AI Agents - Investor's Business Daily",
       "pubDate": "Tue, 20 May 2025 16:50:00 GMT"
@@ -751,6 +747,10 @@
     {
       "title": "Report: Artificial Intelligence Agents Can Organize Themselves And Create Their Own Social Norms - MITechNews",
       "pubDate": "Thu, 22 May 2025 20:49:15 GMT"
+    },
+    {
+      "title": "Nuclear renaissance: JFAC visits INL, learns of artificial intelligence's place in nuclear power - East Idaho News",
+      "pubDate": "Thu, 22 May 2025 23:15:00 GMT"
     }
   ],
   "public_health": [],
@@ -834,6 +834,10 @@
     {
       "title": "Stock Market Today: Dow, Nasdaq Rise; Tax Bill Fuels Fresh Bond Jitters, Bitcoin Extends Rally \u2014 Live Updates - WSJ",
       "pubDate": "Thu, 22 May 2025 18:13:00 GMT"
+    },
+    {
+      "title": "A famed Wall Street bear warns of 'global financial market Armageddon' as Japanese bond yields spike - Business Insider",
+      "pubDate": "Thu, 22 May 2025 23:01:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -913,10 +917,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "Burry Bets Against Nvidia, China Stocks in Run-Up to Trade War - Bloomberg",
-      "pubDate": "Fri, 16 May 2025 00:02:00 GMT"
-    },
     {
       "title": "Dockworker unions back trade war amid collapse of traffic on US docks - World Socialist Web Site",
       "pubDate": "Fri, 16 May 2025 03:11:44 GMT"
@@ -1072,13 +1072,13 @@
     {
       "title": "Speaking in Hartford, Mexican and Canadian diplomats lament Trump's trade war - Connecticut Public",
       "pubDate": "Thu, 22 May 2025 16:54:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s \u2018gold card\u2019 visa flops among rich Chinese amid trade war, crime fears - South China Morning Post",
+      "pubDate": "Thu, 22 May 2025 22:00:15 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's state banks will cut deposit rates on Tuesday, sources say - Reuters",
-      "pubDate": "Mon, 19 May 2025 14:58:47 GMT"
-    },
     {
       "title": "Hyundai is making a comeback in China and this new EV might just seal the deal - Electrek",
       "pubDate": "Mon, 19 May 2025 18:44:00 GMT"
@@ -1234,6 +1234,10 @@
     {
       "title": "Senior US-China Officials Vow to Keep Communication Lines Open - Bloomberg.com",
       "pubDate": "Fri, 23 May 2025 01:14:00 GMT"
+    },
+    {
+      "title": "US agency votes to bar Chinese labs deemed security risks from testing US electronics - Reuters",
+      "pubDate": "Fri, 23 May 2025 01:55:07 GMT"
     }
   ],
   "solar_power": [],
@@ -1428,6 +1432,10 @@
     {
       "title": "Deadly blast outside Palm Springs fertility clinic 'intentional act of terrorism,' FBI says - ABC News",
       "pubDate": "Sun, 18 May 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Israeli embassy worker killings investigated as hate crime and terrorism - PBS",
+      "pubDate": "Thu, 22 May 2025 22:55:38 GMT"
     }
   ],
   "world_economy": [],
@@ -1564,10 +1572,6 @@
   "police_officers": [],
   "apple": [],
   "north_korea": [
-    {
-      "title": "North Korea fires short-range missiles possibly in performance test for export - Reuters",
-      "pubDate": "Thu, 08 May 2025 02:14:00 GMT"
-    },
     {
       "title": "Kim Jong Un Slams \u2018Serious\u2019 Warship Accident at Launch Ceremony - Bloomberg",
       "pubDate": "Thu, 22 May 2025 00:48:00 GMT"
@@ -1709,10 +1713,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin returns to $98K as Fed holds rates steady despite Trump\u2019s demand - Cointelegraph",
-      "pubDate": "Thu, 08 May 2025 02:51:12 GMT"
-    },
-    {
       "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
       "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
     },
@@ -1732,10 +1732,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Mike Pence reveals whether he plans to run in 2028 - The Independent",
-      "pubDate": "Sun, 18 May 2025 20:46:00 GMT"
-    },
     {
       "title": "Joe Biden Is Diagnosed With an Aggressive Form of Prostate Cancer - The New York Times",
       "pubDate": "Mon, 19 May 2025 03:12:18 GMT"
@@ -1891,6 +1887,10 @@
     {
       "title": "Harvard says Trump administration\u2019s block on international student enrollment \u2018unlawful\u2019 \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 22 May 2025 21:13:00 GMT"
+    },
+    {
+      "title": "How Trump and RFK Jr plan to \u2018make America healthy again\u2019 - The Times",
+      "pubDate": "Thu, 22 May 2025 23:40:00 GMT"
     }
   ],
   "brics": [
