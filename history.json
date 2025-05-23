@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "IMF urges US to curb deficit as Trump tax cut plan stirs debt fears - Financial Times",
-      "pubDate": "Wed, 21 May 2025 04:00:00 GMT"
-    },
-    {
       "title": "South Africa\u2019s Ramaphosa visits Trump for high-stakes talks that could reset or worsen fraught ties - CNN",
       "pubDate": "Wed, 21 May 2025 04:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "In Attacks on Harvard, Chinese See Yet Another Reason to Write Off the U.S. - The New York Times",
       "pubDate": "Fri, 23 May 2025 07:57:04 GMT"
+    },
+    {
+      "title": "Trump's DOJ may let Boeing escape guilty plea \u2014 and family members of crash victims aren't pleased - Yahoo Finance",
+      "pubDate": "Fri, 23 May 2025 08:00:05 GMT"
     }
   ],
   "ukraine": [
@@ -208,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Goldman Sachs resets interest rate cut forecast, recession outlook - TheStreet",
-      "pubDate": "Fri, 16 May 2025 00:07:00 GMT"
-    },
     {
       "title": "\u2018What we\u2019re doing is very big\u2019: Trump says he won\u2019t rule out a recession \u2014 here are 3 simple strategies to help keep your finances safe in a downturn - MSN",
       "pubDate": "Sun, 18 May 2025 15:50:36 GMT"
@@ -367,13 +363,13 @@
     {
       "title": "The Always Wrong, Never In Doubt Dr. Krugman Predicts Recession! - RealClearMarkets",
       "pubDate": "Fri, 23 May 2025 08:24:01 GMT"
+    },
+    {
+      "title": "Trump May 'Want' A Recession: Market Observer Says It Serves His Economic Agenda\u2014Lower Rates, Oil Prices, And Trade Deficit - Benzinga",
+      "pubDate": "Fri, 23 May 2025 06:10:29 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine accuses Russia of violating its own truce over 700 times as Kyiv ratifies US minerals deal - The Washington Post",
-      "pubDate": "Fri, 09 May 2025 00:48:54 GMT"
-    },
     {
       "title": "Putin Enlists Russian Pride for War in Ukraine During Moscow Parade - The New York Times",
       "pubDate": "Fri, 09 May 2025 18:35:45 GMT"
@@ -529,6 +525,10 @@
     {
       "title": "Drone Attack In Russia Delays Kanimozhi-Led Op Sindoor Delegation's Flight - NDTV",
       "pubDate": "Fri, 23 May 2025 07:31:25 GMT"
+    },
+    {
+      "title": "EU membership, seizing Russia\u2019s money needed to rebuild Ukraine: Analysts - Al Jazeera",
+      "pubDate": "Fri, 23 May 2025 06:45:36 GMT"
     }
   ],
   "israel": [
@@ -565,13 +565,13 @@
     {
       "title": "Japan faces a \u2018rice crisis\u2019 as price nearly doubles for food staple - Al Jazeera",
       "pubDate": "Fri, 23 May 2025 08:03:45 GMT"
+    },
+    {
+      "title": "Japanese bonds rally after fiscal concerns send super-long yields to records - Reuters",
+      "pubDate": "Fri, 23 May 2025 06:30:00 GMT"
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybersecurity threats CISOs should be most worried about in 2025 - iTnews Asia",
-      "pubDate": "Thu, 08 May 2025 09:22:42 GMT"
-    },
     {
       "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware - The Hacker News",
       "pubDate": "Thu, 08 May 2025 13:47:00 GMT"
@@ -596,10 +596,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Alphabet Just Made a Moonshot Stock One of Its Biggest Investments and Dumped 83% of Its Stake in a High-Flying Artificial Intelligence (AI) Giant - The Motley Fool",
-      "pubDate": "Wed, 21 May 2025 04:49:00 GMT"
-    },
     {
       "title": "Federal bill could affect TN\u2019s regulations on artificial intelligence - WKRN News 2",
       "pubDate": "Wed, 21 May 2025 03:18:33 GMT"
@@ -755,6 +751,10 @@
     {
       "title": "GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts - The Hacker News",
       "pubDate": "Fri, 23 May 2025 04:34:00 GMT"
+    },
+    {
+      "title": "Microsoft Executive Says Companies Might Be Naming 'AI Chiefs' But They Risk Losing Momentum In The Artificial Intelligence Age If They Rely On Individuals - Benzinga",
+      "pubDate": "Fri, 23 May 2025 07:07:33 GMT"
     }
   ],
   "public_health": [],
@@ -926,10 +926,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "Trump orders Walmart to \u2018eat the tariffs\u2019 and stop blaming his trade war for rising prices: \u2018I\u2019ll be watching\u2019 - The Independent",
-      "pubDate": "Sat, 17 May 2025 23:42:00 GMT"
-    },
-    {
       "title": "US Stock Market Looks More Favorable Now Than Pre-Trade War, According to Fundstrat\u2019s Tom Lee \u2013 Here\u2019s Why - The Daily Hodl",
       "pubDate": "Sun, 18 May 2025 07:04:11 GMT"
     },
@@ -1084,13 +1080,13 @@
     {
       "title": "US-China Trade War Shows Signs of Easing with Delegates Maintain Communication - kaohoon international",
       "pubDate": "Fri, 23 May 2025 06:45:48 GMT"
+    },
+    {
+      "title": "As the aftermath of the trade war lingers, the import pattern of secondary copper in China is accelerating its restructuring - Shanghai Metals Market",
+      "pubDate": "Fri, 23 May 2025 09:24:58 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Pacific must not become a \u2018military zone\u2019 amid rise of China, New Zealand\u2019s deputy PM warns - The Guardian",
-      "pubDate": "Wed, 21 May 2025 00:05:00 GMT"
-    },
     {
       "title": "China warns of legal consequences to those involved in US chip measures - Reuters",
       "pubDate": "Wed, 21 May 2025 01:30:00 GMT"
@@ -1246,6 +1242,10 @@
     {
       "title": "WGC Rising gas output, pipeline supplies slow China's LNG demand - Reuters",
       "pubDate": "Fri, 23 May 2025 08:29:44 GMT"
+    },
+    {
+      "title": "China says Trump Harvard ban will \u2018tarnish\u2019 US image as students caught in crosshairs - CNN",
+      "pubDate": "Fri, 23 May 2025 08:45:00 GMT"
     }
   ],
   "solar_power": [],
@@ -1731,10 +1731,6 @@
   "violence": [],
   "energy_storage": [],
   "bitcoin": [
-    {
-      "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
-      "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
-    },
     {
       "title": "Bitcoin, XRP Soar. Cryptos Are So Back\u2014Unless They\u2019re Not. - Barron's",
       "pubDate": "Fri, 09 May 2025 16:25:00 GMT"
