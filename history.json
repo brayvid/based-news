@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Latest on Trump\u2019s presidency as key House GOP panel meets on domestic policy bill - CNN",
-      "pubDate": "Wed, 21 May 2025 09:15:00 GMT"
-    },
-    {
       "title": "These 7 executive actions show how Trump wants to reshape American history - NPR",
       "pubDate": "Wed, 21 May 2025 09:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Nuclear stocks surge on report of Trump executive orders to boost industry - Reuters",
       "pubDate": "Fri, 23 May 2025 09:11:53 GMT"
+    },
+    {
+      "title": "Donald Trump Announces 'Major Prisoners Swap' - Newsweek",
+      "pubDate": "Fri, 23 May 2025 11:08:15 GMT"
     }
   ],
   "ukraine": [
@@ -208,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "\u2018What we\u2019re doing is very big\u2019: Trump says he won\u2019t rule out a recession \u2014 here are 3 simple strategies to help keep your finances safe in a downturn - MSN",
-      "pubDate": "Sun, 18 May 2025 15:50:36 GMT"
-    },
     {
       "title": "Michael Burry Makes Major Portfolio Shift, Holding Only One Asset He Deems 'Recession-Proof' - Benzinga",
       "pubDate": "Sun, 18 May 2025 17:21:18 GMT"
@@ -367,6 +363,10 @@
     {
       "title": "Trump May 'Want' A Recession: Market Observer Says It Serves His Economic Agenda\u2014Lower Rates, Oil Prices, And Trade Deficit - Benzinga",
       "pubDate": "Fri, 23 May 2025 06:10:29 GMT"
+    },
+    {
+      "title": "Romania\u2019s president-elect says economy is in recession and deficit must fall - TVP World",
+      "pubDate": "Fri, 23 May 2025 10:41:00 GMT"
     }
   ],
   "russia": [
@@ -597,10 +597,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Billionaire Stanley Druckenmiller Dumped Shares of Nvidia and Palantir and Is Loading Up on His New Favorite Artificial Intelligence (AI) Stock - Yahoo Finance",
-      "pubDate": "Wed, 21 May 2025 07:51:00 GMT"
-    },
-    {
       "title": "Google AI Advances Cheered by Wall Street. Why the Stock Reaction Is Less Bullish. - Barron's",
       "pubDate": "Wed, 21 May 2025 11:09:00 GMT"
     },
@@ -755,6 +751,10 @@
     {
       "title": "This Is My Top Artificial Intelligence (AI) Stock to Buy Right Now - The Motley Fool",
       "pubDate": "Fri, 23 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Billionaire Dan Loeb Sold His Fund's Entire Stake in Tesla and Is Piling Into Wall Street's Preeminent Artificial Intelligence (AI) Stock - The Motley Fool",
+      "pubDate": "Fri, 23 May 2025 07:51:00 GMT"
     }
   ],
   "public_health": [],
@@ -914,6 +914,10 @@
     {
       "title": "Trump brings AI, not democracy, to the Middle East - The Strategist | ASPI's analysis and commentary site",
       "pubDate": "Thu, 22 May 2025 20:05:57 GMT"
+    },
+    {
+      "title": "Future queen of Belgium Elisabeth caught up in Harvard foreign student ban - Al Arabiya English",
+      "pubDate": "Fri, 23 May 2025 11:41:00 GMT"
     }
   ],
   "machine_learning": [
@@ -925,10 +929,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "Tariffs live updates: Trump urges Walmart to 'eat the tariffs' and wants Fed to cut rates 'sooner than later' - Yahoo Finance",
-      "pubDate": "Sun, 18 May 2025 15:10:41 GMT"
-    },
     {
       "title": "Mansion sales are booming as the rich seek shelter from trade war fallout \u2014 'real estate is safer' - Fortune",
       "pubDate": "Sun, 18 May 2025 18:54:00 GMT"
@@ -1084,13 +1084,13 @@
     {
       "title": "Rock and hard place: how a trade war squeezes one small Japanese firm - Reuters",
       "pubDate": "Fri, 23 May 2025 06:52:30 GMT"
+    },
+    {
+      "title": "Tariff crossfire hits Toyota, Nissan, Ford suppliers in Japan - ET Auto",
+      "pubDate": "Fri, 23 May 2025 07:01:15 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China slams new US chip curbs as 'bullying,' vows response - France 24",
-      "pubDate": "Wed, 21 May 2025 02:09:23 GMT"
-    },
     {
       "title": "US and China are already feuding again after unexpected trade truce - CNN",
       "pubDate": "Wed, 21 May 2025 06:23:00 GMT"
@@ -1246,6 +1246,10 @@
     {
       "title": "4 dead, 17 missing as heavy rains soak southern China, triggering landslides - Reuters",
       "pubDate": "Fri, 23 May 2025 05:53:00 GMT"
+    },
+    {
+      "title": "China's Xi, Germany's Merz stress ties to weather trade turmoil - Reuters",
+      "pubDate": "Fri, 23 May 2025 11:37:49 GMT"
     }
   ],
   "solar_power": [],
@@ -1275,10 +1279,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump heads to Saudi Arabia eyeing more investment in US - BBC",
-      "pubDate": "Sun, 11 May 2025 23:44:47 GMT"
-    },
     {
       "title": "Economic outlook brightens, recession odds fall after US-China tariff deal - USA Today",
       "pubDate": "Mon, 12 May 2025 18:33:52 GMT"
@@ -1434,6 +1434,10 @@
     {
       "title": "Forget being in 'sweet spot' \u2014 JP Morgan chief Jamie Dimon warns of dangerous stagflation risk ahead for US economy - Mint",
       "pubDate": "Fri, 23 May 2025 09:55:47 GMT"
+    },
+    {
+      "title": "Clean energy dollars are gushing to red states. Now GOP senators are in a bind. - The Washington Post",
+      "pubDate": "Fri, 23 May 2025 11:31:19 GMT"
     }
   ],
   "terrorism": [
@@ -1564,6 +1568,10 @@
     {
       "title": "The Democrats: Leadership discredited, party off kilter - WV News",
       "pubDate": "Fri, 23 May 2025 02:10:00 GMT"
+    },
+    {
+      "title": "Democratic credibility tanks to \u2018catastrophic\u2019 level with Biden health cover-up - Washington Examiner",
+      "pubDate": "Fri, 23 May 2025 09:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
