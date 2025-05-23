@@ -18,7 +18,6 @@ CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_
 
 # --- Setup ---
 BASE_DIR = os.path.dirname(__file__)
-LOCKFILE = os.path.join(BASE_DIR, "summary.lock")
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
 SUMMARY_FILE = os.path.join(BASE_DIR, "public", "summary.html")
 LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
@@ -81,7 +80,6 @@ try:
         history_data = json.load(f)
 except Exception as e:
     logging.critical(f"Failed to load history.json: {e}")
-    os.remove(LOCKFILE)
     sys.exit(1)
 
 # --- Format history into plain text ---
@@ -110,7 +108,6 @@ try:
 
 except Exception as e:
     logging.error(f"Gemini request failed: {e}")
-    os.remove(LOCKFILE)
     sys.exit(1)
 
 # --- Format HTML output ---
