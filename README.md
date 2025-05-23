@@ -19,7 +19,7 @@ This Python script is designed to fetch the latest Google News RSS headlines for
 
 ```plaintext
 based-news/
-├── based_news.py         # Main script
+├── based_news.py          # Main script
 ├── requirements.txt       # Python dependencies
 ├── history.json           # Stores previously posted headlines
 ├── public/                # Webpage directory
@@ -28,7 +28,6 @@ based-news/
 │   └── summary.html       # Gets updated biweekly
 ├── .env                   # Contains Gemini API key (excluded from version control)
 └── logs/                  # Log directory (excluded from version control)
-    └── based_news.log     # Cron and runtime logs
 ```
 
 ---
@@ -126,17 +125,3 @@ Example crontab entry:
 ```
 
 ---
-
-## Lockfile Notice
-
-If interrupted, the script may leave behind a lockfile (`based_news.lock`). Remove it manually if needed:
-
-```bash
-rm based_news.lock
-```
-
----
-
-## Logging
-
-Logs are stored in `logs/based_news.log` for monitoring and debugging.
