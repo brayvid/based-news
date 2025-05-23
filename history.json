@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "These 7 executive actions show how Trump wants to reshape American history - NPR",
-      "pubDate": "Wed, 21 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "Live updates: Trump goes to Capitol Hill to push for his sweeping tax and spending bill | CNN Politics - CNN",
       "pubDate": "Wed, 21 May 2025 09:15:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Donald Trump Announces 'Major Prisoners Swap' - Newsweek",
       "pubDate": "Fri, 23 May 2025 11:08:15 GMT"
+    },
+    {
+      "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
+      "pubDate": "Fri, 23 May 2025 11:47:50 GMT"
     }
   ],
   "ukraine": [
@@ -208,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Michael Burry Makes Major Portfolio Shift, Holding Only One Asset He Deems 'Recession-Proof' - Benzinga",
-      "pubDate": "Sun, 18 May 2025 17:21:18 GMT"
-    },
     {
       "title": "The Return of Recession Pop and Why It\u2019s Needed Now More Than Ever - The American River Current",
       "pubDate": "Mon, 19 May 2025 02:31:50 GMT"
@@ -367,6 +363,10 @@
     {
       "title": "Romania\u2019s president-elect says economy is in recession and deficit must fall - TVP World",
       "pubDate": "Fri, 23 May 2025 10:41:00 GMT"
+    },
+    {
+      "title": "Why Sports Franchises Are \u2018Recession-Proof\u2019 - Front Office Sports",
+      "pubDate": "Fri, 23 May 2025 12:28:49 GMT"
     }
   ],
   "russia": [
@@ -597,10 +597,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Google AI Advances Cheered by Wall Street. Why the Stock Reaction Is Less Bullish. - Barron's",
-      "pubDate": "Wed, 21 May 2025 11:09:00 GMT"
-    },
-    {
       "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
       "pubDate": "Wed, 21 May 2025 12:20:00 GMT"
     },
@@ -755,6 +751,10 @@
     {
       "title": "Billionaire Dan Loeb Sold His Fund's Entire Stake in Tesla and Is Piling Into Wall Street's Preeminent Artificial Intelligence (AI) Stock - The Motley Fool",
       "pubDate": "Fri, 23 May 2025 07:51:00 GMT"
+    },
+    {
+      "title": "How CoreWeave Plans To Rule The AI Cloud With Nvidia In Its Corner - Investor's Business Daily",
+      "pubDate": "Fri, 23 May 2025 12:00:00 GMT"
     }
   ],
   "public_health": [],
@@ -930,10 +930,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "Mansion sales are booming as the rich seek shelter from trade war fallout \u2014 'real estate is safer' - Fortune",
-      "pubDate": "Sun, 18 May 2025 18:54:00 GMT"
-    },
-    {
       "title": "China Home Prices Drop at Faster Pace in Blow During Trade War - Bloomberg.com",
       "pubDate": "Mon, 19 May 2025 01:57:00 GMT"
     },
@@ -1088,13 +1084,13 @@
     {
       "title": "Tariff crossfire hits Toyota, Nissan, Ford suppliers in Japan - ET Auto",
       "pubDate": "Fri, 23 May 2025 07:01:15 GMT"
+    },
+    {
+      "title": "Trump threatens Apple with 25% penalty, 50% tariffs on European Union as his trade war intensifies - ABC7 Los Angeles",
+      "pubDate": "Fri, 23 May 2025 12:27:44 GMT"
     }
   ],
   "china": [
-    {
-      "title": "US and China are already feuding again after unexpected trade truce - CNN",
-      "pubDate": "Wed, 21 May 2025 06:23:00 GMT"
-    },
     {
       "title": "Nvidia CEO praises Trump move to scrap some AI export curbs - Reuters",
       "pubDate": "Wed, 21 May 2025 05:06:00 GMT"
@@ -1250,6 +1246,10 @@
     {
       "title": "China's Xi, Germany's Merz stress ties to weather trade turmoil - Reuters",
       "pubDate": "Fri, 23 May 2025 11:37:49 GMT"
+    },
+    {
+      "title": "Harvard University's 'Links' To China, Iran Triggers US National Security Concerns - NDTV",
+      "pubDate": "Fri, 23 May 2025 12:04:44 GMT"
     }
   ],
   "solar_power": [],
@@ -1279,10 +1279,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Economic outlook brightens, recession odds fall after US-China tariff deal - USA Today",
-      "pubDate": "Mon, 12 May 2025 18:33:52 GMT"
-    },
     {
       "title": "Fed policymakers on hold to seek clarity from the data, but the data are not cooperating - Reuters",
       "pubDate": "Wed, 14 May 2025 23:53:10 GMT"
@@ -1438,6 +1434,10 @@
     {
       "title": "Clean energy dollars are gushing to red states. Now GOP senators are in a bind. - The Washington Post",
       "pubDate": "Fri, 23 May 2025 11:31:19 GMT"
+    },
+    {
+      "title": "New Zealand dollar soars on New Zealand retail sales, US fisacal concerns - marketpulse.com",
+      "pubDate": "Fri, 23 May 2025 12:15:00 GMT"
     }
   ],
   "terrorism": [
@@ -1572,6 +1572,10 @@
     {
       "title": "Democratic credibility tanks to \u2018catastrophic\u2019 level with Biden health cover-up - Washington Examiner",
       "pubDate": "Fri, 23 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Whole Hog Politics: The autopsy Democrats actually need - The Hill",
+      "pubDate": "Fri, 23 May 2025 12:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1732,6 +1736,10 @@
     {
       "title": "Anthropic's new Claude model blackmailed an engineer in test runs - Business Insider Africa",
       "pubDate": "Fri, 23 May 2025 05:43:37 GMT"
+    },
+    {
+      "title": "AI system resorts to blackmail if told it will be removed - BBC",
+      "pubDate": "Fri, 23 May 2025 12:15:22 GMT"
     }
   ],
   "finance": [],
@@ -1755,10 +1763,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "\u2018This government was illegally run\u2019: Trump continues fixation on Biden\u2019s autopen and says he will investigate - The Independent",
-      "pubDate": "Tue, 20 May 2025 14:21:00 GMT"
-    },
     {
       "title": "Trump's 'big, beautiful' tax bill: Four sticking points for Republican rebels - BBC",
       "pubDate": "Tue, 20 May 2025 18:11:04 GMT"
@@ -1914,6 +1918,10 @@
     {
       "title": "Trump relishes uttering the outlandish. Here's where some of his most showstopping comments stand - newspressnow.com",
       "pubDate": "Fri, 23 May 2025 08:24:04 GMT"
+    },
+    {
+      "title": "A federal judge further halts Trump's radical transformation of government - NPR",
+      "pubDate": "Fri, 23 May 2025 10:50:17 GMT"
     }
   ],
   "brics": [
