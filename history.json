@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump details plan to build \u2018Golden Dome\u2019 missile shield by end of term - CNN",
-      "pubDate": "Wed, 21 May 2025 04:22:00 GMT"
-    },
-    {
       "title": "IMF urges US to curb deficit as Trump tax cut plan stirs debt fears - Financial Times",
       "pubDate": "Wed, 21 May 2025 04:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump defies ethics warnings with private meme coin dinner - Axios",
       "pubDate": "Fri, 23 May 2025 04:13:13 GMT"
+    },
+    {
+      "title": "In Attacks on Harvard, Chinese See Yet Another Reason to Write Off the U.S. - The New York Times",
+      "pubDate": "Fri, 23 May 2025 07:57:04 GMT"
     }
   ],
   "ukraine": [
@@ -208,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "JPMorgan CEO: Recession Still On Table; Fed Warns Of \u201cSupply Shocks\u201d - CNN",
-      "pubDate": "Fri, 16 May 2025 01:58:57 GMT"
-    },
     {
       "title": "Goldman Sachs resets interest rate cut forecast, recession outlook - TheStreet",
       "pubDate": "Fri, 16 May 2025 00:07:00 GMT"
@@ -367,13 +363,13 @@
     {
       "title": "Singapore advises against tit-for-tat tariffs as economy faces technical recession risk - MSN",
       "pubDate": "Fri, 23 May 2025 04:50:07 GMT"
+    },
+    {
+      "title": "The Always Wrong, Never In Doubt Dr. Krugman Predicts Recession! - RealClearMarkets",
+      "pubDate": "Fri, 23 May 2025 08:24:01 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Xi and Putin agree to \u2018deepen\u2019 China-Russia ties during Moscow talks - CNN",
-      "pubDate": "Thu, 08 May 2025 13:12:00 GMT"
-    },
     {
       "title": "Ukraine accuses Russia of violating its own truce over 700 times as Kyiv ratifies US minerals deal - The Washington Post",
       "pubDate": "Fri, 09 May 2025 00:48:54 GMT"
@@ -529,6 +525,10 @@
     {
       "title": "Russia-Ukraine war: List of key events, day 1,184 - Al Jazeera",
       "pubDate": "Fri, 23 May 2025 02:58:25 GMT"
+    },
+    {
+      "title": "Drone Attack In Russia Delays Kanimozhi-Led Op Sindoor Delegation's Flight - NDTV",
+      "pubDate": "Fri, 23 May 2025 07:31:25 GMT"
     }
   ],
   "israel": [
@@ -561,6 +561,10 @@
     {
       "title": "BOE\u2019s Pill Questions Prominence of Forecasts in Era of Shocks - Bloomberg.com",
       "pubDate": "Thu, 22 May 2025 14:19:57 GMT"
+    },
+    {
+      "title": "Japan faces a \u2018rice crisis\u2019 as price nearly doubles for food staple - Al Jazeera",
+      "pubDate": "Fri, 23 May 2025 08:03:45 GMT"
     }
   ],
   "cybersecurity": [
@@ -592,10 +596,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Report: Apple to Let Third-Party Developers Use Its AI Models - PYMNTS.com",
-      "pubDate": "Wed, 21 May 2025 01:52:30 GMT"
-    },
     {
       "title": "Alphabet Just Made a Moonshot Stock One of Its Biggest Investments and Dumped 83% of Its Stake in a High-Flying Artificial Intelligence (AI) Giant - The Motley Fool",
       "pubDate": "Wed, 21 May 2025 04:49:00 GMT"
@@ -751,6 +751,10 @@
     {
       "title": "What AI Can\u2019t Read: Ambiguities and Silences (opinion) - Inside Higher Ed",
       "pubDate": "Fri, 23 May 2025 07:02:23 GMT"
+    },
+    {
+      "title": "GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts - The Hacker News",
+      "pubDate": "Fri, 23 May 2025 04:34:00 GMT"
     }
   ],
   "public_health": [],
@@ -922,10 +926,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "Farming anxieties rise among Illinoisans as trade war affects crop exports - MSN",
-      "pubDate": "Sat, 17 May 2025 14:28:43 GMT"
-    },
-    {
       "title": "Trump orders Walmart to \u2018eat the tariffs\u2019 and stop blaming his trade war for rising prices: \u2018I\u2019ll be watching\u2019 - The Independent",
       "pubDate": "Sat, 17 May 2025 23:42:00 GMT"
     },
@@ -1080,13 +1080,13 @@
     {
       "title": "US-China trade war is pushing Asian nations to pick sides, ministers warn - Financial Times",
       "pubDate": "Fri, 23 May 2025 04:00:58 GMT"
+    },
+    {
+      "title": "US-China Trade War Shows Signs of Easing with Delegates Maintain Communication - kaohoon international",
+      "pubDate": "Fri, 23 May 2025 06:45:48 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Congo Gambles on Cobalt as US-China Metals Fight Heats Up - Bloomberg",
-      "pubDate": "Tue, 20 May 2025 21:00:00 GMT"
-    },
     {
       "title": "Pacific must not become a \u2018military zone\u2019 amid rise of China, New Zealand\u2019s deputy PM warns - The Guardian",
       "pubDate": "Wed, 21 May 2025 00:05:00 GMT"
@@ -1242,6 +1242,10 @@
     {
       "title": "China pledges support for overseas students after Trump's Harvard curb - Reuters",
       "pubDate": "Fri, 23 May 2025 07:28:16 GMT"
+    },
+    {
+      "title": "WGC Rising gas output, pipeline supplies slow China's LNG demand - Reuters",
+      "pubDate": "Fri, 23 May 2025 08:29:44 GMT"
     }
   ],
   "solar_power": [],
@@ -1271,10 +1275,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "The US Economy Will Pay the Price for Trump\u2019s Attacks on Universities - Bloomberg",
-      "pubDate": "Fri, 09 May 2025 08:00:26 GMT"
-    },
     {
       "title": "Firing Fed Officials Would Be Bad for US Economy, Chris Waller Signals - Bloomberg",
       "pubDate": "Fri, 09 May 2025 15:38:20 GMT"
@@ -1430,6 +1430,10 @@
     {
       "title": "CNBC Daily Open: Trump's 'big, beautiful' tax bill might only be a short-term boost to the U.S. economy - CNBC",
       "pubDate": "Fri, 23 May 2025 01:23:00 GMT"
+    },
+    {
+      "title": "Fed Chief Warns of \u2018Persistent Shocks\u2019 to U.S. Economy - MSN",
+      "pubDate": "Fri, 23 May 2025 08:00:08 GMT"
     }
   ],
   "terrorism": [
@@ -1599,10 +1603,6 @@
   "drones": [],
   "hamas": [
     {
-      "title": "Hamas: Jenin operation is the strongest response to Israeli attempts to suppress resistance - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0642\u062f\u0633",
-      "pubDate": "Thu, 08 May 2025 08:20:23 GMT"
-    },
-    {
       "title": "Hamas cannot be contained, it must be completely dismantled - opinion - The Jerusalem Post",
       "pubDate": "Fri, 09 May 2025 19:10:59 GMT"
     },
@@ -1720,6 +1720,10 @@
     {
       "title": "Anthropic\u2019s Claude AI tries to blackmail Its creators in simulated test - Social Samosa",
       "pubDate": "Fri, 23 May 2025 05:57:23 GMT"
+    },
+    {
+      "title": "Anthropic's new Claude model blackmailed an engineer in test runs - Business Insider Africa",
+      "pubDate": "Fri, 23 May 2025 05:43:37 GMT"
     }
   ],
   "finance": [],
@@ -1747,10 +1751,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate advances first-of-its-kind cryptocurrency legislation after Democrats initially blocked it amid Trump crypto deals - KTVZ",
-      "pubDate": "Tue, 20 May 2025 03:03:54 GMT"
-    },
     {
       "title": "\u2018This government was illegally run\u2019: Trump continues fixation on Biden\u2019s autopen and says he will investigate - The Independent",
       "pubDate": "Tue, 20 May 2025 14:21:00 GMT"
@@ -1906,6 +1906,10 @@
     {
       "title": "Armstrong Williams: Politics can't strip us of our humanity - The Northern Virginia Daily",
       "pubDate": "Fri, 23 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Trump relishes uttering the outlandish. Here's where some of his most showstopping comments stand - newspressnow.com",
+      "pubDate": "Fri, 23 May 2025 08:24:04 GMT"
     }
   ],
   "brics": [
