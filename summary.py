@@ -11,6 +11,8 @@ import google.generativeai as genai
 import subprocess
 import requests
 import csv
+from email.message import EmailMessage
+import smtplib
 
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 
@@ -21,14 +23,6 @@ HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
 SUMMARY_FILE = os.path.join(BASE_DIR, "public", "summary.html")
 LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
 os.makedirs(os.path.dirname(LOGFILE), exist_ok=True)
-
-# # --- Locking to prevent concurrent runs ---
-# if os.path.exists(LOCKFILE):
-#     print("summary.py is already running. Exiting.")
-#     sys.exit()
-# else:
-#     with open(LOCKFILE, "w") as f:
-#         f.write("locked")
 
 # --- Logging ---
 logging.basicConfig(filename=LOGFILE, level=logging.INFO)
@@ -76,6 +70,10 @@ try:
 except Exception:
     logging.warning(f"Invalid TIMEZONE '{USER_TIMEZONE}' in config. Falling back to 'America/New_York'")
     ZONE = ZoneInfo("America/New_York")
+
+# Converts datetime to user timezone
+def to_user_timezone(dt):
+    return dt.astimezone(ZONE)
 
 # --- Load history ---
 try:
@@ -151,7 +149,31 @@ try:
 except Exception as e:
     logging.error(f"Git commit/push failed: {e}")
 
-# # --- Cleanup ---
-# if os.path.exists(LOCKFILE):
-#     os.remove(LOCKFILE)
-#     logging.info("Lockfile released.")
+# Compose and send email
+EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
+EMAIL_TO = EMAIL_FROM
+EMAIL_BCC = os.getenv("MAILTO", "").strip()
+EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC.split(",") if email.strip()]
+SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
+
+html_body = "<p>"+formatted+"</p>"
+
+msg = EmailMessage()
+msg["Subject"] = f"🗞️ Your Weekly Outlook – {datetime.now(ZONE).strftime('%Y-%m-%d')}"
+msg["From"] = EMAIL_FROM
+msg["To"] = EMAIL_TO
+msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
+msg.set_content("This is the plain-text version of your weekly outlook email.")
+msg.add_alternative(html_body, subtype="html")
+
+try:
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+        server.starttls()
+        server.login(EMAIL_FROM, SMTP_PASS)
+        server.send_message(msg)
+    logging.info("Digest email sent successfully.")
+
+except Exception as e:
+    logging.error(f"Email failed: {e}")
