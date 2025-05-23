@@ -132,23 +132,6 @@ try:
 except Exception as e:
     logging.error(f"Failed to write summary.html: {e}")
 
-# Git commit and push
-try:
-    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-    GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
-    REPO = "based-news"
-
-    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
-
-    subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
-    subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
-    subprocess.run(["git", "add", "public/summary.html"], check=True, cwd=BASE_DIR)
-    subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
-    subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
-    logging.info("Digest and history committed and pushed to GitHub.")
-except Exception as e:
-    logging.error(f"Git commit/push failed: {e}")
-
 # Compose and send email
 EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
 EMAIL_TO = EMAIL_FROM
@@ -177,3 +160,46 @@ try:
 
 except Exception as e:
     logging.error(f"Email failed: {e}")
+
+
+# --- Append summary to summaries.json ---
+SUMMARIES_FILE = os.path.join(BASE_DIR, "summaries.json")
+summary_entry = {
+    "timestamp": datetime.now(ZONE).isoformat(),
+    "summary": formatted
+}
+
+try:
+    if os.path.exists(SUMMARIES_FILE):
+        with open(SUMMARIES_FILE, "r", encoding="utf-8") as f:
+            summaries = json.load(f)
+    else:
+        summaries = []
+
+    summaries.append(summary_entry)
+
+    with open(SUMMARIES_FILE, "w", encoding="utf-8") as f:
+        json.dump(summaries, f, indent=2, ensure_ascii=False)
+
+    logging.info("Summary appended to summaries.json")
+
+except Exception as e:
+    logging.error(f"Failed to append to summaries.json: {e}")
+
+
+# Git commit and push
+try:
+    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+    GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
+    REPO = "based-news"
+
+    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
+
+    subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "add", "public/summary.html","summaries.json"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
+    subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+    logging.info("Digest and history committed and pushed to GitHub.")
+except Exception as e:
+    logging.error(f"Git commit/push failed: {e}")
