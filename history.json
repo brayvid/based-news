@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump unveils ambitious and expensive plans for 'Golden Dome' missile defense - NPR",
-      "pubDate": "Tue, 20 May 2025 21:09:07 GMT"
-    },
-    {
       "title": "Official Pushed to Rewrite Intelligence So It Could Not Be \u2018Used Against\u2019 Trump - The New York Times",
       "pubDate": "Wed, 21 May 2025 02:49:08 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Donald Trump Stages an Oval Office Mugging - The New Yorker",
       "pubDate": "Thu, 22 May 2025 22:58:14 GMT"
+    },
+    {
+      "title": "Trump takes new pages out of strongman\u2019s playbook with Harvard crackdown and crypto gala - CNN",
+      "pubDate": "Fri, 23 May 2025 04:00:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,169 - Al Jazeera",
-      "pubDate": "Thu, 08 May 2025 04:51:58 GMT"
-    },
     {
       "title": "Ukraine Arrests Spies Working for NATO's Hungary - Newsweek",
       "pubDate": "Fri, 09 May 2025 08:27:14 GMT"
@@ -212,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "A Recession Can Decimate Your Savings. Protect Your Money by Keeping It in These Places - CNET",
-      "pubDate": "Fri, 16 May 2025 03:10:10 GMT"
-    },
     {
       "title": "JPMorgan CEO: Recession Still On Table; Fed Warns Of \u201cSupply Shocks\u201d - CNN",
       "pubDate": "Fri, 16 May 2025 01:58:57 GMT"
@@ -371,6 +363,10 @@
     {
       "title": "America's most powerful banker Jamie Dimon stuns with warning US faces something worse than recession - Daily Mail",
       "pubDate": "Fri, 23 May 2025 02:26:32 GMT"
+    },
+    {
+      "title": "Singapore advises against tit-for-tat tariffs as economy faces technical recession risk - MSN",
+      "pubDate": "Fri, 23 May 2025 04:50:07 GMT"
     }
   ],
   "russia": [
@@ -525,6 +521,10 @@
     {
       "title": "G7 vows to address global economic \u2018imbalances\u2019, considers Russia sanctions - Al Jazeera",
       "pubDate": "Thu, 22 May 2025 21:09:33 GMT"
+    },
+    {
+      "title": "FBI whistleblower claims he tried to get to Musk to warn him he was being targeted by Russia - The Guardian",
+      "pubDate": "Fri, 23 May 2025 01:30:00 GMT"
     }
   ],
   "israel": [
@@ -834,6 +834,10 @@
     {
       "title": "A famed Wall Street bear warns of 'global financial market Armageddon' as Japanese bond yields spike - Business Insider",
       "pubDate": "Thu, 22 May 2025 23:01:00 GMT"
+    },
+    {
+      "title": "DBS\u2019 \u2018superior\u2019 funding franchise a buffer against volatile financial markets - Asian Banking & Finance",
+      "pubDate": "Fri, 23 May 2025 04:20:03 GMT"
     }
   ],
   "renewable_energy": [
@@ -913,10 +917,6 @@
   "data_science": [],
   "cloud_computing": [],
   "trade_war": [
-    {
-      "title": "Dockworker unions back trade war amid collapse of traffic on US docks - World Socialist Web Site",
-      "pubDate": "Fri, 16 May 2025 03:11:44 GMT"
-    },
     {
       "title": "Farming anxieties rise among Illinoisans as trade war affects crop exports - MSN",
       "pubDate": "Sat, 17 May 2025 14:28:43 GMT"
@@ -1072,6 +1072,10 @@
     {
       "title": "Trump\u2019s \u2018gold card\u2019 visa flops among rich Chinese amid trade war, crime fears - South China Morning Post",
       "pubDate": "Thu, 22 May 2025 22:00:15 GMT"
+    },
+    {
+      "title": "US-China trade war is pushing Asian nations to pick sides, ministers warn - Financial Times",
+      "pubDate": "Fri, 23 May 2025 04:00:58 GMT"
     }
   ],
   "china": [
@@ -1571,6 +1575,10 @@
     {
       "title": "Kim Jong Un Slams \u2018Serious\u2019 Warship Accident at Launch Ceremony - Bloomberg",
       "pubDate": "Thu, 22 May 2025 00:48:00 GMT"
+    },
+    {
+      "title": "North Korea vows to arrest those responsible for failed ship launch - Yahoo",
+      "pubDate": "Fri, 23 May 2025 01:57:00 GMT"
     }
   ],
   "politics": [],
@@ -1701,12 +1709,7 @@
   "finance": [],
   "electric_battery": [],
   "violence": [],
-  "energy_storage": [
-    {
-      "title": "AGL fully acquires 13.9GWh of pumped hydro in New South Wales, Australia - Energy-Storage.News",
-      "pubDate": "Thu, 08 May 2025 04:10:37 GMT"
-    }
-  ],
+  "energy_storage": [],
   "bitcoin": [
     {
       "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
