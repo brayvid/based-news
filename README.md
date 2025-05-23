@@ -25,7 +25,7 @@ based-news/
 ├── public/                # Webpage directory
 │   ├── index.html         # Main page, does not change
 │   ├── digest.html        # Gets updated hourly
-│   └── summary.html       # Gets updated biweekly
+│   └── summary.html       # Gets updated weekly
 ├── .env                   # Contains Gemini API key (excluded from version control)
 └── logs/                  # Log directory (excluded from version control)
 ```
