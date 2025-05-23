@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says Russia, Ukraine agree to immediate ceasefire talks, Kremlin offers no timeframe - Reuters",
-      "pubDate": "Tue, 20 May 2025 01:34:34 GMT"
-    },
-    {
       "title": "Trump signs bill outlawing \u2018revenge porn\u2019 - Al Jazeera",
       "pubDate": "Tue, 20 May 2025 05:53:01 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "The loud hum sparking unrest in Trump's MAGA heartlands - BBC",
       "pubDate": "Thu, 22 May 2025 23:23:52 GMT"
+    },
+    {
+      "title": "Trump urges Senate to pass his tax and immigration bill \u2018as soon as possible\u2019 - The Washington Post",
+      "pubDate": "Fri, 23 May 2025 01:55:10 GMT"
     }
   ],
   "ukraine": [
@@ -375,10 +375,6 @@
   ],
   "russia": [
     {
-      "title": "Putin\u2019s 3-day ceasefire comes into effect, but Ukraine claims Russia already broke it - CNN",
-      "pubDate": "Thu, 08 May 2025 01:59:00 GMT"
-    },
-    {
       "title": "Xi and Putin agree to \u2018deepen\u2019 China-Russia ties during Moscow talks - CNN",
       "pubDate": "Thu, 08 May 2025 13:12:00 GMT"
     },
@@ -521,6 +517,10 @@
     {
       "title": "Russian forces are creating \u2018buffer zone\u2019 along Russia-Ukraine border, Putin says - CNN",
       "pubDate": "Thu, 22 May 2025 17:46:00 GMT"
+    },
+    {
+      "title": "Russian hackers target Western firms shipping aid to Ukraine, US intelligence says - AP News",
+      "pubDate": "Thu, 22 May 2025 20:47:00 GMT"
     }
   ],
   "israel": [
@@ -592,10 +592,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI poses a bigger threat to women\u2019s work, than men's, report says - NBC News",
-      "pubDate": "Tue, 20 May 2025 09:31:31 GMT"
-    },
     {
       "title": "How Artificial Intelligence Is Re-Shaping Litigation - The National Law Review",
       "pubDate": "Tue, 20 May 2025 13:56:08 GMT"
@@ -751,6 +747,10 @@
     {
       "title": "Microsoft to Make Windows Agentic for New Web Experience - PYMNTS.com",
       "pubDate": "Thu, 22 May 2025 22:52:30 GMT"
+    },
+    {
+      "title": "Report: Artificial Intelligence Agents Can Organize Themselves And Create Their Own Social Norms - MITechNews",
+      "pubDate": "Thu, 22 May 2025 20:49:15 GMT"
     }
   ],
   "public_health": [],
@@ -1076,10 +1076,6 @@
   ],
   "china": [
     {
-      "title": "China 'fully' respects Denmark's sovereignty on Greenland, foreign minister says - Reuters",
-      "pubDate": "Mon, 19 May 2025 07:00:47 GMT"
-    },
-    {
       "title": "China's state banks will cut deposit rates on Tuesday, sources say - Reuters",
       "pubDate": "Mon, 19 May 2025 14:58:47 GMT"
     },
@@ -1234,6 +1230,10 @@
     {
       "title": "Nvidia Faces China Pressure Ahead of Key Q1 Report, Oppenheimer Warns - Yahoo Finance",
       "pubDate": "Thu, 22 May 2025 18:19:18 GMT"
+    },
+    {
+      "title": "Senior US-China Officials Vow to Keep Communication Lines Open - Bloomberg.com",
+      "pubDate": "Fri, 23 May 2025 01:14:00 GMT"
     }
   ],
   "solar_power": [],
@@ -1263,10 +1263,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Shrinks, Imports Surge Ahead Of Trump Tariffs - InkFreeNews.com",
-      "pubDate": "Thu, 08 May 2025 17:36:14 GMT"
-    },
     {
       "title": "The US Economy Will Pay the Price for Trump\u2019s Attacks on Universities - Bloomberg",
       "pubDate": "Fri, 09 May 2025 08:00:26 GMT"
@@ -1422,6 +1418,10 @@
     {
       "title": "US economy to worsen in H2 2025 ... 'payback' time - Forexlive | Forex News, Technical Analysis & Trading Tools",
       "pubDate": "Thu, 22 May 2025 23:55:00 GMT"
+    },
+    {
+      "title": "CNBC Daily Open: Trump's 'big, beautiful' tax bill might only be a short-term boost to the U.S. economy - CNBC",
+      "pubDate": "Fri, 23 May 2025 01:23:00 GMT"
     }
   ],
   "terrorism": [
@@ -1733,10 +1733,6 @@
   ],
   "us_politics": [
     {
-      "title": "Why Buttigieg, Walz, Beshear and Other Democrats Are Already Teasing 2028 Bids - The New York Times",
-      "pubDate": "Sun, 18 May 2025 09:01:21 GMT"
-    },
-    {
       "title": "Mike Pence reveals whether he plans to run in 2028 - The Independent",
       "pubDate": "Sun, 18 May 2025 20:46:00 GMT"
     },
@@ -1891,6 +1887,10 @@
     {
       "title": "Killings in D.C. of Israeli Embassy Aides Echo 1973 Murder of Israeli Diplomat - The New York Times",
       "pubDate": "Thu, 22 May 2025 22:39:06 GMT"
+    },
+    {
+      "title": "Harvard says Trump administration\u2019s block on international student enrollment \u2018unlawful\u2019 \u2013 US politics live - The Guardian",
+      "pubDate": "Thu, 22 May 2025 21:13:00 GMT"
     }
   ],
   "brics": [
