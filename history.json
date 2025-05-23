@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Zelensky says US should not distance itself from talks, as Russia says no timeline agreed - BBC",
-      "pubDate": "Mon, 19 May 2025 20:06:01 GMT"
-    },
-    {
       "title": "Trump says Russia, Ukraine agree to immediate ceasefire talks, Kremlin offers no timeframe - Reuters",
       "pubDate": "Tue, 20 May 2025 01:34:34 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Supreme Court grants Trump request to fire independent agency members - NBC News",
       "pubDate": "Thu, 22 May 2025 20:52:00 GMT"
+    },
+    {
+      "title": "The loud hum sparking unrest in Trump's MAGA heartlands - BBC",
+      "pubDate": "Thu, 22 May 2025 23:23:52 GMT"
     }
   ],
   "ukraine": [
@@ -212,10 +212,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Steve Cohen Says Probability of US Recession Now Stands at 45% - Bloomberg.com",
-      "pubDate": "Wed, 14 May 2025 22:49:44 GMT"
-    },
     {
       "title": "America faces a summer of smaller raises \u2014 and fewer jobs - Business Insider",
       "pubDate": "Thu, 15 May 2025 08:03:00 GMT"
@@ -371,16 +367,16 @@
     {
       "title": "Home Sales Haven\u2019t Been This Slow Since the Great Recession - Nasdaq",
       "pubDate": "Thu, 22 May 2025 21:10:00 GMT"
+    },
+    {
+      "title": "This Canadian Retailer Yielding 4.3% is My Top Recession-Resilient Pick - Yahoo",
+      "pubDate": "Thu, 22 May 2025 23:00:00 GMT"
     }
   ],
   "russia": [
     {
       "title": "Putin\u2019s 3-day ceasefire comes into effect, but Ukraine claims Russia already broke it - CNN",
       "pubDate": "Thu, 08 May 2025 01:59:00 GMT"
-    },
-    {
-      "title": "China\u2019s Xi in Moscow for Putin\u2019s parade amid close ties despite U.S. hopes - The Washington Post",
-      "pubDate": "Wed, 07 May 2025 23:26:18 GMT"
     },
     {
       "title": "Xi and Putin agree to \u2018deepen\u2019 China-Russia ties during Moscow talks - CNN",
@@ -597,10 +593,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Nvidia plans to sell tech to speed AI chip communication - Reuters",
-      "pubDate": "Mon, 19 May 2025 20:17:55 GMT"
-    },
-    {
       "title": "Arm Sets Sights on Intel\u2019s Turf With AI-Powered PC Push - PYMNTS.com",
       "pubDate": "Mon, 19 May 2025 23:35:15 GMT"
     },
@@ -755,6 +747,10 @@
     {
       "title": "AI\u2019s Defining Week: Revealing Executive Quotes From OpenAI, Google and Amazon - PYMNTS.com",
       "pubDate": "Thu, 22 May 2025 22:53:22 GMT"
+    },
+    {
+      "title": "Melania Trump releases audiobook version of her memoir. It's narrated by an AI voice - USA Today",
+      "pubDate": "Thu, 22 May 2025 21:59:35 GMT"
     }
   ],
   "public_health": [],
@@ -913,10 +909,6 @@
     }
   ],
   "machine_learning": [
-    {
-      "title": "After that 2024 Windows fiasco, CrowdStrike has a plan \u2013 jobs cuts, leaning on AI - theregister.com",
-      "pubDate": "Wed, 07 May 2025 23:28:00 GMT"
-    },
     {
       "title": "AI assistants essential for value-based care, report finds - Fierce Healthcare",
       "pubDate": "Fri, 09 May 2025 18:00:00 GMT"
@@ -1088,10 +1080,6 @@
   ],
   "china": [
     {
-      "title": "China Tells Officials to Rein in Alcohol, Cigarette Spending - Bloomberg.com",
-      "pubDate": "Mon, 19 May 2025 02:55:00 GMT"
-    },
-    {
       "title": "China 'fully' respects Denmark's sovereignty on Greenland, foreign minister says - Reuters",
       "pubDate": "Mon, 19 May 2025 07:00:47 GMT"
     },
@@ -1246,6 +1234,10 @@
     {
       "title": "China\u2019s Yuan Ambitions Are an Uphill Struggle - Foreign Policy",
       "pubDate": "Thu, 22 May 2025 20:50:52 GMT"
+    },
+    {
+      "title": "Nvidia Faces China Pressure Ahead of Key Q1 Report, Oppenheimer Warns - Yahoo Finance",
+      "pubDate": "Thu, 22 May 2025 18:19:18 GMT"
     }
   ],
   "solar_power": [],
@@ -1430,6 +1422,10 @@
     {
       "title": "Trump-Era Economic Shifts Driving Up U.S. Worker Stress Levels - Newsweek",
       "pubDate": "Thu, 22 May 2025 17:28:42 GMT"
+    },
+    {
+      "title": "Kevin O\u2019Leary speaks out on Carney, US politics, and the economy - Al Arabiya English",
+      "pubDate": "Thu, 22 May 2025 19:45:00 GMT"
     }
   ],
   "terrorism": [
@@ -1544,6 +1540,10 @@
     {
       "title": "Sen. Elissa Slotkin is lone Democrat to cross party lines in vote to revoke California's EV emissions waivers - CBS News",
       "pubDate": "Thu, 22 May 2025 22:47:17 GMT"
+    },
+    {
+      "title": "Lackawanna County judges uphold Democratic Party\u2019s commissioner replacement process - fox56.com",
+      "pubDate": "Thu, 22 May 2025 20:51:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1622,10 +1622,6 @@
   ],
   "climate": [],
   "ai_safety": [
-    {
-      "title": "Singapore\u2019s Vision for AI Safety Bridges the US-China Divide - WIRED",
-      "pubDate": "Thu, 08 May 2025 00:00:00 GMT"
-    },
     {
       "title": "Mistral AI Models Fail Key Safety Tests, Report Finds - BankInfoSecurity",
       "pubDate": "Fri, 09 May 2025 17:37:27 GMT"
@@ -1745,10 +1741,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "\"Good God. This Is Pure Evil\": 26 Very Harsh But Very True Tweets About American Politics This Week - Yahoo",
-      "pubDate": "Sat, 17 May 2025 16:55:38 GMT"
-    },
     {
       "title": "Pedro Pascal delivers strong message on U.S. politics: \u201cFight back. Don\u2019t let them win\u201d - Diario AS",
       "pubDate": "Sat, 17 May 2025 23:00:23 GMT"
@@ -1904,6 +1896,10 @@
     {
       "title": "Goodbye to the Penny! Treasury Department announces plan to phase out the coin - The Independent",
       "pubDate": "Thu, 22 May 2025 18:40:00 GMT"
+    },
+    {
+      "title": "Sarah Milgrim\u2019s faith was nurtured by the Jewish community around Kansas City. - The New York Times",
+      "pubDate": "Thu, 22 May 2025 20:14:42 GMT"
     }
   ],
   "brics": [
