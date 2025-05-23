@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump goes to Capitol Hill to push for his sweeping tax and spending bill | CNN Politics - CNN",
-      "pubDate": "Wed, 21 May 2025 09:15:00 GMT"
-    },
-    {
       "title": "Donald Trump Jr says on running for president: 'that calling is there' - Reuters",
       "pubDate": "Wed, 21 May 2025 10:22:33 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
       "pubDate": "Fri, 23 May 2025 11:47:50 GMT"
+    },
+    {
+      "title": "Trump administration live updates: Trump says EU will face 50% tariffs; Harvard sues over block to foreign student enrollments - NBC News",
+      "pubDate": "Fri, 23 May 2025 13:12:06 GMT"
     }
   ],
   "ukraine": [
@@ -208,10 +208,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "The Return of Recession Pop and Why It\u2019s Needed Now More Than Ever - The American River Current",
-      "pubDate": "Mon, 19 May 2025 02:31:50 GMT"
-    },
     {
       "title": "Why tariffs lead to recession, even after Trump caved to China | Opinion - IndyStar",
       "pubDate": "Mon, 19 May 2025 09:33:25 GMT"
@@ -367,6 +363,10 @@
     {
       "title": "Why Sports Franchises Are \u2018Recession-Proof\u2019 - Front Office Sports",
       "pubDate": "Fri, 23 May 2025 12:28:49 GMT"
+    },
+    {
+      "title": "Donald Trump has one last chance to avert a recession in the US - Moneyweek",
+      "pubDate": "Fri, 23 May 2025 13:44:23 GMT"
     }
   ],
   "russia": [
@@ -572,10 +572,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware - The Hacker News",
-      "pubDate": "Thu, 08 May 2025 13:47:00 GMT"
-    },
     {
       "title": "Sen. Murphy: Trump administration has \u2018illegally gutted funding for cybersecurity\u2019 - CyberScoop",
       "pubDate": "Thu, 08 May 2025 20:22:31 GMT"
@@ -930,10 +926,6 @@
   "cloud_computing": [],
   "trade_war": [
     {
-      "title": "China Home Prices Drop at Faster Pace in Blow During Trade War - Bloomberg.com",
-      "pubDate": "Mon, 19 May 2025 01:57:00 GMT"
-    },
-    {
       "title": "Low prices and Trump's trade war are pushing these Northwest farmers to the brink - NPR",
       "pubDate": "Mon, 19 May 2025 04:01:00 GMT"
     },
@@ -1088,13 +1080,13 @@
     {
       "title": "Trump threatens Apple with 25% penalty, 50% tariffs on European Union as his trade war intensifies - ABC7 Los Angeles",
       "pubDate": "Fri, 23 May 2025 12:27:44 GMT"
+    },
+    {
+      "title": "Bitcoin Price News (BTC): Prices Head Lower as Trade War Heats Up - CoinDesk",
+      "pubDate": "Fri, 23 May 2025 12:14:24 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Nvidia CEO praises Trump move to scrap some AI export curbs - Reuters",
-      "pubDate": "Wed, 21 May 2025 05:06:00 GMT"
-    },
     {
       "title": "China opposes EU's Russia-related sanctions on its firms, cites 'double standards' - Reuters",
       "pubDate": "Wed, 21 May 2025 08:06:53 GMT"
@@ -1250,6 +1242,10 @@
     {
       "title": "Harvard University's 'Links' To China, Iran Triggers US National Security Concerns - NDTV",
       "pubDate": "Fri, 23 May 2025 12:04:44 GMT"
+    },
+    {
+      "title": "'Harvard refugee': Chinese students hunker down as US blocks foreign enrollment - Reuters",
+      "pubDate": "Fri, 23 May 2025 09:18:46 GMT"
     }
   ],
   "solar_power": [],
@@ -1279,10 +1275,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Fed policymakers on hold to seek clarity from the data, but the data are not cooperating - Reuters",
-      "pubDate": "Wed, 14 May 2025 23:53:10 GMT"
-    },
     {
       "title": "US economy could face \u2018more persistent supply shocks\u2019: Powell - The Hill",
       "pubDate": "Thu, 15 May 2025 14:11:00 GMT"
@@ -1438,6 +1430,10 @@
     {
       "title": "New Zealand dollar soars on New Zealand retail sales, US fisacal concerns - marketpulse.com",
       "pubDate": "Fri, 23 May 2025 12:15:00 GMT"
+    },
+    {
+      "title": "US Economy Shrinks for First Time in Three Years Amid Tariff Concerns - MSN",
+      "pubDate": "Fri, 23 May 2025 13:35:03 GMT"
     }
   ],
   "terrorism": [
@@ -1576,6 +1572,10 @@
     {
       "title": "Whole Hog Politics: The autopsy Democrats actually need - The Hill",
       "pubDate": "Fri, 23 May 2025 12:00:00 GMT"
+    },
+    {
+      "title": "How John Fetterman Became \u201cTrump\u2019s Favorite Democrat\u201d - Mother Jones",
+      "pubDate": "Fri, 23 May 2025 12:26:14 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1740,6 +1740,10 @@
     {
       "title": "AI system resorts to blackmail if told it will be removed - BBC",
       "pubDate": "Fri, 23 May 2025 12:15:22 GMT"
+    },
+    {
+      "title": "Anthropic says its Claude AI will resort to blackmail in '84% of rollouts' while an independent AI safety researcher also notes it 'engages in strategic deception more than any other frontier model that we have previously studied' - PC Gamer",
+      "pubDate": "Fri, 23 May 2025 12:08:57 GMT"
     }
   ],
   "finance": [],
@@ -1763,10 +1767,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump's 'big, beautiful' tax bill: Four sticking points for Republican rebels - BBC",
-      "pubDate": "Tue, 20 May 2025 18:11:04 GMT"
-    },
     {
       "title": "Justice Dept. Opens Inquiry Into Andrew Cuomo, Singling Out Another Political Target - The New York Times",
       "pubDate": "Tue, 20 May 2025 23:58:32 GMT"
@@ -1922,6 +1922,10 @@
     {
       "title": "A federal judge further halts Trump's radical transformation of government - NPR",
       "pubDate": "Fri, 23 May 2025 10:50:17 GMT"
+    },
+    {
+      "title": "Group chats are the 'dark matter of American politics' - WBUR",
+      "pubDate": "Fri, 23 May 2025 13:17:26 GMT"
     }
   ],
   "brics": [
