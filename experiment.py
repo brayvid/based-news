@@ -25,7 +25,7 @@ try:
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY environment variable not set or found in .env file.")
     genai.configure(api_key=GEMINI_API_KEY)
-    GEMINI_MODEL_NAME = "gemini-1.5-flash-latest" # Or your preferred model
+    GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-05-20"
     GENERATION_CONFIG = {
         "temperature": 0.2,
         "top_p": 1,
