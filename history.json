@@ -247,6 +247,10 @@
     {
       "title": "Trump Brags to West Point Grads He Can Do Whatever He Wants Now - Rolling Stone",
       "pubDate": "Sat, 24 May 2025 18:30:31 GMT"
+    },
+    {
+      "title": "Trump Gives Commencement Speech at West Point and Latest News: Live Updates - The New York Times",
+      "pubDate": "Sat, 24 May 2025 19:21:08 GMT"
     }
   ],
   "ukraine": [
@@ -257,6 +261,10 @@
     {
       "title": "Ukraine\u2019s drones disrupt Russia with airport closures, internet blackouts - The Washington Post",
       "pubDate": "Sat, 24 May 2025 10:30:45 GMT"
+    },
+    {
+      "title": "Russia launches heaviest attack on Kyiv in years - Vatican News",
+      "pubDate": "Sat, 24 May 2025 14:38:39 GMT"
     }
   ],
   "recession": [
@@ -447,6 +455,10 @@
     {
       "title": "Elon\u2019s 3-Step Plan to Save U.S. from Recession & Boost GDP - FXLeaders",
       "pubDate": "Sat, 24 May 2025 15:05:48 GMT"
+    },
+    {
+      "title": "Wall Street Says The 2025 Recession Is Cancelled - MSN",
+      "pubDate": "Sat, 24 May 2025 15:27:11 GMT"
     }
   ],
   "russia": [
@@ -635,8 +647,6 @@
       "pubDate": "Fri, 23 May 2025 06:30:00 GMT"
     }
   ],
-  "cybersecurity": [],
-  "united_nations": [],
   "artificial_intelligence": [
     {
       "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
@@ -897,9 +907,12 @@
     {
       "title": "Salesforce Stock: Informatica Acquisition Talks Restarted, Say Reports. Deal Could Boost AI Push. - Investor's Business Daily",
       "pubDate": "Sat, 24 May 2025 19:56:00 GMT"
+    },
+    {
+      "title": "AI system resorts to blackmail when its developers try to replace it - Fox Business",
+      "pubDate": "Sat, 24 May 2025 15:00:00 GMT"
     }
   ],
-  "public_health": [],
   "financial_markets": [
     {
       "title": "Investors Await Another Monday Jolt After Moody\u2019s Downgrades US - Yahoo Finance",
@@ -1004,9 +1017,12 @@
     {
       "title": "U.S. Financial Markets Weekly Recap and Outlook - stl.news",
       "pubDate": "Sat, 24 May 2025 13:47:43 GMT"
+    },
+    {
+      "title": "Global Bond Turmoil: A Shift In Financial Markets Amid Rising US Deficits - Benzinga",
+      "pubDate": "Sat, 24 May 2025 17:01:44 GMT"
     }
   ],
-  "renewable_energy": [],
   "us_foreign_policy": [
     {
       "title": "What Trump's Middle East tour means for U.S. foreign policy | The Sunday Magazine | On Demand | CBC Listen - CBC",
@@ -1077,9 +1093,6 @@
       "pubDate": "Sat, 24 May 2025 16:00:00 GMT"
     }
   ],
-  "machine_learning": [],
-  "data_science": [],
-  "cloud_computing": [],
   "trade_war": [
     {
       "title": "Low prices and Trump's trade war are pushing these Northwest farmers to the brink - NPR",
@@ -1532,17 +1545,6 @@
       "pubDate": "Sat, 24 May 2025 15:31:01 GMT"
     }
   ],
-  "solar_power": [],
-  "elon_musk": [],
-  "world_news": [],
-  "health_care": [],
-  "united_states": [],
-  "health": [],
-  "time_travel": [],
-  "the_pentagon": [],
-  "military_and_defense": [],
-  "war_and_unrest": [],
-  "us_congress": [],
   "iran": [
     {
       "title": "Iran says will hold US responsible for any Israeli attack on nuclear sites - Al Jazeera",
@@ -1761,22 +1763,12 @@
       "pubDate": "Sat, 24 May 2025 05:10:42 GMT"
     }
   ],
-  "world_economy": [],
-  "economy": [],
-  "us_supreme_court": [],
-  "future": [],
-  "business": [],
-  "earth": [],
-  "research_and_development": [],
-  "cancer": [],
-  "tesla": [],
-  "space": [],
-  "risk_management": [],
-  "wind_power": [],
-  "global_health": [],
-  "polling": [],
-  "research": [],
-  "data_breach": [],
+  "cancer": [
+    {
+      "title": "Former President Joe Biden makes first public appearance since cancer diagnosis - NBC News",
+      "pubDate": "Sat, 24 May 2025 18:43:11 GMT"
+    }
+  ],
   "democratic_party": [
     {
       "title": "Bernie Agrees: Democratic Party Is a \u2018Threat to Democracy\u2019 - The Daily Beast",
@@ -1923,22 +1915,6 @@
       "pubDate": "Sat, 24 May 2025 13:40:49 GMT"
     }
   ],
-  "artificial_general_intelligence": [],
-  "republican_party": [],
-  "science": [],
-  "fbi": [],
-  "augmented_reality": [],
-  "space_exploration": [],
-  "vladimir_putin": [],
-  "us_house_of_representatives": [],
-  "history_of_the_united_states": [],
-  "history_of_the_earth": [],
-  "amazon": [],
-  "taxes": [],
-  "political_parties": [],
-  "jeff_bezos": [],
-  "police_officers": [],
-  "apple": [],
   "north_korea": [
     {
       "title": "Kim Jong Un Slams \u2018Serious\u2019 Warship Accident at Launch Ceremony - Bloomberg",
@@ -1949,17 +1925,22 @@
       "pubDate": "Fri, 23 May 2025 01:57:00 GMT"
     }
   ],
-  "politics": [],
-  "earthquakes": [],
-  "new_york_politics": [],
-  "drones": [],
   "hamas": [
     {
       "title": "LIVE: Israel kills 78 in pre-dawn attacks on Gaza, resumes talks with Hamas - Al Jazeera",
       "pubDate": "Sun, 18 May 2025 02:37:30 GMT"
+    },
+    {
+      "title": "Report: Hamas struggling to pay terrorists, procure weapons - www.israelhayom.com",
+      "pubDate": "Sat, 24 May 2025 17:47:13 GMT"
     }
   ],
-  "climate": [],
+  "climate": [
+    {
+      "title": "Trump administration plans to end greenhouse gas limits on power plants - The Washington Post",
+      "pubDate": "Sat, 24 May 2025 20:00:21 GMT"
+    }
+  ],
   "ai_safety": [
     {
       "title": "AI Security Frameworks - Ensuring Trust in Machine Learning - CybersecurityNews",
@@ -2078,12 +2059,6 @@
       "pubDate": "Sat, 24 May 2025 10:17:28 GMT"
     }
   ],
-  "finance": [],
-  "electric_battery": [],
-  "violence": [],
-  "energy_storage": [],
-  "bitcoin": [],
-  "ethereum": [],
   "us_politics": [
     {
       "title": "Justice Dept. Opens Inquiry Into Andrew Cuomo, Singling Out Another Political Target - The New York Times",
@@ -2292,16 +2267,22 @@
       "pubDate": "Sun, 18 May 2025 12:03:44 GMT"
     }
   ],
-  "data_privacy": [],
-  "google": [],
-  "intelligence_agencies": [],
-  "openai": [],
-  "virtual_reality": [],
-  "world_politics": [],
   "cryptocurrency": [
     {
       "title": "Bitcoin rises to new record high, eclipses January top - Reuters",
       "pubDate": "Wed, 21 May 2025 15:46:08 GMT"
+    }
+  ],
+  "electric-vehicle_battery": [
+    {
+      "title": "Congress Is On Track To End America's Battery Boom - InsideEVs",
+      "pubDate": "Sat, 24 May 2025 16:02:04 GMT"
+    }
+  ],
+  "animals": [
+    {
+      "title": "Thousands of animal species face \u2018existential crisis\u2019 amid climate change, OSU study says - KOIN.com",
+      "pubDate": "Sat, 24 May 2025 15:00:00 GMT"
     }
   ]
 }
