@@ -361,12 +361,20 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         f"- Select up to {MAX_TOPICS} of the most important topics for the digest.\n"
         f"- For each selected topic, choose the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "- Strictly avoid returning multiple copies of the same or very similar headlines, even if they appear under different candidate topics. Deduplicate aggressively.\n"
-        "- Avoid all local news (e.g., headlines specific to a small town or county). Focus on national (U.S.) or major international news relevant to a U.S. audience.\n"
+        "- Avoid all local news (e.g., headlines specific to or referencing a small town or county). Focus on national (U.S.) or major international news relevant to a U.S. audience.\n"
         "- Strictly adhere to the user's topic and keyword importance preferences (1=lowest, 5=highest).\n"
         f"- Reject any headlines containing terms flagged 'banned'. Demote headlines with 'demote' terms (treat them as {DEMOTE_FACTOR} times less important).\n"
         "- Reject advertisements and mentions of specific products/services unless it's newsworthy criticism or a major announcement.\n"
         "- Ensure a healthy diversity of subjects. Do not over-focus on a single theme.\n"
-        "- Prefer content-rich, informative headlines over clickbait, questions, or listicles.\n\n"
+        # MODIFICATION START: Enhanced criteria for content quality
+        "- Prioritize headlines that are content-rich, factual, objective, and informative.\n"
+        "- Actively avoid and deprioritize headlines that are:\n"
+        "    - Sensationalist or designed for shock value (e.g., using excessive superlatives, fear-mongering).\n"
+        "    - Purely for entertainment, celebrity gossip (unless of major national/international significance), or \"fluff\" pieces lacking substantial news value.\n"
+        "    - Clickbait (e.g., withholding key information, using vague teasers).\n"
+        "    - Phrased as questions or promoting listicles, unless the underlying content is exceptionally newsworthy.\n"
+        "- Ensure the selected articles reflect genuine newsworthiness and are relevant to an informed general audience seeking serious news updates.\n\n"
+        # MODIFICATION END
         "Based on all the above, provide your selections using the 'format_digest_selection' tool."
     )
     logging.info("Sending request to Gemini for prioritization.")
@@ -381,9 +389,28 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
             try:
                 finish_reason_val = response.candidates[0].finish_reason
                 if isinstance(finish_reason_val, int):
-                    reason_map = {0: "UNSPECIFIED", 1: "STOP", 2: "MAX_TOKENS", 3: "SAFETY", 4: "RECITATION", 5: "OTHER", 6: "TOOL_CALLS"}
-                    finish_reason_str = reason_map.get(finish_reason_val, f"UNKNOWN_REASON_{finish_reason_val}")
-                else:
+                    # Using the mapping from the google.generativeai.types.Candidate.FinishReason enum
+                    reason_map = {
+                        0: "FINISH_REASON_UNSPECIFIED",
+                        1: "STOP",
+                        2: "MAX_TOKENS",
+                        3: "SAFETY",
+                        4: "RECITATION",
+                        5: "OTHER",
+                        # 6: "TOOL_CALLS" - This value is not explicitly in the enum but appears in practice from SDK
+                        # Let's align with observed behavior if TOOL_CALLS is common.
+                        # Based on documentation, if function calling happens, finish_reason is STOP and parts contain function_call.
+                        # However, the original code had a map entry for 6: "TOOL_CALLS", so we'll retain similar logic.
+                    }
+                    # Updated check for `TOOL_CALLS` based on typical SDK behavior:
+                    if response.candidates[0].content and response.candidates[0].content.parts and any(p.function_call for p in response.candidates[0].content.parts):
+                        finish_reason_str = "TOOL_CALLS"
+                    elif finish_reason_val in reason_map:
+                        finish_reason_str = reason_map[finish_reason_val]
+                    else:
+                        finish_reason_str = f"UNKNOWN_REASON_{finish_reason_val}"
+
+                else: # If it's already a string or an enum object
                     finish_reason_str = str(finish_reason_val)
             except Exception as e_fr:
                 logging.warning(f"Could not determine finish_reason string: {e_fr}")
@@ -399,39 +426,33 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
 
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
-                args = function_call_part.args # This is a MapComposite
+                args = function_call_part.args 
                 logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {args}")
                 
-                entries_list = args.get("selected_digest_entries") # This should be a RepeatedComposite
+                entries_list = args.get("selected_digest_entries")
                 
-                # Check if entries_list is None or not one of the expected iterable types
                 if entries_list is None or not (isinstance(entries_list, list) or isinstance(entries_list, RepeatedComposite)):
                     logging.warning(f"'selected_digest_entries' from Gemini is not a list/RepeatedComposite or is missing. Type: {type(entries_list)}, Value: {entries_list}")
                     return {}
 
                 transformed_output = {}
-                # entries_list can be iterated directly whether it's list or RepeatedComposite
                 for entry in entries_list: 
-                    # Each 'entry' should be a MapComposite if it's an object from the schema
                     if isinstance(entry, dict) or isinstance(entry, MapComposite):
-                        topic_name = entry.get("topic_name") # Should be a Python string
-                        headlines_proto_list = entry.get("headlines") # Should be RepeatedComposite of strings
+                        topic_name = entry.get("topic_name") 
+                        headlines_proto_list = entry.get("headlines") 
 
-                        # Ensure headlines_proto_list is iterable (list or RepeatedComposite)
                         if isinstance(headlines_proto_list, list) or isinstance(headlines_proto_list, RepeatedComposite):
-                            # Convert RepeatedComposite of strings to a Python list of strings
-                            headlines_python_list = [str(h) for h in headlines_proto_list if isinstance(h, (str, bytes))] # Ensure conversion to string
+                            headlines_python_list = [str(h) for h in headlines_proto_list if isinstance(h, (str, bytes))] 
                         else:
                             logging.warning(f"Headlines for topic '{topic_name}' is not a list/RepeatedComposite. Type: {type(headlines_proto_list)}")
                             headlines_python_list = []
 
-                        if isinstance(topic_name, str) and headlines_python_list: # Check topic_name is string and list has content
-                            if topic_name: # Ensure topic_name is not empty
+                        if isinstance(topic_name, str) and headlines_python_list: 
+                            if topic_name: 
                                 if topic_name in transformed_output:
                                     transformed_output[topic_name].extend(headlines_python_list)
                                 else:
                                     transformed_output[topic_name] = headlines_python_list
-                                # Deduplicate headlines within the same topic
                                 transformed_output[topic_name] = list(dict.fromkeys(transformed_output[topic_name]))
                         else:
                             logging.warning(f"Skipping invalid entry: topic '{topic_name}' (type {type(topic_name)}), headlines '{headlines_python_list}'")
@@ -448,25 +469,70 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
             for part in response.candidates[0].content.parts:
                 try:
                     text_content += part.text
-                except ValueError:
+                except ValueError: # part.text might raise ValueError if it's not text
                     pass
-            if text_content:
+            if text_content.strip(): # Check if text_content has substance
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
                 logging.debug(f"Gemini raw text response: {text_content}")
-                return safe_parse_json(text_content)
+                # Attempt to parse the text content as JSON
+                parsed_json = safe_parse_json(text_content)
+                # Now, we need to ensure this parsed_json conforms to the expected structure
+                # that would have come from the tool call.
+                # The tool call expects: {"selected_digest_entries": [{"topic_name": "...", "headlines": ["..."]}, ...]}
+                if "selected_digest_entries" in parsed_json and isinstance(parsed_json["selected_digest_entries"], list):
+                    # It looks like the JSON might be in the correct format, so process it similarly
+                    transformed_output = {}
+                    for entry in parsed_json["selected_digest_entries"]:
+                        if isinstance(entry, dict):
+                            topic_name = entry.get("topic_name")
+                            headlines_list = entry.get("headlines")
+                            if isinstance(topic_name, str) and isinstance(headlines_list, list) and topic_name:
+                                valid_headlines = [h for h in headlines_list if isinstance(h, str)]
+                                if valid_headlines:
+                                    if topic_name in transformed_output:
+                                        transformed_output[topic_name].extend(valid_headlines)
+                                    else:
+                                        transformed_output[topic_name] = valid_headlines
+                                    transformed_output[topic_name] = list(dict.fromkeys(transformed_output[topic_name]))
+                            else:
+                                logging.warning(f"Skipping invalid entry in parsed text JSON: {entry}")
+                        else:
+                            logging.warning(f"Skipping non-dict item in parsed text 'selected_digest_entries': {entry}")
+                    if transformed_output:
+                        logging.info(f"Successfully parsed and transformed text response from Gemini: {transformed_output}")
+                        return transformed_output
+                    else:
+                        logging.warning(f"Parsed text response from Gemini did not yield usable digest entries.")
+                        return {}
+                else:
+                    logging.warning(f"Gemini text response could not be parsed into the expected digest structure. Raw text: {text_content[:500]}")
+                    return {}
+
             else:
                 logging.warning(f"Gemini returned no usable function call and no parsable text content.")
                 return {}
         else:
-            logging.warning(f"Gemini returned no candidates or no content parts.")
+            # This case covers scenarios like safety blocks or other issues where no valid candidate/content is returned.
+            # Log the response details if available and helpful for debugging.
+            if response and response.prompt_feedback:
+                logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
+            else:
+                logging.warning(f"Gemini returned no candidates or no content parts. Full response (if available): {response}")
             return {}
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         try:
-            logging.error(f"Full Gemini response object on error: {response if 'response' in locals() else 'Response object not available'}")
+            # Be careful logging the full response as it can be very large or contain sensitive info if not handled well.
+            # For debugging, logging parts of it or specific attributes might be safer.
+            if 'response' in locals() and response:
+                logging.error(f"Gemini response object on error (prompt_feedback): {response.prompt_feedback if hasattr(response, 'prompt_feedback') else 'N/A'}")
+                if response.candidates:
+                     logging.error(f"Gemini response object on error (first candidate): {response.candidates[0] if response.candidates else 'No candidates'}")
+            else:
+                logging.error("Response object not available or None at the time of error logging.")
         except Exception as e_log:
-            logging.error(f"Error logging full response: {e_log}")
+            logging.error(f"Error logging full response details: {e_log}")
         return {}
 
 def write_digest_html(digest_data, base_dir, current_zone):
@@ -475,7 +541,6 @@ def write_digest_html(digest_data, base_dir, current_zone):
     # It will be created by perform_git_operations or if logs/public dir is pre-created.
     # Or, keep it: os.makedirs(os.path.dirname(digest_path), exist_ok=True) is fine.
     os.makedirs(os.path.dirname(digest_path), exist_ok=True)
-
 
     html_parts = []
 
