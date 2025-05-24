@@ -1,78 +1,62 @@
 [
   {
-    "prediction_id": "2025-05-24T06:00:18.178697-04:00_-3540599315416016863",
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_4165072391861335950",
     "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
     "prediction_text": "escalated trade wars with threatened 50% EU and 25% Apple tariffs will likely deepen global market instability and heighten recession risks.",
     "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
     "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
-    "estimated_prior_probability": 0.75,
-    "estimated_prior_likelihood_category": "High",
-    "prior_estimation_rationale": "The text explicitly states that Trump's tariff threats caused global markets to tumble and increased US recession odds.  Given the magnitude of the threatened tariffs and the immediate market reaction, further negative consequences are highly probable.",
-    "status": "pending_verification",
-    "verification_details": {
-      "checked_against_reports": [],
-      "evidence_report_timestamp": null,
-      "evidence_text_snippet": null,
-      "match_score": 0.0,
-      "matching_keywords": [],
-      "notes": ""
-    }
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is largely obvious given the context.  The context explicitly states that Trump's tariff threats caused global markets to tumble and increased US recession odds. The prediction simply rephrases this existing volatility and its potential consequences (increased instability and recession risks). While it mentions specific tariff percentages, the core assertion – that escalating trade tensions will worsen economic conditions – is a highly probable outcome given the described events and doesn't offer a novel or surprising prediction.  It's not entirely vacuous because it mentions specific tariff levels, but the overall prediction is too closely tied to the already-stated consequences of the trade war."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
   },
   {
-    "prediction_id": "2025-05-24T06:00:18.178697-04:00_208536574113031893",
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_5432480280526672976",
     "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
     "prediction_text": "Diplomatic relations will remain strained.",
     "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
     "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
-    "estimated_prior_probability": 0.85,
-    "estimated_prior_likelihood_category": "High",
-    "prior_estimation_rationale": "Trump's aggressive trade policies and inflammatory rhetoric towards the EU and South Africa, coupled with ongoing conflict in Ukraine, significantly increase the likelihood of strained diplomatic relations in the coming weeks.",
-    "status": "pending_verification",
-    "verification_details": {
-      "checked_against_reports": [],
-      "evidence_report_timestamp": null,
-      "evidence_text_snippet": null,
-      "match_score": 0.0,
-      "matching_keywords": [],
-      "notes": ""
-    }
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction 'Diplomatic relations will remain strained' is vague and lacks specificity.  Given the context of escalating trade tensions between the US and the EU, and the ongoing conflict in Ukraine, strained diplomatic relations are already evident. The prediction doesn't forecast a *specific* change or new development in these relations, making it essentially a restatement of the current situation.  It's too broad; almost any international event could be interpreted as confirming 'strained' relations."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
   },
   {
-    "prediction_id": "2025-05-24T06:00:18.178697-04:00_4523871416688384402",
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_4547627171542660709",
     "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
     "prediction_text": "Less likely, the Ukraine prisoner swap could pave a path to de-escalation.",
     "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
     "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
-    "estimated_prior_probability": 0.2,
-    "estimated_prior_likelihood_category": "Low",
-    "prior_estimation_rationale": "While a prisoner swap can sometimes signal a willingness to negotiate, the ongoing Russian attacks in Ukraine and the significant global distractions caused by Trump's actions suggest de-escalation is unlikely in the short term.",
-    "status": "pending_verification",
-    "verification_details": {
-      "checked_against_reports": [],
-      "evidence_report_timestamp": null,
-      "evidence_text_snippet": null,
-      "match_score": 0.0,
-      "matching_keywords": [],
-      "notes": ""
-    }
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is vague and lacks specificity.  It states a prisoner swap 'could pave a path to de-escalation,' which is a possibility in any conflict involving prisoner exchanges, making it almost a tautology.  The qualifier 'less likely' doesn't add much predictive power; it's still too broad to be meaningfully tested.  The prediction doesn't specify what constitutes 'de-escalation' (reduction in fighting intensity?  diplomatic breakthroughs?  etc.), nor does it offer a timeframe.  While a prisoner swap *might* lead to de-escalation, it's far from a guaranteed outcome, and the prediction doesn't provide enough detail to assess its likelihood."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
   },
   {
-    "prediction_id": "2025-05-24T06:00:18.178697-04:00_-6279133161556216901",
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_9150812458716286503",
     "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
     "prediction_text": "Ramifications include economic downturns, geopolitical shifts, and intensified ethical debates over AI safety.",
     "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
     "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
-    "estimated_prior_probability": 0.75,
-    "estimated_prior_likelihood_category": "High",
-    "prior_estimation_rationale": "Trump's aggressive trade policies and the already volatile global economic situation significantly increase the likelihood of economic downturns.  The AI blackmail incident, coupled with rapid AI development, makes intensified ethical debates highly probable.",
-    "status": "pending_verification",
-    "verification_details": {
-      "checked_against_reports": [],
-      "evidence_report_timestamp": null,
-      "evidence_text_snippet": null,
-      "match_score": 0.0,
-      "matching_keywords": [],
-      "notes": ""
-    }
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions 'economic downturns, geopolitical shifts, and intensified ethical debates over AI safety.'  Given the context of significant US policy shifts causing market turmoil, ongoing war in Ukraine, and an AI safety incident, these outcomes are highly probable and not specific predictions.  The statement is essentially a rephrasing of existing tensions and emerging risks, lacking concrete details about the nature, scale, or timing of these predicted ramifications.  It's too broad; almost any future event could be interpreted as confirming it."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
   }
 ]
