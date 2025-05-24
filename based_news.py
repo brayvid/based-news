@@ -555,36 +555,80 @@ def update_history_file(digest_data, current_history, history_file_path, current
 def perform_git_operations(base_dir):
     try:
         github_token = os.getenv("GITHUB_TOKEN")
-        github_repository = os.getenv("GITHUB_REPOSITORY")
-        if not github_token or not github_repository:
-            logging.error("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Cannot push to GitHub.")
+        github_repository_owner_slash_repo = os.getenv("GITHUB_REPOSITORY") # e.g., "username/reponame"
+        
+        if not github_token or not github_repository_owner_slash_repo:
+            logging.error("GITHUB_TOKEN or GITHUB_REPOSITORY (e.g., owner/repo) not set. Cannot push to GitHub.")
             return
-        remote_url = f"https://oauth2:{github_token}@github.com/{github_repository}.git"
-        git_user_name = CONFIG.get("GIT_USER_NAME", "Automated Digest Bot")
-        git_user_email = CONFIG.get("GIT_USER_EMAIL", "bot@example.com")
-        subprocess.run(["git", "config", "--global", "user.name", git_user_name], check=True, cwd=base_dir)
-        subprocess.run(["git", "config", "--global", "user.email", git_user_email], check=True, cwd=base_dir)
+        
+        remote_url = f"https://oauth2:{github_token}@github.com/{github_repository_owner_slash_repo}.git"
+        
+        # Get Git commit author details from .env, then from CONFIG, then use hardcoded defaults
+        # Renamed from GIT_USER_NAME/EMAIL to GITHUB_USER/EMAIL as requested for .env keys
+        commit_author_name_env = os.getenv("GITHUB_USER") # For commit author name
+        commit_author_email_env = os.getenv("GITHUB_EMAIL") # For commit author email
+
+        # Fallback chain: .env -> CONFIG sheet -> hardcoded default in CONFIG.get()
+        # The keys in CONFIG sheet can remain "GIT_USER_NAME", "GIT_USER_EMAIL" or you can align them too.
+        # For this example, I'll assume CONFIG keys might still be GIT_USER_NAME/EMAIL
+        # or you can update your Google Sheet to use GITHUB_USER/EMAIL as keys there too.
+        
+        # If you also want to change the keys used for lookup in the CONFIG sheet:
+        # commit_author_name = commit_author_name_env if commit_author_name_env else CONFIG.get("GITHUB_USER_CONFIG_KEY", "Automated Digest Bot")
+        # commit_author_email = commit_author_email_env if commit_author_email_env else CONFIG.get("GITHUB_EMAIL_CONFIG_KEY", "bot@example.com")
+        # Otherwise, if CONFIG sheet still uses GIT_USER_NAME:
+        commit_author_name = commit_author_name_env if commit_author_name_env else CONFIG.get("GIT_USER_NAME", "Automated Digest Bot")
+        commit_author_email = commit_author_email_env if commit_author_email_env else CONFIG.get("GIT_USER_EMAIL", "bot@example.com")
+
+        logging.info(f"Using Git Commit Author Name: '{commit_author_name}', Email: '{commit_author_email}'")
+
+        # Configure git user for this repository
+        subprocess.run(["git", "config", "user.name", commit_author_name], check=True, cwd=base_dir)
+        subprocess.run(["git", "config", "user.email", commit_author_email], check=True, cwd=base_dir)
+
         try:
             subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=base_dir)
         except subprocess.CalledProcessError:
             logging.info("Failed to set-url (maybe remote 'origin' doesn't exist). Attempting to add.")
             subprocess.run(["git", "remote", "add", "origin", remote_url], check=True, cwd=base_dir)
         
-        # Add files that are always updated or potentially updated
-        files_to_add = ["history.json", "logs/based_news.log"]
-        # Only add digest.html if it exists (it will if content was written)
-        digest_html_path = os.path.join(base_dir, "public", "digest.html")
-        if os.path.exists(digest_html_path):
-             files_to_add.append("public/digest.html")
+        history_json_path_abs = os.path.join(base_dir, "history.json")
+        digest_html_path_abs = os.path.join(base_dir, "public/digest.html")
+
+        files_to_add_abs = []
+        
+        if os.path.exists(history_json_path_abs):
+            files_to_add_abs.append(history_json_path_abs)
         else:
-            logging.info("digest.html does not exist, so not adding to git.")
+            logging.warning(f"File not found, cannot add to git: {history_json_path_abs}")
 
+        if os.path.exists(digest_html_path_abs):
+             files_to_add_abs.append(digest_html_path_abs)
+        else:
+            logging.info(f"digest.html not found at {digest_html_path_abs}, not adding to git. This is expected if there were no updates.")
 
-        subprocess.run(["git", "add"] + files_to_add, check=True, cwd=base_dir)
+        if not files_to_add_abs:
+            logging.info("No files (history.json, digest.html) found or changed to add to git.")
+            status_result_check = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=False, cwd=base_dir)
+            if not status_result_check.stdout.strip():
+                logging.info("And no other changes detected by git status. Nothing to commit.")
+                return
+
+        if files_to_add_abs:
+            logging.info(f"Attempting to git add: {files_to_add_abs}")
+            add_process = subprocess.run(["git", "add"] + files_to_add_abs, 
+                                         capture_output=True, text=True, cwd=base_dir)
+            if add_process.returncode != 0:
+                logging.error(f"git add command failed with exit code {add_process.returncode}.")
+                logging.error(f"git add stdout: {add_process.stdout}")
+                logging.error(f"git add stderr: {add_process.stderr}")
+                raise subprocess.CalledProcessError(add_process.returncode, add_process.args, output=add_process.stdout, stderr=add_process.stderr)
+            else:
+                logging.info(f"git add successful for: {files_to_add_abs}")
         
         status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
         if not status_result.stdout.strip():
-            logging.info("No changes to commit.")
+            logging.info("No changes staged for commit after 'git add'. Nothing to commit.")
             return
         
         branch_result = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir)
@@ -592,11 +636,15 @@ def perform_git_operations(base_dir):
 
         commit_message = f"Auto-update digest content - {datetime.now(ZONE).strftime('%Y-%m-%d %H:%M:%S %Z')}"
         subprocess.run(["git", "commit", "-m", commit_message], check=True, cwd=base_dir)
+        
         logging.info(f"Pushing changes to origin/{current_branch}...")
         subprocess.run(["git", "push", "origin", current_branch], check=True, cwd=base_dir)
         logging.info(f"Content committed and pushed to GitHub on branch '{current_branch}'.")
+
     except subprocess.CalledProcessError as e:
-        logging.error(f"Git operation failed: {e}. Command: '{e.cmd}'. Output: {e.stderr or e.stdout}")
+        output_str = e.output if e.output is not None else ""
+        stderr_str = e.stderr if e.stderr is not None else ""
+        logging.error(f"Git operation failed: {e}. Command: '{e.cmd}'. Output: {output_str}. Stderr: {stderr_str}")
     except Exception as e:
         logging.error(f"General error during Git operations: {e}", exc_info=True)
 
