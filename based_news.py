@@ -544,7 +544,7 @@ def main():
             # history[key] = history[key][-40:]
 
         # Clean old history
-        time_limit = datetime.now(ZONE) - timedelta(days=14)
+        time_limit = datetime.now(ZONE) - timedelta(days=8)
         for topic in list(history.keys()):
             history[topic] = [
                 a for a in history[topic]
