@@ -1,4 +1,4 @@
-# Author: Blake Rayvid <https://github.com/brayvid/newsbot>
+# Author: Blake Rayvid <https://github.com/brayvid/based-news>
 
 import os
 import sys
