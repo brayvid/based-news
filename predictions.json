@@ -1,0 +1,78 @@
+[
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_-3540599315416016863",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "escalated trade wars with threatened 50% EU and 25% Apple tariffs will likely deepen global market instability and heighten recession risks.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "estimated_prior_probability": 0.75,
+    "estimated_prior_likelihood_category": "High",
+    "prior_estimation_rationale": "The text explicitly states that Trump's tariff threats caused global markets to tumble and increased US recession odds.  Given the magnitude of the threatened tariffs and the immediate market reaction, further negative consequences are highly probable.",
+    "status": "pending_verification",
+    "verification_details": {
+      "checked_against_reports": [],
+      "evidence_report_timestamp": null,
+      "evidence_text_snippet": null,
+      "match_score": 0.0,
+      "matching_keywords": [],
+      "notes": ""
+    }
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_208536574113031893",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Diplomatic relations will remain strained.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "estimated_prior_probability": 0.85,
+    "estimated_prior_likelihood_category": "High",
+    "prior_estimation_rationale": "Trump's aggressive trade policies and inflammatory rhetoric towards the EU and South Africa, coupled with ongoing conflict in Ukraine, significantly increase the likelihood of strained diplomatic relations in the coming weeks.",
+    "status": "pending_verification",
+    "verification_details": {
+      "checked_against_reports": [],
+      "evidence_report_timestamp": null,
+      "evidence_text_snippet": null,
+      "match_score": 0.0,
+      "matching_keywords": [],
+      "notes": ""
+    }
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_4523871416688384402",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Less likely, the Ukraine prisoner swap could pave a path to de-escalation.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "estimated_prior_probability": 0.2,
+    "estimated_prior_likelihood_category": "Low",
+    "prior_estimation_rationale": "While a prisoner swap can sometimes signal a willingness to negotiate, the ongoing Russian attacks in Ukraine and the significant global distractions caused by Trump's actions suggest de-escalation is unlikely in the short term.",
+    "status": "pending_verification",
+    "verification_details": {
+      "checked_against_reports": [],
+      "evidence_report_timestamp": null,
+      "evidence_text_snippet": null,
+      "match_score": 0.0,
+      "matching_keywords": [],
+      "notes": ""
+    }
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_-6279133161556216901",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Ramifications include economic downturns, geopolitical shifts, and intensified ethical debates over AI safety.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "estimated_prior_probability": 0.75,
+    "estimated_prior_likelihood_category": "High",
+    "prior_estimation_rationale": "Trump's aggressive trade policies and the already volatile global economic situation significantly increase the likelihood of economic downturns.  The AI blackmail incident, coupled with rapid AI development, makes intensified ethical debates highly probable.",
+    "status": "pending_verification",
+    "verification_details": {
+      "checked_against_reports": [],
+      "evidence_report_timestamp": null,
+      "evidence_text_snippet": null,
+      "match_score": 0.0,
+      "matching_keywords": [],
+      "notes": ""
+    }
+  }
+]
