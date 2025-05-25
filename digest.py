@@ -45,7 +45,7 @@ from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/digest.log")
+log_path = os.path.join(BASE_DIR, "logs/digest.log") 
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info(f"Script started at {datetime.now()}")
@@ -124,8 +124,7 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4))
 GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-1.5-flash-latest") 
-
-STALE_TOPIC_THRESHOLD_HOURS = int(CONFIG.get("STALE_TOPIC_THRESHOLD_HOURS", 72))
+STALE_TOPIC_THRESHOLD_HOURS = int(CONFIG.get("STALE_TOPIC_THRESHOLD_HOURS", 72)) # Not used in this "snapshot" model
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
@@ -546,7 +545,7 @@ def write_digest_html(digest_data, base_dir, current_zone):
     os.makedirs(os.path.dirname(digest_path), exist_ok=True)
 
     html_parts = []
-    # digest_data is already ordered by recency from display_candidates
+    # digest_data is now expected to be pre-sorted by newest article pubdate
     for topic, articles in digest_data.items(): 
         html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
         for article in articles: 
@@ -782,36 +781,9 @@ def main():
         except Exception as e:
             logging.error(f"Error loading history.json: {e}. Starting with empty history.")
 
-    persisted_digest_state = {}
-    if os.path.exists(DIGEST_STATE_FILE):
-        try:
-            with open(DIGEST_STATE_FILE, "r", encoding="utf-8") as f:
-                persisted_digest_state = json.load(f)
-            if not isinstance(persisted_digest_state, dict): 
-                logging.warning(f"{DIGEST_STATE_FILE} does not contain a valid JSON object. Resetting.")
-                persisted_digest_state = {}
-            else: 
-                for topic_name, topic_data in list(persisted_digest_state.items()): 
-                    if not (isinstance(topic_data, dict) and \
-                            "articles" in topic_data and isinstance(topic_data["articles"], list) and \
-                            "last_updated_ts" in topic_data and isinstance(topic_data["last_updated_ts"], str)):
-                        logging.warning(f"Invalid structure for topic '{topic_name}' in {DIGEST_STATE_FILE}. Removing it.")
-                        del persisted_digest_state[topic_name]
-        except json.JSONDecodeError:
-            logging.warning(f"{DIGEST_STATE_FILE} is invalid JSON. Starting with an empty digest state.")
-        except Exception as e:
-            logging.error(f"Error loading {DIGEST_STATE_FILE}: {e}. Starting with empty digest state.")
-
-    # Prune articles in loaded persisted_digest_state to MAX_ARTICLES_PER_TOPIC
-    if persisted_digest_state:
-        logging.info(f"Pruning articles in loaded persisted_digest_state to MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
-        for topic_name, topic_data in persisted_digest_state.items(): 
-            if "articles" in topic_data and isinstance(topic_data["articles"], list):
-                if len(topic_data["articles"]) > MAX_ARTICLES_PER_TOPIC:
-                    logging.info(f"Topic '{topic_name}' in persisted state has {len(topic_data['articles'])} articles, pruning to {MAX_ARTICLES_PER_TOPIC}.")
-                    topic_data["articles"] = topic_data["articles"][:MAX_ARTICLES_PER_TOPIC]
-            else: 
-                logging.warning(f"Topic '{topic_name}' in persisted state missing 'articles' list or not a list during pruning attempt.")
+    # In this model, content.json is a direct snapshot of the latest run, not a persisted state to merge with.
+    # The STALE_TOPIC_THRESHOLD_HOURS and associated logic are removed as staleness is now
+    # simply a topic not being selected by Gemini in the current run.
     
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
@@ -850,7 +822,8 @@ def main():
                 if current_topic_headlines_for_llm:
                     headlines_to_send_to_llm[topic_name] = current_topic_headlines_for_llm
         
-        final_digest_from_llm_this_run = {} 
+        # This will be the content for digest.html and content.json for THIS RUN
+        digest_content_for_this_run_intermediate = {} 
 
         if not headlines_to_send_to_llm:
             logging.info("No new, non-banned, non-historical headlines available to send to LLM.")
@@ -861,9 +834,15 @@ def main():
             selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, gemini_api_key)
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
-                logging.warning("Gemini returned no content or invalid format. No new topics from LLM this run.")
+                logging.warning("Gemini returned no content or invalid format. Digest will be empty or unchanged from previous state if not overwritten.")
             else:
-                logging.info(f"Gemini returned {len(selected_content_raw_from_llm)} topics. Processing and enforcing MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
+                # Enforce MAX_TOPICS on Gemini's output
+                if len(selected_content_raw_from_llm) > MAX_TOPICS:
+                    logging.warning(f"Gemini returned {len(selected_content_raw_from_llm)} topics, which exceeds MAX_TOPICS={MAX_TOPICS}. Truncating to the first {MAX_TOPICS} topics provided by Gemini.")
+                    truncated_topics_list = list(selected_content_raw_from_llm.items())[:MAX_TOPICS]
+                    selected_content_raw_from_llm = dict(truncated_topics_list) 
+                
+                logging.info(f"Processing {len(selected_content_raw_from_llm)} topics from Gemini (after script's MAX_TOPICS truncation). Enforcing MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
                 seen_normalized_titles_in_llm_output = set() 
 
                 for topic_from_llm, titles_from_llm_untruncated in selected_content_raw_from_llm.items():
@@ -871,9 +850,9 @@ def main():
                         logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm_untruncated}. Skipping.")
                         continue
                     
-                    if len(titles_from_llm_untruncated) > MAX_ARTICLES_PER_TOPIC:
-                        logging.info(f"Topic '{topic_from_llm}' from LLM had {len(titles_from_llm_untruncated)} articles, truncating to {MAX_ARTICLES_PER_TOPIC}.")
                     titles_from_llm = titles_from_llm_untruncated[:MAX_ARTICLES_PER_TOPIC]
+                    if len(titles_from_llm_untruncated) > MAX_ARTICLES_PER_TOPIC:
+                        logging.info(f"Topic '{topic_from_llm}' from LLM had {len(titles_from_llm_untruncated)} articles, script truncated to {MAX_ARTICLES_PER_TOPIC}.")
 
                     current_topic_articles_for_digest = []
                     for title_from_llm in titles_from_llm: 
@@ -906,125 +885,73 @@ def main():
                                 logging.warning(f"Could not map LLM title '{title_from_llm}' (normalized: '{norm_llm_title}') back to a fetched article.")
                     
                     if current_topic_articles_for_digest:
-                        final_digest_from_llm_this_run[topic_from_llm] = current_topic_articles_for_digest
+                        digest_content_intermediate[topic_from_llm] = current_topic_articles_for_digest
         
-        now_utc = datetime.now(ZoneInfo("UTC"))
-        now_utc_iso = now_utc.isoformat()
-        persisted_state_changed_by_llm = False 
+        # Sort the selected topics by the pubDate of their first article, newest first
+        final_digest_for_display_and_state = {}
+        if digest_content_intermediate:
+            topics_with_pubdates = []
+            for topic_name, articles in digest_content_intermediate.items():
+                if not articles: 
+                    continue 
+                # Assuming MAX_ARTICLES_PER_TOPIC is 1, or we sort by the first/newest article.
+                # If multiple articles per topic, this takes the first.
+                # For more robust sorting with multiple articles, find max pubdate among them.
+                newest_pubdate_str = articles[0]['pubDate'] 
+                try:
+                    newest_pubdate_dt = parsedate_to_datetime(newest_pubdate_str)
+                    if newest_pubdate_dt.tzinfo is None: 
+                        newest_pubdate_dt = newest_pubdate_dt.replace(tzinfo=ZoneInfo("UTC"))
+                    topics_with_pubdates.append((topic_name, articles, newest_pubdate_dt))
+                except Exception as e:
+                    logging.warning(f"Could not parse pubDate '{newest_pubdate_str}' for topic '{topic_name}' during sorting. Using epoch. Error: {e}")
+                    topics_with_pubdates.append((topic_name, articles, datetime.min.replace(tzinfo=ZoneInfo("UTC"))))
 
-        if final_digest_from_llm_this_run:
-            logging.info(f"Processing {len(final_digest_from_llm_this_run)} topics from LLM output to update persisted state...")
-            for topic_name_from_llm, articles_from_llm in final_digest_from_llm_this_run.items():
-                new_article_title_set = frozenset(normalize(a["title"]) for a in articles_from_llm)
-
-                if topic_name_from_llm in persisted_digest_state:
-                    existing_articles_in_persisted = persisted_digest_state[topic_name_from_llm].get("articles", [])
-                    existing_article_title_set = frozenset(normalize(a["title"]) for a in existing_articles_in_persisted)
-                    
-                    if new_article_title_set != existing_article_title_set:
-                        logging.info(f"Updating topic '{topic_name_from_llm}' in persisted state with new/different articles.")
-                        persisted_digest_state[topic_name_from_llm] = {
-                            "articles": articles_from_llm, 
-                            "last_updated_ts": now_utc_iso
-                        }
-                        persisted_state_changed_by_llm = True
-                    else:
-                        logging.info(f"Topic '{topic_name_from_llm}' from LLM has identical articles as persisted. Timestamp not updated.")
-                else:
-                    logging.info(f"Adding new topic '{topic_name_from_llm}' to persisted digest state.")
-                    persisted_digest_state[topic_name_from_llm] = {
-                        "articles": articles_from_llm,
-                        "last_updated_ts": now_utc_iso
-                    }
-                    persisted_state_changed_by_llm = True
+            topics_with_pubdates.sort(key=lambda x: x[2], reverse=True)
             
-            if persisted_state_changed_by_llm:
-                 logging.info("Persisted digest state was modified (topic added/updated) based on LLM output.")
-            else:
-                 logging.info("LLM output processed, but no changes (new topics or different articles for existing topics) made to persisted digest state.")
+            for topic_name, articles, _ in topics_with_pubdates:
+                final_digest_for_display_and_state[topic_name] = articles
+            logging.info(f"Sorted {len(final_digest_for_display_and_state)} topics by newest article pubdate for display.")
         else:
-            logging.info("No topics/articles from LLM to merge into digest state this run.")
-
-        topics_to_remove_due_to_staleness = []
-        stale_threshold_datetime_utc = now_utc - timedelta(hours=STALE_TOPIC_THRESHOLD_HOURS)
-
-        for topic_name, topic_data in persisted_digest_state.items():
-            last_updated_ts_str = topic_data.get("last_updated_ts")
-            if not isinstance(last_updated_ts_str, str):
-                logging.warning(f"Topic '{topic_name}' in persisted state has missing/invalid 'last_updated_ts'. Marking stale.")
-                topics_to_remove_due_to_staleness.append(topic_name)
-                continue
+            logging.info("No content from Gemini to sort for display.")
+        
+        # Write to HTML and content.json
+        if final_digest_for_display_and_state:
+            content_json_to_save = {}
+            now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat() 
+            for topic, articles in final_digest_for_display_and_state.items():
+                content_json_to_save[topic] = {
+                    "articles": articles,
+                    "last_updated_ts": now_utc_iso # Timestamp reflects this run for all current topics
+                }
+            
+            write_digest_html(final_digest_for_display_and_state, BASE_DIR, ZONE)
+            logging.info(f"Digest HTML written/updated with {len(final_digest_for_display_and_state)} topics, sorted by newest article.")
             
             try:
-                last_updated_dt_utc = datetime.fromisoformat(last_updated_ts_str.replace('Z', '+00:00'))
-                if last_updated_dt_utc.tzinfo is None: 
-                    last_updated_dt_utc = last_updated_dt_utc.replace(tzinfo=ZoneInfo("UTC"))
-                
-                if last_updated_dt_utc < stale_threshold_datetime_utc:
-                    topics_to_remove_due_to_staleness.append(topic_name)
-                    logging.info(f"Topic '{topic_name}' (last updated: {last_updated_ts_str}) is stale (older than {STALE_TOPIC_THRESHOLD_HOURS}h). Queued for removal.")
-            except ValueError:
-                logging.warning(f"Could not parse 'last_updated_ts' ('{last_updated_ts_str}') for topic '{topic_name}'. Marking stale.")
-                topics_to_remove_due_to_staleness.append(topic_name)
-
-        if topics_to_remove_due_to_staleness:
-            for topic_name in topics_to_remove_due_to_staleness:
-                if topic_name in persisted_digest_state:
-                    del persisted_digest_state[topic_name]
-                    logging.info(f"Removed stale topic: {topic_name}")
-
-        display_candidates = []
-        for topic_name, topic_data in persisted_digest_state.items():
-            ts_str = topic_data.get("last_updated_ts")
-            articles_list = topic_data.get("articles")
-            if not isinstance(articles_list, list): 
-                logging.warning(f"Articles for topic '{topic_name}' is not a list in persisted state. Skipping for display.")
-                continue
-
-            if isinstance(ts_str, str):
-                try:
-                    dt_utc = datetime.fromisoformat(ts_str.replace('Z', '+00:00'))
-                    if dt_utc.tzinfo is None: dt_utc = dt_utc.replace(tzinfo=ZoneInfo("UTC"))
-                    display_candidates.append({"name": topic_name, "articles": articles_list, "timestamp_utc": dt_utc})
-                except ValueError: 
-                    logging.warning(f"Topic '{topic_name}' has unparsable 'last_updated_ts' ('{ts_str}') during display prep. Skipping.")
-            else: 
-                logging.warning(f"Topic '{topic_name}' missing 'last_updated_ts' during display prep. Skipping.")
+                with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f: 
+                    json.dump(content_json_to_save, f, indent=2)
+                logging.info(f"Snapshot of current digest saved to {DIGEST_STATE_FILE}")
+            except IOError as e:
+                logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
         
-        display_candidates.sort(key=lambda x: x["timestamp_utc"], reverse=True)
-
-        digest_to_write_to_html = {}
-        logging.info(f"Preparing to display up to MAX_TOPICS={MAX_TOPICS} from {len(display_candidates)} candidates in persisted state.")
-        for i, item in enumerate(display_candidates):
-            if i < MAX_TOPICS:
-                digest_to_write_to_html[item["name"]] = item["articles"]
-        
-        if len(display_candidates) > MAX_TOPICS:
-            logging.info(f"{len(display_candidates) - MAX_TOPICS} topics retained in state but not displayed due to MAX_TOPICS limit.")
-        
-        if digest_to_write_to_html:
-            write_digest_html(digest_to_write_to_html, BASE_DIR, ZONE)
-            logging.info(f"Digest HTML written/updated with {len(digest_to_write_to_html)} topics.")
-        else:
+        else: 
             digest_html_path = os.path.join(BASE_DIR, "public", "digest.html")
+            # Decide if digest.html should be cleared or left as is
+            # Current choice: Leave digest.html as is if Gemini returns nothing
             if os.path.exists(digest_html_path):
-                logging.info("No topics to display in digest after processing. Existing digest.html will NOT be modified or deleted.")
+                logging.info("No topics from Gemini this run. Existing digest.html (if any) is NOT modified.")
             else:
-                logging.info("No topics to display in digest after processing, and digest.html does not exist. It will not be created.")
-        
-        try:
-            with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
-                json.dump(persisted_digest_state, f, indent=2)
-            logging.info(f"Full digest state (with {len(persisted_digest_state)} topics) saved to {DIGEST_STATE_FILE}")
-        except IOError as e:
-            logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
-        
-        if final_digest_from_llm_this_run: 
-            update_history_file(final_digest_from_llm_this_run, history, HISTORY_FILE, ZONE)
-        else:
-            logging.info("No new articles from LLM this run, running history update for pruning old entries.")
-            update_history_file({}, history, HISTORY_FILE, ZONE) 
+                logging.info("No topics from Gemini this run, and digest.html does not exist. It will not be created.")
+            
+            try: 
+                with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
+                    json.dump({}, f, indent=2) # Write empty to content.json
+                logging.info(f"Gemini provided no topics; {DIGEST_STATE_FILE} updated to empty.")
+            except IOError as e:
+                logging.error(f"Failed to write empty digest state file {DIGEST_STATE_FILE}: {e}")
 
+        update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
             perform_git_operations(BASE_DIR, ZONE, CONFIG)
