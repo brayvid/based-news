@@ -6,81 +6,24 @@
   <title>Today's Headlines</title>
   <link rel="stylesheet" href="styles.css" />
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
-<script defer>
-document.addEventListener("DOMContentLoaded", function () {
-  // Load digest.html
-  fetch("digest.html")
-    .then((res) => res.text())
-    .then((html) => {
-      const parser = new DOMParser();
-      const digestDoc = parser.parseFromString(html, "text/html");
-      const digestContent = digestDoc.body.innerHTML;
-      document.getElementById("news-digest").innerHTML = digestContent;
-
-      const lastUpdated = digestDoc.getElementById("last-updated");
-      if (lastUpdated) {
-        const stamp = document.createElement("p");
-        stamp.className = "timestamp";
-        stamp.style.fontSize = "0.9em";
-        stamp.style.color = "#666";
-        stamp.style.marginTop = "0.5em";
-        stamp.textContent = lastUpdated.textContent;
-        stamp.style.textAlign = "center";
-        document.getElementById("news-digest").appendChild(stamp);
-      }
-    })
-    .catch(() => {
-      document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
-    });
-
-  // Load summary.html
-  fetch("summary.html")
-    .then((res) => res.text())
-    .then((html) => {
-      const parser = new DOMParser();
-      const summaryDoc = parser.parseFromString(html, "text/html");
-      const summaryContent = summaryDoc.body.innerHTML;
-      document.getElementById("world-summary").innerHTML = `
-        <h2 class="summary-heading" style="margin-bottom: 0.5em;">Weekly Analysis</h2>
-        ${summaryContent}
-      `;
-
-      const lastUpdated = summaryDoc.getElementById("summary-last-updated");
-      if (lastUpdated) {
-        const stamp = document.createElement("p");
-        stamp.className = "timestamp";
-        stamp.style.fontSize = "0.9em";
-        stamp.style.color = "#666";
-        stamp.style.marginTop = "0.5em";
-        stamp.textContent = lastUpdated.textContent;
-        stamp.style.textAlign = "center";
-        document.getElementById("world-summary").appendChild(stamp);
-      }
-    })
-    .catch(() => {
-      document.getElementById("world-summary").innerHTML = "<p>Unable to load summary.</p>";
-    });
-});
-</script>
-
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8LC9EF8GSD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8LC9EF8GSD');
-</script>
-
+  <!-- Your scripts will be at the bottom of the body -->
 </head>
 <body>
   <header>
-    <div class="container">
-      <h1>Today's Headlines</h1>
-      <p class="subheading">Curated with Gemini, updated hourly.</p>
+    <!-- The container needs to be a positioning context for the absolute button -->
+    <div class="container header-bar"> 
+      
+      <!-- Home button, will be positioned absolutely -->
+      <a href="https://blakerayvid.com" class="home-button-header">Home</a>
+
+      <!-- Title group, will be centered in the header-bar -->
+      <div class="title-group">
+        <h1>Today's Headlines</h1>
+        <p class="subheading">Curated with Gemini, updated hourly.</p>
+      </div>
+
+      <!-- Optional: A placeholder for the right side if needed for balance, or leave empty -->
+      <div class="header-right-placeholder"></div>
     </div>
   </header>
 
@@ -99,5 +42,70 @@ document.addEventListener("DOMContentLoaded", function () {
       <p><a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">Settings</a> | <a href="https://github.com/brayvid/based-news">GitHub</a> | <a href="https://blakerayvid.com">Portfolio</a></p>
     </div>
   </footer>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Load digest.html
+      fetch("digest.html")
+        .then((res) => res.text())
+        .then((html) => {
+          const parser = new DOMParser();
+          const digestDoc = parser.parseFromString(html, "text/html");
+          const digestContent = digestDoc.body.innerHTML;
+          document.getElementById("news-digest").innerHTML = digestContent;
+
+          const lastUpdated = digestDoc.getElementById("last-updated");
+          if (lastUpdated) {
+            const stamp = document.createElement("p");
+            stamp.className = "timestamp";
+            stamp.style.fontSize = "0.9em";
+            stamp.style.color = "#666";
+            stamp.style.marginTop = "0.5em";
+            stamp.textContent = lastUpdated.textContent;
+            stamp.style.textAlign = "center";
+            document.getElementById("news-digest").appendChild(stamp);
+          }
+        })
+        .catch(() => {
+          document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
+        });
+
+      // Load summary.html
+      fetch("summary.html")
+        .then((res) => res.text())
+        .then((html) => {
+          const parser = new DOMParser();
+          const summaryDoc = parser.parseFromString(html, "text/html");
+          const summaryContent = summaryDoc.body.innerHTML;
+          document.getElementById("world-summary").innerHTML = `
+            <h2 class="summary-heading" style="margin-bottom: 0.5em;">Weekly Analysis</h2>
+            ${summaryContent}
+          `;
+
+          const lastUpdated = summaryDoc.getElementById("summary-last-updated");
+          if (lastUpdated) {
+            const stamp = document.createElement("p");
+            stamp.className = "timestamp";
+            stamp.style.fontSize = "0.9em";
+            stamp.style.color = "#666";
+            stamp.style.marginTop = "0.5em";
+            stamp.textContent = lastUpdated.textContent;
+            stamp.style.textAlign = "center";
+            document.getElementById("world-summary").appendChild(stamp);
+          }
+        })
+        .catch(() => {
+          document.getElementById("world-summary").innerHTML = "<p>Unable to load summary.</p>";
+        });
+    });
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LC9EF8GSD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8LC9EF8GSD');
+  </script>
 </body>
 </html>
