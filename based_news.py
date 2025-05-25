@@ -17,7 +17,7 @@ except NameError:  # __file__ is not defined, e.g., in interactive shell
     BASE_DIR = os.getcwd()
 
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
-DIGEST_STATE_FILE = os.path.join(BASE_DIR, "current_digest_content.json") # New persistent state file
+DIGEST_STATE_FILE = os.path.join(BASE_DIR, "current_digest_content.json") 
 
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
@@ -39,7 +39,8 @@ from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
-from google.generativeai.types import FunctionDeclaration, Tool
+from google.generativeai.types import FunctionDeclaration, Tool 
+import google.generativeai.types as genai_types 
 import subprocess
 from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
@@ -119,7 +120,7 @@ if CONFIG is None:
     sys.exit(1)
 
 MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
-MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
+MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 10)) 
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4))
@@ -207,7 +208,7 @@ def is_in_history(article_title, history):
 def to_user_timezone(dt):
     return dt.astimezone(ZONE)
 
-def fetch_articles_for_topic(topic, max_articles=10):
+def fetch_articles_for_topic(topic, max_articles=10): 
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -376,15 +377,15 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         f"- For each selected topic, choose the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "- Strictly avoid returning multiple copies of the same or very similar headlines, even if they appear under different candidate topics. Deduplicate aggressively.\n"
         "- Avoid all local news (e.g., headlines specific to or referencing a small town or county). Focus on national (U.S.) or major international news relevant to a U.S. audience.\n"
-        "- Avoid all headlines promoting a particular individual stock or financial instrument.\n"
         "- Strictly adhere to the user's topic and keyword importance preferences (1=lowest, 5=highest).\n"
         f"- Reject any headlines containing terms flagged 'banned'. Demote headlines with 'demote' terms (treat them as {DEMOTE_FACTOR} times less important).\n"
-        "- Reject all advertisements and mentions of specific products/services unless it's newsworthy criticism.\n"
+        "- Reject advertisements and mentions of specific products/services unless it's newsworthy criticism or a major announcement.\n"
+        "- Avoid articles that are primarily advertising or promoting individual stocks, cryptocurrencies, or other financial securities as investment advice (e.g., 'Top 5 Stocks to Buy Now', 'This Crypto Will Moon'). News about market trends, company earnings (if significant), or regulatory changes related to finance is acceptable, but direct promotion of specific securities as 'buy' recommendations should be avoided.\n"
         "- Ensure a healthy diversity of subjects. Do not over-focus on a single theme.\n"
         "- Prioritize headlines that are content-rich, factual, objective, and informative.\n"
         "- Actively avoid and deprioritize headlines that are:\n"
         "    - Sensationalist or designed for shock value (e.g., using excessive superlatives, fear-mongering).\n"
-        "    - Purely for entertainment, gossip (unless of major national/international significance), or \"fluff\" pieces lacking substantial news value.\n"
+        "    - Purely for entertainment, celebrity gossip (unless of major national/international significance), or \"fluff\" pieces lacking substantial news value.\n"
         "    - Clickbait (e.g., withholding key information, using vague teasers).\n"
         "    - Phrased as questions or promoting listicles, unless the underlying content is exceptionally newsworthy.\n"
         "- Ensure the selected articles reflect genuine newsworthiness and are relevant to an informed general audience seeking serious news updates.\n\n"
@@ -401,17 +402,24 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         if response.candidates:
             try:
                 finish_reason_val = response.candidates[0].finish_reason
-                if response.candidates[0].content and response.candidates[0].content.parts and any(p.function_call for p in response.candidates[0].content.parts):
-                    finish_reason_str = "TOOL_CALLS" 
-                elif isinstance(finish_reason_val, int):
-                    reason_map = {0: "FINISH_REASON_UNSPECIFIED", 1: "STOP", 2: "MAX_TOKENS", 3: "SAFETY", 4: "RECITATION", 5: "OTHER"}
-                    finish_reason_str = reason_map.get(finish_reason_val, f"UNKNOWN_REASON_{finish_reason_val}")
-                else: 
+                # Try to map integer value to enum name for clarity
+                if isinstance(finish_reason_val, int) and hasattr(genai_types.Candidate.FinishReason, '_value2member_map_') and finish_reason_val in genai_types.Candidate.FinishReason._value2member_map_:
+                     finish_reason_str = genai_types.Candidate.FinishReason(finish_reason_val).name
+                else: # Fallback for unknown integer values or if it's already an enum or string
                     finish_reason_str = str(finish_reason_val)
+
+                if response.candidates[0].content and response.candidates[0].content.parts and any(p.function_call for p in response.candidates[0].content.parts):
+                    finish_reason_str = "TOOL_CALLS" # Override if a tool call is present
             except Exception as e_fr:
                 logging.warning(f"Could not determine finish_reason string: {e_fr}")
         
         logging.info(f"Gemini response received. Finish reason: {finish_reason_str}")
+        
+        # Check for MALFORMED_FUNCTION_CALL specifically
+        if response.candidates and hasattr(response.candidates[0], 'finish_reason') and \
+           response.candidates[0].finish_reason == genai_types.Candidate.FinishReason.MALFORMED_FUNCTION_CALL:
+            logging.error(f"Gemini reported MALFORMED_FUNCTION_CALL. Prompt token count: {response.usage_metadata.prompt_token_count if response.usage_metadata else 'N/A'}. Full response: {response}")
+            return {} 
 
         function_call_part = None
         if response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
@@ -423,7 +431,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args 
-                logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {args}")
+                logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...") 
                 
                 if isinstance(args, MapComposite):
                     entries_list_proto = args.get("selected_digest_entries")
@@ -465,7 +473,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
             else:
                 logging.warning(f"Gemini called an unexpected tool: {function_call_part.name}")
                 return {}
-        elif response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
+        elif response.candidates and response.candidates[0].content and response.candidates[0].content.parts: # Fallback to parse text
             text_content = "".join(part.text for part in response.candidates[0].content.parts if hasattr(part, 'text'))
             if text_content.strip():
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
@@ -506,17 +514,18 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         else: 
             if response and hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
-            else:
-                logging.warning(f"Gemini returned no candidates or no content parts. Full response (if available): {response}")
+            logging.warning(f"Gemini returned no candidates or no content parts. Full response object: {response}")
             return {}
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         try:
-            if 'response' in locals() and response:
+            if 'response' in locals() and response: 
                 logging.error(f"Gemini response object on error (prompt_feedback): {response.prompt_feedback if hasattr(response, 'prompt_feedback') else 'N/A'}")
-                if hasattr(response, 'candidates') and response.candidates:
+                if hasattr(response, 'candidates') and response.candidates: 
                      logging.error(f"Gemini response object on error (first candidate): {response.candidates[0]}")
+            else:
+                logging.error("Response object not available or None at the time of error logging during exception.")
         except Exception as e_log:
             logging.error(f"Error logging response details during exception: {e_log}")
         return {}
@@ -562,8 +571,8 @@ def write_digest_html(digest_data, base_dir, current_zone):
 
 def update_history_file(newly_selected_articles_by_topic, current_history, history_file_path, current_zone):
     if not newly_selected_articles_by_topic or not isinstance(newly_selected_articles_by_topic, dict):
-        logging.info("No newly selected articles provided to update_history_file, or invalid format.")
-        # Still proceed to prune existing history below
+        logging.info("No newly selected articles provided to update_history_file, or invalid format. Proceeding to prune existing history.")
+        # Fall through to prune existing history even if no new articles
 
     for topic, articles in newly_selected_articles_by_topic.items():
         history_key = topic.lower().replace(" ", "_") 
@@ -616,7 +625,7 @@ def update_history_file(newly_selected_articles_by_topic, current_history, histo
     except IOError as e:
         logging.error(f"Failed to write updated history file: {e}")
 
-def perform_git_operations(base_dir):
+def perform_git_operations(base_dir, current_zone, config_obj):
     try:
         github_token = os.getenv("GITHUB_TOKEN")
         github_repository_owner_slash_repo = os.getenv("GITHUB_REPOSITORY")
@@ -627,36 +636,61 @@ def perform_git_operations(base_dir):
         
         remote_url = f"https://oauth2:{github_token}@github.com/{github_repository_owner_slash_repo}.git"
         
-        commit_author_name = os.getenv("GITHUB_USER", CONFIG.get("GIT_USER_NAME", "Automated Digest Bot"))
-        commit_author_email = os.getenv("GITHUB_EMAIL", CONFIG.get("GIT_USER_EMAIL", "bot@example.com"))
+        commit_author_name = os.getenv("GITHUB_USER", config_obj.get("GIT_USER_NAME", "Automated Digest Bot"))
+        commit_author_email = os.getenv("GITHUB_EMAIL", config_obj.get("GIT_USER_EMAIL", "bot@example.com"))
 
         logging.info(f"Using Git Commit Author Name: '{commit_author_name}', Email: '{commit_author_email}'")
 
-        subprocess.run(["git", "config", "user.name", commit_author_name], check=True, cwd=base_dir)
-        subprocess.run(["git", "config", "user.email", commit_author_email], check=True, cwd=base_dir)
-
+        subprocess.run(["git", "config", "user.name", commit_author_name], check=True, cwd=base_dir, capture_output=True)
+        subprocess.run(["git", "config", "user.email", commit_author_email], check=True, cwd=base_dir, capture_output=True)
         try:
             subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=base_dir, capture_output=True)
         except subprocess.CalledProcessError:
             logging.info("Failed to set-url (maybe remote 'origin' doesn't exist). Attempting to add.")
             subprocess.run(["git", "remote", "add", "origin", remote_url], check=True, cwd=base_dir, capture_output=True)
-        
+
+        branch_result = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir)
+        current_branch = branch_result.stdout.strip()
+        if not current_branch or current_branch == "HEAD":
+            logging.warning(f"Could not reliably determine current branch (got '{current_branch}'). Defaulting to 'main'.")
+            current_branch = "main" 
+            try:
+                subprocess.run(["git", "checkout", current_branch], check=True, cwd=base_dir, capture_output=True)
+            except subprocess.CalledProcessError as e_checkout:
+                err_msg = e_checkout.stderr.decode(errors='ignore') if e_checkout.stderr else e_checkout.stdout.decode(errors='ignore')
+                logging.error(f"Failed to checkout branch '{current_branch}': {err_msg}. Proceeding with caution.")
+
+        logging.info(f"Attempting to pull with rebase from origin/{current_branch}...")
+        pull_rebase_cmd = ["git", "pull", "--rebase", "origin", current_branch]
+        pull_result = subprocess.run(pull_rebase_cmd, capture_output=True, text=True, cwd=base_dir)
+
+        if pull_result.returncode != 0:
+            logging.warning(f"'git pull --rebase' failed. Stdout: {pull_result.stdout}. Stderr: {pull_result.stderr}")
+            if "Please commit your changes or stash them" in pull_result.stderr or \
+               "Your local changes to the following files would be overwritten" in pull_result.stderr:
+                logging.warning("Pull failed due to local changes. Script will attempt to add its own changes and commit.")
+            elif "CONFLICT" in pull_result.stdout or "CONFLICT" in pull_result.stderr:
+                 logging.error("Rebase conflict detected. Aborting rebase and skipping push this cycle.")
+                 subprocess.run(["git", "rebase", "--abort"], cwd=base_dir, capture_output=True)
+                 return # Cannot proceed safely
+        else:
+            logging.info(f"'git pull --rebase' successful. Stdout: {pull_result.stdout}")
+
         paths_to_add_relative = []
-        if os.path.exists(HISTORY_FILE):
-            paths_to_add_relative.append(os.path.relpath(HISTORY_FILE, base_dir))
+        history_file_abs = os.path.join(base_dir, "history.json") 
+        digest_state_file_abs = os.path.join(base_dir, "current_digest_content.json") 
+
+        if os.path.exists(history_file_abs):
+            paths_to_add_relative.append(os.path.relpath(history_file_abs, base_dir))
         
         digest_html_path_abs = os.path.join(base_dir, "public/digest.html")
-        # Only add digest.html if it exists (it might not if no content was ever generated)
         if os.path.exists(digest_html_path_abs):
              paths_to_add_relative.append(os.path.relpath(digest_html_path_abs, base_dir))
 
-        if os.path.exists(DIGEST_STATE_FILE): 
-            paths_to_add_relative.append(os.path.relpath(DIGEST_STATE_FILE, base_dir))
+        if os.path.exists(digest_state_file_abs): 
+            paths_to_add_relative.append(os.path.relpath(digest_state_file_abs, base_dir))
 
-
-        if not paths_to_add_relative:
-            logging.info("No standard files (history.json, digest.html, current_digest_content.json) found to add to git.")
-        else:
+        if paths_to_add_relative:
             logging.info(f"Attempting to git add: {paths_to_add_relative}")
             add_process = subprocess.run(["git", "add"] + paths_to_add_relative, 
                                          capture_output=True, text=True, cwd=base_dir) 
@@ -664,28 +698,57 @@ def perform_git_operations(base_dir):
                 logging.error(f"git add command failed. RC: {add_process.returncode}, Stdout: {add_process.stdout}, Stderr: {add_process.stderr}")
             else:
                 logging.info(f"git add successful for specified paths.")
+        else:
+            logging.info("No script-generated files found to add to git.")
         
         status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
         if not status_result.stdout.strip():
-            logging.info("No changes staged for commit. Nothing to commit.")
+            logging.info("No changes staged or unstaged for commit after add/pull. Nothing to commit or push.")
             return
         
-        branch_result = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir)
-        current_branch = branch_result.stdout.strip()
+        commit_message = f"Auto-update digest content - {datetime.now(current_zone).strftime('%Y-%m-%d %H:%M:%S %Z')}"
+        commit_cmd = ["git", "commit", "-m", commit_message]
+        commit_result = subprocess.run(commit_cmd, capture_output=True, text=True, cwd=base_dir)
 
-        commit_message = f"Auto-update digest content - {datetime.now(ZONE).strftime('%Y-%m-%d %H:%M:%S %Z')}"
-        subprocess.run(["git", "commit", "-m", commit_message], check=True, cwd=base_dir, capture_output=True)
+        if commit_result.returncode != 0:
+            if "nothing to commit" in commit_result.stdout.lower() or \
+               "no changes added to commit" in commit_result.stdout.lower():
+                logging.info("No changes to commit after add operation (already up-to-date or no new content).")
+                # Check if push is still needed (e.g. local branch was ahead before pull)
+                try:
+                    local_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
+                    remote_head_cmd = ["git", "ls-remote", "origin", f"refs/heads/{current_branch}"]
+                    remote_head_res = subprocess.run(remote_head_cmd, capture_output=True, text=True, cwd=base_dir)
+                    if remote_head_res.returncode == 0 and remote_head_res.stdout.strip():
+                        remote_head = remote_head_res.stdout.split()[0].strip()
+                        if local_head == remote_head:
+                            logging.info(f"Local {current_branch} is already up-to-date with origin/{current_branch}. No push needed.")
+                            return
+                        else:
+                             logging.info(f"Local {current_branch} ({local_head[:7]}) seems ahead/diverged from origin/{current_branch} ({remote_head[:7]}). Proceeding to push.")
+                    else:
+                        logging.warning(f"Could not determine remote head for {current_branch}. Will attempt push. Ls-remote stderr: {remote_head_res.stderr}")
+                except subprocess.CalledProcessError as e_rev_parse:
+                    logging.warning(f"Could not determine remote head to check if push is needed: {e_rev_parse}. Will attempt push.")
+            else: # Real commit error
+                logging.error(f"git commit command failed. RC: {commit_result.returncode}, Stdout: {commit_result.stdout}, Stderr: {commit_result.stderr}")
+                raise subprocess.CalledProcessError(commit_result.returncode, commit_cmd, output=commit_result.stdout, stderr=commit_result.stderr)
+        else:
+            logging.info(f"Commit successful. Output: {commit_result.stdout}")
         
         logging.info(f"Pushing changes to origin/{current_branch}...")
-        subprocess.run(["git", "push", "origin", current_branch], check=True, cwd=base_dir, capture_output=True)
-        logging.info(f"Content committed and pushed to GitHub on branch '{current_branch}'.")
+        push_cmd = ["git", "push", "origin", current_branch]
+        # Use check=True to raise an exception on push failure
+        push_result = subprocess.run(push_cmd, check=True, cwd=base_dir, capture_output=True) 
+        logging.info(f"Content committed and pushed to GitHub on branch '{current_branch}'. Push output: {push_result.stdout.decode(errors='ignore') if push_result.stdout else ''}")
 
     except subprocess.CalledProcessError as e:
-        output_str = e.output.decode(errors='ignore') if e.output else ""
-        stderr_str = e.stderr.decode(errors='ignore') if e.stderr else ""
+        output_str = e.output.decode(errors='ignore') if hasattr(e, 'output') and e.output else ""
+        stderr_str = e.stderr.decode(errors='ignore') if hasattr(e, 'stderr') and e.stderr else ""
         logging.error(f"Git operation failed: {e}. Command: '{e.cmd}'. Output: {output_str}. Stderr: {stderr_str}")
     except Exception as e:
         logging.error(f"General error during Git operations: {e}", exc_info=True)
+
 
 def main():
     history = {}
@@ -732,8 +795,12 @@ def main():
         banned_terms_list = [k for k, v in OVERRIDES.items() if v == "ban"]
         normalized_banned_terms = [normalize(term) for term in banned_terms_list if term] 
 
+        # Determine how many articles to fetch per topic, could be a config
+        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
+
+
         for topic_name in TOPIC_WEIGHTS:
-            fetched_topic_articles = fetch_articles_for_topic(topic_name, 15) 
+            fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic) 
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
@@ -806,14 +873,38 @@ def main():
         
         now_utc = datetime.now(ZoneInfo("UTC"))
         now_utc_iso = now_utc.isoformat()
+        any_actual_updates_to_persisted_state = False
 
-        if final_digest_from_llm_this_run: 
-            for topic_name, articles in final_digest_from_llm_this_run.items():
-                persisted_digest_state[topic_name] = {
-                    "articles": articles,
-                    "last_updated_ts": now_utc_iso
-                }
-            logging.info(f"Merged {len(final_digest_from_llm_this_run)} topics from LLM into digest state.")
+        if final_digest_from_llm_this_run:
+            logging.info(f"Processing {len(final_digest_from_llm_this_run)} topics from LLM output...")
+            for topic_name_from_llm, articles_from_llm in final_digest_from_llm_this_run.items():
+                new_article_identifiers = sorted([normalize(a["title"]) for a in articles_from_llm])
+
+                if topic_name_from_llm in persisted_digest_state:
+                    existing_articles_in_persisted = persisted_digest_state[topic_name_from_llm].get("articles", [])
+                    existing_article_identifiers = sorted([normalize(a["title"]) for a in existing_articles_in_persisted])
+                    
+                    if new_article_identifiers != existing_article_identifiers:
+                        logging.info(f"Updating topic '{topic_name_from_llm}' with new articles.")
+                        persisted_digest_state[topic_name_from_llm] = {
+                            "articles": articles_from_llm,
+                            "last_updated_ts": now_utc_iso
+                        }
+                        any_actual_updates_to_persisted_state = True
+                    else:
+                        logging.info(f"Topic '{topic_name_from_llm}' from LLM has same articles as persisted. Timestamp not updated.")
+                else:
+                    logging.info(f"Adding new topic '{topic_name_from_llm}' to digest state.")
+                    persisted_digest_state[topic_name_from_llm] = {
+                        "articles": articles_from_llm,
+                        "last_updated_ts": now_utc_iso
+                    }
+                    any_actual_updates_to_persisted_state = True
+            
+            if any_actual_updates_to_persisted_state:
+                 logging.info("At least one topic in persisted_digest_state was updated or added based on LLM output.")
+            else:
+                 logging.info("LLM output processed, but no new or different articles led to updates in persisted_digest_state.")
         else:
             logging.info("No new topics/articles from LLM to merge into digest state this run.")
 
@@ -821,9 +912,15 @@ def main():
         stale_threshold_datetime_utc = now_utc - timedelta(hours=STALE_TOPIC_THRESHOLD_HOURS)
 
         for topic_name, topic_data in persisted_digest_state.items():
-            if final_digest_from_llm_this_run and topic_name in final_digest_from_llm_this_run:
-                continue 
-
+            # Check if this topic was among those *just processed* by LLM (even if articles were identical)
+            # If it was, and its articles were identical, its timestamp wasn't updated above.
+            # So, its existing last_updated_ts will be used for staleness check.
+            # If the topic was NOT in LLM output at all this run, it's a candidate for staleness.
+            
+            # A topic is ONLY refreshed (its timestamp updated) if LLM provided it AND its articles were new/different.
+            # If LLM provided it but articles were same, timestamp is NOT updated.
+            # If LLM did NOT provide it, timestamp is NOT updated.
+            # Staleness check applies to all topics based on their current last_updated_ts.
             last_updated_ts_str = topic_data.get("last_updated_ts")
             if not isinstance(last_updated_ts_str, str):
                 logging.warning(f"Topic '{topic_name}' in persisted state has missing/invalid 'last_updated_ts'. Marking stale.")
@@ -831,13 +928,14 @@ def main():
                 continue
             
             try:
+                # Ensure timestamp is timezone-aware UTC for comparison
                 last_updated_dt_utc = datetime.fromisoformat(last_updated_ts_str.replace('Z', '+00:00'))
                 if last_updated_dt_utc.tzinfo is None: 
                     last_updated_dt_utc = last_updated_dt_utc.replace(tzinfo=ZoneInfo("UTC"))
                 
                 if last_updated_dt_utc < stale_threshold_datetime_utc:
                     topics_to_remove_due_to_staleness.append(topic_name)
-                    logging.info(f"Topic '{topic_name}' (last updated: {last_updated_ts_str}) is stale. Queued for removal.")
+                    logging.info(f"Topic '{topic_name}' (last updated: {last_updated_ts_str}) is stale (older than {STALE_TOPIC_THRESHOLD_HOURS}h). Queued for removal.")
             except ValueError:
                 logging.warning(f"Could not parse 'last_updated_ts' ('{last_updated_ts_str}') for topic '{topic_name}'. Marking stale.")
                 topics_to_remove_due_to_staleness.append(topic_name)
@@ -845,6 +943,8 @@ def main():
         for topic_name in topics_to_remove_due_to_staleness:
             if topic_name in persisted_digest_state:
                 del persisted_digest_state[topic_name]
+                logging.info(f"Removed stale topic: {topic_name}")
+
 
         display_candidates = []
         for topic_name, topic_data in persisted_digest_state.items():
@@ -867,11 +967,17 @@ def main():
         display_candidates.sort(key=lambda x: x["timestamp_utc"], reverse=True)
 
         digest_to_write_to_html = {}
+        logging.info(f"Preparing to display up to MAX_TOPICS={MAX_TOPICS} from {len(display_candidates)} candidates.")
         for i, item in enumerate(display_candidates):
             if i < MAX_TOPICS:
                 digest_to_write_to_html[item["name"]] = item["articles"]
             else:
-                logging.info(f"Topic '{item['name']}' (updated {item['timestamp_utc']}) not included in HTML due to MAX_TOPICS={MAX_TOPICS} limit, but retained in persisted state.")
+                # This logging can be verbose if many topics are persisted beyond MAX_TOPICS
+                # logging.debug(f"Topic '{item['name']}' (updated {item['timestamp_utc']}) not included in HTML due to MAX_TOPICS={MAX_TOPICS} limit, but retained in persisted state.")
+                pass 
+        if len(display_candidates) > MAX_TOPICS:
+            logging.info(f"{len(display_candidates) - MAX_TOPICS} topics retained in state but not displayed due to MAX_TOPICS limit.")
+
         
         if digest_to_write_to_html:
             write_digest_html(digest_to_write_to_html, BASE_DIR, ZONE)
@@ -894,11 +1000,11 @@ def main():
             update_history_file(final_digest_from_llm_this_run, history, HISTORY_FILE, ZONE)
         else:
             logging.info("No new articles from LLM this run, running history update for pruning old entries.")
-            update_history_file({}, history, HISTORY_FILE, ZONE) # Pass empty dict to still trigger pruning logic
+            update_history_file({}, history, HISTORY_FILE, ZONE) 
 
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
-            perform_git_operations(BASE_DIR)
+            perform_git_operations(BASE_DIR, ZONE, CONFIG)
         else:
             logging.info("Git push is disabled in config. Skipping.")
 
