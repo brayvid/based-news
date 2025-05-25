@@ -781,9 +781,7 @@ def main():
         except Exception as e:
             logging.error(f"Error loading history.json: {e}. Starting with empty history.")
 
-    # In this model, content.json is a direct snapshot of the latest run, not a persisted state to merge with.
-    # The STALE_TOPIC_THRESHOLD_HOURS and associated logic are removed as staleness is now
-    # simply a topic not being selected by Gemini in the current run.
+    # In this model, content.json is a direct snapshot of the latest run.
     
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
@@ -800,7 +798,6 @@ def main():
         normalized_banned_terms = [normalize(term) for term in banned_terms_list if term] 
 
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
-
 
         for topic_name in TOPIC_WEIGHTS:
             fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic) 
@@ -822,8 +819,8 @@ def main():
                 if current_topic_headlines_for_llm:
                     headlines_to_send_to_llm[topic_name] = current_topic_headlines_for_llm
         
-        # This will be the content for digest.html and content.json for THIS RUN
-        digest_content_for_this_run_intermediate = {} 
+        # This will hold Gemini's output after initial processing and MAX_ARTICLES_PER_TOPIC truncation
+        gemini_processed_content = {} # CORRECTED VARIABLE NAME HERE
 
         if not headlines_to_send_to_llm:
             logging.info("No new, non-banned, non-historical headlines available to send to LLM.")
@@ -834,7 +831,7 @@ def main():
             selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, gemini_api_key)
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
-                logging.warning("Gemini returned no content or invalid format. Digest will be empty or unchanged from previous state if not overwritten.")
+                logging.warning("Gemini returned no content or invalid format.")
             else:
                 # Enforce MAX_TOPICS on Gemini's output
                 if len(selected_content_raw_from_llm) > MAX_TOPICS:
@@ -885,18 +882,16 @@ def main():
                                 logging.warning(f"Could not map LLM title '{title_from_llm}' (normalized: '{norm_llm_title}') back to a fetched article.")
                     
                     if current_topic_articles_for_digest:
-                        digest_content_intermediate[topic_from_llm] = current_topic_articles_for_digest
+                        gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest # Use the corrected variable
         
         # Sort the selected topics by the pubDate of their first article, newest first
         final_digest_for_display_and_state = {}
-        if digest_content_intermediate:
+        if gemini_processed_content: # Use the corrected variable name here
             topics_with_pubdates = []
-            for topic_name, articles in digest_content_intermediate.items():
+            for topic_name, articles in gemini_processed_content.items(): # And here
                 if not articles: 
                     continue 
-                # Assuming MAX_ARTICLES_PER_TOPIC is 1, or we sort by the first/newest article.
-                # If multiple articles per topic, this takes the first.
-                # For more robust sorting with multiple articles, find max pubdate among them.
+                
                 newest_pubdate_str = articles[0]['pubDate'] 
                 try:
                     newest_pubdate_dt = parsedate_to_datetime(newest_pubdate_str)
@@ -909,36 +904,39 @@ def main():
 
             topics_with_pubdates.sort(key=lambda x: x[2], reverse=True)
             
+            # Reconstruct the dictionary in the new sorted order
+            # Python 3.7+ dicts maintain insertion order
             for topic_name, articles, _ in topics_with_pubdates:
                 final_digest_for_display_and_state[topic_name] = articles
             logging.info(f"Sorted {len(final_digest_for_display_and_state)} topics by newest article pubdate for display.")
         else:
             logging.info("No content from Gemini to sort for display.")
+            # final_digest_for_display_and_state is already {}
         
         # Write to HTML and content.json
         if final_digest_for_display_and_state:
             content_json_to_save = {}
             now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat() 
+            
+            # Iterate over the sorted dictionary to preserve order for content.json as well
             for topic, articles in final_digest_for_display_and_state.items():
                 content_json_to_save[topic] = {
                     "articles": articles,
-                    "last_updated_ts": now_utc_iso # Timestamp reflects this run for all current topics
+                    "last_updated_ts": now_utc_iso 
                 }
             
-            write_digest_html(final_digest_for_display_and_state, BASE_DIR, ZONE)
+            write_digest_html(final_digest_for_display_and_state, BASE_DIR, ZONE) # Pass the sorted dict
             logging.info(f"Digest HTML written/updated with {len(final_digest_for_display_and_state)} topics, sorted by newest article.")
             
             try:
                 with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f: 
-                    json.dump(content_json_to_save, f, indent=2)
+                    json.dump(content_json_to_save, f, indent=2) # Save the sorted content
                 logging.info(f"Snapshot of current digest saved to {DIGEST_STATE_FILE}")
             except IOError as e:
                 logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
         
         else: 
             digest_html_path = os.path.join(BASE_DIR, "public", "digest.html")
-            # Decide if digest.html should be cleared or left as is
-            # Current choice: Leave digest.html as is if Gemini returns nothing
             if os.path.exists(digest_html_path):
                 logging.info("No topics from Gemini this run. Existing digest.html (if any) is NOT modified.")
             else:
@@ -946,7 +944,7 @@ def main():
             
             try: 
                 with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
-                    json.dump({}, f, indent=2) # Write empty to content.json
+                    json.dump({}, f, indent=2) 
                 logging.info(f"Gemini provided no topics; {DIGEST_STATE_FILE} updated to empty.")
             except IOError as e:
                 logging.error(f"Failed to write empty digest state file {DIGEST_STATE_FILE}: {e}")
@@ -962,6 +960,5 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-
 if __name__ == "__main__":
     main()
