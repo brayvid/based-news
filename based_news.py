@@ -40,7 +40,6 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
 from google.generativeai.types import FunctionDeclaration, Tool 
-# from google.generativeai.types import FinishReason as CandidateFinishReason # Avoid if causing issues
 import subprocess
 from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
@@ -547,11 +546,7 @@ def write_digest_html(digest_data, base_dir, current_zone):
     os.makedirs(os.path.dirname(digest_path), exist_ok=True)
 
     html_parts = []
-
-    # digest_data is expected to be a dictionary where keys are topic names
-    # and values are lists of article dicts.
-    # The order of topics in digest_data itself (if it came from display_candidates)
-    # should already be by recency. Iterating digest_data.items() preserves this.
+    # digest_data is already ordered by recency from display_candidates
     for topic, articles in digest_data.items(): 
         html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
         for article in articles: 
@@ -747,7 +742,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                "no changes added to commit" in commit_result.stdout.lower() or \
                "your branch is up to date" in commit_result.stdout.lower():
                 logging.info(f"Commit attempt reported no new changes. Stdout: {commit_result.stdout.strip()}")
-                try: # Check if push is still needed
+                try: 
                     local_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
                     remote_head_cmd_out = subprocess.run(["git", "ls-remote", "origin", f"refs/heads/{current_branch}"], capture_output=True, text=True, cwd=base_dir)
                     if remote_head_cmd_out.returncode == 0 and remote_head_cmd_out.stdout.strip():
@@ -760,8 +755,6 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                     logging.warning(f"Could not compare local/remote revisions: {e_rev}. Will attempt push.")
             else: 
                 logging.error(f"git commit command failed. RC: {commit_result.returncode}, Stdout: {commit_result.stdout.strip()}, Stderr: {commit_result.stderr.strip()}")
-                # Allowing to proceed to push attempt even if commit had an unexpected error,
-                # as there might be prior commits to push.
         else:
             logging.info(f"Commit successful: {commit_result.stdout.strip()}")
         
@@ -809,6 +802,17 @@ def main():
         except Exception as e:
             logging.error(f"Error loading {DIGEST_STATE_FILE}: {e}. Starting with empty digest state.")
 
+    # Prune articles in loaded persisted_digest_state to MAX_ARTICLES_PER_TOPIC
+    if persisted_digest_state:
+        logging.info(f"Pruning articles in loaded persisted_digest_state to MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
+        for topic_name, topic_data in persisted_digest_state.items(): 
+            if "articles" in topic_data and isinstance(topic_data["articles"], list):
+                if len(topic_data["articles"]) > MAX_ARTICLES_PER_TOPIC:
+                    logging.info(f"Topic '{topic_name}' in persisted state has {len(topic_data['articles'])} articles, pruning to {MAX_ARTICLES_PER_TOPIC}.")
+                    topic_data["articles"] = topic_data["articles"][:MAX_ARTICLES_PER_TOPIC]
+            else: 
+                logging.warning(f"Topic '{topic_name}' in persisted state missing 'articles' list or not a list during pruning attempt.")
+    
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
