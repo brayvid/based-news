@@ -17,7 +17,7 @@ except NameError:  # __file__ is not defined, e.g., in interactive shell
     BASE_DIR = os.getcwd()
 
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
-DIGEST_STATE_FILE = os.path.join(BASE_DIR, "current_digest_content.json") 
+DIGEST_STATE_FILE = os.path.join(BASE_DIR, "content.json") 
 
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
