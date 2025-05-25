@@ -1,272 +1,102 @@
 {
-  "Donald Trump": {
+  "Cancer": {
     "articles": [
       {
-        "title": "Inside Trump\u2019s chainsaw-wielding approach to one corner of government contracting - Politico",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjhBdkt2OGpEVDNqU0RmazdHeVZYTm82TWdqLTBhb3ZSZWxxOEhyM2dmVF9IM0pMUFo3ZGZQcHJndUxMMHdJQW5ablZ6VF8yazdNYVU1LW5UbWpWMGhlUThvQXNqa1Q2VDJGNmI3WXdUdWhCZDNta0tRaWNMQVJrSWZWWGEzcnBzMHRaZXFXWUlZWHk0d21z?oc=5",
-        "pubDate": "Sun, 25 May 2025 14:00:00 GMT"
+        "title": "More kids are beating cancer. Improving the rest of their lives is next. - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzhKVVV3aTVQZjZib2t1cGRjV2tJdENZa0FmRzdFUGViTjVXZ3ZRS1hHN1hPaXJsWWtmWDdSZnN0MGhBbWNPdXpPQXBNcmtERHJoZk1NdkMxbzZiY3pRSlJIaFQteGNNSHN2eGNLUnpxUFFzYzBYTGtsdUw1eEhMNHloaHdPVXdPSXc?oc=5",
+        "pubDate": "Sun, 25 May 2025 15:01:07 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T15:05:04.727835+00:00"
-  },
-  "Cryptocurrency": {
-    "articles": [
-      {
-        "title": "Cryptocurrency investor arrested in New York for alleged Bitcoin password kidnapping - Dimsum Daily",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVVLSHlUTThNUFlsaVpZQ0E0elQ3czRsd3ZsQmR2MGlqb2ltU1lnSVJtLXM2aXo4N1ktTkR6VE1SV08tSy1sTjhvTW5GU1BPR0ZXWWFxVFQxd0t6MURiRl8yRmY4dEU2bFllUXBZaTVyV3FoSldhYUduTnN5eTdfZy1HclZSa0tzcjctRktFZjRTOW5QVkkzNDhzamltNVVzQlJ0YTdoWHR2UWtBNWhnVWxR?oc=5",
-        "pubDate": "Sun, 25 May 2025 04:23:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T07:02:10.134499+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Russia hits Ukraine with massive drone, missile barrage amid prisoner exchange - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2RhOWFqd09SNlN4YnkxM0Y5S2RHNFhDVUJqYjEwNzhsSVdIcWRtZGJTS25mWFVqS1Rtd0hLYzY4alFHMkE1N1BGWC0zb010ZVEtVW5GMENoTFJ0SWNrcV85LVo1QzRLMTd1Nm1BUUNtUU1VbURoTEl6SW5XN29RdlZnZ2RUdHBhM0NuZ0RjY1o3RURoOEU0X05qRXV6ZFpDQTFaTERPbVc5QmtrMGxF0gG0AUFVX3lxTFBYNHptRjBmeGxuV01fR1RkQzVxSS1NSjhtSFl5a2VMSnVOX1EwZ1FNUmM1dUY2Vm12QkNrTEJscHpYdFZjd0hWREF6ZVUtWURSMnRIS0I2YnhFdUx0NXU3OW5RcHIyVGtzMTBGUEhGcjhodmR1ODlwVzlaZXluN0RVREg3MjhyU2g1NF9yWG1iS2lfZF9XMHZpdW1lWnpDOUlkbm52OWRHVmc4RTdka1pUZExvaA?oc=5",
-        "pubDate": "Sun, 25 May 2025 07:37:06 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T09:03:37.121044+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Global artificial intelligence (AI) semiconductor company NVIDIA will launch a new low-cost AI chip - AllSides",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFowXzJlMmNYR1VOcTJiMXA0ZDV6WlFEVWJrS1pxbjB0NjN4NGlRMEdyUXdFNTdSeFBCY0kzN25RTWdqV0FxekEwWjRROXpvQXVzRTR5eFlhMG41V2RwOFRod1Z5OEt3YkpCVkV0OXlUVUVoUnZyVDhrazBmalFrNmxzR19LNE5scy0tdi05anJ4NU9lY2hINjZBZ0tuZWpfVndkaFFQLWFJTVhpV1RCVlJpZ3dQa0EtblNJ?oc=5",
-        "pubDate": "Sun, 25 May 2025 07:11:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T15:05:04.727835+00:00"
-  },
-  "Trade War": {
-    "articles": [
-      {
-        "title": "Trump gives West Point commencement speech amid global trade war - weareiowa.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcEJHRXVTcnhETGlzaU84MF9NT2pVUjBjTWJXdkYzVFJhenI4aEM4QkJjRE0wYnhmWkk2OEd6MnhLRENqU2pUZ1ZMWGJfb05zQ09xTHZRVzRabnNuWjBaSmVRenhEOGlhRk5Pd2J0c0tMQURNVllKMERRQU9DTmczTUNQNXhxR0Rzby1GOHk0S2NvUUJQeTVLRGcxUDhrdDVmMUtCV2JpY2ZTOUZURWUyRHRfRC03ODlDT0c3S3JLdExGV3dEblpRang5TlhnN3RieVd4ZDd1cGxyM2V2VlN0TktpOTV6ZjJDSE5n?oc=5",
-        "pubDate": "Sat, 24 May 2025 23:13:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
-  },
-  "SpaceX": {
-    "articles": [
-      {
-        "title": "SpaceX spacecraft reentering Earth's atmosphere triggers sonic boom - NBC4 Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUhfTjUzU2VIS2pRUkJaMzExdzhtdEpJcXVsWldfMFB6ZzZEbG1MbUwydF96Nl85XzRqM2F2N215NXJlSlRLOEt2OVFHd3Q2djZfY1hUa2M2SER5UkVLeDhnOGM3aTY5SDR3bUhNODlVNmw5T1ZaXzdnMFg0aC1fT0Nvdmg2Y21Yd1h1ZHN4d0NaUkI0T3FVYjdWUDA3UU1jWVJqQmFCMUo4ckZXU25Eb3hQLVRSb3fSAb8BQVVfeXFMUFZwU2o0MGNVOTN0b1dva1RSMHhtRi1abW5aeE0zc3NZT3duVEgzdDNWVExiVkVsdUZfMi1TdFlnUWI3bFZKTXhFcWhIQW55YkNHLUREWU5QUWFaS2xOVllhZ0tmaFRRbjZJWTFHSE8zejVBVkt2WTYyU1FvUS1GRDhQUEFETFFhd1hQdzFRV1hBMmFyS3l6dXNqclhXa3JJZjNJeHNabjFMZXdyOE5MTGpPUzBrVy04ZEpnSVBTOVU?oc=5",
-        "pubDate": "Sun, 25 May 2025 05:52:36 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T07:48:10.705234+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia and Ukraine complete 1,000 prisoner swap; Moscow launches large drone and missile attack - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGE5V1V2Y3RJVTE5V2M3ZFdJbzBvLTMxZzdOTTVlZlloaUdQSm9sbUhpSVJDby1mYjExb0ptLXVfdlBTQXdXWG11aEFfaVFGcmlRNGRqa2E1SXI3cVlRaFdyOHd4UVlQV0JoLWVLUFMzWUZvNEN6emVhZGk3VE42WUhDY3VXYUZHd1hfN0ZJYU5rNEhaekVwRtIBngFBVV95cUxOdFZzLV9pa0ZRNm42dFFmb2FsdGpaRWNpWWJoaGtWZlRNdEw0dENiUGRPTlc5SWRvQkRDdWJSY044LWNKR21CYnNuT0ZVZDYzOUViMWZwdU5WemFEN21GM05nZ2QtYUJ1dEZ3YzhEYlFfLWU5bkx0MVpmV2c0d2NTdGlrdm9JVmRmVzRTSkM4SER0QU5pRWp5S0JzR3RPUQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 13:36:34 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T15:05:04.727835+00:00"
-  },
-  "Hamas": {
-    "articles": [
-      {
-        "title": "Hamas says several Israeli soldiers killed, injured in Gaza ambush - Anadolu Ajans\u0131",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTM1UC1qdGtaVndkQjlPbkZRWk5leEk3ejVHUWRieU9QWjFMdlFBXzJscnpfR1BTaVF6UzQ3blJmWlpFeGlYblcyV2xENF9DNUhLZVZaRlVJWG55UHJJZnpZamRMeXE4Z0xjOUdLMDc1aVo4RVdQMFEzS1YzcXN6QzBZWC10U2JOT3JReTZINFJNYTRGbEZJenZsbGpkRUlzVDVVYk9zdGI5SUZKZzFR?oc=5",
-        "pubDate": "Sun, 25 May 2025 10:29:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T13:04:33.912361+00:00"
-  },
-  "Bitcoin": {
-    "articles": [
-      {
-        "title": "Bitcoin at $110,000: May 30 Options Expiry Rocks The Market - Cointribune",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEJZSlZqQnZvVG5RZnF3NzFQclZvRk0tMWlQbGt1UERWMFkwdDhWVkdUR2pBcGxMa044ODRwMW9ZQmkxU2NwMUxQNmhmQUY3Skl6R1cwVlB1TGlzVUZRODhJMUlUbWJVN0xPQXFQNjdxT202cXZPTldlSktlYm52QmIycHg1WXNhMmNlaXVRbndUMXM?oc=5",
-        "pubDate": "Sun, 25 May 2025 07:18:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
-  },
-  "Cybersecurity": {
-    "articles": [
-      {
-        "title": "Vietnam faces shortfall of over 700,000 cybersecurity experts - VnExpress International",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjF6ZzZGU2NsMnRRZDJPNV8wQ3lIcUdTZVZKa1BmMUlYanlXdTlvSml6TEh4TzA3WDkweFpYOURqRXM4MHBmdkxiS3dTRGdrYk1ldW5ZazJuaGJxUGZjUTUtMjhrWGwtLWRyRlhKLVJOel9Wek9oMndzRFFLd0NMeEFWT1pFS2JEMFBrNXRvZk1GTHVJa2l6Q1BLN3JKbVhWNzd0NjcwcXZlZGZ3?oc=5",
-        "pubDate": "Sun, 25 May 2025 03:37:28 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Congressional stock trading ban fosters rare bipartisanship - Washington Examiner",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmV1VEdDZzlsZDRyRGRBM2xuVGpVLU54VXIwQnlsTjRoVDNqcjNlX29vbGJvejVqWU53cGV3MkpSWXlxRFplTHh2UDRIVWFrajlTV1cxXzJwMU0xS3ZnTXU4aExPTG9qLW1HY0RwSHUzUWhZZFJERkQ1X09iWU1GT2RzazR0cnJDcXFrRTV5NjdySF9NX2FJRnhleVJXVnJSV0J0TkVFYw?oc=5",
-        "pubDate": "Sun, 25 May 2025 12:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T14:04:53.735801+00:00"
-  },
-  "North Korea": {
-    "articles": [
-      {
-        "title": "Kim Jong Un Blames \u2018Criminal Negligence\u2019 in Ship Mishap - NewsLooks",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFB0WHNZUm05aVJfeWRmUjR6dWsxYmRoMGFlXzBQSVdEaDc0UjdoeWVCTHpOWlU3U2Vtem1EcFdmMFZabVRjNldFRzgtS21zal9kTkpfMU9XV1dYbndKU1ZrQ1hFNDU4RkRGNU9FTlRaZS1pdnRNd3B4aEZhQ1UzNDMtcnpKQTg?oc=5",
-        "pubDate": "Sun, 25 May 2025 03:13:36 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T07:48:10.705234+00:00"
-  },
-  "Taxes": {
-    "articles": [
-      {
-        "title": "Massive Nevada film tax credit expansion moving forward with new earmarks for pre-K - The Nevada Independent",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczN5VE13YmZRRWlJSVpfRUR2aVJmdFVrNDlONHM0UUVVY3hYVmZMUUFjQ1BjWTFUbTZTcVZnRjBKRURKRXhHX2p5NlRZYzRmeEVHa2xiRVJTVFVNSVZDbWdNdWdZZ3B3aEVDb2RfZ3pWUXIwVGJCcDVFLXJXbXlNcTlNUHVkdU1zeFJOVDVubUVfUHljdmlTMm5VY0t0c0lIbGxlNEh1UjhhU196eEcxZHlIbjhUZGN4WFBpbnBPRjVFQQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 01:38:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T04:02:16.164634+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Solid Earnings Season Marred by Investors\u2019 New Fears Over Outlook - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQTnpMMzBQdU1JdjJzc01MdDNwUENWdHp3ZUxESkFSaDRtNkVaeUxUXzNIZHBMWjlGVjJfQTVLU1otYlU1NmZXc25mcEE3dXVHVkxrSF9zckJLWWZPdjBLQU9nSGhNOVJmbUZfQmd5RGlwWGp6R3dnQXdzV1pnV0pmdEdkV081Nk1ONmdyN3hCaEtKamhOVVRNNWQzR1NER3NFYXB6SUZNU21XUW1PZlJDRkpfeVB4UzJweFhUeXJaQlYwVzg1X1d0bVBRM1V2eWI3emhpcmhBeE5BWWdNcXVsM1VkR0hySTR6eTNsUzQwdENia21uVHA2MnJLaVM3Snd2RmIwbk53bXZrSXdrdWlDR2wwQUZpSEtJRXdnOUhYTmxySnVDMjZXZ3E4YmRTWTJfZS1pWmkyTHVZVXpNd0lsbWdKSnk2S2xaMERiYkRwRG80al8tU2ZuYTQyZ1NaVjVHWV95cVFmRzBoY0ItWXZzSG5qVTgwNjZmeEl1SEktTHNIeHhQSW1RMWQ0Z1N3Slk?oc=5",
-        "pubDate": "Sun, 25 May 2025 09:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T13:04:33.912361+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
   "Climate": {
     "articles": [
       {
-        "title": "Climate change linked to mass die-offs, making thousands of animals vulnerable - KTVB",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX29rblQ5NTh4UmJ2a2xjRWFmLTdaME85cmlJdDhfdWoxYUd0N3dBeVE3aUx1bm1scHVtLTd1N25GMU9vVTRQaXNwcnlkMVRUZlB4YWlXdnpSQXhuSlROdUNiR1NkOW1JX0VTY2R1YTNVM0J1Wm9iSzRVOTdmVFh0SHNEcFdlS2g0WldheUpMTC1Ka055V1dIVXhfUHJjM1ZaUUpmbTBRUEdLV3ExcUpfaXpDSHkzUkIwaDZqcnhQWGhqdmdXNG9JN2lYc0FvV24xM0NCMzZSNGtJcnA0dTVEenNFSQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 02:41:00 GMT"
+        "title": "Scientists Issue Dire Warning: Oceans Rising Twice as Fast, Even If Climate Goals Are Met - The Daily Galaxy",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14NXBLd3Jta3RLM1pFYU1JQzVUbFRkZHNMX0d2TmR4dUd0U1JMTG9aVkFvSER3VjIwd2pKUmNndWZCZEhHYjh4N0doT09IX3lWM3M0bDlaazFDaG5mSFNFMkpiTFRRTGRBMXp5Z2FWZDgxVnhCSXoyMUR3?oc=5",
+        "pubDate": "Sun, 25 May 2025 14:30:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T07:48:10.705234+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "The 90-Day Rush to Get Goods Out of China - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNbVJ4UTg5TWFJd2piTkpLU2llSmFtRE5RaV9SOXpKQW00UUR1ckpjNzZJNThXc01Nd04zWGJOOGJXVWVMVE93eG0zZWFid1A1alhVcm02emh4Nm00ZlJvajZERFhzYW1MSTBoZDRHc3B2V1k0MU1RaFZnNVIwdXM1b3dWamJYTmtBNDkzbmMtNU5PblNVVjFfdWNEc1FIY3Jsck5ib2NQSTZiLWlzZGk3UndYSnh5VnRwdUk3RkxoOG9FWUZkd0QxQXd0OGxWU0UxTy03RlllZzJjVXRkVVZDdUdYSFlfNG0zdDNIblZhNEk5N2llWkNlb0UxTzRzR0ZwckxTajBDQVJVVmxXc1l2Q1U4dUllRko1MUVYdmM2dXlfaGNJb0NpWWJDRnVtY2ZNS3ZsSWFkR3hacEVIRjdReWM3aFFtYTRGTDdNV1BKcUdyUHZ5c3ZacVpkbHcxbDVhbjVXM2o3TW5HajFFNEdhcnFqRnJhdFQyZnU3Mjg5TGpjaW1aREcxc1R4TldvT040bXc?oc=5",
-        "pubDate": "Sun, 25 May 2025 13:00:00 GMT"
+        "title": "China\u2019s graft busters eye key tech sectors as Beijing gears up to challenge US - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkZjOWUzRzVXbV9TVFRlYXNFam1KaTQxMWx4cHluNXQ5NzlFQmF2TXZiWUxmVTZmTjFveVVtanFBMkNkeE5xOUxUTTdZSTV1azd0SEdEdUpwaWtqeUExd1FTQmlnZ282dTFqbmU4TVN5NGlDZm9fWkM5aWNvVlZZaE5CU0xjODdYMERYR0lET1pyY2lhSmlCaU9ra1F1ZFltc1lIX2I4SWtLOUFyYzR5d2pkMFhUUHlEQU91bW5WNnh4Z0FXdnRybkdB0gHKAUFVX3lxTE1sVjRqNVllUU5qbm9hSXRJOGtmMFpRMnhiMGN0c3lHanptZHdQamcyWmVCSXB6dTFLMWRnalQ4TC1tZUx0ZHRoSGlPNDEzOHlhYTBrOGVQcENzREh4LVVnSVJtQWlxNXc1a1BuTTdnT0lBekNsMUF1X2tteTIwMmNPczJ5ajJUTlRVSE5Yd1ltRDluMlZiT3I4S2J6dEJpbGJtOVRRaV9RRERMRmhKNXVrVFVHQmZrbXZGZUxSZlhXUnh6anNrOHdxVEE?oc=5",
+        "pubDate": "Sun, 25 May 2025 14:00:09 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T14:04:53.735801+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
-  "Financial Markets": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Soaring bond yields threaten trouble - The Economist",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHR6d3h4N05aOXg4dFVUMnljSndFNUY0VkhjVVcwLUZoWllzdGIxQWtqMUdaQWp5dXRMUjVqOXhLRHFxeUctMThqRWR3TUp0VVE3dS0yR1hXU2JWLUp1MktsWi1OY0pRV0pKQjl5Rzk2R1dCNFBETHAtTVJSMWY4RHk0V3pvLXdKeUpMWHJ2SGVUM3hDV1FjMlJwZw?oc=5",
-        "pubDate": "Sun, 25 May 2025 14:00:37 GMT"
+        "title": "Russia Bombards Ukraine With One of Largest Air Assaults of the War - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiSkdxcU5jTTlrYXJ0NGxnZjBpQ0lxY0FjT1RWbC1mWkgtODVzYzloUUdtcXkyVnNRcThQTDRCdWc3Q29jbjlCMW80Qk9ZOEl6ZXo3ZmFKejlxYlNrSHlPaU1JQXRhX1NfUnk0SWlkb1g3ZVB1WS04bm94a1k?oc=5",
+        "pubDate": "Sun, 25 May 2025 13:37:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T15:05:04.727835+00:00"
-  },
-  "Machine Learning": {
-    "articles": [
-      {
-        "title": "Predictive factors of hypoglycemia in type 2 diabetes: a prospective study using machine learning - Nature",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xNUhYQ0luY0NzSW1ZSzdoT0N4Rms3UjVzMEt5aDBkWFl1bWdOQk1xaW9SNWU4Sy1BSVl5Z2tUQVJ1X2MtXzV4TXZFRUtyM1g2NVF2R09ndHFsaEpTVmhn?oc=5",
-        "pubDate": "Sun, 25 May 2025 04:59:35 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T06:55:46.751900+00:00"
-  },
-  "World Economy": {
-    "articles": [
-      {
-        "title": "India replaces Japan as world\u2019s 4th largest economy, poised to overtake Germany for 3rd rank - The Hans India",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUkhpWGRGVDFBbkFMX3gxT202d285OE54OS1HNXlLWmNXNlN1S3QyaENsWnk5cTdsTG5sRzU5Q0lXUHBiZFdDM3liMEJsenZKQWg2cFRuQ283dV9Jd3pYWlYtYTZtQUwyNkFXc3drMTZiYVpCRC1zZE53M1ctcXBFNFA3SUZ6WVhPSnUzMi1tUV9SMjRtWEFBV2V0XzlSZVp0NjZQLUxSRnI1V25zN1pjNEEzaFFpT2xQaHRyWVRkUHpKMXR5LVhuTU1WR2JjRWd20gHWAUFVX3lxTE9vNlppYm9FVmxiYnMyM05aTlNHOUpvTzJOVzFpZlhoX2stWlRLOFVYZ2ktUlBmWFZNOFZBNWN5UmhJNUtFXy13bWRHOVJTVWEybHVHTHNwb2FwMlVKWVF0bGFuX1VOOGE5NVZOSFJDZ003cXNiZ1ZTeU1XYThLX2hLcldUUU1FMFR1ZkN2VlY1RUppbTlPSy15X2lMZ2tNRUN5bDktdGNNd3dMQWlsd1l4ak9oa09uUGV5dVhvLTFWcnNrc2NLaXRCMFE5a1hVYTJzSThhTlE?oc=5",
-        "pubDate": "Sun, 25 May 2025 06:52:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
-  },
-  "Technology": {
-    "articles": [
-      {
-        "title": "Tesla Executive Admits That Self-Driving Is Going Nowhere Fast - MSN",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3lWUnd2b1FHWG5GOFRpNFNqZ0VseUludlVsTEVqSUluVGxfYlNGU2tnNjRjUlZvd21neUR0VFVsalF0SVFjVDZCb2dmQTk1QWNydXJob1p3eTJsbXlCYm1SWndjUnNwdjNqYjhlbElydXRubldqSzhyUzlUZ1psakc2Q0otcUpabTNYbXF6UVBvVi1CUTZmOUMxU0psRUE3dVlsZzg2LXFZQjNMa2JFbQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 03:05:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T07:02:10.134499+00:00"
-  },
-  "Recession": {
-    "articles": [
-      {
-        "title": "5 Ways Recession Fears Have Impacted America\u2019s Spending Habits - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV19BYTFQUksxVXdNbDRRWDZVVHVjeThHV0FRbHl4UjBqelNDWnJ2SW40TzFOX1dPWGdZSjRJZGFrVXhBNlJnWWF0NEYzYm1sb2kwZERvamdMeXBXbVRzZk5YOVZYS0ZYX1BZR1JLRV9OSGJDRnJfeUdUckVzMlEwSktMSQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 11:00:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T12:04:22.039561+00:00"
-  },
-  "Large Language Model": {
-    "articles": [
-      {
-        "title": "Sarvam AI debuts flagship open-source LLM with 24 billion parameters - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2tscjB5U0JlS08xZTlVaFpOR3VNSVhmWHVhMDlpR2gzdldwM2lpQ1J0ZXF1emVDbEVBcTR1YS1McjdQRHBqdElxbXNlRzl5UEtnd2ttN0tjVS1GTU5FRzNYLXJUTktSVDd5N0RMOFYtNXFVbGtnM1MtdHpJOHdRTG1jWTYzR1JrLUk1UXV0TVF2NUc0N20tdmk5N0FaTkxSdmNQTW1qV295alNsZ3ROYVJBamc5QlllSWN4dXdETGRRVEllellEa2N0NWIxcXRTRGs1X0NtVWRUbXRRa3lLS9IB5wFBVV95cUxQc19NdjZFVEx4VXVOSWctRGt0RFFfRlpIX2ljdjBGR0Z3RjdkUWJEclFEZXNLZXlrTk43T2JqaTRxYlR0bHZyeWFsZ1RTSXFMa3dhbGN5bzc0UXNlbl8yUC1WZXljUy1aODJ5RHc4cnAzelQ2ZjFjX2NrcWEwRXpHT1p0bWgzSDd2QTdVMVk1VW1hQ3lvX28yLThCRVlfdm15NF9RaS1Zd000N21NRGVjcU1RWC1CTVh6QWtyaDd4QmZsSUNlQnI4aTdMeDlKMXdMaUpZc04tSGhEMlhWUjdwS3hLSUg3NFU?oc=5",
-        "pubDate": "Sun, 25 May 2025 03:24:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T06:50:22.006995+00:00"
-  },
-  "Science": {
-    "articles": [
-      {
-        "title": "The US has world-class scientific talent. The rest of the world is hoping to lure that away - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQl9lNEM2TTc1YWZrNnNJNEJWYklHcG9sV0FtTHFKdWlVcmhrVXhCbWNiLUtidmhtRi1vbkR5aFhjZ2tOaU96RUtDbDN3aEJuRGJLX0c2VDZHZm9MM1FLNmRRUXJiRUtpZXpJc1AybnRuZXpBQkJiZnFtZ0NzaVdnYmlwQ2p2TmJsWXNDYlhrSGpWQWFINVNsNE5Gem83VmJt?oc=5",
-        "pubDate": "Sun, 25 May 2025 04:43:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-25T06:55:46.751900+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
   "AI Safety": {
     "articles": [
       {
-        "title": "AI Model Blackmails Engineer To Avoid Shutdown - Trak.in",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZXAzNTctcVZLYlBuUGRXN2pxeHgyNVpJNkxkeGljaXdRUnBEQlUyNlRSRzV6UnNmbDU4QVZSbnhab0NNRGIyVlpHcGh6TW5GdlFodDMyeGJIb1RlOG1LVUp3LVdfYjRaS05MM29CWnhkTjVoT0RIUHYyVQ?oc=5",
-        "pubDate": "Sun, 25 May 2025 07:11:34 GMT"
+        "title": "OpenAI software ignores explicit instruction to switch off - The Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamdHQlF1Z3RvUkt1RjJ1WU4zSlF3d1lrUnkwRlNfbkRRS1RyUGpJNWdhcUc1OThnLXNlNnRQQzNBQlJNcHV2bndDeEpJMVB2TFJBaE5aUGZOUkJ4T1d2UkJ6ajNuSDUzNmt1aV84TEtwUldOQ3Q5WGx0UFpOdXlreEpEeDhwSmZVN0F6TkF6WExqMExWNUF5cXhUYW1NZG9vdE9j?oc=5",
+        "pubDate": "Sun, 25 May 2025 12:56:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T13:04:33.912361+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
-  "Terrorism": {
+  "Astronomy": {
     "articles": [
       {
-        "title": "RCMP claims 488% spike in Canada's terrorism charges - Times of India",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUNNRzdHVlVhS3NCYlFkMFVkNzJHWlZ2d3N4TTVLbEZRTU9pdGRzUk01c3MxMDhOVnJwT2JkMXlRQTBnYmQwOVhUcTVmTEVCcDlhYzVWTDFDMUNzVkE0NnRFOGZtcklYWlVSbG1Jejg4SzhHM3NrXzdaNzV1cmtJbFl3ZkU5bzZZYVEtaUxHX3RYeTBaY1oxY2FURXA1ZXk3M2R0VVRPbjR2QjBQcHQxcUF1amU4ZzFPU2dSdDgwOUt3N3gySFZuTFRHM2rSAdIBQVVfeXFMUE9wY2xJYnR0MVNBaTBCNXdfLURjcGtIMDlZNmhDYmFncjZnTUpkX0VHd2FXUWpSYUJQXzliMW1zZDRXb01YelJBUWNuWFdjRUVOWWlOWWxiOFJqOE5yaGZlRDBzeGc1aUVuaHhwUlpxT3VyRThhVDNjOFB0SFhCM2trN2I3NXhlN0o1OUFoZ3lRV05nQkFJQ3VBU1ROX3c1d1dJZGhFNnBlX1BmQms4WVlPWERWaDMwdDZXb1lqTTZEMWE1Um8wU0t5Ym84M2dVX29R?oc=5",
-        "pubDate": "Sun, 25 May 2025 05:58:00 GMT"
+        "title": "Scientists may have discovered the most powerful particle collider in the universe - Live Science",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0wwSFZmTFlFQXJCd3RQUTlvbW9lMEFSdUtsUGNFOGlTdjd3SzE5VTZ5cGtqSEVwTHNVYlExMEx6VmRvemNxcmlfQ1BueUxJaW1NcE1TS2d4OG1kVjlvZkt2bnVwMURsVnlyNW5qRWdENHpUUC1SMGItLV9hVUFUX1lCLUozaTFqR1hON3YyOVl0SllwSlkxWDJSb054cjFMb1M5TVFUM1RlY0lfVzc5SzZZMFhQRVZDT1VTT215eFM0RXdz?oc=5",
+        "pubDate": "Sun, 25 May 2025 12:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T07:48:10.705234+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
-  "Artificial General Intelligence": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "The Fiction of Generalizable AI: A Tale in Two Parts - mindmatters.ai",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0djQ19IN01tTGFyOG96RkpfMm9VSHVOaXJHaV9vMjZ1VjZOd0JXQUlMQWlMa0c5OWstTE1UNDUyUS1SWXZnRHdlcllFSjFBZFVzSDRNOXVzaGdOUmtHUFJtZEVFRHFZYjNMdzFaYk9WdTVWM0YwbTd6OUNVY1l4Um9lQ091aUtFM1Fz?oc=5",
-        "pubDate": "Sat, 24 May 2025 22:24:15 GMT"
+        "title": "Trump's tax cuts will be cripplingly expensive for most Americans - MSNBC News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdURaSEZ5cVdPZVY0WXJqNVNRNWY4R0ZNdmRaNzFtaHZwUGJTMTNNOXh1VHR6TXQ5VVI1UldPTzU2dFR6cEhKOTVMWFltM0lmbkhzMmU4OHMyN2Q0cU52UGRWYWJCRmhNQ1V0MWJ5TV9MVlpFWEFyaEg2Szk3NHUyd21LMnVuMUUtclJKY25NeXo3ZnPSAVRBVV95cUxQLXF0bGp5czVZWkhlMjlQV2ZVb0tKS1k3MTV3V2ZqWHo5UGJQdUpTb2Z2em9hQVRnLS1rR2pzZVF0UVBZZkJ6aHBmX01SUTlwNXprbVE?oc=5",
+        "pubDate": "Sun, 25 May 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   },
-  "Energy Transition": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Why the North Sea oil and gas bridge to the future is being burned, as 600 Aberdeen job losses show - The Scotsman",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0d3VDhwQVZXOEx6YjU2SXhlT1RIOXp4WUY2QlFoY05QT3RzZ2VrY3RpQzhGa3B0b1gyWHNxdVRYekhMN1VTSmJEamRXTEFfM2dQQUQtRzBuQmdScm04ck9wcjl4c1c3UWlwel9zUURoSTBFYTdhYTVycmxUZG1fMGlqRW1zTmU4akpGVm0xNWNqcXBocmxaVmFtbDY0c25fTHNLbU1yRUx2M3N0RjFlajJhTDlOakdYTDliMWNQSkJZaWhDS1ozTmNEOXBoV19nR1ZoZUVWcFpoUGdk?oc=5",
-        "pubDate": "Sun, 25 May 2025 05:00:00 GMT"
+        "title": "How Trump's clash with the courts is brewing into an 'all-out war' - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjduT09WTF84YTczRHRUZmQ1aVVJck5CLTB1MUZUdnpXUkl2T2M4d3hKNXlPbW9qNkFHQWN1OW13WlAwSlpUNzUwZERES0N3dDlfRGNZZjM4Qnl4S3llY0NrVDYwbS1OazRMZ09HVmxTemVPVXFhcUluMngwdzJhMnVIY3Q3anF5N3hpZ2pNUjJ2eVhLUUE5OTliU243cE5QaHkwYmg1ZUQyd2hjYXhYNg?oc=5",
+        "pubDate": "Sun, 25 May 2025 09:03:16 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-25T08:03:24.959529+00:00"
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Pakistan allocates 2,000 megawatts of electricity to bitcoin mining, AI data centres - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnFmaS0zeVdZR2U0QVNuVS1QM0VOYlNrWnVKSVJZMUphYVI3UnZIR2xoYWw2dnp4eFd0bVptbFVGT1VsOFpwTnZfd2lXVVpFaTlsdV9za3BsZWx4aDh3a0VZWlFXSnVTRDBfazJjWDU2bWxuemhRLVhjRWp4cjFfN19xck1mRl9tY0pmbDFmZUxZX09pUDBVNHhiR2E5bWFEZDBJeEtkMEZReXh6dFZLWnJPRXRWclVOUW1kZ0Zsc3FVWHJvcm92cDFBaHJ3NzF6aXl5c3lyZ0lVVEk5ZzFEMzJPNzRwQms?oc=5",
+        "pubDate": "Sun, 25 May 2025 08:34:23 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "Is the stock market open or closed on Memorial Day 2025? See full holiday schedule - Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdElJQWFvb2Z1dU1jQWR5a05Ld2hvZzM5NXNrOVp5QTM2SzhzNnVWTUh2Y3RQSm8xdE03VDlHU3JBTW5XSWNVbUgyaWwtZjFVVG5feVNQeEFneUtadlV3bV9IaW55SnNWaHdfYnNaaFExdlJGTXNiNWhxWmxjZmJZN196SThjMk1iRHc?oc=5",
+        "pubDate": "Sun, 25 May 2025 07:02:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-25T15:38:02.323302+00:00"
   }
 }
