@@ -45,7 +45,7 @@ from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/based_news.log")
+log_path = os.path.join(BASE_DIR, "logs/digest.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info(f"Script started at {datetime.now()}")

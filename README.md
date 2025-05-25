@@ -19,7 +19,7 @@ This Python script fetches the latest Google News RSS headlines for a user-defin
 
 ```plaintext
 based-news/
-├── based_news.py          # Main script
+├── digest.py              # Main script
 ├── requirements.txt       # Python dependencies
 ├── history.json           # Stores previously posted headlines
 ├── public/                # Webpage directory
