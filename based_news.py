@@ -419,13 +419,13 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 finish_reason_display_str = f"UNKNOWN_REASON_TYPE_{type(raw_finish_reason_value)}"
 
         has_tool_call = False
-        function_call_part = None # Define here to ensure it's in scope
+        function_call_part = None 
         if response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
             for part in response.candidates[0].content.parts:
                 if hasattr(part, 'function_call') and part.function_call:
-                    function_call_part = part.function_call # Assign here
+                    function_call_part = part.function_call 
                     has_tool_call = True
-                    finish_reason_display_str = "TOOL_CALLS" # Override if tool call found
+                    finish_reason_display_str = "TOOL_CALLS" 
                     break 
         
         logging.info(f"Gemini response. finish_reason_display: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
@@ -436,7 +436,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                           f"Full response: {response}")
             return {} 
         
-        if function_call_part: # This means has_tool_call was true and part was found
+        if function_call_part:
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args 
                 logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...") 
@@ -548,13 +548,13 @@ def write_digest_html(digest_data, base_dir, current_zone):
 
     html_parts = []
 
-    # Sort digest_data by topic name for consistent output order in HTML
-    # This doesn't affect the recency logic, only presentation.
-    sorted_digest_data = dict(sorted(digest_data.items()))
-
-    for topic, articles in sorted_digest_data.items():
+    # digest_data is expected to be a dictionary where keys are topic names
+    # and values are lists of article dicts.
+    # The order of topics in digest_data itself (if it came from display_candidates)
+    # should already be by recency. Iterating digest_data.items() preserves this.
+    for topic, articles in digest_data.items(): 
         html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
-        for article in articles:
+        for article in articles: 
             try:
                 pub_dt_orig = parsedate_to_datetime(article["pubDate"])
                 pub_dt_user_tz = to_user_timezone(pub_dt_orig)
@@ -747,8 +747,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                "no changes added to commit" in commit_result.stdout.lower() or \
                "your branch is up to date" in commit_result.stdout.lower():
                 logging.info(f"Commit attempt reported no new changes. Stdout: {commit_result.stdout.strip()}")
-                # Check if local HEAD is actually same as remote HEAD
-                try:
+                try: # Check if push is still needed
                     local_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
                     remote_head_cmd_out = subprocess.run(["git", "ls-remote", "origin", f"refs/heads/{current_branch}"], capture_output=True, text=True, cwd=base_dir)
                     if remote_head_cmd_out.returncode == 0 and remote_head_cmd_out.stdout.strip():
@@ -757,11 +756,12 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                             logging.info(f"Local {current_branch} is same as origin/{current_branch}. No push needed.")
                             return
                     logging.info("Local commit differs from remote or remote check failed. Will attempt push.")
-                except Exception as e_rev: # Catch broader exceptions during rev-parse/ls-remote
+                except Exception as e_rev: 
                     logging.warning(f"Could not compare local/remote revisions: {e_rev}. Will attempt push.")
             else: 
                 logging.error(f"git commit command failed. RC: {commit_result.returncode}, Stdout: {commit_result.stdout.strip()}, Stderr: {commit_result.stderr.strip()}")
-                # Do not raise here, allow push attempt if commit failed for unknown reasons but changes might exist.
+                # Allowing to proceed to push attempt even if commit had an unexpected error,
+                # as there might be prior commits to push.
         else:
             logging.info(f"Commit successful: {commit_result.stdout.strip()}")
         
@@ -859,14 +859,20 @@ def main():
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
                 logging.warning("Gemini returned no content or invalid format. No new topics from LLM this run.")
             else:
-                seen_normalized_titles_in_llm_output = set()
-                for topic_from_llm, titles_from_llm in selected_content_raw_from_llm.items():
-                    if not isinstance(titles_from_llm, list):
-                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm}. Skipping.")
+                logging.info(f"Gemini returned {len(selected_content_raw_from_llm)} topics. Processing and enforcing MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
+                seen_normalized_titles_in_llm_output = set() 
+
+                for topic_from_llm, titles_from_llm_untruncated in selected_content_raw_from_llm.items():
+                    if not isinstance(titles_from_llm_untruncated, list):
+                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm_untruncated}. Skipping.")
                         continue
                     
+                    if len(titles_from_llm_untruncated) > MAX_ARTICLES_PER_TOPIC:
+                        logging.info(f"Topic '{topic_from_llm}' from LLM had {len(titles_from_llm_untruncated)} articles, truncating to {MAX_ARTICLES_PER_TOPIC}.")
+                    titles_from_llm = titles_from_llm_untruncated[:MAX_ARTICLES_PER_TOPIC]
+
                     current_topic_articles_for_digest = []
-                    for title_from_llm in titles_from_llm:
+                    for title_from_llm in titles_from_llm: 
                         if not isinstance(title_from_llm, str):
                             logging.warning(f"LLM returned non-string headline: {title_from_llm} for topic '{topic_from_llm}'. Skipping.")
                             continue
@@ -875,7 +881,7 @@ def main():
                         if not norm_llm_title: continue
 
                         if norm_llm_title in seen_normalized_titles_in_llm_output:
-                            logging.info(f"Deduplicating LLM output: '{title_from_llm}' already selected under another topic by LLM.")
+                            logging.info(f"Deduplicating LLM output: '{title_from_llm}' already selected under another topic by LLM this run.")
                             continue
                         
                         article_data = full_articles_map_this_run.get(norm_llm_title)
@@ -962,10 +968,6 @@ def main():
                 if topic_name in persisted_digest_state:
                     del persisted_digest_state[topic_name]
                     logging.info(f"Removed stale topic: {topic_name}")
-            # If staleness removal happened, the persisted state *did* change overall.
-            # This flag is mostly about LLM-driven changes, but good to be aware.
-            # For git, any change to digest_state_file.json will be picked up.
-            # persisted_state_changed_by_llm = True # Or a more general flag 'persisted_state_changed'
 
         display_candidates = []
         for topic_name, topic_data in persisted_digest_state.items():
