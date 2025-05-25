@@ -399,25 +399,25 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         )
         
         finish_reason_str = "N/A"
-        if response.candidates:
+        actual_finish_reason_enum = None # Store the enum member itself
+
+        if response.candidates and hasattr(response.candidates[0], 'finish_reason'):
             try:
                 finish_reason_val = response.candidates[0].finish_reason
-                # Try to map integer value to enum name for clarity
-                if isinstance(finish_reason_val, int) and hasattr(genai_types.Candidate.FinishReason, '_value2member_map_') and finish_reason_val in genai_types.Candidate.FinishReason._value2member_map_:
-                     finish_reason_str = genai_types.Candidate.FinishReason(finish_reason_val).name
-                else: # Fallback for unknown integer values or if it's already an enum or string
-                    finish_reason_str = str(finish_reason_val)
-
-                if response.candidates[0].content and response.candidates[0].content.parts and any(p.function_call for p in response.candidates[0].content.parts):
-                    finish_reason_str = "TOOL_CALLS" # Override if a tool call is present
+                actual_finish_reason_enum = genai_types.FinishReason(finish_reason_val) # Convert int to enum
+                finish_reason_str = actual_finish_reason_enum.name
+                
+                # Override to TOOL_CALLS if a function call part is present, as this is more indicative
+                if response.candidates[0].content and response.candidates[0].content.parts and any(hasattr(p, 'function_call') and p.function_call for p in response.candidates[0].content.parts):
+                    finish_reason_str = "TOOL_CALLS"
+            except ValueError: # Handles cases where finish_reason_val is not a valid FinishReason int
+                finish_reason_str = f"UNKNOWN_FINISH_REASON_VALUE_{finish_reason_val}"
             except Exception as e_fr:
                 logging.warning(f"Could not determine finish_reason string: {e_fr}")
         
         logging.info(f"Gemini response received. Finish reason: {finish_reason_str}")
         
-        # Check for MALFORMED_FUNCTION_CALL specifically
-        if response.candidates and hasattr(response.candidates[0], 'finish_reason') and \
-           response.candidates[0].finish_reason == genai_types.Candidate.FinishReason.MALFORMED_FUNCTION_CALL:
+        if actual_finish_reason_enum == genai_types.FinishReason.MALFORMED_FUNCTION_CALL:
             logging.error(f"Gemini reported MALFORMED_FUNCTION_CALL. Prompt token count: {response.usage_metadata.prompt_token_count if response.usage_metadata else 'N/A'}. Full response: {response}")
             return {} 
 
@@ -429,6 +429,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                     break
         
         if function_call_part:
+            # ... (rest of the tool call processing logic remains the same) ...
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args 
                 logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...") 
@@ -481,6 +482,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 parsed_json = safe_parse_json(text_content)
                 
                 if "selected_digest_entries" in parsed_json and isinstance(parsed_json["selected_digest_entries"], list):
+                    # (Logic to process parsed_json as if it came from the tool)
                     transformed_output = {}
                     for entry in parsed_json["selected_digest_entries"]:
                         if isinstance(entry, dict):
@@ -508,11 +510,14 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 else:
                     logging.warning(f"Gemini text response could not be parsed into the expected digest structure. Raw text: {text_content[:500]}")
                     return {}
-            else:
-                logging.warning("Gemini returned no usable function call and no parsable text content.")
-                return {}
+            else: # No text content either
+                 logging.warning("Gemini returned no usable function call and no parsable text content.")
+                 if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
+                     logging.warning(f"Prompt feedback: {response.prompt_feedback}")
+                 logging.warning(f"Full Gemini response: {response}")
+                 return {}
         else: 
-            if response and hasattr(response, 'prompt_feedback') and response.prompt_feedback:
+            if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
             logging.warning(f"Gemini returned no candidates or no content parts. Full response object: {response}")
             return {}
@@ -529,7 +534,6 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         except Exception as e_log:
             logging.error(f"Error logging response details during exception: {e_log}")
         return {}
-
 
 def write_digest_html(digest_data, base_dir, current_zone):
     digest_path = os.path.join(base_dir, "public", "digest.html")
@@ -660,50 +664,38 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                 err_msg = e_checkout.stderr.decode(errors='ignore') if e_checkout.stderr else e_checkout.stdout.decode(errors='ignore')
                 logging.error(f"Failed to checkout branch '{current_branch}': {err_msg}. Proceeding with caution.")
 
+        # --- MODIFICATION: Stage all local changes BEFORE pull --rebase ---
+        logging.info("Staging all local changes before pull.")
+        stage_all_cmd = ["git", "add", "."] # Stage all changes in the current directory
+        stage_all_result = subprocess.run(stage_all_cmd, capture_output=True, text=True, cwd=base_dir)
+        if stage_all_result.returncode != 0:
+            logging.error(f"'git add .' before pull failed. Stdout: {stage_all_result.stdout}. Stderr: {stage_all_result.stderr}")
+            # This is problematic, but we might still try to pull.
+        else:
+            logging.info("'git add .' successful before pull.")
+        # --- END MODIFICATION ---
+
         logging.info(f"Attempting to pull with rebase from origin/{current_branch}...")
         pull_rebase_cmd = ["git", "pull", "--rebase", "origin", current_branch]
         pull_result = subprocess.run(pull_rebase_cmd, capture_output=True, text=True, cwd=base_dir)
 
         if pull_result.returncode != 0:
             logging.warning(f"'git pull --rebase' failed. Stdout: {pull_result.stdout}. Stderr: {pull_result.stderr}")
-            if "Please commit your changes or stash them" in pull_result.stderr or \
-               "Your local changes to the following files would be overwritten" in pull_result.stderr:
-                logging.warning("Pull failed due to local changes. Script will attempt to add its own changes and commit.")
-            elif "CONFLICT" in pull_result.stdout or "CONFLICT" in pull_result.stderr:
+            if "CONFLICT" in pull_result.stdout or "CONFLICT" in pull_result.stderr:
                  logging.error("Rebase conflict detected. Aborting rebase and skipping push this cycle.")
                  subprocess.run(["git", "rebase", "--abort"], cwd=base_dir, capture_output=True)
-                 return # Cannot proceed safely
+                 return 
+            # Other pull errors might still allow a push attempt, but it's risky.
         else:
             logging.info(f"'git pull --rebase' successful. Stdout: {pull_result.stdout}")
 
-        paths_to_add_relative = []
-        history_file_abs = os.path.join(base_dir, "history.json") 
-        digest_state_file_abs = os.path.join(base_dir, "current_digest_content.json") 
-
-        if os.path.exists(history_file_abs):
-            paths_to_add_relative.append(os.path.relpath(history_file_abs, base_dir))
-        
-        digest_html_path_abs = os.path.join(base_dir, "public/digest.html")
-        if os.path.exists(digest_html_path_abs):
-             paths_to_add_relative.append(os.path.relpath(digest_html_path_abs, base_dir))
-
-        if os.path.exists(digest_state_file_abs): 
-            paths_to_add_relative.append(os.path.relpath(digest_state_file_abs, base_dir))
-
-        if paths_to_add_relative:
-            logging.info(f"Attempting to git add: {paths_to_add_relative}")
-            add_process = subprocess.run(["git", "add"] + paths_to_add_relative, 
-                                         capture_output=True, text=True, cwd=base_dir) 
-            if add_process.returncode != 0:
-                logging.error(f"git add command failed. RC: {add_process.returncode}, Stdout: {add_process.stdout}, Stderr: {add_process.stderr}")
-            else:
-                logging.info(f"git add successful for specified paths.")
-        else:
-            logging.info("No script-generated files found to add to git.")
+        # The script's specific files would have been staged by 'git add .' already.
+        # We can re-add them to be absolutely sure, but it might be redundant.
+        # For simplicity, let's rely on the 'git add .' and proceed to check status.
         
         status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
         if not status_result.stdout.strip():
-            logging.info("No changes staged or unstaged for commit after add/pull. Nothing to commit or push.")
+            logging.info("No changes staged for commit after add/pull. Nothing to commit or push.")
             return
         
         commit_message = f"Auto-update digest content - {datetime.now(current_zone).strftime('%Y-%m-%d %H:%M:%S %Z')}"
@@ -713,8 +705,8 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         if commit_result.returncode != 0:
             if "nothing to commit" in commit_result.stdout.lower() or \
                "no changes added to commit" in commit_result.stdout.lower():
-                logging.info("No changes to commit after add operation (already up-to-date or no new content).")
-                # Check if push is still needed (e.g. local branch was ahead before pull)
+                logging.info("No changes to commit (already up-to-date or no new script content).")
+                # Check if push is still needed
                 try:
                     local_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
                     remote_head_cmd = ["git", "ls-remote", "origin", f"refs/heads/{current_branch}"]
@@ -725,12 +717,12 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                             logging.info(f"Local {current_branch} is already up-to-date with origin/{current_branch}. No push needed.")
                             return
                         else:
-                             logging.info(f"Local {current_branch} ({local_head[:7]}) seems ahead/diverged from origin/{current_branch} ({remote_head[:7]}). Proceeding to push.")
-                    else:
-                        logging.warning(f"Could not determine remote head for {current_branch}. Will attempt push. Ls-remote stderr: {remote_head_res.stderr}")
+                             logging.info(f"Local {current_branch} ({local_head[:7]}) ahead/diverged from origin/{current_branch} ({remote_head[:7]}). Proceeding to push.")
+                    else: # If ls-remote fails, still attempt push
+                        logging.warning(f"Could not determine remote head for {current_branch}. Ls-remote stderr: {remote_head_res.stderr}. Will attempt push.")
                 except subprocess.CalledProcessError as e_rev_parse:
                     logging.warning(f"Could not determine remote head to check if push is needed: {e_rev_parse}. Will attempt push.")
-            else: # Real commit error
+            else:
                 logging.error(f"git commit command failed. RC: {commit_result.returncode}, Stdout: {commit_result.stdout}, Stderr: {commit_result.stderr}")
                 raise subprocess.CalledProcessError(commit_result.returncode, commit_cmd, output=commit_result.stdout, stderr=commit_result.stderr)
         else:
@@ -738,8 +730,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         
         logging.info(f"Pushing changes to origin/{current_branch}...")
         push_cmd = ["git", "push", "origin", current_branch]
-        # Use check=True to raise an exception on push failure
-        push_result = subprocess.run(push_cmd, check=True, cwd=base_dir, capture_output=True) 
+        push_result = subprocess.run(push_cmd, check=True, cwd=base_dir, capture_output=True)
         logging.info(f"Content committed and pushed to GitHub on branch '{current_branch}'. Push output: {push_result.stdout.decode(errors='ignore') if push_result.stdout else ''}")
 
     except subprocess.CalledProcessError as e:
@@ -748,8 +739,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         logging.error(f"Git operation failed: {e}. Command: '{e.cmd}'. Output: {output_str}. Stderr: {stderr_str}")
     except Exception as e:
         logging.error(f"General error during Git operations: {e}", exc_info=True)
-
-
+        
 def main():
     history = {}
     if os.path.exists(HISTORY_FILE):
