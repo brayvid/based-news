@@ -710,7 +710,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         
         files_for_git_add = []
         history_file_abs = os.path.join(base_dir, "history.json")
-        digest_state_file_abs = os.path.join(base_dir, "current_digest_content.json") 
+        digest_state_file_abs = os.path.join(base_dir, "content.json") 
         digest_html_path_abs = os.path.join(base_dir, "public/digest.html")
 
         if os.path.exists(history_file_abs): files_for_git_add.append(os.path.relpath(history_file_abs, base_dir))
