@@ -1,72 +1,62 @@
 {
-  "China": {
-    "articles": [
-      {
-        "title": "China Raises Cross-Border Yuan Use Requirement for Major Banks - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkZLV3pCMVFCQ0dLeWhTdkRHWUFybWZLaWwyNjRsWDNIMmZ4Z1p0STlHUktQQzRlbmtVcVBnSHc4SnlyU1R6S25EanBBdGNYbndEQWE0N21BbGV2cko3d2FQTEpfWmRhYkhSM3h1dWloelY2cTB0Y3FvNzhoSFJ3Y1RfaUVXcmotMmhBWE13WHEzS0s1dVpvYWF4N3Q2cU05UVMybTEtelZHazhhdkQ5QmhhSQ?oc=5",
-        "pubDate": "Mon, 26 May 2025 09:36:23 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
-  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia Intensifies Attacks on Ukraine as U.S. Steps Back - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFdqeUkxckhKa25uZXVEbEJ6VVlEc1BoY09HOFpjWlBmWGZSeUdWUUJSLUFVZ3JzUU9wVHdFUmJkU2JsRFFpeW15Wl9NMXcwSGVkX2ZPemFNbzZnOWs1OXpaTWtmcG1LSGpNR0JseXozMXlXWWU5OGd4dXRWMGxrX2FUaU9GOEJN?oc=5",
-        "pubDate": "Mon, 26 May 2025 09:16:44 GMT"
+        "title": "Ukraine Drone Carriers Launch First Long-Range Autonomous Strikes - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnhlX1h5OWJjNEF0bGFkWTRJdk9ETVlXM3R5MGVkQU56MXQ2Qld3VjEtZDVHbnJYYmZDOWUzS2ZCZEdVbDliMFI0Nk1NZ3F2eVdvVURHMkRaQ243c2w1Zmw3bjd0OW9WMl9CUkF1Ym5kWlVSY3lucXNzcHhBbXJWNHhMVmpRdFZsVmRaZDF2RE5vXzF4dkYwWENFd3hoaVhlSEY0dy1wS2hrbUdkYzdHRkxYaFNtR3Z2OENhSw?oc=5",
+        "pubDate": "Mon, 26 May 2025 10:45:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "'He has gone absolutely crazy': Trump rebukes Putin as Russia hits Ukraine with record drone attack - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xdnFzdERDd2JxTWExcVRhcjBfZjI2YkViUmxmLXkxN1dJeUoxcURFNjJZNkRjNFFfMUlpSHVFeF9MVzViMlFEZWd0bnoxQlotcEVuNA?oc=5",
-        "pubDate": "Mon, 26 May 2025 09:11:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "US Risks Losing \u2018Reliable Investment\u2019 Status, Allianz GI Manager Says - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWw2aTh2SW9WbzNQOE80WGI2c05CSkdoZGhMM3dCSnYtZmhON2hxNXFfcmFwTVNCZzlLSXQyVFZNSjBOZEFXbHZGYVdjcWVaUGp1aHF6cUE2bjBESEdtWk5rRGRRM0o3UEZrSExkQkZ4czBOcjI1WFF1U1pMd0hFZzlHTGlPRjF3?oc=5",
-        "pubDate": "Mon, 26 May 2025 08:08:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Capgemini, SAP, Mistral AI Team Up on Artificial Intelligence - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXllOHF1UE9SUnNabl9wMEswUnZmYjNpQTBDc2ZYNXZteVp2TEdYU1hNZWVLWWIzV0hRMnd2eEo2Q1dBckhVWEt4TlBNN3RQOGZTSUNGa3RsUERZTm1XTnhMdUU0dE43UmY5TTJ2V3dQeVp3ZWZ5RnBDWFJYeUNZYnpjaFQ1ck9DdUl3QW5hdTdOR2dsZHdPXzlHNXhaZw?oc=5",
-        "pubDate": "Mon, 26 May 2025 07:34:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Trump says Putin has 'gone absolutely CRAZY', considering more sanctions on Russia - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHRwS3hwV2NsaHoxNlR2R05XZm8zT3cwY094NVBQQ0MyZk5xbllTcHVDa05Ub2pTeWxYU0JyNE5FWTkxMlppZWowY215OWZJWVktaXdJZGtlcnhHMUoyNGIwVDdHQVpBWFNDZnNWdF81MWNqMlhlMGduM2tIY3lwVGtNREhybWlMRkJESzMwUFVGeGl5al9TRFFydjlNdTlBRGNtTmI2SjdoQktBTng2NEJyYXRXamF6ZEU5dnozeEJuMEk?oc=5",
-        "pubDate": "Mon, 26 May 2025 07:31:11 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
   },
   "Democratic Party": {
     "articles": [
       {
-        "title": "AOC Edges Out Chuck Schumer by Double-Digit Margin in New Poll - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWxESDZ6cXBlUVpxTUxjaHUtVmtZQThQYmgtcmF1TDd5cWJTNWE2aktnRlk1V2pUeGdrYTBoS0pWTFpOZnRLalpXQlVIRTl5ZVE0bnZBVVZXTm91clI3TXl4dzRqVjYwNUdhOEw4ZHNRMi0tNEp5cG9XOE5pd0xwU01EakRPRG9veVNIbGg2MlhBUzQ?oc=5",
-        "pubDate": "Mon, 26 May 2025 02:38:55 GMT"
+        "title": "Democratic troubles revive debate over left-wing buzzwords - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDNaMTMwclB0NVRUR0xaR3dJSl9PVFA3S0dIaTJ1bUp1a3RkYnVDNmxhTlAxcnVmemJ5YUpmYlJfV0NHalRFUElpQzd4Q2tVODBWSmNhaTN5ajhvZEVEYldFS20wMVNYUWx0Vk0wRnRaX3BqSExHMmkydXBXYWlSLWdwOXNlV0NqZWpGLU15T0UxaVpoN0FGOWg1UTQ?oc=5",
+        "pubDate": "Mon, 26 May 2025 10:30:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-26T10:05:25.084517+00:00"
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Secret note reveals Russia using Telegram bots to control drones attacking Ukraine, Economist reports - The Kyiv Independent",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTktscmtOOHhPME1zWnhUMGp4eEgzTG9seklXTUFhT3ZxbUxyY3VQRjZ0SFp5bGRGU3VDU0VZNi1CU3lTaEdTcTNyakpGb0gyeHhfVjVSZmhJQXdKOVg3RU5JMk15Rlk5LWJBWGFfYTVibDFlaDNWUE1mR2tsT1BwcGJhcDFsU2RhQ0UyNmQyU3FVNVpjcno3czlOaTZqV3pjakp6N1ZHWTNYbFVBVUHSAbMBQVVfeXFMTjdjREpKbUhsNGFfLXFzTXRhRTkwWTMya09GR2l6ME8tQmFCeVYxd3RtaEJpRVkwY0pNNEtTc3lTaXVDUnpMWlZDOUxpOHpCUzRhOVhndGpiNjMxQmdLcVRtQWotbE5uQWJDdXZBbEtOT1VBMEhoVDExT3NvWEk5MFJUZFEtNmk0ODA4U1l0Z00xYU5PejZBLWhRRG5JNHZEWmpmd3FDUlZqWWU1bnBPRDJxT28?oc=5",
+        "pubDate": "Mon, 26 May 2025 10:13:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Is AI going rogue, just as the movies foretold? - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjV1Uk1VR3FGc2Z3SXlGWFo4WWdQbzF5aW1zRmNsS1lVZ2xzOWNJQXBfTFhPbURhbENlb19zbVhhU24wTkx6ajJHMlZFampfV1RuYlJZSGgxWnpvc0RZWUVhc28xS09FMGZpa001M1N4dnpmR0xJZ1FTbWRaazM2MGJrQ05FYjNNSUtsZ0lYaTBiVkxVSnZKRnVTeEtLd1RXN3d5bWcwMml0UdIBrwFBVV95cUxPcTdBNlZ1N1oxMXg1U29VOV9hVDBqMnRyMF9DX1hxTUtONXl3RGRNVm9XcDNWQzg2Z2RwOE1OM2VWU2ticDFnTndQdGpIcXlySERJWXhpd3R2eldldFZmbjA5S0tWX0luWEpVc0JLRkxuMmxNbkMyc0xRVF9YZFM4WE52dEhDX1I5RWpTVUQ5WjZyU0cwU19wV0k2cV82OVhnUlRoNnVGaV9IT01WOThZ?oc=5",
+        "pubDate": "Mon, 26 May 2025 09:43:52 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Trump\u2019s Tariffs and Tax Bill May Derail U.S. Battery Industry - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlNXMTRMT1ZtTS1GYi1DX2tZVy1SV1RGVllVeWFoNUFhUm9LMVB1T1BxeERlT1BWOWg1Q1FCNDQzNTF5alN2RlZXZ2dEaGROOVRFUzFYbk41ak0yZWJzZ21DSnkyTlptOUcxUHR1ZVBLM0lUbXVwRkNITnlwVkZ1Szc5MGpyT1ByMjE1NEljSFJJbDIxQmhGSlpuMA?oc=5",
+        "pubDate": "Mon, 26 May 2025 09:02:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
+  },
+  "US Foreign Policy": {
+    "articles": [
+      {
+        "title": "What\u2019s Trump\u2019s Vision on China, Russia and the World? - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OcWxjeDZ0R3N3Sk1qU2hLanNDRVJiM0M5eUtNUFV4UGhROU9FOU12YldUX1A3RmVlWW1zTHhQQmd0QmN2eDdGVnVqTV9hVmJxbVdjZVRSay1Wdm0waFBQNTZ2ZGZWYWVXUFlYRkJqSkRKT0hTVTRZYXhB?oc=5",
+        "pubDate": "Mon, 26 May 2025 09:00:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-26T11:06:35.111869+00:00"
   }
 }
