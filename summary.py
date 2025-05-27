@@ -129,34 +129,34 @@ try:
 except Exception as e:
     logging.error(f"Failed to write summary.html: {e}")
 
-# Compose and send email
-EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
-EMAIL_TO = EMAIL_FROM
-EMAIL_BCC = os.getenv("MAILTO", "").strip()
-EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC.split(",") if email.strip()]
-SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
-SMTP_SERVER = "smtp.gmail.com"
-SMTP_PORT = 587
+# # Compose and send email
+# EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
+# EMAIL_TO = EMAIL_FROM
+# EMAIL_BCC = os.getenv("MAILTO", "").strip()
+# EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC.split(",") if email.strip()]
+# SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
+# SMTP_SERVER = "smtp.gmail.com"
+# SMTP_PORT = 587
 
-html_body = "<p>"+formatted+"</p>"
+# html_body = "<p>"+formatted+"</p>"
 
-msg = EmailMessage()
-msg["Subject"] = f"🗞️ Your Weekly Outlook – {datetime.now(ZONE).strftime('%Y-%m-%d')}"
-msg["From"] = EMAIL_FROM
-msg["To"] = EMAIL_TO
-msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
-msg.set_content("This is the plain-text version of your weekly outlook email.")
-msg.add_alternative(html_body, subtype="html")
+# msg = EmailMessage()
+# msg["Subject"] = f"🗞️ Your Weekly Outlook – {datetime.now(ZONE).strftime('%Y-%m-%d')}"
+# msg["From"] = EMAIL_FROM
+# msg["To"] = EMAIL_TO
+# msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
+# msg.set_content("This is the plain-text version of your weekly outlook email.")
+# msg.add_alternative(html_body, subtype="html")
 
-try:
-    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
-        server.starttls()
-        server.login(EMAIL_FROM, SMTP_PASS)
-        server.send_message(msg)
-    logging.info("Digest email sent successfully.")
+# try:
+#     with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+#         server.starttls()
+#         server.login(EMAIL_FROM, SMTP_PASS)
+#         server.send_message(msg)
+#     logging.info("Digest email sent successfully.")
 
-except Exception as e:
-    logging.error(f"Email failed: {e}")
+# except Exception as e:
+#     logging.error(f"Email failed: {e}")
 
 
 # --- Append summary to summaries.json ---
