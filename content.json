@@ -1,1 +1,62 @@
-{}
+{
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump threatens to withhold California's federal funding over transgender athlete - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41UGl5UmJ6c19WSFpRYlZyY25VS2tGRWlscjVrZE1aU2pvYzFEdEl4SUdHSXh3UHNCX3c3Y3czc1YyUFdrVXdqV1NRdGY0U0lERE1kcDE2cmNHQW9iRlVrSkFObmVMeWFPclFmR3VnUEJaUFdRSVNLcGRZSFN2aEHSAYQBQVVfeXFMUHRWRldfQS1QTnVxbnFwcXc5TjY4ME1NcUVOdnluQTRZR3UwXzZNbDltWmR3TVZpZGNrMnlHWmY0RTBWS1VWaWF2WmFjclJhWjdEMkRJMVc3dk1MN21OUmZzT3ViYnNRT1JCRzYxaTlYS1JiWU5abFZham8tdlQyMGZmTW1l?oc=5",
+        "pubDate": "Tue, 27 May 2025 16:32:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "OpenAI models sabotage shutdown order to solve math problems - StartupNews.fyi",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUhhV0lBRTBRcXZUM0RfWGt1ZXBjZ2FPc25GMDhwNkhzMkVlVjZXSGNNNjhweG15YjlYMzhTRkhnOFJicndDSnhZT3NPMWxvVWhvVnJ1TUwzOVYxRHhOenIwTG96NGlxdHZtX3BTZ3A1TkhVZmxvQU8zdlVpRjcwcnJHaWJuNWdHTmpzRFhxX2JMSUxxLVB0c1p6QlE?oc=5",
+        "pubDate": "Tue, 27 May 2025 15:52:22 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "US economy is 'solid' despite Trump tariff worries, expert says - Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fSHJJZ0FUQzRvV0k4OHFvN0lRUk85bWc3ajQtSi1pbXV1ZWQydVd2cFVWZkhwMWtQMEIwVkUzTEZUckZfc2tDYXFWcEgtNzBqMWJKbXRLSW1vWVE?oc=5",
+        "pubDate": "Tue, 27 May 2025 15:31:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Huge explosion at China chemical plant kills five - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sZHBOXy0talh5NHY3bU1ybGNtX1VRV3dUWkpHY2pBMDVvRDNhVWN5Z010ME5abFhVcXZaWnZkNWZNMEUyUmRsVnRpQXRNWFR0RDlOTlNsYw?oc=5",
+        "pubDate": "Tue, 27 May 2025 15:22:20 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Satellite Images Suggest a Russian Plan to Restart Seized Ukrainian Nuclear Plant - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMU5VT0NscF9wQTlIbGZkejRScG9EQzBuTGlQTXNNU09mU1lfekpvNXZ2VVNxMDg0M3lqSW9yTG9oUnhPSTBQMWVZYS1fS1BLS1JIUkJzam5YNi1ZS2M1X0JPZlA5U3pKZXFRTmV2dUxNRzU0SU9UUHRpVURXT1FJbFh1R0htXzUxMldMdGZRd1YyUQ?oc=5",
+        "pubDate": "Tue, 27 May 2025 10:20:12 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Democrats are looking to make gains in the South next year. It could be their last shot. - Politico",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDRYRTBTWTJ5cXdUeVlmUWFybjdVdEk1YkwteGRXbGtMY1NPNmNVSHNQRWhEanVDb2lLMGxsaG4zTjhFazNXU0dZTzhDWnhtN1E5eUd0VGpqOWxOSDF6WXJCanhhZXpDSTV6NHFCV0NjaU14d2RqTzJDVWVmWE9FbGcwVWloSkZ4YWxlVWIzYw?oc=5",
+        "pubDate": "Tue, 27 May 2025 09:55:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-27T17:10:08.162572+00:00"
+  }
+}
