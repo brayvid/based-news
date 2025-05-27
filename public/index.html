@@ -78,7 +78,7 @@
           const summaryDoc = parser.parseFromString(html, "text/html");
           const summaryContent = summaryDoc.body.innerHTML;
           document.getElementById("world-summary").innerHTML = `
-            <h2 class="summary-heading" style="margin-bottom: 0.5em;">Weekly Analysis</h2>
+            <h2 class="summary-heading" style="margin-bottom: 0.5em;">Weekly Review</h2>
             ${summaryContent}
           `;
 
