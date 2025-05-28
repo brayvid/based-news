@@ -1,52 +1,62 @@
 {
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "US and Russia clash in public as the Ukraine war heats up - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzg5Q00weXdZRXhJeENndXFRVU8tZFBZX3d6Y2sxMEFPWG41XzZfS3hjTnZRMi1HVjFnTTVMZE10amZxNlBXU2FUZzNrYnI3cWp2UGdmS1RGZTZieV91a2pSZUk4NVR3SHo3bWNVNXpQNHVERVdDdU5xNDY4Ny1vOXBYTEI1cjE3R0w1aUVra2ExUzdna29jNTRpdlIxeWFVczJOLVdKVkVPX0xPcDZrU1ZhTkJBWGdxa1QyZw?oc=5",
+        "pubDate": "Wed, 28 May 2025 08:19:05 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Hundreds of drones attack Russia with impacts, disruption reported in Moscow - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEI1SmtvNUxPVmpfNmVCa1duWkxqdG93aXlBYUdRVGxSREQtMjRnY2ZmcWJRMHhxUE1ZaDBScVJ2QlA5UlhEZGpuTEd1Q2laZnZxZkptdXptdW1JZ0ZvY0k5NF9lbTNlSGQ5Y3pZaWh0SjJTelB1d0hVMmRjRDRkT1Nuekc2YV9CeW9FYnNmMlYwTmZYa19Qa3NSUE5UNGFKd2pJanRKRzJ5N0Z5N21TbjJLWnAzRDUySTB0TNIBwgFBVV95cUxOeWZMWXZhTW9OdEl3TV93bU0zcHlYSHJ6Q3ZpN1NKZ3k5RnlrcmVUY2JncDNxX2xjZ2xSYmZBNE9wem5JelBkN1h5ZU5jR0VqbU5rNnV6aURJS3U3d3JDNUdLZUhSLUZveWRyc3B2UnB4OHo1dkMyNVM0S1NFRXhNOWJxMzhJc3M3NmJLdjRERDRzV25nTV8taXBYX1JYRnVmcTBLalhsaWdGUUVVM3JlTURvUDNRcHZWTEl0TFlqa1g5Zw?oc=5",
+        "pubDate": "Wed, 28 May 2025 07:24:52 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "The Fed Minutes Are Today. Here\u2019s What to Watch. - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVlxT2RNOTVobDEzekhhM3dNNEZ3NVpZUUJMeUsxVzl5U2tISU0zOTFtdkZtMXNRU0Jzd2NvWnZnZm85MGRQQTBGV3BKTEdHWjhTV3k1WUY4bF9aaWk2S2hMUWpzNHM0QTZweXNDdnFlYXpubWpIYzc2aE8yWTVSbFFqRmxFb0J0S2ZJUlR1SmIwQnJ4VTI4TlRBRmNQeG9jT2VLN0NuWWdPU1FfeW44eWd4YTZqblozVEFUQWRSRXJVdw?oc=5",
+        "pubDate": "Wed, 28 May 2025 06:51:13 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
+  },
+  "Renewable Energy": {
+    "articles": [
+      {
+        "title": "Key US clean energy charts that track Trump's tax bill impact: Maguire - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlhBMFZ6OE1UaG1tblRoSEEybkVqajhWcEhrMmg4VFZOUE05NVJpc3RIXzU2R094NHZnT3ZRMkRxWGVZbUpGc3lzeFpHcHVkaC0zaVR5ZHZMRDhUcEN5RTN2WjBOUk5JQlJwVEdHd1JFQlNvOFVISUlna2lGMG5rZy1hZ0JhRDljeWhuTmdjUFppSE51N01HUnJ3NmVQVTYwcHZzTXJNX3hDVmdFdHBhNWdhOVVXYkU2aVdqM1NuUFMwdw?oc=5",
+        "pubDate": "Wed, 28 May 2025 06:13:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
+  },
+  "Trade War": {
+    "articles": [
+      {
+        "title": "Temu's Chinese owner sees profits plunge as tariff war bites - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRk5ZN1hIbEQzcW52eWZWRTZIMDRVWjhwYU9sMmFsYVpCb25CRG55UXliRG9nM2lhU1lxWnhHanNPbW5kX2JYSDh0T0NNclVGZm9NZDlwbElpZ9IBX0FVX3lxTE04MTg0d1c3ZjM4S3VUQVJTb0VObGlaaDI1R2VlcXFnX2lBUDVJNHM5bDZ5ZGdHSlJtcHN3RTgxTTZEb1ZjNkVTVk5yenhMWE9vbU9YdWdFN1VEMmc0di13?oc=5",
+        "pubDate": "Wed, 28 May 2025 03:17:34 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "US halts student visa appointments and plans expanded social media vetting - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMmdQMjMtcENLblRhV0VOTWhlUE9mQnRqNnZXTklaNDZhcWxwX2VYWml4VDhyRWw4YVRuRWpwbE9NNHJvcHRpemZtZ0xCZFlBejRySU9zRWNCZ9IBX0FVX3lxTE1Mdy1rYmU1Q2xCZmJmU1Zyd0FTYlFVaFB5OEZyS0lsSVpKeGNaTXNmWHZlaE9SdVFOVEw3eGthX05USUVOQ3QyNDZwNDBJM1J2Q1ZxQWdVMmlWUUZsNEUw?oc=5",
-        "pubDate": "Wed, 28 May 2025 07:17:51 GMT"
+        "title": "Trump Asks Supreme Court to Let Him Send Migrants to South Sudan - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHNkbzRxUVY0eklkN0llQWE2Y29raVpKQWxaLXJaNzQyQlpfZkFneU1uWi1STTdsRTkwZlA4OWtFTmpnT2dCanUyTDN2QWFRdlhkc2FKdVJXZU82Wkotel95SnF1OGYybW0wWTdIcDV0TnpmcjRBbzJINkFJNGt0Tk93ZE9oSk96N0E?oc=5",
+        "pubDate": "Tue, 27 May 2025 21:48:23 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-28T08:08:45.334235+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "US lawmakers urge AI Safety Institute to counter Chinas growing AI threat - Tribune India",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2g5OUhyc3BSMkJGemYxckNjLUlnTVhWbzFWU1U1OTVUSnN6a04ybkhzRGl0X0ZxY3c0M0RTa2ItOWVGT3ZlUkxPNUxfRm9qamRBczVJcUVrS01ueVphN3JzdndvSmZZa2VwOVZJWnM2cE5ZcnVyUk5LLVc3WmlnRVFHZk1BU3lCdV94ckxPZkxwdFFjM3p1dG1oZHZPTG04cV9zNTI5UFduSURlRFNXX2VqdGnSAbgBQVVfeXFMTTZ6a2F0OVZ4VUhubnJCcG96U3VldTBOY2tHaTJZQm1BczV5Y2tGb1FCYUF1T1NwN1c5WnFmd0xpLXFEblpoUTFfR1F3T2lLdktYSHBDQlVLUWpwLWxyUXhjRzhwbGhxQU1lWE9Kel81N3FRazFOMVYtY3Vzd1E1M1AyNjlwQmZnNUx2dVBkNlMwTmpFRFYwN2pCc2ZLbmljY0I0R1ltZElyY040Wmp2dlZ1SXcxUkdKbA?oc=5",
-        "pubDate": "Wed, 28 May 2025 07:02:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-28T08:08:45.334235+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China hosts Pacific Island nations in bid to bolster diplomatic, trade ties - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWVpRC1pWVE4cGpfb2llWFViZktYd1VNM3diRUEwVG1mdWJFQ1ZNWGJQSVdXWWFnczdpQkdCNzFnbWdSVkFJOTlHeXVRUDVwcnpxc1k5MEdNTTVBc2dtMWFOVlpSUUJENUVqbWt6dlhiZjJkTm1wT1Q2eHktclR0cS1WNkJNRmdKM01vWmhGQW1GY0xNLU5qVXIteF9ONl8tYmxSamU5VXJsNzZuZU1NZWpKUWpBZ9IBuwFBVV95cUxQbnNZUGFCUDlRRC0wYTVMT0J3Q0Vqd2cyaHZzdXJvLVprM2QyZ09uai1XUE5KVzFaLV90M2pHUGNHM3ZEaGtNWEZabDA5MHNGckdhWlVlRThiSHR4SEliWTIyQnV4Wl9LcUtLYkVuZmdTN3dGeVhSS0Iyc1RNYk9KN1k5VFI0VnNVcmM5dU9pZV9NNm0tZHhFOFF1eVo1QmdpQUJQd1A4U3Q5N0Ffc2ZiSHJfSWg5TmZ3TlM4?oc=5",
-        "pubDate": "Wed, 28 May 2025 06:39:13 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-28T08:08:45.334235+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Trump Economic Advisor Kevin Hassett Says 'We'd Have Had A Recession' But Passing Of 'One Big Beautiful Bill' Helped Avoid The Downturn - Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczJ4eTNCakkwZl9tOWxFRjA3LXhoQkg0Q0ZvYlFiZ1llcE1maW1TbkV0UmlfcFBmb1RiZGdCV3ZhSGFvRFg4cWM5Y0ZWb2VCeVVTeVhzRlVObUZEUGFnSGVLVzZwcjN4S3U4dzNRUjV3U0dJZkF4Vy1aaU51djdfLWlZUldlbTJzMl96QnJrQXdLMXlOX2Y5UmZUa0I2ZFo2cGkwRE9HdHNtcnduNk8wS0VYcFZLYTdEY2k1TWN6UTZvMlFwQ2J6QXRnTTNaeHFqRDBqLWlETGpDZlROaFJCNmp2eFNSWXVWUGVza2ZTbkRYZVlsOUZn?oc=5",
-        "pubDate": "Wed, 28 May 2025 02:23:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-28T08:08:45.334235+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "D.C. Mayor Muriel Bowser Unveils Budget to Offset Congress Cuts - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUmxPTnNyZ3MyM1F2azZGb0gwMHM0ZUJNSEd0YzBfTWlZQmtJOGx4dFM3UnRpZDVGUzVHY0s2NnFRbk96aUM5dlg0UXhBYmZpc0NtWGtyWnZKQndIMEZpNkM4WC1YdHlNNVpSbUJmQy0?oc=5",
-        "pubDate": "Tue, 27 May 2025 20:40:28 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-28T08:08:45.334235+00:00"
+    "last_updated_ts": "2025-05-28T09:08:44.923438+00:00"
   }
 }
