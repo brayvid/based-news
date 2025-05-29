@@ -1,16 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration live updates: Trump to host South African president; House committee meets to advance budget bill - NBC News",
-      "pubDate": "Wed, 21 May 2025 13:35:18 GMT"
-    },
-    {
       "title": "South Africa's Ramaphosa visits Trump at the White House: live updates - BBC",
       "pubDate": "Wed, 21 May 2025 14:12:42 GMT"
-    },
-    {
-      "title": "Trump, Musk to confront South Africa's president on treatment of white Afrikaners - ABC News",
-      "pubDate": "Wed, 21 May 2025 13:52:30 GMT"
     },
     {
       "title": "Trump's big tax and policy bill stalls as GOP conservatives push for changes - USA Today",
@@ -639,6 +631,10 @@
     {
       "title": "Live updates: Federal court throws up latest roadblock to Trump\u2019s policy agenda - The Washington Post",
       "pubDate": "Thu, 29 May 2025 12:16:07 GMT"
+    },
+    {
+      "title": "Four tools at the Trump administration\u2019s disposal after a U.S. court blocks tariffs - CNBC",
+      "pubDate": "Thu, 29 May 2025 08:06:38 GMT"
     }
   ],
   "ukraine": [
@@ -885,13 +881,13 @@
     {
       "title": "Ukraine and Russia set for Istanbul talks second round on Monday - Euronews.com",
       "pubDate": "Thu, 29 May 2025 11:07:54 GMT"
+    },
+    {
+      "title": "Russia says no Ukraine response on proposal for more Istanbul talks - Al Jazeera",
+      "pubDate": "Thu, 29 May 2025 13:30:00 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "U.S. Recession Odds Fall to 35% from 45%, Shows Reuters Economist Poll - TipRanks",
-      "pubDate": "Wed, 21 May 2025 14:01:25 GMT"
-    },
     {
       "title": "BRP Inc.: Already Priced For An Extended Recession (NASDAQ:DOOO) - Seeking Alpha",
       "pubDate": "Wed, 21 May 2025 14:27:00 GMT"
@@ -1082,10 +1078,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Exclusive: Ukraine pitches tougher Russia sanctions plan to EU as US wavers - Reuters",
-      "pubDate": "Wed, 21 May 2025 13:47:02 GMT"
-    },
     {
       "title": "Finland \u2018preparing for the worst\u2019 as Russia expands military presence near border - The Guardian",
       "pubDate": "Wed, 21 May 2025 17:32:00 GMT"
@@ -1380,10 +1372,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Shopify launches AI tool that builds complete online stores from keywords - Reuters",
-      "pubDate": "Wed, 21 May 2025 14:06:14 GMT"
-    },
     {
       "title": "A new AI-based weather tool surpasses current forecasts - Science News",
       "pubDate": "Wed, 21 May 2025 15:00:00 GMT"
@@ -1899,6 +1887,10 @@
     {
       "title": "The CEO of a top AI startup gave a stark warning about the tech's impact on the labor market - Business Insider",
       "pubDate": "Thu, 29 May 2025 12:14:00 GMT"
+    },
+    {
+      "title": "Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections - Nature",
+      "pubDate": "Thu, 29 May 2025 12:42:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2078,10 +2070,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "How China\u2019s next five-year plan hones in on weak links laid bare by trade war - South China Morning Post",
-      "pubDate": "Wed, 21 May 2025 14:00:09 GMT"
-    },
     {
       "title": "Trade War Biggest Threat To Global Family Offices In 2025 \u2013 UBS Report - Wealth Briefing",
       "pubDate": "Wed, 21 May 2025 17:19:51 GMT"
@@ -2289,20 +2277,8 @@
   ],
   "china": [
     {
-      "title": "China \u2018gravely concerned\u2019 by Trump Golden Dome plan - The Hill",
-      "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
-    },
-    {
-      "title": "Israel Fired Warning Shots at Europe, China Diplomats by Mistake - Bloomberg.com",
-      "pubDate": "Wed, 21 May 2025 14:00:19 GMT"
-    },
-    {
       "title": "Roof of historic Ming Dynasty tower collapses in China - BBC",
       "pubDate": "Wed, 21 May 2025 14:52:17 GMT"
-    },
-    {
-      "title": "Days After India's Taliban Outreach, China Huddles With Pakistan, Afghanistan - NDTV",
-      "pubDate": "Wed, 21 May 2025 13:26:21 GMT"
     },
     {
       "title": "Nvidia CEO Jensen Huang Calls US Curbs on Advanced Chip Exports to China \u2018Failure\u2019 - Investopedia",
@@ -2799,6 +2775,10 @@
     {
       "title": "China Cut Drone Sales to West But Supplies Them to Russia, Ukraine Says - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 11:00:56 GMT"
+    },
+    {
+      "title": "Trump-Xi Truce Under Fire as China Hawks Target Students, Tech - Bloomberg.com",
+      "pubDate": "Thu, 29 May 2025 13:10:43 GMT"
     }
   ],
   "iran": [
@@ -2828,10 +2808,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump tax cuts, deregulation will 'fire up' the US economy: Kenny Polcari - Fox Business",
-      "pubDate": "Wed, 21 May 2025 13:23:00 GMT"
-    },
     {
       "title": "Tax cuts, trade clarity will boost U.S. economy in H2 2025, White House economist Hassett says (DXY:null) - Seeking Alpha",
       "pubDate": "Wed, 21 May 2025 16:10:00 GMT"
@@ -3175,6 +3151,10 @@
     {
       "title": "US economy shrank at 0.2% rate in first quarter - Financial Times",
       "pubDate": "Thu, 29 May 2025 12:31:18 GMT"
+    },
+    {
+      "title": "US Economy Shrinks 0.2%, Jobless Claims Rise to 240,000 - Bloomberg.com",
+      "pubDate": "Thu, 29 May 2025 12:59:01 GMT"
     }
   ],
   "terrorism": [
@@ -3243,6 +3223,10 @@
     {
       "title": "Cancer Drugs Cost More Than Ever. They Often Don\u2019t Extend Lives - Bloomberg.com",
       "pubDate": "Wed, 28 May 2025 21:00:00 GMT"
+    },
+    {
+      "title": "New Treatment for Aggressive Breast Cancer Achieves Astonishing 100% Survival Rate - SciTechDaily",
+      "pubDate": "Thu, 29 May 2025 08:24:12 GMT"
     }
   ],
   "democratic_party": [
@@ -3561,6 +3545,10 @@
     {
       "title": "Israel Intensely Bombards Gaza Amid Chaos Surrounding Aid Handouts - The New York Times",
       "pubDate": "Thu, 29 May 2025 12:05:26 GMT"
+    },
+    {
+      "title": "Protests held in Tel Aviv as Israel/Hamas war enters 600th day - CBS News",
+      "pubDate": "Thu, 29 May 2025 13:12:00 GMT"
     }
   ],
   "climate": [
@@ -3856,10 +3844,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Democratic Virginia congressman Gerry Connolly dies aged 75 - The Guardian",
-      "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
-    },
     {
       "title": "Musk was once a political force on X. Now he\u2019s back to business. - The Washington Post",
       "pubDate": "Wed, 21 May 2025 16:29:10 GMT"
