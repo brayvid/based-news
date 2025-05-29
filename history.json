@@ -1,16 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "Trump puts South Africa\u2019s president on the defensive over \u2018genocide\u2019 claims - Politico",
-      "pubDate": "Wed, 21 May 2025 17:26:27 GMT"
-    },
-    {
       "title": "Trump ambushes South African president in Oval Office with claims of 'white persecution': live updates - BBC",
       "pubDate": "Wed, 21 May 2025 18:42:42 GMT"
-    },
-    {
-      "title": "Why Donald Trump is blocking conservatives\u2019 attempts to get bigger Medicaid cuts - Politico",
-      "pubDate": "Wed, 21 May 2025 17:48:22 GMT"
     },
     {
       "title": "Trump\u2019s Truth Social attacks on Springsteen, Oprah and Beyonc\u00e9 aren't legally sound - MSNBC News",
@@ -19,10 +11,6 @@
     {
       "title": "Trump administration officially accepts jet from Qatar for use as Air Force One - NPR",
       "pubDate": "Wed, 21 May 2025 20:40:53 GMT"
-    },
-    {
-      "title": "Pentagon says it has accepted Qatar's gift of a luxury megajet for Trump's use - NBC News",
-      "pubDate": "Wed, 21 May 2025 18:11:20 GMT"
     },
     {
       "title": "Trump used a meeting with South Africa's president to advance fringe claims of \"genocide.\" Here\u2019s what to know - CNN",
@@ -631,6 +619,10 @@
     {
       "title": "Stocks climb after court blocks some of Trump's tariffs - ABC News",
       "pubDate": "Thu, 29 May 2025 13:43:29 GMT"
+    },
+    {
+      "title": "US Fed chair pushes back against Trump on interest rate cuts, unusually blunt statement says \u2013 US politics live - The Guardian",
+      "pubDate": "Thu, 29 May 2025 07:16:00 GMT"
     }
   ],
   "ukraine": [
@@ -1063,10 +1055,6 @@
   ],
   "russia": [
     {
-      "title": "Finland \u2018preparing for the worst\u2019 as Russia expands military presence near border - The Guardian",
-      "pubDate": "Wed, 21 May 2025 17:32:00 GMT"
-    },
-    {
       "title": "Putin aims to destroy Ukraine and has zero interest in a compromise peace - Atlantic Council",
       "pubDate": "Wed, 21 May 2025 20:51:00 GMT"
     },
@@ -1313,6 +1301,10 @@
     {
       "title": "Russia\u2019s deadly drone industry upgraded with Iran\u2019s help, report says - The Washington Post",
       "pubDate": "Thu, 29 May 2025 16:34:35 GMT"
+    },
+    {
+      "title": "Russia sent North Korea air defence system as thanks for troops - The Telegraph",
+      "pubDate": "Thu, 29 May 2025 16:02:43 GMT"
     }
   ],
   "israel": [
@@ -1360,10 +1352,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Alphabet gains after adding more AI functions to search - Yahoo Finance",
-      "pubDate": "Wed, 21 May 2025 18:01:30 GMT"
-    },
     {
       "title": "iPhone designer Jony Ive will join OpenAI to build AI-powered devices - The Washington Post",
       "pubDate": "Wed, 21 May 2025 18:42:30 GMT"
@@ -1867,6 +1855,10 @@
     {
       "title": "Nvidia earnings live: Nvidia beats on Q1 revenue, sees $8 billion impact from China export rules - Yahoo Finance",
       "pubDate": "Thu, 29 May 2025 10:39:01 GMT"
+    },
+    {
+      "title": "Will Machines Ever Truly Think? Richard Feynman Contemplates the Future of Artificial Intelligence (1985) - Open Culture",
+      "pubDate": "Thu, 29 May 2025 09:02:18 GMT"
     }
   ],
   "financial_markets": [
@@ -2038,10 +2030,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trade War Biggest Threat To Global Family Offices In 2025 \u2013 UBS Report - Wealth Briefing",
-      "pubDate": "Wed, 21 May 2025 17:19:51 GMT"
-    },
     {
       "title": "How China's Online Army Helped Beijing Fight US Tariff War - Newsweek",
       "pubDate": "Wed, 21 May 2025 19:17:52 GMT"
@@ -2241,6 +2229,10 @@
     {
       "title": "Trump tariff ruling completely changes the global trade war - BBC",
       "pubDate": "Thu, 29 May 2025 13:00:14 GMT"
+    },
+    {
+      "title": "Trump\u2019s tariffs ruled illegal: Will this end US trade war? - Al Jazeera",
+      "pubDate": "Thu, 29 May 2025 14:48:45 GMT"
     }
   ],
   "china": [
@@ -2747,6 +2739,10 @@
     {
       "title": "Despite tariff pause, U.S. and China continue bitter \u2018decoupling\u2019 - The Washington Post",
       "pubDate": "Thu, 29 May 2025 15:39:51 GMT"
+    },
+    {
+      "title": "Nvidia's China problem is big. Just not big enough to stop it - Quartz",
+      "pubDate": "Thu, 29 May 2025 17:21:00 GMT"
     }
   ],
   "iran": [
@@ -3127,6 +3123,10 @@
     {
       "title": "US Economy Shrinks 0.2% on Weaker Spending, Larger Trade Impact - Bloomberg",
       "pubDate": "Thu, 29 May 2025 13:10:22 GMT"
+    },
+    {
+      "title": "Video US economy contracts 0.2% amid Trump tariffs - ABC News",
+      "pubDate": "Thu, 29 May 2025 13:37:46 GMT"
     }
   ],
   "terrorism": [
@@ -3821,24 +3821,8 @@
   ],
   "us_politics": [
     {
-      "title": "In a tense meeting, Trump makes the South African president watch videos about 'white genocide' - NBC News",
-      "pubDate": "Wed, 21 May 2025 17:25:26 GMT"
-    },
-    {
-      "title": "Oman confirms new round of US-Iran talks despite enrichment dispute - Al Jazeera",
-      "pubDate": "Wed, 21 May 2025 17:49:20 GMT"
-    },
-    {
       "title": "Senate Democrats Ask for Inquiry Into Pam Bondi\u2019s Role in Qatar Jet Gifted to Trump - The New York Times",
       "pubDate": "Wed, 21 May 2025 20:00:05 GMT"
-    },
-    {
-      "title": "Billy Long: Trump\u2019s choice to lead IRS has a few tax issues of his own - The Times",
-      "pubDate": "Wed, 21 May 2025 17:35:42 GMT"
-    },
-    {
-      "title": "US House works all night as Trump's budget bill still on hold - BBC",
-      "pubDate": "Wed, 21 May 2025 17:29:17 GMT"
     },
     {
       "title": "Democrats warn GOP is weakening filibuster as Senate moves to nullify California\u2019s electric vehicle mandate - KTVZ",
@@ -4161,6 +4145,10 @@
     {
       "title": "US Department of Labor rescinds 2022 guidance on Cryptocurrency in 401(k) Plans - U.S. Department of Labor (.gov)",
       "pubDate": "Wed, 28 May 2025 13:31:01 GMT"
+    },
+    {
+      "title": "French Crypto Chiefs Step Up Security After String of Violent Kidnappings - The New York Times",
+      "pubDate": "Thu, 29 May 2025 12:26:00 GMT"
     }
   ],
   "electric-vehicle_battery": [
