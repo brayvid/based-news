@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Donald Trump Jr says on running for president: 'that calling is there' - Reuters",
-      "pubDate": "Wed, 21 May 2025 10:22:33 GMT"
-    },
-    {
       "title": "Trump administration live updates: Trump to host South African president; House committee meets to advance budget bill - NBC News",
       "pubDate": "Wed, 21 May 2025 13:35:18 GMT"
     },
@@ -631,6 +627,10 @@
     {
       "title": "Federal trade court strikes down Trump's reciprocal tariffs - CNBC",
       "pubDate": "Wed, 28 May 2025 23:52:00 GMT"
+    },
+    {
+      "title": "Trump administration to fight court tariff ruling as aide labels it a \u2018judicial coup\u2019 \u2013 US politics live - The Guardian",
+      "pubDate": "Thu, 29 May 2025 07:16:00 GMT"
     }
   ],
   "ukraine": [
@@ -1335,6 +1335,10 @@
     {
       "title": "US-Israel scheme dispenses Gaza aid as UN says 180,000 displaced in 10 days - Al Jazeera",
       "pubDate": "Tue, 27 May 2025 12:36:53 GMT"
+    },
+    {
+      "title": "Israel announces major expansion of settlements in occupied West Bank - BBC",
+      "pubDate": "Thu, 29 May 2025 08:06:33 GMT"
     }
   ],
   "inflation": [
@@ -1363,10 +1367,6 @@
     {
       "title": "Google AI Praised as Alphabet Stock Slips. A \u2018Great Opportunity\u2019 for \u2018Anyone Brave Enough.\u2019 - Barron's",
       "pubDate": "Wed, 21 May 2025 12:20:00 GMT"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence Stock Will Be More Valuable Than Nvidia, Apple, and Microsoft in 5 Years - Nasdaq",
-      "pubDate": "Wed, 21 May 2025 10:30:00 GMT"
     },
     {
       "title": "Shopify launches AI tool that builds complete online stores from keywords - Reuters",
@@ -1875,13 +1875,13 @@
     {
       "title": "Why AI Attaining AGI Will Spur A New Universal Natural Language That Reshapes Human Thinking - Forbes",
       "pubDate": "Thu, 29 May 2025 06:47:19 GMT"
+    },
+    {
+      "title": "Microsoft and OpenAI CEOs don't care about an AGI race anymore - Windows Central",
+      "pubDate": "Thu, 29 May 2025 10:01:28 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Morning Bid: Bad week for bonds - Reuters",
-      "pubDate": "Wed, 21 May 2025 11:05:46 GMT"
-    },
     {
       "title": "Bloomberg financial markets data service hit by outage - The Elkhart Truth",
       "pubDate": "Wed, 21 May 2025 11:31:17 GMT"
@@ -1889,10 +1889,6 @@
     {
       "title": "Stocks to Watch: Dow Falls 300 Points; Treasury Yields Rise in Global Bond Selloff \u2014 Live Updates - WSJ",
       "pubDate": "Wed, 21 May 2025 14:31:00 GMT"
-    },
-    {
-      "title": "Morgan Stanley turns bullish on U.S. stocks. Here\u2019s why it says the market lows have already been made. - MarketWatch",
-      "pubDate": "Wed, 21 May 2025 10:47:00 GMT"
     },
     {
       "title": "Stock Market Today: Dow drops more than 700 points, Nasdaq back in the red after lackluster Treasury auction; Bitcoin retreats from all-time intraday high - MarketWatch",
@@ -2071,10 +2067,6 @@
   ],
   "trade_war": [
     {
-      "title": "\u2018Special and different\u2019: Former envoys advocate for Hong Kong\u2019s unique global value - South China Morning Post",
-      "pubDate": "Wed, 21 May 2025 10:24:29 GMT"
-    },
-    {
       "title": "The U.S. is targeting Huawei\u2019s AI chips, and China says that could undermine an uneasy truce in the trade war - Fortune",
       "pubDate": "Wed, 21 May 2025 11:49:00 GMT"
     },
@@ -2085,10 +2077,6 @@
     {
       "title": "EU/US aircraft trade war imminent, key lawmaker warns - Euronews",
       "pubDate": "Wed, 21 May 2025 12:52:12 GMT"
-    },
-    {
-      "title": "The H Mart paradox: Why the beloved Asian grocer might be OK despite Trump\u2019s trade war - Fast Company",
-      "pubDate": "Wed, 21 May 2025 11:05:09 GMT"
     },
     {
       "title": "Trade War Biggest Threat To Global Family Offices In 2025 \u2013 UBS Report - Wealth Briefing",
@@ -2803,6 +2791,10 @@
     {
       "title": "China's biotech boom leaves U.S. playing catch-up - Axios",
       "pubDate": "Thu, 29 May 2025 09:30:15 GMT"
+    },
+    {
+      "title": "China launches spacecraft it says will return samples and yield 'groundbreaking discoveries' - ABC News",
+      "pubDate": "Thu, 29 May 2025 10:37:59 GMT"
     }
   ],
   "iran": [
@@ -2832,10 +2824,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Even After Moody\u2019s, \u2018US Is the US\u2019 for Sovereign Wealth Funds - Bloomberg.com",
-      "pubDate": "Wed, 21 May 2025 11:00:15 GMT"
-    },
     {
       "title": "Weak US economic outlook persists despite brief trade truce with China - Reuters",
       "pubDate": "Wed, 21 May 2025 13:05:17 GMT"
@@ -3179,6 +3167,10 @@
     {
       "title": "Markets welcome court ruling against Trump\u2019s tariffs as shares, US dollar and oil gain - The Boston Globe",
       "pubDate": "Thu, 29 May 2025 06:25:38 GMT"
+    },
+    {
+      "title": "US ruling that Trump tariffs are unlawful stirs relief and uncertainty - Yahoo",
+      "pubDate": "Thu, 29 May 2025 10:30:49 GMT"
     }
   ],
   "terrorism": [
@@ -3643,10 +3635,6 @@
   ],
   "ai_safety": [
     {
-      "title": "The Time Sam Altman Asked for a Countersurveillance Audit of OpenAI - WIRED",
-      "pubDate": "Wed, 21 May 2025 11:00:00 GMT"
-    },
-    {
       "title": "Build 2025 disrupted by protests \u2014 and Microsoft leaked private AI plans - Windows Central",
       "pubDate": "Wed, 21 May 2025 13:08:52 GMT"
     },
@@ -3860,10 +3848,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Elon Musk\u2019s pullback from politics comes after his last big investment was a flop - newspressnow.com",
-      "pubDate": "Wed, 21 May 2025 10:26:57 GMT"
-    },
     {
       "title": "Democratic Virginia congressman Gerry Connolly dies aged 75 - The Guardian",
       "pubDate": "Wed, 21 May 2025 13:16:00 GMT"
@@ -4387,6 +4371,10 @@
     {
       "title": "CISA Unveils Guide for Securing Data in AI Systems - Manufacturing.net",
       "pubDate": "Thu, 29 May 2025 04:50:15 GMT"
+    },
+    {
+      "title": "SentinelOne Stock Sinks After Earnings. What\u2019s Hitting the Cybersecurity Sector. - Barron's",
+      "pubDate": "Thu, 29 May 2025 10:53:00 GMT"
     }
   ],
   "solar_power": [
@@ -4427,6 +4415,10 @@
     {
       "title": "US, Argentina launching new \u2018alternative\u2019 to WHO - The Hill",
       "pubDate": "Tue, 27 May 2025 18:19:00 GMT"
+    },
+    {
+      "title": "A new variant of Covid-19 may be driving up cases in some parts of the world, WHO says - NBC News",
+      "pubDate": "Thu, 29 May 2025 08:29:44 GMT"
     }
   ],
   "taxes": [
