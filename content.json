@@ -1,42 +1,72 @@
 {
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Ukraine submits ceasefire plan, but Russia responds with escalation - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMU1xY19WcDVHdWFkYVliLXdkSFI5Z2VCVmRKZXZQS1VRdFJwcjQ2a2s2OF9xUFBiVlFqTGFGMHRkZ2trTkRsZUktZmFZT3RyaVFMQUUwQVE5a1F3Y1hUTG1KNUVTbFpyWHJTTUdLblNsQXYtVHlrb0dxZEFqUnkxRGNONmpGdVJleHBLY29TU3JXTXBBaXJ2eFpZNzVpX3pFZVVHNjdSSlRTcjTSAbABQVVfeXFMTlpyUkU1bU9QZVh6amRhVVgzNDJlN2JXbzR0THlkVmNucThURWt4ckpaUHpsNXB4azNmTkllRUlZYW50a3BGSG9OdkdGSHEtMllnQ21OMThoT1ZiN1JERlNvdWVGTi1hekJacXhrOENPMG1DakFnVnVtQjR3LXRiNjNRN1lpYncyT19YMjJXU3lsSEc0eDdnWDdON1MwZW1BS2ZDa1hhNmZGSEZFbmRwcmU?oc=5",
-        "pubDate": "Thu, 29 May 2025 08:53:27 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-29T09:09:59.748583+00:00"
-  },
   "China": {
     "articles": [
       {
-        "title": "China says it is concerned by EU probe into Chinese tyres - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0tNM3dybGdLVXhmRTljLUMzY29QRUNfT3hqejBKcUZVUDF3Z01zVlNoM1ZMSTBOLUVReDFoaE5HeFFOU1JJZUdIRHpTUXB5bXdzVXQtQk8xRm1QRUM4WlNpaU05bU9IeEdpSm80elJ1OTExX0Q4VEFmRTJremxXVlhYX3phMEF5dWVZWTV2aFlpb3hHbFhhZW9TUUJkNmMtaTBlOEN6Ulk?oc=5",
-        "pubDate": "Thu, 29 May 2025 07:41:04 GMT"
+        "title": "China's biotech boom leaves U.S. playing catch-up - Axios",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYWVTRWRrNDJCQUIxblAtQ0dhdU9rZWdZd3MySVptcFJyMHhOZnJmZHQ3UkVYS05KSV9yMW14bVltZXdIYllLcUNhb2QtTG5WSlNESVNudV9GT21yMFNreHNrWEJuWThkQmVqcVpDc3pJTGUz?oc=5",
+        "pubDate": "Thu, 29 May 2025 09:30:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-29T09:09:59.748583+00:00"
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
   },
-  "Iran": {
+  "Climate": {
     "articles": [
       {
-        "title": "US-Iran nuclear deal could be reached as soon as next round of talks, sources tell CNN - The Jerusalem Post",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84QlRyMFJQNzlKR2RwQUktM1pPSVQ2ZENldjBLaXljQ1dWS21fTmRyQzh0aWxCb0QzamFVS3pyWC1PRFpCUlg2NHdxT1FKQi1HRHBBVVpqWmdHV0RkakhN?oc=5",
-        "pubDate": "Thu, 29 May 2025 06:13:00 GMT"
+        "title": "Integrating landsat NDVI data with climate and anthropogenic factors reveals drivers of vegetation dynamics in the semi-arid Basin of Western China - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tN01aZGMwSHVRT2ZDN2Z2SFY2anNGdXZ4X1AtbWNiWU50QnZqbE8xb1lGR1R0ajBueHZmXy1FNElPOHFJQUtuWTk0ZW0ySlh6N0VZRnVSZ2JNV2ROaFhF?oc=5",
+        "pubDate": "Thu, 29 May 2025 09:27:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-29T09:09:59.748583+00:00"
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia Appears to Launch New Offensive in Ukraine Amid Peace Talks - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTVGMExxQXh0U0YxWlQzT1F2WEJvMXBEMl9iY1FzLW5nTkVvemd3MmpIMG00Z3hQMUVnS1d4S2FUZ1VxaFdEZndOalBHaFdLVlFUQmFZYzFOd1QzT0hPVlFnZHBDOW4tS3o1bmpZZDFTSHZHNnhNQWFkUHlrSGNuWmJVOWdIVG1D?oc=5",
+        "pubDate": "Thu, 29 May 2025 09:15:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
+  },
+  "Recession": {
+    "articles": [
+      {
+        "title": "Can a recession be avoided? It\u2019s a close call, economist Zandi says. - Inquirer.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1Mxa0JBbzQ2b1lRb2MtOXFaTE41QUJLa1ZnSEFpZWdvQzhwMWZRaXozWnpUYmVMTEJPdk43aHlDaDNMckpfV2xTSV8yWHZGUWNFUmRsVHpZX2RydTB0c2pDekhReUVqZmRlLXJRMW50OXhDUDFxRUxKbFg4MUE2Z3NtZnBuREVvd2xvMFg3UHN6ZzVTeXhENmJ3?oc=5",
+        "pubDate": "Thu, 29 May 2025 09:00:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
+  },
+  "Hamas": {
+    "articles": [
+      {
+        "title": "IDF demolishes long Hamas attack tunnel with several booby-trapped exits, kills operatives - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWU5Md2ZIbUlDc0pLZDlhWTJRMEItTFpRQ3R4VFZvUkh4cW50Mnl4UUZTcllGNm9pWXhCV3VNMHItaGgwNFFXcVNXeGNaMzdSMTZRbEFVbVRlUVFFeW5Ya3owX0hvaEQ2a3NlWXBFY2owYloyMTVlbUh5Q1RlcHFzOHh2Z3owNTNRTHR5ZFNjSU05akEtQUgySlJpSFhGWnZBRHhUT3plNnRzdV81dWFzZVUzMG5qc0VTNGppYlZTSFRQemFMb3o5MHZwblQzZ2pR?oc=5",
+        "pubDate": "Thu, 29 May 2025 08:25:46 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Social Security plans to add artificial intelligence to phone systems, commissioner says - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDdNeGN2T1ZsbEtuSEhMTnpfcVRTb05LYUNjeWEyTnlNMkpuaTF2OGM1a0FYcTFORnU2b3hRTFo0VW14aGhNM19KRlBLM04zanpCbDhvd05TVF9fdkt4NXJUMUFRTjBIWEhzMEVzQkJiT3RaLTN2bk1MWl9RV3BGZFRVQ25Nek92RG40UmsxTU0yUzJha2daTmduNnNpTnR5REpNT0k1b1ZRQVV1UDAxTTNkZlRkelgy0gG-AUFVX3lxTE5nSUJHLTBYVFlWQ3lNT0plQnFKSExOblo5eDJiNGVlSW54VTFzeFpSNEg4MEwyMGlGc1p0ZnliNlRSNDJOcThWbi13VTBBU0lnLUJuQXd2TllWT3BCYUNTb0NkRW9RVThrUzlVTDY0Mmlsal9tUHVHbEE0ZTlXN3VYWEdDeS1uSWtPMFFnRVRvQkNGa3FfT3c0WkR3c2NuNloxQW1vMjZTY2hoalkwQTg0aDRTX0E4NldvWk93T0E?oc=5",
-        "pubDate": "Thu, 29 May 2025 00:39:00 GMT"
+        "title": "Why AI Attaining AGI Will Spur A New Universal Natural Language That Reshapes Human Thinking - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFBzcHVqTDJ0NEVvZjVCT1hCem1MOGplQmNMZENNLUVMOUg1M2VWQ2dYa1ExSkZRZ0t1Q3FiclJkc1RRYXYwTUZWNGtpT20zUnJKSHdISUkzQThTbE9peW5JTlEtZC1pdEQwclZnaTVOSlpkZVJIZmg3MV83SEdTSFgtODY0RTlla0xDM1hVRDFGcUxJX1dVdUtRZV9yc1V6OUE2M0M3dXYtUGhvV2RFRmFJTDdaZjJMTy1MVms3bTQ4UFhKT0EwMHU2MS1qR04xSWgxVEVsNHlvQ3pE?oc=5",
+        "pubDate": "Thu, 29 May 2025 06:47:19 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-29T09:09:59.748583+00:00"
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Federal trade court strikes down Trump's reciprocal tariffs - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXlmWmpVMGtPbW1zaWJ3ODA4OWY3SFlvZVJTeUhSM0wzUW9NRHloUFN0cWt0UUp5WXdkUVVXZ2R0cmphTnJDd0txX1lsT05vcnR6TXo5MDhJaFlPSUx0Y24xcUhhZ2JBUjRhZVNBVmNRT19rekk2cGFLemRXOTNsS2NhWlAxNzDSAYwBQVVfeXFMTnpWUnNLLUJ4UlhCMHoxOVFhY2lwOXZ1RWhwWEgzbHZVaGtlT1dzUXJUcXJWMXJlQVhNWFVtd253TThzdmxWTWFTeldnWU1TLXRaQnFPd2ZWbDBrOGd1VnZHRlpLa0VyMlBjMlZZeUZqWDBETW5ldURrSG0yWXZwU2EzMFlfdDdRNU9VLTk?oc=5",
+        "pubDate": "Wed, 28 May 2025 23:52:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-29T10:08:44.963046+00:00"
   }
 }
