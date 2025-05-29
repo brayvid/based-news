@@ -619,6 +619,10 @@
     {
       "title": "Live updates: Trump\u2019s tariffs can continue for now, appeals court rules - The Washington Post",
       "pubDate": "Thu, 29 May 2025 20:18:42 GMT"
+    },
+    {
+      "title": "Asked About \u2018TACO\u2019 and Tariffs, Trump Lashes Out at Reporter - The New York Times",
+      "pubDate": "Thu, 29 May 2025 15:10:34 GMT"
     }
   ],
   "ukraine": [
@@ -1353,10 +1357,6 @@
       "pubDate": "Wed, 21 May 2025 23:23:00 GMT"
     },
     {
-      "title": "Shopify Debuts AI-Powered Store Builder for Merchants - PYMNTS.com",
-      "pubDate": "Wed, 21 May 2025 21:56:15 GMT"
-    },
-    {
       "title": "Santa Clara County turns uses artificial intelligence sensors to help detect fires early before major destruction - ABC7 San Francisco",
       "pubDate": "Thu, 22 May 2025 01:33:11 GMT"
     },
@@ -1843,6 +1843,10 @@
     {
       "title": "New report details China\u2019s push to dominate artificial intelligence - SpaceNews",
       "pubDate": "Thu, 29 May 2025 18:16:41 GMT"
+    },
+    {
+      "title": "Humans Have 4 Years Before AI Can Do Everything They Can Do, OpenAI COO Says - TheWrap",
+      "pubDate": "Thu, 29 May 2025 20:53:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1929,10 +1933,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump, Ramaphosa Debate \u2018White Genocide\u2019 Allegations at White House - Foreign Policy",
-      "pubDate": "Wed, 21 May 2025 22:04:51 GMT"
-    },
-    {
       "title": "Under Trump, U.S. Foreign Policy Stopped Preaching and Started Performing - Modern Ghana",
       "pubDate": "Thu, 22 May 2025 13:39:25 GMT"
     },
@@ -2001,10 +2001,6 @@
     {
       "title": "Senator Murray Presses Trump\u2019s Small Business Administrator on Canceled Grants, Immense Costs of Trump\u2019s Trade War for Small Businesses - Senator Patty Murray (.gov)",
       "pubDate": "Wed, 21 May 2025 23:08:53 GMT"
-    },
-    {
-      "title": "How Trump's trade war impacts Hollywood: Film tariffs' impact on movie business - 9News",
-      "pubDate": "Wed, 21 May 2025 21:57:00 GMT"
     },
     {
       "title": "Family offices brace for trade war and tilt portfolios toward liquidity and AI - Citywire",
@@ -2189,16 +2185,16 @@
     {
       "title": "Trump\u2019s tariffs ruled illegal: Will this end US trade war? - Al Jazeera",
       "pubDate": "Thu, 29 May 2025 14:48:45 GMT"
+    },
+    {
+      "title": "Trump tariffs back on as appeals court rules in president\u2019s favor: Latest updates - The Independent",
+      "pubDate": "Thu, 29 May 2025 21:30:00 GMT"
     }
   ],
   "china": [
     {
       "title": "Top CIA official says China \"is the existential threat to American security\" - Axios",
       "pubDate": "Wed, 21 May 2025 22:17:14 GMT"
-    },
-    {
-      "title": "Lutnick: Trump \"felt horrible\" about impact of China tariffs - Axios",
-      "pubDate": "Wed, 21 May 2025 22:10:48 GMT"
     },
     {
       "title": "China's BYD sold 213,325 vehicles with smart-assisted driving features in April - Reuters",
@@ -2707,6 +2703,10 @@
     {
       "title": "Court Slashes Trump Tariffs On China, Apple And The World \u2014 For Now; S&P 500 Fades - Investor's Business Daily",
       "pubDate": "Thu, 29 May 2025 18:05:00 GMT"
+    },
+    {
+      "title": "Trump Makes a New Push to \u2018Decouple\u2019 U.S. From China - The New York Times",
+      "pubDate": "Thu, 29 May 2025 21:11:37 GMT"
     }
   ],
   "iran": [
@@ -3163,14 +3163,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Honestly, I Am So Sick of Hearing Democrats Apologize for Their Joe Biden Mistake - Slate Magazine",
-      "pubDate": "Wed, 21 May 2025 21:53:00 GMT"
-    },
-    {
-      "title": "\u2018He was Fairfax\u2019: Va. Rep. Gerry Connolly, Democratic political fixture, dies at 75 - WTOP",
-      "pubDate": "Wed, 21 May 2025 21:23:10 GMT"
-    },
-    {
       "title": "As House members run for Senate, their seats become prime targets - Roll Call",
       "pubDate": "Thu, 22 May 2025 00:06:00 GMT"
     },
@@ -3571,6 +3563,10 @@
     {
       "title": "The Growing Legal Battle Over Climate Change - The New York Times",
       "pubDate": "Thu, 29 May 2025 20:22:39 GMT"
+    },
+    {
+      "title": "Wrongful death lawsuit says Big Oil contributed to heat wave and woman's death - The Washington Post",
+      "pubDate": "Thu, 29 May 2025 21:59:04 GMT"
     }
   ],
   "ai_safety": [
@@ -3789,6 +3785,10 @@
     {
       "title": "Scoop: AI Safety Institute to be renamed Center for AI Safety and Leadership - Axios",
       "pubDate": "Thu, 29 May 2025 19:20:20 GMT"
+    },
+    {
+      "title": "As AI models start exhibiting bad behavior, it\u2019s time to start thinking harder about AI safety - Fast Company",
+      "pubDate": "Thu, 29 May 2025 18:20:23 GMT"
     }
   ],
   "us_politics": [
@@ -4611,6 +4611,12 @@
     {
       "title": "Scientists scramble to complete elusive limitless energy device using first-of-its-kind technology: 'A race to lead the world' - The Cool Down",
       "pubDate": "Wed, 28 May 2025 23:15:00 GMT"
+    }
+  ],
+  "computing": [
+    {
+      "title": "Energy Department Unveils New Supercomputer That Merges With A.I. - The New York Times",
+      "pubDate": "Thu, 29 May 2025 19:45:06 GMT"
     }
   ]
 }
