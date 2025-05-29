@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "South Africa's Ramaphosa visits Trump at the White House: live updates - BBC",
-      "pubDate": "Wed, 21 May 2025 14:12:42 GMT"
-    },
-    {
       "title": "Trump's big tax and policy bill stalls as GOP conservatives push for changes - USA Today",
       "pubDate": "Wed, 21 May 2025 16:12:10 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Four tools at the Trump administration\u2019s disposal after a U.S. court blocks tariffs - CNBC",
       "pubDate": "Thu, 29 May 2025 08:06:38 GMT"
+    },
+    {
+      "title": "Stocks climb after court blocks some of Trump's tariffs - ABC News",
+      "pubDate": "Thu, 29 May 2025 13:43:29 GMT"
     }
   ],
   "ukraine": [
@@ -888,10 +888,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "BRP Inc.: Already Priced For An Extended Recession (NASDAQ:DOOO) - Seeking Alpha",
-      "pubDate": "Wed, 21 May 2025 14:27:00 GMT"
-    },
     {
       "title": "Hiring Newly-Minted Real Estate Agents in a Recession - firsttuesday Journal",
       "pubDate": "Wed, 21 May 2025 15:55:17 GMT"
@@ -1321,6 +1317,10 @@
     {
       "title": "Pressure mounting on reluctant Trump to impose sanctions on Russia - Reuters",
       "pubDate": "Thu, 29 May 2025 10:10:08 GMT"
+    },
+    {
+      "title": "Africans are building Putin\u2019s suicide drones - The Economist",
+      "pubDate": "Thu, 29 May 2025 12:48:24 GMT"
     }
   ],
   "israel": [
@@ -1372,10 +1372,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A new AI-based weather tool surpasses current forecasts - Science News",
-      "pubDate": "Wed, 21 May 2025 15:00:00 GMT"
-    },
     {
       "title": "Alan Turing papers saved from shredder could fetch \u00a3150,000 - The Guardian",
       "pubDate": "Wed, 21 May 2025 15:51:00 GMT"
@@ -1891,13 +1887,13 @@
     {
       "title": "Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections - Nature",
       "pubDate": "Thu, 29 May 2025 12:42:00 GMT"
+    },
+    {
+      "title": "Nvidia earnings live: Nvidia beats on Q1 revenue, sees $8 billion impact from China export rules - Yahoo Finance",
+      "pubDate": "Thu, 29 May 2025 10:39:01 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks to Watch: Dow Falls 300 Points; Treasury Yields Rise in Global Bond Selloff \u2014 Live Updates - WSJ",
-      "pubDate": "Wed, 21 May 2025 14:31:00 GMT"
-    },
     {
       "title": "Stock Market Today: Dow drops more than 700 points, Nasdaq back in the red after lackluster Treasury auction; Bitcoin retreats from all-time intraday high - MarketWatch",
       "pubDate": "Wed, 21 May 2025 18:51:00 GMT"
@@ -2273,13 +2269,13 @@
     {
       "title": "Trump tariffs live updates: India proposes steep US tariff cuts as nations race to cut deals - Yahoo Finance",
       "pubDate": "Wed, 28 May 2025 11:48:08 GMT"
+    },
+    {
+      "title": "Trump tariff ruling completely changes the global trade war - BBC",
+      "pubDate": "Thu, 29 May 2025 13:00:14 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Roof of historic Ming Dynasty tower collapses in China - BBC",
-      "pubDate": "Wed, 21 May 2025 14:52:17 GMT"
-    },
     {
       "title": "Nvidia CEO Jensen Huang Calls US Curbs on Advanced Chip Exports to China \u2018Failure\u2019 - Investopedia",
       "pubDate": "Wed, 21 May 2025 16:19:26 GMT"
@@ -2779,6 +2775,10 @@
     {
       "title": "Trump-Xi Truce Under Fire as China Hawks Target Students, Tech - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 13:10:43 GMT"
+    },
+    {
+      "title": "Export Controls Are Endangering the Fragile U.S.-China Truce - The New York Times",
+      "pubDate": "Thu, 29 May 2025 09:33:41 GMT"
     }
   ],
   "iran": [
@@ -3155,6 +3155,10 @@
     {
       "title": "US Economy Shrinks 0.2%, Jobless Claims Rise to 240,000 - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 12:59:01 GMT"
+    },
+    {
+      "title": "US Economy Contracts By 0.2% In Q1, Labor Market Shows Signs Of Cracks As Jobless Claims Surge - Benzinga",
+      "pubDate": "Thu, 29 May 2025 13:35:30 GMT"
     }
   ],
   "terrorism": [
@@ -3230,10 +3234,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Democratic challenger defeats Pittsburgh mayor in a primary after a clash over the party's future - NBC News",
-      "pubDate": "Wed, 21 May 2025 14:18:00 GMT"
-    },
     {
       "title": "Ousted Fort Bend County Democratic Party chair sues in attempt to be reinstated - Houston Public Media",
       "pubDate": "Wed, 21 May 2025 18:42:37 GMT"
@@ -4139,6 +4139,10 @@
     {
       "title": "US trade court rules Trump exceeded his authority with \u2018Liberation Day\u2019 tariffs - The Independent",
       "pubDate": "Thu, 29 May 2025 00:53:00 GMT"
+    },
+    {
+      "title": "Supreme Court Curbs Scope of Environmental Reviews - The New York Times",
+      "pubDate": "Thu, 29 May 2025 14:28:39 GMT"
     }
   ],
   "cryptocurrency": [
