@@ -611,6 +611,10 @@
     {
       "title": "Trump appeals court\u2019s tariff block as US cracks down on Chinese student visas - CNN",
       "pubDate": "Thu, 29 May 2025 03:04:00 GMT"
+    },
+    {
+      "title": "US trade court blocks Trump's sweeping tariffs in blow to his trade policies - BBC",
+      "pubDate": "Thu, 29 May 2025 02:05:54 GMT"
     }
   ],
   "ukraine": [
@@ -844,10 +848,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "This Warren Buffett Dividend Stock Looks Attractive for a Recession-Proof Portfolio - Insider Monkey",
-      "pubDate": "Wed, 21 May 2025 04:40:33 GMT"
-    },
     {
       "title": "Recession Odds Slip Below 40% On Crypto Betting Marketplace As Trump Tariff Fears Fade After China Deal - Benzinga",
       "pubDate": "Wed, 21 May 2025 05:32:22 GMT"
@@ -1839,16 +1839,16 @@
     {
       "title": "The OpenAI empire - podcast - The Guardian",
       "pubDate": "Thu, 29 May 2025 02:02:15 GMT"
+    },
+    {
+      "title": "Artificial intelligence used to create lifelike court \u2018reporters\u2019 - NBC News",
+      "pubDate": "Wed, 28 May 2025 23:49:14 GMT"
     }
   ],
   "financial_markets": [
     {
       "title": "BNP Paribas Financial Markets Increases Position in British American Tobacco p.l.c. (NYSE:BTI) - MarketBeat",
       "pubDate": "Wed, 21 May 2025 05:52:47 GMT"
-    },
-    {
-      "title": "Asset Tokenization in Financial Markets: The Next Generation of Value Exchange - The World Economic Forum",
-      "pubDate": "Wed, 21 May 2025 04:24:26 GMT"
     },
     {
       "title": "USD/JPY, USD/CHF: Cracks Widen After Trend Breaks - FOREX.com",
@@ -2779,6 +2779,10 @@
     {
       "title": "China launches landmark mission to retrieve pristine asteroid samples - Al Jazeera",
       "pubDate": "Thu, 29 May 2025 03:50:26 GMT"
+    },
+    {
+      "title": "China Set to Reach Peak Emissions Before 2030, Ex-Official Says - Bloomberg.com",
+      "pubDate": "Thu, 29 May 2025 04:23:00 GMT"
     }
   ],
   "iran": [
@@ -3533,6 +3537,10 @@
     {
       "title": "Israel: Hamas leader killed during military operation in Gaza - NBC News",
       "pubDate": "Wed, 28 May 2025 23:37:27 GMT"
+    },
+    {
+      "title": "Israel PM says Hamas's Gaza chief Mohammed Sinwar has been killed - BBC",
+      "pubDate": "Wed, 28 May 2025 18:29:53 GMT"
     }
   ],
   "climate": [
@@ -3595,6 +3603,10 @@
     {
       "title": "German court rejects Peruvian farmer's landmark climate case - BBC",
       "pubDate": "Wed, 28 May 2025 12:15:03 GMT"
+    },
+    {
+      "title": "Court throws out Peruvian farmer\u2019s climate lawsuit against energy giant - The Washington Post",
+      "pubDate": "Thu, 29 May 2025 02:20:36 GMT"
     }
   ],
   "ai_safety": [
@@ -4347,6 +4359,10 @@
     {
       "title": "CISA, NSA, FBI Issue New Guidelines on AI Data Security - CPO Magazine",
       "pubDate": "Wed, 28 May 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: Cybersecurity provider Netskope taps Morgan Stanley for US IPO, sources say - Reuters",
+      "pubDate": "Wed, 28 May 2025 20:06:06 GMT"
     }
   ],
   "solar_power": [
@@ -4641,6 +4657,12 @@
     {
       "title": "Scientists use sound waves to unlock the secrets of quantum physics - The Brighter Side of News",
       "pubDate": "Wed, 28 May 2025 20:07:00 GMT"
+    }
+  ],
+  "fusion_power": [
+    {
+      "title": "Scientists scramble to complete elusive limitless energy device using first-of-its-kind technology: 'A race to lead the world' - The Cool Down",
+      "pubDate": "Wed, 28 May 2025 23:15:00 GMT"
     }
   ]
 }
