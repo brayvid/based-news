@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump used a meeting with South Africa's president to advance fringe claims of \"genocide.\" Here\u2019s what to know - CNN",
-      "pubDate": "Thu, 22 May 2025 00:04:00 GMT"
-    },
-    {
       "title": "Trump has turned the GOP toward populism. But the megabill mostly helps the wealthy. - Politico",
       "pubDate": "Thu, 22 May 2025 01:00:00 GMT"
     },
@@ -623,6 +619,10 @@
     {
       "title": "Trump commutes gang leader's sentence in flurry of pardons - BBC",
       "pubDate": "Thu, 29 May 2025 15:41:56 GMT"
+    },
+    {
+      "title": "10 times Trump has threatened, then backtracked on, tariffs as 'TACO trade' jab gains traction - NBC News",
+      "pubDate": "Thu, 29 May 2025 22:46:07 GMT"
     }
   ],
   "ukraine": [
@@ -881,6 +881,10 @@
     {
       "title": "Russia Accuses Serbia of Backstabbing With Arms Sales to Ukraine - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 19:48:51 GMT"
+    },
+    {
+      "title": "At UN, US says Russia's Putin should take Ukraine ceasefire deal - Reuters",
+      "pubDate": "Thu, 29 May 2025 22:37:15 GMT"
     }
   ],
   "recession": [
@@ -1348,10 +1352,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Judge Considers Sanctions Against Attorneys in Prison Case for Using AI in Court Filings - U.S. News & World Report",
-      "pubDate": "Wed, 21 May 2025 23:23:00 GMT"
-    },
     {
       "title": "Santa Clara County turns uses artificial intelligence sensors to help detect fires early before major destruction - ABC7 San Francisco",
       "pubDate": "Thu, 22 May 2025 01:33:11 GMT"
@@ -1847,6 +1847,10 @@
     {
       "title": "The Times and Amazon Announce an A.I. Licensing Deal - The New York Times",
       "pubDate": "Thu, 29 May 2025 17:55:12 GMT"
+    },
+    {
+      "title": "Why this leading AI CEO is warning the tech could cause mass unemployment - CNN",
+      "pubDate": "Thu, 29 May 2025 22:04:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2185,20 +2189,16 @@
     {
       "title": "Trump tariffs back on as appeals court rules in president\u2019s favor: Latest updates - The Independent",
       "pubDate": "Thu, 29 May 2025 21:30:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s use of emergency law to enact tariffs imperils trade war strategy - The Washington Post",
+      "pubDate": "Thu, 29 May 2025 23:48:44 GMT"
     }
   ],
   "china": [
     {
       "title": "China's BYD sold 213,325 vehicles with smart-assisted driving features in April - Reuters",
       "pubDate": "Thu, 22 May 2025 01:02:57 GMT"
-    },
-    {
-      "title": "Baidu Reports Surprise Revenue Jump During China\u2019s AI Battle - Bloomberg",
-      "pubDate": "Wed, 21 May 2025 23:33:31 GMT"
-    },
-    {
-      "title": "China threatens legal action on anyone supporting US ban on Huawei's chips - PhoneArena",
-      "pubDate": "Thu, 22 May 2025 00:07:35 GMT"
     },
     {
       "title": "NDTV Ground Report: China's Unconventional War Against India On Northeast Border - NDTV",
@@ -3079,6 +3079,10 @@
     {
       "title": "Video US economy contracts 0.2% amid Trump tariffs - ABC News",
       "pubDate": "Thu, 29 May 2025 13:37:46 GMT"
+    },
+    {
+      "title": "U.S. GDP Got an Update Thursday. This Is What to Know. - Barron's",
+      "pubDate": "Thu, 29 May 2025 13:54:00 GMT"
     }
   ],
   "terrorism": [
@@ -3154,10 +3158,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "As House members run for Senate, their seats become prime targets - Roll Call",
-      "pubDate": "Thu, 22 May 2025 00:06:00 GMT"
-    },
     {
       "title": "South Korean presidential election: Democrat frontrunner\u2019s right-wing agenda - World Socialist Web Site",
       "pubDate": "Thu, 22 May 2025 02:57:58 GMT"
@@ -3343,6 +3343,10 @@
     {
       "title": "The Risky \u2018Side Launch\u2019 That Doomed Kim Jong Un\u2019s New Warship - WSJ",
       "pubDate": "Thu, 29 May 2025 03:00:40 GMT"
+    },
+    {
+      "title": "US and allies accuse North Korea and Russia of flagrantly violating UN sanctions in military deals - AP News",
+      "pubDate": "Fri, 30 May 2025 00:03:00 GMT"
     }
   ],
   "hamas": [
@@ -3566,10 +3570,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Chatbot Jailbreaking Security Threat is \u2018Immediate, Tangible, and Deeply Concerning\u2019 - TechRepublic",
-      "pubDate": "Thu, 22 May 2025 00:05:06 GMT"
-    },
     {
       "title": "Oman unveils new national AI safety and ethics policy - ZAWYA",
       "pubDate": "Thu, 22 May 2025 06:02:32 GMT"
@@ -4071,6 +4071,10 @@
     {
       "title": "Judges say Trump\u2019s tariffs are unlawful. He has stayed silent - The Times",
       "pubDate": "Thu, 29 May 2025 13:00:16 GMT"
+    },
+    {
+      "title": "The Guardian view on Trump\u2019s tariffs: the courts have drawn a line. So must Congress | Editorial - The Guardian",
+      "pubDate": "Thu, 29 May 2025 18:44:00 GMT"
     }
   ],
   "cryptocurrency": [
