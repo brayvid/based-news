@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Key committee advances Trump's sweeping policy bill to House floor after meeting for almost 22 hours - CNN",
-      "pubDate": "Thu, 22 May 2025 03:21:00 GMT"
-    },
-    {
-      "title": "World leaders have a huge new problem: Trump\u2019s Oval Office smackdowns - CNN",
-      "pubDate": "Thu, 22 May 2025 04:08:00 GMT"
-    },
-    {
       "title": "Trump agenda bill clears critical hurdle as GOP leaders push ahead to full House vote - CNN",
       "pubDate": "Thu, 22 May 2025 06:46:00 GMT"
     },
@@ -623,6 +615,10 @@
     {
       "title": "Trump tariffs reinstated by appeals court for now - CNBC",
       "pubDate": "Thu, 29 May 2025 19:12:40 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: Appeals court allows tariffs to stay in effect after trade court rebuke - Yahoo Finance",
+      "pubDate": "Thu, 29 May 2025 19:41:47 GMT"
     }
   ],
   "ukraine": [
@@ -885,6 +881,10 @@
     {
       "title": "At UN, US says Russia's Putin should take Ukraine ceasefire deal - Reuters",
       "pubDate": "Thu, 29 May 2025 22:37:15 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Flood of North Korean arms to Russia, say US, Japan and others - The Guardian",
+      "pubDate": "Fri, 30 May 2025 00:21:00 GMT"
     }
   ],
   "recession": [
@@ -1047,6 +1047,10 @@
     {
       "title": "Recession Forecasts Jump After Herds Of Panicked Economists Start Running Off Cliffs - The Onion",
       "pubDate": "Thu, 29 May 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s tariffs in jeopardy: What it means for prices and a recession - CNN",
+      "pubDate": "Thu, 29 May 2025 19:58:00 GMT"
     }
   ],
   "russia": [
@@ -1301,10 +1305,6 @@
       "pubDate": "Thu, 22 May 2025 06:04:36 GMT"
     },
     {
-      "title": "Israel preparing to strike Iran fast if Trump's nuclear talks break down - Axios",
-      "pubDate": "Thu, 22 May 2025 03:31:06 GMT"
-    },
-    {
       "title": "LIVE: Israel bombs Gaza City school, death toll nears 54,000 - Al Jazeera",
       "pubDate": "Mon, 26 May 2025 11:13:58 GMT"
     },
@@ -1340,10 +1340,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI learns how vision and sound are connected, without human intervention - MIT News",
-      "pubDate": "Thu, 22 May 2025 04:00:00 GMT"
-    },
     {
       "title": "54% of US Workers Wary of GenAI\u2019s Impact on Jobs, Report Finds - PYMNTS.com",
       "pubDate": "Thu, 22 May 2025 08:03:59 GMT"
@@ -1987,10 +1983,6 @@
   ],
   "trade_war": [
     {
-      "title": "Tariff war: Europe open to trade concessions but draw the line at importing America\u2019s hormone treated \u2018beautiful beef\u2019 - Genetic Literacy Project",
-      "pubDate": "Thu, 22 May 2025 04:06:54 GMT"
-    },
-    {
       "title": "US Stocks \u2018Astronomically Complacent\u2019 About Trade War, CLSA Says - Bloomberg.com",
       "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
     },
@@ -2169,13 +2161,13 @@
     {
       "title": "Trump's tariff tally: $34 billion and counting, global companies say - Reuters",
       "pubDate": "Thu, 29 May 2025 18:53:47 GMT"
+    },
+    {
+      "title": "The trade war is rattling global business travel \u2014 4 charts show how - CNBC",
+      "pubDate": "Thu, 29 May 2025 23:59:03 GMT"
     }
   ],
   "china": [
-    {
-      "title": "NDTV Ground Report: China's Unconventional War Against India On Northeast Border - NDTV",
-      "pubDate": "Thu, 22 May 2025 04:00:46 GMT"
-    },
     {
       "title": "Watch China Shows Off Its Tech Advances Amid Huawei Tensions - Bloomberg.com",
       "pubDate": "Thu, 22 May 2025 05:55:00 GMT"
@@ -2697,6 +2689,10 @@
     {
       "title": "US-Iran nuclear deal could be reached as soon as next round of talks, sources tell CNN - The Jerusalem Post",
       "pubDate": "Thu, 29 May 2025 06:13:00 GMT"
+    },
+    {
+      "title": "US-Iran nuclear talks benefit from Trump\u2019s desire for a peace deal - The Christian Science Monitor",
+      "pubDate": "Thu, 29 May 2025 19:33:15 GMT"
     }
   ],
   "us_economy": [
@@ -3323,6 +3319,10 @@
     {
       "title": "North Korea shipped minions, munitions to Russia \u2014 here's what the hermit state got in return - New York Post",
       "pubDate": "Thu, 29 May 2025 21:41:00 GMT"
+    },
+    {
+      "title": "North Korea's Kim Jong Un leads meeting on strengthening military, inspects artillery drill - Reuters",
+      "pubDate": "Thu, 29 May 2025 22:44:30 GMT"
     }
   ],
   "hamas": [
@@ -3769,13 +3769,13 @@
     {
       "title": "AI security enhances eastside construction sites - MyNorthwest.com",
       "pubDate": "Thu, 29 May 2025 15:32:30 GMT"
+    },
+    {
+      "title": "Unbound secures USD $4 million seed to boost safe AI adoption - IT Brief Australia",
+      "pubDate": "Fri, 30 May 2025 00:37:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Canada joins talks to join US \u2018Golden Dome\u2019 project despite frosty relationship - The Independent",
-      "pubDate": "Thu, 22 May 2025 04:04:00 GMT"
-    },
     {
       "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
       "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
