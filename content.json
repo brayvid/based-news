@@ -1,72 +1,62 @@
 {
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia tells UN West must stop arming Ukraine during any ceasefire - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWpKRVlrUVAtSmtKOTR3R1cwMklTNU5LSnpzYnk5R2FkUy1ydFRjWmMyZE1hdEhwc2RabVpCWjRCbjdwMW9oeEJ4R1RJSmEwazJFTkRKV1h0ck9ud3BzSmtNR1RfS0UyeFU0dnZfRE90Ykd6cVZHZzk2bTJyLS03VHdPTFZtd0d3ZUNHN3l5RE82T1JzVmFnejNoREpXb05Zal9ZaW14RlQxZzF2WWJfR0s1Z2ZvQQ?oc=5",
-        "pubDate": "Fri, 30 May 2025 15:13:27 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Supreme Court rules Trump can revoke protected status for 500,000 immigrants pending appeal - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WRG5TOHJOLXZPWUZ6ZTh2MC1PVDVuREVUUzNrLWdRemJuN0VXa3BrNkhxd3JpcE1Pb1JZRTNkdlVNeExURFFqanUwVHBmMFlPT09kanhkc21LbFYtRmpLSWxHaWxLako0WmhNTGZobjNaWXNaNEHSAXtBVV95cUxNbmFMOXEzSVB1TlFnbERpV3M1ZHJnVFFjN0NheUVyUE1vRE1CN19RbU5BMDFYak43elpvYmV5VlNGbWQyZHgwRV9vX3JxcnRrbEc0OTFla2ZFNUdwTVpxWkFvUXY4RUlJbm9pb01YcnB3Qk9VdTlrTjlTMFE?oc=5",
-        "pubDate": "Fri, 30 May 2025 14:32:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
-  },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Judge Hears Final Arguments on How to Fix Google\u2019s Search Monopoly - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjVjcENzdTBYUG9wZ1N6NTJMQXVSTnZKVUQ2cDBvdFJwLU5xaE5MQlVENmFhYTRvODY0M0dkYlctbXZqQXBxcW1HaVV3dDd6Ung0N1ViUmZObG4tTnczQjFQU1Nxa2VhLTVjLUhRWEw3NGwza2ZXNnhwMzZELTIwV0FyM1JmVFNh?oc=5",
-        "pubDate": "Fri, 30 May 2025 14:32:56 GMT"
+        "title": "OpenAI's 'smartest' AI model was explicitly told to shut down \u2014 and it refused - Live Science",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHozenRYZ25iUjJBZmYyZEJfemcySm00YmFacG5SUE4tbm1sR2VCR0FiZEN0QW52Qmt3UktfSmNlSDRsZFRKZF9iNFF3NVgtY0NUZjNUU010dlRIa3FqRGYwaG13NVFWUW1YZTQ5MWFlNjlGNUk2VjgtZ2VwXzN1T2NZT2QwMmFJd2FpdE81Q0c4LTNYZkRucFhyTDRZLUNrZ0NXNUpvTk9kSGVaN29uMVZXUFg2TlF5VlJ4MHc5dWdLZV93b2YwWVRPdWZxVFdXenc?oc=5",
+        "pubDate": "Fri, 30 May 2025 16:45:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
-  },
-  "Hamas": {
-    "articles": [
-      {
-        "title": "Hamas claims to target \u2018undercover\u2019 Israeli troops in video of Rafah IED attack - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFVLZWRpcEMydmJJWjdIVVdSeXVnUG1aZm9oaE03Q3MybUxPMnV3RUxmT2h0U2pyV1daUmVlb19fX3EtOXJkNy1fMkIxXy0zQnNsRTBsUkd0azdUNDJwRlNYdTluS0pYTkR2cVZDTGhwMmJCcjVwNWlrNmt1T0FxaVRRTTdRYXhUWWNTdE1IVjVMTGdSQjNYUVJuM0pvb1JfOXRvLV9FdHNyTk50UjlwVUc3Q1Q3Q0NzMng2OWM1S3M?oc=5",
-        "pubDate": "Fri, 30 May 2025 14:12:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
-  },
-  "Recession": {
-    "articles": [
-      {
-        "title": "Recession fears recede but still higher than they were at the start of the year - Investment Week",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFFqUW5kakQ0UXVLZ3d4cTdjNjc2RG1JWkIxdlJDRTdNSjM4eGdCYjR4VXhPdFlNdW9hYkJGbUk4SHNOMnd6RVU2RjRJWF90Nnh1SVNnY3FtSGtUNUp2ejNHVzYxQlhyd2dIUWFZVk1CRlg5Nk1zUENDZGNYYWhqZGdQbVBNTTYzS1lV?oc=5",
-        "pubDate": "Fri, 30 May 2025 13:42:57 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "Stocks slide after Trump accuses China of violating Geneva trade agreement - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGFJbFRrUUxtVXpScjJkaWFOU2QxdzQ3OGh4Y3hFaDNlWTV6bnZNZnF2SHdRV01pMk5pUXZKb2U1OXN5UE9mb253UWMwRlJudW1RbVp6NmdnU3d0OUdnVXZNUENYeGEzLVpheW5Jd0ZUSXgwTHFRc0JJUjJyZjk0Z1VWWUYzM3k2STJHeHI3OUNNdVE1V0N2RlJEbGNjdk1QZGJEa25mVFhjV0xJblNJ0gFWQVVfeXFMT2t2dnp0ZENpWkJUTmU5T3U5UVJoNDdJaC01THR1S3kwU3BrRXBzSThOYkl6RTE2UlY0ZkxKbUoxY01lS0xjZWlDNk1CNjhMaGJPZ010Q3c?oc=5",
-        "pubDate": "Fri, 30 May 2025 13:10:00 GMT"
+        "title": "China hits back after Trump claims it is 'violating' tariff truce - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vNU5MZDZSa29fMFE3ZTBMQ0JBZGhQN2d4Wi1ieWpzd0FLMVljdnpTLXhMLVlOREJTczU2eFhGX25zb0Q3VEpFZjY0VWVqYmNCZV9SMFNNWmI0QdIBX0FVX3lxTFBPUUx6R2YtbTdFRUFDazI2aXowWWVSTWI4R19oUjBBUkpHUnJHbWd6N21qTko0VGpFb2ZyRTcwOUoxUklic3YwVjE4WERwbldUVmVhQ3d6OVJVTEFfQTZN?oc=5",
+        "pubDate": "Fri, 30 May 2025 16:28:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Trade threats consume the U.S. economy - Axios",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ST0M1bFpNMlFjOU91Y2pSUGFFTGNhejRaRG9wei1jaDloQ3ZwNVI2V1VWdHlWR3V4UHZyVUpidHB5NUx4MGdtUjAxOWR6OGRIRWFSdU1iYWNyUlRfWWFUa183QUpKdHlGZmRBRlZBaw?oc=5",
+        "pubDate": "Fri, 30 May 2025 16:05:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "On the Campaign Trail, Elon Musk Juggled Drugs and Family Drama - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xdl8zVkxlTEpYQXJaZml2TUFtaGlwbnBaQlUyUmlEeDNVR3NKaGtacHNhYUhObEpRLWtPd2xCTVBVaXZXUE84aVFrMnp3Umh6WGJ6UklIQkprdThfX1NhbDhrWlItZkxuMTFDZHYyUkJFdWFaSEF4ZHAzbzFIdw?oc=5",
+        "pubDate": "Fri, 30 May 2025 15:06:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
   },
   "Climate": {
     "articles": [
       {
-        "title": "Climate change adds extra month of extreme heat for 4bn people: Report - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUdwZk1LWTdGVUUtMTU3QkNySGcxcEEyQTlCRTlKOS1UREw5YVRNTGFTbGN6b1hKbDhnQ0tKVnB3S3pQbjR5SXV1ZVlSc3hLNHVpR1p5UHhvTWRLU0ZSMmRQcmpwVDVLdEM2UC1SV2xmeWF6UWM5RE9oenlleWU1Q05HWVIwWUMxT3I4NmZvbTB5bXdsRWg0TUxjUTZ5c1dXTTVqbkZaT1M1MHJfYlg00gG0AUFVX3lxTFBWd0RUeGd1YVFOMnItTzRyM1JYYVJpWk1TeUpyMmdJM1VxNWJOdUZ4NFhWRHVzM1V5RktDMVV5WE9ZNkk0WEtoMDFEYXYzamVMcGdrUHdKeVVOMXRLbGdGeElDd1VscmJuSDlVdEJfZ2tXaHFETWNpQWJ4N0hhMjBlay1DakprTVI5OXVzNGllRDcxUGRiR1o4bmkzSEt4OHZORXBxZzZjMFpnVHNnUl9BSnVUNw?oc=5",
-        "pubDate": "Fri, 30 May 2025 09:45:00 GMT"
+        "title": "Congress Could Unravel Biden\u2019s Climate Law. Here\u2019s What to Watch. - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnVyTTNlUDAyQ3QybkNQSC1JcWlEdnZhc0JPWWdpSi1PNVM0VDQ1RllGeUs1dEZSYWRRdzItbnBsUmh2aEZRQWJRRncxbXAtTlZmOU8zOElaNXZaVGZEZEVhdTBhbXJ3VDIta1FOT3YtaHFBUzBNR3g1YVVLRzlNQjBkeUgtRkw3NS1zQjdmdVR5MThMdVZpYVVxZ0huTnU2NFI0UmxnczVRMjFuLWxxaFZEZjR0cXJnSVNBcGln?oc=5",
+        "pubDate": "Fri, 30 May 2025 14:30:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-05-30T16:10:38.358621+00:00"
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
+  },
+  "US Foreign Policy": {
+    "articles": [
+      {
+        "title": "US-China trade talks threatened by new visa restrictions for students - Scripps News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1JvdzI4aEZxaE5teFFZVjZwT1ZoZHQzeGY2Q0F0WEJieGtTQ2I4Z3RFZVFNMkkta0xJRGJGU1hUQWU1WjBXYUR5T2xKaFhWRnRSSGtGeGZzcHE3RDF5NW0xemh5c3BjYXh4THc1aFlJZ1oyQmd0eWRIcUliQTY5RE1ndWFQOGtlc3pZajdidHlBV0x0a2RUSFpEaHA2ZjVtTHNvXzVGNU54c0Fx?oc=5",
+        "pubDate": "Fri, 30 May 2025 13:30:23 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-05-30T17:11:49.147307+00:00"
   }
 }
