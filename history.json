@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "House passes sweeping domestic policy package after Trump and Speaker Johnson win over holdouts - NBC News",
-      "pubDate": "Thu, 22 May 2025 14:15:26 GMT"
-    },
-    {
-      "title": "Trump\u2019s Ramaphosa \u2018ambush\u2019: Key takeaways from heated White House meeting - Al Jazeera",
-      "pubDate": "Thu, 22 May 2025 14:28:46 GMT"
-    },
-    {
       "title": "Trump's Golden Dome plan could launch new era of weapons in space - Reuters",
       "pubDate": "Thu, 22 May 2025 18:41:40 GMT"
     },
@@ -643,6 +635,10 @@
     {
       "title": "Live updates: Trump and Elon Musk to hold press event; court temporarily reinstates tariffs - NBC News",
       "pubDate": "Fri, 30 May 2025 11:15:37 GMT"
+    },
+    {
+      "title": "Supreme Court allows Trump to revoke legal status of 500,000 immigrants - NBC News",
+      "pubDate": "Fri, 30 May 2025 14:23:00 GMT"
     }
   ],
   "ukraine": [
@@ -1313,6 +1309,10 @@
     {
       "title": "Ukraine-Russia war live: North Korea \u2018sent 20,000 arms containers to aid Putin\u2019s war\u2019 - The Independent",
       "pubDate": "Fri, 30 May 2025 05:57:00 GMT"
+    },
+    {
+      "title": "North Korea sending weapons to Russia to \u2018terrorize\u2019 Ukrainian civilians, says U.N. report - Washington Times",
+      "pubDate": "Fri, 30 May 2025 12:27:24 GMT"
     }
   ],
   "israel": [
@@ -1342,10 +1342,6 @@
     }
   ],
   "inflation": [
-    {
-      "title": "BOE\u2019s Pill Questions Prominence of Forecasts in Era of Shocks - Bloomberg.com",
-      "pubDate": "Thu, 22 May 2025 14:19:57 GMT"
-    },
     {
       "title": "Japan faces a \u2018rice crisis\u2019 as price nearly doubles for food staple - Al Jazeera",
       "pubDate": "Fri, 23 May 2025 08:03:45 GMT"
@@ -1875,6 +1871,10 @@
     {
       "title": "AI-enabled 'vibe coding' lets anyone write software - NPR",
       "pubDate": "Fri, 30 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "AI expert Connor Leahy on superintelligence and the threat of human extinction - Australian Strategic Policy Institute",
+      "pubDate": "Fri, 30 May 2025 07:13:47 GMT"
     }
   ],
   "financial_markets": [
@@ -2687,13 +2687,13 @@
     {
       "title": "Trump says China has 'totally violated' agreement with US on tariffs - Reuters",
       "pubDate": "Fri, 30 May 2025 12:39:08 GMT"
+    },
+    {
+      "title": "China Warns US Over Trump's 'Golden Dome' - Newsweek",
+      "pubDate": "Fri, 30 May 2025 07:27:48 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Iran says will hold US responsible for any Israeli attack on nuclear sites - Al Jazeera",
-      "pubDate": "Thu, 22 May 2025 14:31:20 GMT"
-    },
     {
       "title": "Trump says he might have \"good news\" on Iran deal this week - Axios",
       "pubDate": "Mon, 26 May 2025 01:07:04 GMT"
@@ -2728,10 +2728,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Jamie Dimon says the US is still at risk of a fate worse than recession - Business Insider",
-      "pubDate": "Thu, 22 May 2025 14:51:00 GMT"
-    },
     {
       "title": "US Economy on Edge with Over Ten Billion USD Tourism Revenue Loss Looming in 2025 Amid Global Travel Confidence Crisis - Travel And Tour World",
       "pubDate": "Thu, 22 May 2025 18:14:48 GMT"
@@ -3099,6 +3095,10 @@
     {
       "title": "US economy shrinks 0.2% in Q1 as trade tensions bite, momentum falters - Proactive Investors",
       "pubDate": "Fri, 30 May 2025 02:58:00 GMT"
+    },
+    {
+      "title": "US stocks fall in early trading to give back some of their recent gains - Star Beacon",
+      "pubDate": "Fri, 30 May 2025 13:40:04 GMT"
     }
   ],
   "terrorism": [
@@ -3517,6 +3517,10 @@
     {
       "title": "Israel Orders Evacuation of Much of Northern Gaza, Warning of Dangerous Combat - The New York Times",
       "pubDate": "Fri, 30 May 2025 12:10:11 GMT"
+    },
+    {
+      "title": "Israel's defense officials believe Hamas control over Gaza is slipping, helped by new aid system - The Times of Israel",
+      "pubDate": "Fri, 30 May 2025 13:02:18 GMT"
     }
   ],
   "climate": [
@@ -3633,10 +3637,6 @@
     {
       "title": "US, allies recommend security protections for AI models - Cybersecurity Dive",
       "pubDate": "Thu, 22 May 2025 16:14:13 GMT"
-    },
-    {
-      "title": "Researchers Find It All Too Easy to Bypass AI Safety Systems - WebProNews",
-      "pubDate": "Thu, 22 May 2025 15:00:58 GMT"
     },
     {
       "title": "A safety institute advised against releasing an early version of Anthropic's Claude Opus 4 AI model - TechCrunch",
@@ -3865,16 +3865,8 @@
       "pubDate": "Thu, 22 May 2025 16:37:00 GMT"
     },
     {
-      "title": "Sleep-Deprived Lawmakers Stay Up All Night to Pass the \u2018Big, Beautiful\u2019 Bill - The New York Times",
-      "pubDate": "Thu, 22 May 2025 14:59:06 GMT"
-    },
-    {
       "title": "Musk, and his money, leaving politics is upsetting both Democrats and Republicans - The Independent",
       "pubDate": "Thu, 22 May 2025 16:19:00 GMT"
-    },
-    {
-      "title": "Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks - The Hacker News",
-      "pubDate": "Thu, 22 May 2025 15:06:00 GMT"
     },
     {
       "title": "Now That House Republicans Took the Plunge, It\u2019s the Senate\u2019s Turn - The New York Times",
@@ -4285,6 +4277,10 @@
     {
       "title": "The next big earthquake: When is the Bay Area due? - The Mercury News",
       "pubDate": "Sat, 24 May 2025 16:18:17 GMT"
+    },
+    {
+      "title": "Massive volcano eruption is imminent amid earthquake surge, leaving major US city on high alert, scientists fear - New York Post",
+      "pubDate": "Fri, 30 May 2025 14:20:00 GMT"
     }
   ],
   "tesla": [
