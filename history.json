@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump has turned the GOP toward populism. But the megabill mostly helps the wealthy. - Politico",
-      "pubDate": "Thu, 22 May 2025 01:00:00 GMT"
-    },
-    {
       "title": "Key committee advances Trump's sweeping policy bill to House floor after meeting for almost 22 hours - CNN",
       "pubDate": "Thu, 22 May 2025 03:21:00 GMT"
     },
@@ -623,6 +619,10 @@
     {
       "title": "10 times Trump has threatened, then backtracked on, tariffs as 'TACO trade' jab gains traction - NBC News",
       "pubDate": "Thu, 29 May 2025 22:46:07 GMT"
+    },
+    {
+      "title": "Intelligence agency employee accused of attempting to leak classified documents out of frustration with Trump - Politico",
+      "pubDate": "Fri, 30 May 2025 00:15:26 GMT"
     }
   ],
   "ukraine": [
@@ -1055,6 +1055,10 @@
     {
       "title": "Will a potential recession in US provide discounted opportunities to home buyers? Check details - The Economic Times",
       "pubDate": "Thu, 29 May 2025 10:08:06 GMT"
+    },
+    {
+      "title": "Recession Forecasts Jump After Herds Of Panicked Economists Start Running Off Cliffs - The Onion",
+      "pubDate": "Thu, 29 May 2025 13:00:00 GMT"
     }
   ],
   "russia": [
@@ -1851,6 +1855,10 @@
     {
       "title": "Why this leading AI CEO is warning the tech could cause mass unemployment - CNN",
       "pubDate": "Thu, 29 May 2025 22:04:00 GMT"
+    },
+    {
+      "title": "White House MAHA Report may have garbled science by using AI, experts say - The Washington Post",
+      "pubDate": "Fri, 30 May 2025 00:48:56 GMT"
     }
   ],
   "financial_markets": [
@@ -2002,10 +2010,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Family offices brace for trade war and tilt portfolios toward liquidity and AI - Citywire",
-      "pubDate": "Thu, 22 May 2025 00:14:04 GMT"
-    },
     {
       "title": "Singapore economy beats Q1 forecasts, warns of trade war risks - Times of India",
       "pubDate": "Thu, 22 May 2025 02:29:00 GMT"
@@ -2196,10 +2200,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's BYD sold 213,325 vehicles with smart-assisted driving features in April - Reuters",
-      "pubDate": "Thu, 22 May 2025 01:02:57 GMT"
-    },
     {
       "title": "NDTV Ground Report: China's Unconventional War Against India On Northeast Border - NDTV",
       "pubDate": "Thu, 22 May 2025 04:00:46 GMT"
@@ -2699,6 +2699,10 @@
     {
       "title": "Trump Makes a New Push to \u2018Decouple\u2019 U.S. From China - The New York Times",
       "pubDate": "Thu, 29 May 2025 21:11:37 GMT"
+    },
+    {
+      "title": "U.S. ramps up its military footprint in Australia as tensions with China rise - CBS News",
+      "pubDate": "Thu, 29 May 2025 15:01:56 GMT"
     }
   ],
   "iran": [
@@ -3301,10 +3305,6 @@
   ],
   "north_korea": [
     {
-      "title": "Kim Jong Un Slams \u2018Serious\u2019 Warship Accident at Launch Ceremony - Bloomberg",
-      "pubDate": "Thu, 22 May 2025 00:48:00 GMT"
-    },
-    {
       "title": "North Korea vows to arrest those responsible for failed ship launch - Yahoo",
       "pubDate": "Fri, 23 May 2025 01:57:00 GMT"
     },
@@ -3347,6 +3347,10 @@
     {
       "title": "US and allies accuse North Korea and Russia of flagrantly violating UN sanctions in military deals - AP News",
       "pubDate": "Fri, 30 May 2025 00:03:00 GMT"
+    },
+    {
+      "title": "North Korea supplied Russia with 9 million shells and 100 ballistic missiles \u2013 international report, photos - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Thu, 29 May 2025 14:21:35 GMT"
     }
   ],
   "hamas": [
@@ -3801,10 +3805,6 @@
       "pubDate": "Thu, 22 May 2025 04:04:00 GMT"
     },
     {
-      "title": "US President Donald Trump accepts luxurious Qatari jet despite security, ethical concerns - Australian Broadcasting Corporation",
-      "pubDate": "Thu, 22 May 2025 01:09:09 GMT"
-    },
-    {
       "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
       "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
     },
@@ -4075,6 +4075,10 @@
     {
       "title": "The Guardian view on Trump\u2019s tariffs: the courts have drawn a line. So must Congress | Editorial - The Guardian",
       "pubDate": "Thu, 29 May 2025 18:44:00 GMT"
+    },
+    {
+      "title": "US court temporarily pauses ruling that blocked Trump\u2019s tariff; White House vows Supreme Court fight - Mint",
+      "pubDate": "Fri, 30 May 2025 00:10:31 GMT"
     }
   ],
   "cryptocurrency": [
