@@ -623,6 +623,10 @@
     {
       "title": "Appeals court temporarily allows Trump tariffs to move ahead - NBC News",
       "pubDate": "Fri, 30 May 2025 03:05:00 GMT"
+    },
+    {
+      "title": "Trump lashes out over viral 'TACO trade' meme. What does it stand for? - ABC News",
+      "pubDate": "Thu, 29 May 2025 21:52:36 GMT"
     }
   ],
   "ukraine": [
@@ -893,10 +897,6 @@
   ],
   "recession": [
     {
-      "title": "Millennials are sharing recession tips on TikTok - Fast Company",
-      "pubDate": "Thu, 22 May 2025 08:10:58 GMT"
-    },
-    {
       "title": "5 Under-the-Radar Recession Indicators Actually Worth Watching - Politico",
       "pubDate": "Thu, 22 May 2025 14:00:00 GMT"
     },
@@ -1050,10 +1050,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine-Russia war latest: Zelensky reveals \u2018significant\u2019 Russian losses in Kursk and says fight continues - The Independent",
-      "pubDate": "Thu, 22 May 2025 08:47:29 GMT"
-    },
     {
       "title": "Putin Says Russia Creating Buffer Zone Along Ukrainian Border - Bloomberg.com",
       "pubDate": "Thu, 22 May 2025 15:45:37 GMT"
@@ -1851,13 +1847,13 @@
     {
       "title": "Responsibly unleashing artificial intelligence in pandemic preparedness - CEPI",
       "pubDate": "Fri, 30 May 2025 07:43:16 GMT"
+    },
+    {
+      "title": "FDA Plans to Integrate Artificial Intelligence for Medical Device Oversight and Data Analysis - geneonline.com",
+      "pubDate": "Fri, 30 May 2025 04:01:24 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Asia-Pacific markets fall after Wall Street declines as U.S. stares at ballooning debt - CNBC",
-      "pubDate": "Thu, 22 May 2025 08:21:00 GMT"
-    },
     {
       "title": "Stock Market Today: Dow, Nasdaq Rise; Tax Bill Fuels Fresh Bond Jitters, Bitcoin Extends Rally \u2014 Live Updates - WSJ",
       "pubDate": "Thu, 22 May 2025 18:13:00 GMT"
@@ -2177,13 +2173,13 @@
     {
       "title": "The trade war is rattling global business travel \u2014 4 charts show how - CNBC",
       "pubDate": "Thu, 29 May 2025 23:59:03 GMT"
+    },
+    {
+      "title": "Global airlines to address trade war, net-zero uncertainties at annual summit - Reuters",
+      "pubDate": "Fri, 30 May 2025 05:28:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Chinese investment rebounds despite growing frictions - Chinese FDI in Europe: 2024 Update - Mercator Institute for China Studies (MERICS)",
-      "pubDate": "Thu, 22 May 2025 08:53:19 GMT"
-    },
     {
       "title": "Tariffs or not, China\u2019s infiltration of US systems needs new attention - Defense News",
       "pubDate": "Thu, 22 May 2025 10:12:42 GMT"
@@ -3071,6 +3067,10 @@
     {
       "title": "What to Know After Trade Court Rules Against Trump\u2019s Tariffs - Time Magazine",
       "pubDate": "Fri, 30 May 2025 02:45:00 GMT"
+    },
+    {
+      "title": "U.S. economy shrinks for first time since 2022 - KTVN",
+      "pubDate": "Fri, 30 May 2025 00:20:00 GMT"
     }
   ],
   "terrorism": [
@@ -4471,6 +4471,10 @@
     {
       "title": "Federal Reserve issues rare statement asserting independence amid Trump pressure - The Guardian",
       "pubDate": "Thu, 29 May 2025 18:07:00 GMT"
+    },
+    {
+      "title": "Trump summons Fed's Powell, tells him he's making a mistake on rates - Reuters",
+      "pubDate": "Thu, 29 May 2025 21:57:10 GMT"
     }
   ],
   "vladimir_putin": [
@@ -4667,6 +4671,12 @@
     {
       "title": "What Republicans\u2019 possible Medicaid cuts could mean for nursing homes - PBS",
       "pubDate": "Thu, 29 May 2025 21:01:15 GMT"
+    }
+  ],
+  "outer_space": [
+    {
+      "title": "North Korea slams Trump\u2019s Golden Dome as plan for \u2018outer space nuclear war\u2019 - NK News",
+      "pubDate": "Fri, 30 May 2025 07:27:17 GMT"
     }
   ]
 }
