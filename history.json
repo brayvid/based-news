@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's Golden Dome plan could launch new era of weapons in space - Reuters",
-      "pubDate": "Thu, 22 May 2025 18:41:40 GMT"
-    },
-    {
       "title": "Trump's image of dead 'white farmers' came from Reuters footage in Congo, not South Africa - Reuters",
       "pubDate": "Thu, 22 May 2025 20:36:43 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Does Trump Actually Think He's God? - Politico",
       "pubDate": "Fri, 30 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump demands bigger tax cuts in budget bill as Musk dodges question about reported drug use \u2013 US politics live - The Guardian",
+      "pubDate": "Fri, 30 May 2025 09:43:00 GMT"
     }
   ],
   "ukraine": [
@@ -925,6 +925,10 @@
     {
       "title": "Russia tells UN West must stop arming Ukraine during any ceasefire - Reuters",
       "pubDate": "Fri, 30 May 2025 15:13:27 GMT"
+    },
+    {
+      "title": "Ukraine awaiting Russia peace proposal ahead of Istanbul talks - BBC",
+      "pubDate": "Fri, 30 May 2025 15:46:34 GMT"
     }
   ],
   "recession": [
@@ -1352,14 +1356,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence Proves Its Worth in Cancer Treatment, Drug Development, and Other Real-World Applications - OncLive",
-      "pubDate": "Thu, 22 May 2025 18:22:20 GMT"
-    },
-    {
-      "title": "AI benchmarking platform is helping top companies rig their model performances, study claims - Live Science",
-      "pubDate": "Thu, 22 May 2025 18:23:13 GMT"
-    },
     {
       "title": "Ethical dilemmas arise as artificial intelligence makes its way into courtrooms - WHEC.com",
       "pubDate": "Thu, 22 May 2025 21:00:03 GMT"
@@ -1875,13 +1871,13 @@
     {
       "title": "Evaluating performance of large language models for atrial fibrillation management using different prompting strategies and languages - Nature",
       "pubDate": "Fri, 30 May 2025 17:32:47 GMT"
+    },
+    {
+      "title": "AI: A new lab partner in biotech - Politico",
+      "pubDate": "Fri, 30 May 2025 18:00:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Rise; Tax Bill Fuels Fresh Bond Jitters, Bitcoin Extends Rally \u2014 Live Updates - WSJ",
-      "pubDate": "Thu, 22 May 2025 18:13:00 GMT"
-    },
     {
       "title": "A famed Wall Street bear warns of 'global financial market Armageddon' as Japanese bond yields spike - Business Insider",
       "pubDate": "Thu, 22 May 2025 23:01:00 GMT"
@@ -2193,20 +2189,12 @@
   ],
   "china": [
     {
-      "title": "China has an off-switch for America, and we aren\u2019t ready to deal with it. - The Hill",
-      "pubDate": "Thu, 22 May 2025 18:30:00 GMT"
-    },
-    {
       "title": "How Trump's 'Big Beautiful' Budget Bill Helps China Win the Clean Tech Race - Newsweek",
       "pubDate": "Thu, 22 May 2025 20:52:05 GMT"
     },
     {
       "title": "China\u2019s Yuan Ambitions Are an Uphill Struggle - Foreign Policy",
       "pubDate": "Thu, 22 May 2025 20:50:52 GMT"
-    },
-    {
-      "title": "Nvidia Faces China Pressure Ahead of Key Q1 Report, Oppenheimer Warns - Yahoo Finance",
-      "pubDate": "Thu, 22 May 2025 18:19:18 GMT"
     },
     {
       "title": "Senior US-China Officials Vow to Keep Communication Lines Open - Bloomberg.com",
@@ -2691,6 +2679,10 @@
     {
       "title": "US Plans Wider China Tech Sanctions With Subsidiary Crackdown - Bloomberg",
       "pubDate": "Fri, 30 May 2025 16:28:46 GMT"
+    },
+    {
+      "title": "China calls out Trump for 'abuse' of semiconductor export controls - CNBC",
+      "pubDate": "Fri, 30 May 2025 17:04:08 GMT"
     }
   ],
   "iran": [
@@ -2728,14 +2720,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy on Edge with Over Ten Billion USD Tourism Revenue Loss Looming in 2025 Amid Global Travel Confidence Crisis - Travel And Tour World",
-      "pubDate": "Thu, 22 May 2025 18:14:48 GMT"
-    },
-    {
-      "title": "JPMorgan\u2019s Dimon warns of US stagflation risk: Report - Al Jazeera",
-      "pubDate": "Thu, 22 May 2025 18:35:24 GMT"
-    },
     {
       "title": "Kevin O\u2019Leary speaks out on Carney, US politics, and the economy - Al Arabiya English",
       "pubDate": "Thu, 22 May 2025 19:45:00 GMT"
@@ -3103,6 +3087,10 @@
     {
       "title": "US Consumers Hit the Brakes While Goods Imports Plunged in April - Bloomberg",
       "pubDate": "Fri, 30 May 2025 15:32:28 GMT"
+    },
+    {
+      "title": "US stocks drop after Trump accuses China of violating tariff deal, plans more curbs - USA Today",
+      "pubDate": "Fri, 30 May 2025 14:48:45 GMT"
     }
   ],
   "terrorism": [
@@ -3182,10 +3170,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Andrew Cuomo Is Ready for His Comeback - Governing",
-      "pubDate": "Thu, 22 May 2025 18:31:52 GMT"
-    },
     {
       "title": "Sen. Elissa Slotkin is lone Democrat to cross party lines in vote to revoke California's EV emissions waivers - CBS News",
       "pubDate": "Thu, 22 May 2025 22:47:17 GMT"
@@ -3521,6 +3505,10 @@
     {
       "title": "Hamas claims to target \u2018undercover\u2019 Israeli troops in video of Rafah IED attack - The Times of Israel",
       "pubDate": "Fri, 30 May 2025 14:12:48 GMT"
+    },
+    {
+      "title": "Hamas 'thoroughly reviewing' ceasefire plan as UN warns all of Gaza at risk of famine - BBC",
+      "pubDate": "Fri, 30 May 2025 13:40:23 GMT"
     }
   ],
   "climate": [
@@ -3642,14 +3630,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "A safety institute advised against releasing an early version of Anthropic's Claude Opus 4 AI model - TechCrunch",
-      "pubDate": "Thu, 22 May 2025 18:32:47 GMT"
-    },
-    {
-      "title": "Claude Opus 4 blackmailed an engineer after learning it might be replaced - the-decoder.com",
-      "pubDate": "Thu, 22 May 2025 19:08:12 GMT"
-    },
     {
       "title": "Anthropic\u2019s Claude AI tries to blackmail Its creators in simulated test - Social Samosa",
       "pubDate": "Fri, 23 May 2025 05:57:23 GMT"
@@ -3859,10 +3839,6 @@
     {
       "title": "Now That House Republicans Took the Plunge, It\u2019s the Senate\u2019s Turn - The New York Times",
       "pubDate": "Thu, 22 May 2025 20:39:01 GMT"
-    },
-    {
-      "title": "Goodbye to the Penny! Treasury Department announces plan to phase out the coin - The Independent",
-      "pubDate": "Thu, 22 May 2025 18:40:00 GMT"
     },
     {
       "title": "Sarah Milgrim\u2019s faith was nurtured by the Jewish community around Kansas City. - The New York Times",
@@ -4333,6 +4309,10 @@
     {
       "title": "BlackRock\u2019s $70 Billion Bitcoin Price Nightmare Just Got A Lot Worse - Forbes",
       "pubDate": "Fri, 30 May 2025 11:30:14 GMT"
+    },
+    {
+      "title": "Czech Justice Minister Resigns Over $45 Million Gift in Bitcoin - Bloomberg",
+      "pubDate": "Fri, 30 May 2025 15:31:02 GMT"
     }
   ],
   "cybersecurity": [
