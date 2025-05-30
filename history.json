@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - CNN",
-      "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
-    },
-    {
       "title": "House passes Trump\u2019s \u2018big, beautiful bill\u2019 in marathon overnight session - The Hill",
       "pubDate": "Thu, 22 May 2025 10:56:00 GMT"
     },
@@ -897,10 +893,6 @@
   ],
   "recession": [
     {
-      "title": "VIDEO: US recession more likely than not, says PwC US chief economist - Australian Broadcasting Corporation",
-      "pubDate": "Thu, 22 May 2025 07:52:24 GMT"
-    },
-    {
       "title": "Millennials are sharing recession tips on TikTok - Fast Company",
       "pubDate": "Thu, 22 May 2025 08:10:58 GMT"
     },
@@ -1305,6 +1297,10 @@
     {
       "title": "Russia accuses ally Serbia of betrayal for supplying arms to Ukraine - AP News",
       "pubDate": "Thu, 29 May 2025 20:18:00 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war live: North Korea \u2018sent 20,000 arms containers to aid Putin\u2019s war\u2019 - The Independent",
+      "pubDate": "Fri, 30 May 2025 05:57:00 GMT"
     }
   ],
   "israel": [
@@ -1348,10 +1344,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "54% of US Workers Wary of GenAI\u2019s Impact on Jobs, Report Finds - PYMNTS.com",
-      "pubDate": "Thu, 22 May 2025 08:03:59 GMT"
-    },
     {
       "title": "NASA wants enabling technologies in 3D printing, artificial intelligence (AI), radar, and robotics in space - Military Aerospace",
       "pubDate": "Thu, 22 May 2025 09:32:59 GMT"
@@ -1855,6 +1847,10 @@
     {
       "title": "OpenAI argues to keep countersuit against Musk in trial over for-profit shift - Reuters",
       "pubDate": "Thu, 29 May 2025 21:16:38 GMT"
+    },
+    {
+      "title": "Responsibly unleashing artificial intelligence in pandemic preparedness - CEPI",
+      "pubDate": "Fri, 30 May 2025 07:43:16 GMT"
     }
   ],
   "financial_markets": [
@@ -1933,6 +1929,10 @@
     {
       "title": "Nvidia\u2019s earnings are the stock market\u2019s next major test after May\u2019s Big Tech comeback - MarketWatch",
       "pubDate": "Tue, 27 May 2025 21:23:00 GMT"
+    },
+    {
+      "title": "European stock markets set for a positive open amid U.S. tariff uncertainty - CNBC",
+      "pubDate": "Fri, 30 May 2025 07:31:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2002,14 +2002,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "US Stocks \u2018Astronomically Complacent\u2019 About Trade War, CLSA Says - Bloomberg.com",
-      "pubDate": "Thu, 22 May 2025 08:00:00 GMT"
-    },
-    {
-      "title": "2 Artificial Intelligence (AI) Stocks That May Have a Hard Time Bouncing Back From President Trump's Trade War - Nasdaq",
-      "pubDate": "Thu, 22 May 2025 07:35:00 GMT"
-    },
     {
       "title": "RBA deputy governor says China knew it had a 'strong hand' in trade war with US - Australian Broadcasting Corporation",
       "pubDate": "Thu, 22 May 2025 11:10:41 GMT"
@@ -2188,10 +2180,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China says US trade talks important but multilateralism key to solution - Reuters",
-      "pubDate": "Thu, 22 May 2025 07:44:12 GMT"
-    },
     {
       "title": "Chinese investment rebounds despite growing frictions - Chinese FDI in Europe: 2024 Update - Mercator Institute for China Studies (MERICS)",
       "pubDate": "Thu, 22 May 2025 08:53:19 GMT"
@@ -2720,10 +2708,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Jamie Dimon sees stagflation's storm clouds coming for the US, sounds alarm for economy - The Economic Times",
-      "pubDate": "Thu, 22 May 2025 07:35:56 GMT"
-    },
     {
       "title": "Jamie Dimon says the US is still at risk of a fate worse than recession - Business Insider",
       "pubDate": "Thu, 22 May 2025 14:51:00 GMT"
@@ -3493,6 +3477,10 @@
     {
       "title": "How Israel Is Planning to Bring Hamas Terrorists to Justice \u2013 and Why It's So Alarming - Haaretz",
       "pubDate": "Thu, 29 May 2025 19:40:00 GMT"
+    },
+    {
+      "title": "Hamas says US ceasefire plan accepted by Israel does not meet demands to end war in Gaza - The Guardian",
+      "pubDate": "Fri, 30 May 2025 05:21:00 GMT"
     }
   ],
   "climate": [
@@ -3824,10 +3812,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
-      "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
-    },
     {
       "title": "Kalshi's politics events contracts are redefining US betting - sbcnews.co.uk",
       "pubDate": "Thu, 22 May 2025 09:20:11 GMT"
@@ -4655,6 +4639,10 @@
     {
       "title": "Scientists scramble to complete elusive limitless energy device using first-of-its-kind technology: 'A race to lead the world' - The Cool Down",
       "pubDate": "Wed, 28 May 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Scientists Announce Fusion Research \u201cMilestone\u201d - Thomasnet",
+      "pubDate": "Thu, 29 May 2025 20:30:17 GMT"
     }
   ],
   "computing": [
