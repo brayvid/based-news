@@ -9,10 +9,6 @@
       "pubDate": "Fri, 23 May 2025 22:27:58 GMT"
     },
     {
-      "title": "President Trump's approval rating: Here's what latest polls show - USA Today",
-      "pubDate": "Fri, 23 May 2025 20:41:55 GMT"
-    },
-    {
       "title": "Apple stock sinks after Trump threatens 25% tariff if iPhones aren't made in the U.S. - NBC News",
       "pubDate": "Fri, 23 May 2025 23:24:29 GMT"
     },
@@ -973,6 +969,10 @@
     {
       "title": "Ukraine-Russia war latest: Child killed in Russian strike after Zelensky accuses Putin of sabotaging talks - The Independent",
       "pubDate": "Sat, 31 May 2025 13:52:35 GMT"
+    },
+    {
+      "title": "Russian Air Attacks Kill Two in Ukraine - The Moscow Times",
+      "pubDate": "Sat, 31 May 2025 09:22:00 GMT"
     }
   ],
   "recession": [
@@ -1348,14 +1348,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "State AI Regulation Ban Clears U.S. House of Representatives - GovTech",
-      "pubDate": "Fri, 23 May 2025 20:40:35 GMT"
-    },
-    {
-      "title": "Trouble with AI 'hallucinations' spreads to big law firms - Reuters",
-      "pubDate": "Fri, 23 May 2025 21:01:38 GMT"
-    },
     {
       "title": "NSA Publishes Joint Guidance on AI System Data Security - ExecutiveGov",
       "pubDate": "Fri, 23 May 2025 21:23:02 GMT"
@@ -1933,10 +1925,6 @@
       "pubDate": "Sat, 24 May 2025 00:18:36 GMT"
     },
     {
-      "title": "Vance tells Naval Academy graduates they are facing \u2018new\u2019 and \u2018very dangerous era\u2019 for US - WFIN",
-      "pubDate": "Fri, 23 May 2025 21:01:17 GMT"
-    },
-    {
       "title": "Expert opines on change of US foreign policy under Trump - BelTA News Agency",
       "pubDate": "Sat, 24 May 2025 16:00:00 GMT"
     },
@@ -1982,10 +1970,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Watch S&P 500 Falls as Trade War Reignites | Closing Bell - Bloomberg",
-      "pubDate": "Fri, 23 May 2025 20:26:19 GMT"
-    },
     {
       "title": "As Trump focuses on his trade war, Brazil and China forge closer ties - The Guardian",
       "pubDate": "Fri, 23 May 2025 23:31:00 GMT"
@@ -2113,13 +2097,13 @@
     {
       "title": "Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar - WIRED",
       "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Trump claimed \u2018tariffs are easy\u2019 \u2013 he\u2019s learning the hard way that\u2019s not the case - The Guardian",
+      "pubDate": "Sat, 31 May 2025 18:03:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "A showdown over Harvard\u2019s China ties - Politico",
-      "pubDate": "Fri, 23 May 2025 20:25:10 GMT"
-    },
     {
       "title": "Tensions rise as China, Russia, US and Europe scramble for Arctic - BBC",
       "pubDate": "Fri, 23 May 2025 22:21:23 GMT"
@@ -2591,6 +2575,10 @@
     {
       "title": "The U.S. Plan to Hobble China Tech Isn\u2019t Working - WSJ",
       "pubDate": "Sat, 31 May 2025 15:26:55 GMT"
+    },
+    {
+      "title": "China bristles at Macron linking Ukraine defence to Taiwan threats - Reuters",
+      "pubDate": "Sat, 31 May 2025 09:31:20 GMT"
     }
   ],
   "iran": [
@@ -2660,14 +2648,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "U.S. Steel and Nippon Steel Announce Strategic Partnership to Boost U.S. Economy - News and Statistics - IndexBox",
-      "pubDate": "Fri, 23 May 2025 20:09:39 GMT"
-    },
-    {
-      "title": "US Steel Stock Soars as Trump OKs Nippon Steel 'Partnership' - Investopedia",
-      "pubDate": "Fri, 23 May 2025 20:55:25 GMT"
-    },
     {
       "title": "Trump says US Steel will keep HQ in Pittsburgh in a sign he'll approve bid by Japan-based Nippon - The Economic Times",
       "pubDate": "Sat, 24 May 2025 01:14:49 GMT"
@@ -3115,13 +3095,13 @@
     {
       "title": "\u2018Breakthrough\u2019 breast cancer therapy can slow advance of disease and prolong survival - The Guardian",
       "pubDate": "Sat, 31 May 2025 12:02:00 GMT"
+    },
+    {
+      "title": "Immunotherapy trial helps cancer patients with tumours live 40% longer - The Guardian",
+      "pubDate": "Sat, 31 May 2025 20:01:00 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "Political News & Notes: Haver-Crissman honored, McDonald-Rivet and Moolenaar seek answers from FEMA - Midland Daily News",
-      "pubDate": "Fri, 23 May 2025 20:31:30 GMT"
-    },
     {
       "title": "Fox\u2019s McEnany Says Tapper-Thompson Biden Book Actually \u2018Exonerating\u2019 for \u2018Much of ... - Mediaite",
       "pubDate": "Sat, 24 May 2025 01:25:00 GMT"
@@ -3271,6 +3251,10 @@
     {
       "title": "North Korea has deployed thousands of troops to help Russia 'terrorize Ukraine,' report finds - NBC News",
       "pubDate": "Sat, 31 May 2025 13:15:18 GMT"
+    },
+    {
+      "title": "North Korea gaining military edge as Russia seeks war-time supplies - Business Standard",
+      "pubDate": "Sat, 31 May 2025 18:36:41 GMT"
     }
   ],
   "hamas": [
@@ -3582,10 +3566,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Anthropic adds Claude 4 security measures to limit risk of users developing weapons - MSN",
-      "pubDate": "Fri, 23 May 2025 20:20:33 GMT"
-    },
     {
       "title": "This AI used affair to blackmail engineer and prevent shutdown - Interesting Engineering",
       "pubDate": "Fri, 23 May 2025 23:28:00 GMT"
@@ -3995,6 +3975,10 @@
     {
       "title": "Senate Republicans Try Out \u2018We All Die\u2019 Slogan to Justify Medicaid Cuts - WhoWhatWhy",
       "pubDate": "Sat, 31 May 2025 10:35:31 GMT"
+    },
+    {
+      "title": "Trump conducts the weirdest exit interview in history as Musk departs the White House \u2014 for now - The Independent",
+      "pubDate": "Sat, 31 May 2025 10:07:00 GMT"
     }
   ],
   "cryptocurrency": [
