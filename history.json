@@ -1,16 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "The loud hum sparking unrest in Trump's MAGA heartlands - BBC",
-      "pubDate": "Thu, 22 May 2025 23:23:52 GMT"
-    },
-    {
       "title": "Trump urges Senate to pass his tax and immigration bill \u2018as soon as possible\u2019 - The Washington Post",
       "pubDate": "Fri, 23 May 2025 01:55:10 GMT"
-    },
-    {
-      "title": "Administration bars Harvard from enrolling foreign students, says thousands must transfer - AP News",
-      "pubDate": "Thu, 22 May 2025 23:47:00 GMT"
     },
     {
       "title": "Trump takes new pages out of strongman\u2019s playbook with Harvard crackdown and crypto gala - CNN",
@@ -651,6 +643,10 @@
     {
       "title": "Trump speaks at Pittsburgh steel plant after hosting Musk at White House - CNN",
       "pubDate": "Fri, 30 May 2025 21:40:00 GMT"
+    },
+    {
+      "title": "Trump administration live updates: President raises steel tariff; PBS sues administration - NBC News",
+      "pubDate": "Fri, 30 May 2025 23:19:31 GMT"
     }
   ],
   "ukraine": [
@@ -1349,10 +1345,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Nuclear renaissance: JFAC visits INL, learns of artificial intelligence's place in nuclear power - East Idaho News",
-      "pubDate": "Thu, 22 May 2025 23:15:00 GMT"
-    },
-    {
       "title": "Streamlining Campaign Management with Artificial Intelligence in Marketing Automation - MarTech Outlook",
       "pubDate": "Fri, 23 May 2025 03:10:32 GMT"
     },
@@ -1859,6 +1851,10 @@
     {
       "title": "Criminals using artificial intelligence to improve scams - CBS News",
       "pubDate": "Fri, 30 May 2025 21:50:00 GMT"
+    },
+    {
+      "title": "The lab of the future: An artificial superintelligence for biology - Fast Company",
+      "pubDate": "Fri, 30 May 2025 23:45:09 GMT"
     }
   ],
   "financial_markets": [
@@ -2709,10 +2705,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economy to worsen in H2 2025 ... 'payback' time - Forexlive | Forex News, Technical Analysis & Trading Tools",
-      "pubDate": "Thu, 22 May 2025 23:55:00 GMT"
-    },
-    {
       "title": "CNBC Daily Open: Trump's 'big, beautiful' tax bill might only be a short-term boost to the U.S. economy - CNBC",
       "pubDate": "Fri, 23 May 2025 01:23:00 GMT"
     },
@@ -3163,13 +3155,13 @@
     {
       "title": "Joe Biden strikes optimistic tone about cancer diagnosis: \u2018We\u2019re going to be able to beat this\u2019 - CNN",
       "pubDate": "Fri, 30 May 2025 18:42:00 GMT"
+    },
+    {
+      "title": "Immunotherapy drug doubles cancer survival in breakthrough trial - BBC",
+      "pubDate": "Fri, 30 May 2025 23:08:37 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "2 Rising Democrats on the Battle for Their Party\u2019s Future - KQED",
-      "pubDate": "Fri, 23 May 2025 00:00:06 GMT"
-    },
     {
       "title": "Hawkins: The next generation of Democratic leaders must defy respectability politics - The Daily Northwestern",
       "pubDate": "Fri, 23 May 2025 03:25:00 GMT"
@@ -3619,6 +3611,10 @@
     {
       "title": "Congress Could Unravel Biden\u2019s Climate Law. Here\u2019s What to Watch. - Bloomberg.com",
       "pubDate": "Fri, 30 May 2025 14:30:06 GMT"
+    },
+    {
+      "title": "A Court Debates Whether a Climate Lawsuit Threatens National Security - The New York Times",
+      "pubDate": "Fri, 30 May 2025 23:48:42 GMT"
     }
   ],
   "ai_safety": [
@@ -3836,10 +3832,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "How Trump and RFK Jr plan to \u2018make America healthy again\u2019 - The Times",
-      "pubDate": "Thu, 22 May 2025 23:40:00 GMT"
-    },
     {
       "title": "Jason Johnson on Pac-Man's 45th birthday: U.S. politics don't have to feel like a perpetual maze - MSNBC News",
       "pubDate": "Fri, 23 May 2025 03:14:30 GMT"
@@ -4177,6 +4169,10 @@
     {
       "title": "The US has world-class scientific talent. The rest of the world is hoping to lure that away - AP News",
       "pubDate": "Sun, 25 May 2025 04:43:00 GMT"
+    },
+    {
+      "title": "Trump administration ending multiple HIV vaccine studies, scientists and officials say - CBS News",
+      "pubDate": "Fri, 30 May 2025 23:37:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -4305,6 +4301,10 @@
     {
       "title": "Czech Justice Minister Resigns Over $45 Million Gift in Bitcoin - Bloomberg",
       "pubDate": "Fri, 30 May 2025 15:31:02 GMT"
+    },
+    {
+      "title": "Bitcoin Price, XRP Fall. The House Just Introduced a New Crypto Bill. - Barron's",
+      "pubDate": "Fri, 30 May 2025 12:08:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -4705,6 +4705,12 @@
     {
       "title": "North Korea slams Trump\u2019s Golden Dome as plan for \u2018outer space nuclear war\u2019 - NK News",
       "pubDate": "Fri, 30 May 2025 07:27:17 GMT"
+    }
+  ],
+  "central_intelligence_agency": [
+    {
+      "title": "US intelligence employee arrested for alleged double-dealing of classified info - CyberScoop",
+      "pubDate": "Fri, 30 May 2025 19:21:50 GMT"
     }
   ]
 }
