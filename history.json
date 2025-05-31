@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump threatens E.U. with 50 percent tariff, takes aim at Apple over iPhones - The Washington Post",
-      "pubDate": "Fri, 23 May 2025 14:08:24 GMT"
-    },
-    {
       "title": "Donald Trump's tariff plans could spark global economic shock - BBC",
       "pubDate": "Fri, 23 May 2025 16:46:13 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Todd and Julie Chrisley to live in this southern state after presidential pardon - Fox Business",
       "pubDate": "Sat, 31 May 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Impersonator breached Chief of Staff Susie Wiles\u2019s phone, Trump says - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 13:51:22 GMT"
     }
   ],
   "ukraine": [
@@ -965,10 +965,6 @@
   ],
   "recession": [
     {
-      "title": "Economists Say Canada Recession Has Already Begun as Trade War Rages On - Bloomberg.com",
-      "pubDate": "Fri, 23 May 2025 14:15:21 GMT"
-    },
-    {
       "title": "'Recession' Mentions in Company Earnings Calls Highest Since Late 2022 - Newsweek",
       "pubDate": "Fri, 23 May 2025 16:12:02 GMT"
     },
@@ -1075,13 +1071,13 @@
     {
       "title": "Expert Worries Fed Cuts and Recession Risk Could be Ahead for Mass - Franklin Observer",
       "pubDate": "Sat, 31 May 2025 09:09:25 GMT"
+    },
+    {
+      "title": "Forget tariffs, here's why CEOs worry about a looming recession - TheStreet",
+      "pubDate": "Sat, 31 May 2025 14:07:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine and Russia begin the largest prisoner-of-war exchange since the invasion - NPR",
-      "pubDate": "Fri, 23 May 2025 14:50:58 GMT"
-    },
     {
       "title": "Russia, Ukraine Swap Nearly 800 Prisoners in Massive Exchange Deal - Foreign Policy",
       "pubDate": "Fri, 23 May 2025 20:04:03 GMT"
@@ -1305,6 +1301,10 @@
     {
       "title": "Russia\u2019s drone \u2018safaris\u2019 haunt Ukrainians in front-line city - The Hill",
       "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Russia's Economy Facing Triple Threat - Newsweek",
+      "pubDate": "Sat, 31 May 2025 14:05:02 GMT"
     }
   ],
   "israel": [
@@ -1352,10 +1352,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "German rights group fails in bid to stop Meta's data use for AI - Reuters",
-      "pubDate": "Fri, 23 May 2025 14:40:23 GMT"
-    },
     {
       "title": "We used AI for retirement planning advice and were surprised by what we found - MarketWatch",
       "pubDate": "Fri, 23 May 2025 15:30:00 GMT"
@@ -1883,6 +1879,10 @@
     {
       "title": "Meta plans to replace humans with AI to assess privacy and societal risks - NPR",
       "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "AI meets game theory: How language models perform in human-like social scenarios - Phys.org",
+      "pubDate": "Sat, 31 May 2025 14:10:01 GMT"
     }
   ],
   "financial_markets": [
@@ -2169,16 +2169,8 @@
   ],
   "china": [
     {
-      "title": "China Fast-Tracks Stealth Jets to Pakistan to Counter India: Report - Newsweek",
-      "pubDate": "Fri, 23 May 2025 15:00:19 GMT"
-    },
-    {
       "title": "Hegseth to attend Asia defense summit, with no China meeting planned - Defense News",
       "pubDate": "Fri, 23 May 2025 16:01:59 GMT"
-    },
-    {
-      "title": "China is building a constellation of AI supercomputers in space \u2014 and just launched the first pieces - Live Science",
-      "pubDate": "Fri, 23 May 2025 14:30:18 GMT"
     },
     {
       "title": "Iraq and China's Geo-Jade sign deal for Tuba oilfield expansion - Reuters",
@@ -2655,6 +2647,10 @@
     {
       "title": "Trump accuses China of breaching trade agreement amid tariff turmoil - The Washington Post",
       "pubDate": "Sat, 31 May 2025 04:05:43 GMT"
+    },
+    {
+      "title": "Hegseth Warns of \u2018Devastating Consequences\u2019 Should China Seek to \u2018Conquer\u2019 Taiwan - WSJ",
+      "pubDate": "Sat, 31 May 2025 14:14:00 GMT"
     }
   ],
   "iran": [
@@ -2709,6 +2705,10 @@
     {
       "title": "IAEA exposes secret Iranian nuclear uranium enrichment, report says - The Jerusalem Post",
       "pubDate": "Sat, 31 May 2025 12:27:00 GMT"
+    },
+    {
+      "title": "Iran has increased its stockpile of near weapons-grade uranium, nuclear watchdog says - CBS News",
+      "pubDate": "Sat, 31 May 2025 13:33:52 GMT"
     }
   ],
   "us_economy": [
@@ -4661,6 +4661,10 @@
     {
       "title": "Researchers predict 3 city-destroying asteroids could hit Earth with 1,000,000 times more force than Hiroshima bomb - UNILAD",
       "pubDate": "Fri, 30 May 2025 11:14:47 GMT"
+    },
+    {
+      "title": "Scientists Fear a Passing Star Could Fling Earth Out of the Sun's Orbit, Into the Frigid Expanse Beyond - futurism.com",
+      "pubDate": "Sat, 31 May 2025 13:00:27 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
