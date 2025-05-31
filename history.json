@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration live updates: Trump says EU will face 50% tariffs; Harvard sues over block to foreign student enrollments - NBC News",
-      "pubDate": "Fri, 23 May 2025 13:12:06 GMT"
-    },
-    {
       "title": "Live updates: Trump threatens E.U. with 50 percent tariff, takes aim at Apple over iPhones - The Washington Post",
       "pubDate": "Fri, 23 May 2025 14:08:24 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Daily State of Play: Trump\u2019s Indefinite Refugee Ban and Funding Halt - CWS",
       "pubDate": "Sat, 31 May 2025 06:59:14 GMT"
+    },
+    {
+      "title": "Todd and Julie Chrisley to live in this southern state after presidential pardon - Fox Business",
+      "pubDate": "Sat, 31 May 2025 12:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -965,16 +965,8 @@
   ],
   "recession": [
     {
-      "title": "Donald Trump has one last chance to avert a recession in the US - Moneyweek",
-      "pubDate": "Fri, 23 May 2025 13:44:23 GMT"
-    },
-    {
       "title": "Economists Say Canada Recession Has Already Begun as Trade War Rages On - Bloomberg.com",
       "pubDate": "Fri, 23 May 2025 14:15:21 GMT"
-    },
-    {
-      "title": "Mexico skirts recession in first quarter despite Trump uncertainty - MSN",
-      "pubDate": "Fri, 23 May 2025 13:46:09 GMT"
     },
     {
       "title": "'Recession' Mentions in Company Earnings Calls Highest Since Late 2022 - Newsweek",
@@ -1343,6 +1335,10 @@
     {
       "title": "Israel\u2019s plan to \u2018conquer\u2019 Gaza is leaving Palestinians with little place to go: 5 maps show how - CNN",
       "pubDate": "Sat, 31 May 2025 04:30:00 GMT"
+    },
+    {
+      "title": "Israel becomes the first country to down drones in combat with a laser weapon - Business Insider",
+      "pubDate": "Sat, 31 May 2025 10:48:00 GMT"
     }
   ],
   "inflation": [
@@ -1363,10 +1359,6 @@
     {
       "title": "We used AI for retirement planning advice and were surprised by what we found - MarketWatch",
       "pubDate": "Fri, 23 May 2025 15:30:00 GMT"
-    },
-    {
-      "title": "Artificial Intelligence, Real Stupidity (Hour 2) - Civic Media",
-      "pubDate": "Fri, 23 May 2025 13:11:41 GMT"
     },
     {
       "title": "Large Serving of Gen AI Is Helping Fuel Manufacturing Workforce in Food and Beverage - Manufacturing.net",
@@ -1887,6 +1879,10 @@
     {
       "title": "3 Reasons This Artificial Intelligence Stock Could Have the Biggest Comeback in 2025 - The Motley Fool",
       "pubDate": "Sat, 31 May 2025 12:15:00 GMT"
+    },
+    {
+      "title": "Meta plans to replace humans with AI to assess privacy and societal risks - NPR",
+      "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2026,10 +2022,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump ruins investors' long weekend by ramping up his trade war again - CNBC",
-      "pubDate": "Fri, 23 May 2025 13:23:44 GMT"
-    },
     {
       "title": "Trump vows 50pc tariffs on EU as he pressures Brussels to do a deal - The Telegraph",
       "pubDate": "Fri, 23 May 2025 17:14:14 GMT"
@@ -2713,13 +2705,13 @@
     {
       "title": "IAEA report says Iran had secret activities with undeclared nuclear material - Reuters",
       "pubDate": "Sat, 31 May 2025 10:59:14 GMT"
+    },
+    {
+      "title": "IAEA exposes secret Iranian nuclear uranium enrichment, report says - The Jerusalem Post",
+      "pubDate": "Sat, 31 May 2025 12:27:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Shrinks for First Time in Three Years Amid Tariff Concerns - MSN",
-      "pubDate": "Fri, 23 May 2025 13:35:03 GMT"
-    },
     {
       "title": "Fed members comment on US economy & monetary policy \ud83c\udfdb\ufe0fEURUSD gains 0,6% - XTB.com",
       "pubDate": "Fri, 23 May 2025 15:55:10 GMT"
@@ -3083,6 +3075,10 @@
     {
       "title": "Fed, PYMNTS Reports Highlight How Financially Strained Consumers Use BNPL - PYMNTS.com",
       "pubDate": "Sat, 31 May 2025 07:10:49 GMT"
+    },
+    {
+      "title": "Here are the retailers raising prices as Trump tariffs take hold - CNBC",
+      "pubDate": "Sat, 31 May 2025 12:00:01 GMT"
     }
   ],
   "terrorism": [
@@ -3335,6 +3331,10 @@
     {
       "title": "North Korea\u2019s Kim Jong Un is beefing up his navy. Can he succeed? - CNN",
       "pubDate": "Sat, 31 May 2025 03:02:00 GMT"
+    },
+    {
+      "title": "North Korea deploys mystery balloon-like objects to stricken warship, satellite photos show - CNN",
+      "pubDate": "Sat, 31 May 2025 07:14:00 GMT"
     }
   ],
   "hamas": [
@@ -3837,14 +3837,6 @@
   ],
   "us_politics": [
     {
-      "title": "Group chats are the 'dark matter of American politics' - WBUR",
-      "pubDate": "Fri, 23 May 2025 13:17:26 GMT"
-    },
-    {
-      "title": "DNC to hold June vote on whether to redo election of David Hogg as vice chair - KVIA",
-      "pubDate": "Fri, 23 May 2025 13:50:10 GMT"
-    },
-    {
       "title": "Former Bloomberg 2020 Campaign Employee Wins Back-Pay Lawsuit - The New York Times",
       "pubDate": "Fri, 23 May 2025 17:30:21 GMT"
     },
@@ -4067,6 +4059,10 @@
     {
       "title": "Trump tells Congress what to chop in 22 percent budget slashing - Politico",
       "pubDate": "Fri, 30 May 2025 23:43:08 GMT"
+    },
+    {
+      "title": "Wes Moore, Tim Walz urge for a fiercer Democratic party at famed Jim Clyburn Fish Fry - ABC News",
+      "pubDate": "Sat, 31 May 2025 09:12:01 GMT"
     }
   ],
   "cryptocurrency": [
