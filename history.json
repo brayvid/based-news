@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Donald Trump Announces 'Major Prisoners Swap' - Newsweek",
-      "pubDate": "Fri, 23 May 2025 11:08:15 GMT"
-    },
-    {
       "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
       "pubDate": "Fri, 23 May 2025 11:47:50 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say - NPR",
       "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric - NPR",
+      "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -956,10 +956,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Romania\u2019s president-elect says economy is in recession and deficit must fall - TVP World",
-      "pubDate": "Fri, 23 May 2025 10:41:00 GMT"
-    },
     {
       "title": "Why Sports Franchises Are \u2018Recession-Proof\u2019 - Front Office Sports",
       "pubDate": "Fri, 23 May 2025 12:28:49 GMT"
@@ -1313,6 +1309,10 @@
     {
       "title": "North Korea Gets a Weapons Bonanza From Russia - The New York Times",
       "pubDate": "Sat, 31 May 2025 09:02:02 GMT"
+    },
+    {
+      "title": "Russia\u2019s drone \u2018safaris\u2019 haunt Ukrainians in front-line city - The Hill",
+      "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
     }
   ],
   "israel": [
@@ -1879,13 +1879,13 @@
     {
       "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Snowflake - The Motley Fool",
       "pubDate": "Sat, 31 May 2025 09:25:00 GMT"
+    },
+    {
+      "title": "Why artificial intelligence has secured its place in special forces' operations - Shephard Media",
+      "pubDate": "Sat, 31 May 2025 09:13:09 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "How Geopolitical Events Are Affecting Global Financial Markets - Finimize",
-      "pubDate": "Fri, 23 May 2025 10:32:57 GMT"
-    },
     {
       "title": "Fed's Cook: April market volatility will help hone financial stability assessment - Reuters",
       "pubDate": "Fri, 23 May 2025 16:08:30 GMT"
@@ -2663,6 +2663,10 @@
     {
       "title": "Pete Hegseth says Chinese military action against Taiwan \u2018could be imminent\u2019 - Financial Times",
       "pubDate": "Sat, 31 May 2025 01:20:00 GMT"
+    },
+    {
+      "title": "US defense secretary warns Indo-Pacific allies of 'imminent' threat from China - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 10:18:52 GMT"
     }
   ],
   "iran": [
@@ -2701,6 +2705,10 @@
     {
       "title": "Trump says US, Iran \u2018fairly close\u2019 to reaching nuclear deal - The Times of Israel",
       "pubDate": "Sat, 31 May 2025 05:24:49 GMT"
+    },
+    {
+      "title": "Iran has amassed even more near weapons-grade uranium, UN watchdog says - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 10:59:16 GMT"
     }
   ],
   "us_economy": [
@@ -3067,6 +3075,10 @@
     {
       "title": "America Let Its Military-Industrial Might Wither. China\u2019s Is Booming. - WSJ",
       "pubDate": "Sat, 31 May 2025 03:30:44 GMT"
+    },
+    {
+      "title": "Modern Retail Podcast: Nike's Amazon return, E.l.f's big Rhode bet, and debunking recession indicators - Modern Retail",
+      "pubDate": "Sat, 31 May 2025 04:04:17 GMT"
     }
   ],
   "terrorism": [
@@ -3497,6 +3509,10 @@
     {
       "title": "Trump: Gaza ceasefire close, Israel warns Hamas of annihilation - The New Arab",
       "pubDate": "Sat, 31 May 2025 08:18:52 GMT"
+    },
+    {
+      "title": "Hamas must accept hostage deal or be \u2018annihilated\u2019, warns Israeli defence minister \u2013 Middle East crisis live - The Guardian",
+      "pubDate": "Sat, 31 May 2025 08:10:00 GMT"
     }
   ],
   "climate": [
@@ -3829,20 +3845,12 @@
   ],
   "us_politics": [
     {
-      "title": "A federal judge further halts Trump's radical transformation of government - NPR",
-      "pubDate": "Fri, 23 May 2025 10:50:17 GMT"
-    },
-    {
       "title": "Group chats are the 'dark matter of American politics' - WBUR",
       "pubDate": "Fri, 23 May 2025 13:17:26 GMT"
     },
     {
       "title": "DNC to hold June vote on whether to redo election of David Hogg as vice chair - KVIA",
       "pubDate": "Fri, 23 May 2025 13:50:10 GMT"
-    },
-    {
-      "title": "Joe Biden's rise and fall: Political and personal tragedy with cancer diagnosis \u2013 opinion - The Jerusalem Post",
-      "pubDate": "Fri, 23 May 2025 10:33:00 GMT"
     },
     {
       "title": "Former Bloomberg 2020 Campaign Employee Wins Back-Pay Lawsuit - The New York Times",
