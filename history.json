@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says talks with E.U. are 'going nowhere,' threatens 50% tariff in June - NBC News",
-      "pubDate": "Fri, 23 May 2025 19:33:07 GMT"
-    },
-    {
       "title": "\u2018I\u2019m not looking for a deal\u2019: Trump revives global trade war - Politico",
       "pubDate": "Fri, 23 May 2025 21:30:00 GMT"
     },
@@ -655,6 +651,10 @@
     {
       "title": "Trump gets key wins at Supreme Court on immigration, despite some misgivings - Reuters",
       "pubDate": "Sat, 31 May 2025 14:59:22 GMT"
+    },
+    {
+      "title": "It\u2019s called the Library of Congress. But Trump claims it\u2019s his. - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 17:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -969,6 +969,10 @@
     {
       "title": "Ukraine orders evacuation of 11 villages on Russian border as Kyiv braces for Sumy offensive - France 24",
       "pubDate": "Sat, 31 May 2025 10:11:14 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Child killed in Russian strike after Zelensky accuses Putin of sabotaging talks - The Independent",
+      "pubDate": "Sat, 31 May 2025 13:52:35 GMT"
     }
   ],
   "recession": [
@@ -1074,10 +1078,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia, Ukraine Swap Nearly 800 Prisoners in Massive Exchange Deal - Foreign Policy",
-      "pubDate": "Fri, 23 May 2025 20:04:03 GMT"
-    },
     {
       "title": "Hectic two weeks leaves Russia confident - and peace in Ukraine feeling no closer - BBC",
       "pubDate": "Fri, 23 May 2025 23:01:07 GMT"
@@ -1355,10 +1355,6 @@
     {
       "title": "Trouble with AI 'hallucinations' spreads to big law firms - Reuters",
       "pubDate": "Fri, 23 May 2025 21:01:38 GMT"
-    },
-    {
-      "title": "This Week in AI: The Agentic Web, AI-Native Devices and Search Tools - PYMNTS.com",
-      "pubDate": "Fri, 23 May 2025 19:20:43 GMT"
     },
     {
       "title": "NSA Publishes Joint Guidance on AI System Data Security - ExecutiveGov",
@@ -2121,10 +2117,6 @@
   ],
   "china": [
     {
-      "title": "New COVID variant NB.1.8.1 behind surge in China, now detected in U.S. - CBS News",
-      "pubDate": "Fri, 23 May 2025 19:31:38 GMT"
-    },
-    {
       "title": "A showdown over Harvard\u2019s China ties - Politico",
       "pubDate": "Fri, 23 May 2025 20:25:10 GMT"
     },
@@ -2595,6 +2587,10 @@
     {
       "title": "Pete Hegseth urges Asia to boost defence against China's 'imminent' threat to Taiwan - BBC",
       "pubDate": "Sat, 31 May 2025 13:34:41 GMT"
+    },
+    {
+      "title": "The U.S. Plan to Hobble China Tech Isn\u2019t Working - WSJ",
+      "pubDate": "Sat, 31 May 2025 15:26:55 GMT"
     }
   ],
   "iran": [
@@ -3115,6 +3111,10 @@
     {
       "title": "\u2018Gift of life\u2019: experts hail neck and head cancer breakthrough - The Guardian",
       "pubDate": "Fri, 30 May 2025 23:00:00 GMT"
+    },
+    {
+      "title": "\u2018Breakthrough\u2019 breast cancer therapy can slow advance of disease and prolong survival - The Guardian",
+      "pubDate": "Sat, 31 May 2025 12:02:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3575,6 +3575,10 @@
     {
       "title": "A Court Debates Whether a Climate Lawsuit Threatens National Security - The New York Times",
       "pubDate": "Fri, 30 May 2025 23:48:42 GMT"
+    },
+    {
+      "title": "JPMorgan hired NOAA's chief scientist to advise clients on navigating climate change - CNBC",
+      "pubDate": "Sat, 31 May 2025 12:00:01 GMT"
     }
   ],
   "ai_safety": [
@@ -4705,6 +4709,12 @@
     {
       "title": "Gaza \u2018hungriest place on Earth\u2019, all its people at risk of famine, UN warns - Al Jazeera",
       "pubDate": "Sat, 31 May 2025 09:34:01 GMT"
+    }
+  ],
+  "national_security": [
+    {
+      "title": "Global threat report reveals Trump\u2019s strategic priorities - Arab News",
+      "pubDate": "Sat, 31 May 2025 18:18:45 GMT"
     }
   ]
 }
