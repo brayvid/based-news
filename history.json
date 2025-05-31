@@ -647,6 +647,10 @@
     {
       "title": "Trump will hold a rally at U.S. Steel as investors seek clarity on Nippon deal. Here\u2019s what we know - CNBC",
       "pubDate": "Fri, 30 May 2025 16:45:24 GMT"
+    },
+    {
+      "title": "Trump says he wasn't aware of Musk reportedly using drugs during the 2024 campaign - USA Today",
+      "pubDate": "Sat, 31 May 2025 02:06:55 GMT"
     }
   ],
   "ukraine": [
@@ -933,10 +937,6 @@
   ],
   "recession": [
     {
-      "title": "America's most powerful banker Jamie Dimon stuns with warning US faces something worse than recession - Daily Mail",
-      "pubDate": "Fri, 23 May 2025 02:26:32 GMT"
-    },
-    {
       "title": "Singapore advises against tit-for-tat tariffs as economy faces technical recession risk - MSN",
       "pubDate": "Fri, 23 May 2025 04:50:07 GMT"
     },
@@ -1062,10 +1062,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,184 - Al Jazeera",
-      "pubDate": "Fri, 23 May 2025 02:58:25 GMT"
-    },
     {
       "title": "Drone Attack In Russia Delays Kanimozhi-Led Op Sindoor Delegation's Flight - NDTV",
       "pubDate": "Fri, 23 May 2025 07:31:25 GMT"
@@ -1297,6 +1293,10 @@
     {
       "title": "Opinion | Putin has a chance to escape his Ukraine disaster. He\u2019s blowing it. - The Washington Post",
       "pubDate": "Fri, 30 May 2025 21:37:20 GMT"
+    },
+    {
+      "title": "Kremlin fabricated story on Putin\u2019s near-miss with Ukrainian drones, Moscow Times reports. - The Kyiv Independent",
+      "pubDate": "Fri, 30 May 2025 23:35:28 GMT"
     }
   ],
   "israel": [
@@ -1344,10 +1344,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Streamlining Campaign Management with Artificial Intelligence in Marketing Automation - MarTech Outlook",
-      "pubDate": "Fri, 23 May 2025 03:10:32 GMT"
-    },
     {
       "title": "Illinois lawmakers pass bills on AI instruction, school bus seat belts - Jacksonville Journal-Courier",
       "pubDate": "Fri, 23 May 2025 06:02:22 GMT"
@@ -1863,6 +1859,10 @@
     {
       "title": "Neurosymbolic AI is the answer to large language models\u2019 inability to stop hallucinating - The Conversation",
       "pubDate": "Fri, 30 May 2025 15:10:07 GMT"
+    },
+    {
+      "title": "Analysis | The MAHA Report\u2019s AI fingerprints, annotated - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 02:02:23 GMT"
     }
   ],
   "financial_markets": [
@@ -2173,13 +2173,13 @@
     {
       "title": "Trump accuses China of violating preliminary trade deal - CNBC",
       "pubDate": "Fri, 30 May 2025 12:17:01 GMT"
+    },
+    {
+      "title": "Opinion | The EU Doesn\u2019t Need Trump for a Trade War - WSJ",
+      "pubDate": "Fri, 30 May 2025 23:51:31 GMT"
     }
   ],
   "china": [
-    {
-      "title": "CATL\u2019s Foray Into Europe Shows China\u2019s Tariff Workaround - Bloomberg",
-      "pubDate": "Fri, 23 May 2025 02:57:00 GMT"
-    },
     {
       "title": "China lowers deposit rate ceiling to protect banks' interest margins, sources say - Reuters",
       "pubDate": "Fri, 23 May 2025 06:26:00 GMT"
@@ -3837,14 +3837,6 @@
       "pubDate": "Fri, 23 May 2025 03:14:30 GMT"
     },
     {
-      "title": "Hundreds Join Trump at \u2018Exclusive\u2019 Dinner, With Dreams of Crypto Fortunes in Mind - The New York Times",
-      "pubDate": "Fri, 23 May 2025 03:03:03 GMT"
-    },
-    {
-      "title": "News | US government considers shedding more offices around the country to save money - CoStar",
-      "pubDate": "Fri, 23 May 2025 03:07:11 GMT"
-    },
-    {
       "title": "Armstrong Williams: Politics can't strip us of our humanity - The Northern Virginia Daily",
       "pubDate": "Fri, 23 May 2025 04:00:00 GMT"
     },
@@ -4079,6 +4071,10 @@
     {
       "title": "Supreme Court allows DHS to end parole for a half-million noncitizens - SCOTUSblog",
       "pubDate": "Fri, 30 May 2025 16:41:05 GMT"
+    },
+    {
+      "title": "Trump Officials Unveil Budget Cuts to Aid for Health, Housing and Research - The New York Times",
+      "pubDate": "Sat, 31 May 2025 02:44:17 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4627,6 +4623,10 @@
     {
       "title": "Supreme Court allows Trump to strip humanitarian parole of 500,000 people from 4 countries - PBS",
       "pubDate": "Fri, 30 May 2025 14:43:07 GMT"
+    },
+    {
+      "title": "US Supreme Court lets Trump revoke humanitarian legal status for migrants - Reuters",
+      "pubDate": "Fri, 30 May 2025 20:49:19 GMT"
     }
   ],
   "asteroids": [
@@ -4687,6 +4687,10 @@
     {
       "title": "Scientists Announce Fusion Research \u201cMilestone\u201d - Thomasnet",
       "pubDate": "Thu, 29 May 2025 20:30:17 GMT"
+    },
+    {
+      "title": "China\u2019s tokamak nuclear reactor smashes global fusion record - The Brighter Side of News",
+      "pubDate": "Sat, 31 May 2025 00:07:00 GMT"
     }
   ],
   "computing": [
