@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump signs executive orders aimed at easing regulations on and expanding nuclear energy production - NBC News",
-      "pubDate": "Fri, 23 May 2025 18:15:00 GMT"
-    },
-    {
       "title": "Trump says talks with E.U. are 'going nowhere,' threatens 50% tariff in June - NBC News",
       "pubDate": "Fri, 23 May 2025 19:33:07 GMT"
     },
@@ -655,6 +651,10 @@
     {
       "title": "Trump pardons drive a big, burgeoning business for lobbyists - NBC News",
       "pubDate": "Sat, 31 May 2025 17:06:13 GMT"
+    },
+    {
+      "title": "Trump gets key wins at Supreme Court on immigration, despite some misgivings - Reuters",
+      "pubDate": "Sat, 31 May 2025 14:59:22 GMT"
     }
   ],
   "ukraine": [
@@ -965,6 +965,10 @@
     {
       "title": "Russia seizes more Ukrainian territory amid fears of fresh ground offensive - The Guardian",
       "pubDate": "Sat, 31 May 2025 12:09:00 GMT"
+    },
+    {
+      "title": "Ukraine orders evacuation of 11 villages on Russian border as Kyiv braces for Sumy offensive - France 24",
+      "pubDate": "Sat, 31 May 2025 10:11:14 GMT"
     }
   ],
   "recession": [
@@ -1073,10 +1077,6 @@
     {
       "title": "Russia, Ukraine Swap Nearly 800 Prisoners in Massive Exchange Deal - Foreign Policy",
       "pubDate": "Fri, 23 May 2025 20:04:03 GMT"
-    },
-    {
-      "title": "Russia and Ukraine swap hundreds of prisoners in first phase of a major exchange - AP News",
-      "pubDate": "Fri, 23 May 2025 18:46:00 GMT"
     },
     {
       "title": "Hectic two weeks leaves Russia confident - and peace in Ukraine feeling no closer - BBC",
@@ -1933,14 +1933,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "We Can No Longer Dismiss Trump\u2019s Blatant Racism - Foreign Policy",
-      "pubDate": "Fri, 23 May 2025 18:39:25 GMT"
-    },
-    {
-      "title": "Vance emphasizes \u2018generational shift\u2019 in US foreign policy at Naval Academy graduation - Washington Examiner",
-      "pubDate": "Fri, 23 May 2025 18:19:55 GMT"
-    },
-    {
       "title": "Trump shrinks National Security Council in major foreign policy shakeup - Georgia Public Broadcasting",
       "pubDate": "Sat, 24 May 2025 00:18:36 GMT"
     },
@@ -1995,16 +1987,8 @@
   ],
   "trade_war": [
     {
-      "title": "Stock markets plunge after Trump threatens 50% tax on EU goods - The Independent",
-      "pubDate": "Fri, 23 May 2025 18:21:00 GMT"
-    },
-    {
       "title": "Watch S&P 500 Falls as Trade War Reignites | Closing Bell - Bloomberg",
       "pubDate": "Fri, 23 May 2025 20:26:19 GMT"
-    },
-    {
-      "title": "Tariffs live updates: Trump broadens threats on Apple, EU in latest escalation of trade war - Yahoo Finance",
-      "pubDate": "Fri, 23 May 2025 19:05:30 GMT"
     },
     {
       "title": "As Trump focuses on his trade war, Brazil and China forge closer ties - The Guardian",
@@ -2136,10 +2120,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Iraq and China's Geo-Jade sign deal for Tuba oilfield expansion - Reuters",
-      "pubDate": "Fri, 23 May 2025 18:37:05 GMT"
-    },
     {
       "title": "New COVID variant NB.1.8.1 behind surge in China, now detected in U.S. - CBS News",
       "pubDate": "Fri, 23 May 2025 19:31:38 GMT"
@@ -3139,10 +3119,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Jon Stewart pitches 2028 slogan for Democrats: \u2018Overcome the stink\u2019 - The Hill",
-      "pubDate": "Fri, 23 May 2025 18:53:00 GMT"
-    },
-    {
       "title": "Political News & Notes: Haver-Crissman honored, McDonald-Rivet and Moolenaar seek answers from FEMA - Midland Daily News",
       "pubDate": "Fri, 23 May 2025 20:31:30 GMT"
     },
@@ -3472,6 +3448,10 @@
     },
     {
       "title": "Hamas must accept hostage deal or be \u2018annihilated\u2019, warns Israeli defence minister \u2013 Middle East crisis live - The Guardian",
+      "pubDate": "Sat, 31 May 2025 08:10:00 GMT"
+    },
+    {
+      "title": "Hamas responds to US-led Gaza deal as Israel confirms it killed Mohammed Sinwar \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Sat, 31 May 2025 08:10:00 GMT"
     }
   ],
@@ -4473,6 +4453,10 @@
     {
       "title": "Trump warns Putin he's \"playing with fire\" by bombing Ukraine - Axios",
       "pubDate": "Tue, 27 May 2025 19:28:21 GMT"
+    },
+    {
+      "title": "Russia Accused of Staging Attack on Putin's Helicopter - Newsweek",
+      "pubDate": "Sat, 31 May 2025 14:53:47 GMT"
     }
   ],
   "defense_intelligence_agency": [
