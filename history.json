@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump urges Senate to pass his tax and immigration bill \u2018as soon as possible\u2019 - The Washington Post",
-      "pubDate": "Fri, 23 May 2025 01:55:10 GMT"
-    },
-    {
       "title": "Trump takes new pages out of strongman\u2019s playbook with Harvard crackdown and crypto gala - CNN",
       "pubDate": "Fri, 23 May 2025 04:00:00 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump administration live updates: President raises steel tariff; PBS sues administration - NBC News",
       "pubDate": "Fri, 30 May 2025 23:19:31 GMT"
+    },
+    {
+      "title": "Trump will hold a rally at U.S. Steel as investors seek clarity on Nippon deal. Here\u2019s what we know - CNBC",
+      "pubDate": "Fri, 30 May 2025 16:45:24 GMT"
     }
   ],
   "ukraine": [
@@ -1062,10 +1062,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "FBI whistleblower claims he tried to get to Musk to warn him he was being targeted by Russia - The Guardian",
-      "pubDate": "Fri, 23 May 2025 01:30:00 GMT"
-    },
     {
       "title": "Russia-Ukraine war: List of key events, day 1,184 - Al Jazeera",
       "pubDate": "Fri, 23 May 2025 02:58:25 GMT"
@@ -1863,6 +1859,10 @@
     {
       "title": "Texas FBI analyst arrested on child pornography charges had AI-generated images, court records - KHOU",
       "pubDate": "Sat, 31 May 2025 00:10:00 GMT"
+    },
+    {
+      "title": "Neurosymbolic AI is the answer to large language models\u2019 inability to stop hallucinating - The Conversation",
+      "pubDate": "Fri, 30 May 2025 15:10:07 GMT"
     }
   ],
   "financial_markets": [
@@ -2177,20 +2177,8 @@
   ],
   "china": [
     {
-      "title": "Senior US-China Officials Vow to Keep Communication Lines Open - Bloomberg.com",
-      "pubDate": "Fri, 23 May 2025 01:14:00 GMT"
-    },
-    {
-      "title": "US agency votes to bar Chinese labs deemed security risks from testing US electronics - Reuters",
-      "pubDate": "Fri, 23 May 2025 01:55:07 GMT"
-    },
-    {
       "title": "CATL\u2019s Foray Into Europe Shows China\u2019s Tariff Workaround - Bloomberg",
       "pubDate": "Fri, 23 May 2025 02:57:00 GMT"
-    },
-    {
-      "title": "Ohio legislation could force Chinese scientists to sell their homes in the US - South China Morning Post",
-      "pubDate": "Fri, 23 May 2025 02:00:08 GMT"
     },
     {
       "title": "China lowers deposit rate ceiling to protect banks' interest margins, sources say - Reuters",
@@ -2675,6 +2663,10 @@
     {
       "title": "Trump order could end Chinese drone sales in the U.S. - The Washington Post",
       "pubDate": "Fri, 30 May 2025 21:07:14 GMT"
+    },
+    {
+      "title": "Pentagon chief warns of imminent China threat, pushes Asian allies to hike defence spending - Reuters",
+      "pubDate": "Sat, 31 May 2025 01:08:03 GMT"
     }
   ],
   "iran": [
@@ -2712,10 +2704,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "CNBC Daily Open: Trump's 'big, beautiful' tax bill might only be a short-term boost to the U.S. economy - CNBC",
-      "pubDate": "Fri, 23 May 2025 01:23:00 GMT"
-    },
     {
       "title": "Fed Chief Warns of \u2018Persistent Shocks\u2019 to U.S. Economy - MSN",
       "pubDate": "Fri, 23 May 2025 08:00:08 GMT"
@@ -3083,6 +3071,10 @@
     {
       "title": "The US economy contracted by 0.2% in the first quarter, less than estimated - MSN",
       "pubDate": "Fri, 30 May 2025 10:21:30 GMT"
+    },
+    {
+      "title": "US to double tariffs on steel and aluminium imports to 50%, Trump says - BBC",
+      "pubDate": "Sat, 31 May 2025 00:31:01 GMT"
     }
   ],
   "terrorism": [
@@ -3177,10 +3169,6 @@
     {
       "title": "Hawkins: The next generation of Democratic leaders must defy respectability politics - The Daily Northwestern",
       "pubDate": "Fri, 23 May 2025 03:25:00 GMT"
-    },
-    {
-      "title": "The Democrats: Leadership discredited, party off kilter - WV News",
-      "pubDate": "Fri, 23 May 2025 02:10:00 GMT"
     },
     {
       "title": "Democratic credibility tanks to \u2018catastrophic\u2019 level with Biden health cover-up - Washington Examiner",
@@ -3284,10 +3272,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea vows to arrest those responsible for failed ship launch - Yahoo",
-      "pubDate": "Fri, 23 May 2025 01:57:00 GMT"
-    },
     {
       "title": "Kim Jong Un\u2019s fury after watching North Korea\u2019s new navy destroyer crippled in botched launch - MSN",
       "pubDate": "Sat, 24 May 2025 17:26:07 GMT"
@@ -4091,6 +4075,10 @@
     {
       "title": "How the GOP megabill may roll back the Affordable Care Act - Axios",
       "pubDate": "Fri, 30 May 2025 13:34:46 GMT"
+    },
+    {
+      "title": "Supreme Court allows DHS to end parole for a half-million noncitizens - SCOTUSblog",
+      "pubDate": "Fri, 30 May 2025 16:41:05 GMT"
     }
   ],
   "cryptocurrency": [
