@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
-      "pubDate": "Fri, 23 May 2025 11:47:50 GMT"
-    },
-    {
       "title": "Trump administration live updates: Trump says EU will face 50% tariffs; Harvard sues over block to foreign student enrollments - NBC News",
       "pubDate": "Fri, 23 May 2025 13:12:06 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric - NPR",
       "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Trump Is Planning a 'Garden of American Heroes' For the Country's Anniversary. Sculpture Experts Say It'll Never Happen. - Politico",
+      "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -953,6 +953,10 @@
     {
       "title": "Next round of Russia-Ukraine talks uncertain as Moscow won\u2019t reveal terms - The Washington Post",
       "pubDate": "Sat, 31 May 2025 03:12:21 GMT"
+    },
+    {
+      "title": "Ukraine Strikes Russian Target in Far East Before Planned Talks - Bloomberg.com",
+      "pubDate": "Sat, 31 May 2025 10:14:19 GMT"
     }
   ],
   "recession": [
@@ -1356,10 +1360,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How CoreWeave Plans To Rule The AI Cloud With Nvidia In Its Corner - Investor's Business Daily",
-      "pubDate": "Fri, 23 May 2025 12:00:00 GMT"
-    },
     {
       "title": "German rights group fails in bid to stop Meta's data use for AI - Reuters",
       "pubDate": "Fri, 23 May 2025 14:40:23 GMT"
@@ -1883,6 +1883,10 @@
     {
       "title": "Why artificial intelligence has secured its place in special forces' operations - Shephard Media",
       "pubDate": "Sat, 31 May 2025 09:13:09 GMT"
+    },
+    {
+      "title": "\u2018One day I overheard my boss saying: just put it in ChatGPT\u2019: the workers who lost their jobs to AI - The Guardian",
+      "pubDate": "Sat, 31 May 2025 10:45:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1960,10 +1964,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Future queen of Belgium Elisabeth caught up in Harvard foreign student ban - Al Arabiya English",
-      "pubDate": "Fri, 23 May 2025 11:41:00 GMT"
-    },
     {
       "title": "We Can No Longer Dismiss Trump\u2019s Blatant Racism - Foreign Policy",
       "pubDate": "Fri, 23 May 2025 18:39:25 GMT"
@@ -2180,14 +2180,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's Xi, Germany's Merz stress ties to weather trade turmoil - Reuters",
-      "pubDate": "Fri, 23 May 2025 11:37:49 GMT"
-    },
-    {
-      "title": "Harvard University's 'Links' To China, Iran Triggers US National Security Concerns - NDTV",
-      "pubDate": "Fri, 23 May 2025 12:04:44 GMT"
-    },
     {
       "title": "China Fast-Tracks Stealth Jets to Pakistan to Counter India: Report - Newsweek",
       "pubDate": "Fri, 23 May 2025 15:00:19 GMT"
@@ -2667,6 +2659,10 @@
     {
       "title": "US defense secretary warns Indo-Pacific allies of 'imminent' threat from China - The Washington Post",
       "pubDate": "Sat, 31 May 2025 10:18:52 GMT"
+    },
+    {
+      "title": "China slams Macron over \u2018unacceptable\u2019 comments on Taiwan and Ukraine - politico.eu",
+      "pubDate": "Sat, 31 May 2025 11:20:23 GMT"
     }
   ],
   "iran": [
@@ -2709,13 +2705,13 @@
     {
       "title": "Iran has amassed even more near weapons-grade uranium, UN watchdog says - The Washington Post",
       "pubDate": "Sat, 31 May 2025 10:59:16 GMT"
+    },
+    {
+      "title": "New IAEA report confirms Iran carried out secret nuclear activities at three undeclared sites - The Times of Israel",
+      "pubDate": "Sat, 31 May 2025 11:07:43 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Clean energy dollars are gushing to red states. Now GOP senators are in a bind. - The Washington Post",
-      "pubDate": "Fri, 23 May 2025 11:31:19 GMT"
-    },
     {
       "title": "New Zealand dollar soars on New Zealand retail sales, US fisacal concerns - marketpulse.com",
       "pubDate": "Fri, 23 May 2025 12:15:00 GMT"
@@ -3079,6 +3075,10 @@
     {
       "title": "Modern Retail Podcast: Nike's Amazon return, E.l.f's big Rhode bet, and debunking recession indicators - Modern Retail",
       "pubDate": "Sat, 31 May 2025 04:04:17 GMT"
+    },
+    {
+      "title": "Want to see where Trump\u2019s tariffs are leading US business? Look at Georgia - The Guardian",
+      "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
     }
   ],
   "terrorism": [
@@ -3174,10 +3174,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Whole Hog Politics: The autopsy Democrats actually need - The Hill",
-      "pubDate": "Fri, 23 May 2025 12:00:00 GMT"
-    },
     {
       "title": "How John Fetterman Became \u201cTrump\u2019s Favorite Democrat\u201d - Mother Jones",
       "pubDate": "Fri, 23 May 2025 12:26:14 GMT"
@@ -3335,6 +3331,10 @@
     {
       "title": "North and South Korea are in an underground war - Kim Jong Un might now be winning - BBC",
       "pubDate": "Fri, 30 May 2025 23:42:47 GMT"
+    },
+    {
+      "title": "North Korea\u2019s Kim Jong Un is beefing up his navy. Can he succeed? - CNN",
+      "pubDate": "Sat, 31 May 2025 03:02:00 GMT"
     }
   ],
   "hamas": [
