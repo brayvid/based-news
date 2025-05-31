@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Donald Trump's tariff plans could spark global economic shock - BBC",
-      "pubDate": "Fri, 23 May 2025 16:46:13 GMT"
-    },
-    {
       "title": "Trump signs executive orders aimed at easing regulations on and expanding nuclear energy production - NBC News",
       "pubDate": "Fri, 23 May 2025 18:15:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Impersonator breached Chief of Staff Susie Wiles\u2019s phone, Trump says - The Washington Post",
       "pubDate": "Sat, 31 May 2025 13:51:22 GMT"
+    },
+    {
+      "title": "Trump Explains Reason For Doubling Steel, Aluminum Tariffs - Time Magazine",
+      "pubDate": "Sat, 31 May 2025 15:43:10 GMT"
     }
   ],
   "ukraine": [
@@ -964,10 +964,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "'Recession' Mentions in Company Earnings Calls Highest Since Late 2022 - Newsweek",
-      "pubDate": "Fri, 23 May 2025 16:12:02 GMT"
-    },
     {
       "title": "Crisis coming: Top economist says Canada is entering a recession that could cost 100,000 people their jobs - The Economic Times",
       "pubDate": "Fri, 23 May 2025 18:08:20 GMT"
@@ -1871,10 +1867,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Fed's Cook: April market volatility will help hone financial stability assessment - Reuters",
-      "pubDate": "Fri, 23 May 2025 16:08:30 GMT"
-    },
-    {
       "title": "GOP bill locks in new deficit plateau as bond market quakes - The Hill",
       "pubDate": "Sat, 24 May 2025 10:00:00 GMT"
     },
@@ -2013,10 +2005,6 @@
     {
       "title": "Stock markets plunge after Trump threatens 50% tax on EU goods - The Independent",
       "pubDate": "Fri, 23 May 2025 18:21:00 GMT"
-    },
-    {
-      "title": "Trump Trade War Jolts Apple, Europe And S&P 500 With Latest Tariff Twist - Investor's Business Daily",
-      "pubDate": "Fri, 23 May 2025 16:52:00 GMT"
     },
     {
       "title": "Watch S&P 500 Falls as Trade War Reignites | Closing Bell - Bloomberg",
@@ -2163,10 +2151,6 @@
     {
       "title": "A showdown over Harvard\u2019s China ties - Politico",
       "pubDate": "Fri, 23 May 2025 20:25:10 GMT"
-    },
-    {
-      "title": "Alarm Sounded: America's Biotech Future at Risk as China Races Ahead and AI Escalates - cbn.com",
-      "pubDate": "Fri, 23 May 2025 16:09:14 GMT"
     },
     {
       "title": "Tensions rise as China, Russia, US and Europe scramble for Arctic - BBC",
@@ -2689,13 +2673,13 @@
     {
       "title": "Iran has increased its stockpile of near weapons-grade uranium, nuclear watchdog says - CBS News",
       "pubDate": "Sat, 31 May 2025 13:33:52 GMT"
+    },
+    {
+      "title": "Iran increases stockpile of enriched Uranium by 50 percent, IAEA says - Al Jazeera",
+      "pubDate": "Sat, 31 May 2025 14:15:12 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Scott Galloway warns Americans on 401(k), U.S. economy threat - TheStreet",
-      "pubDate": "Fri, 23 May 2025 16:36:28 GMT"
-    },
     {
       "title": "U.S. Steel and Nippon Steel Announce Strategic Partnership to Boost U.S. Economy - News and Statistics - IndexBox",
       "pubDate": "Fri, 23 May 2025 20:09:39 GMT"
@@ -3051,6 +3035,10 @@
     {
       "title": "Here are the retailers raising prices as Trump tariffs take hold - CNBC",
       "pubDate": "Sat, 31 May 2025 12:00:01 GMT"
+    },
+    {
+      "title": "Billionaire Ray Dalio Warns US Economy Headed for \u2018Terrible Outcome\u2019 if Deficit Isn\u2019t Slashed, Recommends \u20183 Percent Solution\u2019: Report - The Daily Hodl",
+      "pubDate": "Sat, 31 May 2025 16:01:05 GMT"
     }
   ],
   "terrorism": [
@@ -3303,6 +3291,10 @@
     {
       "title": "North Korea deploys mystery balloon-like objects to stricken warship, satellite photos show - CNN",
       "pubDate": "Sat, 31 May 2025 07:14:00 GMT"
+    },
+    {
+      "title": "North Korea has deployed thousands of troops to help Russia 'terrorize Ukraine,' report finds - NBC News",
+      "pubDate": "Sat, 31 May 2025 13:15:18 GMT"
     }
   ],
   "hamas": [
@@ -3607,10 +3599,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Striking the Balance: Global Approaches to Mitigating AI-Related Risks - Unite.AI",
-      "pubDate": "Fri, 23 May 2025 17:06:03 GMT"
-    },
-    {
       "title": "Anthropic adds Claude 4 security measures to limit risk of users developing weapons - MSN",
       "pubDate": "Fri, 23 May 2025 20:20:33 GMT"
     },
@@ -3803,10 +3791,6 @@
     {
       "title": "Former Bloomberg 2020 Campaign Employee Wins Back-Pay Lawsuit - The New York Times",
       "pubDate": "Fri, 23 May 2025 17:30:21 GMT"
-    },
-    {
-      "title": "Judges Keep Calling Trump\u2019s Actions Illegal, but Undoing Them Is Hard - The New York Times",
-      "pubDate": "Fri, 23 May 2025 16:52:14 GMT"
     },
     {
       "title": "The week the Democrats\u2019 gerontocracy problem came home to roost - The Independent",
@@ -4027,6 +4011,10 @@
     {
       "title": "Wes Moore, Tim Walz urge for a fiercer Democratic party at famed Jim Clyburn Fish Fry - ABC News",
       "pubDate": "Sat, 31 May 2025 09:12:01 GMT"
+    },
+    {
+      "title": "Senate Republicans Try Out \u2018We All Die\u2019 Slogan to Justify Medicaid Cuts - WhoWhatWhy",
+      "pubDate": "Sat, 31 May 2025 10:35:31 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4125,6 +4113,10 @@
     {
       "title": "Trump administration ending multiple HIV vaccine studies, scientists and officials say - CBS News",
       "pubDate": "Fri, 30 May 2025 23:37:00 GMT"
+    },
+    {
+      "title": "Scientists think birds may be using quantum physics and entanglement for migration - Earth.com",
+      "pubDate": "Sat, 31 May 2025 11:39:07 GMT"
     }
   ],
   "renewable_energy": [
@@ -4719,6 +4711,12 @@
     {
       "title": "Scientists Are Sinking Concrete Batteries Underwater. An Energy Revolution Is Coming. - Popular Mechanics",
       "pubDate": "Fri, 30 May 2025 22:07:00 GMT"
+    }
+  ],
+  "world_news": [
+    {
+      "title": "Gaza \u2018hungriest place on Earth\u2019, all its people at risk of famine, UN warns - Al Jazeera",
+      "pubDate": "Sat, 31 May 2025 09:34:01 GMT"
     }
   ]
 }
