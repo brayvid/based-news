@@ -2,7 +2,7 @@
 
 This Python script fetches the latest Google News RSS headlines for a user-defined list of topics and updates an HTML site every hour. It uses Google Gemini to prioritize headlines based on the user's preferences. Designed to be scheduled with `cron` on any Unix-based system.
 
-View the site here: **[news.blakerayvid.com](https://news.blakerayvid.com)**
+View the demo here: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 
 ---
 
