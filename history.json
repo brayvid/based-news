@@ -643,6 +643,10 @@
     {
       "title": "EU 'prepared to impose countermeasures' after Trump doubles steel tariffs to 50% - CNBC",
       "pubDate": "Sat, 31 May 2025 15:03:32 GMT"
+    },
+    {
+      "title": "The fallout from Trump's war on Harvard will long outlast his presidency - BBC",
+      "pubDate": "Sat, 31 May 2025 23:46:24 GMT"
     }
   ],
   "ukraine": [
@@ -973,13 +977,13 @@
     {
       "title": "Russian occupation in Ukraine: Silent acts of resistance and fear - BBC",
       "pubDate": "Sat, 31 May 2025 23:53:22 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,193 - Al Jazeera",
+      "pubDate": "Sun, 01 Jun 2025 00:37:37 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "April Jobs Report Shows New Jobs Added Despite Tariffs and Recession Fears - USA Herald",
-      "pubDate": "Sat, 24 May 2025 02:04:40 GMT"
-    },
     {
       "title": "Elon\u2019s 3-Step Plan to Save U.S. from Recession & Boost GDP - FXLeaders",
       "pubDate": "Sat, 24 May 2025 15:05:48 GMT"
@@ -1078,10 +1082,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia hits Ukrainian capital Kyiv with heavy missile and drone attack - CBS News",
-      "pubDate": "Sat, 24 May 2025 01:38:50 GMT"
-    },
     {
       "title": "Kyiv mayor says Russian drones, missiles trigger fires, injure eight - Reuters",
       "pubDate": "Sat, 24 May 2025 03:58:00 GMT"
@@ -1925,6 +1925,10 @@
     {
       "title": "Wall Street warns Trump aides the GOP tax bill could jolt bond markets - Star Tribune",
       "pubDate": "Sat, 31 May 2025 20:43:49 GMT"
+    },
+    {
+      "title": "Trump administration is said to move to ease capital rules for big banks - MSN",
+      "pubDate": "Sat, 31 May 2025 21:03:04 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1974,10 +1978,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "US-EU trade war fears reignite as Europe strikes back at Trump's threat - Yahoo News UK",
-      "pubDate": "Sat, 24 May 2025 01:40:00 GMT"
-    },
     {
       "title": "Farmers weigh Trump's trade war like they watch the weather, waiting to see how things go - The Journal Gazette",
       "pubDate": "Sat, 24 May 2025 03:15:00 GMT"
@@ -2579,6 +2579,10 @@
     {
       "title": "Hegseth warns \u2018threat China poses is real\u2019 - CNN",
       "pubDate": "Sat, 31 May 2025 16:17:00 GMT"
+    },
+    {
+      "title": "Hegseth warns Chinese invasion of Taiwan \u2018could be imminent\u2019 - NBC News",
+      "pubDate": "Sat, 31 May 2025 23:21:28 GMT"
     }
   ],
   "iran": [
@@ -2660,10 +2664,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump says US Steel will keep HQ in Pittsburgh in a sign he'll approve bid by Japan-based Nippon - The Economic Times",
-      "pubDate": "Sat, 24 May 2025 01:14:49 GMT"
-    },
     {
       "title": "Why Trump\u2019s escalating war on Harvard, other US universities could progressively dent American academic leadership, impact economy - The Indian Express",
       "pubDate": "Sat, 24 May 2025 05:29:55 GMT"
@@ -3127,16 +3127,8 @@
   ],
   "democratic_party": [
     {
-      "title": "Fox\u2019s McEnany Says Tapper-Thompson Biden Book Actually \u2018Exonerating\u2019 for \u2018Much of ... - Mediaite",
-      "pubDate": "Sat, 24 May 2025 01:25:00 GMT"
-    },
-    {
       "title": "Ezra Klein, journalist and writer: \u2018The Democrats were more loyal to Biden than to their own chances of winning\u2019 - EL PA\u00cdS English",
       "pubDate": "Sat, 24 May 2025 04:00:00 GMT"
-    },
-    {
-      "title": "Divisive Democrat David Hogg says this congresswoman is \u2018the type of leader\u2019 the party needs - New York Post",
-      "pubDate": "Sat, 24 May 2025 01:39:00 GMT"
     },
     {
       "title": "NJ Democratic governor candidates want to fight Trump and tackle affordability | Editorial - Bergen Record",
@@ -3465,6 +3457,10 @@
     {
       "title": "Muhammad Sinwar, a Top Military Leader of Hamas, Is Dead, Israel Says - The New York Times",
       "pubDate": "Sat, 31 May 2025 20:21:25 GMT"
+    },
+    {
+      "title": "Hamas responds to ceasefire proposal, reiterates demands - ABC News",
+      "pubDate": "Sat, 31 May 2025 17:48:45 GMT"
     }
   ],
   "climate": [
@@ -4105,6 +4101,10 @@
     {
       "title": "Scientists think birds may be using quantum physics and entanglement for migration - Earth.com",
       "pubDate": "Sat, 31 May 2025 11:39:07 GMT"
+    },
+    {
+      "title": "Why Trump\u2019s push for \u2018gold-standard science\u2019 has researchers alarmed - The Washington Post",
+      "pubDate": "Sat, 31 May 2025 17:00:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -4731,6 +4731,12 @@
     {
       "title": "Global threat report reveals Trump\u2019s strategic priorities - Arab News",
       "pubDate": "Sat, 31 May 2025 18:18:45 GMT"
+    }
+  ],
+  "earth": [
+    {
+      "title": "Scientists find that major Earth systems are on the verge of total collapse - Earth.com",
+      "pubDate": "Sun, 01 Jun 2025 01:06:50 GMT"
     }
   ]
 }
