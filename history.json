@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Rubio and Grenell, Trump\u2019s dueling diplomats, clash over Venezuela - The Washington Post",
-      "pubDate": "Sat, 24 May 2025 08:08:15 GMT"
-    },
-    {
       "title": "Trump\u2019s Russia sanctions refusal leaves Europe with few options but to wait - The Guardian",
       "pubDate": "Sat, 24 May 2025 09:31:00 GMT"
     },
@@ -667,6 +663,10 @@
     {
       "title": "Trump news at a glance: Hegseth warns of \u2018imminent\u2019 China threat, urging Asia to upgrade militaries - The Guardian",
       "pubDate": "Sun, 01 Jun 2025 02:01:12 GMT"
+    },
+    {
+      "title": "Trump administration\u2019s deep cuts to public health leave system reeling - PBS",
+      "pubDate": "Sat, 31 May 2025 22:15:40 GMT"
     }
   ],
   "ukraine": [
@@ -1123,13 +1123,13 @@
     {
       "title": "Survey: More than half of Americans expect to spend less on fun purchases this year - The Spokesman-Review",
       "pubDate": "Sun, 01 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ASX to make slight gain as US recession fears grow - AFR",
+      "pubDate": "Sun, 01 Jun 2025 05:54:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine says 15 people hurt in 'massive' Russian attack on capital - Reuters",
-      "pubDate": "Sat, 24 May 2025 08:08:34 GMT"
-    },
     {
       "title": "Russia bombards Kyiv and kills at least 13 people across Ukraine hours after prisoner swap begins - CNN",
       "pubDate": "Sat, 24 May 2025 10:25:00 GMT"
@@ -1345,6 +1345,10 @@
     {
       "title": "Russia Says Seven Die as Bridge Collapses Onto Passenger Train - Bloomberg",
       "pubDate": "Sun, 01 Jun 2025 06:45:00 GMT"
+    },
+    {
+      "title": "Bridges collapse in 2 Russian regions bordering Ukraine, 7 dead - Reuters",
+      "pubDate": "Sun, 01 Jun 2025 05:46:00 GMT"
     }
   ],
   "israel": [
@@ -1392,10 +1396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence in Search Engine Optimization: Revolution in Technical Website Settings - voice-online.co.uk",
-      "pubDate": "Sat, 24 May 2025 08:35:04 GMT"
-    },
     {
       "title": "Analysis | How Elon Musk\u2019s \u2018truth-seeking\u2019 chatbot lost its way - The Washington Post",
       "pubDate": "Sat, 24 May 2025 11:06:15 GMT"
@@ -1899,6 +1899,10 @@
     {
       "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Next Great Value Play - The Motley Fool",
       "pubDate": "Sun, 01 Jun 2025 07:25:00 GMT"
+    },
+    {
+      "title": "Editorial: The world promised by AI isn't necessarily a better one - Pittsburgh Post-Gazette",
+      "pubDate": "Sun, 01 Jun 2025 08:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2619,6 +2623,10 @@
     {
       "title": "China accuses US's Hegseth of 'vilifying' remarks at security forum - Reuters",
       "pubDate": "Sun, 01 Jun 2025 05:50:00 GMT"
+    },
+    {
+      "title": "Trump doesn\u2019t know how to deal with China. His cowardice only makes a war with Taiwan more likely | Simon Tisdall - The Guardian",
+      "pubDate": "Sun, 01 Jun 2025 05:00:00 GMT"
     }
   ],
   "iran": [
@@ -3175,10 +3183,6 @@
   ],
   "democratic_party": [
     {
-      "title": "NJ Democratic governor candidates want to fight Trump and tackle affordability | Editorial - Bergen Record",
-      "pubDate": "Sat, 24 May 2025 08:13:35 GMT"
-    },
-    {
       "title": "GOP gains ground: Erie County Democrats have slimmest voter registration edge in decades - Erie Times-News",
       "pubDate": "Sat, 24 May 2025 13:40:49 GMT"
     },
@@ -3655,6 +3659,10 @@
     {
       "title": "Video: Climate Scientists Join 100-Hour Livestream to Protest Trump\u2019s Cuts - The New York Times",
       "pubDate": "Sat, 31 May 2025 23:00:30 GMT"
+    },
+    {
+      "title": "Scientists warn that polar warming might alter ocean currents and cause massive flooding in the U.S. - Earth.com",
+      "pubDate": "Sun, 01 Jun 2025 06:21:51 GMT"
     }
   ],
   "ai_safety": [
@@ -4817,6 +4825,12 @@
     {
       "title": "Scientists find that major Earth systems are on the verge of total collapse - Earth.com",
       "pubDate": "Sun, 01 Jun 2025 01:06:50 GMT"
+    }
+  ],
+  "ethereum": [
+    {
+      "title": "SEC casts doubt on REX\u2011Osprey bid to launch staking Ethereum, Solana ETFs - The Block",
+      "pubDate": "Sat, 31 May 2025 21:45:53 GMT"
     }
   ]
 }
