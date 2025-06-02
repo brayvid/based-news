@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Inside Trump\u2019s chainsaw-wielding approach to one corner of government contracting - Politico",
-      "pubDate": "Sun, 25 May 2025 14:00:00 GMT"
-    },
-    {
       "title": "For Trump, Civil Rights Protections Should Help White Men - The New York Times",
       "pubDate": "Sun, 25 May 2025 16:13:03 GMT"
     },
@@ -635,14 +631,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russia and Ukraine complete 1,000 prisoner swap; Moscow launches large drone and missile attack - CBS News",
-      "pubDate": "Sun, 25 May 2025 13:36:34 GMT"
-    },
-    {
-      "title": "Russia Bombards Ukraine With One of Largest Air Assaults of the War - The New York Times",
-      "pubDate": "Sun, 25 May 2025 13:37:17 GMT"
-    },
-    {
       "title": "Russian strikes on Ukraine kill 12 in one of largest aerial attacks of war - The Washington Post",
       "pubDate": "Sun, 25 May 2025 16:02:19 GMT"
     },
@@ -977,6 +965,10 @@
     {
       "title": "Russia, Ukraine set to hold more peace talks after Kyiv strikes nuclear-capable bombers - Reuters",
       "pubDate": "Mon, 02 Jun 2025 11:36:46 GMT"
+    },
+    {
+      "title": "Ukraine destroys Russian bombers with shocking barrage of drones ahead of peace talks - NPR",
+      "pubDate": "Mon, 02 Jun 2025 08:12:42 GMT"
     }
   ],
   "recession": [
@@ -1336,10 +1328,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Am I hot or not? People are asking ChatGPT for the harsh truth. - The Washington Post",
-      "pubDate": "Sun, 25 May 2025 13:05:42 GMT"
-    },
     {
       "title": "AI is 'breaking' entry-level jobs that Gen Z workers need to launch careers, LinkedIn exec warns - Fortune",
       "pubDate": "Sun, 25 May 2025 17:51:00 GMT"
@@ -1819,13 +1807,13 @@
     {
       "title": "Goodbye to 8,000 jobs - IBM replaces workers with artificial intelligence, sparking a wave of global reactions - Uni\u00f3n Rayo",
       "pubDate": "Mon, 02 Jun 2025 12:00:52 GMT"
+    },
+    {
+      "title": "Machine learning and generative AI: What are they good for in 2025? - MIT Sloan",
+      "pubDate": "Mon, 02 Jun 2025 13:38:54 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Soaring bond yields threaten trouble - The Economist",
-      "pubDate": "Sun, 25 May 2025 14:00:37 GMT"
-    },
     {
       "title": "Markets stage relief rally after EU imports tariff is delayed until July 9 - USA Today",
       "pubDate": "Mon, 26 May 2025 13:11:43 GMT"
@@ -1872,10 +1860,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "US report: Pakistan sees India as 'existential threat', India's strategic focus is China, not Pakistan - WION",
-      "pubDate": "Sun, 25 May 2025 13:32:00 GMT"
-    },
     {
       "title": "US says Sudan used chemical weapons in civil war - BBC",
       "pubDate": "Mon, 26 May 2025 00:49:31 GMT"
@@ -2013,13 +1997,13 @@
     {
       "title": "China accuses US of \u2018seriously violating\u2019 trade war truce \u2013 business live - The Guardian",
       "pubDate": "Mon, 02 Jun 2025 06:46:04 GMT"
+    },
+    {
+      "title": "China says U.S. violated tariff truce as trade war heats up - CBS News",
+      "pubDate": "Mon, 02 Jun 2025 12:50:57 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s graft busters eye key tech sectors as Beijing gears up to challenge US - South China Morning Post",
-      "pubDate": "Sun, 25 May 2025 14:00:09 GMT"
-    },
     {
       "title": "Pak's Mass Destruction Weapons Mention In US Threat Report - And China Link - NDTV",
       "pubDate": "Sun, 25 May 2025 16:25:00 GMT"
@@ -2601,6 +2585,10 @@
     {
       "title": "Exclusive: Iran poised to dismiss US nuclear proposal, Iranian diplomat says - Reuters",
       "pubDate": "Mon, 02 Jun 2025 12:00:07 GMT"
+    },
+    {
+      "title": "Iran demands sanctions relief guarantee in nuclear talks with US - Al Jazeera",
+      "pubDate": "Mon, 02 Jun 2025 11:23:32 GMT"
     }
   ],
   "us_economy": [
@@ -2955,6 +2943,10 @@
     {
       "title": "Trump plunges the US economy into chaos and uncertainty - EL PA\u00cdS English",
       "pubDate": "Mon, 02 Jun 2025 09:25:18 GMT"
+    },
+    {
+      "title": "Fed Chair Powell Meets With White House As Rate Cut Pressure Builds - Money Talks News",
+      "pubDate": "Mon, 02 Jun 2025 12:31:43 GMT"
     }
   ],
   "terrorism": [
@@ -3935,6 +3927,10 @@
     {
       "title": "Trump's big tax bill moves ahead to potential changes in the Senate - USA Today",
       "pubDate": "Mon, 02 Jun 2025 09:06:13 GMT"
+    },
+    {
+      "title": "Boulder attack suspect Mohammed Soliman in US illegally: Homeland Security - ABC7 Chicago",
+      "pubDate": "Mon, 02 Jun 2025 13:45:52 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4459,6 +4455,10 @@
     {
       "title": "China\u2019s tokamak nuclear reactor smashes global fusion record - The Brighter Side of News",
       "pubDate": "Sat, 31 May 2025 00:07:00 GMT"
+    },
+    {
+      "title": "Exclusive: Fusion energy developer TAE raises $150M - Axios",
+      "pubDate": "Mon, 02 Jun 2025 12:51:44 GMT"
     }
   ],
   "computing": [
