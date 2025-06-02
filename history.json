@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "For Trump, Civil Rights Protections Should Help White Men - The New York Times",
-      "pubDate": "Sun, 25 May 2025 16:13:03 GMT"
-    },
-    {
       "title": "Sen. Ron Johnson says there's enough opposition in the Senate to hold up Trump's 'big, beautiful' bill - NBC News",
       "pubDate": "Sun, 25 May 2025 19:25:41 GMT"
     },
@@ -631,13 +627,13 @@
     {
       "title": "Trump is threatening to impose tariffs on two American companies - CNN",
       "pubDate": "Mon, 02 Jun 2025 11:40:00 GMT"
+    },
+    {
+      "title": "Trump administration live updates: Senate prepares for work on GOP agenda bill as Congress returns from recess - NBC News",
+      "pubDate": "Mon, 02 Jun 2025 13:51:23 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine and Russia complete \u20181,000 for 1,000\u2019 prisoner exchange - The Guardian",
-      "pubDate": "Sun, 25 May 2025 16:05:00 GMT"
-    },
     {
       "title": "Ukraine reports further Russian drone strikes as Trump warns Putin \u2013 Russia-Ukraine war live - The Guardian",
       "pubDate": "Mon, 26 May 2025 07:41:10 GMT"
@@ -969,6 +965,10 @@
     {
       "title": "In Drone Attacks on Russia, Ukraine Aims for Strategic and Symbolic Blow - The New York Times",
       "pubDate": "Mon, 02 Jun 2025 15:21:37 GMT"
+    },
+    {
+      "title": "Ukraine-Russia peace talks end with no deal, POW swap agreed - BBC",
+      "pubDate": "Mon, 02 Jun 2025 16:17:22 GMT"
     }
   ],
   "recession": [
@@ -1327,10 +1327,6 @@
     {
       "title": "AI is 'breaking' entry-level jobs that Gen Z workers need to launch careers, LinkedIn exec warns - Fortune",
       "pubDate": "Sun, 25 May 2025 17:51:00 GMT"
-    },
-    {
-      "title": "Google Quantum AI Breakthrough Makes 2048-bit RSA Encryption 20 Times Easier to Break in One Week, Threatens Bitcoin Within Five Years - The Defiant",
-      "pubDate": "Sun, 25 May 2025 16:35:32 GMT"
     },
     {
       "title": "Complete Artificial Intelligence Guide 2025: AI Fundamentals to Applications - BestTechie",
@@ -1815,6 +1811,10 @@
     {
       "title": "Replika AI chatbot is sexually harassing users, including minors, new study claims - Live Science",
       "pubDate": "Mon, 02 Jun 2025 15:03:46 GMT"
+    },
+    {
+      "title": "Cisco Stock Is a Buy Because It Is Hidden Sovereign AI Play, Says Analyst - Barron's",
+      "pubDate": "Mon, 02 Jun 2025 16:15:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2008,10 +2008,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Pak's Mass Destruction Weapons Mention In US Threat Report - And China Link - NDTV",
-      "pubDate": "Sun, 25 May 2025 16:25:00 GMT"
-    },
     {
       "title": "US Tariffs Loom Over Asia Summit as Ties With China Strengthen - Bloomberg",
       "pubDate": "Sun, 25 May 2025 23:00:01 GMT"
@@ -2491,6 +2487,10 @@
     {
       "title": "US efforts to coerce China into trade concessions \u2018will not work\u2019, analysts say - South China Morning Post",
       "pubDate": "Mon, 02 Jun 2025 15:00:08 GMT"
+    },
+    {
+      "title": "Map Shows China's Arms Sales Footprint Around the World: J-35 warplanes to drones, tanks and ships - Newsweek",
+      "pubDate": "Mon, 02 Jun 2025 15:59:51 GMT"
     }
   ],
   "iran": [
@@ -2959,6 +2959,10 @@
     {
       "title": "Federal Reserve still eyes rate cuts amid tariff risks - MSN",
       "pubDate": "Mon, 02 Jun 2025 13:51:29 GMT"
+    },
+    {
+      "title": "Fed Chair Powell's speech today looms as interest rate cut debate rages on - TheStreet",
+      "pubDate": "Mon, 02 Jun 2025 13:11:28 GMT"
     }
   ],
   "terrorism": [
@@ -3197,10 +3201,6 @@
     {
       "title": "IDF says Gaza op. about controlling territory and aid, NSC issues warning for Canada - The Jerusalem Post",
       "pubDate": "Sun, 25 May 2025 18:00:31 GMT"
-    },
-    {
-      "title": "IDF aims to capture 75% of Gaza Strip in 2 months in new offensive against Hamas - The Times of Israel",
-      "pubDate": "Sun, 25 May 2025 17:00:38 GMT"
     },
     {
       "title": "Israel\u2019s latest strikes in Gaza kill 38 people including children - AP News",
@@ -3523,10 +3523,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI mistrust: Concerns over safety, ethics, and cybercrime fuel rising scepticism - Business Daily",
-      "pubDate": "Sun, 25 May 2025 16:30:00 GMT"
-    },
-    {
       "title": "Anthropic unveils Claude 4 AI models: Smarter and potentially more dangerous - Notebookcheck",
       "pubDate": "Sun, 25 May 2025 23:13:00 GMT"
     },
@@ -3712,10 +3708,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Analysis | The \u2018Big Beautiful Bill\u2019 is a big risk for House Republicans. Many of them hope otherwise. - The Washington Post",
-      "pubDate": "Sun, 25 May 2025 17:00:00 GMT"
-    },
     {
       "title": "Many Republican lawmakers break with President Trump on budget bill - CBS News",
       "pubDate": "Sun, 25 May 2025 23:39:00 GMT"
@@ -3939,6 +3931,10 @@
     {
       "title": "Murphy launches ambitious anti-Trump PAC as 2028 rumors swirl - Politico",
       "pubDate": "Mon, 02 Jun 2025 08:45:00 GMT"
+    },
+    {
+      "title": "It\u2019s not just Medicaid: Republicans\u2019 megabill would sabotage the Affordable Care Act - MSNBC News",
+      "pubDate": "Mon, 02 Jun 2025 16:38:09 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4231,10 +4227,6 @@
   ],
   "vladimir_putin": [
     {
-      "title": "Russian commander claims Putin's helicopter was 'at the epicenter' of Ukrainian drone attack - The Kyiv Independent",
-      "pubDate": "Sun, 25 May 2025 16:57:37 GMT"
-    },
-    {
       "title": "Kremlin calls Trump 'emotional' after US president says Putin is 'crazy' - BBC",
       "pubDate": "Mon, 26 May 2025 18:14:49 GMT"
     },
@@ -4523,6 +4515,10 @@
     {
       "title": "Scientists Are Sinking Concrete Batteries Underwater. An Energy Revolution Is Coming. - Popular Mechanics",
       "pubDate": "Fri, 30 May 2025 22:07:00 GMT"
+    },
+    {
+      "title": "Scientists created a battery that lasts 5,700 years without needing to be recharged - Earth.com",
+      "pubDate": "Mon, 02 Jun 2025 16:04:32 GMT"
     }
   ],
   "world_news": [
