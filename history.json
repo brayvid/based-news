@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump refuses to accept that for Netanyahu and Putin forever war is the only option | Simon Tisdall - The Guardian",
-      "pubDate": "Sun, 25 May 2025 05:00:00 GMT"
-    },
-    {
       "title": "Trump\u2019s tariffs cloud the future of a medical wonder - The Washington Post",
       "pubDate": "Sun, 25 May 2025 07:30:51 GMT"
     },
@@ -635,16 +631,16 @@
     {
       "title": "Opinion | Donald Trump vs. Bruce Springsteen - WSJ",
       "pubDate": "Mon, 02 Jun 2025 02:42:25 GMT"
+    },
+    {
+      "title": "Michael Cohen Makes Bold Prediction About Fate of Trump-Musk \u2018Bromance\u2019 - The Daily Beast",
+      "pubDate": "Mon, 02 Jun 2025 03:33:00 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Russia and Ukraine continue prisoner exchange as another attack on Kyiv leaves 3 dead - NPR",
       "pubDate": "Sun, 25 May 2025 06:00:34 GMT"
-    },
-    {
-      "title": "Russian strikes kill eight across Ukraine, officials say - BBC",
-      "pubDate": "Sun, 25 May 2025 04:33:35 GMT"
     },
     {
       "title": "Ukraine says Russia attacked with 367 missiles and drones overnight - The Jerusalem Post",
@@ -989,6 +985,10 @@
     {
       "title": "Ukraine destroys 40 aircraft deep inside Russia ahead of peace talks in Istanbul - AP News",
       "pubDate": "Mon, 02 Jun 2025 00:55:00 GMT"
+    },
+    {
+      "title": "Ukraine launches massive drone strike on air bases deep inside Russia - Axios",
+      "pubDate": "Sun, 01 Jun 2025 22:59:21 GMT"
     }
   ],
   "recession": [
@@ -1855,6 +1855,10 @@
     {
       "title": "As AI Evolves, Pressure Mounts To Regulate \u2018Killer Robots\u2019 - Eurasia Review",
       "pubDate": "Sun, 01 Jun 2025 22:50:56 GMT"
+    },
+    {
+      "title": "CE 100 Index Gains 1.7% as Investors Send AI-Related Names Higher - PYMNTS.com",
+      "pubDate": "Mon, 02 Jun 2025 02:16:17 GMT"
     }
   ],
   "financial_markets": [
@@ -2551,6 +2555,10 @@
     {
       "title": "China responds after Hegseth warns to prepare for war - upi.com",
       "pubDate": "Sun, 01 Jun 2025 16:43:07 GMT"
+    },
+    {
+      "title": "China claims U.S. violated trade deal, vows to hit Trump admin with \"forceful measures\" - Axios",
+      "pubDate": "Mon, 02 Jun 2025 03:42:12 GMT"
     }
   ],
   "iran": [
@@ -3995,14 +4003,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "USDC Usage on Ethereum Hits New All-Time High - Binance",
-      "pubDate": "Sun, 25 May 2025 04:30:30 GMT"
-    },
-    {
-      "title": "Cryptocurrency investor arrested in New York for alleged Bitcoin password kidnapping - Dimsum Daily",
-      "pubDate": "Sun, 25 May 2025 04:23:45 GMT"
-    },
-    {
       "title": "Crypto investor tortured man for weeks for bitcoin password, prosecutors say - The Washington Post",
       "pubDate": "Mon, 26 May 2025 01:42:06 GMT"
     },
@@ -4048,10 +4048,6 @@
     }
   ],
   "science": [
-    {
-      "title": "The US has world-class scientific talent. The rest of the world is hoping to lure that away - AP News",
-      "pubDate": "Sun, 25 May 2025 04:43:00 GMT"
-    },
     {
       "title": "Trump administration ending multiple HIV vaccine studies, scientists and officials say - CBS News",
       "pubDate": "Fri, 30 May 2025 23:37:00 GMT"
@@ -4227,12 +4223,6 @@
       "pubDate": "Sat, 31 May 2025 06:09:00 GMT"
     }
   ],
-  "machine_learning": [
-    {
-      "title": "Predictive factors of hypoglycemia in type 2 diabetes: a prospective study using machine learning - Nature",
-      "pubDate": "Sun, 25 May 2025 04:59:35 GMT"
-    }
-  ],
   "world_economy": [
     {
       "title": "India replaces Japan as world\u2019s 4th largest economy, poised to overtake Germany for 3rd rank - The Hans India",
@@ -4247,12 +4237,6 @@
     {
       "title": "Google Releases LMEval, an Open-Source Cross-Provider LLM Evaluation Tool - infoq.com",
       "pubDate": "Sat, 31 May 2025 15:00:13 GMT"
-    }
-  ],
-  "energy_transition": [
-    {
-      "title": "Why the North Sea oil and gas bridge to the future is being burned, as 600 Aberdeen job losses show - The Scotsman",
-      "pubDate": "Sun, 25 May 2025 05:00:00 GMT"
     }
   ],
   "astronomy": [
@@ -4315,6 +4299,10 @@
     {
       "title": "Federal Reserve Sheds Light On Possible 2025 Rate Cuts - Finimize",
       "pubDate": "Mon, 02 Jun 2025 00:00:07 GMT"
+    },
+    {
+      "title": "The Federal Reserve\u2019s difficult coming months - Financial Times",
+      "pubDate": "Mon, 02 Jun 2025 04:00:13 GMT"
     }
   ],
   "vladimir_putin": [
@@ -4631,6 +4619,18 @@
     {
       "title": "SEC casts doubt on REX\u2011Osprey bid to launch staking Ethereum, Solana ETFs - The Block",
       "pubDate": "Sat, 31 May 2025 21:45:53 GMT"
+    }
+  ],
+  "atmosphere": [
+    {
+      "title": "An Extreme Drop in Oxygen Will Eventually Suffocate Most Life on Earth - ScienceAlert",
+      "pubDate": "Sun, 01 Jun 2025 23:22:38 GMT"
+    }
+  ],
+  "hurricanes": [
+    {
+      "title": "Hurricane Season Is Starting. Here\u2019s Everything to Know. - The New York Times",
+      "pubDate": "Sun, 01 Jun 2025 18:01:01 GMT"
     }
   ]
 }
