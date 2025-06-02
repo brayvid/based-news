@@ -17,10 +17,6 @@
       "pubDate": "Sun, 25 May 2025 23:23:35 GMT"
     },
     {
-      "title": "Trump delays 50% tariffs on EU to July 9 - CNBC",
-      "pubDate": "Sun, 25 May 2025 22:27:21 GMT"
-    },
-    {
       "title": "President Donald Trump says Russian leader Vladimir Putin \u2018has gone absolutely CRAZY!\u2019 - AP News",
       "pubDate": "Mon, 26 May 2025 01:49:00 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Live updates: Trump administration asks Supreme Court to allow mass layoff plan; Senate prepares to take up GOP megabill - NBC News",
       "pubDate": "Mon, 02 Jun 2025 20:12:55 GMT"
+    },
+    {
+      "title": "Trump's budget calls for a 15% funding cut to the Education Department - NPR",
+      "pubDate": "Mon, 02 Jun 2025 20:33:08 GMT"
     }
   ],
   "ukraine": [
@@ -993,6 +993,10 @@
     {
       "title": "What Ukraine\u2019s Unprecedented Drone Attack Means For Russia\u2019s Bomber Force - The War Zone",
       "pubDate": "Mon, 02 Jun 2025 18:23:22 GMT"
+    },
+    {
+      "title": "Ukraine Executes \u2018Longest Range Operation\u2019 Striking Russian Air Bases with FPV Drones - The Aviationist",
+      "pubDate": "Mon, 02 Jun 2025 13:45:17 GMT"
     }
   ],
   "recession": [
@@ -1102,10 +1106,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Trump criticises Putin after deadly strikes across Ukraine - Sky News",
-      "pubDate": "Sun, 25 May 2025 23:05:05 GMT"
-    },
     {
       "title": "Trump calls Putin 'absolutely crazy' after largest Russian attack on Ukraine - BBC",
       "pubDate": "Mon, 26 May 2025 02:15:47 GMT"
@@ -1293,6 +1293,10 @@
     {
       "title": "Putin 'is preparing for more war,\u2019 GOP senator warns after meeting with Zelenskyy and Macron - PBS",
       "pubDate": "Mon, 02 Jun 2025 17:37:48 GMT"
+    },
+    {
+      "title": "Putin\u2019s sickening statistic: 1m Russian casualties in Ukraine - The Economist",
+      "pubDate": "Mon, 02 Jun 2025 18:51:16 GMT"
     }
   ],
   "israel": [
@@ -1839,6 +1843,10 @@
     {
       "title": "Experts advise businesses to adapt as use of AI grows, including to white-collar jobs - 13wham.com",
       "pubDate": "Mon, 02 Jun 2025 20:51:06 GMT"
+    },
+    {
+      "title": "Artificial Intelligence in Pharmacovigilance: Eight Action Items for Life Sciences Companies - Sidley Austin LLP",
+      "pubDate": "Mon, 02 Jun 2025 20:49:16 GMT"
     }
   ],
   "financial_markets": [
@@ -1922,10 +1930,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump Agrees to Extend Deadline After Threatening E.U. With 50% Tariff, With Talks Set to \u2018Begin Rapidly\u2019 - Time Magazine",
-      "pubDate": "Sun, 25 May 2025 22:52:30 GMT"
-    },
     {
       "title": "Trump's tariff threat risks a trade war with Europe years in the making - NBC News",
       "pubDate": "Sun, 25 May 2025 23:53:00 GMT"
@@ -2032,10 +2036,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US Tariffs Loom Over Asia Summit as Ties With China Strengthen - Bloomberg",
-      "pubDate": "Sun, 25 May 2025 23:00:01 GMT"
-    },
     {
       "title": "Major China-listed Apple suppliers including Luxshare, Goertek fall after Trump's tariff threats - Reuters",
       "pubDate": "Mon, 26 May 2025 01:51:00 GMT"
@@ -2535,6 +2535,10 @@
     {
       "title": "U.S.-China tariff truce at risk of falling apart with both sides pointing fingers - MSNBC News",
       "pubDate": "Mon, 02 Jun 2025 20:42:04 GMT"
+    },
+    {
+      "title": "For Volatile Trump, Trade Pacts With China, Europe Prove Elusive - Bloomberg",
+      "pubDate": "Mon, 02 Jun 2025 21:48:25 GMT"
     }
   ],
   "iran": [
@@ -3007,6 +3011,10 @@
     {
       "title": "Federal Reserve\u2019s Goolsbee sees path to lower interest rates despite recent turbulence - Seeking Alpha",
       "pubDate": "Mon, 02 Jun 2025 18:02:00 GMT"
+    },
+    {
+      "title": "Finance leaders fear destructive U.S. debt scenario - Axios",
+      "pubDate": "Mon, 02 Jun 2025 17:31:31 GMT"
     }
   ],
   "terrorism": [
@@ -3126,10 +3134,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "US voters were asked to compare political parties to animals \u2014 and Dems were the weakest, slowest kind: report - New York Post",
-      "pubDate": "Sun, 25 May 2025 22:42:00 GMT"
-    },
     {
       "title": "AOC Edges Out Chuck Schumer by Double-Digit Margin in New Poll - Newsweek",
       "pubDate": "Mon, 26 May 2025 02:38:55 GMT"
@@ -3983,16 +3987,16 @@
     {
       "title": "US judge blocks Trump from nixing union bargaining for TSA officers - Reuters",
       "pubDate": "Mon, 02 Jun 2025 19:45:07 GMT"
+    },
+    {
+      "title": "Shhh. Republicans are trying to repeal Obamacare again. Sort of. - The Washington Post",
+      "pubDate": "Mon, 02 Jun 2025 17:00:18 GMT"
     }
   ],
   "cryptocurrency": [
     {
       "title": "Crypto investor tortured man for weeks for bitcoin password, prosecutors say - The Washington Post",
       "pubDate": "Mon, 26 May 2025 01:42:06 GMT"
-    },
-    {
-      "title": "Who Won a Seat at Trump\u2019s Crypto Dinner? - The New York Times",
-      "pubDate": "Sun, 25 May 2025 22:44:00 GMT"
     },
     {
       "title": "Trump family to seek $3bn for bet on cryptocurrency - The Telegraph",
@@ -4046,10 +4050,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Climate Change Slashes Wind Power Potential, New Forecasts Show - Eurasia Review",
-      "pubDate": "Sun, 25 May 2025 22:11:27 GMT"
-    },
     {
       "title": "Key US clean energy charts that track Trump's tax bill impact: Maguire - Reuters",
       "pubDate": "Wed, 28 May 2025 06:13:00 GMT"
