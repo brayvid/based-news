@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Profits Like No Other President, as Outrage Is Muted - The New York Times",
-      "pubDate": "Sun, 25 May 2025 09:01:30 GMT"
-    },
-    {
       "title": "Veterans recoil at Trump plan to end Afghans\u2019 deportation protection - The Washington Post",
       "pubDate": "Sun, 25 May 2025 11:31:33 GMT"
     },
@@ -643,6 +639,10 @@
     {
       "title": "Donald Trump-Backed Candidate Wins Poland's Presidential Election - Newsweek",
       "pubDate": "Mon, 02 Jun 2025 04:10:23 GMT"
+    },
+    {
+      "title": "Trump-backed nationalist clinches Poland's presidency - CNBC",
+      "pubDate": "Mon, 02 Jun 2025 07:45:04 GMT"
     }
   ],
   "ukraine": [
@@ -989,6 +989,10 @@
     {
       "title": "What we know about Ukraine's drone strikes on airbases in Russia - France 24",
       "pubDate": "Mon, 02 Jun 2025 05:59:55 GMT"
+    },
+    {
+      "title": "Russia launches deadly attacks across Ukraine before Istanbul talks with Kyiv \u2013 Russia-Ukraine war live - The Guardian",
+      "pubDate": "Mon, 02 Jun 2025 07:14:00 GMT"
     }
   ],
   "recession": [
@@ -1353,20 +1357,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Claude Opus 4 sets a benchmark in AI coding as Anthropic\u2019s revenue doubles - Digital Watch Observatory",
-      "pubDate": "Sun, 25 May 2025 09:00:00 GMT"
-    },
-    {
-      "title": "At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work - The New York Times",
-      "pubDate": "Sun, 25 May 2025 09:00:34 GMT"
-    },
-    {
       "title": "Am I hot or not? People are asking ChatGPT for the harsh truth. - The Washington Post",
       "pubDate": "Sun, 25 May 2025 13:05:42 GMT"
-    },
-    {
-      "title": "Pakistan allocates 2,000 megawatts of electricity to bitcoin mining, AI data centres - Reuters",
-      "pubDate": "Sun, 25 May 2025 08:34:23 GMT"
     },
     {
       "title": "AI is 'breaking' entry-level jobs that Gen Z workers need to launch careers, LinkedIn exec warns - Fortune",
@@ -1839,6 +1831,10 @@
     {
       "title": "Billionaire Bill Ackman Wants to Be the Next Warren Buffett, and He Is Buying an AI Stock Up 855% in 10 Years (Hint: Not Nvidia) - Yahoo",
       "pubDate": "Mon, 02 Jun 2025 07:10:00 GMT"
+    },
+    {
+      "title": "AI Cracks Mars Mystery: 500,000 Streaks Solved Without a Drop of Water - SciTechDaily",
+      "pubDate": "Mon, 02 Jun 2025 08:23:20 GMT"
     }
   ],
   "financial_markets": [
@@ -2059,10 +2055,6 @@
     {
       "title": "China Publishes Draft Guidance for Online-Platform Merchant Fees - Bloomberg.com",
       "pubDate": "Sun, 25 May 2025 09:48:32 GMT"
-    },
-    {
-      "title": "China\u2019s top spy agency warns of foreign agents hiding in plain sight - South China Morning Post",
-      "pubDate": "Sun, 25 May 2025 09:00:12 GMT"
     },
     {
       "title": "Historic \u2015 China discovers an ocean in Moon\u2019s far side, but not of water - ECOticias.com El Peri\u00f3dico Verde",
@@ -2531,6 +2523,10 @@
     {
       "title": "China says US is \u2018provoking frictions\u2019 as tensions flare despite trade truce - CNN",
       "pubDate": "Mon, 02 Jun 2025 03:38:00 GMT"
+    },
+    {
+      "title": "China rejects Trump's accusation that it breached Geneva trade deal - Reuters",
+      "pubDate": "Mon, 02 Jun 2025 03:08:00 GMT"
     }
   ],
   "iran": [
@@ -3095,6 +3091,10 @@
     {
       "title": "Exercise boosts survival rates in colon cancer patients, study shows - AP News",
       "pubDate": "Sun, 01 Jun 2025 19:34:00 GMT"
+    },
+    {
+      "title": "Exercise \u2018better than drugs\u2019 to stop cancer returning after treatment, trial finds - The Guardian",
+      "pubDate": "Mon, 02 Jun 2025 01:31:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3733,13 +3733,13 @@
     {
       "title": "Experts Warn of AI\u2019s Self-Preservation Tactics in New Tests - Men's Journal",
       "pubDate": "Mon, 02 Jun 2025 02:35:59 GMT"
+    },
+    {
+      "title": "Delaying Artificial Intelligence The Real Existential Risk Says Joscha Bach, Scientist Says He's More Afraid That 'We Don't Build AI' - Benzinga",
+      "pubDate": "Mon, 02 Jun 2025 06:51:18 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Democrats Still Searching for a Path Forward Months After 2024 Election - The New York Times",
-      "pubDate": "Sun, 25 May 2025 09:00:51 GMT"
-    },
     {
       "title": "Trump is taking a wrecking ball to the separation of powers - The Hill",
       "pubDate": "Sun, 25 May 2025 13:00:00 GMT"
@@ -3967,6 +3967,10 @@
     {
       "title": "Trump warns court ruling against tariffs could lead to 'economic ruination' of US - Fox Business",
       "pubDate": "Mon, 02 Jun 2025 00:28:00 GMT"
+    },
+    {
+      "title": "More Americans say neither party has strong leaders: CNN poll - The Hill",
+      "pubDate": "Mon, 02 Jun 2025 00:23:00 GMT"
     }
   ],
   "cryptocurrency": [
