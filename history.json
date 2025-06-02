@@ -627,20 +627,16 @@
     {
       "title": "Major Companies Abandon Law Firms That Signed Deals with Trump: Report - Newsweek",
       "pubDate": "Mon, 02 Jun 2025 12:11:05 GMT"
+    },
+    {
+      "title": "Trump is threatening to impose tariffs on two American companies - CNN",
+      "pubDate": "Mon, 02 Jun 2025 11:40:00 GMT"
     }
   ],
   "ukraine": [
     {
-      "title": "Russian strikes on Ukraine kill 12 in one of largest aerial attacks of war - The Washington Post",
-      "pubDate": "Sun, 25 May 2025 16:02:19 GMT"
-    },
-    {
       "title": "Ukraine and Russia complete \u20181,000 for 1,000\u2019 prisoner exchange - The Guardian",
       "pubDate": "Sun, 25 May 2025 16:05:00 GMT"
-    },
-    {
-      "title": "Ukraine and complete 3rd prisoner swap hours after major Russian aerial assault - PBS",
-      "pubDate": "Sun, 25 May 2025 15:46:18 GMT"
     },
     {
       "title": "Ukraine reports further Russian drone strikes as Trump warns Putin \u2013 Russia-Ukraine war live - The Guardian",
@@ -969,13 +965,13 @@
     {
       "title": "Ukraine-Russia peace talks end after barely an hour, Turkish officials say - Reuters",
       "pubDate": "Mon, 02 Jun 2025 13:33:37 GMT"
+    },
+    {
+      "title": "In Drone Attacks on Russia, Ukraine Aims for Strategic and Symbolic Blow - The New York Times",
+      "pubDate": "Mon, 02 Jun 2025 15:21:37 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Preparing for Recession: Paul Gambles of MBMG on US Treasuries, Currency Hedging, and the Case Against Individual Bonds - Hubbis",
-      "pubDate": "Sun, 25 May 2025 16:04:08 GMT"
-    },
     {
       "title": "How Canadians can create a financial storm shelter to prepare for a possible recession - National Post",
       "pubDate": "Sun, 25 May 2025 17:32:54 GMT"
@@ -1815,6 +1811,10 @@
     {
       "title": "AI Stocks Face 'Show Me' Moment. Apple To Host Flagship WWDC Conference. - Investor's Business Daily",
       "pubDate": "Mon, 02 Jun 2025 13:25:00 GMT"
+    },
+    {
+      "title": "Replika AI chatbot is sexually harassing users, including minors, new study claims - Live Science",
+      "pubDate": "Mon, 02 Jun 2025 15:03:46 GMT"
     }
   ],
   "financial_markets": [
@@ -2487,6 +2487,10 @@
     {
       "title": "US Warship Challenged Beijing's South China Sea Claims, Navy Says - Newsweek",
       "pubDate": "Mon, 02 Jun 2025 14:26:30 GMT"
+    },
+    {
+      "title": "US efforts to coerce China into trade concessions \u2018will not work\u2019, analysts say - South China Morning Post",
+      "pubDate": "Mon, 02 Jun 2025 15:00:08 GMT"
     }
   ],
   "iran": [
@@ -2600,10 +2604,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Poll finds most Americans expect higher prices with Trump's tariffs raising fears of a recession - KGET.com",
-      "pubDate": "Sun, 25 May 2025 15:24:52 GMT"
-    },
     {
       "title": "Triple-whammy hitting the US economy - The Times",
       "pubDate": "Sun, 25 May 2025 18:50:00 GMT"
@@ -3071,6 +3071,10 @@
     {
       "title": "Major study proves exercise improves cancer survival - BBC",
       "pubDate": "Mon, 02 Jun 2025 10:04:32 GMT"
+    },
+    {
+      "title": "Exercise Cuts Colon Cancer Recurrence and Boosts Survival, Study Finds - U.S. News & World Report",
+      "pubDate": "Mon, 02 Jun 2025 15:50:55 GMT"
     }
   ],
   "democratic_party": [
@@ -3525,10 +3529,6 @@
     {
       "title": "Anthropic unveils Claude 4 AI models: Smarter and potentially more dangerous - Notebookcheck",
       "pubDate": "Sun, 25 May 2025 23:13:00 GMT"
-    },
-    {
-      "title": "Anthropic\u2019s new AI model tried to blackmail engineers during testing - Moneycontrol",
-      "pubDate": "Sun, 25 May 2025 15:30:44 GMT"
     },
     {
       "title": "Claude Opus 4 AI tried to blackmail its creators to avoid being shut down - Ynetnews",
@@ -4223,6 +4223,10 @@
     {
       "title": "The Federal Reserve\u2019s difficult coming months - Financial Times",
       "pubDate": "Mon, 02 Jun 2025 04:00:13 GMT"
+    },
+    {
+      "title": "Federal Reserve Disbands Climate-Focused Internal Groups - The National Law Review",
+      "pubDate": "Mon, 02 Jun 2025 14:41:06 GMT"
     }
   ],
   "vladimir_putin": [
@@ -4571,6 +4575,12 @@
     {
       "title": "Scientists say these small health issues might be an early sign of lung cancer - The Independent",
       "pubDate": "Mon, 02 Jun 2025 05:26:00 GMT"
+    }
+  ],
+  "data_science": [
+    {
+      "title": "Scientists Create Framework for Analyzing Metabolic Data To Predict Disease Risk - Technology Networks",
+      "pubDate": "Mon, 02 Jun 2025 15:35:15 GMT"
     }
   ]
 }
