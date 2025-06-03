@@ -1,32 +1,12 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says he will delay tariffs on European Union until July 9 - The Washington Post",
-      "pubDate": "Sun, 25 May 2025 23:39:53 GMT"
-    },
-    {
-      "title": "Trump says he is not happy with Putin for bombing Ukraine - Reuters",
-      "pubDate": "Mon, 26 May 2025 00:00:00 GMT"
-    },
-    {
-      "title": "Trump warns attempts to conquer all of Ukraine will lead to \u2018downfall\u2019 of Russia - The Guardian",
-      "pubDate": "Sun, 25 May 2025 23:09:00 GMT"
-    },
-    {
-      "title": "Trump extends deadline for EU trade deal until 9 July - BBC",
-      "pubDate": "Sun, 25 May 2025 23:23:35 GMT"
-    },
-    {
       "title": "President Donald Trump says Russian leader Vladimir Putin \u2018has gone absolutely CRAZY!\u2019 - AP News",
       "pubDate": "Mon, 26 May 2025 01:49:00 GMT"
     },
     {
       "title": "Trump lashes out at \u2018crazy\u2019 Putin after deadly Russian air raids on Ukraine - Al Jazeera",
       "pubDate": "Mon, 26 May 2025 04:31:42 GMT"
-    },
-    {
-      "title": "Trump agrees to extend EU trade talks after 50% tariff threat - BBC",
-      "pubDate": "Sun, 25 May 2025 23:23:35 GMT"
     },
     {
       "title": "'He has gone absolutely crazy': Trump rebukes Putin as Russia hits Ukraine with record drone attack - BBC",
@@ -635,6 +615,10 @@
     {
       "title": "Trump's budget calls for a 15% funding cut to the Education Department - NPR",
       "pubDate": "Mon, 02 Jun 2025 20:33:08 GMT"
+    },
+    {
+      "title": "Trump's Truth posts mix wild conspiracies with market-moving policies - Axios",
+      "pubDate": "Mon, 02 Jun 2025 17:28:03 GMT"
     }
   ],
   "ukraine": [
@@ -997,6 +981,10 @@
     {
       "title": "Ukraine Executes \u2018Longest Range Operation\u2019 Striking Russian Air Bases with FPV Drones - The Aviationist",
       "pubDate": "Mon, 02 Jun 2025 13:45:17 GMT"
+    },
+    {
+      "title": "How Ukraine carried out daring 'Spider Web' attack on Russian bombers - BBC",
+      "pubDate": "Mon, 02 Jun 2025 18:49:20 GMT"
     }
   ],
   "recession": [
@@ -1355,10 +1343,6 @@
     {
       "title": "The people who believe that AI might become conscious - BBC",
       "pubDate": "Mon, 26 May 2025 00:38:27 GMT"
-    },
-    {
-      "title": "The growing environmental impact of AI data centers\u2019 energy demands - PBS",
-      "pubDate": "Sun, 25 May 2025 23:11:10 GMT"
     },
     {
       "title": "OpenAI model disobeys humans, refuses to shut down. Elon Musk says \u2018concerning\u2019 - Hindustan Times",
@@ -1847,6 +1831,10 @@
     {
       "title": "Artificial Intelligence in Pharmacovigilance: Eight Action Items for Life Sciences Companies - Sidley Austin LLP",
       "pubDate": "Mon, 02 Jun 2025 20:49:16 GMT"
+    },
+    {
+      "title": "Diabetes management: IBM and Roche use AI to forecast blood sugar levels - AI News",
+      "pubDate": "Mon, 02 Jun 2025 16:17:38 GMT"
     }
   ],
   "financial_markets": [
@@ -1930,10 +1918,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump's tariff threat risks a trade war with Europe years in the making - NBC News",
-      "pubDate": "Sun, 25 May 2025 23:53:00 GMT"
-    },
     {
       "title": "Trump tariffs live updates: Trump delays EU tariff hike, EU sees 'new impetus' - Yahoo Finance",
       "pubDate": "Mon, 26 May 2025 11:22:56 GMT"
@@ -2033,6 +2017,10 @@
     {
       "title": "China says U.S. violated tariff truce as trade war heats up - CBS News",
       "pubDate": "Mon, 02 Jun 2025 12:50:57 GMT"
+    },
+    {
+      "title": "Trump tariffs cause trade war, raise recession concerns - thepostathens.com",
+      "pubDate": "Mon, 02 Jun 2025 21:03:00 GMT"
     }
   ],
   "china": [
@@ -2043,10 +2031,6 @@
     {
       "title": "China improves ability to launch sudden attack on Taiwan, officials say - Financial Times",
       "pubDate": "Mon, 26 May 2025 02:00:19 GMT"
-    },
-    {
-      "title": "Why global tensions are rising in the South China Sea amid recent clashes - PBS",
-      "pubDate": "Sun, 25 May 2025 23:17:51 GMT"
     },
     {
       "title": "China\u2019s mega bridges: build smarter, build higher, build where others won\u2019t dare - South China Morning Post",
@@ -2539,6 +2523,10 @@
     {
       "title": "For Volatile Trump, Trade Pacts With China, Europe Prove Elusive - Bloomberg",
       "pubDate": "Mon, 02 Jun 2025 21:48:25 GMT"
+    },
+    {
+      "title": "China to open first museum of African culture - TV BRICS",
+      "pubDate": "Mon, 02 Jun 2025 18:20:35 GMT"
     }
   ],
   "iran": [
@@ -3231,10 +3219,6 @@
   ],
   "hamas": [
     {
-      "title": "Israel\u2019s latest strikes in Gaza kill 38 people including children - AP News",
-      "pubDate": "Sun, 25 May 2025 23:35:00 GMT"
-    },
-    {
       "title": "Israeli Airstrike Kills Doctor\u2019s Children, Gaza Officials Say - The New York Times",
       "pubDate": "Mon, 26 May 2025 02:07:51 GMT"
     },
@@ -3551,13 +3535,13 @@
     {
       "title": "Many coastal communities are flooding more than we thought, researchers find - The Washington Post",
       "pubDate": "Mon, 02 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "title": "EU science advisers slam Brussels\u2019 weakened 2040 climate plans - politico.eu",
+      "pubDate": "Mon, 02 Jun 2025 12:01:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Anthropic unveils Claude 4 AI models: Smarter and potentially more dangerous - Notebookcheck",
-      "pubDate": "Sun, 25 May 2025 23:13:00 GMT"
-    },
     {
       "title": "When AI Fights Back: Threats, Ethics, and Safety Concerns - Security Boulevard",
       "pubDate": "Mon, 26 May 2025 05:08:25 GMT"
@@ -3744,10 +3728,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Many Republican lawmakers break with President Trump on budget bill - CBS News",
-      "pubDate": "Sun, 25 May 2025 23:39:00 GMT"
-    },
     {
       "title": "Trump says US wants to make tanks, not T-shirts - Reuters",
       "pubDate": "Mon, 26 May 2025 04:18:36 GMT"
@@ -3991,6 +3971,10 @@
     {
       "title": "Shhh. Republicans are trying to repeal Obamacare again. Sort of. - The Washington Post",
       "pubDate": "Mon, 02 Jun 2025 17:00:18 GMT"
+    },
+    {
+      "title": "Live updates: Trump\u2019s pledge to fix national debt faces skepticism from some Republicans - AP News",
+      "pubDate": "Mon, 02 Jun 2025 20:53:00 GMT"
     }
   ],
   "cryptocurrency": [
