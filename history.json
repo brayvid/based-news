@@ -9,14 +9,6 @@
       "pubDate": "Mon, 26 May 2025 21:09:00 GMT"
     },
     {
-      "title": "Trump speaks at Arlington National Cemetery to mark Memorial Day - NBC News",
-      "pubDate": "Mon, 26 May 2025 18:01:56 GMT"
-    },
-    {
-      "title": "Trump honors veterans at Arlington National Cemetery after lashing out at political opponents in Memorial Day post - CNN",
-      "pubDate": "Mon, 26 May 2025 17:59:00 GMT"
-    },
-    {
       "title": "Trump slams Biden, praises \u2018tough cookie\u2019 Hegseth and talks upcoming army parade in Memorial Day address - Politico",
       "pubDate": "Mon, 26 May 2025 18:41:59 GMT"
     },
@@ -631,13 +623,13 @@
     {
       "title": "Trump's ambitious push for trade deals is hitting some snags - NBC News",
       "pubDate": "Tue, 03 Jun 2025 09:00:42 GMT"
+    },
+    {
+      "title": "Musk torches Trump budget bill: 'Disgusting abomination' - CNBC",
+      "pubDate": "Tue, 03 Jun 2025 17:40:49 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine says Russia launched its biggest drone attack yet, part of an escalating campaign - AP News",
-      "pubDate": "Mon, 26 May 2025 17:06:00 GMT"
-    },
     {
       "title": "Russia escalates assault on Ukraine with massive drone attacks on cities - PBS",
       "pubDate": "Mon, 26 May 2025 22:55:22 GMT"
@@ -1001,13 +993,13 @@
     {
       "title": "Ukraine Defaults on Sovereign Debt Payment - WSJ",
       "pubDate": "Tue, 03 Jun 2025 09:04:00 GMT"
+    },
+    {
+      "title": "As Russia reels from drone attack, Ukraine targets vital Crimea Bridge - The Washington Post",
+      "pubDate": "Tue, 03 Jun 2025 17:13:41 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "OECD predicts Canadian economy will avoid recession, but will see flat growth in 2025 - Yahoo",
-      "pubDate": "Mon, 26 May 2025 17:11:23 GMT"
-    },
     {
       "title": "Most Americans fear a recession, say they aren\u2019t ready - wbrc.com",
       "pubDate": "Wed, 28 May 2025 03:44:00 GMT"
@@ -1285,6 +1277,10 @@
     {
       "title": "Russia using drones to hunt Ukrainian civilians: HRW - Al Jazeera",
       "pubDate": "Tue, 03 Jun 2025 09:23:59 GMT"
+    },
+    {
+      "title": "Russia economy in meltdown as country on brink of recession amid slump in growth - MSN",
+      "pubDate": "Tue, 03 Jun 2025 16:06:40 GMT"
     }
   ],
   "israel": [
@@ -1347,10 +1343,6 @@
     {
       "title": "How Nvidia 'played a central role' in the $306 billion AI startup boom - Yahoo Finance",
       "pubDate": "Mon, 26 May 2025 19:59:04 GMT"
-    },
-    {
-      "title": "Wyoming Businessman Talks Artificial Intelligence Policy With Trump White House - Cowboy State Daily",
-      "pubDate": "Mon, 26 May 2025 17:10:00 GMT"
     },
     {
       "title": "AI technology offers hope in human trafficking cases - WOAI",
@@ -1839,6 +1831,10 @@
     {
       "title": "AI Links Early Life Risks to Behavioral Challenges at Age Five - Neuroscience News",
       "pubDate": "Tue, 03 Jun 2025 14:59:45 GMT"
+    },
+    {
+      "title": "Meta's nuclear deal signals AI's growing energy needs - Star Tribune",
+      "pubDate": "Tue, 03 Jun 2025 17:07:59 GMT"
     }
   ],
   "financial_markets": [
@@ -2507,6 +2503,10 @@
     {
       "title": "Video Shows US Ally Confronting China in Contested Waters - Newsweek",
       "pubDate": "Tue, 03 Jun 2025 15:26:14 GMT"
+    },
+    {
+      "title": "Global Alarms Rise as China's Critical Mineral Export Ban Takes Hold - U.S. News & World Report",
+      "pubDate": "Tue, 03 Jun 2025 16:43:00 GMT"
     }
   ],
   "iran": [
@@ -2620,10 +2620,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump threatens to redirect $3 billion in Harvard research grants to trade schools - Fast Company",
-      "pubDate": "Mon, 26 May 2025 18:03:44 GMT"
-    },
     {
       "title": "US economy defies slowdown fears as corporate earnings and travel surge - The Economic Times",
       "pubDate": "Tue, 27 May 2025 02:00:55 GMT"
@@ -2975,6 +2971,10 @@
     {
       "title": "US banks need to be taking trade war risks much more seriously - American Banker",
       "pubDate": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Federal judge dismisses California's lawsuit over Trump tariffs, citing jurisdiction issue - Fox Business",
+      "pubDate": "Tue, 03 Jun 2025 12:31:00 GMT"
     }
   ],
   "terrorism": [
@@ -3515,10 +3515,6 @@
   ],
   "ai_safety": [
     {
-      "title": "ChatGPT o3 model refuses shutdown command in safety test? Research sparks concern\u2014Here's why - Mint",
-      "pubDate": "Mon, 26 May 2025 17:45:05 GMT"
-    },
-    {
       "title": "Movies predicted it! AI models ignored shut down orders, say researchers - Mathrubhumi English",
       "pubDate": "Tue, 27 May 2025 01:20:12 GMT"
     },
@@ -3693,6 +3689,10 @@
     {
       "title": "\"Who are my safest drivers?\": Fleet managers turn to AI for safety insights - PR Newswire",
       "pubDate": "Tue, 03 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Yoshua Bengio launches LawZero, a nonprofit AI safety lab - TechCrunch",
+      "pubDate": "Tue, 03 Jun 2025 17:33:49 GMT"
     }
   ],
   "us_politics": [
@@ -4122,10 +4122,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "Scientists issue dire warning after discovering why viruses and bacteria could soon become more dangerous: 'Urgent need for global cooperation' - The Cool Down",
-      "pubDate": "Mon, 26 May 2025 17:45:00 GMT"
-    },
     {
       "title": "US, Argentina launching new \u2018alternative\u2019 to WHO - The Hill",
       "pubDate": "Tue, 27 May 2025 18:19:00 GMT"
