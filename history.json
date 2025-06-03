@@ -623,10 +623,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine Drone Carriers Launch First Long-Range Autonomous Strikes - Forbes",
-      "pubDate": "Mon, 26 May 2025 10:45:28 GMT"
-    },
-    {
       "title": "Russia launches large drone strike against Ukraine - WKRN News 2",
       "pubDate": "Mon, 26 May 2025 11:47:03 GMT"
     },
@@ -1102,10 +1098,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Secret note reveals Russia using Telegram bots to control drones attacking Ukraine, Economist reports - The Kyiv Independent",
-      "pubDate": "Mon, 26 May 2025 10:13:24 GMT"
-    },
     {
       "title": "Russia fires record number of drones into Ukraine amid Trump criticism - The Hill",
       "pubDate": "Mon, 26 May 2025 14:07:00 GMT"
@@ -2017,10 +2009,6 @@
   ],
   "china": [
     {
-      "title": "China Blocked India's Request For UN Sanctions On 5 Pakistan-Based Terrorists: Report - NDTV",
-      "pubDate": "Mon, 26 May 2025 10:58:30 GMT"
-    },
-    {
       "title": "Ukraine accuses China of supplying Russian arms industry - Al Jazeera",
       "pubDate": "Mon, 26 May 2025 13:27:54 GMT"
     },
@@ -2503,6 +2491,10 @@
     {
       "title": "China turns to alternate beef imports as U.S. tariffs drive prices up - NBC News",
       "pubDate": "Tue, 03 Jun 2025 09:37:00 GMT"
+    },
+    {
+      "title": "Emerging-Market Stocks Gain as China Data Refuel Stimulus Hopes - Bloomberg.com",
+      "pubDate": "Tue, 03 Jun 2025 09:33:18 GMT"
     }
   ],
   "iran": [
@@ -3075,10 +3067,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Democratic troubles revive debate over left-wing buzzwords - The Washington Post",
-      "pubDate": "Mon, 26 May 2025 10:30:59 GMT"
-    },
-    {
       "title": "Democrats' Support May Be Eroding Among Strongest Backers\u2014Data - Newsweek",
       "pubDate": "Mon, 26 May 2025 23:02:00 GMT"
     },
@@ -3109,6 +3097,10 @@
     {
       "title": "Dems Weigh High-Risk, High-Reward Plan to Win the Senate - The Bulwark",
       "pubDate": "Mon, 02 Jun 2025 00:50:29 GMT"
+    },
+    {
+      "title": "Democrats are getting (another) chance to fix their brand - phillytrib.com",
+      "pubDate": "Tue, 03 Jun 2025 04:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -3353,10 +3345,6 @@
   ],
   "climate": [
     {
-      "title": "US faces another summer of extreme heat as fears rise over Trump cuts - The Guardian",
-      "pubDate": "Mon, 26 May 2025 11:00:00 GMT"
-    },
-    {
       "title": "Scientists worry Trump's budget cuts will halt satellite air pollution studies: 'It's incredibly short-sighted' - Space",
       "pubDate": "Tue, 27 May 2025 10:00:00 GMT"
     },
@@ -3486,10 +3474,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "New ChatGPT model refuses to be shut down, AI researchers warn - The Independent",
-      "pubDate": "Mon, 26 May 2025 10:09:00 GMT"
-    },
     {
       "title": "AI Safety Concerns Rise as GPT Models Resist Shutdown - The Crypto Times",
       "pubDate": "Mon, 26 May 2025 12:41:11 GMT"
@@ -3988,10 +3972,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX Pushes to Get Starship Rocket Ready for Mars by Next Year - WSJ",
-      "pubDate": "Mon, 26 May 2025 11:00:00 GMT"
-    },
     {
       "title": "SpaceX launches Starship Flight 9 to space in historic reuse of giant megarocket (video) - Space",
       "pubDate": "Wed, 28 May 2025 00:09:25 GMT"
@@ -4557,6 +4537,12 @@
     {
       "title": "Scientists Crack Mystery of Earth\u2019s Smallest Dunes - SciTechDaily",
       "pubDate": "Mon, 02 Jun 2025 22:51:48 GMT"
+    }
+  ],
+  "ancient_history": [
+    {
+      "title": "'Incredible' ancient footprints discovery could rewrite human history - Daily Express",
+      "pubDate": "Tue, 03 Jun 2025 10:19:00 GMT"
     }
   ]
 }
