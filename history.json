@@ -1,24 +1,12 @@
 {
   "donald_trump": [
     {
-      "title": "'He has gone absolutely crazy': Trump rebukes Putin as Russia hits Ukraine with record drone attack - BBC",
-      "pubDate": "Mon, 26 May 2025 09:11:15 GMT"
-    },
-    {
-      "title": "Trump says he is considering giving $3bn of Harvard\u2019s grants to trade schools \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 26 May 2025 09:41:00 GMT"
-    },
-    {
       "title": "Trump calls Putin 'absolutely crazy' following Russia's latest barrage on Ukraine - NPR",
       "pubDate": "Mon, 26 May 2025 16:23:43 GMT"
     },
     {
       "title": "Trump raises politics in Arlington Memorial Day remarks - ABC News",
       "pubDate": "Mon, 26 May 2025 15:48:53 GMT"
-    },
-    {
-      "title": "Trump in Memorial Day speech says: \u2018I have everything. Amazing, the way things work out\u2019 \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 26 May 2025 09:41:00 GMT"
     },
     {
       "title": "Trump peppers Memorial Day speech with personal boasting and partisan attacks - The Guardian",
@@ -627,13 +615,13 @@
     {
       "title": "White House releases new official Trump portrait. See it here. - CBS News",
       "pubDate": "Mon, 02 Jun 2025 22:43:00 GMT"
+    },
+    {
+      "title": "Donald Trump's tariffs will hurt global growth, OECD warns - BBC",
+      "pubDate": "Tue, 03 Jun 2025 08:45:19 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Intensifies Attacks on Ukraine as U.S. Steps Back - The New York Times",
-      "pubDate": "Mon, 26 May 2025 09:16:44 GMT"
-    },
     {
       "title": "Ukraine Drone Carriers Launch First Long-Range Autonomous Strikes - Forbes",
       "pubDate": "Mon, 26 May 2025 10:45:28 GMT"
@@ -649,10 +637,6 @@
     {
       "title": "Ukraine says Russia launched its biggest drone attack yet, part of an escalating campaign - AP News",
       "pubDate": "Mon, 26 May 2025 17:06:00 GMT"
-    },
-    {
-      "title": "Russia, Ukraine exchange drone attacks after Trump rebukes leaders - ABC News",
-      "pubDate": "Mon, 26 May 2025 09:56:15 GMT"
     },
     {
       "title": "Russia escalates assault on Ukraine with massive drone attacks on cities - PBS",
@@ -1001,6 +985,10 @@
     {
       "title": "Ukraine Shows It Can Still Flip the Script on How Wars Are Waged - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 04:51:00 GMT"
+    },
+    {
+      "title": "Ukraine war live: Zelenskyy calls for sanctions after \u2018savage\u2019 Russian attack on Sumy kills three people - The Guardian",
+      "pubDate": "Tue, 03 Jun 2025 07:50:00 GMT"
     }
   ],
   "recession": [
@@ -1107,6 +1095,10 @@
     {
       "title": "Recession Avoided, For Now (SPX) - Seeking Alpha",
       "pubDate": "Mon, 02 Jun 2025 18:45:00 GMT"
+    },
+    {
+      "title": "Fresh Layoffs In Microsoft After Last Month\u2019s 6000 Job Cuts Triggers The Internet: \u2018Recession Is Already Here\u2019 - Mashable India",
+      "pubDate": "Tue, 03 Jun 2025 05:50:37 GMT"
     }
   ],
   "russia": [
@@ -1344,10 +1336,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Is AI going rogue, just as the movies foretold? - Hindustan Times",
-      "pubDate": "Mon, 26 May 2025 09:43:52 GMT"
-    },
     {
       "title": "Large language models that power AI should be publicly owned | Letter - The Guardian",
       "pubDate": "Mon, 26 May 2025 16:05:00 GMT"
@@ -1839,6 +1827,10 @@
     {
       "title": "AI could wipe out half of office jobs, push US unemployment to 20%, warns Claude chatbot creator - VnExpress International",
       "pubDate": "Tue, 03 Jun 2025 08:30:12 GMT"
+    },
+    {
+      "title": "AI Pioneer Launches Research Group to Help Build Safer Agents - Bloomberg.com",
+      "pubDate": "Tue, 03 Jun 2025 04:01:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2025,10 +2017,6 @@
   ],
   "china": [
     {
-      "title": "China Raises Cross-Border Yuan Use Requirement for Major Banks - Bloomberg",
-      "pubDate": "Mon, 26 May 2025 09:36:23 GMT"
-    },
-    {
       "title": "China Blocked India's Request For UN Sanctions On 5 Pakistan-Based Terrorists: Report - NDTV",
       "pubDate": "Mon, 26 May 2025 10:58:30 GMT"
     },
@@ -2039,10 +2027,6 @@
     {
       "title": "China Warns US Ally Over Plan To Take Back Strategic Port - Newsweek",
       "pubDate": "Mon, 26 May 2025 16:30:20 GMT"
-    },
-    {
-      "title": "China student says she had to 'take off trousers' for period leave - BBC",
-      "pubDate": "Mon, 26 May 2025 09:32:20 GMT"
     },
     {
       "title": "China Wants Banks to Up Yuan Use in Cross-Border Transactions - PYMNTS.com",
@@ -2515,6 +2499,10 @@
     {
       "title": "China's factory activity cools in May as US tariffs hit - Reuters",
       "pubDate": "Tue, 03 Jun 2025 01:49:00 GMT"
+    },
+    {
+      "title": "China turns to alternate beef imports as U.S. tariffs drive prices up - NBC News",
+      "pubDate": "Tue, 03 Jun 2025 09:37:00 GMT"
     }
   ],
   "iran": [
@@ -2624,10 +2612,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Donald Trump announces he will pause threatened 50% tariffs on Europe after call with EU chief \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 26 May 2025 09:41:00 GMT"
-    },
     {
       "title": "Trump threatens to redirect $3 billion in Harvard research grants to trade schools - Fast Company",
       "pubDate": "Mon, 26 May 2025 18:03:44 GMT"
@@ -3183,10 +3167,6 @@
   ],
   "hamas": [
     {
-      "title": "Hamas reportedly agrees to U.S. plan for 70-day Gaza cease-fire, hostage deal - Haaretz",
-      "pubDate": "Mon, 26 May 2025 09:14:00 GMT"
-    },
-    {
       "title": "White House envoy says Hamas' response to ceasefire proposal \"unacceptable\" - Axios",
       "pubDate": "Mon, 26 May 2025 18:32:57 GMT"
     },
@@ -3365,6 +3345,10 @@
     {
       "title": "Israel says 3 soldiers killed in Gaza in deadliest attack on its forces since a truce ended in March - The Washington Post",
       "pubDate": "Tue, 03 Jun 2025 05:55:21 GMT"
+    },
+    {
+      "title": "Hamas's Gaza City commander, Izz al-Din al-Haddad, to replace Sinwar as Hamas chief - The Jerusalem Post",
+      "pubDate": "Tue, 03 Jun 2025 03:53:00 GMT"
     }
   ],
   "climate": [
@@ -3517,10 +3501,6 @@
     {
       "title": "AI sometimes deceives to survive. Does anybody care? - Taipei Times",
       "pubDate": "Mon, 26 May 2025 16:00:00 GMT"
-    },
-    {
-      "title": "Advanced AI from Anthropic Tries to Blackmail Engineer, Raises Red Flags - Analytics Insight",
-      "pubDate": "Mon, 26 May 2025 10:02:31 GMT"
     },
     {
       "title": "Movies predicted it! AI models ignored shut down orders, say researchers - Mathrubhumi English",
@@ -3688,10 +3668,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "New Trump Club in D.C., Executive Branch, Clashes With Old Guard - The New York Times",
-      "pubDate": "Mon, 26 May 2025 09:03:35 GMT"
-    },
     {
       "title": "FBI announces new probes into Dobbs Supreme Court leak, White House cocaine incident - Reuters",
       "pubDate": "Mon, 26 May 2025 13:41:45 GMT"
@@ -4575,6 +4551,12 @@
     {
       "title": "Scientists Create Framework for Analyzing Metabolic Data To Predict Disease Risk - Technology Networks",
       "pubDate": "Mon, 02 Jun 2025 15:35:15 GMT"
+    }
+  ],
+  "earth_science": [
+    {
+      "title": "Scientists Crack Mystery of Earth\u2019s Smallest Dunes - SciTechDaily",
+      "pubDate": "Mon, 02 Jun 2025 22:51:48 GMT"
     }
   ]
 }
