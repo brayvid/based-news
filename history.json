@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump lashes out at \u2018crazy\u2019 Putin after deadly Russian air raids on Ukraine - Al Jazeera",
-      "pubDate": "Mon, 26 May 2025 04:31:42 GMT"
-    },
-    {
       "title": "'He has gone absolutely crazy': Trump rebukes Putin as Russia hits Ukraine with record drone attack - BBC",
       "pubDate": "Mon, 26 May 2025 09:11:15 GMT"
     },
@@ -619,6 +615,10 @@
     {
       "title": "A Trump Official Threatens to Sue California Schools Over Trans Athletes - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 01:54:10 GMT"
+    },
+    {
+      "title": "Trump Talks a Lot About Antisemitism, With a Notable Caveat - The New York Times",
+      "pubDate": "Mon, 02 Jun 2025 22:31:55 GMT"
     }
   ],
   "ukraine": [
@@ -1293,6 +1293,10 @@
     {
       "title": "Putin\u2019s sickening statistic: 1m Russian casualties in Ukraine - The Economist",
       "pubDate": "Mon, 02 Jun 2025 18:51:16 GMT"
+    },
+    {
+      "title": "Russia sets out punitive terms at peace talks with Ukraine - Reuters",
+      "pubDate": "Mon, 02 Jun 2025 22:07:21 GMT"
     }
   ],
   "israel": [
@@ -1348,10 +1352,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI model disobeys humans, refuses to shut down. Elon Musk says \u2018concerning\u2019 - Hindustan Times",
-      "pubDate": "Mon, 26 May 2025 04:52:18 GMT"
-    },
     {
       "title": "Capgemini, SAP, Mistral AI Team Up on Artificial Intelligence - WSJ",
       "pubDate": "Mon, 26 May 2025 07:34:00 GMT"
@@ -2527,6 +2527,10 @@
     {
       "title": "China's May factory activity unexpectedly shrinks, clocking its worst drop since 2022: Caixin - CNBC",
       "pubDate": "Tue, 03 Jun 2025 02:00:00 GMT"
+    },
+    {
+      "title": "China Private Factory Gauge Unexpectedly Shrinks After US Truce - Bloomberg.com",
+      "pubDate": "Tue, 03 Jun 2025 01:48:00 GMT"
     }
   ],
   "iran": [
@@ -3713,13 +3717,13 @@
     {
       "title": "LG Electronics partners with AI Safety Research Institute to enhance AI safety - Chosunbiz",
       "pubDate": "Tue, 03 Jun 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Will AI go rogue? Noted researcher Yoshua Bengio launches venture to keep it safe - The Globe and Mail",
+      "pubDate": "Tue, 03 Jun 2025 04:01:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump says US wants to make tanks, not T-shirts - Reuters",
-      "pubDate": "Mon, 26 May 2025 04:18:36 GMT"
-    },
     {
       "title": "New Trump Club in D.C., Executive Branch, Clashes With Old Guard - The New York Times",
       "pubDate": "Mon, 26 May 2025 09:03:35 GMT"
@@ -4579,6 +4583,10 @@
     {
       "title": "Hurricane Season Is Starting. Here\u2019s Everything to Know. - The New York Times",
       "pubDate": "Sun, 01 Jun 2025 18:01:01 GMT"
+    },
+    {
+      "title": "Acting head of FEMA said he wasn't aware U.S. has a hurricane season, sources say - CBS News",
+      "pubDate": "Tue, 03 Jun 2025 02:19:44 GMT"
     }
   ],
   "poland": [
