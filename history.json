@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump calls Putin 'absolutely crazy' following Russia's latest barrage on Ukraine - NPR",
-      "pubDate": "Mon, 26 May 2025 16:23:43 GMT"
-    },
-    {
       "title": "Trump peppers Memorial Day speech with personal boasting and partisan attacks - The Guardian",
       "pubDate": "Mon, 26 May 2025 19:37:00 GMT"
     },
@@ -631,6 +627,10 @@
     {
       "title": "Live updates: Top Jan. 6 prosecutor rips pardons; Trump's trade agenda showing cracks - NBC News",
       "pubDate": "Tue, 03 Jun 2025 14:55:53 GMT"
+    },
+    {
+      "title": "Trump's ambitious push for trade deals is hitting some snags - NBC News",
+      "pubDate": "Tue, 03 Jun 2025 09:00:42 GMT"
     }
   ],
   "ukraine": [
@@ -997,16 +997,16 @@
     {
       "title": "Russia closes Crimea bridge hours after Ukraine underwater strike - BBC",
       "pubDate": "Tue, 03 Jun 2025 13:45:40 GMT"
+    },
+    {
+      "title": "Ukraine Defaults on Sovereign Debt Payment - WSJ",
+      "pubDate": "Tue, 03 Jun 2025 09:04:00 GMT"
     }
   ],
   "recession": [
     {
       "title": "OECD predicts Canadian economy will avoid recession, but will see flat growth in 2025 - Yahoo",
       "pubDate": "Mon, 26 May 2025 17:11:23 GMT"
-    },
-    {
-      "title": "Growth steady in Coweta, but recession concerns loom - The Newnan Times-Herald",
-      "pubDate": "Mon, 26 May 2025 17:05:00 GMT"
     },
     {
       "title": "Most Americans fear a recession, say they aren\u2019t ready - wbrc.com",
@@ -1107,6 +1107,10 @@
     {
       "title": "Economists wary of potential recession as tariffs challenge businesses - South Dakota Public Broadcasting",
       "pubDate": "Tue, 03 Jun 2025 11:54:00 GMT"
+    },
+    {
+      "title": "Recession Fears Trigger Major Moves in the Stock Market - MSN",
+      "pubDate": "Tue, 03 Jun 2025 11:42:44 GMT"
     }
   ],
   "russia": [
@@ -1327,6 +1331,10 @@
     {
       "title": "Israel kills 27 Palestinians in latest mass killing of aid seekers - Middle East Eye",
       "pubDate": "Tue, 03 Jun 2025 10:22:18 GMT"
+    },
+    {
+      "title": "Three Israeli Soldiers Killed in Northern Gaza Explosion, IDF Announces - Haaretz",
+      "pubDate": "Tue, 03 Jun 2025 06:06:00 GMT"
     }
   ],
   "inflation": [
@@ -1343,10 +1351,6 @@
     {
       "title": "Wyoming Businessman Talks Artificial Intelligence Policy With Trump White House - Cowboy State Daily",
       "pubDate": "Mon, 26 May 2025 17:10:00 GMT"
-    },
-    {
-      "title": "San Francisco protesters warn of 'human extinction' with AI's increasing intelligence amid Trump's Big Beautiful Bill - ABC7 San Francisco",
-      "pubDate": "Mon, 26 May 2025 16:54:45 GMT"
     },
     {
       "title": "AI technology offers hope in human trafficking cases - WOAI",
@@ -2013,10 +2017,6 @@
   ],
   "china": [
     {
-      "title": "China Warns US Ally Over Plan To Take Back Strategic Port - Newsweek",
-      "pubDate": "Mon, 26 May 2025 16:30:20 GMT"
-    },
-    {
       "title": "China Wants Banks to Up Yuan Use in Cross-Border Transactions - PYMNTS.com",
       "pubDate": "Mon, 26 May 2025 19:35:45 GMT"
     },
@@ -2503,6 +2503,10 @@
     {
       "title": "The great Trump riddle on China - Financial Times",
       "pubDate": "Tue, 03 Jun 2025 10:49:27 GMT"
+    },
+    {
+      "title": "Video Shows US Ally Confronting China in Contested Waters - Newsweek",
+      "pubDate": "Tue, 03 Jun 2025 15:26:14 GMT"
     }
   ],
   "iran": [
@@ -2619,10 +2623,6 @@
     {
       "title": "Trump threatens to redirect $3 billion in Harvard research grants to trade schools - Fast Company",
       "pubDate": "Mon, 26 May 2025 18:03:44 GMT"
-    },
-    {
-      "title": "US economy will grow \u2018north of 3%\u2019 by this time next year, predicts Treasury Secretary Scott Bessent - Mint",
-      "pubDate": "Mon, 26 May 2025 16:14:59 GMT"
     },
     {
       "title": "US economy defies slowdown fears as corporate earnings and travel surge - The Economic Times",
@@ -3137,6 +3137,10 @@
     {
       "title": "Democratic party leaders just met for the first time in months. When will they take real action? | Norman Solomon - The Guardian",
       "pubDate": "Tue, 03 Jun 2025 14:01:00 GMT"
+    },
+    {
+      "title": "House Democrats seek to grill Kristi Noem on DHS handcuffing Nadler aide - Axios",
+      "pubDate": "Tue, 03 Jun 2025 16:05:31 GMT"
     }
   ],
   "north_korea": [
@@ -3685,6 +3689,10 @@
     {
       "title": "Machine learning expert launches nonprofit for AI safety - Tech in Asia",
       "pubDate": "Tue, 03 Jun 2025 08:40:00 GMT"
+    },
+    {
+      "title": "\"Who are my safest drivers?\": Fleet managers turn to AI for safety insights - PR Newswire",
+      "pubDate": "Tue, 03 Jun 2025 12:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -4033,10 +4041,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Trump Media Plans $3 Billion Raise to Buy Bitcoin, Other Crypto: FT - Decrypt",
-      "pubDate": "Mon, 26 May 2025 16:40:07 GMT"
-    },
-    {
       "title": "BlackRock Issues Bitcoin Warning, Says BTC Source Code Could Be Rendered \u2018Flawed or Ineffective\u2019 by Quantum Computing - The Daily Hodl",
       "pubDate": "Mon, 26 May 2025 18:06:11 GMT"
     },
@@ -4229,10 +4233,6 @@
     {
       "title": "FBI reopens investigation into cocaine at White House, leaked Dobbs opinion - 6abc Philadelphia",
       "pubDate": "Mon, 26 May 2025 18:27:59 GMT"
-    },
-    {
-      "title": "FBI to reinvestigate 2023 White House cocaine find and leak of supreme court Dobbs draft - The Guardian",
-      "pubDate": "Mon, 26 May 2025 16:30:00 GMT"
     },
     {
       "title": "FBI: $5,000 reward for info leading to the arrest of Chicago bank robbery suspect - WGN-TV",
