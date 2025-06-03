@@ -9,10 +9,6 @@
       "pubDate": "Mon, 26 May 2025 21:09:00 GMT"
     },
     {
-      "title": "Trump slams Biden, praises \u2018tough cookie\u2019 Hegseth and talks upcoming army parade in Memorial Day address - Politico",
-      "pubDate": "Mon, 26 May 2025 18:41:59 GMT"
-    },
-    {
       "title": "Trump pardons former Virginia sheriff convicted of bribery, fraud - The Washington Post",
       "pubDate": "Tue, 27 May 2025 01:43:47 GMT"
     },
@@ -627,6 +623,10 @@
     {
       "title": "Musk torches Trump budget bill: 'Disgusting abomination' - CNBC",
       "pubDate": "Tue, 03 Jun 2025 17:40:49 GMT"
+    },
+    {
+      "title": "\u2018Disgusting abomination\u2019: Musk goes nuclear on Trump\u2019s \u2018big beautiful bill\u2019 - Politico",
+      "pubDate": "Tue, 03 Jun 2025 18:07:09 GMT"
     }
   ],
   "ukraine": [
@@ -997,6 +997,10 @@
     {
       "title": "As Russia reels from drone attack, Ukraine targets vital Crimea Bridge - The Washington Post",
       "pubDate": "Tue, 03 Jun 2025 17:13:41 GMT"
+    },
+    {
+      "title": "Ukraine claims attack on Kerch Bridge linking Crimea, Russia - Al Jazeera",
+      "pubDate": "Tue, 03 Jun 2025 17:40:31 GMT"
     }
   ],
   "recession": [
@@ -1106,14 +1110,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Putin calls to 'strangle' Western companies still operating in Russia - The Kyiv Independent",
-      "pubDate": "Mon, 26 May 2025 18:27:19 GMT"
-    },
-    {
-      "title": "Russia launched record drone attack overnight, Ukraine says - wng.org",
-      "pubDate": "Mon, 26 May 2025 18:39:00 GMT"
-    },
     {
       "title": "Trump blasts Putin as \"absolutely crazy\" as Russia targets Ukraine with massive wave of drones and missiles - CBS News",
       "pubDate": "Mon, 26 May 2025 23:24:46 GMT"
@@ -1911,10 +1907,6 @@
   ],
   "trade_war": [
     {
-      "title": "EU hopes for quick deal to resolve US trade war after Trump delays 50% tariffs - The Guardian",
-      "pubDate": "Mon, 26 May 2025 18:30:00 GMT"
-    },
-    {
       "title": "Temu's Chinese owner sees profits plunge as tariff war bites - BBC",
       "pubDate": "Wed, 28 May 2025 03:17:34 GMT"
     },
@@ -2015,10 +2007,6 @@
     {
       "title": "China Wants Banks to Up Yuan Use in Cross-Border Transactions - PYMNTS.com",
       "pubDate": "Mon, 26 May 2025 19:35:45 GMT"
-    },
-    {
-      "title": "Guam governor visits Taiwan, US territory would play key role in China invasion scenario - ABC News",
-      "pubDate": "Mon, 26 May 2025 18:58:05 GMT"
     },
     {
       "title": "China's industrial profits rise 3% in April after output beat estimates despite U.S. tariffs - CNBC",
@@ -2975,6 +2963,10 @@
     {
       "title": "Federal judge dismisses California's lawsuit over Trump tariffs, citing jurisdiction issue - Fox Business",
       "pubDate": "Tue, 03 Jun 2025 12:31:00 GMT"
+    },
+    {
+      "title": "OECD lowers global outlook as Trump trade war hits US growth - Reuters",
+      "pubDate": "Tue, 03 Jun 2025 11:25:38 GMT"
     }
   ],
   "terrorism": [
@@ -3091,6 +3083,10 @@
     {
       "title": "From No Hope to a Potential Cure for a Deadly Blood Cancer - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 14:45:05 GMT"
+    },
+    {
+      "title": "New White House budget plan eyes dramatic cuts to cancer research - MSNBC News",
+      "pubDate": "Tue, 03 Jun 2025 13:44:22 GMT"
     }
   ],
   "democratic_party": [
@@ -3198,10 +3194,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "White House envoy says Hamas' response to ceasefire proposal \"unacceptable\" - Axios",
-      "pubDate": "Mon, 26 May 2025 18:32:57 GMT"
-    },
     {
       "title": "Israel strikes Gaza school, saying Hamas militants used it as command center - CBS News",
       "pubDate": "Mon, 26 May 2025 23:03:00 GMT"
@@ -3693,13 +3685,13 @@
     {
       "title": "Yoshua Bengio launches LawZero, a nonprofit AI safety lab - TechCrunch",
       "pubDate": "Tue, 03 Jun 2025 17:33:49 GMT"
+    },
+    {
+      "title": "Introducing LawZero - yoshuabengio.org",
+      "pubDate": "Tue, 03 Jun 2025 10:33:27 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "FBI reopens probe into cocaine found at Joe Biden's White House - London Evening Standard",
-      "pubDate": "Mon, 26 May 2025 18:05:28 GMT"
-    },
     {
       "title": "Trump Honors Troops, Criticizes Rivals on Memorial Day - Time Magazine",
       "pubDate": "Mon, 26 May 2025 21:38:58 GMT"
@@ -3935,6 +3927,10 @@
     {
       "title": "Senate returns to debate Trump\u2019s big budget bill - AP News",
       "pubDate": "Mon, 02 Jun 2025 23:35:00 GMT"
+    },
+    {
+      "title": "Trump Attacks Rand Paul, Working to Rally G.O.P. Support for Policy Bill - The New York Times",
+      "pubDate": "Tue, 03 Jun 2025 17:32:37 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4009,6 +4005,10 @@
     {
       "title": "China unveils the Solar Great Wall: 400 km and 180,000 kWh to power the country - ECOticias.com El Peri\u00f3dico Verde",
       "pubDate": "Sun, 01 Jun 2025 11:50:12 GMT"
+    },
+    {
+      "title": "China launches world\u2019s first grid-forming sodium-ion battery storage plant - pv magazine International",
+      "pubDate": "Tue, 03 Jun 2025 14:48:07 GMT"
     }
   ],
   "spacex": [
@@ -4040,10 +4040,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "BlackRock Issues Bitcoin Warning, Says BTC Source Code Could Be Rendered \u2018Flawed or Ineffective\u2019 by Quantum Computing - The Daily Hodl",
-      "pubDate": "Mon, 26 May 2025 18:06:11 GMT"
-    },
     {
       "title": "Another Suspect Is Arrested in Bitcoin Kidnapping and Torture Case - The New York Times",
       "pubDate": "Tue, 27 May 2025 13:50:53 GMT"
@@ -4203,10 +4199,6 @@
   ],
   "vladimir_putin": [
     {
-      "title": "Kremlin calls Trump 'emotional' after US president says Putin is 'crazy' - BBC",
-      "pubDate": "Mon, 26 May 2025 18:14:49 GMT"
-    },
-    {
       "title": "Trump warns Putin he's \"playing with fire\" by bombing Ukraine - Axios",
       "pubDate": "Tue, 27 May 2025 19:28:21 GMT"
     },
@@ -4226,10 +4218,6 @@
     }
   ],
   "fbi": [
-    {
-      "title": "FBI reopens investigation into cocaine at White House, leaked Dobbs opinion - 6abc Philadelphia",
-      "pubDate": "Mon, 26 May 2025 18:27:59 GMT"
-    },
     {
       "title": "FBI: $5,000 reward for info leading to the arrest of Chicago bank robbery suspect - WGN-TV",
       "pubDate": "Mon, 02 Jun 2025 22:30:02 GMT"
@@ -4255,10 +4243,6 @@
     {
       "title": "It Might Actually Be 20 Times Easier for Quantum Computers to Break Bitcoin, Google Says - Decrypt",
       "pubDate": "Mon, 26 May 2025 21:02:07 GMT"
-    },
-    {
-      "title": "Global first: Quantum computer generates bits of unpredictable randomness - The Brighter Side of News",
-      "pubDate": "Mon, 26 May 2025 18:07:00 GMT"
     }
   ],
   "public_health": [
