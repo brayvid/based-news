@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Japan Will Spend $6.3 Billion to Shield Its Economy From Trump Tariffs - The New York Times",
-      "pubDate": "Tue, 27 May 2025 06:55:29 GMT"
-    },
-    {
       "title": "As Trump targets elite schools, Harvard's president says they should 'stand firm' - NPR",
       "pubDate": "Tue, 27 May 2025 09:00:00 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Trump formally asks Congress to claw back approved spending targeted by DOGE - PBS",
       "pubDate": "Tue, 03 Jun 2025 21:14:56 GMT"
+    },
+    {
+      "title": "Musk blasts Trump\u2019s agenda bill as a \u2018disgusting abomination,\u2019 catching White House officials off guard - CNN",
+      "pubDate": "Tue, 03 Jun 2025 20:01:00 GMT"
     }
   ],
   "ukraine": [
@@ -1025,6 +1025,10 @@
     {
       "title": "As Ukraine batters Russia with daring assaults, firebrand pro-Kremlin pundits rattle nuclear sabres - CNN",
       "pubDate": "Wed, 04 Jun 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Inside the Ukrainian Drone Operation That Devastated Russia\u2019s Bomber Fleet - WSJ",
+      "pubDate": "Wed, 04 Jun 2025 02:57:00 GMT"
     }
   ],
   "recession": [
@@ -1147,6 +1151,10 @@
     {
       "title": "Global Recession Looms in US and China PMI Data. Will Markets Notice? - tastylive",
       "pubDate": "Tue, 03 Jun 2025 23:30:51 GMT"
+    },
+    {
+      "title": "Australia slides back into \u2018recession\u2019 - News.com.au",
+      "pubDate": "Wed, 04 Jun 2025 02:15:00 GMT"
     }
   ],
   "russia": [
@@ -1891,6 +1899,10 @@
     {
       "title": "Meta Turns to Nuclear Power to Run AI | Bloomberg Technology 6/3/2025 - Bloomberg.com",
       "pubDate": "Tue, 03 Jun 2025 20:34:27 GMT"
+    },
+    {
+      "title": "AI enables shift from enablement to strategic leadership - AI News",
+      "pubDate": "Tue, 03 Jun 2025 22:19:41 GMT"
     }
   ],
   "financial_markets": [
@@ -2559,6 +2571,10 @@
     {
       "title": "China Really Wants to Attract Talented Scientists. Trump Just Helped. - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 04:01:08 GMT"
+    },
+    {
+      "title": "EU industry could grind to a halt over China\u2019s rare earth restrictions - South China Morning Post",
+      "pubDate": "Wed, 04 Jun 2025 05:44:03 GMT"
     }
   ],
   "iran": [
@@ -3595,10 +3611,6 @@
       "pubDate": "Tue, 27 May 2025 10:04:56 GMT"
     },
     {
-      "title": "India Opens Call for Partners to Build Safe & Trusted AI Ecosystem - TICE News",
-      "pubDate": "Tue, 27 May 2025 07:02:14 GMT"
-    },
-    {
       "title": "ChatGPT o3 bypasses shutdown in controlled test - Computing UK",
       "pubDate": "Tue, 27 May 2025 08:44:34 GMT"
     },
@@ -3777,6 +3789,10 @@
     {
       "title": "The Wiretap: Trump Says Goodbye To The AI Safety Institute - Forbes",
       "pubDate": "Tue, 03 Jun 2025 22:23:33 GMT"
+    },
+    {
+      "title": "\"Safe-by-design\"AI: Yoshua Bengio launches LawZero | Newswise - Newswise",
+      "pubDate": "Wed, 04 Jun 2025 00:50:00 GMT"
     }
   ],
   "us_politics": [
@@ -4639,6 +4655,12 @@
     {
       "title": "The Gutting of America\u2019s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 04:33:48 GMT"
+    }
+  ],
+  "google": [
+    {
+      "title": "Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild - theregister.com",
+      "pubDate": "Tue, 03 Jun 2025 19:23:00 GMT"
     }
   ]
 }
