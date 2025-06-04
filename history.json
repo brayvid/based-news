@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "China\u2019s Soft Spot in Trade War With Trump: Risk of Huge Job Loss - The New York Times",
-      "pubDate": "Tue, 27 May 2025 04:01:59 GMT"
-    },
-    {
       "title": "Japan Will Spend $6.3 Billion to Shield Its Economy From Trump Tariffs - The New York Times",
       "pubDate": "Tue, 27 May 2025 06:55:29 GMT"
     },
@@ -627,13 +623,13 @@
     {
       "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019 - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 00:19:12 GMT"
+    },
+    {
+      "title": "The Trump-Musk breakup, briefly explained - vox.com",
+      "pubDate": "Tue, 03 Jun 2025 22:05:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine\u2019s \u2018drone war\u2019 hastens development of autonomous weapons - Financial Times",
-      "pubDate": "Tue, 27 May 2025 04:00:49 GMT"
-    },
     {
       "title": "More than 200 Ukrainian POWs have died in Russian prisons. This is one soldier\u2019s story - AP News",
       "pubDate": "Tue, 27 May 2025 04:15:00 GMT"
@@ -1301,6 +1297,10 @@
     {
       "title": "Russia economy in meltdown as country on brink of recession amid slump in growth - MSN",
       "pubDate": "Tue, 03 Jun 2025 16:06:40 GMT"
+    },
+    {
+      "title": "Russia upgrades Shahed drones with new tech, EW protection \u2013 Ukrainian Air Force - Ukrinform",
+      "pubDate": "Tue, 03 Jun 2025 21:42:00 GMT"
     }
   ],
   "israel": [
@@ -1913,10 +1913,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump\u2019s talk on Ukraine is cheap, but the Kremlin has set him a pivotal test - CNN",
-      "pubDate": "Tue, 27 May 2025 04:00:00 GMT"
-    },
-    {
       "title": "Satellite Image Shows US Air Power Buildup at Island Base Near Iran - Newsweek",
       "pubDate": "Tue, 27 May 2025 11:36:21 GMT"
     },
@@ -2527,6 +2523,10 @@
     {
       "title": "China's rare earth curbs threaten India's auto sector, EV production - The Economic Times",
       "pubDate": "Wed, 04 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "title": "How is China ramping up controls on critical mineral exports amid row with US? - South China Morning Post",
+      "pubDate": "Wed, 04 Jun 2025 03:00:12 GMT"
     }
   ],
   "iran": [
@@ -3015,6 +3015,10 @@
     {
       "title": "Trump signs order hiking steel tariffs - BBC",
       "pubDate": "Tue, 03 Jun 2025 22:19:48 GMT"
+    },
+    {
+      "title": "US economic growth forecast cut sharply due to higher tariffs - Fox Business",
+      "pubDate": "Tue, 03 Jun 2025 16:46:00 GMT"
     }
   ],
   "terrorism": [
@@ -3029,13 +3033,13 @@
     {
       "title": "FBI investigating Boulder, Colorado attack as an act of terrorism - MSNBC News",
       "pubDate": "Mon, 02 Jun 2025 01:12:20 GMT"
+    },
+    {
+      "title": "Potential \u2018agroterrorism weapon\u2019 fungus smuggled into US by Chinese scientists, FBI alleges - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 02:52:00 GMT"
     }
   ],
   "cancer": [
-    {
-      "title": "Global heating may be fuelling rise in deadly cancers among women - The Independent",
-      "pubDate": "Tue, 27 May 2025 04:00:00 GMT"
-    },
     {
       "title": "Woman\u2019s life-saving treatment delayed by Trump cuts to NIH: \u2018Cancer shouldn\u2019t be political\u2019 - The Guardian",
       "pubDate": "Wed, 28 May 2025 12:19:00 GMT"
@@ -3737,6 +3741,10 @@
     {
       "title": "How some Republicans changed their minds about AI safety - Platformer",
       "pubDate": "Wed, 04 Jun 2025 00:12:39 GMT"
+    },
+    {
+      "title": "AI Godfather Is 'Deeply Concerned' About AI Dangers, Launches Safety-Focused Nonprofit LawZero - eWEEK",
+      "pubDate": "Wed, 04 Jun 2025 00:39:15 GMT"
     }
   ],
   "us_politics": [
@@ -3747,10 +3755,6 @@
     {
       "title": "Live updates: Senate eyes changes to Trump\u2019s legislative package that narrowly passed the House - The Washington Post",
       "pubDate": "Tue, 27 May 2025 10:50:59 GMT"
-    },
-    {
-      "title": "FBI escalates efforts to investigate Supreme Court leak, cocaine find at Biden White House - Axios",
-      "pubDate": "Tue, 27 May 2025 03:34:32 GMT"
     },
     {
       "title": "As Trump reignites a trade war and faces a bond market revolt, the economy is about to go through the wringer this week - CNN",
@@ -3983,6 +3987,10 @@
     {
       "title": "'We are all going to die' - Senator Joni Ernst's healthcare comment sparks row - BBC",
       "pubDate": "Tue, 03 Jun 2025 23:09:14 GMT"
+    },
+    {
+      "title": "Judge tosses Democratic Party challenge to Trump order\u2019s impact on FEC - Politico",
+      "pubDate": "Wed, 04 Jun 2025 03:21:28 GMT"
     }
   ],
   "cryptocurrency": [
