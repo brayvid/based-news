@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump pardons former Virginia sheriff convicted of bribery, fraud - The Washington Post",
-      "pubDate": "Tue, 27 May 2025 01:43:47 GMT"
-    },
-    {
       "title": "Asian shares dip, dollar struggles after Trump's tariff backflip - Reuters",
       "pubDate": "Tue, 27 May 2025 02:32:00 GMT"
     },
@@ -635,13 +631,13 @@
     {
       "title": "RNC Intervenes to Back Trump Anti-Voting Order, Claims Greater Voter Access Hurts Their Candidates - Democracy Docket",
       "pubDate": "Wed, 04 Jun 2025 00:00:52 GMT"
+    },
+    {
+      "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019 - The New York Times",
+      "pubDate": "Wed, 04 Jun 2025 00:19:12 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia is preparing new offensives, according to Ukraine intelligence: Zelenskyy - ABC News",
-      "pubDate": "Tue, 27 May 2025 01:09:41 GMT"
-    },
     {
       "title": "Ukraine\u2019s \u2018drone war\u2019 hastens development of autonomous weapons - Financial Times",
       "pubDate": "Tue, 27 May 2025 04:00:49 GMT"
@@ -1025,6 +1021,10 @@
     {
       "title": "Ukraine's drone attack on Russia just exposed a huge global nuclear vulnerability - MSNBC News",
       "pubDate": "Tue, 03 Jun 2025 20:32:00 GMT"
+    },
+    {
+      "title": "Ukraine hits Putin\u2019s bridge to Crimea with underwater bomb attack - The Independent",
+      "pubDate": "Tue, 03 Jun 2025 18:15:00 GMT"
     }
   ],
   "recession": [
@@ -1139,6 +1139,10 @@
     {
       "title": "Mark Cuban predicts painful red rural recession \u2014 here are 4 states he says should brace for economic fallout - The Economic Times",
       "pubDate": "Tue, 03 Jun 2025 17:48:34 GMT"
+    },
+    {
+      "title": "Trump\u2019s tariff u-turn averted hard landing, but US recession risks climbing: UBS - Investing.com",
+      "pubDate": "Tue, 03 Jun 2025 18:43:53 GMT"
     }
   ],
   "russia": [
@@ -1875,6 +1879,10 @@
     {
       "title": "California Senate passes bill that aims to make AI chatbots safer - Los Angeles Times",
       "pubDate": "Tue, 03 Jun 2025 23:48:07 GMT"
+    },
+    {
+      "title": "AI foot scanner recognises warning signs of heart failure to keep people out of hospital, researchers say - Sky News",
+      "pubDate": "Wed, 04 Jun 2025 01:50:28 GMT"
     }
   ],
   "financial_markets": [
@@ -2048,22 +2056,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's industrial profits rise 3% in April after output beat estimates despite U.S. tariffs - CNBC",
-      "pubDate": "Tue, 27 May 2025 01:41:00 GMT"
-    },
-    {
-      "title": "China\u2019s Industrial Profit Growth Picks Up in Sign of Resilience - Bloomberg.com",
-      "pubDate": "Tue, 27 May 2025 01:34:00 GMT"
-    },
-    {
-      "title": "China's industrial profits rise at faster pace in April despite trade tensions, deflationary pressures - CNBC",
-      "pubDate": "Tue, 27 May 2025 01:41:00 GMT"
-    },
-    {
-      "title": "China's industrial profit growth accelerates in April as stimulus measures cushion tariff impact - CNBC",
-      "pubDate": "Tue, 27 May 2025 01:41:00 GMT"
-    },
     {
       "title": "How China Could Counter U.S. Intervention in War Over Taiwan - War on the Rocks",
       "pubDate": "Tue, 27 May 2025 07:30:59 GMT"
@@ -2547,6 +2539,10 @@
     {
       "title": "Chinese couple charged with smuggling a biological pathogen into the U.S. - NBC News",
       "pubDate": "Tue, 03 Jun 2025 22:20:18 GMT"
+    },
+    {
+      "title": "China's rare earth curbs threaten India's auto sector, EV production - The Economic Times",
+      "pubDate": "Wed, 04 Jun 2025 00:00:00 GMT"
     }
   ],
   "iran": [
@@ -2661,13 +2657,13 @@
     {
       "title": "U.N. Nuclear Watchdog Has \u2018Serious Concern\u2019 About Iran\u2019s Rapidly Growing Uranium Stockpile - U.S. News & World Report",
       "pubDate": "Tue, 03 Jun 2025 19:30:00 GMT"
+    },
+    {
+      "title": "Analysis: An outline is emerging of the US offer to Iran in their high-stakes nuclear negotiations - AP News",
+      "pubDate": "Tue, 03 Jun 2025 19:40:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US economy defies slowdown fears as corporate earnings and travel surge - The Economic Times",
-      "pubDate": "Tue, 27 May 2025 02:00:55 GMT"
-    },
     {
       "title": "Trump\u2019s 50% E.U. Tariff Threat Could Cause Economic Damage Beyond Europe - The New York Times",
       "pubDate": "Tue, 27 May 2025 05:02:01 GMT"
@@ -3574,10 +3570,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Movies predicted it! AI models ignored shut down orders, say researchers - Mathrubhumi English",
-      "pubDate": "Tue, 27 May 2025 01:20:12 GMT"
-    },
     {
       "title": "This just-released AI knows how to blackmail, how to escape and more - Switzer Daily",
       "pubDate": "Tue, 27 May 2025 05:55:46 GMT"
@@ -4577,6 +4569,10 @@
     {
       "title": "PAHO calls on countries to prepare health systems amid forecasts of a very active 2025 hurricane season - Pan American Health Organization (PAHO)",
       "pubDate": "Mon, 02 Jun 2025 21:00:04 GMT"
+    },
+    {
+      "title": "Acting FEMA Chief Told Staff He Didn\u2019t Know About U.S. Hurricane Season - The New York Times",
+      "pubDate": "Tue, 03 Jun 2025 16:33:00 GMT"
     }
   ],
   "poland": [
