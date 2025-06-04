@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration moves to cut rest of Harvard contracts with federal government - CNBC",
-      "pubDate": "Tue, 27 May 2025 12:35:15 GMT"
-    },
-    {
       "title": "Trump Media to raise $2.5 billion to fund bitcoin treasury - Reuters",
       "pubDate": "Tue, 27 May 2025 13:21:33 GMT"
     },
@@ -639,6 +635,10 @@
     {
       "title": "Donald Trump and the art of the Oval Office confrontation - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 10:29:00 GMT"
+    },
+    {
+      "title": "Trump unleashes MAGA rebellion on Federalist Society - The Hill",
+      "pubDate": "Wed, 04 Jun 2025 12:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1037,6 +1037,10 @@
     {
       "title": "Ukraine-Russia war latest: Kyiv\u2019s audacious Operation Spiderweb \u2018was like raid that killed Bin Laden\u2019 - The Independent",
       "pubDate": "Wed, 04 Jun 2025 11:49:08 GMT"
+    },
+    {
+      "title": "Almost 1 million Russian troops killed or wounded in Ukraine war, study says - NBC News",
+      "pubDate": "Wed, 04 Jun 2025 09:26:27 GMT"
     }
   ],
   "recession": [
@@ -1167,6 +1171,10 @@
     {
       "title": "Recession Risks; AI Infrastructure; and Exploring Sector-Specific Tariffs - S&P Global",
       "pubDate": "Wed, 04 Jun 2025 11:00:38 GMT"
+    },
+    {
+      "title": "Australia is on the brink of sliding back into another 'recession' - MSN",
+      "pubDate": "Wed, 04 Jun 2025 08:33:29 GMT"
     }
   ],
   "russia": [
@@ -1344,10 +1352,6 @@
     }
   ],
   "israel": [
-    {
-      "title": "US-Israel scheme dispenses Gaza aid as UN says 180,000 displaced in 10 days - Al Jazeera",
-      "pubDate": "Tue, 27 May 2025 12:36:53 GMT"
-    },
     {
       "title": "Israel announces major expansion of settlements in occupied West Bank - BBC",
       "pubDate": "Thu, 29 May 2025 08:06:33 GMT"
@@ -2583,6 +2587,10 @@
     {
       "title": "What to know about China's rare earth export controls - Reuters",
       "pubDate": "Wed, 04 Jun 2025 10:19:01 GMT"
+    },
+    {
+      "title": "China calls Rubio remarks about Tiananmen Square an \"attack\" - CBS News",
+      "pubDate": "Wed, 04 Jun 2025 12:00:19 GMT"
     }
   ],
   "iran": [
@@ -2705,10 +2713,6 @@
   ],
   "us_economy": [
     {
-      "title": "Business investment posts biggest drop in 6 months. Trade wars still disrupting economy. - MarketWatch",
-      "pubDate": "Tue, 27 May 2025 12:50:00 GMT"
-    },
-    {
       "title": "US economy is 'solid' despite Trump tariff worries, expert says - Fox Business",
       "pubDate": "Tue, 27 May 2025 15:31:25 GMT"
     },
@@ -2719,10 +2723,6 @@
     {
       "title": "US consumer confidence rebounds after five straight months of declines amid tariff anxiety - 12News",
       "pubDate": "Tue, 27 May 2025 15:19:00 GMT"
-    },
-    {
-      "title": "US economy now has a 'pro-growth, common sense' outlook: Rep. Dan Meuser - Fox Business",
-      "pubDate": "Tue, 27 May 2025 12:52:51 GMT"
     },
     {
       "title": "US housing finance chief tells Powell to lower interest rates - The Hill",
@@ -3789,6 +3789,10 @@
     {
       "title": "Anthropic Releases Claude 4, Their Most Powerful AI Model Yet - Blockchain Council",
       "pubDate": "Wed, 04 Jun 2025 05:37:46 GMT"
+    },
+    {
+      "title": "Three Essentials for Agentic AI Security - MIT Sloan Management Review",
+      "pubDate": "Wed, 04 Jun 2025 11:00:27 GMT"
     }
   ],
   "us_politics": [
@@ -4303,6 +4307,10 @@
     {
       "title": "Federal Reserve lifts Wells Fargo\u2019s asset cap - Financial Times",
       "pubDate": "Tue, 03 Jun 2025 20:33:37 GMT"
+    },
+    {
+      "title": "Fed Listens - June 4, 2025 - Federal Reserve Bank of Atlanta",
+      "pubDate": "Wed, 04 Jun 2025 12:35:58 GMT"
     }
   ],
   "vladimir_putin": [
@@ -4362,10 +4370,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "India and Pakistan's drone battles mark new arms race - Reuters",
-      "pubDate": "Tue, 27 May 2025 13:00:04 GMT"
-    },
     {
       "title": "In first-ever operational use, Israel reveals it shot down Hezbollah drones with laser air defense system - Ynetnews",
       "pubDate": "Wed, 28 May 2025 15:23:45 GMT"
@@ -4665,6 +4669,12 @@
     {
       "title": "Record-breaking sargassum invasion in Atlantic, Caribbean threatens to foul beach resorts - New York Post",
       "pubDate": "Wed, 04 Jun 2025 06:56:00 GMT"
+    }
+  ],
+  "artificial_general_intelligence": [
+    {
+      "title": "OpenAI CEO Sam Altman describes his vision of the perfect AI - Windows Central",
+      "pubDate": "Wed, 04 Jun 2025 09:41:26 GMT"
     }
   ]
 }
