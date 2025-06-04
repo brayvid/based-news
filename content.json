@@ -1,72 +1,22 @@
 {
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Live updates: Trump\u2019s \u2018big\u2019 bill projected to add $2.4 trillion to national debt over coming decade - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeEtZWDc1YWp5RWxabWgxOEo3eHh6ZDUxR3JKM3ZkVktPb3lwMnp1Q3NRcEFnam5SYmtTTy1Xb3BNWVNhU2FMalViQkRvZWRqS2xlajBlWjgyYnRhOUlCaUplOTZRV1NjRkhjQS1NaTRMRzNpeHIwLUR6RWxIUQ?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 15:13:49 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "Trump overhauls Biden-era AI Safety Institute to create new 'Innovation Centre' - Capacity Media",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM19KZFZxZFBkbU1tWEsxQWNYQmR3MnNsYVcwbzNzb1JxeUxhVFl0WjN3bU1mVlRIQl9tWkJqdjNhTFh0WjBZZFJiMEc1eDItcDZSMUttWGdCQ1BPbUkwN0FoRi02S1p2b2FjYms3cWlEcnoyVWlVdzNtNjJCcjVrN2owRl94NjNrTzlFNURxOU5ZUVZqT1B2UEYtbHhtT3d6VzhtQXNuYTh6eE1yN1dMUw?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 15:11:28 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Exports Lost To 7-Year Trump-Biden China Tariffs: $160-$201 Billion - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRYVnA4dnNxWE9wUHU0UmpKLTdLWnJqeGd4MmpRRTJTdHRuZnlodTZzTS1fQmZ5MXIyRkJsNElvZW5TbzJldHZ4TElPUWVqTENBXzg5Z1F3NmM0R2JvSmJPN2FYSURhVzRLOHY4MjBSX2dRUjVDLUNNYTFNZzhxN2NaQ0NNdG1mQkVyNmk0V1N5eXZOdkVVX0U1VWp5VEdSNmNkaGpMRGVseTNodEc3dlRZQS1EaHM?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 14:48:38 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Putin openly questions peace talks after blaming Ukraine for deadly bridge attack in Russia - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0JyUVN6ZkhsRG9ka0EzaUZnMHhXWTR5cTNVM2plMFBTZ3IwRGNZaHN2aEFid1BMYWFTLU5YOGcwcFZ1VXdyODBQY29fLWNNbXdHUUdhMU02V1VYMTZPNHBjOWZpbjZhVU1QX0hBWmtDRTMwVEFCb3RGVWhXOU9PeWt3SEFTYzVoZ0FHUl80OEZha2F2cUlfb2pBM3FDZ2haZFk1aWdnTjd2Z1BaNlA4TVFHemNTXzdXZnJUYmVqV1ZJQ2lE?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 14:40:22 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Marjorie Taylor Greene\u2019s four-word dagger to Trump and GOP after Musk\u2019s \u2018Big Beautiful\u2019 takedown - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1RGcFFzbm5uODJtajl0S1ZDZ05pSm9LOURCSTV0MTNfSUhGWXItaHhBM2hrV2FmaWJsSTVBbHozdk1hRzItQVhYUjVnQmJhWmpscnZRWDFEQmhvUlY1UkFRSm10RzNDMVBLTG4talBPM3Rpckd3YXdsOVpJU24yODIzQ1JqSF9wYVJXOWF2SERxRERwZ05oWGVHRUNhSU1wU2FKUTdTZjBRZlpTT2c?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 14:33:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
-  },
   "US Economy": {
     "articles": [
       {
-        "title": "Businesses are raising prices after tariffs \u2014 even on unaffected goods - Axios",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oc0pNb0FHRGQ3dXdwT293ekpjZFhva2VxblhHUzlZaFg2SGIwaW9WRTVHOUpLWTJYaDBWWnBnRHJ1MnlVMmNlaFZkdW5NNmNIb1JmQXlHOXJWNjY0SGFON1BNdw?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 14:02:29 GMT"
+        "title": "Disappointing May jobs report puts more pressure on the Federal Reserve - Scotsman Guide",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWtlRXdNVjhURllpQ2RiNEgtOWNDLVFKcHJlcnBtd1FnZDk1QzZweXF1ajdtZzA5TDNvcC1leEdoQ3E2LXdsd0g0TDBUNHpkVXFoRFNZcWFGRnZBeUlacFdfRUx0VkI1VF96anpsR3g1RlZtV1BHSFlEbmdDenBRZFpZWXJyNW5Fd2xqMnM1YjNkN2k3Uzd0MVJtMGZaVnUwLTVkVG5ybmNyeEU?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 16:51:49 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
+    "last_updated_ts": "2025-06-04T17:05:37.442883+00:00"
   },
-  "Ukraine": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "UK defence secretary confirms plans for drone deliveries as Ukraine military aid meeting opens \u2013 Europe live - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEVqaGExdF9wZEpDbzhwbTBpWkpoNWlFT054WTlvbHRnUV9LNzdydzRPeEo1NkhWWS0tZ2tGdDZDeEFScUVXZjhUYUZpTk1MbEduN1JIbWZYSHB6TmtKQUhOaFczbk1kcTdzdkZ6NC05NkRBZzJ6WE1LV2RPeWlId0JtQjYyYXpYNXdOODZmLTJoc05QbVZGUEVHREpuRWJhVUVMZnJ1alJGR0pJT0pDRm5vb0VGMWVFMUJPT1JVVWRndFZUMVNhN3JDRDA?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
+        "title": "Republicans Try to Discredit Experts Warning About the Cost of Tax Cuts - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGtqQjJ4ZUdlTWZwS3NkYmM2VXc2ZDRkdEFxUC0xd21CRktZYmRKNFNyaUVZemFGR2Z6WUgwdDNCUlNocXV3V0dQcW1kaWxzRXBZOVBVekthNmJrYjBHRFlUZlRna0hfZXE4NkhZYVpCSnIyaWpPTzV2alRWMExGUldzWm0ySW5lcVZRYVVGemN4SFFa?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 16:13:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-04T16:05:25.035383+00:00"
+    "last_updated_ts": "2025-06-04T17:05:37.442883+00:00"
   }
 }
