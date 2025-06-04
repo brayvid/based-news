@@ -1,1 +1,52 @@
-{}
+{
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Trump tax bill will add $2.4 trillion to the deficit and leave 10.9 million more uninsured, CBO says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEZKVnlnOTU4Zll0YldKbjlvV0ttV0x1TlNNcnBoZmRmZnNaUTJXWWw2ampnZ3NCOF9JaHI1dWdnUlhTek9IRnNNa0pPNGpoVzc5SjRBanBYLXFjcU03WU82QjBPLTlfd0hMUk1zejVHdmhpNWl4X1ZfSEEwTFNIZFpNS0JMaVFuVnNZZFVsYnhzZzFhY196clNyUGtjR2JFYU50eW9nWEdIMEE?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 18:05:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-04T19:05:44.324931+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Live updates: Trump discusses Russia-Ukraine war in call with Putin - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaUZ3cDMyTTg0WXo3S0NQOVotLXpQUzFfNTRyeEhWN0Jfck4zQWNySEc2MWt6akRBemhfYjF2dXRlWlpOQ2pvUGY2d2ZOZFBnekU4Y3BjckdVM3owOWtQMGI3V1RqbEpDcUs5QmpILWp3b3dDdEpOR1U4YnJSQVBpWm5KQjBfRHNkcVFNTVJPQlVrNmMzcm54b19aY0ZTU1dLYTdRdmdTcW8xN05INndjdnlOU1BiUnV0anVBVmtOUDc1VFh2ajA1RFpDcWVKV2R2TXBBX2d30gFjQVVfeXFMTU1uMTNNam1CbE5RZVNCYXpySDdfQWFMR3hISjlBTEZ2R2dEOHhaSXRsNlpTNENrOGJCVE82TWYycFNPR08xcXlzbDcyTU9WYVBTZkhWRjk4c0VHVGlJRHlmMV84?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 17:54:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-04T19:05:44.324931+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Trump admin takes 'safety' out of U.S. AI Safety Institute - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XNUFWTFVnT3R2VUZaY0VuQTQ1UmhRRU1TX3BrNkIyV1RNWkx6NUdkNWprTVBVM3o4amExN0FyZENDOFE3ajJOb2g5cVRfci10ODlLNWpRQ0RPdm8teVE0d3RKejdJTVlOdTRiWXViclV4ZGx2TmJKSFd3?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 16:44:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-04T19:05:44.324931+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Russia urges US and UK to restrain Ukraine after attacks on bombers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcm0tZWtrcE9Vc3NWUG1QOFdHdzJwYTZGR1ZRYnotTHFpSzdZSDg2aGNrdDdjU2U4OHI3akhXSHJscDZnanllMV9nNVpITWgwM1owNDdnU3ZGYk5yZ0xWS29kbVFreE1ZbWZmWlNYUkRjU1FNaWdublVER2pISTZjZjR1a3Rwa2FScjZsSjA1VmhzQ0hVNkl1MFQzNnJLM29rUENvVU5OekNIdw?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 14:07:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-04T19:05:44.324931+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Trump says Putin told him Russia \u2018will have to respond\u2019 to Ukraine drone attacks \u2013 live - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnd0aC1FSUFyTTVvNmdPVEVfb0xvNWhUQTZtYnpDSGFOQmZPWnJONnpGWktPQndLNUY0TWNQQmpjT2FjSGpJZHZrR2tIamxnOWlSTERNSXl2Z3JsNG9JZTBMa2tTSUZ5YXhFQ0Vjb0ZHLUJDNmtQTTR3Q3NCNF83RnpOeVlyS0FPNmVsTm0ta3VjVXRENUpiNnREbkI0aEEtMWxFTFVxazhtYkNPelU4SW1R?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-04T19:05:44.324931+00:00"
+  }
+}

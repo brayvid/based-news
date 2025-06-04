@@ -1,16 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: NPR and stations file lawsuit against Trump, arguing ending federal funding is illegal - AP News",
-      "pubDate": "Tue, 27 May 2025 18:19:00 GMT"
-    },
-    {
       "title": "Trump asks US Supreme Court to intervene in deportations to third countries - Reuters",
       "pubDate": "Tue, 27 May 2025 20:05:08 GMT"
-    },
-    {
-      "title": "Trump Intends to Cancel All Federal Funds Directed at Harvard - The New York Times",
-      "pubDate": "Tue, 27 May 2025 18:11:01 GMT"
     },
     {
       "title": "Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion - CNBC",
@@ -639,13 +631,13 @@
     {
       "title": "Republicans Try to Discredit Experts Warning About the Cost of Tax Cuts - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 16:13:12 GMT"
+    },
+    {
+      "title": "Live updates: Trump discusses Russia-Ukraine war in call with Putin - NBC News",
+      "pubDate": "Wed, 04 Jun 2025 17:54:26 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia's advance in Ukraine's north east may be bid to create 'buffer zone' - BBC",
-      "pubDate": "Tue, 27 May 2025 18:48:27 GMT"
-    },
     {
       "title": "Ukraine war briefing: Drones target Moscow forcing suspension of some flights - The Guardian",
       "pubDate": "Wed, 28 May 2025 01:35:00 GMT"
@@ -1041,6 +1033,10 @@
     {
       "title": "UK defence secretary confirms plans for drone deliveries as Ukraine military aid meeting opens \u2013 Europe live - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
+    },
+    {
+      "title": "Russia urges US and UK to restrain Ukraine after attacks on bombers - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 14:07:32 GMT"
     }
   ],
   "recession": [
@@ -1412,10 +1408,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "China Begins Developing Artificial Intelligence Constellation In Space With Satellite Launch - Yahoo",
-      "pubDate": "Tue, 27 May 2025 19:00:00 GMT"
-    },
     {
       "title": "Artificial intelligence (AI) - The Guardian",
       "pubDate": "Tue, 27 May 2025 20:37:59 GMT"
@@ -2105,10 +2097,6 @@
   ],
   "china": [
     {
-      "title": "China Offers to Fund Colombia Projects If the US Blocks Loans - Bloomberg.com",
-      "pubDate": "Tue, 27 May 2025 18:51:25 GMT"
-    },
-    {
       "title": "China Seeks to Slow Yuan\u2019s Gains After Months of Propping It Up - Bloomberg.com",
       "pubDate": "Wed, 28 May 2025 00:00:00 GMT"
     },
@@ -2603,10 +2591,6 @@
   ],
   "iran": [
     {
-      "title": "Trump cautioned Netanyahu to avoid steps that undermine Iran nuclear talks - Axios",
-      "pubDate": "Tue, 27 May 2025 18:59:00 GMT"
-    },
-    {
       "title": "Trump warns Netanyahu off Iran strike as nuclear talks continue - Al Jazeera",
       "pubDate": "Wed, 28 May 2025 19:00:10 GMT"
     },
@@ -3079,6 +3063,10 @@
     {
       "title": "Disappointing May jobs report puts more pressure on the Federal Reserve - Scotsman Guide",
       "pubDate": "Wed, 04 Jun 2025 16:51:49 GMT"
+    },
+    {
+      "title": "Trump tax bill will add $2.4 trillion to the deficit and leave 10.9 million more uninsured, CBO says - AP News",
+      "pubDate": "Wed, 04 Jun 2025 18:05:00 GMT"
     }
   ],
   "terrorism": [
@@ -3801,13 +3789,13 @@
     {
       "title": "Trump overhauls Biden-era AI Safety Institute to create new 'Innovation Centre' - Capacity Media",
       "pubDate": "Wed, 04 Jun 2025 15:11:28 GMT"
+    },
+    {
+      "title": "Trump admin takes 'safety' out of U.S. AI Safety Institute - Mashable",
+      "pubDate": "Wed, 04 Jun 2025 16:44:30 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Republican Calls for Russia Sanctions Intensify Amid Escalating Strikes - The New York Times",
-      "pubDate": "Tue, 27 May 2025 18:58:31 GMT"
-    },
     {
       "title": "The GOP\u2019s \u2018Big Beautiful Bill\u2019 has an ugly way of protecting Trump - MSNBC News",
       "pubDate": "Tue, 27 May 2025 19:46:18 GMT"
@@ -4047,6 +4035,10 @@
     {
       "title": "Marjorie Taylor Greene\u2019s four-word dagger to Trump and GOP after Musk\u2019s \u2018Big Beautiful\u2019 takedown - The Independent",
       "pubDate": "Wed, 04 Jun 2025 14:33:00 GMT"
+    },
+    {
+      "title": "Trump says Putin told him Russia \u2018will have to respond\u2019 to Ukraine drone attacks \u2013 live - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4230,10 +4222,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "US, Argentina launching new \u2018alternative\u2019 to WHO - The Hill",
-      "pubDate": "Tue, 27 May 2025 18:19:00 GMT"
-    },
     {
       "title": "A new variant of Covid-19 may be driving up cases in some parts of the world, WHO says - NBC News",
       "pubDate": "Thu, 29 May 2025 08:29:44 GMT"
