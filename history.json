@@ -631,6 +631,10 @@
     {
       "title": "Trump\u2019s 50% tariffs on foreign steel and aluminum come into effect - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 03:55:00 GMT"
+    },
+    {
+      "title": "Trump formally asks Congress to claw back approved spending targeted by DOGE - PBS",
+      "pubDate": "Tue, 03 Jun 2025 21:14:56 GMT"
     }
   ],
   "ukraine": [
@@ -1017,6 +1021,10 @@
     {
       "title": "Opinion | Ukraine\u2019s Drone Strike Is a Warning\u2014for the U.S. - WSJ",
       "pubDate": "Wed, 04 Jun 2025 03:29:34 GMT"
+    },
+    {
+      "title": "As Ukraine batters Russia with daring assaults, firebrand pro-Kremlin pundits rattle nuclear sabres - CNN",
+      "pubDate": "Wed, 04 Jun 2025 04:01:00 GMT"
     }
   ],
   "recession": [
@@ -1879,6 +1887,10 @@
     {
       "title": "AI foot scanner recognises warning signs of heart failure to keep people out of hospital, researchers say - Sky News",
       "pubDate": "Wed, 04 Jun 2025 01:50:28 GMT"
+    },
+    {
+      "title": "Meta Turns to Nuclear Power to Run AI | Bloomberg Technology 6/3/2025 - Bloomberg.com",
+      "pubDate": "Tue, 03 Jun 2025 20:34:27 GMT"
     }
   ],
   "financial_markets": [
@@ -2049,16 +2061,16 @@
     {
       "title": "A New Era of Trade Warfare Has Begun for the U.S. and China - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 21:01:24 GMT"
+    },
+    {
+      "title": "Trump's new salvo about to upend world trade; 50% tariff on steel & aluminum to kick in on June 4 - The Economic Times",
+      "pubDate": "Wed, 04 Jun 2025 01:58:15 GMT"
     }
   ],
   "china": [
     {
       "title": "How China Could Counter U.S. Intervention in War Over Taiwan - War on the Rocks",
       "pubDate": "Tue, 27 May 2025 07:30:59 GMT"
-    },
-    {
-      "title": "Poorest 75 nations face \u2018tidal wave\u2019 of debt repayments to China in 2025, study warns - The Guardian",
-      "pubDate": "Tue, 27 May 2025 05:56:00 GMT"
     },
     {
       "title": "China warns its leftover men against \u2018buying foreign wives\u2019 - The Independent",
@@ -3035,6 +3047,10 @@
     {
       "title": "US economic growth forecast cut sharply due to higher tariffs - Fox Business",
       "pubDate": "Tue, 03 Jun 2025 16:46:00 GMT"
+    },
+    {
+      "title": "Ray Dalio just joined the list of billionaires sounding the alarm on the US economy - CNN",
+      "pubDate": "Tue, 03 Jun 2025 21:43:00 GMT"
     }
   ],
   "terrorism": [
@@ -3437,6 +3453,10 @@
     {
       "title": "Hamas praises former Biden official's statement accusing Israel of war crimes - The Jerusalem Post",
       "pubDate": "Tue, 03 Jun 2025 15:46:00 GMT"
+    },
+    {
+      "title": "What to Know About the Deadly Shootings Near a Gaza Aid Site - The New York Times",
+      "pubDate": "Wed, 04 Jun 2025 05:30:40 GMT"
     }
   ],
   "climate": [
@@ -3570,10 +3590,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "This just-released AI knows how to blackmail, how to escape and more - Switzer Daily",
-      "pubDate": "Tue, 27 May 2025 05:55:46 GMT"
-    },
     {
       "title": "OpenAI Models Disobey Shutdown Commands, Elon Musk Says That's... - News18",
       "pubDate": "Tue, 27 May 2025 10:04:56 GMT"
@@ -4617,6 +4633,12 @@
     {
       "title": "US onshore wind installations continue despite Trump in Q1 \u2013 American Clean Power Association - Wind Power Monthly",
       "pubDate": "Tue, 03 Jun 2025 09:21:32 GMT"
+    }
+  ],
+  "research": [
+    {
+      "title": "The Gutting of America\u2019s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant - The New York Times",
+      "pubDate": "Wed, 04 Jun 2025 04:33:48 GMT"
     }
   ]
 }
