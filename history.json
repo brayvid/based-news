@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump asks US Supreme Court to intervene in deportations to third countries - Reuters",
-      "pubDate": "Tue, 27 May 2025 20:05:08 GMT"
-    },
-    {
       "title": "Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion - CNBC",
       "pubDate": "Tue, 27 May 2025 22:33:17 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Live updates: Trump discusses Russia-Ukraine war in call with Putin - NBC News",
       "pubDate": "Wed, 04 Jun 2025 17:54:26 GMT"
+    },
+    {
+      "title": "Live updates: Musk escalates attacks on Trump\u2019s legislative package, urging lawmakers to \u2018KILL the BILL\u2019 - The Washington Post",
+      "pubDate": "Wed, 04 Jun 2025 19:43:49 GMT"
     }
   ],
   "ukraine": [
@@ -1037,6 +1037,10 @@
     {
       "title": "Russia urges US and UK to restrain Ukraine after attacks on bombers - Reuters",
       "pubDate": "Wed, 04 Jun 2025 14:07:32 GMT"
+    },
+    {
+      "title": "Satellite images show Russian bombers destroyed in Ukraine attack - BBC",
+      "pubDate": "Wed, 04 Jun 2025 18:37:41 GMT"
     }
   ],
   "recession": [
@@ -1411,10 +1415,6 @@
     {
       "title": "Artificial intelligence (AI) - The Guardian",
       "pubDate": "Tue, 27 May 2025 20:37:59 GMT"
-    },
-    {
-      "title": "Army Test and Evaluation Command leverages Artificial Intelligence to enhance developmental testing - army.mil",
-      "pubDate": "Tue, 27 May 2025 19:20:32 GMT"
     },
     {
       "title": "Judge Denies Artificial Intelligence Chatbot First Amendment Protections in Lawsuit - FindLaw",
@@ -2717,10 +2717,6 @@
       "pubDate": "Wed, 28 May 2025 00:01:28 GMT"
     },
     {
-      "title": "US consumer confidence rebounds in May after 5-month slide - Fox Business",
-      "pubDate": "Tue, 27 May 2025 19:27:00 GMT"
-    },
-    {
       "title": "Preparing for a possible recession - wbrc.com",
       "pubDate": "Wed, 28 May 2025 02:23:27 GMT"
     },
@@ -3477,10 +3473,6 @@
   ],
   "climate": [
     {
-      "title": "Climate change could be driving up cancer rates in women, study finds - Fortune",
-      "pubDate": "Tue, 27 May 2025 19:08:00 GMT"
-    },
-    {
       "title": "Global temperatures could break heat record in next five years - The Guardian",
       "pubDate": "Wed, 28 May 2025 04:00:00 GMT"
     },
@@ -3793,13 +3785,13 @@
     {
       "title": "Trump admin takes 'safety' out of U.S. AI Safety Institute - Mashable",
       "pubDate": "Wed, 04 Jun 2025 16:44:30 GMT"
+    },
+    {
+      "title": "US removes \u2018safety\u2019 from AI Safety Institute - The Verge",
+      "pubDate": "Wed, 04 Jun 2025 19:39:42 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "The GOP\u2019s \u2018Big Beautiful Bill\u2019 has an ugly way of protecting Trump - MSNBC News",
-      "pubDate": "Tue, 27 May 2025 19:46:18 GMT"
-    },
     {
       "title": "The Memo: Trump paints himself into a corner on Putin and Ukraine - The Hill",
       "pubDate": "Tue, 27 May 2025 21:34:00 GMT"
@@ -4039,6 +4031,10 @@
     {
       "title": "Trump says Putin told him Russia \u2018will have to respond\u2019 to Ukraine drone attacks \u2013 live - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
+    },
+    {
+      "title": "Some House Republicans Have Regrets After Passing Trump\u2019s Domestic Policy Bill - The New York Times",
+      "pubDate": "Wed, 04 Jun 2025 12:45:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4315,10 +4311,6 @@
   ],
   "vladimir_putin": [
     {
-      "title": "Trump warns Putin he's \"playing with fire\" by bombing Ukraine - Axios",
-      "pubDate": "Tue, 27 May 2025 19:28:21 GMT"
-    },
-    {
       "title": "Russia Accused of Staging Attack on Putin's Helicopter - Newsweek",
       "pubDate": "Sat, 31 May 2025 14:53:47 GMT"
     },
@@ -4347,12 +4339,6 @@
     {
       "title": "Deep cuts erode the foundations of US public health system, end progress, threaten worse to come - AP News",
       "pubDate": "Sat, 31 May 2025 15:03:00 GMT"
-    }
-  ],
-  "oceans": [
-    {
-      "title": "Planet\u2019s darkening oceans pose threat to marine life, scientists say - The Guardian",
-      "pubDate": "Tue, 27 May 2025 19:52:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
