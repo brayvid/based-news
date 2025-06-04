@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump is \u2018remarkably like\u2019 1930s far-right fascists, billionaire investor warns - The Guardian",
-      "pubDate": "Tue, 27 May 2025 10:00:00 GMT"
-    },
-    {
       "title": "Donald Trump grows angrier as Vladimir Putin exposes his impotence - The Independent",
       "pubDate": "Tue, 27 May 2025 11:38:00 GMT"
     },
@@ -19,10 +15,6 @@
     {
       "title": "Trump threatens to withhold California's federal funding over transgender athlete - CNBC",
       "pubDate": "Tue, 27 May 2025 16:32:11 GMT"
-    },
-    {
-      "title": "Trump says Putin is \u2018playing with fire\u2019 in wake of massive Russian strikes on Ukraine \u2013 US politics live - The Guardian",
-      "pubDate": "Tue, 27 May 2025 09:34:00 GMT"
     },
     {
       "title": "Trump is considering new sanctions on Russia as he grows frustrated over attacks in Ukraine - CNN",
@@ -639,6 +631,10 @@
     {
       "title": "As Trump raises deportation quotas, advocates fear an expanding \u2018dragnet\u2019 - Al Jazeera",
       "pubDate": "Wed, 04 Jun 2025 00:45:00 GMT"
+    },
+    {
+      "title": "Michael Saylor\u2019s bitcoin imitators are multiplying, from Trump to GameStop - Yahoo Finance",
+      "pubDate": "Wed, 04 Jun 2025 08:00:33 GMT"
     }
   ],
   "ukraine": [
@@ -1167,14 +1163,6 @@
   ],
   "russia": [
     {
-      "title": "Russia says U.S. Golden Dome project undermines strategic stability - Reuters",
-      "pubDate": "Tue, 27 May 2025 09:23:13 GMT"
-    },
-    {
-      "title": "Russia pushes forward in Ukraine\u2019s northeast - politico.eu",
-      "pubDate": "Tue, 27 May 2025 09:09:00 GMT"
-    },
-    {
       "title": "Oil Rises Amid Prospects of New U.S. Sanctions Against Russia - WSJ",
       "pubDate": "Wed, 28 May 2025 00:20:00 GMT"
     },
@@ -1400,10 +1388,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI Autonomy Alert: ChatGPT-o3 resists shutdown in safety test - Deccan Herald",
-      "pubDate": "Tue, 27 May 2025 09:51:52 GMT"
-    },
     {
       "title": "Trump's 'Big Beautiful Bill' could ban states from AI regulation - USA Today",
       "pubDate": "Tue, 27 May 2025 18:00:16 GMT"
@@ -1922,10 +1906,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures soar as Trump pauses EU tariff hikes for fast-tracked talks - Yahoo Finance",
-      "pubDate": "Tue, 27 May 2025 10:01:31 GMT"
-    },
     {
       "title": "Nvidia\u2019s earnings are the stock market\u2019s next major test after May\u2019s Big Tech comeback - MarketWatch",
       "pubDate": "Tue, 27 May 2025 21:23:00 GMT"
@@ -2709,10 +2689,6 @@
   ],
   "us_economy": [
     {
-      "title": "Trump's Tariffs Set to Harm U.S. Economy Soon - Finance Monthly",
-      "pubDate": "Tue, 27 May 2025 09:18:27 GMT"
-    },
-    {
       "title": "Trump's tariff blitz prompts 'firefighting' response from Fed researchers - Reuters",
       "pubDate": "Tue, 27 May 2025 10:06:51 GMT"
     },
@@ -3079,6 +3055,10 @@
     {
       "title": "Fed's Powell tells Princeton grads to guard integrity amid Trump criticism - CNBC",
       "pubDate": "Wed, 04 Jun 2025 07:40:12 GMT"
+    },
+    {
+      "title": "Tariff-Resistant US Economy Soothes Traders Ahead of Jobs Data - Bloomberg.com",
+      "pubDate": "Wed, 04 Jun 2025 09:30:00 GMT"
     }
   ],
   "terrorism": [
@@ -3493,10 +3473,6 @@
   ],
   "climate": [
     {
-      "title": "Scientists worry Trump's budget cuts will halt satellite air pollution studies: 'It's incredibly short-sighted' - Space",
-      "pubDate": "Tue, 27 May 2025 10:00:00 GMT"
-    },
-    {
       "title": "Another big hurricane season forecast for 2025, with warming ocean a cause - Grice Connect",
       "pubDate": "Tue, 27 May 2025 14:15:00 GMT"
     },
@@ -3625,10 +3601,6 @@
     {
       "title": "OpenAI Models Disobey Shutdown Commands, Elon Musk Says That's... - News18",
       "pubDate": "Tue, 27 May 2025 10:04:56 GMT"
-    },
-    {
-      "title": "Two Paths for A.I. - The New Yorker",
-      "pubDate": "Tue, 27 May 2025 10:00:00 GMT"
     },
     {
       "title": "OpenAI models sabotage shutdown order to solve math problems - StartupNews.fyi",
@@ -3809,6 +3781,10 @@
     {
       "title": "AI-Based Fault Detection in Offshore Oil Platforms: Enhancing Safety and Reducing Downtime - Modern Ghana",
       "pubDate": "Wed, 04 Jun 2025 05:54:46 GMT"
+    },
+    {
+      "title": "AI pioneer launches non-profit to develop safe-by-design AI models - Euronews",
+      "pubDate": "Wed, 04 Jun 2025 09:37:58 GMT"
     }
   ],
   "us_politics": [
@@ -3819,10 +3795,6 @@
     {
       "title": "As Trump reignites a trade war and faces a bond market revolt, the economy is about to go through the wringer this week - CNN",
       "pubDate": "Tue, 27 May 2025 10:18:00 GMT"
-    },
-    {
-      "title": "Democrats are looking to make gains in the South next year. It could be their last shot. - Politico",
-      "pubDate": "Tue, 27 May 2025 09:55:00 GMT"
     },
     {
       "title": "Trump says Putin is \u2018playing with fire\u2019 as Kremlin continues assault on Ukraine - Politico",
@@ -4055,6 +4027,10 @@
     {
       "title": "\u2018Saying Trump is dangerous is not enough\u2019: Bernie Sanders on Biden, billionaires \u2013 and why the Democrats failed - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 08:03:00 GMT"
+    },
+    {
+      "title": "A Stephen Miller Staffer and Tough Talk: Inside Trump\u2019s Latest Attack on Harvard - The New York Times",
+      "pubDate": "Wed, 04 Jun 2025 02:50:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4587,6 +4563,10 @@
     {
       "title": "Gaza \u2018hungriest place on Earth\u2019, all its people at risk of famine, UN warns - Al Jazeera",
       "pubDate": "Sat, 31 May 2025 09:34:01 GMT"
+    },
+    {
+      "title": "US-backed Gaza aid group halts distribution, UN to vote on ceasefire demand - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 08:43:17 GMT"
     }
   ],
   "national_security": [
