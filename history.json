@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "As Trump targets elite schools, Harvard's president says they should 'stand firm' - NPR",
-      "pubDate": "Tue, 27 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "Trump is \u2018remarkably like\u2019 1930s far-right fascists, billionaire investor warns - The Guardian",
       "pubDate": "Tue, 27 May 2025 10:00:00 GMT"
     },
@@ -639,6 +635,10 @@
     {
       "title": "Trump says China\u2019s Xi is \u2018hard to make a deal with\u2019 - Financial Times",
       "pubDate": "Wed, 04 Jun 2025 06:40:25 GMT"
+    },
+    {
+      "title": "As Trump raises deportation quotas, advocates fear an expanding \u2018dragnet\u2019 - Al Jazeera",
+      "pubDate": "Wed, 04 Jun 2025 00:45:00 GMT"
     }
   ],
   "ukraine": [
@@ -1033,6 +1033,10 @@
     {
       "title": "Inside the Ukrainian Drone Operation That Devastated Russia\u2019s Bomber Fleet - WSJ",
       "pubDate": "Wed, 04 Jun 2025 02:57:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Satellite pictures show Russian warplanes prey to \u2018Spiderweb\u2019 - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 00:24:00 GMT"
     }
   ],
   "recession": [
@@ -2101,10 +2105,6 @@
       "pubDate": "Tue, 27 May 2025 12:00:08 GMT"
     },
     {
-      "title": "China, North Korea, and Russia\u2019s Response to Trump\u2019s \u2018Golden Dome\u2019 Proposal - Time Magazine",
-      "pubDate": "Tue, 27 May 2025 09:01:50 GMT"
-    },
-    {
       "title": "Huge explosion at China chemical plant kills five - BBC",
       "pubDate": "Tue, 27 May 2025 15:22:20 GMT"
     },
@@ -2583,6 +2583,10 @@
     {
       "title": "China Considers Ordering Hundreds of Airbus Jets in Major Deal - Bloomberg.com",
       "pubDate": "Wed, 04 Jun 2025 05:36:00 GMT"
+    },
+    {
+      "title": "Some European auto supplier plants shut down after China's rare earth curbs, association says - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 08:19:58 GMT"
     }
   ],
   "iran": [
@@ -2719,10 +2723,6 @@
     {
       "title": "Business investment posts biggest drop in 6 months. Trade wars still disrupting economy. - MarketWatch",
       "pubDate": "Tue, 27 May 2025 12:50:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s China Tariffs Are Having a \u2018Massive Impact\u2019 on Small Business - The New York Times",
-      "pubDate": "Tue, 27 May 2025 09:02:12 GMT"
     },
     {
       "title": "US economy is 'solid' despite Trump tariff worries, expert says - Fox Business",
@@ -3075,6 +3075,10 @@
     {
       "title": "Ray Dalio just joined the list of billionaires sounding the alarm on the US economy - CNN",
       "pubDate": "Tue, 03 Jun 2025 21:43:00 GMT"
+    },
+    {
+      "title": "Fed's Powell tells Princeton grads to guard integrity amid Trump criticism - CNBC",
+      "pubDate": "Wed, 04 Jun 2025 07:40:12 GMT"
     }
   ],
   "terrorism": [
@@ -3202,10 +3206,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Obama world loses its shine in a changing, hurting Democratic Party - NBC News",
-      "pubDate": "Tue, 27 May 2025 09:00:40 GMT"
-    },
     {
       "title": "Democrats are begging for change \u2014 will their party ever listen? - The Hill",
       "pubDate": "Wed, 28 May 2025 14:00:00 GMT"
@@ -3485,6 +3485,10 @@
     {
       "title": "What to Know About the Deadly Shootings Near a Gaza Aid Site - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 05:30:40 GMT"
+    },
+    {
+      "title": "Hamas rewriting response to US ceasefire proposal as Washington pushes for breakthrough - Ynetnews",
+      "pubDate": "Tue, 03 Jun 2025 21:16:24 GMT"
     }
   ],
   "climate": [
@@ -3621,10 +3625,6 @@
     {
       "title": "OpenAI Models Disobey Shutdown Commands, Elon Musk Says That's... - News18",
       "pubDate": "Tue, 27 May 2025 10:04:56 GMT"
-    },
-    {
-      "title": "ChatGPT o3 bypasses shutdown in controlled test - Computing UK",
-      "pubDate": "Tue, 27 May 2025 08:44:34 GMT"
     },
     {
       "title": "Two Paths for A.I. - The New Yorker",
@@ -3805,13 +3805,13 @@
     {
       "title": "\"Safe-by-design\"AI: Yoshua Bengio launches LawZero | Newswise - Newswise",
       "pubDate": "Wed, 04 Jun 2025 00:50:00 GMT"
+    },
+    {
+      "title": "AI-Based Fault Detection in Offshore Oil Platforms: Enhancing Safety and Reducing Downtime - Modern Ghana",
+      "pubDate": "Wed, 04 Jun 2025 05:54:46 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Republican Crackdown on Aid to Immigrants Would Hit U.S. Citizens - The New York Times",
-      "pubDate": "Tue, 27 May 2025 09:01:47 GMT"
-    },
     {
       "title": "Live updates: Senate eyes changes to Trump\u2019s legislative package that narrowly passed the House - The Washington Post",
       "pubDate": "Tue, 27 May 2025 10:50:59 GMT"
@@ -4051,6 +4051,10 @@
     {
       "title": "Judge tosses Democratic Party challenge to Trump order\u2019s impact on FEC - Politico",
       "pubDate": "Wed, 04 Jun 2025 03:21:28 GMT"
+    },
+    {
+      "title": "\u2018Saying Trump is dangerous is not enough\u2019: Bernie Sanders on Biden, billionaires \u2013 and why the Democrats failed - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 08:03:00 GMT"
     }
   ],
   "cryptocurrency": [
