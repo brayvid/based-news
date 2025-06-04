@@ -635,13 +635,13 @@
     {
       "title": "Michael Saylor\u2019s bitcoin imitators are multiplying, from Trump to GameStop - Yahoo Finance",
       "pubDate": "Wed, 04 Jun 2025 08:00:33 GMT"
+    },
+    {
+      "title": "Trump officials delayed farm trade report over deficit forecast - Politico",
+      "pubDate": "Wed, 04 Jun 2025 09:55:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Satellite Images Suggest a Russian Plan to Restart Seized Ukrainian Nuclear Plant - The New York Times",
-      "pubDate": "Tue, 27 May 2025 10:20:12 GMT"
-    },
     {
       "title": "Russia seizes Ukrainian border villages as its bombing campaign slows - AP News",
       "pubDate": "Tue, 27 May 2025 17:24:00 GMT"
@@ -1329,6 +1329,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, June 3, 2025 - Institute for the Study of War",
       "pubDate": "Tue, 03 Jun 2025 22:37:38 GMT"
+    },
+    {
+      "title": "Russia : Spymasters from around the world gather for major Russian security forum - Intelligence Online",
+      "pubDate": "Wed, 04 Jun 2025 04:03:46 GMT"
     }
   ],
   "israel": [
@@ -1903,6 +1907,10 @@
     {
       "title": "US labor unions fight to contain AI disruption - Yahoo News UK",
       "pubDate": "Wed, 04 Jun 2025 06:32:00 GMT"
+    },
+    {
+      "title": "A Fatal Tesla Crash Shows the Limits of Full Self-Driving - Bloomberg",
+      "pubDate": "Wed, 04 Jun 2025 10:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1941,6 +1949,10 @@
     {
       "title": "Nvidia\u2019s 45% Surge in Just Two Months Shows AI Frenzy Is Back - Bloomberg.com",
       "pubDate": "Tue, 03 Jun 2025 10:46:09 GMT"
+    },
+    {
+      "title": "Bitcoin profit-taking underway as \u2018big whales\u2019 continue sell-off - Cointelegraph",
+      "pubDate": "Wed, 04 Jun 2025 03:59:43 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1963,6 +1975,10 @@
     {
       "title": "Senators Visit Ukraine, Pushing for Crippling Sanctions on Russia - The New York Times",
       "pubDate": "Fri, 30 May 2025 19:29:00 GMT"
+    },
+    {
+      "title": "US defense secretary skips Ukraine military aid meeting attended by more than 50 other allies \u2013 Europe live - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
     }
   ],
   "trade_war": [
@@ -2077,20 +2093,12 @@
   ],
   "china": [
     {
-      "title": "China introduces rules in bid to protect its military-industrial assets - South China Morning Post",
-      "pubDate": "Tue, 27 May 2025 11:00:07 GMT"
-    },
-    {
       "title": "China renews drive for corporate reform as US rivalry grows \u2018fiercer\u2019: analysts - South China Morning Post",
       "pubDate": "Tue, 27 May 2025 12:00:08 GMT"
     },
     {
       "title": "Huge explosion at China chemical plant kills five - BBC",
       "pubDate": "Tue, 27 May 2025 15:22:20 GMT"
-    },
-    {
-      "title": "China, Taiwan trade accusations over cyberattacks - Reuters",
-      "pubDate": "Tue, 27 May 2025 10:34:37 GMT"
     },
     {
       "title": "China Offers to Fund Colombia Projects If the US Blocks Loans - Bloomberg.com",
@@ -2567,6 +2575,10 @@
     {
       "title": "Some European auto supplier plants shut down after China's rare earth curbs, association says - Reuters",
       "pubDate": "Wed, 04 Jun 2025 08:19:58 GMT"
+    },
+    {
+      "title": "Chinese seller on Amazon sold \u2018defective\u2019 tools linked to deaths, life-changing injuries: lawsuits - New York Post",
+      "pubDate": "Wed, 04 Jun 2025 10:00:00 GMT"
     }
   ],
   "iran": [
@@ -2688,10 +2700,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump's tariff blitz prompts 'firefighting' response from Fed researchers - Reuters",
-      "pubDate": "Tue, 27 May 2025 10:06:51 GMT"
-    },
     {
       "title": "Trump tariffs live updates: EU agrees to speed up trade talks with US, focuses on chips and autos - Yahoo Finance",
       "pubDate": "Tue, 27 May 2025 11:07:05 GMT"
@@ -3059,6 +3067,10 @@
     {
       "title": "Tariff-Resistant US Economy Soothes Traders Ahead of Jobs Data - Bloomberg.com",
       "pubDate": "Wed, 04 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "As Recession Risk Rises, Don\u2019t Expect 2008 Repeat (opinion) - Inside Higher Ed",
+      "pubDate": "Wed, 04 Jun 2025 07:01:22 GMT"
     }
   ],
   "terrorism": [
@@ -3599,10 +3611,6 @@
   ],
   "ai_safety": [
     {
-      "title": "OpenAI Models Disobey Shutdown Commands, Elon Musk Says That's... - News18",
-      "pubDate": "Tue, 27 May 2025 10:04:56 GMT"
-    },
-    {
       "title": "OpenAI models sabotage shutdown order to solve math problems - StartupNews.fyi",
       "pubDate": "Tue, 27 May 2025 15:52:22 GMT"
     },
@@ -3788,14 +3796,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Live updates: Senate eyes changes to Trump\u2019s legislative package that narrowly passed the House - The Washington Post",
-      "pubDate": "Tue, 27 May 2025 10:50:59 GMT"
-    },
-    {
-      "title": "As Trump reignites a trade war and faces a bond market revolt, the economy is about to go through the wringer this week - CNN",
-      "pubDate": "Tue, 27 May 2025 10:18:00 GMT"
-    },
     {
       "title": "Trump says Putin is \u2018playing with fire\u2019 as Kremlin continues assault on Ukraine - Politico",
       "pubDate": "Tue, 27 May 2025 17:11:35 GMT"
@@ -4381,12 +4381,6 @@
     {
       "title": "\u2018Impunity Is Over\u2019: Ukraine\u2019s SBU Drone Blitz Destroys 41 Russian Bombers in Deep Strike - Kyiv Post",
       "pubDate": "Sun, 01 Jun 2025 17:48:45 GMT"
-    }
-  ],
-  "battery_electric_vehicle": [
-    {
-      "title": "Tesla EU Sales Plunge Again Even as Overall EV Registrations Go Up - Investopedia",
-      "pubDate": "Tue, 27 May 2025 10:04:10 GMT"
     }
   ],
   "us_supreme_court": [
