@@ -5,10 +5,6 @@
       "pubDate": "Tue, 27 May 2025 16:32:11 GMT"
     },
     {
-      "title": "Trump is considering new sanctions on Russia as he grows frustrated over attacks in Ukraine - CNN",
-      "pubDate": "Tue, 27 May 2025 15:59:00 GMT"
-    },
-    {
       "title": "Live updates: NPR and stations file lawsuit against Trump, arguing ending federal funding is illegal - AP News",
       "pubDate": "Tue, 27 May 2025 18:19:00 GMT"
     },
@@ -19,10 +15,6 @@
     {
       "title": "Trump Intends to Cancel All Federal Funds Directed at Harvard - The New York Times",
       "pubDate": "Tue, 27 May 2025 18:11:01 GMT"
-    },
-    {
-      "title": "Trump\u2019s social media venture strikes $2.5B deal to buy bitcoin - Politico",
-      "pubDate": "Tue, 27 May 2025 15:06:56 GMT"
     },
     {
       "title": "Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion - CNBC",
@@ -643,6 +635,10 @@
     {
       "title": "Trump demands Federal Reserve chair lowers interest rates amid weak jobs report \u2013 US politics live - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
+    },
+    {
+      "title": "Live updates: Trump\u2019s \u2018big\u2019 bill projected to add $2.4 trillion to national debt over coming decade - The Washington Post",
+      "pubDate": "Wed, 04 Jun 2025 15:13:49 GMT"
     }
   ],
   "ukraine": [
@@ -1045,6 +1041,10 @@
     {
       "title": "Ukraine\u2019s surprise drone strike underscores vulnerability of U.S. defenses - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 13:54:47 GMT"
+    },
+    {
+      "title": "UK defence secretary confirms plans for drone deliveries as Ukraine military aid meeting opens \u2013 Europe live - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
     }
   ],
   "recession": [
@@ -1357,6 +1357,10 @@
     {
       "title": "Russia says no damage to Crimea Bridge as Ukraine pushes for US sanctions on Moscow - ABC News",
       "pubDate": "Wed, 04 Jun 2025 11:15:00 GMT"
+    },
+    {
+      "title": "Putin openly questions peace talks after blaming Ukraine for deadly bridge attack in Russia - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 14:40:22 GMT"
     }
   ],
   "israel": [
@@ -2113,10 +2117,6 @@
   ],
   "china": [
     {
-      "title": "Huge explosion at China chemical plant kills five - BBC",
-      "pubDate": "Tue, 27 May 2025 15:22:20 GMT"
-    },
-    {
       "title": "China Offers to Fund Colombia Projects If the US Blocks Loans - Bloomberg.com",
       "pubDate": "Tue, 27 May 2025 18:51:25 GMT"
     },
@@ -2607,6 +2607,10 @@
     {
       "title": "Footage Shows Chinese Ships Near US Ally's Disputed Island Base - Newsweek",
       "pubDate": "Wed, 04 Jun 2025 12:53:37 GMT"
+    },
+    {
+      "title": "Exports Lost To 7-Year Trump-Biden China Tariffs: $160-$201 Billion - Forbes",
+      "pubDate": "Wed, 04 Jun 2025 14:48:38 GMT"
     }
   ],
   "iran": [
@@ -2729,16 +2733,8 @@
   ],
   "us_economy": [
     {
-      "title": "US economy is 'solid' despite Trump tariff worries, expert says - Fox Business",
-      "pubDate": "Tue, 27 May 2025 15:31:25 GMT"
-    },
-    {
       "title": "Consumer Confidence Jumps, Though Recession Fears Remain - Time Magazine",
       "pubDate": "Tue, 27 May 2025 16:20:25 GMT"
-    },
-    {
-      "title": "US consumer confidence rebounds after five straight months of declines amid tariff anxiety - 12News",
-      "pubDate": "Tue, 27 May 2025 15:19:00 GMT"
     },
     {
       "title": "US housing finance chief tells Powell to lower interest rates - The Hill",
@@ -3091,6 +3087,10 @@
     {
       "title": "Trump says 'Too Late' Powell must lower interest rates after weak ADP jobs report - CNBC",
       "pubDate": "Wed, 04 Jun 2025 12:25:29 GMT"
+    },
+    {
+      "title": "Businesses are raising prices after tariffs \u2014 even on unaffected goods - Axios",
+      "pubDate": "Wed, 04 Jun 2025 14:02:29 GMT"
     }
   ],
   "terrorism": [
@@ -3627,10 +3627,6 @@
   ],
   "ai_safety": [
     {
-      "title": "OpenAI models sabotage shutdown order to solve math problems - StartupNews.fyi",
-      "pubDate": "Tue, 27 May 2025 15:52:22 GMT"
-    },
-    {
       "title": "Use AI to keep jobs, boost healthcare, curb climate change to maximise good: President Tharman - The Straits Times",
       "pubDate": "Tue, 27 May 2025 16:55:00 GMT"
     },
@@ -3817,6 +3813,10 @@
     {
       "title": "Anthropic is pulling in talent from OpenAI and DeepMind. What makes the AI \u200b\u200bstartup so attractive to the best engineers - dev.ua",
       "pubDate": "Wed, 04 Jun 2025 11:34:00 GMT"
+    },
+    {
+      "title": "Trump overhauls Biden-era AI Safety Institute to create new 'Innovation Centre' - Capacity Media",
+      "pubDate": "Wed, 04 Jun 2025 15:11:28 GMT"
     }
   ],
   "us_politics": [
@@ -4063,6 +4063,10 @@
     {
       "title": "House GOP gets megabill\u2019s official price tag: $2.4T - Politico",
       "pubDate": "Wed, 04 Jun 2025 14:21:54 GMT"
+    },
+    {
+      "title": "Marjorie Taylor Greene\u2019s four-word dagger to Trump and GOP after Musk\u2019s \u2018Big Beautiful\u2019 takedown - The Independent",
+      "pubDate": "Wed, 04 Jun 2025 14:33:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4388,10 +4392,6 @@
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "CISA loses nearly all top officials as purge continues - Cybersecurity Dive",
-      "pubDate": "Tue, 27 May 2025 15:12:27 GMT"
-    },
     {
       "title": "Agencies release guidance on AI data security - American Hospital Association",
       "pubDate": "Wed, 28 May 2025 20:21:44 GMT"
