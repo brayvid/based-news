@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "As Trump Seeks Iran Deal, Israel Again Raises Possible Strikes on Nuclear Sites - The New York Times",
-      "pubDate": "Wed, 28 May 2025 04:01:13 GMT"
-    },
-    {
       "title": "US halts student visa appointments and plans expanded social media vetting - BBC",
       "pubDate": "Wed, 28 May 2025 07:17:51 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Trump bans nationals from 12 countries, citing security concerns - Reuters",
       "pubDate": "Thu, 05 Jun 2025 02:09:00 GMT"
+    },
+    {
+      "title": "Trump bans citizens of 12 countries from entering the U.S. - CNBC",
+      "pubDate": "Thu, 05 Jun 2025 03:29:00 GMT"
     }
   ],
   "ukraine": [
@@ -1041,10 +1041,6 @@
   ],
   "recession": [
     {
-      "title": "Most Americans fear a recession, say they aren\u2019t ready - wbrc.com",
-      "pubDate": "Wed, 28 May 2025 03:44:00 GMT"
-    },
-    {
       "title": "Are railroads warning us a recession is coming under Trump? - Yahoo Finance",
       "pubDate": "Wed, 28 May 2025 12:00:05 GMT"
     },
@@ -1357,6 +1353,10 @@
     {
       "title": "Putin will seek revenge for Ukraine drone attack, warns Trump after phone call - BBC",
       "pubDate": "Wed, 04 Jun 2025 20:39:26 GMT"
+    },
+    {
+      "title": "Kremlin and Trump aides raise nuclear war fears after Ukraine drone strike - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 21:43:00 GMT"
     }
   ],
   "israel": [
@@ -1412,10 +1412,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "CNBC's The China Connection newsletter: What chip shortage? 10 questions with Temasek-backed AI startup unfazed by U.S.-China tensions - CNBC",
-      "pubDate": "Wed, 28 May 2025 03:31:00 GMT"
-    },
     {
       "title": "Google took 25 years to be ready for this AI moment. Apple is just starting. - Business Insider",
       "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
@@ -1931,6 +1927,10 @@
     {
       "title": "New US AI center reflects change in branding, not role - MLex",
       "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
+    },
+    {
+      "title": "AI breakthroughs are bringing hope to cancer research and treatment - Google Blog",
+      "pubDate": "Wed, 04 Jun 2025 18:11:01 GMT"
     }
   ],
   "financial_markets": [
@@ -1994,10 +1994,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Temu's Chinese owner sees profits plunge as tariff war bites - BBC",
-      "pubDate": "Wed, 28 May 2025 03:17:34 GMT"
-    },
     {
       "title": "Trump tariffs live updates: India proposes steep US tariff cuts as nations race to cut deals - Yahoo Finance",
       "pubDate": "Wed, 28 May 2025 11:48:08 GMT"
@@ -2108,14 +2104,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Residents pick up the pieces one day after deadly China chemical blast - Reuters",
-      "pubDate": "Wed, 28 May 2025 03:11:00 GMT"
-    },
-    {
-      "title": "China Steel Woes Deepen as Rebar Prices Fall to Eight-Year Low - Bloomberg.com",
-      "pubDate": "Wed, 28 May 2025 03:44:00 GMT"
-    },
     {
       "title": "China hosts Pacific Island nations in bid to bolster diplomatic, trade ties - Al Jazeera",
       "pubDate": "Wed, 28 May 2025 06:39:13 GMT"
@@ -2595,6 +2583,10 @@
     {
       "title": "China\u2019s Power Prices Nosedive in Relief to Tariff-Hit Factories - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 00:19:29 GMT"
+    },
+    {
+      "title": "China helps Russia pull ahead in lethal drone war race with Ukraine - politico.eu",
+      "pubDate": "Thu, 05 Jun 2025 02:26:02 GMT"
     }
   ],
   "iran": [
@@ -3079,6 +3071,10 @@
     {
       "title": "Beige Book Reports Slight Economic Growth Alongside Uncertainty - Federal Reserve Bank of Atlanta",
       "pubDate": "Wed, 04 Jun 2025 18:07:33 GMT"
+    },
+    {
+      "title": "US economic activity declines as tariffs pressure prices, Fed says - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 20:15:49 GMT"
     }
   ],
   "terrorism": [
@@ -3504,10 +3500,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "Global temperatures could break heat record in next five years - The Guardian",
-      "pubDate": "Wed, 28 May 2025 04:00:00 GMT"
-    },
     {
       "title": "Climate change-fueled heat records, stronger storms all but certain over next 5 years, scientists warn - CBS News",
       "pubDate": "Wed, 28 May 2025 11:34:00 GMT"
@@ -4141,10 +4133,6 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX's Starship spins out of control after flying past points of previous failures - Reuters",
-      "pubDate": "Wed, 28 May 2025 03:26:00 GMT"
-    },
-    {
       "title": "SpaceX Starship failure casts further doubt on NASA\u2019s moon landing timeline - The Washington Post",
       "pubDate": "Thu, 29 May 2025 18:00:37 GMT"
     }
@@ -4567,6 +4555,10 @@
     {
       "title": "NASA budget would cancel dozens of science missions, lay off thousands - SpaceNews",
       "pubDate": "Fri, 30 May 2025 23:00:21 GMT"
+    },
+    {
+      "title": "A leaderless NASA faces its biggest-ever cuts - The Economist",
+      "pubDate": "Wed, 04 Jun 2025 16:32:32 GMT"
     }
   ],
   "electric_battery": [
