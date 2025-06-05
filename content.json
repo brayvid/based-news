@@ -1,62 +1,72 @@
 {
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Menopause Drug Reduces Breast Cancer Growth In Clinical Trial - ScienceAlert",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNTc5YkswYlBDQkpNOWFtM3dJOGFnUHd6TVQyTHQ5aHBfLURWUTVNUVFOVFo2cUdNaE9abC1ySG5sdFFkZHVCQWxGTjhONHlJVnZQY1VUZl9sSnVDU0gzOEM1UW9DNmI4MldJRm0zMFZEYjkyMWJCVHNRVmxmT2FUbEJLT1BrN1RzY2JiNmRxQ0VoMF9w?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 02:14:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Live updates: Trump announces travel ban affecting a dozen countries - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNFlpUWxmZVpPaGxId1Z5RGNZSndpMGxjdXRIZHNNY3BRSVlSd0QzUTJuQ21kX21PeXFKYk9xV0dOV05yYnJCSE1BUGpwNnZTVVNGVEdUZWRzb3ptVGp0eldWdVJfWnBpWXc?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 01:47:00 GMT"
+        "title": "Trump bans nationals from 12 countries, citing security concerns - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2dxcHpiM1NBVVY1MDVEclVUQnVsaHBoYjgtajFOdDVQZWY1bkJpYVFtSVo0YzJ2VkxJQ0owVzZfN0xPS0MxRGlRNzFPUmVmZmVrcUJxZUZ1b2EwaWxpOGxtVmZrVk5VRGFrdDBaVUwxRWI3WVA3OUs2cmVTUE1EekhzQmd6VkJWcFlHdlFpc1VpWHJ1c0R1YzhiMk9UVnZUNVVwWWdRbW5wcGVwQzNlVi1UcnRPY1FTUUozUw?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 02:09:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
   },
-  "Artificial Intelligence": {
+  "Climate": {
     "articles": [
       {
-        "title": "New Doudna supercomputer at Berkeley lab to power AI research - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEVROGNLV1RLYm1IaE1xdjRpUkF6MWRuRVluLUpvTUphY0lGazlEaXV6cmo5ZU1kRUpRanFOb3Y1WXFpa2ZQTVNsZEktajA0NWNONmQ3dnVKUUJRVkloTEVNQXpKR3JObVBxaEFSMmlZZkxyOFYyMFRDUW1CeHlXTjFtQ2djVGxvcDFYS295UE96bmZhQ0tRVFE0dlE5UdIBowFBVV95cUxNRjFoWU8ycndPZGhmOHVHeXdGeGRNNjhRdDhkSTk1aWxXcF9tdnNLcnA3aEtydnZySmMtdzV0eUpvZVFncmF0TWh5c3JYdUxKcy1ZNVI3MTFhb3d3VkIzeDg1dW9OZlJ6UFNoSHlNeFBLb29TUGs4dER5OWtpZEE3Rno1dXp1RnBhclBWYXBhMkFxSVNEWmNKTFpKWmhxeEpva0Vj?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 00:46:00 GMT"
+        "title": "US Senate Panel Seeks to Cut Unspent US Climate, Clean Energy Funds - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTl9EcDg5UGlBZXpTOG5oekY5T0k5d3piVjBwQ0g5a1g5YmpFZmo5dHRGUmJaZjhQZi1QVWtfVi1JUG15WGpMYW92YTh2bjBfUkdJa3FpakVCSDVuRWNWd0lKZmwtV2htRXRNdGEwdnJrYXZ1LXdBanhvQUJZc0IxQmoxUGNDYVpCZEpEWWtYVzF1LV80QjRYYlB5M2FpVDNvaGN5b3Q3RmVabTVYWnROTURvTUV5dm9lMG9YbklJckg?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 01:53:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China\u2019s Power Prices Nosedive in Relief to Tariff-Hit Factories - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWV4ZkVNMkptZjhoeC0wRnZoS3N3dEhsVm9EVDRkMG5FZFc4ZzdzX2RTalFnck9pQXFBdGdLYTZSREk3YS1LRllNdUhSRTlVVXpoUUtvSlh0dzlMa1dJbnlKaU1VcjBvN2NBZzEwOXJIaGFwdWk3bzZnaUpiejJVT0Z4blZuWkJZTm9Da3NIZGtadXQ5Zm1GRmhYSUxrNGh0eXIxNVllSnhjRzA5U1RRUjFUbXU?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 00:19:29 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
-  },
-  "Elon Musk": {
-    "articles": [
-      {
-        "title": "Musk whips opposition to Trump tax plan: 'KILL the BILL' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrb21Mb1VtNC1xdlZJWGlDaG5aOFBZRXNtaElUUE9jUDNrVGg4TnVfbTYzelF5a3JyeUU4a3NFVTd6V3ZKMFpCaGg3akxQY3FFU280MXFOMkVGSXQ0bllhNWVrSjZmSlHSAWxBVV95cUxNZWRTZThTZnMyaDBUMW5xOVBaU3k1YkU3VWZUWmNtbjl0R21naHNDeks4R2g4VTRJZHNIUWdoX3RlOXd0eGJDd0k2ZFhxa1E4alU2MmhZc1lpdFlEcExTWm5wTjVWVWtnNng3TDE?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 19:57:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
   },
   "Hamas": {
     "articles": [
       {
-        "title": "Gaza now worse than hell on earth, humanitarian chief tells BBC - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVkdzQXhGTGxiLXZ0ZEdJNW5qSXRsZnlUTDFGTXVQQ2JQbUxoR010S0FOeFZwa1h5ZUVIYVVyYUFoelpUV21LbUJoazlhRUt1RVNjVWQtb2lVQdIBX0FVX3lxTE1rQW5sYm9CMGRzeGhyOXVSQlZzb3ViY3plSk15ZWJWUlI1MWNwbHIyRXBQWHlJYVdvc3F3VE12b2lWUTM4akkxQy1LZkdyOW9rLTk5aHFrMTVVZERLRWdv?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 17:10:17 GMT"
+        "title": "Hamas Says US Ceasefire Veto Violates 'American Values' - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1BrUi1fRDUtemFBZTFJVjVXWElLZW1NZUY0TTZQMUdMY0Z3TVdCQV9PNkNpWjY1V19RNUQ5OExBM1JUMy13dFhLSGEzeFlvRG9CN3J0RF9VWjlaR3FwX2NQY092UHZGbm9XX0JQUW91LXYyZWZtZ0xJaHg4RlpydzdsaGV2czBNYmdrdmJCbw?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 01:15:54 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "New US AI center reflects change in branding, not role - MLex",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjhIVU95SjMtRjcxQ0o1bFVvRDgzaGNob2wwM3YySnlsRFp4MDFVY1pmMDY1RW1XdUxtZHR6X3ZHMjJmRXVaUThrZmllZUZJVXl3ck5WZmFURG1WdHU3Rk9Pd2h2VEVLeHpYaENrd0dSMDBtTlBvLVIyaXAwZ3k0ejhIWll1WTJjOExJY0lRczhnS3ZZcUNZWmoyblZEM05XRzNVY3dMRnREV2ViRUN0OVlfNHJXMUt3aC1Fd9IBWkFVX3lxTE1NRXJsOVlMeWRBemJOOWlYZjVPNXhsUlNOWnZzMDBnSG5GRzJEaHJGVG1IeEo2dk9WaU9JeG9pcU8xQ2NfTHFLZFhEZi1fSGtmLXcyeUN4M0tqZw?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
   },
   "US Economy": {
     "articles": [
       {
-        "title": "Trump spending bill to cut taxes by $3.7T, add $2.4T to deficit, CBO says - Fox Business",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2trYTRkWE5HaVVISzdVX3RJdmVyZlV0dktWcVVLcmxvMjJTYWZTcTZ2eExRSXFXT3Nfa1d5VzhDaHQwVmtZeXVZTWlvQy1Id3NDdmRZRHZicjZtS3B4SWk5MFJCc0M0anJKeGdia2FwY2dWcTdMQk1lUVhVQ3EteGFuTks2VXFCMnVtNWREVlVvXzAyYXUyREhzNELSAaIBQVVfeXFMTzlwY0RncjJaX0htS1g3NURnVGFkQ3hDYkV0T1ZrOE5pYk51X0ZWLTcxaGZWc1ZhVFh0d2FucW1OS0xTN3Jsb182UVhjbzI5RU9tQnBaX2JDZWkxTWtDREU1bDluMmtnOWg3dlk1RjU0aVhkSnQwT1Q2VnVGOHJPWG5wMXNld1ZfdkNaNEh6M0pIUHprcVh6TV9CdHpUcW1hcHBn?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 14:45:05 GMT"
+        "title": "Beige Book Reports Slight Economic Growth Alongside Uncertainty - Federal Reserve Bank of Atlanta",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTmZtUEF3elJUN25qX3pGeXI2bWYxUUFpV3lBX3JhRkxnSWJaZTQ0MkZxNjVUWU4yWmFlTGpuVkVudmNLdWNqTUZlWEhoaXJPQnhaOU85bHNiTWx6MzgtaTY5X092VTlxbU83X1VZaWxOVWp6dFVjV3lnSXRreXRYRVhaSWVrdThEUTd4UldrTWJWT0NTV2ZOVDF0ckQxaGljX2lzR1FwOUtZdV8ybTZwT1lrRUJPOEhtNEo2RE1wcWlTSHhycWI1S0xBUVVYY21ldlNMdzQtb0FoMDZKQjBEOQ?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 18:07:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T02:06:07.612765+00:00"
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Satellite images show destruction of Russian planes by Ukraine's drones - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjExaHVLdXpZOFlBdXVkWEpFM2dYWHVPMEg2MEpsVW15R05yb2FPNDNBSV9EbWsyMjduR19ycUR2WjRhUk5lSXF1M3lYaFJFQVc4OElvZHIyV0NhdlhmV0IwNG9oMnNtUm9WelV2Yk9ESUtlaDFUekhlLVUzSW9jZm14V3RHZWZFelpwdWltWGQ5TmJZaTdfblktQTktTzBBX0pz0gFWQVVfeXFMTTFuLVlLUWdraGFsVFlYSzVUR1FnRzNHSkRxMzg1bVc4LTBBb2h6cE1kX2dEUjFNbEZfZWJTX0QtT093WnZSVTRuMHNzSnVxTUhzS1F1Qmc?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 17:46:02 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T03:05:01.164727+00:00"
   }
 }

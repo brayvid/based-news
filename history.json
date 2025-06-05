@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Administration Halts Interviews for Student and Exchange Visas - The New York Times",
-      "pubDate": "Wed, 28 May 2025 03:04:28 GMT"
-    },
-    {
       "title": "As Trump Seeks Iran Deal, Israel Again Raises Possible Strikes on Nuclear Sites - The New York Times",
       "pubDate": "Wed, 28 May 2025 04:01:13 GMT"
     },
@@ -15,10 +11,6 @@
     {
       "title": "Trump's pardons highlight Justice Department's pullback from public corruption cases - NBC News",
       "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Trump Says Canada Can Join \u2018Golden Dome\u2019 - Time Magazine",
-      "pubDate": "Wed, 28 May 2025 03:00:00 GMT"
     },
     {
       "title": "Elon Musk 'disappointed' by Donald Trump's 'big, beautiful' tax bill - BBC",
@@ -639,6 +631,10 @@
     {
       "title": "Live updates: Trump announces travel ban affecting a dozen countries - AP News",
       "pubDate": "Thu, 05 Jun 2025 01:47:00 GMT"
+    },
+    {
+      "title": "Trump bans nationals from 12 countries, citing security concerns - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 02:09:00 GMT"
     }
   ],
   "ukraine": [
@@ -1037,6 +1033,10 @@
     {
       "title": "Ukraine releases dramatic FPV footage of drone attack on Russian airbases \u2013 video - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 17:43:00 GMT"
+    },
+    {
+      "title": "Satellite images show destruction of Russian planes by Ukraine's drones - NBC News",
+      "pubDate": "Wed, 04 Jun 2025 17:46:02 GMT"
     }
   ],
   "recession": [
@@ -1927,6 +1927,10 @@
     {
       "title": "New Doudna supercomputer at Berkeley lab to power AI research - CBS News",
       "pubDate": "Thu, 05 Jun 2025 00:46:00 GMT"
+    },
+    {
+      "title": "New US AI center reflects change in branding, not role - MLex",
+      "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2709,14 +2713,6 @@
   ],
   "us_economy": [
     {
-      "title": "Preparing for a possible recession - wbrc.com",
-      "pubDate": "Wed, 28 May 2025 02:23:27 GMT"
-    },
-    {
-      "title": "Trump Economic Advisor Kevin Hassett Says 'We'd Have Had A Recession' But Passing Of 'One Big Beautiful Bill' Helped Avoid The Downturn - Benzinga",
-      "pubDate": "Wed, 28 May 2025 02:23:15 GMT"
-    },
-    {
       "title": "Minutes of Fed's May meeting likely to show officials grappling with uncertainty - MSN",
       "pubDate": "Wed, 28 May 2025 10:50:47 GMT"
     },
@@ -3079,6 +3075,10 @@
     {
       "title": "Trump spending bill to cut taxes by $3.7T, add $2.4T to deficit, CBO says - Fox Business",
       "pubDate": "Wed, 04 Jun 2025 14:45:05 GMT"
+    },
+    {
+      "title": "Beige Book Reports Slight Economic Growth Alongside Uncertainty - Federal Reserve Bank of Atlanta",
+      "pubDate": "Wed, 04 Jun 2025 18:07:33 GMT"
     }
   ],
   "terrorism": [
@@ -3207,6 +3207,10 @@
     {
       "title": "Jessie J reveals early breast cancer diagnosis - BBC",
       "pubDate": "Wed, 04 Jun 2025 06:27:55 GMT"
+    },
+    {
+      "title": "Menopause Drug Reduces Breast Cancer Growth In Clinical Trial - ScienceAlert",
+      "pubDate": "Thu, 05 Jun 2025 02:14:24 GMT"
     }
   ],
   "democratic_party": [
@@ -3493,6 +3497,10 @@
     {
       "title": "Gaza now worse than hell on earth, humanitarian chief tells BBC - BBC",
       "pubDate": "Wed, 04 Jun 2025 17:10:17 GMT"
+    },
+    {
+      "title": "Hamas Says US Ceasefire Veto Violates 'American Values' - Newsweek",
+      "pubDate": "Thu, 05 Jun 2025 01:15:54 GMT"
     }
   ],
   "climate": [
@@ -3615,6 +3623,10 @@
     {
       "title": "Study projects that increasing wildfires in Canada and Siberia will actually slow global warming - Phys.org",
       "pubDate": "Wed, 04 Jun 2025 13:59:04 GMT"
+    },
+    {
+      "title": "US Senate Panel Seeks to Cut Unspent US Climate, Clean Energy Funds - U.S. News & World Report",
+      "pubDate": "Thu, 05 Jun 2025 01:53:00 GMT"
     }
   ],
   "ai_safety": [
@@ -3815,10 +3827,6 @@
     {
       "title": "GOP rejects \u2018millionaire tax\u2019 pitch, advancing breaks for rich Americans - The Washington Post",
       "pubDate": "Wed, 28 May 2025 10:02:11 GMT"
-    },
-    {
-      "title": "Trump\u2019s frustration with Putin boils over with no Ukraine peace deal in sight - The Washington Post",
-      "pubDate": "Wed, 28 May 2025 03:05:00 GMT"
     },
     {
       "title": "Senate GOP demands new sanctions against Russia - Axios",
