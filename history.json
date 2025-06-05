@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration halts scheduling of new student visa appointments - Reuters",
-      "pubDate": "Wed, 28 May 2025 00:18:00 GMT"
-    },
-    {
       "title": "Trump Administration Halts Interviews for Student and Exchange Visas - The New York Times",
       "pubDate": "Wed, 28 May 2025 03:04:28 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Putin 'very strongly' vowed revenge against Ukraine for drone strike on airbases, Donald Trump says - Sky News",
       "pubDate": "Wed, 04 Jun 2025 23:12:58 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Trump signs proclamation banning travel from 12 countries - ABC News",
+      "pubDate": "Thu, 05 Jun 2025 00:16:00 GMT"
     }
   ],
   "ukraine": [
@@ -643,20 +643,12 @@
       "pubDate": "Wed, 28 May 2025 01:35:00 GMT"
     },
     {
-      "title": "Ukraine braces for expected Russian summer offensive in the east - The Washington Post",
-      "pubDate": "Wed, 28 May 2025 00:25:32 GMT"
-    },
-    {
       "title": "US and Russia clash in public as the Ukraine war heats up - Reuters",
       "pubDate": "Wed, 28 May 2025 08:19:05 GMT"
     },
     {
       "title": "Exclusive: Putin, for Ukraine peace, wants a pledge to halt NATO enlargement, sources say - Reuters",
       "pubDate": "Wed, 28 May 2025 09:11:58 GMT"
-    },
-    {
-      "title": "Ukraine allegedly launches almost 300 drones at Russia; UAV facility near Moscow reportedly targeted - The Kyiv Independent",
-      "pubDate": "Wed, 28 May 2025 00:51:51 GMT"
     },
     {
       "title": "Germany to make long-range missiles with Ukraine and gives \u20ac5bn more in military aid \u2013 Ukraine-Russia war live - The Guardian",
@@ -1179,17 +1171,13 @@
     {
       "title": "Australia is on the brink of sliding back into another 'recession' - MSN",
       "pubDate": "Wed, 04 Jun 2025 08:33:29 GMT"
+    },
+    {
+      "title": "Nearly 11 million Americans would lose insurance under Trump's tax bill, analysis says - USA Today",
+      "pubDate": "Wed, 04 Jun 2025 19:32:07 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Oil Rises Amid Prospects of New U.S. Sanctions Against Russia - WSJ",
-      "pubDate": "Wed, 28 May 2025 00:20:00 GMT"
-    },
-    {
-      "title": "Putin Has Retooled Russia\u2019s Economy to Focus Only on War - WSJ",
-      "pubDate": "Wed, 28 May 2025 01:00:00 GMT"
-    },
     {
       "title": "Hundreds of drones attack Russia with impacts, disruption reported in Moscow - ABC News",
       "pubDate": "Wed, 28 May 2025 07:24:52 GMT"
@@ -1365,6 +1353,10 @@
     {
       "title": "Russia producing around 170 Shahed drones daily, plans to ramp up output \u2013 DIU - \u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
       "pubDate": "Wed, 04 Jun 2025 16:53:00 GMT"
+    },
+    {
+      "title": "Putin will seek revenge for Ukraine drone attack, warns Trump after phone call - BBC",
+      "pubDate": "Wed, 04 Jun 2025 20:39:26 GMT"
     }
   ],
   "israel": [
@@ -1927,6 +1919,10 @@
     {
       "title": "Reddit sues AI startup Anthropic for breach of contract, 'unfair competition' - CNBC",
       "pubDate": "Wed, 04 Jun 2025 17:37:08 GMT"
+    },
+    {
+      "title": "Ukraine says the drones that hit Russian aircraft used AI to find and strike their targets when they lost signal - Yahoo",
+      "pubDate": "Wed, 04 Jun 2025 16:59:47 GMT"
     }
   ],
   "financial_markets": [
@@ -2591,6 +2587,10 @@
     {
       "title": "Exports Lost To 7-Year Trump-Biden China Tariffs: $160-$201 Billion - Forbes",
       "pubDate": "Wed, 04 Jun 2025 14:48:38 GMT"
+    },
+    {
+      "title": "Trump\u2019s China Tariffs Are Backfiring in Funniest Way Possible - The New Republic",
+      "pubDate": "Wed, 04 Jun 2025 19:37:21 GMT"
     }
   ],
   "iran": [
@@ -3071,6 +3071,10 @@
     {
       "title": "Wall Street\u2019s big rally stalls following some discouraging economic data - AP News",
       "pubDate": "Wed, 04 Jun 2025 20:51:00 GMT"
+    },
+    {
+      "title": "US services sector contracts in May; businesses face higher prices - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 17:13:13 GMT"
     }
   ],
   "terrorism": [
@@ -4043,6 +4047,10 @@
     {
       "title": "CBO: Nearly 11 million people will be uninsured if GOP megabill becomes law - The Hill",
       "pubDate": "Wed, 04 Jun 2025 15:46:00 GMT"
+    },
+    {
+      "title": "Senate Environment and Public Works panel releases \u2018big, beautiful bill\u2019 text - The Hill",
+      "pubDate": "Wed, 04 Jun 2025 21:36:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4116,10 +4124,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX launches Starship Flight 9 to space in historic reuse of giant megarocket (video) - Space",
-      "pubDate": "Wed, 28 May 2025 00:09:25 GMT"
-    },
     {
       "title": "SpaceX's Starship spins out of control after flying past points of previous failures - Reuters",
       "pubDate": "Wed, 28 May 2025 03:26:00 GMT"
