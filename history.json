@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration live updates: Ex-Russian leader warns of a WWIII; Vance to deliver remarks at bitcoin conference - NBC News",
-      "pubDate": "Wed, 28 May 2025 14:30:20 GMT"
-    },
-    {
       "title": "Live updates: Trump responds to Elon Musk's criticism of deficit increase from GOP agenda bill - NBC News",
       "pubDate": "Wed, 28 May 2025 17:03:37 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump holds call with Xi, Chinese media says - CNBC",
       "pubDate": "Thu, 05 Jun 2025 12:58:04 GMT"
+    },
+    {
+      "title": "Trump and Xi Hold Call, China Says - The New York Times",
+      "pubDate": "Thu, 05 Jun 2025 13:15:27 GMT"
     }
   ],
   "ukraine": [
@@ -1427,6 +1427,10 @@
     {
       "title": "Ex-Biden official says \u2018without doubt\u2019 Israel committed war crimes in Gaza - Al Jazeera",
       "pubDate": "Tue, 03 Jun 2025 14:36:03 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills at least 43 in Gaza today, majority in south Strip - Al Jazeera",
+      "pubDate": "Thu, 05 Jun 2025 14:15:00 GMT"
     }
   ],
   "inflation": [
@@ -1436,10 +1440,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI could spark bloodbath for white collar jobs \u2014 and send unemployment to 20%: Anthropic CEO - New York Post",
-      "pubDate": "Wed, 28 May 2025 14:34:00 GMT"
-    },
     {
       "title": "US senator calls for AI competition in Pentagon contracting - Reuters",
       "pubDate": "Wed, 28 May 2025 15:07:39 GMT"
@@ -2017,6 +2017,10 @@
     {
       "title": "Circle Internet Group's IPO prices above its upped range for its trading debut on Thursday - MarketWatch",
       "pubDate": "Thu, 05 Jun 2025 11:26:44 GMT"
+    },
+    {
+      "title": "Stocks fall as traders brace for China trade update, jobs report: Live updates - CNBC",
+      "pubDate": "Thu, 05 Jun 2025 14:36:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3861,6 +3865,10 @@
     {
       "title": "Advancing Agentic AI: Navigating opportunities and bolstering safety - TNGlobal",
       "pubDate": "Thu, 05 Jun 2025 07:23:45 GMT"
+    },
+    {
+      "title": "Reddit sues AI giant Anthropic over content use - The New Indian Express",
+      "pubDate": "Thu, 05 Jun 2025 14:34:28 GMT"
     }
   ],
   "us_politics": [
@@ -4503,10 +4511,6 @@
   ],
   "alexandria_ocasio-cortez": [
     {
-      "title": "AOC Wants to END the Agency Arresting Killers, Rapists in New York - The White House (.gov)",
-      "pubDate": "Wed, 28 May 2025 15:04:31 GMT"
-    },
-    {
       "title": "AOC is the nightmarish new Donald Trump of the Left - The Telegraph",
       "pubDate": "Wed, 28 May 2025 15:39:00 GMT"
     },
@@ -4516,10 +4520,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "China launches the Tianwen-2 asteroid sample return mission - NASASpaceFlight.com -",
-      "pubDate": "Wed, 28 May 2025 14:52:14 GMT"
-    },
     {
       "title": "China's Rover Moves On Mars - MSN",
       "pubDate": "Wed, 04 Jun 2025 20:02:31 GMT"
@@ -4557,6 +4557,10 @@
     {
       "title": "Scientists solve a massive problem for fusion energy - The Brighter Side of News",
       "pubDate": "Mon, 02 Jun 2025 14:07:00 GMT"
+    },
+    {
+      "title": "Nuclear fusion record smashed as German scientists take 'a significant step forward' to near-limitless clean energy - Live Science",
+      "pubDate": "Thu, 05 Jun 2025 13:52:42 GMT"
     }
   ],
   "computing": [
@@ -4761,6 +4765,12 @@
     {
       "title": "Amazon planning $10B investment in North Carolina for data center and AI campus - AP News",
       "pubDate": "Thu, 05 Jun 2025 01:06:00 GMT"
+    }
+  ],
+  "hacking": [
+    {
+      "title": "China offers cash rewards for hackers it says are Taiwanese military - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 11:28:52 GMT"
     }
   ]
 }
