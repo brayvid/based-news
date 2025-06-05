@@ -1,42 +1,72 @@
 {
-  "US Politics": {
+  "Recession": {
     "articles": [
       {
-        "title": "Trump and Musk's relationship flames out just as intensely as it started - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWUxMVRxcVBmSXBBTFpXdXZ2VmR4c1lCQVFBU21YN3JhLXRIX21WQy1jdC0tQWpmYTRPSkQ5WUE1NVp3MEU2VDhManJ3c01DZmVRUlJ3NHdSeDBHbHBsQ1NUY0dNeEVLLU96Z2RRTi1rejhyVXh3U0Y3UDFHUDliQldsYUtUdw?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 21:31:00 GMT"
+        "title": "Musk goes scorched earth: Trump will cause recession, implies he should be impeached - Politico",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3VQXzhXV1NqQlhzSWdCV3Q4cHZERUdTejQyQWJLRU1hV0FuVnhpUW1FQUN5WkE4aDVJR2JNbjhXbTlfdUhHQUZxUTdKQ1ZSYzFOUlc3QzFiano5ZE5EZFBIT3VucC1EZnlYdVVHY3gtb1NkZV9UZTh3ME41VFRpZkpLd1g0NW5PYVRsTDJaSkpkVW1tdlhRU3lR?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 22:09:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T22:06:14.231701+00:00"
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
   },
-  "US Economy": {
+  "China": {
     "articles": [
       {
-        "title": "Elon Musk Says Trump Tariffs Will Cause a Recession - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQVm9sV0FCUUtFdXVrdEFoQ2stdlpaUjEycmZuNEdpTFVxVE1LU1h6RGN3SUdjNmlyZ3JESU40TXk3YUlEYS1mU256amJoVGozQkc1SlFQemRJc19IU1l6aEJPUlpTSVBoelRGRnhOeDV5TGtQUVJjdGkyRU11UUZKUTN6SUd6QnJkQUE2Q2VyZm5xaTFiOWstVEdrYXNsRXVJb05zWGJxcHFLdXVodmZROVd5VDJYZmttTnZfN2VzclNQWXMtams3UDRwOHBQN2xGa2g0Slk2NURPbUw2dGVnMmF1VEpUSGs2Zk81bnozRi1kak1JQ3N6SU9WYlB6aUp3MlR0MXk0T2JiaFpSWkphV25jOWUyOTlRbW8tbUtlVFk4N0xzQ1hSOUtZcUtZSktySEE3eUY0aXg2dnh2ZUhja2ZuV25SZXdvYjhQa2hQRFlUOFR0UVliNzZzYTR3dVk2bGFSRE93MDlZS043VTZKbFB4dmF5YTNKTmd1V3A3WjNZQzJPZmlVRmt5Y2dZdmJPS0NCLXFNS1dTUVB6TGVsWWlKNVBpUFlBanpKaw?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 20:18:00 GMT"
+        "title": "Trump and China's Xi break the ice with first phone call since launch of trade war - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUV0bnNLUjhqaGpDOXhFLXdiMmhtM2tBRGFFb25hdjNuOElTOGJZa2VMNW1NNTVBcGNpclNYajJOUHN2MXlRcTNpS2NyaFZOUlFqV1BEXzlJZXEwajhLdHNUSU52akFGYjhZbk1kMVRNZmZLSEdMWDZfV2k3Q3pmVXAzRDRBT2Fha3VBMElvZWtka3U5NkFYUzBHNFg3dw?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 19:38:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T22:06:14.231701+00:00"
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Russia says it will respond to Ukraine attacks, Trump downplays immediate peace prospects - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk5ZbV9CXy05ZDA1aGRUUmt3WGtBSG0yaGcwWlptb2d1aXQtUlN0Y1NYbzMzWWxvSHFxaDZJR1pzWmZYR19IeGtITHQ2ZEt5M0NTX01mUzlCTnFydDJtRm9QU3dnN3RtSU1Ld1lwOC1wd0QycE5uU3RZWGw3S3YzRnRxWTJ1dFgyMTlNNlZsb0FGMVRtUHB2ajV0U1dFVGNwRmFLWjBDaw?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 19:28:19 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Fury and resignation around the world as Trump's travel ban comes roaring back - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnNfeHhKM015dmZKME9yWGY3Yy1Bd29aTzlPUmRLTFlZV01QZ01ER1BUN3lUTDVJQlhpZjhGVnYyOXdSMTVuUlB1dW1lV3J5aUk2OHozVzZqMkZVeTJNWU1xdV90aXRXdDNDRXJVb29JNExIVEdiVGk4bWI3WkhfMTU0VkJJZ2FwdC1SWEpqSGZSZ3EweXpsT0h6WlNWaHJOWXdQTlVlYkI0MFlhMXgtOG5ncE5xQdIBVkFVX3lxTE1YaVpCTmNUWmhNQXpDNVRIZjJEaklHR3VQd2FMeGxOak9PUXR1d2VMWnR6aWRYVHFiY29pLTNLRXREX0xDalpNVjRJVmxCUFlQWHE5RHN3?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 17:18:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Groups raise alarms about proposed artificial intelligence regulations - The Center Square",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHUzU2ZFZFd0eFNtbzd0b0JCeE5kcGVIQjh3bkJOZ05NdTJKa0JuWGl5MW1rYzZwMTdKVzJ6SExrTGRCYThTYnV3VWN3RVFnN3ZaTmVnNi1haWdJZXg1Mk5kbUVGTVFISjdnWTljUWRxXzd0ZXlUVFBDYVY0ckJpWEYzaE4yQ3ZOS1VEUzhNbTdCM2hmbEVQWUx6QWPSAaIBQVVfeXFMTklmSC11R2RFa3ZEeTdDWTdRNkoxT0NmNlczUGdaT1BLQnJwMk1pT28zRFVfVW5nTFljODRUX09oN0JqcWtId0t4YkJJdTNFc3NuTDdFbi02UTg5VmdjLUw1eDJFZ0VEYmdQZUtqMW52WUpnWFpHd19ZY3FjY3loeUR5Z3ZvcEtRX2VqX2Y2Q29VVVhBWktUT1Y0eWE2U2VHVUlB?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 18:52:00 GMT"
+        "title": "Thune on AI moratorium: \u2018We\u2019ll see\u2019 if it survives Byrd rule - Politico",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2QyTUxwZ2xTTHp0Y2pqQmFpX1I5M0RXZHZ6OGpaNXZMWDZFTXlFeUdqYjFYai1xODJCNUpISmpkNldQNUFDNXdBV1JyVnFzajZ5YlF3WU9iWFNNdDh5MVZ2aDlfZ1AwZU1DaW8wVkhOMDVWaVpCQXpDemMtWDBZQ3VzWnJQZ2ZoSjlKY3lFdExuZTBsWDF4QVVXd1RIY3FiTHlDc3JRdEdORFpTMVJkSnZaSE5aYncxZ3BYbXpWcmc?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 15:44:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T22:06:14.231701+00:00"
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
   },
   "AI Safety": {
     "articles": [
       {
-        "title": "Anthropic researchers claim AI could turn humans into \"meat robots\" \u2014 obeying robot commands relayed via a camera - Windows Central",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLW9pcnp3SzJxTFBUSDItSkNPa1p5S0VrUUgwOVV6ZzhpVFVDRlY5WEZFM0ZwM1AtZ3E5X1Nua2FQWnJ4M0VmdGoxcUlvd3RtaTRZSW5BbzM1cnp3SXZUb1NmVGtYVGc4b01Ub0JhWk4zYmRmc2ZsWTdvcEtycnUwZUZPd1VnYnFDWHVfNWxZNUZrenNrdDdWNmRmNHlsaFQ3ZENfYWNBdTBGcmJjbHNqTkdVc0U?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 10:54:53 GMT"
+        "title": "Enhance AI security with Azure Prompt Shields and Azure AI Content Safety - Microsoft Azure",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT29DNEhrcG9mdnk4d3lGSy1jMEoyUkZIck5mTjM5dmRBRWxnLUF5Y2ltdTMyUDFVTXVrekVOcmZFQXZhblZKNWpoZW5sZWd6cUNrWG53aWFMdTdaempiWHRvN1RhUnVlLWpha3JBYlFTY2hNMDUxMkZzQVVuU3J0YVNEcF84Z1NDYXBQSzNqSTdNUU9rVlBYRmZVczlGNTZXc0p2d0ZmUzk2WUlLeUtFeVZHNA?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 15:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T22:06:14.231701+00:00"
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "The US economy just got a reality check - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFc0RFRxWmxiNTFQcXhuVzM0VjJIZkdxbUc5MXNILXhHQllzN0hBU3FkOHBwQTJxcVhqcnpHMk9TVUVBbEMtcnMwMEdMSi1EZldmYTB1Z1IzTGgzTGtialBPQUtxS19IbUU1akhMd25sb0VHeDdkeWRBR0I5djU4TFcyVHRWYlFuZGRGYWtn?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 13:36:58 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T23:05:41.084768+00:00"
   }
 }
