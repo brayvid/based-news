@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Elon Musk 'disappointed' by Donald Trump's 'big, beautiful' tax bill - BBC",
-      "pubDate": "Wed, 28 May 2025 10:55:57 GMT"
-    },
-    {
       "title": "Trump\u2019s souring on Putin raises questions about MAGA base - The Hill",
       "pubDate": "Wed, 28 May 2025 12:00:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump aims to build a MAGA judiciary, breaking with traditional conservatives - NBC News",
       "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump orders investigation into Biden presidency claiming aides hid his \u2018serious cognitive decline\u2019 - The Independent",
+      "pubDate": "Thu, 05 Jun 2025 04:01:00 GMT"
     }
   ],
   "ukraine": [
@@ -1373,6 +1373,10 @@
     {
       "title": "Putin Intends to Respond to Ukraine Strikes on Russian Bombers, Trump Says - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 21:31:04 GMT"
+    },
+    {
+      "title": "Russia says it will repair warplanes damaged in Ukrainian drone attacks - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 08:52:23 GMT"
     }
   ],
   "israel": [
@@ -1955,6 +1959,10 @@
     {
       "title": "OpenAI takes down covert operations tied to China and other countries - NPR",
       "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "The Role of Artificial Intelligence and Machine Learning Applications in Emergency Surgery: A Systematic Review of Diagnostic Accuracy and Clinical Outcomes - Cureus",
+      "pubDate": "Thu, 05 Jun 2025 07:55:10 GMT"
     }
   ],
   "financial_markets": [
@@ -2132,10 +2140,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US officials concerned Israel may strike Iran nuke sites without much warning \u2013 NYT - The Times of Israel",
-      "pubDate": "Wed, 28 May 2025 10:18:45 GMT"
-    },
     {
       "title": "China accused of \u2018malicious cyber campaign\u2019 targeting Czech foreign ministry - South China Morning Post",
       "pubDate": "Wed, 28 May 2025 11:51:45 GMT"
@@ -2607,6 +2611,10 @@
     {
       "title": "China increases scrutiny of rare earth magnets with new tracking system - Reuters",
       "pubDate": "Thu, 05 Jun 2025 04:17:53 GMT"
+    },
+    {
+      "title": "A quiet Tiananmen Square anniversary shows China\u2019s ability to suppress history - AP News",
+      "pubDate": "Thu, 05 Jun 2025 02:11:00 GMT"
     }
   ],
   "iran": [
@@ -2724,10 +2732,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Minutes of Fed's May meeting likely to show officials grappling with uncertainty - MSN",
-      "pubDate": "Wed, 28 May 2025 10:50:47 GMT"
-    },
     {
       "title": "Fed minutes: Officials called out system risks during tariff sell-off - Axios",
       "pubDate": "Wed, 28 May 2025 18:29:25 GMT"
@@ -3235,6 +3239,10 @@
     {
       "title": "Scientists Crack 30-Year Mystery Behind \u201cHoly Grail\u201d Cancer Drug - SciTechDaily",
       "pubDate": "Thu, 05 Jun 2025 03:43:12 GMT"
+    },
+    {
+      "title": "People with cancer face \u2018ticking timebomb\u2019 due to NHS staff shortages - The Guardian",
+      "pubDate": "Wed, 04 Jun 2025 23:03:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3659,14 +3667,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Shutdown Failure: OpenAI Models Disobey Commands, Report Reveals - The Hans India",
-      "pubDate": "Wed, 28 May 2025 10:12:56 GMT"
-    },
-    {
-      "title": "Singapore joins Thailand against telecom scams, forms AI Alliance - Telecompaper",
-      "pubDate": "Wed, 28 May 2025 10:10:00 GMT"
-    },
-    {
       "title": "AI Security Leader Safe Pro Group Added to Russell Microcap Index, Gains Access to $10.6T Benchmark - Stock Titan",
       "pubDate": "Wed, 28 May 2025 12:01:00 GMT"
     },
@@ -3855,10 +3855,6 @@
     {
       "title": "Senate GOP demands new sanctions against Russia - Axios",
       "pubDate": "Wed, 28 May 2025 11:11:57 GMT"
-    },
-    {
-      "title": "Musk criticises Trump\u2019s \u2018big beautiful bill\u2019, saying tax plans undermine Doge measures \u2013 US politics live - The Guardian",
-      "pubDate": "Wed, 28 May 2025 10:05:00 GMT"
     },
     {
       "title": "Trump's sweeping global tariffs blocked by federal court - Axios",
@@ -4235,6 +4231,10 @@
     {
       "title": "'Existential Crisis': Bitcoin Quantum Computing Threat Is Fast Approaching, Experts Say - Decrypt",
       "pubDate": "Tue, 03 Jun 2025 22:33:07 GMT"
+    },
+    {
+      "title": "Bitcoin Has Hit an All-Time High of $112,000. 3 Reasons the Leading Cryptocurrency Is Surging. - Yahoo Finance",
+      "pubDate": "Thu, 05 Jun 2025 09:15:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -4759,6 +4759,12 @@
     {
       "title": "US Congress budget office sees economic output falling from Trump tariffs - Reuters",
       "pubDate": "Wed, 04 Jun 2025 20:20:11 GMT"
+    }
+  ],
+  "amazon": [
+    {
+      "title": "Amazon planning $10B investment in North Carolina for data center and AI campus - AP News",
+      "pubDate": "Thu, 05 Jun 2025 01:06:00 GMT"
     }
   ]
 }
