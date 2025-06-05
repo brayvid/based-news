@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Turmoil, resignations and \u2018psychological warfare\u2019: how Trump is crippling US national parks - The Guardian",
-      "pubDate": "Wed, 28 May 2025 13:01:00 GMT"
-    },
-    {
       "title": "Live updates: Elon Musk \u2018disappointed\u2019 with Trump\u2019s massive tax and immigration package - The Washington Post",
       "pubDate": "Wed, 28 May 2025 13:58:32 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump issues a new travel ban. And, GOP raises concerns over the budget bill - NPR",
       "pubDate": "Thu, 05 Jun 2025 10:46:41 GMT"
+    },
+    {
+      "title": "Trump orders investigation into alleged cover-up of Biden\u2019s decline - The Washington Post",
+      "pubDate": "Thu, 05 Jun 2025 06:41:00 GMT"
     }
   ],
   "ukraine": [
@@ -1053,6 +1053,10 @@
     {
       "title": "Russia\u2019s war on Ukraine intensifies as peace talks appear at dead end - Al Jazeera",
       "pubDate": "Thu, 05 Jun 2025 10:18:45 GMT"
+    },
+    {
+      "title": "Russian drone strike kills 5 as Moscow pledges response to Ukraine attacks - Al Jazeera",
+      "pubDate": "Thu, 05 Jun 2025 11:23:56 GMT"
     }
   ],
   "recession": [
@@ -1187,6 +1191,10 @@
     {
       "title": "US Dollar Index (DXY) remains depressed below 99.00 as recession fears return - FXStreet",
       "pubDate": "Thu, 05 Jun 2025 08:30:36 GMT"
+    },
+    {
+      "title": "Will There Be a Recession in 2025? - Norada Real Estate Investments",
+      "pubDate": "Thu, 05 Jun 2025 11:42:20 GMT"
     }
   ],
   "russia": [
@@ -1955,6 +1963,10 @@
     {
       "title": "AI literacy is a strategic opportunity and an essential skill \u2013 a new course to support competence - Microsoft",
       "pubDate": "Thu, 05 Jun 2025 07:36:37 GMT"
+    },
+    {
+      "title": "Vista CEO Says AI to Force 60% of SuperReturn Crowd to Seek Work - Bloomberg",
+      "pubDate": "Thu, 05 Jun 2025 12:01:51 GMT"
     }
   ],
   "financial_markets": [
@@ -2603,6 +2615,10 @@
     {
       "title": "EU sounds alarm to China over rare earth export controls - CNN",
       "pubDate": "Thu, 05 Jun 2025 07:55:00 GMT"
+    },
+    {
+      "title": "China\u2019s Economic Slowdown Fuels Social Media Anger at Elites - The New York Times",
+      "pubDate": "Thu, 05 Jun 2025 09:04:17 GMT"
     }
   ],
   "iran": [
@@ -2717,6 +2733,10 @@
     {
       "title": "Analysis: An outline is emerging of the US offer to Iran in their high-stakes nuclear negotiations - AP News",
       "pubDate": "Tue, 03 Jun 2025 19:40:00 GMT"
+    },
+    {
+      "title": "Critical US-Iran nuclear talks on shaky ground - ABC News",
+      "pubDate": "Thu, 05 Jun 2025 02:03:57 GMT"
     }
   ],
   "us_economy": [
@@ -3116,10 +3136,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Woman\u2019s life-saving treatment delayed by Trump cuts to NIH: \u2018Cancer shouldn\u2019t be political\u2019 - The Guardian",
-      "pubDate": "Wed, 28 May 2025 12:19:00 GMT"
-    },
     {
       "title": "Australia\u2019s bowel cancer rates are world\u2019s highest for under-50s. Scientists wonder if the gut microbiome is to blame - The Guardian",
       "pubDate": "Thu, 29 May 2025 01:16:00 GMT"
@@ -3533,16 +3549,16 @@
     {
       "title": "Bodies of two Israeli-American hostages taken in 7 October attack recovered, Netanyahu says \u2013 Israel-Gaza war live - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 07:33:00 GMT"
+    },
+    {
+      "title": "Bodies of Israeli-American hostages Judi Lynn Weinstein and Gad Haggai recovered by Israeli forces in Gaza - CBS News",
+      "pubDate": "Thu, 05 Jun 2025 09:14:00 GMT"
     }
   ],
   "climate": [
     {
       "title": "World faces new danger of \u2018economic denial\u2019 in climate fight, Cop30 head says - The Guardian",
       "pubDate": "Wed, 28 May 2025 19:28:00 GMT"
-    },
-    {
-      "title": "German court rejects Peruvian farmer's landmark climate case - BBC",
-      "pubDate": "Wed, 28 May 2025 12:15:03 GMT"
     },
     {
       "title": "Court throws out Peruvian farmer\u2019s climate lawsuit against energy giant - The Washington Post",
@@ -3658,10 +3674,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Safety measures can spur AI\u2019s growth, not stifle it: Panellists - Yahoo News Singapore",
-      "pubDate": "Wed, 28 May 2025 12:22:45 GMT"
-    },
     {
       "title": "OpenAI Models defy shutdown commands in AI safety tests, raising control concerns - Diya TV",
       "pubDate": "Wed, 28 May 2025 18:00:00 GMT"
@@ -4180,10 +4192,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "GameStop buys bitcoin worth $513 million in crypto push - Reuters",
-      "pubDate": "Wed, 28 May 2025 12:05:23 GMT"
-    },
     {
       "title": "GameStop buys over $500M worth of bitcoin in 1st crypto investment - Fox Business",
       "pubDate": "Wed, 28 May 2025 17:22:00 GMT"
