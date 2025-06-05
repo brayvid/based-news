@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "US halts student visa appointments and plans expanded social media vetting - BBC",
-      "pubDate": "Wed, 28 May 2025 07:17:51 GMT"
-    },
-    {
       "title": "Trump's pardons highlight Justice Department's pullback from public corruption cases - NBC News",
       "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump announces travel ban and restrictions on 19 countries set to go into effect Monday - AP News",
       "pubDate": "Thu, 05 Jun 2025 03:19:00 GMT"
+    },
+    {
+      "title": "Trump signs proclamation to suspend visas for new Harvard international students - CNN",
+      "pubDate": "Thu, 05 Jun 2025 00:20:00 GMT"
     }
   ],
   "ukraine": [
@@ -657,10 +657,6 @@
     {
       "title": "Exclusive: Putin, for Ukraine peace, wants a pledge to halt NATO enlargement, sources say - Reuters",
       "pubDate": "Wed, 28 May 2025 09:11:58 GMT"
-    },
-    {
-      "title": "Germany to make long-range missiles with Ukraine and gives \u20ac5bn more in military aid \u2013 Ukraine-Russia war live - The Guardian",
-      "pubDate": "Wed, 28 May 2025 07:35:00 GMT"
     },
     {
       "title": "Germany to purchase Ukrainian missiles, boost Ukrainian military - upi.com",
@@ -1053,6 +1049,10 @@
     {
       "title": "Ukraine war briefing: Don\u2019t be weak, Zelenskyy tells allies, after Putin threats - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 03:58:00 GMT"
+    },
+    {
+      "title": "5 killed, 6 injured in Russian drone strike on Chernihiv Oblast - The Kyiv Independent",
+      "pubDate": "Thu, 05 Jun 2025 05:52:05 GMT"
     }
   ],
   "recession": [
@@ -1190,10 +1190,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Hundreds of drones attack Russia with impacts, disruption reported in Moscow - ABC News",
-      "pubDate": "Wed, 28 May 2025 07:24:52 GMT"
-    },
     {
       "title": "Russia\u2019s \u2018Silicon Valley\u2019 Targeted in Major Ukrainian Drone Assault - The Moscow Times",
       "pubDate": "Wed, 28 May 2025 08:16:00 GMT"
@@ -1955,6 +1951,10 @@
     {
       "title": "Amazon plans $10 billion artificial intelligence investment, will bring 500 jobs in North Carolina - WXII",
       "pubDate": "Wed, 04 Jun 2025 20:48:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence (AI) - The Guardian",
+      "pubDate": "Thu, 05 Jun 2025 06:06:19 GMT"
     }
   ],
   "financial_markets": [
@@ -2603,6 +2603,10 @@
     {
       "title": "Auto industry sounds the alarm as China's rare earth curbs start to bite - CNBC",
       "pubDate": "Thu, 05 Jun 2025 05:10:54 GMT"
+    },
+    {
+      "title": "China\u2019s Global Income Tax Crackdown Expands Beyond Ultra Rich - Bloomberg",
+      "pubDate": "Thu, 05 Jun 2025 06:09:00 GMT"
     }
   ],
   "iran": [
@@ -4367,6 +4371,10 @@
     {
       "title": "FBI: $5,000 reward for info leading to the arrest of Chicago bank robbery suspect - WGN-TV",
       "pubDate": "Mon, 02 Jun 2025 22:30:02 GMT"
+    },
+    {
+      "title": "FBI says Palm Springs bombing suspects used AI chat program to help plan attack - CNBC",
+      "pubDate": "Wed, 04 Jun 2025 21:58:54 GMT"
     }
   ],
   "republican_party": [
@@ -4727,6 +4735,18 @@
     {
       "title": "US vetoes UN Security Council resolution calling for Gaza ceasefire - The Times of Israel",
       "pubDate": "Wed, 04 Jun 2025 23:51:32 GMT"
+    }
+  ],
+  "oceans": [
+    {
+      "title": "Marine heatwave found to have engulfed area of ocean five times the size of Australia - The Guardian",
+      "pubDate": "Thu, 05 Jun 2025 04:08:00 GMT"
+    }
+  ],
+  "us_congress": [
+    {
+      "title": "US Congress budget office sees economic output falling from Trump tariffs - Reuters",
+      "pubDate": "Wed, 04 Jun 2025 20:20:11 GMT"
     }
   ]
 }
