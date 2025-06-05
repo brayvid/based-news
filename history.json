@@ -647,13 +647,13 @@
     {
       "title": "Trump and Xi Hold Call, China Says - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 13:15:27 GMT"
+    },
+    {
+      "title": "Trump speaks with Xi amid stalled talks between the US and China over tariffs - AP News",
+      "pubDate": "Thu, 05 Jun 2025 13:02:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Germany to purchase Ukrainian missiles, boost Ukrainian military - upi.com",
-      "pubDate": "Wed, 28 May 2025 15:33:33 GMT"
-    },
     {
       "title": "Russia proposes to hold next talks with Ukraine in Istanbul on June 2 - Reuters",
       "pubDate": "Wed, 28 May 2025 16:31:38 GMT"
@@ -665,10 +665,6 @@
     {
       "title": "Germany\u2019s Merz offers to help Ukraine develop its own long-range missiles to hit Russia - AP News",
       "pubDate": "Wed, 28 May 2025 23:03:00 GMT"
-    },
-    {
-      "title": "Fibre optic drones: The terrifying new weapon changing the war in Ukraine - BBC",
-      "pubDate": "Wed, 28 May 2025 16:00:06 GMT"
     },
     {
       "title": "Russia masses over 50,000 troops for offensive on northeastern Ukraine, Zelenskiy says - Reuters",
@@ -1057,6 +1053,10 @@
     {
       "title": "Russian drone strike kills 5 as Moscow pledges response to Ukraine attacks - Al Jazeera",
       "pubDate": "Thu, 05 Jun 2025 11:23:56 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s drone attack on Russian air bases is a lesson for the West on its vulnerabilities - AP News",
+      "pubDate": "Thu, 05 Jun 2025 13:41:00 GMT"
     }
   ],
   "recession": [
@@ -1201,10 +1201,6 @@
     {
       "title": "Russia proposes peace talks with Ukraine next week after Trump threats - Axios",
       "pubDate": "Wed, 28 May 2025 17:08:14 GMT"
-    },
-    {
-      "title": "Germany charges three people with spying for Russia, potentially with intent to kill - The Independent",
-      "pubDate": "Wed, 28 May 2025 15:51:00 GMT"
     },
     {
       "title": "Russia Reports Wave of Drones, Explosions Rock Moscow, Strategic Factory Burns - Kyiv Post",
@@ -1381,6 +1377,10 @@
     {
       "title": "Kim Jong Un promises full support for Russia\u2019s Ukraine war, says North Korea - Euromaidan Press",
       "pubDate": "Thu, 05 Jun 2025 11:35:08 GMT"
+    },
+    {
+      "title": "Russia warns it will respond to Ukraine drone attacks \u2018how and when\u2019 it sees fit - The Guardian",
+      "pubDate": "Thu, 05 Jun 2025 13:44:00 GMT"
     }
   ],
   "israel": [
@@ -1441,24 +1441,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "US senator calls for AI competition in Pentagon contracting - Reuters",
-      "pubDate": "Wed, 28 May 2025 15:07:39 GMT"
-    },
-    {
       "title": "J.D. Vance calls AI \u2018communist.\u2019 Is there partisan bias in new tech tools? - MarketWatch",
       "pubDate": "Wed, 28 May 2025 19:11:00 GMT"
     },
     {
       "title": "Nvidia Gives Upbeat Forecast, Even as China Slowdown Mars Growth - Bloomberg.com",
       "pubDate": "Wed, 28 May 2025 20:25:10 GMT"
-    },
-    {
-      "title": "Q&A: Artificial Intelligence in Education and What Lies Ahead - U.S. News & World Report",
-      "pubDate": "Wed, 28 May 2025 15:44:00 GMT"
-    },
-    {
-      "title": "Beyond Nvidia: 3 AI Stocks Poised To Surge Big Time In 2025 - Barchart.com",
-      "pubDate": "Wed, 28 May 2025 15:08:00 GMT"
     },
     {
       "title": "Singapore's MERaLiON, Southeast Asia's empathetic Large Language Model, Breaks New Ground with Multilingual Processing and Emotional Intelligence - PR Newswire APAC - PR Newswire Asia",
@@ -1975,6 +1963,10 @@
     {
       "title": "AI is already wiping out jobs, intensifying a hiring slowdown - USA Today",
       "pubDate": "Thu, 05 Jun 2025 13:03:49 GMT"
+    },
+    {
+      "title": "Artificial intelligence supports most precise optical measurements - Optics.org",
+      "pubDate": "Thu, 05 Jun 2025 15:23:54 GMT"
     }
   ],
   "financial_markets": [
@@ -2157,6 +2149,10 @@
     {
       "title": "Trump\u2019s tariffs have become his Vietnam \u2013 and the right is breaking ranks - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 12:55:00 GMT"
+    },
+    {
+      "title": "The \u2018Fundamental Mistake\u2019 in Trump\u2019s Trade War With China - Politico",
+      "pubDate": "Thu, 05 Jun 2025 14:00:00 GMT"
     }
   ],
   "china": [
@@ -3131,6 +3127,10 @@
     {
       "title": "ECB Cuts Rates Again, Widening Gap With Federal Reserve - WSJ",
       "pubDate": "Thu, 05 Jun 2025 08:09:00 GMT"
+    },
+    {
+      "title": "Watch US Economy: Jobless Claims Rise, Trade Deficit Narrows - Bloomberg",
+      "pubDate": "Thu, 05 Jun 2025 13:07:02 GMT"
     }
   ],
   "terrorism": [
@@ -3267,6 +3267,10 @@
     {
       "title": "People with cancer face \u2018ticking timebomb\u2019 due to NHS staff shortages - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 23:03:00 GMT"
+    },
+    {
+      "title": "Cancer research faces steep funding cuts under Trump's proposed budget - CBS News",
+      "pubDate": "Thu, 05 Jun 2025 13:24:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3366,10 +3370,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Netanyahu says Hamas leader Mohammed Sinwar has been killed by Israeli forces - NPR",
-      "pubDate": "Wed, 28 May 2025 16:05:26 GMT"
-    },
     {
       "title": "Israel Says It Destroyed Drones With Lasers - WSJ",
       "pubDate": "Wed, 28 May 2025 18:23:00 GMT"
@@ -4437,10 +4437,6 @@
   ],
   "drones": [
     {
-      "title": "In first-ever operational use, Israel reveals it shot down Hezbollah drones with laser air defense system - Ynetnews",
-      "pubDate": "Wed, 28 May 2025 15:23:45 GMT"
-    },
-    {
       "title": "How cheap combat drones are reshaping the Russia-Ukraine war - Phys.org",
       "pubDate": "Fri, 30 May 2025 16:05:47 GMT"
     },
@@ -4510,10 +4506,6 @@
     }
   ],
   "alexandria_ocasio-cortez": [
-    {
-      "title": "AOC is the nightmarish new Donald Trump of the Left - The Telegraph",
-      "pubDate": "Wed, 28 May 2025 15:39:00 GMT"
-    },
     {
       "title": "AOC Viewed Positively by More Americans Than Trump and Harris\u2014Poll - Newsweek",
       "pubDate": "Sat, 31 May 2025 22:31:49 GMT"
