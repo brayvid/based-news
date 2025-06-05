@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's pardons highlight Justice Department's pullback from public corruption cases - NBC News",
-      "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "Elon Musk 'disappointed' by Donald Trump's 'big, beautiful' tax bill - BBC",
       "pubDate": "Wed, 28 May 2025 10:55:57 GMT"
     },
@@ -647,13 +643,13 @@
     {
       "title": "Trump signs proclamation to suspend visas for new Harvard international students - CNN",
       "pubDate": "Thu, 05 Jun 2025 00:20:00 GMT"
+    },
+    {
+      "title": "\u2018We Don\u2019t Want Them\u2019: Trump Signs Travel Ban on Citizens From 12 Countries - The New York Times",
+      "pubDate": "Thu, 05 Jun 2025 03:22:30 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "US and Russia clash in public as the Ukraine war heats up - Reuters",
-      "pubDate": "Wed, 28 May 2025 08:19:05 GMT"
-    },
     {
       "title": "Exclusive: Putin, for Ukraine peace, wants a pledge to halt NATO enlargement, sources say - Reuters",
       "pubDate": "Wed, 28 May 2025 09:11:58 GMT"
@@ -1053,6 +1049,10 @@
     {
       "title": "5 killed, 6 injured in Russian drone strike on Chernihiv Oblast - The Kyiv Independent",
       "pubDate": "Thu, 05 Jun 2025 05:52:05 GMT"
+    },
+    {
+      "title": "Ukraine war live: Putin launches glide bomb strike on key city after revenge warning - The Independent",
+      "pubDate": "Thu, 05 Jun 2025 08:54:58 GMT"
     }
   ],
   "recession": [
@@ -1187,13 +1187,13 @@
     {
       "title": "Nearly 11 million Americans would lose insurance under Trump's tax bill, analysis says - USA Today",
       "pubDate": "Wed, 04 Jun 2025 19:32:07 GMT"
+    },
+    {
+      "title": "US Dollar Index (DXY) remains depressed below 99.00 as recession fears return - FXStreet",
+      "pubDate": "Thu, 05 Jun 2025 08:30:36 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia\u2019s \u2018Silicon Valley\u2019 Targeted in Major Ukrainian Drone Assault - The Moscow Times",
-      "pubDate": "Wed, 28 May 2025 08:16:00 GMT"
-    },
     {
       "title": "Russia proposes peace talks with Ukraine next week after Trump threats - Axios",
       "pubDate": "Wed, 28 May 2025 17:08:14 GMT"
@@ -1428,10 +1428,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Google took 25 years to be ready for this AI moment. Apple is just starting. - Business Insider",
-      "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
-    },
     {
       "title": "AI could spark bloodbath for white collar jobs \u2014 and send unemployment to 20%: Anthropic CEO - New York Post",
       "pubDate": "Wed, 28 May 2025 14:34:00 GMT"
@@ -2149,10 +2145,6 @@
       "pubDate": "Wed, 28 May 2025 16:09:15 GMT"
     },
     {
-      "title": "China launching Tianwen-2 mission today to snag samples of a near-Earth asteroid - Space",
-      "pubDate": "Wed, 28 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "China is now the biggest debt collector in the developing world, report says - NPR",
       "pubDate": "Wed, 28 May 2025 17:23:43 GMT"
     },
@@ -2607,6 +2599,10 @@
     {
       "title": "China\u2019s Global Income Tax Crackdown Expands Beyond Ultra Rich - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 06:09:00 GMT"
+    },
+    {
+      "title": "China increases scrutiny of rare earth magnets with new tracking system - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 04:17:53 GMT"
     }
   ],
   "iran": [
@@ -3331,6 +3327,10 @@
     {
       "title": "North Korea's Kim vows unconditional support for Russia in meeting with Shoigu - Reuters",
       "pubDate": "Thu, 05 Jun 2025 03:25:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un vows to 'unconditionally support' Russia's war against Ukraine - upi.com",
+      "pubDate": "Thu, 05 Jun 2025 04:01:04 GMT"
     }
   ],
   "hamas": [
@@ -3841,6 +3841,10 @@
     {
       "title": "US move won't affect global AI safety institute network, South Korean official says - MLex",
       "pubDate": "Thu, 05 Jun 2025 03:26:00 GMT"
+    },
+    {
+      "title": "Aberdeen\u2019s Fennex secures EnQuest contract for AI safety tool - Energy Voice",
+      "pubDate": "Thu, 05 Jun 2025 06:18:09 GMT"
     }
   ],
   "us_politics": [
@@ -4095,6 +4099,10 @@
     {
       "title": "Fearful House Republicans Scramble to Mollify Musk - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 00:13:31 GMT"
+    },
+    {
+      "title": "House Oversight Committee expands inquiry into Biden's mental condition and final acts in office - The Register Citizen",
+      "pubDate": "Wed, 04 Jun 2025 22:13:21 GMT"
     }
   ],
   "cryptocurrency": [
