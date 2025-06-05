@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump responds to Elon Musk's criticism of deficit increase from GOP agenda bill - NBC News",
-      "pubDate": "Wed, 28 May 2025 17:03:37 GMT"
-    },
-    {
       "title": "Trump slams a new Wall Street acronym referring to his reversals on tariffs - Politico",
       "pubDate": "Wed, 28 May 2025 19:11:54 GMT"
     },
@@ -651,17 +647,13 @@
     {
       "title": "Trump speaks with Xi amid stalled talks between the US and China over tariffs - AP News",
       "pubDate": "Thu, 05 Jun 2025 13:02:00 GMT"
+    },
+    {
+      "title": "Trump says Xi invited him to China during \u2018very good\u2019 phone call \u2013 live - The Guardian",
+      "pubDate": "Thu, 05 Jun 2025 09:29:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia proposes to hold next talks with Ukraine in Istanbul on June 2 - Reuters",
-      "pubDate": "Wed, 28 May 2025 16:31:38 GMT"
-    },
-    {
-      "title": "Russia committed war crimes against civilians in Ukraine\u2019s Kherson region, UN concludes - politico.eu",
-      "pubDate": "Wed, 28 May 2025 16:41:00 GMT"
-    },
     {
       "title": "Germany\u2019s Merz offers to help Ukraine develop its own long-range missiles to hit Russia - AP News",
       "pubDate": "Wed, 28 May 2025 23:03:00 GMT"
@@ -1057,6 +1049,10 @@
     {
       "title": "Ukraine\u2019s drone attack on Russian air bases is a lesson for the West on its vulnerabilities - AP News",
       "pubDate": "Thu, 05 Jun 2025 13:41:00 GMT"
+    },
+    {
+      "title": "How Ukraine pulled off an audacious attack deep inside Russia - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 13:43:54 GMT"
     }
   ],
   "recession": [
@@ -1967,6 +1963,10 @@
     {
       "title": "Artificial intelligence supports most precise optical measurements - Optics.org",
       "pubDate": "Thu, 05 Jun 2025 15:23:54 GMT"
+    },
+    {
+      "title": "Tech job openings vanish as AI, tariffs change hiring landscape - USA Today",
+      "pubDate": "Thu, 05 Jun 2025 13:03:49 GMT"
     }
   ],
   "financial_markets": [
@@ -2153,13 +2153,13 @@
     {
       "title": "The \u2018Fundamental Mistake\u2019 in Trump\u2019s Trade War With China - Politico",
       "pubDate": "Thu, 05 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "title": "US, China to resume trade talks after Trump call with Xi Jinping - KEYE",
+      "pubDate": "Thu, 05 Jun 2025 16:40:50 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's military presence grows on doorstep of new U.S. partner India - Newsweek",
-      "pubDate": "Wed, 28 May 2025 16:09:15 GMT"
-    },
     {
       "title": "China is now the biggest debt collector in the developing world, report says - NPR",
       "pubDate": "Wed, 28 May 2025 17:23:43 GMT"
@@ -2769,20 +2769,12 @@
       "pubDate": "Wed, 28 May 2025 21:04:00 GMT"
     },
     {
-      "title": "Fed President Neel Kashkari Warns US Facing Heightened Recession Risk, Says Consumers and Businesses on Hold Amid Tariff Uncertainty - The Daily Hodl",
-      "pubDate": "Wed, 28 May 2025 16:56:14 GMT"
-    },
-    {
       "title": "Markets dip as Federal Reserve worries economy faces \u2018difficult tradeoffs\u2019 - Fortune",
       "pubDate": "Wed, 28 May 2025 20:05:00 GMT"
     },
     {
       "title": "Fed \u2018Well Positioned\u2019 to Wait on Rate Cuts Even as Economic Risks Rise, Minutes Show - The New York Times",
       "pubDate": "Wed, 28 May 2025 19:07:00 GMT"
-    },
-    {
-      "title": "Fed Disbands Climate Groups Studying Financial Stability Risks - Bloomberg.com",
-      "pubDate": "Wed, 28 May 2025 16:57:16 GMT"
     },
     {
       "title": "US Economy Could Lose $8.5 Billion Amid Decrease in Foreign Tourism - Newsweek",
@@ -3131,6 +3123,10 @@
     {
       "title": "Watch US Economy: Jobless Claims Rise, Trade Deficit Narrows - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 13:07:02 GMT"
+    },
+    {
+      "title": "Trump slams Fed chair Powell after hiring slowdown - Axios",
+      "pubDate": "Thu, 05 Jun 2025 05:40:34 GMT"
     }
   ],
   "terrorism": [
@@ -3565,6 +3561,10 @@
     {
       "title": "Bodies of Israeli-American hostages Judi Lynn Weinstein and Gad Haggai recovered by Israeli forces in Gaza - CBS News",
       "pubDate": "Thu, 05 Jun 2025 09:14:00 GMT"
+    },
+    {
+      "title": "Israel providing guns to Gaza jihadist gang to bolster opposition to Hamas - The Times of Israel",
+      "pubDate": "Thu, 05 Jun 2025 14:34:49 GMT"
     }
   ],
   "climate": [
@@ -4119,6 +4119,10 @@
     {
       "title": "Trump orders inquiry into 'conspiracy' to cover up Biden's declining cognitive health - France 24",
       "pubDate": "Thu, 05 Jun 2025 03:04:08 GMT"
+    },
+    {
+      "title": "Donald Trump orders inquiry into Joe Biden's actions as president, alleging 'cognitive decline' - BBC",
+      "pubDate": "Thu, 05 Jun 2025 05:02:52 GMT"
     }
   ],
   "cryptocurrency": [
