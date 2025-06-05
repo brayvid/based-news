@@ -1,72 +1,52 @@
 {
-  "Ukraine": {
+  "Trade War": {
     "articles": [
       {
-        "title": "Ukraine war live: Putin launches glide bomb strike on key city after revenge warning - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazRxSHcyTXVELS0zQm1jcEdZN2xhcjVHLWNWWGhQdmtSTl9HQ0JObWFnRU1MbExMWTdmdkdJbWZRZGs5MGlNeXJqc1M5SEdmVnFORENJc1FFeVZRR2ZKLWR1eGNvSnpJWFN0aGxneE1WTnYtVkJwMUFqRWczakJBdXIxRFJjZ0FkWnpXMUxINTl4dkRMSy00Sjh5V295UDJjWTI5Wm50bm5Ralc5S3gzNllZYVV1RjUyV2tr?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 08:54:58 GMT"
+        "title": "China's trade war gambit puts Trump on defense - Axios",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdUhwQTlDYWdRaVBmZDU5bGswb1I1TW51bms3ZXBXSTNEYmpQTkp1WWtCVEJhYWQ5WG81RjE1cXhlR2t3UDh4dHZkWkZYdGtaeVdEYjBvdktIY1RKR19iWTRyaGJ3Y3hIVHhxNnBKQWs3RnYteGQxUkt4dkE?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 09:06:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
+    "last_updated_ts": "2025-06-05T10:03:51.224141+00:00"
   },
-  "Recession": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "US Dollar Index (DXY) remains depressed below 99.00 as recession fears return - FXStreet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSkVSeFlQcWNBbDRkWEJiRjRROGZPTlBKelQxcERuM3lxTFh1dy04Mkd0RkI4UVpiZjc0dk9MT2gxRlZsanZoOHpCeGlKRURoeGc3N0tPNUtmMlczdDZ0SGtRNjl5bDBkSzVNX3BiXzNDN3VLSS00SFVOQU9uVVh6OEVCTG11Q0NiSktLV0FjVzVEY25BT1l2clY0NlM3Z19fbjJ4NHBoc0FQanczX2w4V3NUenk5dFhN0gG-AUFVX3lxTE1FdjNycFNEVE5RNW1RT2piMng3QjlZenBjc2EydWZUVDk0Q1M1VlIzZVdrQnAzZUVxNl82T05pYlFkQkQ4SVNaT195WWxNdjZlSHFlLUZMMVIzUXpMZzRyMzJ5NnlsM2JPdkljaGhNZWlEdld0bGJjd2M0a0RtWl9Ud3hadHREZE5KUW5ISmxsdi1lNVZncVFJcloxa3FhWTFFb3F1ZjFJZUVqRHRncHdIa2lkdjV3WlBmN193NUE?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 08:30:36 GMT"
+        "title": "OpenAI takes down covert operations tied to China and other countries - NPR",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdW9yTmU5OHJsZUczMGlheDZwSm1uS3ZUSEU1N29pcnlNNy1VcG43MWN1QkxzUDRBc2djaXZTQ2pLNWNfLV9wdERhWXBsbFJINTJrY1R5cnQ5ek5TUGNxR281dG9TVG5CTGplU3BkTVpDMDJvZXpfb0pxWWxPNF9rQjF5Mk4?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "Aberdeen\u2019s Fennex secures EnQuest contract for AI safety tool - Energy Voice",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3ZYY1Ryd1JIQXlEQ1NtVjJwSGt6T1JXZVRKS0E0eU8wcUtLOXZOZ1ZDaHlTNmU3eWZ6Ujk3UFJ1dlZ2WkVycXNueUpUUjFObnhIWlpoZk5Ob0c1MXViMmNDVE1nSkRQWFJQcDNQNVcwc0tGdE1NbUdMcjFCLTRQWFVnSlA5dkRyWEt1UjdvcF95Wk9jZnVXNzFCX3dJTnZ4OUd3MUl5VFpIWTZ2V092UUt0SHItdGs?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 06:18:09 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China increases scrutiny of rare earth magnets with new tracking system - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXhvUWNLSjhaU3puVXFrRXFGWGJIdklDQ2xuVXpKVEJOQ2VkZ1IwWFZLeldpdFRzN2ZHSjlkUmdiWHA1SG94NTQ4SlpkYW9UMXd6TFRfUmNPTk1BZXlNTmFtUVpkVWNvcFp2eTFUQVpKRGQyZmRXaFMtZEl2XzNHSHZsV05VSVUtRXd6WWNyZlRLUDZ6d2tWYmFBT0UtVE1NQll4b0J0VWxqMEpoNWs1Q3R3QmVkSHYwSXlLS09n?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 04:17:53 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
-  },
-  "North Korea": {
-    "articles": [
-      {
-        "title": "Kim Jong Un vows to 'unconditionally support' Russia's war against Ukraine - upi.com",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVVJKZFlDdVB2QURyUkxMX1JHMEtzaGwwRF81UjJReXhpM2ZQcHFxSktvaE9CNXloM0E4RFJqaEVTS3ZJT3FYczlrYnNqNkpacHVlbzhfMW95MXdPMVBBR05UOFhMdUJXUjZyQVVrbmp2X3NrUFRBVnIwNGZaQnpoTTUzYWRibDZSWEtzUkNVd05KZjNHU252MnNkRWFuYkY0QVhFclFMWk9MM2xZM2FlbmJDaF85Um4xNDRIQWIydHRnMnJCbUg4SjcxbVZYR1pDMTZSQzNCVC1CV2pJ0gHiAUFVX3lxTE5WaTRXcXh1TEZoMzJodzhYc2lQWkMxS2sybGl5ZFB3aW5oNFBUZXdfZENETlRsdE5pendod3JmeWlRakxkbTNYVnJmLXpGMFRDME5WQnQ1b0Y2azVHckJ6V044Nk5tdElEbzhhNTdGQndNamtRd1BualhZZ0x6NDlXbWVWcmJmYjVnQVppbjdBQ1BOVG5wNzg5N3NFd3VHRlZXTzlkY2FYT3ViWEpNU1hDWUJ6alVKZzEwX1d2YzJ5REJGZWFuQVFTS1N4MjVPV1FyaGd2MlBhWmM5Q0hyYzVPMWc?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 04:01:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
+    "last_updated_ts": "2025-06-05T10:03:51.224141+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "\u2018We Don\u2019t Want Them\u2019: Trump Signs Travel Ban on Citizens From 12 Countries - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMHJNdDRFU0JiZ3kwWWNnR3B1SFFoWHlTWnNlb2Y5OXNaaWR5TllkbjNiX0xVSUUyaWt1Wnk0U01OOEc2QjlrWlhvZzc4c2VWY2VRWkpqaEgwS0pWa0F4VkszM1JkXzFPVWVxSzJyQkw2eGlvTEdJ?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 03:22:30 GMT"
+        "title": "Trump aims to build a MAGA judiciary, breaking with traditional conservatives - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHBrUE9nYldEbXpUbTRkSDlpVERwa1VnejVBMUFUMTJ4eFFQVXcyMXdPa2FqSVlyN1Z5aGNodXc5VkRSWWNkUzB0OS1KSWg5ckpNRTRpQm1yV1hzbklWU01VSU5NVUllNFNvdEk0QW1zdGxUeERsbkFhcnVZSTJNVDhnN280NVAtdzU2VWZ5MVg4amlSR0lYcklLX2lrWXlOb3A1RnVBMTRfcHlEcUU2OC1wRUVBSlF2R05VeXRpVENobVhLbmNfcGlSd9IBVkFVX3lxTE5jMHhaTGhxOEk3ZjRsb0MwWnFMTTdKaTRIN21vSThINUZ0WHlBSlNfcy1VTTg0ZnZNZkFaVnZ4ZjJmc2E0SlV1UzZJQ21lRmtabmlWWkJR?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
+    "last_updated_ts": "2025-06-05T10:03:51.224141+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "House Oversight Committee expands inquiry into Biden's mental condition and final acts in office - The Register Citizen",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1V6V3BYQmRqbDFOcHpTeXJweDNrMVdseEtzVmtHUjVjdm90THQ5ZzhrZHVMMjl3X1BNQjQ5RHItYmR1SDNXWnNBVncwbVVScEloRkgtS2FZeGFsUGRlanhUMktUdVJtVXFSRlFsUVBhNElvT05CeWlzaWFkSkxqV1hGREtMQW90S1Rhd0d2RkU0YTBBQ2tnRWdmUkd6Q1RYX1FZSkF4NW4wNEJLUnZmcHVPNA?oc=5",
-        "pubDate": "Wed, 04 Jun 2025 22:13:21 GMT"
+        "title": "Trump orders inquiry into 'conspiracy' to cover up Biden's declining cognitive health - France 24",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RaF91ZDg5Z0RfRXQxUjAta2d1MXRIanJJc1c4bTBkNXYwUGsxWDVidWJJc3lPblZiRDJWZEFILUpDenc1UDZWQU1MLXFKYkczOV9aaUQ5V2IzOE5zbUlrUWphNGQ3SUlPYWtkdHZXRTZjakpmSGw5S1FoN011eFE?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 03:04:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-05T09:03:51.643336+00:00"
+    "last_updated_ts": "2025-06-05T10:03:51.224141+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Wall Street ends narrowly mixed in choppy trade on weak economic data - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWZhMi1ZSFIwdXBLRk1FSkRKdVFxVXktZHRVdzl5Q0I0aE9Yc2Fjb1ZEbWtuQTFzblRrZGhveGc3T2hZUHhGM1U1VFdjd2FRNFFuMGRTRHVLalV5Y1d1OGZTQ21sa3o5V2VPSzJLczNzYkotMzAxbWlvRER0T3ZnNkFUeDJtWlNxRU9yRHBzbXF5Um9aSUE?oc=5",
+        "pubDate": "Wed, 04 Jun 2025 22:51:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-05T10:03:51.224141+00:00"
   }
 }
