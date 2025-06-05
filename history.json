@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump news on Harvard, student visas, GOP policy bill and tariffs | CNN Politics - CNN",
-      "pubDate": "Wed, 28 May 2025 20:21:00 GMT"
-    },
-    {
       "title": "US court blocks Trump's 'Liberation Day' tariffs - Reuters",
       "pubDate": "Wed, 28 May 2025 23:12:43 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump and Musk escalate public feud over agenda bill - CNN",
       "pubDate": "Thu, 05 Jun 2025 17:53:00 GMT"
+    },
+    {
+      "title": "Elon Musk escalates feud with Trump: 'Time to drop the really big bomb' - USA Today",
+      "pubDate": "Thu, 05 Jun 2025 20:01:43 GMT"
     }
   ],
   "ukraine": [
@@ -1433,10 +1433,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Nvidia Gives Upbeat Forecast, Even as China Slowdown Mars Growth - Bloomberg.com",
-      "pubDate": "Wed, 28 May 2025 20:25:10 GMT"
-    },
-    {
       "title": "Singapore's MERaLiON, Southeast Asia's empathetic Large Language Model, Breaks New Ground with Multilingual Processing and Emotional Intelligence - PR Newswire APAC - PR Newswire Asia",
       "pubDate": "Thu, 29 May 2025 00:48:00 GMT"
     },
@@ -1451,10 +1447,6 @@
     {
       "title": "Artificial intelligence used to create lifelike court \u2018reporters\u2019 - NBC News",
       "pubDate": "Wed, 28 May 2025 23:49:14 GMT"
-    },
-    {
-      "title": "Chairmen Guthrie and Hudson Announce Hearing on Artificial Intelligence and Communications Infrastructure - House Committee on Energy and Commerce (.gov)",
-      "pubDate": "Wed, 28 May 2025 20:57:35 GMT"
     },
     {
       "title": "How India-built AI is transforming global road safety - MSN",
@@ -1963,6 +1955,10 @@
     {
       "title": "AI Models Will Sabotage And Blackmail Humans To Survive In New Tests. Should We Be Worried? - HuffPost",
       "pubDate": "Thu, 05 Jun 2025 16:38:20 GMT"
+    },
+    {
+      "title": "Ukraine Just Demonstrated What AGI War Could Look Like - Time Magazine",
+      "pubDate": "Thu, 05 Jun 2025 19:21:52 GMT"
     }
   ],
   "financial_markets": [
@@ -2164,14 +2160,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump administration orders some US companies to halt sales to China - CNN",
-      "pubDate": "Wed, 28 May 2025 21:03:00 GMT"
-    },
-    {
-      "title": "Trump Blocks Chip Design Software Firms From Selling In China - Investor's Business Daily",
-      "pubDate": "Wed, 28 May 2025 20:14:00 GMT"
-    },
     {
       "title": "Nvidia CEO Jensen Huang hammers chip controls that 'effectively closed' China market - CNBC",
       "pubDate": "Wed, 28 May 2025 23:13:03 GMT"
@@ -2635,6 +2623,10 @@
     {
       "title": "Trump and Xi talk on the phone, their first call since the tariff war began - NPR",
       "pubDate": "Thu, 05 Jun 2025 14:06:10 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: Trump and China's Xi Jinping speak at last, agree to more talks - Yahoo Finance",
+      "pubDate": "Thu, 05 Jun 2025 15:38:32 GMT"
     }
   ],
   "iran": [
@@ -2748,10 +2740,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Fed minutes show rising unemployment, stagflationary risks - The Hill",
-      "pubDate": "Wed, 28 May 2025 21:04:00 GMT"
-    },
     {
       "title": "US Economy Could Lose $8.5 Billion Amid Decrease in Foreign Tourism - Newsweek",
       "pubDate": "Wed, 28 May 2025 23:07:15 GMT"
@@ -3103,6 +3091,10 @@
     {
       "title": "Trump slams Fed chair Powell after hiring slowdown - Axios",
       "pubDate": "Thu, 05 Jun 2025 05:40:34 GMT"
+    },
+    {
+      "title": "Businesses Expect to Pass Along 50% of Tariffs, Fed Survey Finds - Bloomberg",
+      "pubDate": "Thu, 05 Jun 2025 19:06:20 GMT"
     }
   ],
   "terrorism": [
@@ -3131,10 +3123,6 @@
     {
       "title": "Australia\u2019s bowel cancer rates are world\u2019s highest for under-50s. Scientists wonder if the gut microbiome is to blame - The Guardian",
       "pubDate": "Thu, 29 May 2025 01:16:00 GMT"
-    },
-    {
-      "title": "Cancer Drugs Cost More Than Ever. They Often Don\u2019t Extend Lives - Bloomberg.com",
-      "pubDate": "Wed, 28 May 2025 21:00:00 GMT"
     },
     {
       "title": "New Treatment for Aggressive Breast Cancer Achieves Astonishing 100% Survival Rate - SciTechDaily",
@@ -3529,6 +3517,10 @@
     {
       "title": "Israel providing guns to Gaza jihadist gang to bolster opposition to Hamas - The Times of Israel",
       "pubDate": "Thu, 05 Jun 2025 14:34:49 GMT"
+    },
+    {
+      "title": "Israel \u2018Activated Clans\u2019 to Fight Hamas in Gaza, Netanyahu Says - The New York Times",
+      "pubDate": "Thu, 05 Jun 2025 20:13:12 GMT"
     }
   ],
   "climate": [
@@ -3647,6 +3639,10 @@
     {
       "title": "NASA scientists describe \u2018absolute sh*tshow\u2019 at agency as Trump budget seeks to dismantle top US climate lab - CNN",
       "pubDate": "Thu, 05 Jun 2025 17:43:00 GMT"
+    },
+    {
+      "title": "Atmospheric CO2 buildup broke another record in May - E&E News by POLITICO",
+      "pubDate": "Thu, 05 Jun 2025 17:33:00 GMT"
     }
   ],
   "ai_safety": [
@@ -4387,12 +4383,12 @@
   ],
   "cybersecurity_and_infrastructure_security_agency": [
     {
-      "title": "Agencies release guidance on AI data security - American Hospital Association",
-      "pubDate": "Wed, 28 May 2025 20:21:44 GMT"
-    },
-    {
       "title": "Trump Budget Plan to Cut Nearly 1000 Jobs at Cyber Agency CISA - Infosecurity Magazine",
       "pubDate": "Tue, 03 Jun 2025 13:45:00 GMT"
+    },
+    {
+      "title": "Agencies issue advisory on updated tactics by Play ransomware group - American Hospital Association",
+      "pubDate": "Thu, 05 Jun 2025 20:08:51 GMT"
     }
   ],
   "drones": [
