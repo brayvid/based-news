@@ -639,10 +639,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine and Russia set for Istanbul talks second round on Monday - Euronews.com",
-      "pubDate": "Thu, 29 May 2025 11:07:54 GMT"
-    },
-    {
       "title": "Russia says no Ukraine response on proposal for more Istanbul talks - Al Jazeera",
       "pubDate": "Thu, 29 May 2025 13:30:00 GMT"
     },
@@ -1448,10 +1444,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Evaluation of a large language model to simplify discharge summaries and provide cardiological lifestyle recommendations - Nature",
-      "pubDate": "Thu, 29 May 2025 11:43:19 GMT"
-    },
     {
       "title": "The CEO of a top AI startup gave a stark warning about the tech's impact on the labor market - Business Insider",
       "pubDate": "Thu, 29 May 2025 12:14:00 GMT"
@@ -4773,6 +4765,48 @@
     {
       "title": "Urgent warning issued for US consumers after security breach of 184,000,000 passwords \u2014 here\u2019s who\u2019s exposed - Yahoo",
       "pubDate": "Thu, 05 Jun 2025 21:01:00 GMT"
+    }
+  ],
+  "\"health_care\"": [
+    {
+      "title": "Why millions of Americans would lose health insurance under House GOP megabill - CNBC",
+      "pubDate": "Fri, 06 Jun 2025 11:32:48 GMT"
+    }
+  ],
+  "\"donald_trump\"": [
+    {
+      "title": "Xi\u2019s Message to Trump: Rein in the Hawks Trying to Derail the Truce - The New York Times",
+      "pubDate": "Fri, 06 Jun 2025 10:32:18 GMT"
+    }
+  ],
+  "\"recession\"": [
+    {
+      "title": "Germany could face two more years of recession if US trade war escalates, warns Bundesbank - The Economic Times",
+      "pubDate": "Fri, 06 Jun 2025 10:21:16 GMT"
+    }
+  ],
+  "\"ukraine\"": [
+    {
+      "title": "Russia launches 'massive' strikes days after Ukrainian drone attack - BBC",
+      "pubDate": "Fri, 06 Jun 2025 10:20:12 GMT"
+    }
+  ],
+  "\"artificial_intelligence\"": [
+    {
+      "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology - Nature",
+      "pubDate": "Fri, 06 Jun 2025 10:08:02 GMT"
+    }
+  ],
+  "\"climate_engineering\"": [
+    {
+      "title": "US Researcher Proposes Detonating Massive Nuclear Bomb Under Ocean To Save Earth - NDTV",
+      "pubDate": "Fri, 06 Jun 2025 05:55:22 GMT"
+    }
+  ],
+  "\"china\"": [
+    {
+      "title": "The world could be facing another \u2018China shock,\u2019 but it comes with a silver-lining - CNBC",
+      "pubDate": "Fri, 06 Jun 2025 05:23:21 GMT"
     }
   ]
 }
