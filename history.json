@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Stocks climb after court blocks some of Trump's tariffs - ABC News",
-      "pubDate": "Thu, 29 May 2025 13:43:29 GMT"
-    },
-    {
       "title": "Trump's tariffs temporarily reinstated as court considers White House appeal - BBC",
       "pubDate": "Thu, 29 May 2025 17:00:06 GMT"
     },
@@ -635,13 +631,13 @@
     {
       "title": "Live updates: Trump is 'not interested' in a make-up call with Elon Musk, White House official says - NBC News",
       "pubDate": "Fri, 06 Jun 2025 11:49:54 GMT"
+    },
+    {
+      "title": "Live updates: Trump calls Elon Musk \u2018the man who has lost his mind\u2019 as feud continues - The Washington Post",
+      "pubDate": "Fri, 06 Jun 2025 13:44:08 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia says no Ukraine response on proposal for more Istanbul talks - Al Jazeera",
-      "pubDate": "Thu, 29 May 2025 13:30:00 GMT"
-    },
     {
       "title": "Russia Accuses Serbia of Backstabbing With Arms Sales to Ukraine - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 19:48:51 GMT"
@@ -1057,6 +1053,10 @@
     {
       "title": "Russia Pummels Kyiv in Apparent Retaliation for Ukrainian Drone Assault - The New York Times",
       "pubDate": "Fri, 06 Jun 2025 10:48:00 GMT"
+    },
+    {
+      "title": "Russia launches massive drone and missile attack on Ukraine, killing 3 in Kyiv - NPR",
+      "pubDate": "Fri, 06 Jun 2025 10:11:25 GMT"
     }
   ],
   "recession": [
@@ -1951,6 +1951,10 @@
     {
       "title": "Lawyers face sanctions for citing fake cases with AI, warns UK judge - Reuters",
       "pubDate": "Fri, 06 Jun 2025 12:24:30 GMT"
+    },
+    {
+      "title": "EU could postpone flagship AI rules, tech chief says - politico.eu",
+      "pubDate": "Fri, 06 Jun 2025 13:35:43 GMT"
     }
   ],
   "financial_markets": [
@@ -2148,10 +2152,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump-Xi Truce Under Fire as China Hawks Target Students, Tech - Bloomberg.com",
-      "pubDate": "Thu, 29 May 2025 13:10:43 GMT"
-    },
     {
       "title": "Despite tariff pause, U.S. and China continue bitter \u2018decoupling\u2019 - The Washington Post",
       "pubDate": "Thu, 29 May 2025 15:39:51 GMT"
@@ -2599,6 +2599,10 @@
     {
       "title": "China demonstrates coast guard capability to Pacific nations, step towards high seas patrols - Reuters",
       "pubDate": "Fri, 06 Jun 2025 09:50:34 GMT"
+    },
+    {
+      "title": "US-China trade call\u2019s impact on firms, Trump-Musk feud: SCMP daily highlights - South China Morning Post",
+      "pubDate": "Fri, 06 Jun 2025 13:15:08 GMT"
     }
   ],
   "iran": [
@@ -2712,26 +2716,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Contracts By 0.2% In Q1, Labor Market Shows Signs Of Cracks As Jobless Claims Surge - Benzinga",
-      "pubDate": "Thu, 29 May 2025 13:35:30 GMT"
-    },
-    {
-      "title": "US Economy Shrinks 0.2% on Weaker Spending, Larger Trade Impact - Bloomberg",
-      "pubDate": "Thu, 29 May 2025 13:10:22 GMT"
-    },
-    {
-      "title": "Video US economy contracts 0.2% amid Trump tariffs - ABC News",
-      "pubDate": "Thu, 29 May 2025 13:37:46 GMT"
-    },
-    {
-      "title": "U.S. GDP Got an Update Thursday. This Is What to Know. - Barron's",
-      "pubDate": "Thu, 29 May 2025 13:54:00 GMT"
-    },
-    {
-      "title": "America\u2019s economy performed slightly better in the first quarter than we thought \u2014 but it still shrank - CNN",
-      "pubDate": "Thu, 29 May 2025 14:04:00 GMT"
-    },
     {
       "title": "US labor market showing cracks; corporate profits post largest drop since 2020 - Reuters",
       "pubDate": "Thu, 29 May 2025 20:52:48 GMT"
@@ -3071,6 +3055,10 @@
     {
       "title": "US employers added a solid 139,000 jobs in May despite uncertainty over trade wars - Times Union",
       "pubDate": "Fri, 06 Jun 2025 07:29:17 GMT"
+    },
+    {
+      "title": "Solid Jobs Report Bolsters Fed\u2019s Patience on Rate Cuts - The New York Times",
+      "pubDate": "Fri, 06 Jun 2025 13:45:39 GMT"
     }
   ],
   "terrorism": [
@@ -3294,10 +3282,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Protests held in Tel Aviv as Israel/Hamas war enters 600th day - CBS News",
-      "pubDate": "Thu, 29 May 2025 13:12:00 GMT"
-    },
     {
       "title": "Israel says de facto leader of Hamas is dead - WSAW",
       "pubDate": "Thu, 29 May 2025 15:29:00 GMT"
@@ -3797,6 +3781,10 @@
     {
       "title": "Securing GenAI at Scale for Observability, Guardrails, and Risk - with Leaders from ActiveFence and Barclays - Emerj Artificial Intelligence Research",
       "pubDate": "Fri, 06 Jun 2025 10:08:23 GMT"
+    },
+    {
+      "title": "Ofcom unveils AI strategy with focus on telecoms and digital safety - Capacity Media",
+      "pubDate": "Fri, 06 Jun 2025 10:22:43 GMT"
     }
   ],
   "us_politics": [
@@ -4075,6 +4063,10 @@
     {
       "title": "What the Trump-Musk breakup may mean for SpaceX and Tesla - NPR",
       "pubDate": "Fri, 06 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump targets disadvantaged business program inspired by Atlanta - AJC.com",
+      "pubDate": "Fri, 06 Jun 2025 08:51:13 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4416,10 +4408,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "Three city-killer asteroids hidden behind Venus could strike Earth with nuclear-level impact, scientists sound alarm - Business Today",
-      "pubDate": "Thu, 29 May 2025 13:47:50 GMT"
-    },
     {
       "title": "Researchers predict 3 city-destroying asteroids could hit Earth with 1,000,000 times more force than Hiroshima bomb - UNILAD",
       "pubDate": "Fri, 30 May 2025 11:14:47 GMT"
