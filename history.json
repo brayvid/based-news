@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "US court blocks Trump's 'Liberation Day' tariffs - Reuters",
-      "pubDate": "Wed, 28 May 2025 23:12:43 GMT"
-    },
-    {
-      "title": "Trump Tariffs Ruled Illegal by Federal Judicial Panel - The New York Times",
-      "pubDate": "Wed, 28 May 2025 23:59:09 GMT"
-    },
-    {
       "title": "Trump Tariffs Blocked by U.S. Court of International Trade - The New York Times",
       "pubDate": "Thu, 29 May 2025 01:52:23 GMT"
     },
@@ -31,10 +23,6 @@
     {
       "title": "Trump issues series of pardons for politicians, a union leader and a rapper - ABC News",
       "pubDate": "Thu, 29 May 2025 06:51:32 GMT"
-    },
-    {
-      "title": "Federal trade court strikes down Trump's reciprocal tariffs - CNBC",
-      "pubDate": "Wed, 28 May 2025 23:52:00 GMT"
     },
     {
       "title": "Trump administration to fight court tariff ruling as aide labels it a \u2018judicial coup\u2019 \u2013 US politics live - The Guardian",
@@ -651,6 +639,10 @@
     {
       "title": "Fury and resignation around the world as Trump's travel ban comes roaring back - NBC News",
       "pubDate": "Thu, 05 Jun 2025 17:18:04 GMT"
+    },
+    {
+      "title": "Live updates: Musk says Trump would have lost the 2024 election without his help - The Washington Post",
+      "pubDate": "Thu, 05 Jun 2025 23:11:39 GMT"
     }
   ],
   "ukraine": [
@@ -1191,6 +1183,10 @@
     {
       "title": "Musk goes scorched earth: Trump will cause recession, implies he should be impeached - Politico",
       "pubDate": "Thu, 05 Jun 2025 22:09:33 GMT"
+    },
+    {
+      "title": "Musk predicts Trump\u2019s tariffs will cause recession amid growing spat with president - The Hill",
+      "pubDate": "Thu, 05 Jun 2025 21:26:00 GMT"
     }
   ],
   "russia": [
@@ -1439,10 +1435,6 @@
     {
       "title": "The OpenAI empire - podcast - The Guardian",
       "pubDate": "Thu, 29 May 2025 02:02:15 GMT"
-    },
-    {
-      "title": "Artificial intelligence used to create lifelike court \u2018reporters\u2019 - NBC News",
-      "pubDate": "Wed, 28 May 2025 23:49:14 GMT"
     },
     {
       "title": "How India-built AI is transforming global road safety - MSN",
@@ -2157,13 +2149,13 @@
     {
       "title": "\u2018We Would Have Had Leverage\u2019: How Trump Botched the Trade War With China - Politico",
       "pubDate": "Thu, 05 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Trump meets with Germany amidst ongoing trade war - fox10tv.com",
+      "pubDate": "Thu, 05 Jun 2025 21:33:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Nvidia CEO Jensen Huang hammers chip controls that 'effectively closed' China market - CNBC",
-      "pubDate": "Wed, 28 May 2025 23:13:03 GMT"
-    },
     {
       "title": "U.S. Pauses Exports of Jet Engine and Chip Technology to China - The New York Times",
       "pubDate": "Thu, 29 May 2025 00:19:55 GMT"
@@ -2627,6 +2619,10 @@
     {
       "title": "Trump and China's Xi break the ice with first phone call since launch of trade war - USA Today",
       "pubDate": "Thu, 05 Jun 2025 19:38:31 GMT"
+    },
+    {
+      "title": "Exclusive | Iran Orders Material From China for Hundreds of Ballistic Missiles - WSJ",
+      "pubDate": "Thu, 05 Jun 2025 23:00:00 GMT"
     }
   ],
   "iran": [
@@ -2740,10 +2736,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Could Lose $8.5 Billion Amid Decrease in Foreign Tourism - Newsweek",
-      "pubDate": "Wed, 28 May 2025 23:07:15 GMT"
-    },
     {
       "title": "Fed minutes send strong message on interest-rate cuts - TheStreet",
       "pubDate": "Thu, 29 May 2025 00:33:00 GMT"
@@ -3103,6 +3095,10 @@
     {
       "title": "The US economy just got a reality check - Yahoo Finance",
       "pubDate": "Thu, 05 Jun 2025 13:36:58 GMT"
+    },
+    {
+      "title": "NY Federal Reserve finds a 'significant share' of companies saying they raised prices on goods not affected by tariffs - Fortune",
+      "pubDate": "Thu, 05 Jun 2025 18:49:00 GMT"
     }
   ],
   "terrorism": [
@@ -3330,10 +3326,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Israel: Hamas leader killed during military operation in Gaza - NBC News",
-      "pubDate": "Wed, 28 May 2025 23:37:27 GMT"
-    },
     {
       "title": "IDF demolishes long Hamas attack tunnel with several booby-trapped exits, kills operatives - The Times of Israel",
       "pubDate": "Thu, 29 May 2025 08:25:46 GMT"
@@ -3651,10 +3643,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Singapore launches global initiatives, collaborations to strengthen AI ecosystem - TNGlobal",
-      "pubDate": "Wed, 28 May 2025 23:18:51 GMT"
-    },
-    {
       "title": "IMDA\u2019s Denise Wong Leads Trusted AI Initiatives - Telecom Review Asia",
       "pubDate": "Thu, 29 May 2025 05:34:36 GMT"
     },
@@ -3841,13 +3829,13 @@
     {
       "title": "Enhance AI security with Azure Prompt Shields and Azure AI Content Safety - Microsoft Azure",
       "pubDate": "Thu, 05 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Trump admin rebrands AI safety institute in latest oversight move - CIO Dive",
+      "pubDate": "Thu, 05 Jun 2025 20:41:24 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump's sweeping global tariffs blocked by federal court - Axios",
-      "pubDate": "Wed, 28 May 2025 23:20:50 GMT"
-    },
     {
       "title": "US trade court rules Trump exceeded his authority with \u2018Liberation Day\u2019 tariffs - The Independent",
       "pubDate": "Thu, 29 May 2025 00:53:00 GMT"
@@ -4103,6 +4091,10 @@
     {
       "title": "Trump and Musk's relationship flames out just as intensely as it started - AP News",
       "pubDate": "Thu, 05 Jun 2025 21:31:00 GMT"
+    },
+    {
+      "title": "Musk-Trump breakup puts billions in SpaceX contracts at risk, jolting US space program - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 21:59:19 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4484,10 +4476,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Scientists scramble to complete elusive limitless energy device using first-of-its-kind technology: 'A race to lead the world' - The Cool Down",
-      "pubDate": "Wed, 28 May 2025 23:15:00 GMT"
-    },
     {
       "title": "Scientists Announce Fusion Research \u201cMilestone\u201d - Thomasnet",
       "pubDate": "Thu, 29 May 2025 20:30:17 GMT"
