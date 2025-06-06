@@ -1045,6 +1045,10 @@
     {
       "title": "Russia-Ukraine war live: Kyiv under drone and missile assault after Russia vowed to retaliate for attack on bombers - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 01:17:36 GMT"
+    },
+    {
+      "title": "Russia launches strikes on Kyiv, Ukraine says - BBC",
+      "pubDate": "Fri, 06 Jun 2025 02:06:02 GMT"
     }
   ],
   "recession": [
@@ -1373,6 +1377,10 @@
     {
       "title": "Russia warns it will respond to Ukraine drone attacks \u2018how and when\u2019 it sees fit - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 13:44:00 GMT"
+    },
+    {
+      "title": "Trump says Putin vowed retaliation for Kyiv strike - The Week",
+      "pubDate": "Thu, 05 Jun 2025 16:52:26 GMT"
     }
   ],
   "israel": [
@@ -1432,14 +1440,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How India-built AI is transforming global road safety - MSN",
-      "pubDate": "Thu, 29 May 2025 03:51:18 GMT"
-    },
-    {
-      "title": "Artificial intelligence could radically reshape entry-level jobs in the near future - KSLTV.com",
-      "pubDate": "Thu, 29 May 2025 03:26:50 GMT"
-    },
     {
       "title": "Why AI Attaining AGI Will Spur A New Universal Natural Language That Reshapes Human Thinking - Forbes",
       "pubDate": "Thu, 29 May 2025 06:47:19 GMT"
@@ -1955,6 +1955,10 @@
     {
       "title": "Top AI talent leaves Google and OpenAI for Anthropic's culture of safety - Chosunbiz",
       "pubDate": "Thu, 05 Jun 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Artificial Intelligence is now an A+ law student, study finds - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 17:49:18 GMT"
     }
   ],
   "financial_markets": [
@@ -2157,16 +2161,8 @@
   ],
   "china": [
     {
-      "title": "China launches landmark mission to retrieve pristine asteroid samples - Al Jazeera",
-      "pubDate": "Thu, 29 May 2025 03:50:26 GMT"
-    },
-    {
       "title": "China Set to Reach Peak Emissions Before 2030, Ex-Official Says - Bloomberg.com",
       "pubDate": "Thu, 29 May 2025 04:23:00 GMT"
-    },
-    {
-      "title": "US curbs chip design software, chemicals, other shipments to China - Reuters",
-      "pubDate": "Thu, 29 May 2025 03:47:00 GMT"
     },
     {
       "title": "China\u2019s EV price war heats up \u2014 What\u2019s behind the big discounts? - CNBC",
@@ -3095,6 +3091,10 @@
     {
       "title": "NY Federal Reserve finds a 'significant share' of companies saying they raised prices on goods not affected by tariffs - Fortune",
       "pubDate": "Thu, 05 Jun 2025 18:49:00 GMT"
+    },
+    {
+      "title": "Elon Musk makes shocking prediction for US economy: 'Donald Trump's tariffs will cause recession in 2025!' - GB News",
+      "pubDate": "Fri, 06 Jun 2025 00:08:50 GMT"
     }
   ],
   "terrorism": [
@@ -3515,10 +3515,6 @@
     {
       "title": "Integrating landsat NDVI data with climate and anthropogenic factors reveals drivers of vegetation dynamics in the semi-arid Basin of Western China - Nature",
       "pubDate": "Thu, 29 May 2025 09:27:14 GMT"
-    },
-    {
-      "title": "Scientists warn swathes of the Earth\u2019s waters are undergoing mysterious 'ocean darkening' - Daily Express",
-      "pubDate": "Thu, 29 May 2025 03:33:00 GMT"
     },
     {
       "title": "More climate tech projects are dying on the vine - Axios",
@@ -4091,6 +4087,10 @@
     {
       "title": "Senate GOP eyes Medicare cuts to pay for Trump bill - The Hill",
       "pubDate": "Thu, 05 Jun 2025 22:35:00 GMT"
+    },
+    {
+      "title": "House passes legislation requiring SBA offices to leave \u2018sanctuary cities\u2019 - Politico",
+      "pubDate": "Thu, 05 Jun 2025 21:22:35 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4725,6 +4725,12 @@
     {
       "title": "US intelligence worker arrested for \u2018trying to leak secrets to Germany\u2019 - The Times",
       "pubDate": "Thu, 05 Jun 2025 21:30:00 GMT"
+    }
+  ],
+  "openai": [
+    {
+      "title": "OpenAI Says Significant Number of Recent ChatGPT Misuses Likely Came From China - WSJ",
+      "pubDate": "Thu, 05 Jun 2025 19:18:00 GMT"
     }
   ]
 }
