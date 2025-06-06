@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration to fight court tariff ruling as aide labels it a \u2018judicial coup\u2019 \u2013 US politics live - The Guardian",
-      "pubDate": "Thu, 29 May 2025 07:16:00 GMT"
-    },
-    {
       "title": "Live updates: Federal court throws up latest roadblock to Trump\u2019s policy agenda - The Washington Post",
       "pubDate": "Thu, 29 May 2025 12:16:07 GMT"
     },
@@ -15,10 +11,6 @@
     {
       "title": "Stocks climb after court blocks some of Trump's tariffs - ABC News",
       "pubDate": "Thu, 29 May 2025 13:43:29 GMT"
-    },
-    {
-      "title": "US Fed chair pushes back against Trump on interest rate cuts, unusually blunt statement says \u2013 US politics live - The Guardian",
-      "pubDate": "Thu, 29 May 2025 07:16:00 GMT"
     },
     {
       "title": "Trump's tariffs temporarily reinstated as court considers White House appeal - BBC",
@@ -1065,6 +1057,10 @@
     {
       "title": "UPDATE: Russia hits Ukraine with large-scale attack days after Operation Spiderweb - The Kyiv Independent",
       "pubDate": "Thu, 05 Jun 2025 23:40:11 GMT"
+    },
+    {
+      "title": "A Russian missile and drone attack across Ukraine kills 4 in the capital - AP News",
+      "pubDate": "Fri, 06 Jun 2025 06:51:00 GMT"
     }
   ],
   "recession": [
@@ -1397,6 +1393,10 @@
     {
       "title": "Trump says Putin vowed retaliation for Kyiv strike - The Week",
       "pubDate": "Thu, 05 Jun 2025 16:52:26 GMT"
+    },
+    {
+      "title": "Russia\u2019s opposition talking with Ukraine behind the scenes, top dissident says - politico.eu",
+      "pubDate": "Fri, 06 Jun 2025 06:37:33 GMT"
     }
   ],
   "israel": [
@@ -2181,14 +2181,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s EV price war heats up \u2014 What\u2019s behind the big discounts? - CNBC",
-      "pubDate": "Thu, 29 May 2025 07:10:26 GMT"
-    },
-    {
-      "title": "China says it is concerned by EU probe into Chinese tyres - Reuters",
-      "pubDate": "Thu, 29 May 2025 07:41:04 GMT"
-    },
-    {
       "title": "China's biotech boom leaves U.S. playing catch-up - Axios",
       "pubDate": "Thu, 29 May 2025 09:30:15 GMT"
     },
@@ -2643,6 +2635,10 @@
     {
       "title": "Trump Says He Discussed Trade, Rare Earths in Call With China\u2019s Xi - WSJ",
       "pubDate": "Thu, 05 Jun 2025 20:50:00 GMT"
+    },
+    {
+      "title": "China's exports likely slowed in May amid trade uncertainties - Reuters poll - Reuters",
+      "pubDate": "Fri, 06 Jun 2025 05:57:00 GMT"
     }
   ],
   "iran": [
@@ -3119,6 +3115,10 @@
     {
       "title": "Is Official US Economic Data Getting Less Reliable? - Investopedia",
       "pubDate": "Thu, 05 Jun 2025 17:31:38 GMT"
+    },
+    {
+      "title": "US hiring likely slowed to 1,30,000 new jobs last month amid uncertainty over Trumps policies - Mint",
+      "pubDate": "Fri, 06 Jun 2025 07:42:36 GMT"
     }
   ],
   "terrorism": [
@@ -3247,6 +3247,10 @@
     {
       "title": "Shari Redstone Confirms Cancer Diagnosis While Facing Trump\u2019s \u201860 Minutes\u2019 Suit - The New York Times",
       "pubDate": "Fri, 06 Jun 2025 00:02:20 GMT"
+    },
+    {
+      "title": "A new blood test can tell if cancer has returned months before a scan - National Geographic",
+      "pubDate": "Thu, 05 Jun 2025 21:15:08 GMT"
     }
   ],
   "democratic_party": [
@@ -4207,6 +4211,10 @@
     {
       "title": "Elon Musk says SpaceX will decommission Dragon spacecraft after Trump threat - CNBC",
       "pubDate": "Thu, 05 Jun 2025 20:16:13 GMT"
+    },
+    {
+      "title": "Musk says SpaceX will retire Dragon spacecraft amid bitter Trump dispute - The Guardian",
+      "pubDate": "Fri, 06 Jun 2025 02:23:00 GMT"
     }
   ],
   "earthquakes": [
