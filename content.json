@@ -1,72 +1,52 @@
 {
-  "Climate": {
-    "articles": [
-      {
-        "title": "Atmospheric carbon dioxide levels break seasonal records: NOAA - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc29CbjdLX2VZLUhLeVhBa1A2NUEtZHZTU3loTWVUVmNMTkNrSE52T0o4dnl4cTdCWGstOWpJTzhKR1FBcnh3Y1ZNdGNYangwakRLanB1NzhEcGY1RWltal93dXp2RnJwLWdiN09VU0w5R1RLRUZPT3pvZEVHSWw0bmZ1RFlJR0FLWU84OGoySW5WeEnSAZgBQVVfeXFMTUF5b19KRUNWSlRmNzFHLXhyM0tiQl9ISFYyV1FQZlBqNTJRSTNiMTljVDd0Q1lfWnZmbDh5dEg4VzlReFdZNFJCMWY2NW9Ga2lRRFU0aEhKb29aNEQ5VjNWOFlaVnpITHRjbHEyam55bF80czY2TDJZOTFaMVQ1cmpYalBKd0R2ZGtlTld6QWVQUDI0OF9NLVA?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 17:35:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "AI Systems Will Do Anything for Self-Preservation, Tests Show - Movieguide",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2lDQmFMSDZCdldjaVIxRUc4c3l5dlZRd1F3b2hvakpldVFFSFpZOTB2OW5mNHlhNDFORW03M3BYZGxaLW4wdXZqR0ItX3hSbUdLWGZfSXRKOFhIWUlmbkp4RlloYnBvTWJOVU9HV1ZOTG9qX2dfX1NWaUt3WHJIT2dQY281SXZIejdhS1laZDBTR09ZSHVqeXotWktGWkdpdUUyeUF6RWdyQQ?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 16:34:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Republicans stick with Trump in wake of explosive clash with Musk - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVJycmpQQXdFbUwyRXRVMzZpTy1CM2lIS2Y5eE9uY0Y2eVZwRDFyZ1BmeERKX1lwYWl2bHpxSmJQUkppOS04RDl3cmF3RlZTVE9Fb1FVbVVHdjdFNE93U3JlYWEyeWNNUEZ2Vkl2Zmc3ODFMZmJJSjFnZFdvQjBSdDhEZW1BY3dtLXJfTVRTaXFzZw?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 16:27:18 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
-  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump is not interested in talking to Musk as they feud over tax-cut bill - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjV4MUZQc3l3MTFHZF94T282Z0I0ZEFIeWdnYzBiUF9JNU1ZZUdGaUlXQWhQWjJkWDc4V3kyaWNsXzNicVRtQUs2RFdtRnMxRklvVU9Xd19hTl8ybVZpNHlNZWJfeS11SGRzRnVpQzVnNFl6TzJscWRNSkhQbUFZOEdqSUV0elFoSzE0d25neW9VSU5xYU9odEJpRkctNTdPaEZhZGNsRHpJWkFSMWZOWg?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 15:52:16 GMT"
+        "title": "Buildup to a Meltdown: How the Trump-Musk Alliance Collapsed - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MTRBNk53V0ZuakQ1RVJQN1l1dEkzYzVBR3NBWW5oUW9fRENoWC1MOWczY1NZLVc2bDNHeVJEck1jclNSQVpSRWZiRnQ1MGFDUEI1TjdGYkhvYmtvQ2hhTG5NSWo2U1c0SzVRNlI0V0RKU0t4UDYwTXBqQ1Z6Zw?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 18:09:30 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
+    "last_updated_ts": "2025-06-06T19:05:22.034426+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia accuses UK of involvement in Ukraine strike amid Putin-Trump talks - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVY4T25vLUtNV05XRmtfV2RUc2p2bHdaYkx5LWdEb0VCMjMwTU9fYTFjT0VUMHVrQ3BYbHVhREJTTHVnZUx3MEF1bEtuWWFDVlNjbFZaU0lBZWc4UVdpTkFFcC1nLVAyZmVqMmdOUllBeXFBa3RuOTl6VkNnZ25MRVozQjZla2hLUng2eHRkNnlFZDZqVnU2alAtbFBNVTJtUU93NVVhdkZXNEh6Y1E?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 18:05:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-06T19:05:22.034426+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "Top Federal Reserve official promises major overhaul of US bank regulation - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbUpZaDlkVUk5X0RfQ1JMVlNSTlFQakVYVGdZM2sxa1E5eTI1T2NUb0hoVUVqcTZFTWNrc09GT3BGNm1EdVhVTzJ0VEJnbW5WOWJpRUFTUzFEclBuM3hPWWxWTEtwcVFYeUlrNUhYdWI?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 17:07:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-06T19:05:22.034426+00:00"
+  },
+  "Hamas": {
+    "articles": [
+      {
+        "title": "LIVE: Israel hits Gaza with wave of attacks on first day of Eid, killing 42 - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYV9qUzdjYUViTHpoQk9yR1pXUlRXSVlmcVQwZ3hlY1I5U1BISHZ6UDBSRzlYOXNwdW1SbkJSck1kZTRlSkRhVE5XWEtaek1ZVTFuNlFyLTRrMW56Nmh3b2huR1lyZ3NDWmFmb2NFMkRmY0xWSEg1M19nYzRReHgxZHZlM2YxdzllY0gtV1Z2ZFJmV2hvZFZxZ3lmdk96aDU4SVFKVnlfczlzU2g0cDZHNDdsS1dmdDdhakdJ0gHAAUFVX3lxTE5DSGVKakkwWDI1aHhaNjcwLWo4Ym5FUUtPWnVMRklxUXJHaGRNQjRwUTdOeE1QdFEwZGtoOVg5NVBzSmcwV2FfLXJSbThaVkktSzZjVkNzSVdYa2J4aXk2T1h5Q0JEY3V0cmczbmE0OFdJMUdLRlJHbTdvdkdxblA5MDVxc2M0RWdqbFM2eC1CZjU1SXUzQnFXMmI0M211NUppVU1helZUTm80a1hEc3RWREhZS1VINV83R3loMXJ3Zg?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 14:26:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-06T19:05:22.034426+00:00"
   },
   "US Economy": {
     "articles": [
       {
-        "title": "Job growth continued to slow in May amid economic uncertainty - Fox Business",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZW9pVldMQjF2YlYxLTR1Z3JZSVpVeWFBbi1JZkxjUkpVVlhzZ0EzS0ZkTk5SRTllbU1tMFMxWjhVek45WXdtTkpwSERtSEw3ZUZoRjBDMkVTTnJqQlJxRWJ4RVdiQURYay130gFwQVVfeXFMTmlCVWlLa1JON3kyMjdhTDZsU2NPTndYcmZaSWthT2Rvb3lzNWdyRnlabTNYaVVXMS1ibEVONlUwMG1laFN1VEROanByNFUyV0VpTnlLT20xa254RDFwQ1k4U3RfYmZubmhqTzVJNFo0Zw?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 12:32:00 GMT"
+        "title": "U.S. added 139,000 jobs in May as the labor market steadily cools - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEdod01QSjZmNy1raTlpX3JkTEtMblJrZVQ0ZjI2OW5jYVFpaERKVGFKeGd5bi1RX2cwYy1tU3l3ODFESTRtZ3RZYUVaLWhyMjVVckpEZVIyLXdXNDRTd2xvaHR4OEJzRDlORV9jLVhDMDBsdWM5S3duekV5al90WUx2VlppTkZ5X1JIYW8yVWlwSDZfZWdxUlJnT0d4WVBIaDRoS1VMU09oUm9tbTdEU2tBaGV3QdIBVkFVX3lxTFAwNW5aZnplRWRwZWJIVjl3VnRkdkRyYThrVG1mdVJ5VHotZmRJa3RWUlNlbC1SX1RIOEtORG1rdzdmcmhzM2Jnb080bVBQLUZPZFpKTzBR?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 13:38:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia launches huge attack on Ukraine days after \u2018Spider Web\u2019 drone raid - politico.eu",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUY0YlhULXVkQUpSUXdueFF6Q2lPakJPNW9jcXhLUkpuRlJod3N0d3ZOMV9jckZLVS1FbDJncEJMMGFUdG5qZkF5aDFnTjJhWDM5MXJXQ2VBUld5Zkh4YW4tdkZfWXNIbElkMHo0cDNRbWlvMkExWFhmeV9JTjhHME1jTEY2TmFPd1ZfcmVJVXk1Z0N1aENaVEh0TVZMTTUwb3cwaXBzRjYxemliRU5WejA4UEMwdWJ1MWJtWmktQ0JvZw?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 10:56:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
-  },
-  "Iran": {
-    "articles": [
-      {
-        "title": "Iran orders materials from China that can make some 800 ballistic missiles \u2013 report - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUpuYURmVlhwRmtEQnZ2bGplN09xODQ1cEVPN1Q0Si1XaEt4XzllMnRIS1dIc0prdVJyWVZlSmEtdlg1U1p1M1F4a1AwS0dWT2dhX0dmWUphcWlhMWkwbmhLRG4wTWp2LXA1SFhSZzBjcndpWGE5UkJPNV9ZSURaRGRubVg5bnpRenY3eVBtRzlTdGZJX0ZWanNKZHE4bjF0Rnp3dk02NnpBVVhMNENCUNIBtgFBVV95cUxQaE1qTVhFTWZkeVNSUGNIazJodEZZLXFtVlozblo4Ny1ubzJIM0hVYzVxZU1KS2pBTzhwVGxpeFJHZF8tNVBZUFp6QVU0dEZoT2pMMUtibUNKbUd4T3NCRmhpSjZpa21JT3JjOW82dzBITW9ZLXpXbjRCVzJYSnBmaFNFcmJPWFZES2c1bE1hZmdOLTVPRWE2aUkyVU9FNDFmbk5ReUpxZGtIa3R2SHV5SmdpOFZqdw?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 06:38:40 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T18:05:26.886367+00:00"
+    "last_updated_ts": "2025-06-06T19:05:22.034426+00:00"
   }
 }
