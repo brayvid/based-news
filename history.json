@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Tariffs Blocked by U.S. Court of International Trade - The New York Times",
-      "pubDate": "Thu, 29 May 2025 01:52:23 GMT"
-    },
-    {
-      "title": "Live updates: Court of International Trade rules several of Trump's tariffs are contrary to law - NBC News",
-      "pubDate": "Thu, 29 May 2025 01:10:00 GMT"
-    },
-    {
       "title": "Trump appeals court\u2019s tariff block as US cracks down on Chinese student visas - CNN",
       "pubDate": "Thu, 29 May 2025 03:04:00 GMT"
     },
@@ -647,13 +639,13 @@
     {
       "title": "Trump and Musk\u2019s Unlikely Alliance Breaks Down in Rapid and Public Fashion - The New York Times",
       "pubDate": "Fri, 06 Jun 2025 00:20:30 GMT"
+    },
+    {
+      "title": "Live updates: Trump and Musk trade insults in escalating public feud - NBC News",
+      "pubDate": "Fri, 06 Jun 2025 01:32:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia masses over 50,000 troops for offensive on northeastern Ukraine, Zelenskiy says - Reuters",
-      "pubDate": "Thu, 29 May 2025 01:27:00 GMT"
-    },
     {
       "title": "Ukraine submits ceasefire plan, but Russia responds with escalation - Al Jazeera",
       "pubDate": "Thu, 29 May 2025 08:53:27 GMT"
@@ -1053,6 +1045,10 @@
     {
       "title": "Russia launches aerial assault on Kyiv days after Ukraine\u2019s audacious drone attack on bomber fleet - CNN",
       "pubDate": "Fri, 06 Jun 2025 00:04:00 GMT"
+    },
+    {
+      "title": "Ukraine under ongoing Russian missile and drone attack that has wounded at least 3 - AP News",
+      "pubDate": "Fri, 06 Jun 2025 00:44:00 GMT"
     }
   ],
   "recession": [
@@ -1195,6 +1191,10 @@
     {
       "title": "Musk predicts Trump\u2019s tariffs will cause recession amid growing spat with president - The Hill",
       "pubDate": "Thu, 05 Jun 2025 21:26:00 GMT"
+    },
+    {
+      "title": "Audit partner pessimism surges amid risk of recession: CAQ survey - CFO Dive",
+      "pubDate": "Thu, 05 Jun 2025 21:01:34 GMT"
     }
   ],
   "russia": [
@@ -1436,10 +1436,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The OpenAI empire - podcast - The Guardian",
-      "pubDate": "Thu, 29 May 2025 02:02:15 GMT"
-    },
     {
       "title": "How India-built AI is transforming global road safety - MSN",
       "pubDate": "Thu, 29 May 2025 03:51:18 GMT"
@@ -1955,6 +1951,10 @@
     {
       "title": "Thune on AI moratorium: \u2018We\u2019ll see\u2019 if it survives Byrd rule - Politico",
       "pubDate": "Thu, 05 Jun 2025 15:44:29 GMT"
+    },
+    {
+      "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
+      "pubDate": "Fri, 06 Jun 2025 00:11:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2619,6 +2619,10 @@
     {
       "title": "China and U.S. will hold more tariff talks, Trump says after Xi call - PBS",
       "pubDate": "Thu, 05 Jun 2025 15:07:04 GMT"
+    },
+    {
+      "title": "Donald Trump confirms China trip after 'very good' call with Xi Jinping - BBC",
+      "pubDate": "Thu, 05 Jun 2025 17:32:17 GMT"
     }
   ],
   "iran": [
@@ -3112,10 +3116,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Australia\u2019s bowel cancer rates are world\u2019s highest for under-50s. Scientists wonder if the gut microbiome is to blame - The Guardian",
-      "pubDate": "Thu, 29 May 2025 01:16:00 GMT"
-    },
     {
       "title": "New Treatment for Aggressive Breast Cancer Achieves Astonishing 100% Survival Rate - SciTechDaily",
       "pubDate": "Thu, 29 May 2025 08:24:12 GMT"
@@ -4473,12 +4473,6 @@
       "pubDate": "Wed, 04 Jun 2025 20:02:31 GMT"
     }
   ],
-  "nvidia": [
-    {
-      "title": "Nvidia posts mixed Q1, predicts $8B hit with US chip curbs - Cointelegraph",
-      "pubDate": "Thu, 29 May 2025 01:57:26 GMT"
-    }
-  ],
   "fusion_power": [
     {
       "title": "Scientists Announce Fusion Research \u201cMilestone\u201d - Thomasnet",
@@ -4511,6 +4505,10 @@
     {
       "title": "Russia FM Lavrov\u2019s BRICS power play: Donald Trump faces new global challenge - Hindustan Times",
       "pubDate": "Thu, 29 May 2025 16:19:33 GMT"
+    },
+    {
+      "title": "Russia aims to ride the BRICS to AI victory - Defense One",
+      "pubDate": "Thu, 05 Jun 2025 18:57:14 GMT"
     }
   ],
   "environment": [
@@ -4713,6 +4711,12 @@
     {
       "title": "China offers cash rewards for hackers it says are Taiwanese military - Reuters",
       "pubDate": "Thu, 05 Jun 2025 11:28:52 GMT"
+    }
+  ],
+  "defense_intelligence_agency": [
+    {
+      "title": "US intelligence worker arrested for \u2018trying to leak secrets to Germany\u2019 - The Times",
+      "pubDate": "Thu, 05 Jun 2025 21:30:00 GMT"
     }
   ]
 }
