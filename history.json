@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "US trade court blocks Donald Trump tariffs, saying they exceeded any authority - BBC",
-      "pubDate": "Thu, 29 May 2025 05:15:00 GMT"
-    },
-    {
       "title": "Trump issues series of pardons for politicians, a union leader and a rapper - ABC News",
       "pubDate": "Thu, 29 May 2025 06:51:32 GMT"
     },
@@ -639,6 +635,10 @@
     {
       "title": "Trump and Musk break up, and Washington holds its breath - AP News",
       "pubDate": "Fri, 06 Jun 2025 04:02:00 GMT"
+    },
+    {
+      "title": "Musk-Trump fight: The tech billionaire and the president trade barbs - BBC",
+      "pubDate": "Fri, 06 Jun 2025 04:49:28 GMT"
     }
   ],
   "ukraine": [
@@ -1057,6 +1057,10 @@
     {
       "title": "Russian drones and missiles mount heavy barrage on Ukraine's capital - Reuters",
       "pubDate": "Fri, 06 Jun 2025 03:28:00 GMT"
+    },
+    {
+      "title": "Intense Russian air attack on Ukraine's capital kills four - Reuters",
+      "pubDate": "Fri, 06 Jun 2025 05:31:02 GMT"
     }
   ],
   "recession": [
@@ -1971,6 +1975,10 @@
     {
       "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN - Al Jazeera",
       "pubDate": "Fri, 06 Jun 2025 04:41:15 GMT"
+    },
+    {
+      "title": "New research busts 6 AI myths: Artificial intelligence makes workers 'more valuable, not less' - CNBC",
+      "pubDate": "Fri, 06 Jun 2025 05:36:38 GMT"
     }
   ],
   "financial_markets": [
@@ -2024,10 +2032,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Philippines says China has no right to object or interfere with its 'lawful' activities in South China Sea - Reuters",
-      "pubDate": "Thu, 29 May 2025 05:28:00 GMT"
-    },
     {
       "title": "US-China trade talks threatened by new visa restrictions for students - Scripps News",
       "pubDate": "Fri, 30 May 2025 13:30:23 GMT"
@@ -2627,6 +2631,10 @@
     {
       "title": "Donald Trump confirms China trip after 'very good' call with Xi Jinping - BBC",
       "pubDate": "Thu, 05 Jun 2025 17:32:17 GMT"
+    },
+    {
+      "title": "Trump says he will travel to China - NBC News",
+      "pubDate": "Thu, 05 Jun 2025 19:53:21 GMT"
     }
   ],
   "iran": [
@@ -3525,6 +3533,10 @@
     {
       "title": "Israel \u2018Activated Clans\u2019 to Fight Hamas in Gaza, Netanyahu Says - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 20:13:12 GMT"
+    },
+    {
+      "title": "Hamas chief says group did not reject US ceasefire proposal for Gaza, sought changes - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 19:19:13 GMT"
     }
   ],
   "climate": [
@@ -3646,10 +3658,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "IMDA\u2019s Denise Wong Leads Trusted AI Initiatives - Telecom Review Asia",
-      "pubDate": "Thu, 29 May 2025 05:34:36 GMT"
-    },
     {
       "title": "AI safety technology solutions for mining - Engineer Live",
       "pubDate": "Thu, 29 May 2025 15:27:51 GMT"
@@ -4155,6 +4163,10 @@
     {
       "title": "Why Trump\u2019s push for \u2018gold-standard science\u2019 has researchers alarmed - The Washington Post",
       "pubDate": "Sat, 31 May 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Scientists find the most intense explosion ever seen in the universe - The Independent",
+      "pubDate": "Thu, 05 Jun 2025 20:00:00 GMT"
     }
   ],
   "renewable_energy": [
