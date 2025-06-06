@@ -1,62 +1,72 @@
 {
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXp2bHh5YTFIUnNIZy1HanBiMXdiWXZnTThCMHFYdXp5YnZtS09DUmJDbzB1TUNRX2JZdGtqTFZzM1NhWG5BZzZOV1BzMzIyT0pkT1Y5UE5meElZdzJ0RkZvaG4xZnR0Z2JndUxiWU5DeW9KUHZFSjB2YzM4aXhPQmxDdEZaQkFBbm83dG9id2sxd21EUE5DdlhxNkVEOEd2TXNyMG9PeEYzSDFVdFBz0gG0AUFVX3lxTE5mbUtGLTdyTlhQTWRPRDJDSi0yRWhqUU1RdXdrUmRwd1FCS25Mb3NHUHp6UGN3NFRmZ2p3bXhwR2JwVXVDaV9MTzR4UjJ4SmZmYVNsVnBYWVMwRTlUR0g1TGt3c1paeVktdDB4dmFkYUl6NlE4SEZMdFhEd2FIM1dCT2R6d0p3LXdmNmZ1ZFdoaUV2VzJaemZheDRjYlM3bS1fQ1dlSkdGYnVlUWcwUHQ1NmJSZw?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 04:41:15 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump and Musk break up, and Washington holds its breath - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJZZWJ3dnhoelBDclR6T184Vnlpc3czLXBGM0tUcFFCYlZETlFEWHVYOTA0NEtua0xTSUdTbHdTb25CbEhobkdpUWt5WFAtWTdfaXNjSndPeXREZVlBMHdFZGFVSHI4akNYZ1VOY1lrZlZtSk51LXRObmo4TC05dmthT0FqbERSOUE?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 04:02:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia launches strikes on Kyiv, Ukraine says - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XUno3YXQ4eWhvRTBzR1plcHJDb210UXBKM0tyUWdZNWRZSHozc1pfNERkWXlhRDZyRnYxNnowWkl3SkJiNE9MUE9fdFlSbTVsNTlGcA?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 02:06:02 GMT"
+        "title": "Russian drones and missiles mount heavy barrage on Ukraine's capital - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzJWaExwVU02RG1WOFFySDlTOG4wVS00WGtodDFNWURHakJOeVBrYUVXcGM2SHIzMHo2WDdjWE01aG8xQ0w0cVZpLV9aOTdJaHNWUVZXRHhIYVhQOWw3TmRpME95SlZuZFhWblFISlpsMHR6UnViYjZTbWJreC1NWVd5eGwweHRFd2hDWTZPa1EwYlRaTVYzcFpVQUpMMFdySmxNbzF4YWp5V29j?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 03:28:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Elon Musk makes shocking prediction for US economy: 'Donald Trump's tariffs will cause recession in 2025!' - GB News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mamdRMTd6V1BheXZyMnVaeXlqV0tvT0xzTW9nRzlZMTU3eVBqcTRvNGhJMzN6b3RBRjZBOExaS2RTbS1qV2pLdUtmWUZRNjR0NUdxY1ZfdHBrVk9VRzJPbmdxdDlLeW12Uy1FN1pmaw?oc=5",
-        "pubDate": "Fri, 06 Jun 2025 00:08:50 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "House passes legislation requiring SBA offices to leave \u2018sanctuary cities\u2019 - Politico",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGo0QjRoSXhja2V6V1pBdTV6MGktSzRHZ1JNQUN2MVFIT2F1bEQ4NU4xaXp0NWU3VTlHRlZtTnpXUS1jVExSYmpycjZwaWlzdF9kZU1GLTZ3NktyZUtULTgtZ0tvcUFEeXFiQnYzTjN1VnVwejdkR0Q2S0tkTUdZMkdBdDdHWnhKcWt6NzRsZ0dpNWN6RnB0SGotWFhrbFhVcEs2THVpZFc1bGRLMFBwREtEWmlqRlRqaFZ6YzdWbUNrVUQ4WkdyWnYtQkw?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 21:22:35 GMT"
+        "title": "Musk says Trump is \u2018in the Epstein files\u2019 in latest dig - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTRGUzhXQTVKeFhvM2RITVcxUDh6RzdQSHBLQ3RsWGFCNmxiZEE0cE8xeWg5THlVcVhrenUtRDZpODVucjBfemJDSUcxVTlyNHMyYkNXNWpPODZGQWJBVUkxMmY2aDY0LTJjbHVObDhQZVowMWRwUzhiQUJPeWVLMzd3Sm1JXzNyd1lWdHprWWJYUTF5eURBb1dld1FnR2xJc3k0UWR5WGw?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 23:27:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
   },
-  "OpenAI": {
+  "Iran": {
     "articles": [
       {
-        "title": "OpenAI Says Significant Number of Recent ChatGPT Misuses Likely Came From China - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQSGY5V2lMUUVWNlBnakdwWFhxeklDdmg1M2ZwREY4anJYSzk4dDBzM2x0d0sxZ2o0MjhpZFUwZWFMNG9PUGRWdHd1NnB5aTVqYUF2bGE4X1VEckQyaFBrclJ5RWN5REotTHU3QkJwSTYwRFp3S0hLR1BJb2gzTHo5ck4wSGRzR2w3SlNDRE1JMlVTdS1PRHlLRkk5S0pLV0FZM29HU2VqU3NNVmV1T3RfRnJJU0lfUWc4MHcweXBvenZoTWtKQ2R3amVhbmJ0VnlaU3lVOUlQTE1jNTJGcFZzcEIxNVFaNXMxQkEwSHczVDYwb1hsVWp2MFFOckVmSHRib2QxVVBxZFNZQjFQUDFFcTI4N1RjRUZiYU4tV3JsY3dBQkRwcUl1dFJKWllwNnhCQzc1X3pkRmNtenc0NHNaM2RPTDE4X0lQZHN2Um4tUGk1dTZGNldFTXdqZ2FpeEZ0S0EtOUJxOXVSM1d4QXhCRzdveGhBRUJ4WjVFaXFha210U2s3VTNCMTIxRDJtaTExS2JYNTRjaUJHeVI2S1lBNEFzVGZ5ZmM1Qm5JX05YNFJFUEhHLWZYRktWSFU?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 19:18:00 GMT"
+        "title": "Israel assured U.S. it won't strike Iran unless talks fail - Axios",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FTzg4UmNYN2R6eFhSVzB1UVd2anNIWU95VWU2cjVVX1FPS3FxMzZZREdFNmxsZnNzMUVsdkJMREdnbGJpZmh3N2RibTg5REhGZlRNZENGdUJucjZnSWUwY3JoOWlrTnhhMDI2VmM0WkxVdmc4Z1JN?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 20:44:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
   },
-  "Artificial Intelligence": {
+  "Taxes": {
     "articles": [
       {
-        "title": "Artificial Intelligence is now an A+ law student, study finds - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSThld2FkSjhTQk9JVjlOcHVKQWotYkY3NjN1bGN5cjlsYVpOcnZKZWZ3bUIteUNuWmNweUg1N1JDS1BDdF9LRDRDV1RzUFhabGhKNlBRZUhmUUxEcld2NGRZUXdGTnV2TEpvRWdmNjdURWFUWG1KRXFmOGo3Yi1NS1p4eW03WVV3UHBnd0VUR2h6eEVYaGg0R0Q3TTZYakc0eVZFS01yLUc3SnZtVy05N1hXNA?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 17:49:18 GMT"
+        "title": "Here are taxes that Trump's 'big, beautiful bill' would repeal - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdC1VZXpQQmpmcmJKMkkxUWdNbXpNcFVTbTBXYUhNeWlqYlBPR0IyVmc2emltTlNXNFNLcVBxV2s5QVFUNW9yNUdWUnluY2xfRjhQelh2Z2NHN1JEdnJHR1o0ZmQ5YXFxZTBtUDFsejlCWDBiazdBUEs2R1BzakczMlJMSXdUaHJuYS1uR202SmVpSkXSAZgBQVVfeXFMTVNGSlhReDZxYXhtSnd6V0cyX3IxRThkWTZhXzlFODFxQ1VuVy0yZ00yRTNwMG91OWFTVmExbzVTSl96YmpyekY4VnNtdVFpSnhKWHp0eXpUZ3RuTTlCZkV0djN3amVCc2NPR0VkV2ZHX3NHNkdsWFdfa2RyRHAzNm5qUGlNVUJIc1B2aVBTZ3RwMW1EM0NTZjQ?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 18:22:30 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
   },
-  "Russia": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Trump says Putin vowed retaliation for Kyiv strike - The Week",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFQ0eElIZV9Yam1fZXBDWkdSQUNFVEJDX0FXckNyakhTb3FXRW40Y19kTFF3QXVMeEVERjVKTkhXQmhWMVJoTk1ReXlvNmxtbnRaNTBhVFZ5bnR5eXBFY0M5SmIxUFdKcHc2MnByMi1zYlVNcllaM3djQm5icWhJRHZZT0NPT1VKa0E?oc=5",
-        "pubDate": "Thu, 05 Jun 2025 16:52:26 GMT"
+        "title": "Is Official US Economic Data Getting Less Reliable? - Investopedia",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc05Xc3VxSzBTWjJXRkRHekJKTi13U1FidE5TdUlkOFVmYnZmYlNOODRpWm00MGZYOV9BMVQyUFZURExhT0VRTmZvaV9jRDB4QlFzRUpsVmhNTEttVDVvb185NV9tNkNnQTVTdzlDV2ZpTlpsSUhzbnJyX01ucUQzUmVTMjJmUmVGYV9vQ0tn?oc=5",
+        "pubDate": "Thu, 05 Jun 2025 17:31:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-06T04:04:20.414050+00:00"
+    "last_updated_ts": "2025-06-06T05:03:56.721178+00:00"
   }
 }
