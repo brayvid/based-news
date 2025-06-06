@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump appeals court\u2019s tariff block as US cracks down on Chinese student visas - CNN",
-      "pubDate": "Thu, 29 May 2025 03:04:00 GMT"
-    },
-    {
-      "title": "US trade court blocks Trump's sweeping tariffs in blow to his trade policies - BBC",
-      "pubDate": "Thu, 29 May 2025 02:05:54 GMT"
-    },
-    {
       "title": "US trade court blocks Donald Trump tariffs, saying they exceeded any authority - BBC",
       "pubDate": "Thu, 29 May 2025 05:15:00 GMT"
     },
@@ -19,10 +11,6 @@
     {
       "title": "Trump administration to fight court tariff ruling as aide labels it a \u2018judicial coup\u2019 \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 29 May 2025 07:16:00 GMT"
-    },
-    {
-      "title": "Shock court ruling on Trump tariffs throws business and trade partners into uncertainty - BBC",
-      "pubDate": "Thu, 29 May 2025 02:22:21 GMT"
     },
     {
       "title": "Live updates: Federal court throws up latest roadblock to Trump\u2019s policy agenda - The Washington Post",
@@ -643,6 +631,10 @@
     {
       "title": "Live updates: Trump and Musk trade insults in escalating public feud - NBC News",
       "pubDate": "Fri, 06 Jun 2025 01:32:00 GMT"
+    },
+    {
+      "title": "Trump Musk feud explodes with claim president is in Epstein files - ABC News",
+      "pubDate": "Thu, 05 Jun 2025 20:37:30 GMT"
     }
   ],
   "ukraine": [
@@ -1049,6 +1041,10 @@
     {
       "title": "Ukraine under ongoing Russian missile and drone attack that has wounded at least 3 - AP News",
       "pubDate": "Fri, 06 Jun 2025 00:44:00 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war live: Kyiv under drone and missile assault after Russia vowed to retaliate for attack on bombers - The Guardian",
+      "pubDate": "Fri, 06 Jun 2025 01:17:36 GMT"
     }
   ],
   "recession": [
@@ -1955,6 +1951,10 @@
     {
       "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
       "pubDate": "Fri, 06 Jun 2025 00:11:00 GMT"
+    },
+    {
+      "title": "Top AI talent leaves Google and OpenAI for Anthropic's culture of safety - Chosunbiz",
+      "pubDate": "Thu, 05 Jun 2025 21:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -3219,6 +3219,10 @@
     {
       "title": "Cancer research faces steep funding cuts under Trump's proposed budget - CBS News",
       "pubDate": "Thu, 05 Jun 2025 13:24:00 GMT"
+    },
+    {
+      "title": "Shari Redstone Confirms Cancer Diagnosis While Facing Trump\u2019s \u201860 Minutes\u2019 Suit - The New York Times",
+      "pubDate": "Fri, 06 Jun 2025 00:02:20 GMT"
     }
   ],
   "democratic_party": [
@@ -3256,10 +3260,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "The Risky \u2018Side Launch\u2019 That Doomed Kim Jong Un\u2019s New Warship - WSJ",
-      "pubDate": "Thu, 29 May 2025 03:00:40 GMT"
-    },
     {
       "title": "US and allies accuse North Korea and Russia of flagrantly violating UN sanctions in military deals - AP News",
       "pubDate": "Fri, 30 May 2025 00:03:00 GMT"
@@ -3512,10 +3512,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "Court throws out Peruvian farmer\u2019s climate lawsuit against energy giant - The Washington Post",
-      "pubDate": "Thu, 29 May 2025 02:20:36 GMT"
-    },
     {
       "title": "Integrating landsat NDVI data with climate and anthropogenic factors reveals drivers of vegetation dynamics in the semi-arid Basin of Western China - Nature",
       "pubDate": "Thu, 29 May 2025 09:27:14 GMT"
@@ -4121,6 +4117,10 @@
     {
       "title": "SEC Reportedly Has Qualms About Two Firms\u2019 Crypto ETF Plans - PYMNTS.com",
       "pubDate": "Sun, 01 Jun 2025 20:01:34 GMT"
+    },
+    {
+      "title": "Circle Is America\u2019s First Publicly Traded Stablecoin Issuer. Now What? - PYMNTS.com",
+      "pubDate": "Thu, 05 Jun 2025 23:21:28 GMT"
     }
   ],
   "science": [
@@ -4509,6 +4509,10 @@
     {
       "title": "Russia aims to ride the BRICS to AI victory - Defense One",
       "pubDate": "Thu, 05 Jun 2025 18:57:14 GMT"
+    },
+    {
+      "title": "BRICS Nations Accelerate Shift Away From U.S. Dollar in Global Trade - AgWeb",
+      "pubDate": "Thu, 05 Jun 2025 20:17:00 GMT"
     }
   ],
   "environment": [
@@ -4551,6 +4555,10 @@
     {
       "title": "A leaderless NASA faces its biggest-ever cuts - The Economist",
       "pubDate": "Wed, 04 Jun 2025 16:32:32 GMT"
+    },
+    {
+      "title": "Senate Republicans Seek to Protect NASA Programs Targeted for Cuts - WSJ",
+      "pubDate": "Thu, 05 Jun 2025 23:20:00 GMT"
     }
   ],
   "electric_battery": [
