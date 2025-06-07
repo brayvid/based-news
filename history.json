@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump speaks at Pittsburgh steel plant after hosting Musk at White House - CNN",
-      "pubDate": "Fri, 30 May 2025 21:40:00 GMT"
-    },
-    {
       "title": "Trump administration live updates: President raises steel tariff; PBS sues administration - NBC News",
       "pubDate": "Fri, 30 May 2025 23:19:31 GMT"
     },
@@ -631,13 +627,13 @@
     {
       "title": "Trump says relationship with Musk is over - BBC",
       "pubDate": "Sat, 07 Jun 2025 19:59:28 GMT"
+    },
+    {
+      "title": "Trump threatens 'very serious consequences' if Elon Musk finances Republican challengers - USA Today",
+      "pubDate": "Sat, 07 Jun 2025 21:14:17 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine keeps Russia guessing over talks, US senator warns Moscow of sanctions - Reuters",
-      "pubDate": "Fri, 30 May 2025 21:09:22 GMT"
-    },
     {
       "title": "Ukraine-Russia war latest: Trump envoy says UK to join US at next peace talks while Putin told \u2018take the deal\u2019 - The Independent",
       "pubDate": "Sat, 31 May 2025 04:17:23 GMT"
@@ -1073,14 +1069,6 @@
   ],
   "recession": [
     {
-      "title": "Russia teeters on brink of recession - The Bell",
-      "pubDate": "Fri, 30 May 2025 21:53:52 GMT"
-    },
-    {
-      "title": "If There's Such a Thing as a Recession-Resistant Stock, This Is It - Yahoo Finance",
-      "pubDate": "Fri, 30 May 2025 21:15:00 GMT"
-    },
-    {
       "title": "Is a Recession Imminent Under President Donald Trump? Here's What More Than 110 Years of History Has to Say. - Yahoo Finance",
       "pubDate": "Sat, 31 May 2025 07:06:00 GMT"
     },
@@ -1238,10 +1226,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Opinion | Putin has a chance to escape his Ukraine disaster. He\u2019s blowing it. - The Washington Post",
-      "pubDate": "Fri, 30 May 2025 21:37:20 GMT"
-    },
     {
       "title": "Kremlin fabricated story on Putin\u2019s near-miss with Ukrainian drones, Moscow Times reports. - The Kyiv Independent",
       "pubDate": "Fri, 30 May 2025 23:35:28 GMT"
@@ -1435,23 +1419,19 @@
     {
       "title": "Israeli military says four soldiers killed in Gaza, will draft 10,000 more troops - France 24",
       "pubDate": "Fri, 06 Jun 2025 18:59:13 GMT"
+    },
+    {
+      "title": "Israeli Military Retrieves Body of Thai Hostage from Gaza, Defense Minister Says - Asharq Al-awsat - English",
+      "pubDate": "Sat, 07 Jun 2025 10:37:42 GMT"
     }
   ],
   "inflation": [
-    {
-      "title": "US stocks end near flat but end month with big gains. Trump reescalates China tariff war - USA Today",
-      "pubDate": "Fri, 30 May 2025 21:44:36 GMT"
-    },
     {
       "title": "ECB should watch out for price hikes from U.S. tariffs, Schnabel says - Reuters",
       "pubDate": "Sat, 07 Jun 2025 14:41:20 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Criminals using artificial intelligence to improve scams - CBS News",
-      "pubDate": "Fri, 30 May 2025 21:50:00 GMT"
-    },
     {
       "title": "The lab of the future: An artificial superintelligence for biology - Fast Company",
       "pubDate": "Fri, 30 May 2025 23:45:09 GMT"
@@ -1467,10 +1447,6 @@
     {
       "title": "Artificial Intelligence Speeds Up Diagnoses of Some Cancers - UC San Diego Today",
       "pubDate": "Fri, 30 May 2025 22:11:26 GMT"
-    },
-    {
-      "title": "It\u2019s Time To Talk About Artificial Intelligence (AI) In The Automotive Media Space - The Autopian",
-      "pubDate": "Fri, 30 May 2025 21:30:40 GMT"
     },
     {
       "title": "AI Rebellion in 2025: How ChatGPT-o3 Defied Human Commands for the First Time Ever \u2013 A Groundbreaking Experiment Shocks the AI Community - Business Matters",
@@ -2109,13 +2085,13 @@
     {
       "title": "US and Chinese officials will resume trade talks in London on Monday, Trump says - CNN",
       "pubDate": "Fri, 06 Jun 2025 20:34:00 GMT"
+    },
+    {
+      "title": "As his trade war faces legal pushback, Trump has other tariff tools he could deploy - Toronto Star",
+      "pubDate": "Sat, 07 Jun 2025 10:00:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Trump order could end Chinese drone sales in the U.S. - The Washington Post",
-      "pubDate": "Fri, 30 May 2025 21:07:14 GMT"
-    },
     {
       "title": "Pentagon chief warns of imminent China threat, pushes Asian allies to hike defence spending - Reuters",
       "pubDate": "Sat, 31 May 2025 01:08:03 GMT"
@@ -2127,10 +2103,6 @@
     {
       "title": "Experts Who Warn of Risks Posed by Chinese Students Are Skeptical of Trump Plan - The New York Times",
       "pubDate": "Sat, 31 May 2025 04:00:04 GMT"
-    },
-    {
-      "title": "Trump says China \u2018violated\u2019 agreement on trade talks and he\u2019ll stop being \u2018nice\u2019 - AP News",
-      "pubDate": "Fri, 30 May 2025 21:10:00 GMT"
     },
     {
       "title": "China\u2019s navy conducts combat patrols near disputed South China Sea shoal - Al Jazeera",
@@ -2579,6 +2551,10 @@
     {
       "title": "US-China trade talks in London \u2018positive step\u2019 but rough road ahead: analysts - South China Morning Post",
       "pubDate": "Sat, 07 Jun 2025 12:42:30 GMT"
+    },
+    {
+      "title": "Chinese-Owned Company Halts Work on Factory to Make Batteries in U.S. - WSJ",
+      "pubDate": "Sat, 07 Jun 2025 12:00:00 GMT"
     }
   ],
   "iran": [
@@ -3483,10 +3459,6 @@
   ],
   "ai_safety": [
     {
-      "title": "The launch of the AI Safety Clock - imd.org",
-      "pubDate": "Fri, 30 May 2025 21:13:06 GMT"
-    },
-    {
       "title": "Commentary: We regulate taco carts more than artificial intelligence - Times Union",
       "pubDate": "Sun, 01 Jun 2025 09:16:14 GMT"
     },
@@ -3691,10 +3663,6 @@
     {
       "title": "Trump Officials Unveil Budget Cuts to Aid for Health, Housing and Research - The New York Times",
       "pubDate": "Sat, 31 May 2025 02:44:17 GMT"
-    },
-    {
-      "title": "Trump administration to prioritize \u2018patriotic Americans\u2019 for federal jobs - Politico",
-      "pubDate": "Fri, 30 May 2025 21:20:58 GMT"
     },
     {
       "title": "Trump tells Congress what to chop in 22 percent budget slashing - Politico",
@@ -3959,6 +3927,10 @@
     {
       "title": "Trump advised Vance to take a diplomatic approach after Musk\u2019s blowup - The Washington Post",
       "pubDate": "Sat, 07 Jun 2025 15:24:24 GMT"
+    },
+    {
+      "title": "Trump Warns of Consequences for Musk if He Backs Candidates Against Republicans - The New York Times",
+      "pubDate": "Sat, 07 Jun 2025 18:48:51 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4023,6 +3995,10 @@
     {
       "title": "Musk says SpaceX will retire Dragon spacecraft amid bitter Trump dispute - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 02:23:00 GMT"
+    },
+    {
+      "title": "NASA, Pentagon push for SpaceX alternatives amid Trump\u2019s feud with Musk - The Washington Post",
+      "pubDate": "Sat, 07 Jun 2025 20:53:34 GMT"
     }
   ],
   "earthquakes": [
@@ -4037,6 +4013,10 @@
     {
       "title": "The Big One: Is California 'overdue' for a devastating major earthquake? - USA Today",
       "pubDate": "Sat, 07 Jun 2025 10:02:01 GMT"
+    },
+    {
+      "title": "Magnitude 6.6 earthquake strikes off coast of Northern Chile, GFZ says - Reuters",
+      "pubDate": "Sat, 07 Jun 2025 17:17:33 GMT"
     }
   ],
   "bitcoin": [
