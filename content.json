@@ -1,1 +1,62 @@
-{}
+{
+  "Recession": {
+    "articles": [
+      {
+        "title": "Why Wall Street's Dr. Doom now wants to be Dr. Boom - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOV9nNlNUZTJhb0RhWVJobVI0enhiRUF5aWtuSUItS3hEVmd5Ykk2REh2dG5vSldOV3h5S0ZTUkRxbEt4M3VpcmZxSDNzYU9fSERHN1E2Mzdwdk1renVSdVlIYzFPVkRRTlB3dWdjY3pFNnQtVlhFclZKdmhmS19hNFVtN1VQM01BcFB5RjVRdktaLURoYXdtLXVMM1RIQWJuMjdROWt4RUxCeWhiZkpR?oc=5",
+        "pubDate": "Sat, 07 Jun 2025 09:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China Says Progress Made With EU on Electric Vehicle Price Talks - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEFfbS1LR0ZCbDZNbDNZbUdfOEZpUllIUmhZY3ZPOC1rdlNtU1lrMllDNHBZc0dGQlUyTnBJYXRROUllWVJRZmw5SGZRX0pYdGJSX1ZSUGZMSUdCZHB3dVdLTzlLaG5yNGE1dVRuZ3I3RFJpT0FKRWRiY0dyd096LURmQ3hIODQxV1pSNVZVcGFKRUhYT0U3RXpXckFDcXJQM29IM2xseGZqVk1ZT3FKZ3d1aTRodw?oc=5",
+        "pubDate": "Sat, 07 Jun 2025 08:16:37 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Deadly Russian bombardment of Ukraine further dampens hopes for peace - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVtSkpRWmJEbkt5UE9xUVBkbkpOblZBT3Y0UDJGS3pNZE1UX0pwb3BwSWYyR2h2bXpGbElBdXVJRXFDZERBWDJoa0F0OW51QXJPWDJob2wtV2ZidHlmenR2eEJ2VEZxVnBGblRWVTNiX3I2LWpPbVNrUTNTODI5aEZ4SXhGeWlfdWFXR0tXcHJVejVrWmlRdkppVFdWYjZZSWc?oc=5",
+        "pubDate": "Sat, 07 Jun 2025 00:32:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump says China's Xi agreed to let rare earth minerals flow to US - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTVPSHp4em9pa3gwSjNuQkNROEVxT0w2TnJNbHZxYkVlSUprSll5clhJQ293OXh6YzJ0RWlJcGI0VTFMcU0tSFg2cDZvT1BfbHJnZERPZzBsdGtkNTdHUnI3dENEaHZPTVlDcU9yRGJpc2kwU3JlUUhlLWJQSnpiUTBDMU12ZktBdVI4YkpjcnBFZ1h5X3l6cFd1bkZRT182QnZjbWZ4UHF5OUR5?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 23:30:55 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Artificial Intelligence Regulation Hotly Debated on Hill - The Daily Signal",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJWFBJdHFIU1ZmSkdQZXg3eEJTdVZ2Z2Q2TEZEMmZBcnJVRzVnZXlwQXZKa01veGd5Vk4xeVFQa1V6anQxNUZwQV9wTkd5WEVlRERSWW45WGdzMDE1TExwd0RvTmFpMFZIcTN3YkMxVWJ3a2dIclFtLV9kR29ZSnRHdk5pZHZFeXRqaWhIYllnU3JmOXRCQkZZeTJmOUNrcUItcVJB?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 23:22:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  },
+  "US Supreme Court": {
+    "articles": [
+      {
+        "title": "US Supreme Court grants DOGE access to sensitive Social Security data - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUM5NkNJQjhCRWN2YmhHRVRzZFZkcGM1Nk9ncy1OYVpvTW1RSEpwZTJCTlBPX0RNRnQwUFhJZF9rbXJScVZ6TEF0OGJmQXdfQXJrSHIzbVFyY0dRd1R4Y0lwUE4yX1JVdEVPSDJoX01uU3gxU1lpVDhLZHNDUWNEN3JwM2ZkSmZFelRpMGkzNEs0cFdHamo2OUZxNm40UEd3SjgxWEk3MkVILWNoTnfSAbMBQVVfeXFMTUlyNWFfYy1UZ0JsZTNFR2tuZTFwcmJSSzFZVzlUT2p6Z1lXZGpCTVRMRUExV2Y5cHVpT1huMm9HUndCRjFmRTB3eFdoWmZ1Z3BWUlBpMnlaYlctM1FaWEpUZmg5V1dGOC1xU2hNMGNhTEc3S0Jtd09vSWlqTGV5UXRTZ3BoSU9LbVp1THB2eWxNc2RKVTE5d2hVRUVfLXlHcnRNbnB5dW1tM2hncU9PY1NOcEE?oc=5",
+        "pubDate": "Fri, 06 Jun 2025 23:21:23 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-07T10:01:15.045082+00:00"
+  }
+}
