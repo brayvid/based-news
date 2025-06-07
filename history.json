@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Accuses China of Violating Trade Truce, Escalating Tensions - The New York Times",
-      "pubDate": "Fri, 30 May 2025 16:13:39 GMT"
-    },
-    {
       "title": "Trump says Elon Musk 'not really leaving' in Oval Office farewell - BBC",
       "pubDate": "Fri, 30 May 2025 20:25:07 GMT"
     },
@@ -19,10 +15,6 @@
     {
       "title": "Trump administration live updates: President raises steel tariff; PBS sues administration - NBC News",
       "pubDate": "Fri, 30 May 2025 23:19:31 GMT"
-    },
-    {
-      "title": "Trump will hold a rally at U.S. Steel as investors seek clarity on Nippon deal. Here\u2019s what we know - CNBC",
-      "pubDate": "Fri, 30 May 2025 16:45:24 GMT"
     },
     {
       "title": "Trump says he wasn't aware of Musk reportedly using drugs during the 2024 campaign - USA Today",
@@ -627,6 +619,10 @@
     {
       "title": "Elon Musk post claiming that Donald Trump appears in Epstein files removed from X - Sky News",
       "pubDate": "Sat, 07 Jun 2025 14:58:52 GMT"
+    },
+    {
+      "title": "Trump says Musk will face 'serious consequences' if he funds Democratic candidates - NBC News",
+      "pubDate": "Sat, 07 Jun 2025 16:26:00 GMT"
     }
   ],
   "ukraine": [
@@ -1215,6 +1211,10 @@
     {
       "title": "Why Wall Street's Dr. Doom now wants to be Dr. Boom - Business Insider",
       "pubDate": "Sat, 07 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Will Trump\u2019s \u2018Big, Beautiful Bill\u2019 Lead to Recession in 2025? - TODAY.com",
+      "pubDate": "Sat, 07 Jun 2025 15:39:27 GMT"
     }
   ],
   "russia": [
@@ -1424,10 +1424,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI's 'smartest' AI model was explicitly told to shut down \u2014 and it refused - Live Science",
-      "pubDate": "Fri, 30 May 2025 16:45:13 GMT"
-    },
     {
       "title": "Evaluating performance of large language models for atrial fibrillation management using different prompting strategies and languages - Nature",
       "pubDate": "Fri, 30 May 2025 17:32:47 GMT"
@@ -1911,6 +1907,10 @@
     {
       "title": "UK judge sounds alarm on AI misuse in courts - politico.eu",
       "pubDate": "Sat, 07 Jun 2025 11:44:47 GMT"
+    },
+    {
+      "title": "The Nasdaq Bounces Back: 2 Artificial Intelligence (AI) Stocks Worth Buying Right Now - Nasdaq",
+      "pubDate": "Sat, 07 Jun 2025 11:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2104,14 +2104,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China hits back after Trump claims it is 'violating' tariff truce - BBC",
-      "pubDate": "Fri, 30 May 2025 16:28:26 GMT"
-    },
-    {
-      "title": "US Plans Wider China Tech Sanctions With Subsidiary Crackdown - Bloomberg",
-      "pubDate": "Fri, 30 May 2025 16:28:46 GMT"
-    },
     {
       "title": "China calls out Trump for 'abuse' of semiconductor export controls - CNBC",
       "pubDate": "Fri, 30 May 2025 17:04:08 GMT"
@@ -2571,6 +2563,10 @@
     {
       "title": "China Approves Some Exports of Rare Earths Ahead of US Talks - Bloomberg",
       "pubDate": "Sat, 07 Jun 2025 15:04:24 GMT"
+    },
+    {
+      "title": "Trump\u2019s China Gambit Belies Rocky Road Ahead on Tariff Deals - Bloomberg",
+      "pubDate": "Sat, 07 Jun 2025 14:20:00 GMT"
     }
   ],
   "iran": [
@@ -2680,10 +2676,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trade threats consume the U.S. economy - Axios",
-      "pubDate": "Fri, 30 May 2025 16:05:30 GMT"
-    },
     {
       "title": "US to double tariffs on steel and aluminium imports to 50%, Trump says - BBC",
       "pubDate": "Sat, 31 May 2025 00:31:01 GMT"
@@ -3673,10 +3665,6 @@
   ],
   "us_politics": [
     {
-      "title": "Supreme Court allows DHS to end parole for a half-million noncitizens - SCOTUSblog",
-      "pubDate": "Fri, 30 May 2025 16:41:05 GMT"
-    },
-    {
       "title": "Trump Officials Unveil Budget Cuts to Aid for Health, Housing and Research - The New York Times",
       "pubDate": "Sat, 31 May 2025 02:44:17 GMT"
     },
@@ -3943,13 +3931,13 @@
     {
       "title": "Republicans fume as Elon Musk complicates tax bill path - The Washington Post",
       "pubDate": "Sat, 07 Jun 2025 04:16:49 GMT"
+    },
+    {
+      "title": "Trump advised Vance to take a diplomatic approach after Musk\u2019s blowup - The Washington Post",
+      "pubDate": "Sat, 07 Jun 2025 15:24:24 GMT"
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "US regulator dismisses suit against Binance in latest crypto-friendly move by Trump - The Guardian",
-      "pubDate": "Fri, 30 May 2025 16:54:00 GMT"
-    },
     {
       "title": "SEC raises concerns over crypto ETFs offering staking rewards (BTC-USD:Cryptocurrency) - Seeking Alpha",
       "pubDate": "Sat, 31 May 2025 20:23:00 GMT"
@@ -4069,6 +4057,10 @@
     {
       "title": "Trump revokes digital identity actions in new cyber executive order - Federal News Network",
       "pubDate": "Fri, 06 Jun 2025 22:57:47 GMT"
+    },
+    {
+      "title": "Trump Drops A Cybersecurity Bombshell With Biden-Era Policy Reversal - Forbes",
+      "pubDate": "Sat, 07 Jun 2025 13:09:52 GMT"
     }
   ],
   "elon_musk": [
@@ -4257,10 +4249,6 @@
   ],
   "drones": [
     {
-      "title": "How cheap combat drones are reshaping the Russia-Ukraine war - Phys.org",
-      "pubDate": "Fri, 30 May 2025 16:05:47 GMT"
-    },
-    {
       "title": "Video: Putin\u2019s Cheap Russian Drone DESTROYS Trump\u2019s $3 Million M2 Bradley Tank In Just 16 Seconds - Times of India",
       "pubDate": "Sun, 01 Jun 2025 01:49:53 GMT"
     },
@@ -4283,16 +4271,16 @@
     {
       "title": "Cheap, fast and armed: U.S. looks to thwart Ukraine-style drone swarms - USA Today",
       "pubDate": "Sat, 07 Jun 2025 09:08:20 GMT"
+    },
+    {
+      "title": "Trump targets foreign drones, promotes US innovation - DroneDJ",
+      "pubDate": "Sat, 07 Jun 2025 14:38:00 GMT"
     }
   ],
   "us_supreme_court": [
     {
       "title": "US Supreme Court lets Trump revoke humanitarian legal status for migrants - Reuters",
       "pubDate": "Fri, 30 May 2025 20:49:19 GMT"
-    },
-    {
-      "title": "The Supreme Court just gave 500,000 immigrants some truly awful news - vox.com",
-      "pubDate": "Fri, 30 May 2025 16:35:00 GMT"
     },
     {
       "title": "Supreme Court says Trump for now can revoke immigration parole for 530K migrants - The Washington Post",
