@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Intelligence agency employee accused of attempting to leak classified documents out of frustration with Trump - Politico",
-      "pubDate": "Fri, 30 May 2025 00:15:26 GMT"
-    },
-    {
       "title": "U.S.-China talks 'a bit stalled' and need Trump and Xi to weigh in, Treasury Secretary Bessent says - CNBC",
       "pubDate": "Fri, 30 May 2025 01:39:00 GMT"
     },
@@ -631,13 +627,13 @@
     {
       "title": "Trump says he has no plans to speak to Musk as feud persists - Reuters",
       "pubDate": "Fri, 06 Jun 2025 23:04:25 GMT"
+    },
+    {
+      "title": "Trump news at a glance: Elon Musk rift deepens as president says \u2018poor guy\u2019s got a problem\u2019 - The Guardian",
+      "pubDate": "Fri, 06 Jun 2025 23:46:20 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Flood of North Korean arms to Russia, say US, Japan and others - The Guardian",
-      "pubDate": "Fri, 30 May 2025 00:21:00 GMT"
-    },
     {
       "title": "Ukraine Accuses Russia of Stalling Peace Negotiations - The New York Times",
       "pubDate": "Fri, 30 May 2025 10:43:43 GMT"
@@ -1421,10 +1417,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "White House MAHA Report may have garbled science by using AI, experts say - The Washington Post",
-      "pubDate": "Fri, 30 May 2025 00:48:56 GMT"
-    },
-    {
       "title": "OpenAI Aims to Offer AI Access Through \u2018Ambient Computer Layer,\u2019 Without Screens - PYMNTS.com",
       "pubDate": "Fri, 30 May 2025 03:00:00 GMT"
     },
@@ -1991,6 +1983,10 @@
     {
       "title": "US defense secretary skips Ukraine military aid meeting attended by more than 50 other allies \u2013 Europe live - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
+    },
+    {
+      "title": "Five Signs Israel and Iran Could Be Headed Toward Open War - Newsweek",
+      "pubDate": "Fri, 06 Jun 2025 16:30:31 GMT"
     }
   ],
   "trade_war": [
@@ -2101,6 +2097,10 @@
     {
       "title": "US jobs market slows down as businesses cope with Trump trade war uncertainty - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 12:34:00 GMT"
+    },
+    {
+      "title": "US-China trade war: The beginning of the end? - BBC",
+      "pubDate": "Fri, 06 Jun 2025 23:29:44 GMT"
     }
   ],
   "china": [
@@ -2669,10 +2669,6 @@
       "pubDate": "Fri, 30 May 2025 02:45:00 GMT"
     },
     {
-      "title": "U.S. economy shrinks for first time since 2022 - KTVN",
-      "pubDate": "Fri, 30 May 2025 00:20:00 GMT"
-    },
-    {
       "title": "Will I get refunds? Small businesses wonder as courts rule on Trump tariffs - NPR",
       "pubDate": "Fri, 30 May 2025 09:00:56 GMT"
     },
@@ -3015,6 +3011,10 @@
     {
       "title": "May jobs report crushes recession fears, market expert says - TheStreet",
       "pubDate": "Fri, 06 Jun 2025 16:26:51 GMT"
+    },
+    {
+      "title": "US economy: Trump again demands interest rate cut as hiring slows - The Times",
+      "pubDate": "Fri, 06 Jun 2025 16:00:00 GMT"
     }
   ],
   "terrorism": [
@@ -3177,6 +3177,10 @@
     {
       "title": "House Democrats seek to grill Kristi Noem on DHS handcuffing Nadler aide - Axios",
       "pubDate": "Tue, 03 Jun 2025 16:05:31 GMT"
+    },
+    {
+      "title": "Democrats lost voters\u2019 trust. They need a new radical center wing to win it back. - The Hill",
+      "pubDate": "Fri, 06 Jun 2025 18:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -3218,10 +3222,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Hamas official says it rejects new US Gaza ceasefire plan backed by Israel - BBC",
-      "pubDate": "Fri, 30 May 2025 00:26:23 GMT"
-    },
     {
       "title": "Israel Accepts Gaza Deal Restoring UN Aid as Hamas Remains Wary - Bloomberg",
       "pubDate": "Fri, 30 May 2025 04:39:00 GMT"
@@ -3487,10 +3487,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Unbound secures USD $4 million seed to boost safe AI adoption - IT Brief Australia",
-      "pubDate": "Fri, 30 May 2025 00:37:00 GMT"
-    },
-    {
       "title": "In Singapore, AI safety was never off the table - MLex",
       "pubDate": "Fri, 30 May 2025 09:57:00 GMT"
     },
@@ -3681,13 +3677,13 @@
     {
       "title": "AI Systems Will Do Anything for Self-Preservation, Tests Show - Movieguide",
       "pubDate": "Fri, 06 Jun 2025 16:34:48 GMT"
+    },
+    {
+      "title": "AI Safety: Beyond AI Hype To Hybrid Intelligence - Forbes",
+      "pubDate": "Fri, 06 Jun 2025 20:28:14 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "US court temporarily pauses ruling that blocked Trump\u2019s tariff; White House vows Supreme Court fight - Mint",
-      "pubDate": "Fri, 30 May 2025 00:10:31 GMT"
-    },
     {
       "title": "Trump goes after Leonard Leo and the Federalist Society in fury over court ruling - Politico",
       "pubDate": "Fri, 30 May 2025 02:13:48 GMT"
@@ -3967,13 +3963,13 @@
     {
       "title": "Senate Republicans revise ban on state AI regulations in bid to preserve controversial provision - ABC News",
       "pubDate": "Fri, 06 Jun 2025 18:48:56 GMT"
+    },
+    {
+      "title": "Live updates: Trump says he has no plans to speak with Musk; Supreme Court gives DOGE access to Social Security data - NBC News",
+      "pubDate": "Fri, 06 Jun 2025 23:29:12 GMT"
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "S.E.C. Drops Lawsuit Against Binance, a Crypto Exchange - The New York Times",
-      "pubDate": "Fri, 30 May 2025 00:08:23 GMT"
-    },
     {
       "title": "US regulator dismisses suit against Binance in latest crypto-friendly move by Trump - The Guardian",
       "pubDate": "Fri, 30 May 2025 16:54:00 GMT"
