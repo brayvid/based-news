@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says Elon Musk 'not really leaving' in Oval Office farewell - BBC",
-      "pubDate": "Fri, 30 May 2025 20:25:07 GMT"
-    },
-    {
-      "title": "Trump says Gaza ceasefire and nuclear deal with Iran are close - AP News",
-      "pubDate": "Fri, 30 May 2025 20:20:00 GMT"
-    },
-    {
       "title": "Trump speaks at Pittsburgh steel plant after hosting Musk at White House - CNN",
       "pubDate": "Fri, 30 May 2025 21:40:00 GMT"
     },
@@ -635,6 +627,10 @@
     {
       "title": "Trump-Musk feud live updates: President says he has \u2018no intention of speaking\u2019 to Elon with no reconciliation in sight - The Independent",
       "pubDate": "Sat, 07 Jun 2025 17:52:00 GMT"
+    },
+    {
+      "title": "Trump says relationship with Musk is over - BBC",
+      "pubDate": "Sat, 07 Jun 2025 19:59:28 GMT"
     }
   ],
   "ukraine": [
@@ -1069,13 +1065,13 @@
     {
       "title": "Russian attacks on Ukraine kill five as prisoner swap hangs in balance - Al Jazeera",
       "pubDate": "Sat, 07 Jun 2025 17:08:25 GMT"
+    },
+    {
+      "title": "Planned Russia-Ukraine prisoner swap descends into blame game and uncertainty - CNN",
+      "pubDate": "Sat, 07 Jun 2025 14:27:00 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "No clear recession signal despite recent weak data, says CIO - Yahoo Finance",
-      "pubDate": "Fri, 30 May 2025 20:17:40 GMT"
-    },
     {
       "title": "Russia teeters on brink of recession - The Bell",
       "pubDate": "Fri, 30 May 2025 21:53:52 GMT"
@@ -1935,10 +1931,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stocks ride May gains to best month since 2023 as investors look past trade concerns - NBC News",
-      "pubDate": "Fri, 30 May 2025 20:18:35 GMT"
-    },
-    {
       "title": "JPMorgan\u2019s Jamie Dimon Predicts \u2018Crack in the Bond Market,\u2019 Citing U.S. Fiscal Mess - WSJ",
       "pubDate": "Sat, 31 May 2025 01:03:00 GMT"
     },
@@ -2583,6 +2575,10 @@
     {
       "title": "China says it may speed up rare earths application approvals from EU - Reuters",
       "pubDate": "Sat, 07 Jun 2025 15:16:13 GMT"
+    },
+    {
+      "title": "US-China trade talks in London \u2018positive step\u2019 but rough road ahead: analysts - South China Morning Post",
+      "pubDate": "Sat, 07 Jun 2025 12:42:30 GMT"
     }
   ],
   "iran": [
@@ -3035,6 +3031,10 @@
     {
       "title": "Dollar stores are seeing higher-income shoppers rush in the door. It's a warning sign for the US economy. - Yahoo Finance",
       "pubDate": "Sat, 07 Jun 2025 15:42:55 GMT"
+    },
+    {
+      "title": "Campbell\u2019s says soup sales are soaring\u2014and that\u2019s actually a sign the U.S. economy is in a downturn, data shows - MSN",
+      "pubDate": "Sat, 07 Jun 2025 20:22:42 GMT"
     }
   ],
   "terrorism": [
@@ -3247,16 +3247,8 @@
   ],
   "hamas": [
     {
-      "title": "Live updates: Hamas considers Gaza ceasefire proposal as Israeli strikes kill at least 27 - AP News",
-      "pubDate": "Fri, 30 May 2025 20:37:00 GMT"
-    },
-    {
       "title": "Hamas reviews Gaza ceasefire proposal as U.S. expresses optimism - The Washington Post",
       "pubDate": "Sat, 31 May 2025 00:54:41 GMT"
-    },
-    {
-      "title": "U.S., Israel waiting for Hamas to respond to ceasefire proposal for Gaza, White House says - CBS News",
-      "pubDate": "Fri, 30 May 2025 20:45:00 GMT"
     },
     {
       "title": "Breaking down latest Israel-Hamas ceasefire proposal - CBS News",
@@ -3401,6 +3393,10 @@
     {
       "title": "Israel admits support for anti-Hamas armed group accused of looting Gaza aid - France 24",
       "pubDate": "Sat, 07 Jun 2025 09:01:01 GMT"
+    },
+    {
+      "title": "Hamas issues new photo of hostage Matan Zangauker, threatens execution if troops come near - The Times of Israel",
+      "pubDate": "Sat, 07 Jun 2025 20:18:03 GMT"
     }
   ],
   "climate": [
@@ -3486,10 +3482,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "MLCommons partners with NASSCOM to bring global AI reliability benchmarks to India - Deccan Herald",
-      "pubDate": "Fri, 30 May 2025 20:34:38 GMT"
-    },
     {
       "title": "The launch of the AI Safety Clock - imd.org",
       "pubDate": "Fri, 30 May 2025 21:13:06 GMT"
@@ -3689,6 +3681,10 @@
     {
       "title": "UK ministers delay AI regulation amid plans for more \u2018comprehensive\u2019 bill - The Guardian",
       "pubDate": "Sat, 07 Jun 2025 19:31:00 GMT"
+    },
+    {
+      "title": "Microsoft (MSFT) Introduces AI Safety Ranking System - GuruFocus",
+      "pubDate": "Sat, 07 Jun 2025 20:35:22 GMT"
     }
   ],
   "us_politics": [
@@ -4003,10 +3999,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Energy Dept. Cancels $3.7 Billion for New Technologies to Lower Emissions - The New York Times",
-      "pubDate": "Fri, 30 May 2025 20:02:15 GMT"
-    },
-    {
       "title": "Scientists make game-changing breakthrough that could unlock low-cost energy source: 'Our work delivers promising guidelines' - The Cool Down",
       "pubDate": "Sat, 31 May 2025 05:45:00 GMT"
     },
@@ -4089,6 +4081,10 @@
     {
       "title": "Trump Drops A Cybersecurity Bombshell With Biden-Era Policy Reversal - Forbes",
       "pubDate": "Sat, 07 Jun 2025 13:09:52 GMT"
+    },
+    {
+      "title": "Trump administration takes aim at Biden and Obama cybersecurity rules - TechCrunch",
+      "pubDate": "Sat, 07 Jun 2025 20:32:42 GMT"
     }
   ],
   "elon_musk": [
@@ -4318,10 +4314,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "US Supreme Court lets Trump revoke humanitarian legal status for migrants - Reuters",
-      "pubDate": "Fri, 30 May 2025 20:49:19 GMT"
-    },
     {
       "title": "Supreme Court says Trump for now can revoke immigration parole for 530K migrants - The Washington Post",
       "pubDate": "Sat, 31 May 2025 04:22:47 GMT"
