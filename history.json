@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric - NPR",
-      "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Trump Is Planning a 'Garden of American Heroes' For the Country's Anniversary. Sculpture Experts Say It'll Never Happen. - Politico",
-      "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
-    },
-    {
       "title": "Todd and Julie Chrisley to live in this southern state after presidential pardon - Fox Business",
       "pubDate": "Sat, 31 May 2025 12:00:00 GMT"
     },
@@ -635,20 +627,16 @@
     {
       "title": "How can Trump use the national guard on US soil? - The Guardian",
       "pubDate": "Sun, 08 Jun 2025 05:14:00 GMT"
+    },
+    {
+      "title": "The Musk blowup reveals how Trump is remaking the presidency - CNN",
+      "pubDate": "Sun, 08 Jun 2025 10:00:00 GMT"
     }
   ],
   "ukraine": [
     {
-      "title": "Ukraine Strikes Russian Target in Far East Before Planned Talks - Bloomberg.com",
-      "pubDate": "Sat, 31 May 2025 10:14:19 GMT"
-    },
-    {
       "title": "Russia seizes more Ukrainian territory amid fears of fresh ground offensive - The Guardian",
       "pubDate": "Sat, 31 May 2025 12:09:00 GMT"
-    },
-    {
-      "title": "Ukraine orders evacuation of 11 villages on Russian border as Kyiv braces for Sumy offensive - France 24",
-      "pubDate": "Sat, 31 May 2025 10:11:14 GMT"
     },
     {
       "title": "Ukraine-Russia war latest: Child killed in Russian strike after Zelensky accuses Putin of sabotaging talks - The Independent",
@@ -1089,6 +1077,10 @@
     {
       "title": "Ukraine drone barrage targets Moscow as Zelenskyy demands accountability for Putin - ABC News",
       "pubDate": "Sun, 08 Jun 2025 08:50:39 GMT"
+    },
+    {
+      "title": "Ukraine Says It Has Stepped Up Its Drone Game, Again - The New York Times",
+      "pubDate": "Sun, 08 Jun 2025 09:35:47 GMT"
     }
   ],
   "recession": [
@@ -1247,13 +1239,13 @@
     {
       "title": "Bitcoin (BTC) Climbs Despite ETF Outflows as US Recession Fears Ease - FXEmpire",
       "pubDate": "Sun, 08 Jun 2025 06:00:00 GMT"
+    },
+    {
+      "title": "Moody\u2019s Chief Economist on Recession Fears and How Politics Shapes the Economy - WSJ",
+      "pubDate": "Sun, 08 Jun 2025 10:00:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia\u2019s drone \u2018safaris\u2019 haunt Ukrainians in front-line city - The Hill",
-      "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
-    },
     {
       "title": "Russia's Economy Facing Triple Threat - Newsweek",
       "pubDate": "Sat, 31 May 2025 14:05:02 GMT"
@@ -1401,13 +1393,13 @@
     {
       "title": "Exclusive: US believes Russia response to Ukraine drone attack not over yet, expects multi-pronged strike - Reuters",
       "pubDate": "Sat, 07 Jun 2025 23:57:15 GMT"
+    },
+    {
+      "title": "Russian Drone Swarms Test a Volunteer Air-Defense Unit Near Kyiv - The New York Times",
+      "pubDate": "Sun, 08 Jun 2025 09:01:43 GMT"
     }
   ],
   "israel": [
-    {
-      "title": "Israel becomes the first country to down drones in combat with a laser weapon - Business Insider",
-      "pubDate": "Sat, 31 May 2025 10:48:00 GMT"
-    },
     {
       "title": "Gaza live updates: 31 dead after Israeli tanks open fire near aid centre, Hamas health ministry says - BBC",
       "pubDate": "Sun, 01 Jun 2025 06:55:24 GMT"
@@ -1460,10 +1452,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "\u2018One day I overheard my boss saying: just put it in ChatGPT\u2019: the workers who lost their jobs to AI - The Guardian",
-      "pubDate": "Sat, 31 May 2025 10:45:00 GMT"
-    },
     {
       "title": "3 Reasons This Artificial Intelligence Stock Could Have the Biggest Comeback in 2025 - The Motley Fool",
       "pubDate": "Sat, 31 May 2025 12:15:00 GMT"
@@ -1927,6 +1915,10 @@
     {
       "title": "QVAC: the open-source platform that aims to decentralize artificial intelligence (AI) - The Cryptonomist",
       "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Warren Buffett Might Not Own These Artificial Intelligence (AI) Stocks -- but Their Fundamentals Check Out - The Globe and Mail",
+      "pubDate": "Sun, 08 Jun 2025 09:42:25 GMT"
     }
   ],
   "financial_markets": [
@@ -1990,10 +1982,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar - WIRED",
-      "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
-    },
     {
       "title": "Trump claimed \u2018tariffs are easy\u2019 \u2013 he\u2019s learning the hard way that\u2019s not the case - The Guardian",
       "pubDate": "Sat, 31 May 2025 18:03:00 GMT"
@@ -2104,10 +2092,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US defense secretary warns Indo-Pacific allies of 'imminent' threat from China - The Washington Post",
-      "pubDate": "Sat, 31 May 2025 10:18:52 GMT"
-    },
     {
       "title": "China slams Macron over \u2018unacceptable\u2019 comments on Taiwan and Ukraine - politico.eu",
       "pubDate": "Sat, 31 May 2025 11:20:23 GMT"
@@ -2587,20 +2571,16 @@
     {
       "title": "Export Controls to Take Center Stage at U.S.-China Trade Talks - WSJ",
       "pubDate": "Sun, 08 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "American students in China face a barrage of questions about Trump - The Washington Post",
+      "pubDate": "Sun, 08 Jun 2025 10:32:05 GMT"
     }
   ],
   "iran": [
     {
-      "title": "Iran has amassed even more near weapons-grade uranium, UN watchdog says - The Washington Post",
-      "pubDate": "Sat, 31 May 2025 10:59:16 GMT"
-    },
-    {
       "title": "New IAEA report confirms Iran carried out secret nuclear activities at three undeclared sites - The Times of Israel",
       "pubDate": "Sat, 31 May 2025 11:07:43 GMT"
-    },
-    {
-      "title": "IAEA report says Iran had secret activities with undeclared nuclear material - Reuters",
-      "pubDate": "Sat, 31 May 2025 10:59:14 GMT"
     },
     {
       "title": "IAEA exposes secret Iranian nuclear uranium enrichment, report says - The Jerusalem Post",
@@ -2700,10 +2680,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Want to see where Trump\u2019s tariffs are leading US business? Look at Georgia - The Guardian",
-      "pubDate": "Sat, 31 May 2025 11:00:00 GMT"
-    },
     {
       "title": "Here are the retailers raising prices as Trump tariffs take hold - CNBC",
       "pubDate": "Sat, 31 May 2025 12:00:01 GMT"
@@ -3209,6 +3185,10 @@
     {
       "title": "Arizona Democrats meet amid party tensions - The Arizona Republic",
       "pubDate": "Sun, 08 Jun 2025 03:42:28 GMT"
+    },
+    {
+      "title": "Democrats, divided on trans issues, struggle to speak in one voice - The Washington Post",
+      "pubDate": "Sun, 08 Jun 2025 10:02:14 GMT"
     }
   ],
   "north_korea": [
@@ -3684,14 +3664,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate Republicans Try Out \u2018We All Die\u2019 Slogan to Justify Medicaid Cuts - WhoWhatWhy",
-      "pubDate": "Sat, 31 May 2025 10:35:31 GMT"
-    },
-    {
-      "title": "Trump conducts the weirdest exit interview in history as Musk departs the White House \u2014 for now - The Independent",
-      "pubDate": "Sat, 31 May 2025 10:07:00 GMT"
-    },
     {
       "title": "Hamas slaps down Trump\u2019s Gaza plan - News.com.au",
       "pubDate": "Sat, 31 May 2025 15:54:42 GMT"
