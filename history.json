@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "May 30, 2025 \u2013 Donald Trump presidency news - CNN",
-      "pubDate": "Sat, 31 May 2025 03:16:00 GMT"
-    },
-    {
       "title": "Lawyers for Migrants Press Appeals Court to Stop Trump\u2019s Use of Alien Enemies Act - The New York Times",
       "pubDate": "Sat, 31 May 2025 05:32:03 GMT"
     },
@@ -631,16 +627,16 @@
     {
       "title": "Trump to deploy National Guard in response to Los Angeles immigration protests - CNBC",
       "pubDate": "Sun, 08 Jun 2025 01:57:00 GMT"
+    },
+    {
+      "title": "Trump Is Deploying National Guard Troops Under a Rarely Used Power - The New York Times",
+      "pubDate": "Sun, 08 Jun 2025 02:46:47 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Ukraine-Russia war latest: Trump envoy says UK to join US at next peace talks while Putin told \u2018take the deal\u2019 - The Independent",
       "pubDate": "Sat, 31 May 2025 04:17:23 GMT"
-    },
-    {
-      "title": "Next round of Russia-Ukraine talks uncertain as Moscow won\u2019t reveal terms - The Washington Post",
-      "pubDate": "Sat, 31 May 2025 03:12:21 GMT"
     },
     {
       "title": "Ukraine Strikes Russian Target in Far East Before Planned Talks - Bloomberg.com",
@@ -1077,6 +1073,10 @@
     {
       "title": "Ukraine war latest: Kharkiv suffers its 'most powerful attack of entire war' - as Kyiv and Moscow prepare for prisoner swap - Sky News",
       "pubDate": "Sun, 08 Jun 2025 01:51:25 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Putin yet to retaliate in full force over Operation Spiderweb, officials say - The Guardian",
+      "pubDate": "Sun, 08 Jun 2025 01:34:00 GMT"
     }
   ],
   "recession": [
@@ -1907,6 +1907,10 @@
     {
       "title": "AI: How do they do that? 'Understanding Artificial Intelligence' at the library, June 16 - chronicleonline.com",
       "pubDate": "Sat, 07 Jun 2025 14:39:29 GMT"
+    },
+    {
+      "title": "Apple under pressure to shine after AI stumble - The Economic Times",
+      "pubDate": "Sun, 08 Jun 2025 03:38:39 GMT"
     }
   ],
   "financial_markets": [
@@ -2084,10 +2088,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Pentagon chief says ready to 'fight and win' against China, urges Asian allies to boost defense spending - CNBC",
-      "pubDate": "Sat, 31 May 2025 03:35:00 GMT"
-    },
     {
       "title": "Experts Who Warn of Risks Posed by Chinese Students Are Skeptical of Trump Plan - The New York Times",
       "pubDate": "Sat, 31 May 2025 04:00:04 GMT"
@@ -2559,6 +2559,10 @@
     {
       "title": "Officials race to comply with Xi\u2019s austerity rules as inspectors come knocking - South China Morning Post",
       "pubDate": "Sat, 07 Jun 2025 22:00:14 GMT"
+    },
+    {
+      "title": "China plans to build a \"deep-sea space station\" 6560 feet deep, set to be completed by 2030. - Farmingdale Observer",
+      "pubDate": "Sat, 07 Jun 2025 23:15:00 GMT"
     }
   ],
   "iran": [
@@ -2676,10 +2680,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "America Let Its Military-Industrial Might Wither. China\u2019s Is Booming. - WSJ",
-      "pubDate": "Sat, 31 May 2025 03:30:44 GMT"
-    },
     {
       "title": "Modern Retail Podcast: Nike's Amazon return, E.l.f's big Rhode bet, and debunking recession indicators - Modern Retail",
       "pubDate": "Sat, 31 May 2025 04:04:17 GMT"
@@ -3193,10 +3193,6 @@
   ],
   "north_korea": [
     {
-      "title": "North Korea\u2019s Kim Jong Un is beefing up his navy. Can he succeed? - CNN",
-      "pubDate": "Sat, 31 May 2025 03:02:00 GMT"
-    },
-    {
       "title": "North Korea deploys mystery balloon-like objects to stricken warship, satellite photos show - CNN",
       "pubDate": "Sat, 31 May 2025 07:14:00 GMT"
     },
@@ -3373,6 +3369,10 @@
     {
       "title": "At least 90 people in Gaza dead amid Israeli attacks, Hamas-run health ministry says - CBS News",
       "pubDate": "Sat, 07 Jun 2025 22:45:00 GMT"
+    },
+    {
+      "title": "Six killed by Israeli gunfire near Gaza aid site, Hamas officials say - BBC",
+      "pubDate": "Sat, 07 Jun 2025 20:47:02 GMT"
     }
   ],
   "climate": [
@@ -3455,6 +3455,10 @@
     {
       "title": "Mass. psychologist on the impact climate change has on mental health - WCVB",
       "pubDate": "Sat, 07 Jun 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Rivers release ancient carbon dioxide into the atmosphere \u2013 reshaping climate science - The Brighter Side of News",
+      "pubDate": "Sat, 07 Jun 2025 18:07:00 GMT"
     }
   ],
   "ai_safety": [
@@ -4245,6 +4249,10 @@
     {
       "title": "Could Trump fail on tax bill? Why going 'big' doesn't always work out as planned - USA Today",
       "pubDate": "Sat, 07 Jun 2025 09:08:41 GMT"
+    },
+    {
+      "title": "Trump-backed Simmons sins second term as NC\u2019s GOP chairman - WRAL.com",
+      "pubDate": "Sat, 07 Jun 2025 23:35:19 GMT"
     }
   ],
   "public_health": [
