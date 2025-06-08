@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Explains Reason For Doubling Steel, Aluminum Tariffs - Time Magazine",
-      "pubDate": "Sat, 31 May 2025 15:43:10 GMT"
-    },
-    {
       "title": "Trump pardons drive a big, burgeoning business for lobbyists - NBC News",
       "pubDate": "Sat, 31 May 2025 17:06:13 GMT"
     },
@@ -19,10 +15,6 @@
     {
       "title": "Donald Trump Pulls NASA Nominee Days Before Senate Vote - Newsweek",
       "pubDate": "Sat, 31 May 2025 21:09:17 GMT"
-    },
-    {
-      "title": "EU 'prepared to impose countermeasures' after Trump doubles steel tariffs to 50% - CNBC",
-      "pubDate": "Sat, 31 May 2025 15:03:32 GMT"
     },
     {
       "title": "The fallout from Trump's war on Harvard will long outlast his presidency - BBC",
@@ -623,6 +615,10 @@
     {
       "title": "Musk vs Trump is a cautionary tale for Silicon Valley - Financial Times",
       "pubDate": "Sun, 08 Jun 2025 11:13:40 GMT"
+    },
+    {
+      "title": "Los Angeles unrest: Is Trump allowed to deploy National Guard troops? - Al Jazeera",
+      "pubDate": "Sun, 08 Jun 2025 14:26:15 GMT"
     }
   ],
   "ukraine": [
@@ -1065,6 +1061,10 @@
     {
       "title": "Russia shoots down 10 Ukrainian drones targeting Moscow - Al Jazeera",
       "pubDate": "Sun, 08 Jun 2025 09:13:42 GMT"
+    },
+    {
+      "title": "Ukrainian drone attack on Moscow closes 2 major airports - politico.eu",
+      "pubDate": "Sun, 08 Jun 2025 11:59:00 GMT"
     }
   ],
   "recession": [
@@ -1227,6 +1227,10 @@
     {
       "title": "'No recession bet whatsoever': The stock market isn't pricing in any sort of economic downturn, investment firm says - Business Insider",
       "pubDate": "Sun, 08 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Recession Risk After The Jobs Report - Forbes",
+      "pubDate": "Sun, 08 Jun 2025 13:19:46 GMT"
     }
   ],
   "russia": [
@@ -1891,6 +1895,10 @@
     {
       "title": "Warren Buffett Might Not Own These Artificial Intelligence (AI) Stocks -- but Their Fundamentals Check Out - The Globe and Mail",
       "pubDate": "Sun, 08 Jun 2025 09:42:25 GMT"
+    },
+    {
+      "title": "US attacks on science and research a \u2018great gift\u2019 to China on artificial intelligence, former OpenAI board member says - The Guardian",
+      "pubDate": "Sun, 08 Jun 2025 15:01:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2064,10 +2072,6 @@
     }
   ],
   "china": [
-    {
-      "title": "The U.S. Plan to Hobble China Tech Isn\u2019t Working - WSJ",
-      "pubDate": "Sat, 31 May 2025 15:26:55 GMT"
-    },
     {
       "title": "British man indicted over plot to smuggle US military technology to China - Sky News",
       "pubDate": "Sat, 31 May 2025 22:06:38 GMT"
@@ -2539,13 +2543,13 @@
     {
       "title": "China's EV race to the bottom leaves a few possible winners - CNBC",
       "pubDate": "Sun, 08 Jun 2025 11:04:49 GMT"
+    },
+    {
+      "title": "Chinese ship runs aground off Philippines-occupied island in the disputed South China Sea - AP News",
+      "pubDate": "Sun, 08 Jun 2025 10:05:00 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Iran Has Ramped Up Uranium Enrichment While Continuing Nuclear Talks - The New York Times",
-      "pubDate": "Sat, 31 May 2025 15:48:30 GMT"
-    },
     {
       "title": "Iran Builds Up Near Weapons-Grade Uranium Stockpile Despite Nuclear Talks - WSJ",
       "pubDate": "Sat, 31 May 2025 17:05:00 GMT"
@@ -3597,10 +3601,6 @@
   ],
   "us_politics": [
     {
-      "title": "Hamas slaps down Trump\u2019s Gaza plan - News.com.au",
-      "pubDate": "Sat, 31 May 2025 15:54:42 GMT"
-    },
-    {
       "title": "A Federal List of Immigrant \u2018Sanctuaries\u2019 Nets Trump Allies and Foes Alike - The New York Times",
       "pubDate": "Sat, 31 May 2025 20:33:09 GMT"
     },
@@ -3859,6 +3859,10 @@
     {
       "title": "Trump v Elon Musk may deliver one true winner: JD Vance - The Times",
       "pubDate": "Sat, 07 Jun 2025 23:01:00 GMT"
+    },
+    {
+      "title": "Trump's deportation program nets positive approval amid contrasting views over its scope, CBS News poll finds - CBS News",
+      "pubDate": "Sun, 08 Jun 2025 13:03:27 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3937,6 +3941,10 @@
     {
       "title": "An earthquake just off California\u2019s coast poses dire tsunami risk for many communities - Los Angeles Times",
       "pubDate": "Sun, 08 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Magnitude 6.3 earthquake shakes Colombia\u2019s capital Bogota - Al Jazeera",
+      "pubDate": "Sun, 08 Jun 2025 14:13:16 GMT"
     }
   ],
   "bitcoin": [
@@ -4176,10 +4184,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "Deep cuts erode the foundations of US public health system, end progress, threaten worse to come - AP News",
-      "pubDate": "Sat, 31 May 2025 15:03:00 GMT"
-    },
     {
       "title": "A new COVID-19 variant, vaccine changes: What to know in 2025 - USA Today",
       "pubDate": "Wed, 04 Jun 2025 21:02:15 GMT"
