@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say - NPR",
-      "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric - NPR",
       "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
     },
@@ -659,10 +655,6 @@
       "pubDate": "Sat, 31 May 2025 13:52:35 GMT"
     },
     {
-      "title": "Russian Air Attacks Kill Two in Ukraine - The Moscow Times",
-      "pubDate": "Sat, 31 May 2025 09:22:00 GMT"
-    },
-    {
       "title": "At least 10 killed, 33 injured in Russian attacks across Ukraine overnight, officials say - ABC News",
       "pubDate": "Sat, 31 May 2025 11:05:01 GMT"
     },
@@ -1093,13 +1085,13 @@
     {
       "title": "Ukrainian drone attacks force airport shutdowns near Moscow, mayor says - The Kyiv Independent",
       "pubDate": "Sun, 08 Jun 2025 08:01:29 GMT"
+    },
+    {
+      "title": "Ukraine drone barrage targets Moscow as Zelenskyy demands accountability for Putin - ABC News",
+      "pubDate": "Sun, 08 Jun 2025 08:50:39 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Expert Worries Fed Cuts and Recession Risk Could be Ahead for Mass - Franklin Observer",
-      "pubDate": "Sat, 31 May 2025 09:09:25 GMT"
-    },
     {
       "title": "Forget tariffs, here's why CEOs worry about a looming recession - TheStreet",
       "pubDate": "Sat, 31 May 2025 14:07:00 GMT"
@@ -1258,10 +1250,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "North Korea Gets a Weapons Bonanza From Russia - The New York Times",
-      "pubDate": "Sat, 31 May 2025 09:02:02 GMT"
-    },
     {
       "title": "Russia\u2019s drone \u2018safaris\u2019 haunt Ukrainians in front-line city - The Hill",
       "pubDate": "Sat, 31 May 2025 10:00:00 GMT"
@@ -1465,17 +1453,13 @@
     {
       "title": "ECB should watch out for price hikes from U.S. tariffs, Schnabel says - Reuters",
       "pubDate": "Sat, 07 Jun 2025 14:41:20 GMT"
+    },
+    {
+      "title": "ECB\u2019s Central Rate Scenario May Need Fine-Tuning, Escriva Says - Bloomberg.com",
+      "pubDate": "Sun, 08 Jun 2025 09:11:26 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Snowflake - The Motley Fool",
-      "pubDate": "Sat, 31 May 2025 09:25:00 GMT"
-    },
-    {
-      "title": "Why artificial intelligence has secured its place in special forces' operations - Shephard Media",
-      "pubDate": "Sat, 31 May 2025 09:13:09 GMT"
-    },
     {
       "title": "\u2018One day I overheard my boss saying: just put it in ChatGPT\u2019: the workers who lost their jobs to AI - The Guardian",
       "pubDate": "Sat, 31 May 2025 10:45:00 GMT"
@@ -1483,10 +1467,6 @@
     {
       "title": "3 Reasons This Artificial Intelligence Stock Could Have the Biggest Comeback in 2025 - The Motley Fool",
       "pubDate": "Sat, 31 May 2025 12:15:00 GMT"
-    },
-    {
-      "title": "Meta plans to replace humans with AI to assess privacy and societal risks - NPR",
-      "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
     },
     {
       "title": "AI meets game theory: How language models perform in human-like social scenarios - Phys.org",
@@ -1943,6 +1923,10 @@
     {
       "title": "Multimodal Artificial Intelligence Using Endoscopic USG, CT, and MRI to Differentiate Between Serous and Mucinous Cystic Neoplasms - Cureus",
       "pubDate": "Sun, 08 Jun 2025 07:23:07 GMT"
+    },
+    {
+      "title": "QVAC: the open-source platform that aims to decentralize artificial intelligence (AI) - The Cryptonomist",
+      "pubDate": "Sun, 08 Jun 2025 07:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1985,6 +1969,10 @@
     {
       "title": "Federal Reserve Suffers $1,060,000,000,000 in Unrealized Losses As Central Bank\u2019s Rate Hikes Pressure Bonds - The Daily Hodl",
       "pubDate": "Sat, 07 Jun 2025 00:05:02 GMT"
+    },
+    {
+      "title": "Markets start to gear up for summer drama - TheStreet",
+      "pubDate": "Sun, 08 Jun 2025 09:14:52 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2135,10 +2123,6 @@
     {
       "title": "The U.S. Plan to Hobble China Tech Isn\u2019t Working - WSJ",
       "pubDate": "Sat, 31 May 2025 15:26:55 GMT"
-    },
-    {
-      "title": "China bristles at Macron linking Ukraine defence to Taiwan threats - Reuters",
-      "pubDate": "Sat, 31 May 2025 09:31:20 GMT"
     },
     {
       "title": "British man indicted over plot to smuggle US military technology to China - Sky News",
@@ -2599,6 +2583,10 @@
     {
       "title": "China Expert Warns Of \"Something Worse\" Than Covid After US Fungus Smuggling Case - NDTV",
       "pubDate": "Sun, 08 Jun 2025 06:28:55 GMT"
+    },
+    {
+      "title": "Export Controls to Take Center Stage at U.S.-China Trade Talks - WSJ",
+      "pubDate": "Sun, 08 Jun 2025 09:30:00 GMT"
     }
   ],
   "iran": [
@@ -3697,10 +3685,6 @@
   ],
   "us_politics": [
     {
-      "title": "Wes Moore, Tim Walz urge for a fiercer Democratic party at famed Jim Clyburn Fish Fry - ABC News",
-      "pubDate": "Sat, 31 May 2025 09:12:01 GMT"
-    },
-    {
       "title": "Senate Republicans Try Out \u2018We All Die\u2019 Slogan to Justify Medicaid Cuts - WhoWhatWhy",
       "pubDate": "Sat, 31 May 2025 10:35:31 GMT"
     },
@@ -4401,6 +4385,10 @@
     {
       "title": "Nuclear fusion record smashed as German scientists take 'a significant step forward' to near-limitless clean energy - Live Science",
       "pubDate": "Thu, 05 Jun 2025 13:52:42 GMT"
+    },
+    {
+      "title": "Nuclear fusion milestone: Germany's Wendelstein 7-X fusion reactor achieves 43-second plasma run, sets new triple product record - Business Today",
+      "pubDate": "Sun, 08 Jun 2025 09:08:19 GMT"
     }
   ],
   "brics": [
@@ -4444,10 +4432,6 @@
     }
   ],
   "world_news": [
-    {
-      "title": "Gaza \u2018hungriest place on Earth\u2019, all its people at risk of famine, UN warns - Al Jazeera",
-      "pubDate": "Sat, 31 May 2025 09:34:01 GMT"
-    },
     {
       "title": "US-backed Gaza aid group halts distribution, UN to vote on ceasefire demand - Reuters",
       "pubDate": "Wed, 04 Jun 2025 08:43:17 GMT"
