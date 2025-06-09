@@ -1,24 +1,12 @@
 {
   "donald_trump": [
     {
-      "title": "The fallout from Trump's war on Harvard will long outlast his presidency - BBC",
-      "pubDate": "Sat, 31 May 2025 23:46:24 GMT"
-    },
-    {
-      "title": "Trump to withdraw nomination of Musk ally to head NASA - PBS",
-      "pubDate": "Sat, 31 May 2025 23:51:05 GMT"
-    },
-    {
       "title": "President Trump withdraws Isaacman nomination for NASA Administrator days before confirmation vote - Spaceflight Now",
       "pubDate": "Sun, 01 Jun 2025 03:06:27 GMT"
     },
     {
       "title": "Trump drops Nasa nominee Jared Isaacman, scrapping Elon Musk\u2019s pick - The Guardian",
       "pubDate": "Sun, 01 Jun 2025 03:18:00 GMT"
-    },
-    {
-      "title": "Trump says Pakistani representatives coming to US next week for trade talks - Reuters",
-      "pubDate": "Sat, 31 May 2025 23:51:55 GMT"
     },
     {
       "title": "Trump Shares Unhinged Conspiracy Theory That Biden\u2019s a Clone - The Daily Beast",
@@ -623,13 +611,13 @@
     {
       "title": "Trump says he\u2019s meeting with military leaders at Camp David - The Hill",
       "pubDate": "Sun, 08 Jun 2025 21:58:00 GMT"
+    },
+    {
+      "title": "Judge declines to block Trump\u2019s Corporation for Public Broadcasting board firings - The Hill",
+      "pubDate": "Sun, 08 Jun 2025 22:48:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian occupation in Ukraine: Silent acts of resistance and fear - BBC",
-      "pubDate": "Sat, 31 May 2025 23:53:22 GMT"
-    },
     {
       "title": "Russia-Ukraine war: List of key events, day 1,193 - Al Jazeera",
       "pubDate": "Sun, 01 Jun 2025 00:37:37 GMT"
@@ -1077,6 +1065,10 @@
     {
       "title": "Russia says it is sending more Ukrainian soldiers\u2019 bodies to border amid spat over prisoner swap - CNN",
       "pubDate": "Sun, 08 Jun 2025 19:59:00 GMT"
+    },
+    {
+      "title": "Russian forces claim new advance deeper into Ukraine, amid dispute over dead soldiers - CNN",
+      "pubDate": "Sun, 08 Jun 2025 23:18:00 GMT"
     }
   ],
   "recession": [
@@ -1250,10 +1242,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "A bridge collapse causes a train to derail in Russia, killing at least 3 people, officials say - ABC News",
-      "pubDate": "Sat, 31 May 2025 23:46:13 GMT"
-    },
     {
       "title": "Bridge collapses onto passenger train in western Russia, killing at least 7 - CNN",
       "pubDate": "Sun, 01 Jun 2025 05:15:57 GMT"
@@ -1931,6 +1919,10 @@
     {
       "title": "How Artificial Intelligence is changing policing - WBFF",
       "pubDate": "Sun, 08 Jun 2025 12:43:37 GMT"
+    },
+    {
+      "title": "Microsoft Plans to Rank AI Models by Safety - PYMNTS.com",
+      "pubDate": "Sun, 08 Jun 2025 23:23:56 GMT"
     }
   ],
   "financial_markets": [
@@ -2092,10 +2084,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Hegseth warns Chinese invasion of Taiwan \u2018could be imminent\u2019 - NBC News",
-      "pubDate": "Sat, 31 May 2025 23:21:28 GMT"
-    },
     {
       "title": "South Korea exports fall as tariffs hit US, China shipments - Reuters",
       "pubDate": "Sun, 01 Jun 2025 01:19:00 GMT"
@@ -2582,10 +2570,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "U.S. gives Iran updated nuclear deal offer - Axios",
-      "pubDate": "Sat, 31 May 2025 23:32:48 GMT"
-    },
     {
       "title": "Iran Says It\u2019s Not After Nuclear Bombs as It Rejects IAEA Report - Bloomberg",
       "pubDate": "Sun, 01 Jun 2025 06:53:00 GMT"
@@ -3141,6 +3125,10 @@
     {
       "title": "Democrats, divided on trans issues, struggle to speak in one voice - The Washington Post",
       "pubDate": "Sun, 08 Jun 2025 10:02:14 GMT"
+    },
+    {
+      "title": "Democrats wooing Musk after the Trump breakup is US plutocracy at its best - Al Jazeera",
+      "pubDate": "Sun, 08 Jun 2025 12:15:08 GMT"
     }
   ],
   "north_korea": [
@@ -3293,6 +3281,10 @@
     {
       "title": "Israel says it has found body of Hamas military leader Mohammed Sinwar - BBC",
       "pubDate": "Sun, 08 Jun 2025 20:05:41 GMT"
+    },
+    {
+      "title": "Hamas documents reportedly show deep ties, coordination between Qatar, terror group - The Times of Israel",
+      "pubDate": "Sun, 08 Jun 2025 22:42:00 GMT"
     }
   ],
   "climate": [
@@ -3953,6 +3945,10 @@
     {
       "title": "Map: 6.3-Magnitude Earthquake Strikes Colombia - The New York Times",
       "pubDate": "Sun, 08 Jun 2025 20:56:15 GMT"
+    },
+    {
+      "title": "A 6.3 magnitude earthquake hits central Colombia, with no casualties reported - ABC News",
+      "pubDate": "Sun, 08 Jun 2025 14:58:37 GMT"
     }
   ],
   "bitcoin": [
@@ -4143,6 +4139,10 @@
     {
       "title": "Trump's Call for Rate Cuts: A Clash with the Federal Reserve - MSN",
       "pubDate": "Sun, 08 Jun 2025 19:42:11 GMT"
+    },
+    {
+      "title": "Fed Chair hit with savage message on interest rates - TheStreet",
+      "pubDate": "Sun, 08 Jun 2025 13:56:38 GMT"
     }
   ],
   "vladimir_putin": [
