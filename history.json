@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "'It's completely unsustainable': Republican lawmaker doubles down, knocks Trump tax bill - USA Today",
-      "pubDate": "Sun, 01 Jun 2025 18:30:55 GMT"
-    },
-    {
       "title": "Discrimination cases unravel as Trump scraps core civil rights tenet - The Washington Post",
       "pubDate": "Sun, 01 Jun 2025 22:24:47 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "A Trump Family Project Spurs Resignations and a Criminal Charge in Serbia - The New York Times",
       "pubDate": "Mon, 09 Jun 2025 16:25:00 GMT"
+    },
+    {
+      "title": "LA protests inch Elon Musk back to President Trump - CNN",
+      "pubDate": "Mon, 09 Jun 2025 16:59:00 GMT"
     }
   ],
   "ukraine": [
@@ -1081,13 +1081,13 @@
     {
       "title": "Ukraine claims to have damaged Russian fighter jets in night-time raid - The Guardian",
       "pubDate": "Mon, 09 Jun 2025 09:42:00 GMT"
+    },
+    {
+      "title": "Ukraine says it hit Russian MiG-31, Su-30/34 fighter jets following attack on airfield - The Kyiv Independent",
+      "pubDate": "Mon, 09 Jun 2025 07:28:44 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Global Imbalances as Global Recession EWS? - Econbrowser",
-      "pubDate": "Sun, 01 Jun 2025 19:00:57 GMT"
-    },
     {
       "title": "Rising Mortgage Rates and Recession Fears Stall a Fragile Housing Market - The New York Times",
       "pubDate": "Mon, 02 Jun 2025 09:00:55 GMT"
@@ -1405,10 +1405,6 @@
   ],
   "israel": [
     {
-      "title": "Aid ship aiming to break Israel\u2019s siege of Gaza sets sail from Italy - Al Jazeera",
-      "pubDate": "Sun, 01 Jun 2025 18:56:15 GMT"
-    },
-    {
       "title": "At Least 27 Killed After Israeli Soldiers Open Fire Near Gaza Aid Site - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 11:31:38 GMT"
     },
@@ -1460,10 +1456,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence could spark massive job loss in U.S.: Expert - Yahoo News Canada",
-      "pubDate": "Sun, 01 Jun 2025 18:26:11 GMT"
-    },
     {
       "title": "How the National Hurricane Center uses artificial intelligence to create more accurate forecasts - CBS News",
       "pubDate": "Mon, 02 Jun 2025 00:58:00 GMT"
@@ -1931,6 +1923,10 @@
     {
       "title": "Advanced AI suffers \u2018complete accuracy collapse\u2019 in face of complex problems, study finds - The Guardian",
       "pubDate": "Mon, 09 Jun 2025 17:39:00 GMT"
+    },
+    {
+      "title": "Apple unveils new operating system and AI capabilities - ABC News",
+      "pubDate": "Mon, 09 Jun 2025 18:31:28 GMT"
     }
   ],
   "financial_markets": [
@@ -2587,14 +2583,6 @@
   ],
   "iran": [
     {
-      "title": "Does damning IAEA report mark end of an Iran nuclear deal? - Al Jazeera",
-      "pubDate": "Sun, 01 Jun 2025 18:52:10 GMT"
-    },
-    {
-      "title": "Opinion | Iran\u2019s Latest Nuclear Weapons Progress - WSJ",
-      "pubDate": "Sun, 01 Jun 2025 19:02:57 GMT"
-    },
-    {
       "title": "Exclusive: Iran poised to dismiss US nuclear proposal, Iranian diplomat says - Reuters",
       "pubDate": "Mon, 02 Jun 2025 12:00:07 GMT"
     },
@@ -3143,10 +3131,6 @@
   ],
   "hamas": [
     {
-      "title": "More Than 20 Killed Near Aid Distribution Site in Gaza, Health Officials Say - The New York Times",
-      "pubDate": "Sun, 01 Jun 2025 18:35:44 GMT"
-    },
-    {
       "title": "Multiple Gaza-hostage-awareness marchers injured in attack in Boulder - NBC News",
       "pubDate": "Sun, 01 Jun 2025 22:20:20 GMT"
     },
@@ -3585,10 +3569,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump Aides Insist That Tariffs Will Remain, Even After Court Ruling - The New York Times",
-      "pubDate": "Sun, 01 Jun 2025 18:38:20 GMT"
-    },
-    {
       "title": "Trump's 'Beautiful' Bill Casts a Cloud Over Hydrogen's Future - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sun, 01 Jun 2025 21:00:00 GMT"
     },
@@ -3859,6 +3839,10 @@
     {
       "title": "Trump tax bill reveals striking shift in GOP\u2019s focus - The Washington Post",
       "pubDate": "Mon, 09 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Senate Republicans Plan to Release Major Revisions to Trump\u2019s Tax Bill - Bloomberg.com",
+      "pubDate": "Mon, 09 Jun 2025 09:00:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3873,6 +3857,10 @@
     {
       "title": "Why Circle's \u2018Super Positive\u2019 IPO Could be Bullish for Ethereum: Analysts - Decrypt",
       "pubDate": "Fri, 06 Jun 2025 18:28:39 GMT"
+    },
+    {
+      "title": "Businesses Are Bingeing on Crypto, Dialing Up the Market\u2019s Risks - WSJ",
+      "pubDate": "Mon, 09 Jun 2025 09:30:00 GMT"
     }
   ],
   "science": [
@@ -4285,6 +4273,10 @@
     {
       "title": "Nuclear fusion milestone: Germany's Wendelstein 7-X fusion reactor achieves 43-second plasma run, sets new triple product record - Business Today",
       "pubDate": "Sun, 08 Jun 2025 09:08:19 GMT"
+    },
+    {
+      "title": "New facility to accelerate materials solutions for fusion energy - MIT News",
+      "pubDate": "Mon, 09 Jun 2025 13:00:00 GMT"
     }
   ],
   "brics": [
