@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump, Xi likely to speak soon on minerals trade dispute, aides say - Reuters",
-      "pubDate": "Sun, 01 Jun 2025 15:32:27 GMT"
-    },
-    {
-      "title": "US budget chief calls fears that cuts to benefits will lead to deaths \u2018totally ridiculous\u2019 - The Guardian",
-      "pubDate": "Sun, 01 Jun 2025 16:01:00 GMT"
-    },
-    {
       "title": "Donald Trump shares false social media post saying Joe Biden was 'executed in 2020' - USA Today",
       "pubDate": "Sun, 01 Jun 2025 16:31:53 GMT"
     },
@@ -635,17 +627,13 @@
     {
       "title": "US-China trade talks: Is a thaw on the cards after Trump-Xi call? - Al Jazeera",
       "pubDate": "Mon, 09 Jun 2025 13:51:12 GMT"
+    },
+    {
+      "title": "Trump directs a new threat at Elon Musk, with an eye toward the 2026 midterm elections - MSNBC News",
+      "pubDate": "Mon, 09 Jun 2025 12:46:44 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Seven dead after two Russian bridges collapse in regions near Ukraine - The Washington Post",
-      "pubDate": "Sun, 01 Jun 2025 15:52:01 GMT"
-    },
-    {
-      "title": "Ukraine says it hit dozens of Russian bombers in daring drone attack - politico.eu",
-      "pubDate": "Sun, 01 Jun 2025 16:04:00 GMT"
-    },
     {
       "title": "Russia and Ukraine step up the war on eve of peace talks - Reuters",
       "pubDate": "Sun, 01 Jun 2025 17:32:13 GMT"
@@ -1089,6 +1077,10 @@
     {
       "title": "Russia hits Ukraine with record 479-drone strike ahead of POW swap - Al Jazeera",
       "pubDate": "Mon, 09 Jun 2025 12:45:00 GMT"
+    },
+    {
+      "title": "Ukraine claims to have damaged Russian fighter jets in night-time raid - The Guardian",
+      "pubDate": "Mon, 09 Jun 2025 09:42:00 GMT"
     }
   ],
   "recession": [
@@ -1263,6 +1255,10 @@
     {
       "title": "Market Talk: Expect a slowdown in the US but no recession - Reuters",
       "pubDate": "Mon, 09 Jun 2025 11:00:38 GMT"
+    },
+    {
+      "title": "As more customers default on BNPL loans, Klarna\u2019s CEO predicts AI will cause a recession - Fortune",
+      "pubDate": "Mon, 09 Jun 2025 14:47:00 GMT"
     }
   ],
   "russia": [
@@ -1467,10 +1463,6 @@
     {
       "title": "AI-Powered Real Estate Tools - Trend Hunter",
       "pubDate": "Sun, 01 Jun 2025 17:56:49 GMT"
-    },
-    {
-      "title": "Artificial intelligence poses a bigger threat to jobs held by women - Gazeta Express",
-      "pubDate": "Sun, 01 Jun 2025 15:49:00 GMT"
     },
     {
       "title": "Analysis | Musk and DOGE are a metaphor for early months of Trump\u2019s administration - The Washington Post",
@@ -1935,6 +1927,10 @@
     {
       "title": "Amazon plans to invest $20 billion in Pennsylvania to expand cloud computing infrastructure and advance AI innovation - About Amazon",
       "pubDate": "Mon, 09 Jun 2025 14:35:28 GMT"
+    },
+    {
+      "title": "Lecturers are struggling with students\u2019 use of AI - The Guardian",
+      "pubDate": "Mon, 09 Jun 2025 15:32:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1973,6 +1969,10 @@
     {
       "title": "Markets start to gear up for summer drama - TheStreet",
       "pubDate": "Sun, 08 Jun 2025 09:14:52 GMT"
+    },
+    {
+      "title": "US stocks drift and Chinese markets rise as trade talks start between the world\u2019s largest economies - Boston Herald",
+      "pubDate": "Mon, 09 Jun 2025 14:06:45 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2107,10 +2107,6 @@
     {
       "title": "China launches spacecraft headed for asteroids near Mars - KCRA",
       "pubDate": "Sun, 01 Jun 2025 16:26:00 GMT"
-    },
-    {
-      "title": "Jamie Dimon says he wouldn't count on China folding under Trump's tariffs: 'They're not scared, folks.' - Business Insider",
-      "pubDate": "Sun, 01 Jun 2025 15:39:00 GMT"
     },
     {
       "title": "Why China feels \u2018emboldened\u2019 in its trade war with the U.S. - MSNBC News",
@@ -2587,6 +2583,10 @@
     {
       "title": "China launches Tianwen-2 for asteroid sampling - People's Daily Online",
       "pubDate": "Mon, 09 Jun 2025 05:51:00 GMT"
+    },
+    {
+      "title": "China has a valuable card to play as it holds trade talks with the US today - CNN",
+      "pubDate": "Mon, 09 Jun 2025 12:42:00 GMT"
     }
   ],
   "iran": [
@@ -2648,10 +2648,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Stock market\u2019s haul in May comes as tariff turmoil and job angst lurk on the horizon - MarketWatch",
-      "pubDate": "Sun, 01 Jun 2025 16:00:00 GMT"
-    },
     {
       "title": "Fed Chair Powell has closed door meeting at the White House on interest rate cuts - TheStreet",
       "pubDate": "Mon, 02 Jun 2025 00:06:23 GMT"
@@ -3363,13 +3359,13 @@
     {
       "title": "Scientists Uncover Flaw in Climate Models: Clouds Are Supercharging Arctic Warming - SciTechDaily",
       "pubDate": "Mon, 09 Jun 2025 14:07:41 GMT"
+    },
+    {
+      "title": "NOAA : Carbon Dioxide in Atmosphere Reaches Highest Level in Millions of Years - Democracy Now!",
+      "pubDate": "Mon, 09 Jun 2025 14:54:25 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Meta reportedly replacing human risk assessors with AI - Mashable",
-      "pubDate": "Sun, 01 Jun 2025 15:56:59 GMT"
-    },
     {
       "title": "Experts Warn of AI\u2019s Self-Preservation Tactics in New Tests - Men's Journal",
       "pubDate": "Mon, 02 Jun 2025 02:35:59 GMT"
