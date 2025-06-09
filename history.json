@@ -1,20 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "Obscure provision in House bill threatens enforcement of court rulings on Trump - USA Today",
-      "pubDate": "Sun, 01 Jun 2025 09:15:25 GMT"
-    },
-    {
-      "title": "Why Trump is really going after Harvard - The Guardian",
-      "pubDate": "Sun, 01 Jun 2025 10:01:00 GMT"
-    },
-    {
       "title": "Investors eye May jobs report and Trump tariff updates: What to know this week - Yahoo Finance",
       "pubDate": "Sun, 01 Jun 2025 11:32:07 GMT"
-    },
-    {
-      "title": "Trump says he will withdraw nomination of Musk associate Jared Isaacman to lead NASA - NPR",
-      "pubDate": "Sun, 01 Jun 2025 09:33:07 GMT"
     },
     {
       "title": "Trump Spreads Bizarre Conspiracy Theory That Biden Was Executed and Replaced by a Robot Clone - Rolling Stone",
@@ -631,6 +619,10 @@
     {
       "title": "LA immigration raid protests intensify after Trump deploys National Guard - France 24",
       "pubDate": "Sun, 08 Jun 2025 22:23:00 GMT"
+    },
+    {
+      "title": "Donald Trump Authorizes Officials to Take 'Action Necessary to Liberate' LA - Newsweek",
+      "pubDate": "Sun, 08 Jun 2025 22:25:13 GMT"
     }
   ],
   "ukraine": [
@@ -1085,6 +1077,10 @@
     {
       "title": "Russia claims key Ukraine advance as peace talks stall - Yahoo",
       "pubDate": "Sun, 08 Jun 2025 18:03:12 GMT"
+    },
+    {
+      "title": "Ukraine says Russia launches record overnight drone attack - WXII",
+      "pubDate": "Mon, 09 Jun 2025 09:03:00 GMT"
     }
   ],
   "recession": [
@@ -1251,6 +1247,10 @@
     {
       "title": "Survey: Recession fears, trade uncertainty fuel economic pessimism - Public News Service",
       "pubDate": "Mon, 09 Jun 2025 07:02:38 GMT"
+    },
+    {
+      "title": "Trump actions could force a recession for colleges, R.I. higher ed leader says - The Boston Globe",
+      "pubDate": "Mon, 09 Jun 2025 09:03:11 GMT"
     }
   ],
   "russia": [
@@ -1453,10 +1453,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "ChatGPT Is Making Us Weird - Business Insider",
-      "pubDate": "Sun, 01 Jun 2025 09:22:00 GMT"
-    },
-    {
       "title": "Artificial Intelligence in Peripheral Artery Disease Education: A Battle Between ChatGPT and Google Gemini - Cureus",
       "pubDate": "Sun, 01 Jun 2025 10:19:36 GMT"
     },
@@ -1471,10 +1467,6 @@
     {
       "title": "Major battery innovation pushes electric vehicle range to over 3,000 miles - The Brighter Side of News",
       "pubDate": "Sun, 01 Jun 2025 11:51:00 GMT"
-    },
-    {
-      "title": "Artificial Intelligence as a Pathway to Normalization Between Israel and Saudi Arabia: Post-Gaza War Prospects - Middle East Forum",
-      "pubDate": "Sun, 01 Jun 2025 09:02:40 GMT"
     },
     {
       "title": "Artificial intelligence could spark massive job loss in U.S.: Expert - Yahoo News Canada",
@@ -1927,6 +1919,10 @@
     {
       "title": "Getty's landmark UK lawsuit on copyright and AI set to begin - Reuters",
       "pubDate": "Mon, 09 Jun 2025 06:35:00 GMT"
+    },
+    {
+      "title": "AI Infrastructure Trade Roars Back as Tech Giants Boost Spending - Bloomberg",
+      "pubDate": "Mon, 09 Jun 2025 09:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2089,13 +2085,13 @@
     {
       "title": "New disputes emerge ahead of US-China trade talks in London - AP News",
       "pubDate": "Mon, 09 Jun 2025 01:52:00 GMT"
+    },
+    {
+      "title": "US and China kick off fresh round of trade talks in London over intractable issues - CNN",
+      "pubDate": "Mon, 09 Jun 2025 08:21:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China warns US not to \u2018play with fire\u2019 over Taiwan - Al Jazeera",
-      "pubDate": "Sun, 01 Jun 2025 09:28:09 GMT"
-    },
     {
       "title": "China is waking up from its property nightmare - The Economist",
       "pubDate": "Sun, 01 Jun 2025 14:55:37 GMT"
@@ -3273,10 +3269,6 @@
   ],
   "climate": [
     {
-      "title": "Study: Expect more hurricanes like Frances in a warmer world, but with way more rain - Florida Today",
-      "pubDate": "Sun, 01 Jun 2025 09:06:27 GMT"
-    },
-    {
       "title": "Rising seas, real risks: Chatham seeks community input on climate strategy - Cape Cod Times",
       "pubDate": "Mon, 02 Jun 2025 03:12:43 GMT"
     },
@@ -3351,13 +3343,13 @@
     {
       "title": "Scientists issue warning over unpredictable threats as hurricane season begins: 'Known unknowns' - The Cool Down",
       "pubDate": "Mon, 09 Jun 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Climate Change Heightens Risk Of Indian Farmer Suicides - Barron's",
+      "pubDate": "Mon, 09 Jun 2025 05:56:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Commentary: We regulate taco carts more than artificial intelligence - Times Union",
-      "pubDate": "Sun, 01 Jun 2025 09:16:14 GMT"
-    },
     {
       "title": "Straight Out of a Sci-Fi Movie: An AI Managed to Rewrite Its Own Code to Prevent Humans From Shutting It Down - The Daily Galaxy",
       "pubDate": "Sun, 01 Jun 2025 11:00:00 GMT"
@@ -3580,10 +3572,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House GOP passed trillions in tax cuts. How Trump's 'big bill' could change in the Senate - CNBC",
-      "pubDate": "Sun, 01 Jun 2025 10:00:01 GMT"
-    },
     {
       "title": "'We can't let our foot off the gas pedal': Jeffries on Dems' plan to counter 'Trump's one, big ugly bill' - CNN",
       "pubDate": "Sun, 01 Jun 2025 14:56:46 GMT"
@@ -4182,14 +4170,6 @@
     }
   ],
   "republican_party": [
-    {
-      "title": "Loan plan in Republican bill could worsen doctor shortage, experts warn - The Guardian",
-      "pubDate": "Sun, 01 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Why stricter voting laws no longer help Republicans - The Economist",
-      "pubDate": "Sun, 01 Jun 2025 09:55:56 GMT"
-    },
     {
       "title": "Musk turns on Republicans - and gives Trump's bill a harder path - BBC",
       "pubDate": "Wed, 04 Jun 2025 20:13:50 GMT"
