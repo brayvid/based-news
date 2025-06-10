@@ -5,10 +5,6 @@
       "pubDate": "Mon, 02 Jun 2025 12:11:05 GMT"
     },
     {
-      "title": "Trump is threatening to impose tariffs on two American companies - CNN",
-      "pubDate": "Mon, 02 Jun 2025 11:40:00 GMT"
-    },
-    {
       "title": "Trump administration live updates: Senate prepares for work on GOP agenda bill as Congress returns from recess - NBC News",
       "pubDate": "Mon, 02 Jun 2025 13:51:23 GMT"
     },
@@ -635,13 +631,13 @@
     {
       "title": "LA protesters and police in standoff as Trump doubles National Guard deployment - CNN",
       "pubDate": "Tue, 10 Jun 2025 10:03:00 GMT"
+    },
+    {
+      "title": "Trump news at a glance: president ratchets up threats, troop deployment amid LA protests - The Guardian",
+      "pubDate": "Tue, 10 Jun 2025 00:01:03 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia, Ukraine set to hold more peace talks after Kyiv strikes nuclear-capable bombers - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 11:36:46 GMT"
-    },
     {
       "title": "Ukraine-Russia peace talks end after barely an hour, Turkish officials say - Reuters",
       "pubDate": "Mon, 02 Jun 2025 13:33:37 GMT"
@@ -1445,14 +1441,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta aims to fully automate advertising with AI by 2026, WSJ reports - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 11:36:40 GMT"
-    },
-    {
-      "title": "Goodbye to 8,000 jobs - IBM replaces workers with artificial intelligence, sparking a wave of global reactions - Uni\u00f3n Rayo",
-      "pubDate": "Mon, 02 Jun 2025 12:00:52 GMT"
-    },
-    {
       "title": "Machine learning and generative AI: What are they good for in 2025? - MIT Sloan",
       "pubDate": "Mon, 02 Jun 2025 13:38:54 GMT"
     },
@@ -2121,13 +2109,13 @@
     {
       "title": "US-China trade war sideswipes Europe\u2019s carmakers - politico.eu",
       "pubDate": "Tue, 10 Jun 2025 03:30:00 GMT"
+    },
+    {
+      "title": "From Visas to Jets, US and China Are Finding New Trade Leverage - Bloomberg",
+      "pubDate": "Tue, 10 Jun 2025 09:00:40 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China Says U.S. Is \u2018Seriously Violating\u2019 Trade Truce. Tensions Are Rising Again. - Barron's",
-      "pubDate": "Mon, 02 Jun 2025 11:06:00 GMT"
-    },
     {
       "title": "US Warship Challenged Beijing's South China Sea Claims, Navy Says - Newsweek",
       "pubDate": "Mon, 02 Jun 2025 14:26:30 GMT"
@@ -2615,17 +2603,13 @@
     {
       "title": "China Sends Two Aircraft Carriers Into Pacific Ocean in a First - Bloomberg",
       "pubDate": "Tue, 10 Jun 2025 08:24:43 GMT"
+    },
+    {
+      "title": "China to make all hospitals offer epidurals to incentivize childbirth - CNN",
+      "pubDate": "Tue, 10 Jun 2025 02:53:00 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Exclusive: Iran poised to dismiss US nuclear proposal, Iranian diplomat says - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 12:00:07 GMT"
-    },
-    {
-      "title": "Iran demands sanctions relief guarantee in nuclear talks with US - Al Jazeera",
-      "pubDate": "Mon, 02 Jun 2025 11:23:32 GMT"
-    },
     {
       "title": "Trump claims U.S. won't let Iran enrich uranium under nuclear deal - Axios",
       "pubDate": "Tue, 03 Jun 2025 13:09:05 GMT"
@@ -3293,10 +3277,6 @@
       "pubDate": "Mon, 02 Jun 2025 16:00:00 GMT"
     },
     {
-      "title": "EU science advisers slam Brussels\u2019 weakened 2040 climate plans - politico.eu",
-      "pubDate": "Mon, 02 Jun 2025 12:01:00 GMT"
-    },
-    {
       "title": "How climate change is affecting hurricanes - NBC Connecticut",
       "pubDate": "Mon, 02 Jun 2025 19:31:24 GMT"
     },
@@ -3585,13 +3565,13 @@
     {
       "title": "Campaigners urge UK regulator to curb Meta\u2019s AI in safety - Tech in Asia",
       "pubDate": "Tue, 10 Jun 2025 01:40:00 GMT"
+    },
+    {
+      "title": "Center for AI Standards and Innovation: the new frontier of security in artificial intelligence (AI) - The Cryptonomist",
+      "pubDate": "Tue, 10 Jun 2025 09:45:11 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate tries to pass Trump's budget plan. And, people burned in Colorado attack - NPR",
-      "pubDate": "Mon, 02 Jun 2025 11:05:18 GMT"
-    },
     {
       "title": "Boulder attack suspect Mohammed Soliman in US illegally: Homeland Security - ABC7 Chicago",
       "pubDate": "Mon, 02 Jun 2025 13:45:52 GMT"
@@ -3979,6 +3959,10 @@
     {
       "title": "Legendary fund manager sends blunt 6-word message on bitcoin - TheStreet",
       "pubDate": "Sat, 07 Jun 2025 23:47:40 GMT"
+    },
+    {
+      "title": "Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions - TradingView",
+      "pubDate": "Tue, 10 Jun 2025 09:30:01 GMT"
     }
   ],
   "cybersecurity": [
