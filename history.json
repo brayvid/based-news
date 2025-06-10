@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump-backed nationalist clinches Poland's presidency - CNBC",
-      "pubDate": "Mon, 02 Jun 2025 07:45:04 GMT"
-    },
-    {
       "title": "Trump overshadows Supreme Court as ruling season begins - NBC News",
       "pubDate": "Mon, 02 Jun 2025 09:00:00 GMT"
     },
@@ -643,13 +639,13 @@
     {
       "title": "LA protests live: Trump orders fresh troop deployment as unrest continues into fourth day - BBC",
       "pubDate": "Tue, 10 Jun 2025 05:51:00 GMT"
+    },
+    {
+      "title": "Trump to California: Surrender - Time Magazine",
+      "pubDate": "Mon, 09 Jun 2025 20:44:17 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia launches deadly attacks across Ukraine before Istanbul talks with Kyiv \u2013 Russia-Ukraine war live - The Guardian",
-      "pubDate": "Mon, 02 Jun 2025 07:14:00 GMT"
-    },
     {
       "title": "Russia and Ukraine to talk about peace but are still far apart - Reuters",
       "pubDate": "Mon, 02 Jun 2025 08:19:22 GMT"
@@ -1073,6 +1069,10 @@
     {
       "title": "Russia and Ukraine begin new prisoner swap as drone war and front-line battle continue apace - CBS News",
       "pubDate": "Tue, 10 Jun 2025 00:01:05 GMT"
+    },
+    {
+      "title": "Russia's latest drone strikes hit Kyiv, maternity ward in Odesa, Ukraine says - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 05:54:00 GMT"
     }
   ],
   "recession": [
@@ -1460,10 +1460,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Billionaire Bill Ackman Wants to Be the Next Warren Buffett, and He Is Buying an AI Stock Up 855% in 10 Years (Hint: Not Nvidia) - Yahoo",
-      "pubDate": "Mon, 02 Jun 2025 07:10:00 GMT"
-    },
     {
       "title": "AI Cracks Mars Mystery: 500,000 Streaks Solved Without a Drop of Water - SciTechDaily",
       "pubDate": "Mon, 02 Jun 2025 08:23:20 GMT"
@@ -1951,6 +1947,10 @@
     {
       "title": "OpenAI reaches $10B in annual recurring revenue as ChatGPT adoption accelerates - SiliconANGLE",
       "pubDate": "Mon, 09 Jun 2025 23:05:26 GMT"
+    },
+    {
+      "title": "Meta Is Creating a New A.I. Lab to Pursue \u2018Superintelligence\u2019 - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 07:18:31 GMT"
     }
   ],
   "financial_markets": [
@@ -1997,6 +1997,10 @@
     {
       "title": "Bitcoin, US crypto stocks rise as more firms plan BTC buys - Cointelegraph",
       "pubDate": "Tue, 10 Jun 2025 04:17:34 GMT"
+    },
+    {
+      "title": "BlackRock\u2019s Bitcoin fund blows past $70B in record pace for ETFs - Cointelegraph",
+      "pubDate": "Tue, 10 Jun 2025 04:03:14 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3015,6 +3019,10 @@
     {
       "title": "Trump tariffs killing the US economy? Tough times ahead for jobseekers and investors - The American Bazaar",
       "pubDate": "Mon, 09 Jun 2025 18:22:30 GMT"
+    },
+    {
+      "title": "US-China trade talks to resume; UK jobs market \u2018weakening\u2019 as payrolls tumble \u2013 business live - The Guardian",
+      "pubDate": "Tue, 10 Jun 2025 06:22:00 GMT"
     }
   ],
   "terrorism": [
@@ -3879,6 +3887,10 @@
     {
       "title": "ICE Raid Protests: Los Angeles Is Losing the War for Public Opinion - Bloomberg",
       "pubDate": "Mon, 09 Jun 2025 20:56:20 GMT"
+    },
+    {
+      "title": "Pentagon Sends 700 Marines to Los Angeles, Escalating Response to Protests - Bloomberg",
+      "pubDate": "Mon, 09 Jun 2025 23:17:35 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4002,10 +4014,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Analysis of AI Tools Shows 85 Percent Have Been Breached - Security Today",
-      "pubDate": "Mon, 02 Jun 2025 07:24:58 GMT"
-    },
     {
       "title": "Trump\u2019s CISA budget lays out deep job cuts, program reductions - Cybersecurity Dive",
       "pubDate": "Mon, 02 Jun 2025 15:02:39 GMT"
@@ -4271,10 +4279,6 @@
   ],
   "asteroids": [
     {
-      "title": "NASA warns! 120-foot asteroid 2025 KX8 to make close approach to Earth on June 4; here\u2019s what to expect - Times of India",
-      "pubDate": "Mon, 02 Jun 2025 07:17:00 GMT"
-    },
-    {
       "title": "Asteroid Larger Than Golden Gate Bridge Approaches Earth In Rare Event - Forbes",
       "pubDate": "Tue, 03 Jun 2025 10:00:00 GMT"
     }
@@ -4353,6 +4357,10 @@
     {
       "title": "US-backed Gaza aid group halts distribution, UN to vote on ceasefire demand - Reuters",
       "pubDate": "Wed, 04 Jun 2025 08:43:17 GMT"
+    },
+    {
+      "title": "Israel Says Gaza Aid Boat Passengers, Including Greta Thunberg, Are Being Deported - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 04:07:12 GMT"
     }
   ],
   "hurricanes": [
