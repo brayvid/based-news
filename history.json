@@ -635,16 +635,16 @@
     {
       "title": "Live updates: Trump visits troops at Fort Bragg as he faces criticism for deploying military to LA - AP News",
       "pubDate": "Tue, 10 Jun 2025 20:41:00 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Trump announces Army bases will receive old names again - ABC News",
+      "pubDate": "Tue, 10 Jun 2025 21:05:00 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Ukraine\u2019s drone attack a \u2018humiliation\u2019 that reveals \u2018tactical weakness\u2019 in Russia - NBC News",
       "pubDate": "Mon, 02 Jun 2025 22:19:31 GMT"
-    },
-    {
-      "title": "Russia and Ukraine fail again to agree ceasefire but commit to prisoner swap - BBC",
-      "pubDate": "Mon, 02 Jun 2025 21:10:29 GMT"
     },
     {
       "title": "How Ukraine\u2019s Drone Arsenal Shocked Russia and Changed Modern Warfare - Bloomberg.com",
@@ -1385,6 +1385,10 @@
     {
       "title": "European Union Unveils Fresh Sanctions on Russia, Including a Nord Stream Ban - The New York Times",
       "pubDate": "Tue, 10 Jun 2025 18:24:28 GMT"
+    },
+    {
+      "title": "After 3 days of consecutive attacks on Ukraine, Russia calls UN meeting over alleged European 'threats to peace' - The Kyiv Independent",
+      "pubDate": "Tue, 10 Jun 2025 17:25:05 GMT"
     }
   ],
   "israel": [
@@ -1431,6 +1435,10 @@
     {
       "title": "Israel seized a Gaza-bound boat with Greta Thunberg on board. Can it do that? - AP News",
       "pubDate": "Mon, 09 Jun 2025 19:28:00 GMT"
+    },
+    {
+      "title": "Pressure Rises on Israel as U.K., Canada and Others Impose Sanctions on 2 Far-Right Ministers - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 17:48:21 GMT"
     }
   ],
   "inflation": [
@@ -1444,10 +1452,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence Is Making Everything Weird - Reason Magazine",
-      "pubDate": "Mon, 02 Jun 2025 21:15:41 GMT"
-    },
     {
       "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD - Yahoo Finance",
       "pubDate": "Mon, 02 Jun 2025 22:15:00 GMT"
@@ -1915,6 +1919,10 @@
     {
       "title": "AI system rolled out to boost rail safety and maintenance - Times of India",
       "pubDate": "Tue, 10 Jun 2025 12:02:00 GMT"
+    },
+    {
+      "title": "France's Mistral launches Europe's first AI reasoning model - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 21:19:45 GMT"
     }
   ],
   "financial_markets": [
@@ -1985,6 +1993,10 @@
     {
       "title": "Bitcoin Pulls Back After Latest Push Toward Record Falls Short - Bloomberg.com",
       "pubDate": "Tue, 10 Jun 2025 15:47:05 GMT"
+    },
+    {
+      "title": "Global Banks Scramble to Hire Top Talent in Booming Japan - Bloomberg.com",
+      "pubDate": "Tue, 10 Jun 2025 21:00:15 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2121,20 +2133,12 @@
   ],
   "china": [
     {
-      "title": "For Volatile Trump, Trade Pacts With China, Europe Prove Elusive - Bloomberg",
-      "pubDate": "Mon, 02 Jun 2025 21:48:25 GMT"
-    },
-    {
       "title": "China's May factory activity unexpectedly shrinks, clocking its worst drop since 2022: Caixin - CNBC",
       "pubDate": "Tue, 03 Jun 2025 02:00:00 GMT"
     },
     {
       "title": "China Private Factory Gauge Unexpectedly Shrinks After US Truce - Bloomberg.com",
       "pubDate": "Tue, 03 Jun 2025 01:48:00 GMT"
-    },
-    {
-      "title": "China Holds Leverage in Rare-Earths Trade Dispute With US - Bloomberg.com",
-      "pubDate": "Mon, 02 Jun 2025 21:31:26 GMT"
     },
     {
       "title": "China's factory activity cools in May as US tariffs hit - Reuters",
@@ -2971,6 +2975,10 @@
     {
       "title": "Trump administration live updates: Hegseth clashes with Democrats during House testimony; N.J. voters head to the polls - NBC News",
       "pubDate": "Tue, 10 Jun 2025 19:44:53 GMT"
+    },
+    {
+      "title": "World Bank Sees U.S. Growth Rate Halving as Tariffs Slow Global Economy - WSJ",
+      "pubDate": "Tue, 10 Jun 2025 14:22:00 GMT"
     }
   ],
   "terrorism": [
@@ -3949,6 +3957,10 @@
     {
       "title": "CISA Issues Alert on Erlang/OTP SSH Server RCE Vulnerability Under Active Exploitation - GBHackers News",
       "pubDate": "Tue, 10 Jun 2025 10:58:00 GMT"
+    },
+    {
+      "title": "From malware to deepfakes, generative AI is transforming attacks - Cybersecurity Dive",
+      "pubDate": "Tue, 10 Jun 2025 14:49:17 GMT"
     }
   ],
   "elon_musk": [
