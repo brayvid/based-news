@@ -643,16 +643,8 @@
   ],
   "ukraine": [
     {
-      "title": "In Drone Attacks on Russia, Ukraine Aims for Strategic and Symbolic Blow - The New York Times",
-      "pubDate": "Mon, 02 Jun 2025 15:21:37 GMT"
-    },
-    {
       "title": "Ukraine-Russia peace talks end with no deal, POW swap agreed - BBC",
       "pubDate": "Mon, 02 Jun 2025 16:17:22 GMT"
-    },
-    {
-      "title": "Russia and Ukraine reach deal on new POW swap and handover of bodies - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 15:49:47 GMT"
     },
     {
       "title": "Ukraine\u2019s Stunning Assault Roils Russia\u2019s Global Military Strategy - WSJ",
@@ -1239,6 +1231,10 @@
     {
       "title": "Is TaskRabbit a new recession indicator? Its CEO says applications to be a 'Tasker' have spiked - Business Insider",
       "pubDate": "Tue, 10 Jun 2025 09:01:00 GMT"
+    },
+    {
+      "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - CBS News",
+      "pubDate": "Tue, 10 Jun 2025 15:10:12 GMT"
     }
   ],
   "russia": [
@@ -1389,6 +1385,10 @@
     {
       "title": "EU announces punishing sanctions targeting Russian energy and banks - politico.eu",
       "pubDate": "Tue, 10 Jun 2025 14:33:57 GMT"
+    },
+    {
+      "title": "EU's new Russia sanctions to target energy sector and banks - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 13:41:21 GMT"
     }
   ],
   "israel": [
@@ -1927,6 +1927,10 @@
     {
       "title": "Meta forming new AI lab helmed by Scale AI CEO Alex Wang, report says - CNBC",
       "pubDate": "Tue, 10 Jun 2025 14:09:56 GMT"
+    },
+    {
+      "title": "F.D.A. Looks to A.I. to Enhance Efficiency - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 15:00:05 GMT"
     }
   ],
   "financial_markets": [
@@ -1985,6 +1989,10 @@
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq tread water in wait for clues on US-China trade talks - Yahoo Finance",
       "pubDate": "Tue, 10 Jun 2025 13:33:23 GMT"
+    },
+    {
+      "title": "US Stocks Drift Higher as Traders Eye US-China Trade Talks - Bloomberg.com",
+      "pubDate": "Tue, 10 Jun 2025 13:41:48 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2128,18 +2136,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Map Shows China's Arms Sales Footprint Around the World: J-35 warplanes to drones, tanks and ships - Newsweek",
-      "pubDate": "Mon, 02 Jun 2025 15:59:51 GMT"
-    },
-    {
-      "title": "China says US moves on computer chips and student visas \u2018seriously violate\u2019 tariffs truce - AP News",
-      "pubDate": "Mon, 02 Jun 2025 15:18:00 GMT"
-    },
-    {
-      "title": "China launches Qihang a 20 MW floating wind giant leaving the US in awe - Glass Almanac",
-      "pubDate": "Mon, 02 Jun 2025 15:30:23 GMT"
-    },
     {
       "title": "How the US and China Play the Fentanyl Blame Game - Bloomberg",
       "pubDate": "Mon, 02 Jun 2025 19:00:10 GMT"
@@ -2611,6 +2607,10 @@
     {
       "title": "China calls for cooperation with UK during ministers meeting - Reuters",
       "pubDate": "Tue, 10 Jun 2025 12:30:30 GMT"
+    },
+    {
+      "title": "China Challenges US Sea Power With Two Aircraft Carriers in West Pacific - Newsweek",
+      "pubDate": "Tue, 10 Jun 2025 07:46:31 GMT"
     }
   ],
   "iran": [
@@ -2679,10 +2679,6 @@
     {
       "title": "Finance leaders fear destructive U.S. debt scenario - Axios",
       "pubDate": "Mon, 02 Jun 2025 17:31:31 GMT"
-    },
-    {
-      "title": "The US Economy Has a Leak - Bloomberg.com",
-      "pubDate": "Mon, 02 Jun 2025 15:48:52 GMT"
     },
     {
       "title": "Global economy to slow as Donald Trump\u2019s trade wars hit growth, OECD warns \u2013 business live - The Guardian",
@@ -3013,10 +3009,6 @@
   ],
   "cancer": [
     {
-      "title": "Exercise Cuts Colon Cancer Recurrence and Boosts Survival, Study Finds - U.S. News & World Report",
-      "pubDate": "Mon, 02 Jun 2025 15:50:55 GMT"
-    },
-    {
       "title": "From No Hope to a Potential Cure for a Deadly Blood Cancer - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 14:45:05 GMT"
     },
@@ -3268,10 +3260,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "Many coastal communities are flooding more than we thought, researchers find - The Washington Post",
-      "pubDate": "Mon, 02 Jun 2025 16:00:00 GMT"
-    },
     {
       "title": "How climate change is affecting hurricanes - NBC Connecticut",
       "pubDate": "Mon, 02 Jun 2025 19:31:24 GMT"
@@ -4325,12 +4313,10 @@
     {
       "title": "Study reveals major health upside of going through menopause later - New York Post",
       "pubDate": "Sat, 07 Jun 2025 19:02:00 GMT"
-    }
-  ],
-  "data_science": [
+    },
     {
-      "title": "Scientists Create Framework for Analyzing Metabolic Data To Predict Disease Risk - Technology Networks",
-      "pubDate": "Mon, 02 Jun 2025 15:35:15 GMT"
+      "title": "A promising new HIV vaccine was set to start trials. Then came Trump's latest cuts : Goats and Soda - NPR",
+      "pubDate": "Tue, 10 Jun 2025 14:16:46 GMT"
     }
   ],
   "earth_science": [
