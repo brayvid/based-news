@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration live updates: Senate prepares for work on GOP agenda bill as Congress returns from recess - NBC News",
-      "pubDate": "Mon, 02 Jun 2025 13:51:23 GMT"
-    },
-    {
       "title": "Live updates: Trump reacts to Boulder attack; Supreme Court denies challenges to gun restrictions - NBC News",
       "pubDate": "Mon, 02 Jun 2025 17:37:58 GMT"
     },
@@ -635,13 +631,13 @@
     {
       "title": "Live Updates: Hegseth to be grilled on Capitol Hill; Trump heading to Fort Bragg - The Washington Post",
       "pubDate": "Tue, 10 Jun 2025 12:18:38 GMT"
+    },
+    {
+      "title": "Unstoppable force loses battle with immovable object: Elon bows to Trump - The Guardian",
+      "pubDate": "Tue, 10 Jun 2025 13:01:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia peace talks end after barely an hour, Turkish officials say - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 13:33:37 GMT"
-    },
     {
       "title": "In Drone Attacks on Russia, Ukraine Aims for Strategic and Symbolic Blow - The New York Times",
       "pubDate": "Mon, 02 Jun 2025 15:21:37 GMT"
@@ -659,16 +655,8 @@
       "pubDate": "Mon, 02 Jun 2025 16:10:00 GMT"
     },
     {
-      "title": "A surprise drone attack on airfields across Russia encapsulates Ukraine's wartime strategy - ABC News",
-      "pubDate": "Mon, 02 Jun 2025 13:31:44 GMT"
-    },
-    {
       "title": "What Ukraine\u2019s Unprecedented Drone Attack Means For Russia\u2019s Bomber Force - The War Zone",
       "pubDate": "Mon, 02 Jun 2025 18:23:22 GMT"
-    },
-    {
-      "title": "Ukraine Executes \u2018Longest Range Operation\u2019 Striking Russian Air Bases with FPV Drones - The Aviationist",
-      "pubDate": "Mon, 02 Jun 2025 13:45:17 GMT"
     },
     {
       "title": "How Ukraine carried out daring 'Spider Web' attack on Russian bombers - BBC",
@@ -1057,6 +1045,10 @@
     {
       "title": "Russia-Ukraine war live: 3 people killed in Kyiv, Odesa in Russian attacks - Al Jazeera",
       "pubDate": "Tue, 10 Jun 2025 11:35:17 GMT"
+    },
+    {
+      "title": "Sharp rise in Russian drone attacks on Ukrainian cities - BBC",
+      "pubDate": "Tue, 10 Jun 2025 12:50:32 GMT"
     }
   ],
   "recession": [
@@ -1385,6 +1377,10 @@
     {
       "title": "Massive Russian drone attack slams Kyiv and hits maternity hospital in Odesa, Ukrainian officials say - CNN",
       "pubDate": "Tue, 10 Jun 2025 09:08:00 GMT"
+    },
+    {
+      "title": "U.S. Teacher Seized by Russia Is Located in Prison - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 09:03:36 GMT"
     }
   ],
   "israel": [
@@ -1444,14 +1440,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Machine learning and generative AI: What are they good for in 2025? - MIT Sloan",
-      "pubDate": "Mon, 02 Jun 2025 13:38:54 GMT"
-    },
-    {
-      "title": "AI Stocks Face 'Show Me' Moment. Apple To Host Flagship WWDC Conference. - Investor's Business Daily",
-      "pubDate": "Mon, 02 Jun 2025 13:25:00 GMT"
-    },
     {
       "title": "Replika AI chatbot is sexually harassing users, including minors, new study claims - Live Science",
       "pubDate": "Mon, 02 Jun 2025 15:03:46 GMT"
@@ -1927,6 +1915,10 @@
     {
       "title": "Tesla\u2019s self-driving future under threat from China's auto, tech giants - Reuters",
       "pubDate": "Tue, 10 Jun 2025 05:04:00 GMT"
+    },
+    {
+      "title": "Zuckerberg Is Personally Recruiting New \u2018Superintelligence\u2019 AI Team at Meta - Bloomberg.com",
+      "pubDate": "Tue, 10 Jun 2025 13:41:59 GMT"
     }
   ],
   "financial_markets": [
@@ -1981,6 +1973,10 @@
     {
       "title": "Bitcoin surges to $108,000 as top US and Chinese officials meet to discuss tariffs - Fortune",
       "pubDate": "Tue, 10 Jun 2025 10:01:40 GMT"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq tread water in wait for clues on US-China trade talks - Yahoo Finance",
+      "pubDate": "Tue, 10 Jun 2025 13:33:23 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1995,6 +1991,10 @@
     {
       "title": "US imposes new sanctions related to Iran - www.israelhayom.com",
       "pubDate": "Fri, 06 Jun 2025 21:15:57 GMT"
+    },
+    {
+      "title": "U.S. and Kenya Conclude Successful 2025 African Chiefs of Defense Conference in Nairobi - africom.mil",
+      "pubDate": "Tue, 10 Jun 2025 12:14:53 GMT"
     }
   ],
   "trade_war": [
@@ -2113,6 +2113,10 @@
     {
       "title": "From Visas to Jets, US and China Are Finding New Trade Leverage - Bloomberg",
       "pubDate": "Tue, 10 Jun 2025 09:00:40 GMT"
+    },
+    {
+      "title": "World Bank Forecast Underscores Cost of U.S. Trade War - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 13:30:04 GMT"
     }
   ],
   "china": [
@@ -2657,14 +2661,6 @@
   ],
   "us_economy": [
     {
-      "title": "Federal Reserve still eyes rate cuts amid tariff risks - MSN",
-      "pubDate": "Mon, 02 Jun 2025 13:51:29 GMT"
-    },
-    {
-      "title": "Fed Chair Powell's speech today looms as interest rate cut debate rages on - TheStreet",
-      "pubDate": "Mon, 02 Jun 2025 13:11:28 GMT"
-    },
-    {
       "title": "US recession may be avoided despite economic challenges - Hospitality Investor",
       "pubDate": "Mon, 02 Jun 2025 16:14:51 GMT"
     },
@@ -3015,10 +3011,6 @@
     {
       "title": "Exercise Cuts Colon Cancer Recurrence and Boosts Survival, Study Finds - U.S. News & World Report",
       "pubDate": "Mon, 02 Jun 2025 15:50:55 GMT"
-    },
-    {
-      "title": "Colon cancer survival rates improved with exercise, first-of-its-kind study finds - CBS News",
-      "pubDate": "Mon, 02 Jun 2025 14:03:00 GMT"
     },
     {
       "title": "From No Hope to a Potential Cure for a Deadly Blood Cancer - The New York Times",
@@ -3576,10 +3568,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Boulder attack suspect Mohammed Soliman in US illegally: Homeland Security - ABC7 Chicago",
-      "pubDate": "Mon, 02 Jun 2025 13:45:52 GMT"
-    },
     {
       "title": "It\u2019s not just Medicaid: Republicans\u2019 megabill would sabotage the Affordable Care Act - MSNBC News",
       "pubDate": "Mon, 02 Jun 2025 16:38:09 GMT"
