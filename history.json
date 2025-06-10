@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Donald Trump's Reported Database Move Sparks Alarm: 'Dystopian' - Newsweek",
-      "pubDate": "Mon, 02 Jun 2025 10:47:26 GMT"
-    },
-    {
       "title": "Major Companies Abandon Law Firms That Signed Deals with Trump: Report - Newsweek",
       "pubDate": "Mon, 02 Jun 2025 12:11:05 GMT"
     },
@@ -635,13 +631,13 @@
     {
       "title": "Trump Sends Additional Troops To LA As Immigration Protests Escalate - NDTV",
       "pubDate": "Tue, 10 Jun 2025 01:16:00 GMT"
+    },
+    {
+      "title": "LA protesters and police in standoff as Trump doubles National Guard deployment - CNN",
+      "pubDate": "Tue, 10 Jun 2025 10:03:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine's massive drone attack deep inside Russia lays bare Putin's vulnerability - NBC News",
-      "pubDate": "Mon, 02 Jun 2025 10:38:32 GMT"
-    },
     {
       "title": "Russia, Ukraine set to hold more peace talks after Kyiv strikes nuclear-capable bombers - Reuters",
       "pubDate": "Mon, 02 Jun 2025 11:36:46 GMT"
@@ -1061,6 +1057,10 @@
     {
       "title": "2 killed in Ukraine as Russia launches hundreds of drones, missiles - ABC News",
       "pubDate": "Tue, 10 Jun 2025 07:18:45 GMT"
+    },
+    {
+      "title": "Russia launches one of war's largest air attacks on Kyiv - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 09:56:01 GMT"
     }
   ],
   "recession": [
@@ -1381,6 +1381,10 @@
     {
       "title": "Russia-Ukraine war: List of key events, day 1,202 - Al Jazeera",
       "pubDate": "Tue, 10 Jun 2025 02:55:36 GMT"
+    },
+    {
+      "title": "Massive Russian drone attack slams Kyiv and hits maternity hospital in Odesa, Ukrainian officials say - CNN",
+      "pubDate": "Tue, 10 Jun 2025 09:08:00 GMT"
     }
   ],
   "israel": [
@@ -1927,6 +1931,10 @@
     {
       "title": "Is ChatGPT Down? What We Know About OpenAI Outage Reports - Newsweek",
       "pubDate": "Tue, 10 Jun 2025 09:35:14 GMT"
+    },
+    {
+      "title": "Tesla\u2019s self-driving future under threat from China's auto, tech giants - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 05:04:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1977,6 +1985,10 @@
     {
       "title": "BlackRock\u2019s Bitcoin fund blows past $70B in record pace for ETFs - Cointelegraph",
       "pubDate": "Tue, 10 Jun 2025 04:03:14 GMT"
+    },
+    {
+      "title": "Bitcoin surges to $108,000 as top US and Chinese officials meet to discuss tariffs - Fortune",
+      "pubDate": "Tue, 10 Jun 2025 10:01:40 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2999,6 +3011,10 @@
     {
       "title": "US-China trade talks to resume; UK jobs market \u2018weakening\u2019 as payrolls tumble \u2013 business live - The Guardian",
       "pubDate": "Tue, 10 Jun 2025 06:22:00 GMT"
+    },
+    {
+      "title": "US small business sentiment improves in May, but uncertainty rising - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 10:04:24 GMT"
     }
   ],
   "terrorism": [
@@ -3012,10 +3028,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Major study proves exercise improves cancer survival - BBC",
-      "pubDate": "Mon, 02 Jun 2025 10:04:32 GMT"
-    },
     {
       "title": "Exercise Cuts Colon Cancer Recurrence and Boosts Survival, Study Finds - U.S. News & World Report",
       "pubDate": "Mon, 02 Jun 2025 15:50:55 GMT"
@@ -3355,13 +3367,13 @@
     {
       "title": "NOAA : Carbon Dioxide in Atmosphere Reaches Highest Level in Millions of Years - Democracy Now!",
       "pubDate": "Mon, 09 Jun 2025 14:54:25 GMT"
+    },
+    {
+      "title": "BlackRock, other funds clash with Republican states over evidence in climate-investing case - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 01:57:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "NY AI safety bill picks up from Wiener\u2019s - San Francisco Examiner",
-      "pubDate": "Mon, 02 Jun 2025 11:00:00 GMT"
-    },
     {
       "title": "New Anthropic AI Models Demonstrate Coding Prowess, Behavior Risks - Campus Technology",
       "pubDate": "Mon, 02 Jun 2025 18:06:17 GMT"
@@ -3591,10 +3603,6 @@
     {
       "title": "Democrats ask Supreme Court to let them defend political contribution limits - CBS News",
       "pubDate": "Mon, 02 Jun 2025 16:08:45 GMT"
-    },
-    {
-      "title": "Man arrested over Colorado fire attack - The Economist",
-      "pubDate": "Mon, 02 Jun 2025 10:49:23 GMT"
     },
     {
       "title": "Trump Administration Live Updates: President Shows No Sign of Retreat on Tariffs - The New York Times",
