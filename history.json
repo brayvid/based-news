@@ -639,6 +639,10 @@
     {
       "title": "President touts \u2018Trump accounts\u2019 that would create investments for American babies - The Washington Post",
       "pubDate": "Tue, 10 Jun 2025 03:19:00 GMT"
+    },
+    {
+      "title": "LA protests live: Trump orders fresh troop deployment as unrest continues into fourth day - BBC",
+      "pubDate": "Tue, 10 Jun 2025 05:51:00 GMT"
     }
   ],
   "ukraine": [
@@ -1393,6 +1397,10 @@
     {
       "title": "Russia ready to attack Nato by 2030, warns alliance chief - The Telegraph",
       "pubDate": "Mon, 09 Jun 2025 16:06:43 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,202 - Al Jazeera",
+      "pubDate": "Tue, 10 Jun 2025 02:55:36 GMT"
     }
   ],
   "israel": [
@@ -1452,10 +1460,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The AI copyright standoff continues - with no solution in sight - BBC",
-      "pubDate": "Mon, 02 Jun 2025 06:22:46 GMT"
-    },
     {
       "title": "Billionaire Bill Ackman Wants to Be the Next Warren Buffett, and He Is Buying an AI Stock Up 855% in 10 Years (Hint: Not Nvidia) - Yahoo",
       "pubDate": "Mon, 02 Jun 2025 07:10:00 GMT"
@@ -1943,6 +1947,10 @@
     {
       "title": "Academic Publishers Sign AI Deals as Trump Cuts Research Funding - Bloomberg",
       "pubDate": "Tue, 10 Jun 2025 05:00:00 GMT"
+    },
+    {
+      "title": "OpenAI reaches $10B in annual recurring revenue as ChatGPT adoption accelerates - SiliconANGLE",
+      "pubDate": "Mon, 09 Jun 2025 23:05:26 GMT"
     }
   ],
   "financial_markets": [
@@ -1985,6 +1993,10 @@
     {
       "title": "BlackRock\u2019s Bitcoin ETF becomes fastest-ever ETF to accumulate $70 billion - Fortune",
       "pubDate": "Mon, 09 Jun 2025 19:21:00 GMT"
+    },
+    {
+      "title": "Bitcoin, US crypto stocks rise as more firms plan BTC buys - Cointelegraph",
+      "pubDate": "Tue, 10 Jun 2025 04:17:34 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2002,14 +2014,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "China hits back at Trump, saying U.S. actions 'severely undermine' trade truce - NBC News",
-      "pubDate": "Mon, 02 Jun 2025 06:34:00 GMT"
-    },
-    {
-      "title": "China accuses US of \u2018seriously violating\u2019 trade war truce \u2013 business live - The Guardian",
-      "pubDate": "Mon, 02 Jun 2025 06:46:04 GMT"
-    },
     {
       "title": "China says U.S. violated tariff truce as trade war heats up - CBS News",
       "pubDate": "Mon, 02 Jun 2025 12:50:57 GMT"
@@ -2611,6 +2615,10 @@
     {
       "title": "China\u2019s $1.1tn asset manager becomes star player on \u2018national team\u2019 - Financial Times",
       "pubDate": "Tue, 10 Jun 2025 04:01:31 GMT"
+    },
+    {
+      "title": "Russian Intelligence Says It Collects WeChat Data. What Does That Mean? - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 04:57:12 GMT"
     }
   ],
   "iran": [
@@ -3079,6 +3087,10 @@
     {
       "title": "Rare Appendix Cancers Are Increasing Among Millennials and Gen X - The New York Times",
       "pubDate": "Mon, 09 Jun 2025 21:29:43 GMT"
+    },
+    {
+      "title": "Appendix Cancer Has Quadrupled in Millennials - Time Magazine",
+      "pubDate": "Mon, 09 Jun 2025 21:28:51 GMT"
     }
   ],
   "democratic_party": [
@@ -3162,10 +3174,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Eight Burned in Attack at Colorado Event Honoring Israeli Hostages - The New York Times",
-      "pubDate": "Mon, 02 Jun 2025 06:37:00 GMT"
-    },
     {
       "title": "Eight injured in petrol bomb and 'flamethrower' attack at rally for Hamas-held hostages in Colorado - Sky News",
       "pubDate": "Mon, 02 Jun 2025 08:37:30 GMT"
@@ -3374,10 +3382,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Delaying Artificial Intelligence The Real Existential Risk Says Joscha Bach, Scientist Says He's More Afraid That 'We Don't Build AI' - Benzinga",
-      "pubDate": "Mon, 02 Jun 2025 06:51:18 GMT"
-    },
     {
       "title": "NY AI safety bill picks up from Wiener\u2019s - San Francisco Examiner",
       "pubDate": "Mon, 02 Jun 2025 11:00:00 GMT"
@@ -4565,6 +4569,12 @@
     {
       "title": "The scientists warning the world about ocean acidification \u2013 \u2018evil twin\u2019 of the climate crisis - The Guardian",
       "pubDate": "Mon, 09 Jun 2025 04:00:00 GMT"
+    }
+  ],
+  "atmospheric_science": [
+    {
+      "title": "Near-future rocket launches could slow ozone recovery - Nature",
+      "pubDate": "Mon, 09 Jun 2025 22:10:14 GMT"
     }
   ]
 }
