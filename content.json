@@ -1,62 +1,72 @@
 {
-  "Recession": {
+  "World Economy": {
     "articles": [
       {
-        "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ITzQ0anVrWldNbVIteHVQMl9udm04aHNMN0d0S2FvNHhETnNUME0tam5Sd1BuT3d1T3hZa3diUHhGc0lfLTdkekIwX2pZcXpwWnkycUhtZGtqYXVUUm9uNTBFQmNDajhqcktUVExGSjM4SW9GaWR3ekFTa2xLdw?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 15:10:12 GMT"
+        "title": "World Bank slashes global economic outlook as trade tensions continue - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUMyR3VrX0NqUWlQcUNEYmw2T2ZtVlRjaWs4LVl5QTUzZERMV2N0OVVNQXZ6MU1sQmdTeHRVVERvNGg3QnhVTFRMRXRObjhpRlZqUDN4NHFVVjJrdWdDWU9NdWJpT1E1Z0pUQlJQQ2VmRHZFWnZtaXRucU9FMmcxVEJOUm1WWXloSmRQbi0xS05pWU9ndG9hMWwxREctZ1EzclRmM1pSeEFMYUxBTmtpdk41VdIBuAFBVV95cUxPNk9EWnMxTnh2N09YTUc2SUVBRjJ3Uk5RUzRwdDVXQ2RMMTUyUHlTdGJ4XzdJMkhZNXF6Rmk2Y3U3X0l0dG1ab29KRTFubTNWRURfenV5UVJDNjRzX3NwVE5GTjVsNEFEZGR1TE1nUW1VUGJCUmJXYTh5ZW5aZGFzNnlOV2NidnpndDZRdDBaSk5hU09ZMFBqbG1JSmlNU1FBblJZVjZUd0pLRzU5RHA0a1JHeVl3Z1pf?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 16:25:10 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "F.D.A. Looks to A.I. to Enhance Efficiency - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZER6Z2tVd29sT2tIMjJ5MlNoV3AyUXNYVDVjWHRlUmtSRTN1eUMybVNPTnNNZFlmLVZTVXpmT2VESUp6SzVlbjlsd2w5UUlBNVhFS2ZUdXN2R0RvUXV6aC1UMElZU2ltRVl4RE14TGxRU1ZKVWRaOHU4VnlEVV9OMTNlZU51b2ZsQ1k0VS1YeTFiS00?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 15:00:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
-  },
-  "Health": {
-    "articles": [
-      {
-        "title": "A promising new HIV vaccine was set to start trials. Then came Trump's latest cuts : Goats and Soda - NPR",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmVlUTBGZ0lFT0lORmZLRWpGWFY1Undhb0JqdDVlTjFSSy1jRTliOUpWbWwtSF83VHJJM3JHdjFwWWNpbFp2XzI3d0h0OTlzS1l0ZnVUazEyTWFfYVQ1Y2VQOVVtdjN5WkR0YU1tZjIyc1B0bkVuaTRUXzlEWTJ6blNHSm9mc05EOUhOWlJ0MTlHUQ?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 14:16:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "US Stocks Drift Higher as Traders Eye US-China Trade Talks - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzNmYlNJbTVhUDZxYzFtcHlDWm5WTVFpdWhSejlPRy10YUVhWm01ZEYxUHRRSkxlWXVoWnE0ZTdzbFd6TVRNaHpIM3VWbWt3aFBaT2NsT2d6Nm1yZGp2eVAtRW5HajZDeHAzZmZ4b1JueUZsaW0ydUVqN1hOc3hIakQxYWlENGg1R0pBdGVpSUNqbkwyUHdFQU1SMGZXcjcyVHc2X3RxZnh3ZzFTeHc?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 13:41:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
   },
   "Russia": {
     "articles": [
       {
-        "title": "EU's new Russia sanctions to target energy sector and banks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDRJSXhnRVRRM3RHeDAzSjJxZHZzQlVQNkk4WWNGY1FMTmJTU3E5VThnLUJiOF8yX1pRUldsMnNOOEhjZEIteUxYXzA2a09nWGVYLUs2aG5palZfSUx3em44dXpMWm96M1JsMHFVTW5pYkV5c0lSNlVGMk80bFpaTXFaV2syaWVOQ2dob05HYXlZLVNIbEtpLVVRUmVZdTlramlpUnJER0FxQ0ctSzE3czJjNDR5Z0tqSUp5UzNQMno5MGViZ0JzdklqWQ?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 13:41:21 GMT"
+        "title": "EU Proposes Nord Stream Ban, Cutting Oil Price Cap to Hit Russia - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNZy1Tb01yX19oQ2kxQ0ZPN1BmSFdnZ3c4M3lBUV84MGg2MXRpX0ZFeTNZRjF6RlBycXhTdmJOZmQ5QXpuLXpGSmVpUnIzcjNOeDZIQ0xvM2hYYU5yYVdRejg0bVdWYjExWDBlLTN2U043MThpMUJiUzJQOU04dG9CY0FaSFQxbzhJQmowOUZYc0p4NTZRZDBCR0FabHhsUUlSdWVuS3c0d0VIWEtxbVQ5WUVkcHVhaEdQWVkxb2pyWTRITG9HeGFXNUUyX25YTUpoN09rTzd0dnFFSGNsMzNQRjctaFdWbHpHeHQ0N1JFVTJwSkdZd1h5Z25QUklaYlgzTkYza09yZnBKMkFXQTdfMnZmbVA4UE5wd0NzbDF6WFpkaDItcXdDV3JiNEFwM1Qxa05RMkIwMFVkYkM2d1dqS1Z4ZnN3bG9mTmpBQXY5SEpLLWpoNDQtbG9mLU9lUXJILUg2OW9xb0ctbHRKbnZfNF9nX0Y5OTMta0lyYmt2UFJQazVtbTFaWlJtV3UtUE51YUI5T3d1NVhUdW5oTWwtUWNsSjE0d2FMR254RTBn?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 16:17:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "China Challenges US Sea Power With Two Aircraft Carriers in West Pacific - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTm1xMVpMLTZUMGVXSnl6cHp1dF9Gdlo4XzlfSTRlRUxkMFlsRFRnZmpGUGx3QVN0b2Yxa0FhUDNvUE91dmxRUC02TXlzS0hDOFA1MEtZdHVoVy1hX2JzNkdfTlF2aDVFQ0UzU1dMNHlPWUR4VVJpSWJOSWVIZmYwdWNPMkswOURGLTh0WV84TQ?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 07:46:31 GMT"
+        "title": "How rare earth minerals could give China the upper hand in U.S. trade talks - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFdXUFlxYndVVzcwVmdzc1JzTzhKVFVQVFNrY2tMdkJyaGplZC1wWVhXT0wzcEZQa2kwdkkwcExOUHV0N0ZUd3YzY24tNkdlWHlsMDZ6cklfSUhxVzRpWmVUM05jSnRDeVlGbTNzZGtDSU9UOWprUkVDNl9tWThSdjduQWpMNHRjUks5YklDeWhmZlFua2NZWENsV1FicDR6V3d6RzBMWlJhbXZCbUHSAVZBVV95cUxQbmp4U0EwZ3M1anBaMDRZOE1DZm9XTUZfYjg4S3hSUkkxX2JBZjRPSE5UdHk4MFlmcnNGU0EweGJoSnZEMmJ1dEUwSE5FRy1TeE1sRGsyUQ?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 16:05:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T16:03:35.641667+00:00"
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
+  },
+  "Climate": {
+    "articles": [
+      {
+        "title": "These Kids Fought the Climate Crisis in Court. Now They\u2019re Taking on Trump - Rolling Stone",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzNkbk00QTl2ZWlhdnB2SU92eXROaW4xVmdEY2lWRGhfWjgzZnFNUjAyc0tGbGxMdWVnYWdWRUQyUzF5WHhucVh0VjNRUWlyenFmVHN0Ni1xOWZtNjNqbnE5T2UwWWIwOWc4TW1VMk1LQVlVdndJdElpWjJoQV9RWTBhdl9qWDJDTmROalFFUGFWY1d5cGMtQQ?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 14:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "LA protests: Newsom says Trump 'deranged' as thousands more troops deployed - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaHFfRE1kc21RdVU2akRUZWFUcjEta3RpZW1JaXlBS01NRnF1WlJMWXlmemNlSFoxSEFJUkRCYTgzYkVvVmYwNGlrOG9rSmxlVU4wS1RhLXJkQdIBX0FVX3lxTE91SzZ6dDNueFhGQ2JZU0VQSWNOSXhvaDY4aXoxcWcyODgzWWM5YlI5bktMdjlyQldpVm9aY3VIZkNISlM0ZXl3T0IwUG1jNmZOYlhra0cyX3hiT0s3N3FB?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 13:50:13 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Attack drones buzz for hours over Kyiv - and they're getting more destructive - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IemtzTEdDdWNEV0k5VnQzQXBrUmJabTZDR3BpSXl6SzU1bS0zdVdTeEEyYVB0bU5GTGNJWWxBVGhhNjJhR2R6N0x3MnN3Xy1CaHI4SC1iNkdoQdIBX0FVX3lxTFBnZFVXN0JWMUdPYVItZVVyQVZJeHhUdjQ4VS1PRFJUOFFRVlV5bVpxbzFjbUJxbDQ0enFPci03ZWFNenFBbmtUY3NLWkRoR0M2YkpGSTZKcnVxUFdNOERZ?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 12:50:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Mark Zuckerberg is reportedly recruiting a team to build a \u2018superintelligence\u2019 - CNN",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZUhDRUdwN2tGRnBDaFR0NGtpbThtRjlraUljSTlxdGhDVDBoUXhYMHV4bjVrMFhSR3VEYkFWSWdfamZYNmNZZkxIRFEtLWp0VzR2VFQ5cjdPdFJ0M3JpQzRpZHlyZ2tQVzUxX3cwVkZtd2NrNVFWYU53ME9FNGfSAYQBQVVfeXFMT1hQMEphNHJoSGd1X3pqNDZlLWpGOWJYU0VZd3JvSHNSWDZseFB3NGVxeWM1d2I5UlEwWTc5aDYzd0t4SFJaMFZ0ZnRRTnhaQ1VSNzJDOVZxeVYxc3k2QVNiUEM5Y0tCeDZObWZOeUNJZHhNZFZFZkcxemZWYS13a21QVjlO?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 12:46:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-10T17:05:06.091111+00:00"
   }
 }
