@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump administration asks Supreme Court to allow mass layoff plan; Senate prepares to take up GOP megabill - NBC News",
-      "pubDate": "Mon, 02 Jun 2025 20:12:55 GMT"
-    },
-    {
-      "title": "Trump's budget calls for a 15% funding cut to the Education Department - NPR",
-      "pubDate": "Mon, 02 Jun 2025 20:33:08 GMT"
-    },
-    {
       "title": "Senators itching for Trump green light to move on Russia sanctions - The Hill",
       "pubDate": "Mon, 02 Jun 2025 23:50:00 GMT"
     },
@@ -639,6 +631,10 @@
     {
       "title": "LA protests live: National Guard troops deployed as legal battle rages - BBC",
       "pubDate": "Tue, 10 Jun 2025 12:56:15 GMT"
+    },
+    {
+      "title": "Live updates: Trump visits troops at Fort Bragg as he faces criticism for deploying military to LA - AP News",
+      "pubDate": "Tue, 10 Jun 2025 20:41:00 GMT"
     }
   ],
   "ukraine": [
@@ -1037,6 +1033,10 @@
     {
       "title": "Zelenskyy demands 'action from America' after latest Russian drone, missile attack - ABC News",
       "pubDate": "Tue, 10 Jun 2025 11:23:26 GMT"
+    },
+    {
+      "title": "Ukraine's drone attacks temporarily halt flights in Moscow, across Russia - Reuters",
+      "pubDate": "Tue, 10 Jun 2025 12:12:58 GMT"
     }
   ],
   "recession": [
@@ -1381,6 +1381,10 @@
     {
       "title": "Europe heaps harsh sanctions on Russia, saying \u2018strength is the only language\u2019 Moscow understands - CNN",
       "pubDate": "Tue, 10 Jun 2025 16:26:00 GMT"
+    },
+    {
+      "title": "European Union Unveils Fresh Sanctions on Russia, Including a Nord Stream Ban - The New York Times",
+      "pubDate": "Tue, 10 Jun 2025 18:24:28 GMT"
     }
   ],
   "israel": [
@@ -1440,14 +1444,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Experts advise businesses to adapt as use of AI grows, including to white-collar jobs - 13wham.com",
-      "pubDate": "Mon, 02 Jun 2025 20:51:06 GMT"
-    },
-    {
-      "title": "Artificial Intelligence in Pharmacovigilance: Eight Action Items for Life Sciences Companies - Sidley Austin LLP",
-      "pubDate": "Mon, 02 Jun 2025 20:49:16 GMT"
-    },
     {
       "title": "Artificial Intelligence Is Making Everything Weird - Reason Magazine",
       "pubDate": "Mon, 02 Jun 2025 21:15:41 GMT"
@@ -2011,10 +2007,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump tariffs cause trade war, raise recession concerns - thepostathens.com",
-      "pubDate": "Mon, 02 Jun 2025 21:03:00 GMT"
-    },
-    {
       "title": "U.S.-China Trade War Morphs From Tariffs Into Fight Over Supply Chain - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 21:01:24 GMT"
     },
@@ -2128,10 +2120,6 @@
     }
   ],
   "china": [
-    {
-      "title": "U.S.-China tariff truce at risk of falling apart with both sides pointing fingers - MSNBC News",
-      "pubDate": "Mon, 02 Jun 2025 20:42:04 GMT"
-    },
     {
       "title": "For Volatile Trump, Trade Pacts With China, Europe Prove Elusive - Bloomberg",
       "pubDate": "Mon, 02 Jun 2025 21:48:25 GMT"
@@ -2611,6 +2599,10 @@
     {
       "title": "Gen. Keane warns China conducting 'most comprehensive penetration' of US society in our 250-year history - Fox Business",
       "pubDate": "Tue, 10 Jun 2025 13:18:00 GMT"
+    },
+    {
+      "title": "China bans banks from luring customers with popular Labubu dolls - The Guardian",
+      "pubDate": "Tue, 10 Jun 2025 13:03:00 GMT"
     }
   ],
   "iran": [
@@ -3043,6 +3035,10 @@
     {
       "title": "Appendix Cancer Has Quadrupled in Millennials - Time Magazine",
       "pubDate": "Mon, 09 Jun 2025 21:28:51 GMT"
+    },
+    {
+      "title": "Modified CAR-T cells target widespread protein found in multiple types of cancer - Medical Xpress",
+      "pubDate": "Tue, 10 Jun 2025 19:30:04 GMT"
     }
   ],
   "democratic_party": [
@@ -3536,10 +3532,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Live updates: Trump\u2019s pledge to fix national debt faces skepticism from some Republicans - AP News",
-      "pubDate": "Mon, 02 Jun 2025 20:53:00 GMT"
-    },
     {
       "title": "Senate returns to debate Trump\u2019s big budget bill - AP News",
       "pubDate": "Mon, 02 Jun 2025 23:35:00 GMT"
@@ -4255,10 +4247,6 @@
       "pubDate": "Tue, 03 Jun 2025 02:19:44 GMT"
     },
     {
-      "title": "PAHO calls on countries to prepare health systems amid forecasts of a very active 2025 hurricane season - Pan American Health Organization (PAHO)",
-      "pubDate": "Mon, 02 Jun 2025 21:00:04 GMT"
-    },
-    {
       "title": "Acting FEMA Chief Told Staff He Didn\u2019t Know About U.S. Hurricane Season - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 16:33:00 GMT"
     },
@@ -4311,12 +4299,20 @@
     {
       "title": "Record-breaking sargassum invasion in Atlantic, Caribbean threatens to foul beach resorts - New York Post",
       "pubDate": "Wed, 04 Jun 2025 06:56:00 GMT"
+    },
+    {
+      "title": "Scientists revise timeline for possible collapse of key Atlantic ocean current - ehn.org",
+      "pubDate": "Tue, 10 Jun 2025 09:31:06 GMT"
     }
   ],
   "artificial_general_intelligence": [
     {
       "title": "OpenAI CEO Sam Altman describes his vision of the perfect AI - Windows Central",
       "pubDate": "Wed, 04 Jun 2025 09:41:26 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg is assembling a team of experts to achieve artificial general intelligence - iblnews.org",
+      "pubDate": "Tue, 10 Jun 2025 12:46:14 GMT"
     }
   ],
   "world_politics": [
