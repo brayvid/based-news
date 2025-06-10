@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump reacts to Boulder attack; Supreme Court denies challenges to gun restrictions - NBC News",
-      "pubDate": "Mon, 02 Jun 2025 17:37:58 GMT"
-    },
-    {
-      "title": "The Secret History of Trump\u2019s Private Cellphone - The Atlantic",
-      "pubDate": "Mon, 02 Jun 2025 17:12:00 GMT"
-    },
-    {
       "title": "Trump Tries to Blame Biden for Colorado Attack - Rolling Stone",
       "pubDate": "Mon, 02 Jun 2025 19:44:46 GMT"
     },
@@ -19,10 +11,6 @@
     {
       "title": "Trump's budget calls for a 15% funding cut to the Education Department - NPR",
       "pubDate": "Mon, 02 Jun 2025 20:33:08 GMT"
-    },
-    {
-      "title": "Trump's Truth posts mix wild conspiracies with market-moving policies - Axios",
-      "pubDate": "Mon, 02 Jun 2025 17:28:03 GMT"
     },
     {
       "title": "Senators itching for Trump green light to move on Russia sanctions - The Hill",
@@ -643,6 +631,10 @@
     {
       "title": "LA protests: Newsom says Trump 'deranged' as thousands more troops deployed - BBC",
       "pubDate": "Tue, 10 Jun 2025 13:50:13 GMT"
+    },
+    {
+      "title": "Live updates: Trump warns that protesters at Army parade will be \u2018met with very big force\u2019 - The Washington Post",
+      "pubDate": "Tue, 10 Jun 2025 17:09:13 GMT"
     }
   ],
   "ukraine": [
@@ -1235,13 +1227,13 @@
     {
       "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - CBS News",
       "pubDate": "Tue, 10 Jun 2025 15:10:12 GMT"
+    },
+    {
+      "title": "Libraries and rec centers at risk as San Diego officals grapple with budget cuts - Axios",
+      "pubDate": "Tue, 10 Jun 2025 13:39:49 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin 'is preparing for more war,\u2019 GOP senator warns after meeting with Zelenskyy and Macron - PBS",
-      "pubDate": "Mon, 02 Jun 2025 17:37:48 GMT"
-    },
     {
       "title": "Putin\u2019s sickening statistic: 1m Russian casualties in Ukraine - The Economist",
       "pubDate": "Mon, 02 Jun 2025 18:51:16 GMT"
@@ -1452,10 +1444,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI could 'devastate' Earth's population down to the size of the UK by 2300, expert warns: 'People really don't have a clue' - New York Post",
-      "pubDate": "Mon, 02 Jun 2025 17:10:00 GMT"
-    },
     {
       "title": "What Is AI SEO? How Artificial Intelligence Is Changing Search Optimization - Search Engine Land",
       "pubDate": "Mon, 02 Jun 2025 18:28:27 GMT"
@@ -1993,6 +1981,10 @@
     {
       "title": "US Stocks Drift Higher as Traders Eye US-China Trade Talks - Bloomberg.com",
       "pubDate": "Tue, 10 Jun 2025 13:41:48 GMT"
+    },
+    {
+      "title": "In China, fears grow of an EV financial crisis amid pricing war - CNBC",
+      "pubDate": "Tue, 10 Jun 2025 16:57:34 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2611,6 +2603,10 @@
     {
       "title": "How rare earth minerals could give China the upper hand in U.S. trade talks - NBC News",
       "pubDate": "Tue, 10 Jun 2025 16:05:03 GMT"
+    },
+    {
+      "title": "China Makes Childbirth Change Amid Falling Birth Rate - Newsweek",
+      "pubDate": "Tue, 10 Jun 2025 17:26:03 GMT"
     }
   ],
   "iran": [
@@ -2660,22 +2656,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Fed likely on track to lower rates after bumpy period, says Goolsbee - Reuters",
-      "pubDate": "Mon, 02 Jun 2025 17:51:04 GMT"
-    },
-    {
-      "title": "Consumers Are Financing Their Groceries. What Does It Say About the Economy? - The New York Times",
-      "pubDate": "Mon, 02 Jun 2025 17:12:11 GMT"
-    },
-    {
-      "title": "Federal Reserve\u2019s Goolsbee sees path to lower interest rates despite recent turbulence - Seeking Alpha",
-      "pubDate": "Mon, 02 Jun 2025 18:02:00 GMT"
-    },
-    {
-      "title": "Finance leaders fear destructive U.S. debt scenario - Axios",
-      "pubDate": "Mon, 02 Jun 2025 17:31:31 GMT"
-    },
     {
       "title": "Global economy to slow as Donald Trump\u2019s trade wars hit growth, OECD warns \u2013 business live - The Guardian",
       "pubDate": "Tue, 03 Jun 2025 06:17:00 GMT"
@@ -3557,6 +3537,10 @@
     {
       "title": "New York\u2019s RAISE Act Misses AI Safety Risks - City Journal",
       "pubDate": "Tue, 10 Jun 2025 07:44:52 GMT"
+    },
+    {
+      "title": "Accelerating AI Interpretability To Promote U.S. Technological Leadership - Federation of American Scientists",
+      "pubDate": "Tue, 10 Jun 2025 14:56:57 GMT"
     }
   ],
   "us_politics": [
@@ -3815,6 +3799,10 @@
     {
       "title": "Inside the MAGA vs. hawk battle to sway Trump on bombing Iran - Politico",
       "pubDate": "Tue, 10 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "US cities follow LA's protests over Trump's immigration raids - BBC",
+      "pubDate": "Tue, 10 Jun 2025 08:52:49 GMT"
     }
   ],
   "cryptocurrency": [
