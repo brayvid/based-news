@@ -1,72 +1,72 @@
 {
-  "Climate": {
+  "US Politics": {
     "articles": [
       {
-        "title": "EPA to propose rolling back climate rule for power plants Wednesday - Politico",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaG5oOVhUNU5jODAxUEJQd2FDbEMtUnhaOUtpZXNBR3B2eGNLSFVMNjg3UEFuQ1ZRdWFqTHJDN2ttdm9xN0tJWEY1ZWpTQ3AwajFwXzkwX19rWjZaamdJeGl0SHVhZV9Sd3lFbVVQbUFhY19jT0Ftd0kzc0phMUtGZEd6Sk1FMDVJR1hHS3NVTGlxY3pEa2xDMVpiWWNOQUxG?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 21:54:14 GMT"
+        "title": "Democrats Enter Risky Political Terrain as Protests Grip California - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFA1MVoxWHY5V2lMOHREM3h4TEtsUHlsanprY3puOG8yTEU5ZEVUcnlwdVYxWERpMUp1bmNEMHppMl9lWWUzZW1qZ2ptTHcxa1VBWklKVHN5VElwclpETnh1YTBjNUpZeXQ5ZnFON1FvLTE5X2RzenJJMjlHUC1LV2Z4RXBOWVZRcU9V?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 23:38:27 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
-  "China": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "US-China trade, export control talks push through second full day in London - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3NKZ0FrenFKMnlQdDlOczJjbXluNlYwa2FrSmM0T2N6b0hmUUZUMzh5T19Cc2s3YVplVzVOcTg2TmxKOVJMQ29FdGxhVVVvc01PYWNKWjdGNnFhVEF3N2FfQXJISnp3T09JMUhEWVh4LXY4d1d4N0ktNXN3V1RyQTdpLVkzY2N4TjZGYnVLdw?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 21:05:46 GMT"
+        "title": "Apple Expands OpenAI Partnership Amid Rising AI Pressures - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRU1CNGhxN3NXbnhCQW0yNGZ2cEdxX0ZnSUhRXzRjSG5GWFV6NEY1MHozZDFwREZfWGRubDE5dFlDd2ZaTzdiYzNWdmtUZ2R0YUdjU2tJNVpILUJ2WUdkX3VfSGx2YVQ3Nkw1TVRSYmFGdWdndzVzUFFITFAtVGxlUndIWDF0MEctazlOb3JBTHd5eWNNWVgxTlpvUUR5OTliZFBmdjc1TWdyNlJDb0dFRmxVU0p3UQ?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 23:01:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "LA protests live: City's mayor tells Trump 'stop the raids' as protesters and police clash - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oUTRQTDBtMWppSFpNZmNyOTdoUDRHcHdLQXRXTUM0MmZKakN6bHhwdlpkeEhWeEJHZU15T1c0MElSOUhWME1neG1TeHQ5SVQ0OURTLQ?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 20:03:28 GMT"
+        "title": "Trump reverses Army base names in latest DEI purge - Politico",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0VaZmlLWWtFZ3JaV3pvODdmU1NKT1JJblY3VngzWXpja3BkSjI0RTctVU8yVFpLTy1xSzI4M3lIdzl3bUpQSDQ0YUxzNGU1LUJxMllWaFRxTEFYeW8zSnRHTFNlZzVzNGNBTGw2U3B1UDZUUzFWMVF1V1R3aVBDWC1KSEM?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 22:18:40 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
-  "Recession": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Goldman Sachs Predicts Stock Market Rally, Says Recession \u2018Not in the Base Case\u2019 \u2013 Here\u2019s Why - The Daily Hodl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkxRX3gxbzM4LW1EeGthY3E3YUFvclh4UUpEZEtyclljUUVNbTVPTGZQVHZTUGRkX3AxYXRDRjJQYmVOWGV5a0xjQy1TR3ZhUEFpT2ZvcTluV01lSW5ZYldWRXByemRTb2hVZ3RqREFJc1ctZld0dDI0SDdzQ2ZwZHNNbFo0ai1yTkNDRUFYclBsRDFWUzJ2eldfck11cGFnYUxPaTRsdlJ1S2tZXzBWNHhLMGxsR0FDbWV3alNB0gHDAUFVX3lxTFBKT3oxSGFKUzUwOXQ4Vk9uX2swel9oM1hDYl9YSkFxNTdBeTNacTdGNGR1RGkwWUVaN25RNFd4SElSSm1tWTVUa3M0NnRqUU5IMF9pdjFzVnl1LVpOb2Z3MnA2Y2VaLUxlZDF2M0hscHhKTVlkNDhEWWNYQzNwQllMTUFRYlp1bElFa1R0cTNtMkdfRVZ1eHZJZHhmTUw2azVzalQtVHJrVmdYMTFqajhDQkRuWmdOZkNjemFlNnQ1NU92VQ?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 18:42:13 GMT"
+        "title": "Treasury Sec. Bessent leaves London, but U.S.-China trade talks continue - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcUp0X1Y0eXZaeUJrT1RQbERrOTFsd2NrQ0FjTnBCUmdMT1BENHVrT0ZQdnZCcjJiV0R1Zm1yQVA0VEVyank4VGZGWVRGbFJaU1dqMnRTN2czcFNXc01SNVdueUlaMlpIU2RwaGxmTFZnWDJM0gF6QVVfeXFMTnBMZWpPdTlzbVBKUFZWVUtLaE9ORGEzU2lLbWNUYlFsVG9lMXZxZnluenZ5a3hjS0c3Tjg4MXg2NU42Z0Yydm1JbFpDcC1JWFY0eXVBdlpMYUd5RVZ3VzdKMUpwWUpDLVZ1dkkwNXZER29mVkVwLU45MlE?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 21:15:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
-  "AI Safety": {
+  "China": {
     "articles": [
       {
-        "title": "Can AI be used to control safety critical systems? A U.K.-funded research program aims to find out - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEI1Tm9Sdm9udm1UbDgtZDhScmUyc1lsMWpEQWtJR2dzS1VyeVNVeVZHbnRJZWFfWG9lenhIanZMc0NhemptbkZfT00xRjE4NmFYUml0SjZELWkzcUgwazd2dHJ2N01wZHNSZ0F6Z2hUdkFnOHZpV3pQZERuNmRIUXh3RmxINTBLbUtHcUpfeGFvVkxGX2lReg?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 17:24:00 GMT"
+        "title": "U.S.-China Talks Continue. Export Restrictions Are the Problem. - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wbDlTRG40ZDVTQnlnajZmX3ZhVkVHR2J4a1g5Mk55dkR6Z2xhNzNSMnRUWkUwdXRGU2lzQlpKQU1WOE1uT0w3TFVManFkVmQ2YVJMellWVmJ1eUw2Wm9NX0lPeE1kS18tVE5wNF8wRWVIZUpYVEFrR2tR?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 20:09:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
-  "Iran": {
+  "Hamas": {
     "articles": [
       {
-        "title": "US military evaluating options to prevent nuclear-armed Iran, general says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzdMQ0MwUlNzRlVaM1VPYjlOMVFCaXZwdnVvU0h2QnRpZGZiY2tPczYwN2F6U180MXNZcGNrcVFHaDJTVHFxMGNPRXMtVUNabmZ0SFZsU29DYTVfZEdxZzlpYUtvVmJ5Z3lJcXJOV0taTkVIMWFBOEt2Z3Q1S1o2WXZhREtHcGJxZGhjUnUxczdsaXUwMnh3Y013Zk1FSU8xUklYdGxYWU1ZX1ZOeERZbmEzX3F3YnBCcjM0S2FlR2sxZw?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 17:07:09 GMT"
+        "title": "US sanctions charities it says are linked to Hamas's armed wing - Middle East Eye",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdVa1I2N2xtdjZYai13QURwZEdWdEJnWUIwM0wxazFKcERhZkxtUjdlcEM3aTNXNVRBbnhTdDJJMVd3VTZWbFhrZ2JXbkVNY3VGRFphMElfMWI4cTNCWkE2czZQekRwcUp2cDFwbjZpUG5CU2c5angzdElEdWt2R1dQOXZld3dSc2hxeVRDendycVd4QWY3bg?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 19:18:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   },
-  "US Politics": {
+  "Russia": {
     "articles": [
       {
-        "title": "Trump Declares Dubious Emergencies to Amass Power, Scholars Say - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnNzT2tXRGoyZkFaTjZydXotZkpXaUJ0WmtUY0p4YkE1NGpHOURmWFlfbWZ0NU5RVTl6NHV5R0k0eEkyZmw4N0tDcXNNYVROR2pzNHUzZE03bjFna0xMZlFqdlNwaERSdjFqQ2dMRmhFczlpdzFyb1JENnFXTjhxanQ5cFE0NE9Wck1B?oc=5",
-        "pubDate": "Tue, 10 Jun 2025 15:49:37 GMT"
+        "title": "Russia fines Apple for violating 'LGBT propaganda' law, TASS reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFhyRlgxTkM5RDJvSkpyVUhRb2ctVTBBdV9MV0hWcXZXZVVEMWtYUW0zQ1NOSC11bTdGUVlJMHc5QU5uNmVYVmlWeE16cTBNelN4MEpRRnFCRHJONkNzOEhtWWJ3UXBURDdlb1lCcU1oN3czaTZUSDJGdW9xcG9RVXBBTVR2cGdMeHh2d2JUQTEtSzE3cS1WTjhVV3hGUkF0ZUsyU1BRTDFMWGtFOHUwSG9PN1FYb2diMUlENXdlZUotT19lamc?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 15:24:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-10T23:05:01.295468+00:00"
+    "last_updated_ts": "2025-06-11T00:05:02.307261+00:00"
   }
 }
