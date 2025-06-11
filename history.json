@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Tallying Trump\u2019s online posting frenzy: 2,262 \u2018truths\u2019 in 132 days - The Washington Post",
-      "pubDate": "Tue, 03 Jun 2025 12:43:41 GMT"
-    },
-    {
-      "title": "Trump admin live updates: Trump vows 'large scale fines' on California after trans athlete wins track event - ABC News",
-      "pubDate": "Tue, 03 Jun 2025 12:15:00 GMT"
-    },
-    {
       "title": "White House Unveils a New Official Portrait of President Trump - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 14:33:38 GMT"
     },
@@ -659,13 +651,13 @@
     {
       "title": "US appeals court keeps Trump tariffs in place while it considers a legal fight of 'exceptional importance' - Yahoo Finance",
       "pubDate": "Wed, 11 Jun 2025 10:27:43 GMT"
+    },
+    {
+      "title": "Trump says China will supply rare earths in 'done' deal - CNBC",
+      "pubDate": "Wed, 11 Jun 2025 12:22:16 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine says it has struck bridge connecting Russia to Crimea with underwater explosives - CNN",
-      "pubDate": "Tue, 03 Jun 2025 11:41:00 GMT"
-    },
     {
       "title": "Russia closes Crimea bridge hours after Ukraine underwater strike - BBC",
       "pubDate": "Tue, 03 Jun 2025 13:45:40 GMT"
@@ -677,10 +669,6 @@
     {
       "title": "Ukraine claims attack on Kerch Bridge linking Crimea, Russia - Al Jazeera",
       "pubDate": "Tue, 03 Jun 2025 17:40:31 GMT"
-    },
-    {
-      "title": "Ukraine Reports Striking Russia-Crimea Bridge With Underwater Explosives - The New York Times",
-      "pubDate": "Tue, 03 Jun 2025 12:05:08 GMT"
     },
     {
       "title": "Troop Casualties in Ukraine War Near 1.4 Million, Study Finds - The New York Times",
@@ -1053,17 +1041,13 @@
     {
       "title": "Russia hits Ukraine's Kharkiv with deadly nighttime barrage of drones - Reuters",
       "pubDate": "Wed, 11 Jun 2025 09:37:37 GMT"
+    },
+    {
+      "title": "Russia drones hit Kharkiv and other parts of Ukraine - ABC News",
+      "pubDate": "Wed, 11 Jun 2025 06:19:28 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Economists wary of potential recession as tariffs challenge businesses - South Dakota Public Broadcasting",
-      "pubDate": "Tue, 03 Jun 2025 11:54:00 GMT"
-    },
-    {
-      "title": "Recession Fears Trigger Major Moves in the Stock Market - MSN",
-      "pubDate": "Tue, 03 Jun 2025 11:42:44 GMT"
-    },
     {
       "title": "Recession-ready HR: Using generative AI to stabilize talent and costs - SmartBrief",
       "pubDate": "Tue, 03 Jun 2025 17:15:15 GMT"
@@ -1416,10 +1400,6 @@
     }
   ],
   "israel": [
-    {
-      "title": "At Least 27 Killed After Israeli Soldiers Open Fire Near Gaza Aid Site - The New York Times",
-      "pubDate": "Tue, 03 Jun 2025 11:31:38 GMT"
-    },
     {
       "title": "Ex-Biden official says \u2018without doubt\u2019 Israel committed war crimes in Gaza - Al Jazeera",
       "pubDate": "Tue, 03 Jun 2025 14:36:03 GMT"
@@ -1955,6 +1935,10 @@
     {
       "title": "NOAA debuts artificial intelligence models for hurricane season - FOX 13 Tampa Bay",
       "pubDate": "Wed, 11 Jun 2025 03:14:07 GMT"
+    },
+    {
+      "title": "AI\u2019s biggest secret: we can shape it - Prospect Magazine",
+      "pubDate": "Wed, 11 Jun 2025 03:51:44 GMT"
     }
   ],
   "financial_markets": [
@@ -2025,6 +2009,10 @@
     {
       "title": "Global Banks Scramble to Hire Top Talent in Booming Japan - Bloomberg.com",
       "pubDate": "Tue, 10 Jun 2025 21:00:15 GMT"
+    },
+    {
+      "title": "Stock valuations are historically high, and are hovering near levels that have preceded big downturns, Pimco said. - Business Insider",
+      "pubDate": "Wed, 11 Jun 2025 11:54:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2180,10 +2168,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Exclusive: China's rare earth export curbs risk halting German car production, lobby group warns - Reuters",
-      "pubDate": "Tue, 03 Jun 2025 12:41:40 GMT"
-    },
     {
       "title": "Video Shows US Ally Confronting China in Contested Waters - Newsweek",
       "pubDate": "Tue, 03 Jun 2025 15:26:14 GMT"
@@ -2733,14 +2717,6 @@
       "pubDate": "Tue, 03 Jun 2025 14:00:00 GMT"
     },
     {
-      "title": "Federal judge dismisses California's lawsuit over Trump tariffs, citing jurisdiction issue - Fox Business",
-      "pubDate": "Tue, 03 Jun 2025 12:31:00 GMT"
-    },
-    {
-      "title": "OECD lowers global outlook as Trump trade war hits US growth - Reuters",
-      "pubDate": "Tue, 03 Jun 2025 11:25:38 GMT"
-    },
-    {
       "title": "Trump tariffs live updates: Trump pushes for trade deals as global economy takes a hit - Yahoo Finance",
       "pubDate": "Tue, 03 Jun 2025 16:46:27 GMT"
     },
@@ -3223,10 +3199,6 @@
   ],
   "hamas": [
     {
-      "title": "IDF says troops fired on suspects outside Gaza aid site; Hamas health officials say 27 killed - The Times of Israel",
-      "pubDate": "Tue, 03 Jun 2025 11:40:10 GMT"
-    },
-    {
       "title": "Doctor describes 'total carnage' as 27 reported killed by Israeli fire at Gaza aid centre - BBC",
       "pubDate": "Tue, 03 Jun 2025 13:52:25 GMT"
     },
@@ -3333,6 +3305,10 @@
     {
       "title": "US sanctions charities it says are linked to Hamas's armed wing - Middle East Eye",
       "pubDate": "Tue, 10 Jun 2025 19:18:56 GMT"
+    },
+    {
+      "title": "More Than 55,000 Palestinians Have Been Killed in the Israel-Hamas War, Gaza Health Officials Say - U.S. News & World Report",
+      "pubDate": "Wed, 11 Jun 2025 12:26:00 GMT"
     }
   ],
   "climate": [
@@ -3419,13 +3395,13 @@
     {
       "title": "Scientists discover concerning new phenomenon that may impact the intensity of hurricanes: 'Might get stronger' - The Cool Down",
       "pubDate": "Wed, 11 Jun 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Major US climate website likely to be shut down after almost all staff fired - The Guardian",
+      "pubDate": "Wed, 11 Jun 2025 11:26:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "\"Who are my safest drivers?\": Fleet managers turn to AI for safety insights - PR Newswire",
-      "pubDate": "Tue, 03 Jun 2025 12:00:00 GMT"
-    },
     {
       "title": "Yoshua Bengio launches LawZero, a nonprofit AI safety lab - TechCrunch",
       "pubDate": "Tue, 03 Jun 2025 17:33:49 GMT"
@@ -4599,6 +4575,12 @@
     {
       "title": "Analysis | Why Apple\u2019s big events no longer feel revolutionary - The Washington Post",
       "pubDate": "Tue, 10 Jun 2025 23:30:00 GMT"
+    }
+  ],
+  "blockchain": [
+    {
+      "title": "Bitcoin devs scramble to protect $2.2tn blockchain from looming quantum computer threat - dlnews.com",
+      "pubDate": "Wed, 11 Jun 2025 12:42:06 GMT"
     }
   ]
 }
