@@ -1,1 +1,52 @@
-{}
+{
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Live updates: Protests spread to U.S. cities beyond L.A.; Chicago mayor calls Trump \u2018authoritarian\u2019 - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUxzRlZwTVQyYTZibWhwa3pkYTRZdGIzUnVFOTB6Y1dRZlNjalc3V2ttcktLYXA5NXZpZXBzQXdlWlZlWWs2M3VsVmVCWHRNb3FuNE95akRBOGNOMDdNLThxQzdWTUYtX1phdDBZQTZ1Vk5SdVpJU3V3NTRVNDdYVkpXcGF1ejZVQWlZZA?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 19:41:59 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T20:03:16.440759+00:00"
+  },
+  "Recession": {
+    "articles": [
+      {
+        "title": "Recession Risk Looms Over a US Stock Market That Wants to Rally - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON25kZy1FY01yUUp1V0FkOHJKOElVRWVBR0FMdjVmM0E5S1hBSXJBRVpZZElFel9iT3ZJU2NKZUl2RDRMUnUwdktHVk81VGNoMUs5QW14ZVc5TWNuVmZ3Y3dfSHhoX01ZYVktSXVSWXh3X0NmbFJ4dDVkOUlJaHVkaGxGZTl2cmZqNEZnX1RhbnFDU0tfMURoeHdzT1pfX05tT2NjbFJZU2RmU0dUa2hwTWx5czB6UG1W?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 18:15:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T20:03:16.440759+00:00"
+  },
+  "Climate": {
+    "articles": [
+      {
+        "title": "Trump to revoke Biden\u2019s climate rule on power plants - Politico",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXQ0NGtwNmF4UHdJYzg3TDdiQl9KTGVQQzBGNFA2M3lpZlFQUGVrRmpyS2hwaEJLdUJJc2tfX1BCZTFtRDc1cHhWUGw5UW1QSnhocXhEcEpWd0cydXhYMTA5cGJjenY0cXBnVVBRdGxLa25aMjU0WFNNb1MxQUJqSlM2eDJYb1dEdHZ4MHRKX2poU3ppUlJYR3hsbm1EZVFDbTZHdVpNSWJDQQ?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 18:08:58 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T20:03:16.440759+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "U.S. tariffs on China won't change again, Lutnick says after trade talks - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OM25zMjNrOUdoSlNISVF6cFR1SDNUYUZBWHZfcU1WcEh2UnJtejNPM2dEOU1VLWpBMWlrU3ZwU3NrSTUyUlptNzFaNkFGY2ZPb3FtMzc4ZTJmcmU1YjlEY0JIclA2QXFEWUUwUnk1OExlUlBsckHSAXtBVV95cUxNVGVTWk5hVkNzcE9UMTVBSk5IcnduQk5QV2cwV2ZsOElYTTBpak11UXdOTzdMT2ltQk1zSkJ3Xy05RjRwMUx1ZG4zeTF2YXd2aDRPczN3THdPcDFleXFLZGpHX0xTQTk5cEZucU9HUWZhS0xrTWk3V0N5OFk?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 15:18:21 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T20:03:16.440759+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "A National Center for Advanced AI Reliability and Security - Federation of American Scientists",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2M1ZWtJeVJzbXNyajZHVVZNVWNWQW1uSWlpZDBveTVDRW1TTDJFUGQ3d1o2NEM2QWF0RDRrcTB4Tk9rQjlUd085ZS1LYVUtWjh0bzM3RmVibUhSNFVpeFNwdnJCZ0tMRTNpM3h5cEZjWXc1bl94dWJZaHBrXzRZc3FhNjhhd25YcjRZa1NGcV8?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 13:21:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T20:03:16.440759+00:00"
+  }
+}
