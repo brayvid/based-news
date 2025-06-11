@@ -1,52 +1,72 @@
 {
-  "Donald Trump": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Trump says he will 'liberate' Los Angeles in speech to mark the 250th anniversary of the Army - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3VMdXdMZ0VFa2dSRzVfUjJsN000cUpVMFpuck4wZGh2bk1SSUx2YmNqUW9qQ1JPRFBsdGE1amZWZGQ1ZG53aXlzVWZFb1Z1SEs2VDBvT01iZTdWYmU5MmtpMzRQeGRNdjZzTGlPMUFPZXYwcXJHd1Z4NlFpODlnMll2NWZ3MUxueVpj?oc=5",
-        "pubDate": "Wed, 11 Jun 2025 02:45:00 GMT"
+        "title": "Meta takes $15 billion stake in Scale AI in bid to catch competitors - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmxMXzVIWUhvWkZOdGFCdEZEekZ3NjlvdElTeHNfRVNlbE5QbVBEdlZqcUJWZnU1bm1tWk5Xd2RHNlphOWRWWnRVNkpVWG9MLVdwQVJ3dG1mbGN0SGppVmthNkEyQ1R6YkJGWFRlRDdjeUZDeVptODJnQm9SQTdSYjNFdVpVSG5n?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 03:37:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-11T03:04:30.223971+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "AI companion apps such as Replika need more effective safety controls, experts say - Australian Broadcasting Corporation",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1h5cFlxUmV3ZHpGQW8yWUpHbFBzbU5pNUZOaHQ1Y2NOWkg5UmpKZzhqY200eWpoZDZWVVVPZVdLV3BWSzdVWmRWMTA3R05KcF9jVkF0MWcwX3ktNWE0aEViaGFUYTlvaHlGWFY5Z1JHNThMNWR5akYzTHVzb09pNzhUanVjQ3d3dkE3V2dLZFhsMzhzUkhYVVExZjJndFhlb09zZEozdFNJcERzMVZUQTFhN3pLaGp2UFE00gFSQVVfeXFMTXJqT3ZJSDAxMkJXZS1QanRWYXlybUk5S1FzdFVidkRSVjRXdW9tZEFJeW5qYThIQUFvNnhCaG9YZzFMcG5BdjF6SmVxRVRoMDdqQQ?oc=5",
-        "pubDate": "Wed, 11 Jun 2025 02:26:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-11T03:04:30.223971+00:00"
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "U.S. and China reach a trade agreement in principle - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mQnNHd1ZyNlZqR3dCeG92NVZ4Q1VsS1ZsUEtjYXNnMUxIZkNoSVRLRl9VQXlPa1NISjhHdGVST0F0TGlUQW52YVJNUld5aGFKR1I2ZHI2QjJzQjd2cEF6N29wYUo1bWZRdHZtaEliMXdZT1pESWdYUEYxZnBMUQ?oc=5",
-        "pubDate": "Wed, 11 Jun 2025 02:10:56 GMT"
+        "title": "US and China agree on plan to ease export controls after trade talks in London - CNN",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR01SdlRkYTl1SFUyekdQRklueVVJOTJ5bHZrWUp6b1FhYUpXZnhLMkxTOExkeUZvbndtX0k3Nl90SW1Wd0pTQTVJQXhLZTFsRUZ0YVVpM2FnUzhseGtna210eXFidzRrcHVtNW9CQTZaNEFzS0JubVV6SHRNdl9Pd0RIQk51TldYa3o3Z3E1c9IBlAFBVV95cUxNWjFNaGNVMWIybmhzanNvbFg2N1ZEY01VMGppRDFEX2lSOVUyQkM0UUNFYVhoUmpYUF9FY19ONUgwT2pCY0ZXUDlMbEVDeldRSE1PYy1UOWhicEtNa0pXVzFkU3Q5UU9WRGNaWjdYdGRSTWN0TDA5dVJXOUZCbmx5MjlqeGo4cnRHai1vWkZZeko0YnQx?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 03:09:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-11T03:04:30.223971+00:00"
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
   },
   "Trade War": {
     "articles": [
       {
-        "title": "US, China reach deal to ease export curbs, keep tariff truce alive - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3NKZ0FrenFKMnlQdDlOczJjbXluNlYwa2FrSmM0T2N6b0hmUUZUMzh5T19Cc2s3YVplVzVOcTg2TmxKOVJMQ29FdGxhVVVvc01PYWNKWjdGNnFhVEF3N2FfQXJISnp3T09JMUhEWVh4LXY4d1d4N0ktNXN3V1RyQTdpLVkzY2N4TjZGYnVLdw?oc=5",
-        "pubDate": "Wed, 11 Jun 2025 01:55:00 GMT"
+        "title": "US, China Officials Agree on Plan to Reduce Trade Tensions - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG84cnhhLVR1NTRscTlwYWtGSm85YnJRSDBtQ2pISzlhbndIYlFCQmtaNm1aTUhhS3ZUaHo5RWJKdEZMdkVreWZSeFo5RXJJaFRPd0N0Q3JMRkVKd0tBLXBaejRaUk5aSzB6dlVkWGNja1lra1FpVVU0ZWpQSU5IQ1h2dXFiYm5NMWdSbVctTGttSjBBOFhwTE52bDVjcXh6bG0ycWIxelpGNk9aRXBvLQ?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 00:54:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-11T03:04:30.223971+00:00"
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump Administration Live Updates: Protesters at Washington Military Parade Will Face \u2018Heavy Force,\u2019 President Says - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DV2NwSU0wNzg1cVNIWVZYN0NDYTJhYWI1OS1YRk5CelNZMTVjdXRzbHVBWnNOQ0R4UWZyVmNzLXpWd21Oc0R1dTItQlZJVkswWlB4WVlfcTJaSlBYeFF0SE4yZw?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 00:41:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Ukraine war briefing: Deaths in Kharkiv as Russia continues strikes on civilian targets - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMENNSnJOb0U5Y3RXaW1jeTBqN2k2Zkx6czRTaEFHR05ralVmaHZpQldKNE1LOF9nNW1aN055R3JyREVLQ0IzQkpJMjh4NnBuQWdyM3YtS3dNZ0h2ZFlSandsOHRMVUJMSTBCZUtLVnl1SE1vSlFpUzlZcl8yUGZuN0I0NmUwY0hWUUtoMHNyLVduRm5fbHd5bS1MSUI4S2sxV2Q4Rm5nQ1NVNU14M1Q0NldGS2g0UEdJLWFDZ0xHQk9UZVpTdkFlMG5kYUg?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 00:05:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "House GOP gets list of \u2018fatal\u2019 megabill flaws to delete - Politico",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZndBUDhCemY0UFFBRzNFVW1uT1JWaDNZQnQ0d2RGSkdTR0F5RDBjeHZ4M3JFVC05RWVHZlBsbExtYjUyUVU1bGFYNnAwa2RPejNCOWtoRzhIYWNEUl9YT1BGNWtUOWxqSVhsbFViMmtaRlYtZllTV1FpeWFZclNNQmhtR042OUJ5SlhsbFFzeFhHcjNBdkhiUGo3Z2k0RFBUQklsYjZWcEFCaFM4ZzNRc1hwR2tXMDdsam9rUQ?oc=5",
+        "title": "Senate GOP finalizing scaled-down food stamp cuts after backlash - Politico",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnJBc0pKMDdyQWx6M0U4dGdRNzN2NWZCa1Y0eEtfN0JDVWxXUlFpVEFhX215UGMwSHBNT0x5cTVVZFZKbTB2WUxMZjdqa1dtd3JNUXl1elN3V1hyd3lLNTVlRWZQLVlUM29xM3E1bWRjRUcwN2N3UlpSTGZDRXo2LTRiWWRLeGhjUUF2Y3BmaVZmRmxWUXVpQ1QyaVFHdGRlaDBBaC1VRXhaVnc0UVJKVVVCMGRrSTZvcTl3cTVmZ1RlelE?oc=5",
         "pubDate": "Tue, 10 Jun 2025 22:30:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-11T03:04:30.223971+00:00"
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "World Bank Paints a Bleak Picture of the U.S. Economy\u2014What It Means for Homebuyers and Sellers - Realtor.com",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMW1CaUhWZGxFMkFzTzdxRF93aVVOaENOVUZLT3dha1NPS09iMXBoTWUyTGhIZUJrMjdsdDBHYktGSzVLRW1vZ2lQcXdPV2t0ZWFYOUp2SUo4eTZ0Z3NMUnM4STBXQW0tMm9JMGkzbWF6elN6WFctaVNIYw?oc=5",
+        "pubDate": "Tue, 10 Jun 2025 22:12:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-11T04:03:45.202120+00:00"
   }
 }

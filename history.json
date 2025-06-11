@@ -639,13 +639,13 @@
     {
       "title": "Trump says he will 'liberate' Los Angeles in speech to mark the 250th anniversary of the Army - AP News",
       "pubDate": "Wed, 11 Jun 2025 02:45:00 GMT"
+    },
+    {
+      "title": "Trump Administration Live Updates: Protesters at Washington Military Parade Will Face \u2018Heavy Force,\u2019 President Says - The New York Times",
+      "pubDate": "Wed, 11 Jun 2025 00:41:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "How Ukraine\u2019s Drone Arsenal Shocked Russia and Changed Modern Warfare - Bloomberg.com",
-      "pubDate": "Tue, 03 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "Ukraine Shows It Can Still Flip the Script on How Wars Are Waged - The New York Times",
       "pubDate": "Tue, 03 Jun 2025 04:51:00 GMT"
@@ -1033,6 +1033,10 @@
     {
       "title": "US to cut military aid to Ukraine, Hegseth says - The Kyiv Independent",
       "pubDate": "Tue, 10 Jun 2025 19:42:07 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Deaths in Kharkiv as Russia continues strikes on civilian targets - The Guardian",
+      "pubDate": "Wed, 11 Jun 2025 00:05:00 GMT"
     }
   ],
   "recession": [
@@ -1465,16 +1469,8 @@
       "pubDate": "Tue, 03 Jun 2025 08:30:12 GMT"
     },
     {
-      "title": "AI Pioneer Launches Research Group to Help Build Safer Agents - Bloomberg.com",
-      "pubDate": "Tue, 03 Jun 2025 04:01:00 GMT"
-    },
-    {
       "title": "Researchers explain AI's recent creepy behaviors when faced with being shut down \u2014 and what it means for us - Business Insider",
       "pubDate": "Tue, 03 Jun 2025 09:49:00 GMT"
-    },
-    {
-      "title": "\u2018Godfather\u2019 of AI Yoshua Bengio says latest models lie to users - Financial Times",
-      "pubDate": "Tue, 03 Jun 2025 04:00:32 GMT"
     },
     {
       "title": "AI Links Early Life Risks to Behavioral Challenges at Age Five - Neuroscience News",
@@ -1935,6 +1931,10 @@
     {
       "title": "Researchers develop cybersecurity test for AI being used by Google - Rochester Institute of Technology",
       "pubDate": "Tue, 10 Jun 2025 17:26:29 GMT"
+    },
+    {
+      "title": "Meta takes $15 billion stake in Scale AI in bid to catch competitors - The Washington Post",
+      "pubDate": "Wed, 11 Jun 2025 03:37:48 GMT"
     }
   ],
   "financial_markets": [
@@ -2149,6 +2149,10 @@
     {
       "title": "US, China reach deal to ease export curbs, keep tariff truce alive - Reuters",
       "pubDate": "Wed, 11 Jun 2025 01:55:00 GMT"
+    },
+    {
+      "title": "US, China Officials Agree on Plan to Reduce Trade Tensions - Bloomberg.com",
+      "pubDate": "Wed, 11 Jun 2025 00:54:00 GMT"
     }
   ],
   "china": [
@@ -2631,6 +2635,10 @@
     {
       "title": "U.S. and China reach a trade agreement in principle - The Washington Post",
       "pubDate": "Wed, 11 Jun 2025 02:10:56 GMT"
+    },
+    {
+      "title": "US and China agree on plan to ease export controls after trade talks in London - CNN",
+      "pubDate": "Wed, 11 Jun 2025 03:09:00 GMT"
     }
   ],
   "iran": [
@@ -3011,6 +3019,10 @@
     {
       "title": "Treasury Sec. Bessent leaves London, but U.S.-China trade talks continue - CNBC",
       "pubDate": "Tue, 10 Jun 2025 21:15:01 GMT"
+    },
+    {
+      "title": "World Bank Paints a Bleak Picture of the U.S. Economy\u2014What It Means for Homebuyers and Sellers - Realtor.com",
+      "pubDate": "Tue, 10 Jun 2025 22:12:56 GMT"
     }
   ],
   "terrorism": [
@@ -3086,10 +3098,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Democrats are getting (another) chance to fix their brand - phillytrib.com",
-      "pubDate": "Tue, 03 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "The Democrats\u2019 new campaign agenda: No more Mister Nice Guy - The Hill",
       "pubDate": "Tue, 03 Jun 2025 13:30:00 GMT"
@@ -3169,10 +3177,6 @@
     {
       "title": "Israel says 3 soldiers killed in Gaza in deadliest attack on its forces since a truce ended in March - The Washington Post",
       "pubDate": "Tue, 03 Jun 2025 05:55:21 GMT"
-    },
-    {
-      "title": "Hamas's Gaza City commander, Izz al-Din al-Haddad, to replace Sinwar as Hamas chief - The Jerusalem Post",
-      "pubDate": "Tue, 03 Jun 2025 03:53:00 GMT"
     },
     {
       "title": "IDF says troops fired on suspects outside Gaza aid site; Hamas health officials say 27 killed - The Times of Israel",
@@ -3366,10 +3370,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Will AI go rogue? Noted researcher Yoshua Bengio launches venture to keep it safe - The Globe and Mail",
-      "pubDate": "Tue, 03 Jun 2025 04:01:00 GMT"
-    },
     {
       "title": "Leading AI models sometimes refuse to shut down when ordered - ZME Science",
       "pubDate": "Tue, 03 Jun 2025 09:07:34 GMT"
@@ -3854,6 +3854,10 @@
     },
     {
       "title": "House GOP gets list of \u2018fatal\u2019 megabill flaws to delete - Politico",
+      "pubDate": "Tue, 10 Jun 2025 22:30:03 GMT"
+    },
+    {
+      "title": "Senate GOP finalizing scaled-down food stamp cuts after backlash - Politico",
       "pubDate": "Tue, 10 Jun 2025 22:30:03 GMT"
     }
   ],
