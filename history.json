@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "A Trump Official Threatens to Sue California Schools Over Trans Athletes - The New York Times",
-      "pubDate": "Tue, 03 Jun 2025 01:54:10 GMT"
-    },
-    {
-      "title": "Trump is pushing Senate GOP to get his megabill across the finish line - NPR",
-      "pubDate": "Tue, 03 Jun 2025 01:45:09 GMT"
-    },
-    {
       "title": "Donald Trump's tariffs will hurt global growth, OECD warns - BBC",
       "pubDate": "Tue, 03 Jun 2025 08:45:19 GMT"
     },
@@ -639,6 +631,10 @@
     {
       "title": "Republicans warn Trump that some deportations go too far - Axios",
       "pubDate": "Tue, 10 Jun 2025 23:33:27 GMT"
+    },
+    {
+      "title": "LA protests against Trump ICE raids, curfew tonight, Chicago demonstrations: Live updates - CNN",
+      "pubDate": "Wed, 11 Jun 2025 01:46:00 GMT"
     }
   ],
   "ukraine": [
@@ -653,10 +649,6 @@
     {
       "title": "Ukraine war live: Zelenskyy calls for sanctions after \u2018savage\u2019 Russian attack on Sumy kills three people - The Guardian",
       "pubDate": "Tue, 03 Jun 2025 07:50:00 GMT"
-    },
-    {
-      "title": "Ukraine Hid Attack Drones in Russia. These Videos Show What Happened Next. - The New York Times",
-      "pubDate": "Tue, 03 Jun 2025 01:05:16 GMT"
     },
     {
       "title": "Ukraine says it has struck bridge connecting Russia to Crimea with underwater explosives - CNN",
@@ -1231,6 +1223,10 @@
     {
       "title": "Goldman Sachs Predicts Stock Market Rally, Says Recession \u2018Not in the Base Case\u2019 \u2013 Here\u2019s Why - The Daily Hodl",
       "pubDate": "Tue, 10 Jun 2025 18:42:13 GMT"
+    },
+    {
+      "title": "World Bank sees slowest global growth outside recession since 2008 - TradingView",
+      "pubDate": "Tue, 10 Jun 2025 14:46:17 GMT"
     }
   ],
   "russia": [
@@ -1931,6 +1927,10 @@
     {
       "title": "Mark Zuckerberg, \u2018Frustrated\u2019 by Llama 4, Assembles Meta \u2018Superintelligence\u2019 Team - RetailWire",
       "pubDate": "Tue, 10 Jun 2025 19:48:59 GMT"
+    },
+    {
+      "title": "Researchers develop cybersecurity test for AI being used by Google - Rochester Institute of Technology",
+      "pubDate": "Tue, 10 Jun 2025 17:26:29 GMT"
     }
   ],
   "financial_markets": [
@@ -2137,21 +2137,13 @@
     {
       "title": "World Bank Forecast Underscores Cost of U.S. Trade War - The New York Times",
       "pubDate": "Tue, 10 Jun 2025 13:30:04 GMT"
+    },
+    {
+      "title": "U.S., China reach \"framework\" to activate Geneva trade deal - Axios",
+      "pubDate": "Wed, 11 Jun 2025 00:38:18 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's May factory activity unexpectedly shrinks, clocking its worst drop since 2022: Caixin - CNBC",
-      "pubDate": "Tue, 03 Jun 2025 02:00:00 GMT"
-    },
-    {
-      "title": "China Private Factory Gauge Unexpectedly Shrinks After US Truce - Bloomberg.com",
-      "pubDate": "Tue, 03 Jun 2025 01:48:00 GMT"
-    },
-    {
-      "title": "China's factory activity cools in May as US tariffs hit - Reuters",
-      "pubDate": "Tue, 03 Jun 2025 01:49:00 GMT"
-    },
     {
       "title": "China turns to alternate beef imports as U.S. tariffs drive prices up - NBC News",
       "pubDate": "Tue, 03 Jun 2025 09:37:00 GMT"
@@ -3017,6 +3009,10 @@
     {
       "title": "Alleged agro-terrorism by Chinese nationals proves China is 'greatest threat and adversary' to US, GOP senator says. - Fox Business",
       "pubDate": "Wed, 04 Jun 2025 22:10:21 GMT"
+    },
+    {
+      "title": "Trump administration to end DHS program designed to thwart terror attacks - NBC News",
+      "pubDate": "Tue, 10 Jun 2025 23:06:17 GMT"
     }
   ],
   "cancer": [
@@ -3573,6 +3569,10 @@
     {
       "title": "Can AI be used to control safety critical systems? A U.K.-funded research program aims to find out - Fortune",
       "pubDate": "Tue, 10 Jun 2025 17:24:00 GMT"
+    },
+    {
+      "title": "New AI minister says Canada won\u2019t \u2018over-index\u2019 on AI regulation - Village Report",
+      "pubDate": "Tue, 10 Jun 2025 20:26:15 GMT"
     }
   ],
   "us_politics": [
@@ -4535,6 +4535,12 @@
     {
       "title": "World Bank Slashes Growth Projections Due to Tariff \u2018Discord\u2019 - PYMNTS.com",
       "pubDate": "Tue, 10 Jun 2025 20:07:00 GMT"
+    }
+  ],
+  "apple": [
+    {
+      "title": "Analysis | Why Apple\u2019s big events no longer feel revolutionary - The Washington Post",
+      "pubDate": "Tue, 10 Jun 2025 23:30:00 GMT"
     }
   ]
 }
