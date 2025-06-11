@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Musk calls GOP tax cut and spending bill a \u2018disgusting abomination\u2019 - AP News",
-      "pubDate": "Tue, 03 Jun 2025 21:42:00 GMT"
-    },
-    {
       "title": "Trump admin live updates: Trump signs executive order raising tariffs on steel, aluminum imports to 50% - ABC News",
       "pubDate": "Tue, 03 Jun 2025 22:32:00 GMT"
     },
@@ -27,10 +23,6 @@
     {
       "title": "Trump\u2019s 50% tariffs on foreign steel and aluminum come into effect - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 03:55:00 GMT"
-    },
-    {
-      "title": "Trump formally asks Congress to claw back approved spending targeted by DOGE - PBS",
-      "pubDate": "Tue, 03 Jun 2025 21:14:56 GMT"
     },
     {
       "title": "Trump says China\u2019s Xi is \u2018hard to make a deal with\u2019 - Financial Times",
@@ -655,6 +647,10 @@
     {
       "title": "Trump is under water on some of his top issues \u2014 including immigration, poll shows - Politico",
       "pubDate": "Wed, 11 Jun 2025 19:53:53 GMT"
+    },
+    {
+      "title": "Live updates: White House accuses Newsom and Bass of fanning flames, siding with criminals - The Washington Post",
+      "pubDate": "Wed, 11 Jun 2025 21:19:45 GMT"
     }
   ],
   "ukraine": [
@@ -1013,6 +1009,10 @@
     {
       "title": "Russia drones hit Kharkiv and other parts of Ukraine - ABC News",
       "pubDate": "Wed, 11 Jun 2025 06:19:28 GMT"
+    },
+    {
+      "title": "Ukraine war: 1,212 soldiers' bodies repatriated in latest swap with Russia - BBC",
+      "pubDate": "Wed, 11 Jun 2025 16:50:02 GMT"
     }
   ],
   "recession": [
@@ -1202,10 +1202,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia upgrades Shahed drones with new tech, EW protection \u2013 Ukrainian Air Force - Ukrinform",
-      "pubDate": "Tue, 03 Jun 2025 21:42:00 GMT"
-    },
     {
       "title": "Russia\u2019s Crimean Bridge rocked by explosions, Ukraine\u2019s SBU claims responsibility. - The Kyiv Independent",
       "pubDate": "Wed, 04 Jun 2025 01:11:19 GMT"
@@ -1891,6 +1887,10 @@
     {
       "title": "Nvidia CEO Rebuts Anthropic CEO\u2019s Dire Prediction of AI Taking Jobs - PYMNTS.com",
       "pubDate": "Wed, 11 Jun 2025 20:25:53 GMT"
+    },
+    {
+      "title": "Why the Pope cares so much about AI - Politico",
+      "pubDate": "Wed, 11 Jun 2025 20:59:20 GMT"
     }
   ],
   "financial_markets": [
@@ -1965,6 +1965,10 @@
     {
       "title": "Stock valuations are historically high, and are hovering near levels that have preceded big downturns, Pimco said. - Business Insider",
       "pubDate": "Wed, 11 Jun 2025 11:54:00 GMT"
+    },
+    {
+      "title": "Fed seen on track to start cutting rates by September - Reuters",
+      "pubDate": "Wed, 11 Jun 2025 13:48:36 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2657,10 +2661,6 @@
       "pubDate": "Tue, 03 Jun 2025 22:19:48 GMT"
     },
     {
-      "title": "Ray Dalio just joined the list of billionaires sounding the alarm on the US economy - CNN",
-      "pubDate": "Tue, 03 Jun 2025 21:43:00 GMT"
-    },
-    {
       "title": "Fed's Powell tells Princeton grads to guard integrity amid Trump criticism - CNBC",
       "pubDate": "Wed, 04 Jun 2025 07:40:12 GMT"
     },
@@ -3119,10 +3119,6 @@
       "pubDate": "Wed, 04 Jun 2025 05:30:40 GMT"
     },
     {
-      "title": "Hamas rewriting response to US ceasefire proposal as Washington pushes for breakthrough - Ynetnews",
-      "pubDate": "Tue, 03 Jun 2025 21:16:24 GMT"
-    },
-    {
       "title": "Gaza now worse than hell on earth, humanitarian chief tells BBC - BBC",
       "pubDate": "Wed, 04 Jun 2025 17:10:17 GMT"
     },
@@ -3319,6 +3315,10 @@
     {
       "title": "Trump gutted the National Climate Assessment. America will suffer as a result. - The Hill",
       "pubDate": "Wed, 11 Jun 2025 18:30:00 GMT"
+    },
+    {
+      "title": "Ocean current \u2018collapse\u2019 could trigger \u2018profound cooling\u2019 in northern Europe \u2013 even with global warming - Carbon Brief",
+      "pubDate": "Wed, 11 Jun 2025 13:15:03 GMT"
     }
   ],
   "ai_safety": [
@@ -3803,6 +3803,10 @@
     {
       "title": "Marines in Los Angeles have power to detain people, says major general, as US cities brace for more protests \u2013 live - The Guardian",
       "pubDate": "Wed, 11 Jun 2025 06:17:00 GMT"
+    },
+    {
+      "title": "Trump's EPA plans to repeal climate pollution limits on fossil fuel power plants - NPR",
+      "pubDate": "Wed, 11 Jun 2025 21:08:43 GMT"
     }
   ],
   "cryptocurrency": [
