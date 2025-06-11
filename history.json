@@ -1,24 +1,12 @@
 {
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Trump signs executive order raising tariffs on steel, aluminum imports to 50% - ABC News",
-      "pubDate": "Tue, 03 Jun 2025 22:32:00 GMT"
-    },
-    {
-      "title": "Trump administration live updates: Musk rips GOP bill, Mike Johnson fires back - NBC News",
-      "pubDate": "Tue, 03 Jun 2025 22:06:00 GMT"
-    },
-    {
       "title": "RNC Intervenes to Back Trump Anti-Voting Order, Claims Greater Voter Access Hurts Their Candidates - Democracy Docket",
       "pubDate": "Wed, 04 Jun 2025 00:00:52 GMT"
     },
     {
       "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019 - The New York Times",
       "pubDate": "Wed, 04 Jun 2025 00:19:12 GMT"
-    },
-    {
-      "title": "The Trump-Musk breakup, briefly explained - vox.com",
-      "pubDate": "Tue, 03 Jun 2025 22:05:00 GMT"
     },
     {
       "title": "Trump\u2019s 50% tariffs on foreign steel and aluminum come into effect - The Guardian",
@@ -651,13 +639,13 @@
     {
       "title": "Live updates: White House accuses Newsom and Bass of fanning flames, siding with criminals - The Washington Post",
       "pubDate": "Wed, 11 Jun 2025 21:19:45 GMT"
+    },
+    {
+      "title": "Trump says China tariffs will stay high after two days of talks - NBC News",
+      "pubDate": "Wed, 11 Jun 2025 15:42:49 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Crimean bridge blown up in massive explosion, say Kyiv\u2019s special forces - The Independent",
-      "pubDate": "Tue, 03 Jun 2025 22:23:41 GMT"
-    },
     {
       "title": "Opinion | Ukraine\u2019s Drone Strike Is a Warning\u2014for the U.S. - WSJ",
       "pubDate": "Wed, 04 Jun 2025 03:29:34 GMT"
@@ -1207,10 +1195,6 @@
       "pubDate": "Wed, 04 Jun 2025 01:11:19 GMT"
     },
     {
-      "title": "Russian Offensive Campaign Assessment, June 3, 2025 - Institute for the Study of War",
-      "pubDate": "Tue, 03 Jun 2025 22:37:38 GMT"
-    },
-    {
       "title": "Russia : Spymasters from around the world gather for major Russian security forum - Intelligence Online",
       "pubDate": "Wed, 04 Jun 2025 04:03:46 GMT"
     },
@@ -1409,24 +1393,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "\"Godfather of AI\" warns that today's AI systems are becoming strategically dishonest - TechSpot",
-      "pubDate": "Tue, 03 Jun 2025 22:31:00 GMT"
-    },
-    {
-      "title": "Big Tech\u2019s AI Endgame Is Coming Into Focus - The Atlantic",
-      "pubDate": "Tue, 03 Jun 2025 22:05:00 GMT"
-    },
-    {
       "title": "California Senate passes bill that aims to make AI chatbots safer - Los Angeles Times",
       "pubDate": "Tue, 03 Jun 2025 23:48:07 GMT"
     },
     {
       "title": "AI foot scanner recognises warning signs of heart failure to keep people out of hospital, researchers say - Sky News",
       "pubDate": "Wed, 04 Jun 2025 01:50:28 GMT"
-    },
-    {
-      "title": "AI enables shift from enablement to strategic leadership - AI News",
-      "pubDate": "Tue, 03 Jun 2025 22:19:41 GMT"
     },
     {
       "title": "US labor unions fight to contain AI disruption - Yahoo News UK",
@@ -1891,6 +1863,10 @@
     {
       "title": "Why the Pope cares so much about AI - Politico",
       "pubDate": "Wed, 11 Jun 2025 20:59:20 GMT"
+    },
+    {
+      "title": "Sam Altman says the robots are coming! How AGI will shape our future according to the CEO of OpenAI - TechRadar",
+      "pubDate": "Wed, 11 Jun 2025 11:16:14 GMT"
     }
   ],
   "financial_markets": [
@@ -2121,13 +2097,13 @@
     {
       "title": "Trump says \u2018relationship is excellent\u2019 with China after exports deal sealed - The Independent",
       "pubDate": "Wed, 11 Jun 2025 15:24:00 GMT"
+    },
+    {
+      "title": "U.S.-China Trade Deal: Trump Tariffs Stay; Bessent Calls Talks an \u2018Excellent Start\u2019 - Barron's",
+      "pubDate": "Wed, 11 Jun 2025 18:18:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Chinese couple charged with smuggling a biological pathogen into the U.S. - NBC News",
-      "pubDate": "Tue, 03 Jun 2025 22:20:18 GMT"
-    },
     {
       "title": "China's rare earth curbs threaten India's auto sector, EV production - The Economic Times",
       "pubDate": "Wed, 04 Jun 2025 00:00:00 GMT"
@@ -2611,6 +2587,10 @@
     {
       "title": "Trump\u2019s China \u2018truce\u2019 is nothing of the sort - CNN",
       "pubDate": "Wed, 11 Jun 2025 14:33:00 GMT"
+    },
+    {
+      "title": "China\u2019s Lock on Rare Earths Dictated Path Toward Trade Truce - WSJ",
+      "pubDate": "Wed, 11 Jun 2025 16:25:00 GMT"
     }
   ],
   "iran": [
@@ -2656,10 +2636,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump signs order hiking steel tariffs - BBC",
-      "pubDate": "Tue, 03 Jun 2025 22:19:48 GMT"
-    },
     {
       "title": "Fed's Powell tells Princeton grads to guard integrity amid Trump criticism - CNBC",
       "pubDate": "Wed, 04 Jun 2025 07:40:12 GMT"
@@ -3319,6 +3295,10 @@
     {
       "title": "Ocean current \u2018collapse\u2019 could trigger \u2018profound cooling\u2019 in northern Europe \u2013 even with global warming - Carbon Brief",
       "pubDate": "Wed, 11 Jun 2025 13:15:03 GMT"
+    },
+    {
+      "title": "Trump proposes axing all climate rules for power plants - The Hill",
+      "pubDate": "Wed, 11 Jun 2025 18:24:00 GMT"
     }
   ],
   "ai_safety": [
@@ -3329,10 +3309,6 @@
     {
       "title": "AI Godfather Is 'Deeply Concerned' About AI Dangers, Launches Safety-Focused Nonprofit LawZero - eWEEK",
       "pubDate": "Wed, 04 Jun 2025 00:39:15 GMT"
-    },
-    {
-      "title": "The Wiretap: Trump Says Goodbye To The AI Safety Institute - Forbes",
-      "pubDate": "Tue, 03 Jun 2025 22:23:33 GMT"
     },
     {
       "title": "\"Safe-by-design\"AI: Yoshua Bengio launches LawZero | Newswise - Newswise",
@@ -3529,13 +3505,13 @@
     {
       "title": "A National Center for Advanced AI Reliability and Security - Federation of American Scientists",
       "pubDate": "Wed, 11 Jun 2025 13:21:25 GMT"
+    },
+    {
+      "title": "FDA Plans to Use AI to Speed Up Drug and Food Safety Reviews - Homenewshere.com",
+      "pubDate": "Wed, 11 Jun 2025 13:30:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Elon Musk sends Republicans into chaos as he shreds one big beautiful bill - The Independent",
-      "pubDate": "Tue, 03 Jun 2025 22:21:00 GMT"
-    },
     {
       "title": "'We are all going to die' - Senator Joni Ernst's healthcare comment sparks row - BBC",
       "pubDate": "Tue, 03 Jun 2025 23:09:14 GMT"
@@ -3912,10 +3888,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "'Existential Crisis': Bitcoin Quantum Computing Threat Is Fast Approaching, Experts Say - Decrypt",
-      "pubDate": "Tue, 03 Jun 2025 22:33:07 GMT"
-    },
     {
       "title": "Bitcoin Has Hit an All-Time High of $112,000. 3 Reasons the Leading Cryptocurrency Is Surging. - Yahoo Finance",
       "pubDate": "Thu, 05 Jun 2025 09:15:00 GMT"
