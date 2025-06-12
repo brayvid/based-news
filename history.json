@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Republicans Try to Discredit Experts Warning About the Cost of Tax Cuts - The New York Times",
-      "pubDate": "Wed, 04 Jun 2025 16:13:12 GMT"
-    },
-    {
       "title": "Live updates: Trump discusses Russia-Ukraine war in call with Putin - NBC News",
       "pubDate": "Wed, 04 Jun 2025 17:54:26 GMT"
     },
@@ -655,6 +651,10 @@
     {
       "title": "Trump presidency live updates: House set to vote on DOGE-inspired cuts to foreign aid, PBS, NPR - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 15:12:12 GMT"
+    },
+    {
+      "title": "Trump administration live updates: Hegseth testifies again; Trump signs bill blocking California's gas-powered vehicle ban - NBC News",
+      "pubDate": "Thu, 12 Jun 2025 16:46:22 GMT"
     }
   ],
   "ukraine": [
@@ -1001,6 +1001,10 @@
     {
       "title": "Russia\u2019s military casualties top 1 million in 3-year-old war, Ukraine says - AP News",
       "pubDate": "Thu, 12 Jun 2025 15:17:00 GMT"
+    },
+    {
+      "title": "Ukraine blasts Russia Day well-wishers as Rubio sends greetings to Moscow - politico.eu",
+      "pubDate": "Thu, 12 Jun 2025 16:09:02 GMT"
     }
   ],
   "recession": [
@@ -1195,13 +1199,13 @@
     {
       "title": "Goldman Cuts Recession Odds, Boosts GDP Prediction - TipRanks",
       "pubDate": "Thu, 12 Jun 2025 15:35:21 GMT"
+    },
+    {
+      "title": "CEO Says AI Will Replace So Many Jobs That It\u2019ll Cause a Major Recession - futurism.com",
+      "pubDate": "Thu, 12 Jun 2025 13:12:34 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia producing around 170 Shahed drones daily, plans to ramp up output \u2013 DIU - \u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
-      "pubDate": "Wed, 04 Jun 2025 16:53:00 GMT"
-    },
     {
       "title": "Putin will seek revenge for Ukraine drone attack, warns Trump after phone call - BBC",
       "pubDate": "Wed, 04 Jun 2025 20:39:26 GMT"
@@ -1411,10 +1415,6 @@
     {
       "title": "Reddit sues AI startup Anthropic for breach of contract, 'unfair competition' - CNBC",
       "pubDate": "Wed, 04 Jun 2025 17:37:08 GMT"
-    },
-    {
-      "title": "Ukraine says the drones that hit Russian aircraft used AI to find and strike their targets when they lost signal - Yahoo",
-      "pubDate": "Wed, 04 Jun 2025 16:59:47 GMT"
     },
     {
       "title": "New Doudna supercomputer at Berkeley lab to power AI research - CBS News",
@@ -2729,10 +2729,6 @@
   ],
   "us_economy": [
     {
-      "title": "Disappointing May jobs report puts more pressure on the Federal Reserve - Scotsman Guide",
-      "pubDate": "Wed, 04 Jun 2025 16:51:49 GMT"
-    },
-    {
       "title": "Trump tax bill will add $2.4 trillion to the deficit and leave 10.9 million more uninsured, CBO says - AP News",
       "pubDate": "Wed, 04 Jun 2025 18:05:00 GMT"
     },
@@ -3411,13 +3407,13 @@
     {
       "title": "EPA moves to repeal limits on greenhouse gas emissions by power plants - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 01:50:43 GMT"
+    },
+    {
+      "title": "Climate Change Could Complicate Anti-Submarine Warfare - The New York Times",
+      "pubDate": "Thu, 12 Jun 2025 09:02:35 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Trump admin takes 'safety' out of U.S. AI Safety Institute - Mashable",
-      "pubDate": "Wed, 04 Jun 2025 16:44:30 GMT"
-    },
     {
       "title": "US removes \u2018safety\u2019 from AI Safety Institute - The Verge",
       "pubDate": "Wed, 04 Jun 2025 19:39:42 GMT"
@@ -4273,10 +4269,6 @@
   ],
   "nasa": [
     {
-      "title": "A leaderless NASA faces its biggest-ever cuts - The Economist",
-      "pubDate": "Wed, 04 Jun 2025 16:32:32 GMT"
-    },
-    {
       "title": "Senate Republicans Seek to Protect NASA Programs Targeted for Cuts - WSJ",
       "pubDate": "Thu, 05 Jun 2025 23:20:00 GMT"
     },
@@ -4289,6 +4281,10 @@
     {
       "title": "Israel Says Gaza Aid Boat Passengers, Including Greta Thunberg, Are Being Deported - The New York Times",
       "pubDate": "Tue, 10 Jun 2025 04:07:12 GMT"
+    },
+    {
+      "title": "Air India Dreamliner crashes into Ahmedabad college hostel, kills over 290 - Reuters",
+      "pubDate": "Thu, 12 Jun 2025 16:29:43 GMT"
     }
   ],
   "hurricanes": [
@@ -4543,6 +4539,12 @@
     {
       "title": "Parts of Britain could plunge to -30\u00b0C if the Gulf Stream collapses, scientists reveal - MSN",
       "pubDate": "Thu, 12 Jun 2025 06:10:09 GMT"
+    }
+  ],
+  "kim_jong_un": [
+    {
+      "title": "Kim Jong-un caught building new nuclear bomb facility in North Korea as WW3 tensions grow - The Mirror US",
+      "pubDate": "Thu, 12 Jun 2025 14:13:00 GMT"
     }
   ]
 }
