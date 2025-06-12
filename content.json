@@ -1,1 +1,72 @@
-{}
+{
+  "China": {
+    "articles": [
+      {
+        "title": "China's racing to build its AI ecosystem as U.S. tech curbs bite. Here's how its supply chain stacks up - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVV1QkstallDb3RuRGgwdzFXR0U4cnlSTFh0RTBLSzZyc0Y4X3VyWTVIUEdlQWtHUDhrcVR0OTIydVBkbXR2UDZydTRCZVFqa3JxMG9IU1NLaVdqOFR4MnVlU2J1SWd2b2txdnYyMWxEUnRwTnBxWDVaX2VDRGVqMFg1NFBJb04zN0Jib1M2UWF5eHRQUk51d3F1T1NXSXRlNXltT1d30gGrAUFVX3lxTE8yUzh6TGczR01DWjlLRTRnRVJlaVY2SVNoMWtxd1p0U1FwdlV3SjFBNkpGN25UVHpsQlpoNzdyUS1MSUhvRTZidHhkWUdwMHh2ajVuX1pUTnRTUWFneVpQM3hPaXExTkZKd25VYmswOHAwR0FIYmV3UjBkMTBTM3hUSERzTnM3cWNPYXk2bzlNTnJWRWZ5YV9jNVZTS2lJRHNQR24xMEU5cjNHWQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 03:54:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "Trade War": {
+    "articles": [
+      {
+        "title": "Exclusive | China Puts Six-Month Limit on Its Ease of Rare-Earth Export Licenses - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOa0xfOW1GZnZFQmE5RzFFcGZWcVdyRjB5cDFWc3RhQmg4RV92cExiYWpBNC1lQXg1aWpfSXp3UnNrZWttdWdzXzdNLWNhcUZaWnRENGJaU3ZPX3BGRjlZeFk3ZWZYUTZUSVNDam9CQnFHeXhqWTh5ZnJMdDd5YjFmbm1lZU12SFZHb3dHYXo3d1A0NEY1V2xiSVgxLXRhWUxHQk1NZkhjZ0ZmMUJuMU12VHNaX3MwekFBOE44NEJ4UWZsOEpXZElNbXRYTnZIeklnS1lFcUl0d2ZDeTh1N00wNHc3emNZbGNvWGp6NTd1YnZEMGtBZVhOUksyVnpwQkp0NXJKYU1KMlhlNGNxNjdPdVZnbXpDdGxUMWFHYXVrN25MZ0dZZkUtbmtPRWFHbGFzOVpnaUdVTFJSLWU4WlJCMWZiQVppbnlXWmcwUElCb29yT2pXZk1ha0JkWms4MmkyT3pMRDZidldmQlZ1ZlVXNVZBNTh5V3NyWHVRUVBMS1hEUUN3Skp3Z3VISGlQX1ZreHo1T2NRWlF1Z21qUWtwTFZqMmJjaXlUS2JNQlVKREFFd05fZEE?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 21:10:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "JPMorgan CEO Jamie Dimon warns economic conditions may deteriorate soon - Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3VtTk9CTERfcjlpVWpNNTd0RE10U3hwd2piODhiMExuZ1BIMy1aSlAwcW9HZFRTOFJKQkdJV0NYOGNtYjhwOFEyYndBbV9xTC1MNGFYZUV0Q3c2bmxMR0JRMmRULXk5cHBJMzBab0MxV0xReG9yQnBoRmVZSjM5U2dUb2wwWmpaZmY5ZUdUdEZOODdOb3gybDNDdHFkRXluUVF3VTIxbk9jdUnSAbABQVVfeXFMTWxVelFnM25qc1A0YlczUjdjMXNnTkpVS21BSTdERXdVVDlPV3NGU1psQ1pDcXNQb1dxX0JnTEFONVcwRTd4ZmVISUdYOXZEcG5vWFp0NGlwcG1qRHdZeE9TaUtaU3Etb2pRUWlhQnFpWTZkbU1mUTRfSHlOZkNsSmZnUnBqMHo0bnFVcjFKU0NpNjN1NEVrUWMxTXJ2UnlPVGRKeFFlT01TSE56d3RRUWU?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 20:59:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Israeli gunfire, strikes kill 120 Palestinians in Gaza, many at aid sites - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkJEUU1DZjhKZmpCdkRoQjAyZmVLYkxjU2R3Y3FHa1Q4bm1sS0doU09Wd211elZhckoxaGxEM0JyTWFycU9xNUwzUzIzcElqOXREX2xwbmp4WS1adVdDLV95UnJzRTB4cS1HZC1JZ3V3WTRyNUJ3TnJYSWp5aWZ4UmwxSWtnYVNrWUlheTl6dXpld3J6MndmRWh1aDNhdnM3Sk8wWGFSOVlzY2hZQTJMcDNn0gG3AUFVX3lxTE1fdnhXNURfRjAzNlhRWU9UUUoxaVpISzVXNU8xbHpGV0Vwb0FUQTh1MnVEdHBQVXVpaXkzdVF5S01xcl9Ga3o2aWlYcUFhNWhQVkR3cDFfMlVfRVpDTVpEWXEtUFFfMjE5RnFZaGpmUWJBUnlBaklkX0gyWGs0c0h0eXhnRVlCaDdiQl84d3A1OE9EdW1Oa0N0MFRCckJqbjZfU0tvcm9JdFVYQmNQNXpQTUN1UGE3NA?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 20:53:17 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "US Foreign Policy": {
+    "articles": [
+      {
+        "title": "Oil prices surge on fears of escalation between US and Iran - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jLTJDbWpIcTdIZ1F5elhXVzdQZ2dhWkR2N2piRE11Vzdxc0dIZ3NfWGZrV0FmNnhzd1NNOHlObk1QMndFa1libHhvZnNVMVFqb21DZXBoejJSMnFsalUydGhUcW9fdmZaUDNYeVFjS2c?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 20:35:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Forget AGI - Meta is going after 'superintelligence' now - ZDNET",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlg3ZkZWMW8zMktWUUViUFJQRXFyV3JpR0t5WGNyOUNuekF1UlBkRzIydnBOMlRzX01EN1RHRDhDaUloaGVRMWYtNVE4Uk96em5QTm5seGxJWkRsakE1YVpsYUU3Z1JCZkNSaXpLU3hnY0QzdTl4NnhTcXcyMTdsOHZJRVlsSjk1RVp3?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 20:32:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump's ongoing push to erase his criminal conviction lands in federal appeals court - NPR",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDBnTGhuR2R1ZUg1UlNveW5lblVROHo2WVpZdkZGR2x5VU9wU2ZlN3VkYzdlRlRfTTVIOU5xLU1od0IzRnZydzViRjdyd012LUNCNGFMTmFyT0lFU1k4NUhXejBNNm9sMXlOdDM4d1hSVmYweTk5T1ZUUVVHTEJKSlpYWDZZWm13U2RPSVhTYVVDRG9Hdnlva3pfSXZhZ19hNmdFcVNPSENJRDRHMVdUeWRlUGFUeFp6aDFR?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 17:58:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T06:01:43.046022+00:00"
+  }
+}
