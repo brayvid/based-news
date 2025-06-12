@@ -1,52 +1,72 @@
 {
-  "US Politics": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Republicans to Press Hochul, Walz and Pritzker on Immigration in Hearing - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVhKM0ZSR2QwcVhqdXVrNW5YXzRtWWJ1NXBNeWZ1WHRHa2NmTVBSNndSb2YwZFV6d1kxOXVkM09Ob3kzWWVZT2kxZm5xWkhudlNHM2dvdXRLVjB2Vml3STB4WGtJaTIzMmxhQkRWN081bHlBUkFJcWlyNFlUWElQMV9kR1hlR2VxT1RBTUFqRVNDMXpUQmRDSjV2Z01iQQ?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 13:12:03 GMT"
+        "title": "Ukraine keeps up pressure on Russian airfields and war production - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUpwb3FOdTM1ZnAtMnd3eE1MY2NaRWtRRklvdmhvZTFmcnZJaHRFZnN4amNBS3QyZFc2UnhybUZ0YWctcjZwb0txM3U1QlV5Sy1pMlE3RDdJblhmVjREaDJ5REpjbkhFQl9wTy1uR2Q4WTBkZFZmRzI0UWYzU3c5eElpZmg5QnVpMzhvUjZDWWxsRmhzN010b0ZpNjVVOVJJWHZoWW1MX0t3UdIBrwFBVV95cUxPR0pJeGNVcDV4QUtQNHRnNnpOdkhnNWhudXVSWTBKMnpnR0Vmc09iVjd5ZjlMNzAzZHlUeU5DS3RZM1ZvVk1PTGRYbkF3QzJKZlZ6ZElaNjNwdExyMEc3a0RDTk8zLTNoWjFPTE5DaUFJbmxzQ3ZXSUFVQTNfVjYwcTJyZDRrZjhGbVFqeHRpUlMwdzg3VUVULXFwWE1GSEFxdkZyS254NE9VWkpqTnRF?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 14:54:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T14:02:02.308617+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Traders boost bets on Fed rate cuts after PPI, jobless claims data - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBYUWs1VVd5TWxoYS1DY0p4NFpUTEl1U2VZUXp5UHVXak9mb0pXZWhidExTQXVJNXhzWjNjakNtSXYtQXF2ODRpZjJjOVlfNnlCVUt0NTdEXzdvNzdXSF9mRmhtMkh6Yjd5UXplWG05bWFUZmhOb1ZWZnBOZTNzdWxuWFlMRy1kQzZlTmRTbXhvWFBVZWt6dXJyaHRkaE1USXNNaldQSm1QSlU?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 13:11:20 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T14:02:02.308617+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction - The Hacker News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSUF3Y1o2bkNteVVwZmotZ1o1VWlPY1o1eWQ5dExiYnQ5N29tMUlZYklMN2pJVjZpaXlMVDlXeVVrYjRZWVl0bllrV3ZvenR2Sm9UUlppc2NYanQ5UnN4M0RfZl8zdF8zUThhQjB0OS1nR3RpUC0xNFQwOTQydE0?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 11:11:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T14:02:02.308617+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Exclusive: China-backed militia secures control of new rare earth mines in Myanmar - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHRhcGotdUhFVmUtdUxBWWZDSzhWVkQ4QWU2bnBjNmxvNlFIbDZudHo0WGs4YlVwYUp2SWhVakV5NlotOTBCNTNSNnNkMUhZV3NOeWl2RzBtc2VzcHluOHdVWVJ4RkM0M2FLQjNWY3NnTEUzRUtxM1VMNFVqY1dWWGJZT2Rnc1l4M2t6NldibzBLNVY4aTktTndVYm5CY0lxMG51WnAzeGVMRXNuMTFnNFFucw?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 10:48:59 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T14:02:02.308617+00:00"
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Majorities in key U.S. allies have no confidence in Trump's global leadership - NPR",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSW02RlpRb2htWm1HeGxyUGVIRHlNVUtINW00T0JWQU1zQk1PQlZxV1JfTXg2ZFNPbXpYS0RFYTVYU3ZwaU9oQUpJX3hqU2tla0w1Y2pwTkdMc1lIZy1xYXM1a3QtWmZFOEVRZWpTazNNVHFoN0hmbHVqTUFtdWxVOFJtNUlFUQ?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 09:00:00 GMT"
+        "title": "Trump is \u2018not all there,\u2019 Newsom says amid Los Angeles fight - Politico",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWxWaHVUaFR5emdZWjlTTkN3TXVtOHdPaFpaSGNUNktrYUJENkdndVAta205VmlnZ0hMUERtdW5Hal91aDVCRzVnRUZKaUhJWFIzdWJHNnBqZ3JmcF82aUdPdUdfdGx5YXE3bEhFS3ZENWMxRm9YeEVWT2FXdkd0NzNxYw?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 14:22:44 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T14:02:02.308617+00:00"
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
+  },
+  "Recession": {
+    "articles": [
+      {
+        "title": "Goldman Sachs trims US recession probability to 30% - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEs3dF9lRDZFQ1VlQkpraGpNWTZ5MUxOa1BKMEFzM1RULW5EUklWU2ZHTEo3OGJzRmhwWXVzRlI1UEVSQzFqNHkzLTkyQnNURFlaM29GSGpUM1ZId2k2SUtfYmxXOUFKdVRZYklGLVJFWWN5VXZ6SjExMjJHcHgxYlI3LW4zeElfOTJPZ2V1UGtZZy02Rmtz?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 13:48:21 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Former OpenAI Researcher Warns GPT-4o Shows Alarming Self-Preservation Bias in Safety Tests - iafrica.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5VZ0JNSURPdTRqOS05Z0kwSV9oaEZTaUZTeU5uY1kxWDl2U1ZqaG9Sdzd3aWZuOUxBazJrbXJoS2REY3FNbjd3OVZIS3NRalNTY1Z6dHFOUlBfVnlFMVJBNTVGV3hwb0JMX0g1WE5YeHVqN3M1SkdvY3dCcm9NNTVkWjlGVy1SSVRyaV80RWducXdQaHFYNnhSRWd1M3pvQ0R6Z1Nmak0yNVAyb1JEN0t3?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 13:24:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "US Producer Prices Increased Less Than Forecast in May - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0o4X2MxczFKN1NSa01zUlVsNXpsc0FEYzVBamdvcnhFY3NicThZb1pEVF9mT29nOVZXbzFqZ0FBejIyRkJxbGV4RG13QjhlWHlvakhpTndwOHcxY2FNT0k5c3VqcjhIZVpYWWhJR1UyblVHQzZrMlh3R3JjUlFWZ3FTcVBwdmUyaTBXWGZRZnphRkdMYzlHdG5WWWhwNkVOb3Q4d01YZXU?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 12:42:39 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Xi Plays Long Game on US-China Trade as Trump Seeks Quick Wins - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZG9tRVRzQnpiUHltTElwOExHNTFkSG91QUxHZUt5bzdSc2syQ1Vheng3Z1FCMGtreFdacHVYUUlWaTZ1SXpWajI0Zm5IWTlfUWQwQ3RLcnBoNFYzYzRHY01temNtOTFyNG9GN09lTXZJUzAweW1La05TSEtmdzdkSXEwRmRpQjZzNzZaUDNha3pFcXVEczF4V25sM21VeFBkcXkwckxhY2JaeHoxLVpyNGFPTQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 11:43:05 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Democrats look for reinvention and a new playbook against Trump in key committee race - WSLS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTE5QbHRCZE5zM0JvV2p0Y2lXb1FMTHlmYk1TMkJUdkFsRjA4R2FYQVNqV2ZkYkpRY2FmYmJGTUoxRllYWkNqSGJZVmxyX2ptZTlnNmhFblEtM1FXVVJhNjVmanZOZXF5eWdvM1RGeWpvZmFwQkpGc2NvR1lXQk9Nb3BwRHUtX0Y2Zy1PME40cldkVlBVY3FjaFNKaGtHY1Z3Y3F2NFk1QTdUdm9rQ01kY0FjdDZnejFabWM5akRXUTdzZE5iTkV5R1RVTFg?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 04:09:48 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T15:02:47.046227+00:00"
   }
 }
