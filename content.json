@@ -1,72 +1,52 @@
 {
-  "US Economy": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "JPMorgan Chase CEO issues dire warning on US economy - TheStreet",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHVBTWtxdDlDMFpjVVlWSmJBWXpad2hwcVB3am8tNGNMN25wdmJVSmV1U1ZmaGhHaENqWU1zZkI0TmlhTlVsQzkwOHVCV2oyaklLVDRZVVpUYVpTM1lsNjhJeFVVeDFzSzBSSlpnZ05qLVh2d3MweDB5R3FGbTNNWS02alFJSVRUSVBLQzNRTQ?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 17:07:00 GMT"
+        "title": "Artificial intelligence debate makes its way into courtrooms across the nation - KFOX",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHBiVWFmYVJmZnlVTWtTRlRpa0puSjlqZm9FTUNaOXJ2blJlWjViRklCOW9EbDN0MTlHbFoxRzZQVEdCLWlZcFFDZ0tBSkU1S2hPR2lyYS1BWEJhajlnOU9LMWJMLTR1NVdSblBEV2xsRnM5RXpsYkdXY19zTnljVWtVOGZvODJNZllQSUhmUXROS0p2bmZIN2RLTG4tWThEOXlQQ0VGODVEUXlnM3lKVEhKcGhFd2ZDVHBN?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 18:37:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
-  },
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "Mitigating AI security threats: Why the G7 should embrace \u2018federated learning\u2019 - The Conversation",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm1lYVlMYk1VSEw0SXFRam81WmlsU0p5RHlKR01iX2RRc0tiOXdnQWR3clpZVUFaU0RWZmNSYmhoRXZsZW9fN2FHVWwzVnZHM3VUampHSktiMjQ2TWFNWFBqX1pQQ21KVExLR2dfY3lySE1CVjgyV2J4b3VET2Q4SWNWOHM4SkdJLUZmeE03TVFWUHZiU05kY2pnaXdMWWh1ckxQZS12YURFenFBZ2Qw?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:59:40 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+    "last_updated_ts": "2025-06-12T19:07:07.053473+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump promises \u2018unforgettable\u2019 military parade in DC, but who is it for? - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXA5V1l2bjQ1SUtfVDRPWnYzVlFZbTZEVWtTQ0dKTDVLcDhybUJPNGhhNE9oOHYyaFhvbkgzMF8yNUFBQk5kMjVGTko1SC1sZVNFcUtpSE9qdHdRUHdWNDJ3SldwTEpjVWVmWjliRTZCMUlraTYzalZWYXhEUlJwdFpIU2Vvc2tKd1pkNHFLS0pSeTdoQkJSOW5RNkd3Vk9waEd0bGNaX1FzWUNPZlHSAbMBQVVfeXFMTktwNVRFaG9PVXg5RXRSZmxJOFE1enB3NUc2c3d0VGM3VXRUWlJiVWpLb21RVDJjNWlaekxrQ3dHVExOemx1dS01aXpUd2xXbUl2ME5Cb0VCblZic1VVUHk0TXZaeGlhZzc4OXJlc3B1V0hOSjN3Ti1EYXFIN2JzVTY0djNDRUFNX1pXcTh5bU5pVUhNN3JxQzlVbDRaUjBSZUlLbmFDT3pHQXRzYkFLYTgxazA?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:18:45 GMT"
+        "title": "Donald Trump says he may \u2018have to force something\u2019 on interest rates - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hYXZpYkdzU012XzdWWTJuUXE1TmVROEF2RGVuZG42OTlPajlaazRWNUNJTkRJUG9UUkdBaHgxZHZRa3RCXzFSeldQcGJaYVVwa0M0SmNMRjFlR2pvLUtmVzNiTFRUdHhobWtQaFVqanQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 18:07:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+    "last_updated_ts": "2025-06-12T19:07:07.053473+00:00"
   },
-  "Ukraine": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Ukraine-Russia war latest: Kyiv claims Moscow has lost more than one million soldiers - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1lsZWVvLTBPLTE4SFNjcVRzdC1yWUlTYTNNY2xRLTlESENsQmhkTllGSUNBZUVqODBta1k1djM1MWpickdPTmcxdmtsWlpfZEpFZ1FXZDdjU0QyakpkMWRUMktBSlFxSTZueWJEel85MEU1NGIwUXBpRjN6ZWFSRnU1amNWbTlZVkxta3NMVmJhdlVJTDJtRmNzOUFrOWF6RXJraGR5QzV3VlpSWERkU1hvMm1HS1U3Mm5RamJYUQ?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:15:43 GMT"
+        "title": "Stock Market Today: Dow Opens 200 Points Lower; Dollar Drops After Trump Revives Tariff Threats \u2014 Live Updates - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNVVZMQW01SFlsYVZxLWFlZWlwS2F1M2I5LVI2amthek8yMmRDQlF5ZGViaWdyU0VRZ3hWazRTdVF1ZmFTMjNkU0Y4bGgwUlgyU3J2TFZ1WjdHdmM5WU85ZGd4LUpSSmNGY082SVB2NWtST3N0Y2p1aWxxWExGbFJEQmNIWWh0ZHJHdFRHZWdEV0llMnpFOVhoSVVpemRyRGRJdzQwRnNhbXNKZnRQdU1KOS14NWNCbllyNTllVEltZ2xnYTF6SEJNczVDTTBibmxHZzVXRjI4SGVpRmJ0SEJWcXJ3WnZfV21ZMnJQaEtSTmN1RFdTeWlEOEZ4b1EzZ2E3NmwtdVU3akFCN05ORzNiY3ViNlB2Z2xFWmRWWVhSeFN4RGRiNFI5VDJTQXdaZTlycnM1a3dIYmpfOGtXY01IM1hkMnM2R0pRMVYtaXpnTUdScF9RM2tWclpYcVpTMjh0S0hDbk5TZ2tuS0kyMUtlUThWdkVVclZBaXJYbU9PUFdUbUVzV05TbjNoRDFIaGNKUWtzUg?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 18:01:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+    "last_updated_ts": "2025-06-12T19:07:07.053473+00:00"
   },
-  "China": {
+  "Iran": {
     "articles": [
       {
-        "title": "China to remove tariffs on nearly all goods from Africa as both criticise US - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXA4b25XcjhvWU4xT0E2LWJudzNTNDF5aGQ5bktUZWhJWmlybVVQSnJGaEI1WXAyWnR1RzdUcUIwTG5hZEZNYmhyQmZQVkFVV2NuRGpHZncwRHlTT0c5cXd5azA5bHdiY18wWEtJbkx5MTR6eXgwTWlFOTQ4ZEgxQng5aFFKUjQtYjAtcUMzUDJMMlVvNWtLX21xTzBsSnJKdE1XY3dvRDdlNjJlemg5THpxbmVkM3RiQnJVM0FTQVZQVVhXWkYtXzh0Z2HSAcwBQVVfeXFMTkw2YXExaDRYSXhodXQ0RWU1ZHl6dHpwYkdIdW02WTJtUzN3aWpTZk9IaFo5am1lQWNFaUluQnRDU3NiRmNKSFQyQ3V2a2g0NWZwaTRWbFZlMVlVZWFuaGs5ZDBpS1FfUllYalUwcnZjUWdBMnZJWnBOdVhPWG91NVBaUnZnNzE3WlV1WGxGRzVHUTBJZnNIenhtMVhLeFhoUmFzcEM1cElyRDg2SmhVaG9UeXVZcUtfdk1kZDg3STJJcVNScXBEMWVhV3U2?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 10:00:17 GMT"
+        "title": "Israel considering military action against Iran in coming days: Sources - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJpSHVGXzR5THd2amxGckhvd2k2MVFxTzJtOHotbTl6TTJjZ29wQ0R1V1FJd3VFZjJuUkZNQmRIQ0JhV2poaXNSWVhTMUZCb2hUbmVxcTB2SGczS3BhS2lXNVVRSV90cWt1ZkZlWmZaUjdpYk14ZlVZRE1ORFV5WFRkN2FmTjNYVHUzdktCcWszTkpwNGtRSm9vQ205SmV0cHVBMF9B0gGrAUFVX3lxTFAzaHprRmdEUHAyak1qUGZDLVFnMmtGeFFMTTNfUkVwOW9kbUNFREc1dEdmaFdqaVNxTjZRTnlHUmpvX3MtWU1YMkRQSzl5XzFpbkpOa1o4a091akVrV3FTOVlZdzNNN0ZaYnNwWDZVUDZzZTFmVDdEREhuaUowSzdNZDhpQXZvZk02QlZET2pVNDJRdE9taUM4YUpjWDRnRERFV05lYWpyWTcyZw?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 15:33:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+    "last_updated_ts": "2025-06-12T19:07:07.053473+00:00"
   },
-  "Elon Musk": {
+  "US Foreign Policy": {
     "articles": [
       {
-        "title": "Elon Musk says his next product will be the most important Tesla has ever produced. And he says it\u2019s (finally) almost here - CNN",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Z19NYWtIUm5xRHB6QVlQLWJGeDNWb0c4TVJ5cmxUcGxmeU5CcE00anVwMmZDanJIRDVaSDNyYVRUcVpMb1dDSG1TRElLbVZxQjdxS2Rfd2NjMHdxN0s2ck54NzVjM1ljYVhMZEFzT3BlckpSbHR0bTVzQzNadDjSAYQBQVVfeXFMUDV6ZUREeG4zUEZQTENXU1U3WE1KT1h4TDdlTUFWbzl1NDlqQmN0WXdHeUF0aWRMZDFSTms0NVBDSFo0aC1IZ1haME9ISThBcWNVNnR0MHFwS0JwYVM1NTh2U1RleW1vblN3a0tNS2VHOGRadU5waUlLSWEyVWtxbWxqUnZh?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 10:00:00 GMT"
+        "title": "US Marks Russia Day for First Time Since Invasion of Ukraine - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVlIUzBxaDNicVFPeGR0MHpEdGhuS0g4TUtWRmFPajVUVHhOMnRWNWFOTFNPWjQ3VDItdGx6LUphLWdnclMtSGlhMVR1aVZHS0JJVHh3dGZpMWxSUXVBSzFxMUZsajhldzZsOWd1Y1ZVOXd4UWVoU29YNERBeklfQ3gyWlZycEtya1BBcGRXUUNraEpSRmxlNUFnd0VVdXFGN0poRFlwaFJMQzJsNjJzWHkwN0g3UQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 14:51:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
-  },
-  "Democratic Party": {
-    "articles": [
-      {
-        "title": "Why \u2018Hellcats\u2019 could be the answer to Democrats troubles - Politico",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlZBdEhTbmlzZmNBTWxKU09WaDNqMEJCaUJBLVVvbjNfSFNzRDJHUXRlTzhsRFRfSUNaZ1lTWEFvZ0V2X3J6OV9HU0h4aHo1ODluMlVUVE9JQjhmYnlwRmczdDZEMjZaVmFpSmN1SlNWMVIwMDQtZHlZRUhrTERCLVRXTTRlcldFaXBsbFlqN3dTSkV5LUZN?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 08:43:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+    "last_updated_ts": "2025-06-12T19:07:07.053473+00:00"
   }
 }
