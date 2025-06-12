@@ -1,20 +1,12 @@
 {
   "donald_trump": [
     {
-      "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019 - The New York Times",
-      "pubDate": "Wed, 04 Jun 2025 00:19:12 GMT"
-    },
-    {
       "title": "Trump\u2019s 50% tariffs on foreign steel and aluminum come into effect - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 03:55:00 GMT"
     },
     {
       "title": "Trump says China\u2019s Xi is \u2018hard to make a deal with\u2019 - Financial Times",
       "pubDate": "Wed, 04 Jun 2025 06:40:25 GMT"
-    },
-    {
-      "title": "As Trump raises deportation quotas, advocates fear an expanding \u2018dragnet\u2019 - Al Jazeera",
-      "pubDate": "Wed, 04 Jun 2025 00:45:00 GMT"
     },
     {
       "title": "Michael Saylor\u2019s bitcoin imitators are multiplying, from Trump to GameStop - Yahoo Finance",
@@ -643,6 +635,10 @@
     {
       "title": "Bragg Soldiers Who Cheered Trump's Political Attacks While in Uniform Were Checked for Allegiance, Appearance - Military.com",
       "pubDate": "Wed, 11 Jun 2025 17:31:00 GMT"
+    },
+    {
+      "title": "Musk Called Trump Privately Before Posting Message of \u2018Regret\u2019 - The New York Times",
+      "pubDate": "Wed, 11 Jun 2025 23:16:25 GMT"
     }
   ],
   "ukraine": [
@@ -657,10 +653,6 @@
     {
       "title": "Inside the Ukrainian Drone Operation That Devastated Russia\u2019s Bomber Fleet - WSJ",
       "pubDate": "Wed, 04 Jun 2025 02:57:00 GMT"
-    },
-    {
-      "title": "Ukraine war briefing: Satellite pictures show Russian warplanes prey to \u2018Spiderweb\u2019 - The Guardian",
-      "pubDate": "Wed, 04 Jun 2025 00:24:00 GMT"
     },
     {
       "title": "Ukraine-Russia war latest: Kyiv\u2019s audacious Operation Spiderweb \u2018was like raid that killed Bin Laden\u2019 - The Independent",
@@ -1187,6 +1179,10 @@
     {
       "title": "Recession Nails: How to Save Money Without Skipping the Mani - NBC News",
       "pubDate": "Wed, 11 Jun 2025 18:35:00 GMT"
+    },
+    {
+      "title": "Number of CEOs expecting recession drops - WCNC",
+      "pubDate": "Wed, 11 Jun 2025 22:54:00 GMT"
     }
   ],
   "russia": [
@@ -1867,6 +1863,10 @@
     {
       "title": "Meta Takes Next Steps Towards the Development of True Artificial Intelligence - Social Media Today",
       "pubDate": "Wed, 11 Jun 2025 21:03:17 GMT"
+    },
+    {
+      "title": "Artificial intelligence: Disney and Universal sue Midjourney over copyright - BBC",
+      "pubDate": "Thu, 12 Jun 2025 00:11:26 GMT"
     }
   ],
   "financial_markets": [
@@ -2595,6 +2595,10 @@
     {
       "title": "New China Trade \u2018Deal\u2019 Takes U.S. Back to Where It Started - The New York Times",
       "pubDate": "Wed, 11 Jun 2025 22:40:10 GMT"
+    },
+    {
+      "title": "U.S., China reach trade truce after two days of talks, Trump says - The Globe and Mail",
+      "pubDate": "Wed, 11 Jun 2025 23:43:37 GMT"
     }
   ],
   "iran": [
@@ -2637,6 +2641,10 @@
     {
       "title": "A nuclear deal with Iran could generate billions for US economy - Responsible Statecraft",
       "pubDate": "Wed, 11 Jun 2025 10:50:59 GMT"
+    },
+    {
+      "title": "Oil prices rise more than 4% on escalating U.S.-Iran tensions - CNBC",
+      "pubDate": "Wed, 11 Jun 2025 19:24:08 GMT"
     }
   ],
   "us_economy": [
@@ -3311,18 +3319,6 @@
   ],
   "ai_safety": [
     {
-      "title": "How some Republicans changed their minds about AI safety - Platformer",
-      "pubDate": "Wed, 04 Jun 2025 00:12:39 GMT"
-    },
-    {
-      "title": "AI Godfather Is 'Deeply Concerned' About AI Dangers, Launches Safety-Focused Nonprofit LawZero - eWEEK",
-      "pubDate": "Wed, 04 Jun 2025 00:39:15 GMT"
-    },
-    {
-      "title": "\"Safe-by-design\"AI: Yoshua Bengio launches LawZero | Newswise - Newswise",
-      "pubDate": "Wed, 04 Jun 2025 00:50:00 GMT"
-    },
-    {
       "title": "AI-Based Fault Detection in Offshore Oil Platforms: Enhancing Safety and Reducing Downtime - Modern Ghana",
       "pubDate": "Wed, 04 Jun 2025 05:54:46 GMT"
     },
@@ -3893,6 +3889,10 @@
     {
       "title": "Almost half of California's faults \u2014 including San Andreas \u2014 are overdue for earthquakes - Live Science",
       "pubDate": "Wed, 11 Jun 2025 15:33:06 GMT"
+    },
+    {
+      "title": "Magnitude 4.6 - 28 miles SE of Adak - Alaska Earthquake Center",
+      "pubDate": "Wed, 11 Jun 2025 20:36:19 GMT"
     }
   ],
   "bitcoin": [
@@ -4487,6 +4487,12 @@
     {
       "title": "Bitcoin devs scramble to protect $2.2tn blockchain from looming quantum computer threat - dlnews.com",
       "pubDate": "Wed, 11 Jun 2025 12:42:06 GMT"
+    }
+  ],
+  "pollution": [
+    {
+      "title": "Trump administration moves to repeal Biden power plant pollution rules - Reuters",
+      "pubDate": "Wed, 11 Jun 2025 21:52:12 GMT"
     }
   ]
 }
