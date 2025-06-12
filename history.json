@@ -651,6 +651,10 @@
     {
       "title": "Prices for common baby items are rising due to Trump's tariffs, congressional analysis says - CNBC",
       "pubDate": "Thu, 12 Jun 2025 19:44:35 GMT"
+    },
+    {
+      "title": "Trump administration tells 500,000 immigrants to 'self-deport' after revoking protections - CNBC",
+      "pubDate": "Thu, 12 Jun 2025 21:56:20 GMT"
     }
   ],
   "ukraine": [
@@ -1191,6 +1195,10 @@
     {
       "title": "Goldman Cuts Recession Odds to 30% - TradingView",
       "pubDate": "Thu, 12 Jun 2025 19:27:46 GMT"
+    },
+    {
+      "title": "Recession Watch: My Favorite Recession Indicator, Mid-June Update - Seeking Alpha",
+      "pubDate": "Thu, 12 Jun 2025 19:50:00 GMT"
     }
   ],
   "russia": [
@@ -1391,10 +1399,6 @@
     {
       "title": "New Doudna supercomputer at Berkeley lab to power AI research - CBS News",
       "pubDate": "Thu, 05 Jun 2025 00:46:00 GMT"
-    },
-    {
-      "title": "New US AI center reflects change in branding, not role - MLex",
-      "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
     },
     {
       "title": "Watch Meta CTO on What's Ahead in Artificial Intelligence / DAY 1 - Bloomberg",
@@ -1871,6 +1875,10 @@
     {
       "title": "Artificial intelligence debate makes its way into courtrooms across the nation - KFOX",
       "pubDate": "Thu, 12 Jun 2025 18:37:29 GMT"
+    },
+    {
+      "title": "Barbie maker Mattel and OpenAI partner to develop AI-powered toys - CBS News",
+      "pubDate": "Thu, 12 Jun 2025 22:24:30 GMT"
     }
   ],
   "financial_markets": [
@@ -2643,6 +2651,10 @@
     {
       "title": "If China invaded Taiwan, who would enter the war? - The Economist",
       "pubDate": "Thu, 12 Jun 2025 13:00:23 GMT"
+    },
+    {
+      "title": "China grants rare earth export permits after US trade talks, offers relief but uncertainty persists - ABC News",
+      "pubDate": "Thu, 12 Jun 2025 21:30:13 GMT"
     }
   ],
   "iran": [
@@ -2721,13 +2733,13 @@
     {
       "title": "A new Iran nuclear crisis looms after IAEA finds rule breaches - Al Jazeera",
       "pubDate": "Thu, 12 Jun 2025 20:24:35 GMT"
+    },
+    {
+      "title": "Tensions Rise with Iran - NPR",
+      "pubDate": "Thu, 12 Jun 2025 22:35:52 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Businesses brace for steel and aluminum tariffs, which double today - The Washington Post",
-      "pubDate": "Wed, 04 Jun 2025 22:27:44 GMT"
-    },
     {
       "title": "US Economy Slowing as Consumers 'Reluctant to Spend': Economic Analyst - NTD News",
       "pubDate": "Thu, 05 Jun 2025 00:59:00 GMT"
@@ -2735,10 +2747,6 @@
     {
       "title": "US economy slows as Trump\u2019s tariffs put pressure: The Fed - Tech in Asia",
       "pubDate": "Thu, 05 Jun 2025 02:40:00 GMT"
-    },
-    {
-      "title": "Wall Street ends narrowly mixed in choppy trade on weak economic data - Reuters",
-      "pubDate": "Wed, 04 Jun 2025 22:51:49 GMT"
     },
     {
       "title": "ECB Cuts Rates Again, Widening Gap With Federal Reserve - WSJ",
@@ -3042,10 +3050,6 @@
     }
   ],
   "terrorism": [
-    {
-      "title": "Alleged agro-terrorism by Chinese nationals proves China is 'greatest threat and adversary' to US, GOP senator says. - Fox Business",
-      "pubDate": "Wed, 04 Jun 2025 22:10:21 GMT"
-    },
     {
       "title": "Trump administration to end DHS program designed to thwart terror attacks - NBC News",
       "pubDate": "Tue, 10 Jun 2025 23:06:17 GMT"
@@ -3577,20 +3581,12 @@
   ],
   "us_politics": [
     {
-      "title": "Live updates: 10.9 million projected to lose insurance in 2034 from \u2018big, beautiful\u2019 bill - AP News",
-      "pubDate": "Wed, 04 Jun 2025 22:47:00 GMT"
-    },
-    {
       "title": "House Democrats question Trump in probe of Elon Musk's alleged drug use - Axios",
       "pubDate": "Thu, 05 Jun 2025 03:37:59 GMT"
     },
     {
       "title": "Fearful House Republicans Scramble to Mollify Musk - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 00:13:31 GMT"
-    },
-    {
-      "title": "House Oversight Committee expands inquiry into Biden's mental condition and final acts in office - The Register Citizen",
-      "pubDate": "Wed, 04 Jun 2025 22:13:21 GMT"
     },
     {
       "title": "Trump orders inquiry into 'conspiracy' to cover up Biden's declining cognitive health - France 24",
@@ -3981,6 +3977,10 @@
     {
       "title": "From malware to deepfakes, generative AI is transforming attacks - Cybersecurity Dive",
       "pubDate": "Tue, 10 Jun 2025 14:49:17 GMT"
+    },
+    {
+      "title": "US Banks \u2018Deeply Concerned\u2019 About Cybersecurity Risk Following Attack on Top Financial Regulator - The Daily Hodl",
+      "pubDate": "Thu, 12 Jun 2025 14:31:18 GMT"
     }
   ],
   "elon_musk": [
@@ -4485,6 +4485,12 @@
     {
       "title": "Kim Jong-un caught building new nuclear bomb facility in North Korea as WW3 tensions grow - The Mirror US",
       "pubDate": "Thu, 12 Jun 2025 14:13:00 GMT"
+    }
+  ],
+  "asteroids": [
+    {
+      "title": "Odds of \u2019city killer\u2019 asteroid hitting Moon increases \u2013 what does that mean for us? - MSN",
+      "pubDate": "Thu, 12 Jun 2025 10:54:42 GMT"
     }
   ]
 }
