@@ -1,62 +1,72 @@
 {
+  "US Economy": {
+    "articles": [
+      {
+        "title": "JPMorgan Chase CEO issues dire warning on US economy - TheStreet",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHVBTWtxdDlDMFpjVVlWSmJBWXpad2hwcVB3am8tNGNMN25wdmJVSmV1U1ZmaGhHaENqWU1zZkI0TmlhTlVsQzkwOHVCV2oyaklLVDRZVVpUYVpTM1lsNjhJeFVVeDFzSzBSSlpnZ05qLVh2d3MweDB5R3FGbTNNWS02alFJSVRUSVBLQzNRTQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 17:07:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Mitigating AI security threats: Why the G7 should embrace \u2018federated learning\u2019 - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm1lYVlMYk1VSEw0SXFRam81WmlsU0p5RHlKR01iX2RRc0tiOXdnQWR3clpZVUFaU0RWZmNSYmhoRXZsZW9fN2FHVWwzVnZHM3VUampHSktiMjQ2TWFNWFBqX1pQQ21KVExLR2dfY3lySE1CVjgyV2J4b3VET2Q4SWNWOHM4SkdJLUZmeE03TVFWUHZiU05kY2pnaXdMWWh1ckxQZS12YURFenFBZ2Qw?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 16:59:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump administration live updates: Hegseth testifies again; Trump signs bill blocking California's gas-powered vehicle ban - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOEdmV2w2UUNQLWd5YXV6VnpPN1hxMEVwSXdQUHJvSTRnV1VrX1M2d0VCcVNqMzFiTzlnR0VSbzhIX29VUTd3Nmhodk1RRW5sTjBLNlA0M0NFbzdNX042XzI2a01GaF9OUVRkQkhXdkNEMWt4TEVBM0lwNm1hVUhvQVBMRTlGNXo4Tl9Ua2dac2RSUHhsaHlZMFRWZlVIaHBiSWExNktERmtHRnh0NXpEQy1hOEhiSFJtMEx2Vlg5RkJHYVFNZE9Wc29KRXpXVFA1TnZfT2NKZDYzeGlM0gFjQVVfeXFMUFIxb0lyY3VOeHlkb0NpbmZvUEYzR3VmYlRkamRqajhFRHBsalYxTTBCeEoxcGwzaDlHUXpoZTVBTVhEeWhjUklDSkFTTjdXMVdZbmgyekE5dU52SnBOVXZGbVZV?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:46:22 GMT"
+        "title": "Trump promises \u2018unforgettable\u2019 military parade in DC, but who is it for? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXA5V1l2bjQ1SUtfVDRPWnYzVlFZbTZEVWtTQ0dKTDVLcDhybUJPNGhhNE9oOHYyaFhvbkgzMF8yNUFBQk5kMjVGTko1SC1sZVNFcUtpSE9qdHdRUHdWNDJ3SldwTEpjVWVmWjliRTZCMUlraTYzalZWYXhEUlJwdFpIU2Vvc2tKd1pkNHFLS0pSeTdoQkJSOW5RNkd3Vk9waEd0bGNaX1FzWUNPZlHSAbMBQVVfeXFMTktwNVRFaG9PVXg5RXRSZmxJOFE1enB3NUc2c3d0VGM3VXRUWlJiVWpLb21RVDJjNWlaekxrQ3dHVExOemx1dS01aXpUd2xXbUl2ME5Cb0VCblZic1VVUHk0TXZaeGlhZzc4OXJlc3B1V0hOSjN3Ti1EYXFIN2JzVTY0djNDRUFNX1pXcTh5bU5pVUhNN3JxQzlVbDRaUjBSZUlLbmFDT3pHQXRzYkFLYTgxazA?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 16:18:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
-  },
-  "World News": {
-    "articles": [
-      {
-        "title": "Air India Dreamliner crashes into Ahmedabad college hostel, kills over 290 - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHNneV9TUjFPbW5ta0ROQUFYMVJaZDF5Y3NVX2JKS3g0cnRTWnBOWkVSMEdId0NnUEsxVHl2T3UtR2NMZ0Etdm9mM3luX3Zrb1RfUDRUdEZCR1RBX3FQUm5TQXBac3ozMFVGQWRHMjJNMjIxWm1TSGFuNGVVbFQtR0tPa2VsOWdCUzNEQUw1aHppRVZhcnRLMzI5d2dhVDkxWDc0ZHNmQTA?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:29:43 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Ukraine blasts Russia Day well-wishers as Rubio sends greetings to Moscow - politico.eu",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGlNVWJhMlBrekhLRTUwVnY1U1MweWVwVDRNUVFtdHRIQ3ZkSk1Ld012Q1R2NXFiOXdabk1ZSXAzYXdNbXZ0SF9DOXp2TEgzWk9mOEZnM1hJb05CV2lTY3d5TG9ZdDJFMHJtSHN4Q1pwMUVkZm1fVUQ1bkJ1dWpHaE1XZEd5c3VEMllaNFVmcXhTUS11Uy1vTWZn?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 16:09:02 GMT"
+        "title": "Ukraine-Russia war latest: Kyiv claims Moscow has lost more than one million soldiers - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1lsZWVvLTBPLTE4SFNjcVRzdC1yWUlTYTNNY2xRLTlESENsQmhkTllGSUNBZUVqODBta1k1djM1MWpickdPTmcxdmtsWlpfZEpFZ1FXZDdjU0QyakpkMWRUMktBSlFxSTZueWJEel85MEU1NGIwUXBpRjN6ZWFSRnU1amNWbTlZVkxta3NMVmJhdlVJTDJtRmNzOUFrOWF6RXJraGR5QzV3VlpSWERkU1hvMm1HS1U3Mm5RamJYUQ?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 16:15:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
   },
-  "Kim Jong Un": {
+  "China": {
     "articles": [
       {
-        "title": "Kim Jong-un caught building new nuclear bomb facility in North Korea as WW3 tensions grow - The Mirror US",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajIzVUlJeVM0bERmS3VxWlQtMHVQT3huOVpkRV92Qy1vMUxSYWFfSDRaejFZaWlrT0JVYTlGM0dDdnI2RnhZcHVsRzNfRHk3b2JGLTNBTkhEUnY1U2toSVFuSEY0UlRnOUhHWGxveDRkMGUtLVpsXzJkeVAyWGdkckRCd9IBiAFBVV95cUxOaDFpNzhpdFNaaFhJblZzMHJJUmpyYURXSlpJbWl0Y3lCajVaZGdzb0llUDR0Rk95X2NSVFdWVkZCNHRDLTU0WWlIXzl5azlORlBadDFMMXl5eGpRRmNTWkZ2U3FzNHFWNlBaUVQxVU1BQ0VNakFkUFVLLW5KTFplUWNBTFJEbnUz?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 14:13:00 GMT"
+        "title": "China to remove tariffs on nearly all goods from Africa as both criticise US - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXA4b25XcjhvWU4xT0E2LWJudzNTNDF5aGQ5bktUZWhJWmlybVVQSnJGaEI1WXAyWnR1RzdUcUIwTG5hZEZNYmhyQmZQVkFVV2NuRGpHZncwRHlTT0c5cXd5azA5bHdiY18wWEtJbkx5MTR6eXgwTWlFOTQ4ZEgxQng5aFFKUjQtYjAtcUMzUDJMMlVvNWtLX21xTzBsSnJKdE1XY3dvRDdlNjJlemg5THpxbmVkM3RiQnJVM0FTQVZQVVhXWkYtXzh0Z2HSAcwBQVVfeXFMTkw2YXExaDRYSXhodXQ0RWU1ZHl6dHpwYkdIdW02WTJtUzN3aWpTZk9IaFo5am1lQWNFaUluQnRDU3NiRmNKSFQyQ3V2a2g0NWZwaTRWbFZlMVlVZWFuaGs5ZDBpS1FfUllYalUwcnZjUWdBMnZJWnBOdVhPWG91NVBaUnZnNzE3WlV1WGxGRzVHUTBJZnNIenhtMVhLeFhoUmFzcEM1cElyRDg2SmhVaG9UeXVZcUtfdk1kZDg3STJJcVNScXBEMWVhV3U2?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 10:00:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
   },
-  "Recession": {
+  "Elon Musk": {
     "articles": [
       {
-        "title": "CEO Says AI Will Replace So Many Jobs That It\u2019ll Cause a Major Recession - futurism.com",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tSnNnODlIWUFuQkNTbER2R1Awb084TmJfQ3hUdFE0bEkzLS1fT3F5QjRIcDBoZmpSU2h0YWRRSGlZcnFTOVgxczFOWlM0dVlGQUVZWVF0VU83TC1XNVE?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 13:12:34 GMT"
+        "title": "Elon Musk says his next product will be the most important Tesla has ever produced. And he says it\u2019s (finally) almost here - CNN",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Z19NYWtIUm5xRHB6QVlQLWJGeDNWb0c4TVJ5cmxUcGxmeU5CcE00anVwMmZDanJIRDVaSDNyYVRUcVpMb1dDSG1TRElLbVZxQjdxS2Rfd2NjMHdxN0s2ck54NzVjM1ljYVhMZEFzT3BlckpSbHR0bTVzQzNadDjSAYQBQVVfeXFMUDV6ZUREeG4zUEZQTENXU1U3WE1KT1h4TDdlTUFWbzl1NDlqQmN0WXdHeUF0aWRMZDFSTms0NVBDSFo0aC1IZ1haME9ISThBcWNVNnR0MHFwS0JwYVM1NTh2U1RleW1vblN3a0tNS2VHOGRadU5waUlLSWEyVWtxbWxqUnZh?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
   },
-  "Climate": {
+  "Democratic Party": {
     "articles": [
       {
-        "title": "Climate Change Could Complicate Anti-Submarine Warfare - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUs1VmhjeXhZQmNEVTRRUlJ6OGg0Mzd6dXRqVDJDR0V3MXhEM3p0V0h5eXBRRGhIZGhYQ09jcGZMN21zYjdJQURsbmRjU29OZGNmeGZQUVU2bWZ0el9Pb2RNU1FuUjhOeTZjUGpWTDdKZVROQmw3OGJWZkxiVU5QS1E0U0Rqdw?oc=5",
-        "pubDate": "Thu, 12 Jun 2025 09:02:35 GMT"
+        "title": "Why \u2018Hellcats\u2019 could be the answer to Democrats troubles - Politico",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlZBdEhTbmlzZmNBTWxKU09WaDNqMEJCaUJBLVVvbjNfSFNzRDJHUXRlTzhsRFRfSUNaZ1lTWEFvZ0V2X3J6OV9HU0h4aHo1ODluMlVUVE9JQjhmYnlwRmczdDZEMjZaVmFpSmN1SlNWMVIwMDQtZHlZRUhrTERCLVRXTTRlcldFaXBsbFlqN3dTSkV5LUZN?oc=5",
+        "pubDate": "Thu, 12 Jun 2025 08:43:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-12T17:03:15.434988+00:00"
+    "last_updated_ts": "2025-06-12T18:03:36.651996+00:00"
   }
 }
