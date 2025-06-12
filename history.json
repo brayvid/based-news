@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "A federal court\u2019s novel proposal to rein in Trump\u2019s power grab - vox.com",
-      "pubDate": "Wed, 04 Jun 2025 20:30:51 GMT"
-    },
-    {
       "title": "Putin 'very strongly' vowed revenge against Ukraine for drone strike on airbases, Donald Trump says - Sky News",
       "pubDate": "Wed, 04 Jun 2025 23:12:58 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump blocks California rules for greener vehicles and gas-powered car ban - The Guardian",
       "pubDate": "Thu, 12 Jun 2025 18:13:00 GMT"
+    },
+    {
+      "title": "Prices for common baby items are rising due to Trump's tariffs, congressional analysis says - CNBC",
+      "pubDate": "Thu, 12 Jun 2025 19:44:35 GMT"
     }
   ],
   "ukraine": [
@@ -1195,10 +1195,6 @@
   ],
   "russia": [
     {
-      "title": "Putin will seek revenge for Ukraine drone attack, warns Trump after phone call - BBC",
-      "pubDate": "Wed, 04 Jun 2025 20:39:26 GMT"
-    },
-    {
       "title": "Kremlin and Trump aides raise nuclear war fears after Ukraine drone strike - The Guardian",
       "pubDate": "Wed, 04 Jun 2025 21:43:00 GMT"
     },
@@ -1329,6 +1325,10 @@
     {
       "title": "Russian War Losses Pass Grim 1-Million Milestone - Newsweek",
       "pubDate": "Thu, 12 Jun 2025 08:31:59 GMT"
+    },
+    {
+      "title": "Russia Relocates Strategic Bombers After Ukraine's 'Spider's Web' Drone Attack - The Moscow Times",
+      "pubDate": "Thu, 12 Jun 2025 11:56:17 GMT"
     }
   ],
   "israel": [
@@ -1411,10 +1411,6 @@
     {
       "title": "Watch Meta CTO on What's Ahead in Artificial Intelligence / DAY 1 - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 02:55:00 GMT"
-    },
-    {
-      "title": "Amazon plans $10 billion artificial intelligence investment, will bring 500 jobs in North Carolina - WXII",
-      "pubDate": "Wed, 04 Jun 2025 20:48:00 GMT"
     },
     {
       "title": "Artificial intelligence (AI) - The Guardian",
@@ -1999,6 +1995,10 @@
     {
       "title": "US Marks Russia Day for First Time Since Invasion of Ukraine - Bloomberg",
       "pubDate": "Thu, 12 Jun 2025 14:51:46 GMT"
+    },
+    {
+      "title": "Sanctions on Russia are working - Financial Times",
+      "pubDate": "Thu, 12 Jun 2025 10:00:58 GMT"
     }
   ],
   "trade_war": [
@@ -2651,6 +2651,10 @@
     {
       "title": "US says China's Huawei can't make more than 200,000 AI chips in 2025 - Reuters",
       "pubDate": "Thu, 12 Jun 2025 18:49:14 GMT"
+    },
+    {
+      "title": "If China invaded Taiwan, who would enter the war? - The Economist",
+      "pubDate": "Thu, 12 Jun 2025 13:00:23 GMT"
     }
   ],
   "iran": [
@@ -2725,24 +2729,16 @@
     {
       "title": "Exclusive: Top U.S. official warns of mass casualty retaliation by Iran - Axios",
       "pubDate": "Thu, 12 Jun 2025 16:30:00 GMT"
+    },
+    {
+      "title": "A new Iran nuclear crisis looms after IAEA finds rule breaches - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 20:24:35 GMT"
     }
   ],
   "us_economy": [
     {
-      "title": "10.9 million people would lose health insurance under Trump\u2019s tax cut bill, CBO projects - statnews.com",
-      "pubDate": "Wed, 04 Jun 2025 20:37:09 GMT"
-    },
-    {
       "title": "Businesses brace for steel and aluminum tariffs, which double today - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 22:27:44 GMT"
-    },
-    {
-      "title": "Wall Street\u2019s big rally stalls following some discouraging economic data - AP News",
-      "pubDate": "Wed, 04 Jun 2025 20:51:00 GMT"
-    },
-    {
-      "title": "US economic activity declines as tariffs pressure prices, Fed says - Reuters",
-      "pubDate": "Wed, 04 Jun 2025 20:15:49 GMT"
     },
     {
       "title": "US Economy Slowing as Consumers 'Reluctant to Spend': Economic Analyst - NTD News",
@@ -3051,6 +3047,10 @@
     {
       "title": "Stock Market Today: Dow Opens 200 Points Lower; Dollar Drops After Trump Revives Tariff Threats \u2014 Live Updates - WSJ",
       "pubDate": "Thu, 12 Jun 2025 18:01:00 GMT"
+    },
+    {
+      "title": "US economy is 'frozen' due to a string of compounding uncertainties, strategist says - Fox Business",
+      "pubDate": "Thu, 12 Jun 2025 19:29:22 GMT"
     }
   ],
   "terrorism": [
@@ -3173,6 +3173,10 @@
     {
       "title": "Why \u2018Hellcats\u2019 could be the answer to Democrats troubles - Politico",
       "pubDate": "Thu, 12 Jun 2025 08:43:00 GMT"
+    },
+    {
+      "title": "The Democrats\u2019 resistance to Trump is a hollow performance - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 15:43:34 GMT"
     }
   ],
   "north_korea": [
@@ -3193,10 +3197,6 @@
     {
       "title": "Hamas Says US Ceasefire Veto Violates 'American Values' - Newsweek",
       "pubDate": "Thu, 05 Jun 2025 01:15:54 GMT"
-    },
-    {
-      "title": "US vetoes Gaza ceasefire resolution at UN Security Council, saying it emboldens Hamas - France 24",
-      "pubDate": "Wed, 04 Jun 2025 20:47:23 GMT"
     },
     {
       "title": "Bodies of two Israeli-American hostages taken in 7 October attack recovered, Netanyahu says \u2013 Israel-Gaza war live - The Guardian",
@@ -3589,10 +3589,6 @@
   ],
   "us_politics": [
     {
-      "title": "Biden White House\u2019s Karine Jean-Pierre quits Democratic party - Financial Times",
-      "pubDate": "Wed, 04 Jun 2025 20:18:04 GMT"
-    },
-    {
       "title": "Musk, hardline US Republicans ramp up attacks on Trump tax and spending bill - Reuters",
       "pubDate": "Wed, 04 Jun 2025 21:38:26 GMT"
     },
@@ -3971,10 +3967,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Chinese Hacked US Telecom a Year Before Known Wireless Breaches - Bloomberg",
-      "pubDate": "Wed, 04 Jun 2025 20:16:13 GMT"
-    },
-    {
       "title": "Trump revokes digital identity actions in new cyber executive order - Federal News Network",
       "pubDate": "Fri, 06 Jun 2025 22:57:47 GMT"
     },
@@ -4133,10 +4125,6 @@
   ],
   "republican_party": [
     {
-      "title": "Musk turns on Republicans - and gives Trump's bill a harder path - BBC",
-      "pubDate": "Wed, 04 Jun 2025 20:13:50 GMT"
-    },
-    {
       "title": "The Polling on Elon Musk Is a Warning for Republicans - Politico",
       "pubDate": "Fri, 06 Jun 2025 22:30:00 GMT"
     },
@@ -4154,10 +4142,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "A new COVID-19 variant, vaccine changes: What to know in 2025 - USA Today",
-      "pubDate": "Wed, 04 Jun 2025 21:02:15 GMT"
-    },
     {
       "title": "Scientists make disturbing discovery in riverbed that could endanger millions: 'An emerging public health concern' - Yahoo",
       "pubDate": "Sat, 07 Jun 2025 10:45:10 GMT"
@@ -4319,10 +4303,6 @@
   ],
   "world_politics": [
     {
-      "title": "Fourteen nations vote for Israel, Hamas ceasefire at UNSC, US vetoes - The Jerusalem Post",
-      "pubDate": "Wed, 04 Jun 2025 20:35:00 GMT"
-    },
-    {
       "title": "US vetoes UN Security Council resolution calling for Gaza ceasefire - The Times of Israel",
       "pubDate": "Wed, 04 Jun 2025 23:51:32 GMT"
     },
@@ -4339,12 +4319,6 @@
     {
       "title": "Ocean Temperatures Are Increasing Around the World. See Where. - The New York Times",
       "pubDate": "Mon, 09 Jun 2025 08:55:31 GMT"
-    }
-  ],
-  "us_congress": [
-    {
-      "title": "US Congress budget office sees economic output falling from Trump tariffs - Reuters",
-      "pubDate": "Wed, 04 Jun 2025 20:20:11 GMT"
     }
   ],
   "amazon": [
