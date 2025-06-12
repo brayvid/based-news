@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump officials delayed farm trade report over deficit forecast - Politico",
-      "pubDate": "Wed, 04 Jun 2025 09:55:00 GMT"
-    },
-    {
       "title": "Donald Trump and the art of the Oval Office confrontation - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 10:29:00 GMT"
     },
@@ -15,10 +11,6 @@
     {
       "title": "Trump presses Powell on rates after fewest private-sector jobs generated in two years - The Hill",
       "pubDate": "Wed, 04 Jun 2025 13:05:00 GMT"
-    },
-    {
-      "title": "Trump demands Federal Reserve chair lowers interest rates amid weak jobs report \u2013 US politics live - The Guardian",
-      "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
     },
     {
       "title": "Live updates: Trump\u2019s \u2018big\u2019 bill projected to add $2.4 trillion to national debt over coming decade - The Washington Post",
@@ -651,6 +643,10 @@
     {
       "title": "Musk backtracks on Trump criticism after White House outreach - Reuters",
       "pubDate": "Thu, 12 Jun 2025 00:24:37 GMT"
+    },
+    {
+      "title": "Trump's dealmaker image hits a wall - Axios",
+      "pubDate": "Thu, 12 Jun 2025 08:46:20 GMT"
     }
   ],
   "ukraine": [
@@ -659,16 +655,8 @@
       "pubDate": "Wed, 04 Jun 2025 11:49:08 GMT"
     },
     {
-      "title": "Almost 1 million Russian troops killed or wounded in Ukraine war, study says - NBC News",
-      "pubDate": "Wed, 04 Jun 2025 09:26:27 GMT"
-    },
-    {
       "title": "Ukraine\u2019s surprise drone strike underscores vulnerability of U.S. defenses - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 13:54:47 GMT"
-    },
-    {
-      "title": "UK defence secretary confirms plans for drone deliveries as Ukraine military aid meeting opens \u2013 Europe live - The Guardian",
-      "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
     },
     {
       "title": "Russia urges US and UK to restrain Ukraine after attacks on bombers - Reuters",
@@ -1405,10 +1393,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "A Fatal Tesla Crash Shows the Limits of Full Self-Driving - Bloomberg",
-      "pubDate": "Wed, 04 Jun 2025 10:00:00 GMT"
-    },
-    {
       "title": "Marjorie Taylor Greene under fire after admitting she missed AI provision in GOP tax bill - USA Today",
       "pubDate": "Wed, 04 Jun 2025 14:32:17 GMT"
     },
@@ -1977,10 +1961,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US defense secretary skips Ukraine military aid meeting attended by more than 50 other allies \u2013 Europe live - The Guardian",
-      "pubDate": "Wed, 04 Jun 2025 09:17:00 GMT"
-    },
-    {
       "title": "Five Signs Israel and Iran Could Be Headed Toward Open War - Newsweek",
       "pubDate": "Fri, 06 Jun 2025 16:30:31 GMT"
     },
@@ -2156,10 +2136,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Chinese seller on Amazon sold \u2018defective\u2019 tools linked to deaths, life-changing injuries: lawsuits - New York Post",
-      "pubDate": "Wed, 04 Jun 2025 10:00:00 GMT"
-    },
     {
       "title": "What to know about China's rare earth export controls - Reuters",
       "pubDate": "Wed, 04 Jun 2025 10:19:01 GMT"
@@ -2651,6 +2627,10 @@
     {
       "title": "Chinese jets fly as close as 45 metres to Japanese patrol planes in Pacific - Reuters",
       "pubDate": "Thu, 12 Jun 2025 08:28:23 GMT"
+    },
+    {
+      "title": "China affirms trade deal with US, says it always keeps its word - Reuters",
+      "pubDate": "Thu, 12 Jun 2025 08:39:47 GMT"
     }
   ],
   "iran": [
@@ -2705,13 +2685,13 @@
     {
       "title": "Israel considering military strike on Iran, sources say - NBC News",
       "pubDate": "Thu, 12 Jun 2025 05:09:00 GMT"
+    },
+    {
+      "title": "UN nuclear watchdog board finds Iran not complying with nuclear obligations - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 08:37:30 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Tariff-Resistant US Economy Soothes Traders Ahead of Jobs Data - Bloomberg.com",
-      "pubDate": "Wed, 04 Jun 2025 09:30:00 GMT"
-    },
     {
       "title": "Trump says 'Too Late' Powell must lower interest rates after weak ADP jobs report - CNBC",
       "pubDate": "Wed, 04 Jun 2025 12:25:29 GMT"
@@ -3387,10 +3367,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI pioneer launches non-profit to develop safe-by-design AI models - Euronews",
-      "pubDate": "Wed, 04 Jun 2025 09:37:58 GMT"
-    },
-    {
       "title": "Three Essentials for Agentic AI Security - MIT Sloan Management Review",
       "pubDate": "Wed, 04 Jun 2025 11:00:27 GMT"
     },
@@ -3591,10 +3567,6 @@
     {
       "title": "Marjorie Taylor Greene\u2019s four-word dagger to Trump and GOP after Musk\u2019s \u2018Big Beautiful\u2019 takedown - The Independent",
       "pubDate": "Wed, 04 Jun 2025 14:33:00 GMT"
-    },
-    {
-      "title": "Trump says Putin told him Russia \u2018will have to respond\u2019 to Ukraine drone attacks \u2013 live - The Guardian",
-      "pubDate": "Wed, 04 Jun 2025 09:39:00 GMT"
     },
     {
       "title": "Some House Republicans Have Regrets After Passing Trump\u2019s Domestic Policy Bill - The New York Times",
@@ -4199,10 +4171,6 @@
   ],
   "drones": [
     {
-      "title": "Drone Attacks Are the New Front in War. Can NATO Keep Up? - The New York Times",
-      "pubDate": "Wed, 04 Jun 2025 09:03:36 GMT"
-    },
-    {
       "title": "Trump signs orders to bolster US drone defenses, boost supersonic flight - Reuters",
       "pubDate": "Fri, 06 Jun 2025 22:01:54 GMT"
     },
@@ -4335,12 +4303,12 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI CEO Sam Altman describes his vision of the perfect AI - Windows Central",
-      "pubDate": "Wed, 04 Jun 2025 09:41:26 GMT"
-    },
-    {
       "title": "Mark Zuckerberg is assembling a team of experts to achieve artificial general intelligence - iblnews.org",
       "pubDate": "Tue, 10 Jun 2025 12:46:14 GMT"
+    },
+    {
+      "title": "Sam Altman Says AI Has Already Gone Past The Event Horizon But No Worries Since AGI And ASI Will Be A Gentle Singularity - Forbes",
+      "pubDate": "Thu, 12 Jun 2025 01:01:39 GMT"
     }
   ],
   "world_politics": [
