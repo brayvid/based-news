@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Donald Trump and the art of the Oval Office confrontation - The Washington Post",
-      "pubDate": "Wed, 04 Jun 2025 10:29:00 GMT"
-    },
-    {
       "title": "Trump unleashes MAGA rebellion on Federalist Society - The Hill",
       "pubDate": "Wed, 04 Jun 2025 12:00:00 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump's dealmaker image hits a wall - Axios",
       "pubDate": "Thu, 12 Jun 2025 08:46:20 GMT"
+    },
+    {
+      "title": "Trump's deployment of troops to LA prompts host of legal questions -- and a challenge from California - ABC News",
+      "pubDate": "Thu, 12 Jun 2025 09:21:27 GMT"
     }
   ],
   "ukraine": [
@@ -997,10 +997,6 @@
   ],
   "recession": [
     {
-      "title": "Recession Risks; AI Infrastructure; and Exploring Sector-Specific Tariffs - S&P Global",
-      "pubDate": "Wed, 04 Jun 2025 11:00:38 GMT"
-    },
-    {
       "title": "Nearly 11 million Americans would lose insurance under Trump's tax bill, analysis says - USA Today",
       "pubDate": "Wed, 04 Jun 2025 19:32:07 GMT"
     },
@@ -1325,6 +1321,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, June 11, 2025 - Institute for the Study of War",
       "pubDate": "Thu, 12 Jun 2025 01:23:39 GMT"
+    },
+    {
+      "title": "Russian War Losses Pass Grim 1-Million Milestone - Newsweek",
+      "pubDate": "Thu, 12 Jun 2025 08:31:59 GMT"
     }
   ],
   "israel": [
@@ -1879,6 +1879,10 @@
     {
       "title": "OpenAI\u2019s Sam Altman: AI may already have surpassed human intelligence - MarketWatch",
       "pubDate": "Thu, 12 Jun 2025 08:41:00 GMT"
+    },
+    {
+      "title": "Artificial Intelligence and Defensive Modernisation - Modern Diplomacy",
+      "pubDate": "Thu, 12 Jun 2025 06:30:42 GMT"
     }
   ],
   "financial_markets": [
@@ -2136,10 +2140,6 @@
     }
   ],
   "china": [
-    {
-      "title": "What to know about China's rare earth export controls - Reuters",
-      "pubDate": "Wed, 04 Jun 2025 10:19:01 GMT"
-    },
     {
       "title": "China calls Rubio remarks about Tiananmen Square an \"attack\" - CBS News",
       "pubDate": "Wed, 04 Jun 2025 12:00:19 GMT"
@@ -2631,6 +2631,10 @@
     {
       "title": "China affirms trade deal with US, says it always keeps its word - Reuters",
       "pubDate": "Thu, 12 Jun 2025 08:39:47 GMT"
+    },
+    {
+      "title": "Why China\u2019s rare earth exports are a key issue in trade tensions with US - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 09:46:02 GMT"
     }
   ],
   "iran": [
@@ -2689,6 +2693,10 @@
     {
       "title": "UN nuclear watchdog board finds Iran not complying with nuclear obligations - Al Jazeera",
       "pubDate": "Thu, 12 Jun 2025 08:37:30 GMT"
+    },
+    {
+      "title": "U.N. Watchdog Rules That Iran Is Not Complying With Nuclear Obligations - The New York Times",
+      "pubDate": "Thu, 12 Jun 2025 09:08:16 GMT"
     }
   ],
   "us_economy": [
@@ -3015,6 +3023,10 @@
     {
       "title": "Trump economy shows surprising resilience despite tariff impacts - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 03:47:37 GMT"
+    },
+    {
+      "title": "Largest US Banker Warns US Economy Could 'Deteriorate' As Global Growth Forecast Dims - dailyvoice.com",
+      "pubDate": "Thu, 12 Jun 2025 01:31:05 GMT"
     }
   ],
   "terrorism": [
@@ -3367,10 +3379,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Three Essentials for Agentic AI Security - MIT Sloan Management Review",
-      "pubDate": "Wed, 04 Jun 2025 11:00:27 GMT"
-    },
-    {
       "title": "Anthropic is pulling in talent from OpenAI and DeepMind. What makes the AI \u200b\u200bstartup so attractive to the best engineers - dev.ua",
       "pubDate": "Wed, 04 Jun 2025 11:34:00 GMT"
     },
@@ -3553,13 +3561,13 @@
     {
       "title": "Lenovo and Volcano Engine team on AI safety - KrASIA",
       "pubDate": "Thu, 12 Jun 2025 02:34:20 GMT"
+    },
+    {
+      "title": "India unveils AI incident reporting guidelines for critical infrastructure - Digital Watch Observatory",
+      "pubDate": "Thu, 12 Jun 2025 10:25:43 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump asks Congress to cancel funding already approved for foreign aid, public media - NPR",
-      "pubDate": "Wed, 04 Jun 2025 10:54:10 GMT"
-    },
     {
       "title": "House GOP gets megabill\u2019s official price tag: $2.4T - Politico",
       "pubDate": "Wed, 04 Jun 2025 14:21:54 GMT"
@@ -4188,10 +4196,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "Trump's birthright citizenship order to face first US appeals court review - Reuters",
-      "pubDate": "Wed, 04 Jun 2025 10:10:56 GMT"
-    },
     {
       "title": "US Supreme Court grants DOGE access to sensitive Social Security data - Al Jazeera",
       "pubDate": "Fri, 06 Jun 2025 23:21:23 GMT"
