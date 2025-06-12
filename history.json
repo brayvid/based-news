@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump unleashes MAGA rebellion on Federalist Society - The Hill",
-      "pubDate": "Wed, 04 Jun 2025 12:00:00 GMT"
-    },
-    {
       "title": "Trump presses Powell on rates after fewest private-sector jobs generated in two years - The Hill",
       "pubDate": "Wed, 04 Jun 2025 13:05:00 GMT"
     },
@@ -647,13 +643,13 @@
     {
       "title": "Trump's deployment of troops to LA prompts host of legal questions -- and a challenge from California - ABC News",
       "pubDate": "Thu, 12 Jun 2025 09:21:27 GMT"
+    },
+    {
+      "title": "Trump administration live updates: House to vote on DOGE-backed cuts; David Hogg out at DNC - NBC News",
+      "pubDate": "Thu, 12 Jun 2025 11:08:08 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Kyiv\u2019s audacious Operation Spiderweb \u2018was like raid that killed Bin Laden\u2019 - The Independent",
-      "pubDate": "Wed, 04 Jun 2025 11:49:08 GMT"
-    },
     {
       "title": "Ukraine\u2019s surprise drone strike underscores vulnerability of U.S. defenses - The Washington Post",
       "pubDate": "Wed, 04 Jun 2025 13:54:47 GMT"
@@ -1175,13 +1171,13 @@
     {
       "title": "Recession not imminent in Eurozone, big four: Oxford Economics - Fibre2Fashion",
       "pubDate": "Thu, 12 Jun 2025 02:50:07 GMT"
+    },
+    {
+      "title": "How should GCC investors prepare for the coming US recession? - Arabian Gulf Business Insight | AGBI",
+      "pubDate": "Thu, 12 Jun 2025 11:15:16 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia says no damage to Crimea Bridge as Ukraine pushes for US sanctions on Moscow - ABC News",
-      "pubDate": "Wed, 04 Jun 2025 11:15:00 GMT"
-    },
     {
       "title": "Putin openly questions peace talks after blaming Ukraine for deadly bridge attack in Russia - Reuters",
       "pubDate": "Wed, 04 Jun 2025 14:40:22 GMT"
@@ -1883,6 +1879,10 @@
     {
       "title": "Artificial Intelligence and Defensive Modernisation - Modern Diplomacy",
       "pubDate": "Thu, 12 Jun 2025 06:30:42 GMT"
+    },
+    {
+      "title": "Artificial intelligence technology helps ALS patient regain their voice - WQAD",
+      "pubDate": "Thu, 12 Jun 2025 11:42:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2140,10 +2140,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China calls Rubio remarks about Tiananmen Square an \"attack\" - CBS News",
-      "pubDate": "Wed, 04 Jun 2025 12:00:19 GMT"
-    },
     {
       "title": "Footage Shows Chinese Ships Near US Ally's Disputed Island Base - Newsweek",
       "pubDate": "Wed, 04 Jun 2025 12:53:37 GMT"
@@ -2635,6 +2631,10 @@
     {
       "title": "Why China\u2019s rare earth exports are a key issue in trade tensions with US - Al Jazeera",
       "pubDate": "Thu, 12 Jun 2025 09:46:02 GMT"
+    },
+    {
+      "title": "Chinese fighter jet in near miss with Japan military plane as Pacific tensions rise - The Guardian",
+      "pubDate": "Thu, 12 Jun 2025 05:01:00 GMT"
     }
   ],
   "iran": [
@@ -3027,6 +3027,10 @@
     {
       "title": "Largest US Banker Warns US Economy Could 'Deteriorate' As Global Growth Forecast Dims - dailyvoice.com",
       "pubDate": "Thu, 12 Jun 2025 01:31:05 GMT"
+    },
+    {
+      "title": "UK economy shrank sharply in April as Trump tariffs and tax rises kicked in - CNBC",
+      "pubDate": "Thu, 12 Jun 2025 10:03:22 GMT"
     }
   ],
   "terrorism": [
@@ -3137,6 +3141,10 @@
     {
       "title": "Democrats forced to walk tightrope on Trump, L.A. protests - The Hill",
       "pubDate": "Tue, 10 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "title": "David Hogg to Exit D.N.C. After Backlash to His Primary Plan - The New York Times",
+      "pubDate": "Thu, 12 Jun 2025 00:05:38 GMT"
     }
   ],
   "north_korea": [
@@ -3378,10 +3386,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Anthropic is pulling in talent from OpenAI and DeepMind. What makes the AI \u200b\u200bstartup so attractive to the best engineers - dev.ua",
-      "pubDate": "Wed, 04 Jun 2025 11:34:00 GMT"
-    },
     {
       "title": "Trump overhauls Biden-era AI Safety Institute to create new 'Innovation Centre' - Capacity Media",
       "pubDate": "Wed, 04 Jun 2025 15:11:28 GMT"
@@ -4513,6 +4517,10 @@
     {
       "title": "CIA analyst who leaked Israeli military plans gets three years in prison - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 02:46:17 GMT"
+    },
+    {
+      "title": "Ex-CIA analyst Asif Rahman sentenced to 37 months for leaking Iran attack plans - Geo.tv",
+      "pubDate": "Thu, 12 Jun 2025 04:50:00 GMT"
     }
   ],
   "effects_of_global_warming": [
