@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says China\u2019s Xi is \u2018hard to make a deal with\u2019 - Financial Times",
-      "pubDate": "Wed, 04 Jun 2025 06:40:25 GMT"
-    },
-    {
       "title": "Michael Saylor\u2019s bitcoin imitators are multiplying, from Trump to GameStop - Yahoo Finance",
       "pubDate": "Wed, 04 Jun 2025 08:00:33 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump's ongoing push to erase his criminal conviction lands in federal appeals court - NPR",
       "pubDate": "Wed, 11 Jun 2025 17:58:30 GMT"
+    },
+    {
+      "title": "Trump launches website for $5m \u2018gold card\u2019 granting US residency - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 05:57:33 GMT"
     }
   ],
   "ukraine": [
@@ -1329,6 +1329,10 @@
     {
       "title": "Russian attacks kill three as drones hit Kharkiv - AP News",
       "pubDate": "Wed, 11 Jun 2025 09:02:00 GMT"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, June 11, 2025 - Institute for the Study of War",
+      "pubDate": "Thu, 12 Jun 2025 01:23:39 GMT"
     }
   ],
   "israel": [
@@ -1392,10 +1396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "US labor unions fight to contain AI disruption - Yahoo News UK",
-      "pubDate": "Wed, 04 Jun 2025 06:32:00 GMT"
-    },
     {
       "title": "A Fatal Tesla Crash Shows the Limits of Full Self-Driving - Bloomberg",
       "pubDate": "Wed, 04 Jun 2025 10:00:00 GMT"
@@ -1875,6 +1875,10 @@
     {
       "title": "Forget AGI - Meta is going after 'superintelligence' now - ZDNET",
       "pubDate": "Wed, 11 Jun 2025 20:32:00 GMT"
+    },
+    {
+      "title": "Meta\u2019s Bold Push for AGI with Top Talent Recruitment - WebProNews",
+      "pubDate": "Wed, 11 Jun 2025 20:30:13 GMT"
     }
   ],
   "financial_markets": [
@@ -1949,6 +1953,10 @@
     {
       "title": "Fed seen on track to start cutting rates by September - Reuters",
       "pubDate": "Wed, 11 Jun 2025 13:48:36 GMT"
+    },
+    {
+      "title": "Stocks dip, dollar sags as trade, geopolitical tensions weigh - Reuters",
+      "pubDate": "Thu, 12 Jun 2025 06:10:31 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1979,6 +1987,10 @@
     {
       "title": "Oil prices surge on fears of escalation between US and Iran - Financial Times",
       "pubDate": "Wed, 11 Jun 2025 20:35:57 GMT"
+    },
+    {
+      "title": "US judge says Trump can\u2019t cite foreign policy as grounds to detain Columbia activist - The Times of Israel",
+      "pubDate": "Thu, 12 Jun 2025 03:50:26 GMT"
     }
   ],
   "trade_war": [
@@ -2607,6 +2619,10 @@
     {
       "title": "China's racing to build its AI ecosystem as U.S. tech curbs bite. Here's how its supply chain stacks up - CNBC",
       "pubDate": "Thu, 12 Jun 2025 03:54:00 GMT"
+    },
+    {
+      "title": "Japan protests to China after \u2018dangerous\u2019 moves by warplanes over Pacific - Al Jazeera",
+      "pubDate": "Thu, 12 Jun 2025 06:33:45 GMT"
     }
   ],
   "iran": [
@@ -3004,10 +3020,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Jessie J reveals early breast cancer diagnosis - BBC",
-      "pubDate": "Wed, 04 Jun 2025 06:27:55 GMT"
-    },
     {
       "title": "Menopause Drug Reduces Breast Cancer Growth In Clinical Trial - ScienceAlert",
       "pubDate": "Thu, 05 Jun 2025 02:14:24 GMT"
@@ -4289,10 +4301,6 @@
   ],
   "atlantic_ocean": [
     {
-      "title": "Record-breaking sargassum invasion in Atlantic, Caribbean threatens to foul beach resorts - New York Post",
-      "pubDate": "Wed, 04 Jun 2025 06:56:00 GMT"
-    },
-    {
       "title": "Scientists revise timeline for possible collapse of key Atlantic ocean current - ehn.org",
       "pubDate": "Tue, 10 Jun 2025 09:31:06 GMT"
     }
@@ -4505,6 +4513,12 @@
     {
       "title": "CIA analyst who leaked Israeli military plans gets three years in prison - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 02:46:17 GMT"
+    }
+  ],
+  "effects_of_global_warming": [
+    {
+      "title": "Parts of Britain could plunge to -30\u00b0C if the Gulf Stream collapses, scientists reveal - MSN",
+      "pubDate": "Thu, 12 Jun 2025 06:10:09 GMT"
     }
   ]
 }
