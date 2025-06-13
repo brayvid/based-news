@@ -631,13 +631,13 @@
     {
       "title": "The simple reason Trump didn't want Israel to attack Iran - MSNBC News",
       "pubDate": "Thu, 12 Jun 2025 23:57:00 GMT"
+    },
+    {
+      "title": "Appeals court delays order that would have blocked Trump from continuing to deploy National Guard in California - ABC News",
+      "pubDate": "Fri, 13 Jun 2025 04:18:45 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "5 killed, 6 injured in Russian drone strike on Chernihiv Oblast - The Kyiv Independent",
-      "pubDate": "Thu, 05 Jun 2025 05:52:05 GMT"
-    },
     {
       "title": "Ukraine war live: Putin launches glide bomb strike on key city after revenge warning - The Independent",
       "pubDate": "Thu, 05 Jun 2025 08:54:58 GMT"
@@ -1179,6 +1179,10 @@
     {
       "title": "US Recession Fears Are Finally Cooling Off: Risk Drops to Just 25% - The Tradable",
       "pubDate": "Thu, 12 Jun 2025 19:56:02 GMT"
+    },
+    {
+      "title": "Recession Threat Is Back\u2014and Maybe Something Worse - Bloomberg",
+      "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
     }
   ],
   "russia": [
@@ -1367,6 +1371,10 @@
     {
       "title": "Israel targets Iran's nuclear sites and military commanders in major attack - BBC",
       "pubDate": "Fri, 13 Jun 2025 03:21:25 GMT"
+    },
+    {
+      "title": "Live updates: Israel strikes Iran; head of Revolutionary Guard killed in Tehran - The Washington Post",
+      "pubDate": "Fri, 13 Jun 2025 05:12:02 GMT"
     }
   ],
   "inflation": [
@@ -2153,10 +2161,6 @@
   ],
   "china": [
     {
-      "title": "Auto industry sounds the alarm as China's rare earth curbs start to bite - CNBC",
-      "pubDate": "Thu, 05 Jun 2025 05:10:54 GMT"
-    },
-    {
       "title": "China\u2019s Global Income Tax Crackdown Expands Beyond Ultra Rich - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 06:09:00 GMT"
     },
@@ -2667,6 +2671,10 @@
     {
       "title": "China cautions citizens in Iran, warns those in Israel of potential attacks - Reuters",
       "pubDate": "Fri, 13 Jun 2025 03:35:00 GMT"
+    },
+    {
+      "title": "China delays approval of $35bn US chip merger amid Donald Trump\u2019s trade war - Financial Times",
+      "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
     }
   ],
   "iran": [
@@ -2761,6 +2769,10 @@
     {
       "title": "Israel Launches Attack on Iran\u2019s Nuclear Facilities: Live Updates - WSJ",
       "pubDate": "Fri, 13 Jun 2025 03:33:00 GMT"
+    },
+    {
+      "title": "Israel hits Iran nuclear facilities, missile factories; Tehran vows revenge - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 05:07:00 GMT"
     }
   ],
   "us_economy": [
@@ -2771,10 +2783,6 @@
     {
       "title": "Watch US Economy: Jobless Claims Rise, Trade Deficit Narrows - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 13:07:02 GMT"
-    },
-    {
-      "title": "Trump slams Fed chair Powell after hiring slowdown - Axios",
-      "pubDate": "Thu, 05 Jun 2025 05:40:34 GMT"
     },
     {
       "title": "Businesses Expect to Pass Along 50% of Tariffs, Fed Survey Finds - Bloomberg",
@@ -3395,6 +3403,10 @@
     {
       "title": "A popular climate website will be hobbled, after Trump administration eliminates entire staff - NPR",
       "pubDate": "Thu, 12 Jun 2025 20:47:02 GMT"
+    },
+    {
+      "title": "Homeowners Battle Insurers Over $2.9 Trillion Climate Risk - Bloomberg",
+      "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -3580,10 +3592,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Donald Trump orders inquiry into Joe Biden's actions as president, alleging 'cognitive decline' - BBC",
-      "pubDate": "Thu, 05 Jun 2025 05:02:52 GMT"
-    },
     {
       "title": "US Senate panel passes measures on Taiwan and China\u2019s overseas military growth - South China Morning Post",
       "pubDate": "Thu, 05 Jun 2025 18:25:18 GMT"
@@ -4485,6 +4493,12 @@
     {
       "title": "Odds of \u2019city killer\u2019 asteroid hitting Moon increases \u2013 what does that mean for us? - MSN",
       "pubDate": "Thu, 12 Jun 2025 10:54:42 GMT"
+    }
+  ],
+  "chris_murphy": [
+    {
+      "title": "Sen. Murphy Says Israeli Attack on Iran Risks Regional War - WSJ",
+      "pubDate": "Fri, 13 Jun 2025 00:55:50 GMT"
     }
   ]
 }
