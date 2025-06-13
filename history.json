@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump holds call with Xi, Chinese media says - CNBC",
-      "pubDate": "Thu, 05 Jun 2025 12:58:04 GMT"
-    },
-    {
       "title": "Trump and Xi Hold Call, China Says - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 13:15:27 GMT"
     },
@@ -643,6 +639,10 @@
     {
       "title": "Millions in US expected to protest against Trump in \u2018No Kings\u2019 protests - The Guardian",
       "pubDate": "Fri, 13 Jun 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Trump: Israel attack on Iran 'excellent,' more to come -ABC interview - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 11:32:56 GMT"
     }
   ],
   "ukraine": [
@@ -1301,6 +1301,10 @@
     {
       "title": "Russia Relocates Strategic Bombers After Ukraine's 'Spider's Web' Drone Attack - The Moscow Times",
       "pubDate": "Thu, 12 Jun 2025 11:56:17 GMT"
+    },
+    {
+      "title": "Russia Responds to Israel's Strikes on Iran: 'Full-Scale War' Possible - Newsweek",
+      "pubDate": "Fri, 13 Jun 2025 09:45:12 GMT"
     }
   ],
   "israel": [
@@ -1384,10 +1388,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Vista CEO Says AI to Force 60% of SuperReturn Crowd to Seek Work - Bloomberg",
-      "pubDate": "Thu, 05 Jun 2025 12:01:51 GMT"
-    },
     {
       "title": "AI is already wiping out jobs, intensifying a hiring slowdown - USA Today",
       "pubDate": "Thu, 05 Jun 2025 13:03:49 GMT"
@@ -1879,6 +1879,10 @@
     {
       "title": "They Asked ChatGPT Questions. The Answers Sent Them Spiraling. - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 09:00:39 GMT"
+    },
+    {
+      "title": "Anthropic says looking to power European tech with hiring push - The Paintsville Herald",
+      "pubDate": "Fri, 13 Jun 2025 04:22:54 GMT"
     }
   ],
   "financial_markets": [
@@ -1981,6 +1985,10 @@
     {
       "title": "Israel strikes Iran in major escalation: How the markets are reacting - InvestmentNews",
       "pubDate": "Fri, 13 Jun 2025 10:36:13 GMT"
+    },
+    {
+      "title": "Dow futures fall more than 300 points after Israel strikes Iran, spiking oil prices: Live updates - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 12:39:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2019,13 +2027,13 @@
     {
       "title": "Sanctions on Russia are working - Financial Times",
       "pubDate": "Thu, 12 Jun 2025 10:00:58 GMT"
+    },
+    {
+      "title": "US defense official: US ready to defend PH despite growing China military - GMA Network",
+      "pubDate": "Fri, 13 Jun 2025 10:11:21 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump\u2019s tariffs have become his Vietnam \u2013 and the right is breaking ranks - The Guardian",
-      "pubDate": "Thu, 05 Jun 2025 12:55:00 GMT"
-    },
     {
       "title": "The \u2018Fundamental Mistake\u2019 in Trump\u2019s Trade War With China - Politico",
       "pubDate": "Thu, 05 Jun 2025 14:00:00 GMT"
@@ -2805,6 +2813,10 @@
     {
       "title": "Trump warns Iran: 'Make a deal, before it\u2019s too late' - NewsNation",
       "pubDate": "Fri, 13 Jun 2025 11:03:49 GMT"
+    },
+    {
+      "title": "Israel Strikes Iran to Target Nuclear Program - Foreign Policy",
+      "pubDate": "Fri, 13 Jun 2025 01:47:02 GMT"
     }
   ],
   "us_economy": [
@@ -3859,6 +3871,10 @@
     {
       "title": "Sen Alex Padilla dragged out of Noem immigration briefing in LA - BBC",
       "pubDate": "Thu, 12 Jun 2025 22:05:22 GMT"
+    },
+    {
+      "title": "House votes to eliminate federal funding for public media outlets - NPR",
+      "pubDate": "Fri, 13 Jun 2025 08:10:29 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4108,10 +4124,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Senate confirms Bowman as Fed supervision czar - Banking Dive",
-      "pubDate": "Thu, 05 Jun 2025 12:53:22 GMT"
-    },
     {
       "title": "Top Federal Reserve official promises major overhaul of US bank regulation - Financial Times",
       "pubDate": "Fri, 06 Jun 2025 17:07:56 GMT"
