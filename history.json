@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump bans nationals from 12 countries, citing security concerns - Reuters",
-      "pubDate": "Thu, 05 Jun 2025 02:09:00 GMT"
-    },
-    {
       "title": "Trump bans citizens of 12 countries from entering the U.S. - CNBC",
       "pubDate": "Thu, 05 Jun 2025 03:29:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump vows changes to immigration crackdown to protect migrant farmers, hotel workers - USA Today",
       "pubDate": "Thu, 12 Jun 2025 16:41:16 GMT"
+    },
+    {
+      "title": "Trump administration blocked from deploying National Guard to LA - BBC",
+      "pubDate": "Fri, 13 Jun 2025 01:26:10 GMT"
     }
   ],
   "ukraine": [
@@ -1199,6 +1199,10 @@
     {
       "title": "WA agencies see largest wave of layoffs since Great Recession - The Seattle Times",
       "pubDate": "Thu, 12 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "title": "US Recession Fears Are Finally Cooling Off: Risk Drops to Just 25% - The Tradable",
+      "pubDate": "Thu, 12 Jun 2025 19:56:02 GMT"
     }
   ],
   "russia": [
@@ -1396,10 +1400,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Watch Meta CTO on What's Ahead in Artificial Intelligence / DAY 1 - Bloomberg",
-      "pubDate": "Thu, 05 Jun 2025 02:55:00 GMT"
-    },
     {
       "title": "Artificial intelligence (AI) - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 06:06:19 GMT"
@@ -1883,6 +1883,10 @@
     {
       "title": "Could artificial intelligence make war and peace decisions? - Johns Hopkins University",
       "pubDate": "Thu, 12 Jun 2025 19:11:00 GMT"
+    },
+    {
+      "title": "Meta invests $14.3B in AI firm Scale and recruits its CEO for 'superintelligence' team - ABC News",
+      "pubDate": "Fri, 13 Jun 2025 02:36:29 GMT"
     }
   ],
   "financial_markets": [
@@ -1961,6 +1965,10 @@
     {
       "title": "Stocks dip, dollar sags as trade, geopolitical tensions weigh - Reuters",
       "pubDate": "Thu, 12 Jun 2025 06:10:31 GMT"
+    },
+    {
+      "title": "Oil prices surge over 7%, U.S. stock futures fall as Israel strikes Iran - MarketWatch",
+      "pubDate": "Fri, 13 Jun 2025 00:24:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2153,10 +2161,6 @@
   ],
   "china": [
     {
-      "title": "China helps Russia pull ahead in lethal drone war race with Ukraine - politico.eu",
-      "pubDate": "Thu, 05 Jun 2025 02:26:02 GMT"
-    },
-    {
       "title": "Auto industry sounds the alarm as China's rare earth curbs start to bite - CNBC",
       "pubDate": "Thu, 05 Jun 2025 05:10:54 GMT"
     },
@@ -2167,10 +2171,6 @@
     {
       "title": "China increases scrutiny of rare earth magnets with new tracking system - Reuters",
       "pubDate": "Thu, 05 Jun 2025 04:17:53 GMT"
-    },
-    {
-      "title": "A quiet Tiananmen Square anniversary shows China\u2019s ability to suppress history - AP News",
-      "pubDate": "Thu, 05 Jun 2025 02:11:00 GMT"
     },
     {
       "title": "EU sounds alarm to China over rare earth export controls - CNN",
@@ -2679,10 +2679,6 @@
   ],
   "iran": [
     {
-      "title": "Critical US-Iran nuclear talks on shaky ground - ABC News",
-      "pubDate": "Thu, 05 Jun 2025 02:03:57 GMT"
-    },
-    {
       "title": "Israel assured U.S. it won't strike Iran unless talks fail - Axios",
       "pubDate": "Thu, 05 Jun 2025 20:44:56 GMT"
     },
@@ -2765,13 +2761,13 @@
     {
       "title": "Israeli Strikes Target Iran's Nuclear Program: Live Updates - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 01:38:00 GMT"
+    },
+    {
+      "title": "Israel strikes Iran nuclear sites and military leadership, as Middle East braces for retaliation - CNN",
+      "pubDate": "Fri, 13 Jun 2025 02:39:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US economy slows as Trump\u2019s tariffs put pressure: The Fed - Tech in Asia",
-      "pubDate": "Thu, 05 Jun 2025 02:40:00 GMT"
-    },
     {
       "title": "ECB Cuts Rates Again, Widening Gap With Federal Reserve - WSJ",
       "pubDate": "Thu, 05 Jun 2025 08:09:00 GMT"
@@ -3080,10 +3076,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Menopause Drug Reduces Breast Cancer Growth In Clinical Trial - ScienceAlert",
-      "pubDate": "Thu, 05 Jun 2025 02:14:24 GMT"
-    },
     {
       "title": "Scientists Crack 30-Year Mystery Behind \u201cHoly Grail\u201d Cancer Drug - SciTechDaily",
       "pubDate": "Thu, 05 Jun 2025 03:43:12 GMT"
@@ -3601,6 +3593,10 @@
     {
       "title": "NEXCOM NexCOBOT unit joins NVIDIA Halos AI Systems Inspection Lab - The Robot Report",
       "pubDate": "Thu, 12 Jun 2025 14:12:56 GMT"
+    },
+    {
+      "title": "New York Legislature Approves Sweeping AI Safety Measure (1) - Bloomberg Law News",
+      "pubDate": "Thu, 12 Jun 2025 18:56:00 GMT"
     }
   ],
   "us_politics": [
@@ -3839,6 +3835,10 @@
     {
       "title": "Democrats and Republicans point fingers over Sen. Padilla's removal from DHS event - NBC News",
       "pubDate": "Fri, 13 Jun 2025 01:02:00 GMT"
+    },
+    {
+      "title": "Senate G.O.P. Includes Expanded Fund for Radiation Victims in Policy Bill - The New York Times",
+      "pubDate": "Fri, 13 Jun 2025 02:06:20 GMT"
     }
   ],
   "cryptocurrency": [
