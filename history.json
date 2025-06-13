@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump issues a new travel ban. And, GOP raises concerns over the budget bill - NPR",
-      "pubDate": "Thu, 05 Jun 2025 10:46:41 GMT"
-    },
-    {
       "title": "Trump holds call with Xi, Chinese media says - CNBC",
       "pubDate": "Thu, 05 Jun 2025 12:58:04 GMT"
     },
@@ -639,13 +635,13 @@
     {
       "title": "Donald Trump\u2019s Dictator Cosplay - The New Yorker",
       "pubDate": "Thu, 12 Jun 2025 22:48:52 GMT"
+    },
+    {
+      "title": "Trump urges Iran to reach nuclear deal 'before there is nothing left' - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 10:29:45 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia\u2019s war on Ukraine intensifies as peace talks appear at dead end - Al Jazeera",
-      "pubDate": "Thu, 05 Jun 2025 10:18:45 GMT"
-    },
     {
       "title": "Russian drone strike kills 5 as Moscow pledges response to Ukraine attacks - Al Jazeera",
       "pubDate": "Thu, 05 Jun 2025 11:23:56 GMT"
@@ -1883,6 +1879,10 @@
     {
       "title": "Meta\u2019s Bold AGI Ambitions: Poaching Talent and Intensifying the AI Race - BBN Times",
       "pubDate": "Thu, 12 Jun 2025 22:44:44 GMT"
+    },
+    {
+      "title": "Opinion | Artificial intelligence, Trump and the Future: 13 Gen Z-ers Discuss - The New York Times",
+      "pubDate": "Fri, 13 Jun 2025 09:03:14 GMT"
     }
   ],
   "financial_markets": [
@@ -1981,6 +1981,10 @@
     {
       "title": "Global oil prices soar after Israel attacks Iran - BBC",
       "pubDate": "Fri, 13 Jun 2025 07:36:40 GMT"
+    },
+    {
+      "title": "European stocks lose ground after Israel launches air strikes on Iran - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 10:36:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2679,6 +2683,10 @@
     {
       "title": "China expresses deep concern about Israel's attacks on Iran, urges de-escalation - Reuters",
       "pubDate": "Fri, 13 Jun 2025 08:54:47 GMT"
+    },
+    {
+      "title": "China's tight grip on rare earths shows little sign of weakening - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 10:01:52 GMT"
     }
   ],
   "iran": [
@@ -3423,6 +3431,10 @@
     {
       "title": "Homeowners Battle Insurers Over $2.9 Trillion Climate Risk - Bloomberg",
       "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s latest budget proposal could gut climate and weather research in Colorado - Colorado Public Radio",
+      "pubDate": "Thu, 12 Jun 2025 23:42:11 GMT"
     }
   ],
   "ai_safety": [
@@ -3433,10 +3445,6 @@
     {
       "title": "Trump Administration To Rebrand Biden-Era Artificial Intelligence Safety Institute, Commerce Secretary Says At AI Honors: \u201cWe\u2019re Not Going To Regulate It\u201d - Deadline",
       "pubDate": "Thu, 05 Jun 2025 15:33:00 GMT"
-    },
-    {
-      "title": "Anthropic researchers claim AI could turn humans into \"meat robots\" \u2014 obeying robot commands relayed via a camera - Windows Central",
-      "pubDate": "Thu, 05 Jun 2025 10:54:53 GMT"
     },
     {
       "title": "Enhance AI security with Azure Prompt Shields and Azure AI Content Safety - Microsoft Azure",
@@ -3975,6 +3983,10 @@
     {
       "title": "Bitcoin Skyrockets Past $108,000 Amid US-China Tariff Discussions - TradingView",
       "pubDate": "Tue, 10 Jun 2025 09:30:01 GMT"
+    },
+    {
+      "title": "Bitcoin Sinks as Israel Escalates Iran Standoff With Airstrikes - Bloomberg",
+      "pubDate": "Fri, 13 Jun 2025 03:02:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -4519,6 +4531,12 @@
     {
       "title": "Sen. Murphy Says Israeli Attack on Iran Risks Regional War - WSJ",
       "pubDate": "Fri, 13 Jun 2025 00:55:50 GMT"
+    }
+  ],
+  "military_and_defense": [
+    {
+      "title": "Israel attacks Iran, airstrikes kill armed forces and Revolutionary Guard chiefs - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 00:11:00 GMT"
     }
   ]
 }
