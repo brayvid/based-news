@@ -1,32 +1,8 @@
 {
   "donald_trump": [
     {
-      "title": "Trump bans citizens of 12 countries from entering the U.S. - CNBC",
-      "pubDate": "Thu, 05 Jun 2025 03:29:00 GMT"
-    },
-    {
-      "title": "Trump Orders Investigation of Biden and His Aides - The New York Times",
-      "pubDate": "Thu, 05 Jun 2025 03:12:11 GMT"
-    },
-    {
-      "title": "NYC Democratic mayoral candidates debate; Trump talks Ukraine war with Putin - NBC News",
-      "pubDate": "Thu, 05 Jun 2025 03:06:00 GMT"
-    },
-    {
-      "title": "Trump announces travel ban and restrictions on 19 countries set to go into effect Monday - AP News",
-      "pubDate": "Thu, 05 Jun 2025 03:19:00 GMT"
-    },
-    {
-      "title": "\u2018We Don\u2019t Want Them\u2019: Trump Signs Travel Ban on Citizens From 12 Countries - The New York Times",
-      "pubDate": "Thu, 05 Jun 2025 03:22:30 GMT"
-    },
-    {
       "title": "Trump aims to build a MAGA judiciary, breaking with traditional conservatives - NBC News",
       "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Trump orders investigation into Biden presidency claiming aides hid his \u2018serious cognitive decline\u2019 - The Independent",
-      "pubDate": "Thu, 05 Jun 2025 04:01:00 GMT"
     },
     {
       "title": "Trump issues a new travel ban. And, GOP raises concerns over the budget bill - NPR",
@@ -651,13 +627,13 @@
     {
       "title": "Trump administration blocked from deploying National Guard to LA - BBC",
       "pubDate": "Fri, 13 Jun 2025 01:26:10 GMT"
+    },
+    {
+      "title": "The simple reason Trump didn't want Israel to attack Iran - MSNBC News",
+      "pubDate": "Thu, 12 Jun 2025 23:57:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Don\u2019t be weak, Zelenskyy tells allies, after Putin threats - The Guardian",
-      "pubDate": "Thu, 05 Jun 2025 03:58:00 GMT"
-    },
     {
       "title": "5 killed, 6 injured in Russian drone strike on Chernihiv Oblast - The Kyiv Independent",
       "pubDate": "Thu, 05 Jun 2025 05:52:05 GMT"
@@ -1387,6 +1363,10 @@
     {
       "title": "Israeli forces kill at least 60 Palestinians seeking food in Gaza, health officials say - The Guardian",
       "pubDate": "Wed, 11 Jun 2025 22:33:09 GMT"
+    },
+    {
+      "title": "Israel targets Iran's nuclear sites and military commanders in major attack - BBC",
+      "pubDate": "Fri, 13 Jun 2025 03:21:25 GMT"
     }
   ],
   "inflation": [
@@ -1887,6 +1867,10 @@
     {
       "title": "Meta invests $14.3B in AI firm Scale and recruits its CEO for 'superintelligence' team - ABC News",
       "pubDate": "Fri, 13 Jun 2025 02:36:29 GMT"
+    },
+    {
+      "title": "Could Artificial Intelligence solve construction worker accidents? - News 5 Cleveland WEWS",
+      "pubDate": "Fri, 13 Jun 2025 01:23:52 GMT"
     }
   ],
   "financial_markets": [
@@ -1969,6 +1953,10 @@
     {
       "title": "Oil prices surge over 7%, U.S. stock futures fall as Israel strikes Iran - MarketWatch",
       "pubDate": "Fri, 13 Jun 2025 00:24:00 GMT"
+    },
+    {
+      "title": "Oil prices surge 11% on heels of Israeli strikes - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 00:46:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2157,6 +2145,10 @@
     {
       "title": "Trade War Impacts Keep Jobless Claims at 8-Month High - Inc.com",
       "pubDate": "Thu, 12 Jun 2025 17:03:58 GMT"
+    },
+    {
+      "title": "Opinion | Trump miscalculated on China. Now the administration is trying to fix the mess. - The Washington Post",
+      "pubDate": "Fri, 13 Jun 2025 03:18:56 GMT"
     }
   ],
   "china": [
@@ -2675,6 +2667,10 @@
     {
       "title": "Taking lessons from Ukraine, Taiwan eyes sea drones to counter China - Reuters",
       "pubDate": "Fri, 13 Jun 2025 01:05:00 GMT"
+    },
+    {
+      "title": "China cautions citizens in Iran, warns those in Israel of potential attacks - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 03:35:00 GMT"
     }
   ],
   "iran": [
@@ -2765,6 +2761,10 @@
     {
       "title": "Israel strikes Iran nuclear sites and military leadership, as Middle East braces for retaliation - CNN",
       "pubDate": "Fri, 13 Jun 2025 02:39:00 GMT"
+    },
+    {
+      "title": "Israel Launches Attack on Iran\u2019s Nuclear Facilities: Live Updates - WSJ",
+      "pubDate": "Fri, 13 Jun 2025 03:33:00 GMT"
     }
   ],
   "us_economy": [
@@ -3077,10 +3077,6 @@
   ],
   "cancer": [
     {
-      "title": "Scientists Crack 30-Year Mystery Behind \u201cHoly Grail\u201d Cancer Drug - SciTechDaily",
-      "pubDate": "Thu, 05 Jun 2025 03:43:12 GMT"
-    },
-    {
       "title": "Cancer research faces steep funding cuts under Trump's proposed budget - CBS News",
       "pubDate": "Thu, 05 Jun 2025 13:24:00 GMT"
     },
@@ -3188,14 +3184,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea's Kim vows unconditional support for Russia in meeting with Shoigu - Reuters",
-      "pubDate": "Thu, 05 Jun 2025 03:25:00 GMT"
-    },
-    {
-      "title": "Kim Jong Un vows to 'unconditionally support' Russia's war against Ukraine - upi.com",
-      "pubDate": "Thu, 05 Jun 2025 04:01:04 GMT"
-    },
     {
       "title": "North Korea Appears to Have Added to Its Nuclear Complex - Bloomberg",
       "pubDate": "Wed, 11 Jun 2025 03:52:00 GMT"
@@ -3415,10 +3403,6 @@
   ],
   "ai_safety": [
     {
-      "title": "US move won't affect global AI safety institute network, South Korean official says - MLex",
-      "pubDate": "Thu, 05 Jun 2025 03:26:00 GMT"
-    },
-    {
       "title": "Aberdeen\u2019s Fennex secures EnQuest contract for AI safety tool - Energy Voice",
       "pubDate": "Thu, 05 Jun 2025 06:18:09 GMT"
     },
@@ -3600,14 +3584,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House Democrats question Trump in probe of Elon Musk's alleged drug use - Axios",
-      "pubDate": "Thu, 05 Jun 2025 03:37:59 GMT"
-    },
-    {
-      "title": "Trump orders inquiry into 'conspiracy' to cover up Biden's declining cognitive health - France 24",
-      "pubDate": "Thu, 05 Jun 2025 03:04:08 GMT"
-    },
     {
       "title": "Donald Trump orders inquiry into Joe Biden's actions as president, alleging 'cognitive decline' - BBC",
       "pubDate": "Thu, 05 Jun 2025 05:02:52 GMT"
