@@ -639,6 +639,10 @@
     {
       "title": "Trump Issues Grave Warning to Iran After Israeli Strikes: \u2018No More Death, No More Destruction\u2019 - Time Magazine",
       "pubDate": "Fri, 13 Jun 2025 14:26:15 GMT"
+    },
+    {
+      "title": "Trump Warns Iran of \u2018Even More Brutal\u2019 Attacks Without Nuclear Deal: Live Updates - WSJ",
+      "pubDate": "Fri, 13 Jun 2025 15:29:00 GMT"
     }
   ],
   "ukraine": [
@@ -1377,10 +1381,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Artificial intelligence supports most precise optical measurements - Optics.org",
-      "pubDate": "Thu, 05 Jun 2025 15:23:54 GMT"
-    },
-    {
       "title": "AI Models Will Sabotage And Blackmail Humans To Survive In New Tests. Should We Be Worried? - HuffPost",
       "pubDate": "Thu, 05 Jun 2025 16:38:20 GMT"
     },
@@ -1391,10 +1391,6 @@
     {
       "title": "Groups raise alarms about proposed artificial intelligence regulations - The Center Square",
       "pubDate": "Thu, 05 Jun 2025 18:52:00 GMT"
-    },
-    {
-      "title": "Thune on AI moratorium: \u2018We\u2019ll see\u2019 if it survives Byrd rule - Politico",
-      "pubDate": "Thu, 05 Jun 2025 15:44:29 GMT"
     },
     {
       "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
@@ -2153,20 +2149,12 @@
   ],
   "china": [
     {
-      "title": "Trump tariffs live updates: Trump and China's Xi Jinping speak at last, agree to more talks - Yahoo Finance",
-      "pubDate": "Thu, 05 Jun 2025 15:38:32 GMT"
-    },
-    {
       "title": "Trump and China's Xi break the ice with first phone call since launch of trade war - USA Today",
       "pubDate": "Thu, 05 Jun 2025 19:38:31 GMT"
     },
     {
       "title": "Exclusive | Iran Orders Material From China for Hundreds of Ballistic Missiles - WSJ",
       "pubDate": "Thu, 05 Jun 2025 23:00:00 GMT"
-    },
-    {
-      "title": "China and U.S. will hold more tariff talks, Trump says after Xi call - PBS",
-      "pubDate": "Thu, 05 Jun 2025 15:07:04 GMT"
     },
     {
       "title": "Donald Trump confirms China trip after 'very good' call with Xi Jinping - BBC",
@@ -2667,6 +2655,10 @@
     {
       "title": "What does China\u2019s PLA gain from operating 2 carriers in second island chain? - South China Morning Post",
       "pubDate": "Fri, 13 Jun 2025 14:00:07 GMT"
+    },
+    {
+      "title": "China Boosts Tesla Self-Driving Plan With Car-Data Export Rules - Bloomberg",
+      "pubDate": "Fri, 13 Jun 2025 11:41:59 GMT"
     }
   ],
   "iran": [
@@ -2793,6 +2785,10 @@
     {
       "title": "Iran launches hundreds of armed drones towards Israel - Al Jazeera",
       "pubDate": "Fri, 13 Jun 2025 08:27:06 GMT"
+    },
+    {
+      "title": "LIVE: Iran vows \u2018powerful response\u2019 to Israeli strikes, Trump urges deal - Al Jazeera",
+      "pubDate": "Fri, 13 Jun 2025 07:34:43 GMT"
     }
   ],
   "us_economy": [
@@ -3415,10 +3411,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Trump Administration To Rebrand Biden-Era Artificial Intelligence Safety Institute, Commerce Secretary Says At AI Honors: \u201cWe\u2019re Not Going To Regulate It\u201d - Deadline",
-      "pubDate": "Thu, 05 Jun 2025 15:33:00 GMT"
-    },
-    {
       "title": "Trump admin rebrands AI safety institute in latest oversight move - CIO Dive",
       "pubDate": "Thu, 05 Jun 2025 20:41:24 GMT"
     },
@@ -3831,6 +3823,10 @@
     {
       "title": "House votes to eliminate federal funding for public media outlets - NPR",
       "pubDate": "Fri, 13 Jun 2025 08:10:29 GMT"
+    },
+    {
+      "title": "US judge blocks Trump administration from overhauling federal elections - Deccan Herald",
+      "pubDate": "Fri, 13 Jun 2025 13:57:23 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3959,6 +3955,10 @@
     {
       "title": "Bitcoin Sinks as Israel Escalates Iran Standoff With Airstrikes - Bloomberg",
       "pubDate": "Fri, 13 Jun 2025 03:02:00 GMT"
+    },
+    {
+      "title": "Bitcoin Price Tumbles as Gold Rises. Amazon and Walmart Consider Issuing Stablecoins. - Barron's",
+      "pubDate": "Fri, 13 Jun 2025 13:10:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -4070,10 +4070,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Astronomers discover most powerful cosmic explosions since the Big Bang - Space",
-      "pubDate": "Thu, 05 Jun 2025 15:24:12 GMT"
-    },
     {
       "title": "Scientists Just Discovered a \u2018Super-Earth\u2019 : Atmosphere, Size, Distance\u2026 It Has It All! - MSN",
       "pubDate": "Mon, 09 Jun 2025 02:22:18 GMT"
@@ -4501,12 +4497,22 @@
     {
       "title": "Israel attacks Iran, airstrikes kill armed forces and Revolutionary Guard chiefs - CNBC",
       "pubDate": "Fri, 13 Jun 2025 00:11:00 GMT"
+    },
+    {
+      "title": "Israel targets Iranian military leaders, nuclear sites in wave of strikes: IDF - Breaking Defense",
+      "pubDate": "Fri, 13 Jun 2025 12:38:13 GMT"
     }
   ],
   "military_intelligence": [
     {
       "title": "Israel destroys Iranian modern air defense systems - Defence Blog",
       "pubDate": "Fri, 13 Jun 2025 08:41:17 GMT"
+    }
+  ],
+  "battery_electric_vehicle": [
+    {
+      "title": "Global EV Sales Surge Past 7 Million - The EV Report",
+      "pubDate": "Fri, 13 Jun 2025 11:38:05 GMT"
     }
   ]
 }
