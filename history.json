@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Elon Musk escalates feud with Trump: 'Time to drop the really big bomb' - USA Today",
-      "pubDate": "Thu, 05 Jun 2025 20:01:43 GMT"
-    },
-    {
       "title": "Live updates: Musk says Trump would have lost the 2024 election without his help - The Washington Post",
       "pubDate": "Thu, 05 Jun 2025 23:11:39 GMT"
     },
@@ -27,10 +23,6 @@
     {
       "title": "Musk-Trump fight: The tech billionaire and the president trade barbs - BBC",
       "pubDate": "Fri, 06 Jun 2025 04:49:28 GMT"
-    },
-    {
-      "title": "Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel - The Guardian",
-      "pubDate": "Thu, 05 Jun 2025 19:45:00 GMT"
     },
     {
       "title": "Trump-Xi call restores trade truce. But the supply chain war has no end in sight - CNN",
@@ -639,13 +631,13 @@
     {
       "title": "Trump struggles with Iran message as Republicans diverge over attack - BBC",
       "pubDate": "Fri, 13 Jun 2025 16:25:54 GMT"
+    },
+    {
+      "title": "Live updates: Iran launches missile counterattack on Israel after punishing airstrikes - USA Today",
+      "pubDate": "Fri, 13 Jun 2025 19:14:35 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia says it will respond to Ukraine attacks, Trump downplays immediate peace prospects - Reuters",
-      "pubDate": "Thu, 05 Jun 2025 19:28:19 GMT"
-    },
     {
       "title": "Russia launches aerial assault on Kyiv days after Ukraine\u2019s audacious drone attack on bomber fleet - CNN",
       "pubDate": "Fri, 06 Jun 2025 00:04:00 GMT"
@@ -1355,6 +1347,10 @@
     {
       "title": "Live updates: Explosions heard in Tel Aviv as Iran launches missiles in response to Israeli strikes - The Washington Post",
       "pubDate": "Fri, 13 Jun 2025 18:52:27 GMT"
+    },
+    {
+      "title": "What to Know About the Israeli Strike on Iran - CSIS | Center for Strategic and International Studies",
+      "pubDate": "Fri, 13 Jun 2025 13:48:34 GMT"
     }
   ],
   "inflation": [
@@ -1372,10 +1368,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Ukraine Just Demonstrated What AGI War Could Look Like - Time Magazine",
-      "pubDate": "Thu, 05 Jun 2025 19:21:52 GMT"
-    },
     {
       "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
       "pubDate": "Fri, 06 Jun 2025 00:11:00 GMT"
@@ -1851,6 +1843,10 @@
     {
       "title": "Meta Invests $14.3 Billion in AI Startup Scale AI, Accelerating Race Toward Superintelligence - The Bridge Chronicle",
       "pubDate": "Fri, 13 Jun 2025 14:31:10 GMT"
+    },
+    {
+      "title": "Nvidia is nixing China from its financial forecasts because U.S. restrictions on chip sales have tightened so much, Jensen Huang says - Fortune",
+      "pubDate": "Fri, 13 Jun 2025 17:29:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1949,6 +1945,10 @@
     {
       "title": "Dow futures fall more than 300 points after Israel strikes Iran, spiking oil prices: Live updates - CNBC",
       "pubDate": "Fri, 13 Jun 2025 12:39:00 GMT"
+    },
+    {
+      "title": "Israel launches major strike on Iran: What is the market fallout? - Euronews.com",
+      "pubDate": "Fri, 13 Jun 2025 08:14:33 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2129,16 +2129,8 @@
   ],
   "china": [
     {
-      "title": "Trump and China's Xi break the ice with first phone call since launch of trade war - USA Today",
-      "pubDate": "Thu, 05 Jun 2025 19:38:31 GMT"
-    },
-    {
       "title": "Exclusive | Iran Orders Material From China for Hundreds of Ballistic Missiles - WSJ",
       "pubDate": "Thu, 05 Jun 2025 23:00:00 GMT"
-    },
-    {
-      "title": "Trump says he will travel to China - NBC News",
-      "pubDate": "Thu, 05 Jun 2025 19:53:21 GMT"
     },
     {
       "title": "Trump Says He Discussed Trade, Rare Earths in Call With China\u2019s Xi - WSJ",
@@ -2785,10 +2777,6 @@
   ],
   "us_economy": [
     {
-      "title": "Businesses Expect to Pass Along 50% of Tariffs, Fed Survey Finds - Bloomberg",
-      "pubDate": "Thu, 05 Jun 2025 19:06:20 GMT"
-    },
-    {
       "title": "Elon Musk Says Trump Tariffs Will Cause a Recession - WSJ",
       "pubDate": "Thu, 05 Jun 2025 20:18:00 GMT"
     },
@@ -3071,6 +3059,10 @@
     {
       "title": "US Economy Shrinks for First Time in Three Years Amid Tariff Concerns - MSN",
       "pubDate": "Fri, 13 Jun 2025 13:31:34 GMT"
+    },
+    {
+      "title": "The Israel-Iran War Could Send a Shock Through the US Economy. Here\u2019s How. - Barron's",
+      "pubDate": "Fri, 13 Jun 2025 19:34:00 GMT"
     }
   ],
   "terrorism": [
@@ -3201,10 +3193,6 @@
     {
       "title": "Israel \u2018Activated Clans\u2019 to Fight Hamas in Gaza, Netanyahu Says - The New York Times",
       "pubDate": "Thu, 05 Jun 2025 20:13:12 GMT"
-    },
-    {
-      "title": "Hamas chief says group did not reject US ceasefire proposal for Gaza, sought changes - Reuters",
-      "pubDate": "Thu, 05 Jun 2025 19:19:13 GMT"
     },
     {
       "title": "Netanyahu confirms Israel arming clans opposed to Hamas in Gaza - BBC",
@@ -3803,6 +3791,10 @@
     {
       "title": "US judge blocks Trump administration from overhauling federal elections - Deccan Herald",
       "pubDate": "Fri, 13 Jun 2025 13:57:23 GMT"
+    },
+    {
+      "title": "Republicans back Israeli attack on Iran but some Democrats say it sabotages nuclear talks - The Guardian",
+      "pubDate": "Fri, 13 Jun 2025 18:15:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3829,12 +3821,6 @@
     {
       "title": "Liz Warren Says Crypto Bill Creates a \u2018Superhighway\u2019 for Trump Corruption - rollingstone.com",
       "pubDate": "Thu, 12 Jun 2025 13:32:17 GMT"
-    }
-  ],
-  "science": [
-    {
-      "title": "Scientists find the most intense explosion ever seen in the universe - The Independent",
-      "pubDate": "Thu, 05 Jun 2025 20:00:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -4145,6 +4131,10 @@
     {
       "title": "Iran launches 100 drones at Israel in response to missile attack as markets reel - CNBC",
       "pubDate": "Fri, 13 Jun 2025 07:38:41 GMT"
+    },
+    {
+      "title": "Iran launches missiles and drones at Israel as Israel attacks Iranian nuclear sites and top commanders, IDF says - CBS News",
+      "pubDate": "Fri, 13 Jun 2025 18:50:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4282,10 +4272,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI Says Significant Number of Recent ChatGPT Misuses Likely Came From China - WSJ",
-      "pubDate": "Thu, 05 Jun 2025 19:18:00 GMT"
-    },
     {
       "title": "Exclusive: OpenAI taps Google in unprecedented cloud deal despite AI rivalry, sources say - Reuters",
       "pubDate": "Tue, 10 Jun 2025 17:22:17 GMT"
