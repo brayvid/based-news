@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Trump signs proclamation banning travel from 12 countries - ABC News",
-      "pubDate": "Thu, 05 Jun 2025 00:16:00 GMT"
-    },
-    {
       "title": "Live updates: Trump announces travel ban affecting a dozen countries - AP News",
       "pubDate": "Thu, 05 Jun 2025 01:47:00 GMT"
     },
@@ -27,10 +23,6 @@
     {
       "title": "Trump announces travel ban and restrictions on 19 countries set to go into effect Monday - AP News",
       "pubDate": "Thu, 05 Jun 2025 03:19:00 GMT"
-    },
-    {
-      "title": "Trump signs proclamation to suspend visas for new Harvard international students - CNN",
-      "pubDate": "Thu, 05 Jun 2025 00:20:00 GMT"
     },
     {
       "title": "\u2018We Don\u2019t Want Them\u2019: Trump Signs Travel Ban on Citizens From 12 Countries - The New York Times",
@@ -655,6 +647,10 @@
     {
       "title": "Trump warns Israel could strike Iran; U.S. officials say no military support - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 22:58:48 GMT"
+    },
+    {
+      "title": "Live updates: California senator removed after interrupting news conference by Kristi Noem - AP News",
+      "pubDate": "Thu, 12 Jun 2025 23:37:00 GMT"
     }
   ],
   "ukraine": [
@@ -1401,10 +1397,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "New Doudna supercomputer at Berkeley lab to power AI research - CBS News",
-      "pubDate": "Thu, 05 Jun 2025 00:46:00 GMT"
-    },
-    {
       "title": "Watch Meta CTO on What's Ahead in Artificial Intelligence / DAY 1 - Bloomberg",
       "pubDate": "Thu, 05 Jun 2025 02:55:00 GMT"
     },
@@ -1887,6 +1879,10 @@
     {
       "title": "Sam Altman says the Singularity is imminent - here's why - ZDNET",
       "pubDate": "Thu, 12 Jun 2025 17:14:00 GMT"
+    },
+    {
+      "title": "Could artificial intelligence make war and peace decisions? - Johns Hopkins University",
+      "pubDate": "Thu, 12 Jun 2025 19:11:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2149,13 +2145,13 @@
     {
       "title": "Canadian Support for Counter-Tariffs Dips as Trump Trade War Persists - Bloomberg",
       "pubDate": "Thu, 12 Jun 2025 18:01:56 GMT"
+    },
+    {
+      "title": "Trade War Impacts Keep Jobless Claims at 8-Month High - Inc.com",
+      "pubDate": "Thu, 12 Jun 2025 17:03:58 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Power Prices Nosedive in Relief to Tariff-Hit Factories - Bloomberg",
-      "pubDate": "Thu, 05 Jun 2025 00:19:29 GMT"
-    },
     {
       "title": "China helps Russia pull ahead in lethal drone war race with Ukraine - politico.eu",
       "pubDate": "Thu, 05 Jun 2025 02:26:02 GMT"
@@ -2671,6 +2667,10 @@
     {
       "title": "Global EV sales rise in May as China hits 2025 peak -Rho Motion - Reuters",
       "pubDate": "Thu, 12 Jun 2025 23:05:55 GMT"
+    },
+    {
+      "title": "Three reasons why China can't afford to invade Taiwan - Responsible Statecraft",
+      "pubDate": "Thu, 12 Jun 2025 21:20:49 GMT"
     }
   ],
   "iran": [
@@ -2753,13 +2753,13 @@
     {
       "title": "Tensions Rise with Iran - NPR",
       "pubDate": "Thu, 12 Jun 2025 22:35:52 GMT"
+    },
+    {
+      "title": "Trump warns a strike on Iran 'could very well happen' if no nuclear deal is signed - NPR",
+      "pubDate": "Thu, 12 Jun 2025 21:40:46 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Slowing as Consumers 'Reluctant to Spend': Economic Analyst - NTD News",
-      "pubDate": "Thu, 05 Jun 2025 00:59:00 GMT"
-    },
     {
       "title": "US economy slows as Trump\u2019s tariffs put pressure: The Fed - Tech in Asia",
       "pubDate": "Thu, 05 Jun 2025 02:40:00 GMT"
@@ -3597,10 +3597,6 @@
       "pubDate": "Thu, 05 Jun 2025 03:37:59 GMT"
     },
     {
-      "title": "Fearful House Republicans Scramble to Mollify Musk - The New York Times",
-      "pubDate": "Thu, 05 Jun 2025 00:13:31 GMT"
-    },
-    {
       "title": "Trump orders inquiry into 'conspiracy' to cover up Biden's declining cognitive health - France 24",
       "pubDate": "Thu, 05 Jun 2025 03:04:08 GMT"
     },
@@ -3823,6 +3819,10 @@
     {
       "title": "House votes to cut global health funding - The Hill",
       "pubDate": "Thu, 12 Jun 2025 22:51:00 GMT"
+    },
+    {
+      "title": "House Republicans vote to claw back $9.4 billion in funding for foreign aid, NPR and PBS - NBC News",
+      "pubDate": "Thu, 12 Jun 2025 20:45:28 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4373,6 +4373,10 @@
     {
       "title": "AI is a data-breach time bomb, reveals new report - BleepingComputer",
       "pubDate": "Tue, 10 Jun 2025 14:02:00 GMT"
+    },
+    {
+      "title": "Ocuco Data Breach Lawsuit Investigation - ClassAction.org",
+      "pubDate": "Thu, 12 Jun 2025 20:34:16 GMT"
     }
   ],
   "\"health_care\"": [
