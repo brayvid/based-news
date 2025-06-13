@@ -13,10 +13,6 @@
       "pubDate": "Fri, 06 Jun 2025 01:32:00 GMT"
     },
     {
-      "title": "Trump Musk feud explodes with claim president is in Epstein files - ABC News",
-      "pubDate": "Thu, 05 Jun 2025 20:37:30 GMT"
-    },
-    {
       "title": "Trump and Musk break up, and Washington holds its breath - AP News",
       "pubDate": "Fri, 06 Jun 2025 04:02:00 GMT"
     },
@@ -635,6 +631,10 @@
     {
       "title": "Live updates: Iran launches missile counterattack on Israel after punishing airstrikes - USA Today",
       "pubDate": "Fri, 13 Jun 2025 19:14:35 GMT"
+    },
+    {
+      "title": "'We knew everything,' Trump tells Reuters about Israel's strikes on Iran - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 18:14:28 GMT"
     }
   ],
   "ukraine": [
@@ -951,10 +951,6 @@
     {
       "title": "Musk predicts Trump\u2019s tariffs will cause recession amid growing spat with president - The Hill",
       "pubDate": "Thu, 05 Jun 2025 21:26:00 GMT"
-    },
-    {
-      "title": "Audit partner pessimism surges amid risk of recession: CAQ survey - CFO Dive",
-      "pubDate": "Thu, 05 Jun 2025 21:01:34 GMT"
     },
     {
       "title": "Elon Musk warns Donald Trump\u2019s tariffs could trigger recession by late 2025 - Mint",
@@ -1351,6 +1347,10 @@
     {
       "title": "What to Know About the Israeli Strike on Iran - CSIS | Center for Strategic and International Studies",
       "pubDate": "Fri, 13 Jun 2025 13:48:34 GMT"
+    },
+    {
+      "title": "Israel used long-planned subterfuge in attack on Iranian nuclear targets, Israeli sources say - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 16:46:12 GMT"
     }
   ],
   "inflation": [
@@ -1371,10 +1371,6 @@
     {
       "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
       "pubDate": "Fri, 06 Jun 2025 00:11:00 GMT"
-    },
-    {
-      "title": "Top AI talent leaves Google and OpenAI for Anthropic's culture of safety - Chosunbiz",
-      "pubDate": "Thu, 05 Jun 2025 21:00:00 GMT"
     },
     {
       "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN - Al Jazeera",
@@ -2133,10 +2129,6 @@
       "pubDate": "Thu, 05 Jun 2025 23:00:00 GMT"
     },
     {
-      "title": "Trump Says He Discussed Trade, Rare Earths in Call With China\u2019s Xi - WSJ",
-      "pubDate": "Thu, 05 Jun 2025 20:50:00 GMT"
-    },
-    {
       "title": "China's exports likely slowed in May amid trade uncertainties - Reuters poll - Reuters",
       "pubDate": "Fri, 06 Jun 2025 05:57:00 GMT"
     },
@@ -2635,13 +2627,13 @@
     {
       "title": "Nvidia to exclude China from its revenue and profit forecasts - TechCrunch",
       "pubDate": "Fri, 13 Jun 2025 15:34:03 GMT"
+    },
+    {
+      "title": "China Reacts to Israel's Attack on Iran - Newsweek",
+      "pubDate": "Fri, 13 Jun 2025 12:50:02 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Israel assured U.S. it won't strike Iran unless talks fail - Axios",
-      "pubDate": "Thu, 05 Jun 2025 20:44:56 GMT"
-    },
     {
       "title": "Iran orders materials from China that can make some 800 ballistic missiles \u2013 report - The Times of Israel",
       "pubDate": "Fri, 06 Jun 2025 06:38:40 GMT"
@@ -2776,10 +2768,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Elon Musk Says Trump Tariffs Will Cause a Recession - WSJ",
-      "pubDate": "Thu, 05 Jun 2025 20:18:00 GMT"
-    },
     {
       "title": "Elon Musk makes shocking prediction for US economy: 'Donald Trump's tariffs will cause recession in 2025!' - GB News",
       "pubDate": "Fri, 06 Jun 2025 00:08:50 GMT"
@@ -3191,10 +3179,6 @@
   ],
   "hamas": [
     {
-      "title": "Israel \u2018Activated Clans\u2019 to Fight Hamas in Gaza, Netanyahu Says - The New York Times",
-      "pubDate": "Thu, 05 Jun 2025 20:13:12 GMT"
-    },
-    {
       "title": "Netanyahu confirms Israel arming clans opposed to Hamas in Gaza - BBC",
       "pubDate": "Thu, 05 Jun 2025 23:24:19 GMT"
     },
@@ -3379,10 +3363,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Trump admin rebrands AI safety institute in latest oversight move - CIO Dive",
-      "pubDate": "Thu, 05 Jun 2025 20:41:24 GMT"
-    },
-    {
       "title": "Turing Award winner Yoshua Bengio launches AI safety lab - The Daily Star",
       "pubDate": "Fri, 06 Jun 2025 04:06:32 GMT"
     },
@@ -3549,6 +3529,10 @@
     {
       "title": "AM Bores\u2019 + Sen. Gounardes Landmark AI Safety Bill Passes New York State Legislature - Harlem World Magazine",
       "pubDate": "Fri, 13 Jun 2025 16:43:08 GMT"
+    },
+    {
+      "title": "Sen. Gounardes\u2019 AI safety bill clears both chambers of NY legislature - Brooklyn Eagle",
+      "pubDate": "Fri, 13 Jun 2025 20:39:53 GMT"
     }
   ],
   "us_politics": [
@@ -3795,6 +3779,10 @@
     {
       "title": "Republicans back Israeli attack on Iran but some Democrats say it sabotages nuclear talks - The Guardian",
       "pubDate": "Fri, 13 Jun 2025 18:15:00 GMT"
+    },
+    {
+      "title": "House GOP launches probe of China-based billionaire linked to protest groups, including anti-ICE agitators in LA - New York Post",
+      "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3838,10 +3826,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "Elon Musk says SpaceX will decommission Dragon spacecraft after Trump threat - CNBC",
-      "pubDate": "Thu, 05 Jun 2025 20:16:13 GMT"
-    },
     {
       "title": "Musk says SpaceX will retire Dragon spacecraft amid bitter Trump dispute - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 02:23:00 GMT"
@@ -4099,10 +4083,6 @@
   ],
   "cybersecurity_and_infrastructure_security_agency": [
     {
-      "title": "Agencies issue advisory on updated tactics by Play ransomware group - American Hospital Association",
-      "pubDate": "Thu, 05 Jun 2025 20:08:51 GMT"
-    },
-    {
       "title": "Trump cyber executive order drops Biden-era provisions - The Record from Recorded Future News",
       "pubDate": "Mon, 09 Jun 2025 13:46:40 GMT"
     },
@@ -4172,10 +4152,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "BRICS Nations Accelerate Shift Away From U.S. Dollar in Global Trade - AgWeb",
-      "pubDate": "Thu, 05 Jun 2025 20:17:00 GMT"
-    },
     {
       "title": "Russia confirms participation in upcoming BRICS summit in Brazil - Latest news from Azerbaijan",
       "pubDate": "Thu, 12 Jun 2025 10:23:59 GMT"
@@ -4284,10 +4260,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Urgent warning issued for US consumers after security breach of 184,000,000 passwords \u2014 here\u2019s who\u2019s exposed - Yahoo",
-      "pubDate": "Thu, 05 Jun 2025 21:01:00 GMT"
-    },
     {
       "title": "Experts found 4 billion user records online, the largest known leak of Chinese personal data from a single ... - Security Affairs",
       "pubDate": "Sat, 07 Jun 2025 17:39:19 GMT"
@@ -4465,6 +4437,12 @@
     {
       "title": "Global EV Sales Surge Past 7 Million - The EV Report",
       "pubDate": "Fri, 13 Jun 2025 11:38:05 GMT"
+    }
+  ],
+  "national_security": [
+    {
+      "title": "Israel targets Iran's nuclear sites; Trump to meet with national security officials - CBS News",
+      "pubDate": "Fri, 13 Jun 2025 11:00:00 GMT"
     }
   ]
 }
