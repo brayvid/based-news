@@ -635,6 +635,10 @@
     {
       "title": "'We knew everything,' Trump tells Reuters about Israel's strikes on Iran - Reuters",
       "pubDate": "Fri, 13 Jun 2025 18:14:28 GMT"
+    },
+    {
+      "title": "Trump's Truth Social post highlights a key betrayal of farmers. Here's what he omits. - MSNBC News",
+      "pubDate": "Fri, 13 Jun 2025 20:36:45 GMT"
     }
   ],
   "ukraine": [
@@ -947,10 +951,6 @@
     {
       "title": "Musk goes scorched earth: Trump will cause recession, implies he should be impeached - Politico",
       "pubDate": "Thu, 05 Jun 2025 22:09:33 GMT"
-    },
-    {
-      "title": "Musk predicts Trump\u2019s tariffs will cause recession amid growing spat with president - The Hill",
-      "pubDate": "Thu, 05 Jun 2025 21:26:00 GMT"
     },
     {
       "title": "Elon Musk warns Donald Trump\u2019s tariffs could trigger recession by late 2025 - Mint",
@@ -1379,10 +1379,6 @@
     {
       "title": "New research busts 6 AI myths: Artificial intelligence makes workers 'more valuable, not less' - CNBC",
       "pubDate": "Fri, 06 Jun 2025 05:36:38 GMT"
-    },
-    {
-      "title": "Using artificial intelligence to improve health - Harvard T.H. Chan School of Public Health",
-      "pubDate": "Thu, 05 Jun 2025 21:06:12 GMT"
     },
     {
       "title": "OpenAI finds more Chinese groups using ChatGPT for malicious purposes - Reuters",
@@ -1843,6 +1839,10 @@
     {
       "title": "Nvidia is nixing China from its financial forecasts because U.S. restrictions on chip sales have tightened so much, Jensen Huang says - Fortune",
       "pubDate": "Fri, 13 Jun 2025 17:29:00 GMT"
+    },
+    {
+      "title": "AI is Bringing New Hope to the Undiagnosed - Fast Company",
+      "pubDate": "Fri, 13 Jun 2025 20:36:52 GMT"
     }
   ],
   "financial_markets": [
@@ -1945,6 +1945,10 @@
     {
       "title": "Israel launches major strike on Iran: What is the market fallout? - Euronews.com",
       "pubDate": "Fri, 13 Jun 2025 08:14:33 GMT"
+    },
+    {
+      "title": "Oil prices jump 7% and stocks drop as Israel-Iran tensions escalate - CNN",
+      "pubDate": "Fri, 13 Jun 2025 20:06:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1990,10 +1994,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump meets with Germany amidst ongoing trade war - fox10tv.com",
-      "pubDate": "Thu, 05 Jun 2025 21:33:00 GMT"
-    },
     {
       "title": "US jobs market slows down as businesses cope with Trump trade war uncertainty - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 12:34:00 GMT"
@@ -3065,10 +3065,6 @@
       "pubDate": "Fri, 06 Jun 2025 00:02:20 GMT"
     },
     {
-      "title": "A new blood test can tell if cancer has returned months before a scan - National Geographic",
-      "pubDate": "Thu, 05 Jun 2025 21:15:08 GMT"
-    },
-    {
       "title": "Breakthrough vaccine could eradicate breast cancer, shows 75% immune response in trial - New York Post",
       "pubDate": "Sat, 07 Jun 2025 12:15:00 GMT"
     },
@@ -3537,20 +3533,8 @@
   ],
   "us_politics": [
     {
-      "title": "Trump and Musk's relationship flames out just as intensely as it started - AP News",
-      "pubDate": "Thu, 05 Jun 2025 21:31:00 GMT"
-    },
-    {
-      "title": "Musk-Trump breakup puts billions in SpaceX contracts at risk, jolting US space program - Reuters",
-      "pubDate": "Thu, 05 Jun 2025 21:59:19 GMT"
-    },
-    {
       "title": "Senate GOP eyes Medicare cuts to pay for Trump bill - The Hill",
       "pubDate": "Thu, 05 Jun 2025 22:35:00 GMT"
-    },
-    {
-      "title": "House passes legislation requiring SBA offices to leave \u2018sanctuary cities\u2019 - Politico",
-      "pubDate": "Thu, 05 Jun 2025 21:22:35 GMT"
     },
     {
       "title": "Musk says Trump is \u2018in the Epstein files\u2019 in latest dig - The Independent",
@@ -3947,6 +3931,10 @@
     {
       "title": "US Banks \u2018Deeply Concerned\u2019 About Cybersecurity Risk Following Attack on Top Financial Regulator - The Daily Hodl",
       "pubDate": "Thu, 12 Jun 2025 14:31:18 GMT"
+    },
+    {
+      "title": "House Democrats call for GAO probe into CISA and NIST cybersecurity programs - Industrial Cyber",
+      "pubDate": "Fri, 13 Jun 2025 10:49:11 GMT"
     }
   ],
   "elon_musk": [
@@ -4181,6 +4169,10 @@
     {
       "title": "Air India Dreamliner crashes into Ahmedabad college hostel, kills over 290 - Reuters",
       "pubDate": "Thu, 12 Jun 2025 16:29:43 GMT"
+    },
+    {
+      "title": "Israel Attacks Iran News LIVE: Israel Strikes Iran Again, Less Than 24 Hours After Destroying Nuclear Sites - NDTV",
+      "pubDate": "Fri, 13 Jun 2025 18:30:31 GMT"
     }
   ],
   "hurricanes": [
@@ -4241,22 +4233,10 @@
       "pubDate": "Sun, 08 Jun 2025 05:31:59 GMT"
     }
   ],
-  "defense_intelligence_agency": [
-    {
-      "title": "US intelligence worker arrested for \u2018trying to leak secrets to Germany\u2019 - The Times",
-      "pubDate": "Thu, 05 Jun 2025 21:30:00 GMT"
-    }
-  ],
   "openai": [
     {
       "title": "Exclusive: OpenAI taps Google in unprecedented cloud deal despite AI rivalry, sources say - Reuters",
       "pubDate": "Tue, 10 Jun 2025 17:22:17 GMT"
-    }
-  ],
-  "tesla": [
-    {
-      "title": "Tesla shares hit as Trump-Musk feud explodes - BBC",
-      "pubDate": "Thu, 05 Jun 2025 21:46:09 GMT"
     }
   ],
   "data_breach": [
