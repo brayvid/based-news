@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump announces travel ban affecting a dozen countries - AP News",
-      "pubDate": "Thu, 05 Jun 2025 01:47:00 GMT"
-    },
-    {
       "title": "Trump bans nationals from 12 countries, citing security concerns - Reuters",
       "pubDate": "Thu, 05 Jun 2025 02:09:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Live updates: California senator removed after interrupting news conference by Kristi Noem - AP News",
       "pubDate": "Thu, 12 Jun 2025 23:37:00 GMT"
+    },
+    {
+      "title": "Trump vows changes to immigration crackdown to protect migrant farmers, hotel workers - USA Today",
+      "pubDate": "Thu, 12 Jun 2025 16:41:16 GMT"
     }
   ],
   "ukraine": [
@@ -2671,6 +2671,10 @@
     {
       "title": "Three reasons why China can't afford to invade Taiwan - Responsible Statecraft",
       "pubDate": "Thu, 12 Jun 2025 21:20:49 GMT"
+    },
+    {
+      "title": "Taking lessons from Ukraine, Taiwan eyes sea drones to counter China - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 01:05:00 GMT"
     }
   ],
   "iran": [
@@ -2757,6 +2761,10 @@
     {
       "title": "Trump warns a strike on Iran 'could very well happen' if no nuclear deal is signed - NPR",
       "pubDate": "Thu, 12 Jun 2025 21:40:46 GMT"
+    },
+    {
+      "title": "Israeli Strikes Target Iran's Nuclear Program: Live Updates - The New York Times",
+      "pubDate": "Fri, 13 Jun 2025 01:38:00 GMT"
     }
   ],
   "us_economy": [
@@ -3115,6 +3123,10 @@
     {
       "title": "Pancreatic cancer vaccine eradicates trace of disease in early trials - New Atlas",
       "pubDate": "Thu, 12 Jun 2025 10:07:25 GMT"
+    },
+    {
+      "title": "Cancer: World-first 'Trojan horse' therapy to be given on NHS - BBC",
+      "pubDate": "Fri, 13 Jun 2025 00:05:15 GMT"
     }
   ],
   "democratic_party": [
@@ -3198,10 +3210,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Hamas Says US Ceasefire Veto Violates 'American Values' - Newsweek",
-      "pubDate": "Thu, 05 Jun 2025 01:15:54 GMT"
-    },
     {
       "title": "Bodies of two Israeli-American hostages taken in 7 October attack recovered, Netanyahu says \u2013 Israel-Gaza war live - The Guardian",
       "pubDate": "Thu, 05 Jun 2025 07:33:00 GMT"
@@ -3296,10 +3304,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "US Senate Panel Seeks to Cut Unspent US Climate, Clean Energy Funds - U.S. News & World Report",
-      "pubDate": "Thu, 05 Jun 2025 01:53:00 GMT"
-    },
     {
       "title": "Hotter world will drive more wars, EU climate chief warns - Financial Times",
       "pubDate": "Thu, 05 Jun 2025 10:00:13 GMT"
@@ -3411,6 +3415,10 @@
     {
       "title": "Climate Change Could Complicate Anti-Submarine Warfare - The New York Times",
       "pubDate": "Thu, 12 Jun 2025 09:02:35 GMT"
+    },
+    {
+      "title": "A popular climate website will be hobbled, after Trump administration eliminates entire staff - NPR",
+      "pubDate": "Thu, 12 Jun 2025 20:47:02 GMT"
     }
   ],
   "ai_safety": [
@@ -3589,6 +3597,10 @@
     {
       "title": "Mitigating AI security threats: Why the G7 should embrace \u2018federated learning\u2019 - The Conversation",
       "pubDate": "Thu, 12 Jun 2025 16:59:40 GMT"
+    },
+    {
+      "title": "NEXCOM NexCOBOT unit joins NVIDIA Halos AI Systems Inspection Lab - The Robot Report",
+      "pubDate": "Thu, 12 Jun 2025 14:12:56 GMT"
     }
   ],
   "us_politics": [
@@ -3823,6 +3835,10 @@
     {
       "title": "House Republicans vote to claw back $9.4 billion in funding for foreign aid, NPR and PBS - NBC News",
       "pubDate": "Thu, 12 Jun 2025 20:45:28 GMT"
+    },
+    {
+      "title": "Democrats and Republicans point fingers over Sen. Padilla's removal from DHS event - NBC News",
+      "pubDate": "Fri, 13 Jun 2025 01:02:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4311,12 +4327,6 @@
     {
       "title": "Ocean Temperatures Are Increasing Around the World. See Where. - The New York Times",
       "pubDate": "Mon, 09 Jun 2025 08:55:31 GMT"
-    }
-  ],
-  "amazon": [
-    {
-      "title": "Amazon planning $10B investment in North Carolina for data center and AI campus - AP News",
-      "pubDate": "Thu, 05 Jun 2025 01:06:00 GMT"
     }
   ],
   "hacking": [
