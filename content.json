@@ -1,72 +1,52 @@
 {
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Minnesota politician shootings raise concerns in New York State - Newsday",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0pfZnVyWlktVGh2NGtONVBvc1ljVm1mQ2ZQdms5eWJ4bHdjd3loRXZmU0R6cGJ0YWswOHJiNUdhbWZlOVRGSjktQ0o1UXlCWTVSN3V0NDgxMGpsNzdESnZYU3BnLWRMT0xuWmJQbHpGakFnN1dGWTNfbnhyYmlfX1ZaT1N0Tm9PNEdRMXg2bW0wa0V3TFE?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 22:10:21 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
-  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump reports over $600 million in income in latest financial disclosure - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nbU5ZNHFSMHpKd1ZUMTlyWkZjemF0enhXZU5mQ2VxUTdzczhZalkzQzJrOVBrbnl4V0I1WEJKRWU0NlZHWXZfaTY3WTZTSGV5MjhSOGwzMmUxSHhCQUVnQ1ZFdTZndlNiZTRiTnZaUG9UeVVfdWFwcmx3Yw?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 21:49:21 GMT"
+        "title": "Trump presides over military parade as protests take place across US - CNN",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV01sSk9YQmxLLWowQUs1NU9lY3Y1bjZoSVAzVVFhZEhoZTVpcmE5NDZxWWZvaVJ5NlVxaWJaMkNycXlCRWtsc1I0MGlUanZQeVNYRzZxNjctcjRwS21MbXh1RnJ6ajFuQzJjT0JHSVd0MzlCSWVMMkVBQUJvZkVaaW1UX0U5UlF0cEtjSmVUb3o?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 22:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
+    "last_updated_ts": "2025-06-14T23:58:54.543048+00:00"
   },
-  "Israel": {
+  "US Foreign Policy": {
     "articles": [
       {
-        "title": "Israel and Iran strike at each other in new wave of attacks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTAwNDNoY0tsWUdrZ0tGY3pFelJiN2haSTd3a29iWE82cTJrbEtWOXZMTmIwNzVJek5fUjVNQjg1R3JmVFVJNFdOMkdDdDhLMmMzXzIzYVdhV24wcGNoRU1pSG1HRno3eGd1WWRGNEttZy1uekZRNEVhSEg1SGpSLWlKNzEtaWtGN1piVWlZUEc1dFg4Sk9mWnB5LTZqOTVnYkE?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 21:48:34 GMT"
+        "title": "Israel urges U.S. to join war with Iran to eliminate nuclear program - Axios",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BWmU1ZjRTbTgxSktfTWdNN0lfUUNmM2RBTGRZSTFQeFd2Vm9KUFZIcUI2RlVsSFFDMWlXMV9lc0JhWE90OHduX1NWWGh3SFFTSkVXTDJSSm8zdGhsMWV0cE12LW5GR1JXbXBPQnRjYkZUQ2VFZ2pqZ1Vtd2ZoZw?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 22:28:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
+    "last_updated_ts": "2025-06-14T23:58:54.543048+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Minnesota: US politician shot dead and another wounded - as suspect named - Sky News",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRXZPYU4zNFd3ekphbVo0bFpTVlV2bnVZTGJkamNQcVVjMTQxMVhFdU0wQ09aZEY1VkxDa1dpbk52M2VhV2IwREloZmR3aWhzUWtsUEd6blRCb2sxRmFGclM1dDBQbkRwc0gzU084c1liVGllRzRCM1hhRFRXWDVGYmg1cUtGUFVvYm1vQlo0RnZEZFRWS1R3ZUpteHJMQkNBbF9zWVhOTzBnUzc0RmJsS2tRclg4YU5yaEVnUkIxcS1XM2k1cnZycVppU1lXYUVLSTVPZ19BYy1nWlNYU3hETEJKMnMzTG04akFyQw?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 17:15:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T23:58:54.543048+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "The Federal Reserve Against Trump: Who wins the interest rate war? - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1l5TTlBZkp0eGhDTFdPVXIzR2lVWUJjRGo1WkNLOE0xdVJQLU1BSHJmRUlmY1o3WFN1V2J2cXFaUkg5b1F2LXhOM09yWXJhTDh4MVpYb1pUdk12eEc0T2FOakwwb2VmdXExdmZnbDRZYzlzZVFNbjlhYTh1NTlsSFk1MjdXS3pTNkxtVWVJX1Z3Wm1OQ1pJZHVwZUJZdmo4dmYtei1mbVlUT2c3TURBR0NLR2liU3p4bTFSMWhuejNRdjBXSVQ0TkJXSEY5ZDFhajZZOU5wT3VtQQ?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 16:42:02 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T23:58:54.543048+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Investors need to take a leap of faith on artificial intelligence - The Times",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWpWc1dUNFBoM3phRDJYek5vNzVUX3o5NUJCNjc4ajNSWEVRbkJLSkw4aFQyZkppeXEzeWpoRmNYLWlQaGxnRXBzQnRtSlA1NkdFNXVOLTVyT282NE1sbVJobXQ1bS00TkRocjdVSFNTMmVtRkJtb1R2Yk9VRURxeU1iOFN0Nm1NbU1SMVBqb3dXYlB4ckh1cFdVVHFGWVRxbHRjMWxPOEZkSWpRWlJjUjdiYlRNQk44WU9ySW51QlhoUUp1QkVLakJxVWhoZw?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 21:00:00 GMT"
+        "title": "Bitcoin must upgrade or fall victim to quantum computing in 5 years - Cointelegraph",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MVRmMldHeEgya3NDUXNnZFZSTWhPTjdHTjcycnNuU19hNl91ejdKUVktSmtEWVZwWVk0LTJId1EtZk0teG5LUW9zNVlYYXVSd2NHaFRaalpIY0lGRTdQLUx0MlJzUHc?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 15:02:36 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "More Americans Under 50 Are Getting Cancer\u2014Doctors Identify Three Age Groups - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5Zld5RXNsT2JXSUcwazNpVEcxaTlXYkczU1c3NDRaRFlfRWwxd2xZZk1idFRuUFZWRlVEQlpfdzZhc1lwd09PMThBR3JpYTJfaS1rVXppX2tXTC0xSEltOWVPX3U0Sl82QnBXQU5fUGNad2JudlprYmVRNA?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 18:00:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China expresses backing for Tehran, opposition to Israeli strikes in separate calls with Araghchi, Sa'ar - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUG9WeV9FdVlEOWFLZWEwb25CcnVsbGFfdm43VFFfQlMzc3NjNHhvZmRmTEFyUGJPaVlhZmo4dm5NQjV5Y0xvbDBuWlRQV2FrMlJKd2UzV0FfYmY0WWtPVmxXNXRGNzByaVJoX1JEUHMtdVhGZnRvYUZhbTlqc05lQWNxUVVGaTA1SkdWYXBCVFNiUDhuMk13NXBMMW5Sd1ZqeWU1REJPUGw3YkIxQ1dlcHlhOEh1cVZmakZkVEVxU1M1aUNqNUttaDhhZmM3UmdVbTJGN0NSV2VXa0FleXJFbg?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 16:04:17 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
-  },
-  "Energy Storage": {
-    "articles": [
-      {
-        "title": "Scientists make revolutionary breakthrough that could transform energy storage: 'Truly a game-changer' - The Cool Down",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JYNG1UZmhhV2cxZ3FJU2lQZ2xjc1UzVWxUTVRpLUVUS3hyLS1MeXRySmZtYW0xZGVkSzdCempLcDJ5bElrbUVFdHFhcThpS3Q0UlVRR0RwWTV3UFNjVHByeDVPVm00cG5NWkhOZGljUUFEUjdYcmNfNU9yUVFWRXFoVVltUjlCckQxV1ROX1dnQQ?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 14:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T22:59:01.849690+00:00"
+    "last_updated_ts": "2025-06-14T23:58:54.543048+00:00"
   }
 }
