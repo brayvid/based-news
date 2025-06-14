@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump and Musk break up, and Washington holds its breath - AP News",
-      "pubDate": "Fri, 06 Jun 2025 04:02:00 GMT"
-    },
-    {
-      "title": "Musk-Trump fight: The tech billionaire and the president trade barbs - BBC",
-      "pubDate": "Fri, 06 Jun 2025 04:49:28 GMT"
-    },
-    {
       "title": "Trump-Xi call restores trade truce. But the supply chain war has no end in sight - CNN",
       "pubDate": "Fri, 06 Jun 2025 08:14:00 GMT"
     },
@@ -647,6 +639,10 @@
     {
       "title": "Trump Shifts Deportation Focus, Pausing Raids on Farms, Hotels and Eateries - The New York Times",
       "pubDate": "Sat, 14 Jun 2025 02:38:40 GMT"
+    },
+    {
+      "title": "Trump's financial disclosures reveal tens of millions in income from guitars, bibles and watches with his name on them - NBC News",
+      "pubDate": "Fri, 13 Jun 2025 22:48:00 GMT"
     }
   ],
   "ukraine": [
@@ -657,10 +653,6 @@
     {
       "title": "A Russian missile and drone attack across Ukraine kills 4 in the capital - AP News",
       "pubDate": "Fri, 06 Jun 2025 06:51:00 GMT"
-    },
-    {
-      "title": "Russia bombards Kyiv after Putin vows revenge for Operation Spiderweb - The Guardian",
-      "pubDate": "Fri, 06 Jun 2025 04:12:00 GMT"
     },
     {
       "title": "Russia Pummels Kyiv in Apparent Retaliation for Ukrainian Drone Assault - The New York Times",
@@ -1365,10 +1357,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN - Al Jazeera",
-      "pubDate": "Fri, 06 Jun 2025 04:41:15 GMT"
-    },
-    {
       "title": "New research busts 6 AI myths: Artificial intelligence makes workers 'more valuable, not less' - CNBC",
       "pubDate": "Fri, 06 Jun 2025 05:36:38 GMT"
     },
@@ -1855,6 +1843,10 @@
     {
       "title": "The acceptance of ophthalmic artificial intelligence for eye diseases: a literature review and qualitative analysis - Nature",
       "pubDate": "Fri, 13 Jun 2025 22:37:26 GMT"
+    },
+    {
+      "title": "Rates Of Hallucination In AI Models From Google, OpenAI On The Rise - Yahoo Finance",
+      "pubDate": "Fri, 13 Jun 2025 17:31:38 GMT"
     }
   ],
   "financial_markets": [
@@ -1973,6 +1965,10 @@
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq dive, oil surges as Israel and Iran trade strikes - Yahoo Finance",
       "pubDate": "Fri, 13 Jun 2025 20:03:35 GMT"
+    },
+    {
+      "title": "Financial Markets Wall Street - timesdaily.com",
+      "pubDate": "Fri, 13 Jun 2025 19:47:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2019,6 +2015,10 @@
     {
       "title": "US helps defend Israel from Iranian missile attack - Defense News",
       "pubDate": "Fri, 13 Jun 2025 20:42:24 GMT"
+    },
+    {
+      "title": "US Helps Israel Shoot Down Barrage of Iranian Missiles - Military.com",
+      "pubDate": "Fri, 13 Jun 2025 20:48:45 GMT"
     }
   ],
   "trade_war": [
@@ -2821,6 +2821,10 @@
     {
       "title": "Israel hit Iran\u2019s nuclear program \u2013 and Iran hit back. Here\u2019s what we know - CNN",
       "pubDate": "Fri, 13 Jun 2025 22:53:00 GMT"
+    },
+    {
+      "title": "A Miscalculation by Iran Led to Israeli Strikes\u2019 Extensive Toll, Officials Say - The New York Times",
+      "pubDate": "Sat, 14 Jun 2025 02:36:23 GMT"
     }
   ],
   "us_economy": [
@@ -3415,10 +3419,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Turing Award winner Yoshua Bengio launches AI safety lab - The Daily Star",
-      "pubDate": "Fri, 06 Jun 2025 04:06:32 GMT"
-    },
-    {
       "title": "Securing GenAI at Scale for Observability, Guardrails, and Risk - with Leaders from ActiveFence and Barclays - Emerj Artificial Intelligence Research",
       "pubDate": "Fri, 06 Jun 2025 10:08:23 GMT"
     },
@@ -3915,6 +3915,10 @@
     {
       "title": "California\u2019s Faults Are Long Overdue for Major Earthquakes\u2014Scientists Warn of an Imminent Catastrophe - The Daily Galaxy",
       "pubDate": "Thu, 12 Jun 2025 16:15:00 GMT"
+    },
+    {
+      "title": "Magnitude 6.5 earthquake strikes Russia's Kuril Islands, EMSC says - Reuters",
+      "pubDate": "Fri, 13 Jun 2025 19:04:14 GMT"
     }
   ],
   "bitcoin": [
