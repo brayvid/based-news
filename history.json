@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump and Musk\u2019s Unlikely Alliance Breaks Down in Rapid and Public Fashion - The New York Times",
-      "pubDate": "Fri, 06 Jun 2025 00:20:30 GMT"
-    },
-    {
       "title": "Live updates: Trump and Musk trade insults in escalating public feud - NBC News",
       "pubDate": "Fri, 06 Jun 2025 01:32:00 GMT"
     },
@@ -639,17 +635,13 @@
     {
       "title": "Trump Talks Big on Global Diplomacy, but His Goals Are in Tatters - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 16:59:44 GMT"
+    },
+    {
+      "title": "Trump approves U.S. Steel merger with Japan\u2019s Nippon after companies sign national security agreement - CNBC",
+      "pubDate": "Fri, 13 Jun 2025 23:42:12 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia launches aerial assault on Kyiv days after Ukraine\u2019s audacious drone attack on bomber fleet - CNN",
-      "pubDate": "Fri, 06 Jun 2025 00:04:00 GMT"
-    },
-    {
-      "title": "Ukraine under ongoing Russian missile and drone attack that has wounded at least 3 - AP News",
-      "pubDate": "Fri, 06 Jun 2025 00:44:00 GMT"
-    },
     {
       "title": "Russia-Ukraine war live: Kyiv under drone and missile assault after Russia vowed to retaliate for attack on bombers - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 01:17:36 GMT"
@@ -1365,10 +1357,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Move Over Nvidia, Taiwan Semiconductor, and Micron. Brad Gerstner's Altimeter Capital Just Gave Investors 2,999,536 Reasons to Check Out the Hottest Artificial Intelligence (AI) IPO Stock of 2025 - Yahoo Finance",
-      "pubDate": "Fri, 06 Jun 2025 00:11:00 GMT"
-    },
-    {
       "title": "Tech giants see emissions surge 150 percent in 3 years amid AI boom: UN - Al Jazeera",
       "pubDate": "Fri, 06 Jun 2025 04:41:15 GMT"
     },
@@ -1843,6 +1831,10 @@
     {
       "title": "Meta's $14.3 Billion AI Power Play: Why Zuckerberg Just Bet Big on Scale AI - Yahoo",
       "pubDate": "Fri, 13 Jun 2025 17:38:39 GMT"
+    },
+    {
+      "title": "Meta officially \u2018acqui-hires\u2019 Scale AI \u2014 will it draw regulator scrutiny? - Computerworld",
+      "pubDate": "Fri, 13 Jun 2025 20:25:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1953,6 +1945,10 @@
     {
       "title": "Wall St ends sharply lower as Iran retaliates against Israel attack - Reuters",
       "pubDate": "Fri, 13 Jun 2025 20:18:46 GMT"
+    },
+    {
+      "title": "The economic risks of Israel's Iran attack - Axios",
+      "pubDate": "Fri, 13 Jun 2025 15:59:26 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2635,6 +2631,10 @@
     {
       "title": "Bunge's $34 billion Viterra merger clears final China hurdle - Reuters",
       "pubDate": "Fri, 13 Jun 2025 18:43:34 GMT"
+    },
+    {
+      "title": "China Labor Bulletin, a Rights Group in Hong Kong, Shuts Down - The New York Times",
+      "pubDate": "Fri, 13 Jun 2025 18:10:00 GMT"
     }
   ],
   "iran": [
@@ -2777,13 +2777,13 @@
     {
       "title": "Israel-Iran live updates: US helps shoot down missiles heading toward Israel - ABC News",
       "pubDate": "Fri, 13 Jun 2025 22:59:00 GMT"
+    },
+    {
+      "title": "Tel Aviv Hit by Iranian Missile Strikes in Retaliation for Israel's Attacks on Nuclear Sites - Live Updates - WSJ",
+      "pubDate": "Fri, 13 Jun 2025 23:59:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Elon Musk makes shocking prediction for US economy: 'Donald Trump's tariffs will cause recession in 2025!' - GB News",
-      "pubDate": "Fri, 06 Jun 2025 00:08:50 GMT"
-    },
     {
       "title": "US hiring likely slowed to 1,30,000 new jobs last month amid uncertainty over Trumps policies - Mint",
       "pubDate": "Fri, 06 Jun 2025 07:42:36 GMT"
@@ -3771,6 +3771,10 @@
     {
       "title": "Israel\u2019s Strikes on Iran Divide Congress, Drawing Praise and Concern - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 18:17:03 GMT"
+    },
+    {
+      "title": "Republicans Are Divided Over Iran. Will Trump Pick a Side? - The New York Times",
+      "pubDate": "Fri, 13 Jun 2025 22:00:31 GMT"
     }
   ],
   "cryptocurrency": [
