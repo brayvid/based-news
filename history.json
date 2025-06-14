@@ -13,10 +13,6 @@
       "pubDate": "Fri, 06 Jun 2025 23:00:31 GMT"
     },
     {
-      "title": "Newsom floats withholding federal taxes as Trump threatens California - Politico",
-      "pubDate": "Fri, 06 Jun 2025 22:45:05 GMT"
-    },
-    {
       "title": "Will Musk's explosive row with Trump help or harm his businesses? - BBC",
       "pubDate": "Fri, 06 Jun 2025 23:18:39 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump says Putin called to wish him a happy birthday and talk Iran - USA Today",
       "pubDate": "Sat, 14 Jun 2025 20:49:18 GMT"
+    },
+    {
+      "title": "Trump reports over $600 million in income in latest financial disclosure - The Washington Post",
+      "pubDate": "Sat, 14 Jun 2025 21:49:21 GMT"
     }
   ],
   "ukraine": [
@@ -1343,6 +1343,10 @@
     {
       "title": "Israel says attacks on Iran are nothing compared with what is coming - Reuters",
       "pubDate": "Sat, 14 Jun 2025 20:33:23 GMT"
+    },
+    {
+      "title": "Israel and Iran strike at each other in new wave of attacks - Reuters",
+      "pubDate": "Sat, 14 Jun 2025 21:48:34 GMT"
     }
   ],
   "inflation": [
@@ -1360,10 +1364,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Trump scraps Biden software security, AI, post-quantum encryption efforts in new executive order - Cybersecurity Dive",
-      "pubDate": "Fri, 06 Jun 2025 22:52:30 GMT"
-    },
     {
       "title": "Scientists Smash Nuclear Fusion Record, Igniting Hope For Limitless Clean Energy - NDTV",
       "pubDate": "Sat, 07 Jun 2025 06:56:10 GMT"
@@ -1851,6 +1851,10 @@
     {
       "title": "Amazon signs nuclear energy deal to power AI data centers - Cointelegraph",
       "pubDate": "Sat, 14 Jun 2025 21:02:56 GMT"
+    },
+    {
+      "title": "Investors need to take a leap of faith on artificial intelligence - The Times",
+      "pubDate": "Sat, 14 Jun 2025 21:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2151,10 +2155,6 @@
     {
       "title": "China Central Bank Extends Gold-Buying Streak for Seventh Month - Bloomberg",
       "pubDate": "Sat, 07 Jun 2025 02:43:00 GMT"
-    },
-    {
-      "title": "China's driverless lorries hope to expand - BBC",
-      "pubDate": "Fri, 06 Jun 2025 22:38:05 GMT"
     },
     {
       "title": "China Says Progress Made With EU on Electric Vehicle Price Talks - Bloomberg.com",
@@ -2627,6 +2627,10 @@
     {
       "title": "Satellite images show extensive damage that Israeli fighter jets caused at one of Iran's top nuclear facilities - Business Insider",
       "pubDate": "Sat, 14 Jun 2025 17:01:00 GMT"
+    },
+    {
+      "title": "China expresses backing for Tehran, opposition to Israeli strikes in separate calls with Araghchi, Sa'ar - The Times of Israel",
+      "pubDate": "Sat, 14 Jun 2025 16:04:17 GMT"
     }
   ],
   "iran": [
@@ -3115,6 +3119,10 @@
     {
       "title": "Simple blood test detects cancer up to 3 years before symptoms appear - Earth.com",
       "pubDate": "Sat, 14 Jun 2025 09:01:54 GMT"
+    },
+    {
+      "title": "More Americans Under 50 Are Getting Cancer\u2014Doctors Identify Three Age Groups - Newsweek",
+      "pubDate": "Sat, 14 Jun 2025 18:00:01 GMT"
     }
   ],
   "democratic_party": [
@@ -3763,6 +3771,10 @@
     {
       "title": "Protests held nationwide ahead of Trump\u2019s military parade - CNN",
       "pubDate": "Sat, 14 Jun 2025 21:28:00 GMT"
+    },
+    {
+      "title": "Minnesota politician shootings raise concerns in New York State - Newsday",
+      "pubDate": "Sat, 14 Jun 2025 22:10:21 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3897,10 +3909,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Trump revokes digital identity actions in new cyber executive order - Federal News Network",
-      "pubDate": "Fri, 06 Jun 2025 22:57:47 GMT"
-    },
-    {
       "title": "Trump Drops A Cybersecurity Bombshell With Biden-Era Policy Reversal - Forbes",
       "pubDate": "Sat, 07 Jun 2025 13:09:52 GMT"
     },
@@ -3942,10 +3950,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Tesla already had big problems. Then Musk went to battle with Trump - CNBC",
-      "pubDate": "Fri, 06 Jun 2025 22:44:06 GMT"
-    },
     {
       "title": "Caught in Trump-Musk crossfire: Tesla stock sinks amid feud; $380bn wiped out \u2014 among 2025's biggest loss - Times of India",
       "pubDate": "Sat, 07 Jun 2025 03:32:00 GMT"
@@ -4055,10 +4059,6 @@
   ],
   "republican_party": [
     {
-      "title": "The Polling on Elon Musk Is a Warning for Republicans - Politico",
-      "pubDate": "Fri, 06 Jun 2025 22:30:00 GMT"
-    },
-    {
       "title": "MAGA's Grip on Republican Party Wobbles, Poll Suggests - Newsweek",
       "pubDate": "Sat, 07 Jun 2025 12:56:57 GMT"
     },
@@ -4088,10 +4088,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Trump signs orders to bolster US drone defenses, boost supersonic flight - Reuters",
-      "pubDate": "Fri, 06 Jun 2025 22:01:54 GMT"
-    },
     {
       "title": "Trump Signs Orders Intended to Jolt U.S. Drone Manufacturing - The New York Times",
       "pubDate": "Sat, 07 Jun 2025 00:36:26 GMT"
@@ -4423,6 +4419,12 @@
     {
       "title": "Amazon deforestation causing measurable drop in rainfall: study - Yahoo",
       "pubDate": "Sat, 14 Jun 2025 18:44:47 GMT"
+    }
+  ],
+  "energy_storage": [
+    {
+      "title": "Scientists make revolutionary breakthrough that could transform energy storage: 'Truly a game-changer' - The Cool Down",
+      "pubDate": "Sat, 14 Jun 2025 14:30:00 GMT"
     }
   ]
 }
