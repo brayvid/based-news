@@ -643,13 +643,13 @@
     {
       "title": "Trump Live Updates: Latest News on Tariffs, Voter ID and More - The New York Times",
       "pubDate": "Sat, 14 Jun 2025 02:38:00 GMT"
+    },
+    {
+      "title": "Trump Shifts Deportation Focus, Pausing Raids on Farms, Hotels and Eateries - The New York Times",
+      "pubDate": "Sat, 14 Jun 2025 02:38:40 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian drones and missiles mount heavy barrage on Ukraine's capital - Reuters",
-      "pubDate": "Fri, 06 Jun 2025 03:28:00 GMT"
-    },
     {
       "title": "Intense Russian air attack on Ukraine's capital kills four - Reuters",
       "pubDate": "Fri, 06 Jun 2025 05:31:02 GMT"
@@ -932,10 +932,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Elon Musk warns Donald Trump\u2019s tariffs could trigger recession by late 2025 - Mint",
-      "pubDate": "Fri, 06 Jun 2025 03:51:33 GMT"
-    },
     {
       "title": "Data raise the question: Were economists wrong again? - Inquirer.com",
       "pubDate": "Fri, 06 Jun 2025 09:00:01 GMT"
@@ -1347,6 +1343,10 @@
     {
       "title": "Israel Smuggled Explosive Drones Into Iran to Target Weapons - WSJ",
       "pubDate": "Sat, 14 Jun 2025 00:06:36 GMT"
+    },
+    {
+      "title": "Live updates: Israel attacks Iran, explosions in Tel Aviv and Tehran, US position - CNN",
+      "pubDate": "Sat, 14 Jun 2025 03:46:00 GMT"
     }
   ],
   "inflation": [
@@ -1851,6 +1851,10 @@
     {
       "title": "The Deficit Narrative May Find Its Cure In Artificial Intelligence - Seeking Alpha",
       "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
+    },
+    {
+      "title": "The acceptance of ophthalmic artificial intelligence for eye diseases: a literature review and qualitative analysis - Nature",
+      "pubDate": "Fri, 13 Jun 2025 22:37:26 GMT"
     }
   ],
   "financial_markets": [
@@ -2659,6 +2663,10 @@
     {
       "title": "China Labor Bulletin, a Rights Group in Hong Kong, Shuts Down - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 18:10:00 GMT"
+    },
+    {
+      "title": "Trade With China Is Becoming a One-Way Street - WSJ",
+      "pubDate": "Sat, 14 Jun 2025 03:00:00 GMT"
     }
   ],
   "iran": [
@@ -3139,6 +3147,10 @@
     {
       "title": "Blood cancer patients in England first in world to be offered \u2018Trojan horse\u2019 drug - The Guardian",
       "pubDate": "Fri, 13 Jun 2025 06:00:00 GMT"
+    },
+    {
+      "title": "Glyphosate can trigger 'multiple' types of cancer, even at safe levels, says study - Times of India",
+      "pubDate": "Sat, 14 Jun 2025 03:30:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3395,6 +3407,10 @@
     {
       "title": "Trump\u2019s latest budget proposal could gut climate and weather research in Colorado - Colorado Public Radio",
       "pubDate": "Thu, 12 Jun 2025 23:42:11 GMT"
+    },
+    {
+      "title": "New Climate Study Highlights Dire Sea Level Warnings - Inside Climate News",
+      "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -4239,12 +4255,6 @@
     {
       "title": "In a first, UN report calls for urgent action on AGI: What does it mean? - The Indian Express",
       "pubDate": "Thu, 12 Jun 2025 12:12:34 GMT"
-    }
-  ],
-  "world_politics": [
-    {
-      "title": "Trump-Musk meltdown gets Europe gloating - politico.eu",
-      "pubDate": "Fri, 06 Jun 2025 03:03:00 GMT"
     }
   ],
   "oceans": [
