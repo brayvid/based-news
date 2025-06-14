@@ -1,62 +1,72 @@
 {
-  "Iran": {
-    "articles": [
-      {
-        "title": "Live: Iran sends new missile barrage at Israel, Israel renews Iran attacks - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQThiemNGQlpheWNDdmFGOTB1a1E0NXZadW1fT3lFeEZrTFlZbW9rSzFfLWFKR3dQd1pTdFd6aEJRTzcwRmZtdlVjOVp4YndFUHB4RFlTVUlNQmJiY0R6N3FpcmxMT2NaRWhObU5BeWpqbjZxdXEwYjhpc1NTdGpGZmtrckctVWk2OXBRTTUtWXd3c21DdXZaTVlGQ29oQ3VkZS1xcXJrMWhOdVFRdU5OX0UzQ0NHcnhvYldaY3Nn0gHDAUFVX3lxTE83VWVFeEgwNUFMU0d0RktpZTRSQmYwcVg2SUtqZXZHTWZlYWlURUNDcGItcmZDTE1URTNoSDdCbkpxYXh5VkFiUGtOMUtjOVBxbV9zSWZXX0VnbFpTUjFWWE1BZVZWeEZJVWZRcUFtU003dEJMdTdmUTItTjBtTjl0NmY2R0FYemFMV1hkeWdkWGRkQXVGU2ZNUV9vRDJ1anZ4TWR2ZmhVR3NMcEJGU3htWUxHa2xxdnMwWUhxYXQ0NHlzdw?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 20:37:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Israel says attacks on Iran are nothing compared with what is coming - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUNNSHpZRFVlQm1TZC1xSEdzZXJKZk5Rb0pYUm5xQVExcHNnelBubmZYLTJSOUxUVWFCel9vZC1pRG5OUEJKNl90MnlpUHFLMXk4VTlSSURRU1JCZ3JhaGJXbVFFWVItbjI4eUcwOU93MThURE5XVTFfY1RHQlpwT0hrS2g4SkRKV1pQSmxJbzd5Ym1XWGU4c0ZWTHFFMVE4OGdSODNJajhFNUxOYVAyVzlBaVdoZjM2VXN1Z0U0dHo4OF9GeTlCd0F2Yw?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 20:33:23 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump speaks with Putin amid global flareups - Politico",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0JwdkIzeUNITFl6SlI0dlFoVVo3VDR4ZEVSaW1ZbkRheDFyRVl6UGk2bERPNUVoaHFBZ2RtREVFQmhmTnVrX0FaSHA3VzVMRG1yN1FOaGFYMmUxMjlWbHRrTXZfdVJ0UXNNSlkzRWV2dFpzTWdCMWtSSmFtWUZwVS1MdmNMQ0E0R0pnZg?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 20:03:13 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
-  },
-  "Bitcoin": {
-    "articles": [
-      {
-        "title": "SEC clears Trump Media filing, opening door to multi-billion-dollar Bitcoin buy - The Block",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlZPRDlBTjgwUkNyQ18wWGdUdGRteWRSX3BGbXo3Q3JXRU5hdU9BcVlHZHNVdGlFMlAyM1JYN0V4eHRRSkNMVDh1U1hlelRrV0hKRUdSWUl2WTl6LVh2Z01JMVF0ZnFSTnVYVDdrbUNqS2d4R3RRNVc5MU13dURFODZkRGtMYnpDS2VTYUZMejdydWs0Zk50d1k5dFFreG5pVDd2M3lOWGhtZV9IS3kxS1dUclPSAboBQVVfeXFMTUFTVGxQWEo5b3JaREd6bFZXYTl5akh6UHlfZ0h4cFloQVl6aUI5TVBrOVRPZ1dvOW5zLVhIR2N4bVhtMVZ0cHg4YlExWFJKOHZSNF9lOTBzenpFV01TLUZYVGRtZ1Nvc1Z2MG1IZGJXZHR0aWFYWXVRbmIxR2VrUFpiZW1UYnRjX3ZZNWtwWXFKOU5mOVNZbld0UUNyc1kzMEdIRTlNekNMMWwyRy1OM3pQOEYyYzJ0RERB?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 19:01:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
-  },
   "US Politics": {
     "articles": [
       {
-        "title": "Minnesota lawmaker Melissa Hortman killed, State Sen. John Hoffman wounded in 'targeted political violence' - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYW5NcklXV2tXNXBJdkp2VEM1NXlNNnFOdHlRd0M4MEdfVE9mbDRzV0F1aF85N0g0N2JhQm53UkVfVWxqQmxpbmNuR3U3MlZVZVRrOUk4cEU2WmtlWGdoSFhsNy1RczJWVXRxQ3ZXbURsbEFTQ0xuZ3VfYjdsUEN5VVVidWN2RHF3WmZ2aGRhZFVndkZLbXRaekpNZDd2QXUz0gGmAUFVX3lxTE9MYmN4Tk4zeXVGVzdhdmhBUTVQeUdlNXp3N0NtaWVFLUdaalpPTHpOTC1RcldHMTk4MkJwcnNjTFk5cTE3ZGhlSTZQeHp0OTU5NERWS1Q2U29ORzcwaFh5VHgwZkZQY2czZ1FYdm5qQUlINV9zT1JtUzVEQkFzSlBuWXpFT2NWNmU4eEtQQjRnVEJLSG5MRUVyYk1qMUF2R1B4aTFHdnc?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 18:32:18 GMT"
+        "title": "Protests held nationwide ahead of Trump\u2019s military parade - CNN",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV01sSk9YQmxLLWowQUs1NU9lY3Y1bjZoSVAzVVFhZEhoZTVpcmE5NDZxWWZvaVJ5NlVxaWJaMkNycXlCRWtsc1I0MGlUanZQeVNYRzZxNjctcjRwS21MbXh1RnJ6ajFuQzJjT0JHSVd0MzlCSWVMMkVBQUJvZkVaaW1UX0U5UlF0cEtjSmVUb3o?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 21:28:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "How Artificial Intelligence Can Analyze Market Sentiment to Decrypt Public Opinion - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3BfbDN4MWhlMk5WM2hIZHptblhiSTliTVEtV1JhNHU2N3BRN3dwM0haS1lZS003am41ZHBMaXlQQWFJbkVkektFbnc3eDlJTmlkNkp2c0VJQjNHdFhTU2tPeXhla1pLVERNWlJDdzhTMFlGYlpHdGVnUXpJVTFBQkFhaXBMbTloaFNHckdVS0stYmVyM0k3ZUlVUkUtQ2k3aEQ5SmhZTFdzZnB5a2ZCby1fOXkwUjJMRjA5Zmt6eVhZM0hM?oc=5",
-        "pubDate": "Sat, 14 Jun 2025 12:44:15 GMT"
+        "title": "Amazon signs nuclear energy deal to power AI data centers - Cointelegraph",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GaENEOTNCOU0yNUNjSmJabHBYemVfVjFfV0t6WWJqOWFoOGUyUVRyWFdzOHY4aGQxdG5INnNPekU3dEEzd2hVVVFCOWxoNFU4SUMxZWtGYnZMVDM0bVpHREl5UkR6cDF1WVdsMUZ1Umd0NzZsdnpGdUlDOGxzV1E?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 21:02:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-14T20:59:12.039427+00:00"
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump says Putin called to wish him a happy birthday and talk Iran - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREtSZTBicnhYMHA1dG1yRFBrbml4MWVURlZ6alJhcFEzSEd2UzJNNUd1SzhkbC1OMWh3R1FOVTdGdnVuU2hLcUpaOHNhRF92d1hfWlJhRlZRa1VaZnplTXk4UFFwZ0xCN0VKdHBYM3ZFQ0syMnluN2JLWmo4a1M1eURXY2plZWJnQjlPcVpWOEJIS01zMmhQMkUzZGNYVXhOLUd0VzVvMzg?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 20:49:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Zelenskyy warns oil price surge could help Russia\u2019s war effort - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTBLVDN4ZEtFcXhpYW1LU1BGN2RZNXZuSXZZRGlQMzkxeVR1LWFtQTh6VDVpMUt3S0FlR280OUl0ZWNTQnpMZzc4TXRtZTBVQmJLRXJqQmU5bHdpd3VORXVqRkc2SnllbXY4V0RIU0lBcUR5cU5BR0Q3RnRuM1owRElIMWl0R1BPMjdFcWRXeHc0bHhhdFNsUC1QV2xUT0ZHMmc?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 17:08:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
+  },
+  "World News": {
+    "articles": [
+      {
+        "title": "Iran confronts US at UNSC emergency meeting over Israeli strikes - The New Arab",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXYxdTdBd1VpaThIZjR2T2psX3ROV0FOU1BoSXRPN1djeWJEVWN6MWxSWDk5dzdnaF8yLTVWS1lub1dpSVJiSnppREdPMEMzNUV1ZWszR0FPUUY2ZXFFamhEN01fTnVuR19LTkg3WjBXVHpPZEdybURmalQ3aGwyaDN4T1JXWnFtaktDendKdkFia1hI0gGaAUFVX3lxTE5KN0VTTkFncm4zMUdxcWJ5U2tycDEtbVRVQzN0bWd3RXpIblJjZHJvbFlNZ0VqUFZCQXpiYWI3R3I3Qk5BSHZ3S0RySk5GWEVsc2NWSS1FNlhnckNTVWZlSy12TWRqNERlbWw2MXJ0cm05TmpTclllbXBPWGIzNU1ERGhMSEV2SEx3VW5PbHpzZlhQUHpoOG1La1E?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 15:40:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
+  },
+  "Military and Defense": {
+    "articles": [
+      {
+        "title": "IDF says Iran\u2019s military intel, IRGC ballistic missile chiefs killed in strikes - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemJtRFU1NUpVNXlmQ3dXZ2FFNUJIMmN3QUJzU0V4X09nSzRTUFhNNXZGUlZORl9kalVnc1p0MkpkbV9LeDFKTzE2b1FnNkh3QmVfVm92SlZrY0NESHBmN3RWR0djV2JQeURCNkVLTGh2NFR1ME9iV3ZpY0xfRHBDUzR0TVlwUS0yc0hZRGk2NWpnNERRaUV3WlhlT1ZHSDQycXRES0J1ZGVMY0ctOHlfUWlIRDV0N09oZ1lid3dUNTI?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 13:35:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "The situation in the Middle East is a \u2018major wild card\u2019 for the Fed, former Powell adviser says - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdk1pNVY2ZVZEOUZNdWpyUVRtUFk3N0J6TWtUOHFvNTQ3ZS1hXzBWVGh1cVFFLUprWU5nQWpIemZnRktxcXFBcklZd3VpRnFRQmsxUjhkeVh2UVRydnYteVFtZEJ4cEhKTzM2VHpRdHJxQVA4MmlGOFhUcURHOUxKSy1yVDBEZlh3YmpBYnBTLTh3ZnZRdTdXU1hLVTY2UHBFQlJQcUxSYTdFbDlfMHlIMkpTeFBudkkySl83RHYtY3dMNDNRNHhIOHRERmF3LXkz?oc=5",
+        "pubDate": "Sat, 14 Jun 2025 11:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-14T21:59:06.995632+00:00"
   }
 }

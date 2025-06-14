@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump and Musk feud; Kilmar Abrego Garcia news | CNN Politics - CNN",
-      "pubDate": "Fri, 06 Jun 2025 21:15:00 GMT"
-    },
-    {
       "title": "Trump says he has no plans to speak to Musk as feud persists - Reuters",
       "pubDate": "Fri, 06 Jun 2025 23:04:25 GMT"
     },
@@ -647,6 +643,10 @@
     {
       "title": "Trump speaks with Putin amid global flareups - Politico",
       "pubDate": "Sat, 14 Jun 2025 20:03:13 GMT"
+    },
+    {
+      "title": "Trump says Putin called to wish him a happy birthday and talk Iran - USA Today",
+      "pubDate": "Sat, 14 Jun 2025 20:49:18 GMT"
     }
   ],
   "ukraine": [
@@ -917,17 +917,13 @@
     {
       "title": "Ukraine confirms drone strikes on Russian chemical plants tied to explosives production - The Kyiv Independent",
       "pubDate": "Sat, 14 Jun 2025 08:08:29 GMT"
+    },
+    {
+      "title": "Zelenskyy warns oil price surge could help Russia\u2019s war effort - AP News",
+      "pubDate": "Sat, 14 Jun 2025 17:08:00 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "What Recession Fears? Stocks Are Up Again - WSJ",
-      "pubDate": "Fri, 06 Jun 2025 21:34:00 GMT"
-    },
-    {
-      "title": "The Big Four Recession Indicators: May Employment - Advisor Perspectives",
-      "pubDate": "Fri, 06 Jun 2025 21:35:38 GMT"
-    },
     {
       "title": "Federal firings create massive recession in Washington, D.C. - World Socialist Web Site",
       "pubDate": "Fri, 06 Jun 2025 23:53:47 GMT"
@@ -1367,14 +1363,6 @@
     {
       "title": "Trump scraps Biden software security, AI, post-quantum encryption efforts in new executive order - Cybersecurity Dive",
       "pubDate": "Fri, 06 Jun 2025 22:52:30 GMT"
-    },
-    {
-      "title": "AI 'hallucinates' constantly, but there's a solution - Live Science",
-      "pubDate": "Fri, 06 Jun 2025 21:00:00 GMT"
-    },
-    {
-      "title": "What Is Agentic AI? Everything to Know About Artificial Intelligence Agents - CNET",
-      "pubDate": "Fri, 06 Jun 2025 21:01:00 GMT"
     },
     {
       "title": "Scientists Smash Nuclear Fusion Record, Igniting Hope For Limitless Clean Energy - NDTV",
@@ -1859,6 +1847,10 @@
     {
       "title": "How Artificial Intelligence Can Analyze Market Sentiment to Decrypt Public Opinion - Insider Monkey",
       "pubDate": "Sat, 14 Jun 2025 12:44:15 GMT"
+    },
+    {
+      "title": "Amazon signs nuclear energy deal to power AI data centers - Cointelegraph",
+      "pubDate": "Sat, 14 Jun 2025 21:02:56 GMT"
     }
   ],
   "financial_markets": [
@@ -1993,10 +1985,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US imposes new sanctions related to Iran - www.israelhayom.com",
-      "pubDate": "Fri, 06 Jun 2025 21:15:57 GMT"
-    },
-    {
       "title": "U.S. and Kenya Conclude Successful 2025 African Chiefs of Defense Conference in Nairobi - africom.mil",
       "pubDate": "Tue, 10 Jun 2025 12:14:53 GMT"
     },
@@ -2041,10 +2029,6 @@
     {
       "title": "US-China trade war: The beginning of the end? - BBC",
       "pubDate": "Fri, 06 Jun 2025 23:29:44 GMT"
-    },
-    {
-      "title": "Trump tariffs live updates: US, China set for next round of talks after Trump-Xi call - Yahoo Finance",
-      "pubDate": "Fri, 06 Jun 2025 21:31:26 GMT"
     },
     {
       "title": "Trump-Xi phone call maintains fragile trade war truce - World Socialist Web Site",
@@ -2156,10 +2140,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Buyer With Ties to Chinese Communist Party Got V.I.P. Treatment at Trump Crypto Dinner - The New York Times",
-      "pubDate": "Fri, 06 Jun 2025 21:04:55 GMT"
-    },
     {
       "title": "Watch What to Expect From US, China Trade Talks Monday? - Bloomberg.com",
       "pubDate": "Sat, 07 Jun 2025 00:29:00 GMT"
@@ -3083,6 +3063,10 @@
     {
       "title": "Map Shows US States With Best\u2014And Worst\u2014Economies - Newsweek",
       "pubDate": "Sat, 14 Jun 2025 09:00:01 GMT"
+    },
+    {
+      "title": "The situation in the Middle East is a \u2018major wild card\u2019 for the Fed, former Powell adviser says - MarketWatch",
+      "pubDate": "Sat, 14 Jun 2025 11:00:00 GMT"
     }
   ],
   "terrorism": [
@@ -3557,10 +3541,6 @@
       "pubDate": "Fri, 06 Jun 2025 23:29:12 GMT"
     },
     {
-      "title": "\"He's a lunatic\": Democrats shut down idea of Musk alliance after break with Trump - Axios",
-      "pubDate": "Fri, 06 Jun 2025 21:51:36 GMT"
-    },
-    {
       "title": "Republicans fume as Elon Musk complicates tax bill path - The Washington Post",
       "pubDate": "Sat, 07 Jun 2025 04:16:49 GMT"
     },
@@ -3779,6 +3759,10 @@
     {
       "title": "Minnesota lawmaker Melissa Hortman killed, State Sen. John Hoffman wounded in 'targeted political violence' - ABC News",
       "pubDate": "Sat, 14 Jun 2025 18:32:18 GMT"
+    },
+    {
+      "title": "Protests held nationwide ahead of Trump\u2019s military parade - CNN",
+      "pubDate": "Sat, 14 Jun 2025 21:28:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4195,6 +4179,10 @@
     {
       "title": "Israel hit Iran's nuclear sites and killed its top military commanders, Iran retaliated - as it happened - Reuters",
       "pubDate": "Sat, 14 Jun 2025 03:43:15 GMT"
+    },
+    {
+      "title": "Iran confronts US at UNSC emergency meeting over Israeli strikes - The New Arab",
+      "pubDate": "Sat, 14 Jun 2025 15:40:40 GMT"
     }
   ],
   "hurricanes": [
@@ -4391,6 +4379,10 @@
     {
       "title": "Israel targets Iranian military leaders, nuclear sites in wave of strikes: IDF - Breaking Defense",
       "pubDate": "Fri, 13 Jun 2025 12:38:13 GMT"
+    },
+    {
+      "title": "IDF says Iran\u2019s military intel, IRGC ballistic missile chiefs killed in strikes - The Times of Israel",
+      "pubDate": "Sat, 14 Jun 2025 13:35:26 GMT"
     }
   ],
   "military_intelligence": [
