@@ -643,13 +643,13 @@
     {
       "title": "Trump's financial disclosures reveal tens of millions in income from guitars, bibles and watches with his name on them - NBC News",
       "pubDate": "Fri, 13 Jun 2025 22:48:00 GMT"
+    },
+    {
+      "title": "Hundreds of \u2018No Kings\u2019 protests and rallies planned for Saturday over Trump\u2019s policies - AP News",
+      "pubDate": "Fri, 13 Jun 2025 23:47:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Intense Russian air attack on Ukraine's capital kills four - Reuters",
-      "pubDate": "Fri, 06 Jun 2025 05:31:02 GMT"
-    },
     {
       "title": "A Russian missile and drone attack across Ukraine kills 4 in the capital - AP News",
       "pubDate": "Fri, 06 Jun 2025 06:51:00 GMT"
@@ -1339,6 +1339,10 @@
     {
       "title": "Live updates: Israel attacks Iran, explosions in Tel Aviv and Tehran, US position - CNN",
       "pubDate": "Sat, 14 Jun 2025 03:46:00 GMT"
+    },
+    {
+      "title": "Live updates: Iranian missiles target Israel in retaliation for earlier strikes - The Washington Post",
+      "pubDate": "Sat, 14 Jun 2025 05:04:01 GMT"
     }
   ],
   "inflation": [
@@ -1357,10 +1361,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "New research busts 6 AI myths: Artificial intelligence makes workers 'more valuable, not less' - CNBC",
-      "pubDate": "Fri, 06 Jun 2025 05:36:38 GMT"
-    },
-    {
       "title": "OpenAI finds more Chinese groups using ChatGPT for malicious purposes - Reuters",
       "pubDate": "Fri, 06 Jun 2025 09:39:37 GMT"
     },
@@ -1375,10 +1375,6 @@
     {
       "title": "EU could postpone flagship AI rules, tech chief says - politico.eu",
       "pubDate": "Fri, 06 Jun 2025 13:35:43 GMT"
-    },
-    {
-      "title": "\u2018Godfather of AI\u2019 now fears it\u2019s unsafe and has a plan to fix it - Asia Times",
-      "pubDate": "Fri, 06 Jun 2025 05:01:15 GMT"
     },
     {
       "title": "AI risks 'broken' career ladder for college graduates, some experts say - ABC News",
@@ -1847,6 +1843,10 @@
     {
       "title": "Rates Of Hallucination In AI Models From Google, OpenAI On The Rise - Yahoo Finance",
       "pubDate": "Fri, 13 Jun 2025 17:31:38 GMT"
+    },
+    {
+      "title": "Altman pines for 'gentle singularity' and Meta makes $14 billion bet: Week in AI - San Francisco Business Times - The Business Journals",
+      "pubDate": "Fri, 13 Jun 2025 21:20:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2152,10 +2152,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's exports likely slowed in May amid trade uncertainties - Reuters poll - Reuters",
-      "pubDate": "Fri, 06 Jun 2025 05:57:00 GMT"
-    },
     {
       "title": "Iran Importing Missile Fuel From China as US Tensions Rise: Report - Newsweek",
       "pubDate": "Fri, 06 Jun 2025 08:44:30 GMT"
@@ -2667,6 +2663,10 @@
     {
       "title": "Trade With China Is Becoming a One-Way Street - WSJ",
       "pubDate": "Sat, 14 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "title": "Boeing resumes China deliveries with 787-9 jet to Juneyao Airlines, Yicai reports - Reuters",
+      "pubDate": "Sat, 14 Jun 2025 04:35:00 GMT"
     }
   ],
   "iran": [
@@ -2825,6 +2825,10 @@
     {
       "title": "A Miscalculation by Iran Led to Israeli Strikes\u2019 Extensive Toll, Officials Say - The New York Times",
       "pubDate": "Sat, 14 Jun 2025 02:36:23 GMT"
+    },
+    {
+      "title": "Israel's endgame may be regime change in Iran - but it's a gamble - BBC",
+      "pubDate": "Sat, 14 Jun 2025 02:46:19 GMT"
     }
   ],
   "us_economy": [
@@ -3819,6 +3823,10 @@
     {
       "title": "Republicans Are Divided Over Iran. Will Trump Pick a Side? - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 22:00:31 GMT"
+    },
+    {
+      "title": "US Senate seeks to add expanded compensation for nuclear radiation victims to tax bill - ABC News",
+      "pubDate": "Sat, 14 Jun 2025 02:27:42 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4327,18 +4335,6 @@
       "pubDate": "Fri, 06 Jun 2025 10:08:02 GMT"
     }
   ],
-  "\"climate_engineering\"": [
-    {
-      "title": "US Researcher Proposes Detonating Massive Nuclear Bomb Under Ocean To Save Earth - NDTV",
-      "pubDate": "Fri, 06 Jun 2025 05:55:22 GMT"
-    }
-  ],
-  "\"china\"": [
-    {
-      "title": "The world could be facing another \u2018China shock,\u2019 but it comes with a silver-lining - CNBC",
-      "pubDate": "Fri, 06 Jun 2025 05:23:21 GMT"
-    }
-  ],
   "biology": [
     {
       "title": "Ancient Protein Breaks Biological Rules by Working in a Mirror World - SciTechDaily",
@@ -4473,6 +4469,12 @@
     {
       "title": "Scientists discover strong, unexpected link between Earth's magnetic field and oxygen levels - Live Science",
       "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
+    }
+  ],
+  "political_corruption": [
+    {
+      "title": "Former Illinois House Speaker Michael Madigan given 7 1/2 years in federal corruption case - WQAD",
+      "pubDate": "Fri, 13 Jun 2025 21:58:00 GMT"
     }
   ]
 }
