@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Kristi Noem: the made-for-TV official executing Trump\u2019s mass deportations - The Guardian",
-      "pubDate": "Sat, 07 Jun 2025 12:01:00 GMT"
-    },
-    {
       "title": "Elon Musk post claiming that Donald Trump appears in Epstein files removed from X - Sky News",
       "pubDate": "Sat, 07 Jun 2025 14:58:52 GMT"
     },
@@ -647,17 +643,13 @@
     {
       "title": "Trump threatens Iran with retaliation \u2018at levels never seen before\u2019 - politico.eu",
       "pubDate": "Sun, 15 Jun 2025 09:40:00 GMT"
+    },
+    {
+      "title": "Trump, in reversal, may exempt farms and hotels from immigration raids - NBC News",
+      "pubDate": "Sun, 15 Jun 2025 12:00:13 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Pummels Kharkiv With Drones and Bombs, Ukraine Says - The New York Times",
-      "pubDate": "Sat, 07 Jun 2025 12:08:55 GMT"
-    },
-    {
-      "title": "The many ways that Ukraine carries out drone attacks never seen before - NPR",
-      "pubDate": "Sat, 07 Jun 2025 12:04:20 GMT"
-    },
     {
       "title": "Russian attacks on Ukraine kill five as prisoner swap hangs in balance - Al Jazeera",
       "pubDate": "Sat, 07 Jun 2025 17:08:25 GMT"
@@ -917,6 +909,10 @@
     {
       "title": "Russia says it struck oil refinery that supplies Ukrainian army with fuel - Reuters",
       "pubDate": "Sun, 15 Jun 2025 10:15:34 GMT"
+    },
+    {
+      "title": "Russia launches fresh massive aerial attack on Ukraine. 2 Khinzal missiles downed - Euronews.com",
+      "pubDate": "Sun, 15 Jun 2025 11:15:18 GMT"
     }
   ],
   "recession": [
@@ -1103,13 +1099,13 @@
     {
       "title": "The optimism recession: Why American workforce is worried now more than ever despite stable jobs - Times of India",
       "pubDate": "Sat, 14 Jun 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Will the Fed Rescue Markets from Recession Fears? | Macro Money - MSN",
+      "pubDate": "Sun, 15 Jun 2025 12:21:19 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Kharkiv hit by \u2018most powerful attack\u2019 of entire war, mayor says, as Russia pounds Ukraine again - CNN",
-      "pubDate": "Sat, 07 Jun 2025 12:09:00 GMT"
-    },
     {
       "title": "As Putin ramps up his summer offensive in Ukraine, will he succeed? - The Independent",
       "pubDate": "Sat, 07 Jun 2025 13:55:00 GMT"
@@ -1371,6 +1367,10 @@
     {
       "title": "Israel Bombards Tehran, Setting Oil Facilities Ablaze - The New York Times",
       "pubDate": "Sun, 15 Jun 2025 06:01:00 GMT"
+    },
+    {
+      "title": "LIVE: Iran defends retaliatory strikes on Israel; new blasts rock Tehran - Al Jazeera",
+      "pubDate": "Sun, 15 Jun 2025 06:14:58 GMT"
     }
   ],
   "inflation": [
@@ -1396,10 +1396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft to rank \u2018safety\u2019 of AI models sold to cloud customers - Financial Times",
-      "pubDate": "Sat, 07 Jun 2025 12:00:07 GMT"
-    },
     {
       "title": "How does ChatGPT know so much about everything? Here's where AI gets its knowledge from - TechRadar",
       "pubDate": "Sat, 07 Jun 2025 15:00:00 GMT"
@@ -2229,14 +2225,6 @@
       "pubDate": "Sat, 07 Jun 2025 15:16:13 GMT"
     },
     {
-      "title": "US-China trade talks in London \u2018positive step\u2019 but rough road ahead: analysts - South China Morning Post",
-      "pubDate": "Sat, 07 Jun 2025 12:42:30 GMT"
-    },
-    {
-      "title": "Chinese-Owned Company Halts Work on Factory to Make Batteries in U.S. - WSJ",
-      "pubDate": "Sat, 07 Jun 2025 12:00:00 GMT"
-    },
-    {
       "title": "China makes progress in power generation, storage on Mars - news.cgtn.com",
       "pubDate": "Sat, 07 Jun 2025 13:15:05 GMT"
     },
@@ -2683,6 +2671,10 @@
     {
       "title": "China considers lifting sanctions on UK parliamentarians as relations warm - The Guardian",
       "pubDate": "Sun, 15 Jun 2025 09:01:00 GMT"
+    },
+    {
+      "title": "China\u2019s extreme heat shield breaks thermal limit on hypersonic flight - South China Morning Post",
+      "pubDate": "Sun, 15 Jun 2025 12:00:08 GMT"
     }
   ],
   "iran": [
@@ -3139,6 +3131,10 @@
     {
       "title": "US Federal Reserve Expected to Hold Rates Despite Trump\u2019s Push - News Central TV",
       "pubDate": "Sun, 15 Jun 2025 05:18:51 GMT"
+    },
+    {
+      "title": "Trump has a plan to remake the housing-finance system. It\u2019s baffling to many lawmakers and experts. - Politico",
+      "pubDate": "Sun, 15 Jun 2025 11:00:00 GMT"
     }
   ],
   "terrorism": [
@@ -3148,10 +3144,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Breakthrough vaccine could eradicate breast cancer, shows 75% immune response in trial - New York Post",
-      "pubDate": "Sat, 07 Jun 2025 12:15:00 GMT"
-    },
     {
       "title": "A epitranscriptome for prostate cancer - Nature",
       "pubDate": "Mon, 09 Jun 2025 11:40:59 GMT"
@@ -3605,6 +3597,10 @@
     {
       "title": "New York Steps Up with First-of-Its-Kind AI Safety Legislation - CoinCentral",
       "pubDate": "Sun, 15 Jun 2025 05:17:34 GMT"
+    },
+    {
+      "title": "New York State passes RAISE Act for frontier AI models - The Economic Times",
+      "pubDate": "Sun, 15 Jun 2025 11:47:22 GMT"
     }
   ],
   "us_politics": [
@@ -4120,10 +4116,6 @@
     }
   ],
   "republican_party": [
-    {
-      "title": "MAGA's Grip on Republican Party Wobbles, Poll Suggests - Newsweek",
-      "pubDate": "Sat, 07 Jun 2025 12:56:57 GMT"
-    },
     {
       "title": "Trump-backed Simmons sins second term as NC\u2019s GOP chairman - WRAL.com",
       "pubDate": "Sat, 07 Jun 2025 23:35:19 GMT"
