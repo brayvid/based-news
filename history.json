@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump says relationship with Musk is over - BBC",
-      "pubDate": "Sat, 07 Jun 2025 19:59:28 GMT"
-    },
-    {
       "title": "Trump threatens 'very serious consequences' if Elon Musk finances Republican challengers - USA Today",
       "pubDate": "Sat, 07 Jun 2025 21:14:17 GMT"
     },
@@ -643,6 +639,10 @@
     {
       "title": "Trump says he 'may' call Walz after Minnesota shootings, calls him 'grossly incompetent' - ABC News",
       "pubDate": "Sun, 15 Jun 2025 18:33:45 GMT"
+    },
+    {
+      "title": "Majority of Americans disapprove of Trump admin, but he leads on immigration: new poll - USA Today",
+      "pubDate": "Sun, 15 Jun 2025 19:27:24 GMT"
     }
   ],
   "ukraine": [
@@ -1201,6 +1201,10 @@
     {
       "title": "Russia reports Ukrainian drone attack on drone factory in Tatarstan - The Kyiv Independent",
       "pubDate": "Sun, 15 Jun 2025 16:25:27 GMT"
+    },
+    {
+      "title": "Russia air attack damaged Boeing offices in Ukraine - Financial Times",
+      "pubDate": "Sun, 15 Jun 2025 10:00:32 GMT"
     }
   ],
   "israel": [
@@ -1392,14 +1396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Got $3,000? 1 Artificial Intelligence (AI) Stock to Buy and Hold for the Long Term. - Yahoo Finance",
-      "pubDate": "Sat, 07 Jun 2025 20:00:00 GMT"
-    },
-    {
-      "title": "AI leaders have a new term for the fact that their models are not always so intelligent - Business Insider",
-      "pubDate": "Sat, 07 Jun 2025 20:55:00 GMT"
-    },
     {
       "title": "Apple under pressure to shine after AI stumble - The Economic Times",
       "pubDate": "Sun, 08 Jun 2025 03:38:39 GMT"
@@ -1907,6 +1903,10 @@
     {
       "title": "2 Artificial Intelligence (AI) Cloud Stocks to Buy in June - MSN",
       "pubDate": "Sun, 15 Jun 2025 09:31:43 GMT"
+    },
+    {
+      "title": "\"Summoning the demon\": Steve Bannon stokes fear of an AI \"apocalypse\" - Salon.com",
+      "pubDate": "Sun, 15 Jun 2025 09:45:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2099,6 +2099,10 @@
     {
       "title": "Israel urges U.S. to join war with Iran to eliminate nuclear program - Axios",
       "pubDate": "Sat, 14 Jun 2025 22:28:28 GMT"
+    },
+    {
+      "title": "Gasoline Prices Likely to Rise as Israel Targets Iran\u2019s Energy Infrastructure - The New York Times",
+      "pubDate": "Sun, 15 Jun 2025 20:13:13 GMT"
     }
   ],
   "trade_war": [
@@ -2663,6 +2667,10 @@
     {
       "title": "Cairo calling: why Chinese factories are moving to Egypt amid the trade war - South China Morning Post",
       "pubDate": "Sun, 15 Jun 2025 11:00:10 GMT"
+    },
+    {
+      "title": "Taiwan adds China's Huawei and SMIC to export control list - Reuters",
+      "pubDate": "Sun, 15 Jun 2025 13:36:50 GMT"
     }
   ],
   "iran": [
@@ -2868,10 +2876,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Campbell\u2019s says soup sales are soaring\u2014and that\u2019s actually a sign the U.S. economy is in a downturn, data shows - MSN",
-      "pubDate": "Sat, 07 Jun 2025 20:22:42 GMT"
-    },
     {
       "title": "The U.S. Economy Is Headed Toward an Uncomfortable Summer - WSJ",
       "pubDate": "Sun, 08 Jun 2025 01:00:00 GMT"
@@ -3275,16 +3279,8 @@
   ],
   "hamas": [
     {
-      "title": "Hamas issues new photo of hostage Matan Zangauker, threatens execution if troops come near - The Times of Israel",
-      "pubDate": "Sat, 07 Jun 2025 20:18:03 GMT"
-    },
-    {
       "title": "At least 90 people in Gaza dead amid Israeli attacks, Hamas-run health ministry says - CBS News",
       "pubDate": "Sat, 07 Jun 2025 22:45:00 GMT"
-    },
-    {
-      "title": "Six killed by Israeli gunfire near Gaza aid site, Hamas officials say - BBC",
-      "pubDate": "Sat, 07 Jun 2025 20:47:02 GMT"
     },
     {
       "title": "Israeli military says it struck Hamas member in southern Syria - Reuters",
@@ -3443,13 +3439,13 @@
     {
       "title": "Why nuclear war, not the climate crisis, is humanity\u2019s biggest threat, according to one author - The Guardian",
       "pubDate": "Sun, 15 Jun 2025 11:01:00 GMT"
+    },
+    {
+      "title": "Ukraine war pumps 180M tons of CO2 into atmosphere, causing $33B in damage - Ukrainian climatologist - RBC-Ukraine",
+      "pubDate": "Sun, 15 Jun 2025 17:40:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Microsoft (MSFT) Introduces AI Safety Ranking System - GuruFocus",
-      "pubDate": "Sat, 07 Jun 2025 20:35:22 GMT"
-    },
     {
       "title": "Microsoft to Rank AI Models by Safety in Bid to Boost Customer Trust - Sri Lanka Guardian",
       "pubDate": "Sun, 08 Jun 2025 04:03:24 GMT"
@@ -3595,10 +3591,6 @@
     {
       "title": "US foreign policy - The Guardian",
       "pubDate": "Sat, 07 Jun 2025 22:24:55 GMT"
-    },
-    {
-      "title": "Trump asks Supreme Court to allow Education Department purge - Boston Herald",
-      "pubDate": "Sat, 07 Jun 2025 20:34:40 GMT"
     },
     {
       "title": "Trump v Elon Musk may deliver one true winner: JD Vance - The Times",
@@ -3843,6 +3835,10 @@
     {
       "title": "Minnesota killings spread fear in country riven by violence against politicians - The Washington Post",
       "pubDate": "Sun, 15 Jun 2025 17:45:17 GMT"
+    },
+    {
+      "title": "Trump should immediately push Russia sanctions, Sen. Blumenthal says - Politico",
+      "pubDate": "Sun, 15 Jun 2025 17:58:12 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3887,12 +3883,6 @@
     {
       "title": "The Largest US Offshore Wind Project is Ready to Go Despite Trump\u2019s Vendetta - Sierra Club",
       "pubDate": "Sun, 15 Jun 2025 09:04:27 GMT"
-    }
-  ],
-  "spacex": [
-    {
-      "title": "NASA, Pentagon push for SpaceX alternatives amid Trump\u2019s feud with Musk - The Washington Post",
-      "pubDate": "Sat, 07 Jun 2025 20:53:34 GMT"
     }
   ],
   "earthquakes": [
@@ -3969,10 +3959,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Trump administration takes aim at Biden and Obama cybersecurity rules - TechCrunch",
-      "pubDate": "Sat, 07 Jun 2025 20:32:42 GMT"
-    },
-    {
       "title": "US infrastructure could crumble under cyberattack, ex-NSA advisor warns - theregister.com",
       "pubDate": "Sun, 08 Jun 2025 22:01:00 GMT"
     },
@@ -4006,10 +3992,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "'Terrifying' Impact of Trump-Musk Breakup on National Security and Space Programs - The Daily Beast",
-      "pubDate": "Sat, 07 Jun 2025 20:52:00 GMT"
-    },
     {
       "title": "Surprising Trump-Musk rift worsens a huge Tesla problem - TheStreet",
       "pubDate": "Sat, 07 Jun 2025 22:37:00 GMT"
