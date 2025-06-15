@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump\u2019s immigration crackdown hits warp speed - Politico",
-      "pubDate": "Sat, 07 Jun 2025 11:00:00 GMT"
-    },
-    {
       "title": "Kristi Noem: the made-for-TV official executing Trump\u2019s mass deportations - The Guardian",
       "pubDate": "Sat, 07 Jun 2025 12:01:00 GMT"
     },
@@ -35,10 +31,6 @@
     {
       "title": "Trump threatens 'very serious consequences' if Elon Musk finances Republican challengers - USA Today",
       "pubDate": "Sat, 07 Jun 2025 21:14:17 GMT"
-    },
-    {
-      "title": "Opinion | A Comprehensive Accounting of Trump\u2019s Culture of Corruption - The New York Times",
-      "pubDate": "Sat, 07 Jun 2025 11:00:03 GMT"
     },
     {
       "title": "Trump-Musk row fuels 'biggest crisis ever' at Nasa - BBC",
@@ -651,6 +643,10 @@
     {
       "title": "Trump holds military parade amid \u2018No Kings\u2019 protests across US - Al Jazeera",
       "pubDate": "Sun, 15 Jun 2025 07:07:29 GMT"
+    },
+    {
+      "title": "Trump threatens Iran with retaliation \u2018at levels never seen before\u2019 - politico.eu",
+      "pubDate": "Sun, 15 Jun 2025 09:40:00 GMT"
     }
   ],
   "ukraine": [
@@ -1225,6 +1221,10 @@
     {
       "title": "Russia is shifting tactics again, assaulting Ukrainian cities with swarms of killer drones - CNN",
       "pubDate": "Sun, 15 Jun 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Russia Says It Struck Kremenchuk Oil Refinery in Central Ukraine - Bloomberg.com",
+      "pubDate": "Sun, 15 Jun 2025 11:01:20 GMT"
     }
   ],
   "israel": [
@@ -1367,6 +1367,10 @@
     {
       "title": "Israel Bombed World's Largest Gas Field In Iran. Why It Is A Big Deal - NDTV",
       "pubDate": "Sun, 15 Jun 2025 05:22:18 GMT"
+    },
+    {
+      "title": "Israel Bombards Tehran, Setting Oil Facilities Ablaze - The New York Times",
+      "pubDate": "Sun, 15 Jun 2025 06:01:00 GMT"
     }
   ],
   "inflation": [
@@ -1395,14 +1399,6 @@
     {
       "title": "Microsoft to rank \u2018safety\u2019 of AI models sold to cloud customers - Financial Times",
       "pubDate": "Sat, 07 Jun 2025 12:00:07 GMT"
-    },
-    {
-      "title": "UK judge sounds alarm on AI misuse in courts - politico.eu",
-      "pubDate": "Sat, 07 Jun 2025 11:44:47 GMT"
-    },
-    {
-      "title": "The Nasdaq Bounces Back: 2 Artificial Intelligence (AI) Stocks Worth Buying Right Now - Nasdaq",
-      "pubDate": "Sat, 07 Jun 2025 11:30:00 GMT"
     },
     {
       "title": "How does ChatGPT know so much about everything? Here's where AI gets its knowledge from - TechRadar",
@@ -1911,6 +1907,10 @@
     {
       "title": "UN Flags Risks Of Advancing Human-Like AI, Calls For Urgent Action - Oneindia",
       "pubDate": "Sun, 15 Jun 2025 09:04:42 GMT"
+    },
+    {
+      "title": "Warren Buffett Has $90 Billion Invested in These 9 Artificial Intelligence (AI) Stocks. Here's the Best of the Bunch. - The Globe and Mail",
+      "pubDate": "Sun, 15 Jun 2025 09:58:30 GMT"
     }
   ],
   "financial_markets": [
@@ -2881,6 +2881,10 @@
     {
       "title": "Ten killed in Iranian strikes on Israel as Trump threatens Tehran with \u2018full strength\u2019 of military if it attacks US \u2013 live updates - The Guardian",
       "pubDate": "Sun, 15 Jun 2025 09:48:00 GMT"
+    },
+    {
+      "title": "Iran launches new round of missiles, as Israel carries out strikes on targets in Tehran - CBS News",
+      "pubDate": "Sun, 15 Jun 2025 02:52:17 GMT"
     }
   ],
   "us_economy": [
@@ -3895,6 +3899,10 @@
     {
       "title": "Republican Concerns Over Clean Energy Tax Credit Phaseout - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Fri, 13 Jun 2025 21:00:00 GMT"
+    },
+    {
+      "title": "The Largest US Offshore Wind Project is Ready to Go Despite Trump\u2019s Vendetta - Sierra Club",
+      "pubDate": "Sun, 15 Jun 2025 09:04:27 GMT"
     }
   ],
   "spacex": [
@@ -4030,10 +4038,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Musk deletes Epstein tweet after Trump rift - The Telegraph",
-      "pubDate": "Sat, 07 Jun 2025 11:55:00 GMT"
-    },
     {
       "title": "Elon Musk appears to delete some explosive X posts amid feud with Trump - CNBC",
       "pubDate": "Sat, 07 Jun 2025 15:39:29 GMT"
@@ -4461,6 +4465,10 @@
     {
       "title": "Scientists discover strong, unexpected link between Earth's magnetic field and oxygen levels - Live Science",
       "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Scientists Solve 50-Year Mystery of Strange Zone Deep Inside Earth - SciTechDaily",
+      "pubDate": "Sun, 15 Jun 2025 10:29:10 GMT"
     }
   ],
   "political_corruption": [
