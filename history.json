@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Elon Musk post claiming that Donald Trump appears in Epstein files removed from X - Sky News",
-      "pubDate": "Sat, 07 Jun 2025 14:58:52 GMT"
-    },
-    {
       "title": "Trump says Musk will face 'serious consequences' if he funds Democratic candidates - NBC News",
       "pubDate": "Sat, 07 Jun 2025 16:26:00 GMT"
     },
@@ -655,6 +651,10 @@
     {
       "title": "Trump's Harvard battle is making some students consider European universities instead - Business Insider",
       "pubDate": "Sun, 15 Jun 2025 09:17:00 GMT"
+    },
+    {
+      "title": "Poll: Americans disapprove of Trump's performance, as Republicans manage splits over spending plans - NBC News",
+      "pubDate": "Sun, 15 Jun 2025 13:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -917,10 +917,6 @@
   ],
   "recession": [
     {
-      "title": "Will Trump\u2019s \u2018Big, Beautiful Bill\u2019 Lead to Recession in 2025? - TODAY.com",
-      "pubDate": "Sat, 07 Jun 2025 15:39:27 GMT"
-    },
-    {
       "title": "The existing formula that compact cars sell well in the economic recession is expected to be broken - \ub9e4\uc77c\uacbd\uc81c",
       "pubDate": "Sun, 08 Jun 2025 03:57:08 GMT"
     },
@@ -1106,10 +1102,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Kyiv rejects Russia's claims that Ukraine is delaying exchange of soldiers' bodies - Reuters",
-      "pubDate": "Sat, 07 Jun 2025 15:45:56 GMT"
-    },
     {
       "title": "Exclusive: US believes Russia response to Ukraine drone attack not over yet, expects multi-pronged strike - Reuters",
       "pubDate": "Sat, 07 Jun 2025 23:57:15 GMT"
@@ -1375,6 +1367,10 @@
     {
       "title": "Israel\u2019s Attack in Iran Echoes Its Strategy Against Hezbollah - The New York Times",
       "pubDate": "Sun, 15 Jun 2025 09:40:16 GMT"
+    },
+    {
+      "title": "Israel attacks world\u2019s largest gas field in Iran: What will be the impact? - Firstpost",
+      "pubDate": "Sun, 15 Jun 2025 09:39:31 GMT"
     }
   ],
   "inflation": [
@@ -1396,10 +1392,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How does ChatGPT know so much about everything? Here's where AI gets its knowledge from - TechRadar",
-      "pubDate": "Sat, 07 Jun 2025 15:00:00 GMT"
-    },
     {
       "title": "Judge in Britain warns of risk to justice after lawyers cited fake AI-generated cases in court - Los Angeles Times",
       "pubDate": "Sat, 07 Jun 2025 18:39:49 GMT"
@@ -1911,6 +1903,10 @@
     {
       "title": "Jersey and Guernsey leaders discuss AI at British-Irish summit - BBC",
       "pubDate": "Sun, 15 Jun 2025 11:14:00 GMT"
+    },
+    {
+      "title": "Trump must stop the AI bloodbath before it\u2019s too late - The Hill",
+      "pubDate": "Sun, 15 Jun 2025 13:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -2049,6 +2045,10 @@
     {
       "title": "Corporate bond defaults disappear from China\u2019s onshore market - Financial Times",
       "pubDate": "Sun, 15 Jun 2025 04:00:32 GMT"
+    },
+    {
+      "title": "How Escalating Tensions in the Middle East Could Impact Global Financial Markets - Investing.com",
+      "pubDate": "Sun, 15 Jun 2025 11:04:28 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2208,14 +2208,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Approves Some Exports of Rare Earths Ahead of US Talks - Bloomberg",
-      "pubDate": "Sat, 07 Jun 2025 15:04:24 GMT"
-    },
-    {
-      "title": "China says it may speed up rare earths application approvals from EU - Reuters",
-      "pubDate": "Sat, 07 Jun 2025 15:16:13 GMT"
-    },
     {
       "title": "FBI Working With India to Disrupt Chinese Fentanyl Network\u2014Kash Patel - Newsweek",
       "pubDate": "Sat, 07 Jun 2025 18:58:18 GMT"
@@ -2869,13 +2861,13 @@
     {
       "title": "Iran launches new round of missiles, as Israel carries out strikes on targets in Tehran - CBS News",
       "pubDate": "Sun, 15 Jun 2025 02:52:17 GMT"
+    },
+    {
+      "title": "Live updates: Israel says many targets remain as it continues to trade strikes with Iran - The Washington Post",
+      "pubDate": "Sun, 15 Jun 2025 15:09:52 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Dollar stores are seeing higher-income shoppers rush in the door. It's a warning sign for the US economy. - Yahoo Finance",
-      "pubDate": "Sat, 07 Jun 2025 15:42:55 GMT"
-    },
     {
       "title": "Campbell\u2019s says soup sales are soaring\u2014and that\u2019s actually a sign the U.S. economy is in a downturn, data shows - MSN",
       "pubDate": "Sat, 07 Jun 2025 20:22:42 GMT"
@@ -3135,6 +3127,10 @@
     {
       "title": "Fed meeting in focus as investors seek rate-path hints - MSN",
       "pubDate": "Sun, 15 Jun 2025 13:05:08 GMT"
+    },
+    {
+      "title": "Making America Backward Again - Rolling Stone",
+      "pubDate": "Sun, 15 Jun 2025 09:01:35 GMT"
     }
   ],
   "terrorism": [
@@ -3261,6 +3257,10 @@
     {
       "title": "Big turnout for Democrats in Virginia\u2019s early primary voting gives party hope - The Washington Post",
       "pubDate": "Sun, 15 Jun 2025 14:31:30 GMT"
+    },
+    {
+      "title": "Infighting jeopardizes hopes of Democratic comeback - The Hill",
+      "pubDate": "Sun, 15 Jun 2025 10:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -3604,10 +3604,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump advised Vance to take a diplomatic approach after Musk\u2019s blowup - The Washington Post",
-      "pubDate": "Sat, 07 Jun 2025 15:24:24 GMT"
-    },
     {
       "title": "Trump Warns of Consequences for Musk if He Backs Candidates Against Republicans - The New York Times",
       "pubDate": "Sat, 07 Jun 2025 18:48:51 GMT"
@@ -4034,10 +4030,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk appears to delete some explosive X posts amid feud with Trump - CNBC",
-      "pubDate": "Sat, 07 Jun 2025 15:39:29 GMT"
-    },
     {
       "title": "'Terrifying' Impact of Trump-Musk Breakup on National Security and Space Programs - The Daily Beast",
       "pubDate": "Sat, 07 Jun 2025 20:52:00 GMT"
