@@ -639,13 +639,13 @@
     {
       "title": "Trump presides over a military parade amid turmoil at home and abroad - NBC News",
       "pubDate": "Sun, 15 Jun 2025 00:09:00 GMT"
+    },
+    {
+      "title": "Donald Trump\u2019s Military Birthday Parade Was a Gross Failure - Rolling Stone",
+      "pubDate": "Sun, 15 Jun 2025 01:21:48 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia launches biggest drone attack on Ukraine's Kharkiv - mayor - BBC",
-      "pubDate": "Sat, 07 Jun 2025 04:23:52 GMT"
-    },
     {
       "title": "Russia Pummels Kharkiv With Drones and Bombs, Ukraine Says - The New York Times",
       "pubDate": "Sat, 07 Jun 2025 12:08:55 GMT"
@@ -1217,6 +1217,10 @@
     {
       "title": "US Opposes European Push to Lower G-7 Price Cap on Russian Oil - Bloomberg.com",
       "pubDate": "Sat, 14 Jun 2025 16:25:48 GMT"
+    },
+    {
+      "title": "Russia is shifting tactics again, assaulting Ukrainian cities with swarms of killer drones - CNN",
+      "pubDate": "Sun, 15 Jun 2025 04:01:00 GMT"
     }
   ],
   "israel": [
@@ -1343,6 +1347,10 @@
     {
       "title": "Israel targets Iran's Defense Ministry headquarters as Tehran unleashes deadly missile strike - AP News",
       "pubDate": "Sun, 15 Jun 2025 03:37:00 GMT"
+    },
+    {
+      "title": "At least eight killed in Iranian strikes on Israel while Israeli attacks set Tehran oil depot on fire \u2013 live updates - The Guardian",
+      "pubDate": "Sun, 15 Jun 2025 03:59:00 GMT"
     }
   ],
   "inflation": [
@@ -1863,6 +1871,10 @@
     {
       "title": "Artificial intelligence models are vulnerable to inherent human biases, says an expert - Telegraph India",
       "pubDate": "Sun, 15 Jun 2025 03:39:51 GMT"
+    },
+    {
+      "title": "UN Sounds Alarm On AI Nearing Human-Like Intelligence 'AGI', Urges Action - NDTV",
+      "pubDate": "Sun, 15 Jun 2025 03:41:26 GMT"
     }
   ],
   "financial_markets": [
@@ -2042,10 +2054,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump-Xi phone call maintains fragile trade war truce - World Socialist Web Site",
-      "pubDate": "Sat, 07 Jun 2025 03:58:21 GMT"
-    },
     {
       "title": "As his trade war faces legal pushback, Trump has other tariff tools he could deploy - Toronto Star",
       "pubDate": "Sat, 07 Jun 2025 10:00:00 GMT"
@@ -2635,6 +2643,10 @@
     {
       "title": "China\u2019s Biotech Moment Ignites a 60% Stock Rally That Beats AI - Bloomberg.com",
       "pubDate": "Sun, 15 Jun 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Why Chinese firms building foreign factories are no longer focused on US market - South China Morning Post",
+      "pubDate": "Sun, 15 Jun 2025 03:00:11 GMT"
     }
   ],
   "iran": [
@@ -3553,10 +3565,6 @@
   ],
   "us_politics": [
     {
-      "title": "Republicans fume as Elon Musk complicates tax bill path - The Washington Post",
-      "pubDate": "Sat, 07 Jun 2025 04:16:49 GMT"
-    },
-    {
       "title": "Trump advised Vance to take a diplomatic approach after Musk\u2019s blowup - The Washington Post",
       "pubDate": "Sat, 07 Jun 2025 15:24:24 GMT"
     },
@@ -3791,6 +3799,10 @@
     {
       "title": "Like School Shootings, Political Violence Is Becoming Almost Routine - The New York Times",
       "pubDate": "Sun, 15 Jun 2025 00:40:56 GMT"
+    },
+    {
+      "title": "Medicaid enrollees fear losing health coverage if Congress enacts work requirements - ABC News",
+      "pubDate": "Sun, 15 Jun 2025 04:46:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4441,6 +4453,12 @@
     {
       "title": "China makes history by firing precision laser at the moon in daylight, achieving a groundbreaking deep space milestone - Glass Almanac",
       "pubDate": "Sat, 14 Jun 2025 19:30:30 GMT"
+    }
+  ],
+  "electric-vehicle_battery": [
+    {
+      "title": "Electric vehicle battery prices just crashed harder than anyone predicted - actumoteur.fr",
+      "pubDate": "Sat, 14 Jun 2025 22:23:35 GMT"
     }
   ]
 }
