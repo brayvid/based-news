@@ -1,5 +1,19 @@
 {
+<<<<<<< Updated upstream
   "US Foreign Policy": {
+=======
+  "Iran": {
+    "articles": [
+      {
+        "title": "Live updates: Israeli strikes could cause regime change in Iran, Netanyahu says; Iran fires more missiles at Israel - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2tCWV8xVS0tQnhFeTNSZEZlR0lsUS1Edk9ZcDlFTkZ1R1dLWGlYdHFDenE1LVRwQTlVWU9kb3ItVG1kLTZpa2t3c2lZaEk2MmJOWlpLSG9lU3lFMHAwd3oyUm1oUGVKdzJhcm1vX3BhaG9xbHNhNWQycnRfNEgydlptRkQ5S09kUEszT1kzSkpJS1E?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 20:42:15 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+  },
+  "US Economy": {
+>>>>>>> Stashed changes
     "articles": [
       {
         "title": "Gasoline Prices Likely to Rise as Israel Targets Iran\u2019s Energy Infrastructure - The New York Times",
@@ -7,21 +21,35 @@
         "pubDate": "Sun, 15 Jun 2025 20:13:13 GMT"
       }
     ],
+<<<<<<< Updated upstream
     "last_updated_ts": "2025-06-15T20:58:36.015476+00:00"
+=======
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+>>>>>>> Stashed changes
   },
   "Donald Trump": {
     "articles": [
       {
+<<<<<<< Updated upstream
         "title": "Majority of Americans disapprove of Trump admin, but he leads on immigration: new poll - USA Today",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0ZaZldVLW9WbWp4dHlpZEdhRVQtc3BLVmVvVDVKdlgxeWJic2ZlNEJUbExBa3NLMlRrbExpSzVsZG5Yd0JmNzV6WEExeHJxNnJneVlMcVNUdzR2YU42TW9UdUhwRkx0bHlUeHVsRjZpZzRYWHVrMmV5alVPa0ZBX1NmSkx3TGctdUhWNHJFbHlNVElLLTNzak5zeHhscXFTTDdlV1VNbWp0M2VIc2g4?oc=5",
         "pubDate": "Sun, 15 Jun 2025 19:27:24 GMT"
       }
     ],
     "last_updated_ts": "2025-06-15T20:58:36.015476+00:00"
+=======
+        "title": "Trump rejects Israeli plan to kill Iranian supreme leader, US officials say - CNN",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZ2pWc1M4V21aYWZ1U0NzZkZ3eGJ1TlNqbEF1V2oxTkJPSGItWXFpakxKRGFwaFNXRV9yTFFYTmg3VHpfOVNodElJRHNySkcwMk1JSGlQUWVQbHlCVVVPODR0UUVjRHRjTnFYN0RjYkFtdndKVXRVZdIBfkFVX3lxTFB3Sl9SaG5wM1dVcjFuT0NtUFlKQms5UXNXRVZ1NXFlcG9WQWthMEtXWV9jQk9SVDA4dnhWd05TamgtTTNEaU9HdkN6TWM3bTE2YWdzUVRuZl8yNUFEY1JsSnBFUGg2LWszMmN0OHZyLVJWS0pFV3prVG9LQVlOUQ?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 18:25:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+>>>>>>> Stashed changes
   },
-  "US Politics": {
+  "Science": {
     "articles": [
       {
+<<<<<<< Updated upstream
         "title": "Trump should immediately push Russia sanctions, Sen. Blumenthal says - Politico",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUVmS2czdGpHM2pNRlVwMTVlcmJYTTFCVkpsUU1YUU5OSjMwWVFFdFZGU3JNd01wZXBtV3BUeTZzNlpMUDB3M2NUSWo5blpDRHcwdUNDbTE5cjRNaEJ4ajZLd0c4VE95dURnNWQ1aTdPYTlCNmRFWGpWZFZfZmhMQUxISXRvdUoyQk4xZl94OFVTUS1z?oc=5",
         "pubDate": "Sun, 15 Jun 2025 17:58:12 GMT"
@@ -58,15 +86,52 @@
       }
     ],
     "last_updated_ts": "2025-06-15T20:58:36.015476+00:00"
+=======
+        "title": "New research indicates that dinosaurs got cancer too - NBC Montana",
+        "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVXdXRjRFSkZaUVpSczZXb3hmR3BjNU9uV0NYYnAwTUhwM1c0cDUweUN3azhqVTFid0NUSVJIckxmVGdFSjM2RmE1bHJZdGxNOXBsd1hHZHphMHFEYXVNTFdFMnBPNGxkVGNpQmYyZDVtTk5ZNkU4d04yaXJxaTc0aUtoWkF1alZ4QXFKa0NlT0x2MzdCcjBEM0RmRlRCMmVOeUY1TXN2VGg3cDdadjkzTlZCSlB6VWc5VVdpVGlScEhTTVhTWm8xQVhlNk51T1kzZTZmb0xTRkQzRVNUbVpzQnZ2SGRLQ3R5SlY0ZkQ1bmpPTWtWVWFFYTE2RnFyazdIeFB4TVRuemdWamFYdHdOeXlhbkRXMVVVQ0ZWQVNjQ1dBQ0hfcUhFRU53NURXa3NCRGJVZG5Ya0dlX0hrMmJqalhyRHM5a2M5Um1LaGNZM0NRQzh0M0dQSVZuaVl6N28?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 18:00:05 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia reports Ukrainian drone attack on drone factory in Tatarstan - The Kyiv Independent",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0pLSTJ3RWNFOG1nZFBGN2RneUZuQXZpVnlUMVctRHYwem1pRE9HT3FXTUhiQ2pKMl9pWXh1SzB6cFl1cl9PZ0YweFNobDc2cnBkR2VmcWRzMzJFbXJHd3RpN0ljRU42SDdrU0hjbDRMNUZwaG81Vkh0cXp2Wi11ZTF4Mm9yUTlOejhiNDVJdTlMc3h5ZHRsd1lWaDNhdDFLM0HSAacBQVVfeXFMT3FQWjdRR3pWcTZRVk9SWXB4aVF2aHg3blVtUHJIbktrT1R2UG9yYjNmNENGM0JFdl82dW9TUmJxTXNHQTdKSEdGYXRiV2NRSmpUYTd5cFF1OVJhcXJrSWM1eUViSHI2amFhLW5xblE4MkJFTnNTMWtPUDB1VXd2YXRtUEdTMjE2Y3I2MWVoa2xsS0J3d1lub3BGeXd6MXZjcG1WLV9vNUE?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 16:25:27 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+>>>>>>> Stashed changes
   },
   "Artificial Intelligence": {
     "articles": [
       {
+<<<<<<< Updated upstream
         "title": "\"Summoning the demon\": Steve Bannon stokes fear of an AI \"apocalypse\" - Salon.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObloxeHhYbzRRTUluN3I1RXVxa1NEMlZseDB0a01KRlZsdndnc0lYVUk2QWQwNGhWSVpINHkxU2RDU3daTU1TRl9KbjMxOTZUNXU0WW9hdG5kRUhvbm1CWWVyRHFNbFphYURrYzNndHVpZlR4Mi1kME5vVDVjaG1xeUh4S192RlljX18zMlVzaW12RWpKSXBITXNGb2gzbGs?oc=5",
         "pubDate": "Sun, 15 Jun 2025 09:45:00 GMT"
       }
     ],
     "last_updated_ts": "2025-06-15T20:58:36.015476+00:00"
+=======
+        "title": "DeepCoder-14B: The Open-Source AI Model Enhancing Developer Productivity and Innovation - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0dfemlWS3dTRUNzUlRIczFjeFhiQVV2bjlBRGpQaTNxWnlwTVV0ZzNMNEFYLWVyZU1GenI4UXV1eFdEQmUyQkVxQjBtNXRMMXhzTVJEMkEyR2dTX2VRel9SYm10NUFZZTMtZHZhRy00RUQySTZBdkNRNlN1WTNRZWtrZndtSEQyb2VKUTZsTHlucDhhODZTUUlaR01taU1PaE5xZVdPblltZFdN?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 14:24:47 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Urgent warning issued for US consumers after \u2018security breach\u2019 of 184,000,000 passwords \u2014 here\u2019s who\u2019s exposed - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMk5jUUJsZXdhZ3U0VjRxS1VhXzFVQUdkTlIyd2JfREtPQUJvYnFHOUxsaDFfNmlYTlFQclQ5Z3podGJnTXBsbDZYa05ZMnNESXNabUFlN2VRS3d3Rkk1MFdYWG1WS296aGVpM3dOdjg5YThGM0NENktQSmpYV0VSQ3Utaw?oc=5",
+        "pubDate": "Sun, 15 Jun 2025 13:59:59 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-15T21:03:37.426455+00:00"
+>>>>>>> Stashed changes
   }
 }
