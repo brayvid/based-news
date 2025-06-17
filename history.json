@@ -27,6 +27,10 @@
     {
       "title": "Live updates: Israel-Iran attacks, missile strikes on Tehran, Tel Aviv, Haifa, rising death tolls - CNN",
       "pubDate": "Tue, 17 Jun 2025 00:36:00 GMT"
+    },
+    {
+      "title": "Israel-Iran live updates: Trump heads to Situation Room as Middle East tensions escalate, sources say - ABC News",
+      "pubDate": "Tue, 17 Jun 2025 01:04:00 GMT"
     }
   ],
   "iran": [
@@ -183,6 +187,10 @@
     {
       "title": "Fact check: At G7, Trump makes false claims about Trudeau, Ukraine and immigration - CNN",
       "pubDate": "Mon, 16 Jun 2025 22:11:00 GMT"
+    },
+    {
+      "title": "Trump urges everyone in Tehran to evacuate 'before it is too late' - USA Today",
+      "pubDate": "Tue, 17 Jun 2025 03:24:22 GMT"
     }
   ],
   "russia": [
@@ -213,6 +221,10 @@
     {
       "title": "Trump hints at no more US sanctions on Russia at G7 summit - politico.eu",
       "pubDate": "Mon, 16 Jun 2025 22:07:29 GMT"
+    },
+    {
+      "title": "Russia attacks Kyiv with waves of drones, missiles - Reuters",
+      "pubDate": "Tue, 17 Jun 2025 02:36:00 GMT"
     }
   ],
   "ai_safety": [
@@ -243,6 +255,10 @@
     {
       "title": "AI Accountability Takes Center Stage as New York Approves RAISE Act - eWEEK",
       "pubDate": "Mon, 16 Jun 2025 19:26:24 GMT"
+    },
+    {
+      "title": "AI safety bills await Hochul\u2019s signature - NEWS10 ABC",
+      "pubDate": "Mon, 16 Jun 2025 20:59:49 GMT"
     }
   ],
   "financial_markets": [
@@ -361,6 +377,10 @@
     {
       "title": "Global warming may increase the burden of obstructive sleep apnea - Nature",
       "pubDate": "Mon, 16 Jun 2025 09:58:16 GMT"
+    },
+    {
+      "title": "Senate Proposal Ends Tax Cuts for Clean Energy, Disappointing Climate Advocates - The New York Times",
+      "pubDate": "Tue, 17 Jun 2025 02:54:32 GMT"
     }
   ],
   "ukraine": [
@@ -771,6 +791,12 @@
     {
       "title": "US Senate budget bill proposal keeps cuts to solar, wind incentives - Reuters",
       "pubDate": "Mon, 16 Jun 2025 23:29:39 GMT"
+    }
+  ],
+  "blockchain": [
+    {
+      "title": "JPMorgan Chase files for blockchain-related trademark, triggering speculation it has stablecoin plans - Fortune",
+      "pubDate": "Mon, 16 Jun 2025 21:50:00 GMT"
     }
   ]
 }
