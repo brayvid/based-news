@@ -1,42 +1,72 @@
 {
-  "US Economy": {
+  "Iran": {
     "articles": [
       {
-        "title": "US electric vehicle registrations decline due to concerns over infrastructure and subsidies - digitimes",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcW9YVXA1SFR5TThVQ3c0Y0VRUUNLNzdFdHpzdi1ESmVHLS12WWZOa0hJQkEwRElndU1ocXI2OU5jLWRVWlNLczdWUEdjbXJPck84Ull4ZEpKY2xQRHBMOGp4eWhYYlhGX0dyWHkyb1ZUU21icmFLeDF4NnFRZVpyMEtmVVJyT3pRQVF0aVNzTkI5bjA?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 02:02:15 GMT"
+        "title": "Israel\u2019s gamble on force could push Iran to accelerate nuclear plans - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRG85LXMzVXA1TTZRQjU3Q2JNUmNua1A1QmtmLXRUdTZISENDbVdIaFl2TC0wM3hvekxoOWVlZmZaek5LQjlsSnZOaWJtZnpnSVpId1pOcXZPTTJCdkVSNEZMaHUtQjc5cFJPdTRkYUQxa0dUTUJLUjk3ME5rU0JKOGdSR2o1N3NOYzk1cE1rTUE0eDBIblZkM1N6U1M3QWVmWlFSWFNsMTdvWGI5ejF0TFpQWQ?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 04:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-18T04:55:04.320464+00:00"
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
+  },
+  "Tesla": {
+    "articles": [
+      {
+        "title": "Tesla stock slumps after a report that Cybertruck and Model Y production is being paused - Quartz",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xVndlZTA2NlNuTERaLXF5QTM5UnRvLVVmT09TNVY0eGR0bDdhVXZEQ3pMTmtlSnFYVk5ZbDUwWVc5a0xZbVdBNW9LUEJvZl85aURvc3JCTkV1VTJQQ095N2FBZFpySm1BenpwbUkyRQ?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 00:32:22 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump speaks with Netanyahu after crucial meeting on Israel-Iran war - Axios",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHNZR3hDaGp3d3M1ZUZ5cTlQMzdqX295TFhsdFN3QVJLR0RuVktNWlZ2UlQtLVc3aG9LdzQwZC0zWnBpSVh4TWxSTzdRYldDQnE4NG9UTTFyUi04QUlTS3doNXJxUjRVQ0pzNEk4MUtQU3M1WlRUaHhqeDJKUmxuUy1WVQ?oc=5",
+        "pubDate": "Tue, 17 Jun 2025 22:50:28 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "Senate passes GENIUS stablecoin bill, giving crypto industry first major legislative win - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBienh4N0xSM3FkMFFCTnd0WDlONEdQVkhfaGREcXdOMDFxbEFNejJEUEtFcTM4WkN4ZTV4T094anVLQ3k5MU1raXZlaldYcjY1T0RHa3RoOGdfaVhxN1p2ZU1Vb254dGlhaElaWmhXeWF4dFc00gF6QVVfeXFMTkpMRWJIT1BWcFVxTFg4ZDllbUFyYlU1MEFuUURwWERIcFhmVkxwcmFGZ3hhdkMybFpzYlNtdUNPdTZNbVZZQmJvRTh2M09yaWpzX2JhR0ppdUJJNU1zbUpZVzZ6YjhsaTdQUUFkWEVBV2hOUHhhRW9SRlE?oc=5",
+        "pubDate": "Tue, 17 Jun 2025 21:53:22 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Hospitals stunned by Senate GOP\u2019s Medicaid plan - Politico",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUd2XzVpaFNyLTNXcjZPWU5VZkgwT1NWZzYzMjlNaXlsUUZLNXJ0NkZWR3dyUTU0dEI3VFZhek9EZWVxT3JpcmdJZlFRNHFVSGJkeGRpTUdSNG13bjdPUjBuLUxENjcyV1lwMnJ2ZHBieVJyZkFkeF9aY0F3ZmRHQWZwX1ljWFlKS2VZTmVVVWJBMGx5?oc=5",
+        "pubDate": "Tue, 17 Jun 2025 21:06:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "16 killed in deadliest Russian strikes on Kyiv in almost a year - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmd2YldjVTYyUVJXa016bFI0M1c5YnRIS2txUWpkTzRlNGN2U2plUVZrLUFMWkwxUGdnaVhMRTd4alNSb281UlhvXzRYYkZmYXBaT3JjUjVFTWs3UUd0M2FneFMzeEpUanFEcktmUFFFZzBnTVJHUGZfc2thTU9nRdIBhgFBVV95cUxQSGNfVWNIcHJLYUFKMHhTQjVXdUlBbjFXZTlvR0pkRHFoNmVPWHRKeUZ0U1VlQkNiVnlya2dPS1BOWkF5RExPeGluNlFhQ3hMUjlVN3JLVFlsY2l1Y3RNS2w2ei1sc2lTc0czT3ZESnhJeFVLU0RYTFpQb2JtaGZySFNiVGdEUQ?oc=5",
+        "pubDate": "Tue, 17 Jun 2025 20:55:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Cloud Security Alliance launches pledge for responsible AI use - SecurityBrief Australia",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOanBEX0tOT0FGaVRoRTFxd1RfR0c4bmdlUld6ZGhqVVdKMkFsYVNBSWhFd25WaHpJc1AxMlFmZXlpVmFKU0dxWms1bUZOZTZVekV5a2JhTWJTdHJKSEZKcnROdUZ4NGJ5eGRnNVhjckl3X3BKSkxRUXpnVjRLVUZqd0xnNFctRTVMbHlHdGx0dmFtY2lXLUZxMGxpZGo2Zw?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 01:26:00 GMT"
+        "title": "Amazon expects to cut corporate jobs as it relies more on AI - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHpLby12ekVQaVJtN2Q1RVQ5SVBhM05aQTNSRk16Q3pDdU53QkdUZGxkMUZmUTFPTW50WUZwTDJPSW1JWGF5dVVuWXQ1WDluc1VoVGpZMXl4QTU2X2lMbDQwTm1peDU1TlI0Vnh4MlJ5NThCbmlJVFdiRmNIaTEyVExvVGxCa19keEtnaktIZGZWcDNTNUZUOGVPTTNjRzJPVC1XS2pHMTFycHVUdUhidURZZmpoTVJXb1dvZ0JBdk4xNWPSAVZBVV95cUxOSGxyNjB4S2E0ZEFWSktYNWEwMEhfUHhNdXQxRmpOZnRRN2c0S1dndXJRQlk2ZkxJUnZFeTZsbXVhNGRuY0JDQlA4UmFBRUtkdzFvSmdBZw?oc=5",
+        "pubDate": "Tue, 17 Jun 2025 18:32:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-18T04:55:04.320464+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Malfunctions, overreactions and a steep learning curve: wargaming a Chinese attack on Taiwan - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGZPaUtMVTQtZ0Y2SllaZm5aZ0Z6R3kxWXdxeWtBMnVIdkQzckctZnktaUFYbkFkMTVXVkxOa2hLZTN3T0ZKaHc0UENVSDdBVTVLUUxIT2tEdDVEdFJLcklJZEFSdkdKUm9lbFhSa0NrekM2bjdfRVhNY2FLNExYaA?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 01:08:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-18T04:55:04.320464+00:00"
-  },
-  "Trade War": {
-    "articles": [
-      {
-        "title": "Trade war looms over voices of global business in China - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNk45d2hmVVhmWDZtY1N3YkpwNzFHNE9VR0ZaT0ZFLXJWYWZ3QXFNOU9fNzJVdjVmU0NUSTFtbXN6UnZTMW1ZQVpyanFqUUFXUm1tTXFIMkRIT3FPTXcwNkRHbnppOS1XUVVlajFTTmc?oc=5",
-        "pubDate": "Tue, 17 Jun 2025 23:01:13 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-18T04:55:04.320464+00:00"
+    "last_updated_ts": "2025-06-18T05:54:56.105020+00:00"
   }
 }
