@@ -1,72 +1,72 @@
 {
-  "Russia": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Ukraine war briefing: Russia can defend itself, says Putin, as North Korea sends more soldiers - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzNidDI0eXF3LTZGa1YwN1R4RzZhRE1YQ3lSY0c5R2RFT0Jxb01JRkRSY2V0RTc5amFmdlFvdDBHcEYxVjNZZ3ZWVmxidG5ZaWd4WnBnb0dRYkhCUzlBYkVoUXIzaEttaGxLbGVsSTZOM2J3WHBMWGliY2tUVEVCeThJZ3JDcFVFQW5kaXNuRjVvdnB5dGFZRy1GOFZfelZoZGg1NE9sVjQzVGtSb2JhUDJVYUo5MVBVbDlhLUhGVktmSVFXTnYxQV85QUl1d05NREZz?oc=5",
-        "pubDate": "Thu, 19 Jun 2025 00:19:00 GMT"
+        "title": "Trump keeps world guessing about US military action against Iran - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkRJMmU4S1ppSEpEemhfNVFyb1NMYjkyOVYzNnpCTmhocWJYYnVaVldwYzZLLVg0WEpvWXoxYmR0Wk9TVlU2eXhtNUQtcnNLek9MUlRodEJBdVN3amQ4WTVCRHNhMDNXSjVWX2lKRFRkY0dIRm1COTZpNktQOS1IUV9ORnVodU9sc1J0REVKLUlYcERBaTR4aXhBV3FEVEZKbEVlSXpUVkxaYUlKU1VZa281c3VYbmJOM1I4aDcxRTl3SHRCRGtnM1V1aWpuZFVNNGFoSjh3X24?oc=5",
+        "pubDate": "Thu, 19 Jun 2025 00:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "7 Experts on What Happens If the United States Bombs Iran - Politico",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUzFmRmFJaGtjeXp5V29hSjFRTjhTRkJmZ0o3VmowTHhjd0pPRnFBa2xFeFJZbWU2UzBiQW1uUS1uLTFrTTFCY1hZaEN2U1piT0VwbU9fMG9uaGlrODlxRW1xRHFhT05IODFrNEh2ak5oN0k1TmJsX2xBczdoXzlDQ01adjNhX1k5YW1OWXAtNUNtOWVsMjdYV1VUOXp2WDB2WTdoLQ?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 22:51:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "Fed holds interest rate steady for fourth time in a row - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNFVpLUtWVVFOZWxmeEpLZGJ0dXZ2c0hUSkNXTFEyRTFiQ2pDakNEZ1dBYml0dWp2VFhhNnYzV3R2Y1FSUXRWVEEtZENlMnhRRTlXN2RZbVVDZ2tTQ3lZR1NONjI1TEJtQm1ZeV8wZE1iekwxZ1ZDZFNTbVBiZHVwQVBtNA?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 20:34:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "A divided Congress mulls war powers as Trump considers strike in Iran - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUdqRDhzSHlfY1hvTUo5ZzYwZnd6Z1dOTWdncWxpT2tXenUxYjFudV9IUkktbU55UW5TV3RYVVlSUGFlOGttT2kzZjBtQTlNRFE2V0QwSXltZW5xandndDdra1ViSXNxRWFGakdvRU9XdjdWM1B4NHp3Z2lqUkt4RHh0TEttbmZzdFNWRnJnNEVGYUFGaWVvWUFpRFBxYzJLc0xQNDVWSUlkdw?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 19:51:44 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
+  },
+  "Hacking": {
+    "articles": [
+      {
+        "title": "Israel-linked group hacks Iranian cryptocurrency exchange in $90m heist - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXBwbFUza2xPNUlsakdOTERKUUdCSmRMWnEyd3ltcWJEZnJBMjBFZUpxVWNOdGhpbUtBeTRKUTlMd2g1RVZmaE9EM2RZRWVrMzE0Q0VtUHYwa2Z1cWZzOFNQdXdkUEZzWlVkTkl2SkRjeDhoamw2UmlyQnkxSXEtUHJQU2VvUk91aUpUdU5rT2JZRk9uZXA2VEVGS1M5TTVPYkJ1dm1Pc0RldWhRcXlETDhHbm1rb0R0QVJ3SnlB?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 19:43:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Apple eyes using AI to design its chips, technology executive says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazhSTE9PLW5TbVMxeDllUjZJRTJaaGZFZkFKQXBFVmZjWWRSdk1lTFlIb0E4b3FGRldVNTZlaGw4RnRuU2J1UTZWZzB4c3RXYzVteHAwNV9ucmttWUdkZGRDdFhGdnc1Uk5nSmlHM2YyMnFJaHpkaWZEOW1nWFllZl8xVDlLS3ZVYWgwSFB1NW1Jc3VRQzhoVHlBclJldEpaTkJDUkFZT2tvY28?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 23:16:23 GMT"
+        "title": "Artificial intelligence: TD survey reveals confidence gap - TD Bank",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1dG96TlFLT19nRE9TTlpSM09vc04xYzVzd3RjV05KYXdkNmxqaUdJdFM5dk94TXRBNE9LOGpsbWY3a3I2QVN6dV9XMllaLWdmbUJ3dERxUnpyUlRObEpYTmNfbklIZWFrRW9BSVJEMVFaaGFTelFmeDNOWWk?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 18:49:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
-  },
-  "Cryptocurrency": {
-    "articles": [
-      {
-        "title": "DOJ announces largest-ever crypto seizure related to \u2018pig butchering\u2019 scams - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVk4YUJwdTJHSk9RbmEzYWlpZ0FjUWE5aUdEdFNheWU3OXQ3WWp6YkU4MThLcVh5aEZlM1llZVVrdmxKRzZQQkhMSV9XYUpZREs1ZU4xS3BHaXNnckRtM1VCMGNqbHlhc0ZqTFlvR3FBcnhnZVduQnZOaS12ZS15c0cxONIBiAFBVV95cUxPa01raFNMeVZFdDVyZFM2WFh1bjNCM3pjZnN6cUNEZHlGRTMwM1dMS2xBcUR5RUpqd296RERxNTZUc25aa25hZDhid1E1U212NF9oTUhnM0tuTTFFNTZYUjRfQnJsVHYtWmwyM19VYk80TG5ZeFhQcWhoZ25XNEJvMkRSMDJRcFZZ?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 23:04:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
   },
   "Climate": {
     "articles": [
       {
-        "title": "Scientists warn that greenhouse gas accumulation is accelerating and more extreme weather will come - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JuTUxTYlhZVElfNkFjdEctNS1aN3FKT3VUTVdhVXU0dVA2SWc4ZWFFd1FReDh6MTVzOW50b21HVTF0U3Z1VzZyYjl2Nm94SzNZRzVabjhYTnpob3RCZTNjRXpybFJadGU4RTM0el9RdmRENFNkNlRyUzNGY2VJR2Y4TFRITTNhakZmakZzWlZMN25VbWNDVS0zeTd1YlV2T1piRmVremY?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 22:04:00 GMT"
+        "title": "Impacts of climate change on global agriculture accounting for adaptation - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzNnV5X2xidS1JRVVyQ0gybmtrZHFVb09xTDBzLTJzbnY5SUdsTEJ0OExFTDZKXzFTZWN6YklsQkNHQVRCYllVeG9NR0dEenhudzMxSHpMdHhtRkt0TDc4?oc=5",
+        "pubDate": "Wed, 18 Jun 2025 15:24:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump privately approved attack plans for Iran pending final order, WSJ reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVRSMzQ2SDNzYVluQjNQRXpsNkZKUHZPT0xLdlpjUGhodmlEVUlHS2dOVFJaRkJMX24tc2ZsMHA2U2x4T3BxVlQ5T1FIaFgySHJDejE1cnlfc01HZE5CVEhjQnlULWwxWnBYbFI2YzZYZmt4VFllb0tlQ3VRYTVZZWxlMm1zTVBnVDVmdmExSEhvTjlZT0pzUTY0TGtHbDV3LWM4a3RsSmNCOFM4V3lvTWZTdm9hTEh3LWtSUENFdXluZDJGajJN?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 21:22:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "Dow posts narrow loss after Fed signals it\u2019s in no hurry to cut rates: Live updates - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlTE1lTU02QkxkcDczMno3TkZxbkRQNlM2R2tMY0l3SGJIYXV3SXUtLXZoZ2NpSXI1eGNla1Y3QW1BZnZBblRreTFDWmpPbmgzbUNQdHdMdVE3MFFJYlZ2aExqWl80NnJ6OTZDbHBFQnUwUER1aVdN0gF8QVVfeXFMTms4UEczWV9nbmFyRHBpME9nZGkweHV5MUVFTmY0RC1XRXN2WThjQmNKWlFGMklfaTdBWWRqUS12T21nTGJKRUVRR1poT0M0ZmEzVjZTSlhrQWNSbWdRa1pYWDk3UEtNY29xY0RzS2szdS1tM21zRW91REtZOA?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 20:14:55 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
-  },
-  "Inflation": {
-    "articles": [
-      {
-        "title": "US Fed leaves interest rates unchanged amid economic uncertainty - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU4tRV8yMjc3Um5OOFU0YWFTZ1QyRW9jM2kxU0trMF9NR2NvaHVlTW5mamNGMzh2d1UtbWwyaDZ5UEJIZXJudllzM0g2OWFleHRFeG53Zy1lM1hINFVuUFdwRGRMOUlaemFyNXRXTDY4MDhuSjVrWlpSSk1HZTRRR0p1WDdQZHZlMjlobFE5QWlpelMtenRKTkZzUnh3SzVqT0FVRFA1cURTV19m0gGyAUFVX3lxTE9GMVh1UVdrN0p0YWNvOWEtcmhxcVBFUjJnTmhqWXVfVXoxN3FOZXgxRXVFcUY3US0tN3BjamxFdnhLRmkzOTc5NFdwR3k1YlZoNG8tVTB6cVR3R1JSNDFMUXppLWVkQzEzc090R0p2Q19ocFpUR1V1VE5DUWdHZURKMG1zN1o0anFhQmJfUnAwSUotVDVxb3dFOXN2dG9PaG9nQ0VIdmEwWkxpTGhweWRnSEE?oc=5",
-        "pubDate": "Wed, 18 Jun 2025 19:00:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-19T00:56:44.477705+00:00"
+    "last_updated_ts": "2025-06-19T01:56:41.531620+00:00"
   }
 }
