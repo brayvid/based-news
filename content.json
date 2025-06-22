@@ -1,1 +1,72 @@
-{}
+{
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump says key Iranian nuclear facilities \u2018totally obliterated\u2019 in U.S. strikes - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHZaTnhPcldmZ29GVG9ZNy05b28zdG5YaXBlQlNnYUpsUlBDUkFPeUpZbTVlWk16eHFyLTJVRjhaRXVJcVo1Q2VRTjlfYUpZTVh5UEVHRnpheWZoQ2U4SnVLYzZxWTg1TUxWZGxDcklRcTl3X01ld3phQk9tSkVzUG9YNTBKamZ0Unc?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 07:38:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Ukraine developing interceptor drones to counter Russian attacks, Zelensky says - The Kyiv Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXR3VEdzT2R4NFVfNG9jYjhDaFNfQzFDSVpxVGVJOUZQUkx4WVd4WTA4ZHJ4Z3BOdjhSN2piVXlLcXFjR3ZKc1cwbklocVBwUWw0eUxIUG1Sd1lSaW9Bcy1WVk5mZUxyWUlwM1dTQ0FJX19UaFFRZjNhbk5sUmVZbUptRUVXMllMY3NKdE04VzRweDVQNHZBcFdpMXpWc2dWZ05BSDh2NENxU03SAbABQVVfeXFMTzQ5Y2l2R1NheU8yaE1EYW5WU2RUOEVTTmNscEFQWHc4dVFrMHl5WmR5VlNFcFU3MkhyZHQ3UGx3OWh1VUMtdzNFNXczaTFfSlJ1R1habWQ1T3dGWVZSb0Q1VUluNFpyMFRlcFhhSTliclB6LXUxbWE4RXBsVThMSHRSOGdPQkQ0YnpMSkJJdnhvX19McERGak5QTVhqSUlobm5VWDNsbXgyY0RJSktMdTA?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 07:03:28 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Encountered a problematic response from an AI model? More standards and tests are needed, say researchers - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVZPV3czdVl3Q2k1aGNmNW1Xd296VDJDZlhPZzhnOXhOc3NmZ0JwSUZWdEdvcUpTdElPb3RUNWtEeUxzdXVqOFdrYjMwN3htYWlTOEhuV2VHWmVHRWwzQjVJWTR0VGtURHp4SEpfeGdxVUZRczhvODliSWpTY20zMGZ1NUZCdUlGRjdCMDdGVktwX2lQMzJpbFdKamFiNjMwOEhBZ1ptREZjWndrUGtrOVFNUmJkUdIBuwFBVV95cUxPQklnN0Uxa1FxZ1g4aF9hWDBjcUFYUzUyZjNmQWczYl9KeTYyQWRyTFM3MHZod2pwdHNlNHkxcklNc1dleDBBTkZHazlyNXdwM29uMEF1cWNKSGNsdWxLUk5WNTNQVEkwUlJzUlNFR1dRQ2lhb0hodmRQQlJKeUVJSks0dVdnQjRZZnZJNzZrb1JTaXRJcFFMUmRmZDNHWDd4WjNvSHd5ZTk3Z3BQdWZheUxHSmc5cjI1ZHJZ?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 06:00:46 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjRWbnZNeVZOWmNkV1VuUGhNemtnQl9FSngwZjVrMTRvX0QtYk96dnAwQVdHV1EtdlNXQnQ2cG5kV19vSXFRWE9RZ2MwNERxMUxSa0x3T2xGWl9Vcm9RVWhkaTd6a1RtZDRoSTB5ZmdmeGNXZmN2REotSjU2dnowSWZQRndQMzlicEtzVkFsbFJzS3hIS2JYYWtBc2lJd2lU?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 05:37:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "US joins Israel-Iran war: How Russia, China, Tehran, other world media reacted \u2014 \u2018American recession will be next\u2019 - Mint",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcU1QWEpLLVM0djQ4NWxCWHgxM3dZS2ktTEk1SmJoVVJKbGV3OHF1SVRsaWpXQ1FFTmdFM0JEV0FvYVU1WmFJRXNtYjlnTWcyTktYUkJHR2FFckt4T19mU0VKVTFyS1lxdklMREJaNnFHTEJMRU9sSm4yc2ktQjRucUxEYnI2YzBMdVdyY1B0dDZZNXdYeWMxRHJDaDFsUkpUdF84X2pJM3BwRHVyaDZKYlVxOEtoR2tNejNONDVEbHZvdzlWbUhpMUVab1UzRE81cENmTktpelBSU0Q2R1h3cWtmTjFMalQtMTBzV19XcHlEcnZ00gH6AUFVX3lxTE4zNGEwdFVpU1pSU0ZTTWFFMjVjemw4eGxNTWtkdXVUb1dTOXRVYVZIMmt4bGdaSm8yTUtNVnpZN19QZVZwRVhHUzctZmE3d21HWGxXTEt0dy0zYTAzSE96M0taNjEyR0k1R0tHQnZRSWpKbndaMUpxbFJDQjZqY0tjd3YtS1dXcVhwOXJ6aWRzSldEZEpZaktkZnp6TTFnbzhING9FQXBnYzNlQVp6VnRSTktaclpmWWFUdzRyc1FvdzIzSWZUcEFhc1VXSVRoM0IwQV80cURRSEZNVnk1bV9jQWpJWUlzWHZ3R2FGVmtmQ1R6NkhueVZodGc?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 04:30:47 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Iran-Israel live updates: US bombs Iran nuclear sites and Tehran warns of 'everlasting consequences' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9idE9qM0ZiQ0JRdUg0VUZSWTYteHhvVUZVSFRUbzdmUU4yU3ZfQ1AwMlJWdC1xTjVSeGdCTXZzU3pGWXA4cVBfNkVlSkFyZnZsMzFmaQ?oc=5",
+        "pubDate": "Sun, 22 Jun 2025 01:16:39 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  },
+  "Quantum": {
+    "articles": [
+      {
+        "title": "Scientists Have Finally Measured How Fast Quantum Entanglement Happens - IFLScience",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFlyLW4yRkxWVVZJVy1ZUDE1bjZGWFBwZy1YaWwyLXVXLUdoU09KQ3YwS09kdVE1N0xlc3M0djRQeVFuVHJYY0FTcllWaTVobmdEZm9TWUNMNWJ1TEpnN09vZ1ZKU3Z6aXRBamtmMWp4T2FEV0Q1TnY1QnIzN2xyRWg4Y1lQSzRhNUtBVUdqNl9mZFI0Smk2eklEbTZlSkhkMWVHeVR3?oc=5",
+        "pubDate": "Sat, 21 Jun 2025 20:09:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-22T07:57:02.367399+00:00"
+  }
+}
