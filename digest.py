@@ -401,12 +401,17 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         "        - Primarily opinion/op-ed pieces, especially those with inflammatory or biased language. Focus on reported news.\n"
         "        - Phrased as questions (e.g., \"Is X the new Y?\") or promoting listicles (e.g., \"5 reasons why...\"), unless the underlying content is exceptionally newsworthy and unique.\n"
         "*   **Overall Goal:** The selected articles must reflect genuine newsworthiness and be relevant to an informed general audience seeking serious, objective news updates.\n\n"
+        "**Final Output Structure and Ordering:**\n"
+        "When you provide your selections using the 'format_digest_selection' tool, you MUST adhere to the following ordering:\n"
+        "1.  **Topic Order:** The selected topics MUST be ordered from most significant to least significant. Topic significance is determined primarily by user preference weights, but also consider the overall impact and newsworthiness of the actual headlines selected for that topic. The topic you deem most important overall for the user should appear first.\n"
+        "2.  **Headline Order (within each topic):** For each selected topic, the chosen headlines MUST be ordered from most significant/newsworthy/comprehensive to least significant. This internal ordering should reflect the 'Headline Newsworthiness & Relevance' and 'Recency' criteria. The single most impactful headline for that topic should be listed first under that topic.\n\n"
         "Chain-of-Thought Instruction (Internal Monologue):\n"
         "Before finalizing, briefly review your choices against these criteria. Ask yourself:\n"
         "- \"Is this headline truly distinct from others I've selected?\"\n"
         "- \"Is this purely local, or does it have wider significance?\"\n"
         "- \"Is this trying to sell me a stock or just reporting market news?\"\n"
-        "- \"Is this headline objective, or is it heavily opinionated/sensational?\"\n\n"
+        "- \"Is this headline objective, or is it heavily opinionated/sensational?\"\n"
+        "- \"Have I ordered my selected topics and the headlines within them correctly according to their significance?\"\n\n"
         "Based on all the above, provide your selections using the 'format_digest_selection' tool."
     )
 
