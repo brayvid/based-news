@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Israeli strikes could cause regime change in Iran, Netanyahu says; Iran fires more missiles at Israel - The Washington Post",
-      "pubDate": "Sun, 15 Jun 2025 20:42:15 GMT"
-    },
-    {
       "title": "Israel-Iran live news: Missile hits Haifa, Trump calls for a deal - Al Jazeera",
       "pubDate": "Mon, 16 Jun 2025 00:02:36 GMT"
     },
@@ -186,14 +182,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Gasoline Prices Likely to Rise as Israel Targets Iran\u2019s Energy Infrastructure - The New York Times",
-      "pubDate": "Sun, 15 Jun 2025 20:13:13 GMT"
-    },
-    {
-      "title": "Iran\u2019s Leaders Face a Reckoning as Israeli Strikes Intensify - Bloomberg",
-      "pubDate": "Sun, 15 Jun 2025 21:00:29 GMT"
-    },
     {
       "title": "Reports of 'massive blast,' 2.5 magnitude earthquake in vicinity of Iran's Fordow nuclear plant - i24NEWS",
       "pubDate": "Sun, 15 Jun 2025 23:13:12 GMT"
@@ -497,10 +485,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump vetoed Israeli proposal to assassinate Iran\u2019s supreme leader - NBC News",
-      "pubDate": "Sun, 15 Jun 2025 20:40:13 GMT"
-    },
-    {
       "title": "Live Updates: Israel and Iran Launch New Attacks; Trump Nixed Israeli Plan to Kill Iran\u2019s Khamenei - WSJ",
       "pubDate": "Sun, 15 Jun 2025 23:21:00 GMT"
     },
@@ -511,10 +495,6 @@
     {
       "title": "Live Updates: Israel Launches New Strikes on Iran as Trump Calls for Resolution - The New York Times",
       "pubDate": "Mon, 16 Jun 2025 03:45:00 GMT"
-    },
-    {
-      "title": "Trump administration weighs adding 36 countries to travel ban, memo says - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 21:00:47 GMT"
     },
     {
       "title": "Trump says must expand efforts to deport people illegally in US - Reuters",
@@ -1119,6 +1099,10 @@
     {
       "title": "Trump slams Russia's Medvedev for claiming countries will give Iran nuclear warheads - CNBC",
       "pubDate": "Mon, 23 Jun 2025 16:57:18 GMT"
+    },
+    {
+      "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
+      "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
     }
   ],
   "russia": [
@@ -2079,6 +2063,10 @@
     {
       "title": "MAGA Is Split Over the AI Provision in Trump's Big Beautiful Bill - Business Insider",
       "pubDate": "Mon, 23 Jun 2025 19:41:00 GMT"
+    },
+    {
+      "title": "CMS grapples with AI use for teachers, students - Axios",
+      "pubDate": "Mon, 23 Jun 2025 20:09:16 GMT"
     }
   ],
   "climate": [
@@ -2156,14 +2144,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia says it struck oil refinery that supplies Ukrainian army with fuel - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 20:14:36 GMT"
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, June 15, 2025 - Institute for the Study of War",
-      "pubDate": "Sun, 15 Jun 2025 20:31:08 GMT"
-    },
     {
       "title": "Ukraine war briefing: Russian drone factory attacked, 1,000km away in Tatarstan - The Guardian",
       "pubDate": "Mon, 16 Jun 2025 01:02:00 GMT"
@@ -3191,6 +3171,10 @@
     {
       "title": "Republican senators\u2019 proposed Medicaid cuts threaten to send red states \u2018backwards\u2019 - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 14:38:00 GMT"
+    },
+    {
+      "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
+      "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
     }
   ],
   "science": [
@@ -3259,6 +3243,10 @@
     {
       "title": "Analysis | How voters in rural Wisconsin could decide the House majority - The Washington Post",
       "pubDate": "Mon, 23 Jun 2025 10:16:10 GMT"
+    },
+    {
+      "title": "Why Democrats Can\u2019t Get On the Same Page on Trump\u2019s Iran Strike - Time Magazine",
+      "pubDate": "Mon, 23 Jun 2025 19:07:23 GMT"
     }
   ],
   "north_korea": [
@@ -3471,6 +3459,10 @@
     {
       "title": "Former FBI cybersecurity official warns of likely Iranian cyber attacks - WJLA",
       "pubDate": "Mon, 23 Jun 2025 18:11:43 GMT"
+    },
+    {
+      "title": "DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes - The Hacker News",
+      "pubDate": "Mon, 23 Jun 2025 15:14:00 GMT"
     }
   ],
   "recession": [
@@ -4483,6 +4475,10 @@
     {
       "title": "Bitcoin Dips Below $100K as Iran Moves to Shut Strait of Hormuz - Bitcoin.com News",
       "pubDate": "Sun, 22 Jun 2025 14:59:03 GMT"
+    },
+    {
+      "title": "US investor strikes $1 billion merger to create bitcoin treasury company - Reuters",
+      "pubDate": "Mon, 23 Jun 2025 12:59:20 GMT"
     }
   ],
   "us_congress": [
