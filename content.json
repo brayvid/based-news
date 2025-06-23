@@ -2,41 +2,61 @@
   "Financial Markets": {
     "articles": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq waver after report of Iranian missile strikes aimed at US air bases - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONS0xR2Y5cFhvREJ2Yklwang4ZTdnVkRjSVhQejY3d1NPM3JDa0trMmRUQ0pzN09TQS1MQXp3ZUlRZU55QU53SWJZWDlBbE11LTRFY2xSV1I3UVgtOFBFUk1KNkpBUThuU2RsTGJWQWRkWHV5T1ppeGFoT3pnUVU2WS0tUGREV05YdWx0VUdpOE9rWGZ1QU1oc3ZvZTg1dk5pSjRVNzN3ckNQZjhhd0plSWdMXzI0eVJBOExNVF9SM3dNd3NyNGR2dTB5TkF4U0FYdkhSY3dmRG5IXzdpU1V4dVNrUGktdGtiZ0k4?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 17:21:46 GMT"
+        "title": "Stocks rise and oil tumbles as Wall Street hopes for a limited retaliation after US strikes on Iran - KTVN",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTDJMcjA3c1FrZXQ1XzRPeVZENUVzbUhseUx2QU9YNDhqMjYtTC14aFBsdGp2WUg5OHB0RG9vVE5aTHhIS25US2FhSTdkUFVEMWNVWTI5TzhuMFNIeHcxOWZLc1NGRUE1QVRCdUM4VWw1WkhsMW4temkxdzZYRjhPX0duRGZxTElaWkl3eFFEMkVqbE5UcWc2MXZkd1lKZVUxZlZmVktJUmU3VlliVHUxN3U1a0JBT01lYnNZeEpLeHo1c3Zjc3RHcWhRZTVqOG9iTHFJY1dxUXlIV2YxNzRJckNxX2NuOVQ5UWhFSkdYbWV6czVvcWYwVUY3cXlPUQ?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 18:28:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T18:03:15.370068+00:00"
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "Former FBI cybersecurity official warns of likely Iranian cyber attacks - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPYUYyb3R4MG9saGI1djI3SWhhY1lJWnBNZDF5UVljTmJEdEJHY09QZzhWRG0tdU9kTjNxZFpHUzk1ZUZVUWdsYzRHZFBadXJkOG1LU0s2QVkwUHlmNDlJc0pQQ2U5YnVSdTc1R3dQNV9TOW51ZDZvSF9lbEM2OW5lTUV1SFlGUE4wRVNYdVNMRFF4a1JFQ25rU3BUaDZoS3MzVUNFQ3FVVkJwUmY5YVY4bEwyV1IzR0p1dWRxbzczVDJia2ZSOE85Tm9yd1RxSWlRdnRtMzlDOFNfeGdpNEFiVTJvUXRFZ2RIYVFNN3FKZEM1V1NhQ3JYY1lKVWphYXZiTW0zUHNXUER2T3U3ZlJwWlZqRFQtZUpwUl9RbXdKZDc4d2k3dUJGN2FDWFdYLXEtRUlZa2FB?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 18:11:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Goldman Sachs Expands Availability of AI Assistant Across Firm - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnVPODJ6SUZVdGpwX1V4MloyZC10c1FfbW42UTNWQTRUNHVhd1Zaa1hkN09vTXNkQV9uTi1XNVhwZXI1UnRJc2dkbjl5VTNFR0NxeGlkSkd5R3hiSi1IRWI3Sk5Jc0F6XzBUbEJTd2hhaFZILUtadmpHZlNINVMtNkh1cXUtQ195dEpSWTFTQnFQQmdtblR5WlVLNld1TXEzOU9PWWlyYmxrdTZjVUxmYUhBR0FVLUoz?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 17:50:17 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
   },
   "Iran": {
     "articles": [
       {
-        "title": "Iran attacks U.S. military base in Qatar with missiles - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsU0o1eGxrbzRGN1lNVWp1aW1ZV2tRNUFIWktSREwzVWc3ZFc5dWhZcmZYT1hfc3JvQkNJQjJnajQ3TkZRSHVWakhoVW4wOWRHRHB4bzVUbG5rZ0V5b2JNVGVYRGNIdllwV0FFQl9RZmFuZ9IBd0FVX3lxTFB4LTA4NXdlWkdLNVN0WEtYbVBSU29aaWZQU0VTQmQwc1U4cGxXb19zVkQtZHdmQ1o5MUd0T0ZoOURnbUtjRVBScnBlT2NmTU1xdGtZeHJXcTZMN2dVRURsVW94MWdacVF5Mzg2Y2IydjZLbXRrbEY0?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 17:02:38 GMT"
+        "title": "U.S. intel found Iran did not move nuclear material from Fordo ahead of attack, Sen. Mullin says - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzltVlctQjVNcVdoQW5iaWVNS2gtN1VBN2VZb3V1SU1RNkJQajdFOV9ESHY1b2NranlPY0M4S09rMXZXU05xZFFHcFM3UW1oczVINW81MVZwbG5xS2xfQzh3NlRzWmw5SFpSXzJZaWZubDVYQmpXMDlsS2oyWlNxOUxLbzHSAYoBQVVfeXFMUGNYWGZQNl9JRUNiMmpMODVTRlVJeXhVaHFOMmhiZnhQVUY2RkVJSFhtcUw2OE55WTUyM2VOdnp5WlUtclRJNnVyUWMxTXdlbmtFRFBHN19Wc05jeFMxX2ZzRHR3ekNraFdsNHFzd0JfcU51bHh3T2ozRzhHNWZaZjVUWl85RmZ1THlR?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 16:16:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T18:03:15.370068+00:00"
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
   },
-  "Donald Trump": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Trump slams Russia's Medvedev for claiming countries will give Iran nuclear warheads - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjUjA0SWMtT01hcUIwTGRCRF9VdU5qZ1RmRlBhYXdVRkZFV09mTWhNMjZOTFVYd2daaFV3azVHM1dQd1NqcmhGV1QycTE3bDZaeGp2cFRZc2RKbWNEREtiSzh4UXNsaDlTVXBraklmeG9JY2JoQ3FkMDVqNNIBgAFBVV95cUxNTUZsLVE3OGNsaVZwczg1TmVLY1lObEZYTmFuSjNHZW1LZTFXdGptNzVDeWNXdlQxMnVFRHIwNTlEY0FWX19ZT2FTbGM5QXpOMFl3elhGSUNnTVR3RDNRSkpRejNKci1VcG1UYUNfWTJKQXpOMVlyTGt3c1RJNXNVNA?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 16:57:18 GMT"
+        "title": "Republican senators\u2019 proposed Medicaid cuts threaten to send red states \u2018backwards\u2019 - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGdieG9RVDJGa0tXdmwxMXFmSWYzR1RRYmNnd0tUQmRiWmMwaV96NXE5ZVRodjlNWGJOQWNqTExXMWlfUDNzOWF1SV9TSjhqcDQ3WUg4ZGJLTmJ3aHROeFZGNkFHWS1LTllOS2M0b2xXVUdrMlZYWjNfVnhwZXBLUS1tVmVtZXY3bjBUWUFiOVdtMHdO?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 14:38:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T18:03:15.370068+00:00"
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
   },
-  "US Economy": {
+  "NASA": {
     "articles": [
       {
-        "title": "US Economic Outlook Remains Dark as Major Forecast Sees Sixth Straight Drop - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWkFiaV9TY3R3S0dVcnFnM3QzR1dsR1FnblhFMGJrVUozM0tRMzA4ZllwUjdiQk0yZlNzT2R1R09VUndkR1dVMjZyd3l2MDUyRFBlOHNTMDJ6azhqZkUybjltNDh1TnhQRjRVdmxISVFxcW1nZWFtdjZ3Ym9ENTAzdk1Nb2YtN1E?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 16:10:14 GMT"
+        "title": "Proposed NASA cuts could jeopardize research and jobs in Tennessee - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeE1KNHRNdzZ5dWR2Z3hIYkZ0aDQ3bEVwMFBYRFdxS28wQS1Paml6NzU0Vmk3RWxVTDFwUDlZejl0MzFkS1JOdnphbTRhZ0dqZ2pGdFZic2VsME55T3M0M0NBN2s3WVVrNlBJRnc5bkJIbXhwOS1tTzlHSVhvNFRjOVIwTzJyVUNMcEE?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 11:18:35 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T18:03:15.370068+00:00"
+    "last_updated_ts": "2025-06-23T19:03:27.519810+00:00"
   }
 }
