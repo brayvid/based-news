@@ -1111,6 +1111,10 @@
     {
       "title": "Live updates: Trump says Iran gave the US \u2018early notice\u2019 on its military strike - AP News",
       "pubDate": "Mon, 23 Jun 2025 21:02:00 GMT"
+    },
+    {
+      "title": "Trump says Iran and Israel agree to a ceasefire - Reuters",
+      "pubDate": "Mon, 23 Jun 2025 22:12:08 GMT"
     }
   ],
   "russia": [
@@ -1265,10 +1269,6 @@
   ],
   "ai_safety": [
     {
-      "title": "NY Senate Passes RAISE Act for AI Safety Safeguards - WebProNews",
-      "pubDate": "Sun, 15 Jun 2025 22:30:09 GMT"
-    },
-    {
       "title": "New York passes AI safety bill to prevent \"catastrophic risks to humanity\" - The Daily Star",
       "pubDate": "Mon, 16 Jun 2025 08:18:04 GMT"
     },
@@ -1358,10 +1358,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Oil prices jump more than 3%, adding to last week's surge, as Israel strikes Iran energy facilities - CNBC",
-      "pubDate": "Sun, 15 Jun 2025 22:10:10 GMT"
-    },
     {
       "title": "Federal Reserve Likely to Maintain Interest Rates Amid Economic Uncertainty - Binance",
       "pubDate": "Mon, 16 Jun 2025 00:13:41 GMT"
@@ -2079,6 +2075,10 @@
     {
       "title": "Development of the treatment prediction model in the artificial intelligence in depression \u2013 medication enhancement study - Nature",
       "pubDate": "Mon, 23 Jun 2025 21:07:01 GMT"
+    },
+    {
+      "title": "NMSU to launch New Mexico's first Bachelor's Degree in Artificial Intelligence - KFOX",
+      "pubDate": "Mon, 23 Jun 2025 22:16:24 GMT"
     }
   ],
   "climate": [
@@ -2153,6 +2153,10 @@
     {
       "title": "Banks Drop the Climate Pretense and Follow the Money - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 21 Jun 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Heat waves are getting more dangerous with climate change \u2014 and we may still be underestimating them - CNN",
+      "pubDate": "Mon, 23 Jun 2025 16:47:00 GMT"
     }
   ],
   "ukraine": [
@@ -2581,10 +2585,6 @@
       "pubDate": "Mon, 16 Jun 2025 02:11:00 GMT"
     },
     {
-      "title": "China adds 100 nuclear warheads in past year, report shows - Nikkei Asia",
-      "pubDate": "Sun, 15 Jun 2025 22:28:00 GMT"
-    },
-    {
       "title": "China Retail Sales Jump Most Since 2023 in Relief From Tariffs - Bloomberg",
       "pubDate": "Mon, 16 Jun 2025 02:57:00 GMT"
     },
@@ -2887,6 +2887,10 @@
     {
       "title": "China Issues Warning Over US Bombing of Iran - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 07:43:20 GMT"
+    },
+    {
+      "title": "China not seen as likely to use navy to secure Hormuz Strait - South China Morning Post",
+      "pubDate": "Mon, 23 Jun 2025 21:45:20 GMT"
     }
   ],
   "world_news": [
@@ -3319,10 +3323,6 @@
   ],
   "trade_war": [
     {
-      "title": "Exclusive: US-China trade truce leaves military-use rare earth issue unresolved, sources say - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 22:59:51 GMT"
-    },
-    {
       "title": "China retail sales jump while industrial growth slows on trade war turmoil - Financial Times",
       "pubDate": "Mon, 16 Jun 2025 05:07:13 GMT"
     },
@@ -3647,6 +3647,10 @@
     {
       "title": "IDF says it has been intercepting dozens of Iranian drones using electronic warfare means - The Times of Israel",
       "pubDate": "Mon, 23 Jun 2025 13:58:49 GMT"
+    },
+    {
+      "title": "Ukraine intelligence chief gives new details on Spiderweb drone operation - The Washington Post",
+      "pubDate": "Mon, 23 Jun 2025 22:30:33 GMT"
     }
   ],
   "hamas": [
@@ -3745,10 +3749,6 @@
     {
       "title": "An earthquake off Peru\u2019s coast shakes capital, leaving one person dead and 5 injured - CNN",
       "pubDate": "Mon, 16 Jun 2025 03:14:00 GMT"
-    },
-    {
-      "title": "Iran Earthquakes: Tremors Felt In Qom, Fordow Nuclear Site And Sistan, Baluchestan Province - Times Now",
-      "pubDate": "Sun, 15 Jun 2025 22:57:26 GMT"
     },
     {
       "title": "5.6 earthquake strikes near Lima, Peru, killing 1 and injuring several - AccuWeather",
@@ -4223,6 +4223,10 @@
     {
       "title": "Trump Is Turning the US Into an Electric Vehicle Laggard - Bloomberg.com",
       "pubDate": "Wed, 18 Jun 2025 07:00:38 GMT"
+    },
+    {
+      "title": "Experts discover game-changing solution to one of electric vehicle industry's biggest challenges: 'It can have a big impact' - The Cool Down",
+      "pubDate": "Mon, 23 Jun 2025 15:15:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4573,6 +4577,12 @@
     {
       "title": "Senate GOP unlikely to release revised megabill text Monday - Politico",
       "pubDate": "Mon, 23 Jun 2025 15:07:08 GMT"
+    }
+  ],
+  "fbi": [
+    {
+      "title": "F.B.I. Warns of Possible Retaliation by Iran After Bombing of Nuclear Sites - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 18:34:11 GMT"
     }
   ]
 }
