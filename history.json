@@ -191,10 +191,6 @@
       "pubDate": "Sun, 15 Jun 2025 20:13:13 GMT"
     },
     {
-      "title": "Israel attacked three key Iranian nuclear facilities. Did it strike a decisive blow? - CNN",
-      "pubDate": "Sun, 15 Jun 2025 16:05:00 GMT"
-    },
-    {
       "title": "Iran\u2019s Leaders Face a Reckoning as Israeli Strikes Intensify - Bloomberg",
       "pubDate": "Sun, 15 Jun 2025 21:00:29 GMT"
     },
@@ -481,6 +477,10 @@
     {
       "title": "Israel-Iran latest: Israel strikes Tehran prison and Fordow nuclear site - Financial Times",
       "pubDate": "Mon, 23 Jun 2025 15:04:05 GMT"
+    },
+    {
+      "title": "LIVE: Israeli attacks hit Iran, southern Lebanon, Gaza - Al Jazeera",
+      "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
     }
   ],
   "donald_trump": [
@@ -1107,17 +1107,13 @@
     {
       "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
       "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
+    },
+    {
+      "title": "Trump rips Russia\u2019s Medvedev over nuclear remarks - The Hill",
+      "pubDate": "Mon, 23 Jun 2025 16:31:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Ukraine drone attack on Russia\u2019s Tatarstan region leaves at least 1 dead, 13 injured - ABC News",
-      "pubDate": "Sun, 15 Jun 2025 16:09:51 GMT"
-    },
-    {
-      "title": "Russia reports Ukrainian drone attack on drone factory in Tatarstan - The Kyiv Independent",
-      "pubDate": "Sun, 15 Jun 2025 16:25:27 GMT"
-    },
     {
       "title": "Russia attacks Kyiv Oblast with drones, injuring 1 - The Kyiv Independent",
       "pubDate": "Mon, 16 Jun 2025 00:10:01 GMT"
@@ -1545,6 +1541,10 @@
     {
       "title": "Oil prices flip-flop and Wall Street drifts after U.S. bombs Iran - Spectrum News",
       "pubDate": "Mon, 23 Jun 2025 13:36:00 GMT"
+    },
+    {
+      "title": "Why Markets Are Weirdly Calm After the US Bombed Iran - Business Insider",
+      "pubDate": "Mon, 23 Jun 2025 13:59:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2047,6 +2047,10 @@
     {
       "title": "Swedish PM calls for a pause of the EU\u2019s AI rules - politico.eu",
       "pubDate": "Mon, 23 Jun 2025 15:32:35 GMT"
+    },
+    {
+      "title": "OpenAI Confirms Firing of Staff Guarding Model Secrets After U.S. Tightens AI Controls - CoinCentral",
+      "pubDate": "Mon, 23 Jun 2025 15:58:17 GMT"
     }
   ],
   "climate": [
@@ -4513,6 +4517,12 @@
     {
       "title": "A new practical way to implement predictive analytics in healthcare - Healthcare IT News",
       "pubDate": "Mon, 23 Jun 2025 00:51:49 GMT"
+    }
+  ],
+  "fusion_power": [
+    {
+      "title": "US company reaches critical turning point in journey to build nearly limitless energy device: 'Provides a sound foundation' - Yahoo",
+      "pubDate": "Mon, 23 Jun 2025 10:30:19 GMT"
     }
   ]
 }
