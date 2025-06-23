@@ -1,72 +1,32 @@
 {
-  "Financial Markets": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjRyZGRIT2ZtXzNCSUViU1AwZi1tTXNDMVM3aWFzQXd4dlhKbERuVEUtZWcwOGNaM1VlTW5oazF0OFhmYnFkd0FUWmYyTFJ6cEs2eWdKMFI3NWlKMUE5RzA1WkJaS1kxTVhRRFBIblQtVWRmajUtUzJuUXJVcWQ3Sk8zZGZNcHFWbWlhYXdQZnJYb2NCRnIwN1lQQkRPczhTald1YlpyMkxxVHZ2dnR0SmpR?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
+        "title": "Physical AI can help humans manage complex environments - The World Economic Forum",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW1uRk5xQXZrdFduYzN1bUR3TVlWMmw4cGR2OGM2eXhRYlRLSGlWZzQzakNBeVNhMUtsZkpHNXU1T2t4dXRNQjU0YXVEdW9nbHJ5R1RLS1JNYnBPRG1DMXdLbFBsQTdITTllYVFiOUsycHA5TkEwZlV1UkljYkpXcGEyczhIdGlSWG5LV3NSMFFFelE?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 07:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China Asks State-Owned Developers to Avoid Public Debt Defaults - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlpfRTBxdU9XdkhFS0xWMjJpcktyQlJMN3FJcmZwdGs2TUQ3VWc0OHRVUHlUc3hybDdkN3B6d3c5VkVLSy1kMllCNFh1TU8zUFhFTzFUTHVPNV9NOG8xeGJkRnc4eW9QSFBwcHcxVzczT0VnOERseUQ0dGJHYjFLUWxLODdEMlAzNE9LZXc0TUpaVXZnZXBZQWFYdV9lc1ZPdmNoVjhUWUtFY2VBa2NoSk1BLVM?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 07:07:26 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
+    "last_updated_ts": "2025-06-23T08:59:37.139780+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia Hits Kyiv\u2019s Civilian Infrastructure Killing At Least Five - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXJ3dUI3cU1aMlNId3pZN0M4bl83cEVoaWszcEhxM3ljNWVFUUpJNnpLd1h1SG9yUE1LV3lMMjZTTkcwcXppQ2tzdFZmUVEtWlVzYUJBZnh6dVhnT3AxNmFVVTIwa1M4QVh2alI5aUFoOEVDY3ZNSldFaGpZeklhaUNKd0tLVTBuV216MVlqNnhwdUF3X3FPQ2FwTkZRN2hJOG4yWlRQTVA2eGQzOWd1elF3SXBrQQ?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 06:43:00 GMT"
+        "title": "Russia's mass missile, drone attack on Kyiv kills 6, injures at least 19 - The Kyiv Independent",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQTRndS02ZHpXWXBFa3FZM0RQVWhKUDEwLWVkSl9OUFhUM19FUzZpVW9JWW5LeE5qOGhYVndyOGVjNlk2bnlQS1FET1dTOTZNc05aTC1yODVqMWtQNDBabTVBcWJ0YnlkRno1ZXBoT0RVcDVYNVFRaUdn0gF_QVVfeXFMTjFYemRoNVg2SFpXbjcybzk1bTluVFh3d212SHUybG4xRC13aEtmRVI4VmVYMlNJQkhacm5obWd3aWZrVlAxSkxyM2FncXprd2FWLWJpSkU0OEF4dDNPdVE4endTZWxiV1BQUzRCTTBPdjVDTEMwTzVRRU9yd25wUQ?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 04:54:02 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
+    "last_updated_ts": "2025-06-23T08:59:37.139780+00:00"
   },
-  "Donald Trump": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Israel-Iran live updates: Region fears wider war; Trump raises prospect of regime change in Iran - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGozamNyV0tfV0otVTdDbmpDUEJ5ZnFOYTNoQVh4UENfN0Jpc0Z1OFNFRkM2Q0pINDBLN3N5MHhHWlNmYWNNQ1NUQzdlM1B2SjBZLTVqM1VRZk9GRzV5d1R2a1ZDMlNVaEkwQWFxbklGTzUtTWRkWnQtVmUzSFl5ZUZpVnJQT3k4cmc?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 06:40:37 GMT"
+        "title": "Oil futures surge following US strikes in Iran - CNN",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWUgxTTRMZGs0Q1ZIaHNJR24td1Rra1J6eU5qbUV4akc1WlByNkZURHhJbGZUbnZkR0M1a1pYQV8tckc3c1RwMmViZWZVOHQtUm42U2tuVWxHTXZjWXlERTBTNFJ2OHdiTHdRYmpVSmjSAXZBVV95cUxQODk3TXVYWlBsNVV3cHZGd2FJZUE1UG1OQ1NxSUNQcE01MHo5alJrVXlvdVh4WVN5WThZT1I4VjV1NWRtUkRKbHZxa0I2dHc5cXgzTkpfMlZWRFJkQkE0cVlTdmQ5M25hXzBZTmpubE16SC1PdDBB?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 01:28:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
-  },
-  "Astronomy": {
-    "articles": [
-      {
-        "title": "Thousands of asteroids and millions of galaxies shine in first images from the largest camera ever built - CNN",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zLTZaWEk0TmIzU3lhY0NxS0dFYXJjaHhBcHlYQkhVbjl1TWZEWVE3RGZvN2RscHhESjJWdTRuQ0JKNWV0V1ZFNWhhYnpPQnVHYjRjYjl0N21SVjBtdnU1amdtazNJY1VIUjJzcFFWcWI3ZWhuTE5wMy1hNTl3ODQ?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 04:01:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Teaching students how to use AI responsibly - The Transmitter",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNalcyRlhqQ1ZFaWdsZ2NucHltOC1GZ3BwS20xN0xBVlYzbWlnZkVabzZUb20zRmRraFA2VjJSNHliVm1xWjVUN1BPM2FYZFNlTE81MXBlYmlNQzdOc3VGTGFkUlhIV1F3ZG92SlFIVTh5X2IyeEN1bVV2b2h0RU8zcnVTSW50WGwyQ1pmcjloSjlIdU5jeThCVFhvdEh3QW8zTzY1U1QtMTFrdXBWc1VhZHhabzc4VXQyeXJ0QlgweU85MVhOdHh1Y2RsdEE1Zk1LeDBUeFNXZzdyOGlNNHlOTG9HT1AyWUF6UGpOTmVXekdERURIcmlER0JMSzJDSGxHTVhVZQ?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 04:00:07 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
-  },
-  "Analytics": {
-    "articles": [
-      {
-        "title": "A new practical way to implement predictive analytics in healthcare - Healthcare IT News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGRrajBLR1RqZlhSQk9nVFpEbFZNeHNneVQ3WnF2VTF0LU56VklEM01KcGZDWlBNQ0pTeG1FeFEtMUxVQmFGeUZDQzJOVGZOeGFJdWdsZ3VCSDRUNmZjSmhYbmh2VVpSZWxZVmVwVmR4U0ZUblV2NU44Nk0xUjFLU0Fuc2pETzY0VjBUT0xzNWdGbVFfLXdoNHBBYkJtc291djhoWA?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 00:51:49 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-23T07:59:17.329597+00:00"
+    "last_updated_ts": "2025-06-23T08:59:37.139780+00:00"
   }
 }
