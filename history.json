@@ -517,13 +517,13 @@
     {
       "title": "Israel warns campaign against Iran is not over as ceasefire takes hold - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 14:55:10 GMT"
+    },
+    {
+      "title": "Israel says it will respect Iran ceasefire \u2018as long as the other side does\u2019 \u2013 live updates - The Guardian",
+      "pubDate": "Tue, 24 Jun 2025 19:29:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: Trump attends G7 summit in Canada amid trade tensions - NBC News",
-      "pubDate": "Mon, 16 Jun 2025 20:03:04 GMT"
-    },
     {
       "title": "Trump Will Not Sign G7 Statement on Iran and Israel, Official Says - The New York Times",
       "pubDate": "Mon, 16 Jun 2025 20:53:54 GMT"
@@ -1151,6 +1151,10 @@
     {
       "title": "Donald Trump dodges commitment to founding NATO principle - Sky News",
       "pubDate": "Tue, 24 Jun 2025 17:57:50 GMT"
+    },
+    {
+      "title": "Live updates: Trump telegraphs defense spending concerns ahead of NATO arrival - AP News",
+      "pubDate": "Tue, 24 Jun 2025 18:49:00 GMT"
     }
   ],
   "russia": [
@@ -1297,13 +1301,13 @@
     {
       "title": "Putin Going to War with NATO Would Cost World $1.5 Trillion - Bloomberg.com",
       "pubDate": "Tue, 24 Jun 2025 13:15:00 GMT"
+    },
+    {
+      "title": "Russia says it supports Iran with 'clear stance' condemning US and Israeli strikes, intends to deepen Tehran ties - The Times of Israel",
+      "pubDate": "Tue, 24 Jun 2025 09:20:07 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Accountability Takes Center Stage as New York Approves RAISE Act - eWEEK",
-      "pubDate": "Mon, 16 Jun 2025 19:26:24 GMT"
-    },
     {
       "title": "AI safety bills await Hochul\u2019s signature - NEWS10 ABC",
       "pubDate": "Mon, 16 Jun 2025 20:59:49 GMT"
@@ -1402,14 +1406,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks Rise as Fear of All-Out Mideast War Eases: Markets Wrap - Yahoo Finance",
-      "pubDate": "Mon, 16 Jun 2025 19:15:53 GMT"
-    },
-    {
-      "title": "Global markets recover on Iran ceasefire reports, central banks in focus - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 19:25:01 GMT"
-    },
     {
       "title": "Bitcoin production costs up 9% on higher hashrate, energy prices - Cointelegraph",
       "pubDate": "Tue, 17 Jun 2025 01:57:46 GMT"
@@ -2139,6 +2135,10 @@
     {
       "title": "Samsara unveils new AI safety tools for physical operations - Investing.com",
       "pubDate": "Tue, 24 Jun 2025 16:19:57 GMT"
+    },
+    {
+      "title": "Judge rules Anthropic's AI training on copyrighted materials is fair use - Engadget",
+      "pubDate": "Tue, 24 Jun 2025 18:26:03 GMT"
     }
   ],
   "climate": [
@@ -2629,6 +2629,10 @@
     {
       "title": "Americans sour on US economy and anxiety over tariffs remains the chief culprit - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 17:21:47 GMT"
+    },
+    {
+      "title": "Americans' take on the economy turns sour in June - The Detroit News",
+      "pubDate": "Tue, 24 Jun 2025 15:31:38 GMT"
     }
   ],
   "china": [
@@ -2965,14 +2969,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate version of Trump agenda bill cuts more from Medicaid: GOP aides - The Hill",
-      "pubDate": "Mon, 16 Jun 2025 20:01:00 GMT"
-    },
-    {
-      "title": "Senate to maintain cap on state tax deductions, imperilling Trump\u2019s bill - Financial Times",
-      "pubDate": "Mon, 16 Jun 2025 19:57:17 GMT"
-    },
-    {
       "title": "Senate Republicans unveil plan for cuts to Medicaid and taxes in Trump agenda bill - KTEN",
       "pubDate": "Mon, 16 Jun 2025 23:51:33 GMT"
     },
@@ -2983,10 +2979,6 @@
     {
       "title": "Proposed GOP spending cuts could impact health care coverage for millions - CBS News",
       "pubDate": "Mon, 16 Jun 2025 23:07:00 GMT"
-    },
-    {
-      "title": "US prosecutors charge Minnesota shooting suspect with murder - Financial Times",
-      "pubDate": "Mon, 16 Jun 2025 19:45:30 GMT"
     },
     {
       "title": "Senate overhauls Trump\u2019s tax bill, setting up brawl with the House - The Washington Post",
@@ -3483,10 +3475,6 @@
   ],
   "recession": [
     {
-      "title": "\u2018Worse than a recession\u2019: Billionaire investor Ray Dalio sounds alarm on Trump\u2019s economic agenda - Yahoo Finance",
-      "pubDate": "Mon, 16 Jun 2025 19:24:00 GMT"
-    },
-    {
       "title": "White House pauses ICE raids on farms, hospitality firms; Businesses lower recession expectations: Labor shortage threatens economy - CoStar",
       "pubDate": "Mon, 16 Jun 2025 20:53:44 GMT"
     },
@@ -3777,6 +3765,10 @@
     {
       "title": "7 California faults that could produce among the most devastating earthquakes - Los Angeles Times",
       "pubDate": "Tue, 24 Jun 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Magnitude 2.7 earthquake registered in Los Angeles - Los Angeles Times",
+      "pubDate": "Tue, 24 Jun 2025 19:42:08 GMT"
     }
   ],
   "hurricanes": [
@@ -3861,6 +3853,10 @@
     {
       "title": "The first Atlantic tropical storm of 2025 could form today. Could it make landfall? - MassLive",
       "pubDate": "Mon, 23 Jun 2025 15:10:00 GMT"
+    },
+    {
+      "title": "Tropical Storm Andrea forms, marking first named storm of Atlantic hurricane season - FOX Weather",
+      "pubDate": "Tue, 24 Jun 2025 14:12:00 GMT"
     }
   ],
   "quantum": [
@@ -3913,10 +3909,6 @@
   ],
   "amazon": [
     {
-      "title": "Amazon to rejigger its healthcare business - Healthcare IT News",
-      "pubDate": "Mon, 16 Jun 2025 19:09:57 GMT"
-    },
-    {
       "title": "Amazon CEO Jassy says AI will reduce its corporate workforce in the next few years - Yahoo Finance",
       "pubDate": "Wed, 18 Jun 2025 13:59:20 GMT"
     }
@@ -3925,10 +3917,6 @@
     {
       "title": "OpenAI executives have discussed accusing Microsoft of anticompetitive behavior, WSJ reports - Reuters",
       "pubDate": "Mon, 16 Jun 2025 20:16:23 GMT"
-    },
-    {
-      "title": "Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ",
-      "pubDate": "Mon, 16 Jun 2025 19:58:00 GMT"
     },
     {
       "title": "OpenAI-Microsoft tensions escalate over control and contracts - Computerworld",
