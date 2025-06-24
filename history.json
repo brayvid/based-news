@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel attacks Gaza aid again: 38 Palestinians killed; deadliest toll in near-daily shootings - Times of India",
-      "pubDate": "Mon, 16 Jun 2025 11:42:00 GMT"
-    },
-    {
       "title": "Live updates: Israel-Iran attacks, missile strikes on Tehran, Tel Aviv, Haifa, rising death tolls - CNN",
       "pubDate": "Tue, 17 Jun 2025 00:36:00 GMT"
     },
@@ -1143,6 +1139,10 @@
     {
       "title": "Trump declares victory as Iran, Israel accept ceasefire - Axios",
       "pubDate": "Tue, 24 Jun 2025 09:27:57 GMT"
+    },
+    {
+      "title": "Live Updates: Trump Lashes Out at Israel and Iran as Fragile Truce Is Tested - The New York Times",
+      "pubDate": "Tue, 24 Jun 2025 11:37:30 GMT"
     }
   ],
   "russia": [
@@ -1293,10 +1293,6 @@
   ],
   "ai_safety": [
     {
-      "title": "What is 'red teaming' and how can it lead to safer AI? - The World Economic Forum",
-      "pubDate": "Mon, 16 Jun 2025 11:49:07 GMT"
-    },
-    {
       "title": "Shaping AI Standards to Protect America\u2019s Most Vulnerable: Tech Innovators - Tech Policy Press",
       "pubDate": "Mon, 16 Jun 2025 14:53:48 GMT"
     },
@@ -1395,6 +1391,10 @@
     {
       "title": "AI safety concerns grow after new study on misaligned behaviour - Digital Watch Observatory",
       "pubDate": "Tue, 24 Jun 2025 10:18:08 GMT"
+    },
+    {
+      "title": "Experts discover AI would blackmail and even sacrifice humans to avoid being replaced - Indy100",
+      "pubDate": "Tue, 24 Jun 2025 11:15:28 GMT"
     }
   ],
   "financial_markets": [
@@ -1617,21 +1617,13 @@
     {
       "title": "Oil prices shed 2% as Iran-Israel ceasefire eases concerns over supply, Strait of Hormuz closure - CNBC",
       "pubDate": "Tue, 24 Jun 2025 08:09:51 GMT"
+    },
+    {
+      "title": "Stocks, oil decline as Israel-Iran ceasefire appears shaky - InvestmentNews",
+      "pubDate": "Tue, 24 Jun 2025 10:34:36 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Truly Intelligent AI Could Play by the Rules, No Matter How Strange - Scientific American",
-      "pubDate": "Mon, 16 Jun 2025 11:30:00 GMT"
-    },
-    {
-      "title": "AI Stocks Face 'Show Me' Moment: Meta, Nvidia, CoreWeave Flex Muscles - Investor's Business Daily",
-      "pubDate": "Mon, 16 Jun 2025 11:25:00 GMT"
-    },
-    {
-      "title": "Why AI has a big branding problem - Fast Company",
-      "pubDate": "Mon, 16 Jun 2025 11:09:02 GMT"
-    },
     {
       "title": "Artificial Intelligence Helps Make Titanium More Useful - Assembly Magazine",
       "pubDate": "Mon, 16 Jun 2025 15:30:00 GMT"
@@ -2367,6 +2359,10 @@
     {
       "title": "Russia and Ukraine swap drone attacks as ceasefire efforts remain stalled - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 09:27:24 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Zelensky plans to meet Trump at Nato summit - The Independent",
+      "pubDate": "Tue, 24 Jun 2025 11:41:28 GMT"
     }
   ],
   "us_economy": [
@@ -2629,13 +2625,13 @@
     {
       "title": "The US economy is on the cusp of a recession based on LEI - MSN",
       "pubDate": "Tue, 24 Jun 2025 09:13:35 GMT"
+    },
+    {
+      "title": "Why 'Pervasive Uncertainty' Sums Up the U.S. Economy Right Now - WSJ",
+      "pubDate": "Tue, 24 Jun 2025 08:11:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China's factories slow, consumers unexpectedly perk up - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 11:16:34 GMT"
-    },
     {
       "title": "Is more than trade on the table after US-China talks in London? - South China Morning Post",
       "pubDate": "Mon, 16 Jun 2025 12:01:54 GMT"
@@ -2931,6 +2927,10 @@
     {
       "title": "Don\u2019t Count on China Bailing Out Iran - Foreign Policy",
       "pubDate": "Mon, 23 Jun 2025 19:51:41 GMT"
+    },
+    {
+      "title": "China\u2019s Answer to World Bank Doubles Down on Global Ambitions - Bloomberg",
+      "pubDate": "Tue, 24 Jun 2025 11:05:54 GMT"
     }
   ],
   "world_news": [
@@ -3223,6 +3223,10 @@
     {
       "title": "Supreme Court sides with Trump in deportations case; Senate presses ahead with Trump agenda bill - NBC News",
       "pubDate": "Tue, 24 Jun 2025 04:20:00 GMT"
+    },
+    {
+      "title": "Republican Move to Mask $3.8 Trillion Tax-Cut Cost Rings Alarms - Bloomberg",
+      "pubDate": "Tue, 24 Jun 2025 11:00:00 GMT"
     }
   ],
   "science": [
@@ -3291,10 +3295,6 @@
   ],
   "north_korea": [
     {
-      "title": "North Korea suffered more than 6,000 casualties in Ukraine, UK intelligence says - The Independent",
-      "pubDate": "Mon, 16 Jun 2025 11:35:00 GMT"
-    },
-    {
       "title": "North Korea plans to send military construction workers and deminers to Russia - NPR",
       "pubDate": "Wed, 18 Jun 2025 06:52:52 GMT"
     },
@@ -3346,10 +3346,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump tariffs live updates: EU weighs 10% tariff deal as Trump's July deadline looms - Yahoo Finance",
-      "pubDate": "Mon, 16 Jun 2025 11:50:36 GMT"
-    },
     {
       "title": "Shipping chaos: Inside the industry at the frontlines of the US-China trade war - CNN",
       "pubDate": "Mon, 16 Jun 2025 22:00:00 GMT"
@@ -3640,10 +3636,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Scientists are dropping live mosquitoes out of drones in Hawaii. Here\u2019s why. - vox.com",
-      "pubDate": "Mon, 16 Jun 2025 11:30:00 GMT"
-    },
     {
       "title": "Taiwan seals Ukraine combat-tested drone software deal to help deter China - Reuters",
       "pubDate": "Tue, 17 Jun 2025 12:14:44 GMT"
