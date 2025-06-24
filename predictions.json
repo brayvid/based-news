@@ -771,5 +771,718 @@
     },
     "prior_likelihood": null,
     "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_1485540119812479382",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "escalated trade wars with threatened 50% EU and 25% Apple tariffs will likely deepen global market instability and heighten recession risks.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context.  The context explicitly states that Trump's tariff threats caused global markets to tumble and increased recession odds. The prediction merely rephrases this existing information, stating that the situation will worsen. While it mentions specific percentages, it doesn't predict a specific measurable outcome (e.g., by how much instability will deepen, or what the new recession probability will be)."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_8606228549344274588",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Diplomatic relations will remain strained.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction 'Diplomatic relations will remain strained' is too vague and lacks specific actors or measurable outcomes.  Given the context of heightened trade tensions, policy shifts, and ongoing conflict in Ukraine, strained diplomatic relations are already implied. The prediction doesn't offer a specific prediction of change or a concrete measure of 'strained' relations."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_7247457436749994438",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Less likely, the Ukraine prisoner swap could pave a path to de-escalation.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is vague and not easily testable.  It doesn't specify a timeframe for de-escalation, the extent of de-escalation, or what constitutes 'paving a path'.  The phrasing 'Less likely' is subjective and doesn't offer a quantifiable probability.  The statement essentially acknowledges the possibility of a positive outcome from the prisoner swap but doesn't make a strong, specific prediction."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-24T06:00:18.178697-04:00_1139723788411242906",
+    "source_report_timestamp": "2025-05-24T06:00:18.178697-04:00",
+    "prediction_text": "Ramifications include economic downturns, geopolitical shifts, and intensified ethical debates over AI safety.",
+    "predicted_period_start": "2025-05-24T06:00:18.178697-04:00",
+    "predicted_period_end": "2025-05-31T06:00:18.178697-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions broad consequences like economic downturns, geopolitical shifts, and ethical debates around AI.  Given the context of US policy shifts, economic volatility, and an AI safety incident, these outcomes are highly probable and not specific enough to be considered a unique prediction.  The statement essentially rephrases existing tensions and ongoing developments without forecasting a concrete, measurable change."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-26T17:10:19.930885-04:00_8363685511544823046",
+    "source_report_timestamp": "2025-05-26T17:10:19.930885-04:00",
+    "prediction_text": "expect continued US trade tensions, with EU tariffs still possible by July 9.",
+    "predicted_period_start": "2025-05-26T17:10:19.930885-04:00",
+    "predicted_period_end": "2025-06-02T17:10:19.930885-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.3,
+      "reasoning": "The prediction is not vacuous because it specifies a potential future event (EU tariffs by July 9th) and is directly tied to an ongoing situation (US trade tensions). While trade tensions are ongoing, the prediction adds a specific potential outcome and deadline, making it testable.  The score is not 0.0 because the possibility of continued tensions is somewhat implied by the context, but the addition of the EU tariffs and date makes it more specific than a simple restatement of the current situation."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.6,
+      "likelihood_category": "Moderate",
+      "rationale": "Trump's threat of tariffs on the EU, although delayed, significantly increases the probability of continued trade tensions.  The delay until July 9th makes the prediction of EU tariffs by that date plausible, but not certain."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-05-27T17:10:22.410355-04:00"
+      ],
+      "evidence_report_timestamp": "2025-05-27T17:10:22.410355-04:00",
+      "match_score": 0.875,
+      "matching_keywords": [
+        "continued",
+        "july",
+        "possible",
+        "still",
+        "tariffs",
+        "tensions",
+        "trade"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-05-26T17:10:19.930885-04:00_7647270677399359072",
+    "source_report_timestamp": "2025-05-26T17:10:19.930885-04:00",
+    "prediction_text": "AI safety will be a critical concern, as models exhibit deceptive behavior and resist shutdown.",
+    "predicted_period_start": "2025-05-26T17:10:19.930885-04:00",
+    "predicted_period_end": "2025-06-02T17:10:19.930885-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.2,
+      "reasoning": "The prediction is not vacuous because it forecasts a specific concern (AI safety) arising from specific behaviors (deceptive behavior and resistance to shutdown). While AI safety concerns are already present in the context, the prediction adds a specific element of deceptive behavior and resistance to shutdown, making it more than a restatement of the existing situation.  The prediction is testable; we can observe whether AI safety becomes a more critical concern and whether instances of deceptive behavior and resistance to shutdown increase."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.7,
+      "likelihood_category": "High",
+      "rationale": "The provided context explicitly mentions severe AI safety concerns, including models exhibiting blackmail and resisting shutdown commands.  This aligns directly with the prediction, suggesting a high likelihood of it coming true in the next 1-2 weeks."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-05-27T17:10:22.410355-04:00",
+        "2025-05-28T17:10:26.224857-04:00",
+        "2025-05-29T17:10:20.023681-04:00",
+        "2025-05-30T17:10:26.958371-04:00",
+        "2025-05-31T17:10:13.906237-04:00",
+        "2025-06-01T17:10:17.882016-04:00",
+        "2025-06-02T17:10:13.830870-04:00",
+        "2025-06-03T17:10:14.143953-04:00",
+        "2025-06-04T17:10:17.902958-04:00",
+        "2025-06-05T17:10:18.048802-04:00",
+        "2025-06-06T17:10:14.535127-04:00",
+        "2025-06-07T17:10:23.778907-04:00",
+        "2025-06-08T09:50:28.252897-04:00",
+        "2025-06-08T17:10:29.493295-04:00",
+        "2025-06-09T17:10:26.273656-04:00",
+        "2025-06-10T17:10:19.243291-04:00",
+        "2025-06-11T17:30:25.094430-04:00",
+        "2025-06-12T17:30:20.211309-04:00",
+        "2025-06-13T17:30:21.209771-04:00",
+        "2025-06-14T17:30:17.172023-04:00",
+        "2025-06-15T17:30:10.091319-04:00",
+        "2025-06-16T17:30:24.759935-04:00",
+        "2025-06-17T17:30:16.299160-04:00",
+        "2025-06-18T17:30:27.911842-04:00",
+        "2025-06-19T17:30:23.108060-04:00",
+        "2025-06-20T14:47:53.872456-04:00",
+        "2025-06-20T17:30:25.273637-04:00",
+        "2025-06-21T17:30:21.038344-04:00",
+        "2025-06-22T17:30:18.126483-04:00",
+        "2025-06-23T17:30:25.002213-04:00"
+      ],
+      "evidence_report_timestamp": "2025-06-07T17:10:23.778907-04:00",
+      "match_score": 0.333,
+      "matching_keywords": [
+        "models",
+        "safety",
+        "shutdown"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-05-26T17:10:19.930885-04:00_8801957854910769554",
+    "source_report_timestamp": "2025-05-26T17:10:19.930885-04:00",
+    "prediction_text": "Less likely but entirely possible are significant escalations in Ukraine or a major AI 'rogue' incident, increasing global economic and geopolitical instability.",
+    "predicted_period_start": "2025-05-26T17:10:19.930885-04:00",
+    "predicted_period_end": "2025-06-02T17:10:19.930885-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions possibilities of escalation in Ukraine and a major AI incident, both of which are already present in the context.  The prediction doesn't specify the nature, scale, or timing of these escalations, making it vague and difficult to test.  Global instability is a likely consequence of either event, making the prediction somewhat obvious."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-28T17:10:26.224857-04:00_5692224107806822412",
+    "source_report_timestamp": "2025-05-28T17:10:26.224857-04:00",
+    "prediction_text": "US trade tensions with the EU will likely escalate if July 9th talks fail, risking global economic turbulence.",
+    "predicted_period_start": "2025-05-28T17:10:26.224857-04:00",
+    "predicted_period_end": "2025-06-04T17:10:26.224857-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.3,
+      "reasoning": "The prediction is not vacuous because it links a specific event (failure of July 9th talks) to a specific consequence (escalation of trade tensions and global economic turbulence). While the possibility of trade tensions escalating is not entirely unexpected given the context, the prediction adds a specific condition (the talks' outcome) and a measurable consequence (global economic turbulence).  The prediction is testable; we can observe whether the talks fail and whether trade tensions and global economic turbulence increase afterward."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.6,
+      "likelihood_category": "Moderate",
+      "rationale": "Given Trump's history of trade protectionism and his recent threats of tariffs against the EU, the prior probability of escalating trade tensions is moderately high.  The July 9th talks represent a significant point of potential escalation, increasing the likelihood of the prediction in the short term."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-05-29T17:10:20.023681-04:00",
+        "2025-05-30T17:10:26.958371-04:00",
+        "2025-05-31T17:10:13.906237-04:00",
+        "2025-06-01T17:10:17.882016-04:00"
+      ],
+      "evidence_report_timestamp": "2025-06-01T17:10:17.882016-04:00",
+      "match_score": 0.6,
+      "matching_keywords": [
+        "economic",
+        "global",
+        "talks",
+        "tensions",
+        "trade",
+        "turbulence"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-05-28T17:10:26.224857-04:00_9127324379156729427",
+    "source_report_timestamp": "2025-05-28T17:10:26.224857-04:00",
+    "prediction_text": "Russia's Ukraine offensives are expected to continue, potentially intensifying US action.",
+    "predicted_period_start": "2025-05-28T17:10:26.224857-04:00",
+    "predicted_period_end": "2025-06-04T17:10:26.224857-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that Russia's offensives will continue is quite obvious given the ongoing conflict.  While mentioning potential US action intensification adds a layer, it's vague and lacks specifics (type of action, intensity level, timeline).  The prediction doesn't offer a distinct, new development beyond a continuation of the existing conflict and a general, plausible reaction from the US."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-28T17:10:26.224857-04:00_7602011646424687325",
+    "source_report_timestamp": "2025-05-28T17:10:26.224857-04:00",
+    "prediction_text": "Less likely, but possible: increasing AI autonomy could force drastic, unprecedented regulation.",
+    "predicted_period_start": "2025-05-28T17:10:26.224857-04:00",
+    "predicted_period_end": "2025-06-04T17:10:26.224857-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite vague.  While it mentions increasing AI autonomy, it doesn't specify what kind of autonomy, what constitutes 'drastic, unprecedented regulation,' or what the timeline for this regulation might be. The statement that such regulation is 'possible' is very weak, and the 'less likely' caveat further weakens the predictive power.  The prediction is essentially a restatement of existing concerns about AI safety without offering a concrete, testable forecast."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-29T17:10:20.023681-04:00_5968299931800258565",
+    "source_report_timestamp": "2025-05-29T17:10:20.023681-04:00",
+    "prediction_text": "the US Senate will likely face a contentious battle over President Trump's megabill, risking further economic contraction if tariffs are fully implemented and the US economy continues to shrink.",
+    "predicted_period_start": "2025-05-29T17:10:20.023681-04:00",
+    "predicted_period_end": "2025-06-05T17:10:20.023681-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context.  The context already establishes a contentious political atmosphere surrounding Trump's bill and the risk of economic contraction. The prediction merely restates these existing tensions and adds a likely consequence (further contraction) that is highly probable given the described economic situation.  It lacks specific details about the nature of the battle, the exact economic indicators that would define 'further contraction', or a timeline. The statement that tariffs 'risking further economic contraction if...the US economy continues to shrink' is tautological."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-29T17:10:20.023681-04:00_3098512428403044411",
+    "source_report_timestamp": "2025-05-29T17:10:20.023681-04:00",
+    "prediction_text": "The Ukraine conflict will intensify as Russia prepares new offensives.",
+    "predicted_period_start": "2025-05-29T17:10:20.023681-04:00",
+    "predicted_period_end": "2025-06-05T17:10:20.023681-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.2,
+      "reasoning": "The prediction is not vacuous because it suggests a specific development (intensification of the conflict through new Russian offensives) that is distinct from the ongoing conflict. While the ongoing conflict makes intensification somewhat probable, it is not a guaranteed outcome, and the prediction is specific enough to be tested by observing future developments in the conflict."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.6,
+      "likelihood_category": "Moderate",
+      "rationale": "Russia's large-scale air assault in Ukraine, resulting in significant casualties, suggests a potential escalation.  However, the lack of further specified details about future Russian offensives makes a definitive prediction difficult."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-05-30T17:10:26.958371-04:00",
+        "2025-05-31T17:10:13.906237-04:00"
+      ],
+      "evidence_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+      "match_score": 0.571,
+      "matching_keywords": [
+        "conflict",
+        "new",
+        "russia",
+        "ukraine"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-05-29T17:10:20.023681-04:00_8646402670047777192",
+    "source_report_timestamp": "2025-05-29T17:10:20.023681-04:00",
+    "prediction_text": "Less likely but possible, a full US recession could be triggered by unresolved trade disputes, and AI models might exhibit dangerously autonomous and deceptive behavior.",
+    "predicted_period_start": "2025-05-29T17:10:20.023681-04:00",
+    "predicted_period_end": "2025-06-05T17:10:20.023681-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions possibilities of a US recession and dangerously autonomous AI.  A US recession is a plausible outcome given the shrinking US economy and trade disputes mentioned in the context.  The possibility of AI exhibiting dangerous behavior is also plausible given the context's mention of AI safety concerns. However, the prediction lacks specificity regarding the timeline, severity, or specific mechanisms of these events.  It's too broad and doesn't offer a distinct new development beyond what's already implied in the context."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-30T17:10:26.958371-04:00_2741336159614677123",
+    "source_report_timestamp": "2025-05-30T17:10:26.958371-04:00",
+    "prediction_text": "President Trump will likely push ahead with tariffs, fostering continued economic uncertainty.",
+    "predicted_period_start": "2025-05-30T17:10:26.958371-04:00",
+    "predicted_period_end": "2025-06-06T17:10:26.958371-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context. President Trump's actions regarding tariffs are already established in the provided context, making the prediction of him 'likely push[ing] ahead with tariffs' a restatement of current events rather than a genuine prediction of a future development.  The prediction also lacks specifics on the scale or target of future tariffs, and 'continued economic uncertainty' is a vague and almost always true statement in the context of global geopolitics."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-30T17:10:26.958371-04:00_662822257684305910",
+    "source_report_timestamp": "2025-05-30T17:10:26.958371-04:00",
+    "prediction_text": "The Russia-Ukraine war will intensify with Western aid, and the Gaza conflict will remain protracted.",
+    "predicted_period_start": "2025-05-30T17:10:26.958371-04:00",
+    "predicted_period_end": "2025-06-06T17:10:26.958371-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that the Russia-Ukraine war will intensify is somewhat obvious given the ongoing conflict and continued Western aid.  The statement that the Gaza conflict will remain protracted is also not a specific prediction; it's a restatement of the existing situation described in the context.  Neither part offers specific measurable outcomes or timelines."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-30T17:10:26.958371-04:00_508766072460285310",
+    "source_report_timestamp": "2025-05-30T17:10:26.958371-04:00",
+    "prediction_text": "Less likely, but possible, are major AI-induced societal disruptions from safety concerns.",
+    "predicted_period_start": "2025-05-30T17:10:26.958371-04:00",
+    "predicted_period_end": "2025-06-06T17:10:26.958371-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is vague and not easily testable.  'Major AI-induced societal disruptions from safety concerns' is a broad statement.  What constitutes a 'major disruption'? How would it be measured? The prediction also includes a caveat ('less likely, but possible'), making it difficult to falsify. The context mentions AI safety concerns, so the prediction merely rephrases existing anxieties without offering a specific, measurable prediction of a future event."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-30T17:10:26.958371-04:00_561558643702656001",
+    "source_report_timestamp": "2025-05-30T17:10:26.958371-04:00",
+    "prediction_text": "These trends suggest ongoing geopolitical tensions and economic instability.",
+    "predicted_period_start": "2025-05-30T17:10:26.958371-04:00",
+    "predicted_period_end": "2025-06-06T17:10:26.958371-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.9,
+      "reasoning": "The prediction 'ongoing geopolitical tensions and economic instability' is extremely generic and obvious given the context.  The context explicitly describes multiple significant geopolitical conflicts (Ukraine, Gaza, US-EU relations) and negative economic indicators (US economic shrinkage). The prediction merely restates these existing tensions and instability without offering any specific, testable forecast of future developments."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-31T17:10:13.906237-04:00_3821270225080024543",
+    "source_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+    "prediction_text": "trade tensions will likely intensify, further straining global economies, potentially pushing the US towards recession.",
+    "predicted_period_start": "2025-05-31T17:10:13.906237-04:00",
+    "predicted_period_end": "2025-06-07T17:10:13.906237-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context.  The provided context already establishes heightened trade tensions. The prediction merely extrapolates this existing tension, stating it will 'likely intensify,' which is a very general statement. While it mentions potential consequences (strained global economies, US recession), these are also highly plausible outcomes of escalating trade wars and don't represent a specific, unique prediction."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-31T17:10:13.906237-04:00_80831429835608844",
+    "source_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+    "prediction_text": "Russia will probably face new sanctions but persist with Ukraine offensives.",
+    "predicted_period_start": "2025-05-31T17:10:13.906237-04:00",
+    "predicted_period_end": "2025-06-07T17:10:13.906237-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that Russia will face new sanctions and persist with offensives in Ukraine is somewhat obvious given the ongoing conflict.  While new sanctions are possible, the prediction lacks specifics (type, severity, actors imposing sanctions) and the continuation of offensives is an ongoing situation rather than a distinct future development. The vagueness makes it difficult to objectively test the prediction's accuracy."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-31T17:10:13.906237-04:00_3173145214898899684",
+    "source_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+    "prediction_text": "AI safety will become a critical policy area.",
+    "predicted_period_start": "2025-05-31T17:10:13.906237-04:00",
+    "predicted_period_end": "2025-06-07T17:10:13.906237-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that AI safety will become a critical policy area is somewhat obvious given the context. The context already highlights growing concerns about AI safety, specifically mentioning AI models resisting shutdown commands.  While the prediction isn't entirely vacuous (it's not a tautology), it lacks specificity about the *type* of policy, the *actors* involved in creating the policy, or *measurable outcomes* that would indicate the prediction's success or failure.  It's a fairly safe bet that AI safety will receive *some* attention, making it a high-obviousness prediction."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-31T17:10:13.906237-04:00_4147109832808246064",
+    "source_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+    "prediction_text": "Less likely, a swift US-Iran nuclear deal could emerge.",
+    "predicted_period_start": "2025-05-31T17:10:13.906237-04:00",
+    "predicted_period_end": "2025-06-07T17:10:13.906237-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is vague and not easily testable.  The phrase 'swift US-Iran nuclear deal' lacks specifics on the deal's content, timeline, or the conditions for its emergence.  'Less likely' is subjective and doesn't offer a quantifiable probability.  Given the existing tensions described in the context, the absence of a nuclear deal is arguably more likely than a swift one, making the prediction somewhat obvious without a clear benchmark for 'swift' or a probability estimate."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-05-31T17:10:13.906237-04:00_5144369140170836094",
+    "source_report_timestamp": "2025-05-31T17:10:13.906237-04:00",
+    "prediction_text": "These dynamics signal continued economic uncertainty and geopolitical instability.",
+    "predicted_period_start": "2025-05-31T17:10:13.906237-04:00",
+    "predicted_period_end": "2025-06-07T17:10:13.906237-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.9,
+      "reasoning": "The prediction 'These dynamics signal continued economic uncertainty and geopolitical instability' is too vague and obvious.  Given the described context of escalating trade wars, military conflicts, and AI safety concerns, economic uncertainty and geopolitical instability are almost guaranteed to continue in the short term. The prediction doesn't offer any specific, measurable outcomes or new developments; it merely restates the already-present instability."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-12T17:30:20.211309-04:00_2682523826127588176",
+    "source_report_timestamp": "2025-06-12T17:30:20.211309-04:00",
+    "prediction_text": "US domestic unrest will likely escalate, particularly in California, amidst increasing federal intervention.",
+    "predicted_period_start": "2025-06-12T17:30:20.211309-04:00",
+    "predicted_period_end": "2025-06-19T17:30:20.211309-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is somewhat obvious given the context.  The provided context already highlights increasing federal intervention (Trump's actions) and unrest related to immigration in California (Los Angeles deployment of National Guard and Marines). The prediction doesn't specify the nature or scale of the escalation, making it difficult to test.  It's a general statement about a situation already in progress, rather than a specific prediction of a future development."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-12T17:30:20.211309-04:00_4483264990168255172",
+    "source_report_timestamp": "2025-06-12T17:30:20.211309-04:00",
+    "prediction_text": "The Ukraine war will intensify as Russia advances and US aid may recede.",
+    "predicted_period_start": "2025-06-12T17:30:20.211309-04:00",
+    "predicted_period_end": "2025-06-19T17:30:20.211309-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that the Ukraine war will intensify as Russia advances is quite obvious given the ongoing conflict and Russia's stated goals.  The statement about US aid possibly receding is vague; it lacks specifics on the type, amount, or timing of any potential reduction. The prediction doesn't offer a unique insight beyond what's already implied in the provided context of ongoing Russian aggression."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-12T17:30:20.211309-04:00_9208043730258080999",
+    "source_report_timestamp": "2025-06-12T17:30:20.211309-04:00",
+    "prediction_text": "A direct Israeli military strike on Iran is highly probable, risking broader regional conflict and surging oil prices.",
+    "predicted_period_start": "2025-06-12T17:30:20.211309-04:00",
+    "predicted_period_end": "2025-06-19T17:30:20.211309-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.3,
+      "reasoning": "The prediction is not vacuous because it posits a specific event (a direct Israeli military strike on Iran) with potential consequences (broader regional conflict and surging oil prices). While tensions between Israel and Iran are high, a direct military strike is a significant escalation with measurable outcomes.  The prediction is not obvious, as it is not a certainty, but rather a statement of high probability. The context supports the possibility but doesn't make it inevitable."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.3,
+      "likelihood_category": "Moderate",
+      "rationale": "The context mentions continued Israeli operations in Gaza and rising tensions with Iran, increasing the possibility of military action. However, the absence of immediate triggers or escalating events makes a direct strike in the next 1-2 weeks only moderately likely."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-06-13T17:30:21.209771-04:00",
+        "2025-06-14T17:30:17.172023-04:00",
+        "2025-06-15T17:30:10.091319-04:00",
+        "2025-06-16T17:30:24.759935-04:00"
+      ],
+      "evidence_report_timestamp": "2025-06-16T17:30:24.759935-04:00",
+      "match_score": 0.5,
+      "matching_keywords": [
+        "conflict",
+        "iran",
+        "israeli",
+        "oil",
+        "prices",
+        "regional",
+        "risking"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-06-12T17:30:20.211309-04:00_2614958208280955480",
+    "source_report_timestamp": "2025-06-12T17:30:20.211309-04:00",
+    "prediction_text": "Less likely but entirely possible are a full US recession, driven by tariffs, and widespread AI-driven job displacement, leading to significant global instability.",
+    "predicted_period_start": "2025-06-12T17:30:20.211309-04:00",
+    "predicted_period_end": "2025-06-19T17:30:20.211309-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions possibilities of a US recession and AI-driven job displacement, both of which were already discussed in the context as ongoing concerns.  The prediction doesn't specify the scale or timing of these events, making it vague and difficult to test.  Global instability is a likely consequence of major economic downturns and widespread job losses, making this part of the prediction almost tautological."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-13T17:30:21.209771-04:00_9178786659077705751",
+    "source_report_timestamp": "2025-06-13T17:30:21.209771-04:00",
+    "prediction_text": "US political tensions will escalate over immigration.",
+    "predicted_period_start": "2025-06-13T17:30:21.209771-04:00",
+    "predicted_period_end": "2025-06-20T17:30:21.209771-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context.  The provided context already highlights significant political tensions related to immigration in the US (Trump's feud, National Guard deployment in LA during immigration protests). The prediction doesn't offer a specific type of escalation, timeline, or measurable outcome, making it vague and difficult to test.  It essentially restates the existing situation rather than predicting a new development."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-13T17:30:21.209771-04:00_941493010809396287",
+    "source_report_timestamp": "2025-06-13T17:30:21.209771-04:00",
+    "prediction_text": "The Israel-Iran conflict risks wider Mideast war, spiking oil.",
+    "predicted_period_start": "2025-06-13T17:30:21.209771-04:00",
+    "predicted_period_end": "2025-06-20T17:30:21.209771-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that the Israel-Iran conflict 'risks wider Mideast war, spiking oil' is quite obvious given the context.  The provided context already states that the conflict caused oil prices to soar. The prediction merely extrapolates this existing tension, making it a restatement rather than a unique prediction.  While a wider war and further oil price increases are possible, the prediction lacks specifics (which actors would escalate the conflict? to what extent? what would be the measurable impact on oil prices?) making it difficult to test."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-13T17:30:21.209771-04:00_4479284270240372595",
+    "source_report_timestamp": "2025-06-13T17:30:21.209771-04:00",
+    "prediction_text": "Russia's Ukraine offensive will persist with less US aid.",
+    "predicted_period_start": "2025-06-13T17:30:21.209771-04:00",
+    "predicted_period_end": "2025-06-20T17:30:21.209771-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is somewhat obvious and lacks specificity.  The persistence of the Russia-Ukraine offensive is already ongoing, as stated in the context. While the addition of \"with less US aid\" adds a detail, it's not sufficiently specific (how much less aid? what constitutes a measurable change?) to be easily testable.  The prediction doesn't offer concrete metrics or a timeframe for evaluation."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-13T17:30:21.209771-04:00_7293924745148968063",
+    "source_report_timestamp": "2025-06-13T17:30:21.209771-04:00",
+    "prediction_text": "AI development will accelerate, heightening safety concerns.",
+    "predicted_period_start": "2025-06-13T17:30:21.209771-04:00",
+    "predicted_period_end": "2025-06-20T17:30:21.209771-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction 'AI development will accelerate, heightening safety concerns' is largely obvious and vacuous given the provided context.  The context explicitly states that AI is rapidly advancing and that safety concerns are growing. The prediction merely rephrases this existing information without offering a specific prediction of how AI will accelerate, what specific safety concerns will heighten, or by how much.  It lacks measurable outcomes and specific actors or actions."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-13T17:30:21.209771-04:00_1602136934223864718",
+    "source_report_timestamp": "2025-06-13T17:30:21.209771-04:00",
+    "prediction_text": "Less likely but possible: a full-scale regional war or deeper US recession, leading to immense global instability and economic volatility.",
+    "predicted_period_start": "2025-06-13T17:30:21.209771-04:00",
+    "predicted_period_end": "2025-06-20T17:30:21.209771-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions possibilities of a regional war or a US recession leading to global instability.  These are not specific predictions.  'Global instability' and 'economic volatility' are vague and almost always present to some degree. The prediction is essentially restating existing global tensions and economic uncertainty without offering a specific, testable forecast of a distinct future development."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-15T17:30:10.091319-04:00_2926589829317948025",
+    "source_report_timestamp": "2025-06-15T17:30:10.091319-04:00",
+    "prediction_text": "Middle East tensions will likely escalate, potentially hiking global gasoline prices.",
+    "predicted_period_start": "2025-06-15T17:30:10.091319-04:00",
+    "predicted_period_end": "2025-06-22T17:30:10.091319-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is quite obvious given the context.  The provided text already states that there are heightened tensions in the Middle East, with actions (missile attacks, potential strikes on energy infrastructure) that would almost certainly lead to higher gas prices. The prediction doesn't offer a specific measurable outcome (e.g., by how much prices will rise, by when) or a specific timeline for escalation. It essentially rephrases the existing information."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-15T17:30:10.091319-04:00_4019289256203398040",
+    "source_report_timestamp": "2025-06-15T17:30:10.091319-04:00",
+    "prediction_text": "Ukraine's drone attacks on Russia will persist, as will the wider conflict.",
+    "predicted_period_start": "2025-06-15T17:30:10.091319-04:00",
+    "predicted_period_end": "2025-06-22T17:30:10.091319-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that \"Ukraine's drone attacks on Russia will persist, as will the wider conflict\" is quite obvious given the ongoing conflict.  The statement lacks specifics about the intensity, targets, or outcomes of these attacks.  It essentially restates the current situation without predicting a distinct future development. The persistence of the conflict is already known; the prediction doesn't offer a testable, specific outcome."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-15T17:30:10.091319-04:00_2802591715613014990",
+    "source_report_timestamp": "2025-06-15T17:30:10.091319-04:00",
+    "prediction_text": "Less likely, yet possible, is an Iranian regime change, though US caution might limit this.",
+    "predicted_period_start": "2025-06-15T17:30:10.091319-04:00",
+    "predicted_period_end": "2025-06-22T17:30:10.091319-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction mentions a possibility of Iranian regime change, which is already discussed in the context as a potential outcome of heightened tensions.  The prediction doesn't offer a specific timeline, mechanism, or measurable indicators for regime change. The caveat of 'US caution' is vague and doesn't provide a testable condition.  The prediction is essentially restating existing tensions without a concrete, falsifiable prediction."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-15T17:30:10.091319-04:00_8964379873660728943",
+    "source_report_timestamp": "2025-06-15T17:30:10.091319-04:00",
+    "prediction_text": "Ramifications include greater regional instability and economic disruption.",
+    "predicted_period_start": "2025-06-15T17:30:10.091319-04:00",
+    "predicted_period_end": "2025-06-22T17:30:10.091319-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction 'Ramifications include greater regional instability and economic disruption' is too vague and obvious given the context.  The provided context already describes heightened regional tensions (Middle East, Eastern Europe) and potential economic consequences (rising gas prices). The prediction merely restates these existing tensions and potential consequences without specifying the magnitude, duration, or specific actors involved in any future instability or disruption.  It's highly likely that some degree of instability and economic disruption will follow from the described events, making the prediction almost tautological."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-19T17:30:23.108060-04:00_5636918915037513632",
+    "source_report_timestamp": "2025-06-19T17:30:23.108060-04:00",
+    "prediction_text": "U.S. military intervention in the escalating Israel-Iran conflict is highly likely, potentially triggering wider regional war and significant oil price surges.",
+    "predicted_period_start": "2025-06-19T17:30:23.108060-04:00",
+    "predicted_period_end": "2025-06-26T17:30:23.108060-04:00",
+    "status": "verified_occurred",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": false,
+      "obviousness_score": 0.3,
+      "reasoning": "The prediction is not vacuous because it posits a specific event (U.S. military intervention) with potential consequences (regional war, oil price surge).  While the context makes intervention seem possible, it's not a certainty. The prediction is testable; we can observe whether the U.S. intervenes militarily and whether the predicted consequences follow. The prediction is not obvious because, while tensions are high, military intervention is not guaranteed. The obviousness score is relatively low because the prediction is specific enough to be evaluated against future events."
+    },
+    "prior_likelihood": {
+      "prior_probability": 0.6,
+      "likelihood_category": "Moderate",
+      "rationale": "Given Trump's hawkish rhetoric and the escalating conflict involving direct attacks on Israeli and Iranian infrastructure, military intervention has a moderate likelihood. However, the potential for wider regional conflict and oil price surges remains uncertain, depending on various factors."
+    },
+    "verification_details": {
+      "checked_against_reports": [
+        "2025-06-20T14:47:53.872456-04:00"
+      ],
+      "evidence_report_timestamp": "2025-06-20T14:47:53.872456-04:00",
+      "match_score": 0.5,
+      "matching_keywords": [
+        "conflict",
+        "escalating",
+        "intervention",
+        "iran",
+        "israel",
+        "military",
+        "regional",
+        "war"
+      ]
+    }
+  },
+  {
+    "prediction_id": "2025-06-19T17:30:23.108060-04:00_2446809600757736236",
+    "source_report_timestamp": "2025-06-19T17:30:23.108060-04:00",
+    "prediction_text": "Less likely but possible, Iran might exit the nuclear treaty, pushing the world closer to nuclear instability as Russia warned.",
+    "predicted_period_start": "2025-06-19T17:30:23.108060-04:00",
+    "predicted_period_end": "2025-06-26T17:30:23.108060-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction is not specific.  The statement that Iran *might* exit the nuclear treaty is vague and doesn't provide a timeline or conditions under which this might happen. The consequence of \"pushing the world closer to nuclear instability\" is also vague and difficult to measure. While the context mentions heightened tensions, the prediction doesn't offer a specific, testable development beyond restating the existing precarious situation."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
+  },
+  {
+    "prediction_id": "2025-06-19T17:30:23.108060-04:00_5888827215165397928",
+    "source_report_timestamp": "2025-06-19T17:30:23.108060-04:00",
+    "prediction_text": "This would cause global economic and geopolitical upheaval, alongside accelerating AI's dual-use dilemma.",
+    "predicted_period_start": "2025-06-19T17:30:23.108060-04:00",
+    "predicted_period_end": "2025-06-26T17:30:23.108060-04:00",
+    "status": "filtered_obvious",
+    "vacuousness_check": {
+      "is_obvious_or_vacuous": true,
+      "obviousness_score": 0.8,
+      "reasoning": "The prediction that the described events would cause 'global economic and geopolitical upheaval' is almost tautologically true.  Major military conflict in a volatile region like the Middle East, coupled with rising international tensions, almost always leads to some degree of global economic and geopolitical instability.  The prediction lacks specificity about the nature, scale, or duration of this upheaval.  Similarly, mentioning the 'accelerating AI's dual-use dilemma' is vague and doesn't offer a concrete prediction about AI's development or impact beyond stating a known ongoing concern."
+    },
+    "prior_likelihood": null,
+    "verification_details": {}
   }
 ]
