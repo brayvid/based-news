@@ -9,12 +9,19 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 
 # --- Configuration ---
-SUMMARIES_FILE = 'summaries.json'
-EVALUATED_PREDICTIONS_FILE = 'predictions.json'
+# Get the absolute path of the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Define all paths relative to the script's directory
+SUMMARIES_FILE = os.path.join(script_dir, 'summaries.json')
+EVALUATED_PREDICTIONS_FILE = os.path.join(script_dir, 'predictions.json')
+LAST_RUN_TIMESTAMP_FILE = os.path.join(script_dir, 'timestamps.txt')
+LOG_DIR = os.path.join(script_dir, 'logs')
+
+# Other configurations remain the same
 PREDICTION_WINDOW_DAYS = 7
 PREDICTION_DELIMITER = "In the near future, "
 ALT_DELIMITERS = ["Outlook:", "Looking ahead,"]
-LAST_RUN_TIMESTAMP_FILE = 'timestamps.txt'
 
 # --- Load Environment Variables ---
 load_dotenv()
@@ -57,7 +64,6 @@ except Exception as e:
 
 # --- Logging Setup ---
 # Create logs directory if it doesn't exist
-LOG_DIR = 'logs'
 os.makedirs(LOG_DIR, exist_ok=True)
 
 # Get the root logger
