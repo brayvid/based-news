@@ -183,6 +183,10 @@
     {
       "title": "Israel-Iran war live: Israel defence minister says he has ordered attack on Iran after claiming Tehran has violated ceasefire - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 09:03:00 GMT"
+    },
+    {
+      "title": "Israel-Iran war live: Trump swears in angry outburst at both sides over ceasefire violations - The Guardian",
+      "pubDate": "Tue, 24 Jun 2025 12:01:00 GMT"
     }
   ],
   "iran": [
@@ -505,13 +509,13 @@
     {
       "title": "Live updates: Israel accuses Iran of violating the ceasefire. Iranian military denies it - AP News",
       "pubDate": "Tue, 24 Jun 2025 06:50:41 GMT"
+    },
+    {
+      "title": "U.S. scrambles to determine impact of strikes on Iran\u2019s nuclear sites - The Washington Post",
+      "pubDate": "Tue, 24 Jun 2025 03:52:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump accelerates push to reward loyalty in federal workforce - The Washington Post",
-      "pubDate": "Mon, 16 Jun 2025 12:30:33 GMT"
-    },
     {
       "title": "Trump Halts ICE Arrests at Farms, Hotels Amid Industry Concerns: Live Updates - Newsweek",
       "pubDate": "Mon, 16 Jun 2025 14:15:02 GMT"
@@ -519,10 +523,6 @@
     {
       "title": "The Trumps Promote a New Crypto Venture: Bitcoin Mining - The New York Times",
       "pubDate": "Mon, 16 Jun 2025 15:03:52 GMT"
-    },
-    {
-      "title": "Trump Organization announces mobile plan, $499 smartphone - CNBC",
-      "pubDate": "Mon, 16 Jun 2025 12:31:43 GMT"
     },
     {
       "title": "Trump Is Planning Semiconductor Tariffs to Fight China. They Will Be Costly. - Barron's",
@@ -1143,6 +1143,10 @@
     {
       "title": "Live Updates: Trump Lashes Out at Israel and Iran as Fragile Truce Is Tested - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 11:37:30 GMT"
+    },
+    {
+      "title": "Trump says he's 'not happy with Israel,' warns against dropping more bombs on Iran - CNBC",
+      "pubDate": "Tue, 24 Jun 2025 11:27:00 GMT"
     }
   ],
   "russia": [
@@ -1398,14 +1402,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Investors Brace for Oil Market Fallout From Israel and Iran\u2019s Fight - The New York Times",
-      "pubDate": "Mon, 16 Jun 2025 12:08:37 GMT"
-    },
-    {
-      "title": "Oil Turns Lower With Iran-Israel Attacks Sparing Flows So Far - Yahoo Finance",
-      "pubDate": "Mon, 16 Jun 2025 12:26:30 GMT"
-    },
     {
       "title": "Stocks Rise as Fear of All-Out Mideast War Eases: Markets Wrap - Yahoo Finance",
       "pubDate": "Mon, 16 Jun 2025 19:15:53 GMT"
@@ -2127,6 +2123,10 @@
     {
       "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence threatens entry-level jobs - WRAL.com",
+      "pubDate": "Tue, 24 Jun 2025 09:42:16 GMT"
     }
   ],
   "climate": [
@@ -2632,14 +2632,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Is more than trade on the table after US-China talks in London? - South China Morning Post",
-      "pubDate": "Mon, 16 Jun 2025 12:01:54 GMT"
-    },
-    {
-      "title": "China Reviews Impact of US Data Curbs Due to Trump\u2019s Budget Cuts - Bloomberg.com",
-      "pubDate": "Mon, 16 Jun 2025 12:07:02 GMT"
-    },
     {
       "title": "Italy regulator opens probe into China's DeepSeek - Reuters",
       "pubDate": "Mon, 16 Jun 2025 16:25:31 GMT"
@@ -3777,6 +3769,10 @@
     {
       "title": "Japan's Hokkaido Region Hit By 5.7 Magnitude Earthquake - Republic World",
       "pubDate": "Sat, 21 Jun 2025 21:47:09 GMT"
+    },
+    {
+      "title": "Magnitude 5.7 earthquake strikes between Dominican Republic and Puerto Rico - BNO News",
+      "pubDate": "Tue, 24 Jun 2025 03:03:38 GMT"
     }
   ],
   "hurricanes": [
@@ -3855,6 +3851,10 @@
     {
       "title": "Scientists May Have Finally Figured Out How Bats Avoid Cancer - ScienceAlert",
       "pubDate": "Sat, 21 Jun 2025 12:01:11 GMT"
+    },
+    {
+      "title": "US approves AstraZeneca, Daiichi's treatment for lung cancer - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 06:50:35 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -4595,6 +4595,12 @@
     {
       "title": "F.B.I. Warns of Possible Retaliation by Iran After Bombing of Nuclear Sites - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 18:34:11 GMT"
+    }
+  ],
+  "middle_east_conflict": [
+    {
+      "title": "New Israeli strikes reported by media despite Trump's command to stop - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 12:05:53 GMT"
     }
   ]
 }
