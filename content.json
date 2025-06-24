@@ -1,72 +1,62 @@
 {
-  "Financial Markets": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Stock Market News, June 24, 2025: Nasdaq-100 scores first record close in over 4 months, Dow surges over 500 points on Israel-Iran ceasefire; Fed's Powell leaves door open to July cut - MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU3ZhbkYwekV5R1N5dXVlbWp6VFIySzkzSzFYc0JsXzRKREt5dWJpUzFBOGlUeERiYjFPRVViQnUwZEdqSUJUc2IyRWR6azhmS2xSVUhTNDlPLVRyZVhWSVo0VjYydzdMcE52aEJOT3NSZi0zU3JQV01fM2loSmZNdlJtSmdnejFXcHhHTXpSd1RNa2phS195VGJpYXV3dEFMS1E2Ql9idTd4OEhPTk5OM0tQS0NFaUN2dlJuNjVjM1cxYU1jdWNLSzc1ZnNVblVxRGg5c2hB?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 20:35:00 GMT"
+        "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM0RQbmx2MWpSYTZDYVJIZkx0M2xfaHJoWTVjZlJqNjB1WVJrVmJSaGZKZzlmbmZKQVpSSTNjTTkySTRIcTdBeFRncHZOU0NDMHVpaS1MeFBpbVk4VC12aUZqZmpMeGFtTy1XMXY5ZDRBTjdpcmFRRW1abVF1eHdwT0U0WlU5blhuUlE?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Powell Won't Rule Out a July Rate Cut as Dissent Grows - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16eC1lczhSdGNMRGFIcFMxT0RMbGluVFNJOEtUQVdCb0RlXzUycTl6YnU2UHhydjRWbWFNS0Jsc2hidHlkMlBaR0E4RFU5NEl3ZU5pdGZ4cUpZT2tfejdydXNVVW15UkVLLWpvNWxrYnhHMGpiX0E?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 20:21:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Israel-Iran latest: White House hits out at \u2018leaked\u2019 intelligence assessment on Iran strikes - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vdFRKVmU4VnpacWZuTzNtaEtYNV9MLS1YbHpiRGxVb090Wmg3YVhTNm0yLTc0RGlmN0RSRTFrY0RFaEd1X0U5ZWVtYS1ULTNWVWIxTThQUmdfbmlwZUZucUFfV1h2bmFtTDVnR2o4YWw?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 20:17:52 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
-  },
-  "Iran": {
-    "articles": [
-      {
-        "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWENQVHRFQ0R2aF9WZ2RzZnJEclF6S3dwbm1sU3d2NWFmbWp2RDdzRXB1Y1pOYVpvWUNqX19zOTlyMXRmYktYNVh2eFRQSDdiMndTdDZrMFJRZUhZTVRhOWtvaFhweVNUZEZrWWJFNmdFdjhiNHFOSFdPVmFOYXVSQm9fTGp4OTNNR3R6Z2gwdlBoRk5DRlJlR3hWSzhaZ9IBowFBVV95cUxPckZURmQ2N3Jsb254YktVcDlrblVBMHRMWXhrMGREODBpeWNuQ3dmSTRBa2l3TVhQTUZkblRuaW9pb25ZRFp4LXhYWFcwUkNqUVlWek9BNTNfWkt1b0REcWZZRUx4TkNNY1dpMi1DM0tYMGxoLUptT1ItVktWUTBiSmVMUV9mbkZWdDNtY2NtejhlYVlaZ09PcU9yblpTLWNpYms0?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGJXTUEwdXpTQURPellSOW1yTGl1ZXBEcll1YmpQcWlFQXZKTEZleFNYMGloSnhQS2p5bm9ZTUdQYk1nR1BMOUhxS2VmVFhrOEtoOTE5N2ZSVjY0Q3ZBMEdmekU5TEtUZHlpQ0JOelhsbVVPUjl5TFVLMjVNZEx0WUVuRkZBVUFWcThQQkYwQ1JxSDJrTXRFdlBOaEZLS0FCaXFUUERacWFZUS1L0gGyAUFVX3lxTE5EelZqSmctcTg1R2NtQTd1VzNLRVZEUWYzYkVUY3JTUlo4bUgycmhfbklRdXhKQ1lhTGFfX1pzZkNkVUUyT0ozNFQ0cXhRSDlOdm5waWx4TFJXdVVnaTRxc1gyRDJrQ01ySmkya2NYblpwYmVkUnZkeXdwcl9YY0s5VHNPWFZvc0ZjWFZfaTgxZG56aXhvTVY0d1FPR2l6Y1NLSWg3S01ZeG94V280djIwTnc?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzJoMzktTUtTeGxDSGVKaEZkZUg2cjVWNmVVM29CRS1zYml2bXU5MEUxLTNrblJFNGh4TzAzbGVpQWt4SVYtTWYxbnEwVi1nVHc4ZERDZkMzQzYxOUhtbUw3czJnS2xDSEpCZU9WUl9lSlIxbGZFVkJNQmFPVkdXVlRadmw5M1VmS2VBRFNwdXd6U3JIWlBVRnk0MXVaZ0FLUmJONHNTVW05Ql9MMW9TT3hERWdwbWh5Njg5cXpOcDZFRk0yem5ORXBR?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
+        "title": "Federal judge rules copyrighted books are fair use for AI training - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnUzNjZjOWJqNTJVZE9HR0V6dGJDSHB6c2Q2SHJyd3lCeXp5U21lNWxCVVhTbzQyVUhyekI1Z3d3VURodFBGTG9pd29KZnp6cUhvQ0xTRzhFNjBzOXlOdExhV1lDVWpoTFNKZVcyUGlKRm8zNmtrSmZhWjdseDFzVllKQzRnRU1kTXc1WEFmemE1dkNpTHk0NER4blBTOFJTTXFpdHZoc19ib1VYV3k0X2xR?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 20:09:36 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
   },
-  "Recession": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "US consumer confidence slumps to 93.0, expectations signal recession risk - Action Forex",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjBkY015RWNxaVNPNUo3bmN3a0pHeEVYZHRKVDlPUTFwRjRlWXd4ZHBTN3NpNnlIN1lzaFBCdzM2Ymk5YVIyNFFEVUw2VjV1MDZzbTFTVktlQ0JVWTJBcjVsSTU5dENKemJWSGJyLTh2YWNNLXdCRXFsQk9mZ3o5SDdwLTd4em5UUzh2NW5aN0YyaHVxcV9ERWZWUDZjcGJiQ3NOd2JHMlJ0Y2h1NGNwODYyTmducjlXVEtGSlV3QdIBxAFBVV95cUxOM3ZVd2NuUFZrNW9CSU1ycmc3dlhBV0pRVVlyNmVJRk0wS3ZPek1vbnJrZ0w0NUFndGpNcTFOa0xwMnFYVG1DRm8tVFk5OTJDcW0tQ1NzRjRnYzBNZ29pSDlXc2pxU2ZKSUNEX2ZKclQ3OU9ZLVhjM1docV9LOUpRNkxpdlBWRU5hTmhDS2E5Y05VZHdhNHFxQnhUakFIaDVoZkV5V3pGZUxsZXZXdkM5UWgzcFNZVHk3TS1Rc0FsQTY4aW5f?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 14:10:42 GMT"
+        "title": "House Democrats join Republicans to kill vote impeaching Trump over Iran strikes - Axios",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDQ4N29VZVpjUVBxT0tIUWZPRWQtZDFTODFLZ2dZTHNOeFAxamZTVExSY2loWlduM1lJazNlQ29YeVRoMGMyZ1BBSnV2bE44T1Z0bEI5TG1ITDVPLUw1aXdKQmlqSTZ6M0FmcU5kR1d2LTJlZnJBWnJWZTdoalNuQlE2M1Q1ajQ?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 19:46:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "Dow jumps 500 points, oil prices tank as investors bet Israel-Iran truce will hold: Live updates - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GU3lyc2NhZG1LeVR3N3FNWDVheGtidGtSMm1QdGlDcVlVZ0YtcWdQY2lFRS0wRlktQXJSeGNqOWpubEJFdDdFa1Z6R3UzWURnSHlWaS1pRHZRV3dZbTU3T0VEZFQ1SHBaOVdxU09WMjlfWjF6U01Z0gF8QVVfeXFMTXMzMDdXYXg0MWxHblpZdHJTT01tNlFpMkYtTnVMajliZlR6VU8tSE5vZS1DTDdOTlR1UXplNmVjS3VsSGpyVXFnQmllSDNPVU1jaVJLTFVsQ1ZWeHBBaDJZSHBSdF9oSVFzTGFWRGdLZU5XWTJQdWlLM1dtQg?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 19:26:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Israel killed at least 14 scientists in an unprecedented attack on Iran\u2019s nuclear know-how - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1hxWGQ0RGZENUNmMWtTYjdBZjhXY2Etbmx2djBRN0hsS0FGYUYwZ3BXMUZON185MFQ2ZHJWNWVJN29oeTNUMWstVC1kNTNDc0RvRWl5dEp6RHBKaWs1TWxUS3djNkI4TWtyY3FuSzEtaGNEWm03MHI1bl9CeVNxUENFcExzazIxRHdJa2RjR3NIOVJtTmtzZ0hQOA?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 17:10:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "US strikes did not destroy Iran's nuclear programme, intelligence report says - live updates - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FdFFXQUJUY3FhZHh1WDlIWWVWRUM2SEFoSm42cXJMSDhRdEY2WEl5MzdJVzFLVEFGSHl3SFZJQkRQX3QyR3poRFlmcW4taExZOUY2Qg?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-24T22:03:56.875947+00:00"
   }
 }

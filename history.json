@@ -525,13 +525,13 @@
     {
       "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
+    },
+    {
+      "title": "US strikes did not destroy Iran's nuclear programme, intelligence report says - live updates - BBC",
+      "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump Live Updates: At G7 Summit in Canada, President Laments Russia\u2019s Absence - The New York Times",
-      "pubDate": "Mon, 16 Jun 2025 21:45:17 GMT"
-    },
     {
       "title": "Trump says everyone should immediately evacuate Tehran - Reuters",
       "pubDate": "Mon, 16 Jun 2025 22:40:00 GMT"
@@ -1159,6 +1159,10 @@
     {
       "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
+    },
+    {
+      "title": "House Democrats join Republicans to kill vote impeaching Trump over Iran strikes - Axios",
+      "pubDate": "Tue, 24 Jun 2025 19:46:37 GMT"
     }
   ],
   "russia": [
@@ -1403,6 +1407,10 @@
     {
       "title": "New York Poised to Enact First-of-Its-Kind AI Safety Law: What Businesses Need to Know About the RAISE Act - JD Supra",
       "pubDate": "Tue, 24 Jun 2025 16:09:30 GMT"
+    },
+    {
+      "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
+      "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
     }
   ],
   "financial_markets": [
@@ -1617,6 +1625,10 @@
     {
       "title": "Stock Market News, June 24, 2025: Nasdaq-100 scores first record close in over 4 months, Dow surges over 500 points on Israel-Iran ceasefire; Fed's Powell leaves door open to July cut - MarketWatch",
       "pubDate": "Tue, 24 Jun 2025 20:35:00 GMT"
+    },
+    {
+      "title": "Dow jumps 500 points, oil prices tank as investors bet Israel-Iran truce will hold: Live updates - CNBC",
+      "pubDate": "Tue, 24 Jun 2025 19:26:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2143,6 +2155,10 @@
     {
       "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
       "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
+    },
+    {
+      "title": "Federal judge rules copyrighted books are fair use for AI training - NBC News",
+      "pubDate": "Tue, 24 Jun 2025 20:09:36 GMT"
     }
   ],
   "climate": [
@@ -2377,10 +2393,6 @@
     {
       "title": "Senate Republicans Release Revised Tax Cuts and Debt Limit Bill - Yahoo Finance",
       "pubDate": "Mon, 16 Jun 2025 23:31:03 GMT"
-    },
-    {
-      "title": "Judge deems Trump's cuts to National Institutes of Health illegal - NBC News",
-      "pubDate": "Mon, 16 Jun 2025 21:05:29 GMT"
     },
     {
       "title": "US Fed Rate Decision: What to Expect on June 18 - Morningstar",
@@ -2640,10 +2652,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China proposes shorter clinical trial reviews in efforts to accelerate drug development - Fierce Biotech",
-      "pubDate": "Mon, 16 Jun 2025 21:30:32 GMT"
-    },
     {
       "title": "Chinese embassy in Israel urges citizens to leave - Reuters",
       "pubDate": "Tue, 17 Jun 2025 00:10:37 GMT"
@@ -3203,6 +3211,10 @@
     {
       "title": "New York mayoral candidates face off in test of Democratic Party - BBC",
       "pubDate": "Tue, 24 Jun 2025 13:51:58 GMT"
+    },
+    {
+      "title": "Israel killed at least 14 scientists in an unprecedented attack on Iran\u2019s nuclear know-how - AP News",
+      "pubDate": "Tue, 24 Jun 2025 17:10:00 GMT"
     }
   ],
   "science": [
@@ -3326,10 +3338,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Shipping chaos: Inside the industry at the frontlines of the US-China trade war - CNN",
-      "pubDate": "Mon, 16 Jun 2025 22:00:00 GMT"
-    },
     {
       "title": "No Canada! North-of-the-border buyers pull back as trade war heats up - USA Today",
       "pubDate": "Tue, 17 Jun 2025 18:01:10 GMT"
@@ -3885,10 +3893,6 @@
   ],
   "health_care": [
     {
-      "title": "Proposed Medicaid cuts could lead to thousands of deaths, study finds - NBC News",
-      "pubDate": "Mon, 16 Jun 2025 21:04:33 GMT"
-    },
-    {
       "title": "The Senate Wants Billions More in Medicaid Cuts, Pinching States and Infuriating Hospitals - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 19:53:59 GMT"
     },
@@ -3936,10 +3940,6 @@
     }
   ],
   "research": [
-    {
-      "title": "Judge orders NIH to restore cuts to research grants related to diversity - The Washington Post",
-      "pubDate": "Mon, 16 Jun 2025 21:31:20 GMT"
-    },
     {
       "title": "US judge blocks Defense Department from slashing federal research funding - Reuters",
       "pubDate": "Tue, 17 Jun 2025 21:03:45 GMT"
@@ -4001,12 +4001,6 @@
     {
       "title": "China hits 1 TW solar milestone - pv magazine International",
       "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
-    }
-  ],
-  "blockchain": [
-    {
-      "title": "JPMorgan Chase files for blockchain-related trademark, triggering speculation it has stablecoin plans - Fortune",
-      "pubDate": "Mon, 16 Jun 2025 21:50:00 GMT"
     }
   ],
   "electric-vehicle_battery": [
