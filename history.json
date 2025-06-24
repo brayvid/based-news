@@ -9,14 +9,6 @@
       "pubDate": "Tue, 17 Jun 2025 01:04:00 GMT"
     },
     {
-      "title": "Israel's war with Iran could spiral out of control \u2014 and draw the U.S. in - MSNBC News",
-      "pubDate": "Mon, 16 Jun 2025 22:29:15 GMT"
-    },
-    {
-      "title": "Israel Vows to Strike \u2018Everywhere\u2019 Against Iranian Regime - Foreign Policy",
-      "pubDate": "Mon, 16 Jun 2025 22:10:01 GMT"
-    },
-    {
       "title": "LIVE: Israel and Iran trade attacks; new Gaza \u2018massacre\u2019 of aid-seekers - Al Jazeera",
       "pubDate": "Tue, 17 Jun 2025 10:25:58 GMT"
     },
@@ -529,20 +521,16 @@
     {
       "title": "US strikes did not destroy Iran's nuclear programme, intelligence report says - live updates - BBC",
       "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
+    },
+    {
+      "title": "US airstrikes failed to destroy Iran's nuclear sites, sources say - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 22:42:08 GMT"
     }
   ],
   "donald_trump": [
     {
-      "title": "Trump says everyone should immediately evacuate Tehran - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 22:40:00 GMT"
-    },
-    {
       "title": "LIVE: Israel, Iran trade attacks; Trump orders Tehran residents to flee - Al Jazeera",
       "pubDate": "Tue, 17 Jun 2025 00:00:35 GMT"
-    },
-    {
-      "title": "Fact check: At G7, Trump makes false claims about Trudeau, Ukraine and immigration - CNN",
-      "pubDate": "Mon, 16 Jun 2025 22:11:00 GMT"
     },
     {
       "title": "Trump urges everyone in Tehran to evacuate 'before it is too late' - USA Today",
@@ -1163,13 +1151,13 @@
     {
       "title": "House Democrats join Republicans to kill vote impeaching Trump over Iran strikes - Axios",
       "pubDate": "Tue, 24 Jun 2025 19:46:37 GMT"
+    },
+    {
+      "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
+      "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Trump hints at no more US sanctions on Russia at G7 summit - politico.eu",
-      "pubDate": "Mon, 16 Jun 2025 22:07:29 GMT"
-    },
     {
       "title": "Russia attacks Kyiv with waves of drones, missiles - Reuters",
       "pubDate": "Tue, 17 Jun 2025 02:36:00 GMT"
@@ -1316,10 +1304,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "G7 skirts touchy AI safety discussion - politico.eu",
-      "pubDate": "Mon, 16 Jun 2025 22:41:00 GMT"
-    },
     {
       "title": "AI Nuclear Risk Alert: SIPRI Warns Against Automating Nuclear Weapons with AI - Deccan Herald",
       "pubDate": "Tue, 17 Jun 2025 09:53:32 GMT"
@@ -1633,10 +1617,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI wins $200 million US defense contract - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 22:39:42 GMT"
-    },
-    {
       "title": "Generative AI in universities: Grades up, signals down, skills in flux - CEPR",
       "pubDate": "Mon, 16 Jun 2025 23:04:34 GMT"
     },
@@ -1651,10 +1631,6 @@
     {
       "title": "Optimized Artificial Intelligence Explains ChatGPT\u2019s Shopping Shift - FinancialContent",
       "pubDate": "Mon, 16 Jun 2025 23:43:00 GMT"
-    },
-    {
-      "title": "Artificial intelligence-derived retinal age gap as a marker for reproductive aging in women - Nature",
-      "pubDate": "Mon, 16 Jun 2025 23:01:01 GMT"
     },
     {
       "title": "Dueling Billionaires: Artificial Intelligence (AI) Stock Nvidia Is Israel Englander's Largest Stock Holding, but Philippe Laffont Has Sold Shares for 8 Consecutive Quarters - Yahoo Finance",
@@ -2159,6 +2135,10 @@
     {
       "title": "Federal judge rules copyrighted books are fair use for AI training - NBC News",
       "pubDate": "Tue, 24 Jun 2025 20:09:36 GMT"
+    },
+    {
+      "title": "Provision in federal budget bill would block states from regulating artificial intelligence for 10 years - News Channel 5 Nashville",
+      "pubDate": "Tue, 24 Jun 2025 21:51:48 GMT"
     }
   ],
   "climate": [
@@ -2985,10 +2965,6 @@
       "pubDate": "Mon, 16 Jun 2025 23:51:33 GMT"
     },
     {
-      "title": "Senate Republicans unveil long-awaited details on Trump tax bill - CBS News",
-      "pubDate": "Mon, 16 Jun 2025 22:46:06 GMT"
-    },
-    {
       "title": "Proposed GOP spending cuts could impact health care coverage for millions - CBS News",
       "pubDate": "Mon, 16 Jun 2025 23:07:00 GMT"
     },
@@ -3283,6 +3259,10 @@
     {
       "title": "Democrats Have a Chance to Become the Antiwar Party Again - New York Magazine",
       "pubDate": "Tue, 24 Jun 2025 15:30:01 GMT"
+    },
+    {
+      "title": "New York City mayoral election live updates: Andrew Cuomo and Zohran Mamdani campaign in final hours before polls close - NBC News",
+      "pubDate": "Tue, 24 Jun 2025 22:06:09 GMT"
     }
   ],
   "north_korea": [
@@ -4077,6 +4057,10 @@
     {
       "title": "A look at the major players in the crypto industry and their ties to Trump - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 13:49:41 GMT"
+    },
+    {
+      "title": "Senate Republicans Unveil Framework for Crypto Market Structure Bill - PYMNTS.com",
+      "pubDate": "Tue, 24 Jun 2025 20:43:58 GMT"
     }
   ],
   "national_security": [
@@ -4243,6 +4227,10 @@
     {
       "title": "Consumer confidence sours in June, despite rollback of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 14:34:30 GMT"
+    },
+    {
+      "title": "Powell repeats rate cuts can wait as Fed studies tariff impacts - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 19:38:40 GMT"
     }
   ],
   "nasa": [
@@ -4483,6 +4471,10 @@
     {
       "title": "US investor strikes $1 billion merger to create bitcoin treasury company - Reuters",
       "pubDate": "Mon, 23 Jun 2025 12:59:20 GMT"
+    },
+    {
+      "title": "Largest Bitcoin Leverage Unwind in Nearly a Year Triggered by Iran-Israel Tensions - Decrypt",
+      "pubDate": "Tue, 24 Jun 2025 20:05:48 GMT"
     }
   ],
   "us_congress": [
