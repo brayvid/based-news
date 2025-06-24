@@ -1107,13 +1107,13 @@
     {
       "title": "Trump announces Israel-Iran ceasefire timeline he says will end the war: Live updates - CNBC",
       "pubDate": "Mon, 23 Jun 2025 22:58:00 GMT"
+    },
+    {
+      "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
+      "pubDate": "Tue, 24 Jun 2025 00:42:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia attacks Kyiv Oblast with drones, injuring 1 - The Kyiv Independent",
-      "pubDate": "Mon, 16 Jun 2025 00:10:01 GMT"
-    },
     {
       "title": "Russia slowly restarts gas flows to Europe via TurkStream as maintenance nears completion - Reuters",
       "pubDate": "Mon, 16 Jun 2025 10:54:49 GMT"
@@ -1351,10 +1351,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Federal Reserve Likely to Maintain Interest Rates Amid Economic Uncertainty - Binance",
-      "pubDate": "Mon, 16 Jun 2025 00:13:41 GMT"
-    },
-    {
       "title": "Stock markets are ignoring the war as they wait for the Fed - Fortune",
       "pubDate": "Mon, 16 Jun 2025 10:50:00 GMT"
     },
@@ -1549,6 +1545,10 @@
     {
       "title": "Stocks Rise as Oil Fades and Fed Bets Sink Yields: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 20:46:52 GMT"
+    },
+    {
+      "title": "US strikes on Iran shake up financial markets - KREM",
+      "pubDate": "Mon, 23 Jun 2025 23:17:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1559,10 +1559,6 @@
     {
       "title": "EU\u2019s waffle on artificial intelligence law creates huge headache - politico.eu",
       "pubDate": "Mon, 16 Jun 2025 02:34:46 GMT"
-    },
-    {
-      "title": "Alabama educators to learn all about artificial intelligence during \u2018Day of AI\u2019 - WKRG",
-      "pubDate": "Mon, 16 Jun 2025 00:03:55 GMT"
     },
     {
       "title": "Even smart manufacturing needs agentic AI - ET CIO",
@@ -2071,6 +2067,10 @@
     {
       "title": "NMSU to launch New Mexico's first Bachelor's Degree in Artificial Intelligence - KFOX",
       "pubDate": "Mon, 23 Jun 2025 22:16:24 GMT"
+    },
+    {
+      "title": "Opinion | Unleashing artificial intelligence - The Washington Post",
+      "pubDate": "Mon, 23 Jun 2025 23:55:24 GMT"
     }
   ],
   "climate": [
@@ -2149,13 +2149,13 @@
     {
       "title": "Heat waves are getting more dangerous with climate change \u2014 and we may still be underestimating them - CNN",
       "pubDate": "Mon, 23 Jun 2025 16:47:00 GMT"
+    },
+    {
+      "title": "Major global study on future climate threats to coastal oceans - Phys.org",
+      "pubDate": "Mon, 23 Jun 2025 17:29:04 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Russian drone factory attacked, 1,000km away in Tatarstan - The Guardian",
-      "pubDate": "Mon, 16 Jun 2025 01:02:00 GMT"
-    },
     {
       "title": "Ukraine-Russia war latest: Kyiv attacks Russian drone factory while EU calls for tougher sanctions on Moscow - The Independent",
       "pubDate": "Mon, 16 Jun 2025 06:07:00 GMT"
@@ -2311,13 +2311,13 @@
     {
       "title": "Russia ordered 2 assassination attempts on popular journalist Dmytro Gordon, Ukraine security service says - The Kyiv Independent",
       "pubDate": "Mon, 23 Jun 2025 15:08:21 GMT"
+    },
+    {
+      "title": "Ukraine and UK to jointly produce long-range drones, Zelenskyy says - The Guardian",
+      "pubDate": "Mon, 23 Jun 2025 14:14:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump's investment claims - are tariffs boosting the US economy? - BBC",
-      "pubDate": "Mon, 16 Jun 2025 00:44:27 GMT"
-    },
     {
       "title": "Oil price rise risks \u2018adverse shock\u2019 to global economy \u2013 business live - The Guardian",
       "pubDate": "Mon, 16 Jun 2025 06:27:00 GMT"
@@ -2573,6 +2573,10 @@
     {
       "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 18:33:15 GMT"
+    },
+    {
+      "title": "Trump Confronts Potential for High Oil Prices After Iran Strikes - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 18:43:13 GMT"
     }
   ],
   "china": [
@@ -3467,6 +3471,10 @@
     {
       "title": "Former CIA Official Warns US Over Crypto Espionage Threat - BeInCrypto",
       "pubDate": "Mon, 23 Jun 2025 19:30:00 GMT"
+    },
+    {
+      "title": "Iran-Aligned Hackers Claim Attack on Trump\u2019s Truth Social - WJBC AM 1230",
+      "pubDate": "Mon, 23 Jun 2025 20:56:03 GMT"
     }
   ],
   "recession": [
@@ -3654,10 +3662,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "What happened on day 617 of the Israel-Hamas war? - The Jerusalem Post",
-      "pubDate": "Mon, 16 Jun 2025 00:21:02 GMT"
-    },
     {
       "title": "Dozens killed by Israeli fire near Gaza aid sites, Hamas-run ministry says - BBC",
       "pubDate": "Mon, 16 Jun 2025 13:57:29 GMT"
