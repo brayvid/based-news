@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran live news: Missile hits Haifa, Trump calls for a deal - Al Jazeera",
-      "pubDate": "Mon, 16 Jun 2025 00:02:36 GMT"
-    },
-    {
       "title": "Israel and Iran trade attacks for a fourth day - Financial Times",
       "pubDate": "Mon, 16 Jun 2025 06:26:51 GMT"
     },
@@ -186,10 +182,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Reports of 'massive blast,' 2.5 magnitude earthquake in vicinity of Iran's Fordow nuclear plant - i24NEWS",
-      "pubDate": "Sun, 15 Jun 2025 23:13:12 GMT"
-    },
     {
       "title": "LIVE: Iran launches more attacks on Israel; 8 killed and dozens wounded - Al Jazeera",
       "pubDate": "Mon, 16 Jun 2025 07:41:15 GMT"
@@ -492,10 +484,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live Updates: Israel and Iran Launch New Attacks; Trump Nixed Israeli Plan to Kill Iran\u2019s Khamenei - WSJ",
-      "pubDate": "Sun, 15 Jun 2025 23:21:00 GMT"
-    },
     {
       "title": "Trump directs ICE to expand deportations in Democratic-run cities, undeterred by protests - AP News",
       "pubDate": "Mon, 16 Jun 2025 01:21:00 GMT"
@@ -1115,6 +1103,10 @@
     {
       "title": "Trump says Iran and Israel agree to a ceasefire - Reuters",
       "pubDate": "Mon, 23 Jun 2025 22:12:08 GMT"
+    },
+    {
+      "title": "Trump announces Israel-Iran ceasefire timeline he says will end the war: Live updates - CNBC",
+      "pubDate": "Mon, 23 Jun 2025 22:58:00 GMT"
     }
   ],
   "russia": [
@@ -2315,16 +2307,16 @@
     {
       "title": "More than 350 Russian drones, missiles blast Kyiv killing at least seven - France 24",
       "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
+    },
+    {
+      "title": "Russia ordered 2 assassination attempts on popular journalist Dmytro Gordon, Ukraine security service says - The Kyiv Independent",
+      "pubDate": "Mon, 23 Jun 2025 15:08:21 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "Trump's investment claims - are tariffs boosting the US economy? - BBC",
       "pubDate": "Mon, 16 Jun 2025 00:44:27 GMT"
-    },
-    {
-      "title": "U.S. could lose more immigrants than it gains for first time in 50 years - The Washington Post",
-      "pubDate": "Sun, 15 Jun 2025 23:51:57 GMT"
     },
     {
       "title": "Oil price rise risks \u2018adverse shock\u2019 to global economy \u2013 business live - The Guardian",
@@ -2577,6 +2569,10 @@
     {
       "title": "US Economic Outlook Remains Dark as Major Forecast Sees Sixth Straight Drop - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 16:10:14 GMT"
+    },
+    {
+      "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 18:33:15 GMT"
     }
   ],
   "china": [
@@ -3183,6 +3179,10 @@
     {
       "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
+    },
+    {
+      "title": "US supreme court allows Trump administration to deport migrants to countries other than their own \u2013 live - The Guardian",
+      "pubDate": "Mon, 23 Jun 2025 23:15:10 GMT"
     }
   ],
   "science": [
@@ -3258,10 +3258,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korean losses exceed 6,000 in Russia's Kursk Oblast, UK intelligence reports - The Kyiv Independent",
-      "pubDate": "Sun, 15 Jun 2025 23:03:44 GMT"
-    },
     {
       "title": "North Korea suffered more than 6,000 casualties in Ukraine, UK intelligence says - The Independent",
       "pubDate": "Mon, 16 Jun 2025 11:35:00 GMT"
@@ -3467,6 +3463,10 @@
     {
       "title": "DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes - The Hacker News",
       "pubDate": "Mon, 23 Jun 2025 15:14:00 GMT"
+    },
+    {
+      "title": "Former CIA Official Warns US Over Crypto Espionage Threat - BeInCrypto",
+      "pubDate": "Mon, 23 Jun 2025 19:30:00 GMT"
     }
   ],
   "recession": [
@@ -4043,6 +4043,10 @@
     {
       "title": "What China's wind, solar power surge means for world - People's Daily Online",
       "pubDate": "Mon, 23 Jun 2025 01:58:00 GMT"
+    },
+    {
+      "title": "China hits 1 TW solar milestone - pv magazine International",
+      "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
     }
   ],
   "blockchain": [

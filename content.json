@@ -1,72 +1,62 @@
 {
-  "Drones": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Ukraine intelligence chief gives new details on Spiderweb drone operation - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajRkakhKZmNZTFVoOHYxRFFlaVExbHptMFRBMWZKdl9UdWVZaWhkSDBYZTNhRXA5MHZrX0tmbnp4NmFIaFRKUkNhaGZLdnlZSnFXT1J1QVZRY2U1a1Q5X20zTzZwb1RNaVN5eUM0VWFjbkZUTjBKZG8zVDRiM0ZSX0dxb3hxS2RHYklsU2I5RkszcFQ5?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 22:30:33 GMT"
+        "title": "US supreme court allows Trump administration to deport migrants to countries other than their own \u2013 live - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0FGdmVGNGtGUS1BVmFLekEzTjQ0Wm5sZ1ZXeGpZSklQbURkX1RBVUVfTzJtN2g4ZWRoakNxN0oyT3RDckx5YzFoUEVUekZoNm5GeEdJVzdJOS1IeUFhVF82M1JQQ1JlUFBDbl9TeVVkdUNheHUxNUxZQ1JQc0k3MXVmREs5eEoxZ0JJLUdiZzdka1lEeW40TlFnaEkzN04zVVhmTVlaRHRha2o2Tmp5Zg?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 23:15:10 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "NMSU to launch New Mexico's first Bachelor's Degree in Artificial Intelligence - KFOX",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMk8wVFlsVXhFcjFrN1dIOTNjNzBPTXZHaDNPekd3NHdxOGlfWU5XNHRMcWs1dkt2Z1p6WXR2Y1V3TmNJUjl5MTFNWHZUcWt0b05OQXRBZmI5OGx6MFhOWk01R1BhcFZsY3dPTlBDck5GN0draDNTY1lNcVlsNllKQjdOWjhhcC1fUHZUaF9aZHRxYVV2VndMV3F4WjE0M1ZCUUVEWnJqaFpZWXVYeVVrWWZiM0lKNlhRZVQ4MGVLQnRSajc0U0NkVFp4RkRBc1FuMXhuV05MOWFMeVU2Vl9DNldHOU8wdTNURjlpVUliSzE1ajViYzhNM0dXVkFKQXROb3hpMVdVaHBIdXpkRllmOF9RTER6dVk?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 22:16:24 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump says Iran and Israel agree to a ceasefire - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2ZROWM3MW5RMGxJTG80QkNGZkRXRjdTWWtMUF8ybTR4YWt4Y2VRSDVhSGdGbndUV0FmMnJERmM5VGVRMGFwZE1FMEhISFJta21tQnNqMmRpQjNHN2VFcFFFclk1dHRNdU9NVVB1dlQxTVhMR0o1YzRwQUlnTEpJRHI1TmpBaWVYT09ZMXlVTHMwUDdkVDJv?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 22:12:08 GMT"
+        "title": "Trump announces Israel-Iran ceasefire timeline he says will end the war: Live updates - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGN2thYnllOUhXaVpIclYtdlMxbXpiSFpHZy1UZkhUWHhvQWhtbVBDWVllWV9GVDJuRTE1WlhjSUhQOHhOVDQ3UFFTa0xzU3puU0ROSWpkclBIWVpfN0xHNHlBam1RTkVGTnpfelRDaF9zLUJtSFc2Z3BR0gF_QVVfeXFMT3VTV1RlbHZ2aGFOcU9rQ3BVTmhqRmxVczhWUmdBb3o3dGNtS2NKWkhRQ2l0SjFqNHAxMWpodVkzVjZobFdTWEJmUnlhMjRORGl2V01ucGt0NTRpV3VtYjdxc1VJS2NESTRxcV9LS0tSaDRsakRubXZoX3NlVlB3Yw?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 22:58:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   },
-  "China": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "China not seen as likely to use navy to secure Hormuz Strait - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDVOZHJqTnk3NmRjZ1dleDRJZjZ2TTZGQnkzUWVnMDZnZEg2LWhwdllwa3gzSC1YVHd3NUZHVkZ0T1VlNlhWa0FZVGpnTExLbGxlQzBSSWR0Xy1QOEljdTdHUTIzNG10TnNaODRBcV9UVUpVRmd6M1k1V25XaWhGYWl6WUd1NlI0cHh5MDZXbGJGWlY5OUNrN1JoZnNWekXSAZ8BQVVfeXFMTkhUNkN0VzZobk5ELUNvV09BZ3lXUFlPSEtnbnJ2ZnZKRzJOVHpvV3dTYVdZSEdYX1l6TDFVUzRjNnFvTHJDY3dTdVBJc256aGxOZUpmWmdEVnRjNG5HVFV0UzR2U3Z3VHg4aHljZXAtYXpDWDJaQ1AxcEpXWWVueXFBQlByMjB0Z1ZTaV9DYjNDRkhNc3ZoZzF6c3cyZG80?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 21:45:20 GMT"
+        "title": "Former CIA Official Warns US Over Crypto Espionage Threat - BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wQnVEU3VmaEppbFhyLVBzN0haaGtVN3RtTW92OWROZEdkUkcxcWhxZzZUTW5maXk3OFBnQ2Z5RlkyTE1nRHV5YTRrVTB4dVBwWTRNMzhMalpjSFVfNDBzalJhdlZzU2ZTYXEwTHNWN1FIeGFuVnVEVWkzUkxIQQ?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 19:30:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   },
-  "FBI": {
+  "US Economy": {
     "articles": [
       {
-        "title": "F.B.I. Warns of Possible Retaliation by Iran After Bombing of Nuclear Sites - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjdJcFR0XzFZei15blRaUGp1LW9wdWRaNGVnMU8wUTljYzd5OUo4ZVJ5cmFMSlVCaGppVG9odWlFWUhUQkpKRUVCWUNkRlRHazJrMDBZVk4ydFo3bmNROG8yRWpCWGJPcVFJcEdsWlhLQU1fTW1vQzBQdXh2Nl9KQ3NFQVhSNW5RMWh3Yzhn?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 18:34:11 GMT"
+        "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakthUVdHNjBSdndGV0YxLVUzRl9nOXNXdkFnbVpnRTF4Tjc5VUZJZktmNUJlX1dIZEtIeGFsZ3Y5enVtNDc0OHo0dDhUT2RGWldaVjNmR2Ntdi1KVVdDNUQyU1pCaEhvQmRXS2NWSmd3ZEZ1NHJrSzhkZW9Tc09sbDJ2djJYb1dmLWJ2QjQtRVI?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 18:33:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   },
-  "Climate": {
+  "Renewable Energy": {
     "articles": [
       {
-        "title": "Heat waves are getting more dangerous with climate change \u2014 and we may still be underestimating them - CNN",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1peGptMXpDVno5aU84dF9FMEpXaEVVWTVuNXRPdzB0RlpDajhudE5RcERpMmx6bHoxeURHWlJVN1BCdnYtUURSV1Zsc0tyZXNqT2t5bzNxQ0M2MXJ0RGFFWk0xVUtaUjFiVFJacHRDbDg3VVYxS3V4adIBfkFVX3lxTE5vcEJpTElva1Y3VXQ5RGZtRnNhUmV5YmVOVTd5djNBeXhXUnpWYjdETjJZVHhzR1JaMWowcGpydk1lNUNmUmgzR1BIZmx3Vnp0VFVXU2hoNjRBR1dFUE42ZmR2b2M1QTBNcmFuZFZZdkJVcnJJbi1zck0xSFdqUQ?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 16:47:00 GMT"
+        "title": "China hits 1 TW solar milestone - pv magazine International",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAweWdhR3pjYmsyR2FUMnR3ZDRZZy1KWDJZR0MzRDMxbkhHLWFyRnFIVVItVGQwbDU2bDB3Snc4TGxZYnBtSld1VGkyWlkyaldKLXpLdTBnWVBUY0xWTE5NeFJQZklKcjNuMk85ZExKT2ZUYy1jUG1Mbi1Law?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   },
-  "Battery Electric Vehicle": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Experts discover game-changing solution to one of electric vehicle industry's biggest challenges: 'It can have a big impact' - The Cool Down",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWFmSHp1ZHlXdVhxYnBMSjZ6M2JkcVZfSkhXOWtKU3lCc1BtcWxvczd0WWRpRGx5R3pjM3lrbXRnSmJQM0lHME9Pa3V4UzZNNGVlWHFRYzRDbEZqWEh4RHA3bVpoVHQzdjBKcHdWai1IMDBLZmpHc05Gak5oSDdpcGo4c3dmZ1cyVHhXWA?oc=5",
-        "pubDate": "Mon, 23 Jun 2025 15:15:00 GMT"
+        "title": "Russia ordered 2 assassination attempts on popular journalist Dmytro Gordon, Ukraine security service says - The Kyiv Independent",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTNGOHBpTF9XQVNCVzNUem5oejUxOWJmX0FXbVZTT3l1bFhkZU1JNjRRbWJCRWhDVFhUalBkVHd2Nk5LZEFzWTloNVYyOTRpSm85Z1I1OEJVQjllVlloeE9NS2RDdGh1cDMtM0RLMThfTHJFS2dzTDdxV1Y5WUVjTmhYRm5HOVo5V0pSeWRxS1k4dGx3c0l3d3JKM3ZxeVFFMkFqcEFVYTNVbEhVaEs2ZFY1bk5lV00?oc=5",
+        "pubDate": "Mon, 23 Jun 2025 15:08:21 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-23T23:03:18.107639+00:00"
+    "last_updated_ts": "2025-06-24T00:03:14.531471+00:00"
   }
 }
