@@ -525,10 +525,6 @@
       "pubDate": "Mon, 16 Jun 2025 17:21:00 GMT"
     },
     {
-      "title": "Trump Media seeks SEC approval for bitcoin and ethereum ETF - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 16:29:08 GMT"
-    },
-    {
       "title": "Live updates: Trump attends G7 summit in Canada amid trade tensions - NBC News",
       "pubDate": "Mon, 16 Jun 2025 20:03:04 GMT"
     },
@@ -1147,13 +1143,13 @@
     {
       "title": "Trump says Putin called him to offer help with Iran - The Kyiv Independent",
       "pubDate": "Tue, 24 Jun 2025 14:11:07 GMT"
+    },
+    {
+      "title": "Trump casts doubt on Article 5 commitment en route to NATO summit - politico.eu",
+      "pubDate": "Tue, 24 Jun 2025 15:45:23 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia Is Churning Out Attack Drones. Ukraine Is Feeling the Impact. - WSJ",
-      "pubDate": "Mon, 16 Jun 2025 17:00:00 GMT"
-    },
     {
       "title": "Trump hints at no more US sanctions on Russia at G7 summit - politico.eu",
       "pubDate": "Mon, 16 Jun 2025 22:07:29 GMT"
@@ -1391,6 +1387,10 @@
     {
       "title": "Experts discover AI would blackmail and even sacrifice humans to avoid being replaced - Indy100",
       "pubDate": "Tue, 24 Jun 2025 11:15:28 GMT"
+    },
+    {
+      "title": "New York Poised to Enact First-of-Its-Kind AI Safety Law: What Businesses Need to Know About the RAISE Act - JD Supra",
+      "pubDate": "Tue, 24 Jun 2025 16:09:30 GMT"
     }
   ],
   "financial_markets": [
@@ -2363,10 +2363,6 @@
   ],
   "us_economy": [
     {
-      "title": "The economic outlook is back to square one, despite months of upheaval - Axios",
-      "pubDate": "Mon, 16 Jun 2025 16:20:55 GMT"
-    },
-    {
       "title": "How the Federal Reserve Affects Mortgage Rates \u2014 and What It Means for Homebuyers in 2025 - Kiplinger",
       "pubDate": "Mon, 16 Jun 2025 17:39:35 GMT"
     },
@@ -2628,14 +2624,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Italy regulator opens probe into China's DeepSeek - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 16:25:31 GMT"
-    },
-    {
-      "title": "US pushes Vietnam to decouple from Chinese tech, sources say - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 16:21:29 GMT"
-    },
     {
       "title": "China proposes shorter clinical trial reviews in efforts to accelerate drug development - Fierce Biotech",
       "pubDate": "Mon, 16 Jun 2025 21:30:32 GMT"
@@ -2919,6 +2907,10 @@
     {
       "title": "The Yellow Sea Dispute Between China and South Korea - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:05:19 GMT"
+    },
+    {
+      "title": "China On Target to Launch National Power Market by End of Year - Bloomberg.com",
+      "pubDate": "Tue, 24 Jun 2025 06:25:00 GMT"
     }
   ],
   "world_news": [
@@ -2957,13 +2949,13 @@
     {
       "title": "Iran orders closure of Strait of Hormuz \u2014 putting one-fifth of world\u2019s oil supply at risk - New York Post",
       "pubDate": "Sun, 22 Jun 2025 18:22:30 GMT"
+    },
+    {
+      "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
+      "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Like School Shootings, Political Violence Is Becoming Almost Routine - The New York Times",
-      "pubDate": "Mon, 16 Jun 2025 16:21:48 GMT"
-    },
     {
       "title": "Senate GOP dials down SALT cap \u2014 for now - Politico",
       "pubDate": "Mon, 16 Jun 2025 18:23:27 GMT"
@@ -3479,6 +3471,10 @@
     {
       "title": "Colorado cybersecurity expert warns of cyberattacks by Iran following strike - CBS News",
       "pubDate": "Tue, 24 Jun 2025 00:22:00 GMT"
+    },
+    {
+      "title": "After Iran uses missiles, US braces for cyberattacks - CNN",
+      "pubDate": "Tue, 24 Jun 2025 13:07:00 GMT"
     }
   ],
   "recession": [
@@ -3617,6 +3613,10 @@
     {
       "title": "U.S. Recession Risk Drops, But It's Still Too Early to Relax - The Tradable",
       "pubDate": "Tue, 24 Jun 2025 12:01:07 GMT"
+    },
+    {
+      "title": "Powell: US not in recession - Forex Factory",
+      "pubDate": "Tue, 24 Jun 2025 13:17:00 GMT"
     }
   ],
   "drones": [
@@ -4241,6 +4241,10 @@
     {
       "title": "Federal Reserve's Bowman says rate cut should be on table in July - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 06:15:54 GMT"
+    },
+    {
+      "title": "Consumer confidence sours in June, despite rollback of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 24 Jun 2025 14:34:30 GMT"
     }
   ],
   "nasa": [
