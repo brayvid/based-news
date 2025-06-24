@@ -191,13 +191,13 @@
     {
       "title": "Israel-Iran latest: Fragile truce appears to take hold after Trump rebukes Israel and Iran - Financial Times",
       "pubDate": "Tue, 24 Jun 2025 15:11:06 GMT"
+    },
+    {
+      "title": "Israel-Iran latest: White House hits out at \u2018leaked\u2019 intelligence assessment on Iran strikes - Financial Times",
+      "pubDate": "Tue, 24 Jun 2025 20:17:52 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Israel strikes state-run Iranian TV during live broadcast after Iranian missiles kill 8 in Israel - AP News",
-      "pubDate": "Mon, 16 Jun 2025 20:42:00 GMT"
-    },
     {
       "title": "Israel Attacks Iran\u2019s State Television, Live On The Air - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 03:04:54 GMT"
@@ -521,13 +521,13 @@
     {
       "title": "Israel says it will respect Iran ceasefire \u2018as long as the other side does\u2019 \u2013 live updates - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 19:29:00 GMT"
+    },
+    {
+      "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump Will Not Sign G7 Statement on Iran and Israel, Official Says - The New York Times",
-      "pubDate": "Mon, 16 Jun 2025 20:53:54 GMT"
-    },
     {
       "title": "Trump Live Updates: At G7 Summit in Canada, President Laments Russia\u2019s Absence - The New York Times",
       "pubDate": "Mon, 16 Jun 2025 21:45:17 GMT"
@@ -1155,6 +1155,10 @@
     {
       "title": "Live updates: Trump telegraphs defense spending concerns ahead of NATO arrival - AP News",
       "pubDate": "Tue, 24 Jun 2025 18:49:00 GMT"
+    },
+    {
+      "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
+      "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
     }
   ],
   "russia": [
@@ -1308,10 +1312,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI safety bills await Hochul\u2019s signature - NEWS10 ABC",
-      "pubDate": "Mon, 16 Jun 2025 20:59:49 GMT"
-    },
     {
       "title": "G7 skirts touchy AI safety discussion - politico.eu",
       "pubDate": "Mon, 16 Jun 2025 22:41:00 GMT"
@@ -1613,6 +1613,10 @@
     {
       "title": "Stocks, oil decline as Israel-Iran ceasefire appears shaky - InvestmentNews",
       "pubDate": "Tue, 24 Jun 2025 10:34:36 GMT"
+    },
+    {
+      "title": "Stock Market News, June 24, 2025: Nasdaq-100 scores first record close in over 4 months, Dow surges over 500 points on Israel-Iran ceasefire; Fed's Powell leaves door open to July cut - MarketWatch",
+      "pubDate": "Tue, 24 Jun 2025 20:35:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1639,10 +1643,6 @@
     {
       "title": "Artificial intelligence-derived retinal age gap as a marker for reproductive aging in women - Nature",
       "pubDate": "Mon, 16 Jun 2025 23:01:01 GMT"
-    },
-    {
-      "title": "AI Chip Stocks Advance Amid Higher Market Estimates - Investor's Business Daily",
-      "pubDate": "Mon, 16 Jun 2025 20:54:00 GMT"
     },
     {
       "title": "Dueling Billionaires: Artificial Intelligence (AI) Stock Nvidia Is Israel Englander's Largest Stock Holding, but Philippe Laffont Has Sold Shares for 8 Consecutive Quarters - Yahoo Finance",
@@ -2139,6 +2139,10 @@
     {
       "title": "Judge rules Anthropic's AI training on copyrighted materials is fair use - Engadget",
       "pubDate": "Tue, 24 Jun 2025 18:26:03 GMT"
+    },
+    {
+      "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
+      "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
     }
   ],
   "climate": [
@@ -3475,10 +3479,6 @@
   ],
   "recession": [
     {
-      "title": "White House pauses ICE raids on farms, hospitality firms; Businesses lower recession expectations: Labor shortage threatens economy - CoStar",
-      "pubDate": "Mon, 16 Jun 2025 20:53:44 GMT"
-    },
-    {
       "title": "Investor Steve Eisman says we are headed for a global recession if Trump's tariffs spark a trade war - CNBC",
       "pubDate": "Tue, 17 Jun 2025 12:58:48 GMT"
     },
@@ -3609,6 +3609,10 @@
     {
       "title": "Powell: US not in recession - Forex Factory",
       "pubDate": "Tue, 24 Jun 2025 13:17:00 GMT"
+    },
+    {
+      "title": "US consumer confidence slumps to 93.0, expectations signal recession risk - Action Forex",
+      "pubDate": "Tue, 24 Jun 2025 14:10:42 GMT"
     }
   ],
   "drones": [
@@ -3727,6 +3731,10 @@
     {
       "title": "Powell says Fed can wait to reduce interest rates as Trump demands cuts - AP News",
       "pubDate": "Tue, 24 Jun 2025 12:39:00 GMT"
+    },
+    {
+      "title": "Powell Won't Rule Out a July Rate Cut as Dissent Grows - Barron's",
+      "pubDate": "Tue, 24 Jun 2025 20:21:00 GMT"
     }
   ],
   "earthquakes": [
@@ -3915,10 +3923,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI executives have discussed accusing Microsoft of anticompetitive behavior, WSJ reports - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 20:16:23 GMT"
-    },
-    {
       "title": "OpenAI-Microsoft tensions escalate over control and contracts - Computerworld",
       "pubDate": "Tue, 17 Jun 2025 09:01:47 GMT"
     },
@@ -3945,10 +3949,6 @@
     {
       "title": "US Senate budget bill proposal keeps cuts to solar, wind incentives - Reuters",
       "pubDate": "Mon, 16 Jun 2025 23:29:39 GMT"
-    },
-    {
-      "title": "Renewable energy remains cheapest power builds as new gas plants get pricier - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 20:53:28 GMT"
     },
     {
       "title": "Senate Finance Committee reconciliation bill slashes solar PV, wind incentives, energy storage survives - PV Tech",

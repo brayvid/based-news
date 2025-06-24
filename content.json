@@ -1,72 +1,72 @@
 {
-  "Earthquakes": {
+  "Financial Markets": {
     "articles": [
       {
-        "title": "Magnitude 2.7 earthquake registered in Los Angeles - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXVaa0V0TVF4dUxqSDAtTWFQOWN3cDI1YlJkbHJTVGllbVgtenBrQWNXUER5Rk1scmRhemxCV2diUkNxRUNoamd3Zk45azdPanAwTWVOYktQM3ozZVF6SWJpZG9XdFVJb1dtNE9UdHJxSVFEZzRWNFZUMXdiZUktRTRmeWstNTBxQTdEX2x5dWo4VnRpNzB1MTdxSm9kYlU?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 19:42:08 GMT"
+        "title": "Stock Market News, June 24, 2025: Nasdaq-100 scores first record close in over 4 months, Dow surges over 500 points on Israel-Iran ceasefire; Fed's Powell leaves door open to July cut - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU3ZhbkYwekV5R1N5dXVlbWp6VFIySzkzSzFYc0JsXzRKREt5dWJpUzFBOGlUeERiYjFPRVViQnUwZEdqSUJUc2IyRWR6azhmS2xSVUhTNDlPLVRyZVhWSVo0VjYydzdMcE52aEJOT3NSZi0zU3JQV01fM2loSmZNdlJtSmdnejFXcHhHTXpSd1RNa2phS195VGJpYXV3dEFMS1E2Ql9idTd4OEhPTk5OM0tQS0NFaUN2dlJuNjVjM1cxYU1jdWNLSzc1ZnNVblVxRGg5c2hB?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 20:35:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "Powell Won't Rule Out a July Rate Cut as Dissent Grows - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16eC1lczhSdGNMRGFIcFMxT0RMbGluVFNJOEtUQVdCb0RlXzUycTl6YnU2UHhydjRWbWFNS0Jsc2hidHlkMlBaR0E4RFU5NEl3ZU5pdGZ4cUpZT2tfejdydXNVVW15UkVLLWpvNWxrYnhHMGpiX0E?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 20:21:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Israel-Iran latest: White House hits out at \u2018leaked\u2019 intelligence assessment on Iran strikes - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vdFRKVmU4VnpacWZuTzNtaEtYNV9MLS1YbHpiRGxVb090Wmg3YVhTNm0yLTc0RGlmN0RSRTFrY0RFaEd1X0U5ZWVtYS1ULTNWVWIxTThQUmdfbmlwZUZucUFfV1h2bmFtTDVnR2o4YWw?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 20:17:52 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
   },
   "Iran": {
     "articles": [
       {
-        "title": "Israel says it will respect Iran ceasefire \u2018as long as the other side does\u2019 \u2013 live updates - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVBCTG55S2NYem9Sbnl5aE1MZUg2c25mWXl0dlhrZk81YlVYdjBkR2QyT2ZUYzZ5VVRlSnF4cXNxTGYzVklTcGtta0hDRlNxdTNta2dZaURQdlZXWGJGMENXcGZiUmFVZ3BVYmQzQUl5V19NNDVndEk5WEVVVF8zVFBpSTZZZlpjaWxLWkJrRlM0N1ZyVkh0U0J5aU5xWkRuVUV3OUV5bWhjWTJ3OWt6UF9sRi1Kd2piT1d6aVJ2RHZYZlBUbU5CXzhWSkY?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 19:29:00 GMT"
+        "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWENQVHRFQ0R2aF9WZ2RzZnJEclF6S3dwbm1sU3d2NWFmbWp2RDdzRXB1Y1pOYVpvWUNqX19zOTlyMXRmYktYNVh2eFRQSDdiMndTdDZrMFJRZUhZTVRhOWtvaFhweVNUZEZrWWJFNmdFdjhiNHFOSFdPVmFOYXVSQm9fTGp4OTNNR3R6Z2gwdlBoRk5DRlJlR3hWSzhaZ9IBowFBVV95cUxPckZURmQ2N3Jsb254YktVcDlrblVBMHRMWXhrMGREODBpeWNuQ3dmSTRBa2l3TVhQTUZkblRuaW9pb25ZRFp4LXhYWFcwUkNqUVlWek9BNTNfWkt1b0REcWZZRUx4TkNNY1dpMi1DM0tYMGxoLUptT1ItVktWUTBiSmVMUV9mbkZWdDNtY2NtejhlYVlaZ09PcU9yblpTLWNpYms0?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Live updates: Trump telegraphs defense spending concerns ahead of NATO arrival - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80cWRmTkhhdjZ1dUpxcVdIVWFsUFVNS09nQ050M1ZxQm1sLUxhUjBBX0FNSFYyOVkzeGFxLVBJd19HcEJhUE9xZi1PMnpOcWc3UHNZQU0tMmFlRWdJODBIejZaMmVLNkVJRVd3?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 18:49:00 GMT"
+        "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGJXTUEwdXpTQURPellSOW1yTGl1ZXBEcll1YmpQcWlFQXZKTEZleFNYMGloSnhQS2p5bm9ZTUdQYk1nR1BMOUhxS2VmVFhrOEtoOTE5N2ZSVjY0Q3ZBMEdmekU5TEtUZHlpQ0JOelhsbVVPUjl5TFVLMjVNZEx0WUVuRkZBVUFWcThQQkYwQ1JxSDJrTXRFdlBOaEZLS0FCaXFUUERacWFZUS1L0gGyAUFVX3lxTE5EelZqSmctcTg1R2NtQTd1VzNLRVZEUWYzYkVUY3JTUlo4bUgycmhfbklRdXhKQ1lhTGFfX1pzZkNkVUUyT0ozNFQ0cXhRSDlOdm5waWx4TFJXdVVnaTRxc1gyRDJrQ01ySmkya2NYblpwYmVkUnZkeXdwcl9YY0s5VHNPWFZvc0ZjWFZfaTgxZG56aXhvTVY0d1FPR2l6Y1NLSWg3S01ZeG94V280djIwTnc?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Judge rules Anthropic's AI training on copyrighted materials is fair use - Engadget",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNldSRGlMX2c5UWpwLXB2d01YQnY3ZG5YSmgwT2JIRTAtclA2SC1PYWJIMXljTTRpdVJPZm5Uc201emI3TzB4WlNKLUpWcXhjUERxa2VHMGtKTXh5TDRpUGl1Qkh1ekk0X0tKZi1QempJLTE5YV9zMDZyZFFkbTJsRW1oNG5VbWZheUpQVUk4QjB6OTNkVXdNVHI2clRQWG9XSlZaNmtlQ0hPcW5XSWhBX0g1SUc?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 18:26:03 GMT"
+        "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzJoMzktTUtTeGxDSGVKaEZkZUg2cjVWNmVVM29CRS1zYml2bXU5MEUxLTNrblJFNGh4TzAzbGVpQWt4SVYtTWYxbnEwVi1nVHc4ZERDZkMzQzYxOUhtbUw3czJnS2xDSEpCZU9WUl9lSlIxbGZFVkJNQmFPVkdXVlRadmw5M1VmS2VBRFNwdXd6U3JIWlBVRnk0MXVaZ0FLUmJONHNTVW05Ql9MMW9TT3hERWdwbWh5Njg5cXpOcDZFRk0yem5ORXBR?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
   },
-  "US Economy": {
+  "Recession": {
     "articles": [
       {
-        "title": "Americans' take on the economy turns sour in June - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXRNYzBxMEloMVBfS25qdUxHaTJKckZZajA3OXJ5TW5PeXQ4NzZNRk9uSl8tZ0ZNUHpOYXdDZlEwRnVzVTZWNU1RUHUzVGdfblB6aDVkSU5sbDBMMXZnRHlqYXEyQzhVVUFGVjVpcGFtNWRxQUFnZy1nVjJVZS1OdXpRVmh0dEkyR2h3WWhwc1ZSUGZEYzQxbEpoNnpvUk5DNkVmYThPdFFIZHRYUFhvX055V1NHZw?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 15:31:38 GMT"
+        "title": "US consumer confidence slumps to 93.0, expectations signal recession risk - Action Forex",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjBkY015RWNxaVNPNUo3bmN3a0pHeEVYZHRKVDlPUTFwRjRlWXd4ZHBTN3NpNnlIN1lzaFBCdzM2Ymk5YVIyNFFEVUw2VjV1MDZzbTFTVktlQ0JVWTJBcjVsSTU5dENKemJWSGJyLTh2YWNNLXdCRXFsQk9mZ3o5SDdwLTd4em5UUzh2NW5aN0YyaHVxcV9ERWZWUDZjcGJiQ3NOd2JHMlJ0Y2h1NGNwODYyTmducjlXVEtGSlV3QdIBxAFBVV95cUxOM3ZVd2NuUFZrNW9CSU1ycmc3dlhBV0pRVVlyNmVJRk0wS3ZPek1vbnJrZ0w0NUFndGpNcTFOa0xwMnFYVG1DRm8tVFk5OTJDcW0tQ1NzRjRnYzBNZ29pSDlXc2pxU2ZKSUNEX2ZKclQ3OU9ZLVhjM1docV9LOUpRNkxpdlBWRU5hTmhDS2E5Y05VZHdhNHFxQnhUakFIaDVoZkV5V3pGZUxsZXZXdkM5UWgzcFNZVHk3TS1Rc0FsQTY4aW5f?oc=5",
+        "pubDate": "Tue, 24 Jun 2025 14:10:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
-  },
-  "Atlantic Ocean": {
-    "articles": [
-      {
-        "title": "Tropical Storm Andrea forms, marking first named storm of Atlantic hurricane season - FOX Weather",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaHB5VFUyY2o4VWtiRE9Db0s0QXgteURfdjdEZy10eVFBOUl3amRON2lvSnZhUXdkblJ6QU5EM1ZHbnBreG5CSnFORmhFQzNKeXpncUV6VFNJQm5Hc01YaWdZRXVvd0JYZkhnZUcxc0dreTJCWEtPYmxPLVJyaXlodm80Y0Y3UdIBiwFBVV95cUxPZk90VU1HbUdUcWxPRlUyTURoZ1JjeGtIOWlQX3J1dXdVb3ZMcktBaWxOdFRYQ3dHZ1hoMXVQNWhPd1Zvd3l4NkJDdGo5OVFWQ3JqS1ZZZlFYTE1DZEVmeFhwd2VKUlpJUnAtUFl4cndTb1RUZnJiQ1psVmc4bTJVZnFXQzFtNWliendj?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 14:12:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Russia says it supports Iran with 'clear stance' condemning US and Israeli strikes, intends to deepen Tehran ties - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMnlzUmtreS1NTGtWdk5KTXZHc0NXX0VtRzJabFR4bG1wQTFzUWNJS0phN1RjYVNSVzY0Y1dTay05aWx3RDZKSFE2WDg4WGsyTC1ubms3bW9WZXgzbGl1dE5jR3U3NFg0UnNPekZXZjRoSl96Wkw3c0RiT2FZbFBPc18ycXZXX09GN1JmQldrQTdUZEh0eGpXLXhaM2QwZ0FhWG9XT2diazF3b3NhczhmNXN5eEtBVFJPSUh2WTBCTEJNMGRFTVZSNVVQdGlYeUF3Ti1WNG0wbHI1YUNHdHdxdFlMN0twckc5aC1NUw?oc=5",
-        "pubDate": "Tue, 24 Jun 2025 09:20:07 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-24T20:03:50.210153+00:00"
+    "last_updated_ts": "2025-06-24T21:03:53.447573+00:00"
   }
 }
