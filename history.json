@@ -183,6 +183,10 @@
     {
       "title": "How a volatile 24 hours edged Iran and Israel to a ceasefire - BBC",
       "pubDate": "Tue, 24 Jun 2025 17:57:35 GMT"
+    },
+    {
+      "title": "Israel-Iran ceasefire appears to hold as Trump heads to NATO summit - The Washington Post",
+      "pubDate": "Wed, 25 Jun 2025 07:06:01 GMT"
     }
   ],
   "iran": [
@@ -529,13 +533,13 @@
     {
       "title": "Ceasefire between Israel and Iran appears to hold as Trump vents frustration with both sides - AP News",
       "pubDate": "Wed, 25 Jun 2025 02:55:00 GMT"
+    },
+    {
+      "title": "Fragile ceasefire holding, Trump envoy says peace talks with Iran 'promising' - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 04:07:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says early G7 exit 'nothing to do' with ceasefire as Iran and Israel exchange strikes - live updates - BBC",
-      "pubDate": "Tue, 17 Jun 2025 07:40:01 GMT"
-    },
     {
       "title": "Israel-Iran latest: Trump exits G7 summit and warns of intensification - Financial Times",
       "pubDate": "Tue, 17 Jun 2025 08:53:00 GMT"
@@ -543,10 +547,6 @@
     {
       "title": "Lawmakers Seek to Limit Trump From Dragging U.S. Into Israel-Iran War - Time Magazine",
       "pubDate": "Tue, 17 Jun 2025 09:51:16 GMT"
-    },
-    {
-      "title": "Trump Calls on Tehran to \u2018Evacuate\u2019 as U.S. Deploys \u2018Defensive\u2019 Forces to Middle East - Time Magazine",
-      "pubDate": "Tue, 17 Jun 2025 07:11:37 GMT"
     },
     {
       "title": "Trump mobile: Experts question claim gold phone can be made in US - BBC",
@@ -1155,6 +1155,10 @@
     {
       "title": "Trump news at a glance: profanity and push-back over success of Iran strikes - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 00:50:27 GMT"
+    },
+    {
+      "title": "Trump says China can buy Iranian oil, but urges it to purchase US crude - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 04:34:00 GMT"
     }
   ],
   "russia": [
@@ -1399,6 +1403,10 @@
     {
       "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
       "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
+    },
+    {
+      "title": "The Safety Risks of the Coming AI Regulatory Patchwork - Cato Institute",
+      "pubDate": "Tue, 24 Jun 2025 21:07:50 GMT"
     }
   ],
   "financial_markets": [
@@ -1620,10 +1628,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Dueling Billionaires: Artificial Intelligence (AI) Stock Nvidia Is Israel Englander's Largest Stock Holding, but Philippe Laffont Has Sold Shares for 8 Consecutive Quarters - Yahoo Finance",
-      "pubDate": "Tue, 17 Jun 2025 07:51:00 GMT"
-    },
     {
       "title": "Nvidia Stock Slips. How Big Its AI Chip Market Could Get. - Barron's",
       "pubDate": "Tue, 17 Jun 2025 09:40:00 GMT"
@@ -2151,6 +2155,10 @@
     {
       "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 05:16:40 GMT"
+    },
+    {
+      "title": "OpenAI CEO Altman says he has spoken with Microsoft CEO Nadella, NYT reports - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 05:40:00 GMT"
     }
   ],
   "climate": [
@@ -2228,10 +2236,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "At least 14 die in Russian strikes on Kyiv in \u2018one of most horrific attacks\u2019 of Ukraine war \u2013 Europe live - The Guardian",
-      "pubDate": "Tue, 17 Jun 2025 07:26:29 GMT"
-    },
     {
       "title": "Russia's deadliest attack on Kyiv for months flattens part of apartment block - BBC",
       "pubDate": "Tue, 17 Jun 2025 15:14:36 GMT"
@@ -2386,10 +2390,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Fed Rate Decision: What to Expect on June 18 - Morningstar",
-      "pubDate": "Tue, 17 Jun 2025 07:28:00 GMT"
-    },
     {
       "title": "Fed\u2019s \u2018Wait and See\u2019 Approach Is Intact as New Risks Cloud Economic Outlook - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 11:31:33 GMT"
@@ -2645,13 +2645,13 @@
     {
       "title": "US Recession Risk Rises As Leading Economic Index Falls Again In May: 37 Declines In 39 Months Mark Worst Streak Since 1960 - Benzinga",
       "pubDate": "Wed, 25 Jun 2025 06:11:43 GMT"
+    },
+    {
+      "title": "US consumer confidence slumps - Northwest Arkansas Democrat-Gazette",
+      "pubDate": "Wed, 25 Jun 2025 07:11:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Why It\u2019s So Hard to Challenge Challenge China\u2019s Rare Earths Dominance - Time Magazine",
-      "pubDate": "Tue, 17 Jun 2025 07:06:19 GMT"
-    },
     {
       "title": "China\u2019s state security agency warns of phishing emails sent by foreign spies - South China Morning Post",
       "pubDate": "Tue, 17 Jun 2025 08:07:03 GMT"
@@ -4591,6 +4591,12 @@
     {
       "title": "US bombs did not destroy Iranian nuclear facilities, intelligence agency finds - Straight Arrow News",
       "pubDate": "Tue, 24 Jun 2025 21:47:59 GMT"
+    }
+  ],
+  "new_york_politics": [
+    {
+      "title": "Zohran Mamdani stuns Andrew Cuomo in NYC mayor primary - BBC",
+      "pubDate": "Wed, 25 Jun 2025 03:32:20 GMT"
     }
   ]
 }
