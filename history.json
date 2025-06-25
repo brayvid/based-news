@@ -179,10 +179,6 @@
   ],
   "iran": [
     {
-      "title": "Live updates: Trump says the US knows where Iran's leader is hiding but won't kill him \u2014 'for now' - AP News",
-      "pubDate": "Tue, 17 Jun 2025 18:38:00 GMT"
-    },
-    {
       "title": "Iran Is Preparing Missiles for Possible Retaliatory Strikes on U.S. Bases - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 20:10:44 GMT"
     },
@@ -1645,10 +1641,6 @@
       "pubDate": "Wed, 18 Jun 2025 01:26:00 GMT"
     },
     {
-      "title": "Amazon expects to cut corporate jobs as it relies more on AI - NBC News",
-      "pubDate": "Tue, 17 Jun 2025 18:32:28 GMT"
-    },
-    {
       "title": "Amazon CEO tells employees that AI will shrink its workforce - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 04:12:15 GMT"
     },
@@ -2159,6 +2151,10 @@
     {
       "title": "Bipartisan bill seeks to ban Chinese AI from federal agencies, as U.S. vows to win the AI race - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 25 Jun 2025 16:55:23 GMT"
+    },
+    {
+      "title": "Lawmakers grapple with questions of safety vs speed in AI race with China - Fox Business",
+      "pubDate": "Wed, 25 Jun 2025 18:08:00 GMT"
     }
   ],
   "climate": [
@@ -2633,16 +2629,16 @@
     {
       "title": "Experts warn Trump\u2019s economy 'signals a recession' as business leaders\u2019 confidence cuts in half - Alternet",
       "pubDate": "Wed, 25 Jun 2025 14:15:00 GMT"
+    },
+    {
+      "title": "Consumer confidence in U.S. economy falls for the fifth time in six months amid geopolitical concerns - Denver7",
+      "pubDate": "Wed, 25 Jun 2025 11:53:41 GMT"
     }
   ],
   "china": [
     {
       "title": "China condemns US after plan to replace Huawei towers in Panama is unveiled - South China Morning Post",
       "pubDate": "Tue, 17 Jun 2025 21:40:18 GMT"
-    },
-    {
-      "title": "FBI Raises 'Alarming' Claims of Chinese Interference in 2020 Election - Newsweek",
-      "pubDate": "Tue, 17 Jun 2025 18:47:09 GMT"
     },
     {
       "title": "China Backs Iran in Fight Against Israel - Foreign Policy",
@@ -3963,10 +3959,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Senate Republicans Double Down and Target Clean Energy in Draft Tax Bill - U.S. News & World Report",
-      "pubDate": "Tue, 17 Jun 2025 18:28:00 GMT"
-    },
-    {
       "title": "Turning coalmines into solar energy plants \u2018could add 300GW of renewables by 2030\u2019 - The Guardian",
       "pubDate": "Tue, 17 Jun 2025 23:01:00 GMT"
     },
@@ -4629,6 +4621,12 @@
     {
       "title": "CISA Releases New Guidance for Reducing Memory-Related Vulnerabilities HS Today - HSToday",
       "pubDate": "Wed, 25 Jun 2025 08:05:08 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "Zelenskyy meets Trump on NATO sidelines; Putin will skip BRICS in Brazil - Al Jazeera",
+      "pubDate": "Wed, 25 Jun 2025 14:51:11 GMT"
     }
   ]
 }
