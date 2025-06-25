@@ -537,13 +537,13 @@
     {
       "title": "Fragile ceasefire holding, Trump envoy says peace talks with Iran 'promising' - Reuters",
       "pubDate": "Wed, 25 Jun 2025 04:07:00 GMT"
+    },
+    {
+      "title": "Live Updates: Cease-Fire Enters Second Day as Iran and Israel Both Claim Victory - The New York Times",
+      "pubDate": "Wed, 25 Jun 2025 08:28:46 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Israel-Iran latest: Trump exits G7 summit and warns of intensification - Financial Times",
-      "pubDate": "Tue, 17 Jun 2025 08:53:00 GMT"
-    },
     {
       "title": "Lawmakers Seek to Limit Trump From Dragging U.S. Into Israel-Iran War - Time Magazine",
       "pubDate": "Tue, 17 Jun 2025 09:51:16 GMT"
@@ -1159,6 +1159,10 @@
     {
       "title": "Trump says China can buy Iranian oil, but urges it to purchase US crude - Reuters",
       "pubDate": "Wed, 25 Jun 2025 04:34:00 GMT"
+    },
+    {
+      "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
+      "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
     }
   ],
   "russia": [
@@ -1407,6 +1411,10 @@
     {
       "title": "The Safety Risks of the Coming AI Regulatory Patchwork - Cato Institute",
       "pubDate": "Tue, 24 Jun 2025 21:07:50 GMT"
+    },
+    {
+      "title": "Red-teaming agentic AI: New guide lays out key concerns for AppSec - Security Boulevard",
+      "pubDate": "Wed, 25 Jun 2025 02:24:55 GMT"
     }
   ],
   "financial_markets": [
@@ -2653,10 +2661,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s state security agency warns of phishing emails sent by foreign spies - South China Morning Post",
-      "pubDate": "Tue, 17 Jun 2025 08:07:03 GMT"
-    },
-    {
       "title": "Explosion at fireworks factory in southern China kills 9, injures 26 - Reuters",
       "pubDate": "Tue, 17 Jun 2025 09:05:01 GMT"
     },
@@ -2927,6 +2931,10 @@
     {
       "title": "Why is China so concerned about Israel-Iran tensions? - NPR",
       "pubDate": "Tue, 24 Jun 2025 20:05:21 GMT"
+    },
+    {
+      "title": "China Is Building a \u2018Mega-Sized\u2019 Consumer Economy, Premier Says - Bloomberg.com",
+      "pubDate": "Wed, 25 Jun 2025 03:40:00 GMT"
     }
   ],
   "world_news": [
@@ -3475,10 +3483,6 @@
       "pubDate": "Tue, 17 Jun 2025 12:58:48 GMT"
     },
     {
-      "title": "U.S. Treasury yields slide after retail sales tumbled in May, raising recession fear - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 08:13:21 GMT"
-    },
-    {
       "title": "Japan\u2019s Exports Fall as US Tariffs Stoke Recession Risks - Bloomberg.com",
       "pubDate": "Wed, 18 Jun 2025 00:07:00 GMT"
     },
@@ -3613,6 +3617,10 @@
     {
       "title": "Balance sheet recession lengthening - The K\u0101k\u0101 by Bernard Hickey",
       "pubDate": "Tue, 24 Jun 2025 19:32:37 GMT"
+    },
+    {
+      "title": "Opinion | Twin shocks of Israel-Iran war, Trump tariffs bring global recession closer - South China Morning Post",
+      "pubDate": "Wed, 25 Jun 2025 08:39:33 GMT"
     }
   ],
   "drones": [
@@ -3919,10 +3927,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI-Microsoft tensions escalate over control and contracts - Computerworld",
-      "pubDate": "Tue, 17 Jun 2025 09:01:47 GMT"
-    },
-    {
       "title": "Sam Altman says Meta is offering $100 million to poach his employees - CNN",
       "pubDate": "Wed, 18 Jun 2025 14:27:00 GMT"
     },
@@ -4098,10 +4102,6 @@
     }
   ],
   "military_intelligence": [
-    {
-      "title": "Israeli military intelligence chief: We broke through Iranian defenses - The Jerusalem Post",
-      "pubDate": "Tue, 17 Jun 2025 08:08:26 GMT"
-    },
     {
       "title": "IDF\u2019s intelligence chief says Israel must \u2018hunt down\u2019 Iran\u2019s fleeing military commanders - The Times of Israel",
       "pubDate": "Thu, 19 Jun 2025 15:27:36 GMT"
@@ -4597,6 +4597,12 @@
     {
       "title": "Zohran Mamdani stuns Andrew Cuomo in NYC mayor primary - BBC",
       "pubDate": "Wed, 25 Jun 2025 03:32:20 GMT"
+    }
+  ],
+  "new_york_city": [
+    {
+      "title": "Zohran Mamdani declares historic victory in New York City mayoral primary after Cuomo concedes - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 02:39:00 GMT"
     }
   ]
 }
