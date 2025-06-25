@@ -525,13 +525,13 @@
     {
       "title": "US airstrikes failed to destroy Iran's nuclear sites, sources say - Reuters",
       "pubDate": "Tue, 24 Jun 2025 22:42:08 GMT"
+    },
+    {
+      "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
+      "pubDate": "Tue, 24 Jun 2025 21:23:59 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "LIVE: Israel, Iran trade attacks; Trump orders Tehran residents to flee - Al Jazeera",
-      "pubDate": "Tue, 17 Jun 2025 00:00:35 GMT"
-    },
     {
       "title": "Trump urges everyone in Tehran to evacuate 'before it is too late' - USA Today",
       "pubDate": "Tue, 17 Jun 2025 03:24:22 GMT"
@@ -1155,6 +1155,10 @@
     {
       "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
       "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
+    },
+    {
+      "title": "Intel Report on Iran Upends Victory Lap Trump Was Hoping for at NATO - The New York Times",
+      "pubDate": "Tue, 24 Jun 2025 22:34:19 GMT"
     }
   ],
   "russia": [
@@ -1301,6 +1305,10 @@
     {
       "title": "Russia says it supports Iran with 'clear stance' condemning US and Israeli strikes, intends to deepen Tehran ties - The Times of Israel",
       "pubDate": "Tue, 24 Jun 2025 09:20:07 GMT"
+    },
+    {
+      "title": "Russia Is in a \u2018Fight for the Future\u2019 Against Western Innovation, Rostec Chief Says - The Moscow Times",
+      "pubDate": "Tue, 24 Jun 2025 15:18:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1613,24 +1621,16 @@
     {
       "title": "Dow jumps 500 points, oil prices tank as investors bet Israel-Iran truce will hold: Live updates - CNBC",
       "pubDate": "Tue, 24 Jun 2025 19:26:00 GMT"
+    },
+    {
+      "title": "US stocks approach their all-time high as oil prices tumble - AP News",
+      "pubDate": "Tue, 24 Jun 2025 20:58:00 GMT"
     }
   ],
   "artificial_intelligence": [
     {
-      "title": "Generative AI in universities: Grades up, signals down, skills in flux - CEPR",
-      "pubDate": "Mon, 16 Jun 2025 23:04:34 GMT"
-    },
-    {
-      "title": "Physicists crack key puzzle in pursuit of limitless energy device: 'We've achieved sustained reactions' - The Cool Down",
-      "pubDate": "Mon, 16 Jun 2025 23:15:00 GMT"
-    },
-    {
       "title": "Engaging Wimbledon fans in real time with IBM watsonx - IBM",
       "pubDate": "Tue, 17 Jun 2025 04:26:43 GMT"
-    },
-    {
-      "title": "Optimized Artificial Intelligence Explains ChatGPT\u2019s Shopping Shift - FinancialContent",
-      "pubDate": "Mon, 16 Jun 2025 23:43:00 GMT"
     },
     {
       "title": "Dueling Billionaires: Artificial Intelligence (AI) Stock Nvidia Is Israel Englander's Largest Stock Holding, but Philippe Laffont Has Sold Shares for 8 Consecutive Quarters - Yahoo Finance",
@@ -2139,6 +2139,10 @@
     {
       "title": "Provision in federal budget bill would block states from regulating artificial intelligence for 10 years - News Channel 5 Nashville",
       "pubDate": "Tue, 24 Jun 2025 21:51:48 GMT"
+    },
+    {
+      "title": "Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 17:50:38 GMT"
     }
   ],
   "climate": [
@@ -2370,10 +2374,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Senate Republicans Release Revised Tax Cuts and Debt Limit Bill - Yahoo Finance",
-      "pubDate": "Mon, 16 Jun 2025 23:31:03 GMT"
-    },
     {
       "title": "US Fed Rate Decision: What to Expect on June 18 - Morningstar",
       "pubDate": "Tue, 17 Jun 2025 07:28:00 GMT"
@@ -2961,14 +2961,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate Republicans unveil plan for cuts to Medicaid and taxes in Trump agenda bill - KTEN",
-      "pubDate": "Mon, 16 Jun 2025 23:51:33 GMT"
-    },
-    {
-      "title": "Proposed GOP spending cuts could impact health care coverage for millions - CBS News",
-      "pubDate": "Mon, 16 Jun 2025 23:07:00 GMT"
-    },
-    {
       "title": "Senate overhauls Trump\u2019s tax bill, setting up brawl with the House - The Washington Post",
       "pubDate": "Tue, 17 Jun 2025 05:16:20 GMT"
     },
@@ -3263,6 +3255,10 @@
     {
       "title": "New York City mayoral election live updates: Andrew Cuomo and Zohran Mamdani campaign in final hours before polls close - NBC News",
       "pubDate": "Tue, 24 Jun 2025 22:06:09 GMT"
+    },
+    {
+      "title": "Democrats try to reopen abortion conversation on Dobbs anniversary - The Hill",
+      "pubDate": "Tue, 24 Jun 2025 22:44:00 GMT"
     }
   ],
   "north_korea": [
@@ -3285,6 +3281,10 @@
     {
       "title": "North Korea delivers a show of force with rocket launches after US air drills - New York Post",
       "pubDate": "Sat, 21 Jun 2025 21:03:00 GMT"
+    },
+    {
+      "title": "Why Trump\u2019s bombing of Iran will only bolster North Korea\u2019s nuclear resolve - The Independent",
+      "pubDate": "Tue, 24 Jun 2025 12:31:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3926,10 +3926,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "US Senate budget bill proposal keeps cuts to solar, wind incentives - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 23:29:39 GMT"
-    },
     {
       "title": "Senate Finance Committee reconciliation bill slashes solar PV, wind incentives, energy storage survives - PV Tech",
       "pubDate": "Tue, 17 Jun 2025 10:37:31 GMT"
