@@ -179,10 +179,6 @@
   ],
   "iran": [
     {
-      "title": "Iran Is Preparing Missiles for Possible Retaliatory Strikes on U.S. Bases - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 20:10:44 GMT"
-    },
-    {
       "title": "US spies said Iran wasn't building a nuclear weapon. Trump dismisses that assessment - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 02:05:19 GMT"
     },
@@ -528,10 +524,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Israel-Iran live updates: Trump calls for Iran's 'UNCONDITIONAL SURRENDER' and calls Khamenei 'easy target' - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 20:49:00 GMT"
-    },
     {
       "title": "Appeals court seems poised to side with Trump on National Guard deployment in L.A. - Politico",
       "pubDate": "Tue, 17 Jun 2025 22:33:57 GMT"
@@ -1151,6 +1143,10 @@
     {
       "title": "Trump says Israel sent agents into Iran\u2019s Fordo nuclear site, saw \u2018total obliteration\u2019 - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 15:33:45 GMT"
+    },
+    {
+      "title": "Trump engages in Truth Social diplomacy on Iran crisis - NBC News",
+      "pubDate": "Wed, 25 Jun 2025 20:00:00 GMT"
     }
   ],
   "russia": [
@@ -1639,10 +1635,6 @@
     {
       "title": "Big Tech pushes for 10-year ban on US states regulating AI - Financial Times",
       "pubDate": "Wed, 18 Jun 2025 04:00:43 GMT"
-    },
-    {
-      "title": "Amazon CEO Says AI Will Lead to Smaller Workforce - WSJ",
-      "pubDate": "Tue, 17 Jun 2025 20:53:00 GMT"
     },
     {
       "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI's enterprise dominance - VentureBeat",
@@ -2228,10 +2220,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "16 killed in deadliest Russian strikes on Kyiv in almost a year - CNN",
-      "pubDate": "Tue, 17 Jun 2025 20:55:00 GMT"
-    },
     {
       "title": "Russia hits Kyiv with deadliest attack of the year, G-7 avoids talk of Ukraine - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 08:14:48 GMT"
@@ -2963,10 +2951,6 @@
     {
       "title": "Hospitals stunned by Senate GOP\u2019s Medicaid plan - Politico",
       "pubDate": "Tue, 17 Jun 2025 21:06:43 GMT"
-    },
-    {
-      "title": "Lawmakers aim to stop U.S. from joining Israel's military campaign against Iran - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 20:50:18 GMT"
     },
     {
       "title": "Democrats\u2019 frustration with Fetterman mounts as he keeps criticizing his own party - CNN",
@@ -3717,6 +3701,10 @@
     {
       "title": "Report: Efforts to secure a Gaza deal intensify, but no breakthrough yet - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 15:49:17 GMT"
+    },
+    {
+      "title": "LIVE: Israel forces slaughter dozens in Gaza after 7 troops killed - Al Jazeera",
+      "pubDate": "Wed, 25 Jun 2025 20:15:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3949,12 +3937,6 @@
     {
       "title": "OpenAI Changes Price Structure for Business Version of ChatGPT - WSJ",
       "pubDate": "Thu, 19 Jun 2025 09:41:00 GMT"
-    }
-  ],
-  "research": [
-    {
-      "title": "US judge blocks Defense Department from slashing federal research funding - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 21:03:45 GMT"
     }
   ],
   "renewable_energy": [
@@ -4553,6 +4535,10 @@
     {
       "title": "Experts Assess Strikes, Response and What Comes Next - The Cipher Brief",
       "pubDate": "Mon, 23 Jun 2025 03:25:43 GMT"
+    },
+    {
+      "title": "CIA says intelligence indicates Iran's nuclear program severely damaged - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 20:35:45 GMT"
     }
   ],
   "astronomy": [
@@ -4619,6 +4605,10 @@
     {
       "title": "New York City Mayoral Primary Election Results 2025 - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 10:54:00 GMT"
+    },
+    {
+      "title": "Takeaways from New York City\u2019s mayoral primary: Mamdani delivers a political earthquake - CNN",
+      "pubDate": "Wed, 25 Jun 2025 16:11:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -4631,6 +4621,12 @@
     {
       "title": "Zelenskyy meets Trump on NATO sidelines; Putin will skip BRICS in Brazil - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 14:51:11 GMT"
+    }
+  ],
+  "nvidia": [
+    {
+      "title": "Nvidia shares hit record high as Wall Street shakes off anxiety about AI chip export controls - New York Post",
+      "pubDate": "Wed, 25 Jun 2025 18:27:00 GMT"
     }
   ]
 }
