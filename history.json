@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "LIVE: Israel and Iran trade attacks; new Gaza \u2018massacre\u2019 of aid-seekers - Al Jazeera",
-      "pubDate": "Tue, 17 Jun 2025 10:25:58 GMT"
-    },
-    {
       "title": "Israel-Iran Live Updates: Trump Says He's Working on 'Something Much Bigger' Than Cease-Fire - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 11:14:57 GMT"
     },
@@ -190,10 +186,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Israel-Iran live updates: Trump seeking 'real end' to Tehran nuclear program - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 10:17:00 GMT"
-    },
     {
       "title": "Israeli strikes damage Iran's underground nuclear site, agency says, as Trump issues ominous warning - AP News",
       "pubDate": "Tue, 17 Jun 2025 12:28:00 GMT"
@@ -540,10 +532,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump mobile: Experts question claim gold phone can be made in US - BBC",
-      "pubDate": "Tue, 17 Jun 2025 10:34:12 GMT"
-    },
     {
       "title": "Israel-Iran latest: Trump calls on Iran to \u2018give up\u2019 and denies pursuing ceasefire - Financial Times",
       "pubDate": "Tue, 17 Jun 2025 12:44:50 GMT"
@@ -1159,6 +1147,10 @@
     {
       "title": "Trump says Iran's nuclear plans put back 'decades' by US strikes as report suggests impact limited - BBC",
       "pubDate": "Wed, 25 Jun 2025 08:58:56 GMT"
+    },
+    {
+      "title": "Trump says strike on Iran's nuclear program was an 'obliteration' despite 'inconclusive' intel report - CNBC",
+      "pubDate": "Wed, 25 Jun 2025 09:52:00 GMT"
     }
   ],
   "russia": [
@@ -1625,13 +1617,13 @@
     {
       "title": "Safe-haven assets retreat as ceasefire triggers risk-on market rotation - KITCO",
       "pubDate": "Tue, 24 Jun 2025 23:08:23 GMT"
+    },
+    {
+      "title": "Oil down, hopes up, \u2018risk-on\u2019: Stocks are back near their all-time highs - Fortune",
+      "pubDate": "Wed, 25 Jun 2025 10:36:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Hurricanes and sandstorms can be forecast 5,000 times faster thanks to new Microsoft AI model - Live Science",
-      "pubDate": "Tue, 17 Jun 2025 11:00:00 GMT"
-    },
     {
       "title": "Oracle\u2019s $116 Billion Surge Leaves Little Room for Error on AI - Bloomberg",
       "pubDate": "Tue, 17 Jun 2025 12:05:58 GMT"
@@ -2159,6 +2151,10 @@
     {
       "title": "From buzzword to must-have: Why AI is now an imperative for business leaders - USA Today",
       "pubDate": "Wed, 25 Jun 2025 09:06:26 GMT"
+    },
+    {
+      "title": "What AI Really Can Do Now: 6 Lessons for Harnessing Artificial Intelligence - Newsweek",
+      "pubDate": "Wed, 25 Jun 2025 09:00:01 GMT"
     }
   ],
   "climate": [
@@ -2927,13 +2923,13 @@
     {
       "title": "Experts in China assess combat debut of US bunker-busting GBU-57 in Iran - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 08:00:09 GMT"
+    },
+    {
+      "title": "China Tells Brazil Xi Jinping Will Miss BRICS Summit in Rio - Bloomberg.com",
+      "pubDate": "Wed, 25 Jun 2025 07:58:07 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "Israel strikes Iran: Is the world close to a nuclear radiation incident? - Al Jazeera",
-      "pubDate": "Tue, 17 Jun 2025 10:08:53 GMT"
-    },
     {
       "title": "LIVE: Israel, Iran continue missile attacks; 144 killed in Gaza in last 24 - Al Jazeera",
       "pubDate": "Wed, 18 Jun 2025 07:49:28 GMT"
@@ -3187,6 +3183,10 @@
     {
       "title": "Mamdani poised for major upset after Cuomo concedes NYC mayor primary. Here\u2019s what\u2019s next. - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 06:31:48 GMT"
+    },
+    {
+      "title": "US senator: 'War industry' has a stranglehold on Washington - Responsible Statecraft",
+      "pubDate": "Wed, 25 Jun 2025 01:21:11 GMT"
     }
   ],
   "science": [
@@ -3467,6 +3467,10 @@
     {
       "title": "After Iran uses missiles, US braces for cyberattacks - CNN",
       "pubDate": "Tue, 24 Jun 2025 13:07:00 GMT"
+    },
+    {
+      "title": "Iranian-backed hackers go to work after US strikes - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 25 Jun 2025 06:27:18 GMT"
     }
   ],
   "recession": [
@@ -3617,6 +3621,10 @@
     {
       "title": "The US is staring down a fate worse than recession, and 4 other bold forecasts from a top economist - Business Insider",
       "pubDate": "Wed, 25 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "New JPMorgan survey finds rising recession fears at mid-sized firms - Fortune",
+      "pubDate": "Wed, 25 Jun 2025 09:00:00 GMT"
     }
   ],
   "drones": [
@@ -3688,10 +3696,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Fed policymakers gather amid rising geopolitical risks, unclear tariff impact - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 10:07:50 GMT"
-    },
     {
       "title": "The Fed is likely to keep rates the same, but give a forecast that moves markets. What to expect - CNBC",
       "pubDate": "Tue, 17 Jun 2025 19:20:23 GMT"
@@ -3821,10 +3825,6 @@
   ],
   "cancer": [
     {
-      "title": "Targeted cancer drugs may replace chemo for some patients \u2014 and drugmakers say they're getting closer - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 11:00:01 GMT"
-    },
-    {
       "title": "\u2018Cancer is just everywhere\u2019: could farming be behind Iowa\u2019s unfolding health crisis? - The Guardian",
       "pubDate": "Wed, 18 Jun 2025 15:21:00 GMT"
     },
@@ -3938,10 +3938,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Senate Finance Committee reconciliation bill slashes solar PV, wind incentives, energy storage survives - PV Tech",
-      "pubDate": "Tue, 17 Jun 2025 10:37:31 GMT"
-    },
     {
       "title": "Solar stocks plummet as Senate version of Trump's tax bill cuts renewable energy incentives - CNBC",
       "pubDate": "Tue, 17 Jun 2025 11:24:21 GMT"
