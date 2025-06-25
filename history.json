@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran live updates: Trump heads to Situation Room as Middle East tensions escalate, sources say - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 01:04:00 GMT"
-    },
-    {
       "title": "LIVE: Israel and Iran trade attacks; new Gaza \u2018massacre\u2019 of aid-seekers - Al Jazeera",
       "pubDate": "Tue, 17 Jun 2025 10:25:58 GMT"
     },
@@ -525,6 +521,10 @@
     {
       "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
       "pubDate": "Tue, 24 Jun 2025 21:23:59 GMT"
+    },
+    {
+      "title": "Israel-Iran live news: Iranian nuclear program could restart in months, Pentagon finds, as fragile ceasefire holds - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 01:21:36 GMT"
     }
   ],
   "donald_trump": [
@@ -1403,13 +1403,13 @@
     {
       "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
       "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
+    },
+    {
+      "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
+      "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Bitcoin production costs up 9% on higher hashrate, energy prices - Cointelegraph",
-      "pubDate": "Tue, 17 Jun 2025 01:57:46 GMT"
-    },
     {
       "title": "Banks boosted fossil fuel finance by more than a fifth in 2024, report says - Financial Times",
       "pubDate": "Tue, 17 Jun 2025 04:00:37 GMT"
@@ -2147,6 +2147,10 @@
     {
       "title": "US judge allows company to train AI using copyrighted literary materials - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Anthropic Lands Partial Victory in AI Case Set to Shape Future Rulings - WSJ",
+      "pubDate": "Tue, 24 Jun 2025 21:08:00 GMT"
     }
   ],
   "climate": [
@@ -2375,6 +2379,10 @@
     {
       "title": "Ukraine-Russia war latest: Zelensky plans to meet Trump at Nato summit - The Independent",
       "pubDate": "Tue, 24 Jun 2025 11:41:28 GMT"
+    },
+    {
+      "title": "Russia kills 17, injures scores in one of its deadliest attacks on Ukraine - politico.eu",
+      "pubDate": "Tue, 24 Jun 2025 21:10:00 GMT"
     }
   ],
   "us_economy": [
@@ -3183,6 +3191,10 @@
     {
       "title": "Israel killed at least 14 scientists in an unprecedented attack on Iran\u2019s nuclear know-how - AP News",
       "pubDate": "Tue, 24 Jun 2025 17:10:00 GMT"
+    },
+    {
+      "title": "Republicans' 2026 Midterm Chances Against Democrats Surge in New Poll - Newsweek",
+      "pubDate": "Tue, 24 Jun 2025 19:01:58 GMT"
     }
   ],
   "science": [
@@ -3984,10 +3996,6 @@
     }
   ],
   "electric-vehicle_battery": [
-    {
-      "title": "Senate Republicans seek to kill $7,500 EV tax credit - MSN",
-      "pubDate": "Tue, 17 Jun 2025 01:45:10 GMT"
-    },
     {
       "title": "U.S. Electric Vehicle Plants Risk Becoming \u201cStranded Assets\u201d - Thomasnet",
       "pubDate": "Mon, 23 Jun 2025 10:56:37 GMT"
