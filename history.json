@@ -521,6 +521,10 @@
     {
       "title": "Israeli commandos operated inside Iran during war, IDF chief says - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 18:01:57 GMT"
+    },
+    {
+      "title": "CIA: Intel \u2018indicates\u2019 Iran nuke program \u2018severely damaged,\u2019 several sites \u2018destroyed\u2019 - The Times of Israel",
+      "pubDate": "Wed, 25 Jun 2025 20:50:43 GMT"
     }
   ],
   "donald_trump": [
@@ -531,10 +535,6 @@
     {
       "title": "Intense Israeli strikes hit Tehran after Trump demands \u2018unconditional surrender\u2019 - AP News",
       "pubDate": "Wed, 18 Jun 2025 02:20:00 GMT"
-    },
-    {
-      "title": "Trump administration demands action from 36 countries to avoid travel ban - AP News",
-      "pubDate": "Tue, 17 Jun 2025 21:52:00 GMT"
     },
     {
       "title": "Trump speaks with Netanyahu after crucial meeting on Israel-Iran war - Axios",
@@ -1147,6 +1147,10 @@
     {
       "title": "Trump engages in Truth Social diplomacy on Iran crisis - NBC News",
       "pubDate": "Wed, 25 Jun 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Trump slams Zohran Mamdani as Republicans go on attack after progressive\u2019s success in New York mayoral primary \u2013 live - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 10:17:00 GMT"
     }
   ],
   "russia": [
@@ -1292,10 +1296,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "New York takes first steps to regulate large AI developers - Times Union",
-      "pubDate": "Tue, 17 Jun 2025 21:21:36 GMT"
-    },
     {
       "title": "Experts warn AI bias could undermine safety and security - Adomonline.com",
       "pubDate": "Wed, 18 Jun 2025 17:16:23 GMT"
@@ -1621,10 +1621,6 @@
       "pubDate": "Tue, 17 Jun 2025 22:23:00 GMT"
     },
     {
-      "title": "Amazon CEO says AI agents will soon reduce company's corporate workforce - CBS News",
-      "pubDate": "Tue, 17 Jun 2025 21:28:45 GMT"
-    },
-    {
       "title": "Cloud Security Alliance launches pledge for responsible AI use - SecurityBrief Australia",
       "pubDate": "Wed, 18 Jun 2025 01:26:00 GMT"
     },
@@ -1635,10 +1631,6 @@
     {
       "title": "Big Tech pushes for 10-year ban on US states regulating AI - Financial Times",
       "pubDate": "Wed, 18 Jun 2025 04:00:43 GMT"
-    },
-    {
-      "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI's enterprise dominance - VentureBeat",
-      "pubDate": "Tue, 17 Jun 2025 21:55:56 GMT"
     },
     {
       "title": "Sam Altman Says Meta Offered OpenAI Staffers $100 Million Bonuses - Bloomberg.com",
@@ -2143,6 +2135,10 @@
     {
       "title": "Nvidia shares hit record high on renewed AI optimism - Financial Times",
       "pubDate": "Wed, 25 Jun 2025 18:47:14 GMT"
+    },
+    {
+      "title": "Micron Technology Profit Soars as AI Boom Boosts Sales - WSJ",
+      "pubDate": "Wed, 25 Jun 2025 20:31:00 GMT"
     }
   ],
   "climate": [
@@ -2355,13 +2351,13 @@
     {
       "title": "Russia kills 17, injures scores in one of its deadliest attacks on Ukraine - politico.eu",
       "pubDate": "Tue, 24 Jun 2025 21:10:00 GMT"
+    },
+    {
+      "title": "Ukraine war live: Trump meets Zelensky as row breaks out over Nato\u2019s stance on Putin - The Independent",
+      "pubDate": "Wed, 25 Jun 2025 20:43:51 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Managers bullish as fears about trade war, recession abate \u2014 BofA survey - Pensions & Investments",
-      "pubDate": "Tue, 17 Jun 2025 21:30:56 GMT"
-    },
     {
       "title": "Oil prices spike, US stocks fall on Israel-Iran crisis - Al Jazeera",
       "pubDate": "Wed, 18 Jun 2025 03:11:15 GMT"
@@ -2620,10 +2616,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China condemns US after plan to replace Huawei towers in Panama is unveiled - South China Morning Post",
-      "pubDate": "Tue, 17 Jun 2025 21:40:18 GMT"
-    },
     {
       "title": "China Backs Iran in Fight Against Israel - Foreign Policy",
       "pubDate": "Tue, 17 Jun 2025 22:10:33 GMT"
@@ -2907,6 +2899,10 @@
     {
       "title": "China-tied AI tools like DeepSeek face US federal ban over \u2018threat\u2019 - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 18:29:29 GMT"
+    },
+    {
+      "title": "The Waning Ambitions of China\u2019s $1.3 Trillion Fund Giant - Bloomberg.com",
+      "pubDate": "Wed, 25 Jun 2025 21:00:37 GMT"
     }
   ],
   "world_news": [
@@ -2948,10 +2944,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Hospitals stunned by Senate GOP\u2019s Medicaid plan - Politico",
-      "pubDate": "Tue, 17 Jun 2025 21:06:43 GMT"
-    },
     {
       "title": "Democrats\u2019 frustration with Fetterman mounts as he keeps criticizing his own party - CNN",
       "pubDate": "Wed, 18 Jun 2025 10:00:00 GMT"
@@ -3171,6 +3163,10 @@
     {
       "title": "Zohran Mamdani victory in NYC mayoral primary is \u2018political earthquake\u2019 for the Democratic Party - New York Post",
       "pubDate": "Wed, 25 Jun 2025 10:09:00 GMT"
+    },
+    {
+      "title": "Mamdani's Success Sparks GOP Attack Plan, Worrying Democrats - Time Magazine",
+      "pubDate": "Wed, 25 Jun 2025 21:32:07 GMT"
     }
   ],
   "science": [
@@ -3364,10 +3360,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybersecurity takes a big hit in new Trump executive order - Ars Technica",
-      "pubDate": "Tue, 17 Jun 2025 21:33:01 GMT"
-    },
     {
       "title": "Hackers steal $48 million in cryptocurrency used by Iran to fund terror - The Jerusalem Post",
       "pubDate": "Wed, 18 Jun 2025 07:38:32 GMT"
@@ -3993,24 +3985,8 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Senate passes landmark crypto legislation with bipartisan support - USA Today",
-      "pubDate": "Tue, 17 Jun 2025 21:48:48 GMT"
-    },
-    {
-      "title": "Senate Passes Cryptocurrency Bill, Handing Industry a Victory - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 21:52:34 GMT"
-    },
-    {
       "title": "Senate passes first-of-its-kind cryptocurrency legislation - CNN",
       "pubDate": "Tue, 17 Jun 2025 22:39:00 GMT"
-    },
-    {
-      "title": "Senate passes landmark crypto regulation bill on a bipartisan vote, sending it to the House - NBC News",
-      "pubDate": "Tue, 17 Jun 2025 22:01:31 GMT"
-    },
-    {
-      "title": "Senate passes GENIUS stablecoin bill, giving crypto industry first major legislative win - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 21:53:22 GMT"
     },
     {
       "title": "US Senate passes stablecoin bill in milestone for crypto industry - Reuters",
@@ -4187,6 +4163,10 @@
     {
       "title": "US Supreme Court rules that states can ban transgender care for minors - BBC",
       "pubDate": "Wed, 18 Jun 2025 14:19:23 GMT"
+    },
+    {
+      "title": "How US adults' views on same-sex marriage have changed since the Supreme Court's 2015 ruling - AP News",
+      "pubDate": "Wed, 25 Jun 2025 11:02:00 GMT"
     }
   ],
   "hacker": [
