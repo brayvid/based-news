@@ -191,10 +191,6 @@
   ],
   "iran": [
     {
-      "title": "Missiles pound Iran and Israel as dozens \u2018massacred\u2019 in Gaza - Al Jazeera",
-      "pubDate": "Tue, 17 Jun 2025 09:11:15 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: Trump seeking 'real end' to Tehran nuclear program - ABC News",
       "pubDate": "Tue, 17 Jun 2025 10:17:00 GMT"
     },
@@ -544,10 +540,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Lawmakers Seek to Limit Trump From Dragging U.S. Into Israel-Iran War - Time Magazine",
-      "pubDate": "Tue, 17 Jun 2025 09:51:16 GMT"
-    },
     {
       "title": "Trump mobile: Experts question claim gold phone can be made in US - BBC",
       "pubDate": "Tue, 17 Jun 2025 10:34:12 GMT"
@@ -1163,13 +1155,13 @@
     {
       "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
+    },
+    {
+      "title": "Trump says Iran's nuclear plans put back 'decades' by US strikes as report suggests impact limited - BBC",
+      "pubDate": "Wed, 25 Jun 2025 08:58:56 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia pummels Kyiv with drones and missiles, killing at least 15 - NPR",
-      "pubDate": "Tue, 17 Jun 2025 09:31:32 GMT"
-    },
     {
       "title": "Russia says Israeli attacks on Iran are illegal, notes Iran's commitment to NPT - Reuters",
       "pubDate": "Tue, 17 Jun 2025 19:40:41 GMT"
@@ -1309,13 +1301,13 @@
     {
       "title": "Drone debris found in Ukraine indicates Russia is using new technology from Iran - AP News",
       "pubDate": "Wed, 25 Jun 2025 05:23:00 GMT"
+    },
+    {
+      "title": "Killing machines: how Russia and Ukraine\u2019s race to perfect deadly pilotless drones could harm us all - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 09:02:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Nuclear Risk Alert: SIPRI Warns Against Automating Nuclear Weapons with AI - Deccan Herald",
-      "pubDate": "Tue, 17 Jun 2025 09:53:32 GMT"
-    },
     {
       "title": "New York takes first steps to regulate large AI developers - Times Union",
       "pubDate": "Tue, 17 Jun 2025 21:21:36 GMT"
@@ -1636,10 +1628,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Nvidia Stock Slips. How Big Its AI Chip Market Could Get. - Barron's",
-      "pubDate": "Tue, 17 Jun 2025 09:40:00 GMT"
-    },
     {
       "title": "Hurricanes and sandstorms can be forecast 5,000 times faster thanks to new Microsoft AI model - Live Science",
       "pubDate": "Tue, 17 Jun 2025 11:00:00 GMT"
@@ -2167,6 +2155,10 @@
     {
       "title": "OpenAI CEO Altman says he has spoken with Microsoft CEO Nadella, NYT reports - Reuters",
       "pubDate": "Wed, 25 Jun 2025 05:40:00 GMT"
+    },
+    {
+      "title": "From buzzword to must-have: Why AI is now an imperative for business leaders - USA Today",
+      "pubDate": "Wed, 25 Jun 2025 09:06:26 GMT"
     }
   ],
   "climate": [
@@ -2661,10 +2653,6 @@
   ],
   "china": [
     {
-      "title": "Explosion at fireworks factory in southern China kills 9, injures 26 - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 09:05:01 GMT"
-    },
-    {
       "title": "China to nearly double nuclear power capacity by 2040 in rapid build-up - South China Morning Post",
       "pubDate": "Tue, 17 Jun 2025 11:30:10 GMT"
     },
@@ -2935,6 +2923,10 @@
     {
       "title": "China Is Building a \u2018Mega-Sized\u2019 Consumer Economy, Premier Says - Bloomberg.com",
       "pubDate": "Wed, 25 Jun 2025 03:40:00 GMT"
+    },
+    {
+      "title": "Experts in China assess combat debut of US bunker-busting GBU-57 in Iran - South China Morning Post",
+      "pubDate": "Wed, 25 Jun 2025 08:00:09 GMT"
     }
   ],
   "world_news": [
@@ -3621,6 +3613,10 @@
     {
       "title": "Opinion | Twin shocks of Israel-Iran war, Trump tariffs bring global recession closer - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 08:39:33 GMT"
+    },
+    {
+      "title": "The US is staring down a fate worse than recession, and 4 other bold forecasts from a top economist - Business Insider",
+      "pubDate": "Wed, 25 Jun 2025 09:00:00 GMT"
     }
   ],
   "drones": [
@@ -3685,13 +3681,13 @@
     {
       "title": "Israel kills 40 in further Gaza bloodshed after reaching truce with Iran - Reuters",
       "pubDate": "Tue, 24 Jun 2025 16:37:57 GMT"
+    },
+    {
+      "title": "7 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
+      "pubDate": "Wed, 25 Jun 2025 08:19:19 GMT"
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Fed meets as policymakers are expected to assert their independence amid Trump\u2019s pressure - Fortune",
-      "pubDate": "Tue, 17 Jun 2025 09:31:45 GMT"
-    },
     {
       "title": "Fed policymakers gather amid rising geopolitical risks, unclear tariff impact - Reuters",
       "pubDate": "Tue, 17 Jun 2025 10:07:50 GMT"
@@ -4603,6 +4599,12 @@
     {
       "title": "Zohran Mamdani declares historic victory in New York City mayoral primary after Cuomo concedes - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 02:39:00 GMT"
+    }
+  ],
+  "cybersecurity_and_infrastructure_security_agency": [
+    {
+      "title": "CISA Releases New Guidance for Reducing Memory-Related Vulnerabilities HS Today - HSToday",
+      "pubDate": "Wed, 25 Jun 2025 08:05:08 GMT"
     }
   ]
 }
