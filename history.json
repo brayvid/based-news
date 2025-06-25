@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran live updates: IDF says it killed Iran's new wartime chief of staff - NBC News",
-      "pubDate": "Tue, 17 Jun 2025 13:49:31 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: President Trump spoke with Netanyahu, White House official says - ABC News",
       "pubDate": "Tue, 17 Jun 2025 23:30:00 GMT"
     },
@@ -1151,16 +1147,16 @@
     {
       "title": "Live updates: NATO pledges large military spending hike demanded by Trump - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 12:35:36 GMT"
+    },
+    {
+      "title": "Trump\u2019s Anger at AOC Boils Over\u2014and Reveals a New Way Forward for Dems - The New Republic",
+      "pubDate": "Wed, 25 Jun 2025 09:00:00 GMT"
     }
   ],
   "russia": [
     {
       "title": "Russia says Israeli attacks on Iran are illegal, notes Iran's commitment to NPT - Reuters",
       "pubDate": "Tue, 17 Jun 2025 19:40:41 GMT"
-    },
-    {
-      "title": "North Korea will help Russia rebuild Kursk after Ukrainian incursion, Kim tells Putin ally - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 13:04:05 GMT"
     },
     {
       "title": "Oil Options More Bullish Than After Russia\u2019s Invasion of Ukraine - Bloomberg.com",
@@ -1297,16 +1293,16 @@
     {
       "title": "Killing machines: how Russia and Ukraine\u2019s race to perfect deadly pilotless drones could harm us all - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 09:02:00 GMT"
+    },
+    {
+      "title": "Putin will not go to BRICS summit in Brazil due to ICC arrest warrant, Kremlin aide says - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 12:55:52 GMT"
     }
   ],
   "ai_safety": [
     {
       "title": "New York takes first steps to regulate large AI developers - Times Union",
       "pubDate": "Tue, 17 Jun 2025 21:21:36 GMT"
-    },
-    {
-      "title": "AI in Safety: From Hype to Real-World Impact - ohsonline.com",
-      "pubDate": "Tue, 17 Jun 2025 13:21:36 GMT"
     },
     {
       "title": "Experts warn AI bias could undermine safety and security - Adomonline.com",
@@ -1633,10 +1629,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "How Israel used spies, smuggled drones and AI to stun and hobble Iran - The Washington Post",
-      "pubDate": "Tue, 17 Jun 2025 13:12:21 GMT"
-    },
-    {
       "title": "Artificial intelligence may cause mass unemployment, says Geoffrey Hinton; 'Godfather of AI' reveals 'safe' jobs - Mint",
       "pubDate": "Tue, 17 Jun 2025 14:04:12 GMT"
     },
@@ -1647,10 +1639,6 @@
     {
       "title": "California is trying to regulate its AI giants \u2014 again - The Verge",
       "pubDate": "Tue, 17 Jun 2025 16:07:48 GMT"
-    },
-    {
-      "title": "AI Reveals Key Predictors of Lifelong Brain Health - Neuroscience News",
-      "pubDate": "Tue, 17 Jun 2025 13:51:24 GMT"
     },
     {
       "title": "Amazon CEO says AI will mean fewer jobs at the company. Here\u2019s his advice on how people can keep theirs. - MarketWatch",
@@ -2163,6 +2151,10 @@
     {
       "title": "Over 40% of agentic AI projects will be scrapped by 2027, Gartner says - Reuters",
       "pubDate": "Wed, 25 Jun 2025 10:05:10 GMT"
+    },
+    {
+      "title": "OpenAI says China's Zhipu AI gaining ground amid Beijing's global AI push - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 12:58:06 GMT"
     }
   ],
   "climate": [
@@ -2394,10 +2386,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US retail sales post biggest drop in four months - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 13:44:14 GMT"
-    },
     {
       "title": "The US economy is in a good place, but the Federal Reserve is not - AP News",
       "pubDate": "Tue, 17 Jun 2025 15:00:00 GMT"
@@ -2649,13 +2637,13 @@
     {
       "title": "US consumer confidence slumps - Northwest Arkansas Democrat-Gazette",
       "pubDate": "Wed, 25 Jun 2025 07:11:00 GMT"
+    },
+    {
+      "title": "Fed kicks off effort to ease bank leverage rules - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 10:03:59 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 14:00:15 GMT"
-    },
     {
       "title": "Iran reports major Israeli \u2018cyber war\u2019 as Tehran restricts internet for citizens - The Times of Israel",
       "pubDate": "Tue, 17 Jun 2025 17:21:29 GMT"
@@ -3195,6 +3183,10 @@
     {
       "title": "US senator: 'War industry' has a stranglehold on Washington - Responsible Statecraft",
       "pubDate": "Wed, 25 Jun 2025 01:21:11 GMT"
+    },
+    {
+      "title": "Judge blocks Trump from withholding EV charger infrastructure funds - The Hill",
+      "pubDate": "Wed, 25 Jun 2025 02:34:00 GMT"
     }
   ],
   "science": [
@@ -3701,6 +3693,10 @@
     {
       "title": "7 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 08:19:19 GMT"
+    },
+    {
+      "title": "7 Israeli soldiers blown up by Hamas terrorist in deadliest attack on IDF in Gaza in months - New York Post",
+      "pubDate": "Wed, 25 Jun 2025 13:07:00 GMT"
     }
   ],
   "federal_reserve": [
