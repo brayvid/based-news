@@ -179,13 +179,13 @@
     {
       "title": "Israel-Iran latest: White House hits out at \u2018leaked\u2019 intelligence assessment on Iran strikes - Financial Times",
       "pubDate": "Tue, 24 Jun 2025 20:17:52 GMT"
+    },
+    {
+      "title": "How a volatile 24 hours edged Iran and Israel to a ceasefire - BBC",
+      "pubDate": "Tue, 24 Jun 2025 17:57:35 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Israel Attacks Iran\u2019s State Television, Live On The Air - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 03:04:54 GMT"
-    },
     {
       "title": "Live updates: Israel claims aerial superiority over Tehran as Iran launches more missiles - NBC News",
       "pubDate": "Tue, 17 Jun 2025 05:21:00 GMT"
@@ -533,20 +533,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump urges everyone in Tehran to evacuate 'before it is too late' - USA Today",
-      "pubDate": "Tue, 17 Jun 2025 03:24:22 GMT"
-    },
-    {
-      "title": "Trump is facing heat from all sides, but his fateful Iran decision is one only he can make - CNN",
-      "pubDate": "Tue, 17 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "Trump to leave G7 summit early to monitor tensions in the Middle East - CNN",
       "pubDate": "Tue, 17 Jun 2025 04:05:22 GMT"
-    },
-    {
-      "title": "Israel warns 300,000 people in Tehran to evacuate as Trump issues ominous message - AP News",
-      "pubDate": "Tue, 17 Jun 2025 03:09:00 GMT"
     },
     {
       "title": "Republican hawks vs Maga isolationists: the internal war that could decide Trump\u2019s Iran response - The Guardian",
@@ -1167,6 +1155,10 @@
     {
       "title": "Dems struggle to respond as Trump\u2019s Iran strikes sow chaos - Politico",
       "pubDate": "Wed, 25 Jun 2025 01:06:51 GMT"
+    },
+    {
+      "title": "Trump to Congress: 'NO ONE GOES ON VACATION' until spending bill passes - CNBC",
+      "pubDate": "Tue, 24 Jun 2025 18:56:10 GMT"
     }
   ],
   "russia": [
@@ -1415,10 +1407,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Banks boosted fossil fuel finance by more than a fifth in 2024, report says - Financial Times",
-      "pubDate": "Tue, 17 Jun 2025 04:00:37 GMT"
-    },
-    {
       "title": "Middle East tensions unnerve investors, boost oil prices - Reuters",
       "pubDate": "Tue, 17 Jun 2025 14:47:00 GMT"
     },
@@ -1629,6 +1617,10 @@
     {
       "title": "US stocks approach their all-time high as oil prices tumble - AP News",
       "pubDate": "Tue, 24 Jun 2025 20:58:00 GMT"
+    },
+    {
+      "title": "Safe-haven assets retreat as ceasefire triggers risk-on market rotation - KITCO",
+      "pubDate": "Tue, 24 Jun 2025 23:08:23 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2159,6 +2151,10 @@
     {
       "title": "AI-powered hiring tools favor black and female job candidates over white and male applicants: study - New York Post",
       "pubDate": "Tue, 24 Jun 2025 17:01:00 GMT"
+    },
+    {
+      "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term. - Yahoo Finance",
+      "pubDate": "Wed, 25 Jun 2025 00:00:00 GMT"
     }
   ],
   "climate": [
@@ -2229,6 +2225,10 @@
     {
       "title": "Earth is more sensitive to greenhouse gases than we thought - New Scientist",
       "pubDate": "Tue, 24 Jun 2025 15:23:31 GMT"
+    },
+    {
+      "title": "Heat pumps and EVs making progress, UK climate advisers say - BBC",
+      "pubDate": "Wed, 25 Jun 2025 01:34:45 GMT"
     }
   ],
   "ukraine": [
@@ -2648,10 +2648,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Is Unleashing a New Export Shock on the World - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 04:00:10 GMT"
-    },
     {
       "title": "China stockpiling nuclear warheads at fastest rate globally, new research shows - The Guardian",
       "pubDate": "Tue, 17 Jun 2025 05:10:00 GMT"
@@ -3829,10 +3825,6 @@
   ],
   "cancer": [
     {
-      "title": "Breakthrough blood test detects cancer years before symptoms appear - The Independent",
-      "pubDate": "Tue, 17 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "Targeted cancer drugs may replace chemo for some patients \u2014 and drugmakers say they're getting closer - CNBC",
       "pubDate": "Tue, 17 Jun 2025 11:00:01 GMT"
     },
@@ -4161,6 +4153,10 @@
     {
       "title": "Trump criticizes Ocasio-Cortez in demeaning terms after she floats impeachment - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 00:18:46 GMT"
+    },
+    {
+      "title": "AOC responds to Trump\u2019s blistering criticism over her calls for his impeachment: \u2018I\u2019m just a silly girl\u2019 - New York Post",
+      "pubDate": "Tue, 24 Jun 2025 23:36:00 GMT"
     }
   ],
   "tesla": [
@@ -4601,6 +4597,12 @@
     {
       "title": "New Israeli strikes reported by media despite Trump's command to stop - Reuters",
       "pubDate": "Tue, 24 Jun 2025 12:05:53 GMT"
+    }
+  ],
+  "defense_intelligence_agency": [
+    {
+      "title": "US bombs did not destroy Iranian nuclear facilities, intelligence agency finds - Straight Arrow News",
+      "pubDate": "Tue, 24 Jun 2025 21:47:59 GMT"
     }
   ]
 }
