@@ -521,13 +521,13 @@
     {
       "title": "Israeli officials see \"significant\" damage to Iran's nuclear facilities - Axios",
       "pubDate": "Wed, 25 Jun 2025 13:52:37 GMT"
+    },
+    {
+      "title": "Israeli commandos operated inside Iran during war, IDF chief says - The Times of Israel",
+      "pubDate": "Wed, 25 Jun 2025 18:01:57 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Donald Trump\u2019s abrupt G7 exit causes disquiet among other leaders - Financial Times",
-      "pubDate": "Tue, 17 Jun 2025 19:12:11 GMT"
-    },
     {
       "title": "Israel-Iran live updates: Trump calls for Iran's 'UNCONDITIONAL SURRENDER' and calls Khamenei 'easy target' - ABC News",
       "pubDate": "Tue, 17 Jun 2025 20:49:00 GMT"
@@ -547,10 +547,6 @@
     {
       "title": "Trump speaks with Netanyahu after crucial meeting on Israel-Iran war - Axios",
       "pubDate": "Tue, 17 Jun 2025 22:50:28 GMT"
-    },
-    {
-      "title": "Trump brushes off US intel reports on Iran to align himself with Israel - The Guardian",
-      "pubDate": "Tue, 17 Jun 2025 19:22:00 GMT"
     },
     {
       "title": "NAACP won't invite Trump to its national convention, breaking a 116-year tradition - NPR",
@@ -1151,13 +1147,13 @@
     {
       "title": "Trump fumes over U.S. intelligence report on Iran strikes at NATO presser - CNBC",
       "pubDate": "Wed, 25 Jun 2025 15:40:29 GMT"
+    },
+    {
+      "title": "Trump says Israel sent agents into Iran\u2019s Fordo nuclear site, saw \u2018total obliteration\u2019 - The Times of Israel",
+      "pubDate": "Wed, 25 Jun 2025 15:33:45 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia says Israeli attacks on Iran are illegal, notes Iran's commitment to NPT - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 19:40:41 GMT"
-    },
     {
       "title": "Oil Options More Bullish Than After Russia\u2019s Invasion of Ukraine - Bloomberg.com",
       "pubDate": "Wed, 18 Jun 2025 02:07:00 GMT"
@@ -1406,10 +1402,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Federal Reserve is poised to hold interest rates steady despite pressure from Trump - USA Today",
-      "pubDate": "Tue, 17 Jun 2025 19:45:14 GMT"
-    },
     {
       "title": "Stock futures are little changed ahead of the Federal Reserve\u2019s rate decision: Live updates - CNBC",
       "pubDate": "Wed, 18 Jun 2025 00:21:00 GMT"
@@ -2155,6 +2147,10 @@
     {
       "title": "Lawmakers grapple with questions of safety vs speed in AI race with China - Fox Business",
       "pubDate": "Wed, 25 Jun 2025 18:08:00 GMT"
+    },
+    {
+      "title": "Nvidia shares hit record high on renewed AI optimism - Financial Times",
+      "pubDate": "Wed, 25 Jun 2025 18:47:14 GMT"
     }
   ],
   "climate": [
@@ -2919,6 +2915,10 @@
     {
       "title": "Nvidia shares head for record close as Wall Street shrugs off China concerns - CNBC",
       "pubDate": "Wed, 25 Jun 2025 16:23:39 GMT"
+    },
+    {
+      "title": "China-tied AI tools like DeepSeek face US federal ban over \u2018threat\u2019 - South China Morning Post",
+      "pubDate": "Wed, 25 Jun 2025 18:29:29 GMT"
     }
   ],
   "world_news": [
@@ -3271,6 +3271,10 @@
     {
       "title": "A New Political Star Emerges Out of a Fractured Democratic Party - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 06:07:08 GMT"
+    },
+    {
+      "title": "Union leaders\u2019 exit from DNC exposes \u2018mind-boggling\u2019 tensions inside Democratic party - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 12:08:00 GMT"
     }
   ],
   "north_korea": [
@@ -3717,10 +3721,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "The Fed is likely to keep rates the same, but give a forecast that moves markets. What to expect - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 19:20:23 GMT"
-    },
-    {
       "title": "Federal Reserve interest rate decision June 2025: What to know. - NBC News",
       "pubDate": "Wed, 18 Jun 2025 09:00:00 GMT"
     },
@@ -3767,6 +3767,10 @@
     {
       "title": "Powell Won't Rule Out a July Rate Cut as Dissent Grows - Barron's",
       "pubDate": "Tue, 24 Jun 2025 20:21:00 GMT"
+    },
+    {
+      "title": "Federal Reserve unveils plans to reduce capital rules imposed after 2008 crisis - Financial Times",
+      "pubDate": "Wed, 25 Jun 2025 17:57:03 GMT"
     }
   ],
   "earthquakes": [
@@ -3909,10 +3913,6 @@
   ],
   "health_care": [
     {
-      "title": "The Senate Wants Billions More in Medicaid Cuts, Pinching States and Infuriating Hospitals - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 19:53:59 GMT"
-    },
-    {
       "title": "Senate Republicans propose deeper Medicaid cuts. Here\u2019s what that means. - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 20:27:51 GMT"
     },
@@ -3997,6 +3997,10 @@
     {
       "title": "China hits 1 TW solar milestone - pv magazine International",
       "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
+    },
+    {
+      "title": "US installs more energy storage in Q1 2025 than ever before - Solar Power World",
+      "pubDate": "Wed, 25 Jun 2025 14:49:01 GMT"
     }
   ],
   "electric-vehicle_battery": [
