@@ -183,10 +183,6 @@
   ],
   "iran": [
     {
-      "title": "Israeli strikes damage Iran's underground nuclear site, agency says, as Trump issues ominous warning - AP News",
-      "pubDate": "Tue, 17 Jun 2025 12:28:00 GMT"
-    },
-    {
       "title": "Israel says it killed a top Iranian general as Trump warns people to flee Iranian capital - AP News",
       "pubDate": "Tue, 17 Jun 2025 16:35:00 GMT"
     },
@@ -532,10 +528,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Israel-Iran latest: Trump calls on Iran to \u2018give up\u2019 and denies pursuing ceasefire - Financial Times",
-      "pubDate": "Tue, 17 Jun 2025 12:44:50 GMT"
-    },
     {
       "title": "Live updates: Trump weighs U.S. involvement as Iran and Israel trade strikes - The Washington Post",
       "pubDate": "Tue, 17 Jun 2025 16:16:02 GMT"
@@ -1155,6 +1147,10 @@
     {
       "title": "Trump says Zelensky is a 'nice guy,' will discuss 'his difficulties' during meeting at NATO summit - The Kyiv Independent",
       "pubDate": "Wed, 25 Jun 2025 10:55:11 GMT"
+    },
+    {
+      "title": "Live updates: NATO pledges large military spending hike demanded by Trump - The Washington Post",
+      "pubDate": "Wed, 25 Jun 2025 12:35:36 GMT"
     }
   ],
   "russia": [
@@ -1403,6 +1399,10 @@
     {
       "title": "Red-teaming agentic AI: New guide lays out key concerns for AppSec - Security Boulevard",
       "pubDate": "Wed, 25 Jun 2025 02:24:55 GMT"
+    },
+    {
+      "title": "Samsara Unveils New AI-Powered Driver Safety Solutions - tech.co",
+      "pubDate": "Wed, 25 Jun 2025 11:09:29 GMT"
     }
   ],
   "financial_markets": [
@@ -1625,13 +1625,13 @@
     {
       "title": "Oil down, hopes up, \u2018risk-on\u2019: Stocks are back near their all-time highs - Fortune",
       "pubDate": "Wed, 25 Jun 2025 10:36:00 GMT"
+    },
+    {
+      "title": "Morning Bid: Fed rate bets surge as oil calms - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 10:48:28 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Oracle\u2019s $116 Billion Surge Leaves Little Room for Error on AI - Bloomberg",
-      "pubDate": "Tue, 17 Jun 2025 12:05:58 GMT"
-    },
     {
       "title": "How Israel used spies, smuggled drones and AI to stun and hobble Iran - The Washington Post",
       "pubDate": "Tue, 17 Jun 2025 13:12:21 GMT"
@@ -2931,6 +2931,10 @@
     {
       "title": "China\u2019s AI capital spending set to reach up to US$98 billion in 2025: BofA - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 11:00:14 GMT"
+    },
+    {
+      "title": "Exclusive | China to Block Its Rare-Earth Experts From Spilling Their Secrets - WSJ",
+      "pubDate": "Wed, 25 Jun 2025 11:41:00 GMT"
     }
   ],
   "world_news": [
@@ -3267,6 +3271,10 @@
     {
       "title": "Democrats try to reopen abortion conversation on Dobbs anniversary - The Hill",
       "pubDate": "Tue, 24 Jun 2025 22:44:00 GMT"
+    },
+    {
+      "title": "Mamdani on verge of winning New York City's Democratic mayoral contest after Cuomo concedes - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 09:28:44 GMT"
     }
   ],
   "north_korea": [
@@ -3479,10 +3487,6 @@
   ],
   "recession": [
     {
-      "title": "Investor Steve Eisman says we are headed for a global recession if Trump's tariffs spark a trade war - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 12:58:48 GMT"
-    },
-    {
       "title": "Japan\u2019s Exports Fall as US Tariffs Stoke Recession Risks - Bloomberg.com",
       "pubDate": "Wed, 18 Jun 2025 00:07:00 GMT"
     },
@@ -3629,13 +3633,13 @@
     {
       "title": "New JPMorgan survey finds rising recession fears at mid-sized firms - Fortune",
       "pubDate": "Wed, 25 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Opinion: \u2018A lethal combination\u2019: War and tariffs are recession triggers the stock market hasn\u2019t fully absorbed - MarketWatch",
+      "pubDate": "Wed, 25 Jun 2025 11:22:00 GMT"
     }
   ],
   "drones": [
-    {
-      "title": "Taiwan seals Ukraine combat-tested drone software deal to help deter China - Reuters",
-      "pubDate": "Tue, 17 Jun 2025 12:14:44 GMT"
-    },
     {
       "title": "Quietly, Pakistan Wages a Deadly Drone Campaign Inside Its Own Borders - The New York Times",
       "pubDate": "Thu, 19 Jun 2025 04:01:07 GMT"
@@ -4445,6 +4449,10 @@
     {
       "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
       "pubDate": "Sat, 21 Jun 2025 07:16:41 GMT"
+    },
+    {
+      "title": "QuantumScape Stock Is Soaring. Groundbreaking EV Battery Tech Is Almost Here. - Barron's",
+      "pubDate": "Wed, 25 Jun 2025 12:12:00 GMT"
     }
   ],
   "biology": [
