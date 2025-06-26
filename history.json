@@ -1163,13 +1163,13 @@
     {
       "title": "In a Win for Trump, NATO Agrees to a Big Increase in Military Spending - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 02:15:38 GMT"
+    },
+    {
+      "title": "Trump, Hegseth slam news coverage of US intel report on Iran attack, say B-2 pilots upset - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 25 Jun 2025 23:17:09 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "North Korea Will Send 5,000 Workers to Russia, Kremlin Says - The New York Times",
-      "pubDate": "Wed, 18 Jun 2025 04:46:00 GMT"
-    },
     {
       "title": "Israel Says It Hit Iranian Helicopters, Missile Infrastructure - WSJ",
       "pubDate": "Wed, 18 Jun 2025 15:13:00 GMT"
@@ -1625,13 +1625,13 @@
     {
       "title": "Stock futures are little changed as S&P 500 nears new record high: Live updates - CNBC",
       "pubDate": "Wed, 25 Jun 2025 22:52:00 GMT"
+    },
+    {
+      "title": "Markets should watch out for the summer fling - Financial Times",
+      "pubDate": "Thu, 26 Jun 2025 04:01:41 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Amazon CEO tells employees that AI will shrink its workforce - The Washington Post",
-      "pubDate": "Wed, 18 Jun 2025 04:12:15 GMT"
-    },
     {
       "title": "OpenAI boss: Meta offering $100m plus to poach my staff - BBC",
       "pubDate": "Wed, 18 Jun 2025 10:33:04 GMT"
@@ -2159,6 +2159,10 @@
     {
       "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
       "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
+    },
+    {
+      "title": "Microsoft and OpenAI dueling over artificial general intelligence, The Information reports - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 23:34:53 GMT"
     }
   ],
   "climate": [
@@ -2241,6 +2245,10 @@
     {
       "title": "US heat wave exposes infrastructure, health vulnerabilities \u2013 and it\u2019s not quite over yet - CNN",
       "pubDate": "Wed, 25 Jun 2025 14:15:00 GMT"
+    },
+    {
+      "title": "Scientists invent photosynthetic 'living' material that sucks CO2 out of the atmosphere - MSN",
+      "pubDate": "Wed, 25 Jun 2025 19:15:23 GMT"
     }
   ],
   "ukraine": [
@@ -2387,6 +2395,10 @@
     {
       "title": "Russia-Ukraine war: List of key events, day 1,218 - Al Jazeera",
       "pubDate": "Thu, 26 Jun 2025 01:19:54 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s Zelenskyy urges trial for \u2018war criminal\u2019 Putin - Al Jazeera",
+      "pubDate": "Thu, 26 Jun 2025 03:11:41 GMT"
     }
   ],
   "us_economy": [
@@ -2655,10 +2667,6 @@
     {
       "title": "Aiming at the Dollar, China Makes a Pitch for Its Currency - The New York Times",
       "pubDate": "Wed, 18 Jun 2025 08:05:11 GMT"
-    },
-    {
-      "title": "North Korea's Kim met Russia's top security official, state media says - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 04:25:00 GMT"
     },
     {
       "title": "US-China Trade Truce Is a Cautionary Tale - Bloomberg",
@@ -3725,6 +3733,10 @@
     {
       "title": "Hamas official says Gaza mediators intensifying ceasefire efforts - BBC",
       "pubDate": "Thu, 26 Jun 2025 01:00:42 GMT"
+    },
+    {
+      "title": "Israel Defense Forces dismantle terror infrastructure in Gaza, 7 Israeli soldiers killed - The Long War Journal",
+      "pubDate": "Wed, 25 Jun 2025 17:22:49 GMT"
     }
   ],
   "federal_reserve": [
@@ -4651,6 +4663,12 @@
     {
       "title": "US to stop funding global vaccine alliance Gavi, health secretary says - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 18:27:54 GMT"
+    }
+  ],
+  "mars": [
+    {
+      "title": "Close-up images of The Red Planet\u2019s ridges from Mars Rover show \u2018dramatic evidence\u2019 of water - The Independent",
+      "pubDate": "Thu, 26 Jun 2025 02:05:00 GMT"
     }
   ]
 }
