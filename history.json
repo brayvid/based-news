@@ -159,10 +159,6 @@
   ],
   "iran": [
     {
-      "title": "Israel-Iran Live Updates: Trump Considering U.S. Strike; Supreme Leader Khamenei Says Iran Won\u2019t Surrender - WSJ",
-      "pubDate": "Wed, 18 Jun 2025 14:36:00 GMT"
-    },
-    {
       "title": "Experts warn that Iran could target US with cyberattacks over Middle East involvement - The Independent",
       "pubDate": "Wed, 18 Jun 2025 15:28:00 GMT"
     },
@@ -525,17 +521,13 @@
     {
       "title": "CIA director: Iran nuclear sites \u2018severely damaged\u2019 by strikes - EFE - Agencia de noticias",
       "pubDate": "Thu, 26 Jun 2025 04:56:39 GMT"
+    },
+    {
+      "title": "Hegseth defends Iran strikes, slams media over intel leak - Politico",
+      "pubDate": "Thu, 26 Jun 2025 14:36:37 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump teases possible US strike as Iran supreme leader warns America: Live updates - USA Today",
-      "pubDate": "Wed, 18 Jun 2025 14:37:30 GMT"
-    },
-    {
-      "title": "Trump says 'stupid' Powell 'probably won't cut' rates when Fed meeting ends Wednesday - CNBC",
-      "pubDate": "Wed, 18 Jun 2025 14:04:25 GMT"
-    },
     {
       "title": "Trump administration live updates: Pete Hegseth faces Senate questions; Supreme Court upholds transgender care ban - NBC News",
       "pubDate": "Wed, 18 Jun 2025 16:30:54 GMT"
@@ -1179,6 +1171,10 @@
     {
       "title": "Trump presidency live updates: Hegseth attacks media over reports questioning U.S. airstrike damage in Iran - The Washington Post",
       "pubDate": "Thu, 26 Jun 2025 13:40:17 GMT"
+    },
+    {
+      "title": "Live updates: Attacks on Iran followed years of planning, specialized weapon development, Pentagon says - The Washington Post",
+      "pubDate": "Thu, 26 Jun 2025 14:11:53 GMT"
     }
   ],
   "russia": [
@@ -1664,10 +1660,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Students aren't cheating because they have AI, but because colleges are broken | Opinion - Cincinnati Enquirer",
-      "pubDate": "Wed, 18 Jun 2025 14:45:24 GMT"
-    },
     {
       "title": "Preparing for future AI capabilities in biology - OpenAI",
       "pubDate": "Wed, 18 Jun 2025 17:16:03 GMT"
@@ -2207,6 +2199,10 @@
     {
       "title": "Financial stability implications of artificial intelligence - Executive Summary - Bank for International Settlements",
       "pubDate": "Thu, 26 Jun 2025 08:32:51 GMT"
+    },
+    {
+      "title": "Reddit vows to stay human to emerge a winner from artificial intelligence - Financial Times",
+      "pubDate": "Thu, 26 Jun 2025 04:00:22 GMT"
     }
   ],
   "climate": [
@@ -2681,6 +2677,10 @@
     {
       "title": "U.S. economy faces stagflation, recession risks as JPMorgan lowers growth projections for 2025 - Economy Middle East",
       "pubDate": "Thu, 26 Jun 2025 09:53:54 GMT"
+    },
+    {
+      "title": "US Regulators Unveil a Proposal to Relax a Key Bank Capital Measure - Bloomberg",
+      "pubDate": "Thu, 26 Jun 2025 13:44:06 GMT"
     }
   ],
   "china": [
@@ -2975,6 +2975,10 @@
     {
       "title": "China never supplied weapons to parties in the Ukraine war, foreign ministry says - Reuters",
       "pubDate": "Thu, 26 Jun 2025 12:09:46 GMT"
+    },
+    {
+      "title": "Exclusive | China Is Still Choking Exports of Rare Earths Despite Pact With U.S. - WSJ",
+      "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
     }
   ],
   "world_news": [
@@ -3251,6 +3255,10 @@
     {
       "title": "How 'Daddy' talk and Trump and Rutte's bromance stole the NATO spotlight - CNBC",
       "pubDate": "Thu, 26 Jun 2025 09:02:18 GMT"
+    },
+    {
+      "title": "Senate GOP dealt major blow on Medicaid cuts in megabill - Politico",
+      "pubDate": "Thu, 26 Jun 2025 12:51:08 GMT"
     }
   ],
   "science": [
@@ -3403,10 +3411,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump tariffs live updates: Trump leaves G7 with UK trade deal in hand, stalled EU talks, and 'tough' Japan - Yahoo Finance",
-      "pubDate": "Wed, 18 Jun 2025 14:52:10 GMT"
-    },
-    {
       "title": "How Trump\u2019s Trade War Has Whipsawed the Port of L.A. - The New York Times",
       "pubDate": "Thu, 19 Jun 2025 09:01:19 GMT"
     },
@@ -3444,10 +3448,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran\u2019s Financial System - WIRED",
-      "pubDate": "Wed, 18 Jun 2025 14:40:12 GMT"
-    },
     {
       "title": "Pro-Israel hackers take credit after $90 million stolen from Iran\u2019s largest crypto exchange - CNN",
       "pubDate": "Wed, 18 Jun 2025 20:37:00 GMT"
@@ -3693,6 +3693,10 @@
     {
       "title": "Fitch to Revise Mexico Economy Contraction to \u2018Mild\u2019 Recession - Bloomberg",
       "pubDate": "Thu, 26 Jun 2025 00:36:00 GMT"
+    },
+    {
+      "title": "Top economist warns: US faces a crisis worse than recession \u2014 here\u2019s what could be coming - The Economic Times",
+      "pubDate": "Thu, 26 Jun 2025 14:18:15 GMT"
     }
   ],
   "drones": [
@@ -4005,10 +4009,6 @@
   ],
   "openai": [
     {
-      "title": "Sam Altman says Meta is offering $100 million to poach his employees - CNN",
-      "pubDate": "Wed, 18 Jun 2025 14:27:00 GMT"
-    },
-    {
       "title": "OpenAI Changes Price Structure for Business Version of ChatGPT - WSJ",
       "pubDate": "Thu, 19 Jun 2025 09:41:00 GMT"
     }
@@ -4215,18 +4215,8 @@
   ],
   "us_supreme_court": [
     {
-      "title": "US Supreme Court rules that states can ban transgender care for minors - BBC",
-      "pubDate": "Wed, 18 Jun 2025 14:19:23 GMT"
-    },
-    {
       "title": "How US adults' views on same-sex marriage have changed since the Supreme Court's 2015 ruling - AP News",
       "pubDate": "Wed, 25 Jun 2025 11:02:00 GMT"
-    }
-  ],
-  "hacker": [
-    {
-      "title": "Pro-Israel hackers destroy $90 million in Iran crypto exchange breach, analytics firm says - CNBC",
-      "pubDate": "Wed, 18 Jun 2025 14:09:58 GMT"
     }
   ],
   "inflation": [
