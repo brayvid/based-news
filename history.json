@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran live updates: 'War will be met with war' Khamenei warns US - ABC News",
-      "pubDate": "Wed, 18 Jun 2025 11:17:00 GMT"
-    },
-    {
       "title": "Israel\u2019s assumption US would get drawn into Iran war is being put to the test - The Guardian",
       "pubDate": "Wed, 18 Jun 2025 15:22:00 GMT"
     },
@@ -528,10 +524,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump intensifies rhetoric toward Iran. And, U.S. street drug deaths rise - NPR",
-      "pubDate": "Wed, 18 Jun 2025 11:09:11 GMT"
-    },
     {
       "title": "Trump teases possible US strike as Iran supreme leader warns America: Live updates - USA Today",
       "pubDate": "Wed, 18 Jun 2025 14:37:30 GMT"
@@ -1171,6 +1163,10 @@
     {
       "title": "Trump says US and Iranian officials will talk next week as ceasefire holds - AP News",
       "pubDate": "Thu, 26 Jun 2025 05:36:00 GMT"
+    },
+    {
+      "title": "Live updates: Top Trump officials to brief senators on U.S. airstrikes against Iran's nuclear enrichment sites - NBC News",
+      "pubDate": "Thu, 26 Jun 2025 11:15:42 GMT"
     }
   ],
   "russia": [
@@ -1645,6 +1641,10 @@
     {
       "title": "Asia-Pacific markets trade mixed as investors weigh easing Middle East tensions - CNBC",
       "pubDate": "Thu, 26 Jun 2025 05:51:00 GMT"
+    },
+    {
+      "title": "JPMorgan has a new way of forecasting the stock market \u2014 and there\u2019s a surprising finding - MarketWatch",
+      "pubDate": "Thu, 26 Jun 2025 10:58:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1655,10 +1655,6 @@
     {
       "title": "China Now Sells Half of the World\u2019s EVs\u2014Here\u2019s Why It Matters - MSN",
       "pubDate": "Wed, 18 Jun 2025 12:20:10 GMT"
-    },
-    {
-      "title": "Trend Micro Teams Up With Dell and NVIDIA to Transform Enterprise Security with New AI Factory - Stock Titan",
-      "pubDate": "Wed, 18 Jun 2025 12:00:00 GMT"
     },
     {
       "title": "Preparing for future AI capabilities in biology - OpenAI",
@@ -2191,6 +2187,10 @@
     {
       "title": "OpenAI And Microsoft Reportedly At Odds Over Access To Artificial General Intelligence: 'Talks Are Ongoing And We Are Optimistic' - Benzinga",
       "pubDate": "Thu, 26 Jun 2025 07:26:08 GMT"
+    },
+    {
+      "title": "Nvidia Shares Hit All-Time High as Companies Add AI Infrastructure - PYMNTS.com",
+      "pubDate": "Thu, 26 Jun 2025 10:06:00 GMT"
     }
   ],
   "climate": [
@@ -2426,10 +2426,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Fed expected to hold interest rates steady, defying Trump - ABC7 Chicago",
-      "pubDate": "Wed, 18 Jun 2025 11:48:05 GMT"
-    },
     {
       "title": "US Stocks Rise as Investors Await Federal Reserve Rate Decision - Bloomberg.com",
       "pubDate": "Wed, 18 Jun 2025 13:44:05 GMT"
@@ -2959,6 +2955,10 @@
     {
       "title": "How Trump\u2019s Strike on Iran Might Affect China\u2019s Calculus on Taiwan - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 04:01:08 GMT"
+    },
+    {
+      "title": "China hosts Iranian, Russian defence ministers against backdrop of 'momentous change' - France 24",
+      "pubDate": "Thu, 26 Jun 2025 07:27:12 GMT"
     }
   ],
   "world_news": [
@@ -4255,19 +4255,11 @@
   ],
   "nasa": [
     {
-      "title": "Trump's plan to kill dozens of NASA missions threatens US space supremacy - Phys.org",
-      "pubDate": "Wed, 18 Jun 2025 12:00:03 GMT"
-    },
-    {
       "title": "Proposed NASA cuts could jeopardize research and jobs in Tennessee - Axios",
       "pubDate": "Mon, 23 Jun 2025 11:18:35 GMT"
     }
   ],
   "asteroids": [
-    {
-      "title": "Asteroid on collision course with moon could fire shrapnel at Earth - New Scientist",
-      "pubDate": "Wed, 18 Jun 2025 11:38:32 GMT"
-    },
     {
       "title": "Massive asteroid 2024 YR4\u2019s collision with Moon could send shrapnel flying toward Earth\u2019s satellites - The Indian Express",
       "pubDate": "Fri, 20 Jun 2025 08:01:22 GMT"
@@ -4577,6 +4569,10 @@
     {
       "title": "Mossad hails Israel\u2019s \u2018historic\u2019 Iran offensive, thanks CIA in rare public message - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 22:04:00 GMT"
+    },
+    {
+      "title": "CIA Director Declares Iranian Nuclear Facilities \u2018Destroyed\u2019 - RealClearDefense",
+      "pubDate": "Thu, 26 Jun 2025 10:19:37 GMT"
     }
   ],
   "astronomy": [
@@ -4627,6 +4623,10 @@
     {
       "title": "US bombs did not destroy Iranian nuclear facilities, intelligence agency finds - Straight Arrow News",
       "pubDate": "Tue, 24 Jun 2025 21:47:59 GMT"
+    },
+    {
+      "title": "US intel clashes over damage to Iran\u2019s nuclear program - Semafor",
+      "pubDate": "Thu, 26 Jun 2025 10:55:00 GMT"
     }
   ],
   "new_york_politics": [
