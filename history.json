@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel airstrikes target Iranian missile facilities, Trump calls for Tehran's 'unconditional surrender' - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 07:05:40 GMT"
-    },
-    {
       "title": "Thousands flee Tehran, source says Trump's options include joining Israel in strikes - Reuters",
       "pubDate": "Wed, 18 Jun 2025 08:34:44 GMT"
     },
@@ -170,10 +166,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "LIVE: Khamenei warns US against attacks, Israel claims 40 sites hit - Al Jazeera",
-      "pubDate": "Wed, 18 Jun 2025 07:49:28 GMT"
-    },
     {
       "title": "Israel-Iran Live Updates: Trump Considering U.S. Strike; Supreme Leader Khamenei Says Iran Won\u2019t Surrender - WSJ",
       "pubDate": "Wed, 18 Jun 2025 14:36:00 GMT"
@@ -533,6 +525,10 @@
     {
       "title": "Key parts of Iran's nuclear program still intact, says Pentagon report disputed by Trump - USA Today",
       "pubDate": "Wed, 25 Jun 2025 22:23:57 GMT"
+    },
+    {
+      "title": "Live Updates: Trump Says U.S. and Iran to Meet; White House Disputes Damage Report - The New York Times",
+      "pubDate": "Wed, 25 Jun 2025 23:34:47 GMT"
     }
   ],
   "donald_trump": [
@@ -1175,6 +1171,10 @@
     {
       "title": "Trump wraps up a NATO summit far chummier than the tense meetings of his first term - AP News",
       "pubDate": "Wed, 25 Jun 2025 19:36:00 GMT"
+    },
+    {
+      "title": "Trump slings insults at Mamdani, other Democrats after NYC primary - Axios",
+      "pubDate": "Thu, 26 Jun 2025 01:52:55 GMT"
     }
   ],
   "russia": [
@@ -1641,6 +1641,10 @@
     {
       "title": "Regulator orders Fannie, Freddie to consider crypto holdings in loan assessments - Reuters",
       "pubDate": "Wed, 25 Jun 2025 20:00:45 GMT"
+    },
+    {
+      "title": "Bitcoin's Bull Case Strengthens as Dollar Index Slides, Nvidia Hits Record High Amid Recession Cues - CoinDesk",
+      "pubDate": "Thu, 26 Jun 2025 06:26:36 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2183,6 +2187,10 @@
     {
       "title": "OpenAI, Microsoft Rift Hinges on How Smart AI Can Get - WSJ",
       "pubDate": "Wed, 25 Jun 2025 22:54:00 GMT"
+    },
+    {
+      "title": "Microsoft, OpenAI clash over AGI clause in $10 bln deal \u2013 The Information - Investing.com",
+      "pubDate": "Thu, 26 Jun 2025 00:37:22 GMT"
     }
   ],
   "climate": [
@@ -2673,10 +2681,6 @@
   ],
   "china": [
     {
-      "title": "China Reacts to Trump Khamenei Threat - Newsweek",
-      "pubDate": "Wed, 18 Jun 2025 07:38:11 GMT"
-    },
-    {
       "title": "IDF confirms drone shot down over Iran overnight, says no fear of information leaking - The Times of Israel",
       "pubDate": "Wed, 18 Jun 2025 08:29:46 GMT"
     },
@@ -2959,13 +2963,13 @@
     {
       "title": "China breaks more records with surge in solar and wind power - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 05:52:00 GMT"
+    },
+    {
+      "title": "China takes action on key US fentanyl demands - Reuters",
+      "pubDate": "Thu, 26 Jun 2025 04:18:00 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "LIVE: Israel, Iran continue missile attacks; 144 killed in Gaza in last 24 - Al Jazeera",
-      "pubDate": "Wed, 18 Jun 2025 07:49:28 GMT"
-    },
     {
       "title": "Israel hits nuclear sites, Iran strikes hospital as war escalates - Reuters",
       "pubDate": "Thu, 19 Jun 2025 13:18:24 GMT"
@@ -3235,6 +3239,10 @@
     {
       "title": "Mamdani's stunning upset in New York's Democratic mayoral primary carries risks, rewards for national Democrats - Reuters",
       "pubDate": "Thu, 26 Jun 2025 03:16:22 GMT"
+    },
+    {
+      "title": "Rural communities brace for Medicaid cuts in Republicans' big bill - NBC News",
+      "pubDate": "Wed, 25 Jun 2025 20:57:04 GMT"
     }
   ],
   "science": [
@@ -3375,6 +3383,10 @@
     {
       "title": "Trump says Israel-Iran ceasefire now in effect, please don't violate it - Reuters",
       "pubDate": "Tue, 24 Jun 2025 06:43:00 GMT"
+    },
+    {
+      "title": "US military to create two new border zones, officials say - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 21:59:35 GMT"
     }
   ],
   "trade_war": [
@@ -3424,10 +3436,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Hackers steal $48 million in cryptocurrency used by Iran to fund terror - The Jerusalem Post",
-      "pubDate": "Wed, 18 Jun 2025 07:38:32 GMT"
-    },
     {
       "title": "Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran\u2019s Financial System - WIRED",
       "pubDate": "Wed, 18 Jun 2025 14:40:12 GMT"
