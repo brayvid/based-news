@@ -529,10 +529,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump edges closer to Iran strike as military assets move into position - Financial Times",
-      "pubDate": "Wed, 18 Jun 2025 20:40:38 GMT"
-    },
-    {
       "title": "Trump and India's Modi split over U.S. role in Pakistan ceasefire - CNBC",
       "pubDate": "Wed, 18 Jun 2025 22:06:27 GMT"
     },
@@ -1407,10 +1403,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Dow posts narrow loss after Fed signals it\u2019s in no hurry to cut rates: Live updates - CNBC",
-      "pubDate": "Wed, 18 Jun 2025 20:14:55 GMT"
-    },
-    {
       "title": "M&A market 'back to global financial crisis levels,' UN trade arm warns in downbeat economic outlook - CNBC",
       "pubDate": "Thu, 19 Jun 2025 10:30:01 GMT"
     },
@@ -2203,6 +2195,10 @@
     {
       "title": "A.I. Is Starting to Wear Down Democracy - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 16:48:03 GMT"
+    },
+    {
+      "title": "AI is doing up to 50% of the work at Salesforce, CEO Marc Benioff says - CNBC",
+      "pubDate": "Thu, 26 Jun 2025 13:49:11 GMT"
     }
   ],
   "climate": [
@@ -2439,16 +2435,8 @@
   ],
   "us_economy": [
     {
-      "title": "Federal Reserve holds interest rates steady amid tariff uncertainty - MSNBC News",
-      "pubDate": "Wed, 18 Jun 2025 20:15:00 GMT"
-    },
-    {
       "title": "Social Security fund could run dry ahead of earlier forecast, trustees say - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 23:11:27 GMT"
-    },
-    {
-      "title": "Fed fears the US economy is heading for stagflation, strategist says - Fox Business",
-      "pubDate": "Wed, 18 Jun 2025 20:18:15 GMT"
     },
     {
       "title": "Social Security Benefits Could Be Cut in 8 Years Unless Congress Acts - The New York Times",
@@ -2677,6 +2665,10 @@
     {
       "title": "GDP data shows U.S. economy shrank more than previously thought in early 2025 - CBS News",
       "pubDate": "Thu, 26 Jun 2025 15:04:25 GMT"
+    },
+    {
+      "title": "US economy shrank 0.5% in the first quarter of 2025 amid tariff uncertainty - Fox Business",
+      "pubDate": "Thu, 26 Jun 2025 12:31:00 GMT"
     }
   ],
   "china": [
@@ -2987,6 +2979,10 @@
     {
       "title": "China's Tech Giants Tempted Back From the Cold and Into M&A Deals - Bloomberg.com",
       "pubDate": "Thu, 26 Jun 2025 17:40:24 GMT"
+    },
+    {
+      "title": "China imports Argentina soybean meal in trial amid US tensions - South China Morning Post",
+      "pubDate": "Thu, 26 Jun 2025 19:23:48 GMT"
     }
   ],
   "world_news": [
@@ -3267,6 +3263,10 @@
     {
       "title": "Republicans in turmoil after Senate parliamentarian rejects Medicaid cuts in Trump\u2019s \u2018big beautiful bill\u2019 \u2013 live - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Senators diverge sharply on damage done by Iran strikes after classified briefing - Huron Daily Tribune",
+      "pubDate": "Thu, 26 Jun 2025 20:37:30 GMT"
     }
   ],
   "science": [
@@ -3445,10 +3445,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Pro-Israel hackers take credit after $90 million stolen from Iran\u2019s largest crypto exchange - CNN",
-      "pubDate": "Wed, 18 Jun 2025 20:37:00 GMT"
-    },
-    {
       "title": "Global data breach exposes 16 billion login credentials in unprecedented cybersecurity threat - 9News",
       "pubDate": "Fri, 20 Jun 2025 02:01:53 GMT"
     },
@@ -3534,10 +3530,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Launching a new product during a recession can pay off, Northeastern research shows - Northeastern Global News",
-      "pubDate": "Wed, 18 Jun 2025 20:10:30 GMT"
-    },
     {
       "title": "Recession fears top consumer concerns - news8000.com",
       "pubDate": "Wed, 18 Jun 2025 23:53:02 GMT"
@@ -3781,14 +3773,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Fed leaves key rate unchanged as it awaits the impact of tariffs and Trump again scolds Powell - AP News",
-      "pubDate": "Wed, 18 Jun 2025 20:17:00 GMT"
-    },
-    {
-      "title": "Fed holds interest rate steady for fourth time in a row - CNN",
-      "pubDate": "Wed, 18 Jun 2025 20:34:00 GMT"
-    },
-    {
       "title": "The Federal Reserve Suffers From A Fatal Conceit And Our Economy Is Paying The Price - Forbes",
       "pubDate": "Thu, 19 Jun 2025 10:00:00 GMT"
     },
@@ -3964,10 +3948,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "Senate Republicans propose deeper Medicaid cuts. Here\u2019s what that means. - The Washington Post",
-      "pubDate": "Wed, 18 Jun 2025 20:27:51 GMT"
-    },
     {
       "title": "Insurers Pledge to Ease Controversial Prior Approvals for Medical Care - The New York Times",
       "pubDate": "Fri, 20 Jun 2025 20:56:01 GMT"
@@ -4247,12 +4227,6 @@
     {
       "title": "Giant asteroid could crash into moon in 2032, firing debris towards Earth - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 19:10:00 GMT"
-    }
-  ],
-  "american_civil_liberties_union": [
-    {
-      "title": "Supreme Court upholds Tennessee ban on gender-affirming care, ACLU comments - thv11.com",
-      "pubDate": "Wed, 18 Jun 2025 20:16:00 GMT"
     }
   ],
   "spacex": [
