@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran live updates: President Trump spoke with Netanyahu, White House official says - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 23:30:00 GMT"
-    },
-    {
       "title": "Israel-Iran latest: Israel launches new attacks on Tehran - Financial Times",
       "pubDate": "Wed, 18 Jun 2025 06:25:26 GMT"
     },
@@ -529,6 +525,10 @@
     {
       "title": "Questions around success of Iran strikes spark fears on Capitol Hill - The Hill",
       "pubDate": "Wed, 25 Jun 2025 21:50:00 GMT"
+    },
+    {
+      "title": "CIA says US bombing set Iran\u2019s nuclear programme back for \u2018years\u2019 - South China Morning Post",
+      "pubDate": "Wed, 25 Jun 2025 23:03:36 GMT"
     }
   ],
   "donald_trump": [
@@ -1147,6 +1147,10 @@
     {
       "title": "Trump threatens tough trade deal for Spain after it refuses to meet NATO defense spending target - CNBC",
       "pubDate": "Wed, 25 Jun 2025 15:44:34 GMT"
+    },
+    {
+      "title": "Trump demands end to PM\u2019s graft trial: \u2018The US saved Israel, and now is going to save Bibi\u2019 - The Times of Israel",
+      "pubDate": "Wed, 25 Jun 2025 22:51:00 GMT"
     }
   ],
   "russia": [
@@ -1613,6 +1617,10 @@
     {
       "title": "US stocks hang near their record as Wall Street takes breath following two big days - Mint",
       "pubDate": "Wed, 25 Jun 2025 14:22:35 GMT"
+    },
+    {
+      "title": "Stock futures are little changed as S&P 500 nears new record high: Live updates - CNBC",
+      "pubDate": "Wed, 25 Jun 2025 22:52:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1627,10 +1635,6 @@
     {
       "title": "Big Tech pushes for 10-year ban on US states regulating AI - Financial Times",
       "pubDate": "Wed, 18 Jun 2025 04:00:43 GMT"
-    },
-    {
-      "title": "Sam Altman Says Meta Offered OpenAI Staffers $100 Million Bonuses - Bloomberg.com",
-      "pubDate": "Tue, 17 Jun 2025 23:14:12 GMT"
     },
     {
       "title": "OpenAI boss: Meta offering $100m plus to poach my staff - BBC",
@@ -2139,6 +2143,10 @@
     {
       "title": "Nvidia hits record high as analyst predicts AI 'Golden Wave' - Reuters",
       "pubDate": "Wed, 25 Jun 2025 19:56:14 GMT"
+    },
+    {
+      "title": "Microsoft sued by authors over use of books in AI training - Reuters",
+      "pubDate": "Wed, 25 Jun 2025 16:22:25 GMT"
     }
   ],
   "climate": [
@@ -2213,6 +2221,10 @@
     {
       "title": "Heat pumps and EVs making progress, UK climate advisers say - BBC",
       "pubDate": "Wed, 25 Jun 2025 01:34:45 GMT"
+    },
+    {
+      "title": "June is the new July: Why intense summer heat is arriving earlier - The Washington Post",
+      "pubDate": "Wed, 25 Jun 2025 18:15:20 GMT"
     }
   ],
   "ukraine": [
@@ -2895,6 +2907,10 @@
     {
       "title": "The Waning Ambitions of China\u2019s $1.3 Trillion Fund Giant - Bloomberg.com",
       "pubDate": "Wed, 25 Jun 2025 21:00:37 GMT"
+    },
+    {
+      "title": "China antigraft crackdown targets rare-earth producing areas - Nikkei Asia",
+      "pubDate": "Wed, 25 Jun 2025 19:22:00 GMT"
     }
   ],
   "world_news": [
@@ -4593,6 +4609,12 @@
     {
       "title": "Something is \u2018pulsing\u2019 beneath the Earth, scientists say \u2013 and could tear a continent apart - The Independent",
       "pubDate": "Wed, 25 Jun 2025 20:40:00 GMT"
+    }
+  ],
+  "global_health": [
+    {
+      "title": "US to stop funding global vaccine alliance Gavi, health secretary says - Al Jazeera",
+      "pubDate": "Wed, 25 Jun 2025 18:27:54 GMT"
     }
   ]
 }
