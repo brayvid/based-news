@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel\u2019s assumption US would get drawn into Iran war is being put to the test - The Guardian",
-      "pubDate": "Wed, 18 Jun 2025 15:22:00 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: Iranian missile strikes Israeli hospital, officials say - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 19 Jun 2025 05:30:00 GMT"
     },
@@ -158,10 +154,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Experts warn that Iran could target US with cyberattacks over Middle East involvement - The Independent",
-      "pubDate": "Wed, 18 Jun 2025 15:28:00 GMT"
-    },
     {
       "title": "Israel-Iran live updates: Iran warns U.S. military intervention would bring \u2018irreparable damage\u2019 - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 16:46:08 GMT"
@@ -525,6 +517,10 @@
     {
       "title": "Hegseth defends Iran strikes, slams media over intel leak - Politico",
       "pubDate": "Thu, 26 Jun 2025 14:36:37 GMT"
+    },
+    {
+      "title": "Hegseth says US strikes on Iran were 'historically successful' after ayatollah downplays impact - BBC",
+      "pubDate": "Thu, 26 Jun 2025 15:35:42 GMT"
     }
   ],
   "donald_trump": [
@@ -1175,13 +1171,13 @@
     {
       "title": "Live updates: Attacks on Iran followed years of planning, specialized weapon development, Pentagon says - The Washington Post",
       "pubDate": "Thu, 26 Jun 2025 14:11:53 GMT"
+    },
+    {
+      "title": "Trump vs US intelligence: Iran is only the latest chapter - Al Jazeera",
+      "pubDate": "Thu, 26 Jun 2025 13:54:01 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Israel Says It Hit Iranian Helicopters, Missile Infrastructure - WSJ",
-      "pubDate": "Wed, 18 Jun 2025 15:13:00 GMT"
-    },
     {
       "title": "Ukraine war briefing: Russia can defend itself, says Putin, as North Korea sends more soldiers - The Guardian",
       "pubDate": "Thu, 19 Jun 2025 00:19:00 GMT"
@@ -1321,6 +1317,10 @@
     {
       "title": "Russian Banks Fear Debt Crisis Is Coming as War Strains Economy - Bloomberg.com",
       "pubDate": "Thu, 26 Jun 2025 11:56:35 GMT"
+    },
+    {
+      "title": "Putin said Russia is starting mass production of a ballistic missile that he wants to 'duel' with US-made defenses - Business Insider",
+      "pubDate": "Thu, 26 Jun 2025 10:21:00 GMT"
     }
   ],
   "ai_safety": [
@@ -2203,6 +2203,10 @@
     {
       "title": "Reddit vows to stay human to emerge a winner from artificial intelligence - Financial Times",
       "pubDate": "Thu, 26 Jun 2025 04:00:22 GMT"
+    },
+    {
+      "title": "Meta poaches three OpenAI researchers, WSJ reports - Reuters",
+      "pubDate": "Thu, 26 Jun 2025 04:08:00 GMT"
     }
   ],
   "climate": [
@@ -2213,10 +2217,6 @@
     {
       "title": "Scientists warn that greenhouse gas accumulation is accelerating and more extreme weather will come - AP News",
       "pubDate": "Wed, 18 Jun 2025 22:04:00 GMT"
-    },
-    {
-      "title": "Impacts of climate change on global agriculture accounting for adaptation - Nature",
-      "pubDate": "Wed, 18 Jun 2025 15:24:47 GMT"
     },
     {
       "title": "The $1 Trillion Climate Problem\u200b Republicans Are Ignoring - The New Republic",
@@ -2459,10 +2459,6 @@
       "pubDate": "Wed, 18 Jun 2025 20:15:00 GMT"
     },
     {
-      "title": "US stocks close mostly lower with Fed on hold amid weakening economy - USA Today",
-      "pubDate": "Wed, 18 Jun 2025 15:15:08 GMT"
-    },
-    {
       "title": "Social Security fund could run dry ahead of earlier forecast, trustees say - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 23:11:27 GMT"
     },
@@ -2681,6 +2677,10 @@
     {
       "title": "US Regulators Unveil a Proposal to Relax a Key Bank Capital Measure - Bloomberg",
       "pubDate": "Thu, 26 Jun 2025 13:44:06 GMT"
+    },
+    {
+      "title": "US economy growth shrank 0.5% in first quarter as Trump's trade war weighs on nation's business - Mint",
+      "pubDate": "Thu, 26 Jun 2025 14:57:20 GMT"
     }
   ],
   "china": [
@@ -2979,6 +2979,10 @@
     {
       "title": "Exclusive | China Is Still Choking Exports of Rare Earths Despite Pact With U.S. - WSJ",
       "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "China Could Turn Up the Heat on Taiwan. Iran Is Why. - Barron's",
+      "pubDate": "Thu, 26 Jun 2025 14:55:00 GMT"
     }
   ],
   "world_news": [
@@ -3259,6 +3263,10 @@
     {
       "title": "Senate GOP dealt major blow on Medicaid cuts in megabill - Politico",
       "pubDate": "Thu, 26 Jun 2025 12:51:08 GMT"
+    },
+    {
+      "title": "Majority of US adults support religious chaplains in public schools, a new AP-NORC poll shows - AP News",
+      "pubDate": "Thu, 26 Jun 2025 11:08:00 GMT"
     }
   ],
   "science": [
@@ -3268,10 +3276,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "The Democrats\u2019 Hot Arraignment Summer - National Review",
-      "pubDate": "Wed, 18 Jun 2025 15:21:10 GMT"
-    },
     {
       "title": "Democrats\u2019 Wary Response to Transgender Ruling Shows the Party\u2019s Retreat - The New York Times",
       "pubDate": "Wed, 18 Jun 2025 22:01:01 GMT"
@@ -3376,14 +3380,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "US moves 30 jets as Iran attack speculation grows - BBC",
-      "pubDate": "Wed, 18 Jun 2025 15:09:52 GMT"
-    },
-    {
-      "title": "US military ready to carry out any Trump decisions on Iran, Hegseth says - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 15:57:53 GMT"
-    },
     {
       "title": "A U.S. Attack on Iran Would Show the Limits of China\u2019s Power - The New York Times",
       "pubDate": "Fri, 20 Jun 2025 04:01:04 GMT"
@@ -3538,10 +3534,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Retail investors turning to gold amid declining confidence in the US and growing recession fears - Universul.net",
-      "pubDate": "Wed, 18 Jun 2025 15:38:09 GMT"
-    },
     {
       "title": "Launching a new product during a recession can pay off, Northeastern research shows - Northeastern Global News",
       "pubDate": "Wed, 18 Jun 2025 20:10:30 GMT"
@@ -3913,10 +3905,6 @@
   ],
   "cancer": [
     {
-      "title": "\u2018Cancer is just everywhere\u2019: could farming be behind Iowa\u2019s unfolding health crisis? - The Guardian",
-      "pubDate": "Wed, 18 Jun 2025 15:21:00 GMT"
-    },
-    {
       "title": "New three-shot breast cancer vaccine offers new hope, targets milk protein to stop tumours before they grow - The Indian Express",
       "pubDate": "Thu, 19 Jun 2025 13:00:33 GMT"
     },
@@ -4176,10 +4164,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla\u2019s Robotaxi, Long Promised by Elon Musk, Joins a Crowded Field - The New York Times",
-      "pubDate": "Wed, 18 Jun 2025 15:59:34 GMT"
-    },
     {
       "title": "Tesla driver at \u2018No Kings\u2019 San Francisco march charged - KRON4",
       "pubDate": "Fri, 20 Jun 2025 21:04:25 GMT"
