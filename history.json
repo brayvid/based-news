@@ -525,14 +525,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Iran leader rejects Trump's demand for surrender; Trump says patience has run out - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 17:19:59 GMT"
-    },
-    {
-      "title": "Trump says 'nobody knows' what he'll do as Iran warns the U.S. not to strike - NPR",
-      "pubDate": "Wed, 18 Jun 2025 18:01:27 GMT"
-    },
-    {
       "title": "Watch: Trump installs enormous US flags at the White House - BBC",
       "pubDate": "Wed, 18 Jun 2025 18:42:28 GMT"
     },
@@ -1321,14 +1313,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Experts warn AI bias could undermine safety and security - Adomonline.com",
-      "pubDate": "Wed, 18 Jun 2025 17:16:23 GMT"
-    },
-    {
-      "title": "OpenAI warns models with higher bioweapons risk are imminent - Axios",
-      "pubDate": "Wed, 18 Jun 2025 17:03:34 GMT"
-    },
-    {
       "title": "Pope Leo delivers grim warning about AI's threat to 'human dignity' - New York Post",
       "pubDate": "Wed, 18 Jun 2025 18:56:00 GMT"
     },
@@ -1653,13 +1637,13 @@
     {
       "title": "JPMorgan has a new way of forecasting the stock market \u2014 and there\u2019s a surprising finding - MarketWatch",
       "pubDate": "Thu, 26 Jun 2025 10:58:00 GMT"
+    },
+    {
+      "title": "The S&P 500 is taking a $9.8 trillion roundtrip. Here\u2019s what\u2019s going on - CNN",
+      "pubDate": "Thu, 26 Jun 2025 15:41:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Preparing for future AI capabilities in biology - OpenAI",
-      "pubDate": "Wed, 18 Jun 2025 17:16:03 GMT"
-    },
     {
       "title": "MS partnering with NVIDIA to spread AI to classrooms throughout state - The Clarion-Ledger",
       "pubDate": "Wed, 18 Jun 2025 22:11:17 GMT"
@@ -2207,6 +2191,10 @@
     {
       "title": "Meta Reportedly Hires Away 3 Researchers From OpenAI - PYMNTS.com",
       "pubDate": "Thu, 26 Jun 2025 16:02:35 GMT"
+    },
+    {
+      "title": "AI security issues dominate corporate worries, spending - Cybersecurity Dive",
+      "pubDate": "Thu, 26 Jun 2025 14:51:48 GMT"
     }
   ],
   "climate": [
@@ -2979,6 +2967,10 @@
     {
       "title": "China Could Turn Up the Heat on Taiwan. Iran Is Why. - Barron's",
       "pubDate": "Thu, 26 Jun 2025 14:55:00 GMT"
+    },
+    {
+      "title": "Exclusive | China has begun issuing rare earth export licenses to European firms: EU sources - South China Morning Post",
+      "pubDate": "Thu, 26 Jun 2025 17:35:32 GMT"
     }
   ],
   "world_news": [
@@ -3023,10 +3015,6 @@
     {
       "title": "A divided Congress mulls war powers as Trump considers strike in Iran - USA Today",
       "pubDate": "Wed, 18 Jun 2025 19:51:44 GMT"
-    },
-    {
-      "title": "Major differences between House and Senate versions of Trump's tax and spending bill - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 17:57:53 GMT"
     },
     {
       "title": "\u2018He\u2019s moving at a truly alarming speed\u2019: Trump propels US into authoritarianism - The Guardian",
@@ -4671,6 +4659,12 @@
     {
       "title": "Close-up images of The Red Planet\u2019s ridges from Mars Rover show \u2018dramatic evidence\u2019 of water - The Independent",
       "pubDate": "Thu, 26 Jun 2025 02:05:00 GMT"
+    }
+  ],
+  "artificial_general_intelligence": [
+    {
+      "title": "\"Nonsensical Benchmark Hacking\": Microsoft No Longer Believes OpenAI Is Capable of Achieving AGI - Futurism",
+      "pubDate": "Thu, 26 Jun 2025 17:26:32 GMT"
     }
   ]
 }
