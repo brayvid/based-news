@@ -155,10 +155,6 @@
       "pubDate": "Thu, 19 Jun 2025 21:11:53 GMT"
     },
     {
-      "title": "Israel shoots down hundreds of Iranian drones, IDF at 95% interception rate - The Jerusalem Post",
-      "pubDate": "Thu, 19 Jun 2025 19:28:07 GMT"
-    },
-    {
       "title": "Under attack from Israel, Iran\u2019s supreme leader faces a stark choice - AP News",
       "pubDate": "Fri, 20 Jun 2025 11:17:00 GMT"
     },
@@ -1301,6 +1297,10 @@
     {
       "title": "Putin says Russia is ready to hold more talks with Ukraine, return more bodies - Reuters",
       "pubDate": "Fri, 27 Jun 2025 14:49:59 GMT"
+    },
+    {
+      "title": "Putin confirms he wants all of Ukraine, as Europe steps up military aid - Al Jazeera",
+      "pubDate": "Fri, 27 Jun 2025 15:56:15 GMT"
     }
   ],
   "ai_safety": [
@@ -1390,10 +1390,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "US Futures Drop as Trump Weighs Strikes on Iran: Markets Wrap - Yahoo Finance",
-      "pubDate": "Thu, 19 Jun 2025 19:13:49 GMT"
-    },
     {
       "title": "Asian shares are mixed and oil gains as world waits to see if US will join Israel's war against Iran - MSN",
       "pubDate": "Fri, 20 Jun 2025 04:40:00 GMT"
@@ -1636,10 +1632,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI cuts ties with Scale AI amid data labeler\u2019s new Meta deal \u2014 Report - Cointelegraph",
-      "pubDate": "Thu, 19 Jun 2025 19:07:22 GMT"
-    },
     {
       "title": "Meta tried to buy Ilya Sutskever's $32 billion AI startup, but is now planning to hire its CEO - CNBC",
       "pubDate": "Thu, 19 Jun 2025 23:27:23 GMT"
@@ -2211,6 +2203,10 @@
     {
       "title": "Colleen Hoover, Emily Henry among 70 authors urging publishers against AI use - USA Today",
       "pubDate": "Fri, 27 Jun 2025 18:00:14 GMT"
+    },
+    {
+      "title": "OpenAI\u2019s Unreleased AGI Paper Could Complicate Microsoft Negotiations - WIRED",
+      "pubDate": "Fri, 27 Jun 2025 19:35:29 GMT"
     }
   ],
   "climate": [
@@ -2300,10 +2296,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war latest: Putin claims he will meet Zelensky for \u2018final phase\u2019 of talks - The Independent",
-      "pubDate": "Thu, 19 Jun 2025 19:18:21 GMT"
-    },
     {
       "title": "Ukraine war briefing: Russia \u2018on verge of recession\u2019, Putin minister tells economic showcase - The Guardian",
       "pubDate": "Fri, 20 Jun 2025 00:41:00 GMT"
@@ -2697,6 +2689,10 @@
     {
       "title": "U.S. economy shrinks as Americans spend less - Star Tribune",
       "pubDate": "Fri, 27 Jun 2025 16:02:31 GMT"
+    },
+    {
+      "title": "S&P 500 hits new high but cracks appear in US economy - thenationalnews.com",
+      "pubDate": "Fri, 27 Jun 2025 15:30:41 GMT"
     }
   ],
   "china": [
@@ -3023,6 +3019,10 @@
     {
       "title": "U.S. and China Confirm Trade Agreement, Lutnick Says 10 More Deals on the Way - Barron's",
       "pubDate": "Fri, 27 Jun 2025 17:12:00 GMT"
+    },
+    {
+      "title": "China\u2019s threat to Tibet\u2019s future should be a global concern - The Hill",
+      "pubDate": "Fri, 27 Jun 2025 19:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3059,10 +3059,6 @@
     {
       "title": "Trump may authorize strikes against Iran. Can he just do that? - CNN",
       "pubDate": "Thu, 19 Jun 2025 20:59:00 GMT"
-    },
-    {
-      "title": "Could US involvement in Israel-Iran war spark cyberattacks? - NewsNation",
-      "pubDate": "Thu, 19 Jun 2025 19:40:23 GMT"
     },
     {
       "title": "Senate draft of \u2018big, beautiful bill\u2019 could cut funds for Virginia hospitals, also affect Medicaid - Virginia Mercury",
@@ -3447,10 +3443,6 @@
       "pubDate": "Fri, 20 Jun 2025 02:27:40 GMT"
     },
     {
-      "title": "Carney threatens to raise tariffs on US if Trump talks fail - The Telegraph",
-      "pubDate": "Thu, 19 Jun 2025 19:35:00 GMT"
-    },
-    {
       "title": "Global trade war set to resume - Semafor",
       "pubDate": "Fri, 20 Jun 2025 11:06:00 GMT"
     },
@@ -3792,10 +3784,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Federal Reserve's interest rate decision aligned with expectations: Michael Darda - Fox Business",
-      "pubDate": "Thu, 19 Jun 2025 19:26:27 GMT"
-    },
     {
       "title": "Powell signals hawkish Fed is flying blind - Reuters",
       "pubDate": "Fri, 20 Jun 2025 00:30:00 GMT"
@@ -4169,6 +4157,10 @@
     {
       "title": "How US adults' views on same-sex marriage have changed since the Supreme Court's 2015 ruling - AP News",
       "pubDate": "Wed, 25 Jun 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Supreme Court decision on birthright citizenship broadens Trump's power - BBC",
+      "pubDate": "Fri, 27 Jun 2025 16:50:48 GMT"
     }
   ],
   "inflation": [
@@ -4605,6 +4597,12 @@
     {
       "title": "Trump Is Gutting LGBTQ+ Research. It\u2019s Going to Cost Us All. - Slate",
       "pubDate": "Fri, 27 Jun 2025 09:45:00 GMT"
+    }
+  ],
+  "hurricanes": [
+    {
+      "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
     }
   ]
 }
