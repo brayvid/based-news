@@ -143,14 +143,6 @@
   ],
   "iran": [
     {
-      "title": "Israel-Iran latest: Tehran warns other countries not to enter war - Financial Times",
-      "pubDate": "Thu, 19 Jun 2025 21:33:00 GMT"
-    },
-    {
-      "title": "US joining Israeli strikes would cause hell, Iranian minister tells BBC - BBC",
-      "pubDate": "Thu, 19 Jun 2025 21:11:53 GMT"
-    },
-    {
       "title": "Under attack from Israel, Iran\u2019s supreme leader faces a stark choice - AP News",
       "pubDate": "Fri, 20 Jun 2025 11:17:00 GMT"
     },
@@ -2207,10 +2199,6 @@
   ],
   "climate": [
     {
-      "title": "World could soon hit 1.5 degree threshold - The Hill",
-      "pubDate": "Thu, 19 Jun 2025 21:12:00 GMT"
-    },
-    {
       "title": "Deadly weekend heat in England \u2018100 times more likely\u2019 due to climate crisis - The Guardian",
       "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
     },
@@ -2451,6 +2439,10 @@
     {
       "title": "Ukraine war latest: Ukrainian drones reportedly strike 4 fighter jets in Russia - The Kyiv Independent",
       "pubDate": "Fri, 27 Jun 2025 19:30:26 GMT"
+    },
+    {
+      "title": "Ukraine hits four Russian Su-34 warplanes at Marinovka airbase - Ukrinform",
+      "pubDate": "Fri, 27 Jun 2025 17:16:00 GMT"
     }
   ],
   "us_economy": [
@@ -3457,6 +3449,10 @@
     {
       "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
       "pubDate": "Fri, 27 Jun 2025 03:33:21 GMT"
+    },
+    {
+      "title": "US and China sign trade deal after months-long tariff war - Australian Broadcasting Corporation",
+      "pubDate": "Fri, 27 Jun 2025 15:46:30 GMT"
     }
   ],
   "cybersecurity": [
@@ -3681,6 +3677,10 @@
     {
       "title": "Study Finds Foreclosure and Recession Fears Point to Housing Slowdown - Morningstar",
       "pubDate": "Fri, 27 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Large Banks Could Easily Weather a Massive Recession, Fed's Annual Stress Test Finds - Investopedia",
+      "pubDate": "Fri, 27 Jun 2025 21:44:50 GMT"
     }
   ],
   "drones": [
@@ -3935,6 +3935,10 @@
     {
       "title": "Humans will live in huge 'space oases' on Mars in 15 years, space agency predicts - MSN",
       "pubDate": "Sun, 22 Jun 2025 01:24:19 GMT"
+    },
+    {
+      "title": "Nozzle explodes off rocket booster during engine test for NASA's Artemis program (video) - Space",
+      "pubDate": "Fri, 27 Jun 2025 18:41:30 GMT"
     }
   ],
   "health_care": [
@@ -4207,10 +4211,6 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX rocket being tested in Texas explodes, but no injuries reported - AP News",
-      "pubDate": "Thu, 19 Jun 2025 21:49:00 GMT"
-    },
-    {
       "title": "SpaceX Starship exploded again. What's next for Elon Musk's company after latest setback? - USA Today",
       "pubDate": "Fri, 20 Jun 2025 13:07:41 GMT"
     },
@@ -4262,14 +4262,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Over 16 billion records leaked in \"unimaginable\" major data breach \u2013 here's what we know - TechRadar",
-      "pubDate": "Thu, 19 Jun 2025 21:35:01 GMT"
-    },
-    {
-      "title": "Massive data breach leaks 16 billion logins; cybersecurity expert urges changing passwords - KADN News 15",
-      "pubDate": "Thu, 19 Jun 2025 22:00:00 GMT"
-    },
     {
       "title": "Massive leak of 16 billion passwords affecting Apple, Google and Facebook users. What to know - National Post",
       "pubDate": "Fri, 20 Jun 2025 20:29:49 GMT"
@@ -4553,6 +4545,10 @@
     {
       "title": "Something is \u2018pulsing\u2019 beneath the Earth, scientists say \u2013 and could tear a continent apart - The Independent",
       "pubDate": "Wed, 25 Jun 2025 20:40:00 GMT"
+    },
+    {
+      "title": "Scientists say they have identified Earth\u2019s oldest rocks. It could reveal an unknown chapter in our planet\u2019s history - CNN",
+      "pubDate": "Fri, 27 Jun 2025 11:58:00 GMT"
     }
   ],
   "global_health": [
