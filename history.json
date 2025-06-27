@@ -147,10 +147,6 @@
   ],
   "iran": [
     {
-      "title": "Israel Moves To \u2018Intensify Strikes\u2019 After Iranian Missile Damages Hospital (Live Updates) - Forbes",
-      "pubDate": "Thu, 19 Jun 2025 10:04:00 GMT"
-    },
-    {
       "title": "Israel threatens to kill Iran\u2019s supreme leader after missile strikes - Al Jazeera",
       "pubDate": "Thu, 19 Jun 2025 12:52:01 GMT"
     },
@@ -513,6 +509,10 @@
     {
       "title": "Obliterated? Damaged? Inoperable? What's known about Iran's nuclear facilities - NPR",
       "pubDate": "Thu, 26 Jun 2025 22:06:56 GMT"
+    },
+    {
+      "title": "Iran's hackers keep a low profile after Israeli and US strikes - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 10:07:41 GMT"
     }
   ],
   "donald_trump": [
@@ -1143,6 +1143,10 @@
     {
       "title": "Trump administration eliminating warning period for fining those in the US illegally: Exclusive - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 27 Jun 2025 09:10:50 GMT"
+    },
+    {
+      "title": "US Senate Republicans seek agreement on Trump tax-cut, spending bill - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 10:28:59 GMT"
     }
   ],
   "russia": [
@@ -1386,10 +1390,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "M&A market 'back to global financial crisis levels,' UN trade arm warns in downbeat economic outlook - CNBC",
-      "pubDate": "Thu, 19 Jun 2025 10:30:01 GMT"
-    },
     {
       "title": "US Futures Drop as Trump Weighs Strikes on Iran: Markets Wrap - Yahoo Finance",
       "pubDate": "Thu, 19 Jun 2025 19:13:49 GMT"
@@ -2187,6 +2187,10 @@
     {
       "title": "A.I. Frenzy Escalates as OpenAI, Amazon and Meta Supersize Spending - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 09:01:27 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Ramps Up Meta\u2019s A.I. Spending as Competition Heats Up - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 09:00:49 GMT"
     }
   ],
   "climate": [
@@ -2276,10 +2280,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia just accidentally admitted to its staggering troop losses in Ukraine - The Kyiv Independent",
-      "pubDate": "Thu, 19 Jun 2025 10:26:35 GMT"
-    },
     {
       "title": "Ukraine war latest: Putin claims he will meet Zelensky for \u2018final phase\u2019 of talks - The Independent",
       "pubDate": "Thu, 19 Jun 2025 19:18:21 GMT"
@@ -2423,21 +2423,13 @@
     {
       "title": "Ukraine war live: Trump admits Putin could invade more of Europe at Nato summit - The Independent",
       "pubDate": "Fri, 27 Jun 2025 02:43:00 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Kyiv halts Putin\u2019s advance in Sumy after new prisoner swap deal agreed - The Independent",
+      "pubDate": "Fri, 27 Jun 2025 10:02:37 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Fed begins policy meeting amid Middle East tensions and slowing US economy - MSN",
-      "pubDate": "Thu, 19 Jun 2025 10:44:35 GMT"
-    },
-    {
-      "title": "Stocks Slide on Mideast Tension, Fed\u2019s Warning: Markets Wrap - Bloomberg",
-      "pubDate": "Thu, 19 Jun 2025 10:22:04 GMT"
-    },
-    {
-      "title": "Fed decision live: Powell cites Trump tariff impacts as rates held steady - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 10:39:02 GMT"
-    },
     {
       "title": "America\u2019s economy could face a war shock - CNN",
       "pubDate": "Thu, 19 Jun 2025 14:55:00 GMT"
@@ -2676,18 +2668,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's Housing Market Facing Long Slump - Newsweek",
-      "pubDate": "Thu, 19 Jun 2025 10:13:28 GMT"
-    },
-    {
-      "title": "China learned a valuable lesson in US trade talks: the value of its leverage - CNN",
-      "pubDate": "Thu, 19 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "title": "China floods Brazil with cheap EVs triggering backlash - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 10:02:25 GMT"
-    },
     {
       "title": "China has become the most important enabler of Russia\u2019s war machine - The Economist",
       "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
@@ -2995,6 +2975,10 @@
     {
       "title": "China\u2019s Top Diplomat to Visit Europe as Tensions With US Linger - Bloomberg",
       "pubDate": "Fri, 27 Jun 2025 08:25:24 GMT"
+    },
+    {
+      "title": "US says deal with Beijing will expedite rare earth exports from China - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 07:56:35 GMT"
     }
   ],
   "world_news": [
@@ -3289,10 +3273,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Exclusive: Democrats want new leaders, focus on pocketbook issues, Reuters/Ipsos poll finds - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 10:11:44 GMT"
-    },
-    {
       "title": "Democrats could do a lot better with the power they hold - The Economist",
       "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
     },
@@ -3370,10 +3350,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "Kim Jong Un Quietly Advances North Korea's Nuclear Program - Newsweek",
-      "pubDate": "Thu, 19 Jun 2025 10:19:57 GMT"
-    },
     {
       "title": "Kim Jong Un announces \"leap forward\" in defense industry with its new largest 5-hectare plant to boost arms exports to Russia - Euromaidan Press",
       "pubDate": "Sat, 21 Jun 2025 14:03:42 GMT"
@@ -3547,10 +3523,6 @@
   ],
   "recession": [
     {
-      "title": "Russia needs monetary policy changes to avert a recession, says economy minister - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 10:28:04 GMT"
-    },
-    {
       "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - AOL.com",
       "pubDate": "Thu, 19 Jun 2025 11:49:56 GMT"
     },
@@ -3689,6 +3661,10 @@
     {
       "title": "Veteran strategist says a recession is coming that will hit \u2018cup entirely full\u2019 stock market - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Study Finds Foreclosure and Recession Fears Point to Housing Slowdown - Morningstar",
+      "pubDate": "Fri, 27 Jun 2025 09:00:00 GMT"
     }
   ],
   "drones": [
@@ -3780,10 +3756,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "The Federal Reserve Suffers From A Fatal Conceit And Our Economy Is Paying The Price - Forbes",
-      "pubDate": "Thu, 19 Jun 2025 10:00:00 GMT"
-    },
     {
       "title": "Federal Reserve's interest rate decision aligned with expectations: Michael Darda - Fox Business",
       "pubDate": "Thu, 19 Jun 2025 19:26:27 GMT"
@@ -4019,6 +3991,10 @@
     {
       "title": "Inside a Last-Ditch Battle to Save (or Kill) Clean-Energy Tax Credits - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 17:49:58 GMT"
+    },
+    {
+      "title": "Solar manufacturing is booming. Advocates say it could go bust without incentives - NPR",
+      "pubDate": "Fri, 27 Jun 2025 09:50:00 GMT"
     }
   ],
   "electric-vehicle_battery": [
@@ -4225,10 +4201,6 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX Starship explodes on Texas launch site - Fox Business",
-      "pubDate": "Thu, 19 Jun 2025 10:30:31 GMT"
-    },
-    {
       "title": "SpaceX rocket explodes in new setback to Elon Musk\u2019s Mars project - The Guardian",
       "pubDate": "Thu, 19 Jun 2025 11:52:00 GMT"
     },
@@ -4239,10 +4211,6 @@
     {
       "title": "Elon Musk\u2019s SpaceX Starship explodes on test stand - The Washington Post",
       "pubDate": "Thu, 19 Jun 2025 18:06:54 GMT"
-    },
-    {
-      "title": "SpaceX\u2019s Starship Rocket, Aimed at Mars Mission, Explodes Again - WSJ",
-      "pubDate": "Thu, 19 Jun 2025 10:57:00 GMT"
     },
     {
       "title": "SpaceX Starship Explodes On Launch Pad - The Weather Channel",
@@ -4289,10 +4257,6 @@
   ],
   "energy_storage": [
     {
-      "title": "Scientists make revolutionary breakthrough that could transform energy storage: 'Truly a game-changer' - Yahoo",
-      "pubDate": "Thu, 19 Jun 2025 10:45:04 GMT"
-    },
-    {
       "title": "Tesla, Shanghai sign $557 million energy storage station deal, Yicai reports - Reuters",
       "pubDate": "Fri, 20 Jun 2025 08:04:45 GMT"
     }
@@ -4301,12 +4265,6 @@
     {
       "title": "New York police search for a suspect and a motive after 11 police vehicles are torched - WCBD News 2",
       "pubDate": "Thu, 19 Jun 2025 16:21:05 GMT"
-    }
-  ],
-  "pollution": [
-    {
-      "title": "Scientists find \u2018alarming\u2019 levels of toxic metals, pollution in Lake Maurepas - Louisiana Illuminator",
-      "pubDate": "Thu, 19 Jun 2025 10:04:27 GMT"
     }
   ],
   "oceans": [
