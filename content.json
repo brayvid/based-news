@@ -1,52 +1,62 @@
 {
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "S&P 500 and Nasdaq 100 futures rise, surpassing all-time intraday highs: Live updates - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83NzFMU2NvNTI2MWROUUZXNkltRkQ1ZUkxNTQwYi1sZ2JLckpDU2lLbGs4Mnk3aFk4QWJ3amw4SzU0a2FQck4wbzZ5cm9ZQWNyTFhNcC14d1RKYU1tVGltWmFzVnQtUHR4dGVHRHhxQnZEalVDbFVv0gF8QVVfeXFMTnUxX0EwRVJ0cXhOaTQ5WHZxZEdxSGRnVEg3MlFHUzNfNk1LUUtpYmZ1WTZfUWdFbTZ4N2xYRjU3TFlVQXoxTEthS1FqZGFfWk1kZXZ3U29UMW9tVzkxNGhvdjNGNXNvdXVwWXFUWEtiMEItV2NBQm8zR0ZaMg?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 06:20:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
+  },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ1JOYTd2ZENUOUZLT1lyamxiMUZZb0I1VDNsaTRlSkF5VERIampqejh6U19SSHZxU0o3aV9QUHpSdXotUnhIaWtfTy12QjdHUTNDTi1GZmJuWUN6UVlVLUNLZ3hYd2xRZHNsSG5ZWEJocmFNLWM5UmUxX3FoOFBRUTdoSmN1cnFoZDJQNHJoZElLZEtlUTU0Qnk3VlJBYUFqRlJNdmdKNDYxYzNWLUphYzlWMVlIdHI3RUk4WE9tN2RkYi1MLV9NajNVbzFEMGpkb0tBVXlGOV9kTDVXUEV2RzlVdDRjQno4U19JcmpJT09CcWlfU09HSFNvWdIBgAJBVV95cUxOdjVOYXNxLTREMGVURkRZQW5QbWdGdUh5SE5sZXFEYVV1MTdFZlRiU3U1S29WMmVtcWJmSXVETy0xOFVTWEU0YVlHc1M0NkR3RUpNY3JDaGd3QWg4bnNQRG5kNG1IcHNaczVNWThCX1pYTzJhVFVmRk9yWHpyWDhzOVFNRGN2T1d2RFFKSVU2QlpQVThleXhKMjNlWFJsd2xtY3J3TGVieHIyUUZFaFdxeUdFVlV2bjIxckFaekd3ZTVHb3k5VXF0SlN1WkZIbUF2ZjBPZ0RvcS1fUU1jdG1MMEljSm51REFULUVSeHdYdENfWjl3UzNUWkdSbjFnOVM0?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
+        "title": "OpenAI hit hard? Zuckerberg reportedly poaches top AI experts from ChatGPT maker - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0NHblNpdlRiVllRNENhOVVSYV9iVVJrYXlVNDg5bjM4akV1MTlqeXFoWkNRTmI0MGxqX0tvWjVla0ZaRzhCV1Y1Z1ZGcWRuSlBab0VXd2FZN0RhRkR1WV84Q05GY3pta2RhYVUwOVRDb1ZJaF9UT3JYWTFaTnNqLTBjNmh3S3dSLUNIeE9NaGxQNS05cFZjT1g2OGtsVDRTaEpZeURkcDBHd2ZOLTAteUlIZ1NScnh3YXRtNjFTb01LZzNabDM3VjdiQWlvamxjcVVzLTNYLWhPQQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 05:44:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-27T06:00:07.500600+00:00"
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
   },
-  "Recession": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Data dump: Why Labubus, vampires and Lady Gaga are not signs of recession - Hindustan Times - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDJKelJCUFotVVFQdUZYMURhM0dleENta0tPXzh6Zlc3aXh4dnRoU1RoNU5yZDlzVFlUWEZQTEJxaEZIbGdxb0s2NmhyOGZkSW5mQUp0ZmZoV254ck5fRGtucTFSaTZhSkdqaUdPLWFXUnBmMklud2tfSUxrbHl6WVVDUVAwemxVT2dtVHZPcHkzekJ2UGRzS2w0N0JWSm5tTTFKQmphOHBCSDV2WXBKbFpmM1E5LUN0V00wSFotRnhZNzZUMGNzeWtqWE1qMUdTeDhDZFI1d9IB3AFBVV95cUxOYUJpdS1sZjhVdXYzbG5DbGhianh1MHliSmdfaFhOb09oSU5ONEFVYThrWFpJdERIbWs1Mzl3X214dDItd3ZieVcxSGt3elpIVmRtYlBoWk9mZ3ZjZGwyMWloWUJPNFVYcFo1M3hHN3RhWUlIaW1lUjFyUEdVQzJ5LTBWMnlqTFJyS2ZBRUk4R002SnpoNDNwS3ZVSmFKUlBkTllYYkNuT2FmQ05SOV9HZVlOaG5faVV0YkpFU1prdTFZbkx3cUJocEFWWXg5ektrNXJGd01pZHd1UGN5?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 03:42:03 GMT"
+        "title": "US economy contracts for first time in three years amid pre-tariff import surge - The Vibes",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzk0RHZHV2c5N3EtUU9FVVVXRVZPQWVZa0psbHVTT1RuMXZpVFdQVUlVUUJLSmVTeFJ4MGhnQzRiWnBaMW90akhKU3dRWGpNWUZ1dHRaYTh6cEdnVzE4QVVaWlBETGFJNXg1dkdiLWFYdmpQc1dUQmRReGdSN0N5eHA5eWFBOXJKN2tNUmdUd1JJbTEwWDRQSU1sY0l0dlNMOEhjVm53UHpoaXltbXVETmVVdl84cE0yZjJ1Q0p4OER6Ujd2a2dqQQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 02:17:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-27T06:00:07.500600+00:00"
-  },
-  "Trade War": {
-    "articles": [
-      {
-        "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlJ5SGtHandmS1hiUEt0ekJwamVSVmVXbUQ3bFloOWZCZC1ub2Z4WkhvVVFWa3lqZmhVQjJlc0x6M1NIekdQSzducG95bUo0bmRZWjJCblhjcVczYXlkRXJLNTRXUzJ3VG1TaHN5ZFRWN1hGb0FtT0x0NllsQ3gtVl8wMkJaRHp1ZUsw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 03:33:21 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-27T06:00:07.500600+00:00"
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump hosts event to rally Republicans behind his megabill - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGk4Z0ExcmloY25GUzBHVXFDRHhXRDIwelVudkNVb2s0X2JZT2ZTZVZHc0t1MHJvelNqXzdrOHI0ajhkQVBlQ2FFTWJ6QVc2Q2QzWlI3dmJUR1JIYjJhQlJZcVJCcUh2bHlVRzVuYmFab1k2M1VpYUNaUFZUbUZaWWM4bzRyMFJzZEU2U1MwREd2S2VsRzdmVFV30gGfAUFVX3lxTFBWRk1XSjFpQmcyME94R0kwY1c5ZDBnLU1hOXB5alJtYmFvSl9SUEt3YzhIODNfZGRsNllxd0NsT001Zm5fZ0I4cVNERHB4aTJRMFNfTkZwVDdXcmZ4azNyYUIzZkJDcUlQb29NdDNiTmpZdnRMQnJtU3hrWjg4aFlvRXdpeWhYNVlQZ1J2aXRuWDB1cGxZNDlZOWh4ZDd1WQ?oc=5",
-        "pubDate": "Thu, 26 Jun 2025 23:14:48 GMT"
+        "title": "Trump administration officials brief senators on U.S. strikes in Iran; Defense Secretary Hegseth criticizes media - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkZQU1ZMbGtBSUxqeFBOaldVZGRBaTJYcDg3UVJXU2VfZlZDbTRXaFZxamhJZVlBY05EcTNFZFBEWVB5RFZXMkZ3Sno5OXU5UVE0aTdBMGlUNjh4Y2Y3a1U3QXpMc0M1OEpxWnVvUmR5ZDhVd0syei1zNmY1MGRKNWo0ZngzekxqTk11djhqME85eDEzY2t4RWpjRXFuTHZ6UUhITGFYdVR3ODlPQUx4ajJsbHhOek1BZUJRdjVReGVXeGQ0TDM4cmkyOVloS1RDQmFPR0ZXVUY?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 02:04:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-27T06:00:07.500600+00:00"
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
   },
-  "US Foreign Policy": {
+  "Climate": {
     "articles": [
       {
-        "title": "Pentagon reveals new details about US strikes against Iran but leaves key questions unanswered - CNN",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVZm91LXZWRWoxZWxZMG11dnZkRUlDQmYyeXc3WklNWHdPZEhlU3Biem9EYTI2aEVxS2NwTm9iMEpwX1ZFcUIwQ0tReDdwRFpGR0laZlZGTThCVWFkVl9VY2RWRWVBQXBCM1JlSEdXMXN2U1JX?oc=5",
-        "pubDate": "Thu, 26 Jun 2025 20:46:00 GMT"
+        "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbFV1TS1BZm5teXFZZ3dNejZ4RHY3ZXN1cUhtZ0VtWFBGaUVNaHVmbjBPWGNrSnJ0Vzd6Sm9qbTJXaVhPaWNSQkxKbzI5VnJMNUI3US1xOGdybTJFWnl0bUtGSXFDd0hBZ3huQlR0V1E2a1gxbmNGOFk1TTJHUkxJdUtxTlpRdWY1aG9sNGV2U21MajN6dUZHS0dBNXhZMTUybG9TajBITjdxaVhqMm91T19keXR2RWJDMDlOMkVPTHk2MzFMTGRKZmpCR004QQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-27T06:00:07.500600+00:00"
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Obliterated? Damaged? Inoperable? What's known about Iran's nuclear facilities - NPR",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXA0UjdRWUJSN1J5dHpLRGl3MkFiNEVHX1RyZU53ak1PbElxbjJ0MVoyOUVEMkVIanVEeEhBN3NYV0liWGZLSnlzSkhNeHNTZFhMSFd1UThXclUzSU8wWjNhYjBHY1ZrcmFSYTZyZ1BZM1NQeWtUa2l6ZDdHM3U1aVQtZ18taVhmVVk5R3BLTFhEdHBLNGZGTjl5SDJ5WEds?oc=5",
+        "pubDate": "Thu, 26 Jun 2025 22:06:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-27T07:00:02.174128+00:00"
   }
 }
