@@ -505,10 +505,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump rips into 'too late' Jerome Powell after Fed holds rates steady - CNBC",
-      "pubDate": "Thu, 19 Jun 2025 15:04:14 GMT"
-    },
-    {
       "title": "Trump gives TikTok 90 more days to avoid a US ban - Business Insider",
       "pubDate": "Thu, 19 Jun 2025 16:07:00 GMT"
     },
@@ -531,10 +527,6 @@
     {
       "title": "Trump Buys Himself Time, and Opens Up Some New Options - The New York Times",
       "pubDate": "Thu, 19 Jun 2025 22:13:26 GMT"
-    },
-    {
-      "title": "Trump calls for the equivalent of 10 Fed rate cuts - CNN",
-      "pubDate": "Thu, 19 Jun 2025 15:18:00 GMT"
     },
     {
       "title": "Trump criticizes \u2018non-working holidays\u2019 on Juneteenth - CNN",
@@ -1147,6 +1139,10 @@
     {
       "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
       "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
+    },
+    {
+      "title": "Supreme Court hands Trump major win, limits judges\u2019 ability to block birthright citizenship order nationwide - Politico",
+      "pubDate": "Fri, 27 Jun 2025 14:15:34 GMT"
     }
   ],
   "russia": [
@@ -1628,14 +1624,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034 - Yahoo",
-      "pubDate": "Thu, 19 Jun 2025 15:41:00 GMT"
-    },
-    {
-      "title": "Artificial intelligence \u2013 the panacea to all ills, or an existential threat to our world? - Daily Maverick",
-      "pubDate": "Thu, 19 Jun 2025 15:31:04 GMT"
-    },
     {
       "title": "OpenAI cuts ties with Scale AI amid data labeler\u2019s new Meta deal \u2014 Report - Cointelegraph",
       "pubDate": "Thu, 19 Jun 2025 19:07:22 GMT"
@@ -2195,6 +2183,10 @@
     {
       "title": "OpenAI may prematurely declare AGI to cut ties with Microsoft \u2014 despite Sam Altman admitting today's tech isn\u2019t built for it - Windows Central",
       "pubDate": "Fri, 27 Jun 2025 09:37:43 GMT"
+    },
+    {
+      "title": "AI is fuelling a new wave of border vigilantism in the US - Al Jazeera",
+      "pubDate": "Fri, 27 Jun 2025 10:18:45 GMT"
     }
   ],
   "climate": [
@@ -2435,16 +2427,16 @@
     {
       "title": "Ukraine war live: Russian missile strike kills three amid warning of summer attack - The Independent",
       "pubDate": "Fri, 27 Jun 2025 11:32:37 GMT"
+    },
+    {
+      "title": "Russia and Ukraine trade more long-range drone attacks that are a hallmark of their war - AP News",
+      "pubDate": "Fri, 27 Jun 2025 12:11:00 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "The Federal Reserve has bigger problem on its hands than tariffs - TheStreet",
       "pubDate": "Thu, 19 Jun 2025 16:37:00 GMT"
-    },
-    {
-      "title": "US economy slowing, University of California forecast says - Staffing Industry Analysts",
-      "pubDate": "Thu, 19 Jun 2025 15:39:44 GMT"
     },
     {
       "title": "Uncertainty In The Middle East, Potential Risk Factors For U.S. Economy - Seeking Alpha",
@@ -2677,6 +2669,10 @@
     {
       "title": "US economy shrank more than initially estimated in Q1 - Jamaica Gleaner",
       "pubDate": "Fri, 27 Jun 2025 05:11:08 GMT"
+    },
+    {
+      "title": "S&P 500 rises to new record on trade deal hopes, capping remarkable comeback from April lows: Live updates - CNBC",
+      "pubDate": "Fri, 27 Jun 2025 14:27:00 GMT"
     }
   ],
   "china": [
@@ -2995,6 +2991,10 @@
     {
       "title": "Has Trump struck a trade deal with China \u2013 and what about other countries? - Al Jazeera",
       "pubDate": "Fri, 27 Jun 2025 14:24:32 GMT"
+    },
+    {
+      "title": "China Confirms Breakthrough on Rare-Earth Exports to U.S. - WSJ",
+      "pubDate": "Fri, 27 Jun 2025 10:17:00 GMT"
     }
   ],
   "world_news": [
@@ -3291,6 +3291,10 @@
     {
       "title": "Supreme Court allows states to cut off Medicaid funding for Planned Parenthood - The Washington Post",
       "pubDate": "Fri, 27 Jun 2025 14:50:32 GMT"
+    },
+    {
+      "title": "Senate Democrats question \"obliteration\" of Iran's nuclear sites after classified briefing on strikes - CBS News",
+      "pubDate": "Fri, 27 Jun 2025 11:40:42 GMT"
     }
   ],
   "science": [
@@ -3542,10 +3546,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Russia\u2019s Economy Minister Warns of Looming Recession - The Moscow Times",
-      "pubDate": "Thu, 19 Jun 2025 15:33:00 GMT"
-    },
     {
       "title": "Russian Economy 'on the Brink of Recession' - Newser",
       "pubDate": "Thu, 19 Jun 2025 22:15:00 GMT"
@@ -4071,13 +4071,13 @@
     {
       "title": "Leaked Pentagon report reveals US failed to destroy Iran\u2019s nuclear sites, Tehran \u2018moved\u2019 uranium to secret sites - Mint",
       "pubDate": "Wed, 25 Jun 2025 02:52:00 GMT"
+    },
+    {
+      "title": "Trump terminates satellite data considered crucial to storm forecasting - E&E News by POLITICO",
+      "pubDate": "Fri, 27 Jun 2025 10:47:00 GMT"
     }
   ],
   "military_intelligence": [
-    {
-      "title": "IDF\u2019s intelligence chief says Israel must \u2018hunt down\u2019 Iran\u2019s fleeing military commanders - The Times of Israel",
-      "pubDate": "Thu, 19 Jun 2025 15:27:36 GMT"
-    },
     {
       "title": "US military, intelligence detect signs Iran-backed militias preparing to attack US bases \u2013 NYT - The Times of Israel",
       "pubDate": "Sun, 22 Jun 2025 22:56:00 GMT"
@@ -4202,10 +4202,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX's Starship explodes on Texas launch pad in 'catastrophic failure' during routine test - Live Science",
-      "pubDate": "Thu, 19 Jun 2025 15:38:44 GMT"
-    },
     {
       "title": "Elon Musk\u2019s SpaceX Starship explodes on test stand - The Washington Post",
       "pubDate": "Thu, 19 Jun 2025 18:06:54 GMT"
