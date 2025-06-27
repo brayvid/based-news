@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Israel says it targeted Iran's Arak nuclear reactor, reports 'direct hit' on hospital by Iranian missile - NBC News",
-      "pubDate": "Thu, 19 Jun 2025 07:29:38 GMT"
-    },
-    {
       "title": "Israel attacks Iranian nuclear sites, missile damages Israeli hospital - Reuters",
       "pubDate": "Thu, 19 Jun 2025 08:10:33 GMT"
     },
@@ -147,13 +143,13 @@
     {
       "title": "Israel-Iran ceasefire appears to hold as Trump heads to NATO summit - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 07:06:01 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills over 70 in Gaza as 549 killed seeking aid in past month - Al Jazeera",
+      "pubDate": "Fri, 27 Jun 2025 05:06:04 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Why Israel wants US bunker busters to hit Iran\u2019s Fordow nuclear site - Al Jazeera",
-      "pubDate": "Thu, 19 Jun 2025 07:09:01 GMT"
-    },
     {
       "title": "Israel Moves To \u2018Intensify Strikes\u2019 After Iranian Missile Damages Hospital (Live Updates) - Forbes",
       "pubDate": "Thu, 19 Jun 2025 10:04:00 GMT"
@@ -524,10 +520,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "As Trump Considers Striking Iran, Russia Warns World Is \u2018Millimeters\u2019 Away From Nuclear Catastrophe - Time Magazine",
-      "pubDate": "Thu, 19 Jun 2025 07:49:30 GMT"
-    },
     {
       "title": "Trump embraces Pakistan: \u2018Tactical romance\u2019 or a new \u2018inner circle\u2019? - Al Jazeera",
       "pubDate": "Thu, 19 Jun 2025 09:54:11 GMT"
@@ -1151,6 +1143,10 @@
     {
       "title": "Trump administration officials brief senators on U.S. strikes in Iran; Defense Secretary Hegseth criticizes media - NBC News",
       "pubDate": "Fri, 27 Jun 2025 02:04:00 GMT"
+    },
+    {
+      "title": "Outrage as Trump compares Iran strikes to Japan atomic bombing - BBC",
+      "pubDate": "Fri, 27 Jun 2025 06:50:07 GMT"
     }
   ],
   "russia": [
@@ -2187,6 +2183,10 @@
     {
       "title": "OpenAI hit hard? Zuckerberg reportedly poaches top AI experts from ChatGPT maker - Hindustan Times",
       "pubDate": "Fri, 27 Jun 2025 05:44:56 GMT"
+    },
+    {
+      "title": "Salesforce Says AI Is Doing 30% of Its Coding and Customer Service - PYMNTS.com",
+      "pubDate": "Fri, 27 Jun 2025 02:03:45 GMT"
     }
   ],
   "climate": [
@@ -2673,10 +2673,6 @@
   ],
   "china": [
     {
-      "title": "China has granted rare earth export licences to some firms, commerce ministry says - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 07:26:38 GMT"
-    },
-    {
       "title": "China's Housing Market Facing Long Slump - Newsweek",
       "pubDate": "Thu, 19 Jun 2025 10:13:28 GMT"
     },
@@ -2987,6 +2983,10 @@
     {
       "title": "China's industrial profits plunge 9.1%, steepest fall in seven months - CNBC",
       "pubDate": "Fri, 27 Jun 2025 01:40:00 GMT"
+    },
+    {
+      "title": "Lutnick Says US-China Trade Truce Signed, 10 Deals Imminent - Bloomberg",
+      "pubDate": "Fri, 27 Jun 2025 06:17:00 GMT"
     }
   ],
   "world_news": [
@@ -3685,6 +3685,10 @@
     {
       "title": "Data dump: Why Labubus, vampires and Lady Gaga are not signs of recession - Hindustan Times - Hindustan Times",
       "pubDate": "Fri, 27 Jun 2025 03:42:03 GMT"
+    },
+    {
+      "title": "JP Morgan warns of possible U.S. recession in late 2025 - AnewZ",
+      "pubDate": "Fri, 27 Jun 2025 03:30:00 GMT"
     }
   ],
   "drones": [
@@ -3815,6 +3819,10 @@
     {
       "title": "Divided Fed proposes rule to ease capital requirements for big Wall Street banks - CNBC",
       "pubDate": "Wed, 25 Jun 2025 17:51:40 GMT"
+    },
+    {
+      "title": "Fed rate cut in July? Inside the US central bank, few takers - Reuters",
+      "pubDate": "Thu, 26 Jun 2025 20:24:08 GMT"
     }
   ],
   "earthquakes": [
@@ -4101,6 +4109,10 @@
     {
       "title": "US military, intelligence detect signs Iran-backed militias preparing to attack US bases \u2013 NYT - The Times of Israel",
       "pubDate": "Sun, 22 Jun 2025 22:56:00 GMT"
+    },
+    {
+      "title": "Pentagon Unveils $33.6 Billion Military Intelligence Budget For 2026 - Dallas Express",
+      "pubDate": "Thu, 26 Jun 2025 20:46:25 GMT"
     }
   ],
   "taxes": [
@@ -4218,10 +4230,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX Starship Explodes During Test in Texas - The New York Times",
-      "pubDate": "Thu, 19 Jun 2025 07:43:50 GMT"
-    },
     {
       "title": "SpaceX Starship explodes on Texas launch site - Fox Business",
       "pubDate": "Thu, 19 Jun 2025 10:30:31 GMT"
