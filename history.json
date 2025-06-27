@@ -143,10 +143,6 @@
   ],
   "iran": [
     {
-      "title": "Israel threatens to kill Iran\u2019s supreme leader after missile strikes - Al Jazeera",
-      "pubDate": "Thu, 19 Jun 2025 12:52:01 GMT"
-    },
-    {
       "title": "Israel-Iran latest: Tehran warns other countries not to enter war - Financial Times",
       "pubDate": "Thu, 19 Jun 2025 21:33:00 GMT"
     },
@@ -1139,6 +1135,10 @@
     {
       "title": "US supreme court expected to rule on birthright citizenship and other outstanding cases on last day of term \u2013 live updates - The Guardian",
       "pubDate": "Fri, 27 Jun 2025 09:58:00 GMT"
+    },
+    {
+      "title": "Another mysterious anti-Trump sculpture appears on the National Mall - The Washington Post",
+      "pubDate": "Fri, 27 Jun 2025 06:16:30 GMT"
     }
   ],
   "russia": [
@@ -1285,13 +1285,13 @@
     {
       "title": "European companies shipping critical missile parts to Russia, Zelensky tells EU. - The Kyiv Independent",
       "pubDate": "Thu, 26 Jun 2025 23:59:04 GMT"
+    },
+    {
+      "title": "Russia launches over 370 drones and missiles in fresh barrage - TVP World",
+      "pubDate": "Fri, 27 Jun 2025 10:43:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Newsom\u2019s new AI report could shape legislation - CalMatters",
-      "pubDate": "Thu, 19 Jun 2025 13:00:00 GMT"
-    },
     {
       "title": "OpenAI exec warns of growing risk AI could aid in biological weapons development - SiliconANGLE",
       "pubDate": "Thu, 19 Jun 2025 23:48:56 GMT"
@@ -1613,6 +1613,10 @@
     {
       "title": "S&P 500 and Nasdaq 100 futures rise, surpassing all-time intraday highs: Live updates - CNBC",
       "pubDate": "Fri, 27 Jun 2025 06:20:00 GMT"
+    },
+    {
+      "title": "US futures hit record high, setting Bitcoin up for new peak: Analysts - Cointelegraph",
+      "pubDate": "Fri, 27 Jun 2025 04:58:43 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1627,10 +1631,6 @@
     {
       "title": "OpenAI cuts ties with Scale AI amid data labeler\u2019s new Meta deal \u2014 Report - Cointelegraph",
       "pubDate": "Thu, 19 Jun 2025 19:07:22 GMT"
-    },
-    {
-      "title": "A $20 billion clock is ticking for OpenAI as Microsoft talks turn fractious - Yahoo Finance",
-      "pubDate": "Thu, 19 Jun 2025 13:00:06 GMT"
     },
     {
       "title": "Meta tried to buy Ilya Sutskever's $32 billion AI startup, but is now planning to hire its CEO - CNBC",
@@ -2175,6 +2175,10 @@
     {
       "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
       "pubDate": "Fri, 27 Jun 2025 11:08:41 GMT"
+    },
+    {
+      "title": "Trump\u2019s tax bill seeks to prevent AI regulations. Experts fear a heavy toll on the planet - The Guardian",
+      "pubDate": "Fri, 27 Jun 2025 11:30:00 GMT"
     }
   ],
   "climate": [
@@ -2657,16 +2661,8 @@
   ],
   "china": [
     {
-      "title": "China has become the most important enabler of Russia\u2019s war machine - The Economist",
-      "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
-    },
-    {
       "title": "US Ally Confronts 'Illegal' Chinese Ship Swarm in Disputed Waters: Video - Newsweek",
       "pubDate": "Thu, 19 Jun 2025 18:04:12 GMT"
-    },
-    {
-      "title": "China cuts US Treasury stockpiles to 16-year low amid Trump\u2019s trade war - South China Morning Post",
-      "pubDate": "Thu, 19 Jun 2025 13:00:11 GMT"
     },
     {
       "title": "Israel threatens Iran\u2019s supreme leader as Trump wavers on entering the war - PBS",
@@ -2971,6 +2967,10 @@
     {
       "title": "China Confirms US Trade Framework, Vows to Review Exports - Bloomberg",
       "pubDate": "Fri, 27 Jun 2025 08:15:43 GMT"
+    },
+    {
+      "title": "China Issues Update After Trump Reveals Trade Deal - Newsweek",
+      "pubDate": "Fri, 27 Jun 2025 08:01:58 GMT"
     }
   ],
   "world_news": [
@@ -3259,6 +3259,10 @@
     {
       "title": "Senate to vote on Trump's war powers today as lawmakers get delayed briefing on Iran strikes - CBS News",
       "pubDate": "Fri, 27 Jun 2025 10:00:04 GMT"
+    },
+    {
+      "title": "Supreme Court Fails to Sway Democrats on Gender Treatment Laws - The Dispatch",
+      "pubDate": "Fri, 27 Jun 2025 06:48:15 GMT"
     }
   ],
   "science": [
@@ -3268,10 +3272,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Democrats could do a lot better with the power they hold - The Economist",
-      "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
-    },
     {
       "title": "For Democrats, handcuffs are the latest symbol of resistance to Trump - The Washington Post",
       "pubDate": "Fri, 20 Jun 2025 18:27:25 GMT"
@@ -3394,10 +3394,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "China is trying to win over Africa in the global trade war - The Economist",
-      "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
-    },
     {
       "title": "Europe\u2019s central banks are all cutting rates, even as tariffs tie the Fed\u2019s hands - politico.eu",
       "pubDate": "Fri, 20 Jun 2025 02:27:40 GMT"
@@ -4591,6 +4587,12 @@
     {
       "title": "Leaked intel on Iran\u2019s nuclear facilities came from report on whether to strike targets again - Task & Purpose",
       "pubDate": "Thu, 26 Jun 2025 14:27:57 GMT"
+    }
+  ],
+  "research": [
+    {
+      "title": "Trump Is Gutting LGBTQ+ Research. It\u2019s Going to Cost Us All. - Slate",
+      "pubDate": "Fri, 27 Jun 2025 09:45:00 GMT"
     }
   ]
 }
