@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel attacks Iranian nuclear sites, missile damages Israeli hospital - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 08:10:33 GMT"
-    },
-    {
       "title": "Heavy damage, injuries as Iranian missile hits Beersheba hospital; dozens hurt in central cities - The Times of Israel",
       "pubDate": "Thu, 19 Jun 2025 09:04:05 GMT"
     },
@@ -147,6 +143,10 @@
     {
       "title": "LIVE: Israel kills over 70 in Gaza as 549 killed seeking aid in past month - Al Jazeera",
       "pubDate": "Fri, 27 Jun 2025 05:06:04 GMT"
+    },
+    {
+      "title": "\u2018The stars aligned\u2019: Why Israel set out for a war against Iran, and what it achieved - The Times of Israel",
+      "pubDate": "Fri, 27 Jun 2025 06:11:15 GMT"
     }
   ],
   "iran": [
@@ -1147,6 +1147,10 @@
     {
       "title": "Outrage as Trump compares Iran strikes to Japan atomic bombing - BBC",
       "pubDate": "Fri, 27 Jun 2025 06:50:07 GMT"
+    },
+    {
+      "title": "Trump\u2019s vow to \u2018save\u2019 Netanyahu from his corruption trial unnerves some Israelis - PBS",
+      "pubDate": "Thu, 26 Jun 2025 22:59:19 GMT"
     }
   ],
   "russia": [
@@ -1289,6 +1293,10 @@
     {
       "title": "Putin cannot attend BRICS summit in Brazil as he fears arrest for war crimes - Atlantic Council",
       "pubDate": "Thu, 26 Jun 2025 20:53:00 GMT"
+    },
+    {
+      "title": "European companies shipping critical missile parts to Russia, Zelensky tells EU. - The Kyiv Independent",
+      "pubDate": "Thu, 26 Jun 2025 23:59:04 GMT"
     }
   ],
   "ai_safety": [
@@ -2187,6 +2195,10 @@
     {
       "title": "Salesforce Says AI Is Doing 30% of Its Coding and Customer Service - PYMNTS.com",
       "pubDate": "Fri, 27 Jun 2025 02:03:45 GMT"
+    },
+    {
+      "title": "Meta hires former OpenAI top talent amid AGI push - Cointelegraph",
+      "pubDate": "Thu, 26 Jun 2025 21:14:45 GMT"
     }
   ],
   "climate": [
@@ -2669,6 +2681,10 @@
     {
       "title": "US economy contracts for first time in three years amid pre-tariff import surge - The Vibes",
       "pubDate": "Fri, 27 Jun 2025 02:17:00 GMT"
+    },
+    {
+      "title": "Trump economic advisor warns of recession if \u2018big, beautiful bill\u2019 is delayed - The Hill",
+      "pubDate": "Fri, 27 Jun 2025 03:01:00 GMT"
     }
   ],
   "china": [
@@ -2987,6 +3003,10 @@
     {
       "title": "Lutnick Says US-China Trade Truce Signed, 10 Deals Imminent - Bloomberg",
       "pubDate": "Fri, 27 Jun 2025 06:17:00 GMT"
+    },
+    {
+      "title": "China, U.S. confirm details of their trade deal, Beijing says - CNBC",
+      "pubDate": "Fri, 27 Jun 2025 07:08:36 GMT"
     }
   ],
   "world_news": [
@@ -3024,10 +3044,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "\u2018He\u2019s moving at a truly alarming speed\u2019: Trump propels US into authoritarianism - The Guardian",
-      "pubDate": "Thu, 19 Jun 2025 08:00:00 GMT"
-    },
     {
       "title": "Leavitt: Trump to decide on Iran action in next 2 weeks - The Hill",
       "pubDate": "Thu, 19 Jun 2025 17:39:00 GMT"
@@ -3546,10 +3562,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Russian Officials Spar Over Whether Economy Cooling Or In Crisis - Bloomberg.com",
-      "pubDate": "Thu, 19 Jun 2025 08:02:11 GMT"
-    },
     {
       "title": "Russia needs monetary policy changes to avert a recession, says economy minister - Reuters",
       "pubDate": "Thu, 19 Jun 2025 10:28:04 GMT"
@@ -4281,6 +4293,10 @@
     {
       "title": "SpaceX Starship Explosion Shakes Texas Test Site and Delays Mars Mission Milestones - USA Herald",
       "pubDate": "Sat, 21 Jun 2025 13:08:46 GMT"
+    },
+    {
+      "title": "SpaceX Seeks Return of Debris After Mexico Pollution Complaint - Bloomberg",
+      "pubDate": "Thu, 26 Jun 2025 22:49:57 GMT"
     }
   ],
   "microsoft": [
