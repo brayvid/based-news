@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel says Iran will pay for hospital airstrike; world awaits Trump decision: Live - USA Today",
-      "pubDate": "Thu, 19 Jun 2025 11:48:29 GMT"
-    },
-    {
       "title": "The Latest: Israel threatens Iran\u2019s supreme leader as Iranian strikes wound over 200 - AP News",
       "pubDate": "Thu, 19 Jun 2025 20:43:00 GMT"
     },
@@ -149,10 +145,6 @@
     {
       "title": "Israel threatens to kill Iran\u2019s supreme leader after missile strikes - Al Jazeera",
       "pubDate": "Thu, 19 Jun 2025 12:52:01 GMT"
-    },
-    {
-      "title": "Israel strikes Iranian nuclear sites, Iran retaliates against military targets - SHINE - BEYOND A SINGLE STORY",
-      "pubDate": "Thu, 19 Jun 2025 11:54:00 GMT"
     },
     {
       "title": "Israel-Iran latest: Tehran warns other countries not to enter war - Financial Times",
@@ -516,10 +508,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Nato cuts back leaders\u2019 summit to avoid Donald Trump walkout - Financial Times",
-      "pubDate": "Thu, 19 Jun 2025 11:27:36 GMT"
-    },
     {
       "title": "Trump rips into 'too late' Jerome Powell after Fed holds rates steady - CNBC",
       "pubDate": "Thu, 19 Jun 2025 15:04:14 GMT"
@@ -1147,6 +1135,10 @@
     {
       "title": "US Senate Republicans seek agreement on Trump tax-cut, spending bill - Reuters",
       "pubDate": "Fri, 27 Jun 2025 10:28:59 GMT"
+    },
+    {
+      "title": "US supreme court expected to rule on birthright citizenship and other outstanding cases on last day of term \u2013 live updates - The Guardian",
+      "pubDate": "Fri, 27 Jun 2025 09:58:00 GMT"
     }
   ],
   "russia": [
@@ -1296,10 +1288,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "The OpenAI Files: Ex-staff claim profit greed betraying AI safety - AI News",
-      "pubDate": "Thu, 19 Jun 2025 11:13:44 GMT"
-    },
     {
       "title": "Newsom\u2019s new AI report could shape legislation - CalMatters",
       "pubDate": "Thu, 19 Jun 2025 13:00:00 GMT"
@@ -1628,14 +1616,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "He\u2019s the godfather of AI. Now, he has a bold new plan to keep us safe from it. - vox.com",
-      "pubDate": "Thu, 19 Jun 2025 11:30:00 GMT"
-    },
-    {
-      "title": "OpenAI warns its future models will have a higher risk of aiding bioweapons development - Fortune",
-      "pubDate": "Thu, 19 Jun 2025 11:35:00 GMT"
-    },
     {
       "title": "Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034 - Yahoo",
       "pubDate": "Thu, 19 Jun 2025 15:41:00 GMT"
@@ -2191,6 +2171,10 @@
     {
       "title": "Mark Zuckerberg Ramps Up Meta\u2019s A.I. Spending as Competition Heats Up - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 09:00:49 GMT"
+    },
+    {
+      "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 11:08:41 GMT"
     }
   ],
   "climate": [
@@ -2427,6 +2411,10 @@
     {
       "title": "Ukraine-Russia war latest: Kyiv halts Putin\u2019s advance in Sumy after new prisoner swap deal agreed - The Independent",
       "pubDate": "Fri, 27 Jun 2025 10:02:37 GMT"
+    },
+    {
+      "title": "Ukraine war live: Russian missile strike kills three amid warning of summer attack - The Independent",
+      "pubDate": "Fri, 27 Jun 2025 11:32:37 GMT"
     }
   ],
   "us_economy": [
@@ -2979,6 +2967,10 @@
     {
       "title": "US says deal with Beijing will expedite rare earth exports from China - Reuters",
       "pubDate": "Fri, 27 Jun 2025 07:56:35 GMT"
+    },
+    {
+      "title": "China Confirms US Trade Framework, Vows to Review Exports - Bloomberg",
+      "pubDate": "Fri, 27 Jun 2025 08:15:43 GMT"
     }
   ],
   "world_news": [
@@ -3263,6 +3255,10 @@
     {
       "title": "Republicans Prepare to Open \u2018Pandora\u2019s Box\u2019 of Budget Gimmicks - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 09:02:08 GMT"
+    },
+    {
+      "title": "Senate to vote on Trump's war powers today as lawmakers get delayed briefing on Iran strikes - CBS News",
+      "pubDate": "Fri, 27 Jun 2025 10:00:04 GMT"
     }
   ],
   "science": [
@@ -3522,14 +3518,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - AOL.com",
-      "pubDate": "Thu, 19 Jun 2025 11:49:56 GMT"
-    },
-    {
-      "title": "\u2018Feelings-based recession\u2019: More Americans fearful of finances despite economic data - HousingWire",
-      "pubDate": "Thu, 19 Jun 2025 11:01:25 GMT"
-    },
     {
       "title": "Russia\u2019s Economy Minister Warns of Looming Recession - The Moscow Times",
       "pubDate": "Thu, 19 Jun 2025 15:33:00 GMT"
@@ -4201,20 +4189,12 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX rocket explodes in new setback to Elon Musk\u2019s Mars project - The Guardian",
-      "pubDate": "Thu, 19 Jun 2025 11:52:00 GMT"
-    },
-    {
       "title": "SpaceX's Starship explodes on Texas launch pad in 'catastrophic failure' during routine test - Live Science",
       "pubDate": "Thu, 19 Jun 2025 15:38:44 GMT"
     },
     {
       "title": "Elon Musk\u2019s SpaceX Starship explodes on test stand - The Washington Post",
       "pubDate": "Thu, 19 Jun 2025 18:06:54 GMT"
-    },
-    {
-      "title": "SpaceX Starship Explodes On Launch Pad - The Weather Channel",
-      "pubDate": "Thu, 19 Jun 2025 11:57:38 GMT"
     },
     {
       "title": "SpaceX rocket being tested in Texas explodes, but no injuries reported - AP News",
@@ -4275,19 +4255,11 @@
   ],
   "atmosphere": [
     {
-      "title": "New coach Gennaro Gattuso promises to create 'family' atmosphere at struggling Italy - Flashscore.com",
-      "pubDate": "Thu, 19 Jun 2025 11:20:49 GMT"
-    },
-    {
       "title": "Scientists find new way of spotting invisible 'plasma bubbles' lurking in Earth's upper atmosphere - Live Science",
       "pubDate": "Thu, 26 Jun 2025 17:00:00 GMT"
     }
   ],
   "terrorism": [
-    {
-      "title": "The U.S. Has Never Been a Bigger Target for Terrorism. Trump Is Why | Opinion - Newsweek",
-      "pubDate": "Thu, 19 Jun 2025 11:15:01 GMT"
-    },
     {
       "title": "Court allows lawsuits by U.S. victims of overseas terrorist attacks to move forward - SCOTUSblog",
       "pubDate": "Fri, 20 Jun 2025 17:28:59 GMT"
