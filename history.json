@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "The Latest: Israel threatens Iran\u2019s supreme leader as Iranian strikes wound over 200 - AP News",
-      "pubDate": "Thu, 19 Jun 2025 20:43:00 GMT"
-    },
-    {
       "title": "LIVE: Israel, Iran trade missile fire; Iran\u2019s FM to meet European officials - Al Jazeera",
       "pubDate": "Fri, 20 Jun 2025 02:57:04 GMT"
     },
@@ -508,10 +504,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Donald Trump weighing up many risks before possible US strike on Iran - Sky News",
-      "pubDate": "Thu, 19 Jun 2025 20:39:29 GMT"
-    },
     {
       "title": "Trump Buys Himself Time, and Opens Up Some New Options - The New York Times",
       "pubDate": "Thu, 19 Jun 2025 22:13:26 GMT"
@@ -2207,6 +2199,10 @@
     {
       "title": "OpenAI\u2019s Unreleased AGI Paper Could Complicate Microsoft Negotiations - WIRED",
       "pubDate": "Fri, 27 Jun 2025 19:35:29 GMT"
+    },
+    {
+      "title": "Meta seeks $29bn from private credit giants to fund AI data centres - Financial Times",
+      "pubDate": "Fri, 27 Jun 2025 19:43:59 GMT"
     }
   ],
   "climate": [
@@ -2451,6 +2447,10 @@
     {
       "title": "Russia has amassed 110,000 troops near strategic Ukrainian city, Kyiv says - CNN",
       "pubDate": "Fri, 27 Jun 2025 15:36:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Ukrainian drones reportedly strike 4 fighter jets in Russia - The Kyiv Independent",
+      "pubDate": "Fri, 27 Jun 2025 19:30:26 GMT"
     }
   ],
   "us_economy": [
@@ -3056,10 +3056,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump may authorize strikes against Iran. Can he just do that? - CNN",
-      "pubDate": "Thu, 19 Jun 2025 20:59:00 GMT"
-    },
     {
       "title": "Senate draft of \u2018big, beautiful bill\u2019 could cut funds for Virginia hospitals, also affect Medicaid - Virginia Mercury",
       "pubDate": "Fri, 20 Jun 2025 09:46:44 GMT"
@@ -4215,10 +4211,6 @@
       "pubDate": "Thu, 19 Jun 2025 21:49:00 GMT"
     },
     {
-      "title": "SpaceX\u2019s Starship blows up ahead of 10th test flight - TechCrunch",
-      "pubDate": "Thu, 19 Jun 2025 20:19:00 GMT"
-    },
-    {
       "title": "SpaceX Starship exploded again. What's next for Elon Musk's company after latest setback? - USA Today",
       "pubDate": "Fri, 20 Jun 2025 13:07:41 GMT"
     },
@@ -4289,12 +4281,6 @@
     {
       "title": "Millions of AT&T customers may soon get part of a $177 million settlement - KHOU",
       "pubDate": "Mon, 23 Jun 2025 18:17:00 GMT"
-    }
-  ],
-  "machine_learning": [
-    {
-      "title": "Scientists claim 99% stock prediction accuracy using astrology and AI - Boing Boing",
-      "pubDate": "Thu, 19 Jun 2025 20:04:43 GMT"
     }
   ],
   "technology": [
