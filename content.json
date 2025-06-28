@@ -1,72 +1,52 @@
 {
-  "Hamas": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Report: 11 killed in new Gaza airstrike; Hamas: 72 killed in last day - Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RRVNwV1REYlpkRXhfLVpybGY1a2E0X3g1ZW1nZVhIdjh3RExyYUgtMjNMakJKaXJJNFFlOUJlS3JTNUpKSFdfUGtkenkwUkZZTjMzVFVCNnlTWUE1bm9CVjllb19FVWlfdF9wTUx6X1Zid3FnSGl1YjQ1Zm1Ydw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 22:57:34 GMT"
+        "title": "Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLURhT3pOenJrcG9Md0N1UzJaQ003Q1JYREY0bFBPX29mOFczQkw5c3NEcEh2SzhqR2dWLVZGdTBZVWVBa01zMjZSdk5hRktENDdsNDFLTVI5cnA5c253NnFlNGxFb2dVNXZMMTh3VF9JSDdQUUVqZUdNMXRiR0ZOVGRqbmFVQ0IyU0VRRkVuZl9WMzNJY0ZEbHdlTlJBWS1nOE1uSE8zMnJWMXZsRUdTcFozdWZEZUx0MHluYlVaTFRNZWlDNkNubE9MaVM5ZGl6SFE?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 02:50:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "OpenAI turns to Google's AI chips to power its products, source says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZm9RQkxTLW8zTmx5dXV2SENIOXN6amUtMHo1Zm04Rm1oc2RiWGVsVUhqbDFjcHpNRGk0QU1Fbl9McF9KVFFRUTBzaGEwMHB1eTNuQUlEbEQ3SVZKem1fYm5YVmt4ZWRyX09xbHVhOWlqaG5YTXNXMW13Q1RtVWFod2J0c3Y1bV9uLTVBcWN3ckt4WWJxVG5iNUxWZFJrWkFtOGFPTmNMWFBnZGZxUlR0dGs3cw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 22:15:13 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
-  },
-  "Trade War": {
-    "articles": [
-      {
-        "title": "U.S., China announce a trade agreement - again. Here\u2019s what it means - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmN2RlZ6RExhQlNRMENQSEVaNGs2N3ZRLVJtdUZhZmdySFFIbjFrdkw0OG91VElkdDR6MTBsWm1WN1ZQUklteWhEQ0FkcTBQWU5oaE9sNTkyeG01aTdBTHBBaXFPR3RnaHFwYXhYLUhnVHNyZkpzRzJjQXhUUGJzZklZNkFqVVpIMjRyVldhS2ZBZ0JoLTU2M2h2Qm9oc1p2NzYwQXdUSFQ?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 21:25:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Senate Republicans eye weekend votes on Trump's massive bill as tensions run high - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWM5M19talRLTnV3SFRQQVpsNDlMU1ExcUxFUzdEUXF1V1VPUVhBRVAwb09sZF9tQzlSYWMySFQ1WE5lZVVoSFVST2dpV2hWb0dscmdyTktuTWtjQ0Z5bHlBSUlXeUNDazVxeVJ3bkpCNnBqOXk2eE5KdWZVcFViOUpzUnpJOGhhcWRTTlplaF82UXBEdURvbk5yVENpQ1JfdTd1a3lOaTYtT0lDV1HSAVZBVV95cUxNandka2stY1U2NnpPVUx0dXREekFMZ0trOXRlc1BIQlJvUWJlYWxLWk14c0hEbmJMbEJNcGhYVFpwQUE2ZVZYOTM0UDF4UU9aOVFuV29jZw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 21:09:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Biggest US banks pass Federal Reserve stress tests - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3UUpDQUFvVFl2ZXNBcTV3dEZqTU5IMVdiNGU5c0VEUUN1bGVLTlkzbGFfb2YyQVNaYmR5SERUNjNRLWU1LUhOTkt1QURKaHVSNTh6Z2w4bU1xUkVXYzBxMmtENFJkOGdLTmdSdHY5MnE?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 20:30:59 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
+    "last_updated_ts": "2025-06-28T03:00:20.909099+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump shrugs off July tariff deadline: 'We can do whatever we want' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vY2tiMTc1RzNsbGstN20zX0xPN0ZIdWhIUmc1RlpERkp0LThxeldUeFpZcEl6SjZkNDRnLUJ5cEdBTVo5RVV0d0xPWWRUQmZMakpUOXV3XzdvMGd6eUlIalhjMG9IR3ByR19sOUEyNVJxTHFzaW00cdIBfkFVX3lxTFBfVkVoVS1tUnZWU2tqMVNzNU95a2JKOW1WUjd5Ri0teE9UOUZubUxPNHVfZkR6VWZZcTF6TWdkZmdUWmJ1a3VNSkRlbTdGcXpya1Y4aXhGYWh1anhfanJCNVJnTnJsX1VwNHBXVWd4dWFoa3FZc0hob2dDSzQ4dw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 20:06:33 GMT"
+        "title": "Trump Says U.S. Ending Trade Talks With Canada Over Digital Services Taxes - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdG5IRkRqUmxSM0daLTRueDdlNElxUk1iSXctbGNBaGZhWTVrM2FvdURNVmRKQXgxUXU2Tno4T1R1VkxVcWxGM1hyN3pNQ1NwNXg0RmpuYnVzeVVDaXpZcEJ3NHRBc2xvNFZEcGozUjZrYURVbkR6c3h0dUJkWnRFVGhScnQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 22:51:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
+    "last_updated_ts": "2025-06-28T03:00:20.909099+00:00"
   },
-  "Ukraine": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Ukrainian forces destroy two Su-34 jets and damage two others in Russia's Volgograd Oblast - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5taE5qMVVMSEVmd2pnQ01ZZm54ckpFRXRHQ0NBajdyQzZkN2RDbzBjeWtvOUcxZGwzM25xZVhKaEVIcWhFX2JwbTVHUExneXJ5N3NCWVF4UkZnNG1lRXpmS3c0Ui3SAXBBVV95cUxPZG9vSDBIUVIxRXA3aEpYeGNnNWU2RzFiNFppNjJmdEZqZUU5cmRtNzUzQ3BLc3FQVnFFRU9ZMjlydnpZRGhYaVJFdm9kWDFDMnZiY0s2WVNJdEUwcG04eVBEWThMMWxNUU1lb2xzaUM2?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 16:39:38 GMT"
+        "title": "Senate rejects push to rein in Trump on Iran - Politico",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmwwcXprSXVmZktFbEY2clZNejRuV2pzeHB1MUxfU2VxNTZ6Z19sV3B6clNKdWhhNEhiZ2hRMHFzVlZiNG9kOE1kX0hEakVYMGdVNDZZanJ0VTd6VVB6T3djbkgxQ21LT2ZDbTR6WEJQWWh4Tk1DNmxiQlRHT09GLWppLTBBXzhDMzdDRUpieVVHNWFXYWJIMVdkRWtaa3FIaldKQUVSdVV4b0FtVVpGSQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 21:56:51 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T02:00:55.200387+00:00"
+    "last_updated_ts": "2025-06-28T03:00:20.909099+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "America\u2019s incredible stock market rebound is complete as S&P 500, Nasdaq hit record highs - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCYV9PZGszTzFoaXRiZGU2VFVoY1dwdkVSMzI3WHBWb3ZjNVpjTGxIMmsyZmZqTVpBQUFkX3hmekdZVTU1c2NxTHduYWVIRTNPZ2htcllkempRLUZ3Qk1KM0hkNTcyTmlPNkt0WklCNnJvMmVKUWliQkl30gF_QVVfeXFMTVIxTmVqRXFueVR2cjZPdndCSkhBX2Zablg0YUJraEQ2SkNYTXh3WjlXRmhKQWx4M29BZEZIOV81c1pfLW1iNVhQdmFmYkxCTHhDT0dwd0hiWk5hRndNUFBMYU14Z25pM1VUMTFKdDZsZHB3TmliRWZzMGpWcXZVUQ?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 20:06:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T03:00:20.909099+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Interview: Developing a CIO strategy for artificial intelligence - Computer Weekly",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTndya0c3Z001QjdRVkFucVE3aXRKakw5SFJYd3BEZTl3VERIMXVHMlJLaFFMS2lqa2hSVnh0VEZaUjg0NzFnOWh1dVhhTkRNQnFsUEYyMEsteVRMeEJSLUtYZ1FiSkZZLWxTMll2QnJ2QW1jRTA2YTVKR3YxVHc2OXpfMXg1RXdVYmF2Wl9JaHVsZ3dZNzE3UHRrSnBWLWFtVWxVZVRXaDhqZFhrcVE?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 16:00:51 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T03:00:20.909099+00:00"
   }
 }
