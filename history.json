@@ -1115,6 +1115,10 @@
     {
       "title": "What is birthright citizenship and what happens after the Supreme Court ruling? - NPR",
       "pubDate": "Sat, 28 Jun 2025 00:29:14 GMT"
+    },
+    {
+      "title": "Trump news at a glance: president boasts of \u2018monumental\u2019 win after supreme court curtails power of federal judges - The Guardian",
+      "pubDate": "Sat, 28 Jun 2025 00:30:16 GMT"
     }
   ],
   "russia": [
@@ -1604,10 +1608,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "SoftBank Pitches $1 Trillion US AI Hub to TSMC, Trump Team - Bloomberg",
-      "pubDate": "Fri, 20 Jun 2025 05:39:00 GMT"
-    },
     {
       "title": "OpenAI files reveal profit shift, leadership concerns, and safety failures in nonprofit AI organization - The Express Tribune",
       "pubDate": "Fri, 20 Jun 2025 06:56:15 GMT"
@@ -2199,10 +2199,6 @@
   ],
   "climate": [
     {
-      "title": "Deadly weekend heat in England \u2018100 times more likely\u2019 due to climate crisis - The Guardian",
-      "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
-    },
-    {
       "title": "Climate Change Will Bankrupt the Country - The American Prospect",
       "pubDate": "Fri, 20 Jun 2025 09:39:21 GMT"
     },
@@ -2713,10 +2709,6 @@
       "pubDate": "Fri, 20 Jun 2025 07:11:04 GMT"
     },
     {
-      "title": "China warns of more floods as extreme storms hit world's No.2 economy - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 05:36:00 GMT"
-    },
-    {
       "title": "\u2018If Middle East Is Unstable, World Will Not Be at Peace\u2019: How China Views the Israel-Iran War - Time Magazine",
       "pubDate": "Fri, 20 Jun 2025 10:59:24 GMT"
     },
@@ -3023,6 +3015,10 @@
     {
       "title": "Flood-hit China expands social security net as extreme rain takes toll - Reuters",
       "pubDate": "Sat, 28 Jun 2025 03:55:00 GMT"
+    },
+    {
+      "title": "Cloudy with a chance of bankruptcy: US tariffs hurt China\u2019s solar firms - South China Morning Post",
+      "pubDate": "Sat, 28 Jun 2025 03:00:11 GMT"
     }
   ],
   "world_news": [
@@ -3475,6 +3471,10 @@
     {
       "title": "Trump says he's \"terminating all discussions on trade with Canada, effective immediately\" - CBS News",
       "pubDate": "Fri, 27 Jun 2025 18:20:00 GMT"
+    },
+    {
+      "title": "Trump Throws Temper Tantrum, Launches New Trade War With Canada - The New Republic",
+      "pubDate": "Fri, 27 Jun 2025 19:24:39 GMT"
     }
   ],
   "cybersecurity": [
@@ -3564,10 +3564,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Russia's economy minister: Country on brink of recession - timesdaily.com",
-      "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
-    },
     {
       "title": "Ukraine war latest: Putin minister issues recession warning as Russia admits losses - AllSides",
       "pubDate": "Fri, 20 Jun 2025 07:00:01 GMT"
@@ -4017,10 +4013,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Hackers take $90M from Iran cryptocurrency exchange - timesdaily.com",
-      "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
-    },
-    {
       "title": "Man whose parents were kidnapped after $245M Bitcoin theft has pleaded guilty to federal charges - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 20 Jun 2025 21:45:35 GMT"
     },
@@ -4171,6 +4163,10 @@
     {
       "title": "Supreme Court in birthright case limits judges' power to block presidential policies - Reuters",
       "pubDate": "Fri, 27 Jun 2025 21:51:22 GMT"
+    },
+    {
+      "title": "Supreme Court limits nationwide injunctions, but fate of Trump birthright citizenship order unclear - AP News",
+      "pubDate": "Fri, 27 Jun 2025 20:04:00 GMT"
     }
   ],
   "inflation": [
@@ -4603,6 +4599,12 @@
     {
       "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
+    }
+  ],
+  "computers": [
+    {
+      "title": "American Airlines operations returning to normal after widespread computer outage - CNN",
+      "pubDate": "Fri, 27 Jun 2025 19:19:00 GMT"
     }
   ]
 }
