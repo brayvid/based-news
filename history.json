@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Sirens triggered across northern and southern Israel amid Iran missile attack - The Times of Israel",
-      "pubDate": "Fri, 20 Jun 2025 12:45:24 GMT"
-    },
-    {
       "title": "Israel warns of \u2018prolonged campaign\u2019 against Iran as Europeans push for truce - Financial Times",
       "pubDate": "Fri, 20 Jun 2025 17:29:24 GMT"
     },
@@ -131,6 +127,10 @@
     {
       "title": "Israel strikes Lebanon in one of biggest attacks since November ceasefire - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 02:37:26 GMT"
+    },
+    {
+      "title": "Live updates: Iran to hold state funeral for officials killed by Israeli strikes - CNN",
+      "pubDate": "Sat, 28 Jun 2025 11:10:00 GMT"
     }
   ],
   "iran": [
@@ -488,10 +488,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "The Donald Trump, Tucker Carlson fallout and why it's not a surprise - USA Today",
-      "pubDate": "Fri, 20 Jun 2025 12:32:02 GMT"
-    },
     {
       "title": "Live updates: Donald Trump marks National Guard ruling, mulls Iran action - The Hill",
       "pubDate": "Fri, 20 Jun 2025 13:43:00 GMT"
@@ -1123,6 +1119,10 @@
     {
       "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
       "pubDate": "Sat, 28 Jun 2025 05:06:29 GMT"
+    },
+    {
+      "title": "Trump pushes Thune to crack down on wind and solar in megabill - Politico",
+      "pubDate": "Sat, 28 Jun 2025 02:37:31 GMT"
     }
   ],
   "russia": [
@@ -2191,6 +2191,10 @@
     {
       "title": "The AI Backlash Keeps Growing Stronger - WIRED",
       "pubDate": "Sat, 28 Jun 2025 10:30:00 GMT"
+    },
+    {
+      "title": "OpenAI Taps Google's AI Chips: A Strategic Shift in the Tech Alliance Landscape - OpenTools",
+      "pubDate": "Sat, 28 Jun 2025 11:40:32 GMT"
     }
   ],
   "climate": [
@@ -2261,6 +2265,10 @@
     {
       "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
       "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
+    },
+    {
+      "title": "A Class-Action Lawsuit Aims to Restore Climate and Environmental Grants - Inside Climate News",
+      "pubDate": "Sat, 28 Jun 2025 08:55:00 GMT"
     }
   ],
   "ukraine": [
@@ -3399,6 +3407,10 @@
     {
       "title": "Why Trump\u2019s bombing of Iran will only bolster North Korea\u2019s nuclear resolve - The Independent",
       "pubDate": "Tue, 24 Jun 2025 12:31:00 GMT"
+    },
+    {
+      "title": "North Korea May Deepen Ukraine Involvement With Troop Surge - WSJ",
+      "pubDate": "Sat, 28 Jun 2025 02:22:16 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3478,14 +3490,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybercriminals breach Aflac as part of hacking spree against US insurance industry - CNN",
-      "pubDate": "Fri, 20 Jun 2025 12:23:00 GMT"
-    },
-    {
-      "title": "Aflac Incorporated Discloses Cybersecurity Incident - PR Newswire",
-      "pubDate": "Fri, 20 Jun 2025 12:00:00 GMT"
-    },
     {
       "title": "Aflac says cyberattack breach could expose personal data of customers - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 20 Jun 2025 14:23:59 GMT"
