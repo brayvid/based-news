@@ -123,10 +123,6 @@
   ],
   "iran": [
     {
-      "title": "Trump says US intelligence \u2018wrong\u2019 about Iran not building nuclear bomb - Al Jazeera",
-      "pubDate": "Fri, 20 Jun 2025 21:53:03 GMT"
-    },
-    {
       "title": "LIVE: Iran says still open to diplomacy, Israel vows continued attacks - Al Jazeera",
       "pubDate": "Sat, 21 Jun 2025 00:10:59 GMT"
     },
@@ -464,10 +460,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: Trump, Vance attending fundraisers on opposite sides of the country - The Washington Post",
-      "pubDate": "Fri, 20 Jun 2025 21:16:39 GMT"
-    },
     {
       "title": "Trump: \u2018Maybe I\u2019ll have to change my mind\u2019 about firing Powell - The Hill",
       "pubDate": "Fri, 20 Jun 2025 22:44:00 GMT"
@@ -1095,21 +1087,13 @@
     {
       "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 20:30:18 GMT"
+    },
+    {
+      "title": "Elon Musk slams Trump's megabill just as Senate prepares to hold critical vote - USA Today",
+      "pubDate": "Sat, 28 Jun 2025 20:40:37 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin says 'Ukraine is ours' and threatens nuclear strike - showing how he feels about Trump - Sky News",
-      "pubDate": "Fri, 20 Jun 2025 21:42:44 GMT"
-    },
-    {
-      "title": "Putin says he won\u2019t allow Russia to fall into recession amid warnings - The Washington Post",
-      "pubDate": "Fri, 20 Jun 2025 21:40:42 GMT"
-    },
-    {
-      "title": "Putin Does Not Rule Out Capturing Key Ukrainian City - The New York Times",
-      "pubDate": "Fri, 20 Jun 2025 21:57:49 GMT"
-    },
     {
       "title": "Putin boasts about Russia's economy despite recession fears - timesdaily.com",
       "pubDate": "Sat, 21 Jun 2025 05:00:00 GMT"
@@ -1573,24 +1557,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Apple executives held internal talks about buying Perplexity, Bloomberg News reports - Yahoo Finance",
-      "pubDate": "Fri, 20 Jun 2025 21:31:38 GMT"
-    },
-    {
       "title": "Apple sued by shareholders, accused of lying about AI progress \u2014 causing iPhone sales, stock to slump - New York Post",
       "pubDate": "Fri, 20 Jun 2025 22:36:00 GMT"
     },
     {
-      "title": "Apple sued by shareholders for allegedly overstating AI progress - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 21:08:08 GMT"
-    },
-    {
       "title": "Novel Artificial Intelligence Models Detect Type 1 Diabetes Risk Before Clinical Onset - PR Newswire",
       "pubDate": "Fri, 20 Jun 2025 23:30:00 GMT"
-    },
-    {
-      "title": "Tesla's robotaxi service is set to debut in Austin, Texas, on Sunday. Here's what to know. - CBS News",
-      "pubDate": "Fri, 20 Jun 2025 21:57:05 GMT"
     },
     {
       "title": "Top AI models will lie, cheat and steal to reach goals, Anthropic finds - Axios",
@@ -2167,6 +2139,10 @@
     {
       "title": "Anthropic\u2019s Claude AI became a terrible business owner in experiment that got \u2018weird\u2019 - TechCrunch",
       "pubDate": "Sat, 28 Jun 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Meta's AGI Gambit: Talent, Risk, and the Race for AI Supremacy - AInvest",
+      "pubDate": "Sat, 28 Jun 2025 18:08:27 GMT"
     }
   ],
   "climate": [
@@ -2653,10 +2629,6 @@
   ],
   "china": [
     {
-      "title": "US may target Samsung, Hynix, TSMC operations in China, sources say - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 21:24:12 GMT"
-    },
-    {
       "title": "China tightens internet controls with new centralized form of virtual ID - CNN",
       "pubDate": "Fri, 20 Jun 2025 22:00:00 GMT"
     },
@@ -2667,10 +2639,6 @@
     {
       "title": "China's property sector has been in an extended slump. Shrinking population is making it worse - CNBC",
       "pubDate": "Sat, 21 Jun 2025 06:09:29 GMT"
-    },
-    {
-      "title": "China\u2019s J-35 Naval Stealth Fighter Seen Like Never Before - The War Zone",
-      "pubDate": "Fri, 20 Jun 2025 21:56:48 GMT"
     },
     {
       "title": "Canada Says Network Devices Compromised in China-Linked Hack - Bloomberg",
@@ -2983,10 +2951,6 @@
   ],
   "world_news": [
     {
-      "title": "5.2 magnitude quake hits Iran as tensions with Israel intensify - Interesting Engineering",
-      "pubDate": "Fri, 20 Jun 2025 21:45:00 GMT"
-    },
-    {
       "title": "Live updates: Israel and Iran trade strikes as world leaders urge diplomacy - CNN",
       "pubDate": "Sat, 21 Jun 2025 07:04:00 GMT"
     },
@@ -3295,6 +3259,10 @@
     {
       "title": "Updated Senate bill slashes wind and solar incentives \u2013 and adds a new tax - The Hill",
       "pubDate": "Sat, 28 Jun 2025 19:53:00 GMT"
+    },
+    {
+      "title": "What's in the Senate\u2019s version of Trump's budget bill \u2014 and who stands to benefit - CNBC",
+      "pubDate": "Sat, 28 Jun 2025 19:57:28 GMT"
     }
   ],
   "democratic_party": [
@@ -3466,14 +3434,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybersecurity experts warn users to change passwords now - ClickOnDetroit",
-      "pubDate": "Fri, 20 Jun 2025 21:45:03 GMT"
-    },
-    {
-      "title": "Aflac Discloses Cybersecurity Incident, Customer Data Potentially Exposed Amid Industry-Wide Attacks - eSecurity Planet",
-      "pubDate": "Fri, 20 Jun 2025 21:36:13 GMT"
-    },
     {
       "title": "Massive data breach compromises 16 billion passwords and other logins - Houston Chronicle",
       "pubDate": "Sat, 21 Jun 2025 11:17:05 GMT"
@@ -3669,6 +3629,10 @@
     {
       "title": "Ukrainian drones strike Russian S-400 air defense system in occupied Crimea, HUR says. - The Kyiv Independent",
       "pubDate": "Thu, 26 Jun 2025 20:24:33 GMT"
+    },
+    {
+      "title": "Exclusive | NYC eyes system using net-firing drones to entangle and take down \u2018hostile\u2019 drones - New York Post",
+      "pubDate": "Sat, 28 Jun 2025 17:06:00 GMT"
     }
   ],
   "hamas": [
@@ -3953,10 +3917,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Man whose parents were kidnapped after $245M Bitcoin theft has pleaded guilty to federal charges - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 20 Jun 2025 21:45:35 GMT"
-    },
-    {
       "title": "Bitcoin plummets below $100,000 after U.S. strikes Iran nuclear sites - Fortune",
       "pubDate": "Sun, 22 Jun 2025 16:08:00 GMT"
     },
@@ -3983,6 +3943,10 @@
     {
       "title": "Online hacks to offline heists: crypto leaders on edge amid increasing attacks - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 12:01:00 GMT"
+    },
+    {
+      "title": "Bybit Ethereum Heist Propels Record $2.1 Billion in Crypto Stolen by Hackers So Far in 2025 - Decrypt",
+      "pubDate": "Sat, 28 Jun 2025 17:31:02 GMT"
     }
   ],
   "national_security": [
@@ -4033,6 +3997,10 @@
     {
       "title": "Senate GOP slashes megabill\u2019s tax costs with new accounting method - Politico",
       "pubDate": "Sun, 22 Jun 2025 15:09:28 GMT"
+    },
+    {
+      "title": "Updated megabill includes key compromises on taxes and Medicaid - Politico",
+      "pubDate": "Sat, 28 Jun 2025 13:39:47 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -4058,10 +4026,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla driver at \u2018No Kings\u2019 San Francisco march charged - KRON4",
-      "pubDate": "Fri, 20 Jun 2025 21:04:25 GMT"
-    },
     {
       "title": "US safety agency contacts Tesla on robotaxi issues seen in online videos - Reuters",
       "pubDate": "Mon, 23 Jun 2025 23:13:58 GMT"
@@ -4175,10 +4139,6 @@
     {
       "title": "SpaceX Starship explodes during test amid string of other failures and explosions - World Socialist Web Site",
       "pubDate": "Sat, 21 Jun 2025 03:24:56 GMT"
-    },
-    {
-      "title": "SpaceX's String of Starship Failures Continues With Massive Rocket Explosion - CNET",
-      "pubDate": "Fri, 20 Jun 2025 21:15:00 GMT"
     },
     {
       "title": "SpaceX Starship rocket explodes as Musk\u2019s Mars ambitions grow - Cybernews",
@@ -4439,6 +4399,10 @@
     {
       "title": "Senate rejects resolution to curb Trump's use of military in Iran - USA Today",
       "pubDate": "Fri, 27 Jun 2025 23:01:16 GMT"
+    },
+    {
+      "title": "Live updates: It's go time for Senate on Trump's megabill. Do they have the votes? - USA Today",
+      "pubDate": "Sat, 28 Jun 2025 21:39:17 GMT"
     }
   ],
   "fbi": [
