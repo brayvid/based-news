@@ -461,14 +461,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump: \u2018Maybe I\u2019ll have to change my mind\u2019 about firing Powell - The Hill",
-      "pubDate": "Fri, 20 Jun 2025 22:44:00 GMT"
-    },
-    {
-      "title": "Prospects for diplomacy dim after Trump rejects Europe's efforts on Iran: ANALYSIS - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 20 Jun 2025 22:11:03 GMT"
-    },
-    {
       "title": "Trump says \"maybe\" he'll try to fire Fed chief Jerome Powell - CBS News",
       "pubDate": "Sat, 21 Jun 2025 01:31:33 GMT"
     },
@@ -1091,6 +1083,10 @@
     {
       "title": "Elon Musk slams Trump's megabill just as Senate prepares to hold critical vote - USA Today",
       "pubDate": "Sat, 28 Jun 2025 20:40:37 GMT"
+    },
+    {
+      "title": "Live updates: Senate Republicans seek to advance Donald Trump megabill; Dems dig heels in - The Hill",
+      "pubDate": "Sat, 28 Jun 2025 21:48:00 GMT"
     }
   ],
   "russia": [
@@ -1225,6 +1221,10 @@
     {
       "title": "Russia revives obsolete T-62 tanks amid equipment shortages, Ukraine's intel claims - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 12:06:08 GMT"
+    },
+    {
+      "title": "Russian scientists develop model to extend battery lifespan - TV BRICS",
+      "pubDate": "Sat, 28 Jun 2025 13:03:33 GMT"
     }
   ],
   "ai_safety": [
@@ -1556,10 +1556,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Apple sued by shareholders, accused of lying about AI progress \u2014 causing iPhone sales, stock to slump - New York Post",
-      "pubDate": "Fri, 20 Jun 2025 22:36:00 GMT"
-    },
     {
       "title": "Novel Artificial Intelligence Models Detect Type 1 Diabetes Risk Before Clinical Onset - PR Newswire",
       "pubDate": "Fri, 20 Jun 2025 23:30:00 GMT"
@@ -2143,6 +2139,10 @@
     {
       "title": "Meta's AGI Gambit: Talent, Risk, and the Race for AI Supremacy - AInvest",
       "pubDate": "Sat, 28 Jun 2025 18:08:27 GMT"
+    },
+    {
+      "title": "It\u2019s Known as \u2018The List\u2019\u2014and It\u2019s a Secret File of AI Geniuses - WSJ",
+      "pubDate": "Sat, 28 Jun 2025 13:21:07 GMT"
     }
   ],
   "climate": [
@@ -2395,6 +2395,10 @@
     {
       "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
+    },
+    {
+      "title": "Ukraine destroys Russian helicopters in latest airfield drone strikes - The Telegraph",
+      "pubDate": "Sat, 28 Jun 2025 17:55:00 GMT"
     }
   ],
   "us_economy": [
@@ -2628,10 +2632,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China tightens internet controls with new centralized form of virtual ID - CNN",
-      "pubDate": "Fri, 20 Jun 2025 22:00:00 GMT"
-    },
     {
       "title": "How Huawei\u2019s silicon strategy defies US sanctions, advances China\u2019s AI ambitions - South China Morning Post",
       "pubDate": "Sat, 21 Jun 2025 04:00:09 GMT"
@@ -2981,10 +2981,6 @@
   ],
   "us_politics": [
     {
-      "title": "A judge sided with Trump. Behind the scenes, he was lobbying for a nomination. - Politico",
-      "pubDate": "Fri, 20 Jun 2025 22:12:39 GMT"
-    },
-    {
       "title": "A Vaping Victory for Big Tobacco Masks the Real Issue - Bloomberg",
       "pubDate": "Sat, 21 Jun 2025 12:00:41 GMT"
     },
@@ -3263,6 +3259,10 @@
     {
       "title": "What's in the Senate\u2019s version of Trump's budget bill \u2014 and who stands to benefit - CNBC",
       "pubDate": "Sat, 28 Jun 2025 19:57:28 GMT"
+    },
+    {
+      "title": "Senate GOP tweaks health care measures in tax bill to win holdouts, please parliamentarian - STAT",
+      "pubDate": "Sat, 28 Jun 2025 17:57:03 GMT"
     }
   ],
   "democratic_party": [
@@ -4119,6 +4119,10 @@
     {
       "title": "Proposed NASA cuts could jeopardize research and jobs in Tennessee - Axios",
       "pubDate": "Mon, 23 Jun 2025 11:18:35 GMT"
+    },
+    {
+      "title": "White House Could Jeopardize Mars Missions By Slashing NASA\u2019s Funding - Forbes",
+      "pubDate": "Sat, 28 Jun 2025 20:50:24 GMT"
     }
   ],
   "asteroids": [
