@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Iran war live: Iranian missiles hit Israel's Beersheba city day after hospital strike - Hindustan Times",
-      "pubDate": "Fri, 20 Jun 2025 06:48:14 GMT"
-    },
-    {
       "title": "Sirens triggered across northern and southern Israel amid Iran missile attack - The Times of Israel",
       "pubDate": "Fri, 20 Jun 2025 12:45:24 GMT"
     },
@@ -1119,6 +1115,10 @@
     {
       "title": "Trump news at a glance: president boasts of \u2018monumental\u2019 win after supreme court curtails power of federal judges - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 00:30:16 GMT"
+    },
+    {
+      "title": "WATCH: Trump says U.S. approved observers must inspect Iran\u2019s nuclear program, would bomb again - PBS",
+      "pubDate": "Fri, 27 Jun 2025 20:01:21 GMT"
     }
   ],
   "russia": [
@@ -1605,13 +1605,13 @@
     {
       "title": "America\u2019s incredible stock market rebound is complete as S&P 500, Nasdaq hit record highs - CNN",
       "pubDate": "Fri, 27 Jun 2025 20:06:00 GMT"
+    },
+    {
+      "title": "S&P 500 closes at a record Friday, overcoming even more trade angst: Live updates - CNBC",
+      "pubDate": "Fri, 27 Jun 2025 20:47:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI files reveal profit shift, leadership concerns, and safety failures in nonprofit AI organization - The Express Tribune",
-      "pubDate": "Fri, 20 Jun 2025 06:56:15 GMT"
-    },
     {
       "title": "As AI device market grows, FDA\u2019s accounting goes silent - STAT",
       "pubDate": "Fri, 20 Jun 2025 08:30:36 GMT"
@@ -2195,6 +2195,10 @@
     {
       "title": "Securing Artificial Intelligence: Can the Industry Collaborate? - Security Sales & Integration",
       "pubDate": "Fri, 27 Jun 2025 20:27:41 GMT"
+    },
+    {
+      "title": "Germany asks Apple and Google to pull DeepSeek AI app over data privacy concerns - 9to5Mac",
+      "pubDate": "Fri, 27 Jun 2025 22:15:00 GMT"
     }
   ],
   "climate": [
@@ -2276,10 +2280,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine released a video of a cheap drone capturing a soldier and escorting him on its own - Business Insider",
-      "pubDate": "Fri, 20 Jun 2025 06:47:00 GMT"
-    },
     {
       "title": "Russian drones slam into 2 Ukrainian cities, killing at least 1 person in nighttime attack - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 20 Jun 2025 10:28:26 GMT"
@@ -3475,6 +3475,10 @@
     {
       "title": "Trump Throws Temper Tantrum, Launches New Trade War With Canada - The New Republic",
       "pubDate": "Fri, 27 Jun 2025 19:24:39 GMT"
+    },
+    {
+      "title": "Canadian businesses seek certainty in US tariff war - BBC",
+      "pubDate": "Sat, 28 Jun 2025 01:43:26 GMT"
     }
   ],
   "cybersecurity": [
@@ -3885,6 +3889,10 @@
     {
       "title": "\u201cWe\u2019re Bleeding Cash\u201d: Starship Explosion Pushes SpaceX Closer to Collapse as Elon Musk Faces Historic Financial Meltdown - Rude Baguette",
       "pubDate": "Wed, 25 Jun 2025 21:05:08 GMT"
+    },
+    {
+      "title": "Elon Musk claims Tesla delivered its first car fully autonomously from factory to customer - Electrek",
+      "pubDate": "Fri, 27 Jun 2025 22:23:00 GMT"
     }
   ],
   "cancer": [
@@ -4477,6 +4485,10 @@
     {
       "title": "Senate GOP unlikely to release revised megabill text Monday - Politico",
       "pubDate": "Mon, 23 Jun 2025 15:07:08 GMT"
+    },
+    {
+      "title": "Senate votes down measure restricting Trump from further military action in Iran - CBS News",
+      "pubDate": "Sat, 28 Jun 2025 01:30:21 GMT"
     }
   ],
   "fbi": [
@@ -4605,6 +4617,12 @@
     {
       "title": "American Airlines operations returning to normal after widespread computer outage - CNN",
       "pubDate": "Fri, 27 Jun 2025 19:19:00 GMT"
+    }
+  ],
+  "amazon": [
+    {
+      "title": "Amazon, Google, Meta, and Uber slapped with $2 billion retroactive tax bill as Trump suspends Canada trade talks - Fortune",
+      "pubDate": "Sat, 28 Jun 2025 00:17:00 GMT"
     }
   ]
 }
