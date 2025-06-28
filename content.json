@@ -1,72 +1,62 @@
 {
-  "Artificial Intelligence": {
+  "China": {
     "articles": [
       {
-        "title": "OpenAI renting Google TPUs sends a strong warning shot to Microsoft - the-decoder.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ182OTNGTXgxeUxfcUIzOVhxV1lheDJScUxCenBaZHFGa29aSTNRNU41Nkt3bXlBc3Znb2E5ZUxKdWZhNGo3aXprT1NSem01YjNfNUNRT3lCbktTME5hMzg1cmJZbG9QSFI1Vm96OXRXVTRHRVpXdzl1MmZIWDhuRll6bURITk41cmpMc2lYa0dTcXRhbnQ4?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 07:43:11 GMT"
+        "title": "Why is China building AI centres on the roof of the world? - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMktxaXg3S0tHVWNpX1otVE9BRkRiUkEzeF83REdMekcxOUlQSm4yQ3F4eEItNDBkUjh2VUtlNHJ2XzM5MkJOajM1SWxxa1NncTFPLXhZclkzUVJjVUJZVjlaQXh6SXIyZFRheXhRWG0ycEkxMzNlMFJUY19WSEs2aUpzbmpFbnA2d2FzV1pTZ0pIVmozam96SW0wYUvSAZwBQVVfeXFMTm11VF9CZmRKOGw4aWpMWWQ5MXlMbm9oNU51RVo3ZE5sLVhrQ3B0VE82ZnUyRC1wbUNPYVpCT0VsWmtzNUlQSUNsRmRMZm8xaTlZdWF5QmQ2Z1p1TEVFeVE3UUVabmRuZ19ISFFvRXZDQl81cFVSVzc1WksxVldHa2FLNm9fb2JjdUdCdFNic21TcFhMek9Mdk4yQXpf?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 08:00:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
   },
-  "Astronomy": {
+  "Trade War": {
     "articles": [
       {
-        "title": "A mysterious mineral in asteroid Ryugu may rewrite planetary history - ScienceDaily",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJbWxKRkdYTVFuYjZWSnFNOVo4YXk5T3Fkd2NxbkJsQ1Fpdlp0N2pYa0lrc0pZU1hCN21KOGtjaW1qWWQySVNyLXJUaGs0V24zNm1Jc2s2a1Y4VkJwbXZJQmVfZ1EwZEZOZnRXRWVB?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 06:30:15 GMT"
+        "title": "Trump mounts a new trade war with Canada - MSNBC News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEtrNlQybW1CdmdadVZGM0ZEeXptblptZjMzT1dBQ3Fhb2RnM0NBSGpqUmJxaGpUWGI1TEt5d1FOUnJXZ2o5NTRjMl9jWTh0bjBJTFpSaDZUWkU0Z3BhRTU4X1ZaYzd3QVE0VjVVeWlMYW5Bak8yNTNHeHZyNC1IR1o5RU16ZUVvTHl4YkRaVzVaTEViV0HSAWRBVV95cUxPM2FySWItbGpyVjNGZEw1V2hXck1ad2V4NEN4LV9IUUtfTXg2Rm9DVGFxNUdFYzNmV0laOWt4Z3JfM3kzSlkza0JqdjdYcEU3V0loZGt5ckNfWXJkbHdubTFTYUN1?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 04:00:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
+  },
+  "Health Care": {
+    "articles": [
+      {
+        "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeTktNElVclptZ1dkU01uNkFJakRkc2lLd1ozRWp6dDlhblNxdmVYM2ZKM0M3QnVZeG5pdFlMbTJLSXhPSGpYN0R3MU1qT042bEpKWkdrVW5VY0duUTk5d2RKZmlxQTdqVkhwNzBWNzFZVmx2cU9JOGxTdVdkUQ?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 03:50:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Israel strikes Lebanon in one of biggest attacks since November ceasefire - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OMGtTLU1KbkhRRFFuY3prTUtaazBvYTd3THZuZkpFRl8tVmdqRWd4aDZsSFV1TklTWEJsVnJ0dEFELXNnVW0zVVRBMlV2NHQtQ3BjcmJHblF3ZHNXZzBtSTVsUjRrTFBRNHpwalZNZGZnOXgwcHZuak93?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 02:37:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump says he'll expect next Fed chair to cut rates - Axios",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nYTAwa1ZNd09zWDZvY3JJOW01MW9jOEtEYkpHeVh1NmRuc2labENNNVVtSWszeWtRd2RpZmRqSlhfdlgzOTZqZm9OLTVhVEpycV9jM2NZb2EwWXlRQ2F0TEY0SFFucmxqeVdNa09wYUtwSWl4MkE?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 03:49:54 GMT"
+        "title": "A fourth judge has blocked a Trump executive order targeting elite law firms - NPR",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkZDNlpBSHRmZFUtdVA4SkJmLWJGY2xEbHpuTDhPTjlDUlhUVzcwUU5sRkx2NjBSNjQwVzJuMFMxY3owaUJJWlh4WENoVU1FaHJYamhVdWdvZVZjdDhmWi02Y0hOandldTRXdDlRU3pmakVjeENRRDNUNkZwWU82OHRBZng?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 23:36:21 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
   },
-  "US Politics": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "US Senate rejects bid to curb Trump's Iran war powers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlFfSmZVQzFaZ3BnUkxKUVdUWmhTZGtOZzE3bHozam1MbjN1OGl6S2xMZGFCX2x2Z090eWVFdVJNTGZKOUNkeERUTUtRdGVOdGh6NFV4REZrS0c2OHI2VWUwWGZySHJhcDBSalo3dkh4VHJ1aUdmaUJTSmktaGZfLS05cV8xT1hPdVd4WWxhb0ZKNTlseXZNMkJB?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 23:40:34 GMT"
+        "title": "Trump says he won't appoint anyone to Fed who doesn't back rate cuts - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY1QyZGZfaWtBT2dLNk1NWHg1a1RWSWNxNHF6SzZJZ1dhd3N1X1dQZlFGVUpJYjVNSkFjVy1Dclh1NUJ6YzBmeG5TanhUY1ZhOWd6cXJIMWhMb0RPZWcweS1UZGRUZ3E0M2V1UlhWMkVHc1N5Q1RheGFwUUxDS1NLRFRlY1piZjZjd2dJZll6MUxpTmtEclJCejBURE5namkwT3lKWDFuVmVvdjVf?oc=5",
+        "pubDate": "Fri, 27 Jun 2025 23:17:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
-  },
-  "US Supreme Court": {
-    "articles": [
-      {
-        "title": "\u2018Explosive\u2019: US Supreme Court deals blow to those challenging Trump\u2019s power - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODBlY3hPNWJ2UkRDS2hyb1pDUlhIa0MwbENNWVlnMGk4QXBySjdkLVphQWJuVnpjcE82MV9LbHpjTXhualJZN0RuOG1tYVNJMEVLSWFhbzExY3pXMUhaUHd4RUZVZ3JITEtMOUU1N1Z5eVY0Y0JqNy05RXB3aXJxbVE1ZjRTeGs0V3p2THl4aHdsLVZXQ3lGY2JzLXVYYXpwZ0pwQ0ptTWkwenBfRktjRk9B0gG3AUFVX3lxTFBFTVhlR0diSXIyamJEWEtDdW1jUE4yaDBrV0FZM0NkYWFRckJKdW80ek8wNzA4dDdUVUhKM0RnZE9RT2M4RS1Pa0hvUUZhWjIyUklVQ1d2ZjdnRWdHNFVRdHRZeS1qUlk4cElSNUVfUG1YVWVYNTl2clRoOUNQU0hxWXdzLThyNm5BVmJmUllwVG5rajhEYlRWV05uYW0xcWwtVlY3dXc1Vm9lNTQ0d3hfR1l0bWR6dw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 21:56:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "S&P 500 closes at record high, marking a sharp snapback after stocks plunged in April - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmEyNnNIRTByY0FxMHU1TmZVMmExSEZ1V1NxSXJ2SHVQdjc1d2VKWHhIZGJYdFk2U1YtWHRDcjFDWklOTmlJQk94Z0ZJNFNXRFFubkhNVGxNdk1sdWhKSy1VeHZCMGFYVEJ2VkhjakY2VEh3aTJaV0w3dUd2VkZnOdIBhgFBVV95cUxQMDBMajUwSWludHRiN0F1ZHhreW9oVU9od0ZuWWZBZWJ5RF95d3h2NzlOVnZhSTRVUGdBWkxaSWh2Y1R6T1RDTkhTeFVUWm43YVVLcGNMU05Ua3ZnQXNBM29XWUxYU0tQczRkb2ZmcS1jdkl1a3JyYUNyOGZyY2lPTm44Tjk4Zw?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 21:47:06 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
-  },
-  "Fusion Power": {
-    "articles": [
-      {
-        "title": "Researchers make crucial discovery on journey toward limitless energy machine: 'A much more reliable method' - The Cool Down",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXA0WndGT2lSX244MVp6UVNUV29iTkF3U2h6QU83YlNkSE9GWkdXeUZaSnhKTTQ0SWFzZTJ1UzR2WVNCUGUweWl5SUJfVXVSWFRDbXdnWUkzUHVlTGl6YTBXZHUweVJyTTlHbTBRVkJkQmxMQVAwR3BlX0twSE1EcEVZbjEtNnM?oc=5",
-        "pubDate": "Fri, 27 Jun 2025 21:15:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T08:57:37.325228+00:00"
+    "last_updated_ts": "2025-06-28T09:57:33.045503+00:00"
   }
 }
