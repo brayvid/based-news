@@ -501,16 +501,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump criticizes \u2018non-working holidays\u2019 on Juneteenth - CNN",
-      "pubDate": "Fri, 20 Jun 2025 00:41:00 GMT"
-    },
-    {
       "title": "Juneteenth Goes Uncelebrated at White House as Trump Complains About \u2018Too Many\u2019 Holidays - The New York Times",
       "pubDate": "Fri, 20 Jun 2025 02:40:03 GMT"
-    },
-    {
-      "title": "Trump claims federal holidays cost 'billions' as Americans observe Juneteenth - Fox Business",
-      "pubDate": "Fri, 20 Jun 2025 00:14:00 GMT"
     },
     {
       "title": "Trump says U.S. has 'too many non-working holidays' on Juneteenth - NBC News",
@@ -1123,6 +1115,10 @@
     {
       "title": "Trump terminates trade talks with Canada - NBC News",
       "pubDate": "Fri, 27 Jun 2025 20:04:33 GMT"
+    },
+    {
+      "title": "Trump Eyes Cuts to Top Spy Agency as He Downplays Iran Intel - Bloomberg",
+      "pubDate": "Fri, 27 Jun 2025 18:44:32 GMT"
     }
   ],
   "russia": [
@@ -2187,6 +2183,10 @@
     {
       "title": "Using generative AI to help robots jump higher and land safely - MIT News",
       "pubDate": "Fri, 27 Jun 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Google Convinces OpenAI to Use TPU Chips in Win Against Nvidia - The Information",
+      "pubDate": "Fri, 27 Jun 2025 20:09:00 GMT"
     }
   ],
   "climate": [
@@ -2272,10 +2272,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Russia \u2018on verge of recession\u2019, Putin minister tells economic showcase - The Guardian",
-      "pubDate": "Fri, 20 Jun 2025 00:41:00 GMT"
-    },
     {
       "title": "Ukraine released a video of a cheap drone capturing a soldier and escorting him on its own - Business Insider",
       "pubDate": "Fri, 20 Jun 2025 06:47:00 GMT"
@@ -2439,6 +2435,10 @@
     {
       "title": "Ukraine's Special Operators Just Executed Another Air Base Raid in Russia\u2014And Knocked Out Four Sukhoi Fighter-Bombers - Trench Art | David Axe",
       "pubDate": "Fri, 27 Jun 2025 22:05:41 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Ukrainian special forces 'destroy bombers' at Russian airbase - as Putin plans to cut military spending - Sky News",
+      "pubDate": "Fri, 27 Jun 2025 23:49:08 GMT"
     }
   ],
   "us_economy": [
@@ -3007,6 +3007,10 @@
     {
       "title": "China tightens EV battery safety rules, led by CATL and BYD - Nikkei Asia",
       "pubDate": "Fri, 27 Jun 2025 17:11:00 GMT"
+    },
+    {
+      "title": "Deal with Beijing will speed China\u2019s export of minerals to the US, treasury secretary says - AP News",
+      "pubDate": "Fri, 27 Jun 2025 16:13:00 GMT"
     }
   ],
   "world_news": [
@@ -3287,12 +3291,10 @@
     {
       "title": "Supreme Court preserves Obamacare coverage of preventive health care - Politico",
       "pubDate": "Fri, 27 Jun 2025 14:54:34 GMT"
-    }
-  ],
-  "science": [
+    },
     {
-      "title": "Iranian missile strikes Israel\u2019s \u2018crown jewel of science\u2019 - AP News",
-      "pubDate": "Fri, 20 Jun 2025 00:38:00 GMT"
+      "title": "Live updates: Senate votes against war powers resolution; Trump ends trade discussions with Canada - NBC News",
+      "pubDate": "Sat, 28 Jun 2025 00:10:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3669,6 +3671,10 @@
     {
       "title": "Large Banks Could Easily Weather a Massive Recession, Fed's Annual Stress Test Finds - Investopedia",
       "pubDate": "Fri, 27 Jun 2025 21:44:50 GMT"
+    },
+    {
+      "title": "American Consumers Felt Worse Off in June\u2014and Fear a Recession in the Next 12 Months - Realtor.com",
+      "pubDate": "Fri, 27 Jun 2025 21:11:23 GMT"
     }
   ],
   "drones": [
@@ -3768,10 +3774,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Powell signals hawkish Fed is flying blind - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 00:30:00 GMT"
-    },
     {
       "title": "A top Fed official just joined Trump in calling for imminent rate cuts - CNN",
       "pubDate": "Fri, 20 Jun 2025 13:01:00 GMT"
@@ -4283,6 +4285,10 @@
     {
       "title": "Micron Gives Strong Forecast, Lifted by AI Computing Demand - Bloomberg.com",
       "pubDate": "Wed, 25 Jun 2025 23:03:32 GMT"
+    },
+    {
+      "title": "New electric car battery breakthrough, and its not from China: American carmaker GM forging ahead with game-changing cells that could make electric car and utes way more affordable - CarsGuide",
+      "pubDate": "Fri, 27 Jun 2025 17:00:00 GMT"
     }
   ],
   "quantum_computer": [
