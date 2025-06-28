@@ -1,72 +1,62 @@
 {
-  "Hamas": {
-    "articles": [
-      {
-        "title": "LIVE: Israel bombs heavily populated Gaza City area, at least 20 killed - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUx1ZVlpRVdnZjhSSzNURkVkMERCMGdYNktYRVlMVlB1bnNEQU1ZMzdvUjNUX2ZkT2tEWkttZVhISjBuZGZiRzI2U29sbVpmSURNQ0NST3lIT2t0ZFZvME9pNHJEUmFYRGFWS0gxVW1mRUUzaUZvMTk1bGZuTXl4YWJvSXV0cXJTSTBvSFBvOTNLb0JmXzZRR1FQTnhEWnJTVDI3eHhSSkJPUHoyQW1TeVg5TU9NMFhza0JTbFdEQ0zSAcYBQVVfeXFMTVJTQ2U3V05oMzJfUkg2ZjZnYnM5UXA5QnRCMDNmYXZTOUY5ZnlKakpLbTdtbk9WN29ScEtrbHNxYXBUbHRBTlNEWTVyc242SWNGNk5XRWVMV1VkelJMUWlBbEFvcUU4THNmbjM0MFF0bVRkeTJkRUxtUUVvUGdKcTFDUzJCQlF1NG1oTWFxY2g3dHdpNEQ4SFEyOVhKbnFYbWtHUEZsaEdTeFJjdE5zMTNyYUNmcTRZZGJrZDlDQVZPQkc1X1Rn?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 15:14:07 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
-  },
-  "Technology": {
-    "articles": [
-      {
-        "title": "Scientists make stunning breakthrough that could solve dangerous issue with modern batteries: 'Offering a built-in safeguard' - The Cool Down",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjU0QXVlUG1iX2poMUg1QWF5eUhwZXFrVFA3YWxPMjAzZDJBVUNQRVZ4bjZuX2JiY1BUTFh1cGZnTWJDV3FrSVJQTGZUVzgwZElCalprdnpaVzRiczNfZHlWZFRMUzRLYXl6UDhWNmR2WE5GeTVEbmt5N3lYa1FMN19GY0JFNS1WeEQ0cjg0STQ?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 14:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Senate Republicans make steep cuts to wind and solar in updated megabill text - Politico",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0d5WHdJcGZFc0FkVi1pUGJweHVHMWtiQ1k0X0FIV2ZOMmJmc0RyaTY1bnNCWk1UNFVEZDYwQnZtQU9pdnVGbTJwODZBV0pFLXRqdUQ1S3k2UHlyN3E3b21WU1VtNV9sMVdFa1BiWnM3YXlxYkFLSkxiTWM3OE9vNnlBeGxVUEdTdUtHSVpmTmhXWnZBbHRFOXUxcHFNRENsMV9fMFVKQzN1M1lkM2c5VHJyUHlNT2JlZm44b2VydEpERnB2S3Aya0l1ZDAtWXZUNHJabk5CQ1dyWnNE?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 13:36:20 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
-  },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "OpenAI said to have tapped Google for AI chips in a shift away from Nvidia - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fckpUd0QtdnZaVmd4MmFLQUdnM3VQQllDZ0ZjRlZMVUJZZ19RR2g5cUhoUXB2TVZla0VUcWRtMWRNQkFCQXhNb19kc0kwZ3R1OUlBR0tCZ2xFVjZqVUtCVGc0WVJrblpaVjJqQTl0U2J0RGs?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 13:16:00 GMT"
+        "title": "Meta hires four more OpenAI researchers, The Information reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTJ0cXhhOHd5WnMzV0dLR081UkcydlBYSWZ5cXl0STJ5Zl9ZcGdVbjRHSTZ3LVNUX3hyNEluNHBWbUVOT3Q3MGh2LVRQYzExT1Bnc2d5NEVsY0NDWlBCT0F6b2hWZUhaUEFyTjVaWklKbVhsVU0xY011aGRQRGhDMWROYUNmWVg2VHZpcUxJYlE3YzI1NEZBTXl0ZlJIOTZfNzViLXBiNA?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 17:06:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Canada orders China's Hikvision to close Canadian operations - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGNDak9fc01RcGh3TzN1SFNiOTRwWE1UazVyNE1PSzl4djN2RlNONjJuUWduVklldGliTUJXSjV1VDJRVGl5eDRBM3I0MXN3THl5a2ozSm1FcnFWSVc2TVoyaHNkV2YzVGQ1bVBxX0NVcmhJQnpScDVxNkwtc29Va21ja0k3UmJZd0U1eENpQnRMMnUwb3JhZzZhZmhzWWZDRHVXU2pjSmM4dXFRZFNKVGN5d3JDRW95bWY0VGtkUW5HMVE?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 11:54:26 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump wins as Supreme Court curbs judges, but may yet lose on birthright citizenship - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenAwVlFWY0FMbVZzeU9zMlZOaFlrbTljOTh2aE9QQThBUHQzMjZUa3RjbTd2NUVlV2FFbWVlSkJVemt6ZjJMSUJLQVpLeW1DRVNDSEtnUHdSNVNWRFM0R2wxY29SNXppb0JtelV4ZUJfUG5CTUFWOHNzVmtnNEpMMC1ocUp0WG43MzVMRHgteDZzR3pfZTgtNHpSNFIxNDM3emxxd3M3cF9XTjZENnVTVW1VVFMxSVFpX3c?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 10:07:54 GMT"
+        "title": "Trump on a high after 'tremendous' wins at home and abroad - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaHBwYmQ3QTk2eWxsa3dpR0JLVVpUeWRZLUREU3FOTExOdFZMTEx2OThBMldNWjk2V0FZaHJJOGZJLTFDVzZ5dkpVbW4zR1VydEhEdGJBMzduZ9IBX0FVX3lxTE5yOXptY1JTM1VNMmpqb0d2aEVCX2w2c3dTVWxyc01BMFJHWjhOOWw0UDVSOW5sRUo2NXhWd1ZrLTRjdzB6SHM3UHdGcUhMZWphSnNsZm5CUXhUdUlkV0I4?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 13:48:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
   },
-  "US Economy": {
+  "World News": {
     "articles": [
       {
-        "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFBDSlo4cTRCVTlfWTdoclFCMUN3aTlObVdPaFZEVFZjd3Q4OU9sTkNQZENkelVTN0hqWXVWbjVqaEpUdENYdkxqNHZ5dE1idkhybDRRVE4tRDVhVGc1aFA0OXZRMlNOb0l0cFdXbUJILUNvMzBRblYtS3ZsSXZ2RjFOMzlOcUNZeHdmeTBlTmhVLUFMVmwyaHg4endzNkU?oc=5",
-        "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
+        "title": "US Used 20% Of Its THAAD Missiles To Defend Israel For 12 Days: Report - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFRkclNYS3l5WVRqTTJHYW9ENGtqd2pFb2VJVFpHbXJHcFBnUmRWbElHcS1XTENvbzhGankzcy1aRTctc2hQQjJEWW1BRGZDVXVQVDJFQjJTZmxvUzhsYi15SURndVFRLVZranlkLXdBZVFnRGdLRS0wLUxPNUU5THdaLWRCMElRRktIa0RNZGlobDdUZFdnUDMyX2l4ZEcwd25BazNHUGoxZWg4V0paSGk5YW3SAbwBQVVfeXFMUHRiWGhGVUlsWmczOTRsQ1pIV083Mmp2MWZxY1JFMmpnR2lnNUZzUUtieWlzYks1WlA2a3NFc3RkSW9oNF81YnhubHlKcm0zT2lTYjNZanpZNHk1YjZpLVhwSDVXSnZKRVRQTXFSOXF5RlY1amt1cGdCV3dHcHYtTUluT283U056YTlrNUUtZTJ5RUVBTEJjVVFjaUhkLWk1RW9scmFWWEt0b0x5T3haRE1HMV9jUU1aWW5kckI?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 12:35:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-28T16:58:13.472355+00:00"
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "How China could shut down auto factories around the world - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0Z5YVpBVE9Ib2NuWFNqemtoSEIzZ0RXUHpMMUxoQ2FhU21QOFp0RXFCLU9VWS1DYmtIdEN1TFE1YjA0LVVFbEFYd1BQMms2V1FvSU5ubEZyR0lxUElIMHBBZXRwa0o4X3c0ajhZcnBWd2g5dG9hZy1oY0x0a2NtM19wYWNmd1N2MUIyTzV4bUJmODljSEZ0TDJR0gGfAUFVX3lxTE5FTzNjMlFpeVJZbUpaZDU2eGJyTFdWYUJJbzNLcndDTXJ6N3dIeVNjdl9tZzRhVjNkQWk3cFhvYTlkUEdNbnk0WVphVHBwa2pKc1o4UGI1SlFOSmpRSWN5X0N6STRGc0t1TXBIaUs2STdpaE5CdldsdEdzNlY0TUJGZmJsVWV4d2pGSzFzUzFBci10R1hPaWk3MWFaQktJVQ?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 12:00:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Senate aims to hold initial vote today on Trump's \"big, beautiful bill\" - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Bd2pheFV0LUpXcVp2Y0VLa2o5SF9TXzAzOTY1cElQX3pCUnBRSHBEb3k3UEk1dDdVY1g3T3luWThSdHlzU055OWc0cDJUNThxSXg5b0NMcThpV21yTTdhdS1DdHBiMGpuS1Z5T05qcGhoajVWS2w3LUdrTVjSAYIBQVVfeXFMUGMxb3o3ODIwQ3ZQNlFsWEU3SEhyQkRSdFdrOHJRVjc5bjEtSUdJMDFmeDhSenRvTUhSUDh5VGRvR2c5OXpqX1J3WjZBY1lCZFB0enpUUVA4RFZTS29xRjRjajBxTkNMY3MxOTNlYTd5N25laGQ2SE81Q0czTmxrd2JJZw?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 11:05:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
+  },
+  "Recession": {
+    "articles": [
+      {
+        "title": "Gen Zers Convinced They Can Predict a Recession\u2014It's Not Going Well - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSm9UVlN5MXdTRng0UXRKVWZIV1FWeDlMQnpha1RvN2NxTU9ydVFSVGU3R215YWFSUWd3VFQ1Q2FwWnhnbEhlT3pTQWwwTmxnU29IQ0RzbGZoV3A0aVJqTHJrQkF4R2JUeVpGWnRmbVllblJmLWswLTd0ZHVNbGd0dEdncw?oc=5",
+        "pubDate": "Sat, 28 Jun 2025 08:00:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-28T17:58:32.954451+00:00"
   }
 }
