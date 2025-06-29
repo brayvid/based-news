@@ -1193,6 +1193,10 @@
     {
       "title": "Russia Fires 60 Missiles, 477 Drones and Decoys - Newser",
       "pubDate": "Sun, 29 Jun 2025 20:50:00 GMT"
+    },
+    {
+      "title": "Moscow's Top Spy Dials CIA After Russia's 500+ Missile Attack On Ukraine; Zelensky Sidelined? - Times of India",
+      "pubDate": "Sun, 29 Jun 2025 16:53:37 GMT"
     }
   ],
   "ai_safety": [
@@ -1524,10 +1528,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Elon Musk Says XAI Will Retrain Grok: 'Far Too Much Garbage' - Business Insider",
-      "pubDate": "Sat, 21 Jun 2025 22:29:00 GMT"
-    },
     {
       "title": "Encountered a problematic response from an AI model? More standards and tests are needed, say researchers - CNBC",
       "pubDate": "Sun, 22 Jun 2025 06:00:46 GMT"
@@ -2181,6 +2181,10 @@
     {
       "title": "Wildfire risks as climate change fuels extreme heatwave in Southern Europe - Al Jazeera",
       "pubDate": "Sun, 29 Jun 2025 20:19:21 GMT"
+    },
+    {
+      "title": "Scientists issue warning over concerning phenomenon observed in Antarctica: 'Understanding their future patterns is crucial' - The Cool Down",
+      "pubDate": "Sun, 29 Jun 2025 11:15:16 GMT"
     }
   ],
   "ukraine": [
@@ -2935,6 +2939,10 @@
     {
       "title": "China to invite Trump to Sept. military parade marking WWII victory - Kyodo News+ | Japan's leading news agency.",
       "pubDate": "Sun, 29 Jun 2025 12:07:06 GMT"
+    },
+    {
+      "title": "One American\u2019s Two-Year Quest to Move His Business Out of China - WSJ",
+      "pubDate": "Sun, 29 Jun 2025 15:30:45 GMT"
     }
   ],
   "world_news": [
@@ -3255,6 +3263,10 @@
     {
       "title": "Senate Gridlock and Investment: Navigating Political Risks in Healthcare and Infrastructure - AInvest",
       "pubDate": "Sun, 29 Jun 2025 18:11:49 GMT"
+    },
+    {
+      "title": "Senate opens debate on Trump\u2019s bill estimated to add $3.3tn to US debt - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 22:34:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3703,6 +3715,10 @@
     {
       "title": "Trump calls for a deal on Israel's war in Gaza, as signs of progress emerge - NPR",
       "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
+    },
+    {
+      "title": "Trump calls for a Gaza ceasefire deal as some Palestinians are skeptical - AP News",
+      "pubDate": "Sun, 29 Jun 2025 20:09:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3740,10 +3756,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Earthquake of magnitude 6 strikes off coast of Hokkaido in Japan | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Sat, 21 Jun 2025 22:02:00 GMT"
-    },
     {
       "title": "Magnitude 5.7 earthquake strikes between Dominican Republic and Puerto Rico - BNO News",
       "pubDate": "Tue, 24 Jun 2025 03:03:38 GMT"
@@ -4571,6 +4583,12 @@
     {
       "title": "Sen. Chris Murphy says it's 'clear' Trump's strikes on Iran are 'illegal' - NBC News",
       "pubDate": "Sun, 29 Jun 2025 14:39:10 GMT"
+    }
+  ],
+  "openai": [
+    {
+      "title": "Meta's AI Talent War: A Strategic Gamble with Implications for Investors - AInvest",
+      "pubDate": "Sun, 29 Jun 2025 21:34:39 GMT"
     }
   ]
 }
