@@ -119,13 +119,13 @@
     {
       "title": "Live updates: Iran to hold state funeral for officials killed by Israeli strikes - CNN",
       "pubDate": "Sat, 28 Jun 2025 11:10:00 GMT"
+    },
+    {
+      "title": "Updates: Israel kills 60 in Gaza, medics search for survivors in al-Tuffah - Al Jazeera",
+      "pubDate": "Sat, 28 Jun 2025 20:20:34 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Iran rules out new nuclear talks until attacks stop - BBC",
-      "pubDate": "Sat, 21 Jun 2025 01:03:33 GMT"
-    },
     {
       "title": "LIVE: Israel attacks Isfahan nuclear site; Iran fires more missiles - Al Jazeera",
       "pubDate": "Sat, 21 Jun 2025 08:14:47 GMT"
@@ -449,21 +449,13 @@
     {
       "title": "A week of shifting descriptions of Iran attack spark ongoing questions about extent of damage and goals - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 18:45:08 GMT"
+    },
+    {
+      "title": "Iran crackdown deepens with speedy executions and arrests - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 28 Jun 2025 23:37:30 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says \"maybe\" he'll try to fire Fed chief Jerome Powell - CBS News",
-      "pubDate": "Sat, 21 Jun 2025 01:31:33 GMT"
-    },
-    {
-      "title": "Trump news at a glance: Day of environmental setbacks across US after judicial and executive decisions - The Guardian",
-      "pubDate": "Sat, 21 Jun 2025 01:00:30 GMT"
-    },
-    {
-      "title": "Trump indicates he\u2019s disinclined to restrain Israel \u2018when it\u2019s winning\u2019 against Iran - The Times of Israel",
-      "pubDate": "Sat, 21 Jun 2025 01:22:52 GMT"
-    },
     {
       "title": "Musk Accuses Trump Aide of Federal Crime as Feud Explodes - The Daily Beast",
       "pubDate": "Sat, 21 Jun 2025 06:33:00 GMT"
@@ -1079,6 +1071,10 @@
     {
       "title": "Senate begins vote to open debate on Trump\u2019s spending bill \u2014 with support still unclear - CNN",
       "pubDate": "Sat, 28 Jun 2025 23:39:00 GMT"
+    },
+    {
+      "title": "Trump torches Fed, Biden \u2013 calls debanking \u2018very dangerous\u2019 for U.S. economy - InsuranceNewsNet",
+      "pubDate": "Sat, 28 Jun 2025 14:08:14 GMT"
     }
   ],
   "russia": [
@@ -2943,6 +2939,10 @@
     {
       "title": "Tesla Has Big Plans in China - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 28 Jun 2025 17:00:00 GMT"
+    },
+    {
+      "title": "China\u2019s rare earth curbs spur overseas projects, says US developer - South China Morning Post",
+      "pubDate": "Sun, 29 Jun 2025 01:30:10 GMT"
     }
   ],
   "world_news": [
@@ -3259,6 +3259,10 @@
     {
       "title": "Senate GOP tweaks health care measures in tax bill to win holdouts, please parliamentarian - STAT",
       "pubDate": "Sat, 28 Jun 2025 17:57:03 GMT"
+    },
+    {
+      "title": "Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline - The Guardian",
+      "pubDate": "Sat, 28 Jun 2025 22:04:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3358,10 +3362,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "US evacuates 79 staff and family from embassy in Israel as more Americans ask how to leave - WTAJ",
-      "pubDate": "Sat, 21 Jun 2025 01:01:46 GMT"
-    },
     {
       "title": "U.S. enters war between Israel and Iran - CNBC",
       "pubDate": "Sun, 22 Jun 2025 00:08:00 GMT"
@@ -3801,13 +3801,13 @@
     {
       "title": "Elon Musk claims Tesla delivered its first car fully autonomously from factory to customer - Electrek",
       "pubDate": "Fri, 27 Jun 2025 22:23:00 GMT"
+    },
+    {
+      "title": "Musk condemns latest Senate bill that would 'destroy millions of jobs,' raise taxes on wind, solar projects - Fox Business",
+      "pubDate": "Sat, 28 Jun 2025 22:28:00 GMT"
     }
   ],
   "cancer": [
-    {
-      "title": "A game-changer in cancer research? South Korean scientists reprogram tumour cells without chemotherapy or - Times of India",
-      "pubDate": "Sat, 21 Jun 2025 01:39:00 GMT"
-    },
     {
       "title": "Scientists May Have Finally Figured Out How Bats Avoid Cancer - ScienceAlert",
       "pubDate": "Sat, 21 Jun 2025 12:01:11 GMT"
@@ -4393,6 +4393,10 @@
     {
       "title": "Researchers make crucial discovery on journey toward limitless energy machine: 'A much more reliable method' - The Cool Down",
       "pubDate": "Fri, 27 Jun 2025 21:15:00 GMT"
+    },
+    {
+      "title": "French fusion reactor stuns world by sustaining nuclear reaction for 22 minutes in breakthrough energy milestone - Glass Almanac",
+      "pubDate": "Sat, 28 Jun 2025 14:30:15 GMT"
     }
   ],
   "us_senate": [
