@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Iran\u2019s Revolutionary Guards say \u2018vast wave\u2019 of drones launched at Israel - The Times of Israel",
-      "pubDate": "Sat, 21 Jun 2025 21:22:00 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: Trump to address the nation after US bombs nuclear sites in Iran - Reuters",
       "pubDate": "Sun, 22 Jun 2025 01:07:55 GMT"
     },
@@ -119,6 +115,10 @@
     {
       "title": "Tens of thousands flee Gaza City after Israel warns of major offensive - The Guardian",
       "pubDate": "Sun, 29 Jun 2025 17:29:00 GMT"
+    },
+    {
+      "title": "Israeli strike on Iranian prison killed more than 70, says Iran state-affiliated media - CNN",
+      "pubDate": "Sun, 29 Jun 2025 12:51:00 GMT"
     }
   ],
   "iran": [
@@ -1067,13 +1067,13 @@
     {
       "title": "Trump reiterates Iran nuclear talking points despite swirling questions - Al Jazeera",
       "pubDate": "Sun, 29 Jun 2025 17:39:50 GMT"
+    },
+    {
+      "title": "Trump suggests he\u2019ll target journalists to find out who leaked negative report on Iran strikes - New York Post",
+      "pubDate": "Sun, 29 Jun 2025 14:38:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia says ready to supply LNG to Mexico - Yahoo",
-      "pubDate": "Sat, 21 Jun 2025 21:09:26 GMT"
-    },
     {
       "title": "Russia condemns \u2018irresponsible\u2019 US strikes on Iran as a \u2018dangerous escalation\u2019 - The Times of Israel",
       "pubDate": "Sun, 22 Jun 2025 11:27:58 GMT"
@@ -1189,6 +1189,10 @@
     {
       "title": "Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea - The Guardian",
       "pubDate": "Sun, 29 Jun 2025 06:48:00 GMT"
+    },
+    {
+      "title": "Russia Fires 60 Missiles, 477 Drones and Decoys - Newser",
+      "pubDate": "Sun, 29 Jun 2025 20:50:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1520,10 +1524,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The AI Breakthrough Breathing Fresh Life Into EV Batteries - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sat, 21 Jun 2025 21:00:00 GMT"
-    },
     {
       "title": "Elon Musk Says XAI Will Retrain Grok: 'Far Too Much Garbage' - Business Insider",
       "pubDate": "Sat, 21 Jun 2025 22:29:00 GMT"
@@ -2107,6 +2107,10 @@
     {
       "title": "Inside Chanakya Thunuguntla\u2019s Plan to Rebuild the U.S. Workforce with Artificial Intelligence - USA Today",
       "pubDate": "Sun, 29 Jun 2025 20:03:47 GMT"
+    },
+    {
+      "title": "China's biggest public AI drop since DeepSeek, Baidu's open source Ernie, is about to hit the market - CNBC",
+      "pubDate": "Sun, 29 Jun 2025 16:19:14 GMT"
     }
   ],
   "climate": [
@@ -2173,6 +2177,10 @@
     {
       "title": "Trump\u2019s Big Beautiful Bill Will Destroy America\u2019s Climate Progress - Rolling Stone",
       "pubDate": "Sun, 29 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Wildfire risks as climate change fuels extreme heatwave in Southern Europe - Al Jazeera",
+      "pubDate": "Sun, 29 Jun 2025 20:19:21 GMT"
     }
   ],
   "ukraine": [
@@ -3243,13 +3251,13 @@
     {
       "title": "Thom Tillis, Republican Senator, Won\u2019t Seek Re-election Amid Trump\u2019s Primary Threats - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 18:12:31 GMT"
+    },
+    {
+      "title": "Senate Gridlock and Investment: Navigating Political Risks in Healthcare and Infrastructure - AInvest",
+      "pubDate": "Sun, 29 Jun 2025 18:11:49 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "Republican Party has nearly five times more cash on hand than the Democrats - CNBC",
-      "pubDate": "Sat, 21 Jun 2025 21:12:14 GMT"
-    },
     {
       "title": "Democrats say they were left in dark about plans for US strikes on Iran - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 14:31:00 GMT"
@@ -3320,10 +3328,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea delivers a show of force with rocket launches after US air drills - New York Post",
-      "pubDate": "Sat, 21 Jun 2025 21:03:00 GMT"
-    },
     {
       "title": "Why Trump\u2019s bombing of Iran will only bolster North Korea\u2019s nuclear resolve - The Independent",
       "pubDate": "Tue, 24 Jun 2025 12:31:00 GMT"
@@ -3563,6 +3567,10 @@
     {
       "title": "Fed Stress Test Reveals Big Banks Can Withstand Deep Recession, Maintain Lending - CU Today",
       "pubDate": "Sun, 29 Jun 2025 13:50:23 GMT"
+    },
+    {
+      "title": "Fed Stress Test 2024: US Banks Can Withstand Severe Recession, Says Report - NewsX",
+      "pubDate": "Sun, 29 Jun 2025 20:29:00 GMT"
     }
   ],
   "drones": [
@@ -3735,10 +3743,6 @@
     {
       "title": "Earthquake of magnitude 6 strikes off coast of Hokkaido in Japan | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Sat, 21 Jun 2025 22:02:00 GMT"
-    },
-    {
-      "title": "Japan's Hokkaido Region Hit By 5.7 Magnitude Earthquake - Republic World",
-      "pubDate": "Sat, 21 Jun 2025 21:47:09 GMT"
     },
     {
       "title": "Magnitude 5.7 earthquake strikes between Dominican Republic and Puerto Rico - BNO News",
