@@ -115,13 +115,13 @@
     {
       "title": "At least 66 children dead of malnutrition in Gaza as Israel tightens siege - Al Jazeera",
       "pubDate": "Sun, 29 Jun 2025 01:18:45 GMT"
+    },
+    {
+      "title": "Tens of thousands flee Gaza City after Israel warns of major offensive - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 17:29:00 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "U.S. Begins Moving B-2 Bombers, as Trump Weighs Attack on Iran - WSJ",
-      "pubDate": "Sat, 21 Jun 2025 17:37:00 GMT"
-    },
     {
       "title": "US strikes 3 Iranian sites, joining Israeli air campaign against nuclear program - AP News",
       "pubDate": "Sun, 22 Jun 2025 01:38:00 GMT"
@@ -424,14 +424,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "A $250 bill and \u2018WMAGA\u2019: GOP lawmakers push legislation honoring Trump - The Washington Post",
-      "pubDate": "Sat, 21 Jun 2025 17:00:15 GMT"
-    },
-    {
-      "title": "Is Donald Trump an Antagonist or Champion of the Gay Community? - The New York Times",
-      "pubDate": "Sat, 21 Jun 2025 17:48:48 GMT"
-    },
     {
       "title": "Trump admin live updates: JD Vance visits LA amid tension over immigration policies - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 21 Jun 2025 18:17:00 GMT"
@@ -1059,6 +1051,10 @@
     {
       "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
       "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
+    },
+    {
+      "title": "Trump threatens to cut off New York City funds if Mamdani \u2018doesn\u2019t behave\u2019 - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 17:30:00 GMT"
     }
   ],
   "russia": [
@@ -1255,17 +1251,13 @@
     {
       "title": "Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails - Amazon.com",
       "pubDate": "Thu, 26 Jun 2025 22:41:26 GMT"
+    },
+    {
+      "title": "AI Gone Rogue: When Machines Lie, Scheme, and Threaten - OpenTools",
+      "pubDate": "Sun, 29 Jun 2025 13:09:33 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "The Longer the Stock Market Waits, the More Fragile It Looks - MSN",
-      "pubDate": "Sat, 21 Jun 2025 17:08:26 GMT"
-    },
-    {
-      "title": "Choppy markets are set to continue for the markets - The Berkshire Eagle",
-      "pubDate": "Sat, 21 Jun 2025 17:00:00 GMT"
-    },
     {
       "title": "Investors brace for oil price spike, rush to havens after US bombs Iran nuclear sites - USA Today",
       "pubDate": "Sun, 22 Jun 2025 02:43:21 GMT"
@@ -2177,10 +2169,6 @@
   ],
   "ukraine": [
     {
-      "title": "'Ukrainian drones for the foot of every Russian soldier' \u2014 Zelensky responds to Putin's threat to conquer all Ukraine - The Kyiv Independent",
-      "pubDate": "Sat, 21 Jun 2025 17:40:38 GMT"
-    },
-    {
       "title": "One million and counting: Russian casualties hit milestone in Ukraine war - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 05:00:00 GMT"
     },
@@ -2383,13 +2371,13 @@
     {
       "title": "Ukraine F-16 pilot killed in large-scale Russian attack, Zelenskiy calls for US help - Reuters",
       "pubDate": "Sun, 29 Jun 2025 11:42:44 GMT"
+    },
+    {
+      "title": "Ukraine loses an F-16 pilot and his jet while fighting one of Russia\u2019s biggest ever aerial attacks - CNN",
+      "pubDate": "Sun, 29 Jun 2025 15:00:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Top economist who previously sounded the alarm on tariffs sees a possible scenario where Trump 'outsmarted all of us' - Fortune",
-      "pubDate": "Sat, 21 Jun 2025 17:06:00 GMT"
-    },
     {
       "title": "US joins Israel-Iran war: How Russia, China, Tehran, other world media reacted \u2014 \u2018American recession will be next\u2019 - Mint",
       "pubDate": "Sun, 22 Jun 2025 04:30:47 GMT"
@@ -2611,10 +2599,6 @@
     {
       "title": "Hong Kong Stock Rally Shakes Up Investor Playbook for China - Bloomberg.com",
       "pubDate": "Sun, 22 Jun 2025 00:00:00 GMT"
-    },
-    {
-      "title": "New study reveals that China has made unprecedented moves in its overseas investments: 'They don't have any choice' - The Cool Down",
-      "pubDate": "Sat, 21 Jun 2025 17:30:00 GMT"
     },
     {
       "title": "China\u2019s rolls out \u2018property supermarkets\u2019 to support ailing housing market - South China Morning Post",
@@ -4217,6 +4201,10 @@
     {
       "title": "Senate Republicans put megabill on track for likely Monday passage - Politico",
       "pubDate": "Sun, 29 Jun 2025 04:10:32 GMT"
+    },
+    {
+      "title": "Musk slams Trump megabill: \u2018Political suicide for the Republican Party\u2019 - The Hill",
+      "pubDate": "Sun, 29 Jun 2025 13:11:00 GMT"
     }
   ],
   "bitcoin": [
@@ -4247,6 +4235,10 @@
     {
       "title": "Bitcoin Surges 10% to $108,000 Amid Geopolitical Tensions - AInvest",
       "pubDate": "Sun, 29 Jun 2025 10:11:18 GMT"
+    },
+    {
+      "title": "Bitcoin Rallies 74% in 2025, Stabilizes Near $105,000 Amid Institutional Demand - AInvest",
+      "pubDate": "Sun, 29 Jun 2025 15:11:18 GMT"
     }
   ],
   "us_congress": [
@@ -4393,6 +4385,10 @@
     {
       "title": "Senate ekes out late-night win on Trump's \"big, beautiful bill\" - Axios",
       "pubDate": "Sun, 29 Jun 2025 05:25:54 GMT"
+    },
+    {
+      "title": "Senate GOP tax bill includes largest cut to U.S. safety net in decades - The Washington Post",
+      "pubDate": "Sun, 29 Jun 2025 16:41:33 GMT"
     }
   ],
   "fbi": [
