@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel says it killed veteran Iran commander as both sides attack - Reuters",
-      "pubDate": "Sat, 21 Jun 2025 07:18:36 GMT"
-    },
-    {
       "title": "Aid seekers in Gaza continue to be targeted as Israeli attacks kill 26 - Al Jazeera",
       "pubDate": "Sat, 21 Jun 2025 15:49:29 GMT"
     },
@@ -1091,17 +1087,13 @@
     {
       "title": "Elon Musk renews his criticism of Trump\u2019s big bill as Senate Republicans scramble to pass it - AP News",
       "pubDate": "Sun, 29 Jun 2025 03:38:00 GMT"
+    },
+    {
+      "title": "Trump slams Israel's prosecutors over Netanyahu corruption trial - Reuters",
+      "pubDate": "Sun, 29 Jun 2025 05:24:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin says he has repeatedly told Israel Iran has no intentions to build nuke - The Times of Israel",
-      "pubDate": "Sat, 21 Jun 2025 07:12:42 GMT"
-    },
-    {
-      "title": "Russian economy warnings are 'greatly exaggerated,' Putin claims, denies war in Ukraine 'killing' growth - The Kyiv Independent",
-      "pubDate": "Sat, 21 Jun 2025 07:32:12 GMT"
-    },
     {
       "title": "A company on Russia's doorstep that sent its war robots to Ukraine got a crash course in what soldiers need - Yahoo",
       "pubDate": "Sat, 21 Jun 2025 09:50:02 GMT"
@@ -2151,6 +2143,10 @@
     {
       "title": "AI models fake understanding while failing basic tasks - PPC Land",
       "pubDate": "Sat, 28 Jun 2025 20:46:49 GMT"
+    },
+    {
+      "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
+      "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
     }
   ],
   "climate": [
@@ -2411,6 +2407,10 @@
     {
       "title": "At least six wounded in large-scale Russian air attack on Ukraine, Ukrainian authorities say - Reuters",
       "pubDate": "Sun, 29 Jun 2025 06:37:00 GMT"
+    },
+    {
+      "title": "Russia launches biggest aerial attack on Ukraine since the start of the war - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sun, 29 Jun 2025 07:15:44 GMT"
     }
   ],
   "us_economy": [
@@ -2959,13 +2959,13 @@
     {
       "title": "China\u2019s humanoid robots generate more soccer excitement than their human counterparts - AP News",
       "pubDate": "Sun, 29 Jun 2025 04:29:00 GMT"
+    },
+    {
+      "title": "China warns countries not to sign US trade deals at its expense - South China Morning Post",
+      "pubDate": "Sun, 29 Jun 2025 07:06:00 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "Live updates: Israel and Iran trade strikes as world leaders urge diplomacy - CNN",
-      "pubDate": "Sat, 21 Jun 2025 07:04:00 GMT"
-    },
     {
       "title": "Watch: The US has joined the Iran-Israel war. What happens now? - BBC",
       "pubDate": "Sun, 22 Jun 2025 13:58:09 GMT"
@@ -3917,10 +3917,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Industry insider explains how a massive solar company suddenly collapsed: 'Will more \u2026 companies follow suit?' - The Cool Down",
-      "pubDate": "Sat, 21 Jun 2025 07:10:00 GMT"
-    },
-    {
       "title": "GOP Sen. Chuck Grassley Defends Wind Energy After Trump Calls It \u2018Junk\u2019 - Rolling Stone",
       "pubDate": "Sun, 22 Jun 2025 01:58:16 GMT"
     },
@@ -4189,10 +4185,6 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX Starship rocket explodes as Musk\u2019s Mars ambitions grow - Cybernews",
-      "pubDate": "Sat, 21 Jun 2025 07:18:40 GMT"
-    },
-    {
       "title": "SpaceX Starship Explosion Shakes Texas Test Site and Delays Mars Mission Milestones - USA Herald",
       "pubDate": "Sat, 21 Jun 2025 13:08:46 GMT"
     },
@@ -4261,10 +4253,6 @@
   ],
   "electric_battery": [
     {
-      "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
-      "pubDate": "Sat, 21 Jun 2025 07:16:41 GMT"
-    },
-    {
       "title": "QuantumScape Stock Is Soaring. Groundbreaking EV Battery Tech Is Almost Here. - Barron's",
       "pubDate": "Wed, 25 Jun 2025 12:12:00 GMT"
     }
@@ -4281,6 +4269,10 @@
     {
       "title": "G.O.P. Can\u2019t Include Limits on Trump Lawsuits in Megabill, Senate Parliamentarian Rules - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 03:10:50 GMT"
+    },
+    {
+      "title": "Senate Republicans put megabill on track for likely Monday passage - Politico",
+      "pubDate": "Sun, 29 Jun 2025 04:10:32 GMT"
     }
   ],
   "bitcoin": [
@@ -4507,6 +4499,10 @@
     {
       "title": "Second Teenage Boy Shot and Killed in New York City in 2 Days - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 18:57:26 GMT"
+    },
+    {
+      "title": "NYC Pride March Arrives Amid Growing National Backlash - The New York Times",
+      "pubDate": "Sun, 29 Jun 2025 07:00:05 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -4583,6 +4579,10 @@
     {
       "title": "Sudden loss of key US satellite data could send hurricane forecasting back \u2018decades\u2019 - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 28 Jun 2025 21:13:26 GMT"
     }
   ],
   "computers": [
