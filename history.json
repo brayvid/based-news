@@ -1063,6 +1063,10 @@
     {
       "title": "Republican Sen. Thom Tillis will not seek reelection next year after Trump attacks - NPR",
       "pubDate": "Sun, 29 Jun 2025 19:12:00 GMT"
+    },
+    {
+      "title": "Trump reiterates Iran nuclear talking points despite swirling questions - Al Jazeera",
+      "pubDate": "Sun, 29 Jun 2025 17:39:50 GMT"
     }
   ],
   "russia": [
@@ -1188,10 +1192,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Millions now turn to chatbots for therapy\u2014but safety standards are nonexistent. - Psychology Today",
-      "pubDate": "Sat, 21 Jun 2025 20:37:19 GMT"
-    },
     {
       "title": "'Echo Chamber' Attack Blows Past AI Guardrails - Dark Reading",
       "pubDate": "Mon, 23 Jun 2025 20:29:26 GMT"
@@ -2103,6 +2103,10 @@
     {
       "title": "Nvidia shares retake AI leadership role. Wall Street is bullish going forward - CNBC",
       "pubDate": "Sun, 29 Jun 2025 11:14:32 GMT"
+    },
+    {
+      "title": "Inside Chanakya Thunuguntla\u2019s Plan to Rebuild the U.S. Workforce with Artificial Intelligence - USA Today",
+      "pubDate": "Sun, 29 Jun 2025 20:03:47 GMT"
     }
   ],
   "climate": [
@@ -2165,6 +2169,10 @@
     {
       "title": "First Signal of Climate Change Became Detectable 130 Years Ago - ScienceAlert",
       "pubDate": "Sun, 29 Jun 2025 19:01:35 GMT"
+    },
+    {
+      "title": "Trump\u2019s Big Beautiful Bill Will Destroy America\u2019s Climate Progress - Rolling Stone",
+      "pubDate": "Sun, 29 Jun 2025 14:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -2915,6 +2923,10 @@
     {
       "title": "The Iran-China-Russia Axis Crumbles When It Matters - The Atlantic",
       "pubDate": "Sun, 29 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "title": "China to invite Trump to Sept. military parade marking WWII victory - Kyodo News+ | Japan's leading news agency.",
+      "pubDate": "Sun, 29 Jun 2025 12:07:06 GMT"
     }
   ],
   "world_news": [
@@ -2944,10 +2956,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "GOP's food stamp plan is found to violate Senate rules. It's the latest setback for Trump's big bill - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 21 Jun 2025 20:57:15 GMT"
-    },
     {
       "title": "U.S. bombing Iran nuclear sites is a massive gamble by Trump - MSNBC News",
       "pubDate": "Sun, 22 Jun 2025 00:21:00 GMT"
@@ -3241,14 +3249,6 @@
     {
       "title": "Republican Party has nearly five times more cash on hand than the Democrats - CNBC",
       "pubDate": "Sat, 21 Jun 2025 21:12:14 GMT"
-    },
-    {
-      "title": "Socialist NYC mayoral candidate Zohran Mamdani once rapped about his 'love' for Hamas terror-funding group 'Holy Land Five' - New York Post",
-      "pubDate": "Sat, 21 Jun 2025 20:05:22 GMT"
-    },
-    {
-      "title": "Democrats divided over American involvement in Israel-Iran war - The Times of Israel",
-      "pubDate": "Sat, 21 Jun 2025 20:57:00 GMT"
     },
     {
       "title": "Democrats say they were left in dark about plans for US strikes on Iran - The Guardian",
@@ -3559,13 +3559,13 @@
     {
       "title": "There's Still A Chance Of Recession In 2025. What To Watch - Investopedia",
       "pubDate": "Sun, 29 Jun 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Fed Stress Test Reveals Big Banks Can Withstand Deep Recession, Maintain Lending - CU Today",
+      "pubDate": "Sun, 29 Jun 2025 13:50:23 GMT"
     }
   ],
   "drones": [
-    {
-      "title": "Dramatic footage: Watch the moment an Iranian drone hit an apartment building in Beit She'an - Ynetnews",
-      "pubDate": "Sat, 21 Jun 2025 20:56:42 GMT"
-    },
     {
       "title": "Israeli drones destroy 15 Iranian warplanes across multiple bases, IDF says - Ynetnews",
       "pubDate": "Mon, 23 Jun 2025 06:19:30 GMT"
@@ -3817,12 +3817,6 @@
     {
       "title": "A Mysterious Blob of Cold Water Defies Ocean Heat \u2013 Now We Know Why - ScienceAlert",
       "pubDate": "Sun, 29 Jun 2025 15:00:29 GMT"
-    }
-  ],
-  "quantum": [
-    {
-      "title": "Scientists Have Finally Measured How Fast Quantum Entanglement Happens - IFLScience",
-      "pubDate": "Sat, 21 Jun 2025 20:09:04 GMT"
     }
   ],
   "space_exploration": [
@@ -4205,6 +4199,10 @@
     {
       "title": "Musk slams Trump megabill: \u2018Political suicide for the Republican Party\u2019 - The Hill",
       "pubDate": "Sun, 29 Jun 2025 13:11:00 GMT"
+    },
+    {
+      "title": "Thom Tillis won\u2019t seek re-election after clash with Trump over \u2018big beautiful bill\u2019 - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 14:32:00 GMT"
     }
   ],
   "bitcoin": [
@@ -4563,6 +4561,12 @@
     {
       "title": "Scientists analyse first samples from ancient Antarctic ice core - Australian Broadcasting Corporation",
       "pubDate": "Sat, 28 Jun 2025 22:48:46 GMT"
+    }
+  ],
+  "chris_murphy": [
+    {
+      "title": "Sen. Chris Murphy says it's 'clear' Trump's strikes on Iran are 'illegal' - NBC News",
+      "pubDate": "Sun, 29 Jun 2025 14:39:10 GMT"
     }
   ]
 }
