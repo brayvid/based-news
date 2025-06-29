@@ -123,10 +123,6 @@
       "pubDate": "Sat, 21 Jun 2025 17:37:00 GMT"
     },
     {
-      "title": "Iran Issues New Grave Warning to Trump, US: 'Very Dangerous' - Time Magazine",
-      "pubDate": "Sat, 21 Jun 2025 16:52:30 GMT"
-    },
-    {
       "title": "US strikes 3 Iranian sites, joining Israeli air campaign against nuclear program - AP News",
       "pubDate": "Sun, 22 Jun 2025 01:38:00 GMT"
     },
@@ -1059,13 +1055,13 @@
     {
       "title": "Republicans race to meet Trump\u2019s July 4 deadline for agenda bill - CNN",
       "pubDate": "Sun, 29 Jun 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
+      "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin Sending Dead Russian Soldiers to Ukraine To Hide Losses: Zelensky - Newsweek",
-      "pubDate": "Sat, 21 Jun 2025 16:20:20 GMT"
-    },
     {
       "title": "Russia has over 1,950 strategic missiles, Ukraine's military intelligence tells media - The Kyiv Independent",
       "pubDate": "Sat, 21 Jun 2025 19:19:38 GMT"
@@ -1185,6 +1181,10 @@
     {
       "title": "Russia launches record aerial attack on Ukraine - NPR",
       "pubDate": "Sun, 29 Jun 2025 11:54:23 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 06:48:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1517,13 +1517,13 @@
     {
       "title": "The Stock-Market Rally Is Moving Beyond Big Tech and Investors Are Thrilled - WSJ",
       "pubDate": "Sun, 29 Jun 2025 01:00:00 GMT"
+    },
+    {
+      "title": "A 2-month rally pushed the stock market to record highs \u2014 but watch for these risks in July - MarketWatch",
+      "pubDate": "Sun, 29 Jun 2025 16:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft and OpenAI may call off their partnership: What is the biggest reason of dispute between the tw - Times of India",
-      "pubDate": "Sat, 21 Jun 2025 16:51:00 GMT"
-    },
     {
       "title": "The AI Breakthrough Breathing Fresh Life Into EV Batteries - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 21 Jun 2025 21:00:00 GMT"
@@ -2387,10 +2387,6 @@
   ],
   "us_economy": [
     {
-      "title": "Home Depot co-founder issues warning for US economy - MSN",
-      "pubDate": "Sat, 21 Jun 2025 16:46:42 GMT"
-    },
-    {
       "title": "Top economist who previously sounded the alarm on tariffs sees a possible scenario where Trump 'outsmarted all of us' - Fortune",
       "pubDate": "Sat, 21 Jun 2025 17:06:00 GMT"
     },
@@ -2953,14 +2949,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate Official Rejects Food Aid Cuts Proposed by Republicans in Megabill - The New York Times",
-      "pubDate": "Sat, 21 Jun 2025 16:24:57 GMT"
-    },
-    {
-      "title": "Democrats are at odds over the Israel-Iran war as Trump considers intervening - AP News",
-      "pubDate": "Sat, 21 Jun 2025 16:50:00 GMT"
-    },
-    {
       "title": "What We Know About the Suspect in the Minnesota Lawmakers Shootings - The New York Times",
       "pubDate": "Sat, 21 Jun 2025 18:56:00 GMT"
     },
@@ -3247,6 +3235,10 @@
     {
       "title": "G.O.P. Bill Has $1.1 Trillion in Health Cuts and 11.8 Million Losing Care, C.B.O. Says - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 14:28:53 GMT"
+    },
+    {
+      "title": "Senate Version of Trump\u2019s Policy Bill Would Slash Medicaid Spending Even More - The New York Times",
+      "pubDate": "Sun, 29 Jun 2025 14:28:53 GMT"
     }
   ],
   "democratic_party": [
@@ -3415,10 +3407,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Internet users advised to change passwords after 16bn logins exposed - The Guardian",
-      "pubDate": "Sat, 21 Jun 2025 16:15:00 GMT"
-    },
-    {
       "title": "Massive 16 Billion Password Leak Raises Global Cybersecurity Alarms - Greater Belize Media",
       "pubDate": "Sat, 21 Jun 2025 19:09:50 GMT"
     },
@@ -3583,10 +3571,6 @@
   ],
   "drones": [
     {
-      "title": "IDF strikes in Iran target drones, F-14 jets and missiles; UAV hits home in Beit She\u2019an - The Times of Israel",
-      "pubDate": "Sat, 21 Jun 2025 15:58:58 GMT"
-    },
-    {
       "title": "Dramatic footage: Watch the moment an Iranian drone hit an apartment building in Beit She'an - Ynetnews",
       "pubDate": "Sat, 21 Jun 2025 20:56:42 GMT"
     },
@@ -3711,6 +3695,10 @@
     {
       "title": "Shin Bet: Major West Bank Hamas terror network dismantled in largest operation in years - The Times of Israel",
       "pubDate": "Sun, 29 Jun 2025 09:34:18 GMT"
+    },
+    {
+      "title": "LIVE: Israel\u2019s attacks on Gaza kill 47, including children and aid seekers - Al Jazeera",
+      "pubDate": "Sun, 29 Jun 2025 16:30:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3923,6 +3911,10 @@
     {
       "title": "80% Of Registered Voters Support Funding Renewable Energy, New Yale-GMU Study - Forbes",
       "pubDate": "Sat, 28 Jun 2025 21:30:42 GMT"
+    },
+    {
+      "title": "G.O.P. Bill Adds Surprise Tax That Could Cripple Wind and Solar Power - The New York Times",
+      "pubDate": "Sun, 29 Jun 2025 16:00:40 GMT"
     }
   ],
   "electric-vehicle_battery": [
