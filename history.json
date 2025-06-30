@@ -385,10 +385,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Opinion | Trump\u2019s Courageous Decision to Strike Iran\u2019s Nuclear Sites - The New York Times",
-      "pubDate": "Sun, 22 Jun 2025 18:29:57 GMT"
-    },
-    {
       "title": "\"It was a headfake\": Inside Trump's secret orders to strike Iran - Axios",
       "pubDate": "Sun, 22 Jun 2025 21:24:48 GMT"
     },
@@ -1035,6 +1031,10 @@
     {
       "title": "Live updates: White House urges GOP to \u2018stay tough\u2019 as Senate debates amendments to Trump\u2019s bill - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 17:39:48 GMT"
+    },
+    {
+      "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
+      "pubDate": "Mon, 30 Jun 2025 18:27:00 GMT"
     }
   ],
   "russia": [
@@ -1161,6 +1161,10 @@
     {
       "title": "Russia reportedly closes Crimean Bridge amid explosions in Kerch - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 07:08:18 GMT"
+    },
+    {
+      "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
+      "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
     }
   ],
   "ai_safety": [
@@ -2067,6 +2071,10 @@
     {
       "title": "Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors - WIRED",
       "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Microsoft unveils AI diagnosis tool in effort to transform medicine - Financial Times",
+      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
     }
   ],
   "climate": [
@@ -2947,10 +2955,6 @@
       "pubDate": "Sun, 22 Jun 2025 19:05:12 GMT"
     },
     {
-      "title": "Iran orders closure of Strait of Hormuz \u2014 putting one-fifth of world\u2019s oil supply at risk - New York Post",
-      "pubDate": "Sun, 22 Jun 2025 18:22:30 GMT"
-    },
-    {
       "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
       "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     },
@@ -3811,6 +3815,10 @@
     {
       "title": "Over 470 earthquakes rattle Japanese island chain with active volcanoes - Mint",
       "pubDate": "Thu, 26 Jun 2025 23:42:48 GMT"
+    },
+    {
+      "title": "Santorini earthquakes traced to sideways magma movement in crust, not traditional volcanic centers - Phys.org",
+      "pubDate": "Mon, 30 Jun 2025 13:10:12 GMT"
     }
   ],
   "elon_musk": [
@@ -3913,6 +3921,10 @@
     {
       "title": "Inside Operation Gold Rush, largest health care fraud bust in U.S. history - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 15:17:04 GMT"
+    },
+    {
+      "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
+      "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
     }
   ],
   "world_economy": [
@@ -3977,6 +3989,10 @@
     {
       "title": "A surprise excise tax sends the clean energy industry into panic - Latitude Media",
       "pubDate": "Mon, 30 Jun 2025 00:47:54 GMT"
+    },
+    {
+      "title": "Clean energy stocks fall as Trump bill taxes components from China, phases out credits - CNBC",
+      "pubDate": "Mon, 30 Jun 2025 13:59:04 GMT"
     }
   ],
   "electric-vehicle_battery": [
@@ -3986,10 +4002,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Cryptocurrency Live News & Updates : Crypto Market Plummets Amid Geopolitical Tensions - The Economic Times",
-      "pubDate": "Sun, 22 Jun 2025 18:45:12 GMT"
-    },
     {
       "title": "Global Tensions Trigger Cryptocurrency Crash: Bitcoin, XRP, And Dogecoin At 2-Month Lows - Benzinga",
       "pubDate": "Sun, 22 Jun 2025 19:52:03 GMT"
@@ -4317,10 +4329,6 @@
     {
       "title": "Hundreds of S.F. protesters condemn Trump, demand end to U.S. attacks on Iran - San Francisco Chronicle",
       "pubDate": "Sun, 22 Jun 2025 22:01:08 GMT"
-    },
-    {
-      "title": "Thousands attend pro-Iran protest in London, calling for hands off Iran - The Jerusalem Post",
-      "pubDate": "Sun, 22 Jun 2025 18:05:42 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -4623,6 +4631,12 @@
     {
       "title": "Why Can\u2019t Americans Sleep? - The Atlantic",
       "pubDate": "Mon, 30 Jun 2025 10:00:00 GMT"
+    }
+  ],
+  "blockchain": [
+    {
+      "title": "Robinhood Launches Stock Tokens, Reveals Layer 2 Blockchain, and Expands Crypto Suite in EU and US with Perpetual Futures and Staking - Robinhood Newsroom",
+      "pubDate": "Mon, 30 Jun 2025 15:02:25 GMT"
     }
   ]
 }
