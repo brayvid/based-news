@@ -107,10 +107,6 @@
   ],
   "iran": [
     {
-      "title": "\u2018Severe damage\u2019 at nuclear sites, Pentagon says; Iran condemns \u2018dangerous\u2019 strikes - The Washington Post",
-      "pubDate": "Sun, 22 Jun 2025 13:44:18 GMT"
-    },
-    {
       "title": "US bombing of Iran started with a fake-out - Reuters",
       "pubDate": "Sun, 22 Jun 2025 15:30:11 GMT"
     },
@@ -396,10 +392,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: Trump claims success on U.S. strikes on Iran; military details overnight stealth operation - NBC News",
-      "pubDate": "Sun, 22 Jun 2025 13:34:08 GMT"
-    },
     {
       "title": "Pentagon Details Multipronged Attack on Iranian Nuclear Sites - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 14:43:50 GMT"
@@ -1047,6 +1039,10 @@
     {
       "title": "Trump-Fueled Bitcoin Mania Leaves Most of Crypto in the Dust - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 07:42:12 GMT"
+    },
+    {
+      "title": "Opinion | The real reason Republicans are rushing to pass the Trump megabill - MSNBC News",
+      "pubDate": "Mon, 30 Jun 2025 10:00:00 GMT"
     }
   ],
   "russia": [
@@ -1169,6 +1165,10 @@
     {
       "title": "Russia grooms Ukrainian teens as spies and saboteurs - Financial Times",
       "pubDate": "Mon, 30 Jun 2025 04:00:01 GMT"
+    },
+    {
+      "title": "Russia reportedly closes Crimean Bridge amid explosions in Kerch - The Kyiv Independent",
+      "pubDate": "Mon, 30 Jun 2025 07:08:18 GMT"
     }
   ],
   "ai_safety": [
@@ -1262,10 +1262,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Will the U.S. Bombing of Iran Actually Matter for Markets? - Barron's",
-      "pubDate": "Sun, 22 Jun 2025 13:06:00 GMT"
-    },
     {
       "title": "Investors set to flock to safety as world awaits Iran\u2019s response - Yahoo Finance",
       "pubDate": "Sun, 22 Jun 2025 14:15:01 GMT"
@@ -1505,20 +1501,12 @@
       "pubDate": "Sun, 22 Jun 2025 14:04:41 GMT"
     },
     {
-      "title": "Satellite images show the damage at Iran's deeply buried Fordow nuclear site after massive US strikes - Business Insider Africa",
-      "pubDate": "Sun, 22 Jun 2025 13:14:04 GMT"
-    },
-    {
       "title": "Senate Can Keep Ban on State AI Rules in Trump Tax Bill - Bloomberg.com",
       "pubDate": "Sun, 22 Jun 2025 15:15:08 GMT"
     },
     {
       "title": "Iowa legislature utilized artificial intelligence during recent session - OurQuadCities",
       "pubDate": "Sun, 22 Jun 2025 16:02:00 GMT"
-    },
-    {
-      "title": "Democratize AI or Make the AI Oligarchy an Inevitability - Jacobin",
-      "pubDate": "Sun, 22 Jun 2025 13:11:04 GMT"
     },
     {
       "title": "Preparing for a New Age: Artificial Intelligence, the American Workforce and the G.I. Bill - New Jersey Globe",
@@ -2091,6 +2079,10 @@
     {
       "title": "Artificial Intelligence: The Defining Investment Theme of Our Era - Morningstar",
       "pubDate": "Mon, 30 Jun 2025 11:05:35 GMT"
+    },
+    {
+      "title": "EXCLUSIVE: HII, C3 AI ink agreement to boost shipyard production using artificial intelligence - Breaking Defense",
+      "pubDate": "Mon, 30 Jun 2025 12:47:29 GMT"
     }
   ],
   "climate": [
@@ -2621,6 +2613,10 @@
     {
       "title": "US economy today: Growth slows as tariff and debt risks loom - Fingerlakes1.com",
       "pubDate": "Mon, 30 Jun 2025 09:47:06 GMT"
+    },
+    {
+      "title": "US stocks add more gains to their all-time high - LancasterOnline",
+      "pubDate": "Mon, 30 Jun 2025 13:33:30 GMT"
     }
   ],
   "china": [
@@ -2951,10 +2947,6 @@
   ],
   "world_news": [
     {
-      "title": "Watch: The US has joined the Iran-Israel war. What happens now? - BBC",
-      "pubDate": "Sun, 22 Jun 2025 13:58:09 GMT"
-    },
-    {
       "title": "As the US bombs Iran and enters another war, China is the likely winner - Australian Broadcasting Corporation",
       "pubDate": "Sun, 22 Jun 2025 19:05:12 GMT"
     },
@@ -2980,10 +2972,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "US lawmakers condemn Trump for \u2018unconstitutional\u2019 attack on Iran - Al Jazeera",
-      "pubDate": "Sun, 22 Jun 2025 13:28:12 GMT"
-    },
     {
       "title": "Republican party divisions emerge following U.S. strikes on Iran - NBC News",
       "pubDate": "Sun, 22 Jun 2025 20:32:54 GMT"
@@ -3755,6 +3743,10 @@
     {
       "title": "Israel-Gaza war live: Israeli forces kill 23, Gaza authorities say, amid IDF warning of major offensive in north - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 06:39:00 GMT"
+    },
+    {
+      "title": "Israeli military plans bigger Gaza op., waits for Hamas hostage response - The Jerusalem Post",
+      "pubDate": "Mon, 30 Jun 2025 10:21:11 GMT"
     }
   ],
   "federal_reserve": [
@@ -4091,10 +4083,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "Pentagon leaders hail successful Iran strikes but wary of retaliation - Military Times",
-      "pubDate": "Sun, 22 Jun 2025 13:36:00 GMT"
-    },
-    {
       "title": "Over 50 fighter jets participated in wave of strikes targeting Iranian military infrastructure \u2014 IDF - The Times of Israel",
       "pubDate": "Mon, 23 Jun 2025 13:12:02 GMT"
     }
@@ -4270,10 +4258,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin Price Watch: Bitcoin Holds at $102K Following US Airstrikes on Iran - Bitcoin.com News",
-      "pubDate": "Sun, 22 Jun 2025 13:45:16 GMT"
-    },
     {
       "title": "Bitcoin Dips Below $100K as Iran Moves to Shut Strait of Hormuz - Bitcoin.com News",
       "pubDate": "Sun, 22 Jun 2025 14:59:03 GMT"
@@ -4579,6 +4563,10 @@
     {
       "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 21:13:26 GMT"
+    },
+    {
+      "title": "Hurricane center keeps eyes on tropical system that could target Florida while Tropical Storm Barry strikes Mexico - Orlando Sentinel",
+      "pubDate": "Mon, 30 Jun 2025 08:15:00 GMT"
     }
   ],
   "computers": [
