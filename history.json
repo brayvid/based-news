@@ -111,10 +111,6 @@
   ],
   "iran": [
     {
-      "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
-      "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
-    },
-    {
       "title": "U.S. Officials Assess Strikes on Iran's Nuclear Sites - WSJ",
       "pubDate": "Sun, 22 Jun 2025 21:37:00 GMT"
     },
@@ -1035,6 +1031,10 @@
     {
       "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
       "pubDate": "Mon, 30 Jun 2025 18:27:00 GMT"
+    },
+    {
+      "title": "Trump expected to sign executive order to lift some sanctions on Syria - The Guardian",
+      "pubDate": "Mon, 30 Jun 2025 18:44:00 GMT"
     }
   ],
   "russia": [
@@ -1165,6 +1165,10 @@
     {
       "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
+    },
+    {
+      "title": "Russia Predicts Why NATO Will Collapse - Newsweek",
+      "pubDate": "Mon, 30 Jun 2025 12:08:33 GMT"
     }
   ],
   "ai_safety": [
@@ -1495,10 +1499,6 @@
     {
       "title": "Tesla launches robotaxi rides in Austin with big promises and unanswered questions - TechCrunch",
       "pubDate": "Sun, 22 Jun 2025 20:58:02 GMT"
-    },
-    {
-      "title": "Tesla officially launches robotaxis in Austin to a small group of users, charging a $4.20 flat fee per ride - Business Insider",
-      "pubDate": "Sun, 22 Jun 2025 19:09:00 GMT"
     },
     {
       "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg",
@@ -2075,6 +2075,10 @@
     {
       "title": "Microsoft unveils AI diagnosis tool in effort to transform medicine - Financial Times",
       "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
+      "pubDate": "Mon, 30 Jun 2025 18:45:26 GMT"
     }
   ],
   "climate": [
@@ -2951,10 +2955,6 @@
   ],
   "world_news": [
     {
-      "title": "As the US bombs Iran and enters another war, China is the likely winner - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 22 Jun 2025 19:05:12 GMT"
-    },
-    {
       "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
       "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     },
@@ -2969,6 +2969,10 @@
     {
       "title": "LIVE: Israel bombards Gaza City after issuing forced displacement threats - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 09:22:30 GMT"
+    },
+    {
+      "title": "Israeli attack on a cafe in Gaza kills 30 Palestinians - Al Jazeera",
+      "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
     }
   ],
   "us_politics": [
@@ -2979,10 +2983,6 @@
     {
       "title": "Is the U.S. at War With Iran, and Are Its Strikes Legal? - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 22:02:57 GMT"
-    },
-    {
-      "title": "Protests erupt calling for U.S. to stay out of a war in Middle East - USA Today",
-      "pubDate": "Sun, 22 Jun 2025 19:47:37 GMT"
     },
     {
       "title": "Democrats sharpen arguments against Trump foreign policy on Iran - NBC News",
@@ -3275,6 +3275,10 @@
     {
       "title": "Live: Senate heads to final vote on Trump tax and Medicaid cuts - USA Today",
       "pubDate": "Mon, 30 Jun 2025 13:43:50 GMT"
+    },
+    {
+      "title": "Senate version of Trump's \"big, beautiful bill\" would pummel renewable energy industry with new tax - CBS News",
+      "pubDate": "Mon, 30 Jun 2025 18:08:03 GMT"
     }
   ],
   "democratic_party": [
@@ -3481,16 +3485,16 @@
     {
       "title": "Urgent FBI warning: Notorious hackers have a new target - AL.com",
       "pubDate": "Mon, 30 Jun 2025 14:44:00 GMT"
+    },
+    {
+      "title": "North Korea agents steal nearly $1 million in cryptocurrency from Buckhead business: FBI - WSB-TV",
+      "pubDate": "Mon, 30 Jun 2025 17:57:43 GMT"
     }
   ],
   "recession": [
     {
       "title": "Recession odds edge lower; SoftBank eyes trillion-dollar AI robotics hub; Jobless claims decline - CoStar",
       "pubDate": "Mon, 23 Jun 2025 01:32:27 GMT"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz amid fears oil price spike could trigger global recession - Gazeta Express",
-      "pubDate": "Sun, 22 Jun 2025 19:30:00 GMT"
     },
     {
       "title": "Russia's economy is down but not out - BBC",
@@ -4003,10 +4007,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Global Tensions Trigger Cryptocurrency Crash: Bitcoin, XRP, And Dogecoin At 2-Month Lows - Benzinga",
-      "pubDate": "Sun, 22 Jun 2025 19:52:03 GMT"
-    },
-    {
       "title": "A look at the major players in the crypto industry and their ties to Trump - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 13:49:41 GMT"
     },
@@ -4317,12 +4317,6 @@
     {
       "title": "Senate Republicans release updated text for most of their megabill - Politico",
       "pubDate": "Sat, 28 Jun 2025 04:16:48 GMT"
-    }
-  ],
-  "united_nations": [
-    {
-      "title": "WATCH LIVE: UN Security Council holds emergency meeting after U.S. strikes on Iran - PBS",
-      "pubDate": "Sun, 22 Jun 2025 19:40:41 GMT"
     }
   ],
   "protest": [

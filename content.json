@@ -1,72 +1,62 @@
 {
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWgtZHhQMmJJR3pjZ1ZBcVRBN3dZYWRYY1lLc1JOZmJtZndhOTFnYWVyeXZsNUdsbkMtYjgtRjVsS3FPYnBGWV9LeHZwUUphcTFIdmFIMGszZUV0Wmg0VDBLRGJwVkFBMThkbGlpNktEZGlsYXQ3OEEyUEpzWTVfeDNQSzROeTlWM045aGc0cWZzWEJoNXF0QVJJOF9LU1BUQXFaODU4Y0JCZnZEbFFuaWF5VEtYVWxhRU5LVVN0LS1qcDNWMEdn?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 18:45:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GeUlOQzJPWllXQjBITzB1ZHV6RW8zVUZKX0l1dDZuNHVqa2E1YTM5VW1GbWtON2tNUmtmRENmQWlKVkxsbzNiX3FxNHpFYUlfelY2bjhCaUtwMm1XT2NUcndiTGdIem9MbWhB?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 18:27:00 GMT"
+        "title": "Trump expected to sign executive order to lift some sanctions on Syria - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0l5d0JkWTNfRldYY2hMX3NMZEJFd1NhTUlINGZfVlBPWFhhWjF5SWM4clRSOXNILVZjcjV6SHJVV1B2cUlxUUExVFNTcWgtSkN0c3IzZEUwSG9VSVRFNkhfR3d2SGRHNjU1U25ySDJ5VDF6Y1oxWWc5b1NNYVhjY25XQ1JkT0Nhb0R5aVBtUUcyenlCTDRzckZ1a1JVMFlVRlh3TnFJbTFFSGFZbU9XRUg1WTIxLWJOMHc?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 18:44:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Senate version of Trump's \"big, beautiful bill\" would pummel renewable energy industry with new tax - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDhsc1JsQnROOEw1V3A2R3lpaWhJMWpVUTNfMFM1Q18xdEtxb3UtX3JfTDZZVzVzQ1dlN0hWcnlINW5xR0RLVXU4d2tiX05kYXpfdGN3VjRrWGhLNzNrUVA1S2d5LUhOLTFxN1Q0cjRxZUtOY25YLUg2Mm12eFJvX3lYLVFDeGNadDdZNVp5SQ?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 18:08:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "North Korea agents steal nearly $1 million in cryptocurrency from Buckhead business: FBI - WSB-TV",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm9OcVJKbDB0Uy1KdW1iZ281NUZDZFBXMUhMZ1FMNWF0R0s0ZzVYdFZjMHliZ1VqQXpqYTMzR0V4OTVRWVVwLVE2U2lsRmJ0eko5Y0lxMm9WUHRLbUdCQUVtMUZMV2JXckhlRUxncHFTMk9ZNUY0YjdvQ01Fam1KLVplcS1BWXRPaTRhZkI1UTRJbGFrY1ppS3QwdFZyU3FRaER6MjhYTFlPU3pkZkVFU2lvaVQtWG15OU5MNms3akExRm91OWZsbXJOaEhzWkZz?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 17:57:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
+  },
+  "World News": {
+    "articles": [
+      {
+        "title": "Israeli attack on a cafe in Gaza kills 30 Palestinians - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnBpaUFLOVJka3BDN19uWHdTWjl5Um1wcXV4TFliQ2FXTlozMVpYbmpYVTRhQzJQUWJBemFOWVk3THFISjJpNkZxY3pxcVlzeWVuRzMzbVZWMG52TnFpNGpIYkl3NE5FS1pkdmswVnJTa1MxcFotdnFxVGZ6MnNWNkpUQzNKYzAxQmtfcVlWeENqT3MySGkyZVlYQjhiM3cwaDR3M2ZkeEx6YkxWbmtjQlN6Y29vb3RUb3c?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
   },
   "Russia": {
     "articles": [
       {
-        "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzlVTmdOLTYtTDRFeEFsMkV4SllINjJReFFRQmYtaDNWanVLSU5OX25aQTdPcnNiTll5d3dtSFN4cHBLUjVZWk0yc3NRbm9HQ1FRT0dKaXdubTZQUnpVWW9UbUI4cFVnNXN5b0lDNlp1NXdGcmVnOTN1a0FZcXQ2VWN1aFJsWGxGaEhwUDNOZUhQTXlDTWhvd0tHQnp5azFwSlp2Tkh1UGRqT3FENnBF?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
+        "title": "Russia Predicts Why NATO Will Collapse - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ueUdudGp1bGpINGFadjJJTGNPYm9ueHRTZWFlOEhtcXpWLVhRZHBCcWJUVjFzcWl5dGdwRER3d1VGZjN6cmlxaUVHUkgxUWE2UndENTVjRU9SbGs0Qk0zTDdpMDhlcUxTNXlzQmhZUktDbXJ5TC1OeWs3QQ?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 12:08:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
-  },
-  "Health Care": {
-    "articles": [
-      {
-        "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3pVRnRYM1U4M0taM2MwaWtiOXEwYVpLd0xLcWtvVUdFUTRZRWVQR2NuNDJLd0xnTEpnY3lDbWs1Q0hBRW10N2ZrTjZZZ0hkbVZXaEJwOGtnbHRIUzd5ODd5QnNBSkZHVThoQ2d1cXVvLW5mWU9wSC02blBTTlphLWlaamduR1JOSUFwZWpBWXJsY0cxaXN1Uy1VZE1rT1ZGNTBtdl9hSQ?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
-  },
-  "Blockchain": {
-    "articles": [
-      {
-        "title": "Robinhood Launches Stock Tokens, Reveals Layer 2 Blockchain, and Expands Crypto Suite in EU and US with Perpetual Futures and Staking - Robinhood Newsroom",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcURNSlhkbEt2WlFDRUpyVjhGeUdMN296SUo0cXNVNlNZWERLblNvVlZDdHY4cy0tekZac3pUY1pITnRSWTUxcVJFUWJOZFFzeXpWaXFoczJxeEx5dC1rX1hhVzk4V3k1NmRmd0R5dmp4VmxfV2ppVHFOS2dKcXYzWGFLbGxYN2VqVXpDd1NyZnFDVjNMY2ltTHR2QkdkOUQ2UlRrZXV3bGx5YjlvRFAzSXlOejVmMjVNaVd0LXFZNURSZDM2bmhGYXIyYS1kMXJqUzVaZmZmTnYwQjZYNWpGeXFSUTlJaXA5c3B3MFh1YkxlOV95ODJLckVpVEs?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 15:02:25 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
-  },
-  "Renewable Energy": {
-    "articles": [
-      {
-        "title": "Clean energy stocks fall as Trump bill taxes components from China, phases out credits - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0txT0xKRkNxMG5YYnN5dDJ3R1lJUHRVR2R3WG9pUlByZVhSdlVKTkdWMy1aS1VGdGRuSnRjSGpmSTlWV3hmb1BlUS1yeURtX0xlQXIzMDdlVWJ1czNFU1Z5ZlVQU3ZPRVZLYmFWSmxBeTd2N0pBTmJfN0ttTGFYVnVhYUE1NXhaWERIMzlQdjc2SEM2cWpwUnlLNDfSAaIBQVVfeXFMTmJLeDFMLVNlczY0MDFKVnk5OGlHWnBXYmwzc2hTM2FBM2pUTWVRdTZCT0RYSTE5RTl2QnNyb3Mwb3BvZVpSaVZyVjljOXRSNktTdW5Cc2VTNU45ckxaX0l1bXRhZk5HWEZWSWtITEY3LTRaS2VMVGhLeVo1ZE9yZll1WEZVS3dxRl9raGttQnhHVkFBaUg2MkhaR3Z2dmM4ZkpR?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 13:59:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
-  },
-  "Earthquakes": {
-    "articles": [
-      {
-        "title": "Santorini earthquakes traced to sideways magma movement in crust, not traditional volcanic centers - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjZjUFo2eXo4OGhrS05yN1ZsaV9OYlRPNWdjNHFQczBSdFZsbE9JU0Rnb0QtcXNPZFl3QjhIYW5pdEZVOHZ0MUNvWmczZ3ZDMkZaM25KWnZERDZjMGJ6NEFuTnBsaFktenpMVlI2eDFvT0ZRcWZtQ084R1VvTzlzYTFaQ0FJbWPSAYYBQVVfeXFMUHJGcGFLYUFVUHZVbUtfc3NudmJFZmxlRW43NmJFSEx4ZE4xc2RrZHRBcktzMGxKdm9JZFFEQmJiS0JkWll1MEJMN2RVRUlWVkFIdkpYUWQtcVVTcTBBQXZReF8xOVYzR1RHNEE0YzBKX0NwQWJLbnNrbmkwZEN6cnYxZXg0Z1E?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 13:10:12 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Microsoft unveils AI diagnosis tool in effort to transform medicine - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdzRreExWMjlvN3JGWWxldk9TY18yV2VyY1JIb20yOEkwbGRndTBqUUxNX0tXYlV1Nk1jbHZJV1ZRS01yQjlfRnhXeXBMNXgyV3RBM1FSYlZpVGVKY2ZEYVMyWnMwX0FqMTRiZWVfX1k?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T19:01:51.183859+00:00"
+    "last_updated_ts": "2025-06-30T20:02:04.986361+00:00"
   }
 }
