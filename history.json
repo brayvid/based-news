@@ -103,20 +103,16 @@
     {
       "title": "Israel\u2019s Attack on Evin Prison Killed 71, Iranian State Media Report - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 06:01:00 GMT"
+    },
+    {
+      "title": "Israel in \u2018advanced talks\u2019 for deal to end hostilities with Syria, says senior official - The Times of Israel",
+      "pubDate": "Mon, 30 Jun 2025 14:24:11 GMT"
     }
   ],
   "iran": [
     {
-      "title": "US warns of 'heightened threat environment' after strikes on Iran nukes: Live updates - USA Today",
-      "pubDate": "Sun, 22 Jun 2025 17:59:40 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
-    },
-    {
-      "title": "Satellite images and decoy planes: Behind the US attacks on Iran - BBC",
-      "pubDate": "Sun, 22 Jun 2025 18:02:12 GMT"
     },
     {
       "title": "U.S. Officials Assess Strikes on Iran's Nuclear Sites - WSJ",
@@ -388,10 +384,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Pentagon reveals how B-2 bombers struck Iran nuclear sites in mission dubbed \"Operation Midnight Hammer\" - CBS News",
-      "pubDate": "Sun, 22 Jun 2025 17:06:28 GMT"
-    },
     {
       "title": "Opinion | Trump\u2019s Courageous Decision to Strike Iran\u2019s Nuclear Sites - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 18:29:57 GMT"
@@ -1039,6 +1031,10 @@
     {
       "title": "Senate inches toward a vote on Trump\u2019s sweeping domestic policy bill - CNN",
       "pubDate": "Mon, 30 Jun 2025 16:01:00 GMT"
+    },
+    {
+      "title": "Live updates: White House urges GOP to \u2018stay tough\u2019 as Senate debates amendments to Trump\u2019s bill - The Washington Post",
+      "pubDate": "Mon, 30 Jun 2025 17:39:48 GMT"
     }
   ],
   "russia": [
@@ -1473,6 +1469,10 @@
     {
       "title": "What Drove the Stock Market's Record-breaking Week? Don\u2019t Overlook Growing Rate Cut Expectations - TradeAlgo",
       "pubDate": "Sun, 29 Jun 2025 16:43:23 GMT"
+    },
+    {
+      "title": "Ignoring a $7 Trillion Financial Disaster Won\u2019t Make It Go Away - Bloomberg.com",
+      "pubDate": "Mon, 30 Jun 2025 10:30:26 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2063,6 +2063,10 @@
     {
       "title": "US Senate debates whether to adopt revised state AI regulation ban - Reuters",
       "pubDate": "Mon, 30 Jun 2025 16:22:07 GMT"
+    },
+    {
+      "title": "Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors - WIRED",
+      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
     }
   ],
   "climate": [
@@ -2370,10 +2374,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Goldman Sachs: Dollar is \u2018the dog that didn\u2019t bark\u2019 as recession risks hold steady (DXY:null) - Seeking Alpha",
-      "pubDate": "Sun, 22 Jun 2025 17:26:00 GMT"
-    },
     {
       "title": "Oil prices jump 3% after U.S. strikes on Iran raise fears of supply disruption - CNBC",
       "pubDate": "Sun, 22 Jun 2025 22:06:03 GMT"
@@ -2935,6 +2935,10 @@
     {
       "title": "China coffee giant Luckin opens its first U.S. stores in New York City - CBS News",
       "pubDate": "Mon, 30 Jun 2025 15:50:52 GMT"
+    },
+    {
+      "title": "China\u2019s Communist Party Now Has 100 Million Members. Many Are in It for the Paycheck. - WSJ",
+      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3469,6 +3473,10 @@
     {
       "title": "Agencies warn Iranian hackers may still target US entities, networks - The Hill",
       "pubDate": "Mon, 30 Jun 2025 14:49:00 GMT"
+    },
+    {
+      "title": "Urgent FBI warning: Notorious hackers have a new target - AL.com",
+      "pubDate": "Mon, 30 Jun 2025 14:44:00 GMT"
     }
   ],
   "recession": [
@@ -3859,6 +3867,10 @@
     {
       "title": "Hundreds of neighbors rally to give a 9-year-old with cancer one last Christmas - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 02:15:32 GMT"
+    },
+    {
+      "title": "New blood test detects cancers 3 years before typical diagnosis, study hints - Live Science",
+      "pubDate": "Mon, 30 Jun 2025 17:05:00 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -4179,12 +4191,6 @@
     {
       "title": "Scientists find new way of spotting invisible 'plasma bubbles' lurking in Earth's upper atmosphere - Live Science",
       "pubDate": "Thu, 26 Jun 2025 17:00:00 GMT"
-    }
-  ],
-  "terrorism": [
-    {
-      "title": "Homeland Security warns of possible terrorist attacks in US following strike on Iran - New York Post",
-      "pubDate": "Sun, 22 Jun 2025 17:17:00 GMT"
     }
   ],
   "data_breach": [
