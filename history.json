@@ -111,10 +111,6 @@
   ],
   "iran": [
     {
-      "title": "Satellites show damage to Iran's nuclear program, but experts say it's not destroyed - NPR",
-      "pubDate": "Sun, 22 Jun 2025 22:07:04 GMT"
-    },
-    {
       "title": "Alarm grows after the US inserts itself into Israel's war against Iran with strikes on nuclear sites - AP News",
       "pubDate": "Mon, 23 Jun 2025 02:28:00 GMT"
     },
@@ -373,6 +369,10 @@
     {
       "title": "CIA: US strikes set Iran's nuclear program back years - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438",
       "pubDate": "Mon, 30 Jun 2025 03:01:25 GMT"
+    },
+    {
+      "title": "Satellite imagery reveals ongoing work at Iranian nuclear site bombed by US - CNN",
+      "pubDate": "Mon, 30 Jun 2025 19:26:00 GMT"
     }
   ],
   "donald_trump": [
@@ -383,10 +383,6 @@
     {
       "title": "Trump news at glance: US president talks regime change and \u2018MIGA\u2019 after Iran strikes - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 01:25:58 GMT"
-    },
-    {
-      "title": "Trump Changed. The Intelligence Didn\u2019t. - The Atlantic",
-      "pubDate": "Sun, 22 Jun 2025 22:22:00 GMT"
     },
     {
       "title": "Donald Trump calls 'obliteration' an accurate description of damage to Iran's nuclear facilities - CNBC",
@@ -1027,13 +1023,13 @@
     {
       "title": "Musk threatens to primary members of Congress who vote for Trump's megabill - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 30 Jun 2025 20:57:39 GMT"
+    },
+    {
+      "title": "Trump drops lawsuit against Iowa pollster Ann Selzer, Des Moines Register - NBC News",
+      "pubDate": "Mon, 30 Jun 2025 22:00:30 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Yulia Navalnaya, widow of Alexei Navalny, undeterred in anti-Putin mission, despite Russian arrest warrant - CBS News",
-      "pubDate": "Sun, 22 Jun 2025 22:50:00 GMT"
-    },
     {
       "title": "Russia Responds To US Strikes, Will Hold Direct Talks With Iran - Newsweek",
       "pubDate": "Sun, 22 Jun 2025 23:06:05 GMT"
@@ -1473,6 +1469,10 @@
     {
       "title": "Ignoring a $7 Trillion Financial Disaster Won\u2019t Make It Go Away - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 10:30:26 GMT"
+    },
+    {
+      "title": "US stocks push further into record heights - The Morning Call",
+      "pubDate": "Mon, 30 Jun 2025 20:03:45 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -2075,6 +2075,10 @@
     {
       "title": "Senate\u2019s New A.I. Moratorium Proposal Draws Fresh Criticism - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 20:55:44 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg announces creation of Meta Superintelligence Labs. Read the memo - CNBC",
+      "pubDate": "Mon, 30 Jun 2025 18:32:44 GMT"
     }
   ],
   "climate": [
@@ -2383,17 +2387,13 @@
     {
       "title": "Smashing previous monthly record, Russia launches 5,337 kamikaze drones against Ukraine during June - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 17:40:19 GMT"
+    },
+    {
+      "title": "Ukraine war live: Kyiv claims advances in Sumy region ahead of counteroffensive - The Independent",
+      "pubDate": "Mon, 30 Jun 2025 22:09:29 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Oil prices jump 3% after U.S. strikes on Iran raise fears of supply disruption - CNBC",
-      "pubDate": "Sun, 22 Jun 2025 22:06:03 GMT"
-    },
-    {
-      "title": "Oil rises and US stock futures slide as markets react to US strike on Iran nuclear sites - thedailystar.com",
-      "pubDate": "Sun, 22 Jun 2025 22:09:05 GMT"
-    },
     {
       "title": "Oil gains and US stock futures, Asian shares slip after US strikes Iran nuclear sites - KTVN",
       "pubDate": "Mon, 23 Jun 2025 05:05:26 GMT"
@@ -2980,10 +2980,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Is the U.S. at War With Iran, and Are Its Strikes Legal? - The New York Times",
-      "pubDate": "Sun, 22 Jun 2025 22:02:57 GMT"
-    },
     {
       "title": "Democrats sharpen arguments against Trump foreign policy on Iran - NBC News",
       "pubDate": "Mon, 23 Jun 2025 09:00:43 GMT"
@@ -3835,6 +3831,10 @@
     {
       "title": "Santorini earthquakes traced to sideways magma movement in crust, not traditional volcanic centers - Phys.org",
       "pubDate": "Mon, 30 Jun 2025 13:10:12 GMT"
+    },
+    {
+      "title": "Why Redding has earthquakes: Here's what happens in Shasta Cascade region - Yahoo",
+      "pubDate": "Mon, 30 Jun 2025 11:01:49 GMT"
     }
   ],
   "elon_musk": [
@@ -4017,6 +4017,10 @@
     {
       "title": "Senate GOP tax bill could crush wind and solar power, advocates say - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 30 Jun 2025 18:39:19 GMT"
+    },
+    {
+      "title": "Senate Republicans push clean energy megabill amendments - E&E News by POLITICO",
+      "pubDate": "Mon, 30 Jun 2025 17:29:00 GMT"
     }
   ],
   "electric-vehicle_battery": [
@@ -4070,10 +4074,6 @@
     }
   ],
   "military_intelligence": [
-    {
-      "title": "US military, intelligence detect signs Iran-backed militias preparing to attack US bases \u2013 NYT - The Times of Israel",
-      "pubDate": "Sun, 22 Jun 2025 22:56:00 GMT"
-    },
     {
       "title": "Pentagon Unveils $33.6 Billion Military Intelligence Budget For 2026 - Dallas Express",
       "pubDate": "Thu, 26 Jun 2025 20:46:25 GMT"
