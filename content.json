@@ -1,52 +1,72 @@
 {
-  "World News": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "LIVE: Israel bombards Gaza City after issuing forced displacement threats - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnBpaUFLOVJka3BDN19uWHdTWjl5Um1wcXV4TFliQ2FXTlozMVpYbmpYVTRhQzJQUWJBemFOWVk3THFISjJpNkZxY3pxcVlzeWVuRzMzbVZWMG52TnFpNGpIYkl3NE5FS1pkdmswVnJTa1MxcFotdnFxVGZ6MnNWNkpUQzNKYzAxQmtfcVlWeENqT3MySGkyZVlYQjhiM3cwaDR3M2ZkeEx6YkxWbmtjQlN6Y29vb3RUb3fSAb8BQVVfeXFMTWFDQTBtM3UyMnY3cWdFeWNIdm95RXFjTmotbUFGY2ZjN3ZraFZrWk4zN3pzdkNoRlo2LWhxR2hKaVNLcEhHcGMteEs3YWNoWXQwRENLb3VqUktIWE4taUhSQ3hVXzhiOTNFXzhaS0lPR25NTjNuTWpFZWx4SWhKeGgwOUpCeUFRT1FqV01BN3U0dnJHcTR0OGZaWDVWM25KODlJN1UtWXlrRldJUWtUR1JQZUNTMmxoQUNYMTNQdlk?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 09:22:30 GMT"
+        "title": "Artificial Intelligence at Barclays \u2013 Two Use Cases - Emerj Artificial Intelligence Research",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yVWx1UEY2RnF2aFFYc3dHbTRnZm1LWG9RaTQ4OXM2THc0ZVp1bkJxSHpqLW0zUWlYemFEb09BTENaZFNkaTdfcDVTbmMyUmhxRndHcXp1Z0MzYXpWeVlpYUVjbzE?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 10:12:50 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T09:58:49.159696+00:00"
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Treasury yields tick lower as Trump's spending bill in focus - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFBGRlFqWlRmZG9HLWZRdkhzX0ZORUNMcHFSajN2RzN0YVUyZ2FYWGZfNHR5UmRFQ1pPS1hUcklEU0JHN3pBSkZBVUxiaktMNWFtMjlLODF1WjNNOUF1VkptS3NFbkhoVHJLQnFYRGEzNkhGeG1FcTJVRXNlNkpyaTVRYkJRdF9xcURPYkFmejdxRldYcnJvakVxTzdkRFVyV084SFJB0gGrAUFVX3lxTE9QbFN4dEFFUWNkZUwwYVlUY3VUNWZxR2JfdDhrdkpQYmJOR1pDRHN2T0FNYjZ1bFdxYXhpMDJqVWdHYi1xeXI2Q1hXVFBzODdXclJycFVTMGJ6UlFVSTdtQjJPOUZlRXdqaEd6a0RHMHZVOWJQTVNxN1ZaVWV5LU1XeElwU1lHQS1ucVJfNENQU2RkRmxsSi1ObzNQMXI0aDFmZUJOY3VJSVFLdw?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 08:15:37 GMT"
+        "title": "Senate GOP looks to pass marathon final test on Trump\u2019s \u2018big, beautiful bill\u2019 - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RanhQUG9xVktoaUhJZ3JtOGc4THNvTkZBbks1c0RzeFYzSF9FdVZVWk11d2YzWndoaEFwdXBwUDlvbmxtbk1Na1ZHa3hwbGZTQm1BbDQzWGt1NHBlYW1yT2k3OFM3dE9FVHUtc2VPSHJ5VVpVWEltYXNTa9IBgAFBVV95cUxPcWRKX2poejI4SXV0V3REOUVqb0dsWEM4RUpRd2ZpSnpKanh3LS1MZE9INGQ0clJiQWhfSWhQeXdpbTlnaEJ4ZUFqcG5lbEtJdkVZQjJzdEZ1MHMxWFBzMmkyY0JlemZYUFdoZm1LcDVIVGd2cWE0NDIzZ2Ntbi1PbQ?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T09:58:49.159696+00:00"
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
   },
-  "Artificial Intelligence": {
+  "US Economy": {
     "articles": [
       {
-        "title": "OpenAI Rents Google\u2019s AI Chips, Looks Beyond Nvidia\u2019s GPUs - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFlDV1ozcTNLNkM3ODEyZGdJMkFicW9NNUg1WWpQMElVRlhaRElnVi04MWwyVU0zUEZkQUZXME5QTUQ0M21xS0M0bGhtV21sM3l0Zkg3OGtfSVZ0NUNVb1NNQ1J6UHVlVDBJd0xzNGJzQ0tkVFV5bU9rYzhaSEhIc0w4UVg0ZjBuWnRFM19R?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 07:14:12 GMT"
+        "title": "US economy today: Growth slows as tariff and debt risks loom - Fingerlakes1.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aZTNXRkpBdXdEMnhJRzUwS2VKXzh1c2g3VUZKWS1lOEROQTFaMDVxc09lWFo1NWVMaGFYdzdDMDZRT3VFeGNXWGtZZGM2UnpEaEJlYzV4UHZMSlNnTXMyYm9LTGJiZ183cHdaZjFJMDNkN1d1cHc?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 09:47:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T09:58:49.159696+00:00"
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
   },
-  "US Politics": {
+  "Large Language Model": {
     "articles": [
       {
-        "title": "Senate advances Trump plan to gut social programs to benefit the super-rich - World Socialist Web Site",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQzBaQ09JUEp4ZjlOMHNnOUxwU1JsZllyZFlfMGd6QklEM0VqTGpucHI0R1hCMS05UkRaZU5rLVU2YjhKRjBvODMzLUVhS1g2Q3J2QXctSW5xa0ZxQURnc2NOZF9MUGFu?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 03:29:51 GMT"
+        "title": "Exploring how AI has changed daily life - AI News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGZ3X2RBRzRkb242eW41WVZ4aHZFVkxvVnhCck8tS04zcHpiQ3JEZlV6bElzNzYyS3Z6SklxWjBWdUx0U3p2ZmxfZ0dmTWpoNjZCUXJYck44NFl5NlhfekhsaExfaXFvajdSbDZEYWRKYlhFSUd2UzZIaG4xeVNDd213TmJfLXFTeGNuQ1gzQWR5V00?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 08:49:53 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T09:58:49.159696+00:00"
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
   },
-  "Cybersecurity": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "FBI Issues Warning After Hackers Breach Major U.S. Airlines - Men's Journal",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkxqcTBGZWR6WU4xM0JrUlhCZHVZQ0N0REZlMi1WblRFdDFDWGRMZ2lZYkctZXpOdnBqSWNaY3ozVTVsLTNLenNzRG1fajhXV01GdmJ6NW1jNTM1Q29yMFFnZHgyTmM0SW40RUJYSFhIUzZoOWpKemR6NFhsR3Y0OWtnSGN3TG11dlE3Y29fZ0VjZF9iZGJVbQ?oc=5",
-        "pubDate": "Sun, 29 Jun 2025 23:24:18 GMT"
+        "title": "Ahold Delhaize Data Breach Impacts 2.2 Million People - SecurityWeek",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVnBVeUJocWNTTC1Uekk4OUtDbXpacC1FY0Myc0FZWVRaZEdsc1BfejQ4ZXV0bzBmeHNZYXotR1VsSXNkMDAtczZCcC1mOGJKUlc0OVI2OG1JRThwdzhkMmtWWnZaWW14SmFGUnVHeXRxTUxDbTJYcDRXNW96cjZaWWVqNDl6TVBGa3g40gGQAUFVX3lxTFBlUUpyVnJveDI3QXZLTkpldmx3cEpzVEVGTWl0dXBKREF3NDNmWkVyU3JxYW9UMURhalZJdUhEODFRNU51MjM1d2xMUEU2Rk1wZWhMQkRfR09WSHlrMjlNR2Rud0hFZEZfTnFURG9UM3Zvc2pZVmVZRUVveUZJUERfWFpROURKYlNFcmxWTXQ2ZA?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 07:04:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T09:58:49.159696+00:00"
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "CIA: US strikes set Iran's nuclear program back years - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtckRZeWtNZTdSSE5uY3pNZmd4X01Gd3hSYTVzeUlyNm04RlNkXzFFa2FZZWdBYVFyc2RVdmZEc1Vvd09sV0d1N1JMYjZhVGNqd1hKVWlld3UtTVVlbTAydldfUkN5YU5NZHRJeU1fajBtYmtvd0RpanJKRjdCN3PSAX5BVV95cUxQbzZVN1EtT2NZM19uaXQ0UjQ0VDdwOVJUTDRHd1Y0ejhqWnVhTkVwT0pJYUVuLXpKdUR5SVVhQ0oycUNIeVAwQ2gyTzhoeXFsYUxNSDNNNjN4bGhWM1hUYktVX2hMWF9MVXRtaWRQajdWeGhQU2JQbTd4SnhiMlE?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 03:01:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Russia Masses 50,000 Troops Around Sumy, Putting Ukraine in Precarious Position - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxORXhLVHQ5QXktbVU1akExMkhWZkJjOEtnaXBUSENJeGNwT0tPX2ZNMDR2XzUzLWgzNDdFZDVjRk5hcDRuc08xNEI1Vjc0dEZOYjdpUVktZjNDTXQ3Vnc1eUFyNE5jS0NYcUJoZUxJNUs4UDc5Sl9MeTZyRkRPajhadWpGQk15M2s1RHdvekgzZ2ltd2RMSHZSd0RVcGFuSGtSa1BWcVljZlZ1UU9KZk1nWGtBUGJaaWFKOUl1YTBNaVNESnRScFViM1pmVjJxeml1elU2a3F3NnF0SDNtdEtBN0pLbzMya2tzRmt3bE9KUzNfMUVCdzdCc0VtRDExMDRhdWpaeC04OUNpWnVzQnpKU3ZyXzdtOENRclJHbktRa090MWp0amI2QVl5eFlCSmZ0aEhvWXlRb2FfMzRSbE5iSUFld0pxZFZ2cmRoUnNhRVd2OEljV2JlM3J6NzFlOHBMVk1kamNfaThyQkwzX1ZtdURwRWlUZmJLZUE?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 01:30:39 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T10:59:21.239875+00:00"
   }
 }
