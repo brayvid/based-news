@@ -1,52 +1,72 @@
 {
-  "Trade War": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45YlVwejYzUnFiQ3V6OTNrSk5TNlNxdmVpOEtwR05XZmg2dTNnUWZHMU9pWDBCZVB0VGhvU29MU0FkdXppaGFWTHYwRXpnenJsYmpCMGh5UXM1RWFVLWdFSk9fS3BNVXgwSVd6ZTlvd28?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
+        "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SzVRdWpibHBpRFhxRUtyWGNsNmNCaWJvNVdseWdyTVdKdEsyQVNXanFtZEE0ejRhLUNJTUcxQk5Lb25VMlZCOGRONnkyeldFLUdSdkxnaUVHd0lkU19aeWxwQ0ljUDFjTl9vLWdHbDhSSGFvcTNPY3JkSEzSAYIBQVVfeXFMT3dpV0ZBazBEc0ZDZnJEMDVxTmRoZ2xxOWowSFdHWDU0MEZNZzZkTUxWT2t5dFN3dXU3OVdrS3J3RUFxVkZtbWdoV1ZIazNDVmFURW9hcWM1MnY1TUJEb0I0SjgycGd4dFB1dFVGaFVaYjRON2gxd01fMlFoa1dyT0tHUQ?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T03:57:22.634395+00:00"
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "CIA chief says strike on metal conversion site set Iran nuclear program back by years - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNE9SQU9SZ01TUjhUaTNnNHF6T2N0QnVobjFFMEJ2MTI2bVJDeGlVaUFFUmMzYXRabW9JclF0dmZlN0FuMnA4Q21PYk9pRzhXbU40WWZqUjRQOVJOVXdrdG1rUTFGQUVvNDQ4QV8yd2pZV1FiemR1VXozaHlYZnl2WWg2c3JPSHNzN1RPNXV1NXBJZlNQbXd5QUp6ZjB0M3hnbTV2aFRnNWFlVFA0M3RWTTgtdThDc2_SAbwBQVVfeXFMT3NGanVXN2ZIbWVFSFRac0tQd3IyUW92ZV9uQUxzQ1V1NktpWl9rQUg3ZnBZUkFoZzliWC1qMHprdi1xbW9CQU1wZlNDMnRIVlRGQXlkWEVQd19SVEN5cWxFRDl0Zm94TkxYLTQ5VlhIUGRlLUxqR1A4dTgyMTNYQ1BybFV0b29xakpac1BkRXJ0cmV3YTVlQUE0RmNxQkpoUVAtYmZpN1hVdGx2bFNSM28zTDhCdjJUUXF3TXo?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 03:38:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China resumes seafood imports from some Japan regions - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHkya25xRzdsSHhncXFEbXEwZ3FnNEg0U182OE13TmJUNGpJYVBGZVYtRGZYWm5BaWhFeW1EbzRzSDVmb2NEWkcwZnNXU3M3N0dOX3ZpVXJGSEg2VzVRVHRISTQ4NXRaVURfd296MGl2OVZaWVRiRm9PZlRDVDBfQtIBhgFBVV95cUxPNlpVeG5iRzNlNjNpT2RGLVFHUk1MNmpQdFVtcmd3ak9JYWYwM0pvTVBLeTctVERGZnVxZGFzYm5KSGJMMXMwRDQzaElUNjRxOGRMRFhwaUcyOEkyN2Y2a2VmeXlYcEpHdUlBRnVWUlo5Z3A1d2V0N1l2UlZ1TFRhcEtnRTBCUQ?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 02:39:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Hundreds of neighbors rally to give a 9-year-old with cancer one last Christmas - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkJGc1VMTGNrdDZOU0pHMkVCeTNTVGZ2ZFpoUDVqVlJ4eWM4RW5Ka3ctbDNvSE83LXdqS0hfSFRQei1lM2NoeEtwSm9kVFhRWW9WbnF3VFlUTHp2MHFyTEJvUVhndFFxUUxqbmNtLTBSbUMwV1BKQTE4LXZ2VDA5dmxCYzQ4bk5jWXhKUmFvVGkzOGJJamJrUFQ0aXZiZlJiTEVNdzZ5Yw?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 02:15:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "GOP senators reach deal on AI regulation ban - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlVCQzZSZUIzd1ZFWkxTY190T1N4Y2E0dTJWaGc3VFJLMWRoNjFVMzEtanBXRjNKYk5wRWpFQ0FydVBITjZEcmJ4a3B5cHRndGxOb2ZiVk5BRUFuVFFTTVJhNFlob0pwbl9aVV83dVpUSmZ2RzlVQ3VaMndoVFczem9HWGdNZ9IBiwFBVV95cUxPU0pQWWRQMUh6UG4xTU9nTzhjTVJzQ0Z3UkFQQmdIMEwxQ2Ztc09CUFNHT01UejRvWUFZUmZLX0MtUXU1S0dlTzJXTHlFeFNKNERUUlI1WGZEZVl1dDJ1Yk5GclMyekUwUnJKU2dXSGxTNkhBdkdFdDlwVTJtNEk2VGtQWG1falVCMU5r?oc=5",
-        "pubDate": "Mon, 30 Jun 2025 02:01:00 GMT"
+        "title": "Artificial Intelligence: A Tool That Is Reshaping Geopolitics \u2013 Analysis - Eurasia Review",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDNRYmcwNVBNRHg0aDdZVnFWcVZ5c0ZTLVRPTWpPNWYyS0pWcUprbDJ6QkJmRFpYQVRPc3BRTmJQWFlZZWJxMGs0WmNIajNoYTdralZlMXVDUU9nZjNTMEhXRm5UNHNZajZYb3ZfbVBuN3BmTTFMOGFDOG1fTVY1eEpFS0pDWi1icU9scFFtVHV4UnFvNzBBZzNsLU1WVFdrTS1UandOUnVzRXB0a1E?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 01:12:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T03:57:22.634395+00:00"
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
   },
-  "Donald Trump": {
+  "Renewable Energy": {
     "articles": [
       {
-        "title": "WATCH LIVE: Senate debates Trump\u2019s budget package after reading full text of 940-page bill - PBS",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDBwRVIxSlN1VWRRMDRZUU9uWTRLazdCZFEwWG44a0pleVIyT0ZDa1dXLXdfTHVuQWpHU3VzUzZfSzRiLWxjaFZPbk1pMllUQVNLNjN0WnB2ZWZkODUxVXRYWEQxdklyZjFrUjhQQUhNVk4wMDN4Qmd4eTIybHlxT3lWZnhNTU8xQV9YTm03NjkzUGNTYjFxdFdpMV85RUZoR1ZHTkxzSkVwN0tvZUQ0STZCSVFwUFZFWUNPeDJzZElpQdIBxwFBVV95cUxOWVlNcFhRbzBNYl9mS2VHN0VoYXRzOXB5T0xqOFo1clhvdFcxNmhaa0NuUENYendPVjl3OU1DMEdJTTdkLUhOWFQtTnNxTXY3dWh0dmFyQXRINGlvdjNtRHgzU2laZ3cwQUlmZ1Ywd2F1YUdKNF9JNFgtU1dJMTJHRzJhRGJDckhSZHZSelJ0SV9vb1VXX0xHb1FEemUwSzluUVhsLWVXLWhGRmFuSFFTUEtYUjY4T1hYeGNaY3dWejN1ZU93ZkpB?oc=5",
-        "pubDate": "Sun, 29 Jun 2025 16:50:59 GMT"
+        "title": "A surprise excise tax sends the clean energy industry into panic - Latitude Media",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2gtMzFFaC1lTzBMUjhtMHNHbkF5VkNJS01TVGxQVXRNOHpiSmg0ZUVvOEpCUUUzWHRlekVBenFqRy1vS00yOGFjeXBpTjFUVGU0ckg0MFNhTjZJbEVzcG5YQjhLcUFRbzZlOW5WNG5wcWRxMEpkTXlsSHM5dFRCSGQyd29mR0E0Xy1xOGxwemF1YWRYU1QzTjl0WG9fT0QtSGc?oc=5",
+        "pubDate": "Mon, 30 Jun 2025 00:47:54 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T03:57:22.634395+00:00"
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
   },
-  "US Politics": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Republicans struggle to pass Trump\u2019s \u2018big, beautiful bill\u2019 as debate drags on - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oRjhOZVE4alNHbU1XYnY5VVhZc3lFdmlZRWZralVmMDJSMVdlaGZsLTVQSzB2bi1GYVBKLWc1blI5ZGhiSmV5T2pLMXBDWjYya1VGeXFTTVB3U2tPblB2RXJRQm5kaEEwRTRZWlhTWWs?oc=5",
-        "pubDate": "Sun, 29 Jun 2025 16:33:48 GMT"
+        "title": "Ukraine war briefing: Zelenskyy to pull Kyiv out of convention banning anti-personnel landmines - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVkIwZDdrbUlGRFptNFpjRWtTeW1udnI1UXY1S1RZemd2UHIxazhGMjVRUHI5aW1FYXVuNlRRRmRZSnNrU1VhSFkwTU0tUGJqNGUxbzJZUGxvRFJJODlneW9HbUF1bW1iODdjYmwwVDRETXF2RXpkMEcxQ3JaZS15bjhjemg4cjFHNG44MWZNam1zY0hRTW42UDRPVUo3OTBwazNyUkM5b1VsYzVyY3NaVHRYRUJTTXZUbXg5THY5NXhsSzY5dHlYaHhFX2poQWlGdU40ei1YWQ?oc=5",
+        "pubDate": "Sun, 29 Jun 2025 23:53:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-06-30T03:57:22.634395+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Trump's 'Big Beautiful Bill' clears Senate hurdle: What's inside the GOP's controversial push to reshape US ec - India TV News",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV3V3S1dzelp6VDhFQUlVOEJFNlFzb0JFTVQ5QVRta2hwYVllSnpCQmNfX045YUk2VXI3dEJpbDA4WDYzVFVnbWx0TTVSb0dpc1pMdVBlMHF4MlhMNjJadUFWd09CNk4xbEN1TW5IaUpRUUpqcmdoS3c2bGdaeGt1Tl9XMzV5VkZ0R1FGSzRRa2tFMXpPRjNaZnhoWFVibEdaWlFqNlZXYW5DQThJSkNrMHFkUFFRbTZnWFRHRE9sdk1KOU9rLVhCejBFZ3pzOVRqRDVaS290dmt6ZmVZbjlYd2tR?oc=5",
-        "pubDate": "Sun, 29 Jun 2025 16:22:20 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-06-30T03:57:22.634395+00:00"
+    "last_updated_ts": "2025-06-30T04:57:27.573802+00:00"
   }
 }

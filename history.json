@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Two drones shot down in southern Israel - The Times of Israel",
-      "pubDate": "Sun, 22 Jun 2025 04:27:46 GMT"
-    },
-    {
       "title": "Israel-Iran latest: Donald Trump warns Iran of further attacks if Tehran does not \u2018make peace\u2019 - Financial Times",
       "pubDate": "Sun, 22 Jun 2025 09:27:48 GMT"
     },
@@ -405,6 +401,10 @@
     {
       "title": "U.N. Inspector Says Iran Could Enrich Nuclear Fuel in \u2018Matter of Months\u2019 - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 20:33:13 GMT"
+    },
+    {
+      "title": "CIA chief says strike on metal conversion site set Iran nuclear program back by years - The Times of Israel",
+      "pubDate": "Mon, 30 Jun 2025 03:38:10 GMT"
     }
   ],
   "donald_trump": [
@@ -1051,6 +1051,10 @@
     {
       "title": "WATCH LIVE: Senate debates Trump\u2019s budget package after reading full text of 940-page bill - PBS",
       "pubDate": "Sun, 29 Jun 2025 16:50:59 GMT"
+    },
+    {
+      "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
+      "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
     }
   ],
   "russia": [
@@ -1519,10 +1523,6 @@
     {
       "title": "Encountered a problematic response from an AI model? More standards and tests are needed, say researchers - CNBC",
       "pubDate": "Sun, 22 Jun 2025 06:00:46 GMT"
-    },
-    {
-      "title": "The rise of Alexandr Wang: Meta\u2019s $14bn bet on 28-year-old Scale AI chief - Financial Times",
-      "pubDate": "Sun, 22 Jun 2025 04:00:17 GMT"
     },
     {
       "title": "AI Deception and Blackmail: Anthropic Study Reveals Widespread Risks, Urges Proactive Safeguards - Oneindia",
@@ -2111,6 +2111,10 @@
     {
       "title": "GOP senators reach deal on AI regulation ban - The Hill",
       "pubDate": "Mon, 30 Jun 2025 02:01:00 GMT"
+    },
+    {
+      "title": "Artificial Intelligence: A Tool That Is Reshaping Geopolitics \u2013 Analysis - Eurasia Review",
+      "pubDate": "Mon, 30 Jun 2025 01:12:01 GMT"
     }
   ],
   "climate": [
@@ -2411,13 +2415,13 @@
     {
       "title": "Russia Launches Largest Drone Attack Yet Against Ukraine, Kills F-16 Pilot - Algemeiner.com",
       "pubDate": "Sun, 29 Jun 2025 17:01:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy to pull Kyiv out of convention banning anti-personnel landmines - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 23:53:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US joins Israel-Iran war: How Russia, China, Tehran, other world media reacted \u2014 \u2018American recession will be next\u2019 - Mint",
-      "pubDate": "Sun, 22 Jun 2025 04:30:47 GMT"
-    },
     {
       "title": "US strikes on Iran come at fragile moment for the global economy - The Economic Times",
       "pubDate": "Sun, 22 Jun 2025 06:41:57 GMT"
@@ -2644,10 +2648,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Chinese factories rush to reduce reliance on Donald Trump\u2019s US - Financial Times",
-      "pubDate": "Sun, 22 Jun 2025 04:00:07 GMT"
-    },
     {
       "title": "U.S. races to develop alternatives to China\u2019s rare earth materials - The Washington Post",
       "pubDate": "Sun, 22 Jun 2025 11:31:40 GMT"
@@ -2963,6 +2963,10 @@
     {
       "title": "China Factory Activity Decline Eases Again After Trade Truce - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 01:43:00 GMT"
+    },
+    {
+      "title": "China resumes seafood imports from some Japan regions - CNN",
+      "pubDate": "Mon, 30 Jun 2025 02:39:00 GMT"
     }
   ],
   "world_news": [
@@ -2992,10 +2996,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "White House wary of Iran counterattack as Trump strikes triumphant tone - Politico",
-      "pubDate": "Sun, 22 Jun 2025 04:11:00 GMT"
-    },
     {
       "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 05:37:56 GMT"
@@ -3843,6 +3843,10 @@
     {
       "title": "People dying early of cancer costs UK economy \u00a310.3bn a year, study finds - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 23:01:00 GMT"
+    },
+    {
+      "title": "Hundreds of neighbors rally to give a 9-year-old with cancer one last Christmas - The Washington Post",
+      "pubDate": "Mon, 30 Jun 2025 02:15:32 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -3941,6 +3945,10 @@
     {
       "title": "Senate Megabill Stuns the Clean Energy Industry With New Tax on Wind and Solar - WSJ",
       "pubDate": "Sun, 29 Jun 2025 20:24:00 GMT"
+    },
+    {
+      "title": "A surprise excise tax sends the clean energy industry into panic - Latitude Media",
+      "pubDate": "Mon, 30 Jun 2025 00:47:54 GMT"
     }
   ],
   "electric-vehicle_battery": [
