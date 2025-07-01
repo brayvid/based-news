@@ -1027,6 +1027,10 @@
     {
       "title": "Trump complains about US-Japan trade talks as Bessent warns of higher tariffs - Reuters",
       "pubDate": "Tue, 01 Jul 2025 03:46:00 GMT"
+    },
+    {
+      "title": "Musk shreds Trump's tax bill as 'DEBT SLAVERY,' vows to unseat Republicans who back it - CNBC",
+      "pubDate": "Mon, 30 Jun 2025 20:38:58 GMT"
     }
   ],
   "russia": [
@@ -1266,10 +1270,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
-      "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
-    },
     {
       "title": "US Stock Futures Rise as Fears of Oil Shock Recede: Markets Wrap - Bloomberg",
       "pubDate": "Mon, 23 Jun 2025 13:34:01 GMT"
@@ -2059,6 +2059,10 @@
     {
       "title": "Banks Adopting AI Agents After Seeing Benefits of AI Chatbots - PYMNTS.com",
       "pubDate": "Tue, 01 Jul 2025 00:05:27 GMT"
+    },
+    {
+      "title": "Apple may power Siri with Anthropic or OpenAI models amid AI struggles - Engadget",
+      "pubDate": "Mon, 30 Jun 2025 21:20:28 GMT"
     }
   ],
   "climate": [
@@ -2140,10 +2144,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Seven killed in Kyiv in new Russian aerial attack - BBC",
-      "pubDate": "Mon, 23 Jun 2025 07:08:48 GMT"
-    },
     {
       "title": "More Deaths in Kyiv as Russia Hits Civilian Infrastructure - Bloomberg",
       "pubDate": "Mon, 23 Jun 2025 11:07:38 GMT"
@@ -2367,6 +2367,10 @@
     {
       "title": "The Future of Modern Warfare Is Being Built in Ukraine - Bloomberg.com",
       "pubDate": "Tue, 01 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Russia claims to have seized all of Luhansk region - The Guardian",
+      "pubDate": "Tue, 01 Jul 2025 00:24:00 GMT"
     }
   ],
   "us_economy": [
@@ -2596,14 +2600,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Asks State-Owned Developers to Avoid Public Debt Defaults - Bloomberg.com",
-      "pubDate": "Mon, 23 Jun 2025 07:07:26 GMT"
-    },
-    {
-      "title": "China Issues Warning Over US Bombing of Iran - Newsweek",
-      "pubDate": "Mon, 23 Jun 2025 07:43:20 GMT"
-    },
     {
       "title": "China not seen as likely to use navy to secure Hormuz Strait - South China Morning Post",
       "pubDate": "Mon, 23 Jun 2025 21:45:20 GMT"
@@ -3775,6 +3771,10 @@
     {
       "title": "Israel kills 95 Palestinians, bombing across Gaza amid new ceasefire push - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 16:13:05 GMT"
+    },
+    {
+      "title": "Live: Gaza death toll surges as Hamas accuses Israel of stalling ceasefire - Al Jazeera",
+      "pubDate": "Tue, 01 Jul 2025 06:36:55 GMT"
     }
   ],
   "federal_reserve": [
@@ -4245,6 +4245,10 @@
     {
       "title": "Massive Ahold Delhaize data breach sees 2.2 million people's data exposed in ransomware attacks against major U.S. food retailer - PC Gamer",
       "pubDate": "Tue, 01 Jul 2025 04:21:18 GMT"
+    },
+    {
+      "title": "Data breach at rental company Hertz exposes customers' personal information - USA Today",
+      "pubDate": "Tue, 01 Jul 2025 00:49:50 GMT"
     }
   ],
   "technology": [
@@ -4417,6 +4421,10 @@
     {
       "title": "Google strikes deal to buy fusion power from MIT spinoff Commonwealth - Reuters",
       "pubDate": "Mon, 30 Jun 2025 15:30:22 GMT"
+    },
+    {
+      "title": "Google just pre-ordered 200 megawatts of fusion energy for the 2030s - New Atlas",
+      "pubDate": "Tue, 01 Jul 2025 07:12:13 GMT"
     }
   ],
   "us_senate": [
@@ -4669,6 +4677,12 @@
     {
       "title": "Robinhood Launches Stock Tokens, Reveals Layer 2 Blockchain, and Expands Crypto Suite in EU and US with Perpetual Futures and Staking - Robinhood Newsroom",
       "pubDate": "Mon, 30 Jun 2025 15:02:25 GMT"
+    }
+  ],
+  "political_corruption": [
+    {
+      "title": "Massive healthcare fraud takedown - KVOA",
+      "pubDate": "Tue, 01 Jul 2025 00:52:00 GMT"
     }
   ]
 }
