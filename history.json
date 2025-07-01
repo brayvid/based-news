@@ -107,10 +107,6 @@
       "pubDate": "Mon, 23 Jun 2025 23:57:07 GMT"
     },
     {
-      "title": "Iran fires missiles at US base in Qatar, Trump calls for peace - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 21:40:41 GMT"
-    },
-    {
       "title": "LIVE: Iran says it will halt attacks if Israel stops \u2018illegal aggression\u2019 - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 02:49:40 GMT"
     },
@@ -375,10 +371,6 @@
     {
       "title": "Live updates: Israel says it has agreed to Trump\u2019s proposed ceasefire with Iran - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 06:45:32 GMT"
-    },
-    {
-      "title": "Did President Trump have legal authority to launch Iran strikes? - BBC",
-      "pubDate": "Mon, 23 Jun 2025 21:50:49 GMT"
     },
     {
       "title": "Israel says Iran violates ceasefire announced by Trump, orders new strikes - Reuters",
@@ -1011,6 +1003,10 @@
     {
       "title": "Live updates: Senate passes Trump\u2019s agenda bill after marathon voting session | CNN Politics - CNN",
       "pubDate": "Tue, 01 Jul 2025 20:41:00 GMT"
+    },
+    {
+      "title": "Trump says DOGE 'might have to go back and eat' Elon Musk after his criticism of the GOP bill - NBC News",
+      "pubDate": "Tue, 01 Jul 2025 15:30:16 GMT"
     }
   ],
   "russia": [
@@ -1157,6 +1153,10 @@
     {
       "title": "Russia launched record 5,438 drones at Ukraine in June alone - Euronews.com",
       "pubDate": "Tue, 01 Jul 2025 08:43:37 GMT"
+    },
+    {
+      "title": "Macron and Putin Discuss Iran and Ukraine in Rare Call - The New York Times",
+      "pubDate": "Tue, 01 Jul 2025 21:07:50 GMT"
     }
   ],
   "ai_safety": [
@@ -1425,10 +1425,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Development of the treatment prediction model in the artificial intelligence in depression \u2013 medication enhancement study - Nature",
-      "pubDate": "Mon, 23 Jun 2025 21:07:01 GMT"
-    },
-    {
       "title": "NMSU to launch New Mexico's first Bachelor's Degree in Artificial Intelligence - KFOX",
       "pubDate": "Mon, 23 Jun 2025 22:16:24 GMT"
     },
@@ -1439,10 +1435,6 @@
     {
       "title": "Artificial Intelligence policy finalized for the coming school year - SiouxlandProud",
       "pubDate": "Tue, 24 Jun 2025 03:15:35 GMT"
-    },
-    {
-      "title": "Tesla Launches Paid Robotaxi Service in Austin, Marking a Milestone in Autonomous Driving - BBN Times",
-      "pubDate": "Mon, 23 Jun 2025 21:59:15 GMT"
     },
     {
       "title": "How Ex-OpenAI CTO Murati\u2019s Startup Plans to Compete With OpenAI and Others - The Information",
@@ -2019,6 +2011,10 @@
     {
       "title": "Artificial intelligence and innovation in the human-tech nexus - Nature",
       "pubDate": "Tue, 01 Jul 2025 15:01:15 GMT"
+    },
+    {
+      "title": "Meta announces new \u2018superintelligence\u2019 unit to work on AI - Euronews.com",
+      "pubDate": "Tue, 01 Jul 2025 11:19:05 GMT"
     }
   ],
   "climate": [
@@ -2331,6 +2327,10 @@
     {
       "title": "Map Reveals Scale of Russia's Summer Offensive Against Ukraine - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 15:32:46 GMT"
+    },
+    {
+      "title": "Three dead as Ukrainian drone strike hits Russian plant - The Independent",
+      "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
     }
   ],
   "us_economy": [
@@ -2557,13 +2557,13 @@
     {
       "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
+    },
+    {
+      "title": "Why is the US dollar falling by record levels in 2025? - Al Jazeera",
+      "pubDate": "Tue, 01 Jul 2025 13:41:15 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China not seen as likely to use navy to secure Hormuz Strait - South China Morning Post",
-      "pubDate": "Mon, 23 Jun 2025 21:45:20 GMT"
-    },
     {
       "title": "China says Taiwan president spreading 'heresy' with sovereignty speech - Reuters",
       "pubDate": "Mon, 23 Jun 2025 23:48:06 GMT"
@@ -4049,6 +4049,10 @@
     {
       "title": "Senate passes megabill that curbs IRA tax credits, drops wind and solar tax - Utility Dive",
       "pubDate": "Tue, 01 Jul 2025 18:57:14 GMT"
+    },
+    {
+      "title": "Clean energy stocks jump after tax on solar and wind projects is removed from Trump's big bill - CNBC",
+      "pubDate": "Tue, 01 Jul 2025 17:28:57 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4121,10 +4125,6 @@
     {
       "title": "US safety agency contacts Tesla on robotaxi issues seen in online videos - Reuters",
       "pubDate": "Mon, 23 Jun 2025 23:13:58 GMT"
-    },
-    {
-      "title": "Tesla finally launched its robotaxis \u2014 and the stock surges 9%. Here's what analysts are saying - Quartz",
-      "pubDate": "Mon, 23 Jun 2025 21:02:59 GMT"
     },
     {
       "title": "Tesla's European car sales nosedive for fifth month as customers switch to Chinese EVs - CNBC",
