@@ -373,10 +373,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump calls 'obliteration' an accurate description of damage to Iran's nuclear facilities - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 03:34:00 GMT"
-    },
-    {
       "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as Trump says 'bullseye!!!' - Sky News",
       "pubDate": "Mon, 23 Jun 2025 06:37:45 GMT"
     },
@@ -1259,13 +1255,13 @@
     {
       "title": "New AI safety group launches ad buy to build right-left alliance to protect humanity - The Hill",
       "pubDate": "Mon, 30 Jun 2025 17:03:00 GMT"
+    },
+    {
+      "title": "Congress might block state AI laws for five years \u2014 here\u2019s what it means - TechCrunch",
+      "pubDate": "Mon, 30 Jun 2025 17:02:12 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Global Markets Dip as Traders Gauge Fallout From U.S. Strikes on Iran - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 03:03:33 GMT"
-    },
     {
       "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
@@ -1469,16 +1465,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Can AI fix 911\u2019s biggest problems \u2014 or make them worse? - Police1",
-      "pubDate": "Mon, 23 Jun 2025 03:26:13 GMT"
-    },
-    {
       "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg",
       "pubDate": "Mon, 23 Jun 2025 05:44:00 GMT"
-    },
-    {
-      "title": "Teaching students how to use AI responsibly - The Transmitter",
-      "pubDate": "Mon, 23 Jun 2025 04:00:07 GMT"
     },
     {
       "title": "Physical AI can help humans manage complex environments - The World Economic Forum",
@@ -2153,13 +2141,13 @@
     {
       "title": "Earth's Energy Imbalance Has Doubled in 2 Decades, Study Warns - ScienceAlert",
       "pubDate": "Mon, 30 Jun 2025 02:54:59 GMT"
+    },
+    {
+      "title": "Lethal heat is Europe\u2019s new climate reality - politico.eu",
+      "pubDate": "Mon, 30 Jun 2025 20:06:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war live: Moscow\u2019s wartime toll hits grim milestone while massive drone attack injures five in Kyiv - The Independent",
-      "pubDate": "Mon, 23 Jun 2025 03:44:00 GMT"
-    },
     {
       "title": "Russia Hits Kyiv\u2019s Civilian Infrastructure Killing At Least Five - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 06:43:00 GMT"
@@ -2175,10 +2163,6 @@
     {
       "title": "More Deaths in Kyiv as Russia Hits Civilian Infrastructure - Bloomberg",
       "pubDate": "Mon, 23 Jun 2025 11:07:38 GMT"
-    },
-    {
-      "title": "More than 350 Russian drones, missiles blast Kyiv killing at least seven - France 24",
-      "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
     },
     {
       "title": "Russia ordered 2 assassination attempts on popular journalist Dmytro Gordon, Ukraine security service says - The Kyiv Independent",
@@ -2971,6 +2955,10 @@
     {
       "title": "China's June factory activity unexpectedly expands, private survey shows - CNBC",
       "pubDate": "Tue, 01 Jul 2025 02:03:00 GMT"
+    },
+    {
+      "title": "China's factory activity returns to growth in June, Caixin PMI shows - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 01:53:00 GMT"
     }
   ],
   "world_news": [
@@ -3303,6 +3291,10 @@
     {
       "title": "Senate considers ditching the EV tax credit even earlier than planned - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:26:13 GMT"
+    },
+    {
+      "title": "Senate tries to overcome vote-a-rama, infighting to pass Trump's $3.3 trillion bill - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 00:50:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3841,6 +3833,10 @@
     {
       "title": "The US Federal Reserve\u2019s Trump problem - Financial Times",
       "pubDate": "Sun, 29 Jun 2025 10:00:09 GMT"
+    },
+    {
+      "title": "Trump Adds Pressure on Fed's Powell to Lower Rates - Newsmax",
+      "pubDate": "Mon, 30 Jun 2025 18:06:01 GMT"
     }
   ],
   "earthquakes": [
@@ -3905,6 +3901,10 @@
     {
       "title": "Elon Musk Calls Republicans Pigs, Calls for New Political Party - vanityfair.com",
       "pubDate": "Tue, 01 Jul 2025 00:20:31 GMT"
+    },
+    {
+      "title": "Elon Musk just made his starkest political threat since the election - CNN",
+      "pubDate": "Mon, 30 Jun 2025 23:19:00 GMT"
     }
   ],
   "cancer": [
@@ -4311,10 +4311,6 @@
   ],
   "republican_party": [
     {
-      "title": "G.O.P. Can\u2019t Include Limits on Trump Lawsuits in Megabill, Senate Parliamentarian Rules - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 03:10:50 GMT"
-    },
-    {
       "title": "Senate Republicans put megabill on track for likely Monday passage - Politico",
       "pubDate": "Sun, 29 Jun 2025 04:10:32 GMT"
     },
@@ -4359,6 +4355,10 @@
     {
       "title": "Bitcoin Soars, Altcoins Fade in $300 Billion Crypto Shakeout - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 05:00:00 GMT"
+    },
+    {
+      "title": "BTC, ETH, SOL News: Bitcoin Carries Crypto Markets in 2025's First Half as Altcoins Crumble - CoinDesk",
+      "pubDate": "Mon, 30 Jun 2025 20:11:46 GMT"
     }
   ],
   "us_congress": [
@@ -4372,10 +4372,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "Experts Assess Strikes, Response and What Comes Next - The Cipher Brief",
-      "pubDate": "Mon, 23 Jun 2025 03:25:43 GMT"
-    },
     {
       "title": "CIA says intelligence indicates Iran's nuclear program severely damaged - Reuters",
       "pubDate": "Wed, 25 Jun 2025 20:35:45 GMT"
