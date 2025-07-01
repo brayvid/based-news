@@ -337,14 +337,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says Iran and Israel agree to a ceasefire - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 22:12:08 GMT"
-    },
-    {
-      "title": "Trump announces Israel-Iran ceasefire timeline he says will end the war: Live updates - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 22:58:00 GMT"
-    },
-    {
       "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
       "pubDate": "Tue, 24 Jun 2025 00:42:00 GMT"
     },
@@ -1007,6 +999,10 @@
     {
       "title": "Trump says DOGE 'might have to go back and eat' Elon Musk after his criticism of the GOP bill - NBC News",
       "pubDate": "Tue, 01 Jul 2025 15:30:16 GMT"
+    },
+    {
+      "title": "Trump tours 'Alligator Alcatraz,' a day before its first arrivals are expected - NPR",
+      "pubDate": "Tue, 01 Jul 2025 12:47:21 GMT"
     }
   ],
   "russia": [
@@ -1157,6 +1153,10 @@
     {
       "title": "Macron and Putin Discuss Iran and Ukraine in Rare Call - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 21:07:50 GMT"
+    },
+    {
+      "title": "Putin, Macron discuss Iran, Ukraine in first phone call in nearly three years - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 19:30:35 GMT"
     }
   ],
   "ai_safety": [
@@ -1265,10 +1265,6 @@
     {
       "title": "US strikes on Iran shake up financial markets - KREM",
       "pubDate": "Mon, 23 Jun 2025 23:17:00 GMT"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures jump as Trump says Israel, Iran agree to ceasefire - Yahoo Finance",
-      "pubDate": "Mon, 23 Jun 2025 22:26:59 GMT"
     },
     {
       "title": "Oil slumps and markets rally as Trump announces Iran-Israel ceasefire \u2013 business live - The Guardian",
@@ -1425,20 +1421,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "NMSU to launch New Mexico's first Bachelor's Degree in Artificial Intelligence - KFOX",
-      "pubDate": "Mon, 23 Jun 2025 22:16:24 GMT"
-    },
-    {
       "title": "Opinion | Unleashing artificial intelligence - The Washington Post",
       "pubDate": "Mon, 23 Jun 2025 23:55:24 GMT"
     },
     {
       "title": "Artificial Intelligence policy finalized for the coming school year - SiouxlandProud",
       "pubDate": "Tue, 24 Jun 2025 03:15:35 GMT"
-    },
-    {
-      "title": "How Ex-OpenAI CTO Murati\u2019s Startup Plans to Compete With OpenAI and Others - The Information",
-      "pubDate": "Mon, 23 Jun 2025 22:23:00 GMT"
     },
     {
       "title": "Artificial Intelligence (AI) in Drones Market is Forecasted to Reach US$ 55 Billion in 2032, Says Stratview Research - GlobeNewswire",
@@ -2015,6 +2003,10 @@
     {
       "title": "Meta announces new \u2018superintelligence\u2019 unit to work on AI - Euronews.com",
       "pubDate": "Tue, 01 Jul 2025 11:19:05 GMT"
+    },
+    {
+      "title": "Meta Announces Formation of 'Superintelligence' Unit Amid AI Recruiting Push - Investopedia",
+      "pubDate": "Tue, 01 Jul 2025 13:40:25 GMT"
     }
   ],
   "climate": [
@@ -2334,10 +2326,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US oil production shields economy from Iran's Strait of Hormuz threats - Fox Business",
-      "pubDate": "Mon, 23 Jun 2025 22:44:00 GMT"
-    },
     {
       "title": "U.S. Attack on Iran Injects Uncertainty Into an Already Uncertain Economy - WSJ",
       "pubDate": "Tue, 24 Jun 2025 09:30:00 GMT"
@@ -2931,6 +2919,10 @@
     {
       "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
       "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
+    },
+    {
+      "title": "China boosts tech outreach to Global South as US collaboration dips: analysts - South China Morning Post",
+      "pubDate": "Tue, 01 Jul 2025 21:44:14 GMT"
     }
   ],
   "world_news": [
@@ -3623,13 +3615,13 @@
     {
       "title": "Underlying Labor Market Dynamics Are Solid, Recession Stays on the Back Burner - Wolf Street",
       "pubDate": "Tue, 01 Jul 2025 18:29:49 GMT"
+    },
+    {
+      "title": "Moody\u2019s to NYISO: U.S. Edging Near Recession - RTO Insider",
+      "pubDate": "Tue, 01 Jul 2025 21:27:57 GMT"
     }
   ],
   "drones": [
-    {
-      "title": "Ukraine intelligence chief gives new details on Spiderweb drone operation - The Washington Post",
-      "pubDate": "Mon, 23 Jun 2025 22:30:33 GMT"
-    },
     {
       "title": "Ukrainian drones strike Russian S-400 air defense system in occupied Crimea, HUR says. - The Kyiv Independent",
       "pubDate": "Thu, 26 Jun 2025 20:24:33 GMT"
@@ -4653,6 +4645,12 @@
     {
       "title": "US power pollution climbs on higher coal use - Reuters",
       "pubDate": "Tue, 01 Jul 2025 12:00:00 GMT"
+    }
+  ],
+  "military_and_defense": [
+    {
+      "title": "Senate passes Republicans\u2019 domestic policy bill with $150B extra for Pentagon - Stars and Stripes",
+      "pubDate": "Tue, 01 Jul 2025 16:52:35 GMT"
     }
   ]
 }
