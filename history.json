@@ -107,10 +107,6 @@
       "pubDate": "Mon, 23 Jun 2025 17:02:38 GMT"
     },
     {
-      "title": "U.S. intel found Iran did not move nuclear material from Fordo ahead of attack, Sen. Mullin says - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 16:16:06 GMT"
-    },
-    {
       "title": "Iran targets US military base in Qatar days after nuclear sites bombed: Live updates - USA Today",
       "pubDate": "Mon, 23 Jun 2025 18:52:42 GMT"
     },
@@ -356,14 +352,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump rips Russia\u2019s Medvedev over nuclear remarks - The Hill",
-      "pubDate": "Mon, 23 Jun 2025 16:31:00 GMT"
-    },
-    {
-      "title": "Trump slams Russia's Medvedev for claiming countries will give Iran nuclear warheads - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 16:57:18 GMT"
-    },
     {
       "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
@@ -1027,6 +1015,10 @@
     {
       "title": "Live updates: Thune says Republicans close to clinching deal to pass Trump\u2019s legislative package - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 15:08:40 GMT"
+    },
+    {
+      "title": "Trump escalates feud with Musk, threatens Tesla, SpaceX support - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 15:58:54 GMT"
     }
   ],
   "russia": [
@@ -1169,6 +1161,10 @@
     {
       "title": "Kim Jong Un Honors North Korean Soldiers Killed Fighting for Russia - The Moscow Times",
       "pubDate": "Tue, 01 Jul 2025 08:12:00 GMT"
+    },
+    {
+      "title": "Russia launched record 5,438 drones at Ukraine in June alone - Euronews.com",
+      "pubDate": "Tue, 01 Jul 2025 08:43:37 GMT"
     }
   ],
   "ai_safety": [
@@ -2063,13 +2059,13 @@
     {
       "title": "Senate Votes 99-1 to Strip AI Provision From Trump\u2019s Tax Bill - Bloomberg",
       "pubDate": "Tue, 01 Jul 2025 11:05:16 GMT"
+    },
+    {
+      "title": "Defeat of a 10-Year Ban on State A.I. Laws Is a Blow to Tech Industry - The New York Times",
+      "pubDate": "Tue, 01 Jul 2025 14:33:19 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "Heat waves are getting more dangerous with climate change \u2014 and we may still be underestimating them - CNN",
-      "pubDate": "Mon, 23 Jun 2025 16:47:00 GMT"
-    },
     {
       "title": "Major global study on future climate threats to coastal oceans - Phys.org",
       "pubDate": "Mon, 23 Jun 2025 17:29:04 GMT"
@@ -2386,10 +2382,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economic Outlook Remains Dark as Major Forecast Sees Sixth Straight Drop - Newsweek",
-      "pubDate": "Mon, 23 Jun 2025 16:10:14 GMT"
-    },
     {
       "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 18:33:15 GMT"
@@ -2983,6 +2975,10 @@
     {
       "title": "China is using pollution as a geopolitical weapon, and the US must respond - The Hill",
       "pubDate": "Tue, 01 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "title": "China Issues Update on 'Complicated' Border Tensions With India - Newsweek",
+      "pubDate": "Tue, 01 Jul 2025 15:58:02 GMT"
     }
   ],
   "world_news": [
@@ -3311,6 +3307,10 @@
     {
       "title": "Why is Musk calling for a new America Party over the Big Beautiful Bill? - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 12:12:52 GMT"
+    },
+    {
+      "title": "Senate Republicans narrowly pass Trump megabill after marathon voting session - NBC News",
+      "pubDate": "Tue, 01 Jul 2025 16:03:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3521,6 +3521,10 @@
     {
       "title": "DOJ announces arrest, indictments in North Korean IT worker scheme - Reuters",
       "pubDate": "Tue, 01 Jul 2025 08:24:08 GMT"
+    },
+    {
+      "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
+      "pubDate": "Tue, 01 Jul 2025 15:56:21 GMT"
     }
   ],
   "recession": [
@@ -4111,10 +4115,6 @@
   ],
   "national_security": [
     {
-      "title": "What U.S. strikes in Iran mean for national security - WBUR",
-      "pubDate": "Mon, 23 Jun 2025 16:02:20 GMT"
-    },
-    {
       "title": "US Tests Radar That Could Link Into Golden Dome to Detect China, Russia Threats - U.S. News & World Report",
       "pubDate": "Tue, 24 Jun 2025 17:33:18 GMT"
     },
@@ -4215,10 +4215,6 @@
       "pubDate": "Mon, 23 Jun 2025 17:50:27 GMT"
     },
     {
-      "title": "Trump's Iran strikes may have given the Fed another reason to keep rates high - Business Insider",
-      "pubDate": "Mon, 23 Jun 2025 16:58:00 GMT"
-    },
-    {
       "title": "Federal Reserve's Bowman says rate cut should be on table in July - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 06:15:54 GMT"
     },
@@ -4237,6 +4233,10 @@
     {
       "title": "The Trump tariffs aren't causing U.S. prices to spike. Here's why. - CBS News",
       "pubDate": "Tue, 01 Jul 2025 14:11:37 GMT"
+    },
+    {
+      "title": "Here\u2019s where groceries cost more (and less) over the past year - The Hill",
+      "pubDate": "Tue, 01 Jul 2025 12:18:00 GMT"
     }
   ],
   "nasa": [
