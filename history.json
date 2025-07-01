@@ -357,14 +357,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump claims \u2018obliteration' of Iran's nuclear sites but uncertainty over missing uranium - NBC News",
-      "pubDate": "Mon, 23 Jun 2025 13:30:14 GMT"
-    },
-    {
-      "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
-    },
-    {
       "title": "Trump rips Russia\u2019s Medvedev over nuclear remarks - The Hill",
       "pubDate": "Mon, 23 Jun 2025 16:31:00 GMT"
     },
@@ -1023,6 +1015,10 @@
     {
       "title": "Trump suggests slashing Tesla subsidies, Musk says 'cut it all' - Reuters",
       "pubDate": "Tue, 01 Jul 2025 12:12:34 GMT"
+    },
+    {
+      "title": "Live updates: Trump expresses hope Senate could pass his massive legislation today - The Washington Post",
+      "pubDate": "Tue, 01 Jul 2025 13:38:40 GMT"
     }
   ],
   "russia": [
@@ -1270,18 +1266,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "US Stock Futures Rise as Fears of Oil Shock Recede: Markets Wrap - Bloomberg",
-      "pubDate": "Mon, 23 Jun 2025 13:34:01 GMT"
-    },
-    {
-      "title": "Oil prices flip-flop and Wall Street drifts after U.S. bombs Iran - Spectrum News",
-      "pubDate": "Mon, 23 Jun 2025 13:36:00 GMT"
-    },
-    {
-      "title": "Why Markets Are Weirdly Calm After the US Bombed Iran - Business Insider",
-      "pubDate": "Mon, 23 Jun 2025 13:59:00 GMT"
-    },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq waver after report of Iranian missile strikes aimed at US air bases - Yahoo Finance",
       "pubDate": "Mon, 23 Jun 2025 17:21:46 GMT"
@@ -2067,6 +2051,10 @@
     {
       "title": "US Senate rejects plan to stop states regulating AI - Financial Times",
       "pubDate": "Tue, 01 Jul 2025 09:53:31 GMT"
+    },
+    {
+      "title": "US Senate strikes AI regulation ban from Trump megabill - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 12:56:42 GMT"
     }
   ],
   "climate": [
@@ -2391,10 +2379,6 @@
   ],
   "us_economy": [
     {
-      "title": "US business activity moderates; price pressures building up - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 13:48:40 GMT"
-    },
-    {
       "title": "US Economic Outlook Remains Dark as Major Forecast Sees Sixth Straight Drop - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 16:10:14 GMT"
     },
@@ -2621,6 +2605,10 @@
     {
       "title": "Banks say Trump\u2019s \u2018big beautiful bill\u2019 could boost the U.S. economy \u2013 despite deficit concerns - CNBC",
       "pubDate": "Tue, 01 Jul 2025 06:16:57 GMT"
+    },
+    {
+      "title": "US economy in meltdown as dollar suffers its worst six months since 1973 - Daily Express",
+      "pubDate": "Tue, 01 Jul 2025 09:40:00 GMT"
     }
   ],
   "china": [
@@ -2971,6 +2959,10 @@
     {
       "title": "China Raises Quota for Foreign Investment, Ending 13-Month Pause - Bloomberg",
       "pubDate": "Tue, 01 Jul 2025 04:37:00 GMT"
+    },
+    {
+      "title": "China sanctions former Filipino lawmaker who defended Philippines' South China Sea claims - AP News",
+      "pubDate": "Tue, 01 Jul 2025 07:30:00 GMT"
     }
   ],
   "world_news": [
@@ -3303,6 +3295,10 @@
     {
       "title": "Polls show Americans largely oppose Trump's 'One Big Beautiful Bill,' but are more split on Medicaid, immigration specifics - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 01 Jul 2025 07:25:47 GMT"
+    },
+    {
+      "title": "Why is Musk calling for a new America Party over the Big Beautiful Bill? - Al Jazeera",
+      "pubDate": "Tue, 01 Jul 2025 12:12:52 GMT"
     }
   ],
   "democratic_party": [
@@ -3651,13 +3647,13 @@
     {
       "title": "Odds On: Bettors see U.S. avoiding recession in 2025 - TipRanks",
       "pubDate": "Tue, 01 Jul 2025 07:54:16 GMT"
+    },
+    {
+      "title": "Billionaire Ken Fisher Warns Trump Tariffs Could Trigger Recession - MSN",
+      "pubDate": "Tue, 01 Jul 2025 13:31:09 GMT"
     }
   ],
   "drones": [
-    {
-      "title": "IDF says it has been intercepting dozens of Iranian drones using electronic warfare means - The Times of Israel",
-      "pubDate": "Mon, 23 Jun 2025 13:58:49 GMT"
-    },
     {
       "title": "Ukraine intelligence chief gives new details on Spiderweb drone operation - The Washington Post",
       "pubDate": "Mon, 23 Jun 2025 22:30:33 GMT"
@@ -3677,6 +3673,10 @@
     {
       "title": "Russia has dramatically increased the production of combat drones \u2014 Bloomberg - EADaily",
       "pubDate": "Sat, 28 Jun 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Video Shows Drone Rescuing Stranded Man During Flood in China - The New York Times",
+      "pubDate": "Tue, 01 Jul 2025 10:14:18 GMT"
     }
   ],
   "hamas": [
@@ -4169,12 +4169,6 @@
     {
       "title": "Tesla silences FSD critics by posting full video of Model Y delivering itself to customer - Teslarati",
       "pubDate": "Sat, 28 Jun 2025 11:19:23 GMT"
-    }
-  ],
-  "military_and_defense": [
-    {
-      "title": "Over 50 fighter jets participated in wave of strikes targeting Iranian military infrastructure \u2014 IDF - The Times of Israel",
-      "pubDate": "Mon, 23 Jun 2025 13:12:02 GMT"
     }
   ],
   "battery_electric_vehicle": [
