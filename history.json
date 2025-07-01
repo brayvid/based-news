@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran war live: Iran\u2019s Fordow nuclear site hit again, state media says, as Israel says it is attacking targets in central Tehran - The Guardian",
-      "pubDate": "Mon, 23 Jun 2025 09:32:00 GMT"
-    },
-    {
       "title": "Live updates: Israel and Iran press their attacks as Trump muses about a regime change - AP News",
       "pubDate": "Mon, 23 Jun 2025 12:49:00 GMT"
     },
@@ -1031,6 +1027,10 @@
     {
       "title": "Trump's \"Head Back To South Africa\" Threat Gets A Dare From Musk - NDTV",
       "pubDate": "Tue, 01 Jul 2025 07:09:59 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Trump hits back after Musk criticizes megabill - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 01 Jul 2025 08:42:16 GMT"
     }
   ],
   "russia": [
@@ -1461,13 +1461,13 @@
     {
       "title": "US stocks push further into record heights - The Morning Call",
       "pubDate": "Mon, 30 Jun 2025 20:03:45 GMT"
+    },
+    {
+      "title": "Global Markets Mixed as Focus Shifts to Trump Bill - WSJ",
+      "pubDate": "Tue, 01 Jul 2025 08:30:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A.I. Computing Power Is Splitting the World Into Haves and Have-Nots - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 09:04:36 GMT"
-    },
     {
       "title": "US accuses Chinese AI firm DeepSeek of aiding Beijing's military and dodging chip export rules - Mint",
       "pubDate": "Mon, 23 Jun 2025 11:36:19 GMT"
@@ -1475,10 +1475,6 @@
     {
       "title": "New Cameras Predict if Somebody Is About to Shoplift, Company Says - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 12:28:03 GMT"
-    },
-    {
-      "title": "Exclusive: DeepSeek aids China's military and evaded export controls, US official says - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 09:01:53 GMT"
     },
     {
       "title": "Swedish PM calls for a pause of the EU\u2019s AI rules - politico.eu",
@@ -2067,6 +2063,10 @@
     {
       "title": "Elon Musk's xAI raises $10 billion in debt and equity as it steps up challenge to OpenAI - CNBC",
       "pubDate": "Tue, 01 Jul 2025 08:37:27 GMT"
+    },
+    {
+      "title": "Google signs first fusion power deal with MIT spinout Commonwealth Fusion Systems - Proactive Investors",
+      "pubDate": "Tue, 01 Jul 2025 07:34:00 GMT"
     }
   ],
   "climate": [
@@ -2145,6 +2145,10 @@
     {
       "title": "Lethal heat is Europe\u2019s new climate reality - politico.eu",
       "pubDate": "Mon, 30 Jun 2025 20:06:00 GMT"
+    },
+    {
+      "title": "Record rainfall in central China leads to flooding and evacuations - NBC News",
+      "pubDate": "Tue, 01 Jul 2025 09:37:57 GMT"
     }
   ],
   "ukraine": [
@@ -2947,6 +2951,10 @@
     {
       "title": "China sanctions former Philippines senator, foreign ministry says - Reuters",
       "pubDate": "Tue, 01 Jul 2025 02:16:00 GMT"
+    },
+    {
+      "title": "China ready to discuss tariffs and subsidies with US at WTO - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 08:20:05 GMT"
     }
   ],
   "world_news": [
@@ -2973,24 +2981,12 @@
   ],
   "us_politics": [
     {
-      "title": "Democrats sharpen arguments against Trump foreign policy on Iran - NBC News",
-      "pubDate": "Mon, 23 Jun 2025 09:00:43 GMT"
-    },
-    {
-      "title": "Congress returns to divisions over Iran strike amid budget battles - The Hill",
-      "pubDate": "Mon, 23 Jun 2025 10:00:00 GMT"
-    },
-    {
       "title": "House Democratic veterans back moves to limit Trump\u2019s military authority - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 15:41:00 GMT"
     },
     {
       "title": "Republican senators\u2019 proposed Medicaid cuts threaten to send red states \u2018backwards\u2019 - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 14:38:00 GMT"
-    },
-    {
-      "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
     },
     {
       "title": "US supreme court allows Trump administration to deport migrants to countries other than their own \u2013 live - The Guardian",
@@ -3497,6 +3493,10 @@
     {
       "title": "A Trio of US Treasury Hacks Exposes a Pattern Making Banks Nervous - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 21:00:27 GMT"
+    },
+    {
+      "title": "DOJ announces arrest, indictments in North Korean IT worker scheme - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 08:24:08 GMT"
     }
   ],
   "recession": [
@@ -3969,6 +3969,10 @@
     {
       "title": "DOJ announces a record-breaking takedown of health care fraud schemes - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:39:35 GMT"
+    },
+    {
+      "title": "Who would be affected by health care cuts in Senate version of Trump\u2019s budget bill - PBS",
+      "pubDate": "Mon, 30 Jun 2025 22:35:48 GMT"
     }
   ],
   "world_economy": [
