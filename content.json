@@ -1,22 +1,72 @@
 {
-  "Iran": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Iranian authorities make sweeping arrests in wake of war with Israel - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR203SVVISEhNS0R6dHRpWWZYN0l0a1VtMlB3aW1mckRRWXJQUFZfQ0xJenNjdWZrNkJ0Q2RDaTU2SkhfWTk0d0RpX0d1TUlva1o3VFhQOGtMUmNKZER5VVN5MmFQQ2NETXFvN2puNGNXbDF2X21DdXpUejM3NEtfR21uZw?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 19:17:15 GMT"
+        "title": "Live updates: Senate passes Trump\u2019s agenda bill after marathon voting session | CNN Politics - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFVyQTFGRDlpZ05NcGVZaE1uNmkyMTRqR1haYy1NNU4wTUd0RDJOb0pJU3NzWm1iNGI2QTNDRE42MF82cG5PT2pSa1V1QzZJSTBLVmFrVnhlajJoVGJfOEV2emQyMXJmWTc3LS1wTXRiZWFycElsR3Q4Y1NSdEtCdnpnYw?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 20:41:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-01T20:02:06.135530+00:00"
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Trump\u2019s Policy Bill Could Put the U.S. Further Behind China - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2NKSTlHWW9zdndHcnE4amwxTHlDWjIwVWdldnBkUkY1TVRjYmxFd3ZwNTRENERJQzhFVE8xSXByMlRtRFBrSmhSeVhOMFhpdlRaN2xtVkRaaDM5T1BpNGpqZVBnVlJSb3JjOGhXX1FEX0trNmg3QmlnbkhCM0dycw?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 19:49:28 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "Justice Department says 2 Chinese nationals charged with spying inside the US for Beijing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT18xNmVrNE5wOWl4cUdKY3IzRmM5X3hOZUx6QXpvS1ZJdnNZc25JdWxIYWVjNm9EMXJHQTlDWDlWMlh3Qmh5NVVZRkFYa1ZFRXJIRUJkZFV1ckx6Q2taTE12YWRQYzdaOVJrQWR0VEg0ZnNQOEhIbHh2ZmVUVUNXVllyNll1MVMxRU9PSg?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 17:57:00 GMT"
+        "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX283Y0lmQXpmZ2ViTVNsMzlvZnV5dUpWLTFkcURuNk5FdUJkV3lJcHd4VHJkVWlFZWJUWGFab3Z0azBudXNEVk5HaXM2M1RZRTdTNkRYNE5WT21ROGhlYXJpallVM0VBeWtIZF9LTEJ2NHBielVWUG9hZUpJNW1YQWpKR21kWDdra21KRjV2U1FuMEZRYU9WRXp6NUZQbnp4R1JILV9lcnZKWEEwUVE?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-01T20:02:06.135530+00:00"
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
+  },
+  "Renewable Energy": {
+    "articles": [
+      {
+        "title": "Senate passes megabill that curbs IRA tax credits, drops wind and solar tax - Utility Dive",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3RKaVhPZ3gtZ0RuVWcwbEF2QkVKUHBWUWNfaUF0S0FzRzVkNDRqTGlxeUdobDN3TDdVZzBnUnFDVk1Kbm44VnJOa3hvdVJJdEJjc2I1aGFLVlB5N2xxOHo2aEd6NVE3OEprU3BTSHpkelhOTHhHM3BFM2t3NEkxQkxtVTZ2dE4tZy1nVXdrQi15REJkTjJVRw?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 18:57:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
+  },
+  "Recession": {
+    "articles": [
+      {
+        "title": "Underlying Labor Market Dynamics Are Solid, Recession Stays on the Back Burner - Wolf Street",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09tOGYxeTVHVjVwcmo3c0Y5VzlfTmRuYVlIdFRPRWl0S2lYRThiNlhCUGVEX21rUmdXZ00yY2NFMFpBSEdvY2NWSFlqOVliY3dtd2RqUkczZWwyemQyd3h0WTQ0RV9YTnlWd3VjeWVVRWZwcWVyb0IxNWtfRW5TT1N5NjVweS11WXlFcktPWTc5ZUNwTHBYTWlYRVBZamlwdkhVZXlEWHB4dHB0MWpkTllB?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 18:29:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
+  },
+  "Health Care": {
+    "articles": [
+      {
+        "title": "Map Shows How Many Could Lose Health Care in Each State Under Tax Bill - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGNpazNSYko0OFFmdDlablc3T25fb2d5YmVMODRTSU9BVmVUcUdGTjN1cW16VWlZTkQzVl96aklMUGhqUHJLWjJ6UkF3T0NNMUVpTVhyVUlQZUlfWmJnMHFvX0RONkhQc2prTld6R1lsQXZDU1BfZFVkdXk0Sm9rNG5IT0plMzdJRmxnMDZxN3BfNjV4ZW1XUi1jbTh2U2NYeXZmWmdYTXY?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 16:33:44 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Artificial intelligence and innovation in the human-tech nexus - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85c29LN1VpcFF2cVRYSmhLMWxQT3ZhMGhhcnpud0FQOEFOUFBuMU9vLWdsdjJRUFpUdEJHWVFva1lReS1yN1VCa2J1R3hTTXpzUUt1UHo0c0U?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 15:01:15 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T21:02:06.664299+00:00"
   }
 }
