@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "U.S., Israel Attack Iranian Nuclear Targets\u2014Assessing the Damage - Council on Foreign Relations",
-      "pubDate": "Mon, 23 Jun 2025 15:59:00 GMT"
-    },
-    {
       "title": "Live updates: Israel tells public to return to shelters after second Iran missile warnings - AP News",
       "pubDate": "Tue, 24 Jun 2025 02:48:00 GMT"
     },
@@ -106,10 +102,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Israel-Iran latest: Israel strikes Tehran prison and Fordow nuclear site - Financial Times",
-      "pubDate": "Mon, 23 Jun 2025 15:04:05 GMT"
-    },
     {
       "title": "Iran attacks U.S. military base in Qatar with missiles - CNBC",
       "pubDate": "Mon, 23 Jun 2025 17:02:38 GMT"
@@ -357,6 +349,10 @@
     {
       "title": "Fordo Nuclear Site Work Taking Place in Iran, Satellate Images Show - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 18:23:45 GMT"
+    },
+    {
+      "title": "Iran assesses the damage and lashes out after Israeli and US strikes damage its nuclear sites - AP News",
+      "pubDate": "Tue, 01 Jul 2025 12:26:00 GMT"
     }
   ],
   "donald_trump": [
@@ -1027,6 +1023,10 @@
     {
       "title": "Trump wavers on July 4 megabill deadline - Politico",
       "pubDate": "Tue, 01 Jul 2025 13:56:28 GMT"
+    },
+    {
+      "title": "Live updates: Thune says Republicans close to clinching deal to pass Trump\u2019s legislative package - The Washington Post",
+      "pubDate": "Tue, 01 Jul 2025 15:08:40 GMT"
     }
   ],
   "russia": [
@@ -1460,14 +1460,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Swedish PM calls for a pause of the EU\u2019s AI rules - politico.eu",
-      "pubDate": "Mon, 23 Jun 2025 15:32:35 GMT"
-    },
-    {
-      "title": "OpenAI Confirms Firing of Staff Guarding Model Secrets After U.S. Tightens AI Controls - CoinCentral",
-      "pubDate": "Mon, 23 Jun 2025 15:58:17 GMT"
-    },
     {
       "title": "Goldman Sachs Expands Availability of AI Assistant Across Firm - PYMNTS.com",
       "pubDate": "Mon, 23 Jun 2025 17:50:17 GMT"
@@ -2067,6 +2059,10 @@
     {
       "title": "In dramatic reversal, Senate kills AI-law moratorium - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 14:09:08 GMT"
+    },
+    {
+      "title": "Senate Votes 99-1 to Strip AI Provision From Trump\u2019s Tax Bill - Bloomberg",
+      "pubDate": "Tue, 01 Jul 2025 11:05:16 GMT"
     }
   ],
   "climate": [
@@ -2152,10 +2148,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia ordered 2 assassination attempts on popular journalist Dmytro Gordon, Ukraine security service says - The Kyiv Independent",
-      "pubDate": "Mon, 23 Jun 2025 15:08:21 GMT"
-    },
     {
       "title": "Russia and Ukraine swap drone attacks as ceasefire efforts remain stalled - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 09:27:24 GMT"
@@ -2387,6 +2379,10 @@
     {
       "title": "Ukraine shows footage of Bober drones hitting Russian air defenses, fighter jet in Crimea. - The Kyiv Independent",
       "pubDate": "Tue, 01 Jul 2025 09:52:15 GMT"
+    },
+    {
+      "title": "Map Reveals Scale of Russia's Summer Offensive Against Ukraine - Newsweek",
+      "pubDate": "Tue, 01 Jul 2025 15:32:46 GMT"
     }
   ],
   "us_economy": [
@@ -2625,6 +2621,10 @@
     {
       "title": "Powell confirms that the Fed would have cut by now were it not for tariffs - CNBC",
       "pubDate": "Tue, 01 Jul 2025 13:57:35 GMT"
+    },
+    {
+      "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
+      "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
     }
   ],
   "china": [
@@ -3008,10 +3008,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House Democratic veterans back moves to limit Trump\u2019s military authority - The Guardian",
-      "pubDate": "Mon, 23 Jun 2025 15:41:00 GMT"
-    },
     {
       "title": "US supreme court allows Trump administration to deport migrants to countries other than their own \u2013 live - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 23:15:10 GMT"
@@ -3463,10 +3459,6 @@
       "pubDate": "Mon, 23 Jun 2025 18:11:43 GMT"
     },
     {
-      "title": "DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes - The Hacker News",
-      "pubDate": "Mon, 23 Jun 2025 15:14:00 GMT"
-    },
-    {
       "title": "Former CIA Official Warns US Over Crypto Espionage Threat - BeInCrypto",
       "pubDate": "Mon, 23 Jun 2025 19:30:00 GMT"
     },
@@ -3831,6 +3823,10 @@
     {
       "title": "Israel strikes pound Gaza, killing 60, ahead of US talks on ceasefire - Reuters",
       "pubDate": "Tue, 01 Jul 2025 01:14:00 GMT"
+    },
+    {
+      "title": "Saudi-Israel Talks Depend On End Of Gaza War, PA Taking Over For Hamas - i24NEWS",
+      "pubDate": "Tue, 01 Jul 2025 15:42:32 GMT"
     }
   ],
   "federal_reserve": [
@@ -3971,10 +3967,6 @@
   ],
   "atlantic_ocean": [
     {
-      "title": "The first Atlantic tropical storm of 2025 could form today. Could it make landfall? - MassLive",
-      "pubDate": "Mon, 23 Jun 2025 15:10:00 GMT"
-    },
-    {
       "title": "Tropical Storm Andrea forms, marking first named storm of Atlantic hurricane season - FOX Weather",
       "pubDate": "Tue, 24 Jun 2025 14:12:00 GMT"
     },
@@ -4026,10 +4018,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "China hits 1 TW solar milestone - pv magazine International",
-      "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
-    },
     {
       "title": "US installs more energy storage in Q1 2025 than ever before - Solar Power World",
       "pubDate": "Wed, 25 Jun 2025 14:49:01 GMT"
@@ -4191,12 +4179,6 @@
       "pubDate": "Sat, 28 Jun 2025 11:19:23 GMT"
     }
   ],
-  "battery_electric_vehicle": [
-    {
-      "title": "Experts discover game-changing solution to one of electric vehicle industry's biggest challenges: 'It can have a big impact' - The Cool Down",
-      "pubDate": "Mon, 23 Jun 2025 15:15:00 GMT"
-    }
-  ],
   "us_supreme_court": [
     {
       "title": "How US adults' views on same-sex marriage have changed since the Supreme Court's 2015 ruling - AP News",
@@ -4251,6 +4233,10 @@
     {
       "title": "Powell Reiterates No Rush to Cut as Fed Awaits Tariff Clarity - Bloomberg",
       "pubDate": "Tue, 24 Jun 2025 20:04:56 GMT"
+    },
+    {
+      "title": "The Trump tariffs aren't causing U.S. prices to spike. Here's why. - CBS News",
+      "pubDate": "Tue, 01 Jul 2025 14:11:37 GMT"
     }
   ],
   "nasa": [
@@ -4431,10 +4417,6 @@
   ],
   "astronomy": [
     {
-      "title": "Vera Rubin Telescope Quickly Found 1,200 New Asteroids - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 15:30:06 GMT"
-    },
-    {
       "title": "A mysterious mineral in asteroid Ryugu may rewrite planetary history - ScienceDaily",
       "pubDate": "Sat, 28 Jun 2025 06:30:15 GMT"
     }
@@ -4472,10 +4454,6 @@
     }
   ],
   "us_senate": [
-    {
-      "title": "Senate GOP unlikely to release revised megabill text Monday - Politico",
-      "pubDate": "Mon, 23 Jun 2025 15:07:08 GMT"
-    },
     {
       "title": "Senate votes down measure restricting Trump from further military action in Iran - CBS News",
       "pubDate": "Sat, 28 Jun 2025 01:30:21 GMT"
