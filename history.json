@@ -381,14 +381,6 @@
   ],
   "donald_trump": [
     {
-      "title": "LIVE: Iran vows to retaliate over US attacks; Trump warns of regime change - Al Jazeera",
-      "pubDate": "Mon, 23 Jun 2025 01:30:00 GMT"
-    },
-    {
-      "title": "Trump news at glance: US president talks regime change and \u2018MIGA\u2019 after Iran strikes - The Guardian",
-      "pubDate": "Mon, 23 Jun 2025 01:25:58 GMT"
-    },
-    {
       "title": "Donald Trump calls 'obliteration' an accurate description of damage to Iran's nuclear facilities - CNBC",
       "pubDate": "Mon, 23 Jun 2025 03:34:00 GMT"
     },
@@ -1039,6 +1031,10 @@
     {
       "title": "Elon Musk vows campaigns against every Republican who votes for Trump\u2019s agenda - The Independent",
       "pubDate": "Mon, 30 Jun 2025 22:30:00 GMT"
+    },
+    {
+      "title": "Trump blames AT&T for tech issues in a call, AT&T says its network did not cause disruption - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 00:43:00 GMT"
     }
   ],
   "russia": [
@@ -1480,10 +1476,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Apple Reportedly Mulling Perplexity Purchase to Bolster AI Offerings - PYMNTS.com",
-      "pubDate": "Mon, 23 Jun 2025 01:18:45 GMT"
-    },
     {
       "title": "Can AI fix 911\u2019s biggest problems \u2014 or make them worse? - Police1",
       "pubDate": "Mon, 23 Jun 2025 03:26:13 GMT"
@@ -2087,6 +2079,10 @@
     {
       "title": "Meta\u2019s Mark Zuckerberg unveils AI \u2018Superintelligence Labs\u2019 in restructuring as shares hit record high - New York Post",
       "pubDate": "Mon, 30 Jun 2025 19:56:39 GMT"
+    },
+    {
+      "title": "Meta deepens AI push with 'Superintelligence' lab, source says - Reuters",
+      "pubDate": "Mon, 30 Jun 2025 19:46:47 GMT"
     }
   ],
   "climate": [
@@ -2403,16 +2399,16 @@
     {
       "title": "Russia's Largest Bombardment of Ukraine - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:54:08 GMT"
+    },
+    {
+      "title": "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines? - Al Jazeera",
+      "pubDate": "Mon, 30 Jun 2025 16:46:23 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "Oil gains and US stock futures, Asian shares slip after US strikes Iran nuclear sites - KTVN",
       "pubDate": "Mon, 23 Jun 2025 05:05:26 GMT"
-    },
-    {
-      "title": "Oil futures surge following US strikes in Iran - CNN",
-      "pubDate": "Mon, 23 Jun 2025 01:28:00 GMT"
     },
     {
       "title": "US attack on Iran adds to economic uncertainty - Reuters",
@@ -2971,6 +2967,10 @@
     {
       "title": "China unveils its new 'graphite bomb' \u2014 here's how they work - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 14:16:52 GMT"
+    },
+    {
+      "title": "Xi Jinping's Absence Signals Power Shift? Intel Sources Warn China's Internal Turmoil May Spill Over To LAC - News18",
+      "pubDate": "Mon, 30 Jun 2025 22:04:00 GMT"
     }
   ],
   "world_news": [
@@ -3517,10 +3517,6 @@
   ],
   "recession": [
     {
-      "title": "Recession odds edge lower; SoftBank eyes trillion-dollar AI robotics hub; Jobless claims decline - CoStar",
-      "pubDate": "Mon, 23 Jun 2025 01:32:27 GMT"
-    },
-    {
       "title": "Russia's economy is down but not out - BBC",
       "pubDate": "Mon, 23 Jun 2025 06:07:33 GMT"
     },
@@ -3651,6 +3647,10 @@
     {
       "title": "US Goes \u2018Immediately Into A Recession\u2019 If Trump\u2019s Bill Doesn\u2019t Pass: Hassett - MSN",
       "pubDate": "Mon, 30 Jun 2025 20:33:35 GMT"
+    },
+    {
+      "title": "What CEOs talked about in Q2 2025: Tariffs, possibility of recession, and agentic AI - IoT Analytics",
+      "pubDate": "Mon, 30 Jun 2025 14:03:18 GMT"
     }
   ],
   "drones": [
@@ -3807,10 +3807,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Federal Reserve may need less forward guidance in uncertain times, San Francisco Fed chief says - New York Post",
-      "pubDate": "Mon, 23 Jun 2025 01:29:00 GMT"
-    },
-    {
       "title": "Powell says Fed can wait to reduce interest rates as Trump demands cuts - AP News",
       "pubDate": "Tue, 24 Jun 2025 12:39:00 GMT"
     },
@@ -3897,6 +3893,10 @@
     {
       "title": "Musk Lieutenants Depart Tesla and Leave Leadership Void - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 11:02:27 GMT"
+    },
+    {
+      "title": "Elon Musk Calls Republicans Pigs, Calls for New Political Party - vanityfair.com",
+      "pubDate": "Tue, 01 Jul 2025 00:20:31 GMT"
     }
   ],
   "cancer": [
@@ -3990,10 +3990,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "What China's wind, solar power surge means for world - People's Daily Online",
-      "pubDate": "Mon, 23 Jun 2025 01:58:00 GMT"
-    },
     {
       "title": "China hits 1 TW solar milestone - pv magazine International",
       "pubDate": "Mon, 23 Jun 2025 15:55:34 GMT"
@@ -4459,6 +4455,10 @@
     {
       "title": "Senate GOP tax bill includes largest cut to U.S. safety net in decades - The Washington Post",
       "pubDate": "Sun, 29 Jun 2025 16:41:33 GMT"
+    },
+    {
+      "title": "Senate moves toward final vote on big budget bill, with Alaska at the forefront - Alaska Beacon",
+      "pubDate": "Tue, 01 Jul 2025 01:21:06 GMT"
     }
   ],
   "fbi": [
