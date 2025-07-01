@@ -1,16 +1,8 @@
 {
   "israel": [
     {
-      "title": "How the Israel-Iran standoff took a turn and what's next after a pivotal 24 hours - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 06:02:52 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Iran\u2019s Fordow nuclear site hit again, state media says, as Israel says it is attacking targets in central Tehran - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 09:32:00 GMT"
-    },
-    {
-      "title": "LIVE: Iran missiles slam into Israel as huge explosions rock Tehran - Al Jazeera",
-      "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
     },
     {
       "title": "Live updates: Israel and Iran press their attacks as Trump muses about a regime change - AP News",
@@ -111,6 +103,10 @@
     {
       "title": "Israel acknowledges Palestinian civilians harmed at Gaza aid sites, says 'lessons learned' - Reuters",
       "pubDate": "Mon, 30 Jun 2025 18:09:51 GMT"
+    },
+    {
+      "title": "Israeli strike on cafe near Gaza City port kills dozens, hospital official says - CNN",
+      "pubDate": "Tue, 01 Jul 2025 00:04:00 GMT"
     }
   ],
   "iran": [
@@ -125,10 +121,6 @@
     {
       "title": "Israel-Iran latest: Israel strikes Tehran prison and Fordow nuclear site - Financial Times",
       "pubDate": "Mon, 23 Jun 2025 15:04:05 GMT"
-    },
-    {
-      "title": "LIVE: Israeli attacks hit Iran, southern Lebanon, Gaza - Al Jazeera",
-      "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
     },
     {
       "title": "Iran attacks U.S. military base in Qatar with missiles - CNBC",
@@ -380,14 +372,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as Trump says 'bullseye!!!' - Sky News",
-      "pubDate": "Mon, 23 Jun 2025 06:37:45 GMT"
-    },
-    {
-      "title": "Israel-Iran live updates: Region fears wider war; Trump raises prospect of regime change in Iran - The Washington Post",
-      "pubDate": "Mon, 23 Jun 2025 06:40:37 GMT"
-    },
     {
       "title": "Trump speculates about Iran regime change after US strikes - BBC",
       "pubDate": "Mon, 23 Jun 2025 10:29:19 GMT"
@@ -1039,6 +1023,10 @@
     {
       "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
       "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
+    },
+    {
+      "title": "Trump complains about US-Japan trade talks as Bessent warns of higher tariffs - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 03:46:00 GMT"
     }
   ],
   "russia": [
@@ -1173,6 +1161,10 @@
     {
       "title": "Russia says Moscow now occupies all of Ukraine\u2019s Luhansk region, illegally annexed in 2022 - AP News",
       "pubDate": "Mon, 30 Jun 2025 20:29:00 GMT"
+    },
+    {
+      "title": "Russia takes full control of Ukraine's Luhansk region, Russian-backed official says - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 06:07:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1472,10 +1464,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Physical AI can help humans manage complex environments - The World Economic Forum",
-      "pubDate": "Mon, 23 Jun 2025 07:00:00 GMT"
-    },
     {
       "title": "A.I. Computing Power Is Splitting the World Into Haves and Have-Nots - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 09:04:36 GMT"
@@ -2067,6 +2055,10 @@
     {
       "title": "AI PCs, Ryzen, and the Next Frontier in Personal Computing \u2013 Six Five On The Road - The Futurum Group",
       "pubDate": "Mon, 30 Jun 2025 23:57:26 GMT"
+    },
+    {
+      "title": "Banks Adopting AI Agents After Seeing Benefits of AI Chatbots - PYMNTS.com",
+      "pubDate": "Tue, 01 Jul 2025 00:05:27 GMT"
     }
   ],
   "climate": [
@@ -2148,10 +2140,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Hits Kyiv\u2019s Civilian Infrastructure Killing At Least Five - Bloomberg.com",
-      "pubDate": "Mon, 23 Jun 2025 06:43:00 GMT"
-    },
     {
       "title": "Seven killed in Kyiv in new Russian aerial attack - BBC",
       "pubDate": "Mon, 23 Jun 2025 07:08:48 GMT"
@@ -3505,10 +3493,6 @@
   ],
   "recession": [
     {
-      "title": "Russia's economy is down but not out - BBC",
-      "pubDate": "Mon, 23 Jun 2025 06:07:33 GMT"
-    },
-    {
       "title": "U.S. Recession Risk Drops, But It's Still Too Early to Relax - The Tradable",
       "pubDate": "Tue, 24 Jun 2025 12:01:07 GMT"
     },
@@ -3642,10 +3626,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Israeli drones destroy 15 Iranian warplanes across multiple bases, IDF says - Ynetnews",
-      "pubDate": "Mon, 23 Jun 2025 06:19:30 GMT"
-    },
     {
       "title": "IDF says it has been intercepting dozens of Iranian drones using electronic warfare means - The Times of Israel",
       "pubDate": "Mon, 23 Jun 2025 13:58:49 GMT"
@@ -3981,10 +3961,6 @@
       "pubDate": "Mon, 23 Jun 2025 08:33:00 GMT"
     },
     {
-      "title": "Global economy jitters grow after Trump\u2019s Iran strikes, Strait of Hormuz fears - South China Morning Post",
-      "pubDate": "Mon, 23 Jun 2025 06:59:44 GMT"
-    },
-    {
       "title": "World economy faces 'pivotal moment', central bank body BIS says - Reuters",
       "pubDate": "Sun, 29 Jun 2025 09:02:56 GMT"
     }
@@ -4053,6 +4029,10 @@
     {
       "title": "Republican senators seek to change Senate bill clean energy tax, improve tax credits - Reuters",
       "pubDate": "Mon, 30 Jun 2025 22:05:46 GMT"
+    },
+    {
+      "title": "GOP fight over clean energy threatens to derail megabill - Politico",
+      "pubDate": "Mon, 30 Jun 2025 19:39:34 GMT"
     }
   ],
   "electric-vehicle_battery": [
@@ -4261,6 +4241,10 @@
     {
       "title": "Ahold Delhaize Data Breach Impacts 2.2 Million People - SecurityWeek",
       "pubDate": "Mon, 30 Jun 2025 07:04:38 GMT"
+    },
+    {
+      "title": "Massive Ahold Delhaize data breach sees 2.2 million people's data exposed in ransomware attacks against major U.S. food retailer - PC Gamer",
+      "pubDate": "Tue, 01 Jul 2025 04:21:18 GMT"
     }
   ],
   "technology": [
@@ -4629,6 +4613,10 @@
     {
       "title": "Analyst sees an unpleasant change coming to Amazon Prime - TheStreet",
       "pubDate": "Sun, 29 Jun 2025 13:47:09 GMT"
+    },
+    {
+      "title": "Amazon CEO Jassy says AI will lead to 'fewer people doing some of the jobs' that get automated - CNBC",
+      "pubDate": "Tue, 01 Jul 2025 00:01:00 GMT"
     }
   ],
   "vladimir_putin": [
