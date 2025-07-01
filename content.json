@@ -1,72 +1,42 @@
 {
+  "China": {
+    "articles": [
+      {
+        "title": "How Rare Earths Became China\u2019s Top Trade Weapon - Foreign Policy",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkhoZ2dyYUNudVJOSndWWFd5bE1DTUMxSVBVbVZscFN5dWJIclI1M2xNRllseUJwdDltMkJ1VEZHYTZGR19pbkNRbzNsQXZadjFjeHllTHUzWDUwSUQyTmtWdW42eWZJdVVnLW8zd21sdmxSNzlOWWtMaXZnYzAwQjFLck5vMTNoVW5zazlR?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 17:53:23 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T19:02:15.207228+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Live updates: Senate passes GOP bill after marathon vote; Trump visits 'Alligator Alcatraz' and feuds with Elon Musk - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRTFDM1VGVXNNN2d5d0U5VkZzbXVaSzZlUnl5cXR4dmYzVm96M0R3d0pGemlYMnBYY2kzanNuNkFRZUE2MTM2NjBpdk9nTElJUlVtSmo5dFlqYXN2ZWhzQjNQenBXdWtQM29uekNQTjNzZ1pkXzNJaFV3ZXZKbXRDeEx1Rjd4NDJzc1R4T1ZuN2FYTTRRbnp3UkNnSjN2NFZWWVVWYUxhVF9TbkMtRkxKMmozS2J6Q2c4WEpsb0R6dHNPNGtE?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 17:32:24 GMT"
+        "title": "Trump threatens to arrest Mamdani if he doesn't cooperate with ICE - Axios",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tRXNuZUJNY0ZULVhpcEVvb045QVJULVlsNHlHMWhzUm90VXpqZU9KXzFHejlMcEhYMWxwb1NfOGVqNFFHNElERWhIMHk2WmFENVNFbEstQk15ZHhDQl95WDF0M3pXbmdyR2hNVkNTWGk2VEVSbmNqRQ?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 17:49:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
+    "last_updated_ts": "2025-07-01T19:02:15.207228+00:00"
+  },
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "AI, align thyself - cio.com",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSjhmaW5XcURyRjA1SVVoMVh3ekdwalRHY2RQYUlnRDBIajhJZUFPQW14S3lqRjZnSnpWR0tpQ2M3SkxJNHlJUHcwTVZiQUdZNTJJeUpHUHdIRkhHY2o3a3VZY1RyZ3cx?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 16:04:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-01T19:02:15.207228+00:00"
   },
   "Recession": {
     "articles": [
       {
-        "title": "13 'recession-proof' jobs that can pay over $50,000\u2014and don't require a bachelor's degree - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmRJNHoyZnFqS1pDMDFQbHN5QktqaTBEb0lVLUNGbXNZYUxKWUY4Wlc4d2I1TU95aG1xM1NUQlFDb3ZhSmZKUVd2andteW4zSW9jMWtBeUJBLTdpRGhjZ0hCMGU1WVg2cDdaSEQtRkpXWlh5OXJVM1pSNGZ5alJUOWR6T1A4NGZKRVFuWW5tTjVjcWlhTEhPNFpGRUNmeVlwejdxWXRGTnhwVGJzTlRuVzZDUdIBuAFBVV95cUxOcExRUUJZeFFOdEVMOUMtVGFwYjZIU09JOHN2NEdqYlNnS0xzYzE0eE1IV18yU3FxWkYzSmZRRWNXc3pqTUFqWi1uUDEwRTVESzJfZDJjQ3ZqdV9ubnlhcWpzbjhsZ0dzVkdad29iMXpfamNmbEdQZk0tMFhKZFdIdkVMYzRuQ19mZld1dUFFdnRUS2J6Z3oxeVZXUlE5bVBKdUhRVTB2WWNaY2F6Y0picTA4M3dvMG9t?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 16:48:24 GMT"
+        "title": "6 Warning Signs of a Recession \u2014 and Where the US Economy Stands, According to George Kamel - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRzZwVzRhc2EwclhMbjFSUi1Pc1o5c1NLWjhkaXNjbTdfTnhHU2hiYWZNLV9reFdoZ3FrZWl0T3ZOUTBXZlk4elBqbnI2VWhMUjNncmQzT2JlNUVNMUNHZUQwdlltOFFkN3NPT3J2bS15WkhwR2JXemowV1FTcjdfNGItY2dvRmY5WTFoRE1keHhpa3pTTm9wcU03Zk5QTGhJSk52ZUZReVpRYl9vWjVxNkF2S1ZNMnBwMXFGRE5vbXhpMl9MWDBxa1pzOWN2aDRnZFF1RDFjUU1vS0FwS2tGYU5NbjY4RWFMWm14cDdiZGYxYkpuNGp1dDFB?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 15:32:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Trump\u2019s megabill squeaks through Senate, but House can still reject changes - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tc2N6RmUtUkdmU1F5VjIwU2dPbkFKV1g5a2xKUnhyaXJEeF9oTDZQY3FXSk40SC1CQjhvelNrTElVZWdrbkdCZWx1cGUwQzUyRXh1aXV0bjB2Slg4WUlyNFdfdVpmZnowSEc00gFwQVVfeXFMTjRnV3pERC1yM256dDVPSTkzbW1EMVFrVGhEN3p2YXdoUXg4WmdGTHNEd29tc0R0N29qRnRfYlF2NXZfMUhmRUg4c1JUOXBxMW5tb0FoUXhueDJfTzUzTWk4QlYyRTlINDNmbzlDV3d2RA?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 14:52:47 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China\u2019s giant new gamble with digital IDs - The Economist",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlZmTjd2ODliM2FWend3NXhtS3RTZ2NLRVVqRWRsYnRUNVlwdGhFTVlseXh2OWRvN1pWcE1UU29XbWZlaEU2MG9HVVdsamdPdzdabVUxM1cwa0tJLU9aeHpZUmk4b0tOc3ktMklkMTNjSnZWdlpRX2g5ZURQQXBTbjhELWFFb2hmZVU0?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 14:31:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Senate strikes AI provision from GOP bill after uproar from the states - cbs8.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3ljTjRzUV9ZNmxSc3BLV1JiZ0E5SWg3SFFNb01Cdkh5TVl0Z0YzUGpIWXBuWFRHdGZjeUdlbmRpdWxiRDRXZEJfN1FrVjBuN3R6TUlHZC16eFg2bEFhWXJNYXBpR2tTSjVjLXNrRDNxQ2RPU0hFN1FkcWM0VG83T3NSeE9mbzF6UDdkTFlzSFJBZlQ4aFdxSmpFbVlCUDNha0FLU0xXaDBpWXdQT1hHek0tdUctNXFQOUk5MElpME1IcklGcGtpUUE3X01ucWExYnpEaWZJVnZ0QQ?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 12:47:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
-  },
-  "Pollution": {
-    "articles": [
-      {
-        "title": "US power pollution climbs on higher coal use - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1VLOGJJdXMwQ1FLOEF0NTZwekZYbWRieFV2d1RRbUs2M09yN2RaVk5JaTJwajR1LTE4LVZaUk9ONnhsd1pHTFJabUJKZUhPS2l0dDU3Y09pSFBvUzd0RWdZTWlVaXN6M2hQRkZfQ1JVN0c4ZXdCOG5LRTlmaURwWWVWZUdlTFN3MjYxRVNha2JCU1RDX1lVS0RVNnl0Zw?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 12:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "Asia-Pacific markets trade mixed as investors assess gains on Wall Street and Trump's tariff plans - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzhIMVF3c282VDh5UXYtZjIyamc0UEtnMjNIUUtnVW0wOVZWVmxVUlVvNkZPTHIxdHo2SGJPZ3h3NVF0dG5JTWljM1JRczZOUVVrZnNUSURHb05RTVg4ZVdrRTk3QjdsTXlBcW95ZEZRZzFDbkJvZE1sU3ROclNucW5PNGs0SGt2ZDNFT0tMUUk3V3prT3RHc0xPNVhTa0VJYy1FdzlPXzFQM0pEVm1ub1JrS3hPMURwck4yX1R5cTbSAcYBQVVfeXFMT3dSTTJDUWlsN3g2UktESWR0WmJVeU9wTDdOVkNUbUhwYjBYZnJheFVycjZiQkkxMXJDVWtXNEdfZDFDZFd2UmdLQXhDQXk0MHVPNlUycnI4MFAyMjNYby00Zm9oeXRERXUxekFxQ1R4VHR2MVZ3VEo5TC1lUXBZZlhSLURwQ3BVT2pVSHhtV19sMFZ5ak9xN24zX1Q2VVVTTmxFTFpVa1dHQUFKMzk0ekwzWGFtOTdKVTliMHpCR1RFWFQ5dTJR?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 07:58:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-01T18:02:25.675590+00:00"
+    "last_updated_ts": "2025-07-01T19:02:15.207228+00:00"
   }
 }
