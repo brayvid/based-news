@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran War LIVE Updates: Israeli Strike Killed Iran's Nuclear Scientist As Truce Comes Into Effect - NDTV",
-      "pubDate": "Tue, 24 Jun 2025 07:20:02 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Israel defence minister says he has ordered attack on Iran after claiming Tehran has violated ceasefire - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 09:03:00 GMT"
     },
@@ -94,10 +90,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Israel defence minister accuses Iran of violating ceasefire and orders \u2018powerful strikes\u2019 on Tehran - BBC",
-      "pubDate": "Tue, 24 Jun 2025 07:30:36 GMT"
-    },
     {
       "title": "LIVE: Israel orders \u2018intense strikes\u2019 on Tehran; Iran denies breaking truce - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 09:20:10 GMT"
@@ -971,6 +963,10 @@
     {
       "title": "Trump threatens to arrest anti-Israel New York City mayoral candidate Mamdani - The Times of Israel",
       "pubDate": "Tue, 01 Jul 2025 20:39:00 GMT"
+    },
+    {
+      "title": "DOGE eats Musk? Billionaire entrepreneur's companies at risk as he reignites feud with Trump - AP News",
+      "pubDate": "Tue, 01 Jul 2025 20:35:00 GMT"
     }
   ],
   "russia": [
@@ -1380,10 +1376,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "American Students Are Relying On ChatGPT - At Their Own Risk - Newsweek",
-      "pubDate": "Tue, 24 Jun 2025 08:00:01 GMT"
-    },
     {
       "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
@@ -1983,6 +1975,10 @@
     {
       "title": "Apple reaches out to OpenAI, Anthropic to build out Siri technology - Computerworld",
       "pubDate": "Tue, 01 Jul 2025 20:53:54 GMT"
+    },
+    {
+      "title": "Zuckerberg reportedly offers $300 million packages to lure OpenAI staff - CTech",
+      "pubDate": "Wed, 02 Jul 2025 07:01:00 GMT"
     }
   ],
   "climate": [
@@ -2311,6 +2307,10 @@
     {
       "title": "US halts some weapons shipments to Ukraine, White House says - BBC",
       "pubDate": "Wed, 02 Jul 2025 01:45:15 GMT"
+    },
+    {
+      "title": "US Halts Key Ukraine Weapons Deliveries Amid Russian Barrage - Bloomberg",
+      "pubDate": "Wed, 02 Jul 2025 01:22:00 GMT"
     }
   ],
   "us_economy": [
@@ -3807,6 +3807,10 @@
     {
       "title": "Israel-Gaza war live: Trump says Israel has agreed terms for 60-day ceasefire, urges Hamas to accept deal - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 01:00:57 GMT"
+    },
+    {
+      "title": "Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks - The Guardian",
+      "pubDate": "Wed, 02 Jul 2025 02:13:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -4073,6 +4077,10 @@
     {
       "title": "Senate removes excise tax on renewable energy industry from Trump domestic policy bill - CBS News",
       "pubDate": "Tue, 01 Jul 2025 22:17:20 GMT"
+    },
+    {
+      "title": "The GOP\u2019s big spending bill could kill renewable energy projects - The Verge",
+      "pubDate": "Tue, 01 Jul 2025 20:03:51 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4267,6 +4275,10 @@
     {
       "title": "Medicare data breach may have compromised personal information of 100,000 Americans - USA Today",
       "pubDate": "Wed, 02 Jul 2025 01:41:45 GMT"
+    },
+    {
+      "title": "Qantas cyber hack could have stolen \u2018significant\u2019 amount of data from six million customers - CNN",
+      "pubDate": "Wed, 02 Jul 2025 04:08:00 GMT"
     }
   ],
   "technology": [
@@ -4705,6 +4717,10 @@
     {
       "title": "Google ordered to pay over $314 million to Android users in California for \u2018stealing\u2019 mobile data - Mint",
       "pubDate": "Wed, 02 Jul 2025 02:04:38 GMT"
+    },
+    {
+      "title": "Google Owes $314 Million for Misusing Android Cell Phone Data - Bloomberg",
+      "pubDate": "Tue, 01 Jul 2025 22:04:04 GMT"
     }
   ]
 }
