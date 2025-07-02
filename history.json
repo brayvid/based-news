@@ -95,20 +95,12 @@
   ],
   "iran": [
     {
-      "title": "Was it all 'just a big show?' Anxiety and frustration for Middle East residents after Iran-Israel attacks - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 06:50:03 GMT"
-    },
-    {
       "title": "Israel defence minister accuses Iran of violating ceasefire and orders \u2018powerful strikes\u2019 on Tehran - BBC",
       "pubDate": "Tue, 24 Jun 2025 07:30:36 GMT"
     },
     {
       "title": "LIVE: Israel orders \u2018intense strikes\u2019 on Tehran; Iran denies breaking truce - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 09:20:10 GMT"
-    },
-    {
-      "title": "Live updates: Israel accuses Iran of violating the ceasefire. Iranian military denies it - AP News",
-      "pubDate": "Tue, 24 Jun 2025 06:50:41 GMT"
     },
     {
       "title": "Explosions ring out in Tehran despite Trump's order to Israel to stop strikes - Reuters",
@@ -313,10 +305,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Israel says it has agreed to Trump\u2019s proposed ceasefire with Iran - The Washington Post",
-      "pubDate": "Tue, 24 Jun 2025 06:45:32 GMT"
-    },
-    {
       "title": "Israel says Iran violates ceasefire announced by Trump, orders new strikes - Reuters",
       "pubDate": "Tue, 24 Jun 2025 09:01:51 GMT"
     },
@@ -331,10 +319,6 @@
     {
       "title": "Trump says he's 'not happy with Israel,' warns against dropping more bombs on Iran - CNBC",
       "pubDate": "Tue, 24 Jun 2025 11:27:00 GMT"
-    },
-    {
-      "title": "Live updates: Trump claims Israel-Iran ceasefire is \u2018in effect\u2019 despite initial violations - AP News",
-      "pubDate": "Tue, 24 Jun 2025 06:50:41 GMT"
     },
     {
       "title": "Trump says Putin called him to offer help with Iran - The Kyiv Independent",
@@ -983,6 +967,10 @@
     {
       "title": "Trump news at a glance: a senator quits, the \u2018big beautiful bill\u2019 loses its name \u2013 but senate still passes Trump\u2019s megabill - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 02:55:54 GMT"
+    },
+    {
+      "title": "Trump threatens to arrest anti-Israel New York City mayoral candidate Mamdani - The Times of Israel",
+      "pubDate": "Tue, 01 Jul 2025 20:39:00 GMT"
     }
   ],
   "russia": [
@@ -1238,10 +1226,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Oil slumps and markets rally as Trump announces Iran-Israel ceasefire \u2013 business live - The Guardian",
-      "pubDate": "Tue, 24 Jun 2025 05:57:00 GMT"
-    },
     {
       "title": "Oil prices shed 2% as Iran-Israel ceasefire eases concerns over supply, Strait of Hormuz closure - CNBC",
       "pubDate": "Tue, 24 Jun 2025 08:09:51 GMT"
@@ -1995,6 +1979,10 @@
     {
       "title": "Breakingviews - AI dooms the billable hour \u2013 and Big Law earnings - Reuters",
       "pubDate": "Wed, 02 Jul 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Apple reaches out to OpenAI, Anthropic to build out Siri technology - Computerworld",
+      "pubDate": "Tue, 01 Jul 2025 20:53:54 GMT"
     }
   ],
   "climate": [
@@ -2319,6 +2307,10 @@
     {
       "title": "Pentagon halts weapons shipment to Ukraine amid concerns over U.S. stockpile - NBC News",
       "pubDate": "Tue, 01 Jul 2025 22:12:07 GMT"
+    },
+    {
+      "title": "US halts some weapons shipments to Ukraine, White House says - BBC",
+      "pubDate": "Wed, 02 Jul 2025 01:45:15 GMT"
     }
   ],
   "us_economy": [
@@ -2579,10 +2571,6 @@
     {
       "title": "The Yellow Sea Dispute Between China and South Korea - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:05:19 GMT"
-    },
-    {
-      "title": "China On Target to Launch National Power Market by End of Year - Bloomberg.com",
-      "pubDate": "Tue, 24 Jun 2025 06:25:00 GMT"
     },
     {
       "title": "Oil prices fall more than 4% after Trump says China can continue buying oil from Iran - CNBC",
@@ -3299,6 +3287,10 @@
     {
       "title": "House Republicans don't have the votes yet to pass Trump's megabill - CNBC",
       "pubDate": "Tue, 01 Jul 2025 20:56:53 GMT"
+    },
+    {
+      "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
+      "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3370,10 +3362,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Trump says Israel-Iran ceasefire now in effect, please don't violate it - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 06:43:00 GMT"
-    },
     {
       "title": "US military to create two new border zones, officials say - Reuters",
       "pubDate": "Wed, 25 Jun 2025 21:59:35 GMT"
@@ -3493,6 +3481,10 @@
     {
       "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
       "pubDate": "Tue, 01 Jul 2025 15:56:21 GMT"
+    },
+    {
+      "title": "Qantas says hackers breached system holding data on 6 million customers - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 04:47:16 GMT"
     }
   ],
   "recession": [
@@ -3921,10 +3913,6 @@
   ],
   "cancer": [
     {
-      "title": "US approves AstraZeneca, Daiichi's treatment for lung cancer - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 06:50:35 GMT"
-    },
-    {
       "title": "Generic cancer drugs used around the world fail quality tests, investigation shows - STAT",
       "pubDate": "Wed, 25 Jun 2025 22:49:55 GMT"
     },
@@ -4165,6 +4153,10 @@
     {
       "title": "Tesla silences FSD critics by posting full video of Model Y delivering itself to customer - Teslarati",
       "pubDate": "Sat, 28 Jun 2025 11:19:23 GMT"
+    },
+    {
+      "title": "Tesla shares drop on Musk, Trump feud ahead of Q2 deliveries - CNBC",
+      "pubDate": "Wed, 02 Jul 2025 00:29:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4198,10 +4190,6 @@
     }
   ],
   "inflation": [
-    {
-      "title": "Federal Reserve's Bowman says rate cut should be on table in July - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 24 Jun 2025 06:15:54 GMT"
-    },
     {
       "title": "Consumer confidence sours in June, despite rollback of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 14:34:30 GMT"
@@ -4711,6 +4699,12 @@
     {
       "title": "Senate passes Republicans\u2019 domestic policy bill with $150B extra for Pentagon - Stars and Stripes",
       "pubDate": "Tue, 01 Jul 2025 16:52:35 GMT"
+    }
+  ],
+  "google": [
+    {
+      "title": "Google ordered to pay over $314 million to Android users in California for \u2018stealing\u2019 mobile data - Mint",
+      "pubDate": "Wed, 02 Jul 2025 02:04:38 GMT"
     }
   ]
 }
