@@ -79,14 +79,6 @@
   ],
   "iran": [
     {
-      "title": "Israel says it will respect Iran ceasefire \u2018as long as the other side does\u2019 \u2013 live updates - The Guardian",
-      "pubDate": "Tue, 24 Jun 2025 19:29:00 GMT"
-    },
-    {
-      "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
-    },
-    {
       "title": "US airstrikes failed to destroy Iran's nuclear sites, sources say - Reuters",
       "pubDate": "Tue, 24 Jun 2025 22:42:08 GMT"
     },
@@ -272,14 +264,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
-    },
-    {
-      "title": "House Democrats join Republicans to kill vote impeaching Trump over Iran strikes - Axios",
-      "pubDate": "Tue, 24 Jun 2025 19:46:37 GMT"
-    },
     {
       "title": "Intel Report on Iran Upends Victory Lap Trump Was Hoping for at NATO - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 22:34:19 GMT"
@@ -931,6 +915,10 @@
     {
       "title": "Trump announces Vietnam trade deal, says US given \u2018total access\u2019 to their markets - Fox Business",
       "pubDate": "Wed, 02 Jul 2025 15:33:00 GMT"
+    },
+    {
+      "title": "Donald Trump live: \u2018One Big Beautiful Bill\u2019 to face tight vote in US House - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 19:32:39 GMT"
     }
   ],
   "russia": [
@@ -1155,16 +1143,16 @@
     {
       "title": "Amid the hype, contractors find practical safety uses for AI - Construction Dive",
       "pubDate": "Wed, 02 Jul 2025 14:54:52 GMT"
+    },
+    {
+      "title": "How generative AI could help make construction sites safer - MIT Technology Review",
+      "pubDate": "Wed, 02 Jul 2025 09:00:00 GMT"
     }
   ],
   "financial_markets": [
     {
       "title": "Stock Market News, June 24, 2025: Nasdaq-100 scores first record close in over 4 months, Dow surges over 500 points on Israel-Iran ceasefire; Fed's Powell leaves door open to July cut - MarketWatch",
       "pubDate": "Tue, 24 Jun 2025 20:35:00 GMT"
-    },
-    {
-      "title": "Dow jumps 500 points, oil prices tank as investors bet Israel-Iran truce will hold: Live updates - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 19:26:00 GMT"
     },
     {
       "title": "US stocks approach their all-time high as oil prices tumble - AP News",
@@ -1304,10 +1292,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
-      "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
-    },
     {
       "title": "Federal judge rules copyrighted books are fair use for AI training - NBC News",
       "pubDate": "Tue, 24 Jun 2025 20:09:36 GMT"
@@ -1899,6 +1883,10 @@
     {
       "title": "AI is for aerospace: How artificial intelligence agents aim to change the sector - Aerospace Testing International",
       "pubDate": "Wed, 02 Jul 2025 09:18:00 GMT"
+    },
+    {
+      "title": "Inter-brain neural dynamics in biological and artificial intelligence systems - nature.com",
+      "pubDate": "Wed, 02 Jul 2025 15:07:48 GMT"
     }
   ],
   "climate": [
@@ -2247,6 +2235,10 @@
     {
       "title": "Pentagon Under Scrutiny Over Decision to Halt Weapons to Ukraine - Bloomberg",
       "pubDate": "Wed, 02 Jul 2025 18:52:58 GMT"
+    },
+    {
+      "title": "U.S. pauses some Ukraine weapons shipments; Kyiv scrambles to respond - The Washington Post",
+      "pubDate": "Wed, 02 Jul 2025 19:11:18 GMT"
     }
   ],
   "us_economy": [
@@ -2469,6 +2461,10 @@
     {
       "title": "US economy 'on wobbly footing': Why Wall Street strategists are cautious about stock market's recent records - AOL.com",
       "pubDate": "Tue, 01 Jul 2025 19:03:24 GMT"
+    },
+    {
+      "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
+      "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
     }
   ],
   "china": [
@@ -2855,6 +2851,10 @@
     {
       "title": "Beijing Braces for US Trade Deals That Seek to Shut Out China - Bloomberg",
       "pubDate": "Wed, 02 Jul 2025 15:56:24 GMT"
+    },
+    {
+      "title": "A more complicated kind of kill chain is making China's missiles a deadlier problem for US forces, a top general says - Business Insider",
+      "pubDate": "Wed, 02 Jul 2025 18:20:00 GMT"
     }
   ],
   "world_news": [
@@ -3203,6 +3203,10 @@
     {
       "title": "House debates Trump's agenda bill and Pentagon pauses Ukraine shipment: Morning Rundown - NBC News",
       "pubDate": "Wed, 02 Jul 2025 11:13:29 GMT"
+    },
+    {
+      "title": "CIA review finds flaws but does not dispute finding Putin sought to sway 2016 vote to Trump - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 19:47:30 GMT"
     }
   ],
   "democratic_party": [
@@ -3396,10 +3400,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Balance sheet recession lengthening - The K\u0101k\u0101 by Bernard Hickey",
-      "pubDate": "Tue, 24 Jun 2025 19:32:37 GMT"
-    },
     {
       "title": "Opinion | Twin shocks of Israel-Iran war, Trump tariffs bring global recession closer - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 08:39:33 GMT"
@@ -3745,10 +3745,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Magnitude 2.7 earthquake registered in Los Angeles - Los Angeles Times",
-      "pubDate": "Tue, 24 Jun 2025 19:42:08 GMT"
-    },
-    {
       "title": "Over 470 earthquakes rattle Japanese island chain with active volcanoes - Mint",
       "pubDate": "Thu, 26 Jun 2025 23:42:48 GMT"
     },
@@ -4090,10 +4086,6 @@
     }
   ],
   "inflation": [
-    {
-      "title": "Powell repeats rate cuts can wait as Fed studies tariff impacts - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 19:38:40 GMT"
-    },
     {
       "title": "Powell Reiterates No Rush to Cut as Fed Awaits Tariff Clarity - Bloomberg",
       "pubDate": "Tue, 24 Jun 2025 20:04:56 GMT"
