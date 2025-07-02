@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Israel tells public to return to shelters after second Iran missile warnings - AP News",
-      "pubDate": "Tue, 24 Jun 2025 02:48:00 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Trump declares ceasefire in \u201812-day war\u2019; IDF reports Iranian missile launches - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 03:05:11 GMT"
     },
@@ -102,10 +98,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "LIVE: Iran says it will halt attacks if Israel stops \u2018illegal aggression\u2019 - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 02:49:40 GMT"
-    },
     {
       "title": "Israel-Iran Live Updates: Iranian Missile Attack Kills Four in Israel - WSJ",
       "pubDate": "Tue, 24 Jun 2025 05:11:00 GMT"
@@ -335,14 +327,6 @@
     {
       "title": "Dramatic day of diplomacy culminates in Trump announcing Iran-Israel ceasefire - CNN",
       "pubDate": "Tue, 24 Jun 2025 03:10:00 GMT"
-    },
-    {
-      "title": "Iran refutes Trump's claims of ceasefire deal with Israel, but signals readiness to end hostilities: Live updates - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 02:25:00 GMT"
-    },
-    {
-      "title": "Rep. Thomas Massie, a longtime GOP maverick, faces Trump\u2019s fiercest wrath yet - The Washington Post",
-      "pubDate": "Tue, 24 Jun 2025 02:54:18 GMT"
     },
     {
       "title": "Iran rains missiles on Israel in final hour before ceasefire deadline: Live updates - CNBC",
@@ -1003,6 +987,10 @@
     {
       "title": "Trump falsely questions Zohran Mamdani's citizenship, threatens to arrest him over ICE operations - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 01 Jul 2025 20:15:00 GMT"
+    },
+    {
+      "title": "Trump says he will 'have a lot of fun' with Zohran Mamdani if he's elected New York mayor - USA Today",
+      "pubDate": "Tue, 01 Jul 2025 16:01:55 GMT"
     }
   ],
   "russia": [
@@ -1153,13 +1141,13 @@
     {
       "title": "Putin, Macron discuss Iran, Ukraine in first phone call in nearly three years - Reuters",
       "pubDate": "Tue, 01 Jul 2025 19:30:35 GMT"
+    },
+    {
+      "title": "Ukrainian drone hits weapons plant 800 miles deep in Russia, killing at least 3 - New York Post",
+      "pubDate": "Tue, 01 Jul 2025 21:44:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "FinVolution Announces Global AI Competition Targeting Deepfake Risks - TNGlobal",
-      "pubDate": "Tue, 24 Jun 2025 02:54:52 GMT"
-    },
     {
       "title": "AI models exhibit harmful behaviors, posing insider threats in corporate scenarios - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Tue, 24 Jun 2025 08:35:00 GMT"
@@ -2007,6 +1995,10 @@
     {
       "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 00:33:46 GMT"
+    },
+    {
+      "title": "'Evolve or die': How AI is impacting the workplace - Australian Broadcasting Corporation",
+      "pubDate": "Tue, 01 Jul 2025 18:41:06 GMT"
     }
   ],
   "climate": [
@@ -2561,6 +2553,10 @@
     {
       "title": "US ISM manufacturing rises to 49.0, fourth month of contraction - Action Forex",
       "pubDate": "Tue, 01 Jul 2025 14:13:42 GMT"
+    },
+    {
+      "title": "Trump Is Setting the U.S. Economy Up for Another Great Financial Crisis - In These Times",
+      "pubDate": "Tue, 01 Jul 2025 18:00:00 GMT"
     }
   ],
   "china": [
@@ -2939,6 +2935,10 @@
     {
       "title": "Two Chinese nationals charged for trying to recruit spies in US military - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 00:26:54 GMT"
+    },
+    {
+      "title": "China's Huawei must face US criminal charges, judge rules - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 18:14:17 GMT"
     }
   ],
   "world_news": [
@@ -3283,6 +3283,10 @@
     {
       "title": "Senate passes Trump's Big Beautiful Bill, including no tax on tips. When will it start in MA? - Worcester Telegram",
       "pubDate": "Tue, 01 Jul 2025 19:01:54 GMT"
+    },
+    {
+      "title": "Senate passes Trump\u2019s reconciliation bill with Vance casting tie-breaking vote - PBS",
+      "pubDate": "Tue, 01 Jul 2025 16:14:43 GMT"
     }
   ],
   "democratic_party": [
@@ -4251,6 +4255,10 @@
     {
       "title": "Qantas data breach to impact 6 million airline customers - BBC",
       "pubDate": "Wed, 02 Jul 2025 01:34:59 GMT"
+    },
+    {
+      "title": "Qantas says 'significant' portion of 6m customers' data likely stolen - Australian Broadcasting Corporation",
+      "pubDate": "Tue, 01 Jul 2025 23:49:28 GMT"
     }
   ],
   "technology": [
