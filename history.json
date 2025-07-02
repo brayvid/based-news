@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "US airstrikes failed to destroy Iran's nuclear sites, sources say - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 22:42:08 GMT"
-    },
-    {
       "title": "Israel-Iran live news: Iranian nuclear program could restart in months, Pentagon finds, as fragile ceasefire holds - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 01:21:36 GMT"
     },
@@ -256,10 +252,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Intel Report on Iran Upends Victory Lap Trump Was Hoping for at NATO - The New York Times",
-      "pubDate": "Tue, 24 Jun 2025 22:34:19 GMT"
-    },
     {
       "title": "Exclusive: Early US intel assessment suggests strikes on Iran did not destroy nuclear sites, sources say - CNN",
       "pubDate": "Tue, 24 Jun 2025 23:13:00 GMT"
@@ -919,6 +911,10 @@
     {
       "title": "Live updates: Trump-backed \u2018big beautiful\u2019 bill moves to House after Senate Republicans make changes - NBC News",
       "pubDate": "Wed, 02 Jul 2025 21:40:17 GMT"
+    },
+    {
+      "title": "Trump begins summer on a hot streak - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 22:00:00 GMT"
     }
   ],
   "russia": [
@@ -2835,6 +2831,10 @@
     {
       "title": "A more complicated kind of kill chain is making China's missiles a deadlier problem for US forces, a top general says - Business Insider",
       "pubDate": "Wed, 02 Jul 2025 18:20:00 GMT"
+    },
+    {
+      "title": "EU presses China on rare earths and Ukraine war - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 21:02:25 GMT"
     }
   ],
   "world_news": [
@@ -3190,14 +3190,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "New York City mayoral election live updates: Andrew Cuomo and Zohran Mamdani campaign in final hours before polls close - NBC News",
-      "pubDate": "Tue, 24 Jun 2025 22:06:09 GMT"
-    },
-    {
-      "title": "Democrats try to reopen abortion conversation on Dobbs anniversary - The Hill",
-      "pubDate": "Tue, 24 Jun 2025 22:44:00 GMT"
-    },
     {
       "title": "Mamdani on verge of winning New York City's Democratic mayoral contest after Cuomo concedes - Reuters",
       "pubDate": "Wed, 25 Jun 2025 09:28:44 GMT"
@@ -3683,6 +3675,10 @@
     {
       "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
+    },
+    {
+      "title": "Hamas studying new ceasefire proposals, calls for end to Gaza war - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 17:32:16 GMT"
     }
   ],
   "federal_reserve": [
@@ -4147,6 +4143,10 @@
     {
       "title": "Qantas data breach exposes personal details of millions of customers - AppleInsider",
       "pubDate": "Wed, 02 Jul 2025 13:23:21 GMT"
+    },
+    {
+      "title": "Qantas hit by 'significant' cyberattack, data breach of 6 million customers days after FBI warning to airlines - Fast Company",
+      "pubDate": "Wed, 02 Jul 2025 18:05:29 GMT"
     }
   ],
   "technology": [
@@ -4571,6 +4571,10 @@
     {
       "title": "Air pollution linked to lung cancer-driving DNA mutations, study finds - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 18:36:00 GMT"
+    },
+    {
+      "title": "Air pollution may be raising risk of lung cancer in \u2018never-smokers\u2019: Study - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 15:05:00 GMT"
     }
   ],
   "military_and_defense": [
@@ -4609,6 +4613,10 @@
     {
       "title": "Microsoft Layoffs To Hit 9,000 Employees, Including Salespeople: Report - CRN Magazine",
       "pubDate": "Wed, 02 Jul 2025 14:38:00 GMT"
+    },
+    {
+      "title": "Microsoft cuts deeper into its workforce with another major round of layoffs - Business Insider",
+      "pubDate": "Wed, 02 Jul 2025 16:58:00 GMT"
     }
   ],
   "self-driving_cars": [
