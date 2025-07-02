@@ -1,72 +1,62 @@
 {
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Zuckerberg reportedly offers $300 million packages to lure OpenAI staff - CTech",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMkdjbHFTQnJtRVFrUEp4S2J3T0JEa2pzeGZqNmJHcVgwN1R5X09ZRFdmNGk0dWVUQUpPZWk1SG53TkE2UXZlZVE2VGgzdjcwU2NCVkNsZGt2RTcwZkxJRmtlZTR4SEJG?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 07:01:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
-  },
-  "Data Breach": {
-    "articles": [
-      {
-        "title": "Qantas cyber hack could have stolen \u2018significant\u2019 amount of data from six million customers - CNN",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTndfVWNmek55U0RRUG4zRF9COWZKa29TcDVSQk1hQklRUDBxZUwxZUxCcFhzUF9MSTV3a1ZLWmVoamVpZGJnY2h3WlhGMjMtemNEaEdYOTRRblVKbGFjMlhSQWlwWmZIYzBzOFd6N09QZ2loYm1QUENrTkpRN05HVkVYMXJnQdIBiwFBVV95cUxNaF93YU5aaTdFaUdTTWFROVpSRUNsNGFMS2MwelpqTXhib3FKZENYUkVKdThObUlnSHBCWTkybXhGQ1NyVkkzeEc3SnNQWDgwREpNOWJGZ2VXNFpZcTVidGJmSGx4dUlweXROc2thOEJ6WkNEV0o4YTF5bDZscG01ZzJTYTdkcVA5NVBv?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 04:08:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
-  },
-  "Hamas": {
-    "articles": [
-      {
-        "title": "Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlV2c0VqNHpQUnhHTWNaOUpGSXJWVlNPbVNRU0Z0M25FUFplUkNxa0ZKZURDdUVlcG1oOVpTR2Z3Y0hFQkd1UWFpZVVyQV9ONllfQS0yNWxzT3JZV0NPUDBuQ2VmOWZVVWpWT21kakpCYXBvSU85TjNKRzJrclJGOW4wS1VXXzBTNGxib3lqWFA5cWtCSF9KVmRPMmpVNHVVSkt0RUpmd2JJUEtTUUstRGZyOHBqeFhwSUpwSl9ZSlNrWm1SMmZRaw?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 02:13:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
-  },
   "Ukraine": {
     "articles": [
       {
-        "title": "US Halts Key Ukraine Weapons Deliveries Amid Russian Barrage - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWlpRXVSREdkZGJNb1hrX1RTNDZKdzB3YW9NZmx1ZzVBaGRqZWFDZC1EVzZ2NERfRWZiTWthSW9ubTh1ZVhNeGRNc0pzVU5fQnh4emFfNTZGT0hRT2piMjc2VHM0Q3dQVi0ySnF3MERPWlZhdXJvSDZxNUxldmkzWlNIUjg4ZmtUVkNsNGZlVHQyRUp3dk5xNmxTdkxxd0NfT2tqU0s4WDZkM1VOeWRrdw?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 01:22:00 GMT"
+        "title": "Ukraine war latest: Drone attack deep in Russia; US halts weapon shipments - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHpLaG9LSG01UTM4QnhfNXJ1cXRWZVlucTJIYVdMWE5CNUI5UWkteFhJRFlscEF1UEs4SXdqcUlVLS13bDZtZWhQcThHR2tZbURYbFFONWd5dTR1Sy1OeTJ5ck5hZVNRcFdvcHNUanBhNTNyVTFKV284YXJBaGhvSTRJWmp3aE1JNVdmcVVCX1Q0dmNoT3U0cjlldnJKd1dPNlVDWER4VFZmYkFMNHJ4YkswdkJxTlhTa0JiWkhDLXc1QXkxU3dn?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 08:49:09 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
   },
-  "Google": {
+  "Israel": {
     "articles": [
       {
-        "title": "Google Owes $314 Million for Misusing Android Cell Phone Data - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1J3emk2Wm56TmdYVGdMZTFfVkE2U2lIRmlWZ0J6S0lhTmp4bTJWY0VWVkdEOFZndnFSQnp2VEN0aElCcmsyWHRLQy1ZY3luVV9xTkllLXliVGlacmdEQlZ0ZXNmSXQ4WVhNWXZOTXJqQmMySWVaemtGcHdHbGxZMnFUT0JTeXdUaFVrdVVKWTk4TXlWSEhUb0ZyQ05GdjF5UFpVNG9JMXVuY2hfa0QtNQ?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 22:04:04 GMT"
+        "title": "LIVE: Over 30 Palestinians killed as Trump says Israel agrees to Gaza truce - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG9Wdkh4M0d4VWhhWWhBNlpPRi1fbklnU21XeFlWd3IwTEJCSUhXdjFrcFYyYnNNUHlLZkk0RjRjYzBvVnVEUkdjdlU1amRhWFNFZnMyOGtUSEZ2bEdOVXpjUUMyOEZvQk1tSnhURm1MUmFBeWh1TTFhRzF3d0hmcmJzMk1ZYzgzZFRWbV83bGxnUXpUOE5mZlRPRHp5TnJ1VnRZV20xS3BORmMwMjc0LUZpanF4Z9IBuwFBVV95cUxPX2RpT3lkdXkzZGVENVdrdzJIelprWjZ2RW9SQURGblNnTVRfYkRMT2VZYWFHNmxkQmFpdUM4X1lrZ0xzNlc3ek1SMGRLS0lWQVJmbE1wZFJFM0FRSlhwa1NlSExWZTFJSG1KZGRRZXVlaGNNeURzbEt4bndiY292UVhhRlVTd1ZkT3MwbXJEMjZhcGJ2emFpa0ZqbXFadk9pdXU5cmVzMWMwNDVieXQzMjByN3ZFZzBYUmZV?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 08:15:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "DOGE eats Musk? Billionaire entrepreneur's companies at risk as he reignites feud with Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQy1iMmducHNqWkNXbmpfYmtTV0dTQ296UGYxNl83UHV4MDRDZGxwaXBqaWQ4VUFROVF1MEJRQUo0UUt1ZnRZQng4X0NrTzVSeVV2THppOGV0MFZkNG5TRm9hdEdxdzZsZFdnWDMyNEZFemkyODNRbVEtMkg3V0JlMU9sMXFwb3c3azNkWFJwYlpWVnVHQXlnWk9DelpXdw?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 20:35:00 GMT"
+        "title": "Donald Trump threatens Japan with tariff up to 35% as deadline looms - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsTFV2Z00tR3lyZExZX1NtbTI1VGZUY2RWbjRxMXhrbnpqYUQ0eU1pLXJhVS1lTTQ0dFhxR2tjYnJMcElTNlNZSlJBclJRZ2dGMHNCM1h5RHpBUdIBX0FVX3lxTE1hdmFlUlBMbXJTRldWcUNjTzJIcVN2c3J1OFYzdVUwM05KTVpzdGxiQkxxNHl5RnpHUkNrVUg4dFY5dEpGakJPM0k3dnpSUXlZZXFSdU55UEtZRFNDVDJN?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 04:33:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
   },
-  "Renewable Energy": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "The GOP\u2019s big spending bill could kill renewable energy projects - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGJtQjJxNWxIekd3ZDk4YmlxSmNrTENybEo3M1ZXX0Y3RnZvNl9lLXpDZnZRT3pZbnlvaGV1d0JObFpVYVVGMVZlYk80M2pjOWlHSmMyRWo1Sk9zbGd0LU1sT2xBOWxkZENxVTZBMV9uODJaNFdHVkJaeWdUTW9UVTduaVBlRTRBYl9GZzNDMTVqYjNvbVBnRVJIbVc4TVFaeEt3S2cwMA?oc=5",
-        "pubDate": "Tue, 01 Jul 2025 20:03:51 GMT"
+        "title": "Surge AI Reportedly Targeting $1 Billion in First-Ever Fundraise - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVJwUVFHUndvSHctX1o0RldUWjhwWlhkblJZcHlCWjZ4dXZfTU9wQnQySTJDRENqTGRuTDNiZ3NKMTNJT1ZENVctel9iNmJvdnV0ekNYbGNGcElyaHZpc3BpdW1ockZMQXd2U0E0R21vWWNBaWZBaWRHclk1SXU4UDRIRVB4b0NPanNRcElxT2F6b1RsSUQwMHI5UDJBUzFXZWtlZElFR0t4X3I2U0RfVVRreV9JdkFJSEE?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 00:11:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T08:01:44.230996+00:00"
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
+  },
+  "Google": {
+    "articles": [
+      {
+        "title": "Google Ends Recipe Pilot That Left Creators Fearing Web-Traffic Hit - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3Y0Q25CTnZkWExESXlCZnJnamo3T0dqUHNBaExPOG5lWm9SM1NLQlRRc1djVnNQelFLaFJ4Xzlsb2xXQnQ5Y2hjWTZnRkN5T09xazh4ZTBkYmNCa1JQRnFzd1RiVVZOemlPQlBPMU5yendNNkxXbEpVd0hWOFVtU0NrcnFUU0Exei1fcFN3QzRuVE5uVGl4T0Mxbm16eEwwWV91eU0yX3JmeVhZY3dUbUVSN0tFWGxUYXc?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 22:35:37 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Senate passes One Big Beautiful Bill Act - American Hospital Association",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVB2bXZHMlc4ZW0xeENTXzZZZmw5NDBfb0Z4c3Iwc0dGVTFwU0l5WkNwY3p5S3hJWXZJWHdpN1Flc0tpWWJPYkoyaTB0UW9iLTVuNzAwTGZ0cjMxS1JMQ1dBWWdGZ1VPMWhsalhMVDg1UWpXS2dCWkNQTDNYY0dDdy12UjFjX3pzUm5rOERB?oc=5",
+        "pubDate": "Tue, 01 Jul 2025 21:07:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-02T09:01:20.607837+00:00"
   }
 }

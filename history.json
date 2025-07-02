@@ -87,6 +87,10 @@
     {
       "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
       "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
+    },
+    {
+      "title": "LIVE: Over 30 Palestinians killed as Trump says Israel agrees to Gaza truce - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 08:15:00 GMT"
     }
   ],
   "iran": [
@@ -967,6 +971,10 @@
     {
       "title": "DOGE eats Musk? Billionaire entrepreneur's companies at risk as he reignites feud with Trump - AP News",
       "pubDate": "Tue, 01 Jul 2025 20:35:00 GMT"
+    },
+    {
+      "title": "Donald Trump threatens Japan with tariff up to 35% as deadline looms - BBC",
+      "pubDate": "Wed, 02 Jul 2025 04:33:45 GMT"
     }
   ],
   "russia": [
@@ -1125,10 +1133,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI models exhibit harmful behaviors, posing insider threats in corporate scenarios - CHOSUNBIZ - Chosunbiz",
-      "pubDate": "Tue, 24 Jun 2025 08:35:00 GMT"
-    },
-    {
       "title": "Duke researchers want to ensure AI is safe in a health care setting - Axios",
       "pubDate": "Tue, 24 Jun 2025 09:34:57 GMT"
     },
@@ -1222,10 +1226,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Oil prices shed 2% as Iran-Israel ceasefire eases concerns over supply, Strait of Hormuz closure - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 08:09:51 GMT"
-    },
     {
       "title": "Stocks, oil decline as Israel-Iran ceasefire appears shaky - InvestmentNews",
       "pubDate": "Tue, 24 Jun 2025 10:34:36 GMT"
@@ -1377,16 +1377,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
-      "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
-    },
-    {
       "title": "Artificial intelligence threatens entry-level jobs - WRAL.com",
       "pubDate": "Tue, 24 Jun 2025 09:42:16 GMT"
-    },
-    {
-      "title": "Black Box AI: What It Is and Why It Matters to Businesses - PYMNTS.com",
-      "pubDate": "Tue, 24 Jun 2025 08:03:45 GMT"
     },
     {
       "title": "China breaks RSA encryption with a quantum computer, threatening global data security - Earth.com",
@@ -1979,6 +1971,10 @@
     {
       "title": "Zuckerberg reportedly offers $300 million packages to lure OpenAI staff - CTech",
       "pubDate": "Wed, 02 Jul 2025 07:01:00 GMT"
+    },
+    {
+      "title": "Surge AI Reportedly Targeting $1 Billion in First-Ever Fundraise - PYMNTS.com",
+      "pubDate": "Wed, 02 Jul 2025 00:11:15 GMT"
     }
   ],
   "climate": [
@@ -2311,6 +2307,10 @@
     {
       "title": "US Halts Key Ukraine Weapons Deliveries Amid Russian Barrage - Bloomberg",
       "pubDate": "Wed, 02 Jul 2025 01:22:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Drone attack deep in Russia; US halts weapon shipments - The Independent",
+      "pubDate": "Wed, 02 Jul 2025 08:49:09 GMT"
     }
   ],
   "us_economy": [
@@ -2321,10 +2321,6 @@
     {
       "title": "The US economy is on the cusp of a recession based on LEI - MSN",
       "pubDate": "Tue, 24 Jun 2025 09:13:35 GMT"
-    },
-    {
-      "title": "Why 'Pervasive Uncertainty' Sums Up the U.S. Economy Right Now - WSJ",
-      "pubDate": "Tue, 24 Jun 2025 08:11:00 GMT"
     },
     {
       "title": "Powell Says Fed Is in No Rush to Cut; Debate Over Interest Rates Grows; Watch His House Testimony Today - Barron's",
@@ -2571,10 +2567,6 @@
     {
       "title": "The Yellow Sea Dispute Between China and South Korea - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:05:19 GMT"
-    },
-    {
-      "title": "Oil prices fall more than 4% after Trump says China can continue buying oil from Iran - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 08:09:51 GMT"
     },
     {
       "title": "China doubles down on promoting yuan as confidence in U.S. dollar takes a beating - CNBC",
@@ -3291,6 +3283,10 @@
     {
       "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
       "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
+    },
+    {
+      "title": "Senate passes One Big Beautiful Bill Act - American Hospital Association",
+      "pubDate": "Tue, 01 Jul 2025 21:07:10 GMT"
     }
   ],
   "democratic_party": [
@@ -4721,6 +4717,10 @@
     {
       "title": "Google Owes $314 Million for Misusing Android Cell Phone Data - Bloomberg",
       "pubDate": "Tue, 01 Jul 2025 22:04:04 GMT"
+    },
+    {
+      "title": "Google Ends Recipe Pilot That Left Creators Fearing Web-Traffic Hit - Bloomberg.com",
+      "pubDate": "Tue, 01 Jul 2025 22:35:37 GMT"
     }
   ]
 }
