@@ -333,10 +333,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump news at a glance: Supreme court hands Trump immigration victory as president declares Iran-Israel ceasefire - The Guardian",
-      "pubDate": "Tue, 24 Jun 2025 01:46:00 GMT"
-    },
-    {
       "title": "Dramatic day of diplomacy culminates in Trump announcing Iran-Israel ceasefire - CNN",
       "pubDate": "Tue, 24 Jun 2025 03:10:00 GMT"
     },
@@ -1003,6 +999,10 @@
     {
       "title": "Trump says Israel has agreed to conditions for Gaza ceasefire; Hamas hasn't responded - CBS News",
       "pubDate": "Tue, 01 Jul 2025 22:56:47 GMT"
+    },
+    {
+      "title": "Trump falsely questions Zohran Mamdani's citizenship, threatens to arrest him over ICE operations - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 01 Jul 2025 20:15:00 GMT"
     }
   ],
   "russia": [
@@ -2327,6 +2327,10 @@
     {
       "title": "Three dead as Ukrainian drone strike hits Russian plant - The Independent",
       "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
+    },
+    {
+      "title": "Pentagon halts weapons shipment to Ukraine amid concerns over U.S. stockpile - NBC News",
+      "pubDate": "Tue, 01 Jul 2025 22:12:07 GMT"
     }
   ],
   "us_economy": [
@@ -2931,6 +2935,10 @@
     {
       "title": "Oregon man among 2 charged in alleged Chinese spy operation targeting U.S. military - KPTV",
       "pubDate": "Tue, 01 Jul 2025 19:32:00 GMT"
+    },
+    {
+      "title": "Two Chinese nationals charged for trying to recruit spies in US military - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 00:26:54 GMT"
     }
   ],
   "world_news": [
@@ -2960,10 +2968,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate Republicans scramble to salvage CFPB cuts, question funding request in GOP megabill - Politico",
-      "pubDate": "Tue, 24 Jun 2025 01:27:18 GMT"
-    },
     {
       "title": "Supreme Court sides with Trump in deportations case; Senate presses ahead with Trump agenda bill - NBC News",
       "pubDate": "Tue, 24 Jun 2025 04:20:00 GMT"
@@ -3275,6 +3279,10 @@
     {
       "title": "Senate passes Trump\u2019s major policy bill with $150 billion for the DOD - Military Times",
       "pubDate": "Tue, 01 Jul 2025 17:18:08 GMT"
+    },
+    {
+      "title": "Senate passes Trump's Big Beautiful Bill, including no tax on tips. When will it start in MA? - Worcester Telegram",
+      "pubDate": "Tue, 01 Jul 2025 19:01:54 GMT"
     }
   ],
   "democratic_party": [
@@ -3787,6 +3795,10 @@
     {
       "title": "Saudi-Israel Talks Depend On End Of Gaza War, PA Taking Over For Hamas - i24NEWS",
       "pubDate": "Tue, 01 Jul 2025 15:42:32 GMT"
+    },
+    {
+      "title": "Israel-Gaza war live: Trump says Israel has agreed terms for 60-day ceasefire, urges Hamas to accept deal - The Guardian",
+      "pubDate": "Wed, 02 Jul 2025 01:00:57 GMT"
     }
   ],
   "federal_reserve": [
@@ -3851,6 +3863,10 @@
     {
       "title": "Why Redding has earthquakes: Here's what happens in Shasta Cascade region - Yahoo",
       "pubDate": "Mon, 30 Jun 2025 11:01:49 GMT"
+    },
+    {
+      "title": "Scientists detect a rare slow-motion earthquake along Japan\u2019s tsunami fault - Earth.com",
+      "pubDate": "Tue, 01 Jul 2025 18:10:51 GMT"
     }
   ],
   "elon_musk": [
@@ -4231,6 +4247,10 @@
     {
       "title": "Data breach at rental company Hertz exposes customers' personal information - USA Today",
       "pubDate": "Tue, 01 Jul 2025 00:49:50 GMT"
+    },
+    {
+      "title": "Qantas data breach to impact 6 million airline customers - BBC",
+      "pubDate": "Wed, 02 Jul 2025 01:34:59 GMT"
     }
   ],
   "technology": [
