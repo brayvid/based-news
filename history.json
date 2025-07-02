@@ -79,10 +79,6 @@
       "pubDate": "Tue, 24 Jun 2025 22:42:08 GMT"
     },
     {
-      "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
-      "pubDate": "Tue, 24 Jun 2025 21:23:59 GMT"
-    },
-    {
       "title": "Israel-Iran live news: Iranian nuclear program could restart in months, Pentagon finds, as fragile ceasefire holds - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 01:21:36 GMT"
     },
@@ -919,6 +915,10 @@
     {
       "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
       "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
+    },
+    {
+      "title": "Live updates: Trump-backed \u2018big beautiful\u2019 bill moves to House after Senate Republicans make changes - NBC News",
+      "pubDate": "Wed, 02 Jul 2025 21:40:17 GMT"
     }
   ],
   "russia": [
@@ -1065,16 +1065,8 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
-      "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
-    },
-    {
       "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
       "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
-    },
-    {
-      "title": "The Safety Risks of the Coming AI Regulatory Patchwork - Cato Institute",
-      "pubDate": "Tue, 24 Jun 2025 21:07:50 GMT"
     },
     {
       "title": "Red-teaming agentic AI: New guide lays out key concerns for AppSec - Security Boulevard",
@@ -1285,16 +1277,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Provision in federal budget bill would block states from regulating artificial intelligence for 10 years - News Channel 5 Nashville",
-      "pubDate": "Tue, 24 Jun 2025 21:51:48 GMT"
-    },
-    {
       "title": "US judge allows company to train AI using copyrighted literary materials - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 23:15:00 GMT"
-    },
-    {
-      "title": "Anthropic Lands Partial Victory in AI Case Set to Shape Future Rulings - WSJ",
-      "pubDate": "Tue, 24 Jun 2025 21:08:00 GMT"
     },
     {
       "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term. - Yahoo Finance",
@@ -1879,6 +1863,10 @@
     {
       "title": "Army Creating New Artificial Intelligence-Focused Occupational Specialty and Officer Field - Military.com",
       "pubDate": "Wed, 02 Jul 2025 17:29:38 GMT"
+    },
+    {
+      "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 15:00:07 GMT"
     }
   ],
   "climate": [
@@ -1960,10 +1948,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia kills 17, injures scores in one of its deadliest attacks on Ukraine - politico.eu",
-      "pubDate": "Tue, 24 Jun 2025 21:10:00 GMT"
-    },
     {
       "title": "Ukraine war live: Trump meets Zelensky as row breaks out over Nato\u2019s stance on Putin - The Independent",
       "pubDate": "Wed, 25 Jun 2025 20:43:51 GMT"
@@ -2235,6 +2219,10 @@
     {
       "title": "U.S. Halts Key Weapons for Ukraine in New Sign of Weakening Support for Kyiv - WSJ",
       "pubDate": "Wed, 02 Jul 2025 11:11:00 GMT"
+    },
+    {
+      "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
+      "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
     }
   ],
   "us_economy": [
@@ -4041,6 +4029,10 @@
     {
       "title": "Tesla shares drop on Musk, Trump feud ahead of Q2 deliveries - CNBC",
       "pubDate": "Wed, 02 Jul 2025 00:29:00 GMT"
+    },
+    {
+      "title": "Tesla delivers 384,122 cars globally in Q2, falling further behind BYD - CnEVPost",
+      "pubDate": "Wed, 02 Jul 2025 13:08:43 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4151,6 +4143,10 @@
     {
       "title": "Australia's Qantas says 6 million customer accounts accessed in cyber hack - Reuters",
       "pubDate": "Wed, 02 Jul 2025 08:04:38 GMT"
+    },
+    {
+      "title": "Qantas data breach exposes personal details of millions of customers - AppleInsider",
+      "pubDate": "Wed, 02 Jul 2025 13:23:21 GMT"
     }
   ],
   "technology": [
@@ -4344,10 +4340,6 @@
     }
   ],
   "defense_intelligence_agency": [
-    {
-      "title": "US bombs did not destroy Iranian nuclear facilities, intelligence agency finds - Straight Arrow News",
-      "pubDate": "Tue, 24 Jun 2025 21:47:59 GMT"
-    },
     {
       "title": "US intel clashes over damage to Iran\u2019s nuclear program - Semafor",
       "pubDate": "Thu, 26 Jun 2025 10:55:00 GMT"
@@ -4575,6 +4567,10 @@
     {
       "title": "US power pollution climbs on higher coal use - Reuters",
       "pubDate": "Tue, 01 Jul 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Air pollution linked to lung cancer-driving DNA mutations, study finds - The Guardian",
+      "pubDate": "Wed, 02 Jul 2025 18:36:00 GMT"
     }
   ],
   "military_and_defense": [
@@ -4609,6 +4605,10 @@
     {
       "title": "Microsoft to Lay Off About 9,000 Employees - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 16:55:33 GMT"
+    },
+    {
+      "title": "Microsoft Layoffs To Hit 9,000 Employees, Including Salespeople: Report - CRN Magazine",
+      "pubDate": "Wed, 02 Jul 2025 14:38:00 GMT"
     }
   ],
   "self-driving_cars": [
