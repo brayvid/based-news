@@ -273,20 +273,12 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Trump telegraphs defense spending concerns ahead of NATO arrival - AP News",
-      "pubDate": "Tue, 24 Jun 2025 18:49:00 GMT"
-    },
-    {
       "title": "Trump shares texts from NATO chief praising \u2018decisive action\u2019 on Iran - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 19:40:45 GMT"
     },
     {
       "title": "House Democrats join Republicans to kill vote impeaching Trump over Iran strikes - Axios",
       "pubDate": "Tue, 24 Jun 2025 19:46:37 GMT"
-    },
-    {
-      "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
-      "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
     },
     {
       "title": "Intel Report on Iran Upends Victory Lap Trump Was Hoping for at NATO - The New York Times",
@@ -299,10 +291,6 @@
     {
       "title": "Dems struggle to respond as Trump\u2019s Iran strikes sow chaos - Politico",
       "pubDate": "Wed, 25 Jun 2025 01:06:51 GMT"
-    },
-    {
-      "title": "Trump to Congress: 'NO ONE GOES ON VACATION' until spending bill passes - CNBC",
-      "pubDate": "Tue, 24 Jun 2025 18:56:10 GMT"
     },
     {
       "title": "Trump news at a glance: profanity and push-back over success of Iran strikes - The Guardian",
@@ -939,6 +927,10 @@
     {
       "title": "Trump asks Supreme Court to permit firings on consumer safety board - Politico",
       "pubDate": "Wed, 02 Jul 2025 17:08:00 GMT"
+    },
+    {
+      "title": "Trump announces Vietnam trade deal, says US given \u2018total access\u2019 to their markets - Fox Business",
+      "pubDate": "Wed, 02 Jul 2025 15:33:00 GMT"
     }
   ],
   "russia": [
@@ -1312,10 +1304,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Judge rules Anthropic's AI training on copyrighted materials is fair use - Engadget",
-      "pubDate": "Tue, 24 Jun 2025 18:26:03 GMT"
-    },
     {
       "title": "Artificial intelligence may replace jobs soon, Fed Chairman Jerome Powell warns - MSN",
       "pubDate": "Tue, 24 Jun 2025 19:26:47 GMT"
@@ -1907,6 +1895,10 @@
     {
       "title": "AI helps find formula for paint to keep buildings cooler - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 15:29:00 GMT"
+    },
+    {
+      "title": "AI is for aerospace: How artificial intelligence agents aim to change the sector - Aerospace Testing International",
+      "pubDate": "Wed, 02 Jul 2025 09:18:00 GMT"
     }
   ],
   "climate": [
@@ -2251,6 +2243,10 @@
     {
       "title": "Russia ramps up offensives on 2 fronts in Ukraine as both sides seek an advantage before the fall - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 02 Jul 2025 13:58:53 GMT"
+    },
+    {
+      "title": "Pentagon Under Scrutiny Over Decision to Halt Weapons to Ukraine - Bloomberg",
+      "pubDate": "Wed, 02 Jul 2025 18:52:58 GMT"
     }
   ],
   "us_economy": [
@@ -2855,6 +2851,10 @@
     {
       "title": "China will invade Siberia, not Taiwan - The Hill",
       "pubDate": "Wed, 02 Jul 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Beijing Braces for US Trade Deals That Seek to Shut Out China - Bloomberg",
+      "pubDate": "Wed, 02 Jul 2025 15:56:24 GMT"
     }
   ],
   "world_news": [
@@ -2880,10 +2880,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Republicans' 2026 Midterm Chances Against Democrats Surge in New Poll - Newsweek",
-      "pubDate": "Tue, 24 Jun 2025 19:01:58 GMT"
-    },
     {
       "title": "Mamdani poised for major upset after Cuomo concedes NYC mayor primary. Here\u2019s what\u2019s next. - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 06:31:48 GMT"
@@ -3539,6 +3535,10 @@
     {
       "title": "Moody\u2019s to NYISO: U.S. Edging Near Recession - RTO Insider",
       "pubDate": "Tue, 01 Jul 2025 21:27:57 GMT"
+    },
+    {
+      "title": "It\u2019s a \u2018sideways\u2019 economy but not a recession yet, analysts say - Yahoo",
+      "pubDate": "Wed, 02 Jul 2025 16:00:18 GMT"
     }
   ],
   "drones": [
@@ -3695,6 +3695,10 @@
     {
       "title": "Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 02:13:00 GMT"
+    },
+    {
+      "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
     }
   ],
   "federal_reserve": [
@@ -4621,6 +4625,10 @@
     {
       "title": "Microsoft to lay off around 9,000 workers in its largest cuts since 2023 - CNN",
       "pubDate": "Wed, 02 Jul 2025 15:45:00 GMT"
+    },
+    {
+      "title": "Microsoft to Lay Off About 9,000 Employees - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 16:55:33 GMT"
     }
   ],
   "self-driving_cars": [
