@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran war live: Trump declares ceasefire in \u201812-day war\u2019; IDF reports Iranian missile launches - The Guardian",
-      "pubDate": "Tue, 24 Jun 2025 03:05:11 GMT"
-    },
-    {
-      "title": "Israel-Iran Live Updates: President Trump Announces Cease-Fire - WSJ",
-      "pubDate": "Tue, 24 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "Israel-Iran War LIVE Updates: Israeli Strike Killed Iran's Nuclear Scientist As Truce Comes Into Effect - NDTV",
       "pubDate": "Tue, 24 Jun 2025 07:20:02 GMT"
     },
@@ -95,6 +87,10 @@
     {
       "title": "Israel\u2019s Netanyahu Says He Will Meet With Trump Next Week - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 12:19:18 GMT"
+    },
+    {
+      "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
+      "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
     }
   ],
   "iran": [
@@ -117,10 +113,6 @@
     {
       "title": "Live updates: Israel accuses Iran of violating the ceasefire. Iranian military denies it - AP News",
       "pubDate": "Tue, 24 Jun 2025 06:50:41 GMT"
-    },
-    {
-      "title": "U.S. scrambles to determine impact of strikes on Iran\u2019s nuclear sites - The Washington Post",
-      "pubDate": "Tue, 24 Jun 2025 03:52:00 GMT"
     },
     {
       "title": "Explosions ring out in Tehran despite Trump's order to Israel to stop strikes - Reuters",
@@ -324,10 +316,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Dramatic day of diplomacy culminates in Trump announcing Iran-Israel ceasefire - CNN",
-      "pubDate": "Tue, 24 Jun 2025 03:10:00 GMT"
-    },
     {
       "title": "Iran rains missiles on Israel in final hour before ceasefire deadline: Live updates - CNBC",
       "pubDate": "Tue, 24 Jun 2025 05:23:00 GMT"
@@ -991,6 +979,10 @@
     {
       "title": "Trump says he will 'have a lot of fun' with Zohran Mamdani if he's elected New York mayor - USA Today",
       "pubDate": "Tue, 01 Jul 2025 16:01:55 GMT"
+    },
+    {
+      "title": "Trump Falsely Claims Mamdani Is an Illegal Immigrant and Threatens to Arrest Him - The New York Times",
+      "pubDate": "Tue, 01 Jul 2025 23:14:39 GMT"
     }
   ],
   "russia": [
@@ -1404,10 +1396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence policy finalized for the coming school year - SiouxlandProud",
-      "pubDate": "Tue, 24 Jun 2025 03:15:35 GMT"
-    },
     {
       "title": "Artificial Intelligence (AI) in Drones Market is Forecasted to Reach US$ 55 Billion in 2032, Says Stratview Research - GlobeNewswire",
       "pubDate": "Tue, 24 Jun 2025 04:01:52 GMT"
@@ -1999,6 +1987,10 @@
     {
       "title": "'Evolve or die': How AI is impacting the workplace - Australian Broadcasting Corporation",
       "pubDate": "Tue, 01 Jul 2025 18:41:06 GMT"
+    },
+    {
+      "title": "A new tech race is on. Can Europe learn from the ones it lost? - politico.eu",
+      "pubDate": "Wed, 02 Jul 2025 02:33:25 GMT"
     }
   ],
   "climate": [
@@ -2557,6 +2549,10 @@
     {
       "title": "Trump Is Setting the U.S. Economy Up for Another Great Financial Crisis - In These Times",
       "pubDate": "Tue, 01 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
+      "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
     }
   ],
   "china": [
@@ -2939,6 +2935,10 @@
     {
       "title": "China's Huawei must face US criminal charges, judge rules - Reuters",
       "pubDate": "Tue, 01 Jul 2025 18:14:17 GMT"
+    },
+    {
+      "title": "Major Chinese Ports Keep Iranian Oil Flowing Despite Sanctions - Bloomberg",
+      "pubDate": "Wed, 02 Jul 2025 03:44:47 GMT"
     }
   ],
   "world_news": [
@@ -3845,10 +3845,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Magnitude 5.7 earthquake strikes between Dominican Republic and Puerto Rico - BNO News",
-      "pubDate": "Tue, 24 Jun 2025 03:03:38 GMT"
-    },
-    {
       "title": "7 California faults that could produce among the most devastating earthquakes - Los Angeles Times",
       "pubDate": "Tue, 24 Jun 2025 15:00:00 GMT"
     },
@@ -4259,6 +4255,10 @@
     {
       "title": "Qantas says 'significant' portion of 6m customers' data likely stolen - Australian Broadcasting Corporation",
       "pubDate": "Tue, 01 Jul 2025 23:49:28 GMT"
+    },
+    {
+      "title": "Qantas confirms cyber-attack exposed records of up to 6 million customers - The Guardian",
+      "pubDate": "Tue, 01 Jul 2025 23:59:00 GMT"
     }
   ],
   "technology": [
