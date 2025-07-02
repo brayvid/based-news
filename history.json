@@ -87,10 +87,6 @@
   ],
   "iran": [
     {
-      "title": "Israel warns campaign against Iran is not over as ceasefire takes hold - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 14:55:10 GMT"
-    },
-    {
       "title": "Israel says it will respect Iran ceasefire \u2018as long as the other side does\u2019 \u2013 live updates - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 19:29:00 GMT"
     },
@@ -277,13 +273,13 @@
     {
       "title": "Iranian authorities make sweeping arrests in wake of war with Israel - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 19:17:15 GMT"
+    },
+    {
+      "title": "Iran Suspends Cooperation With U.N. Nuclear Watchdog - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 11:51:22 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says Putin called him to offer help with Iran - The Kyiv Independent",
-      "pubDate": "Tue, 24 Jun 2025 14:11:07 GMT"
-    },
     {
       "title": "Trump casts doubt on Article 5 commitment en route to NATO summit - politico.eu",
       "pubDate": "Tue, 24 Jun 2025 15:45:23 GMT"
@@ -947,6 +943,10 @@
     {
       "title": "Live updates: House GOP set to tackle Senate\u2019s work on Trump megabill - The Hill",
       "pubDate": "Wed, 02 Jul 2025 12:36:00 GMT"
+    },
+    {
+      "title": "Live updates: House leaders scramble to secure GOP votes to pass Trump\u2019s bill ahead of July 4 - The Washington Post",
+      "pubDate": "Wed, 02 Jul 2025 14:17:01 GMT"
     }
   ],
   "russia": [
@@ -1923,6 +1923,10 @@
     {
       "title": "Comp. Sci. Students, Helmuth Study Cutting Edge Large Language Models - Hamilton College",
       "pubDate": "Wed, 02 Jul 2025 12:26:31 GMT"
+    },
+    {
+      "title": "Amazon's Robot Workforce Hits Ominous Milestone - Newsweek",
+      "pubDate": "Wed, 02 Jul 2025 14:10:12 GMT"
     }
   ],
   "climate": [
@@ -2262,10 +2266,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Powell Says Fed Is in No Rush to Cut; Debate Over Interest Rates Grows; Watch His House Testimony Today - Barron's",
-      "pubDate": "Tue, 24 Jun 2025 14:16:00 GMT"
-    },
     {
       "title": "Americans sour on US economy and anxiety over tariffs remains the chief culprit - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 17:21:47 GMT"
@@ -3223,6 +3223,10 @@
     {
       "title": "House begins work on Trump megabill, Johnson says vote could come Wednesday - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 02 Jul 2025 07:42:30 GMT"
+    },
+    {
+      "title": "House debates Trump's agenda bill and Pentagon pauses Ukraine shipment: Morning Rundown - NBC News",
+      "pubDate": "Wed, 02 Jul 2025 11:13:29 GMT"
     }
   ],
   "democratic_party": [
@@ -3351,6 +3355,10 @@
     {
       "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
       "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
+    },
+    {
+      "title": "Trump announces trade deal with Vietnam - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 14:42:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -3412,10 +3420,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "US consumer confidence slumps to 93.0, expectations signal recession risk - Action Forex",
-      "pubDate": "Tue, 24 Jun 2025 14:10:42 GMT"
-    },
     {
       "title": "Doing the hustle: Are side gigs a sign of impending recession? - The Week",
       "pubDate": "Tue, 24 Jun 2025 17:33:36 GMT"
@@ -3769,10 +3773,6 @@
   ],
   "earthquakes": [
     {
-      "title": "7 California faults that could produce among the most devastating earthquakes - Los Angeles Times",
-      "pubDate": "Tue, 24 Jun 2025 15:00:00 GMT"
-    },
-    {
       "title": "Magnitude 2.7 earthquake registered in Los Angeles - Los Angeles Times",
       "pubDate": "Tue, 24 Jun 2025 19:42:08 GMT"
     },
@@ -3866,10 +3866,6 @@
     }
   ],
   "atlantic_ocean": [
-    {
-      "title": "Tropical Storm Andrea forms, marking first named storm of Atlantic hurricane season - FOX Weather",
-      "pubDate": "Tue, 24 Jun 2025 14:12:00 GMT"
-    },
     {
       "title": "A Mysterious Blob of Cold Water Defies Ocean Heat \u2013 Now We Know Why - ScienceAlert",
       "pubDate": "Sun, 29 Jun 2025 15:00:29 GMT"
@@ -4122,10 +4118,6 @@
     }
   ],
   "inflation": [
-    {
-      "title": "Consumer confidence sours in June, despite rollback of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 24 Jun 2025 14:34:30 GMT"
-    },
     {
       "title": "Powell repeats rate cuts can wait as Fed studies tariff impacts - Reuters",
       "pubDate": "Tue, 24 Jun 2025 19:38:40 GMT"
