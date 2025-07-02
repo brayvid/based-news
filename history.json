@@ -5,10 +5,6 @@
       "pubDate": "Tue, 24 Jun 2025 20:17:52 GMT"
     },
     {
-      "title": "How a volatile 24 hours edged Iran and Israel to a ceasefire - BBC",
-      "pubDate": "Tue, 24 Jun 2025 17:57:35 GMT"
-    },
-    {
       "title": "Israel-Iran ceasefire appears to hold as Trump heads to NATO summit - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 07:06:01 GMT"
     },
@@ -276,10 +272,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Donald Trump dodges commitment to founding NATO principle - Sky News",
-      "pubDate": "Tue, 24 Jun 2025 17:57:50 GMT"
-    },
     {
       "title": "Live updates: Trump telegraphs defense spending concerns ahead of NATO arrival - AP News",
       "pubDate": "Tue, 24 Jun 2025 18:49:00 GMT"
@@ -943,6 +935,10 @@
     {
       "title": "Trump announces Vietnam trade deal, 20% tariff on its imports to U.S. - CNBC",
       "pubDate": "Wed, 02 Jul 2025 14:31:10 GMT"
+    },
+    {
+      "title": "Trump asks Supreme Court to permit firings on consumer safety board - Politico",
+      "pubDate": "Wed, 02 Jul 2025 17:08:00 GMT"
     }
   ],
   "russia": [
@@ -1163,6 +1159,10 @@
     {
       "title": "AI, align thyself - cio.com",
       "pubDate": "Tue, 01 Jul 2025 16:04:14 GMT"
+    },
+    {
+      "title": "Amid the hype, contractors find practical safety uses for AI - Construction Dive",
+      "pubDate": "Wed, 02 Jul 2025 14:54:52 GMT"
     }
   ],
   "financial_markets": [
@@ -1327,10 +1327,6 @@
     {
       "title": "Provision in federal budget bill would block states from regulating artificial intelligence for 10 years - News Channel 5 Nashville",
       "pubDate": "Tue, 24 Jun 2025 21:51:48 GMT"
-    },
-    {
-      "title": "Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 17:50:38 GMT"
     },
     {
       "title": "US judge allows company to train AI using copyrighted literary materials - Al Jazeera",
@@ -2251,13 +2247,13 @@
     {
       "title": "Ukraine says it was not told U.S. halting military aid, as Russia intensifies attack - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 15:35:33 GMT"
+    },
+    {
+      "title": "Russia ramps up offensives on 2 fronts in Ukraine as both sides seek an advantage before the fall - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 02 Jul 2025 13:58:53 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Americans sour on US economy and anxiety over tariffs remains the chief culprit - The Washington Post",
-      "pubDate": "Tue, 24 Jun 2025 17:21:47 GMT"
-    },
     {
       "title": "US Recession Risk Rises As Leading Economic Index Falls Again In May: 37 Declines In 39 Months Mark Worst Streak Since 1960 - Benzinga",
       "pubDate": "Wed, 25 Jun 2025 06:11:43 GMT"
@@ -2885,10 +2881,6 @@
   ],
   "us_politics": [
     {
-      "title": "Israel killed at least 14 scientists in an unprecedented attack on Iran\u2019s nuclear know-how - AP News",
-      "pubDate": "Tue, 24 Jun 2025 17:10:00 GMT"
-    },
-    {
       "title": "Republicans' 2026 Midterm Chances Against Democrats Surge in New Poll - Newsweek",
       "pubDate": "Tue, 24 Jun 2025 19:01:58 GMT"
     },
@@ -3275,6 +3267,10 @@
     {
       "title": "Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 08:55:00 GMT"
+    },
+    {
+      "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
+      "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3404,10 +3400,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Doing the hustle: Are side gigs a sign of impending recession? - The Week",
-      "pubDate": "Tue, 24 Jun 2025 17:33:36 GMT"
-    },
     {
       "title": "Balance sheet recession lengthening - The K\u0101k\u0101 by Bernard Hickey",
       "pubDate": "Tue, 24 Jun 2025 19:32:37 GMT"
@@ -4003,13 +3995,13 @@
     {
       "title": "Bybit Ethereum Heist Propels Record $2.1 Billion in Crypto Stolen by Hackers So Far in 2025 - Decrypt",
       "pubDate": "Sat, 28 Jun 2025 17:31:02 GMT"
+    },
+    {
+      "title": "USDG Stablecoin Expands to Europe - PYMNTS.com",
+      "pubDate": "Wed, 02 Jul 2025 09:51:04 GMT"
     }
   ],
   "national_security": [
-    {
-      "title": "US Tests Radar That Could Link Into Golden Dome to Detect China, Russia Threats - U.S. News & World Report",
-      "pubDate": "Tue, 24 Jun 2025 17:33:18 GMT"
-    },
     {
       "title": "Leaked Pentagon report reveals US failed to destroy Iran\u2019s nuclear sites, Tehran \u2018moved\u2019 uranium to secret sites - Mint",
       "pubDate": "Wed, 25 Jun 2025 02:52:00 GMT"
@@ -4625,6 +4617,16 @@
     {
       "title": "Microsoft laying off about 9,000 employees in latest round of cuts - CNBC",
       "pubDate": "Wed, 02 Jul 2025 13:07:08 GMT"
+    },
+    {
+      "title": "Microsoft to lay off around 9,000 workers in its largest cuts since 2023 - CNN",
+      "pubDate": "Wed, 02 Jul 2025 15:45:00 GMT"
+    }
+  ],
+  "self-driving_cars": [
+    {
+      "title": "He ran circles around a Waymo. And proved they'll never work in big cities | Opinion - The Arizona Republic",
+      "pubDate": "Wed, 02 Jul 2025 13:05:12 GMT"
     }
   ]
 }
