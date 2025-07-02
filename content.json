@@ -1,72 +1,62 @@
 {
-  "US Politics": {
-    "articles": [
-      {
-        "title": "CIA review finds flaws but does not dispute finding Putin sought to sway 2016 vote to Trump - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzdvaGkyZkIydE9XalZVbGRLQjRCZG02VXc3UW9sTkRuM3JDd3dCdFhHUnJRTU5fVkNUc0xWVndxMnJraWxqbVE5X2k3eEJteloyQ0tXQnd6M1VRaFlzanRIT3V3TGlpSkVGVFVqSGpkWmVjRHlFN3BibXhRSllSa2JhS1lXSUFxbTQxOW5NUl9WNzdVejhpOE1EMHJNVFJCTHZnQWVZQ21zNko2YWJNRE9SUi1LQVVqYUQ2dg?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 19:47:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
-  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Donald Trump live: \u2018One Big Beautiful Bill\u2019 to face tight vote in US House - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlpDeXhVaVJTY3M1YUF5SF9aaEltNWlJdTU4RU1SdHFOV2hicXVUajh2el9RbmZTOGtQYWhOa1loWTRhMElHU0VraFFiQ1I4UXdSczJuNW1meTNNYmwxSV93dWtvWjFOcTJ2bGl1SW1FbFIxeHVVUkQ0N0JFeEo2YjV4RUlUVjMxWGxiQ3NMb21YV1FnamRCa1FYSmI5UDlydVg3Mk9tZWFUQ1VGZWNCQi0xMGxCRGdzVGZNZ9IBwgFBVV95cUxOWGZudW0wSXVjRFJjMkFDcmgtNnpQR3NHT1JHZ3MxZDRMaEhVYmdreEw1TlBGZWY1ZThlU2c5VHZJV1Y1V3lDWG1zS0FnMHI0REhBMzU2QkFVUU02RTRUQjd0dW9ZZG9DMDNPRGdiWmZJOHY3SWRJbDNDVzc2Z2dOYTRMNmZHNkJmdjVuZExwM3VEQnZ1alBneDVMY0J0RTdYQm5faGdoQ1djclNTVlk4dV9yOUhtQWU2LWN0ZTVaTnEtdw?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 19:32:39 GMT"
+        "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUU5a1FKcEtPQVk4UnlvTGJsT0hnUVJDT3o5VUQ5RFBLWkFNdEU2SGh2WV8tc212OV9wb3RNR1Uzb19QdzZQWVV0Q3EzN2tmWWFrakRRcHRUOTEwZGdvOXJUN0oxT2ZvS1NJanBHVThlNmJDMjRyZmlxR2RqeDVjY1JFTzVpUFdjLUtRSTJ0VmlzRnI4UmFhc0M3anAwMUxEYk9ueHZlZXRMaUE?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   },
-  "Ukraine": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "U.S. pauses some Ukraine weapons shipments; Kyiv scrambles to respond - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlF1a1V0ME12YUVwbGliNXd3WmtrejdJVlN2UU5PcDdaVV9HdHc3bkVCNXFOU0dCcFdnVHFWcVpVQ2Zia2JSbGV3S2htdU14VGZfUkxUMmlKN2VEM3J1cV9RYjZBazlFSThEUEd5bGh1bW5xNEdOa0JFOVNXS2FVRGpjUWtZVUIydjBjNU10WQ?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 19:11:18 GMT"
+        "title": "Cyberattack hits major airline, up to 6M customer profiles exposed - Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEVjSmUyeHFnMlVVa2E2RmJXQ20wY2JrZG10QlNYb2tDeVhOZ1N4RjEzVUM3VTlEcGxrMFJXTnU3dlNqRzJ2NEZvRkxkXzFMclVqOFJrLWtHdlAyLXRZY3QtUTZlVjlOQUc0YWcxaWtLNmxoMHpJbnhHcjNheWhpQVhpS2d2MmZ0bERNUm13Y2IyZ3hMaG5DSVdMdlVWd9IBowFBVV95cUxPZTIxbjVINGw1MG5GT1l0SlU0VXVyOXYtT2lhOENJUlZSS3JheVNhWDk1dmFXcUo3NUQ3UFcwdVdsZzZtaWIyZHBFa0NwUkFkeDRNb056a2Y0TVZqQk85Q3dRSzNWTTFUbGJBOEl5N3VDZGxUUTVZSFpXYV9VUHNiSEhFN19RNUhhRWtqWjhWNWFReU9LSVlmWktrZzEwWXI1cVow?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 18:24:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   },
-  "China": {
+  "Atmospheric Science": {
     "articles": [
       {
-        "title": "A more complicated kind of kill chain is making China's missiles a deadlier problem for US forces, a top general says - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUpNQXA4bXNheXhmenI4MkpwbDNTWWtWTU5fMy1IWENFWG4wdnlsWUpPYW8wNUNQYVYzbFU2WUtSZWxOOHlJRDhJUE9rTzhBQnliV1dJZlY5ckI0dXRySEtnTXFKSDN3dzNaQTFzUy1wVWpVSXpCclhPYmV6RkpfRy1LZTZycWVOTV9uNlZhZVA0ck52eVJDYTFjNHdFdEFjZU9Td2Vn?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 18:20:00 GMT"
+        "title": "Trump\u2019s NOAA budget proposes eliminating funding for six Colorado climate and science labs - Boulder Daily Camera",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2YtbDd3REEzUzZ2a0dfekItb0JoRlFEbWlkMWFfUlpCemhvZTdWT3QwZGQxN1dBd3pkd2ZwQ2JaQkFwZG9PYjR1UkhhUHFwekFIU3ExcGhOb1pBWG5paHpmVU1OdGVudzVWUHRJSVE4cFd1LS1ESDR6SVUtOERMRExuSzl1YUpXUWw1NUVwZTU0aFBiWE1lbg?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 17:58:09 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Inter-brain neural dynamics in biological and artificial intelligence systems - nature.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81Y2dWczdDZUdjZlV4SUF4dTJyWkFYX2xCMEVsTi1McGlVSDMyLWVDeHRQNEdaZHIzYjNQcGJNMjc1UklnaXVGcXdjNFBvM1FTT2dwX0NGLXUzTEpOM2Yw?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 15:07:48 GMT"
+        "title": "Army Creating New Artificial Intelligence-Focused Occupational Specialty and Officer Field - Military.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaVQ3cWZjTTRScFZNTmhsOEJyUnp4eVI1LUFfZnRNT2JQdjAzd253UzdKYkxvbjVRNFdCYWw2bkVfbnZfamp3eHd6TGlzbDNFX1hLUWE1a2c5OUJfbHgwa1cteWRfSExCOGs3SnlkRHYyZGEwcHp1ZUxpMzFxeGRWcUJCWENWT2I1V29PNVBjZ2VhbUNFU3VVQjh4ejVCR2NRdERpV1FCRmhSRnA0TzExUFJvdlBrMDdkZE5KUFhiRUlldUVuV3R5QllNZm1reUhCM3F5Nzg2aTFzQdIB3wFBVV95cUxQQi1IaVNlemR0dmJXS3ktTE1fQ2hoVWl1Wm5yRzA0X0hBLXNWakUyODZibGI5RWxCWHBLM3l1TFo1RjhKWEFPLUhTeDZrUGdqQU5PTExhY2p6OFkxRWE2Y2EyVnN5TEFUajlSdjJfNFhZWUFIVWpjX0dCQm1lM0RUZU9qQ2E1THlPc0k0ZEJxdkdISFlRaU85aGJxOEdZRGNRTUd6MXpzT1R0V0lkTHpydExyMUZkcmZHV1dvRmNKUGJFdGJ5N1I4Z1ltcmZtUjNhR0l4Q2R0Ym40dmlqMThB?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 17:29:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   },
-  "US Economy": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ybEZqcy13OGVIZ0daZFpDcXAzU3R0YnJmZG94SjBhcmtYUmQ1c1kzR0llcXdHZU1WcXA1S05ZTDRmZndWUVgzcUYxU01fZ21udDlCM0gwZWREVzRET2VxOGVhZDkxZXFNOGVJRnhlLXNQdC1a0gF6QVVfeXFMUHFMRTRYRThHTktaWkFUSWxOYkF3dkN1TDFfRFB1dl9pQnBZODkyd1BNYVJ0WUtQTVQ5N0lSN3c4alBIdUdsYk4tajVtbHNFYTFMWk9oT2lYWEIwLTg4dUYwdVB0cW81N2U0Y28zM3d1Mmg1amdVaFZfUXc?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
+        "title": "Bitcoin Braced For A Surprise $22 Trillion Fed Price Earthquake - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1JTZld4XzkzYmUwN0U3cWpWQ3prWWZFTXpNV3VFdVR6UGpkT21tYnpUTGpvY2FRV3lSOTZqNnBQb3hvLUl3LXpGMEpUbk1yNFIwVldnNXRSRnA0bl9oRHc4RFJ0clV0Rzg0QUpGdnFXdWt4eEVYUGJGUUIwSG5LbHVGbWdaZXRPS002dEFxdHdiTXBuZXVhbDJ1eHAxbGVEcEQ0OVoyeWtJOGdKaEdFclFYT00?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 14:23:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   },
-  "AI Safety": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "How generative AI could help make construction sites safer - MIT Technology Review",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjVMMlIxRzhaS0gtcGMwSXUwMlJfMnBFQ0pDcVRDeVBNWWFDa0NXYW8xYXU1ZVZRZ1JDQ2E2MzdBdjM2ZFFUTUZQTURfMG5jUlVkTS1SdU1hQ0ZYLUNMNkhpTHg0eV8yWExTY3Bzc3RyNFlxcjFNaDUwSDd6dFNpTDRoM3NFVDhkU0JhV2lEN0RNLXhZdnZUZW5GelE0YzRyeEdIVXZPc2E0aGU5MndjRNIBtgFBVV95cUxQdFpuMC1LSDdUcm8yUGdWaHNaSndWZ2pNaW1TbzBacGpYQzB5akdhVC1fMXpJQlZJTHJsOE13S25YSFNFajlRQnFldUlxM3JpVW1RRENucTF5ODFnVGNnUzFhSzdzaG5EX3ZCMXdGbkpUYWd4a3QzQ3UxOEppMjROOTJHVlFfTkRRWDRDbXluVUZucFBiTWFJeEk5NVQ1M3Q3Z2tETmJVNjZhMnhqeW5ZNW1aazZjZw?oc=5",
-        "pubDate": "Wed, 02 Jul 2025 09:00:00 GMT"
+        "title": "U.S. Halts Key Weapons for Ukraine in New Sign of Weakening Support for Kyiv - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOSndkbVU3NmdIbkIzOHNuN2N3N0JDRnF4Y0RoQURXMnB0RmtxeWtnR3BIblhIamRUeEtnU3ZYeEtVQmozbUU4X0c1SWZJVFk0RjBrOHZaZUFjNWdRMlRxTjlFTk5MSm92LVNnY2VuVmo0Sm1oQ05aN3RVN2ozc3pRbXlNUG8xTEJQNGpZZWRJOG9XY29hbGxmWDAyTHlyYXB0QzlUYXF0Z01KZWhSaHdIYWxaUVA1alAtb0tSa1JiSGRVRVdRRXozQ1hZRkZ0NGs2aEY4MUZnV2xpdmt2bDRxM1p6ajFGdkU2M3Z2V2lXLXdwRW1qd3hUTEgyTXBqS0VOUXBPaEJGRVFxN0ljbkpDTkNtR0JrMGlmaXdLcUZSWVplMlIwcUFLSDIyU3p3dGZQM1FyNUZvZzJKU0RLcVdpdUVWUGJjbmJ1b0tWVnk1RHVYdEVsQ3FoblVQSGM2OWpoNGp1SzVLNGNzLW1EanY3eng5NUVTS3JkaTQ2Nk43NEdMWUlSNXFJcXNhOW5xT0dURl9zWnd1eU1FTEJUQUttcVdpRkc4RjBNN2hQcEY1cGJ1QTJjMmdhbFFRRktaczRrRjdMMVd5ck5mWVJMSzJQVQ?oc=5",
+        "pubDate": "Wed, 02 Jul 2025 11:11:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-02T20:03:49.034899+00:00"
+    "last_updated_ts": "2025-07-02T21:03:29.736491+00:00"
   }
 }
