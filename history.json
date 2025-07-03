@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "Questions around success of Iran strikes spark fears on Capitol Hill - The Hill",
-      "pubDate": "Wed, 25 Jun 2025 21:50:00 GMT"
-    },
-    {
       "title": "CIA says US bombing set Iran\u2019s nuclear programme back for \u2018years\u2019 - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 23:03:36 GMT"
     },
@@ -883,6 +879,10 @@
     {
       "title": "Live updates: House passes Trump's mega bill, securing a big win for the GOP agenda - USA Today",
       "pubDate": "Thu, 03 Jul 2025 18:39:24 GMT"
+    },
+    {
+      "title": "Supreme Court lets Trump admin deport men detained in shipping container for 6 weeks to South Sudan - Politico",
+      "pubDate": "Thu, 03 Jul 2025 21:12:00 GMT"
     }
   ],
   "russia": [
@@ -1236,10 +1236,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Congress looks to block states from regulating artificial intelligence - NBC Connecticut",
-      "pubDate": "Wed, 25 Jun 2025 21:24:45 GMT"
-    },
     {
       "title": "Meta fends off authors' US copyright lawsuit over AI - Reuters",
       "pubDate": "Thu, 26 Jun 2025 00:09:00 GMT"
@@ -1823,6 +1819,10 @@
     {
       "title": "How the Trump tax bill could help China win at A.I. - The Washington Post",
       "pubDate": "Thu, 03 Jul 2025 20:06:30 GMT"
+    },
+    {
+      "title": "What three Californians learned in Kansas about artificial intelligence | Opinion - Kansas City Star",
+      "pubDate": "Thu, 03 Jul 2025 12:04:00 GMT"
     }
   ],
   "climate": [
@@ -2425,6 +2425,10 @@
     {
       "title": "Jobs Report: Fed Rate Cut Odds Sink As Unemployment Falls; S&P 500 Rises (Live Coverage) - Investor's Business Daily",
       "pubDate": "Thu, 03 Jul 2025 13:48:00 GMT"
+    },
+    {
+      "title": "Steady job market keeps Fed on hold amid tariff uncertainty - Reuters",
+      "pubDate": "Thu, 03 Jul 2025 17:37:52 GMT"
     }
   ],
   "china": [
@@ -2799,6 +2803,10 @@
     {
       "title": "How Trump\u2019s Trade Deal With Vietnam Is Really About China | U.S. News Decision Points | U.S. News - U.S. News & World Report",
       "pubDate": "Thu, 03 Jul 2025 20:34:08 GMT"
+    },
+    {
+      "title": "China Works to Dominate in AI and EV - NPR",
+      "pubDate": "Thu, 03 Jul 2025 20:07:04 GMT"
     }
   ],
   "world_news": [
@@ -2821,16 +2829,8 @@
   ],
   "us_politics": [
     {
-      "title": "Mamdani's Success Sparks GOP Attack Plan, Worrying Democrats - Time Magazine",
-      "pubDate": "Wed, 25 Jun 2025 21:32:07 GMT"
-    },
-    {
       "title": "Mamdani lead in New York mayoral Democratic primary leaves businesses on edge - Reuters",
       "pubDate": "Wed, 25 Jun 2025 23:01:40 GMT"
-    },
-    {
-      "title": "What the New York Mayoral Primary Means for Democrats - The Atlantic",
-      "pubDate": "Wed, 25 Jun 2025 21:09:00 GMT"
     },
     {
       "title": "Mamdani's stunning upset in New York's Democratic mayoral primary carries risks, rewards for national Democrats - Reuters",
@@ -3159,13 +3159,13 @@
     {
       "title": "Sweeping Trump Agenda Bill with $157 Billion Defense Boost, Food Aid Cuts Approved by Congress - Military.com",
       "pubDate": "Thu, 03 Jul 2025 19:17:49 GMT"
+    },
+    {
+      "title": "House passes Trump megabill with $150 billion in military funding - Defense News",
+      "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "Mamdani claims Democratic mayoral nod, sparking political firestorm - NEWS10 ABC",
-      "pubDate": "Wed, 25 Jun 2025 21:38:44 GMT"
-    },
     {
       "title": "Democrats are scrambling to figure out what Mamdani\u2019s win means for the party - Politico",
       "pubDate": "Thu, 26 Jun 2025 09:55:00 GMT"
@@ -3210,10 +3210,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "US military to create two new border zones, officials say - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 21:59:35 GMT"
-    },
     {
       "title": "Israel-Iran live updates: Israel did not destroy all uranium, tried to kill Khamenei - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 21:24:00 GMT"
@@ -3639,6 +3635,10 @@
     {
       "title": "Scores killed in Gaza as Israel intensifies strikes - CNN",
       "pubDate": "Thu, 03 Jul 2025 14:10:00 GMT"
+    },
+    {
+      "title": "Hamas seeks ceasefire guarantees as scores more are killed in Gaza - Reuters",
+      "pubDate": "Thu, 03 Jul 2025 19:38:31 GMT"
     }
   ],
   "federal_reserve": [
@@ -3702,10 +3702,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "\u201cWe\u2019re Bleeding Cash\u201d: Starship Explosion Pushes SpaceX Closer to Collapse as Elon Musk Faces Historic Financial Meltdown - Rude Baguette",
-      "pubDate": "Wed, 25 Jun 2025 21:05:08 GMT"
-    },
     {
       "title": "Elon Musk claims Tesla delivered its first car fully autonomously from factory to customer - Electrek",
       "pubDate": "Fri, 27 Jun 2025 22:23:00 GMT"
@@ -4353,10 +4349,6 @@
   ],
   "new_york_city": [
     {
-      "title": "Zohran Mamdani\u2019s victory in NYC mayoral primary leaves Wall Street 'alarmed' and 'depressed' - CNBC",
-      "pubDate": "Wed, 25 Jun 2025 21:30:22 GMT"
-    },
-    {
       "title": "Second Teenage Boy Shot and Killed in New York City in 2 Days - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 18:57:26 GMT"
     },
@@ -4603,6 +4595,12 @@
     {
       "title": "Military veteran gets a life sentence for plotting an FBI attack after his Jan. 6 arrest - AP News",
       "pubDate": "Wed, 02 Jul 2025 20:57:00 GMT"
+    }
+  ],
+  "science": [
+    {
+      "title": "Scientists warn US will lose a generation of talent because of Trump cuts - The Guardian",
+      "pubDate": "Thu, 03 Jul 2025 18:25:00 GMT"
     }
   ]
 }
