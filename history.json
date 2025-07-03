@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "Fragile ceasefire holding, Trump envoy says peace talks with Iran 'promising' - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 04:07:00 GMT"
-    },
-    {
       "title": "Live Updates: Cease-Fire Enters Second Day as Iran and Israel Both Claim Victory - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 08:28:46 GMT"
     },
@@ -241,13 +237,13 @@
     {
       "title": "Pentagon Again Shifts Assessment of Damage to Iran\u2019s Nuclear Program - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 22:51:46 GMT"
+    },
+    {
+      "title": "US says its strikes degraded Iran\u2019s nuclear programme by one to two years - Al Jazeera",
+      "pubDate": "Thu, 03 Jul 2025 01:02:15 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says China can buy Iranian oil, but urges it to purchase US crude - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 04:34:00 GMT"
-    },
     {
       "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
@@ -914,6 +910,10 @@
     },
     {
       "title": "Trump's budget bill: Here are the sticking points as House holdouts stall spending plan - BBC",
+      "pubDate": "Thu, 03 Jul 2025 00:05:41 GMT"
+    },
+    {
+      "title": "Trump's budget bill: House tests support in crucial vote - BBC",
       "pubDate": "Thu, 03 Jul 2025 00:05:41 GMT"
     }
   ],
@@ -1875,6 +1875,10 @@
     {
       "title": "Software Engineering in the LLM Era - Towards Data Science",
       "pubDate": "Wed, 02 Jul 2025 19:27:46 GMT"
+    },
+    {
+      "title": "How a GOP rift over tech regulation doomed a ban on state AI laws in Trump's tax bill - The Washington Post",
+      "pubDate": "Thu, 03 Jul 2025 04:15:25 GMT"
     }
   ],
   "climate": [
@@ -2235,6 +2239,10 @@
     {
       "title": "Russia ramps up its offensive, putting pressure on Ukraine\u2019s reserve troops - AP News",
       "pubDate": "Wed, 02 Jul 2025 20:44:00 GMT"
+    },
+    {
+      "title": "Air defense missiles among weaponry US is withholding from Ukraine, AP sources say - AP News",
+      "pubDate": "Wed, 02 Jul 2025 21:25:00 GMT"
     }
   ],
   "us_economy": [
@@ -3711,6 +3719,10 @@
     {
       "title": "Hamas studies Gaza ceasefire proposal labelled 'final' by Trump - Reuters",
       "pubDate": "Wed, 02 Jul 2025 21:12:00 GMT"
+    },
+    {
+      "title": "Hamas Issues Warning to Arab Countries as It Mulls Trump Ceasefire Deal - Newsweek",
+      "pubDate": "Wed, 02 Jul 2025 17:05:13 GMT"
     }
   ],
   "federal_reserve": [
@@ -3905,6 +3917,10 @@
     {
       "title": "Map Shows How Many Could Lose Health Care in Each State Under Tax Bill - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 16:33:44 GMT"
+    },
+    {
+      "title": "Centene shares plunge after health insurer withdraws forecast over Obamacare concerns - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 20:40:17 GMT"
     }
   ],
   "world_economy": [
@@ -4071,6 +4087,10 @@
     {
       "title": "Tesla\u2019s Global Vehicle Deliveries Plunged in Second Quarter - WSJ",
       "pubDate": "Wed, 02 Jul 2025 18:09:00 GMT"
+    },
+    {
+      "title": "Tesla deliveries slump, Musk's EV maker stares at second year of falling sales - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 17:49:41 GMT"
     }
   ],
   "us_supreme_court": [
