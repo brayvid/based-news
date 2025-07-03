@@ -241,10 +241,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says strike on Iran's nuclear program was an 'obliteration' despite 'inconclusive' intel report - CNBC",
-      "pubDate": "Wed, 25 Jun 2025 09:52:00 GMT"
-    },
-    {
       "title": "Trump says Zelensky is a 'nice guy,' will discuss 'his difficulties' during meeting at NATO summit - The Kyiv Independent",
       "pubDate": "Wed, 25 Jun 2025 10:55:11 GMT"
     },
@@ -911,13 +907,13 @@
     {
       "title": "Trump says he will put 20% tariff on Vietnam's exports - Reuters",
       "pubDate": "Thu, 03 Jul 2025 07:22:12 GMT"
+    },
+    {
+      "title": "Live updates: House advances Trump agenda bill, setting up a final vote - NBC News",
+      "pubDate": "Thu, 03 Jul 2025 08:21:43 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Killing machines: how Russia and Ukraine\u2019s race to perfect deadly pilotless drones could harm us all - The Guardian",
-      "pubDate": "Wed, 25 Jun 2025 09:02:00 GMT"
-    },
     {
       "title": "Putin will not go to BRICS summit in Brazil due to ICC arrest warrant, Kremlin aide says - Reuters",
       "pubDate": "Wed, 25 Jun 2025 12:55:52 GMT"
@@ -1277,20 +1273,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "From buzzword to must-have: Why AI is now an imperative for business leaders - USA Today",
-      "pubDate": "Wed, 25 Jun 2025 09:06:26 GMT"
-    },
-    {
       "title": "Over 40% of agentic AI projects will be scrapped by 2027, Gartner says - Reuters",
       "pubDate": "Wed, 25 Jun 2025 10:05:10 GMT"
     },
     {
       "title": "OpenAI says China's Zhipu AI gaining ground amid Beijing's global AI push - Reuters",
       "pubDate": "Wed, 25 Jun 2025 12:58:06 GMT"
-    },
-    {
-      "title": "Nvidia Ruffles Tech Giants With Move Into Cloud Computing - WSJ",
-      "pubDate": "Wed, 25 Jun 2025 09:30:00 GMT"
     },
     {
       "title": "Wary of Washington, Europe frets it will be left behind on an AI battlefield - Los Angeles Times",
@@ -1879,6 +1867,10 @@
     {
       "title": "Marginalized Americans are highly skeptical of artificial intelligence, research finds - Phys.org",
       "pubDate": "Wed, 02 Jul 2025 21:14:04 GMT"
+    },
+    {
+      "title": "New push for national AI rules likely after state ban fails - Axios",
+      "pubDate": "Thu, 03 Jul 2025 09:48:26 GMT"
     }
   ],
   "climate": [
@@ -2859,10 +2851,6 @@
   ],
   "world_news": [
     {
-      "title": "Cargo Ship That Caught Fire Carrying Electric Vehicles Sinks in the Pacific - The New York Times",
-      "pubDate": "Wed, 25 Jun 2025 09:19:58 GMT"
-    },
-    {
       "title": "US Used 20% Of Its THAAD Missiles To Defend Israel For 12 Days: Report - NDTV",
       "pubDate": "Sat, 28 Jun 2025 12:35:11 GMT"
     },
@@ -3215,10 +3203,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Mamdani on verge of winning New York City's Democratic mayoral contest after Cuomo concedes - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 09:28:44 GMT"
-    },
-    {
       "title": "Union leaders\u2019 exit from DNC exposes \u2018mind-boggling\u2019 tensions inside Democratic party - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 12:08:00 GMT"
     },
@@ -3343,6 +3327,10 @@
     {
       "title": "As trade war truce with China holds, US lifts curbs for chip design software and ethane - Reuters",
       "pubDate": "Thu, 03 Jul 2025 07:20:02 GMT"
+    },
+    {
+      "title": "How the U.S.-China trade war could leave skies dark on the Fourth of July - NBC News",
+      "pubDate": "Thu, 03 Jul 2025 08:14:33 GMT"
     }
   ],
   "cybersecurity": [
@@ -3407,10 +3395,6 @@
     {
       "title": "Opinion: \u2018A lethal combination\u2019: War and tariffs are recession triggers the stock market hasn\u2019t fully absorbed - MarketWatch",
       "pubDate": "Wed, 25 Jun 2025 11:22:00 GMT"
-    },
-    {
-      "title": "Insights and analysis: Goldman cuts US recession probability to 30% - The DESK",
-      "pubDate": "Wed, 25 Jun 2025 09:38:17 GMT"
     },
     {
       "title": "Fitch to Revise Mexico Economy Contraction to \u2018Mild\u2019 Recession - Bloomberg",
@@ -3703,6 +3687,10 @@
     {
       "title": "82 Palestinians killed in Gaza, including 38 people waiting for aid, authorities say - AP News",
       "pubDate": "Thu, 03 Jul 2025 07:21:00 GMT"
+    },
+    {
+      "title": "Israel hits Gaza with heavy strikes; 82 reported dead since midnight, ministry says - Haaretz",
+      "pubDate": "Thu, 03 Jul 2025 08:15:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3741,6 +3729,10 @@
     {
       "title": "US rate futures raise easing bets for July, fully prices in September cut - Reuters",
       "pubDate": "Wed, 02 Jul 2025 12:49:37 GMT"
+    },
+    {
+      "title": "Trump says Powell should \u2018resign immediately\u2019 - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 22:24:00 GMT"
     }
   ],
   "earthquakes": [
