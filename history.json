@@ -887,6 +887,10 @@
     {
       "title": "Jeffries uses \u2018magic minute\u2019 as part of resistance plan against Trump tax bill - USA Today",
       "pubDate": "Thu, 03 Jul 2025 16:20:07 GMT"
+    },
+    {
+      "title": "Live updates: House passes Trump\u2019s signature bill, sending it to the president\u2019s desk - AP News",
+      "pubDate": "Thu, 03 Jul 2025 18:43:00 GMT"
     }
   ],
   "russia": [
@@ -1041,6 +1045,10 @@
     {
       "title": "Ukraine kills deputy chief of Putin\u2019s navy - politico.eu",
       "pubDate": "Thu, 03 Jul 2025 13:21:00 GMT"
+    },
+    {
+      "title": "Putin insisted Russia \u2018will not step back from goals\u2019 in Ukraine in hour-long call to Trump, Kremlin says \u2013 Europe live - The Guardian",
+      "pubDate": "Thu, 03 Jul 2025 07:43:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1233,24 +1241,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Lawmakers grapple with questions of safety vs speed in AI race with China - Fox Business",
-      "pubDate": "Wed, 25 Jun 2025 18:08:00 GMT"
-    },
-    {
-      "title": "Nvidia shares hit record high on renewed AI optimism - Financial Times",
-      "pubDate": "Wed, 25 Jun 2025 18:47:14 GMT"
-    },
-    {
       "title": "Micron Technology Profit Soars as AI Boom Boosts Sales - WSJ",
       "pubDate": "Wed, 25 Jun 2025 20:31:00 GMT"
     },
     {
       "title": "Nvidia hits record high as analyst predicts AI 'Golden Wave' - Reuters",
       "pubDate": "Wed, 25 Jun 2025 19:56:14 GMT"
-    },
-    {
-      "title": "Microsoft Stock Is an Under-Appreciated AI Winner, Analysts Say - Barron's",
-      "pubDate": "Wed, 25 Jun 2025 18:59:00 GMT"
     },
     {
       "title": "Congress looks to block states from regulating artificial intelligence - NBC Connecticut",
@@ -1827,13 +1823,13 @@
     {
       "title": "Trump megabill preventing artificial intelligence regulation could harm planet\u2019s climate - Harvard T.H. Chan School of Public Health",
       "pubDate": "Thu, 03 Jul 2025 16:19:17 GMT"
+    },
+    {
+      "title": "Behind the tanked AI moratorium - Politico",
+      "pubDate": "Thu, 03 Jul 2025 18:00:00 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "June is the new July: Why intense summer heat is arriving earlier - The Washington Post",
-      "pubDate": "Wed, 25 Jun 2025 18:15:20 GMT"
-    },
     {
       "title": "Scientists invent photosynthetic 'living' material that sucks CO2 out of the atmosphere - MSN",
       "pubDate": "Wed, 25 Jun 2025 19:15:23 GMT"
@@ -2429,13 +2425,13 @@
     {
       "title": "Solid US job numbers mask weakness underneath - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 17:05:15 GMT"
+    },
+    {
+      "title": "Dow jumps more than 300 points, S&P 500 sets new record after strong June jobs report: Live updates - CNBC",
+      "pubDate": "Thu, 03 Jul 2025 17:20:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China-tied AI tools like DeepSeek face US federal ban over \u2018threat\u2019 - South China Morning Post",
-      "pubDate": "Wed, 25 Jun 2025 18:29:29 GMT"
-    },
     {
       "title": "The Waning Ambitions of China\u2019s $1.3 Trillion Fund Giant - Bloomberg.com",
       "pubDate": "Wed, 25 Jun 2025 21:00:37 GMT"
@@ -4145,10 +4141,6 @@
   ],
   "technology": [
     {
-      "title": "Nvidia\u2019s \u2018AI Factory\u2019 narrative faces reality check as inference wars expose 70% margins - VentureBeat",
-      "pubDate": "Wed, 25 Jun 2025 18:56:28 GMT"
-    },
-    {
       "title": "Micron forecasts revenue above estimates on AI-driven memory chip demand - Reuters",
       "pubDate": "Wed, 25 Jun 2025 22:39:56 GMT"
     },
@@ -4181,6 +4173,10 @@
     {
       "title": "Quantum computer simulates spontaneous symmetry breaking at zero temperature - Phys.org",
       "pubDate": "Wed, 02 Jul 2025 20:17:04 GMT"
+    },
+    {
+      "title": "Scientists just simulated the \u201cimpossible\u201d \u2014 fault-tolerant quantum code cracked at last - ScienceDaily",
+      "pubDate": "Thu, 03 Jul 2025 12:18:14 GMT"
     }
   ],
   "republican_party": [
@@ -4387,10 +4383,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia shares hit record high as Wall Street shakes off anxiety about AI chip export controls - New York Post",
-      "pubDate": "Wed, 25 Jun 2025 18:27:00 GMT"
-    },
-    {
       "title": "Nvidia Becomes World's Most Valuable Company - Bloomberg.com",
       "pubDate": "Thu, 26 Jun 2025 20:51:18 GMT"
     },
@@ -4411,12 +4403,6 @@
     {
       "title": "Scientists Detect Deep, Rhythmic Pulse Coming From Inside the Earth - Futurism",
       "pubDate": "Sun, 29 Jun 2025 19:00:30 GMT"
-    }
-  ],
-  "global_health": [
-    {
-      "title": "US to stop funding global vaccine alliance Gavi, health secretary says - Al Jazeera",
-      "pubDate": "Wed, 25 Jun 2025 18:27:54 GMT"
     }
   ],
   "mars": [
