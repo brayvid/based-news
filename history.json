@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "Israel-Iran live news: Iranian nuclear program could restart in months, Pentagon finds, as fragile ceasefire holds - The Guardian",
-      "pubDate": "Wed, 25 Jun 2025 01:21:36 GMT"
-    },
-    {
       "title": "LIVE: Israel-Iran truce holds; US \u2018did not destroy\u2019 Iranian nuclear sites - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 02:24:42 GMT"
     },
@@ -256,10 +252,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Dems struggle to respond as Trump\u2019s Iran strikes sow chaos - Politico",
-      "pubDate": "Wed, 25 Jun 2025 01:06:51 GMT"
-    },
     {
       "title": "Trump says China can buy Iranian oil, but urges it to purchase US crude - Reuters",
       "pubDate": "Wed, 25 Jun 2025 04:34:00 GMT"
@@ -919,6 +911,10 @@
     {
       "title": "Inside Trump\u2019s Charm Offensive as He Woos Holdout Republicans - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 23:37:50 GMT"
+    },
+    {
+      "title": "Trump\u2019s Finances Were Shaky. Then He Began to Capitalize on His Comeback. - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 20:42:55 GMT"
     }
   ],
   "russia": [
@@ -1061,6 +1057,10 @@
     {
       "title": "Lack of New U.S. Sanctions Allows Russia to Replenish Its War Chest - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 04:01:05 GMT"
+    },
+    {
+      "title": "C.I.A. Says Its Leaders Rushed Report on Russia Interference in 2016 Vote - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 21:09:43 GMT"
     }
   ],
   "ai_safety": [
@@ -1859,13 +1859,13 @@
     {
       "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
       "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
+    },
+    {
+      "title": "Microsoft axing 9,000 employees as tech world eyes artificial intelligence growth - KFOX",
+      "pubDate": "Wed, 02 Jul 2025 18:49:24 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "Heat pumps and EVs making progress, UK climate advisers say - BBC",
-      "pubDate": "Wed, 25 Jun 2025 01:34:45 GMT"
-    },
     {
       "title": "June is the new July: Why intense summer heat is arriving earlier - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 18:15:20 GMT"
@@ -2869,10 +2869,6 @@
       "pubDate": "Wed, 25 Jun 2025 06:31:48 GMT"
     },
     {
-      "title": "US senator: 'War industry' has a stranglehold on Washington - Responsible Statecraft",
-      "pubDate": "Wed, 25 Jun 2025 01:21:11 GMT"
-    },
-    {
       "title": "Judge blocks Trump from withholding EV charger infrastructure funds - The Hill",
       "pubDate": "Wed, 25 Jun 2025 02:34:00 GMT"
     },
@@ -3199,6 +3195,10 @@
     {
       "title": "Trump\u2019s bill ends tax on tips. Here\u2019s how other countries tax them. - The Washington Post",
       "pubDate": "Thu, 03 Jul 2025 00:43:05 GMT"
+    },
+    {
+      "title": "Federal judge strikes down Trump's order suspending asylum access at the southern border - NPR",
+      "pubDate": "Thu, 03 Jul 2025 00:19:48 GMT"
     }
   ],
   "democratic_party": [
@@ -3323,6 +3323,10 @@
     {
       "title": "Trump announces trade deal with Vietnam - The Hill",
       "pubDate": "Wed, 02 Jul 2025 14:42:00 GMT"
+    },
+    {
+      "title": "Trump's tariff pause is set to expire, threatening a trade war flare-up - NBC News",
+      "pubDate": "Wed, 02 Jul 2025 21:03:40 GMT"
     }
   ],
   "cybersecurity": [
@@ -3751,6 +3755,10 @@
     {
       "title": "Scientists detect a rare slow-motion earthquake along Japan\u2019s tsunami fault - Earth.com",
       "pubDate": "Tue, 01 Jul 2025 18:10:51 GMT"
+    },
+    {
+      "title": "Hundreds of Small Earthquakes Rattle Remote Islands in Japan - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 14:39:12 GMT"
     }
   ],
   "elon_musk": [
@@ -3827,6 +3835,10 @@
     {
       "title": "Regeneron Gets Accelerated FDA OK of Lynozyfic for Blood Cancer Treatment - WSJ",
       "pubDate": "Wed, 02 Jul 2025 15:45:00 GMT"
+    },
+    {
+      "title": "Certain type of hormone therapy increases breast cancer risk, study finds - CBS News",
+      "pubDate": "Wed, 02 Jul 2025 16:30:29 GMT"
     }
   ],
   "atlantic_ocean": [
