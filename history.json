@@ -249,13 +249,13 @@
     {
       "title": "Iran Suspends Cooperation With U.N. Nuclear Watchdog - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 11:51:22 GMT"
+    },
+    {
+      "title": "After US and Israeli strikes, some nuclear experts say Iran could be more dangerous - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 02 Jul 2025 23:22:38 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Exclusive: Early US intel assessment suggests strikes on Iran did not destroy nuclear sites, sources say - CNN",
-      "pubDate": "Tue, 24 Jun 2025 23:13:00 GMT"
-    },
     {
       "title": "Dems struggle to respond as Trump\u2019s Iran strikes sow chaos - Politico",
       "pubDate": "Wed, 25 Jun 2025 01:06:51 GMT"
@@ -915,6 +915,10 @@
     {
       "title": "Trump begins summer on a hot streak - The Hill",
       "pubDate": "Wed, 02 Jul 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Trump Is Using a July 4 Deadline as a Tool to Pass His Policy Bill - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 22:46:46 GMT"
     }
   ],
   "russia": [
@@ -1061,10 +1065,6 @@
   ],
   "ai_safety": [
     {
-      "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
-      "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
-    },
-    {
       "title": "Red-teaming agentic AI: New guide lays out key concerns for AppSec - Security Boulevard",
       "pubDate": "Wed, 25 Jun 2025 02:24:55 GMT"
     },
@@ -1138,10 +1138,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Safe-haven assets retreat as ceasefire triggers risk-on market rotation - KITCO",
-      "pubDate": "Tue, 24 Jun 2025 23:08:23 GMT"
-    },
     {
       "title": "Oil down, hopes up, \u2018risk-on\u2019: Stocks are back near their all-time highs - Fortune",
       "pubDate": "Wed, 25 Jun 2025 10:36:00 GMT"
@@ -1272,14 +1268,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "US judge allows company to train AI using copyrighted literary materials - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 23:15:00 GMT"
-    },
-    {
-      "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term. - Yahoo Finance",
-      "pubDate": "Wed, 25 Jun 2025 00:00:00 GMT"
-    },
     {
       "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 05:16:40 GMT"
@@ -1863,6 +1851,10 @@
     {
       "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 15:00:07 GMT"
+    },
+    {
+      "title": "States retain power to regulate AI as Senate approves amendment led by Cantwell - GeekWire",
+      "pubDate": "Wed, 02 Jul 2025 22:58:37 GMT"
     }
   ],
   "climate": [
@@ -2219,6 +2211,10 @@
     {
       "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
       "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
+    },
+    {
+      "title": "Russia ramps up its offensive, putting pressure on Ukraine\u2019s reserve troops - AP News",
+      "pubDate": "Wed, 02 Jul 2025 20:44:00 GMT"
     }
   ],
   "us_economy": [
@@ -2445,6 +2441,10 @@
     {
       "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
       "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
+    },
+    {
+      "title": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. - NBC News",
+      "pubDate": "Wed, 02 Jul 2025 21:06:00 GMT"
     }
   ],
   "china": [
@@ -3187,6 +3187,10 @@
     {
       "title": "CIA review finds flaws but does not dispute finding Putin sought to sway 2016 vote to Trump - Reuters",
       "pubDate": "Wed, 02 Jul 2025 19:47:30 GMT"
+    },
+    {
+      "title": "Republican doubts delay Trump's tax-cut bill in the House - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 21:07:49 GMT"
     }
   ],
   "democratic_party": [
@@ -3957,10 +3961,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "House could vote on landmark crypto legislation next month - Politico",
-      "pubDate": "Tue, 24 Jun 2025 23:57:37 GMT"
-    },
-    {
       "title": "Online hacks to offline heists: crypto leaders on edge amid increasing attacks - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 12:01:00 GMT"
     },
@@ -4003,10 +4003,6 @@
     {
       "title": "Trump criticizes Ocasio-Cortez in demeaning terms after she floats impeachment - The Washington Post",
       "pubDate": "Wed, 25 Jun 2025 00:18:46 GMT"
-    },
-    {
-      "title": "AOC responds to Trump\u2019s blistering criticism over her calls for his impeachment: \u2018I\u2019m just a silly girl\u2019 - New York Post",
-      "pubDate": "Tue, 24 Jun 2025 23:36:00 GMT"
     }
   ],
   "tesla": [
@@ -4029,6 +4025,10 @@
     {
       "title": "Tesla delivers 384,122 cars globally in Q2, falling further behind BYD - CnEVPost",
       "pubDate": "Wed, 02 Jul 2025 13:08:43 GMT"
+    },
+    {
+      "title": "Tesla sales continue to slide amid competition and backlash against Elon Musk - Los Angeles Times",
+      "pubDate": "Wed, 02 Jul 2025 20:26:56 GMT"
     }
   ],
   "us_supreme_court": [
