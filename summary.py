@@ -24,8 +24,13 @@ LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
 os.makedirs(os.path.dirname(LOGFILE), exist_ok=True)
 
 # --- Logging ---
-logging.basicConfig(filename=LOGFILE, level=logging.INFO)
-logging.info(f"Summary started at {datetime.now()}")
+# Configure logging to include timestamp, level, and message
+logging.basicConfig(
+    filename=LOGFILE,
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+logging.info("Summary script started.")
 
 # --- Load environment ---
 load_dotenv()
@@ -51,6 +56,7 @@ def load_config_from_sheet(url):
                         config[key] = int(val)
                 except ValueError:
                     config[key] = val  # fallback to string
+        logging.info("Successfully loaded config from Google Sheet.")
         return config
     except Exception as e:
         logging.error(f"Failed to load config from {url}: {e}")
@@ -78,6 +84,7 @@ def to_user_timezone(dt):
 try:
     with open(HISTORY_FILE, "r") as f:
         history_data = json.load(f)
+    logging.info(f"Successfully loaded history file: {HISTORY_FILE}")
 except Exception as e:
     logging.critical(f"Failed to load history.json: {e}")
     sys.exit(1)
@@ -189,14 +196,25 @@ try:
     GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
     GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
     REPO = "based-news"
+    REPO_OWNER = "brayvid"
 
-    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{REPO}.git"
+    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{REPO_OWNER}/{REPO}.git"
 
+    logging.info("Configuring git remote and pulling latest changes...")
     subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
     subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
+
+    logging.info("Adding files to git...")
     subprocess.run(["git", "add", "public/summary.html","summaries.json"], check=True, cwd=BASE_DIR)
+    
+    logging.info("Committing changes...")
     subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
+    
+    logging.info("Pushing changes to GitHub...")
     subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+    
     logging.info("Digest and history committed and pushed to GitHub.")
 except Exception as e:
     logging.error(f"Git commit/push failed: {e}")
+
+logging.info("Summary script finished.")
