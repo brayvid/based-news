@@ -87,14 +87,6 @@
       "pubDate": "Thu, 26 Jun 2025 01:57:25 GMT"
     },
     {
-      "title": "Trump attacks the media for reporting on intelligence assessment of Iran strikes - MyNorthwest.com",
-      "pubDate": "Wed, 25 Jun 2025 22:21:30 GMT"
-    },
-    {
-      "title": "Key parts of Iran's nuclear program still intact, says Pentagon report disputed by Trump - USA Today",
-      "pubDate": "Wed, 25 Jun 2025 22:23:57 GMT"
-    },
-    {
       "title": "Live Updates: Trump Says U.S. and Iran to Meet; White House Disputes Damage Report - The New York Times",
       "pubDate": "Wed, 25 Jun 2025 23:34:47 GMT"
     },
@@ -220,10 +212,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump demands end to PM\u2019s graft trial: \u2018The US saved Israel, and now is going to save Bibi\u2019 - The Times of Israel",
-      "pubDate": "Wed, 25 Jun 2025 22:51:00 GMT"
-    },
     {
       "title": "Americans brace for welfare cuts in Trump's 'Big Beautiful Bill' - BBC",
       "pubDate": "Wed, 25 Jun 2025 23:31:41 GMT"
@@ -883,6 +871,10 @@
     {
       "title": "Supreme Court lets Trump admin deport men detained in shipping container for 6 weeks to South Sudan - Politico",
       "pubDate": "Thu, 03 Jul 2025 21:12:00 GMT"
+    },
+    {
+      "title": "Major win for Trump as Congress passes 'big, beautiful bill' - BBC",
+      "pubDate": "Thu, 03 Jul 2025 21:41:13 GMT"
     }
   ],
   "russia": [
@@ -1119,10 +1111,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stock futures are little changed as S&P 500 nears new record high: Live updates - CNBC",
-      "pubDate": "Wed, 25 Jun 2025 22:52:00 GMT"
-    },
-    {
       "title": "Markets should watch out for the summer fling - Financial Times",
       "pubDate": "Thu, 26 Jun 2025 04:01:41 GMT"
     },
@@ -1247,14 +1235,6 @@
     {
       "title": "Microsoft and OpenAI dueling over artificial general intelligence, The Information reports - Reuters",
       "pubDate": "Wed, 25 Jun 2025 23:34:53 GMT"
-    },
-    {
-      "title": "Alarming Study Suggests Most AI Large-Language Models Resort to Blackmail, Other Harmful Behaviors If Threatened - SFist",
-      "pubDate": "Wed, 25 Jun 2025 23:00:56 GMT"
-    },
-    {
-      "title": "OpenAI, Microsoft Rift Hinges on How Smart AI Can Get - WSJ",
-      "pubDate": "Wed, 25 Jun 2025 22:54:00 GMT"
     },
     {
       "title": "Microsoft, OpenAI clash over AGI clause in $10 bln deal \u2013 The Information - Investing.com",
@@ -2183,6 +2163,10 @@
     {
       "title": "Russia continues record-setting aerial attacks, US cuts off arms shipments to Ukraine - USA Today",
       "pubDate": "Thu, 03 Jul 2025 20:13:54 GMT"
+    },
+    {
+      "title": "Pentagon says it's pausing some military aid to Ukraine amid new attacks from Russia - NPR",
+      "pubDate": "Thu, 03 Jul 2025 22:25:24 GMT"
     }
   ],
   "us_economy": [
@@ -2429,6 +2413,10 @@
     {
       "title": "Steady job market keeps Fed on hold amid tariff uncertainty - Reuters",
       "pubDate": "Thu, 03 Jul 2025 17:37:52 GMT"
+    },
+    {
+      "title": "The US economy under Donald Trump - The Economist",
+      "pubDate": "Thu, 03 Jul 2025 19:51:40 GMT"
     }
   ],
   "china": [
@@ -2807,6 +2795,10 @@
     {
       "title": "China Works to Dominate in AI and EV - NPR",
       "pubDate": "Thu, 03 Jul 2025 20:07:04 GMT"
+    },
+    {
+      "title": "Exclusive | China tells EU it cannot afford Russian loss in Ukraine war, sources say - South China Morning Post",
+      "pubDate": "Thu, 03 Jul 2025 17:53:54 GMT"
     }
   ],
   "world_news": [
@@ -2828,10 +2820,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Mamdani lead in New York mayoral Democratic primary leaves businesses on edge - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 23:01:40 GMT"
-    },
     {
       "title": "Mamdani's stunning upset in New York's Democratic mayoral primary carries risks, rewards for national Democrats - Reuters",
       "pubDate": "Thu, 26 Jun 2025 03:16:22 GMT"
@@ -3753,10 +3741,6 @@
   ],
   "cancer": [
     {
-      "title": "Generic cancer drugs used around the world fail quality tests, investigation shows - STAT",
-      "pubDate": "Wed, 25 Jun 2025 22:49:55 GMT"
-    },
-    {
       "title": "Cancer experts alarmed over \u2018gut-wrenching\u2019 Trump plan to cut research spending by billions - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 12:02:00 GMT"
     },
@@ -3841,6 +3825,10 @@
     {
       "title": "House nears finish line on health cuts - The Hill",
       "pubDate": "Wed, 02 Jul 2025 23:01:00 GMT"
+    },
+    {
+      "title": "House passes 'Big Beautiful Bill': Here's what it means for health care - Healio",
+      "pubDate": "Thu, 03 Jul 2025 19:45:11 GMT"
     }
   ],
   "world_economy": [
@@ -4137,10 +4125,6 @@
   ],
   "technology": [
     {
-      "title": "Micron forecasts revenue above estimates on AI-driven memory chip demand - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 22:39:56 GMT"
-    },
-    {
       "title": "Micron Gives Strong Forecast, Lifted by AI Computing Demand - Bloomberg.com",
       "pubDate": "Wed, 25 Jun 2025 23:03:32 GMT"
     },
@@ -4155,6 +4139,10 @@
     {
       "title": "OpenAI Loses 4 Key Researchers to Meta - WIRED",
       "pubDate": "Sat, 28 Jun 2025 20:16:10 GMT"
+    },
+    {
+      "title": "CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips - CNBC",
+      "pubDate": "Thu, 03 Jul 2025 16:30:06 GMT"
     }
   ],
   "quantum_computer": [
@@ -4250,10 +4238,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "Mossad hails Israel\u2019s \u2018historic\u2019 Iran offensive, thanks CIA in rare public message - The Times of Israel",
-      "pubDate": "Wed, 25 Jun 2025 22:04:00 GMT"
-    },
     {
       "title": "CIA Director Declares Iranian Nuclear Facilities \u2018Destroyed\u2019 - RealClearDefense",
       "pubDate": "Thu, 26 Jun 2025 10:19:37 GMT"
