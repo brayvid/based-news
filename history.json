@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-Iran ceasefire appears to hold as Trump heads to NATO summit - The Washington Post",
-      "pubDate": "Wed, 25 Jun 2025 07:06:01 GMT"
-    },
-    {
       "title": "LIVE: Israel kills over 70 in Gaza as 549 killed seeking aid in past month - Al Jazeera",
       "pubDate": "Fri, 27 Jun 2025 05:06:04 GMT"
     },
@@ -71,6 +67,10 @@
     {
       "title": "LIVE: Over 30 Palestinians killed as Trump says Israel agrees to Gaza truce - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 08:15:00 GMT"
+    },
+    {
+      "title": "Israel kills more than 300 Palestinians in 48 hours as ceasefire in balance - Al Jazeera",
+      "pubDate": "Thu, 03 Jul 2025 06:53:34 GMT"
     }
   ],
   "iran": [
@@ -244,10 +244,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
-      "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
-    },
     {
       "title": "Trump says Iran's nuclear plans put back 'decades' by US strikes as report suggests impact limited - BBC",
       "pubDate": "Wed, 25 Jun 2025 08:58:56 GMT"
@@ -923,6 +919,10 @@
     {
       "title": "Trump Policy Bill Stalls as Johnson Works to Wear Down G.O.P. Resistance - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 06:01:41 GMT"
+    },
+    {
+      "title": "Trump speaks with GOP holdouts blocking his megabill in early-morning call - The Hill",
+      "pubDate": "Thu, 03 Jul 2025 06:08:00 GMT"
     }
   ],
   "russia": [
@@ -1887,6 +1887,10 @@
     {
       "title": "Microsoft confirms 9000 layoffs in strategic pivot to artificial intelligence - The Times of India",
       "pubDate": "Thu, 03 Jul 2025 05:09:00 GMT"
+    },
+    {
+      "title": "Marginalized Americans are highly skeptical of artificial intelligence, research finds - Phys.org",
+      "pubDate": "Wed, 02 Jul 2025 21:14:04 GMT"
     }
   ],
   "climate": [
@@ -2255,10 +2259,6 @@
   ],
   "us_economy": [
     {
-      "title": "US consumer confidence slumps - Northwest Arkansas Democrat-Gazette",
-      "pubDate": "Wed, 25 Jun 2025 07:11:00 GMT"
-    },
-    {
       "title": "Fed kicks off effort to ease bank leverage rules - Reuters",
       "pubDate": "Wed, 25 Jun 2025 10:03:59 GMT"
     },
@@ -2485,24 +2485,12 @@
   ],
   "china": [
     {
-      "title": "Experts in China assess combat debut of US bunker-busting GBU-57 in Iran - South China Morning Post",
-      "pubDate": "Wed, 25 Jun 2025 08:00:09 GMT"
-    },
-    {
-      "title": "China Tells Brazil Xi Jinping Will Miss BRICS Summit in Rio - Bloomberg.com",
-      "pubDate": "Wed, 25 Jun 2025 07:58:07 GMT"
-    },
-    {
       "title": "China\u2019s AI capital spending set to reach up to US$98 billion in 2025: BofA - South China Morning Post",
       "pubDate": "Wed, 25 Jun 2025 11:00:14 GMT"
     },
     {
       "title": "Exclusive | China to Block Its Rare-Earth Experts From Spilling Their Secrets - WSJ",
       "pubDate": "Wed, 25 Jun 2025 11:41:00 GMT"
-    },
-    {
-      "title": "China, Taiwan clash over history, Beijing says can't 'invade' what is already its territory - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 07:51:06 GMT"
     },
     {
       "title": "Nvidia shares head for record close as Wall Street shrugs off China concerns - CNBC",
@@ -2871,6 +2859,10 @@
     {
       "title": "China says Premier Li to visit Egypt after BRICS Brazil trip - The New Arab",
       "pubDate": "Thu, 03 Jul 2025 02:23:19 GMT"
+    },
+    {
+      "title": "China\u2019s north and west on red alert for heavy rains after deadly floods - Al Jazeera",
+      "pubDate": "Thu, 03 Jul 2025 06:56:15 GMT"
     }
   ],
   "world_news": [
@@ -3279,6 +3271,10 @@
     {
       "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
       "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
+    },
+    {
+      "title": "North Korea to send 30,000 more troops to help Russia fight Ukraine: report - New York Post",
+      "pubDate": "Wed, 02 Jul 2025 22:47:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3841,6 +3837,10 @@
     {
       "title": "Despite Protests, Elon Musk Secures Air Permit for xAI - WIRED",
       "pubDate": "Wed, 02 Jul 2025 23:41:33 GMT"
+    },
+    {
+      "title": "Tesla Is in Disarray. Musk Has Already Moved Beyond Caring About Cars. - WSJ",
+      "pubDate": "Thu, 03 Jul 2025 05:17:25 GMT"
     }
   ],
   "cancer": [
@@ -4703,6 +4703,10 @@
     {
       "title": "Microsoft to cut up to 9,000 jobs as it invests in AI - BBC",
       "pubDate": "Thu, 03 Jul 2025 03:09:37 GMT"
+    },
+    {
+      "title": "Microsoft cuts 9,000 jobs in latest round of layoffs amid restructuring push - The Indian Express",
+      "pubDate": "Thu, 03 Jul 2025 06:44:00 GMT"
     }
   ],
   "self-driving_cars": [
