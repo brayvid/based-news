@@ -241,10 +241,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: NATO pledges large military spending hike demanded by Trump - The Washington Post",
-      "pubDate": "Wed, 25 Jun 2025 12:35:36 GMT"
-    },
-    {
       "title": "Live updates: Trump speaks at NATO summit; Andrew Cuomo concedes to Zohran Mamdani in NY mayoral primary - NBC News",
       "pubDate": "Wed, 25 Jun 2025 14:36:00 GMT"
     },
@@ -907,13 +903,13 @@
     {
       "title": "Trump's mega-bill heads for final vote in overnight US House session - BBC",
       "pubDate": "Thu, 03 Jul 2025 09:24:47 GMT"
+    },
+    {
+      "title": "Trump Wants the World to Squeeze Out China. He\u2019s Starting With Vietnam. - The New York Times",
+      "pubDate": "Thu, 03 Jul 2025 12:46:28 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin will not go to BRICS summit in Brazil due to ICC arrest warrant, Kremlin aide says - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 12:55:52 GMT"
-    },
     {
       "title": "Russia Issues New 'Doomsday' Nuclear World War III Warning - Newsweek",
       "pubDate": "Wed, 25 Jun 2025 14:32:17 GMT"
@@ -1127,6 +1123,10 @@
     {
       "title": "How generative AI could help make construction sites safer - MIT Technology Review",
       "pubDate": "Wed, 02 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "From Safety to Security: Renaming the US AI Safety Institute Is Not Just Semantics - Tech Policy Press",
+      "pubDate": "Thu, 03 Jul 2025 12:39:18 GMT"
     }
   ],
   "financial_markets": [
@@ -1256,10 +1256,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI says China's Zhipu AI gaining ground amid Beijing's global AI push - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 12:58:06 GMT"
-    },
     {
       "title": "Wary of Washington, Europe frets it will be left behind on an AI battlefield - Los Angeles Times",
       "pubDate": "Wed, 25 Jun 2025 15:35:49 GMT"
@@ -2445,6 +2441,10 @@
     {
       "title": "How Health Care Remade the U.S. Economy - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 06:17:27 GMT"
+    },
+    {
+      "title": "US economy blasts through expectations to add 147,000 jobs - Financial Times",
+      "pubDate": "Thu, 03 Jul 2025 12:32:59 GMT"
     }
   ],
   "china": [
@@ -2823,6 +2823,10 @@
     {
       "title": "US lifts chip design software curbs against China following London trade talks - CNN",
       "pubDate": "Thu, 03 Jul 2025 07:12:00 GMT"
+    },
+    {
+      "title": "Taiwan Readies Soldiers, Civilians for Largest China Invasion Drills - Newsweek",
+      "pubDate": "Thu, 03 Jul 2025 12:15:21 GMT"
     }
   ],
   "world_news": [
@@ -3174,10 +3178,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Union leaders\u2019 exit from DNC exposes \u2018mind-boggling\u2019 tensions inside Democratic party - The Guardian",
-      "pubDate": "Wed, 25 Jun 2025 12:08:00 GMT"
-    },
     {
       "title": "Mamdani claims Democratic mayoral nod, sparking political firestorm - NEWS10 ABC",
       "pubDate": "Wed, 25 Jun 2025 21:38:44 GMT"
@@ -3819,6 +3819,10 @@
     {
       "title": "Certain type of hormone therapy increases breast cancer risk, study finds - CBS News",
       "pubDate": "Wed, 02 Jul 2025 16:30:29 GMT"
+    },
+    {
+      "title": "The fatal mutation that lets cancer outsmart the human immune system - ScienceDaily",
+      "pubDate": "Thu, 03 Jul 2025 03:17:03 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -4153,6 +4157,10 @@
     {
       "title": "Qantas hit by 'significant' cyberattack, data breach of 6 million customers days after FBI warning to airlines - Fast Company",
       "pubDate": "Wed, 02 Jul 2025 18:05:29 GMT"
+    },
+    {
+      "title": "Qantas cyber-attack: what data was taken and what should I do if I\u2019m affected? - The Guardian",
+      "pubDate": "Thu, 03 Jul 2025 05:59:00 GMT"
     }
   ],
   "technology": [
@@ -4193,12 +4201,6 @@
     {
       "title": "Quantum computer simulates spontaneous symmetry breaking at zero temperature - Phys.org",
       "pubDate": "Wed, 02 Jul 2025 20:17:04 GMT"
-    }
-  ],
-  "electric_battery": [
-    {
-      "title": "QuantumScape Stock Is Soaring. Groundbreaking EV Battery Tech Is Almost Here. - Barron's",
-      "pubDate": "Wed, 25 Jun 2025 12:12:00 GMT"
     }
   ],
   "republican_party": [
@@ -4329,6 +4331,10 @@
     {
       "title": "Google just pre-ordered 200 megawatts of fusion energy for the 2030s - New Atlas",
       "pubDate": "Tue, 01 Jul 2025 07:12:13 GMT"
+    },
+    {
+      "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
+      "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
     }
   ],
   "us_senate": [
