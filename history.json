@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "Obliterated? Damaged? Inoperable? What's known about Iran's nuclear facilities - NPR",
-      "pubDate": "Thu, 26 Jun 2025 22:06:56 GMT"
-    },
-    {
       "title": "Iran's hackers keep a low profile after Israeli and US strikes - Reuters",
       "pubDate": "Fri, 27 Jun 2025 10:07:41 GMT"
     },
@@ -169,10 +165,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Senate receives classified briefing after Pentagon says Iran strikes went as planned - CNN",
-      "pubDate": "Thu, 26 Jun 2025 22:17:00 GMT"
-    },
-    {
       "title": "Trump claims Iran\u2019s nuclear program has been \u2018obliterated.\u2019 Senate Republicans aren\u2019t entirely convinced. - Politico",
       "pubDate": "Thu, 26 Jun 2025 23:02:46 GMT"
     },
@@ -199,10 +191,6 @@
     {
       "title": "Outrage as Trump compares Iran strikes to Japan atomic bombing - BBC",
       "pubDate": "Fri, 27 Jun 2025 06:50:07 GMT"
-    },
-    {
-      "title": "Trump\u2019s vow to \u2018save\u2019 Netanyahu from his corruption trial unnerves some Israelis - PBS",
-      "pubDate": "Thu, 26 Jun 2025 22:59:19 GMT"
     },
     {
       "title": "Trump administration eliminating warning period for fining those in the US illegally: Exclusive - ABC News - Breaking News, Latest News and Videos",
@@ -831,6 +819,10 @@
     {
       "title": "Trump tells Zelensky he wants to help Ukraine with air defense, sources say - Axios",
       "pubDate": "Fri, 04 Jul 2025 15:56:16 GMT"
+    },
+    {
+      "title": "Trump signs megabill that slashes taxes, Medicaid while boosting national debt - USA Today",
+      "pubDate": "Fri, 04 Jul 2025 21:48:21 GMT"
     }
   ],
   "russia": [
@@ -1013,10 +1005,6 @@
       "pubDate": "Fri, 27 Jun 2025 01:09:55 GMT"
     },
     {
-      "title": "Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails - Amazon.com",
-      "pubDate": "Thu, 26 Jun 2025 22:41:26 GMT"
-    },
-    {
       "title": "AI Gone Rogue: When Machines Lie, Scheme, and Threaten - OpenTools",
       "pubDate": "Sun, 29 Jun 2025 13:09:33 GMT"
     },
@@ -1193,6 +1181,10 @@
     {
       "title": "India Cracks Down on Jane Street\u2019s Lucrative Derivatives Trades - WSJ",
       "pubDate": "Fri, 04 Jul 2025 13:48:00 GMT"
+    },
+    {
+      "title": "Global Stocks Fall. Trump Says U.S. to Send Tariff Letters Friday With Rates Up to 70%. - Barron's",
+      "pubDate": "Fri, 04 Jul 2025 15:34:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1767,6 +1759,10 @@
     {
       "title": "OpenAI CEO Sam Altman Plans \u2018Fundamentally New Type of Computer\u2019 That Will Make AI \u2018Transcendentally Good\u2019 - Barchart.com",
       "pubDate": "Fri, 04 Jul 2025 14:00:02 GMT"
+    },
+    {
+      "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
+      "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
     }
   ],
   "climate": [
@@ -2159,13 +2155,13 @@
     {
       "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
       "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
+    },
+    {
+      "title": "Russia ramps up use of banned chemical weapons in Ukraine, including WWI-era poison gas, 3 European intel services say - CBS News",
+      "pubDate": "Fri, 04 Jul 2025 20:15:26 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "As China Idles, Global Recession is the Risk if the US Economy Falters - tastylive",
-      "pubDate": "Thu, 26 Jun 2025 22:46:39 GMT"
-    },
     {
       "title": "US economy contracts for first time in three years amid pre-tariff import surge - The Vibes",
       "pubDate": "Fri, 27 Jun 2025 02:17:00 GMT"
@@ -3607,6 +3603,10 @@
     {
       "title": "LIVE: Hamas sends \u2018positive\u2019 response on ceasefire, Israel kills 50 today - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 16:33:41 GMT"
+    },
+    {
+      "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
+      "pubDate": "Fri, 04 Jul 2025 20:21:44 GMT"
     }
   ],
   "federal_reserve": [
@@ -3720,10 +3720,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "People dying early of cancer costs UK economy \u00a310.3bn a year, study finds - The Guardian",
-      "pubDate": "Thu, 26 Jun 2025 23:01:00 GMT"
-    },
     {
       "title": "Hundreds of neighbors rally to give a 9-year-old with cancer one last Christmas - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 02:15:32 GMT"
@@ -4009,6 +4005,10 @@
     {
       "title": "Trump's Tax Bill Could Be A Boost For Tesla-Rivals Rivian, Lucid Amid EV Slowdown, Says BNP Paribas - Benzinga",
       "pubDate": "Fri, 04 Jul 2025 10:21:58 GMT"
+    },
+    {
+      "title": "Why Tesla\u2019s Cybertruck has been such a flop - CNN",
+      "pubDate": "Fri, 04 Jul 2025 18:29:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4068,10 +4068,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX Seeks Return of Debris After Mexico Pollution Complaint - Bloomberg",
-      "pubDate": "Thu, 26 Jun 2025 22:49:57 GMT"
-    },
     {
       "title": "Mexico investigating contamination from SpaceX explosion debris - The Hill",
       "pubDate": "Fri, 27 Jun 2025 02:23:00 GMT"
@@ -4262,10 +4258,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "Iran\u2019s nuclear programme severely damaged, CIA Director confirms - Defence Industry Europe",
-      "pubDate": "Thu, 26 Jun 2025 22:25:57 GMT"
-    },
     {
       "title": "CIA declassifies review of intelligence report on 2016 Russia election interference - NBC News",
       "pubDate": "Thu, 03 Jul 2025 00:18:00 GMT"
@@ -4593,6 +4585,12 @@
     {
       "title": "US judge briefly pauses deportation of 8 migrants to South Sudan - Reuters",
       "pubDate": "Fri, 04 Jul 2025 19:47:20 GMT"
+    }
+  ],
+  "mars": [
+    {
+      "title": "NASA\u2019s Perseverance Rover Just Caught a Strange Phenomenon on Mars - The Daily Galaxy",
+      "pubDate": "Fri, 04 Jul 2025 15:35:00 GMT"
     }
   ]
 }
