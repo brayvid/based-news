@@ -1,72 +1,52 @@
 {
-  "Donald Trump": {
+  "Taxes": {
     "articles": [
       {
-        "title": "Live updates: Trump plans to sign the tax bill Friday after House passage - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXRoYkt1alNWN1Y2TkZ0VjJYakpjWDJjNjVkUnRZalB4NUY2Q2xjVDk0Sms1THNrWnMtOEFrMjNZMkRMYlMwT0tia21XNnRxNkxvUU9tNmh5UjhGb09QTDA1eUlQS3FxZXk2cFpkSEY2TVpQcDNrTWlkbmIydHlXaThhVGhyaERMRWc?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 23:11:59 GMT"
+        "title": "Trump celebrates legislative victory with $4.5 trillion tax cut bill - 13wham.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTFhoVFhCYUlJWV94VVAxakR1ckIycWJsYmVzd2RYZTltWVJ5bmh2Y3djdW4tTU5JdEE3QlluUlp3RnN4WnRkaUdkYVpKMXMzejNSeUttZldKWW84NmhyaWF6MldpQjUzc3g0R195d3ladWt2UDV6Y0VaZzlKWW5zeUdxU2VJeG9ENURhZEd2a2Vub09ZN25wVGo0VXVVb2NFQWJDNXVPXzZhOHN6MEswSHJQSzdndEJ5TjZDclBjWWpUcTlfRUE5dlhUWG9YQWZMUmhyRVR5TGpDMGRndkc3Qk9vVXdMQWVLTmJ5a1RYelZOdw?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 00:49:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China's foreign minister tells EU that Beijing cannot afford Russia to lose in Ukraine, media reports - The Kyiv Independent",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzBoS2lNeWFURnFQa0o0dmxDVkJrSnRYci0xbHZaMUxpSExGUmF1bmFxaDFnSDVvY1J1TU14MWhSM2FyX3ZVdVktZFRlcnBoNVBsa3dKYmh5UzMzTUNQU2p3X3FwM19oWW9CbTNleFJsekpWY0V4N3p4S21zbWc5b01pMHIzd2dzSnh0UEtVZUhoRFU5VTBHci1TU2tfajk4OEt2Tm8xYjFCbEMybWRhYlJielIxVW95a0hIUTRBWjdQU0d6SVRSM1RKRXQ3d9IB0wFBVV95cUxPVVFjNno2Z3JhcGNOVUd3ZjRBcVpLaHUxa3VrOW9ROHN6czM3UlROYk0zcElWdWR3ZHNHUFpld2tIc1A2cVN6Xzg2N1FHSEpKdG9DeHZpNWowOE81Tm9jTVlDU014TDJrVktqdnc4VEpHSlhkSFoxZzU0Ym15V1R5WjNLWU4tOGxPTm1jOG93QU9CWl84bTlucGxzMXZBRmUxR3JCdHhKWnBjcVhZa1NZRVRpNGtvaUxxeEJmZy1ZbWlZa2xRdkZ2ZEFPNlJDUm5BNUpR?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 23:06:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "What have tariffs really done to the US economy? - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tU0xVay1QVjlER2ljTnhNR1MyNm9BUTlLOFBmN2EydTdMaFhyVFcwcmZTUXdkdWFraEJueEQwMzlhMGdxRjVqVmdTNG1VRGo1dVhHUjFaT2xEQdIBX0FVX3lxTE84bzU1N3dHbmo1WmJJcmFUdmY1djhvTjNQbkRBV3RIckt6SjdmWm5CRkFFQTFCLXc0TFZqXzlDU2QtcWRPbElRcUxYSU92NlNuUmVjdGJMcW5YX21JNFVj?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 23:03:53 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI models just don't understand what they're talking about - theregister.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UnFzbFJUQklhVUZyb0RTN1p2Mko1WS1FTlJhWmhWUkVDRFZEekN1M0tZZFV4bkxJZHdQeXFvcmFpVVZWOVB4VFN6U19zdTcyVDg2T2QxQ3pnYUdEZ3FCeTFKTGJKdWJTM0E3Mk41Uk51dFA2Q1FYdXlFb1HSAYIBQVVfeXFMTnFJSGt5Q2toNjFRaVhXR3d4LU5TTUxBTW1hNW1YMVNYY0k0NWlBckhmNHF2TkV0LVVRZHVTR3FWVE10NV80bmFsVXkxaDJHeG9Bc1NsSTU5X3JJMEFGV2NRSzFsUEYxVXc1a2Y1ZDYzcTdJd0JBbjc2djZ3QWJWMEFGQQ?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 21:39:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia launches large-scale missile, drone attack on Ukraine, striking residential building in Kyiv - The Kyiv Independent",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEJEMWRWRjNpeWNmd3VoZ0taQXF2Vk5PXzhOTWxnTW5za2RUcjNnaHZrSUl6MTk1S2NnMW56SkxNVEk1MDRYb1YzcWFKSWd5ZTZ6bFVpZm92TmotYjVrTDljZUFubDBxNE9YOVduRHNockhQUnNLaDc3eGkzc2xWUm9sc1RkT0F5a2xTcnJka09IcXhJaXlESmdzaHRxb3NkcVE?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 20:26:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
+    "last_updated_ts": "2025-07-04T01:02:57.089012+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "House Republicans pass Trump's megabill, sending the package to his desk to be signed - NPR",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjF3VHdWUmRIUDgyNWpHeFQ0aEN6R3dEUXF2N0dla1dpYWFHT3hyU3pDOVptSkpZVDY2Z1RJakF6TzFoUkhVUWNZRHZlZ0NGM04zMTdnZWgwemtpeGYtVWxqeHlmTktGdGkwdDlKZ2dzNTB6aklGVGtyWTFYNW44XzNEcUNuZmFfVjlhMDlhSQ?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 18:32:35 GMT"
+        "title": "House sends megabill to Trump\u2019s desk with $150B in military spending - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTc2dUpGZS0zYmxsM241Nk51UTVxVW1iNDh6SWREVTFrdHJaXzdRdm1nRURIZDBmUTl6SElYbktMSTFkSFZYWElpMGdJdzF0bzJFYm9oNVVGSTBVbFJqY3ZCcmlkVzhiQVZtWWYzWENHUTA1NFlETFpNSEYwNlp3TWJKTVFGZnBCYkRJQko2Wm1lWDdNdDlPa2pjQUlkcFlrc2djbVlrZzV5UEJaZ1VOYjJyZHhBdEJ1ZFkzN0JLU3BXTGxyT2UtN1VqOVB2Z9IB0wFBVV95cUxPeGNSQThEVjFkeDdKOGh4cVAxbVhQUzdSR05OS2dFX1IwVmRkejZfUThOQWZnOW40MWp2U3pDZ0tPeEs2LUNSR2dNem01b3N1VXZTUkk5V0RKblBMT1FBQW4tTk5wSGpWZ2QzS2VUakNVOWJEWXJGdFp6blNWNzJyekdYakVDV3lJcW5MYmtKQUtsYkNEWXZwdVR6bGJUTzVfaWw3NU03WlNLWDFreWh4RHdNV25Dck1NdzBTbmZhOG9uWG1CUmpMQWNtYUo1UzAySjJz?oc=5",
+        "pubDate": "Thu, 03 Jul 2025 23:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
+    "last_updated_ts": "2025-07-04T01:02:57.089012+00:00"
   },
-  "AI Safety": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "The promise and perils of AI in health care: Why we need better testing standards - KevinMD.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRURoVjY2RXdGbW1EU3NiazdSV08xTXRQNjluX3A3cDkxNVRKeWFfUTI5ZC01X1pmZUFGeER0Z0p2VGNRRjd0bFFXajI4aDRIM1h0TjNyajUzTGh0NzVYVVRWWi1WNlhWMTBpN3FLMlVCcE15MW9IT21velFfV0UzdW1pVVF6WW5NcjlBYnVLX3E2cFRuNTdFUGtTX0lOTUwzVVhtVVNlbW9HY2xtaWp1djROTQ?oc=5",
-        "pubDate": "Thu, 03 Jul 2025 15:09:28 GMT"
+        "title": "Trump Scores Big Victory As 'One Big Beautiful Bill' Clears Congress - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORVBhcXhYakViT0NESWVBQWZEWWRrdnN4Q19HME1HNFVJLWdNNm04YS1LTllTc25SWllkd3ktSl9pRm5wanV1SHZvZ19mRWJzSGoyN3JFYmR2NW5YV2ktMmFkRGlrV2twZjBaOGUxVERkbDJwVzdPdDRJSHJuT1RIRUpjb0xiZGpzUmdjcDhqMno2OVBPSWdnUmtHZk54dFd0MEJ6WVVGQWZna1RCTGctTGtQMk9CQW5NdElMRUFvSlozUdIBygFBVV95cUxPNjVlZkNSM1BxclFmck00WE9CWl96N1M3VGIyWkhZYWtWT1d4NTNGQVp6OEp0WmhZT3JvNDJQUVV5ZzdZZE1DdHhmU0hQbEdJR1ZZWTIxLW1FMUlEd2I5eDhReXZ0Ul9DWmtzQUNnTUlWbEZibEFwV1MwQmczSnNVMlpCWEEyRm12bmFsX28tMEN4NVNEWGZ5SFNZVXFQdnJMRVlRbzl5X3ZxVjJibmhPcXY0LTdFZmxVelhPQ2RXNVhVd29MWmgxUmRR?oc=5",
+        "pubDate": "Thu, 03 Jul 2025 18:44:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-04T00:03:05.480643+00:00"
+    "last_updated_ts": "2025-07-04T01:02:57.089012+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "The U.S. added 147,000 jobs in June, relieving some concerns of a workforce slowdown - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0NzdGVxNVJEOFBnVlNFN3doN3VqLUlYbDNpRVEtYWdEUE9TMWxpUzZDWWVKMklielEzTndiUWZ5MnNYMmRmbHhES21jSjJvYThDOGtHa2xLTHRLT3BKYVhxc0NJcW9kclFmQ3pBSnV6elV0SVNjM3plaDFFaDJkbHMxak5pQjlBbkE3QlhGLU9sX1ktcUptOHNLM2xvSUppMnRxMTA4ZlBtdXNZTVpSa25PZWpmcEtNNlBBcm9sMNIBVkFVX3lxTFB0RFNNSjRmN0tfb1pfUGwxTnNIeVBLVEZRMUZhSUxtSlVSTUhJeURXc3g1bEpyNjdXNF9xV3pFajI3T0dIU0ZsLXUzWG5aVV9QSnhxdkdR?oc=5",
+        "pubDate": "Thu, 03 Jul 2025 14:35:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-04T01:02:57.089012+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "China's fusion breakthrough by 2027 exposes U.S. lag as best reactor aims for 5x output with unmatched construction speed - Glass Almanac",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHNsTThJVGpkc2REV3RWeFp5ZmJYNnN0djdOZFZ1d0x3SlczOW9YRlhNZFNONXFvSVV2YUJDczdLS3hiNTVLUml3NmxJYURBMHFJMklKb1hsZmtCa05RckFlOEJNazkyV0NNeWpVcVVxTWFoQmpnN3ItS0t1UWtzYU81Nk5ubDloMUFRQXpwVklETUNGMDRVcXFwdlpRN213WkRqc05sWXk4LWhpYngzTF9OcUZYbXc0N2FKUWRkUEZKazk3Z2s5bV8tQm9YME14Ri14elVUREVnTVhpSlE?oc=5",
+        "pubDate": "Thu, 03 Jul 2025 14:30:09 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-04T01:02:57.089012+00:00"
   }
 }
