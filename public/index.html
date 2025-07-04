@@ -6,30 +6,31 @@
   <title>Today's Headlines</title>
   <link rel="stylesheet" href="styles.css" />
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
-  <!-- Your scripts will be at the bottom of the body -->
 </head>
 <body>
   <header>
-    <!-- The container needs to be a positioning context for the absolute button -->
-    <div class="container header-bar"> 
-      
-      <!-- Home button, will be positioned absolutely -->
-      <!-- <a href="https://blakerayvid.com" class="home-button-header">Home</a> -->
-
-      <!-- Title group, will be centered in the header-bar -->
+    <div class="container header-bar">
       <div class="title-group">
         <h1>Today's Headlines</h1>
         <p class="subheading">Curated with Gemini, updated hourly.</p>
       </div>
-
-      <!-- Optional: A placeholder for the right side if needed for balance, or leave empty -->
       <div class="header-right-placeholder"></div>
     </div>
   </header>
 
   <main class="container">
-    <section id="news-digest">
-      <!-- digest.html will be injected here -->
+    <section id="digest-container">
+      <div class="digest-pagination">
+        <button id="older-btn" class="arrow-btn" disabled title="Older Digest">◄</button>
+        <div id="dots-container"></div>
+        <button id="newer-btn" class="arrow-btn" disabled title="Newer Digest">►</button>
+      </div>
+       <h3 id="digest-timestamp-header" class="digest-timestamp">Loading...</h3>
+      <div id="digest-slider-wrapper">
+        <div id="digest-slider">
+          <!-- Slides will be injected here by JS -->
+        </div>
+      </div>
     </section>
 
     <section id="world-summary">
@@ -45,58 +46,173 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      // Load digest.html
-      fetch("digest.html")
-        .then((res) => res.text())
-        .then((html) => {
-          const parser = new DOMParser();
-          const digestDoc = parser.parseFromString(html, "text/html");
-          const digestContent = digestDoc.body.innerHTML;
-          document.getElementById("news-digest").innerHTML = digestContent;
+      const digestSliderWrapper = document.getElementById("digest-slider-wrapper");
+      const digestSlider = document.getElementById("digest-slider");
+      const olderBtn = document.getElementById("older-btn");
+      const newerBtn = document.getElementById("newer-btn");
+      const dotsContainer = document.getElementById("dots-container");
+      const timestampHeader = document.getElementById("digest-timestamp-header");
+      const summarySection = document.getElementById("world-summary");
 
-          const lastUpdated = digestDoc.getElementById("last-updated");
-          if (lastUpdated) {
-            const stamp = document.createElement("p");
-            stamp.className = "timestamp";
-            stamp.style.fontSize = "0.9em";
-            stamp.style.color = "#666";
-            stamp.style.marginTop = "0.5em";
-            stamp.textContent = lastUpdated.textContent;
-            stamp.style.textAlign = "center";
-            document.getElementById("news-digest").appendChild(stamp);
-          }
-        })
-        .catch(() => {
-          document.getElementById("news-digest").innerHTML = "<p>Unable to load digest.</p>";
+      let manifest = [];
+      let currentIndex = 0; // 0 = Latest, 1 = Newest Historical, etc.
+      let totalItems = 0;
+      let touchStartX = 0;
+      let touchEndX = 0;
+      const swipeThreshold = 50; 
+
+      function updateNavControls() {
+        olderBtn.disabled = currentIndex >= totalItems - 1;
+        newerBtn.disabled = currentIndex <= 0;
+        
+        const dots = document.querySelectorAll('.dot');
+        dots.forEach((dot) => {
+          const visualIndex = parseInt(dot.dataset.visualIndex);
+          const targetSlideIndex = totalItems - 1 - visualIndex;
+          dot.classList.toggle('active', targetSlideIndex === currentIndex);
         });
+      }
 
-      // Load summary.html
-      fetch("summary.html")
-        .then((res) => res.text())
-        .then((html) => {
-          const parser = new DOMParser();
-          const summaryDoc = parser.parseFromString(html, "text/html");
-          const summaryContent = summaryDoc.body.innerHTML;
-          document.getElementById("world-summary").innerHTML = `
-            <h2 class="summary-heading" style="margin-bottom: 0.5em;">Weekly Review</h2>
-            ${summaryContent}
-          `;
+      function updateTimestampHeader() {
+        if (currentIndex === 0) {
+            timestampHeader.textContent = "Latest Headlines";
+        } else {
+            const entry = manifest[currentIndex - 1];
+            if (entry) {
+                const date = new Date(entry.timestamp);
+                const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+                timestampHeader.textContent = date.toLocaleDateString(undefined, options);
+            }
+        }
+      }
+      
+      function adjustWrapperHeight(slide) {
+        if (slide) {
+          requestAnimationFrame(() => {
+            digestSliderWrapper.style.height = `${slide.offsetHeight}px`;
+          });
+        }
+      }
 
-          const lastUpdated = summaryDoc.getElementById("summary-last-updated");
-          if (lastUpdated) {
-            const stamp = document.createElement("p");
-            stamp.className = "timestamp";
-            stamp.style.fontSize = "0.9em";
-            stamp.style.color = "#666";
-            stamp.style.marginTop = "0.5em";
-            stamp.textContent = lastUpdated.textContent;
-            stamp.style.textAlign = "center";
-            document.getElementById("world-summary").appendChild(stamp);
+      function showDigest(index) {
+          if (index < 0 || index >= totalItems) return;
+          
+          currentIndex = index;
+          const slideId = `digest-slide-${index}`;
+          const slide = document.getElementById(slideId);
+
+          if (!slide) {
+              console.error(`Slide container for index ${index} not found!`);
+              return;
           }
-        })
-        .catch(() => {
-          document.getElementById("world-summary").innerHTML = "<p>Unable to load summary.</p>";
-        });
+
+          if (slide.children.length === 0 && index > 0) {
+              loadDigestContent(index, slide);
+          }
+          
+          digestSlider.style.transform = `translateX(-${index * 100}%)`;
+          updateNavControls();
+          updateTimestampHeader();
+      }
+
+      async function loadDigestContent(index, slideElement) {
+        const entry = manifest[index - 1]; // manifest is offset
+        if (!entry || !entry.file) return;
+
+        try {
+            const response = await fetch(entry.file);
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            const html = await response.text();
+            slideElement.innerHTML = html;
+            if (index === currentIndex) {
+                adjustWrapperHeight(slideElement);
+            }
+        } catch (error) {
+            slideElement.innerHTML = "<p>Unable to load this digest.</p>";
+            console.error(`Could not load content for index ${index}:`, error);
+        }
+      }
+      
+      function handleSwipe() {
+        const deltaX = touchEndX - touchStartX;
+        if (Math.abs(deltaX) > swipeThreshold) {
+            if (deltaX < 0) { // Swipe Left: Go Older
+                if (currentIndex < totalItems - 1) showDigest(currentIndex + 1);
+            } else { // Swipe Right: Go Newer
+                if (currentIndex > 0) showDigest(currentIndex - 1);
+            }
+        }
+      }
+
+      // --- EVENT LISTENERS ---
+      digestSlider.addEventListener('transitionend', () => {
+          adjustWrapperHeight(document.getElementById(`digest-slide-${currentIndex}`));
+      });
+      digestSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+      digestSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });
+      window.addEventListener('resize', () => adjustWrapperHeight(document.getElementById(`digest-slide-${currentIndex}`)));
+
+      // --- INITIALIZATION ---
+      async function initializeSite() {
+          try {
+              const manifestRes = await fetch("digest-manifest.json");
+              if (!manifestRes.ok) throw new Error("Manifest not found");
+              
+              manifest = await manifestRes.json(); // Newest first
+              totalItems = manifest.length + 1;
+              
+              // *** KEY FIX: REMOVED THE PROBLEMATIC LINE ***
+              // digestSlider.style.width = `${totalItems * 100}%`; // This line is removed.
+
+              // 1. Create all slide containers and dots
+              for (let i = 0; i < totalItems; i++) {
+                  const slide = document.createElement('div');
+                  slide.className = 'digest-slide';
+                  slide.id = `digest-slide-${i}`;
+                  digestSlider.appendChild(slide);
+
+                  const dot = document.createElement('div');
+                  dot.className = 'dot';
+                  const visualIndex = totalItems - 1 - i;
+                  dot.dataset.visualIndex = visualIndex; 
+                  dot.onclick = () => showDigest(i);
+                  
+                  if (i === 0) {
+                      dot.title = "Latest Headlines";
+                  } else {
+                      const date = new Date(manifest[i - 1].timestamp);
+                      dot.title = `Digest from ${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
+                  }
+                  dotsContainer.prepend(dot);
+              }
+              
+              const digestRes = await fetch("digest.html").catch(e => e);
+              if (digestRes instanceof Response && digestRes.ok) {
+                  document.getElementById('digest-slide-0').innerHTML = await digestRes.text();
+              }
+
+              olderBtn.onclick = () => { if (currentIndex < totalItems - 1) showDigest(currentIndex + 1); }; // Go Older
+              newerBtn.onclick = () => { if (currentIndex > 0) showDigest(currentIndex - 1); }; // Go Newer
+
+              showDigest(0);
+
+          } catch (error) {
+              console.error("Initialization failed:", error);
+              timestampHeader.textContent = "Could not load headlines";
+          }
+
+          fetch("summary.html")
+            .then(res => res.text())
+            .then(html => {
+              const summaryDoc = new DOMParser().parseFromString(html, "text/html");
+              summarySection.innerHTML = `<h2 class="summary-heading">Weekly Review</h2>${summaryDoc.body.innerHTML}`;
+            })
+            .catch(() => {
+              summarySection.innerHTML = "<p>Unable to load summary.</p>";
+            });
+      }
+      
+      initializeSite();
     });
   </script>
   <!-- Google tag (gtag.js) -->

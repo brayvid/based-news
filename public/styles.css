@@ -11,7 +11,6 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding-top: 4px;
-  /* Remove padding from here */
 }
 
 
@@ -38,24 +37,116 @@ main {
   background: #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-top: 2em;
-  padding: 2em 1.6em; /* Move horizontal padding here */
+  padding: 2em 1.6em;
 }
 
+/* --- Digest Pagination Styles --- */
+.digest-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px; /* Gap between arrows and dots container */
+  margin-bottom: 1em;
+  margin-top: 0.8em;
+  user-select: none;
+}
+
+.arrow-btn {
+  background-color: transparent;
+  border: none;
+  color: #555;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 5px;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.arrow-btn:hover:not(:disabled) {
+  color: #000;
+}
+
+.arrow-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+#dots-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+  flex-shrink: 0;
+}
+
+.dot:hover {
+  background-color: #aaa;
+}
+
+.dot.active {
+  background-color: #003366;
+  transform: scale(1.2);
+}
+
+.digest-timestamp {
+    font-family: 'Merriweather', serif;
+    font-size: 1.1em;
+    text-align: center;
+    color: #444;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.5em;
+}
+
+/* --- Slider Styles --- */
+#digest-slider-wrapper {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  transition: height 0.25s ease-in-out; /* Smooth height transition */
+}
+
+#digest-slider {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+  align-items: flex-start; 
+}
+
+.digest-slide {
+  width: 100%;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+/* General Section Styles */
 section h3 {
   font-family: 'Merriweather', serif;
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.3em;
-  margin-top: 2em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
 section p {
-  margin: 1em 0;
+  margin: 0.5em 0 1em 0;
+  /* KEY FIX: This will wrap long words/URLs correctly without breaking normal words. */
+  word-break: break-word;
 }
 
 section a {
   color: #003366;
   text-decoration: none;
   font-weight: 600;
+  /* KEY FIX: Applying the same wrapping rule to links. */
+  word-break: break-word; 
 }
 
 section a:hover {
@@ -82,58 +173,36 @@ a:focus {
   text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-  header h1 {
-    font-size: 1.8em;
-  }
-
-  .subheading {
-    font-size: 0.95em;
-  }
-
-  main {
-    padding: 1em;
-  }
-
-  section h3 {
-    font-size: 1.1em;
-  }
-/* 
-  section p {
-    font-size: 0.95em;
-    line-height: 1.4;
-  } */
-
-  a {
-    font-size: 0.95em;
-  }
-}
-
-
-@media (hover: none) and (pointer: coarse) {
-  a:hover,
-  a:focus {
-    color: #003366; /* Original link color */
-    text-decoration: none;
-  }
-}
-
 .summary-heading {
   font-family: 'Merriweather', serif;
   font-size: 1.3em;
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.3em;
+  margin-top: 2em;
   margin-bottom: 1em;
 }
 
-
 p.timestamp {
-  font-size: 0.85em !important; /* Default size on desktop */
+  font-size: 0.85em !important;
   color: #888;
 }
 
 @media (max-width: 600px) {
-  p.timestamp {
-    font-size: 0.8em !important; /* Smaller on mobile */
+  header h1 { font-size: 1.8em; }
+  .subheading { font-size: 0.95em; }
+  main { padding: 1em; }
+  section h3 { font-size: 1.1em; }
+  a { font-size: 0.95em; }
+  .digest-timestamp { font-size: 1em; }
+  .arrow-btn { font-size: 16px; }
+  #dots-container { gap: 10px; }
+  .dot { width: 9px; height: 9px; }
+}
+
+@media (hover: none) and (pointer: coarse) {
+  a:hover,
+  a:focus {
+    color: #003366;
+    text-decoration: none;
   }
 }
