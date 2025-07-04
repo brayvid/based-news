@@ -225,7 +225,7 @@
             .then(res => res.text())
             .then(html => {
               const summaryDoc = new DOMParser().parseFromString(html, "text/html");
-              summarySection.innerHTML = `<h2 class="summary-heading">Weekly Review</h2>${summaryDoc.body.innerHTML}`;
+              summarySection.innerHTML = `<h2 class="summary-heading">Week in Review</h2>${summaryDoc.body.innerHTML}`;
               const lastUpdated = summaryDoc.getElementById("summary-last-updated");
               if (lastUpdated) {
                 const stamp = document.createElement("p");
