@@ -839,13 +839,13 @@
     {
       "title": "Trump threatens 17% tariffs on food and farm produce exports from Europe - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 18:50:00 GMT"
+    },
+    {
+      "title": "Trump tells Zelensky he wants to help Ukraine with air defense, sources say - Axios",
+      "pubDate": "Fri, 04 Jul 2025 15:56:16 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin cannot attend BRICS summit in Brazil as he fears arrest for war crimes - Atlantic Council",
-      "pubDate": "Thu, 26 Jun 2025 20:53:00 GMT"
-    },
     {
       "title": "European companies shipping critical missile parts to Russia, Zelensky tells EU. - The Kyiv Independent",
       "pubDate": "Thu, 26 Jun 2025 23:59:04 GMT"
@@ -1779,6 +1779,10 @@
     {
       "title": "EU sticks with timeline for AI rules - Reuters",
       "pubDate": "Fri, 04 Jul 2025 11:20:04 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman Plans \u2018Fundamentally New Type of Computer\u2019 That Will Make AI \u2018Transcendentally Good\u2019 - Barchart.com",
+      "pubDate": "Fri, 04 Jul 2025 14:00:02 GMT"
     }
   ],
   "climate": [
@@ -2413,13 +2417,13 @@
     {
       "title": "Trump says Powell costs US $900B a year in interest by not cutting rates. Is he right? - USA Today",
       "pubDate": "Fri, 04 Jul 2025 16:27:02 GMT"
+    },
+    {
+      "title": "Economists Warn About Trump's Rocket Ship Bill As It's One Step Closer To Becoming Law - International Business Times UK",
+      "pubDate": "Fri, 04 Jul 2025 14:57:20 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Trump says a deal related to trade was signed with China on Wednesday - Reuters",
-      "pubDate": "Thu, 26 Jun 2025 20:31:39 GMT"
-    },
     {
       "title": "China's industrial profits plunge 9.1%, steepest fall in seven months - CNBC",
       "pubDate": "Fri, 27 Jun 2025 01:40:00 GMT"
@@ -2805,10 +2809,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senators diverge sharply on damage done by Iran strikes after classified briefing - Huron Daily Tribune",
-      "pubDate": "Thu, 26 Jun 2025 20:37:30 GMT"
-    },
-    {
       "title": "Senate Republicans Reprise Push to Pay for Tax Cuts by Slashing Food Stamps - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 03:03:37 GMT"
     },
@@ -3131,6 +3131,10 @@
     {
       "title": "House passes Trump's \"big, beautiful bill\" after stamping out GOP rebellion - Axios",
       "pubDate": "Fri, 04 Jul 2025 06:05:34 GMT"
+    },
+    {
+      "title": "Megabill hits health care for immigrants, including legal ones, hard - Politico",
+      "pubDate": "Fri, 04 Jul 2025 16:00:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3181,10 +3185,6 @@
     {
       "title": "Israel-Iran live updates: Israel did not destroy all uranium, tried to kill Khamenei - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 21:24:00 GMT"
-    },
-    {
-      "title": "Pentagon reveals new details about US strikes against Iran but leaves key questions unanswered - CNN",
-      "pubDate": "Thu, 26 Jun 2025 20:46:00 GMT"
     },
     {
       "title": "Why Is Trump Returning MS-13 Leaders to El Salvador? Takeaways From Times Reporting. - The New York Times",
@@ -3255,6 +3255,10 @@
     {
       "title": "Trump says US will send letters setting tariff rates to trading partners - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 07:59:00 GMT"
+    },
+    {
+      "title": "China Trade War Intensifies: New Republican Tariffs Could Cost Families Thousands - MSN",
+      "pubDate": "Fri, 04 Jul 2025 13:49:51 GMT"
     }
   ],
   "cybersecurity": [
@@ -3443,10 +3447,6 @@
   ],
   "drones": [
     {
-      "title": "Ukrainian drones strike Russian S-400 air defense system in occupied Crimea, HUR says. - The Kyiv Independent",
-      "pubDate": "Thu, 26 Jun 2025 20:24:33 GMT"
-    },
-    {
       "title": "Exclusive | NYC eyes system using net-firing drones to entangle and take down \u2018hostile\u2019 drones - New York Post",
       "pubDate": "Sat, 28 Jun 2025 17:06:00 GMT"
     },
@@ -3627,13 +3627,13 @@
     {
       "title": "Hamas to Submit Response to Gaza Cease-fire, Hostage Proposal Later Friday, Diplomatic Source Estimates - Haaretz",
       "pubDate": "Fri, 04 Jul 2025 18:43:00 GMT"
+    },
+    {
+      "title": "LIVE: Hamas sends \u2018positive\u2019 response on ceasefire, Israel kills 50 today - Al Jazeera",
+      "pubDate": "Fri, 04 Jul 2025 16:33:41 GMT"
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Fed rate cut in July? Inside the US central bank, few takers - Reuters",
-      "pubDate": "Thu, 26 Jun 2025 20:24:08 GMT"
-    },
     {
       "title": "Trump says he won't appoint anyone to Fed who doesn't back rate cuts - Reuters",
       "pubDate": "Fri, 27 Jun 2025 23:17:20 GMT"
@@ -3981,12 +3981,6 @@
     {
       "title": "Hurricane forecast accuracy at risk as Pentagon cuts satellite data - NewsNation",
       "pubDate": "Fri, 27 Jun 2025 11:31:28 GMT"
-    }
-  ],
-  "military_intelligence": [
-    {
-      "title": "Pentagon Unveils $33.6 Billion Military Intelligence Budget For 2026 - Dallas Express",
-      "pubDate": "Thu, 26 Jun 2025 20:46:25 GMT"
     }
   ],
   "taxes": [
@@ -4379,10 +4373,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia Becomes World's Most Valuable Company - Bloomberg.com",
-      "pubDate": "Thu, 26 Jun 2025 20:51:18 GMT"
-    },
-    {
       "title": "Nvidia executives cash out $1bn worth of shares - Financial Times",
       "pubDate": "Sun, 29 Jun 2025 04:00:28 GMT"
     },
@@ -4621,6 +4611,12 @@
     {
       "title": "June EV sales in the UK: one in four buyers goes electric - Electric Cars Report",
       "pubDate": "Fri, 04 Jul 2025 13:39:42 GMT"
+    }
+  ],
+  "united_states": [
+    {
+      "title": "US judge briefly pauses deportation of 8 migrants to South Sudan - Reuters",
+      "pubDate": "Fri, 04 Jul 2025 19:47:20 GMT"
     }
   ]
 }
