@@ -55,7 +55,7 @@
       const summarySection = document.getElementById("world-summary");
 
       let manifest = [];
-      // currentIndex is the LOGICAL index: 0 is always Latest, 1 is newest historical, etc.
+      // currentIndex is the LOGICAL index: 0 is newest, 1 is next newest, etc.
       let currentIndex = 0; 
       let totalItems = 0;
       let touchStartX = 0;
@@ -63,11 +63,9 @@
       const swipeThreshold = 50; 
 
       function updateNavControls() {
-        // Disable buttons at the ends of the carousel
         olderBtn.disabled = currentIndex >= totalItems - 1; // At the oldest
         newerBtn.disabled = currentIndex <= 0;             // At the newest
         
-        // Update the active state of the dots
         const dots = document.querySelectorAll('.dot');
         dots.forEach((dot) => {
           const dotIndex = parseInt(dot.dataset.logicalIndex);
@@ -76,16 +74,15 @@
       }
 
       function updateTimestampHeader() {
+        const entry = manifest[currentIndex];
+        if (!entry) return;
+
         if (currentIndex === 0) {
             timestampHeader.textContent = "Latest Headlines";
         } else {
-            // manifest is 0-indexed and doesn't include "Latest", so offset by -1
-            const entry = manifest[currentIndex - 1];
-            if (entry) {
-                const date = new Date(entry.timestamp);
-                const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
-                timestampHeader.textContent = date.toLocaleDateString(undefined, options);
-            }
+            const date = new Date(entry.timestamp);
+            const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+            timestampHeader.textContent = date.toLocaleDateString(undefined, options);
         }
       }
       
@@ -97,10 +94,10 @@
         }
       }
 
-      function showDigest(index) {
+      async function showDigest(index) {
           if (index < 0 || index >= totalItems) return;
           
-          currentIndex = index; // Set the current logical index
+          currentIndex = index;
           const slideId = `digest-slide-${index}`;
           const slide = document.getElementById(slideId);
 
@@ -109,13 +106,12 @@
               return;
           }
 
-          // Lazy-load historical content if it hasn't been loaded yet
-          if (slide.children.length === 0 && index > 0) {
-              loadDigestContent(index, slide);
+          // Lazy-load content if the slide is empty
+          if (slide.children.length === 0) {
+              await loadDigestContent(index, slide);
           }
           
-          // Convert the logical index to the visual index for the CSS transform
-          // Visual index 0 = oldest slide (leftmost), N = newest slide (rightmost)
+          // Convert logical index to visual index for CSS transform
           const visualIndex = (totalItems - 1) - currentIndex;
           digestSlider.style.transform = `translateX(-${visualIndex * 100}%)`;
           
@@ -124,7 +120,8 @@
       }
 
       async function loadDigestContent(index, slideElement) {
-        const entry = manifest[index - 1]; // manifest is offset
+        // CORRECTED: Direct mapping from index to manifest entry
+        const entry = manifest[index]; 
         if (!entry || !entry.file) return;
 
         try {
@@ -132,7 +129,6 @@
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             const html = await response.text();
             slideElement.innerHTML = html;
-            // Adjust height after content is loaded if it's the current slide
             if (index === currentIndex) {
                 adjustWrapperHeight(slideElement);
             }
@@ -145,9 +141,9 @@
       function handleSwipe() {
         const deltaX = touchEndX - touchStartX;
         if (Math.abs(deltaX) > swipeThreshold) {
-            if (deltaX < 0) { // Swipe Left: Go Newer (move to a slide on the right)
+            if (deltaX < 0) { // Swipe Left: Go Newer
                 if (currentIndex > 0) showDigest(currentIndex - 1);
-            } else { // Swipe Right: Go Older (move to a slide on the left)
+            } else { // Swipe Right: Go Older
                 if (currentIndex < totalItems - 1) showDigest(currentIndex + 1);
             }
         }
@@ -167,9 +163,14 @@
               const manifestRes = await fetch("digest-manifest.json");
               if (!manifestRes.ok) throw new Error("Manifest not found");
               
-              manifest = await manifestRes.json(); // Newest historical is at index 0
-              totalItems = manifest.length + 1; // +1 for the "Latest" digest
+              manifest = await manifestRes.json();
+              // CORRECTED: Total items is now the exact length of the manifest
+              totalItems = manifest.length; 
               
+              if(totalItems === 0) {
+                throw new Error("Manifest is empty. No digests to show.");
+              }
+
               digestSlider.innerHTML = '';
               dotsContainer.innerHTML = '';
 
@@ -177,44 +178,29 @@
               for (let visualIndex = 0; visualIndex < totalItems; visualIndex++) {
                   const logicalIndex = (totalItems - 1) - visualIndex;
 
-                  // 1. Create the slide container, identified by its logical index
                   const slide = document.createElement('div');
                   slide.className = 'digest-slide';
                   slide.id = `digest-slide-${logicalIndex}`;
                   digestSlider.appendChild(slide);
 
-                  // 2. Create the corresponding navigation dot
                   const dot = document.createElement('div');
                   dot.className = 'dot';
                   dot.dataset.logicalIndex = logicalIndex;
                   dot.onclick = () => showDigest(logicalIndex);
                   
-                  if (logicalIndex === 0) {
-                      dot.title = "Latest Headlines";
-                  } else {
-                      const entry = manifest[logicalIndex - 1];
-                      const date = new Date(entry.timestamp);
-                      dot.title = `Digest from ${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
-                  }
+                  // CORRECTED: Get title info directly from manifest
+                  const entry = manifest[logicalIndex];
+                  const date = new Date(entry.timestamp);
+                  dot.title = `Digest from ${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
                   dotsContainer.appendChild(dot); 
               }
               
-              // Pre-load the content for the "Latest" digest slide
-              const latestSlideElement = document.getElementById('digest-slide-0');
-              const digestRes = await fetch("digest.html").catch(e => e);
-              if (digestRes instanceof Response && digestRes.ok) {
-                  latestSlideElement.innerHTML = await digestRes.text();
-              } else {
-                  latestSlideElement.innerHTML = "<p>Could not load latest headlines.</p>";
-              }
-              
-              // 'Older' (◄) means increasing the logical index (e.g., from 0 to 1)
               olderBtn.onclick = () => { if (currentIndex < totalItems - 1) showDigest(currentIndex + 1); };
-              // 'Newer' (►) means decreasing the logical index (e.g., from 1 to 0)
               newerBtn.onclick = () => { if (currentIndex > 0) showDigest(currentIndex - 1); };
               
-              // Start by showing the latest digest (logical index 0), which is the rightmost slide
-              showDigest(0);
+              // Start by showing the latest digest (logical index 0).
+              // The showDigest function will automatically trigger content loading.
+              await showDigest(0);
 
           } catch (error) {
               console.error("Initialization failed:", error);
