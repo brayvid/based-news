@@ -17,7 +17,13 @@ except NameError:  # __file__ is not defined, e.g., in interactive shell
     BASE_DIR = os.getcwd()
 
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
-DIGEST_STATE_FILE = os.path.join(BASE_DIR, "content.json") 
+DIGEST_STATE_FILE = os.path.join(BASE_DIR, "content.json")
+# New paths for digest history
+DIGESTS_DIR = os.path.join(BASE_DIR, "public", "digests")
+DIGEST_MANIFEST_FILE = os.path.join(BASE_DIR, "public", "digest-manifest.json")
+# Path for the main, latest digest file
+LATEST_DIGEST_HTML_FILE = os.path.join(BASE_DIR, "public", "digest.html")
+
 
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
@@ -39,13 +45,13 @@ from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
-from google.generativeai.types import FunctionDeclaration, Tool 
+from google.generativeai.types import FunctionDeclaration, Tool
 import subprocess
 from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/digest.log") 
+log_path = os.path.join(BASE_DIR, "logs/digest.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info(f"Script started at {datetime.now()}")
@@ -119,11 +125,12 @@ if CONFIG is None:
     sys.exit(1)
 
 MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
-MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 10)) 
+MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 10))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
+MAX_HISTORY_DIGESTS = int(CONFIG.get("MAX_HISTORY_DIGESTS", 20))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4))
-GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-1.5-flash") 
+GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-1.5-flash")
 STALE_TOPIC_THRESHOLD_HOURS = int(CONFIG.get("STALE_TOPIC_THRESHOLD_HOURS", 72)) # Not used in this "snapshot" model
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
@@ -206,7 +213,7 @@ def is_in_history(article_title, history):
 def to_user_timezone(dt):
     return dt.astimezone(ZONE)
 
-def fetch_articles_for_topic(topic, max_articles=10): 
+def fetch_articles_for_topic(topic, max_articles=10):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -293,7 +300,7 @@ def safe_parse_json(raw_json_string: str) -> dict:
             parsed_data = ast.literal_eval(text)
             if isinstance(parsed_data, dict):
                 return parsed_data
-            else: 
+            else:
                 logging.warning(f"ast.literal_eval parsed to non-dict type: {type(parsed_data)}. Raw: {text[:100]}")
                 return {}
         except (ValueError, SyntaxError, TypeError) as e_ast:
@@ -421,21 +428,21 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
             prompt,
             tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}}
         )
-        
+
         finish_reason_display_str = "N/A"
         raw_finish_reason_value = None
-        is_malformed_call_suspected = False 
+        is_malformed_call_suspected = False
 
         if response.candidates and hasattr(response.candidates[0], 'finish_reason'):
             raw_finish_reason_value = response.candidates[0].finish_reason
-            
-            if hasattr(raw_finish_reason_value, 'name'): 
+
+            if hasattr(raw_finish_reason_value, 'name'):
                 finish_reason_display_str = raw_finish_reason_value.name
             elif isinstance(raw_finish_reason_value, int):
                 reason_map = {
                     0: "UNSPECIFIED", 1: "STOP", 2: "MAX_TOKENS",
                     3: "SAFETY", 4: "RECITATION", 5: "OTHER",
-                    10: "MALFORMED_FUNC_CALL_INT_10" 
+                    10: "MALFORMED_FUNC_CALL_INT_10"
                 }
                 finish_reason_display_str = reason_map.get(raw_finish_reason_value, f"UNKNOWN_INT_REASON_{raw_finish_reason_value}")
                 if raw_finish_reason_value == 10:
@@ -444,28 +451,28 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 finish_reason_display_str = f"UNKNOWN_REASON_TYPE_{type(raw_finish_reason_value)}"
 
         has_tool_call = False
-        function_call_part = None 
+        function_call_part = None
         if response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
             for part in response.candidates[0].content.parts:
                 if hasattr(part, 'function_call') and part.function_call:
-                    function_call_part = part.function_call 
+                    function_call_part = part.function_call
                     has_tool_call = True
-                    finish_reason_display_str = "TOOL_CALLS" 
-                    break 
-        
+                    finish_reason_display_str = "TOOL_CALLS"
+                    break
+
         logging.info(f"Gemini response. finish_reason_display: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
-        
+
         if is_malformed_call_suspected and not has_tool_call:
             logging.error(f"Gemini indicated potential MALFORMED_FUNCTION_CALL (raw_value={raw_finish_reason_value}) and no tool call was processed. "
                           f"Prompt token count: {response.usage_metadata.prompt_token_count if response.usage_metadata else 'N/A'}. "
                           f"Full response: {response}")
-            return {} 
-        
+            return {}
+
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
-                args = function_call_part.args 
-                logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...") 
-                
+                args = function_call_part.args
+                logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...")
+
                 if isinstance(args, MapComposite):
                     entries_list_proto = args.get("selected_digest_entries")
                 elif isinstance(args, dict):
@@ -478,7 +485,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                     return {}
 
                 transformed_output = {}
-                for entry_proto in entries_list_proto: 
+                for entry_proto in entries_list_proto:
                     if isinstance(entry_proto, (dict, MapComposite)):
                         topic_name = entry_proto.get("topic_name")
                         headlines_proto = entry_proto.get("headlines")
@@ -486,7 +493,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                         headlines_python_list = []
                         if isinstance(headlines_proto, (list, RepeatedComposite)):
                             headlines_python_list = [str(h) for h in headlines_proto if isinstance(h, (str, bytes))]
-                        elif headlines_proto is not None: 
+                        elif headlines_proto is not None:
                             logging.warning(f"Headlines for topic '{topic_name}' is not a list/RepeatedComposite. Type: {type(headlines_proto)}")
 
                         if isinstance(topic_name, str) and topic_name.strip() and headlines_python_list:
@@ -500,7 +507,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                             logging.warning(f"Skipping invalid entry: topic '{topic_name}' (type {type(topic_name)}), headlines '{headlines_python_list}'")
                     else:
                         logging.warning(f"Skipping non-dict/MapComposite item in 'selected_digest_entries': type {type(entry_proto)}, value {entry_proto}")
-                
+
                 logging.info(f"Transformed output from Gemini tool call: {transformed_output}")
                 return transformed_output
             else:
@@ -512,7 +519,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
                 logging.debug(f"Gemini raw text response: {text_content}")
                 parsed_json = safe_parse_json(text_content)
-                
+
                 if "selected_digest_entries" in parsed_json and isinstance(parsed_json["selected_digest_entries"], list):
                     transformed_output = {}
                     for entry in parsed_json["selected_digest_entries"]:
@@ -521,7 +528,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                             headlines_list = entry.get("headlines")
                             if isinstance(topic_name, str) and topic_name.strip() and isinstance(headlines_list, list):
                                 valid_headlines = [h for h in headlines_list if isinstance(h, str)]
-                                if valid_headlines: 
+                                if valid_headlines:
                                     topic_name_clean = topic_name.strip()
                                     if topic_name_clean in transformed_output:
                                         transformed_output[topic_name_clean].extend(valid_headlines)
@@ -547,7 +554,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                      logging.warning(f"Prompt feedback: {response.prompt_feedback}")
                  logging.warning(f"Full Gemini response: {response}")
                  return {}
-        else: 
+        else:
             if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
             logging.warning(f"Gemini returned no candidates or no content parts. Full response object: {response}")
@@ -556,9 +563,9 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         try:
-            if 'response' in locals() and response: 
+            if 'response' in locals() and response:
                 logging.error(f"Gemini response object on error (prompt_feedback): {response.prompt_feedback if hasattr(response, 'prompt_feedback') else 'N/A'}")
-                if hasattr(response, 'candidates') and response.candidates: 
+                if hasattr(response, 'candidates') and response.candidates:
                      logging.error(f"Gemini response object on error (first candidate): {response.candidates[0]}")
             else:
                 logging.error("Response object not available or None at the time of error logging during exception.")
@@ -567,15 +574,12 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         return {}
 
 
-def write_digest_html(digest_data, base_dir, current_zone):
-    digest_path = os.path.join(base_dir, "public", "digest.html")
-    os.makedirs(os.path.dirname(digest_path), exist_ok=True)
-
+def generate_digest_html_content(digest_data, current_zone):
+    """Generates just the HTML string for a digest, without writing to a file."""
     html_parts = []
-    # digest_data is now expected to be pre-sorted by newest article pubdate
-    for topic, articles in digest_data.items(): 
+    for topic, articles in digest_data.items():
         html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
-        for article in articles: 
+        for article in articles:
             try:
                 pub_dt_orig = parsedate_to_datetime(article["pubDate"])
                 pub_dt_user_tz = to_user_timezone(pub_dt_orig)
@@ -590,19 +594,57 @@ def write_digest_html(digest_data, base_dir, current_zone):
                 f'<small>{date_str}</small>'
                 f'</p>\n'
             )
-    
-    last_updated_dt = datetime.now(current_zone)
-    last_updated_str_for_footer = last_updated_dt.strftime("%A, %d %B %Y %I:%M %p %Z")
-    
-    footer_html = (
-        f"<div class='timestamp' id='last-updated' style='display: none;'>" 
-        f"Last updated: {last_updated_str_for_footer}"
-        f"</div>\n"
-    )
-    html_parts.append(footer_html)
+    return "".join(html_parts)
 
-    with open(digest_path, "w", encoding="utf-8") as f:
-        f.write("".join(html_parts))
+def update_digest_history(new_digest_html_content, current_zone):
+    """Saves a new historical digest and updates the manifest."""
+    # 1. Generate filename and path for the new historical digest
+    now_utc = datetime.now(ZoneInfo("UTC"))
+    ts_filename = now_utc.strftime("%Y%m%d%H%M%S")
+    new_digest_filename = f"{ts_filename}.html"
+    new_digest_path = os.path.join(DIGESTS_DIR, new_digest_filename)
+
+    # 2. Write the new historical digest HTML file
+    os.makedirs(os.path.dirname(new_digest_path), exist_ok=True)
+    with open(new_digest_path, "w", encoding="utf-8") as f:
+        f.write(new_digest_html_content)
+    logging.info(f"Wrote historical digest to {new_digest_path}")
+
+    # 3. Read the existing manifest
+    try:
+        if os.path.exists(DIGEST_MANIFEST_FILE):
+            with open(DIGEST_MANIFEST_FILE, "r") as f:
+                manifest = json.load(f)
+        else:
+            manifest = []
+    except (json.JSONDecodeError, IOError) as e:
+        logging.warning(f"Could not read or parse manifest file, starting fresh. Error: {e}")
+        manifest = []
+
+    # 4. Add new entry to manifest (newest first)
+    new_entry = {
+        "timestamp": now_utc.isoformat(),
+        "file": f"digests/{new_digest_filename}"
+    }
+    manifest.insert(0, new_entry)
+
+    # 5. Prune old digests and remove files
+    if len(manifest) > MAX_HISTORY_DIGESTS:
+        old_entries = manifest[MAX_HISTORY_DIGESTS:]
+        manifest = manifest[:MAX_HISTORY_DIGESTS]
+        for entry in old_entries:
+            old_file_path = os.path.join(BASE_DIR, "public", entry["file"])
+            if os.path.exists(old_file_path):
+                try:
+                    os.remove(old_file_path)
+                    logging.info(f"Removed old digest file: {old_file_path}")
+                except OSError as e:
+                    logging.error(f"Error removing old digest file {old_file_path}: {e}")
+
+    # 6. Write updated manifest
+    with open(DIGEST_MANIFEST_FILE, "w") as f:
+        json.dump(manifest, f, indent=2)
+    logging.info(f"Updated digest manifest file: {DIGEST_MANIFEST_FILE}")
 
 
 def update_history_file(newly_selected_articles_by_topic, current_history, history_file_path, current_zone):
@@ -610,10 +652,10 @@ def update_history_file(newly_selected_articles_by_topic, current_history, histo
         logging.info("No newly selected articles provided to update_history_file, or invalid format. Proceeding to prune existing history.")
 
     for topic, articles in newly_selected_articles_by_topic.items():
-        history_key = topic.lower().replace(" ", "_") 
+        history_key = topic.lower().replace(" ", "_")
         if history_key not in current_history:
             current_history[history_key] = []
-        
+
         existing_norm_titles_in_topic_history = {normalize(a.get("title","")) for a in current_history[history_key]}
 
         for article in articles:
@@ -621,37 +663,37 @@ def update_history_file(newly_selected_articles_by_topic, current_history, histo
             if norm_title not in existing_norm_titles_in_topic_history:
                 current_history[history_key].append({
                     "title": article["title"],
-                    "pubDate": article["pubDate"] 
+                    "pubDate": article["pubDate"]
                 })
                 existing_norm_titles_in_topic_history.add(norm_title)
 
     history_retention_days = int(CONFIG.get("HISTORY_RETENTION_DAYS", 7))
     time_limit_utc = datetime.now(ZoneInfo("UTC")) - timedelta(days=history_retention_days)
-    
-    for topic_key in list(current_history.keys()): 
+
+    for topic_key in list(current_history.keys()):
         updated_topic_articles_in_history = []
         for article_entry in current_history[topic_key]:
             try:
                 pub_dt_str = article_entry.get("pubDate")
-                if not pub_dt_str: 
+                if not pub_dt_str:
                     logging.warning(f"History entry for topic '{topic_key}' title '{article_entry.get('title')}' missing pubDate. Keeping.")
                     updated_topic_articles_in_history.append(article_entry)
                     continue
 
                 pub_dt_orig = parsedate_to_datetime(pub_dt_str)
                 pub_dt_utc = pub_dt_orig.astimezone(ZoneInfo("UTC")) if pub_dt_orig.tzinfo else pub_dt_orig.replace(tzinfo=ZoneInfo("UTC"))
-                
+
                 if pub_dt_utc >= time_limit_utc:
                     updated_topic_articles_in_history.append(article_entry)
             except Exception as e:
                 logging.warning(f"Could not parse pubDate '{article_entry.get('pubDate')}' for history cleaning of article '{article_entry.get('title')}': {e}. Keeping entry.")
-                updated_topic_articles_in_history.append(article_entry) 
-        
+                updated_topic_articles_in_history.append(article_entry)
+
         if updated_topic_articles_in_history:
             current_history[topic_key] = updated_topic_articles_in_history
         else:
             logging.info(f"Removing empty topic_key '{topic_key}' from history after pruning.")
-            del current_history[topic_key] 
+            del current_history[topic_key]
 
     try:
         with open(history_file_path, "w", encoding="utf-8") as f:
@@ -664,13 +706,13 @@ def perform_git_operations(base_dir, current_zone, config_obj):
     try:
         github_token = os.getenv("GITHUB_TOKEN")
         github_repository_owner_slash_repo = os.getenv("GITHUB_REPOSITORY")
-        
+
         if not github_token or not github_repository_owner_slash_repo:
             logging.error("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Cannot push to GitHub.")
             return
-        
+
         remote_url = f"https://oauth2:{github_token}@github.com/{github_repository_owner_slash_repo}.git"
-        
+
         commit_author_name = os.getenv("GITHUB_USER", config_obj.get("GIT_USER_NAME", "Automated Digest Bot"))
         commit_author_email = os.getenv("GITHUB_EMAIL", config_obj.get("GIT_USER_EMAIL", "bot@example.com"))
 
@@ -688,13 +730,13 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         current_branch = branch_result.stdout.strip()
         if not current_branch or current_branch == "HEAD":
             logging.warning(f"Could not reliably determine current branch (got '{current_branch}'). Defaulting to 'main'.")
-            current_branch = "main" 
+            current_branch = "main"
             try:
                 subprocess.run(["git", "checkout", current_branch], check=True, cwd=base_dir, capture_output=True)
             except subprocess.CalledProcessError as e_checkout:
                 err_msg = e_checkout.stderr.decode(errors='ignore') if e_checkout.stderr else e_checkout.stdout.decode(errors='ignore')
                 logging.error(f"Failed to checkout branch '{current_branch}': {err_msg}. Proceeding with caution.")
-        
+
         logging.info("Attempting to stash local changes before pull.")
         stash_result = subprocess.run(["git", "stash", "push", "-u", "-m", "WIP_Stash_By_Script"], capture_output=True, text=True, cwd=base_dir)
         stashed_changes = "No local changes to save" not in stash_result.stdout and stash_result.returncode == 0
@@ -721,7 +763,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                      if pop_after_abort_result.returncode != 0:
                          logging.error(f"Failed to pop stash after rebase abort. Stderr: {pop_after_abort_result.stderr.strip()}")
                  logging.warning("Skipping push this cycle due to rebase conflict.")
-                 return 
+                 return
         else:
             logging.info(f"'git pull --rebase' successful. Stdout: {pull_result.stdout.strip()}")
 
@@ -733,32 +775,39 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                 logging.warning("Proceeding to add/commit script changes, but manual conflict resolution for stash might be needed later.")
             else:
                 logging.info("Stashed changes popped successfully.")
-        
+
+        # --- MODIFIED GIT ADD LOGIC ---
         files_for_git_add = []
         history_file_abs = os.path.join(base_dir, "history.json")
-        digest_state_file_abs = os.path.join(base_dir, "content.json") 
-        digest_html_path_abs = os.path.join(base_dir, "public/digest.html")
+        digest_state_file_abs = os.path.join(base_dir, "content.json")
+        digests_dir_abs = os.path.join(base_dir, "public/digests")
+        digest_manifest_abs = os.path.join(base_dir, "public/digest-manifest.json")
+        latest_digest_abs = os.path.join(base_dir, "public/digest.html")
+
 
         if os.path.exists(history_file_abs): files_for_git_add.append(os.path.relpath(history_file_abs, base_dir))
-        if os.path.exists(digest_html_path_abs): files_for_git_add.append(os.path.relpath(digest_html_path_abs, base_dir))
         if os.path.exists(digest_state_file_abs): files_for_git_add.append(os.path.relpath(digest_state_file_abs, base_dir))
-        
+        if os.path.exists(digests_dir_abs): files_for_git_add.append(os.path.relpath(digests_dir_abs, base_dir))
+        if os.path.exists(digest_manifest_abs): files_for_git_add.append(os.path.relpath(digest_manifest_abs, base_dir))
+        if os.path.exists(latest_digest_abs): files_for_git_add.append(os.path.relpath(latest_digest_abs, base_dir))
+
         if files_for_git_add:
             logging.info(f"Staging script generated/modified files: {files_for_git_add}")
-            add_process = subprocess.run(["git", "add"] + files_for_git_add, 
-                                         capture_output=True, text=True, cwd=base_dir) 
+            add_process = subprocess.run(["git", "add"] + files_for_git_add,
+                                         capture_output=True, text=True, cwd=base_dir)
             if add_process.returncode != 0:
                 logging.error(f"git add command for script files failed. RC: {add_process.returncode}, Stdout: {add_process.stdout.strip()}, Stderr: {add_process.stderr.strip()}")
             else:
                 logging.info(f"git add successful for: {files_for_git_add}")
         else:
             logging.info("No specific script-generated files found/modified to add.")
-        
+        # --- END MODIFIED GIT ADD LOGIC ---
+
         status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
         if not status_result.stdout.strip():
             logging.info("No changes to commit after all operations. Local branch likely matches remote or no script changes.")
             return
-        
+
         commit_message = f"Auto-update digest content - {datetime.now(current_zone).strftime('%Y-%m-%d %H:%M:%S %Z')}"
         commit_cmd = ["git", "commit", "-m", commit_message]
         commit_result = subprocess.run(commit_cmd, capture_output=True, text=True, cwd=base_dir)
@@ -768,7 +817,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                "no changes added to commit" in commit_result.stdout.lower() or \
                "your branch is up to date" in commit_result.stdout.lower():
                 logging.info(f"Commit attempt reported no new changes. Stdout: {commit_result.stdout.strip()}")
-                try: 
+                try:
                     local_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
                     remote_head_cmd_out = subprocess.run(["git", "ls-remote", "origin", f"refs/heads/{current_branch}"], capture_output=True, text=True, cwd=base_dir)
                     if remote_head_cmd_out.returncode == 0 and remote_head_cmd_out.stdout.strip():
@@ -777,16 +826,16 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                             logging.info(f"Local {current_branch} is same as origin/{current_branch}. No push needed.")
                             return
                     logging.info("Local commit differs from remote or remote check failed. Will attempt push.")
-                except Exception as e_rev: 
+                except Exception as e_rev:
                     logging.warning(f"Could not compare local/remote revisions: {e_rev}. Will attempt push.")
-            else: 
+            else:
                 logging.error(f"git commit command failed. RC: {commit_result.returncode}, Stdout: {commit_result.stdout.strip()}, Stderr: {commit_result.stderr.strip()}")
         else:
             logging.info(f"Commit successful: {commit_result.stdout.strip()}")
-        
+
         logging.info(f"Pushing changes to origin/{current_branch}...")
         push_cmd = ["git", "push", "origin", current_branch]
-        push_result = subprocess.run(push_cmd, check=True, cwd=base_dir, capture_output=True) 
+        push_result = subprocess.run(push_cmd, check=True, cwd=base_dir, capture_output=True)
         logging.info(f"Content committed and pushed to GitHub on branch '{current_branch}'. Push output: {push_result.stdout.decode(errors='ignore').strip() if push_result.stdout else ''}")
 
     except subprocess.CalledProcessError as e:
@@ -808,8 +857,6 @@ def main():
         except Exception as e:
             logging.error(f"Error loading history.json: {e}. Starting with empty history.")
 
-    # In this model, content.json is a direct snapshot of the latest run.
-    
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
@@ -817,112 +864,109 @@ def main():
             sys.exit(1)
 
         user_preferences = build_user_preferences(TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
-        
-        headlines_to_send_to_llm = {} 
-        full_articles_map_this_run = {} 
-        
+
+        headlines_to_send_to_llm = {}
+        full_articles_map_this_run = {}
+
         banned_terms_list = [k for k, v in OVERRIDES.items() if v == "ban"]
-        normalized_banned_terms = [normalize(term) for term in banned_terms_list if term] 
+        normalized_banned_terms = [normalize(term) for term in banned_terms_list if term]
 
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
 
         for topic_name in TOPIC_WEIGHTS:
-            fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic) 
+            fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic)
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
                     if is_in_history(art["title"], history):
                         logging.debug(f"Skipping (in history): {art['title']}")
                         continue
-                    if contains_banned_keyword(art["title"], normalized_banned_terms): 
+                    if contains_banned_keyword(art["title"], normalized_banned_terms):
                         logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
-                    
+
                     current_topic_headlines_for_llm.append(art["title"])
-                    norm_title_key = normalize(art["title"]) 
+                    norm_title_key = normalize(art["title"])
                     if norm_title_key not in full_articles_map_this_run:
                          full_articles_map_this_run[norm_title_key] = art
-                
+
                 if current_topic_headlines_for_llm:
                     headlines_to_send_to_llm[topic_name] = current_topic_headlines_for_llm
-        
-        # This will hold Gemini's output after initial processing and MAX_ARTICLES_PER_TOPIC truncation
-        gemini_processed_content = {} # CORRECTED VARIABLE NAME HERE
+
+        gemini_processed_content = {}
 
         if not headlines_to_send_to_llm:
             logging.info("No new, non-banned, non-historical headlines available to send to LLM.")
         else:
             total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
             logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
-            
+
             selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, gemini_api_key)
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
                 logging.warning("Gemini returned no content or invalid format.")
             else:
-                # Enforce MAX_TOPICS on Gemini's output
                 if len(selected_content_raw_from_llm) > MAX_TOPICS:
                     logging.warning(f"Gemini returned {len(selected_content_raw_from_llm)} topics, which exceeds MAX_TOPICS={MAX_TOPICS}. Truncating to the first {MAX_TOPICS} topics provided by Gemini.")
                     truncated_topics_list = list(selected_content_raw_from_llm.items())[:MAX_TOPICS]
-                    selected_content_raw_from_llm = dict(truncated_topics_list) 
-                
+                    selected_content_raw_from_llm = dict(truncated_topics_list)
+
                 logging.info(f"Processing {len(selected_content_raw_from_llm)} topics from Gemini (after script's MAX_TOPICS truncation). Enforcing MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
-                seen_normalized_titles_in_llm_output = set() 
+                seen_normalized_titles_in_llm_output = set()
 
                 for topic_from_llm, titles_from_llm_untruncated in selected_content_raw_from_llm.items():
                     if not isinstance(titles_from_llm_untruncated, list):
                         logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm_untruncated}. Skipping.")
                         continue
-                    
+
                     titles_from_llm = titles_from_llm_untruncated[:MAX_ARTICLES_PER_TOPIC]
                     if len(titles_from_llm_untruncated) > MAX_ARTICLES_PER_TOPIC:
                         logging.info(f"Topic '{topic_from_llm}' from LLM had {len(titles_from_llm_untruncated)} articles, script truncated to {MAX_ARTICLES_PER_TOPIC}.")
 
                     current_topic_articles_for_digest = []
-                    for title_from_llm in titles_from_llm: 
+                    for title_from_llm in titles_from_llm:
                         if not isinstance(title_from_llm, str):
                             logging.warning(f"LLM returned non-string headline: {title_from_llm} for topic '{topic_from_llm}'. Skipping.")
                             continue
-                        
+
                         norm_llm_title = normalize(title_from_llm)
                         if not norm_llm_title: continue
 
                         if norm_llm_title in seen_normalized_titles_in_llm_output:
                             logging.info(f"Deduplicating LLM output: '{title_from_llm}' already selected under another topic by LLM this run.")
                             continue
-                        
+
                         article_data = full_articles_map_this_run.get(norm_llm_title)
                         if article_data:
                             current_topic_articles_for_digest.append(article_data)
                             seen_normalized_titles_in_llm_output.add(norm_llm_title)
-                        else: 
+                        else:
                             found_fallback = False
                             for stored_norm_title, stored_article_data in full_articles_map_this_run.items():
                                 if norm_llm_title in stored_norm_title or stored_norm_title in norm_llm_title:
-                                    if stored_norm_title not in seen_normalized_titles_in_llm_output: 
+                                    if stored_norm_title not in seen_normalized_titles_in_llm_output:
                                         current_topic_articles_for_digest.append(stored_article_data)
-                                        seen_normalized_titles_in_llm_output.add(stored_norm_title) 
+                                        seen_normalized_titles_in_llm_output.add(stored_norm_title)
                                         logging.info(f"Matched LLM title '{title_from_llm}' to stored '{stored_article_data['title']}' via fallback.")
                                         found_fallback = True
                                         break
                             if not found_fallback:
                                 logging.warning(f"Could not map LLM title '{title_from_llm}' (normalized: '{norm_llm_title}') back to a fetched article.")
-                    
+
                     if current_topic_articles_for_digest:
-                        gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest # Use the corrected variable
-        
-        # Sort the selected topics by the pubDate of their first article, newest first
+                        gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest
+
         final_digest_for_display_and_state = {}
-        if gemini_processed_content: # Use the corrected variable name here
+        if gemini_processed_content:
             topics_with_pubdates = []
-            for topic_name, articles in gemini_processed_content.items(): # And here
-                if not articles: 
-                    continue 
-                
-                newest_pubdate_str = articles[0]['pubDate'] 
+            for topic_name, articles in gemini_processed_content.items():
+                if not articles:
+                    continue
+
+                newest_pubdate_str = articles[0]['pubDate']
                 try:
                     newest_pubdate_dt = parsedate_to_datetime(newest_pubdate_str)
-                    if newest_pubdate_dt.tzinfo is None: 
+                    if newest_pubdate_dt.tzinfo is None:
                         newest_pubdate_dt = newest_pubdate_dt.replace(tzinfo=ZoneInfo("UTC"))
                     topics_with_pubdates.append((topic_name, articles, newest_pubdate_dt))
                 except Exception as e:
@@ -930,51 +974,45 @@ def main():
                     topics_with_pubdates.append((topic_name, articles, datetime.min.replace(tzinfo=ZoneInfo("UTC"))))
 
             topics_with_pubdates.sort(key=lambda x: x[2], reverse=True)
-            
-            # Reconstruct the dictionary in the new sorted order
-            # Python 3.7+ dicts maintain insertion order
+
             for topic_name, articles, _ in topics_with_pubdates:
                 final_digest_for_display_and_state[topic_name] = articles
             logging.info(f"Sorted {len(final_digest_for_display_and_state)} topics by newest article pubdate for display.")
         else:
             logging.info("No content from Gemini to sort for display.")
-            # final_digest_for_display_and_state is already {}
-        
-        # Write to HTML and content.json
+
         if final_digest_for_display_and_state:
             content_json_to_save = {}
-            now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat() 
-            
-            # Iterate over the sorted dictionary to preserve order for content.json as well
+            now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat()
+
             for topic, articles in final_digest_for_display_and_state.items():
                 content_json_to_save[topic] = {
                     "articles": articles,
-                    "last_updated_ts": now_utc_iso 
+                    "last_updated_ts": now_utc_iso
                 }
             
-            write_digest_html(final_digest_for_display_and_state, BASE_DIR, ZONE) # Pass the sorted dict
-            logging.info(f"Digest HTML written/updated with {len(final_digest_for_display_and_state)} topics, sorted by newest article.")
+            # Generate the HTML content once
+            new_digest_html = generate_digest_html_content(final_digest_for_display_and_state, ZONE)
+            
+            # Write to the main digest.html
+            with open(LATEST_DIGEST_HTML_FILE, "w", encoding="utf-8") as f:
+                f.write(new_digest_html)
+            logging.info(f"Latest digest written to {LATEST_DIGEST_HTML_FILE}")
+            
+            # Update history with the same content
+            update_digest_history(new_digest_html, ZONE)
             
             try:
-                with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f: 
-                    json.dump(content_json_to_save, f, indent=2) # Save the sorted content
+                with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
+                    json.dump(content_json_to_save, f, indent=2)
                 logging.info(f"Snapshot of current digest saved to {DIGEST_STATE_FILE}")
             except IOError as e:
                 logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
-        
-        else: 
-            digest_html_path = os.path.join(BASE_DIR, "public", "digest.html")
-            if os.path.exists(digest_html_path):
-                logging.info("No topics from Gemini this run. Existing digest.html (if any) is NOT modified.")
-            else:
-                logging.info("No topics from Gemini this run, and digest.html does not exist. It will not be created.")
-            
-            try: 
-                with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
-                    json.dump({}, f, indent=2) 
-                logging.info(f"Gemini provided no topics; {DIGEST_STATE_FILE} updated to empty.")
-            except IOError as e:
-                logging.error(f"Failed to write empty digest state file {DIGEST_STATE_FILE}: {e}")
+
+        else:
+            logging.info("No topics from Gemini this run. Files are not modified.")
+            # We don't clear digest.html if there are no new topics, to keep the last good one visible.
+            # We also don't update content.json or the manifest.
 
         update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
