@@ -11,7 +11,7 @@
   <header>
     <div class="container header-bar">
       <div class="title-group">
-        <h1>Based News</h1>
+        <h1>Based News Reader</h1>
         <p class="subheading">Curated with Gemini, updated hourly.</p>
       </div>
       <div class="header-right-placeholder"></div>
@@ -28,7 +28,7 @@
        <h3 id="digest-timestamp-header" class="digest-timestamp">Loading...</h3>
       <div id="digest-slider-wrapper">
         <div id="digest-slider">
-          <!-- Slides will be injected here by JS -->
+          <!-- Slides will be injected here by JS in reverse chronological order -->
         </div>
       </div>
     </section>
@@ -55,21 +55,23 @@
       const summarySection = document.getElementById("world-summary");
 
       let manifest = [];
-      let currentIndex = 0; // 0 = Latest, 1 = Newest Historical, etc.
+      // currentIndex is the LOGICAL index: 0 is always Latest, 1 is newest historical, etc.
+      let currentIndex = 0; 
       let totalItems = 0;
       let touchStartX = 0;
       let touchEndX = 0;
       const swipeThreshold = 50; 
 
       function updateNavControls() {
-        olderBtn.disabled = currentIndex >= totalItems - 1;
-        newerBtn.disabled = currentIndex <= 0;
+        // Disable buttons at the ends of the carousel
+        olderBtn.disabled = currentIndex >= totalItems - 1; // At the oldest
+        newerBtn.disabled = currentIndex <= 0;             // At the newest
         
+        // Update the active state of the dots
         const dots = document.querySelectorAll('.dot');
         dots.forEach((dot) => {
-          const visualIndex = parseInt(dot.dataset.visualIndex);
-          const targetSlideIndex = totalItems - 1 - visualIndex;
-          dot.classList.toggle('active', targetSlideIndex === currentIndex);
+          const dotIndex = parseInt(dot.dataset.logicalIndex);
+          dot.classList.toggle('active', dotIndex === currentIndex);
         });
       }
 
@@ -77,6 +79,7 @@
         if (currentIndex === 0) {
             timestampHeader.textContent = "Latest Headlines";
         } else {
+            // manifest is 0-indexed and doesn't include "Latest", so offset by -1
             const entry = manifest[currentIndex - 1];
             if (entry) {
                 const date = new Date(entry.timestamp);
@@ -97,7 +100,7 @@
       function showDigest(index) {
           if (index < 0 || index >= totalItems) return;
           
-          currentIndex = index;
+          currentIndex = index; // Set the current logical index
           const slideId = `digest-slide-${index}`;
           const slide = document.getElementById(slideId);
 
@@ -106,11 +109,16 @@
               return;
           }
 
+          // Lazy-load historical content if it hasn't been loaded yet
           if (slide.children.length === 0 && index > 0) {
               loadDigestContent(index, slide);
           }
           
-          digestSlider.style.transform = `translateX(-${index * 100}%)`;
+          // Convert the logical index to the visual index for the CSS transform
+          // Visual index 0 = oldest slide (leftmost), N = newest slide (rightmost)
+          const visualIndex = (totalItems - 1) - currentIndex;
+          digestSlider.style.transform = `translateX(-${visualIndex * 100}%)`;
+          
           updateNavControls();
           updateTimestampHeader();
       }
@@ -124,6 +132,7 @@
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             const html = await response.text();
             slideElement.innerHTML = html;
+            // Adjust height after content is loaded if it's the current slide
             if (index === currentIndex) {
                 adjustWrapperHeight(slideElement);
             }
@@ -136,10 +145,10 @@
       function handleSwipe() {
         const deltaX = touchEndX - touchStartX;
         if (Math.abs(deltaX) > swipeThreshold) {
-            if (deltaX < 0) { // Swipe Left: Go Older
-                if (currentIndex < totalItems - 1) showDigest(currentIndex + 1);
-            } else { // Swipe Right: Go Newer
+            if (deltaX < 0) { // Swipe Left: Go Newer (move to a slide on the right)
                 if (currentIndex > 0) showDigest(currentIndex - 1);
+            } else { // Swipe Right: Go Older (move to a slide on the left)
+                if (currentIndex < totalItems - 1) showDigest(currentIndex + 1);
             }
         }
       }
@@ -158,42 +167,53 @@
               const manifestRes = await fetch("digest-manifest.json");
               if (!manifestRes.ok) throw new Error("Manifest not found");
               
-              manifest = await manifestRes.json(); // Newest first
-              totalItems = manifest.length + 1;
+              manifest = await manifestRes.json(); // Newest historical is at index 0
+              totalItems = manifest.length + 1; // +1 for the "Latest" digest
               
-              // *** KEY FIX: REMOVED THE PROBLEMATIC LINE ***
-              // digestSlider.style.width = `${totalItems * 100}%`; // This line is removed.
+              digestSlider.innerHTML = '';
+              dotsContainer.innerHTML = '';
 
-              // 1. Create all slide containers and dots
-              for (let i = 0; i < totalItems; i++) {
+              // Create slides and dots in visual order: Oldest (left) to Newest (right)
+              for (let visualIndex = 0; visualIndex < totalItems; visualIndex++) {
+                  const logicalIndex = (totalItems - 1) - visualIndex;
+
+                  // 1. Create the slide container, identified by its logical index
                   const slide = document.createElement('div');
                   slide.className = 'digest-slide';
-                  slide.id = `digest-slide-${i}`;
+                  slide.id = `digest-slide-${logicalIndex}`;
                   digestSlider.appendChild(slide);
 
+                  // 2. Create the corresponding navigation dot
                   const dot = document.createElement('div');
                   dot.className = 'dot';
-                  const visualIndex = totalItems - 1 - i;
-                  dot.dataset.visualIndex = visualIndex; 
-                  dot.onclick = () => showDigest(i);
+                  dot.dataset.logicalIndex = logicalIndex;
+                  dot.onclick = () => showDigest(logicalIndex);
                   
-                  if (i === 0) {
+                  if (logicalIndex === 0) {
                       dot.title = "Latest Headlines";
                   } else {
-                      const date = new Date(manifest[i - 1].timestamp);
+                      const entry = manifest[logicalIndex - 1];
+                      const date = new Date(entry.timestamp);
                       dot.title = `Digest from ${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
                   }
-                  dotsContainer.prepend(dot);
+                  dotsContainer.appendChild(dot); 
               }
               
+              // Pre-load the content for the "Latest" digest slide
+              const latestSlideElement = document.getElementById('digest-slide-0');
               const digestRes = await fetch("digest.html").catch(e => e);
               if (digestRes instanceof Response && digestRes.ok) {
-                  document.getElementById('digest-slide-0').innerHTML = await digestRes.text();
+                  latestSlideElement.innerHTML = await digestRes.text();
+              } else {
+                  latestSlideElement.innerHTML = "<p>Could not load latest headlines.</p>";
               }
-
-              olderBtn.onclick = () => { if (currentIndex < totalItems - 1) showDigest(currentIndex + 1); }; // Go Older
-              newerBtn.onclick = () => { if (currentIndex > 0) showDigest(currentIndex - 1); }; // Go Newer
-
+              
+              // 'Older' (◄) means increasing the logical index (e.g., from 0 to 1)
+              olderBtn.onclick = () => { if (currentIndex < totalItems - 1) showDigest(currentIndex + 1); };
+              // 'Newer' (►) means decreasing the logical index (e.g., from 1 to 0)
+              newerBtn.onclick = () => { if (currentIndex > 0) showDigest(currentIndex - 1); };
+              
+              // Start by showing the latest digest (logical index 0), which is the rightmost slide
               showDigest(0);
 
           } catch (error) {
