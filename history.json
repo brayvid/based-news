@@ -75,14 +75,6 @@
   ],
   "iran": [
     {
-      "title": "Hegseth says US strikes on Iran were 'historically successful' after ayatollah downplays impact - BBC",
-      "pubDate": "Thu, 26 Jun 2025 15:35:42 GMT"
-    },
-    {
-      "title": "Pentagon details Iran bombing amid questions about scope of damage - The Washington Post",
-      "pubDate": "Thu, 26 Jun 2025 15:33:50 GMT"
-    },
-    {
       "title": "Israel-Iran Ceasefire Live Updates: Trump Says Iranian Nuclear Deal Isn\u2019t Necessary After U.S. Strikes - WSJ",
       "pubDate": "Thu, 26 Jun 2025 17:57:00 GMT"
     },
@@ -843,6 +835,10 @@
     {
       "title": "Inside the 24 hours that Trump willed his agenda bill over the finish line - CNN",
       "pubDate": "Fri, 04 Jul 2025 11:09:00 GMT"
+    },
+    {
+      "title": "Trump expects Hamas decision on \u2018final\u2019 peace proposal in hours - The Hill",
+      "pubDate": "Fri, 04 Jul 2025 14:14:00 GMT"
     }
   ],
   "russia": [
@@ -1009,6 +1005,10 @@
     {
       "title": "Russian drone attack on Kyiv injures 14, triggers multiple fires, mayor says - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 04:20:00 GMT"
+    },
+    {
+      "title": "Russia welcomes Trump\u2019s cut to Ukraine\u2019s military aid but it could be deadly for Kyiv - CNN",
+      "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1087,13 +1087,13 @@
     {
       "title": "OpenAI co-founder takes CEO role at Safe Superintelligence - Tech in Asia",
       "pubDate": "Fri, 04 Jul 2025 01:49:00 GMT"
+    },
+    {
+      "title": "AI Security Institute targets cybercrime in hiring push - UKTN",
+      "pubDate": "Fri, 04 Jul 2025 13:00:17 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "The S&P 500 is taking a $9.8 trillion roundtrip. Here\u2019s what\u2019s going on - CNN",
-      "pubDate": "Thu, 26 Jun 2025 15:41:00 GMT"
-    },
     {
       "title": "Market bets on a more dovish Fed as Trump eyes Powell's replacement - Reuters",
       "pubDate": "Thu, 26 Jun 2025 19:23:28 GMT"
@@ -1783,10 +1783,6 @@
   ],
   "climate": [
     {
-      "title": "Global Warming Is Speeding Up and the World Is Feeling the Effects - The New York Times",
-      "pubDate": "Thu, 26 Jun 2025 15:50:49 GMT"
-    },
-    {
       "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
       "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
     },
@@ -2163,24 +2159,16 @@
     {
       "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
       "pubDate": "Fri, 04 Jul 2025 12:40:03 GMT"
+    },
+    {
+      "title": "US and Ukraine to work on strengthening air defences, Zelenskyy says, after call Trump says was \u2018meaningful\u2019 \u2013 Europe live - The Guardian",
+      "pubDate": "Fri, 04 Jul 2025 07:27:00 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "US economy shrank 0.5% in the first quarter, worse than earlier estimates had revealed - AP News",
       "pubDate": "Thu, 26 Jun 2025 16:36:00 GMT"
-    },
-    {
-      "title": "Majority of Fed Officials Leaning Against July Interest-Rate Cut - Bloomberg.com",
-      "pubDate": "Thu, 26 Jun 2025 15:27:39 GMT"
-    },
-    {
-      "title": "GDP data shows U.S. economy shrank more than previously thought in early 2025 - CBS News",
-      "pubDate": "Thu, 26 Jun 2025 15:04:25 GMT"
-    },
-    {
-      "title": "US economy shrunk faster than expected, new data shows - The Hill",
-      "pubDate": "Thu, 26 Jun 2025 15:03:00 GMT"
     },
     {
       "title": "S&P 500, Nasdaq Near Record Highs; 3 Stocks In Or Near Buy Zones - Investor's Business Daily",
@@ -2417,6 +2405,10 @@
     {
       "title": "Trump\u2019s tax cuts: Who will it benefit? - NewsNation",
       "pubDate": "Fri, 04 Jul 2025 11:13:19 GMT"
+    },
+    {
+      "title": "Trump\u2019s Big Beautiful Bill explained: What NRIs need to know about remittances, rentals, and property investments - Hindustan Times",
+      "pubDate": "Fri, 04 Jul 2025 05:03:11 GMT"
     }
   ],
   "china": [
@@ -2787,6 +2779,10 @@
     {
       "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
       "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
+    },
+    {
+      "title": "China's first homemade aircraft carrier sails into Hong Kong in a show of military prowess - NBC News",
+      "pubDate": "Fri, 04 Jul 2025 08:15:09 GMT"
     }
   ],
   "world_news": [
@@ -2808,14 +2804,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump hosting 'One, Big, Beautiful' event to push Senate Republicans to pass tax bill - CNBC",
-      "pubDate": "Thu, 26 Jun 2025 15:38:47 GMT"
-    },
-    {
-      "title": "Trump Live Updates: Iran Strikes, GOP Policy Bill and More - The New York Times",
-      "pubDate": "Thu, 26 Jun 2025 15:33:16 GMT"
-    },
     {
       "title": "Senators diverge sharply on damage done by Iran strikes after classified briefing - Huron Daily Tribune",
       "pubDate": "Thu, 26 Jun 2025 20:37:30 GMT"
@@ -4274,10 +4262,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "U.S. Intelligence Leaders Affirm Iran Nuclear Site Destruction - The Presidential Prayer Team",
-      "pubDate": "Thu, 26 Jun 2025 16:00:00 GMT"
-    },
     {
       "title": "Iran\u2019s nuclear programme severely damaged, CIA Director confirms - Defence Industry Europe",
       "pubDate": "Thu, 26 Jun 2025 22:25:57 GMT"
