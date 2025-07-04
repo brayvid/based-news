@@ -75,20 +75,12 @@
   ],
   "iran": [
     {
-      "title": "CIA says US bombing set Iran\u2019s nuclear programme back for \u2018years\u2019 - South China Morning Post",
-      "pubDate": "Wed, 25 Jun 2025 23:03:36 GMT"
-    },
-    {
       "title": "CIA says it has evidence Iran\u2019s nuclear program was \u2018severely damaged\u2019 as assessments of US strikes\u2019 impact continue - CNN",
       "pubDate": "Thu, 26 Jun 2025 00:15:00 GMT"
     },
     {
       "title": "In New Assessment, C.I.A. Chief Says U.S. Strikes \u2018Severely Damaged\u2019 Iranian Program - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 01:57:25 GMT"
-    },
-    {
-      "title": "Live Updates: Trump Says U.S. and Iran to Meet; White House Disputes Damage Report - The New York Times",
-      "pubDate": "Wed, 25 Jun 2025 23:34:47 GMT"
     },
     {
       "title": "CIA director: Iran nuclear sites \u2018severely damaged\u2019 by strikes - EFE - Agencia de noticias",
@@ -213,20 +205,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Americans brace for welfare cuts in Trump's 'Big Beautiful Bill' - BBC",
-      "pubDate": "Wed, 25 Jun 2025 23:31:41 GMT"
-    },
-    {
-      "title": "Trump Administration Live Updates: Pleasing Trump, NATO Leaders Make Spending Pledge but Keep Some Flexibility - The New York Times",
-      "pubDate": "Wed, 25 Jun 2025 23:44:23 GMT"
-    },
-    {
       "title": "In a Win for Trump, NATO Agrees to a Big Increase in Military Spending - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 02:15:38 GMT"
-    },
-    {
-      "title": "Trump, Hegseth slam news coverage of US intel report on Iran attack, say B-2 pilots upset - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 25 Jun 2025 23:17:09 GMT"
     },
     {
       "title": "Trump calls for Netanyahu corruption trial to be cancelled - The Guardian",
@@ -875,6 +855,10 @@
     {
       "title": "Major win for Trump as Congress passes 'big, beautiful bill' - BBC",
       "pubDate": "Thu, 03 Jul 2025 21:41:13 GMT"
+    },
+    {
+      "title": "Live updates: Trump plans to sign the tax bill Friday after House passage - The Washington Post",
+      "pubDate": "Thu, 03 Jul 2025 23:11:59 GMT"
     }
   ],
   "russia": [
@@ -1107,6 +1091,10 @@
     {
       "title": "Motor safety: AI-powered warning system enhances capability to uncover hidden faults - Tech Xplore",
       "pubDate": "Thu, 03 Jul 2025 17:16:03 GMT"
+    },
+    {
+      "title": "The promise and perils of AI in health care: Why we need better testing standards - KevinMD.com",
+      "pubDate": "Thu, 03 Jul 2025 15:09:28 GMT"
     }
   ],
   "financial_markets": [
@@ -1227,14 +1215,6 @@
     {
       "title": "Meta fends off authors' US copyright lawsuit over AI - Reuters",
       "pubDate": "Thu, 26 Jun 2025 00:09:00 GMT"
-    },
-    {
-      "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
-      "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
-    },
-    {
-      "title": "Microsoft and OpenAI dueling over artificial general intelligence, The Information reports - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 23:34:53 GMT"
     },
     {
       "title": "Microsoft, OpenAI clash over AGI clause in $10 bln deal \u2013 The Information - Investing.com",
@@ -1803,6 +1783,10 @@
     {
       "title": "What three Californians learned in Kansas about artificial intelligence | Opinion - Kansas City Star",
       "pubDate": "Thu, 03 Jul 2025 12:04:00 GMT"
+    },
+    {
+      "title": "AI models just don't understand what they're talking about - theregister.com",
+      "pubDate": "Thu, 03 Jul 2025 21:39:00 GMT"
     }
   ],
   "climate": [
@@ -2167,6 +2151,10 @@
     {
       "title": "Pentagon says it's pausing some military aid to Ukraine amid new attacks from Russia - NPR",
       "pubDate": "Thu, 03 Jul 2025 22:25:24 GMT"
+    },
+    {
+      "title": "Russia launches large-scale missile, drone attack on Ukraine, striking residential building in Kyiv - The Kyiv Independent",
+      "pubDate": "Thu, 03 Jul 2025 20:26:15 GMT"
     }
   ],
   "us_economy": [
@@ -2417,6 +2405,10 @@
     {
       "title": "The US economy under Donald Trump - The Economist",
       "pubDate": "Thu, 03 Jul 2025 19:51:40 GMT"
+    },
+    {
+      "title": "What have tariffs really done to the US economy? - BBC",
+      "pubDate": "Thu, 03 Jul 2025 23:03:53 GMT"
     }
   ],
   "china": [
@@ -2799,6 +2791,10 @@
     {
       "title": "Exclusive | China tells EU it cannot afford Russian loss in Ukraine war, sources say - South China Morning Post",
       "pubDate": "Thu, 03 Jul 2025 17:53:54 GMT"
+    },
+    {
+      "title": "China's foreign minister tells EU that Beijing cannot afford Russia to lose in Ukraine, media reports - The Kyiv Independent",
+      "pubDate": "Thu, 03 Jul 2025 23:06:41 GMT"
     }
   ],
   "world_news": [
@@ -2823,10 +2819,6 @@
     {
       "title": "Mamdani's stunning upset in New York's Democratic mayoral primary carries risks, rewards for national Democrats - Reuters",
       "pubDate": "Thu, 26 Jun 2025 03:16:22 GMT"
-    },
-    {
-      "title": "Some Republicans Join Democrats in Unease Over White House Budget Cuts - The New York Times",
-      "pubDate": "Wed, 25 Jun 2025 23:44:23 GMT"
     },
     {
       "title": "How 'Daddy' talk and Trump and Rutte's bromance stole the NATO spotlight - CNBC",
@@ -3151,6 +3143,10 @@
     {
       "title": "House passes Trump megabill with $150 billion in military funding - Defense News",
       "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
+    },
+    {
+      "title": "House Republicans pass Trump's megabill, sending the package to his desk to be signed - NPR",
+      "pubDate": "Thu, 03 Jul 2025 18:32:35 GMT"
     }
   ],
   "democratic_party": [
@@ -4124,10 +4120,6 @@
     }
   ],
   "technology": [
-    {
-      "title": "Micron Gives Strong Forecast, Lifted by AI Computing Demand - Bloomberg.com",
-      "pubDate": "Wed, 25 Jun 2025 23:03:32 GMT"
-    },
     {
       "title": "New electric car battery breakthrough, and its not from China: American carmaker GM forging ahead with game-changing cells that could make electric car and utes way more affordable - CarsGuide",
       "pubDate": "Fri, 27 Jun 2025 17:00:00 GMT"
