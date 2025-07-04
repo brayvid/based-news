@@ -177,10 +177,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump's war against the Powell Fed has taken another political turn - CNBC",
-      "pubDate": "Thu, 26 Jun 2025 18:19:40 GMT"
-    },
-    {
       "title": "Live updates: Senate receives classified briefing after Pentagon says Iran strikes went as planned - CNN",
       "pubDate": "Thu, 26 Jun 2025 22:17:00 GMT"
     },
@@ -835,6 +831,10 @@
     {
       "title": "Trump to sign tax-cut and spending bill in July 4 ceremony - Reuters",
       "pubDate": "Fri, 04 Jul 2025 16:40:11 GMT"
+    },
+    {
+      "title": "Trump to sign his huge tax and spending bill into law - BBC",
+      "pubDate": "Fri, 04 Jul 2025 16:59:09 GMT"
     }
   ],
   "russia": [
@@ -1204,10 +1204,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Humanoid robots guided by AI set to compete in first 3-on-3 soccer game - New York Post",
-      "pubDate": "Thu, 26 Jun 2025 18:19:00 GMT"
-    },
     {
       "title": "Banks enter agentic AI era as tech race heats up, ROI in focus | Insights | Bloomberg Professional Services - Bloomberg",
       "pubDate": "Thu, 26 Jun 2025 23:29:45 GMT"
@@ -1771,6 +1767,10 @@
     {
       "title": "Google hit with antitrust complaint in EU over AI summaries harming web traffic to news sites: report - New York Post",
       "pubDate": "Fri, 04 Jul 2025 17:05:00 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
+      "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
     }
   ],
   "climate": [
@@ -1833,6 +1833,10 @@
     {
       "title": "House Passes Trump\u2019s Spending Bill, With Consequences for the Climate - eos.org",
       "pubDate": "Thu, 03 Jul 2025 21:16:32 GMT"
+    },
+    {
+      "title": "A physically consistent dataset of water-energy-carbon fluxes across the Soil-Plant-Atmosphere Continuum - Nature",
+      "pubDate": "Fri, 04 Jul 2025 16:22:46 GMT"
     }
   ],
   "ukraine": [
@@ -2771,6 +2775,10 @@
     {
       "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
       "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
+    },
+    {
+      "title": "China Warns India to Choose Its Words Carefully on Dalai Lama and Tibet - WSJ",
+      "pubDate": "Fri, 04 Jul 2025 18:06:00 GMT"
     }
   ],
   "world_news": [
@@ -3947,6 +3955,10 @@
     {
       "title": "USDG Stablecoin Expands to Europe - PYMNTS.com",
       "pubDate": "Wed, 02 Jul 2025 09:51:04 GMT"
+    },
+    {
+      "title": "Belgian court sentences three in kidnapping of crypto investor\u2019s wife - Cointelegraph",
+      "pubDate": "Fri, 04 Jul 2025 09:39:25 GMT"
     }
   ],
   "national_security": [
@@ -4449,6 +4461,10 @@
     {
       "title": "Meta's AI Talent War: A Strategic Gamble with Implications for Investors - AInvest",
       "pubDate": "Sun, 29 Jun 2025 21:34:39 GMT"
+    },
+    {
+      "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
+      "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
     }
   ],
   "large_language_model": [
@@ -4585,6 +4601,12 @@
     {
       "title": "Scientists warn US will lose a generation of talent because of Trump cuts - The Guardian",
       "pubDate": "Thu, 03 Jul 2025 18:25:00 GMT"
+    }
+  ],
+  "battery_electric_vehicle": [
+    {
+      "title": "June EV sales in the UK: one in four buyers goes electric - Electric Cars Report",
+      "pubDate": "Fri, 04 Jul 2025 13:39:42 GMT"
     }
   ]
 }
