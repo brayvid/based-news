@@ -206,6 +206,17 @@
             .then(html => {
               const summaryDoc = new DOMParser().parseFromString(html, "text/html");
               summarySection.innerHTML = `<h2 class="summary-heading">Weekly Review</h2>${summaryDoc.body.innerHTML}`;
+              const lastUpdated = summaryDoc.getElementById("summary-last-updated");
+              if (lastUpdated) {
+                const stamp = document.createElement("p");
+                stamp.className = "timestamp";
+                stamp.style.fontSize = "0.9em";
+                stamp.style.color = "#666";
+                stamp.style.marginTop = "0.5em";
+                stamp.textContent = lastUpdated.textContent;
+                stamp.style.textAlign = "center";
+                document.getElementById("world-summary").appendChild(stamp);
+              }
             })
             .catch(() => {
               summarySection.innerHTML = "<p>Unable to load summary.</p>";
