@@ -71,6 +71,10 @@
     {
       "title": "Iran's supreme leader makes first public appearance since Iran-Israel war started - Houston Chronicle",
       "pubDate": "Sat, 05 Jul 2025 21:27:12 GMT"
+    },
+    {
+      "title": "Report: 5 IDF bases were struck by ballistic missiles during Israel-Iran war - The Times of Israel",
+      "pubDate": "Sat, 05 Jul 2025 22:14:17 GMT"
     }
   ],
   "iran": [
@@ -161,10 +165,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Says U.S. Ending Trade Talks With Canada Over Digital Services Taxes - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 22:51:47 GMT"
-    },
-    {
       "title": "Trump administration exploring $30 billion civilian nuclear deal for Iran - NBC News",
       "pubDate": "Sat, 28 Jun 2025 02:16:00 GMT"
     },
@@ -175,10 +175,6 @@
     {
       "title": "Trump news at a glance: president boasts of \u2018monumental\u2019 win after supreme court curtails power of federal judges - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 00:30:16 GMT"
-    },
-    {
-      "title": "Trump says he would consider bombing Iran again, drops sanctions relief plan - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 22:58:15 GMT"
     },
     {
       "title": "Trump says he'll expect next Fed chair to cut rates - Axios",
@@ -811,6 +807,10 @@
     {
       "title": "Trump's 'Shylock' comment draws outcry from Jewish groups - BBC",
       "pubDate": "Sat, 05 Jul 2025 17:37:00 GMT"
+    },
+    {
+      "title": "Trump got $170 billion for immigration. Now he has to enact it. - Politico",
+      "pubDate": "Sat, 05 Jul 2025 12:50:00 GMT"
     }
   ],
   "russia": [
@@ -1156,18 +1156,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI turns to Google's AI chips to power its products, source says - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 22:15:13 GMT"
-    },
-    {
-      "title": "Artificial Intelligence's \"M3GAN 2.0\" takes theatres | Take a Look Daily - ABC10",
-      "pubDate": "Fri, 27 Jun 2025 22:15:00 GMT"
-    },
-    {
-      "title": "Germany asks Apple and Google to pull DeepSeek AI app over data privacy concerns - 9to5Mac",
-      "pubDate": "Fri, 27 Jun 2025 22:15:00 GMT"
-    },
     {
       "title": "OpenAI renting Google TPUs sends a strong warning shot to Microsoft - the-decoder.com",
       "pubDate": "Sat, 28 Jun 2025 07:43:11 GMT"
@@ -1703,6 +1691,10 @@
     {
       "title": "Researchers make key breakthrough in effort to solve major issue with electric vehicles: 'Plays a critical role' - The Cool Down",
       "pubDate": "Sat, 05 Jul 2025 10:45:00 GMT"
+    },
+    {
+      "title": "Current Use and Future Directions of Artificial Intelligence in Hematology/Oncology - CancerNetwork",
+      "pubDate": "Sat, 05 Jul 2025 14:25:39 GMT"
     }
   ],
   "climate": [
@@ -1788,10 +1780,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine's Special Operators Just Executed Another Air Base Raid in Russia\u2014And Knocked Out Four Sukhoi Fighter-Bombers - Trench Art | David Axe",
-      "pubDate": "Fri, 27 Jun 2025 22:05:41 GMT"
-    },
     {
       "title": "Ukraine war latest: Ukrainian special forces 'destroy bombers' at Russian airbase - as Putin plans to cut military spending - Sky News",
       "pubDate": "Fri, 27 Jun 2025 23:49:08 GMT"
@@ -2119,6 +2107,10 @@
     {
       "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
       "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
+    },
+    {
+      "title": "Russia to Involve Laos Troops in Its War Against Ukraine. Here\u2019s What We Know - UNITED24 Media",
+      "pubDate": "Sat, 05 Jul 2025 11:15:12 GMT"
     }
   ],
   "us_economy": [
@@ -2683,6 +2675,10 @@
     {
       "title": "France Urges Tariff Barriers to Stop China From Killing Industry - Bloomberg",
       "pubDate": "Sat, 05 Jul 2025 15:54:37 GMT"
+    },
+    {
+      "title": "China accelerates toward lunar goals as reusability programs gain momentum - NASASpaceFlight.com -",
+      "pubDate": "Sat, 05 Jul 2025 18:51:04 GMT"
     }
   ],
   "world_news": [
@@ -3011,6 +3007,10 @@
     {
       "title": "Musk announces arrival of new \u2018America Party\u2019 after Trump split - Politico",
       "pubDate": "Sat, 05 Jul 2025 21:09:00 GMT"
+    },
+    {
+      "title": "Elon Musk announces creation of his new \u2018America Party\u2019 - France 24",
+      "pubDate": "Sat, 05 Jul 2025 20:34:12 GMT"
     }
   ],
   "democratic_party": [
@@ -3325,10 +3325,6 @@
   ],
   "hamas": [
     {
-      "title": "Report: 11 killed in new Gaza airstrike; Hamas: 72 killed in last day - Yahoo",
-      "pubDate": "Fri, 27 Jun 2025 22:57:34 GMT"
-    },
-    {
       "title": "At least 34 people killed in Israeli strikes in Gaza as ceasefire prospects inch closer - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 10:10:24 GMT"
     },
@@ -3583,13 +3579,13 @@
     {
       "title": "Earthquake alert (automated) - english.kyodonews.net",
       "pubDate": "Sat, 05 Jul 2025 07:22:07 GMT"
+    },
+    {
+      "title": "Japan warns of possible strong earthquakes, urges public to stay calm - Latest news from Azerbaijan",
+      "pubDate": "Sat, 05 Jul 2025 14:01:54 GMT"
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk claims Tesla delivered its first car fully autonomously from factory to customer - Electrek",
-      "pubDate": "Fri, 27 Jun 2025 22:23:00 GMT"
-    },
     {
       "title": "Musk condemns latest Senate bill that would 'destroy millions of jobs,' raise taxes on wind, solar projects - Fox Business",
       "pubDate": "Sat, 28 Jun 2025 22:28:00 GMT"
