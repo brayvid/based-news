@@ -1,22 +1,52 @@
 {
+  "China": {
+    "articles": [
+      {
+        "title": "China urges caution \u2014 and speed \u2014 on assisted-driving technology - The Japan Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlo2bklheTVKakF4dW5WaWZSVXJDZzZCRkQ2ejFyRG1sZmlZdFpXNjVHOXd3OUdxOGVfRUdMajFPSUlrejUyZ0FxU0UwcmxERFhBeTc2aXhhVTF6bExreG9iLWx2eTRyVjNTSllHTmg3X3RrYVJqemVsYXYtbGRFamRxZjg?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 00:58:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T02:00:04.205606+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "States Brace for Added Burdens of Trump\u2019s Tax and Spending Law - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUHFpMEZuSkFHckEtVlNfTjdOd191Sm9neG5GZTB4S1UxREZPMnBfVEJud3hsejdlQjc5Y2c3T2FTdEpvcUJxeUVqNF8tLVVDS094MG96VTV4clFrSXd0RlMweHpxeTlzVE45WmMwYjZUbm43eUNUeA?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 22:15:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T02:00:04.205606+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump signs his agenda bill, with a flyover and fireworks to mark the occasion - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGZNQ092dXEtYW9wcVFhaHdQdEVSUnIzOXVzQWtZZnllQmxMdy1tSzROdTlWLVRMOXhJNzBmTXAtTExSWmhXZnlrSUhzLWhwT3NBeGpaUDhIWnhIVzVYQ0psTTBnR2NGZVR1ZEhxMHFPZk1YaDFrd0ViRDVQUzdjeEV30gGHAUFVX3lxTE84YXhTTTlQczYzVjAwQUxyMVBsWDV5eE5xOEhramloSncyZmNKRXAzSy1hOFRaRnhNMkVYMHJjaHkwdDNDOWU3Y0x5ajliMXloMkdtekZIaV82TVd1M1RXanQ4T3ZRYml3dzF1cGRxOFM0WDQ1ci1ZbUpuZGppWlZDVm84T3hmNA?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 22:46:00 GMT"
+        "title": "Trump signs \u2018big, beautiful bill\u2019 into law at White House ceremony - WWNY",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHN3RzFOVU50a0VXMTROZy1FLURXaHE2Uk5fd2p6UGZObUVBTW41UUk0UV9KakpPQW1GUy1xMVYtcVZ6eWtBb2pLVTdqYUNzekhQM3p5M2U4ZlEwVFBOT3dFUklBb0hqOEt3c2hsZTRfckR6Zmxqdzg5dGVtOTNiSjNwUWRmZkhMaHI5QU9jdXRKMlo5U2tFQ05XRlI5cnhuT1VodHZrMWU0YTU5UDVJSWx4V3lDZ9IBygFBVV95cUxOZWhQUE0wOGRKUFlNQjZRZHVuMjlnUXNmc1YyZkcycU1CNGpUN2VEcjNGQm80UDhHUnJuWFp2T2FDbU16XzVlY2VVVloyQkFhUDFUM0JNN3p6YTF1Y1IxZW1GSERwT2hta0lHUnVrdVV0aWRTd1k3bW1WWDY4ZTd2S3BKUHVFdlZDWWZ0ZHFGZUpPaHVTcDJUWlpUM2piVGZWY1B4dzE2V1dNdFlrVE5RQWFoVlJPbG1vTTY1T2dUQUpqNkYxQXBxbjF3?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 16:17:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T00:01:16.149596+00:00"
+    "last_updated_ts": "2025-07-05T02:00:04.205606+00:00"
   },
-  "Financial Markets": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "The Fed Just Stepped Into The Repo Market (SPX) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnFVaEwyRnRUMnNlZDNUOGdmYTBmRjRQcmQwejBOR1M5OEtqUXltYUFrajI1MGJTdE1ORWdmRExXdzdkY2pVR3NMczlMMk84aGM5cWxVV0NlMUhBX3NIdHBERWNEcTQyUTZqaXlPTEdmNFZNWXJMRlRxWWExblpDT2FGZTdHakpsREE?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 15:06:00 GMT"
+        "title": "Bitcoin Price Falls. Why Boost From Jobs Data Is Fading Fast. - Barron's",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjdwNnFRTzQ5WU42cktGZVFkcmRNcVhIRmhvdG0xNXFhVGRjQTJDYXl0TFRaZmxYWE9jMkFTWXpJMG5KTGJsVVdZbTFVLVJBR0pOSGpHVVRMZHRmbDJNUXZRNE1TMWNjTjdSOFZrUHJ6SWNFX3FYcEMtVFFSZllUUTZKVDU3MHVETEtHUw?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 15:37:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T00:01:16.149596+00:00"
+    "last_updated_ts": "2025-07-05T02:00:04.205606+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Putin Plots Summer of Relentless Attacks on Ukraine - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxONjVvYzluTEpuanRjVEZFaXhycVdkNWwtTkZlRElqRDJubDZJTHE5RE5GMUFZNFBNeUN2Nmx4SmE4UDZ6andpbnFmSENyOVBrZU1xel80dVh3MHBtT0tqWVJnX00xQU1waGYxYmt0RThjaFJQcXJESWRJbDJMTXE0ZThPZ0lBcEUyR3VlN1VmaEV4Y3ZrXzZWdVRNNVlqSEhoRm16eGY3T0FpLUhabEFOWmoyVWY0SjZhUVRkSExVNm8xYWRVQXZ5VmFRVW5lWXBYakVxZnJrbS15MVdJaHJBQ2Jwb21iOWdoakZKRnMwUnVBVHhIOHJsazViLUhHX2hyeUJSN05oelo0RWVSbWVYNlVNTU9yNElCQlNwcU5ReFRwemJ4Q3k3X1diZnhqWWhLY1NwYU1xSWZ1NTFZS2JkTHlhdWZIUkVSM0p2bm55NmNKaU92OGpoX21zaDFFR1hoaWJJX1kxajZkeHpscGN2SEFKVGtEWVk?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 14:38:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T02:00:04.205606+00:00"
   }
 }
