@@ -807,6 +807,10 @@
     {
       "title": "Trump signs \u2018big, beautiful bill\u2019 into law at White House ceremony - WWNY",
       "pubDate": "Fri, 04 Jul 2025 16:17:00 GMT"
+    },
+    {
+      "title": "Trump signs \u2018Big Beautiful Bill,\u2019 his sweeping policy legislation - The Washington Post",
+      "pubDate": "Sat, 05 Jul 2025 01:39:58 GMT"
     }
   ],
   "russia": [
@@ -977,6 +981,10 @@
     {
       "title": "Russia expanding Ukraine chemical weapons use, allege European spy agencies - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 12:19:55 GMT"
+    },
+    {
+      "title": "Russia uses chemical agents in Ukraine, Dutch and German agencies say - Euronews.com",
+      "pubDate": "Fri, 04 Jul 2025 15:58:44 GMT"
     }
   ],
   "ai_safety": [
@@ -1168,10 +1176,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
-      "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
-    },
     {
       "title": "OpenAI hit hard? Zuckerberg reportedly poaches top AI experts from ChatGPT maker - Hindustan Times",
       "pubDate": "Fri, 27 Jun 2025 05:44:56 GMT"
@@ -1731,6 +1735,10 @@
     {
       "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
       "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
+    },
+    {
+      "title": "Artificial intelligence and journalism | Daily Sabah - Daily Sabah",
+      "pubDate": "Fri, 04 Jul 2025 21:05:00 GMT"
     }
   ],
   "climate": [
@@ -2127,10 +2135,6 @@
   ],
   "us_economy": [
     {
-      "title": "Trump economic advisor warns of recession if \u2018big, beautiful bill\u2019 is delayed - The Hill",
-      "pubDate": "Fri, 27 Jun 2025 03:01:00 GMT"
-    },
-    {
       "title": "US, China formalize deal on rare earth shipments in trade breakthrough - CNN",
       "pubDate": "Fri, 27 Jun 2025 07:50:00 GMT"
     },
@@ -2357,6 +2361,10 @@
     {
       "title": "Economists Warn About Trump's Rocket Ship Bill As It's One Step Closer To Becoming Law - International Business Times UK",
       "pubDate": "Fri, 04 Jul 2025 14:57:20 GMT"
+    },
+    {
+      "title": "The Warning Signs for Russia\u2019s Economy Are Flashing Red - WSJ",
+      "pubDate": "Sat, 05 Jul 2025 03:00:00 GMT"
     }
   ],
   "china": [
@@ -2745,10 +2753,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate Republicans Reprise Push to Pay for Tax Cuts by Slashing Food Stamps - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 03:03:37 GMT"
-    },
-    {
       "title": "House GOP holdouts threaten revolt over Trump and Senate\u2019s tax bill - The Washington Post",
       "pubDate": "Fri, 27 Jun 2025 04:32:45 GMT"
     },
@@ -3129,10 +3133,6 @@
   ],
   "trade_war": [
     {
-      "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
-      "pubDate": "Fri, 27 Jun 2025 03:33:21 GMT"
-    },
-    {
       "title": "US and China sign trade deal after months-long tariff war - Australian Broadcasting Corporation",
       "pubDate": "Fri, 27 Jun 2025 15:46:30 GMT"
     },
@@ -3256,14 +3256,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Data dump: Why Labubus, vampires and Lady Gaga are not signs of recession - Hindustan Times - Hindustan Times",
-      "pubDate": "Fri, 27 Jun 2025 03:42:03 GMT"
-    },
-    {
-      "title": "JP Morgan warns of possible U.S. recession in late 2025 - AnewZ",
-      "pubDate": "Fri, 27 Jun 2025 03:30:00 GMT"
-    },
     {
       "title": "Veteran strategist says a recession is coming that will hit \u2018cup entirely full\u2019 stock market - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 09:30:00 GMT"
@@ -3571,6 +3563,10 @@
     {
       "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
       "pubDate": "Fri, 04 Jul 2025 20:21:44 GMT"
+    },
+    {
+      "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
+      "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -4025,6 +4021,10 @@
     {
       "title": "Surprise Discovery In Ryugu Asteroid Is Making Scientists Repurpose Their Theories - Mashable India",
       "pubDate": "Wed, 02 Jul 2025 06:50:26 GMT"
+    },
+    {
+      "title": "A Once-in-5000-Years Lunar Collision Could Cause Catastrophic Impact Visible from Earth - The Daily Galaxy",
+      "pubDate": "Fri, 04 Jul 2025 16:06:00 GMT"
     }
   ],
   "data_breach": [
@@ -4549,6 +4549,12 @@
     {
       "title": "NASA\u2019s Perseverance Rover Just Caught a Strange Phenomenon on Mars - The Daily Galaxy",
       "pubDate": "Fri, 04 Jul 2025 15:35:00 GMT"
+    }
+  ],
+  "hacking": [
+    {
+      "title": "Brazil\u2019s central bank service provider hacked, $140M stolen - Cointelegraph",
+      "pubDate": "Fri, 04 Jul 2025 21:32:06 GMT"
     }
   ]
 }
