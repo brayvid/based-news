@@ -293,23 +293,19 @@ p.timestamp {
         const entry = manifest[currentIndex];
         if (!entry) return;
 
-        if (currentIndex === 0) {
-            timestampHeader.textContent = "Latest Headlines";
-        } else {
-            // Create a new date object from the timestamp
-            const date = new Date(entry.timestamp);
-            
-            // Round to the nearest hour. Add 30 minutes to handle rounding up/down,
-            // then zero out minutes, seconds, and milliseconds.
-            date.setMinutes(date.getMinutes() + 30);
-            date.setMinutes(0);
-            date.setSeconds(0);
-            date.setMilliseconds(0);
+        // Create a new date object from the timestamp
+        const date = new Date(entry.timestamp);
+        
+        // Round to the nearest hour. Add 30 minutes to handle rounding up/down,
+        // then zero out minutes, seconds, and milliseconds.
+        date.setMinutes(date.getMinutes() + 30);
+        date.setMinutes(0);
+        date.setSeconds(0);
+        date.setMilliseconds(0);
 
-            // Format the rounded date for display. Note: removed 'minute' option.
-            const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', timeZoneName: 'short' };
-            timestampHeader.textContent = date.toLocaleString(undefined, options);
-        }
+        // Format the rounded date for display.
+        const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', timeZoneName: 'short' };
+        timestampHeader.textContent = date.toLocaleString(undefined, options);
       }
       
       function adjustWrapperHeight(slide) {
