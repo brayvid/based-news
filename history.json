@@ -803,6 +803,10 @@
     {
       "title": "Opinion | Donald Trump, Our Foundering Father - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 11:00:16 GMT"
+    },
+    {
+      "title": "What is President Donald Trump's current approval rating? See the most recent polls - The Arizona Republic",
+      "pubDate": "Sat, 05 Jul 2025 14:27:11 GMT"
     }
   ],
   "russia": [
@@ -1164,14 +1168,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI\u2019s Unreleased AGI Paper Could Complicate Microsoft Negotiations - WIRED",
-      "pubDate": "Fri, 27 Jun 2025 19:35:29 GMT"
-    },
-    {
-      "title": "Meta seeks $29bn from private credit giants to fund AI data centres - Financial Times",
-      "pubDate": "Fri, 27 Jun 2025 19:43:59 GMT"
-    },
     {
       "title": "Google Convinces OpenAI to Use TPU Chips in Win Against Nvidia - The Information",
       "pubDate": "Fri, 27 Jun 2025 20:09:00 GMT"
@@ -1723,6 +1719,10 @@
     {
       "title": "China\u2019s tech giant claims 1,800-mile range for solid-state EV battery, files patent - Interesting Engineering",
       "pubDate": "Sat, 05 Jul 2025 11:59:00 GMT"
+    },
+    {
+      "title": "Drivers of artificial intelligence innovation in manufacturing clusters: insights from cellular automata simulations - Nature",
+      "pubDate": "Sat, 05 Jul 2025 18:17:01 GMT"
     }
   ],
   "climate": [
@@ -1797,13 +1797,13 @@
     {
       "title": "How the Trump administration is already cutting off climate research - The Washington Post",
       "pubDate": "Sat, 05 Jul 2025 17:00:38 GMT"
+    },
+    {
+      "title": "Rising Waters, Rising Opportunities: Investing in Texas' Climate Resilience Infrastructure - AInvest",
+      "pubDate": "Sat, 05 Jul 2025 18:38:05 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war latest: Ukrainian drones reportedly strike 4 fighter jets in Russia - The Kyiv Independent",
-      "pubDate": "Fri, 27 Jun 2025 19:30:26 GMT"
-    },
     {
       "title": "Ukraine's Special Operators Just Executed Another Air Base Raid in Russia\u2014And Knocked Out Four Sukhoi Fighter-Bombers - Trench Art | David Axe",
       "pubDate": "Fri, 27 Jun 2025 22:05:41 GMT"
@@ -2127,6 +2127,10 @@
     {
       "title": "UN chief \u2018strongly condemns\u2019 Russian drone assault on Ukraine - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 18:02:04 GMT"
+    },
+    {
+      "title": "Trump says Putin 'wants to keep killing people,' signals US may send Patriots to Ukraine - The Kyiv Independent",
+      "pubDate": "Sat, 05 Jul 2025 08:09:38 GMT"
     }
   ],
   "us_economy": [
@@ -2348,10 +2352,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s threat to Tibet\u2019s future should be a global concern - The Hill",
-      "pubDate": "Fri, 27 Jun 2025 19:00:00 GMT"
-    },
     {
       "title": "Flood-hit China expands social security net as extreme rain takes toll - Reuters",
       "pubDate": "Sat, 28 Jun 2025 03:55:00 GMT"
@@ -3049,6 +3049,10 @@
     {
       "title": "Democrats see Trump\u2019s megabill as key to their comeback. It may not be so easy - PBS",
       "pubDate": "Fri, 04 Jul 2025 15:10:19 GMT"
+    },
+    {
+      "title": "Democrats step up efforts to woo military veterans ahead of midterms - The Washington Post",
+      "pubDate": "Sat, 05 Jul 2025 17:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -3087,10 +3091,6 @@
     {
       "title": "U.S., China announce a trade agreement - again. Here\u2019s what it means - AP News",
       "pubDate": "Fri, 27 Jun 2025 21:25:00 GMT"
-    },
-    {
-      "title": "Trump Throws Temper Tantrum, Launches New Trade War With Canada - The New Republic",
-      "pubDate": "Fri, 27 Jun 2025 19:24:39 GMT"
     },
     {
       "title": "Canadian businesses seek certainty in US tariff war - BBC",
@@ -3143,6 +3143,10 @@
     {
       "title": "Trump warns a dozen countries will get tariff letters Monday - Axios",
       "pubDate": "Sat, 05 Jul 2025 12:25:44 GMT"
+    },
+    {
+      "title": "Trump Escalates Trade War: Tariff Offers to 12 Nations - MSN",
+      "pubDate": "Sat, 05 Jul 2025 19:15:14 GMT"
     }
   ],
   "cybersecurity": [
@@ -3569,6 +3573,10 @@
     {
       "title": "Trump calls on Powell to resign in frustration over interest rates - KIMA",
       "pubDate": "Thu, 03 Jul 2025 19:19:07 GMT"
+    },
+    {
+      "title": "Federal Reserve Bans Ex-Bank Employee Over $33,212 Embezzlement - AInvest",
+      "pubDate": "Sat, 05 Jul 2025 18:58:24 GMT"
     }
   ],
   "earthquakes": [
@@ -4311,12 +4319,6 @@
     {
       "title": "Tropical Depression 3 expected to strengthen before South Carolina landfall - AccuWeather",
       "pubDate": "Fri, 04 Jul 2025 22:32:27 GMT"
-    }
-  ],
-  "computers": [
-    {
-      "title": "American Airlines operations returning to normal after widespread computer outage - CNN",
-      "pubDate": "Fri, 27 Jun 2025 19:19:00 GMT"
     }
   ],
   "amazon": [
