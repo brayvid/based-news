@@ -157,10 +157,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump hails 'win' as Supreme Court curbs judges' power to block his orders - live updates - BBC",
-      "pubDate": "Fri, 27 Jun 2025 15:11:15 GMT"
-    },
-    {
       "title": "Supreme Court limits ability of judges to stop Trump - CNN",
       "pubDate": "Fri, 27 Jun 2025 16:47:00 GMT"
     },
@@ -807,13 +803,13 @@
     {
       "title": "Trump: China talks about TikTok deal to begin next week - The Hill",
       "pubDate": "Sat, 05 Jul 2025 12:38:00 GMT"
+    },
+    {
+      "title": "Trump Speaks Out After Using Term Widely Considered to be Antisemitic: \u2018Never Heard That\u2019 - Time Magazine",
+      "pubDate": "Sat, 05 Jul 2025 13:50:31 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin confirms he wants all of Ukraine, as Europe steps up military aid - Al Jazeera",
-      "pubDate": "Fri, 27 Jun 2025 15:56:15 GMT"
-    },
     {
       "title": "Married couple killed in Russian drone strike on Odesa high-rise - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 04:59:32 GMT"
@@ -1169,6 +1165,10 @@
     {
       "title": "BlackRock Halted Ukraine Fund Talks After Trump\u2019s Election Win - Bloomberg",
       "pubDate": "Sat, 05 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Investors traded a record $6.6 trillion worth of stock in the first half of 2025 - MarketWatch",
+      "pubDate": "Sat, 05 Jul 2025 12:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1735,6 +1735,10 @@
     {
       "title": "Better Artificial Intelligence Stock: Nvidia vs. Meta Platforms - Nasdaq",
       "pubDate": "Sat, 05 Jul 2025 08:20:00 GMT"
+    },
+    {
+      "title": "AI chatbots oversimplify scientific studies and gloss over critical details \u2014 the newest models are especially guilty - Live Science",
+      "pubDate": "Sat, 05 Jul 2025 11:00:00 GMT"
     }
   ],
   "climate": [
@@ -1808,10 +1812,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia has amassed 110,000 troops near strategic Ukrainian city, Kyiv says - CNN",
-      "pubDate": "Fri, 27 Jun 2025 15:36:00 GMT"
-    },
     {
       "title": "Ukraine war latest: Ukrainian drones reportedly strike 4 fighter jets in Russia - The Kyiv Independent",
       "pubDate": "Fri, 27 Jun 2025 19:30:26 GMT"
@@ -2143,16 +2143,16 @@
     {
       "title": "Presumed F-16 Hub Targeted as Russia Fires 322 Drones in Overnight Assault - Kyiv Post",
       "pubDate": "Sat, 05 Jul 2025 09:16:50 GMT"
+    },
+    {
+      "title": "Ukraine's top general warns of possible new Russian offensive in northeast - Reuters",
+      "pubDate": "Sat, 05 Jul 2025 14:40:09 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "U.S. economy shrinks as Americans spend less - Star Tribune",
       "pubDate": "Fri, 27 Jun 2025 16:02:31 GMT"
-    },
-    {
-      "title": "S&P 500 hits new high but cracks appear in US economy - thenationalnews.com",
-      "pubDate": "Fri, 27 Jun 2025 15:30:41 GMT"
     },
     {
       "title": "Biggest US banks pass Federal Reserve stress tests - Financial Times",
@@ -2731,6 +2731,10 @@
     {
       "title": "China relaxes visa rules to show off rich history and cyberpunk cool - The Washington Post",
       "pubDate": "Sat, 05 Jul 2025 12:01:12 GMT"
+    },
+    {
+      "title": "Trump to start TikTok sale talks with China, he says, with deal \u2018pretty much\u2019 reached - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 06:22:00 GMT"
     }
   ],
   "world_news": [
@@ -3112,10 +3116,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "US and China sign trade deal after months-long tariff war - Australian Broadcasting Corporation",
-      "pubDate": "Fri, 27 Jun 2025 15:46:30 GMT"
-    },
     {
       "title": "U.S., China announce a trade agreement - again. Here\u2019s what it means - AP News",
       "pubDate": "Fri, 27 Jun 2025 21:25:00 GMT"
@@ -3555,6 +3555,10 @@
     {
       "title": "LIVE: Israel kills 56 Palestinians in Gaza, at least 9 of them aid seekers - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 12:31:22 GMT"
+    },
+    {
+      "title": "Hamas says it responds to Gaza ceasefire proposal in 'a positive spirit' - Reuters",
+      "pubDate": "Sat, 05 Jul 2025 12:44:36 GMT"
     }
   ],
   "federal_reserve": [
@@ -4319,6 +4323,10 @@
     {
       "title": "Nvidia beats Apple to become most valuable company ever! It's now worth more than all listed companies in UK - Mint",
       "pubDate": "Sat, 05 Jul 2025 07:34:30 GMT"
+    },
+    {
+      "title": "Nvidia surges past Apple and Microsoft to become most valuable firm globally - The Economic Times",
+      "pubDate": "Sat, 05 Jul 2025 15:41:17 GMT"
     }
   ],
   "earth_science": [
@@ -4328,10 +4336,6 @@
     }
   ],
   "hurricanes": [
-    {
-      "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
-    },
     {
       "title": "Sudden loss of key US satellite data could send hurricane forecasting back \u2018decades\u2019 - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 11:00:00 GMT"
