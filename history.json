@@ -157,10 +157,6 @@
       "pubDate": "Fri, 27 Jun 2025 20:04:33 GMT"
     },
     {
-      "title": "Trump Eyes Cuts to Top Spy Agency as He Downplays Iran Intel - Bloomberg",
-      "pubDate": "Fri, 27 Jun 2025 18:44:32 GMT"
-    },
-    {
       "title": "Trump shrugs off July tariff deadline: 'We can do whatever we want' - CNBC",
       "pubDate": "Fri, 27 Jun 2025 20:06:33 GMT"
     },
@@ -803,6 +799,10 @@
     {
       "title": "Trump on if he can end fighting in Ukraine: \u2018I don\u2019t know\u2019 - Politico",
       "pubDate": "Sat, 05 Jul 2025 15:09:00 GMT"
+    },
+    {
+      "title": "Opinion | Donald Trump, Our Foundering Father - The New York Times",
+      "pubDate": "Sat, 05 Jul 2025 11:00:16 GMT"
     }
   ],
   "russia": [
@@ -1164,10 +1164,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Colleen Hoover, Emily Henry among 70 authors urging publishers against AI use - USA Today",
-      "pubDate": "Fri, 27 Jun 2025 18:00:14 GMT"
-    },
     {
       "title": "OpenAI\u2019s Unreleased AGI Paper Could Complicate Microsoft Negotiations - WIRED",
       "pubDate": "Fri, 27 Jun 2025 19:35:29 GMT"
@@ -1723,6 +1719,10 @@
     {
       "title": "OpenAI is betting millions on building AI talent from the ground up amid rival Meta\u2019s poaching pitch - Fortune",
       "pubDate": "Sat, 05 Jul 2025 11:54:00 GMT"
+    },
+    {
+      "title": "China\u2019s tech giant claims 1,800-mile range for solid-state EV battery, files patent - Interesting Engineering",
+      "pubDate": "Sat, 05 Jul 2025 11:59:00 GMT"
     }
   ],
   "climate": [
@@ -2123,6 +2123,10 @@
     {
       "title": "Ukraine's top general warns of possible new Russian offensive in northeast - Reuters",
       "pubDate": "Sat, 05 Jul 2025 14:40:09 GMT"
+    },
+    {
+      "title": "UN chief \u2018strongly condemns\u2019 Russian drone assault on Ukraine - Al Jazeera",
+      "pubDate": "Sat, 05 Jul 2025 18:02:04 GMT"
     }
   ],
   "us_economy": [
@@ -3023,6 +3027,10 @@
     {
       "title": "Will Trump's megabill help Democrats win the House? - NPR",
       "pubDate": "Sat, 05 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Donald Trump's Approval Rating Collapses With Gen Z - Newsweek",
+      "pubDate": "Sat, 05 Jul 2025 09:00:01 GMT"
     }
   ],
   "democratic_party": [
@@ -3079,14 +3087,6 @@
     {
       "title": "U.S., China announce a trade agreement - again. Here\u2019s what it means - AP News",
       "pubDate": "Fri, 27 Jun 2025 21:25:00 GMT"
-    },
-    {
-      "title": "Trump says he is ending Canada trade talks amid tech tax dispute - The Guardian",
-      "pubDate": "Fri, 27 Jun 2025 18:57:00 GMT"
-    },
-    {
-      "title": "Trump says he's \"terminating all discussions on trade with Canada, effective immediately\" - CBS News",
-      "pubDate": "Fri, 27 Jun 2025 18:20:00 GMT"
     },
     {
       "title": "Trump Throws Temper Tantrum, Launches New Trade War With Canada - The New Republic",
@@ -3201,6 +3201,10 @@
     {
       "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams - The Hacker News",
       "pubDate": "Thu, 03 Jul 2025 16:02:00 GMT"
+    },
+    {
+      "title": "FBI warns travelers of 'Scattered Spider' group targeting airlines - SFGATE",
+      "pubDate": "Sat, 05 Jul 2025 13:42:26 GMT"
     }
   ],
   "recession": [
@@ -3315,6 +3319,10 @@
     {
       "title": "Market Odds of a U.S. Recession in 2025 Drop in Half Since May - Cryptodnes.bg",
       "pubDate": "Sat, 05 Jul 2025 16:59:24 GMT"
+    },
+    {
+      "title": "U.S. Recession Odds on Polymarket Plunge to 22% as Trade Tensions Cool - CoinDesk",
+      "pubDate": "Sat, 05 Jul 2025 15:10:33 GMT"
     }
   ],
   "drones": [
@@ -3680,10 +3688,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "Nozzle explodes off rocket booster during engine test for NASA's Artemis program (video) - Space",
-      "pubDate": "Fri, 27 Jun 2025 18:41:30 GMT"
-    },
     {
       "title": "Is the US forfeiting its Red Planet leadership to China's Mars Sample Return plan? - Space",
       "pubDate": "Sun, 29 Jun 2025 10:00:00 GMT"
@@ -4255,10 +4259,6 @@
   ],
   "new_york_city": [
     {
-      "title": "Second Teenage Boy Shot and Killed in New York City in 2 Days - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 18:57:26 GMT"
-    },
-    {
       "title": "NYC Pride March Arrives Amid Growing National Backlash - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 07:00:05 GMT"
     },
@@ -4545,6 +4545,10 @@
     {
       "title": "BRICS Expands to 56% of World Population, 44% of Global GDP: Vietnam Joins as Partner Country - ScheerPost",
       "pubDate": "Sat, 05 Jul 2025 09:21:20 GMT"
+    },
+    {
+      "title": "BRICS Set to Condemn \u2018Coercive\u2019 Tariffs, Draft Statement Shows - Bloomberg",
+      "pubDate": "Sat, 05 Jul 2025 15:07:45 GMT"
     }
   ]
 }
