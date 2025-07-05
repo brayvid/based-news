@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "\u2018The stars aligned\u2019: Why Israel set out for a war against Iran, and what it achieved - The Times of Israel",
-      "pubDate": "Fri, 27 Jun 2025 06:11:15 GMT"
-    },
-    {
       "title": "LIVE: Israel draws condemnation for Gaza aid site killings - Al Jazeera",
       "pubDate": "Fri, 27 Jun 2025 14:53:37 GMT"
     },
@@ -161,10 +157,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Outrage as Trump compares Iran strikes to Japan atomic bombing - BBC",
-      "pubDate": "Fri, 27 Jun 2025 06:50:07 GMT"
-    },
-    {
       "title": "Trump administration eliminating warning period for fining those in the US illegally: Exclusive - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 27 Jun 2025 09:10:50 GMT"
     },
@@ -175,10 +167,6 @@
     {
       "title": "US supreme court expected to rule on birthright citizenship and other outstanding cases on last day of term \u2013 live updates - The Guardian",
       "pubDate": "Fri, 27 Jun 2025 09:58:00 GMT"
-    },
-    {
-      "title": "Another mysterious anti-Trump sculpture appears on the National Mall - The Washington Post",
-      "pubDate": "Fri, 27 Jun 2025 06:16:30 GMT"
     },
     {
       "title": "Trump approval underwater, voters say US is on wrong track: Poll - The Hill",
@@ -815,6 +803,10 @@
     {
       "title": "Trump signs \u2018Big Beautiful Bill\u2019 into law after saluting B-2 pilots who joined Iran strikes - New York Post",
       "pubDate": "Fri, 04 Jul 2025 21:52:00 GMT"
+    },
+    {
+      "title": "Trump says tariff letters to 12 countries signed, going out Monday - Reuters",
+      "pubDate": "Sat, 05 Jul 2025 04:30:00 GMT"
     }
   ],
   "russia": [
@@ -1071,10 +1063,6 @@
   ],
   "financial_markets": [
     {
-      "title": "S&P 500 and Nasdaq 100 futures rise, surpassing all-time intraday highs: Live updates - CNBC",
-      "pubDate": "Fri, 27 Jun 2025 06:20:00 GMT"
-    },
-    {
       "title": "Stock-market rally boosted by expectations for at least three Fed rate cuts in 2025 - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 17:01:00 GMT"
     },
@@ -1181,6 +1169,10 @@
     {
       "title": "Global Financial Markets Are Shaking: The US Spending Law and Tariff Policy - Zamin.uz",
       "pubDate": "Sat, 05 Jul 2025 01:23:00 GMT"
+    },
+    {
+      "title": "Tears of the UK's treasury chief spooked financial markets - 9News",
+      "pubDate": "Sat, 05 Jul 2025 01:04:14 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1751,6 +1743,10 @@
     {
       "title": "The Use of Generative Artificial Intelligence (AI) in Academic Research: A Review of the Consensus App - Cureus",
       "pubDate": "Fri, 04 Jul 2025 22:13:16 GMT"
+    },
+    {
+      "title": "Voice AI Startup ElevenLabs Plans to Add Hubs Around the World - PYMNTS.com",
+      "pubDate": "Fri, 04 Jul 2025 23:37:30 GMT"
     }
   ],
   "climate": [
@@ -1813,6 +1809,10 @@
     {
       "title": "A physically consistent dataset of water-energy-carbon fluxes across the Soil-Plant-Atmosphere Continuum - Nature",
       "pubDate": "Fri, 04 Jul 2025 16:22:46 GMT"
+    },
+    {
+      "title": "Earth\u2019s Climate May Be More Fragile Than We Thought, New Study Warns - SciTechDaily",
+      "pubDate": "Fri, 04 Jul 2025 22:50:04 GMT"
     }
   ],
   "ukraine": [
@@ -2385,10 +2385,6 @@
   ],
   "china": [
     {
-      "title": "Lutnick Says US-China Trade Truce Signed, 10 Deals Imminent - Bloomberg",
-      "pubDate": "Fri, 27 Jun 2025 06:17:00 GMT"
-    },
-    {
       "title": "China, U.S. confirm details of their trade deal, Beijing says - CNBC",
       "pubDate": "Fri, 27 Jun 2025 07:08:36 GMT"
     },
@@ -2751,6 +2747,10 @@
     {
       "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
+    },
+    {
+      "title": "China fears US will turn focus on it if Russia defeated in Ukraine war: Report - Times of India",
+      "pubDate": "Sat, 05 Jul 2025 00:19:00 GMT"
     }
   ],
   "world_news": [
@@ -2779,10 +2779,6 @@
     {
       "title": "Senate to vote on Trump's war powers today as lawmakers get delayed briefing on Iran strikes - CBS News",
       "pubDate": "Fri, 27 Jun 2025 10:00:04 GMT"
-    },
-    {
-      "title": "Supreme Court Fails to Sway Democrats on Gender Treatment Laws - The Dispatch",
-      "pubDate": "Fri, 27 Jun 2025 06:48:15 GMT"
     },
     {
       "title": "Supreme Court Rules on Birthright Citizenship: What to Know - Newsweek",
@@ -3591,6 +3587,10 @@
     {
       "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
       "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
+    },
+    {
+      "title": "Hamas says ready for ceasefire talks as Israeli forces kill 19 in Gaza - Al Jazeera",
+      "pubDate": "Sat, 05 Jul 2025 06:22:30 GMT"
     }
   ],
   "federal_reserve": [
@@ -4165,6 +4165,10 @@
     {
       "title": "Conservatives: Trump won our megabill votes by promising crackdown on renewable energy credits - Politico",
       "pubDate": "Thu, 03 Jul 2025 14:50:02 GMT"
+    },
+    {
+      "title": "How Republicans Re-engineered the Tax Code - The New York Times",
+      "pubDate": "Sat, 05 Jul 2025 04:33:00 GMT"
     }
   ],
   "bitcoin": [
