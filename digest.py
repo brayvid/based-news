@@ -990,18 +990,37 @@ def main():
                     "articles": articles,
                     "last_updated_ts": now_utc_iso
                 }
-            
-            # Generate the HTML content once
+
+            # --- OPTIMIZATION 1: Generate HTML with correct heading level (h2) ---
             new_digest_html = generate_digest_html_content(final_digest_for_display_and_state, ZONE)
-            
-            # Write to the main digest.html
+
+            # Write to the standalone latest digest file (for history)
             with open(LATEST_DIGEST_HTML_FILE, "w", encoding="utf-8") as f:
                 f.write(new_digest_html)
             logging.info(f"Latest digest written to {LATEST_DIGEST_HTML_FILE}")
-            
+
+            # --- OPTIMIZATION 2: Embed latest digest directly into a new index.html ---
+            try:
+                # Use a template file to avoid self-modification issues
+                template_path = os.path.join(BASE_DIR, "public", "index.template.html")
+                final_index_path = os.path.join(BASE_DIR, "public", "index.html")
+
+                with open(template_path, "r", encoding="utf-8") as f:
+                    index_content = f.read()
+
+                # Replace the placeholder with the actual latest digest content
+                index_content = index_content.replace("<!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->", new_digest_html)
+
+                with open(final_index_path, "w", encoding="utf-8") as f:
+                    f.write(index_content)
+                logging.info(f"Generated final index.html with embedded digest at {final_index_path}")
+
+            except Exception as e:
+                logging.error(f"Failed to embed latest digest into index.html from template: {e}")
+
             # Update history with the same content
             update_digest_history(new_digest_html, ZONE)
-            
+
             try:
                 with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
                     json.dump(content_json_to_save, f, indent=2)
@@ -1011,8 +1030,6 @@ def main():
 
         else:
             logging.info("No topics from Gemini this run. Files are not modified.")
-            # We don't clear digest.html if there are no new topics, to keep the last good one visible.
-            # We also don't update content.json or the manifest.
 
         update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
@@ -1025,5 +1042,30 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
+
+# You also need to modify the HTML generation function for the h2 change
+def generate_digest_html_content(digest_data, current_zone):
+    """Generates just the HTML string for a digest, without writing to a file."""
+    html_parts = []
+    for topic, articles in digest_data.items():
+        # --- OPTIMIZATION 3: Use H2 for better heading structure ---
+        html_parts.append(f"<h2>{html.escape(topic)}</h2>\n")
+        for article in articles:
+            try:
+                pub_dt_orig = parsedate_to_datetime(article["pubDate"])
+                pub_dt_user_tz = to_user_timezone(pub_dt_orig)
+                date_str = pub_dt_user_tz.strftime("%a, %d %b %Y %I:%M %p %Z")
+            except Exception as e:
+                logging.warning(f"Could not parse date for article '{article['title']}': {article['pubDate']} - {e}")
+                date_str = "Date unavailable"
+
+            html_parts.append(
+                f'<p>'
+                f'<a href="{html.escape(article["link"])}" target="_blank">{html.escape(article["title"])}</a><br>'
+                f'<small>{date_str}</small>'
+                f'</p>\n'
+            )
+    return "".join(html_parts)
+
 if __name__ == "__main__":
     main()
