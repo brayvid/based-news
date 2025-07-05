@@ -1,72 +1,72 @@
 {
-  "US Economy": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "The Warning Signs for Russia\u2019s Economy Are Flashing Red - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNaWNIY29rM09leXgzNDdLZC03M1pKUkJOdENzSzNOdktRTlVDTkRCejhxWUR6VDlxOWhyUUJmRFlueDRJbDY0ZFVCdC1RR2lobUJYcmhoMU91X2NJTWNZT2NjMGNhbHBoYVRMQk93aHdsdUc0dVFKT2NzUTUyNkloZFdkdGtiT3hXaE1FOVZSOUxZY0FtcEhlTG0wOXRPQmVJTEN3NzFwMk1PYTIxU2hVRDlCSXhvc3VJZFY4VmpqSFNCMGhLN3piZk01MkVfOUswWUYtV21rUlJaaTd1MHdCWjNTeHFINjBrQ1ZXOXZ5OVFlYmk2X242alRMbDNmU09BX3luc1dTT25JX3RDbGJlMThTWnlFdDZNTGtXR21jbVhJdmRQbVY1Tk96dnFEYlF2UVVxb3UxUUVPa2NzNkRHMHM5UkJFTXRtT2Uwa3dXSVVsVm95VGx2WHNQaWVvNkphWUhha08wQXFLQ1VHRHJ3SHBYcW9TRjZLV3drdTh2ZUQ3TDdqRXZscFFrOG1hcEhzYkFzYVZvT1d5NzdUWlcwT1VR?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 03:00:00 GMT"
+        "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlY1dEZ2R1RhZWExU3Vyb3FHVTNkYnRRbXdFZTBweWw1SlcybmtiWUhYelYwQkUwS25ESnRqS2VCc3hFaDZGejA3YnhKYUw3Ny1HNkxPWWZDVXVVdHdpUE41Q0V5dWxqX2hJSlpLbmp6YkxLTnpaSVg2d29fZ1NpVnh3WlNtMnVNTU9jcGFRTE0wWnJhRGJmeTRRZUNhdEFPR05UaW5XTHlucTlSRUVud1VFRFk2Zw?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
+  },
+  "Trade War": {
+    "articles": [
+      {
+        "title": "US warns EU with farm tariffs, risking fresh trade war - RBC-Ukraine",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGZzV3BNbjlHb3FXQ19tcnhibmdFV2d3bnhJR2tfZU55b1hNNzFQS1lyUXBudmVJYnBvbzFnZFFUYkZ0clBuMklTWGFORzZuWGY5VWJNcDNoUDl3SkNfc2swanplUFc2V29UTUxEUk83X1prMjFOUWwyME4xRk9IZzdsa0J0aHBDdWRkREFjRmQ2OXJ6blE?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 00:00:45 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Ukraine says Kyiv hit by largest Russian aerial assault since the war began - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmNtZXNFTjd6ODdsRDFlZ29ndWliZ1htSDlBMTlWYlhVUm5xNURLanRoa2U2ZVdTc2lUZEVxT1ZTX0x5Q0J1cEtPbFoyMjk0QnY2Q1d5LTJCZDh4OU1xZ0VBU0laRHl2V21aSzU2M2k1V1Y4ZGRYeHJZdG43THhaTUVxNE9Ic2RzMFlPTHJUbGFNTi13RHd4TDJQUlZrZVZYUElPcVBpNndZal92bDlFNDZmVFgxX090cDJUNHcxSUsxbVBfRVdRRGdLTdIBZkFVX3lxTE5lUl9QRTF6aXR5X1JuVmNHU25IWFRFMVNaeFhBV1F1bmJnLUF4anRHQ3pFeEtuWUFJN1JuWHNucGJXckFPeWU4VElqNlVxS1Q3cjFocE9PM3NVWGR2MFJONVRJTC1JQQ?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 23:22:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump signs \u2018Big Beautiful Bill,\u2019 his sweeping policy legislation - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZW5xdXJydnhNTDVDTGxLTUM1dWp5ZTFGa3lCU2ZPdHNoNFptS25seVpWM3BOd1paRG5uUDZWYnBVWUoxeHlrbV92TGhiQkhHSHVxMkhqQ3h3RnI1eW1PWm03WWNMc1ZaNXNvdGF0UDNQVmE3dVdkVm1JR2Q5cDg?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 01:39:58 GMT"
+        "title": "Trump claims victory as he signs controversial budget and tax bill into law - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0RHU1ZKbVZLdFRMX1ZYMkdoNzFhQTdwTktYdzJ6U2JSMWdJbTViXzl3NDlsWDJKaGhjaTkyaVRRa1VYamxnY2pSY3dVc2dKRUk5NWtDOXBlNXJ0OGxqc29ydEttb3hGMmFpSmVULTJMZ0lCbzREd3czOEY0MHZhdzZBdFk1VEw1RWFzUU94TlNwRFBLNTk3MGppWV9PMGZOYmRicUN5VVFmYmFiR2pPOUJnV0JId9IBuwFBVV95cUxNMXIxbXJwUzk3NjNhekhSVmlIank4RDlWU3kxOGlDbmlNY1ptelhBTnFhdVNEeWl3NzBWNXVVVjZNbWNQcTRCdGxrNUE3dHJKUkNMOVhSRjJHbHN1dGdEUUxfV3NXT0V0SFNKU1ozS1dsWXRadWFVQkVad3hnSTM3S3Bmd3JkUVFqZE1GcHliazlvTG1zV1hZMGVvZE5qdHpjRXhVTHd6bFlDNVdXaGwyS3JSU1M5Mmx4dzI4?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 22:54:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
   },
-  "Hamas": {
+  "Renewable Energy": {
     "articles": [
       {
-        "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm9PcXk2SHhwMVY0YzVUNzBISTBIdzFlUWp3c2h3RU5weVkzTjRvR2ItLWw0R1BLOE1JR1p4UVh5aEMtYVRWMkc1bTFHazdfTWZaUUcyVnMyR1BhMHdlNFNOYzQxX1Nzejd4WlU3VWRXajZCMlVCWHFISDgzX1BSNXp4NmJTMlBJRzBqZjNNb2FfdUHSAZgBQVVfeXFMTWtWWmphSHREd1BmTUFPVW9RTmdRdm50YUZIRS1MZFo0ZmxqajEtazZIdy1kN1VOWVVKejhRNjBjTjFyaGhYMkRmZkwtQ0praVNtZ3B5UWotYWl5d2owU2ZmUDhMNVNEb3NVSzI5QVFUTk96YlVhSHotc0F4d0VBT1BtUWh4UWhnZnZGbWlIaW5HTF9ScEsydUo?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
+        "title": "'Big, Beautiful Bill' cuts majority of clean energy incentives - Spectrum News 1 - Milwaukee",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1NnMThkbGhRQ3VUTTdkdEEyMG5ZejM3cllHYWFXOWZtQUpkX1hiRFNSdVhOc2xqSmFDd0J3YVJqWGZkZkZwdEZTcGo2VDhtTGtFN1FtRXdBYlFFaVM2VVBIbVVXRkZZQ0ZSc1l5aXpHLU9GdWlRMm5meUVBZWI0UlBhNjUwekI4MVZzTWxBUE9yRW1yY2o4NjVGTXRFZ1M3MEgwUWdUVldNN041RkhQV1pfMWw?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 20:29:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
-  },
-  "Hacking": {
-    "articles": [
-      {
-        "title": "Brazil\u2019s central bank service provider hacked, $140M stolen - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVl9qbXhXdzJjRW01MGNvcjFBVnFGRDZPX29vY0Y4WFQ3dkR3U1lUQ0ZCRW9iSzJzYndFeXlDQWNnbTVhTHN5QkdObFBfaWVINWZGbGc4c0g1QzZSSVVMNkEyNTFaSGxmQmdtSUo0dGtrQ0lQTmdTUHQ1eXJGajBtdm42eWZsNU5mckF3MUp3cw?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 21:32:06 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Artificial intelligence and journalism | Daily Sabah - Daily Sabah",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnYxUnFLUFE0Tk9jWEZMcnVFMDZjMjM3NklXQWlnWThUMlIzb2I2Umtia0M0dml1aDFYMXN2aXhZNmN0aWJ0TFZmQjBYQ0psbGdRX05qR3FsRmhGcVBUY2NTTW5EbkdPblBRR1ZOT3VYd2w1YXJERDFhN2wxdFhyOTA0UEdHQdIBiwFBVV95cUxNZ1ZFWWc4eFBLNHRLQ2JEdVN4bU4wVGh3RUYyNVRHbXEwWmRlNExWeFktNlVaWTEzTlVLNDJ6bTVPUVNlQ0tBc3RVaFJNZ1RVd19xRUtBenBFUUsyREtjZmpJUFN3MTluR01XQ2lDZlJwQ1EtOVBEX1dRcExxZGs1MlVsU3E0eU5QNy1z?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 21:05:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
-  },
-  "Asteroids": {
-    "articles": [
-      {
-        "title": "A Once-in-5000-Years Lunar Collision Could Cause Catastrophic Impact Visible from Earth - The Daily Galaxy",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tUlprM2FYelU0V2FjUS00YzgxVzZGa0ZmY3d6Ni05RUdzMUs3aW9jaVVrb2ExT3gwcWlETUIydjBtOWxncUNscUgtNG5YT195eWRRVVJ6bVJTNzJVS2RRcGJEWVZsc3Z4ZTdIOHc4b3NYa3FRdnc?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 16:06:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
   },
   "Russia": {
     "articles": [
       {
-        "title": "Russia uses chemical agents in Ukraine, Dutch and German agencies say - Euronews.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDR0ZGE4dFpYR2FjYzRIOFM5V3d4RVVTZy0tNkhZa0oySGUtODBmcUdLNFRWcWpBTGhuVFpZMFROYzZZSGpnbV93bUJtOXh3MmlsTXBRMTRUV2pYcUtoMmZxellhLWw1djQ5akRrZDA3VURvV0xqbmtTdm5rblpaLUE0RW56cDBQTTVwcFRxS3RZYVE1Y1ZKSHNoYUZ1Rmp0TGdyNTlFUmpwZTQyLWQzRnBUOWVUeTlpOVk0MGZoSDBQRDJqMG9sVldLazZOWjd0b2c?oc=5",
-        "pubDate": "Fri, 04 Jul 2025 15:58:44 GMT"
+        "title": "Power cut for a time to Ukraine's Zaporizhzhia nuclear plant; Kyiv blames Russian strike - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGI2c3BTWmxfSlhFUW5jU3E4QTBKTVBoLUxZVW02X0habzRZbnpnRGlOOGZmVkZqb0p0dWZYNkF3dDU5Y0FrT0pjdnVhVzNGWm5qUVpWZnpzb0RRcnlvaVY3WGlEYXlqNDlEMU5uQWJhVXBXcTNESlpha3U2bWMzV3FJWF9KZkhraF9qVGtrR3I1RktxWEdlY2ZUUWkwQWF1dUZaamhCZGxQTUxLN3hPMmp0SWZrSXNJYk1KQURkZ2NOcWUxWXRTSGFn?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 19:48:21 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T03:58:22.656667+00:00"
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "How many people will lose health care coverage in New Jersey after Trump budget bill? - Bergen Record",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGFzUWlvSlhuUFhUbmdSYlB3VGJmQ2dDV09aLW1iekFGUUhEOFVNLTI4NnJkZkhkaXhyRHJYam44M0c3OGtxVlBxZ3k1ZUx1eXpwT1YtRlJzemhYa1k4cFRoQ1pIT3VMQmdhbHhwMWg2U0dxNHVORGxfdGE0X2E5bTNzdGRRV3ZETmlKYzd6MkpyUjkyR2tTY2ktelVMNnNSZ01kWTB4ZVRKV1ctcmVnc3FoVTYteXdVRlJmWGVMN0Z2RTlkRTZpMlp6aEc?oc=5",
+        "pubDate": "Fri, 04 Jul 2025 17:08:31 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-05T04:58:43.451181+00:00"
   }
 }
