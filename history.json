@@ -799,6 +799,10 @@
     {
       "title": "Trump Speaks Out After Using Term Widely Considered to be Antisemitic: \u2018Never Heard That\u2019 - Time Magazine",
       "pubDate": "Sat, 05 Jul 2025 13:50:31 GMT"
+    },
+    {
+      "title": "Trump on if he can end fighting in Ukraine: \u2018I don\u2019t know\u2019 - Politico",
+      "pubDate": "Sat, 05 Jul 2025 15:09:00 GMT"
     }
   ],
   "russia": [
@@ -1042,10 +1046,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock-market rally boosted by expectations for at least three Fed rate cuts in 2025 - MarketWatch",
-      "pubDate": "Fri, 27 Jun 2025 17:01:00 GMT"
-    },
     {
       "title": "Stock Market on June 27, 2025: S&P 500, Nasdaq close at all-time highs; U.S. stocks shake off Trump's remarks about trade with Canada - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 20:53:00 GMT"
@@ -1719,6 +1719,10 @@
     {
       "title": "AI chatbots oversimplify scientific studies and gloss over critical details \u2014 the newest models are especially guilty - Live Science",
       "pubDate": "Sat, 05 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "OpenAI is betting millions on building AI talent from the ground up amid rival Meta\u2019s poaching pitch - Fortune",
+      "pubDate": "Sat, 05 Jul 2025 11:54:00 GMT"
     }
   ],
   "climate": [
@@ -1789,16 +1793,16 @@
     {
       "title": "As the World Warms, Extreme Rain Is Becoming Even More Extreme - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 13:22:43 GMT"
+    },
+    {
+      "title": "How the Trump administration is already cutting off climate research - The Washington Post",
+      "pubDate": "Sat, 05 Jul 2025 17:00:38 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Ukraine war latest: Ukrainian drones reportedly strike 4 fighter jets in Russia - The Kyiv Independent",
       "pubDate": "Fri, 27 Jun 2025 19:30:26 GMT"
-    },
-    {
-      "title": "Ukraine hits four Russian Su-34 warplanes at Marinovka airbase - Ukrinform",
-      "pubDate": "Fri, 27 Jun 2025 17:16:00 GMT"
     },
     {
       "title": "Ukraine's Special Operators Just Executed Another Air Base Raid in Russia\u2014And Knocked Out Four Sukhoi Fighter-Bombers - Trench Art | David Axe",
@@ -1811,10 +1815,6 @@
     {
       "title": "Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 02:50:00 GMT"
-    },
-    {
-      "title": "Ukraine launches new long-range drone strikes at Russian military airfield, targeting tactical warplanes - Meduza",
-      "pubDate": "Fri, 27 Jun 2025 17:53:00 GMT"
     },
     {
       "title": "Russian Drone Strike Kills 2, Wounds 14 in Ukraine's Odesa, Authorities Say - U.S. News & World Report",
@@ -2345,16 +2345,8 @@
   ],
   "china": [
     {
-      "title": "U.S. and China Confirm Trade Agreement, Lutnick Says 10 More Deals on the Way - Barron's",
-      "pubDate": "Fri, 27 Jun 2025 17:12:00 GMT"
-    },
-    {
       "title": "China\u2019s threat to Tibet\u2019s future should be a global concern - The Hill",
       "pubDate": "Fri, 27 Jun 2025 19:00:00 GMT"
-    },
-    {
-      "title": "China tightens EV battery safety rules, led by CATL and BYD - Nikkei Asia",
-      "pubDate": "Fri, 27 Jun 2025 17:11:00 GMT"
     },
     {
       "title": "Flood-hit China expands social security net as extreme rain takes toll - Reuters",
@@ -2699,6 +2691,10 @@
     {
       "title": "Trump to start TikTok sale talks with China, he says, with deal \u2018pretty much\u2019 reached - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 06:22:00 GMT"
+    },
+    {
+      "title": "France Urges Tariff Barriers to Stop China From Killing Industry - Bloomberg",
+      "pubDate": "Sat, 05 Jul 2025 15:54:37 GMT"
     }
   ],
   "world_news": [
@@ -3315,6 +3311,10 @@
     {
       "title": "Another industry recession warning light just flashed red | Opinion - GamesIndustry.biz",
       "pubDate": "Fri, 04 Jul 2025 15:07:04 GMT"
+    },
+    {
+      "title": "Market Odds of a U.S. Recession in 2025 Drop in Half Since May - Cryptodnes.bg",
+      "pubDate": "Sat, 05 Jul 2025 16:59:24 GMT"
     }
   ],
   "drones": [
@@ -3523,6 +3523,10 @@
     {
       "title": "Hamas says it responds to Gaza ceasefire proposal in 'a positive spirit' - Reuters",
       "pubDate": "Sat, 05 Jul 2025 12:44:36 GMT"
+    },
+    {
+      "title": "Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 16:14:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -4513,6 +4517,10 @@
     {
       "title": "June EV sales in the UK: one in four buyers goes electric - Electric Cars Report",
       "pubDate": "Fri, 04 Jul 2025 13:39:42 GMT"
+    },
+    {
+      "title": "A Big, Beautiful Disaster For America - InsideEVs",
+      "pubDate": "Sat, 05 Jul 2025 10:19:37 GMT"
     }
   ],
   "united_states": [
