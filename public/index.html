@@ -201,10 +201,10 @@ p.timestamp {
   header h1 { font-size: 1.8em; }
   .subheading { font-size: 0.95em; }
   main { padding: 1em; }
-  section h3 { font-size: 1.1em; }
+  section h3 { font-size: 1.0em; }
   a { font-size: 0.95em; }
   .digest-timestamp { font-size: 1em; }
-  .arrow-btn { font-size: 16px; }
+  .arrow-btn { font-size: 32px; }
   #dots-container { gap: 10px; }
   .dot { width: 9px; height: 9px; }
 }
@@ -296,9 +296,19 @@ p.timestamp {
         if (currentIndex === 0) {
             timestampHeader.textContent = "Latest Headlines";
         } else {
+            // Create a new date object from the timestamp
             const date = new Date(entry.timestamp);
-            const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
-            timestampHeader.textContent = date.toLocaleDateString(undefined, options);
+            
+            // Round to the nearest hour. Add 30 minutes to handle rounding up/down,
+            // then zero out minutes, seconds, and milliseconds.
+            date.setMinutes(date.getMinutes() + 30);
+            date.setMinutes(0);
+            date.setSeconds(0);
+            date.setMilliseconds(0);
+
+            // Format the rounded date for display. Note: removed 'minute' option.
+            const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', timeZoneName: 'short' };
+            timestampHeader.textContent = date.toLocaleString(undefined, options);
         }
       }
       

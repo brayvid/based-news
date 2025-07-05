@@ -1049,7 +1049,7 @@ def generate_digest_html_content(digest_data, current_zone):
     html_parts = []
     for topic, articles in digest_data.items():
         # --- OPTIMIZATION 3: Use H2 for better heading structure ---
-        html_parts.append(f"<h2>{html.escape(topic)}</h2>\n")
+        html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
         for article in articles:
             try:
                 pub_dt_orig = parsedate_to_datetime(article["pubDate"])
