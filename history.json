@@ -153,20 +153,16 @@
     {
       "title": "US says its strikes degraded Iran\u2019s nuclear programme by one to two years - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 01:02:15 GMT"
+    },
+    {
+      "title": "Trump says Iran has not agreed to inspections, give up enrichment - Reuters",
+      "pubDate": "Sat, 05 Jul 2025 05:56:00 GMT"
     }
   ],
   "donald_trump": [
     {
-      "title": "Trump administration eliminating warning period for fining those in the US illegally: Exclusive - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 27 Jun 2025 09:10:50 GMT"
-    },
-    {
       "title": "US Senate Republicans seek agreement on Trump tax-cut, spending bill - Reuters",
       "pubDate": "Fri, 27 Jun 2025 10:28:59 GMT"
-    },
-    {
-      "title": "US supreme court expected to rule on birthright citizenship and other outstanding cases on last day of term \u2013 live updates - The Guardian",
-      "pubDate": "Fri, 27 Jun 2025 09:58:00 GMT"
     },
     {
       "title": "Trump approval underwater, voters say US is on wrong track: Poll - The Hill",
@@ -187,10 +183,6 @@
     {
       "title": "Supreme Court limits ability of judges to stop Trump - CNN",
       "pubDate": "Fri, 27 Jun 2025 16:47:00 GMT"
-    },
-    {
-      "title": "Trump says supreme court limiting judges\u2019 powers is \u2018monumental victory\u2019 as liberal justices dissent \u2013 live - The Guardian",
-      "pubDate": "Fri, 27 Jun 2025 09:58:00 GMT"
     },
     {
       "title": "Trump terminates trade talks with Canada - NBC News",
@@ -815,6 +807,10 @@
     {
       "title": "Trump says Ukraine will need Patriot missiles for its defense, chides Putin - Reuters",
       "pubDate": "Sat, 05 Jul 2025 05:30:00 GMT"
+    },
+    {
+      "title": "Trump news at a glance: President rings in Independence Day by signing his \u2018big, beautiful\u2019 bill into law - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 01:35:57 GMT"
     }
   ],
   "russia": [
@@ -993,6 +989,10 @@
     {
       "title": "Power cut for a time to Ukraine's Zaporizhzhia nuclear plant; Kyiv blames Russian strike - Reuters",
       "pubDate": "Fri, 04 Jul 2025 19:48:21 GMT"
+    },
+    {
+      "title": "Russia Drops Wheat Export Duty to Zero in Bid to Boost Sales - Bloomberg.com",
+      "pubDate": "Sat, 05 Jul 2025 09:27:49 GMT"
     }
   ],
   "ai_safety": [
@@ -1185,14 +1185,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "A.I. Frenzy Escalates as OpenAI, Amazon and Meta Supersize Spending - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 09:01:27 GMT"
-    },
-    {
-      "title": "Mark Zuckerberg Ramps Up Meta\u2019s A.I. Spending as Competition Heats Up - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 09:00:49 GMT"
-    },
-    {
       "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
       "pubDate": "Fri, 27 Jun 2025 11:08:41 GMT"
     },
@@ -1203,10 +1195,6 @@
     {
       "title": "Anthropic Study Uncovers AI's Dark Side: Rogue Agents Threatened by Shutdown - OpenTools",
       "pubDate": "Fri, 27 Jun 2025 12:05:26 GMT"
-    },
-    {
-      "title": "OpenAI may prematurely declare AGI to cut ties with Microsoft \u2014 despite Sam Altman admitting today's tech isn\u2019t built for it - Windows Central",
-      "pubDate": "Fri, 27 Jun 2025 09:37:43 GMT"
     },
     {
       "title": "AI is fuelling a new wave of border vigilantism in the US - Al Jazeera",
@@ -2763,6 +2751,10 @@
     {
       "title": "Leaders of Russia and China snub Brics summit in sign group\u2019s value may be waning - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "title": "China\u2019s Wang Yi urges new international deal on Iran after US, Israeli attacks - South China Morning Post",
+      "pubDate": "Sat, 05 Jul 2025 07:22:27 GMT"
     }
   ],
   "world_news": [
@@ -2785,16 +2777,8 @@
   ],
   "us_politics": [
     {
-      "title": "Republicans Prepare to Open \u2018Pandora\u2019s Box\u2019 of Budget Gimmicks - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 09:02:08 GMT"
-    },
-    {
       "title": "Senate to vote on Trump's war powers today as lawmakers get delayed briefing on Iran strikes - CBS News",
       "pubDate": "Fri, 27 Jun 2025 10:00:04 GMT"
-    },
-    {
-      "title": "Supreme Court Rules on Birthright Citizenship: What to Know - Newsweek",
-      "pubDate": "Fri, 27 Jun 2025 09:51:55 GMT"
     },
     {
       "title": "Supreme Court allows states to cut off Medicaid funding for Planned Parenthood - The Washington Post",
@@ -3293,14 +3277,6 @@
   ],
   "recession": [
     {
-      "title": "Veteran strategist says a recession is coming that will hit \u2018cup entirely full\u2019 stock market - MarketWatch",
-      "pubDate": "Fri, 27 Jun 2025 09:30:00 GMT"
-    },
-    {
-      "title": "Study Finds Foreclosure and Recession Fears Point to Housing Slowdown - Morningstar",
-      "pubDate": "Fri, 27 Jun 2025 09:00:00 GMT"
-    },
-    {
       "title": "Large Banks Could Easily Weather a Massive Recession, Fed's Annual Stress Test Finds - Investopedia",
       "pubDate": "Fri, 27 Jun 2025 21:44:50 GMT"
     },
@@ -3428,10 +3404,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Battling to survive, Hamas faces defiant clans and doubts over Iran - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 09:02:50 GMT"
-    },
     {
       "title": "Israel signals Hamas negotiations could be revived - CBS News",
       "pubDate": "Fri, 27 Jun 2025 11:05:00 GMT"
@@ -3827,10 +3799,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Solar manufacturing is booming. Advocates say it could go bust without incentives - NPR",
-      "pubDate": "Fri, 27 Jun 2025 09:50:00 GMT"
-    },
-    {
       "title": "GOP is on verge of sweeping victory in bid to gut clean energy economy - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 18:53:26 GMT"
     },
@@ -4043,6 +4011,10 @@
     {
       "title": "US Supreme Court Dealt Blows to EPA and Environmental Protections - U.S. News & World Report",
       "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
+    },
+    {
+      "title": "A look at rulings from the Supreme Court term that could have far-reaching consequences - PBS",
+      "pubDate": "Fri, 04 Jul 2025 22:50:54 GMT"
     }
   ],
   "inflation": [
@@ -4273,6 +4245,10 @@
     {
       "title": "House passes Senate version of megabill, sending it to Trump\u2019s desk - Utility Dive",
       "pubDate": "Thu, 03 Jul 2025 18:37:58 GMT"
+    },
+    {
+      "title": "US Congress Passes Invest America Act - Bitcoin.com News",
+      "pubDate": "Fri, 04 Jul 2025 22:12:40 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -4365,6 +4341,10 @@
     {
       "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
       "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Nvidia beats Apple to become most valuable company ever! It's now worth more than all listed companies in UK - Mint",
+      "pubDate": "Sat, 05 Jul 2025 07:34:30 GMT"
     }
   ],
   "earth_science": [
@@ -4375,12 +4355,6 @@
     {
       "title": "Scientists Detect Deep, Rhythmic Pulse Coming From Inside the Earth - Futurism",
       "pubDate": "Sun, 29 Jun 2025 19:00:30 GMT"
-    }
-  ],
-  "research": [
-    {
-      "title": "Trump Is Gutting LGBTQ+ Research. It\u2019s Going to Cost Us All. - Slate",
-      "pubDate": "Fri, 27 Jun 2025 09:45:00 GMT"
     }
   ],
   "hurricanes": [
