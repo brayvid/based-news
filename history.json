@@ -67,10 +67,6 @@
   ],
   "iran": [
     {
-      "title": "Iran's hackers keep a low profile after Israeli and US strikes - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 10:07:41 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: Trump says he would bomb Iran again 'without a question' - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 27 Jun 2025 16:46:00 GMT"
     },
@@ -160,14 +156,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "US Senate Republicans seek agreement on Trump tax-cut, spending bill - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 10:28:59 GMT"
-    },
-    {
-      "title": "Trump approval underwater, voters say US is on wrong track: Poll - The Hill",
-      "pubDate": "Fri, 27 Jun 2025 10:00:00 GMT"
-    },
     {
       "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
       "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
@@ -811,17 +799,13 @@
     {
       "title": "Trump news at a glance: President rings in Independence Day by signing his \u2018big, beautiful\u2019 bill into law - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 01:35:57 GMT"
+    },
+    {
+      "title": "Donald Trump Responds To Fatal Texas Flash Floods: 'Shocking' - Newsweek",
+      "pubDate": "Sat, 05 Jul 2025 09:15:05 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia launches over 370 drones and missiles in fresh barrage - TVP World",
-      "pubDate": "Fri, 27 Jun 2025 10:43:00 GMT"
-    },
-    {
-      "title": "'Alarms went off everywhere' \u2014 Explosions reported in Moscow, Russia claims 50 Ukrainian drones downed across country - The Kyiv Independent",
-      "pubDate": "Fri, 27 Jun 2025 10:40:24 GMT"
-    },
     {
       "title": "Putin says Russia is ready to hold more talks with Ukraine, return more bodies - Reuters",
       "pubDate": "Fri, 27 Jun 2025 14:49:59 GMT"
@@ -1195,10 +1179,6 @@
     {
       "title": "Anthropic Study Uncovers AI's Dark Side: Rogue Agents Threatened by Shutdown - OpenTools",
       "pubDate": "Fri, 27 Jun 2025 12:05:26 GMT"
-    },
-    {
-      "title": "AI is fuelling a new wave of border vigilantism in the US - Al Jazeera",
-      "pubDate": "Fri, 27 Jun 2025 10:18:45 GMT"
     },
     {
       "title": "Finding viable sperm in infertile men can take days. AI did it in hours. - The Washington Post",
@@ -1751,6 +1731,10 @@
     {
       "title": "Epic Battle Between AI Missionaries Versus AI Mercenaries To Achieve AGI And AI Super-Intelligence Is Underway Via Sam Altman And Mark Zuckerberg - Forbes",
       "pubDate": "Sat, 05 Jul 2025 07:15:00 GMT"
+    },
+    {
+      "title": "Companies keep slashing jobs. How worried should workers be about AI replacing them? - Los Angeles Times",
+      "pubDate": "Sat, 05 Jul 2025 10:00:00 GMT"
     }
   ],
   "climate": [
@@ -1820,10 +1804,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Kyiv halts Putin\u2019s advance in Sumy after new prisoner swap deal agreed - The Independent",
-      "pubDate": "Fri, 27 Jun 2025 10:02:37 GMT"
-    },
     {
       "title": "Ukraine war live: Russian missile strike kills three amid warning of summer attack - The Independent",
       "pubDate": "Fri, 27 Jun 2025 11:32:37 GMT"
@@ -2401,10 +2381,6 @@
       "pubDate": "Fri, 27 Jun 2025 14:24:32 GMT"
     },
     {
-      "title": "China Confirms Breakthrough on Rare-Earth Exports to U.S. - WSJ",
-      "pubDate": "Fri, 27 Jun 2025 10:17:00 GMT"
-    },
-    {
       "title": "China Makes Another High-Speed Rail Breakthrough - Newsweek",
       "pubDate": "Fri, 27 Jun 2025 16:14:34 GMT"
     },
@@ -2776,10 +2752,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate to vote on Trump's war powers today as lawmakers get delayed briefing on Iran strikes - CBS News",
-      "pubDate": "Fri, 27 Jun 2025 10:00:04 GMT"
-    },
     {
       "title": "Supreme Court allows states to cut off Medicaid funding for Planned Parenthood - The Washington Post",
       "pubDate": "Fri, 27 Jun 2025 14:50:32 GMT"
@@ -3643,6 +3615,10 @@
     {
       "title": "Panic in Japan over 1,000 earthquakes in two weeks: 'Scary to even fall asleep' | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Sat, 05 Jul 2025 04:50:21 GMT"
+    },
+    {
+      "title": "Earthquake alert (automated) - english.kyodonews.net",
+      "pubDate": "Sat, 05 Jul 2025 07:22:07 GMT"
     }
   ],
   "elon_musk": [
@@ -3739,6 +3715,10 @@
     {
       "title": "Is the US forfeiting its Red Planet leadership to China's Mars Sample Return plan? - Space",
       "pubDate": "Sun, 29 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Space capsule carrying ashes of 166 people \u2014 and cannabis seeds \u2014 lost after crashing into Pacific Ocean - New York Post",
+      "pubDate": "Sat, 05 Jul 2025 00:19:00 GMT"
     }
   ],
   "health_care": [
@@ -3922,10 +3902,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Trump terminates satellite data considered crucial to storm forecasting - E&E News by POLITICO",
-      "pubDate": "Fri, 27 Jun 2025 10:47:00 GMT"
-    },
     {
       "title": "Hurricane forecast accuracy at risk as Pentagon cuts satellite data - NewsNation",
       "pubDate": "Fri, 27 Jun 2025 11:31:28 GMT"
@@ -4593,6 +4569,12 @@
     {
       "title": "Brazil\u2019s central bank service provider hacked, $140M stolen - Cointelegraph",
       "pubDate": "Fri, 04 Jul 2025 21:32:06 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "BRICS Expands to 56% of World Population, 44% of Global GDP: Vietnam Joins as Partner Country - ScheerPost",
+      "pubDate": "Sat, 05 Jul 2025 09:21:20 GMT"
     }
   ]
 }
