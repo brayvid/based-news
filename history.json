@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel strikes Lebanon in one of biggest attacks since November ceasefire - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 02:37:26 GMT"
-    },
-    {
       "title": "Live updates: Iran to hold state funeral for officials killed by Israeli strikes - CNN",
       "pubDate": "Sat, 28 Jun 2025 11:10:00 GMT"
     },
@@ -165,10 +161,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump administration exploring $30 billion civilian nuclear deal for Iran - NBC News",
-      "pubDate": "Sat, 28 Jun 2025 02:16:00 GMT"
-    },
-    {
       "title": "Trump says he'll expect next Fed chair to cut rates - Axios",
       "pubDate": "Sat, 28 Jun 2025 03:49:54 GMT"
     },
@@ -179,10 +171,6 @@
     {
       "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
       "pubDate": "Sat, 28 Jun 2025 05:06:29 GMT"
-    },
-    {
-      "title": "Trump pushes Thune to crack down on wind and solar in megabill - Politico",
-      "pubDate": "Sat, 28 Jun 2025 02:37:31 GMT"
     },
     {
       "title": "Trump denies reports US looking at $30B nuclear deal with Iran: \u2018These people are SICK\u2019 - The Hill",
@@ -811,6 +799,10 @@
     {
       "title": "Trump news at a glance: Elon Musk announces new political party targeting sway in Congress - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 00:51:03 GMT"
+    },
+    {
+      "title": "Mexico braced for Trump\u2019s mass deportations. They haven\u2019t happened. - The Washington Post",
+      "pubDate": "Sat, 05 Jul 2025 18:06:51 GMT"
     }
   ],
   "russia": [
@@ -1711,6 +1703,10 @@
     {
       "title": "Regulate Artificial Intelligence for a Safer World - LA Progressive",
       "pubDate": "Sat, 05 Jul 2025 18:07:54 GMT"
+    },
+    {
+      "title": "Experts urge vigilance over AI's threat to global security, humanity - Xinhua",
+      "pubDate": "Sun, 06 Jul 2025 02:15:16 GMT"
     }
   ],
   "climate": [
@@ -1804,10 +1800,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 02:50:00 GMT"
-    },
     {
       "title": "Russian Drone Strike Kills 2, Wounds 14 in Ukraine's Odesa, Authorities Say - U.S. News & World Report",
       "pubDate": "Sat, 28 Jun 2025 06:44:00 GMT"
@@ -2135,6 +2127,10 @@
     {
       "title": "Ukraine attacks Russian airfields - NPR",
       "pubDate": "Sat, 05 Jul 2025 21:18:59 GMT"
+    },
+    {
+      "title": "Ukraine pummels Russia airbase, as Moscow continues massive drone assault on Kyiv - New York Post",
+      "pubDate": "Sat, 05 Jul 2025 20:08:00 GMT"
     }
   ],
   "us_economy": [
@@ -2353,6 +2349,10 @@
     {
       "title": "Opinion | Trump\u2019s \u2018big beautiful\u2019 spending plan will only worsen US economy - South China Morning Post",
       "pubDate": "Sat, 05 Jul 2025 21:30:08 GMT"
+    },
+    {
+      "title": "Hiring Defied Expectations in June, With 147,000 New Jobs - MSN",
+      "pubDate": "Sat, 05 Jul 2025 15:03:05 GMT"
     }
   ],
   "china": [
@@ -3039,6 +3039,10 @@
     {
       "title": "Musk announces forming of 'America Party' in further break from Trump - Reuters",
       "pubDate": "Sat, 05 Jul 2025 23:37:28 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s \u2018America\u2019 party could focus on a few pivotal congressional seats - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 23:06:00 GMT"
     }
   ],
   "democratic_party": [
@@ -3064,10 +3068,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea May Deepen Ukraine Involvement With Troop Surge - WSJ",
-      "pubDate": "Sat, 28 Jun 2025 02:22:16 GMT"
-    },
     {
       "title": "US charges North Koreans in plot to defraud over 100 firms - South China Morning Post",
       "pubDate": "Mon, 30 Jun 2025 18:56:04 GMT"
@@ -3543,6 +3543,10 @@
     {
       "title": "Hamas, Israel signal renewed openness to ceasefire negotiations - The Washington Post",
       "pubDate": "Sun, 06 Jul 2025 00:27:42 GMT"
+    },
+    {
+      "title": "Israel dispatches team to Qatar for ceasefire talks, kills 78 in Gaza - Al Jazeera",
+      "pubDate": "Sun, 06 Jul 2025 00:22:30 GMT"
     }
   ],
   "federal_reserve": [
@@ -4527,6 +4531,10 @@
     {
       "title": "BRICS agree to joint statement ahead of Rio leaders summit - Reuters",
       "pubDate": "Sat, 05 Jul 2025 23:12:15 GMT"
+    },
+    {
+      "title": "BRICS nations voice 'serious concerns' over Trump tariffs - The Japan Times",
+      "pubDate": "Sat, 05 Jul 2025 23:24:00 GMT"
     }
   ]
 }
