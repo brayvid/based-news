@@ -1,52 +1,72 @@
 {
-  "US Economy": {
+  "Hamas": {
     "articles": [
       {
-        "title": "At least 32 are dead after a catastrophic Texas flood. Search continues for missing girls from summer camp. - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFZkdFpvMDlEWk5KZW45NnFvLXY3SkJLNTZHeGp2ZUItZ0hEZ0lkUXVQcVpkSXhRVW05TDJYN1BFY3dOeFpjWjVSR2RYNHVRZkR6ZG1DX3JzUFJBbW90UUdqWVFlcnVLR2JaQXR0cDkzZHl6Sm1FMFVlVmc4Z3MtTnFLOWM2cENDMWdUcVVBcW8?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 23:30:00 GMT"
+        "title": "Hamas, Israel signal renewed openness to ceasefire negotiations - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWc3MlBYNVlkeTlEd19HOU5lQ0E5TXJod2UxVEdkV2JfU2tHNDF6aG1wMkRqbmh3cWxTVVM0cERTZldrYzZQRVFRRVBlZFdudkdnQjc2M1lFNWM1X1BtYkFRdnEzTGJlSENOVW1XSDBjb3BDMmdUd1Vic0pKRmRUXzZkcUg0a3lEWm9SSjVRTGNDUXhtd0o3TlloQ2g?oc=5",
+        "pubDate": "Sun, 06 Jul 2025 00:27:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T23:59:18.051502+00:00"
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
   },
-  "AI Safety": {
+  "Climate": {
     "articles": [
       {
-        "title": "To fix AI, first break it: Red teaming for AI safety - The Sunday Guardian Live",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXYtd2sySEdLNS15T2J5MVNlVTlaSEVjSnR6dml1QlAwSXo1dk5zUnZmdmptUjdMR2l0XzBQTHl2RThFMEtPUmM1Wkd5UEpfTzk0bDdoaFBWdGJROUNzQkR3b1VOX2paVHZuUnpxOXpPVkxCbWdLbVVwV2pmTzY1QUhjX29PZ2V1c1NHWV84TmhtS0tp?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 23:26:36 GMT"
+        "title": "Here\u2019s Why the Deadly Storm Quickly Intensified in Texas - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTlycXM4SEZzWXV0Yk9WZHk0LTBxQU15UEJxSU1XRFNvbGE4WHJxbTFNakhxNTVMRVVnVlpoN2Z5TFo3SmY2R0NCd3RZTUdCVklDdFk4YXp4a0g1TG9lNy1wWnFwT3MwcEpRQVVuSnZxa3lDUk9lc2pXRmNFMUxKaG9oNA?oc=5",
+        "pubDate": "Sun, 06 Jul 2025 00:26:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T23:59:18.051502+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Trump wants to ground China\u2019s drones - but have they flown too high to reach? - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEF2Uk91amZwSTMyM2hNNE1JVkgweWtRdU1ZVWNuR0JpYmJzM0ZQc0UySmZwMXhqa2prbHU1cXNkeGFja1I2QU9WUFNzbExwT244RXhleldSZ3dNbUZlT0s0RjBpeTl4TmVKQkgxemFCZFlyOF92TWZJTU11WGQ4NkdURDRQejBFZUVCaE15Rmt3M3FWODJtZlFZVF9MQ0RXdlI4bGRwZ3ZnSE4wOVdpRjlZQ2Fod2FNZ1JsM3ZKSdIBvwFBVV95cUxNZ3lGbGNNR1hYUlhCdGFIdFZ2T1Ywak02VjhIdk9NbTl3b2pUajVBVEF2ZndLQWo5d181LVBLa2pnZmx6bWdRbWpRYk5wcUxKcktuS2RmNmFENUluWjdhOVlsRy0tYWJTZVdQSkUzQmRrS2ROT2c1Zk1GR25xSmZJUUx3Q2NScUdibVNLTGdlSHF4T3ViYmN6dVlSUEJnZl9keld1cGtWSnJQWlhOQzBLNUpYTFhrV0JMdjM0cWVNOA?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 22:00:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-05T23:59:18.051502+00:00"
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "Elon Musk says he is launching new political party - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHa0toaExoWXpFZmE2UG5EWVFRaEJTdmhtSlV0S1pzSnhld0k4bloxdnVYZ2lDSWdyWjRQNHNaOTFpUUY5eXZfNVVMQXBMODZPQUVwenBWUHRvZ9IBX0FVX3lxTFBfVGlLY3g4SF9MaHhwcHpvOGwzNm1RLXd5ZnpNS2liaDNtWUJ5QTlTRzdfVlBydTR2ZUg4b0tha2R4WWhMRV9pdmVRdFlmQS00VFBpTlYweVpDSWxLdS1Z?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 21:13:01 GMT"
+        "title": "Musk announces forming of 'America Party' in further break from Trump - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUVmc2RaTWYwRmVRa1RJWVI0NjBjaC1xb3ZOa0Y5cXJ5bGlKVVdpODJDM3BkaWozSGhmOWZQdERMNENuM2Y4VTU3OU03WHplN1RzLU90Mjd0ci1xbEdUU0VVcDNqVEZ0WUwzWGs0ZEVlcDZIX1RBXy1vR3lfbXdjNU9qMHRWOTFC?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 23:37:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T23:59:18.051502+00:00"
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "AI Revolutionizes Academia: Scientific Papers Now Co-Written by Artificial Intelligence - OpenTools",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTl4WU9wRXpZRzhXTV9ONDlmYWdQbi1RNVpFUHRLNDBFcG1YVFY2NmNqX3QyU2lvWVNhSzFEUzVjZlNocDJScVlYY3pJNmdMcWJMbGUxQmtaMWVlaEpoRlhsMmp1R1ZzWlpKMS1nc0JRa2Exa21aMko5Qy1MTGVRaHN5YUl5aFBfd1lMdWFfQ21UQndUOUpqZVJvcENmVDVHZ0EwOXk1blh3WGtPa042VXVB?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 21:33:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Opinion | Trump\u2019s \u2018big beautiful\u2019 spending plan will only worsen US economy - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0kwbDczX0NkYklROUxfbWpjRW5HV3d1cjBJVmEycFV4Smx3ZWF6QzBxN0FXLWMwR1dTUDMyRkRCNTZkdjBKV1ZrUDdwdm9aMHc1N05vaWhieU5PR0locjlReVpzbWgwRlN4cUR1c2dyY3JyTENlemlNLTJGVTZfX2FCb05hckVhU3d1QmRQZEQ4aExWa19QTDV2cjl1V1l1eC15c3paNThXeC15b3BmdDFTMGVXekhVc0pGd2t30gG-AUFVX3lxTE1YYXJpRVlwLXVHX1ZtRzBDV2ZxQU1QckplOEY1UmVSSUVJRVlBN3BNQ3VQd0stU0hwMndTOXN2YmpidzlyQi1FaG1xUG1Ndnp0bHpTeXROVjlzd2l4MVlJaFVUeTNpSURQRHozeVVmTzI5ZWlaekRRVTdkSmNJdVc5LXZKZlNTSm5iZTRZd0YxQXcwWmk3SzMyQzFxenJRcE9GTVdTS0g2d200b2puVXdqVFkzS285TTM3V29pOUE?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 21:30:08 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia Will Win Big If India Buys the Su-57 Fighter - The National Interest",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmFfVGV2QVA3TGpzTS02YVQ0WWFQX2NUSF92clctMmdyQ2d3NEswSlRRMlFNeUdzTjloNE5VTnJDOGxiNWFUVnZPcE9uQWVEbkh0bm1laDFzS0ZhVjk3bHI0QVhvbjNDenhSVGdlSXZ2MzFaUmUwRlNwZUpwaWxHYlBkZEh6eTFvZnZSRHpHQXpPMDAzUmNOVg?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 18:48:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "CIA admits shadowy officer monitored Oswald before JFK assassination, new records reveal - Axios",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2TWFGY1RfMDVMcnVZMVlnbU9yTEVlaURiNlVWcTNmX1p5Q2c5LTdHamZDY3d0em5ZMEJwRldZUVlsS2M0YngxT252U095NDVSa2JVTVJJZDN6NWRsX2VXVDFyWFVqVGVBMkZzX2ROWjZRSjhyMk1Kd29xUQ?oc=5",
-        "pubDate": "Sat, 05 Jul 2025 13:50:43 GMT"
+        "title": "Trump ramps up his attacks against NYC's Zohran Mamdani as GOP seizes on new foe - NBC New York",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTZOc0dqcksyUC01bEMwN0VSZTJoQXRuUmt3Z3dTN0p2U0QzVUtRajVhdk9GNkM3RGlXT1FDTERVcTBvYnNPRVN1X2FJcjdkR0NlRVU4ejRwMGJSbUZTUDFJVXlGZVVHLTZJRmhLalRtdEdUeG9fNWlDS3RyMGhrS05mU1BjVGx4VVdJ0gGTAUFVX3lxTFBjdXdBM3ZMYlNoQ2hBSmY3aUMtb081bXZzQUw5ZFBvR18zRVNTSjE2M1REelpyMEg1OWM4bFRVSjBwQXZ4UGxUdlV0ZW8zUVVGY3JFOGJVNExoY3JqaXZrblV2SjRGV2xzSmswUVVGTHQydjVyQ0dsY3ItdzB2MEdvMFY4dVBXNWpvd2s3cFRmNUhTNA?oc=5",
+        "pubDate": "Sat, 05 Jul 2025 15:42:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-05T23:59:18.051502+00:00"
+    "last_updated_ts": "2025-07-06T00:58:49.043819+00:00"
   }
 }
