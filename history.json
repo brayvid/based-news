@@ -783,6 +783,10 @@
     {
       "title": "Opinion | Trump Is \u2018Disappointed\u2019 With Putin on Ukraine - WSJ",
       "pubDate": "Sun, 06 Jul 2025 20:34:00 GMT"
+    },
+    {
+      "title": "Death toll from Texas floods reaches 78; Trump plans visit - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 22:10:31 GMT"
     }
   ],
   "russia": [
@@ -2119,6 +2123,10 @@
     {
       "title": "Ukraine war latest: Drones attack Russia's Black Sea Fleet; Russian pipelines explode in country's Far East, HUR says - The Kyiv Independent",
       "pubDate": "Sun, 06 Jul 2025 15:59:42 GMT"
+    },
+    {
+      "title": "Russia downs 120 Ukrainian drones overnight, gains control of Ukraine settlements - The Jerusalem Post",
+      "pubDate": "Sun, 06 Jul 2025 11:57:46 GMT"
     }
   ],
   "us_economy": [
@@ -2683,6 +2691,10 @@
     {
       "title": "TikTok building new version of app ahead of expected US sale, The Information reports - Reuters",
       "pubDate": "Sun, 06 Jul 2025 16:45:02 GMT"
+    },
+    {
+      "title": "China reroutes exports via south-east Asia in bid to dodge Trump\u2019s tariffs - Financial Times",
+      "pubDate": "Sun, 06 Jul 2025 20:00:06 GMT"
     }
   ],
   "world_news": [
@@ -2700,10 +2712,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 22:04:00 GMT"
-    },
     {
       "title": "Senate Republicans vote to take up Trump\u2019s tax bill, overcoming resistance in their ranks - The Washington Post",
       "pubDate": "Sun, 29 Jun 2025 04:31:55 GMT"
@@ -3098,10 +3106,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "A notorious hacker group is now targeting the aviation industry, the FBI says - Business Insider",
-      "pubDate": "Sat, 28 Jun 2025 22:12:00 GMT"
-    },
     {
       "title": "How Israel-Aligned Hackers Hobbled Iran\u2019s Financial System - WSJ",
       "pubDate": "Sun, 29 Jun 2025 04:01:00 GMT"
@@ -3515,6 +3519,10 @@
     {
       "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
       "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
+    },
+    {
+      "title": "First round of indirect Hamas-Israel talks in Qatar end inconclusively, say sources - The Times of Israel",
+      "pubDate": "Sun, 06 Jul 2025 22:47:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3591,16 +3599,8 @@
   ],
   "elon_musk": [
     {
-      "title": "Musk condemns latest Senate bill that would 'destroy millions of jobs,' raise taxes on wind, solar projects - Fox Business",
-      "pubDate": "Sat, 28 Jun 2025 22:28:00 GMT"
-    },
-    {
       "title": "Musk Wades Back Into Politics, Slamming Trump\u2019s Domestic Policy Bill - The New York Times",
       "pubDate": "Sat, 28 Jun 2025 23:23:23 GMT"
-    },
-    {
-      "title": "Elon Musk rips into 'utterly insane' Trump-backed megabill - CNBC",
-      "pubDate": "Sat, 28 Jun 2025 22:12:32 GMT"
     },
     {
       "title": "Musk renews attacks on Trump's \"big, beautiful bill,\" says it will \"destroy million of jobs\" - CBS News",
@@ -4307,10 +4307,6 @@
   ],
   "atmospheric_science": [
     {
-      "title": "Scientists analyse first samples from ancient Antarctic ice core - Australian Broadcasting Corporation",
-      "pubDate": "Sat, 28 Jun 2025 22:48:46 GMT"
-    },
-    {
       "title": "Trump\u2019s NOAA budget proposes eliminating funding for six Colorado climate and science labs - Boulder Daily Camera",
       "pubDate": "Wed, 02 Jul 2025 17:58:09 GMT"
     }
@@ -4651,6 +4647,10 @@
     {
       "title": "EV Batteries Can Easily Outlast A Typical Gas Car\u2019s Lifespan: Study - MSN",
       "pubDate": "Sun, 06 Jul 2025 09:45:26 GMT"
+    },
+    {
+      "title": "New ABS modeling could lower EV battery thermal runaway fire risks - Marine Log",
+      "pubDate": "Sun, 06 Jul 2025 20:40:39 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -4675,6 +4675,18 @@
     {
       "title": "Interpretable machine learning models for survival prediction in prostate cancer bone metastases - Nature",
       "pubDate": "Sun, 06 Jul 2025 20:37:59 GMT"
+    }
+  ],
+  "national_security": [
+    {
+      "title": "Antarctica Faces Tense Future as U.S. Science Budget Shrinks - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 18:07:39 GMT"
+    }
+  ],
+  "ethereum": [
+    {
+      "title": "Vitalik proposes gas cap to enhance Ethereum security, stability - Cointelegraph",
+      "pubDate": "Sun, 06 Jul 2025 12:56:10 GMT"
     }
   ]
 }
