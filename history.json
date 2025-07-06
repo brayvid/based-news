@@ -161,10 +161,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says he'll expect next Fed chair to cut rates - Axios",
-      "pubDate": "Sat, 28 Jun 2025 03:49:54 GMT"
-    },
-    {
       "title": "Donald Trump Suffers Major Legal Blow: 'Grave Constitutional Violations' - Newsweek",
       "pubDate": "Sat, 28 Jun 2025 09:02:31 GMT"
     },
@@ -175,10 +171,6 @@
     {
       "title": "Trump denies reports US looking at $30B nuclear deal with Iran: \u2018These people are SICK\u2019 - The Hill",
       "pubDate": "Sat, 28 Jun 2025 12:29:00 GMT"
-    },
-    {
-      "title": "Trump halts trade talks with Canada, defending interests of U.S. tech firms - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 03:44:13 GMT"
     },
     {
       "title": "Trump says U.S. will cease trade negotiations with Canada - Axios",
@@ -803,6 +795,10 @@
     {
       "title": "Mexico braced for Trump\u2019s mass deportations. They haven\u2019t happened. - The Washington Post",
       "pubDate": "Sat, 05 Jul 2025 18:06:51 GMT"
+    },
+    {
+      "title": "Trump \u2018Very Unhappy\u2019 After Putin Call as Ukraine Suffers Unprecedented Air Assault - kurdistan24.net",
+      "pubDate": "Sat, 05 Jul 2025 16:39:00 GMT"
     }
   ],
   "russia": [
@@ -973,6 +969,10 @@
     {
       "title": "Russia Will Win Big If India Buys the Su-57 Fighter - The National Interest",
       "pubDate": "Sat, 05 Jul 2025 18:48:56 GMT"
+    },
+    {
+      "title": "russia Expands Military Presence in Armenia Amid Rising Tensions with Azerbaijan \u2013 Ukraine\u2019s Defense Intelligence - Defense Express",
+      "pubDate": "Sat, 05 Jul 2025 21:43:01 GMT"
     }
   ],
   "ai_safety": [
@@ -1707,6 +1707,10 @@
     {
       "title": "Experts urge vigilance over AI's threat to global security, humanity - Xinhua",
       "pubDate": "Sun, 06 Jul 2025 02:15:16 GMT"
+    },
+    {
+      "title": "Generative artificial intelligence in entrepreneurship education enhances entrepreneurial intention through self-efficacy and university support - Nature",
+      "pubDate": "Sat, 05 Jul 2025 17:24:14 GMT"
     }
   ],
   "climate": [
@@ -2131,6 +2135,10 @@
     {
       "title": "Ukraine pummels Russia airbase, as Moscow continues massive drone assault on Kyiv - New York Post",
       "pubDate": "Sat, 05 Jul 2025 20:08:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Russia shoots down Ukrainian drones headed for Moscow as key airport halts flights - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 01:57:00 GMT"
     }
   ],
   "us_economy": [
@@ -2353,17 +2361,13 @@
     {
       "title": "Hiring Defied Expectations in June, With 147,000 New Jobs - MSN",
       "pubDate": "Sat, 05 Jul 2025 15:03:05 GMT"
+    },
+    {
+      "title": "New data shows gig work reshaping U.S. Economy - Vicksburg Daily News",
+      "pubDate": "Sat, 05 Jul 2025 21:30:58 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Flood-hit China expands social security net as extreme rain takes toll - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 03:55:00 GMT"
-    },
-    {
-      "title": "Cloudy with a chance of bankruptcy: US tariffs hurt China\u2019s solar firms - South China Morning Post",
-      "pubDate": "Sat, 28 Jun 2025 03:00:11 GMT"
-    },
     {
       "title": "China\u2019s stablecoin edge? WeChat and Alipay, says top economist - South China Morning Post",
       "pubDate": "Sat, 28 Jun 2025 06:00:17 GMT"
@@ -3225,10 +3229,6 @@
   ],
   "recession": [
     {
-      "title": "US recession fears rise as personal income and spending fall in May - Firstpost",
-      "pubDate": "Sat, 28 Jun 2025 03:24:28 GMT"
-    },
-    {
       "title": "Is the Rise of Workwear a Recession Indicator? - Inc.com",
       "pubDate": "Sat, 28 Jun 2025 09:14:23 GMT"
     },
@@ -3714,10 +3714,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants - The New York Times",
-      "pubDate": "Sat, 28 Jun 2025 03:50:01 GMT"
-    },
     {
       "title": "Inside Operation Gold Rush, largest health care fraud bust in U.S. history - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 15:17:04 GMT"
@@ -4511,6 +4507,10 @@
     {
       "title": "NASA\u2019s Perseverance Rover Just Caught a Strange Phenomenon on Mars - The Daily Galaxy",
       "pubDate": "Fri, 04 Jul 2025 15:35:00 GMT"
+    },
+    {
+      "title": "NASA Rover Finds Unbelievable Evidence of Life\u2019s Potential on Mars \u2013 A Discovery That Changes Everything - MSN",
+      "pubDate": "Sat, 05 Jul 2025 22:07:28 GMT"
     }
   ],
   "hacking": [
@@ -4535,6 +4535,12 @@
     {
       "title": "BRICS nations voice 'serious concerns' over Trump tariffs - The Japan Times",
       "pubDate": "Sat, 05 Jul 2025 23:24:00 GMT"
+    }
+  ],
+  "oceans": [
+    {
+      "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
+      "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
     }
   ]
 }
