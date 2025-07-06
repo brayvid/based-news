@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Iran to hold state funeral for officials killed by Israeli strikes - CNN",
-      "pubDate": "Sat, 28 Jun 2025 11:10:00 GMT"
-    },
-    {
       "title": "Updates: Israel kills 60 in Gaza, medics search for survivors in al-Tuffah - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 20:20:34 GMT"
     },
@@ -71,6 +67,10 @@
     {
       "title": "Report: 5 IDF bases were struck by ballistic missiles during Israel-Iran war - The Times of Israel",
       "pubDate": "Sat, 05 Jul 2025 22:14:17 GMT"
+    },
+    {
+      "title": "LIVE: Israeli army continues bombing Gaza amid reports of ceasefire talks - Al Jazeera",
+      "pubDate": "Sun, 06 Jul 2025 13:41:15 GMT"
     }
   ],
   "iran": [
@@ -157,29 +157,13 @@
     {
       "title": "Iran's Khamenei attends event, in first public appearance in weeks, Iranian state media shows - The Jerusalem Post",
       "pubDate": "Sat, 05 Jul 2025 19:30:20 GMT"
+    },
+    {
+      "title": "China and Russia Keep Their Distance From Iran During Crisis - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 09:01:04 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Donald Trump Suffers Major Legal Blow: 'Grave Constitutional Violations' - Newsweek",
-      "pubDate": "Sat, 28 Jun 2025 09:02:31 GMT"
-    },
-    {
-      "title": "Trump denies reports US looking at $30B nuclear deal with Iran: \u2018These people are SICK\u2019 - The Hill",
-      "pubDate": "Sat, 28 Jun 2025 12:29:00 GMT"
-    },
-    {
-      "title": "Trump says U.S. will cease trade negotiations with Canada - Axios",
-      "pubDate": "Sat, 28 Jun 2025 12:07:14 GMT"
-    },
-    {
-      "title": "Trump wins as Supreme Court curbs judges, but may yet lose on birthright citizenship - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 10:07:54 GMT"
-    },
-    {
-      "title": "Trump on a high after 'tremendous' wins at home and abroad - BBC",
-      "pubDate": "Sat, 28 Jun 2025 13:48:38 GMT"
-    },
     {
       "title": "Trump Issues Blistering Response After Iran Threatens U.S. - Time Magazine",
       "pubDate": "Sat, 28 Jun 2025 17:13:22 GMT"
@@ -807,17 +791,21 @@
     {
       "title": "Musk launches US political party to fight \u2018one-party system\u2019 - Financial Times",
       "pubDate": "Sun, 06 Jul 2025 05:37:58 GMT"
+    },
+    {
+      "title": "Investors head into Trump tariff deadline benumbed and blase - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 07:11:45 GMT"
+    },
+    {
+      "title": "Trump\u2019s effort to deport pro-Palestinian activists goes to trial - Politico",
+      "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Trump Admin Insider Blows Lid Off Tariffs: \u2018It\u2019s All Fake\u2019 - The Daily Beast",
+      "pubDate": "Sun, 06 Jul 2025 07:17:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia revives obsolete T-62 tanks amid equipment shortages, Ukraine's intel claims - The Kyiv Independent",
-      "pubDate": "Sat, 28 Jun 2025 12:06:08 GMT"
-    },
-    {
-      "title": "Russian scientists develop model to extend battery lifespan - TV BRICS",
-      "pubDate": "Sat, 28 Jun 2025 13:03:33 GMT"
-    },
     {
       "title": "Russia Launches Largest Air Assault on Ukraine Since War Began - Newsweek",
       "pubDate": "Sun, 29 Jun 2025 07:35:45 GMT"
@@ -989,6 +977,10 @@
     {
       "title": "Russian air defences shoot down four drones headed for Moscow, mayor says - Reuters",
       "pubDate": "Sat, 05 Jul 2025 19:53:52 GMT"
+    },
+    {
+      "title": "Russia Reports Ammonia Leak at Leningrad\u2019s Ust-Luga Seaport - Bloomberg.com",
+      "pubDate": "Sun, 06 Jul 2025 12:09:11 GMT"
     }
   ],
   "ai_safety": [
@@ -1070,14 +1062,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Even as markets rally, Trump's policymaking causes market angst - Yahoo",
-      "pubDate": "Sat, 28 Jun 2025 10:14:53 GMT"
-    },
-    {
-      "title": "Stock market reclaims February record peak. How the fundamentals and technicals look now vs. then - CNBC",
-      "pubDate": "Sat, 28 Jun 2025 13:00:09 GMT"
-    },
     {
       "title": "S&P 500 and Nasdaq Climb to Record Highs on China Trade Optimism - Nasdaq",
       "pubDate": "Sat, 28 Jun 2025 14:26:00 GMT"
@@ -1173,38 +1157,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI renting Google TPUs sends a strong warning shot to Microsoft - the-decoder.com",
-      "pubDate": "Sat, 28 Jun 2025 07:43:11 GMT"
-    },
-    {
-      "title": "These two game-changing breakthroughs advance us toward artificial general intelligence - Fast Company",
-      "pubDate": "Sat, 28 Jun 2025 10:40:33 GMT"
-    },
-    {
-      "title": "The AI Backlash Keeps Growing Stronger - WIRED",
-      "pubDate": "Sat, 28 Jun 2025 10:30:00 GMT"
-    },
-    {
-      "title": "OpenAI Taps Google's AI Chips: A Strategic Shift in the Tech Alliance Landscape - OpenTools",
-      "pubDate": "Sat, 28 Jun 2025 11:40:32 GMT"
-    },
-    {
-      "title": "AMD vs. Arista Networks: Which Artificial Intelligence (AI) Stock Is a Better Buy Right Now? - AOL.com",
-      "pubDate": "Sat, 28 Jun 2025 12:25:52 GMT"
-    },
-    {
-      "title": "OpenAI and Microsoft's AGI Clause Drama: Corporate Tango or Technological Tangle? - OpenTools",
-      "pubDate": "Sat, 28 Jun 2025 12:38:53 GMT"
-    },
-    {
-      "title": "Artificial intelligence meets brain theory (again) - DOI",
-      "pubDate": "Sat, 28 Jun 2025 11:25:13 GMT"
-    },
-    {
-      "title": "OpenAI said to have tapped Google for AI chips in a shift away from Nvidia - Seeking Alpha",
-      "pubDate": "Sat, 28 Jun 2025 13:16:00 GMT"
-    },
-    {
       "title": "Meta hires four more OpenAI researchers, The Information reports - Reuters",
       "pubDate": "Sat, 28 Jun 2025 17:06:37 GMT"
     },
@@ -1215,10 +1167,6 @@
     {
       "title": "Meta's AGI Gambit: Talent, Risk, and the Race for AI Supremacy - AInvest",
       "pubDate": "Sat, 28 Jun 2025 18:08:27 GMT"
-    },
-    {
-      "title": "It\u2019s Known as \u2018The List\u2019\u2014and It\u2019s a Secret File of AI Geniuses - WSJ",
-      "pubDate": "Sat, 28 Jun 2025 13:21:07 GMT"
     },
     {
       "title": "China catching up fast with US in algorithms: ex-Microsoft AI head - South China Morning Post",
@@ -1735,13 +1683,21 @@
     {
       "title": "Letter: Data centers, artificial intelligence and jobs - Arizona Daily Star",
       "pubDate": "Sat, 05 Jul 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence (AI) - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 09:07:23 GMT"
+    },
+    {
+      "title": "After 9,000 Layoffs, Microsoft Boss Has Brutal Advice for Sacked Workers - Futurism",
+      "pubDate": "Sun, 06 Jul 2025 10:45:37 GMT"
+    },
+    {
+      "title": "Bosses Are Using AI to Decide Who to Fire - Futurism",
+      "pubDate": "Sun, 06 Jul 2025 13:00:42 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "A Class-Action Lawsuit Aims to Restore Climate and Environmental Grants - Inside Climate News",
-      "pubDate": "Sat, 28 Jun 2025 08:55:00 GMT"
-    },
     {
       "title": "Pakistan slams climate \u2018injustice\u2019 as deadly floods hit country again - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 17:03:45 GMT"
@@ -1829,25 +1785,13 @@
     {
       "title": "Breaking News Live Updates: Death toll from flooding in central Texas rises to 32, including 14 children, officials say - Times of India",
       "pubDate": "Sun, 06 Jul 2025 03:49:25 GMT"
+    },
+    {
+      "title": "Floods, hurricanes, heat: Americans fear rise of extreme weather - USA Today",
+      "pubDate": "Sun, 06 Jul 2025 13:14:16 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine Destroys Russian Fighter-Bombers in Precision Air Base Attack - Newsweek",
-      "pubDate": "Sat, 28 Jun 2025 09:21:56 GMT"
-    },
-    {
-      "title": "Russian drone strike on port city kills married couple, injures 17, Ukraine officials say - CBS News",
-      "pubDate": "Sat, 28 Jun 2025 11:12:40 GMT"
-    },
-    {
-      "title": "Ukrainian drone strike on Crimea air base destroys 3 Russian helicopters, SBU claims - The Kyiv Independent",
-      "pubDate": "Sat, 28 Jun 2025 12:37:13 GMT"
-    },
-    {
-      "title": "Ukrainian drones hit Russian missile and artillery arsenal \u2013 source - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-      "pubDate": "Sat, 28 Jun 2025 10:23:37 GMT"
-    },
     {
       "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
@@ -2163,17 +2107,25 @@
     {
       "title": "Ukraine war briefing: Russia shoots down Ukrainian drones headed for Moscow as key airport halts flights - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 01:57:00 GMT"
+    },
+    {
+      "title": "UN chief condemns Russian strikes on Ukraine, warns of nuclear safety risk - Department of Political and Peacebuilding Affairs",
+      "pubDate": "Sat, 05 Jul 2025 22:12:07 GMT"
+    },
+    {
+      "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
+    },
+    {
+      "title": "Russian attacks across Ukraine kill 6, injure 22 over past day - The Kyiv Independent",
+      "pubDate": "Sun, 06 Jul 2025 07:59:36 GMT"
+    },
+    {
+      "title": "Russia attacks Ukraine with 157 drones and 4 missiles, striking 19 sites - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Sun, 06 Jul 2025 05:31:11 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "3 signs the economy is in worse shape than we thought - Business Insider",
-      "pubDate": "Sat, 28 Jun 2025 08:10:00 GMT"
-    },
-    {
-      "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
-      "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
-    },
     {
       "title": "The U.S. Economy Shrank Faster Than Estimated - news8000.com",
       "pubDate": "Sat, 28 Jun 2025 23:23:00 GMT"
@@ -2401,28 +2353,8 @@
   ],
   "china": [
     {
-      "title": "Why is China building AI centres on the roof of the world? - South China Morning Post",
-      "pubDate": "Sat, 28 Jun 2025 08:00:20 GMT"
-    },
-    {
-      "title": "China Steps Up Flood Aid as Threat of Extreme Rains Loom - Bloomberg.com",
-      "pubDate": "Sat, 28 Jun 2025 10:42:52 GMT"
-    },
-    {
       "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
-    },
-    {
-      "title": "Heavy rain hits China's flood-stricken Guizhou for second time in a week - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 10:41:18 GMT"
-    },
-    {
-      "title": "Canada orders China's Hikvision to close Canadian operations - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 11:54:26 GMT"
-    },
-    {
-      "title": "How China could shut down auto factories around the world - CNBC",
-      "pubDate": "Sat, 28 Jun 2025 12:00:01 GMT"
     },
     {
       "title": "Tesla Has Big Plans in China - Crude Oil Prices Today | OilPrice.com",
@@ -2747,13 +2679,17 @@
     {
       "title": "For the first time, Xi is missing a China-backed BRICS summit. Why? - CNN",
       "pubDate": "Sat, 05 Jul 2025 23:43:00 GMT"
+    },
+    {
+      "title": "China retaliates to EU ban with import restrictions on medical devices - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 08:15:41 GMT"
+    },
+    {
+      "title": "China may ask Russia to attack NATO if Taiwan is invaded, Rutte says - The Kyiv Independent",
+      "pubDate": "Sun, 06 Jul 2025 11:25:57 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "US Used 20% Of Its THAAD Missiles To Defend Israel For 12 Days: Report - NDTV",
-      "pubDate": "Sat, 28 Jun 2025 12:35:11 GMT"
-    },
     {
       "title": "LIVE: Israel bombards Gaza City after issuing forced displacement threats - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 09:22:30 GMT"
@@ -2769,24 +2705,8 @@
   ],
   "us_politics": [
     {
-      "title": "Morale craters at State Department as mass layoffs loom - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 11:30:58 GMT"
-    },
-    {
       "title": "Senate Republicans Revise Trump\u2019s Policy Bill, Scrounging for Votes to Pass It - The New York Times",
       "pubDate": "Sat, 28 Jun 2025 15:05:10 GMT"
-    },
-    {
-      "title": "Senate Republicans make steep cuts to wind and solar in updated megabill text - Politico",
-      "pubDate": "Sat, 28 Jun 2025 13:36:20 GMT"
-    },
-    {
-      "title": "Senate aims to hold initial vote today on Trump's \"big, beautiful bill\" - CBS News",
-      "pubDate": "Sat, 28 Jun 2025 11:05:00 GMT"
-    },
-    {
-      "title": "How the Supreme Court\u2019s Injunction Ruling Expands Trump\u2019s Power - The New York Times",
-      "pubDate": "Sat, 28 Jun 2025 09:03:47 GMT"
     },
     {
       "title": "Updated Senate bill slashes wind and solar incentives \u2013 and adds a new tax - The Hill",
@@ -3083,17 +3003,13 @@
     {
       "title": "Elon Musk launches the America Party as feud with Trump escalates - Al Jazeera",
       "pubDate": "Sun, 06 Jul 2025 05:07:10 GMT"
+    },
+    {
+      "title": "Elon Musk launches 'America Party' opposing Donald Trump's tax Bill - Business Standard",
+      "pubDate": "Sun, 06 Jul 2025 00:42:33 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "A self-described Democratic Socialist could be NYC\u2019s next mayor, and the ultra rich are in revolt\u2014 \u2018hot commie summer\u2019 - Fortune",
-      "pubDate": "Sat, 28 Jun 2025 10:16:00 GMT"
-    },
-    {
-      "title": "The Democratic Party is ripe for a takeover - vox.com",
-      "pubDate": "Sat, 28 Jun 2025 12:00:00 GMT"
-    },
     {
       "title": "Play It Safe or Burn It All Down? Democrats Are Still Deciding - Bloomberg",
       "pubDate": "Sun, 29 Jun 2025 12:00:32 GMT"
@@ -3195,6 +3111,10 @@
     {
       "title": "Trump threatens 17% tariffs on EU's food and farm produce as regional bloc prepares for a trade war - Firstpost",
       "pubDate": "Sat, 05 Jul 2025 08:56:52 GMT"
+    },
+    {
+      "title": "Trump prepares tariff notice as US trade partners scramble for deals - South China Morning Post",
+      "pubDate": "Sun, 06 Jul 2025 10:46:03 GMT"
     }
   ],
   "cybersecurity": [
@@ -3268,14 +3188,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Is the Rise of Workwear a Recession Indicator? - Inc.com",
-      "pubDate": "Sat, 28 Jun 2025 09:14:23 GMT"
-    },
-    {
-      "title": "Gen Zers Convinced They Can Predict a Recession\u2014It's Not Going Well - Newsweek",
-      "pubDate": "Sat, 28 Jun 2025 08:00:01 GMT"
-    },
     {
       "title": "Blind boxes, baby tees and more rising recession indicators - The University Daily Kansan",
       "pubDate": "Sat, 28 Jun 2025 15:51:00 GMT"
@@ -3392,10 +3304,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "At least 34 people killed in Israeli strikes in Gaza as ceasefire prospects inch closer - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 10:10:24 GMT"
-    },
     {
       "title": "LIVE: Israel bombs heavily populated Gaza City area, at least 20 killed - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 15:14:07 GMT"
@@ -3595,6 +3503,30 @@
     {
       "title": "Scepticism and hope for end to Gaza war before Trump-Netanyahu meeting - Al Jazeera",
       "pubDate": "Sun, 06 Jul 2025 05:49:01 GMT"
+    },
+    {
+      "title": "Israel to send team to Gaza talks despite Hamas demands, PM says - BBC",
+      "pubDate": "Sat, 05 Jul 2025 22:08:50 GMT"
+    },
+    {
+      "title": "Israel sends team to Qatar for hostage talks, but deems Hamas demands \u2018unacceptable\u2019 - The Times of Israel",
+      "pubDate": "Sun, 06 Jul 2025 04:52:30 GMT"
+    },
+    {
+      "title": "Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 08:19:25 GMT"
+    },
+    {
+      "title": "Netanyahu to send negotiating team to Qatar for ceasefire talks, but calls Hamas proposals \"unacceptable\" - CBS News",
+      "pubDate": "Sat, 05 Jul 2025 23:36:52 GMT"
+    },
+    {
+      "title": "Report reveals Hamas extensively and systematically used sexual violence as a weapon on Oct. 7 - The Jerusalem Post",
+      "pubDate": "Sun, 06 Jul 2025 10:29:53 GMT"
+    },
+    {
+      "title": "Israel sends delegation to Qatar for Gaza ceasefire talks with Hamas - The Hill",
+      "pubDate": "Sun, 06 Jul 2025 12:38:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3663,6 +3595,10 @@
     {
       "title": "Japan warns of possible strong earthquakes, urges public to stay calm - Latest news from Azerbaijan",
       "pubDate": "Sat, 05 Jul 2025 14:01:54 GMT"
+    },
+    {
+      "title": "Over 1,000 earthquakes and a viral prophecy: What\u2019s really happening in Japan? - The Economic Times",
+      "pubDate": "Sun, 06 Jul 2025 08:09:25 GMT"
     }
   ],
   "elon_musk": [
@@ -3713,6 +3649,10 @@
     {
       "title": "Grok Is Blaming Musk and Trump for Texas Flooding Deaths - The Daily Beast",
       "pubDate": "Sun, 06 Jul 2025 04:35:00 GMT"
+    },
+    {
+      "title": "Elon Musk is about to unleash more havoc on America - The Telegraph",
+      "pubDate": "Sun, 06 Jul 2025 10:20:00 GMT"
     }
   ],
   "cancer": [
@@ -3747,6 +3687,18 @@
     {
       "title": "Air Pollution 'Strongly Associated' With DNA Mutations Tied to Lung Cancer - ScienceAlert",
       "pubDate": "Sat, 05 Jul 2025 12:01:18 GMT"
+    },
+    {
+      "title": "Scientists Turn Forgotten Cells Into Powerful Cancer Killers - SciTechDaily",
+      "pubDate": "Sun, 06 Jul 2025 03:51:52 GMT"
+    },
+    {
+      "title": "Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways - Nature",
+      "pubDate": "Sat, 05 Jul 2025 23:56:48 GMT"
+    },
+    {
+      "title": "Survival days of patients with metastatic spinal tumors of lung cancer requiring surgery: a prospective multicenter study - Nature",
+      "pubDate": "Sun, 06 Jul 2025 09:57:56 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -3813,6 +3765,10 @@
     {
       "title": "How the tax-cut bill that\u2019s headed to Trump\u2019s desk would upend health care - STAT",
       "pubDate": "Thu, 03 Jul 2025 18:51:17 GMT"
+    },
+    {
+      "title": "\u2018Tears My Heart to Pieces\u2019: North Carolina Braces for Medicaid Cuts - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 09:01:05 GMT"
     }
   ],
   "world_economy": [
@@ -3929,13 +3885,13 @@
     {
       "title": "'Big, Beautiful Bill' cuts majority of clean energy incentives - Spectrum News 1 - Milwaukee",
       "pubDate": "Fri, 04 Jul 2025 20:29:00 GMT"
+    },
+    {
+      "title": "China to power grid with record renewable energy as AI spurs demand - South China Morning Post",
+      "pubDate": "Sun, 06 Jul 2025 11:00:09 GMT"
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Online hacks to offline heists: crypto leaders on edge amid increasing attacks - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 12:01:00 GMT"
-    },
     {
       "title": "Bybit Ethereum Heist Propels Record $2.1 Billion in Crypto Stolen by Hackers So Far in 2025 - Decrypt",
       "pubDate": "Sat, 28 Jun 2025 17:31:02 GMT"
@@ -3947,23 +3903,19 @@
     {
       "title": "Belgian court sentences three in kidnapping of crypto investor\u2019s wife - Cointelegraph",
       "pubDate": "Fri, 04 Jul 2025 09:39:25 GMT"
+    },
+    {
+      "title": "Secret Service Seizes $225 Million in Cryptocurrency Fraud - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 00:51:37 GMT"
     }
   ],
   "taxes": [
-    {
-      "title": "Updated megabill includes key compromises on taxes and Medicaid - Politico",
-      "pubDate": "Sat, 28 Jun 2025 13:39:47 GMT"
-    },
     {
       "title": "Trump celebrates legislative victory with $4.5 trillion tax cut bill - 13wham.com",
       "pubDate": "Fri, 04 Jul 2025 00:49:13 GMT"
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla silences FSD critics by posting full video of Model Y delivering itself to customer - Teslarati",
-      "pubDate": "Sat, 28 Jun 2025 11:19:23 GMT"
-    },
     {
       "title": "Tesla shares drop on Musk, Trump feud ahead of Q2 deliveries - CNBC",
       "pubDate": "Wed, 02 Jul 2025 00:29:00 GMT"
@@ -4003,10 +3955,6 @@
   ],
   "us_supreme_court": [
     {
-      "title": "Initially wary of Trump, Roberts and Barrett offer the president his biggest win of the Supreme Court term - CNN",
-      "pubDate": "Sat, 28 Jun 2025 12:23:00 GMT"
-    },
-    {
       "title": "US Supreme Court Dealt Blows to EPA and Environmental Protections - U.S. News & World Report",
       "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
     },
@@ -4036,10 +3984,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "Rubin Observatory\u2019s Stunning Result Proves It\u2019s a 'Game Changer' for Spotting Dangerous Asteroids - Gizmodo",
-      "pubDate": "Sat, 28 Jun 2025 10:00:05 GMT"
-    },
     {
       "title": "Surprise Discovery In Ryugu Asteroid Is Making Scientists Repurpose Their Theories - Mashable India",
       "pubDate": "Wed, 02 Jul 2025 06:50:26 GMT"
@@ -4233,6 +4177,10 @@
     {
       "title": "Wild New Satoshi Nakamoto Theory Emerges From Massive $8 Billion Bitcoin Transfer Mystery - Forbes",
       "pubDate": "Sat, 05 Jul 2025 11:15:47 GMT"
+    },
+    {
+      "title": "80,000 Bitcoin Moved From Dormant Wallets Sparks Security Fears - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 07:16:14 GMT"
     }
   ],
   "us_congress": [
@@ -4331,10 +4279,6 @@
   ],
   "hurricanes": [
     {
-      "title": "Sudden loss of key US satellite data could send hurricane forecasting back \u2018decades\u2019 - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 11:00:00 GMT"
-    },
-    {
       "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 21:13:26 GMT"
     },
@@ -4345,6 +4289,10 @@
     {
       "title": "Tropical Depression 3 expected to strengthen before South Carolina landfall - AccuWeather",
       "pubDate": "Fri, 04 Jul 2025 22:32:27 GMT"
+    },
+    {
+      "title": "Tropical Storm Chantal strengthens. Florida rain, storms, South Carolina landfall expected - Naples Daily News",
+      "pubDate": "Sat, 05 Jul 2025 22:03:38 GMT"
     }
   ],
   "amazon": [
@@ -4355,6 +4303,10 @@
     {
       "title": "Amazon CEO Jassy says AI will lead to 'fewer people doing some of the jobs' that get automated - CNBC",
       "pubDate": "Tue, 01 Jul 2025 00:01:00 GMT"
+    },
+    {
+      "title": "Amazon CEO Andy Jassy doubles down on his message to employees: We will need fewer people doing ... - Times of India",
+      "pubDate": "Sun, 06 Jul 2025 06:46:00 GMT"
     }
   ],
   "vladimir_putin": [
@@ -4391,6 +4343,10 @@
     {
       "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
       "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT is pushing people towards mania, psychosis and death \u2013 and OpenAI doesn\u2019t know how to stop it - The Independent",
+      "pubDate": "Sun, 06 Jul 2025 05:00:00 GMT"
     }
   ],
   "large_language_model": [
@@ -4529,6 +4485,10 @@
     {
       "title": "FBI, DHS warn of \u2018lone wolf\u2019 July 4 attacks - NewsNation",
       "pubDate": "Thu, 03 Jul 2025 22:04:29 GMT"
+    },
+    {
+      "title": "Another hit piece on Kash Patel? FBI director accused of 'fire-transfer-push to resign' playbook - Times of India",
+      "pubDate": "Sun, 06 Jul 2025 12:57:00 GMT"
     }
   ],
   "science": [
@@ -4585,18 +4545,82 @@
     {
       "title": "BRICS nations voice 'serious concerns' over Trump tariffs - The Japan Times",
       "pubDate": "Sat, 05 Jul 2025 23:24:00 GMT"
+    },
+    {
+      "title": "Rising India-China Tensions Fuel Infrastructure and Defense Opportunities: Where to Invest - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 04:10:36 GMT"
+    },
+    {
+      "title": "Brazil hosts BRICS summit; Russia\u2019s Putin, China\u2019s Xi skip Rio trip - Al Jazeera",
+      "pubDate": "Sun, 06 Jul 2025 08:11:00 GMT"
     }
   ],
   "oceans": [
     {
       "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
       "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
+    },
+    {
+      "title": "Researchers make stunning discovery in deepest ocean trench on Earth: 'Surprising and concerning' - The Cool Down",
+      "pubDate": "Sat, 05 Jul 2025 23:30:00 GMT"
     }
   ],
   "terrorism": [
     {
       "title": "Authorities arrest man for setting fire to Melbourne synagogue, are 'unsure' if linked to terrorism - The Jerusalem Post",
       "pubDate": "Sun, 06 Jul 2025 02:22:30 GMT"
+    }
+  ],
+  "biology": [
+    {
+      "title": "Scientists Stunned As Tomatoes \u201cDe-Evolve\u201d in the Galapagos - SciTechDaily",
+      "pubDate": "Sat, 05 Jul 2025 23:12:27 GMT"
+    }
+  ],
+  "quantum_computing": [
+    {
+      "title": "Quantum Computing's Surge: Navigating Tariffs and Tech Tailwinds for Profitable Growth - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 08:22:52 GMT"
+    }
+  ],
+  "data_privacy": [
+    {
+      "title": "AI tools raise questions about data privacy - The Philadelphia Tribune",
+      "pubDate": "Sun, 06 Jul 2025 04:00:00 GMT"
+    }
+  ],
+  "business": [
+    {
+      "title": "American Business Is Being Destroyed by Russia - Kyiv Post",
+      "pubDate": "Sun, 06 Jul 2025 07:18:11 GMT"
+    }
+  ],
+  "new_york_politics": [
+    {
+      "title": "As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 03:29:19 GMT"
+    }
+  ],
+  "artificial_general_intelligence": [
+    {
+      "title": "AGI And AI Superintelligence Will Hack The Human Subconscious Via AI-Generated Subliminal Messaging - Forbes",
+      "pubDate": "Sun, 06 Jul 2025 07:15:00 GMT"
+    },
+    {
+      "title": "We need an Operation Warp Speed for AI - Washington Examiner",
+      "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
+    }
+  ],
+  "ancient_history": [
+    {
+      "title": "Mystery of lost civilization revealed by ancient temple ruin discovery - New Atlas",
+      "pubDate": "Sun, 06 Jul 2025 04:05:22 GMT"
+    }
+  ],
+  "earth's_magnetic_field": [
+    {
+      "title": "Earth\u2019s Magnetic Field Almost Disappeared - MSN",
+      "pubDate": "Sun, 06 Jul 2025 05:51:19 GMT"
     }
   ]
 }
