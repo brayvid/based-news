@@ -1789,13 +1789,13 @@
     {
       "title": "House Democrat says climate change \u2018obviously a part of\u2019 Texas flooding - The Hill",
       "pubDate": "Sun, 06 Jul 2025 15:11:00 GMT"
+    },
+    {
+      "title": "The Floodgates Have Opened: How Climate Catastrophes Are Fueling a New Era of Infrastructure Investing - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 17:54:25 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
-      "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
-    },
     {
       "title": "Russia is hitting Ukraine with drones and missiles - Latest news from Azerbaijan",
       "pubDate": "Sun, 29 Jun 2025 05:46:54 GMT"
@@ -2127,6 +2127,10 @@
     {
       "title": "Russia and Ukraine trade drone strikes, disrupting air travel - AP News",
       "pubDate": "Sun, 06 Jul 2025 15:26:00 GMT"
+    },
+    {
+      "title": "How Trump Can Help Ukraine Win The War And Make Russia Pay For It - Forbes",
+      "pubDate": "Sun, 06 Jul 2025 13:23:35 GMT"
     }
   ],
   "us_economy": [
@@ -2709,14 +2713,6 @@
   ],
   "us_politics": [
     {
-      "title": "Updated Senate bill slashes wind and solar incentives \u2013 and adds a new tax - The Hill",
-      "pubDate": "Sat, 28 Jun 2025 19:53:00 GMT"
-    },
-    {
-      "title": "What's in the Senate\u2019s version of Trump's budget bill \u2014 and who stands to benefit - CNBC",
-      "pubDate": "Sat, 28 Jun 2025 19:57:28 GMT"
-    },
-    {
       "title": "Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 22:04:00 GMT"
     },
@@ -3279,10 +3275,6 @@
   ],
   "drones": [
     {
-      "title": "Russia Upgrades Shahed Drones, Adopts New Tactics In Ukraine - Forbes",
-      "pubDate": "Sat, 28 Jun 2025 19:11:00 GMT"
-    },
-    {
       "title": "Russia has dramatically increased the production of combat drones \u2014 Bloomberg - EADaily",
       "pubDate": "Sat, 28 Jun 2025 23:15:00 GMT"
     },
@@ -3296,10 +3288,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says - BBC",
-      "pubDate": "Sat, 28 Jun 2025 19:20:18 GMT"
-    },
     {
       "title": "Israeli strikes kill dozens in Gaza as Trump says ceasefire possible \"next week\" - CBS News",
       "pubDate": "Sat, 28 Jun 2025 23:20:57 GMT"
@@ -3731,6 +3719,10 @@
     {
       "title": "Scientists Find the Perfect Place on Mars for Future Human Settlers - MSN",
       "pubDate": "Sun, 06 Jul 2025 05:37:08 GMT"
+    },
+    {
+      "title": "NASA Plans To Leave The ISS After 2030 - Here's What Will Come Next - Jalopnik",
+      "pubDate": "Sun, 06 Jul 2025 12:25:00 GMT"
     }
   ],
   "health_care": [
@@ -4107,6 +4099,10 @@
     {
       "title": "How Republicans Re-engineered the Tax Code - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 04:33:00 GMT"
+    },
+    {
+      "title": "Republicans just cut Medicaid. Will it cost them control of Congress? - Politico",
+      "pubDate": "Sun, 06 Jul 2025 16:00:00 GMT"
     }
   ],
   "bitcoin": [
@@ -4577,6 +4573,10 @@
     {
       "title": "BRICS Leaders Condemn Attacks on Iran, Tell Israel to Leave Gaza - Bloomberg.com",
       "pubDate": "Sun, 06 Jul 2025 17:15:41 GMT"
+    },
+    {
+      "title": "BRICS nations condemn Israel over Iran war, in victory for Islamic Republic - The Times of Israel",
+      "pubDate": "Sun, 06 Jul 2025 18:47:28 GMT"
     }
   ],
   "oceans": [
@@ -4633,6 +4633,10 @@
     {
       "title": "We need an Operation Warp Speed for AI - Washington Examiner",
       "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "What is Artificial Super-intelligence? Former Google CEO Eric Schmidt warns AI will soon outsmart humanity and we are not ready - MSN",
+      "pubDate": "Sun, 06 Jul 2025 18:01:28 GMT"
     }
   ],
   "ancient_history": [
@@ -4669,6 +4673,12 @@
     {
       "title": "High-tech company makes key breakthrough that could revolutionize smartphones and EVs: 'A pivotal commercial milestone' - The Cool Down",
       "pubDate": "Sun, 06 Jul 2025 14:30:00 GMT"
+    }
+  ],
+  "protest": [
+    {
+      "title": "Israelis, Jewish groups in US plan protests against Gaza war during Netanyahu visit - The Times of Israel",
+      "pubDate": "Sun, 06 Jul 2025 16:41:15 GMT"
     }
   ]
 }
