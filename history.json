@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Iran to hold state funeral for officials killed by Israeli strikes - CNN",
-      "pubDate": "Sat, 28 Jun 2025 11:10:00 GMT"
-    },
-    {
       "title": "Updates: Israel kills 60 in Gaza, medics search for survivors in al-Tuffah - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 20:20:34 GMT"
     },
@@ -157,6 +153,10 @@
     {
       "title": "Iran's Khamenei attends event, in first public appearance in weeks, Iranian state media shows - The Jerusalem Post",
       "pubDate": "Sat, 05 Jul 2025 19:30:20 GMT"
+    },
+    {
+      "title": "China and Russia Keep Their Distance From Iran During Crisis - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 09:01:04 GMT"
     }
   ],
   "donald_trump": [
@@ -803,6 +803,10 @@
     {
       "title": "Investors head into Trump tariff deadline benumbed and blase - Reuters",
       "pubDate": "Sun, 06 Jul 2025 07:11:45 GMT"
+    },
+    {
+      "title": "Trump\u2019s effort to deport pro-Palestinian activists goes to trial - Politico",
+      "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
     }
   ],
   "russia": [
@@ -1165,20 +1169,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI Taps Google's AI Chips: A Strategic Shift in the Tech Alliance Landscape - OpenTools",
-      "pubDate": "Sat, 28 Jun 2025 11:40:32 GMT"
-    },
-    {
       "title": "AMD vs. Arista Networks: Which Artificial Intelligence (AI) Stock Is a Better Buy Right Now? - AOL.com",
       "pubDate": "Sat, 28 Jun 2025 12:25:52 GMT"
     },
     {
       "title": "OpenAI and Microsoft's AGI Clause Drama: Corporate Tango or Technological Tangle? - OpenTools",
       "pubDate": "Sat, 28 Jun 2025 12:38:53 GMT"
-    },
-    {
-      "title": "Artificial intelligence meets brain theory (again) - DOI",
-      "pubDate": "Sat, 28 Jun 2025 11:25:13 GMT"
     },
     {
       "title": "OpenAI said to have tapped Google for AI chips in a shift away from Nvidia - Seeking Alpha",
@@ -1715,6 +1711,10 @@
     {
       "title": "Letter: Data centers, artificial intelligence and jobs - Arizona Daily Star",
       "pubDate": "Sat, 05 Jul 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence (AI) - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 09:07:23 GMT"
     }
   ],
   "climate": [
@@ -1808,10 +1808,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian drone strike on port city kills married couple, injures 17, Ukraine officials say - CBS News",
-      "pubDate": "Sat, 28 Jun 2025 11:12:40 GMT"
-    },
     {
       "title": "Ukrainian drone strike on Crimea air base destroys 3 Russian helicopters, SBU claims - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 12:37:13 GMT"
@@ -2143,6 +2139,10 @@
     {
       "title": "Russian attacks across Ukraine kill 6, injure 22 over past day - The Kyiv Independent",
       "pubDate": "Sun, 06 Jul 2025 07:59:36 GMT"
+    },
+    {
+      "title": "Russia attacks Ukraine with 157 drones and 4 missiles, striking 19 sites - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Sun, 06 Jul 2025 05:31:11 GMT"
     }
   ],
   "us_economy": [
@@ -2375,10 +2375,6 @@
     {
       "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
-    },
-    {
-      "title": "Canada orders China's Hikvision to close Canadian operations - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 11:54:26 GMT"
     },
     {
       "title": "How China could shut down auto factories around the world - CNBC",
@@ -2733,20 +2729,12 @@
   ],
   "us_politics": [
     {
-      "title": "Morale craters at State Department as mass layoffs loom - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 11:30:58 GMT"
-    },
-    {
       "title": "Senate Republicans Revise Trump\u2019s Policy Bill, Scrounging for Votes to Pass It - The New York Times",
       "pubDate": "Sat, 28 Jun 2025 15:05:10 GMT"
     },
     {
       "title": "Senate Republicans make steep cuts to wind and solar in updated megabill text - Politico",
       "pubDate": "Sat, 28 Jun 2025 13:36:20 GMT"
-    },
-    {
-      "title": "Senate aims to hold initial vote today on Trump's \"big, beautiful bill\" - CBS News",
-      "pubDate": "Sat, 28 Jun 2025 11:05:00 GMT"
     },
     {
       "title": "Updated Senate bill slashes wind and solar incentives \u2013 and adds a new tax - The Hill",
@@ -3563,6 +3551,10 @@
     {
       "title": "Netanyahu to send negotiating team to Qatar for ceasefire talks, but calls Hamas proposals \"unacceptable\" - CBS News",
       "pubDate": "Sat, 05 Jul 2025 23:36:52 GMT"
+    },
+    {
+      "title": "Report reveals Hamas extensively and systematically used sexual violence as a weapon on Oct. 7 - The Jerusalem Post",
+      "pubDate": "Sun, 06 Jul 2025 10:29:53 GMT"
     }
   ],
   "federal_reserve": [
@@ -3685,6 +3677,10 @@
     {
       "title": "Grok Is Blaming Musk and Trump for Texas Flooding Deaths - The Daily Beast",
       "pubDate": "Sun, 06 Jul 2025 04:35:00 GMT"
+    },
+    {
+      "title": "Elon Musk is about to unleash more havoc on America - The Telegraph",
+      "pubDate": "Sun, 06 Jul 2025 10:20:00 GMT"
     }
   ],
   "cancer": [
@@ -3948,10 +3944,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla silences FSD critics by posting full video of Model Y delivering itself to customer - Teslarati",
-      "pubDate": "Sat, 28 Jun 2025 11:19:23 GMT"
-    },
     {
       "title": "Tesla shares drop on Musk, Trump feud ahead of Q2 deliveries - CNBC",
       "pubDate": "Wed, 02 Jul 2025 00:29:00 GMT"
@@ -4319,10 +4311,6 @@
   ],
   "hurricanes": [
     {
-      "title": "Sudden loss of key US satellite data could send hurricane forecasting back \u2018decades\u2019 - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 11:00:00 GMT"
-    },
-    {
       "title": "Hurricane season is here and meteorologists are losing a vital tool for forecasting them - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 21:13:26 GMT"
     },
@@ -4641,6 +4629,12 @@
     {
       "title": "AGI And AI Superintelligence Will Hack The Human Subconscious Via AI-Generated Subliminal Messaging - Forbes",
       "pubDate": "Sun, 06 Jul 2025 07:15:00 GMT"
+    }
+  ],
+  "ancient_history": [
+    {
+      "title": "Mystery of lost civilization revealed by ancient temple ruin discovery - New Atlas",
+      "pubDate": "Sun, 06 Jul 2025 04:05:22 GMT"
     }
   ]
 }
