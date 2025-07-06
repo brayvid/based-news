@@ -185,10 +185,6 @@
       "pubDate": "Sat, 28 Jun 2025 23:39:00 GMT"
     },
     {
-      "title": "Trump torches Fed, Biden \u2013 calls debanking \u2018very dangerous\u2019 for U.S. economy - InsuranceNewsNet",
-      "pubDate": "Sat, 28 Jun 2025 14:08:14 GMT"
-    },
-    {
       "title": "Trump threatens Tillis with primary challenge - Politico",
       "pubDate": "Sun, 29 Jun 2025 02:25:46 GMT"
     },
@@ -1062,10 +1058,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "S&P 500 and Nasdaq Climb to Record Highs on China Trade Optimism - Nasdaq",
-      "pubDate": "Sat, 28 Jun 2025 14:26:00 GMT"
-    },
     {
       "title": "The record-breaking week in the stock market that could have gone very badly - CNBC",
       "pubDate": "Sat, 28 Jun 2025 20:26:18 GMT"
@@ -2123,6 +2115,10 @@
     {
       "title": "Russia attacks Ukraine with 157 drones and 4 missiles, striking 19 sites - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Sun, 06 Jul 2025 05:31:11 GMT"
+    },
+    {
+      "title": "Russia Says Captured 2 More East Ukraine Settlements in Donetsk and Kharkiv Regions - The Moscow Times",
+      "pubDate": "Sun, 06 Jul 2025 10:53:49 GMT"
     }
   ],
   "us_economy": [
@@ -2352,10 +2348,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
-    },
     {
       "title": "Tesla Has Big Plans in China - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 28 Jun 2025 17:00:00 GMT"
@@ -3527,6 +3519,10 @@
     {
       "title": "Israel sends delegation to Qatar for Gaza ceasefire talks with Hamas - The Hill",
       "pubDate": "Sun, 06 Jul 2025 12:38:00 GMT"
+    },
+    {
+      "title": "Troubled Israel-Hamas Talks Will Bedevil Trump\u2019s Bid to End War - Bloomberg",
+      "pubDate": "Sun, 06 Jul 2025 13:18:18 GMT"
     }
   ],
   "federal_reserve": [
@@ -3913,6 +3909,10 @@
     {
       "title": "Trump celebrates legislative victory with $4.5 trillion tax cut bill - 13wham.com",
       "pubDate": "Fri, 04 Jul 2025 00:49:13 GMT"
+    },
+    {
+      "title": "Trump Promised \u2018No Tax on Tips.\u2019 Then Came the Fine Print. - WSJ",
+      "pubDate": "Sun, 06 Jul 2025 12:00:00 GMT"
     }
   ],
   "tesla": [
@@ -4052,10 +4052,6 @@
     }
   ],
   "technology": [
-    {
-      "title": "Scientists make stunning breakthrough that could solve dangerous issue with modern batteries: 'Offering a built-in safeguard' - The Cool Down",
-      "pubDate": "Sat, 28 Jun 2025 14:30:00 GMT"
-    },
     {
       "title": "OpenAI Loses 4 Key Researchers to Meta - WIRED",
       "pubDate": "Sat, 28 Jun 2025 20:16:10 GMT"
@@ -4200,10 +4196,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "French fusion reactor stuns world by sustaining nuclear reaction for 22 minutes in breakthrough energy milestone - Glass Almanac",
-      "pubDate": "Sat, 28 Jun 2025 14:30:15 GMT"
-    },
     {
       "title": "Google makes first foray into fusion in venture with MIT spinoff Commonwealth Fusion Systems - CNBC",
       "pubDate": "Mon, 30 Jun 2025 13:00:01 GMT"
@@ -4435,6 +4427,10 @@
     {
       "title": "Google undercounts its carbon emissions, report finds - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 20:11:00 GMT"
+    },
+    {
+      "title": "Google Hit With EU Antitrust Lawsuit Over AI Summaries - PCMag",
+      "pubDate": "Sun, 06 Jul 2025 11:44:42 GMT"
     }
   ],
   "microsoft": [
@@ -4521,6 +4517,10 @@
     {
       "title": "NASA Rover Finds Unbelievable Evidence of Life\u2019s Potential on Mars \u2013 A Discovery That Changes Everything - MSN",
       "pubDate": "Sat, 05 Jul 2025 22:07:28 GMT"
+    },
+    {
+      "title": "Why does Mars look purple, yellow and orange in ESA's stunning new satellite image? - Space",
+      "pubDate": "Sun, 06 Jul 2025 14:01:00 GMT"
     }
   ],
   "hacking": [
@@ -4621,6 +4621,18 @@
     {
       "title": "Earth\u2019s Magnetic Field Almost Disappeared - MSN",
       "pubDate": "Sun, 06 Jul 2025 05:51:19 GMT"
+    }
+  ],
+  "animals": [
+    {
+      "title": "A man is injured in a struggle with an escaped lion in southern Turkey - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sun, 06 Jul 2025 11:15:06 GMT"
+    }
+  ],
+  "electric-vehicle_battery": [
+    {
+      "title": "EV Batteries Can Easily Outlast A Typical Gas Car\u2019s Lifespan: Study - MSN",
+      "pubDate": "Sun, 06 Jul 2025 09:45:26 GMT"
     }
   ]
 }
