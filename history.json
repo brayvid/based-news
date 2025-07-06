@@ -75,10 +75,6 @@
   ],
   "iran": [
     {
-      "title": "A week of shifting descriptions of Iran attack spark ongoing questions about extent of damage and goals - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 28 Jun 2025 18:45:08 GMT"
-    },
-    {
       "title": "Iran crackdown deepens with speedy executions and arrests - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 23:37:30 GMT"
     },
@@ -1153,10 +1149,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta's AGI Gambit: Talent, Risk, and the Race for AI Supremacy - AInvest",
-      "pubDate": "Sat, 28 Jun 2025 18:08:27 GMT"
-    },
-    {
       "title": "China catching up fast with US in algorithms: ex-Microsoft AI head - South China Morning Post",
       "pubDate": "Sat, 28 Jun 2025 23:00:13 GMT"
     },
@@ -1793,6 +1785,10 @@
     {
       "title": "Texas floods reveal limitations of disaster forecasting under climate crisis - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 17:12:00 GMT"
+    },
+    {
+      "title": "House Democrat says climate change \u2018obviously a part of\u2019 Texas flooding - The Hill",
+      "pubDate": "Sun, 06 Jul 2025 15:11:00 GMT"
     }
   ],
   "ukraine": [
@@ -2691,6 +2687,10 @@
     {
       "title": "China used embassies to undermine Rafale sales after India-Pakistan clash, French intel says - France 24",
       "pubDate": "Sun, 06 Jul 2025 14:37:31 GMT"
+    },
+    {
+      "title": "TikTok building new version of app ahead of expected US sale, The Information reports - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 16:45:02 GMT"
     }
   ],
   "world_news": [
@@ -3289,6 +3289,10 @@
     {
       "title": "Video Shows Drone Rescuing Stranded Man During Flood in China - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 10:14:18 GMT"
+    },
+    {
+      "title": "As Drones Spot Sharks, New York Beaches Are Shut Down - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 17:31:06 GMT"
     }
   ],
   "hamas": [
@@ -3523,6 +3527,10 @@
     {
       "title": "Israel says it killed Hamas naval commander in Gaza airstrike - The Indian Express",
       "pubDate": "Sun, 06 Jul 2025 16:59:31 GMT"
+    },
+    {
+      "title": "LIVE: Israeli army targets Gaza City with heavy strikes, killing 39 today - Al Jazeera",
+      "pubDate": "Sun, 06 Jul 2025 17:37:30 GMT"
     }
   ],
   "federal_reserve": [
@@ -3653,6 +3661,10 @@
     {
       "title": "Elon Musk says he's formed the 'America Party.' Mark Cuban and Anthony Scaramucci are interested. - Yahoo",
       "pubDate": "Sun, 06 Jul 2025 13:40:25 GMT"
+    },
+    {
+      "title": "Trump Treasury Secretary Scott Bessent knocks Elon Musk's new political party - USA Today",
+      "pubDate": "Sun, 06 Jul 2025 17:12:57 GMT"
     }
   ],
   "cancer": [
@@ -3782,10 +3794,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "GOP is on verge of sweeping victory in bid to gut clean energy economy - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 18:53:26 GMT"
-    },
     {
       "title": "Senate\u2019s tax bill seeks to gut clean energy; Musk calls it \u2018utterly insane\u2019 - The Washington Post",
       "pubDate": "Sun, 29 Jun 2025 02:18:44 GMT"
@@ -4177,6 +4185,10 @@
     {
       "title": "80,000 Bitcoin Moved From Dormant Wallets Sparks Security Fears - AInvest",
       "pubDate": "Sun, 06 Jul 2025 07:16:14 GMT"
+    },
+    {
+      "title": "Investors expect bitcoin to break out to new records in the second half from a consolidation phase - CNBC",
+      "pubDate": "Sun, 06 Jul 2025 13:01:09 GMT"
     }
   ],
   "us_congress": [
@@ -4651,6 +4663,12 @@
     {
       "title": "AOC turns up pressure on Senator Murkowski over Trump bill - MSN",
       "pubDate": "Sun, 06 Jul 2025 08:37:28 GMT"
+    }
+  ],
+  "electric_battery": [
+    {
+      "title": "High-tech company makes key breakthrough that could revolutionize smartphones and EVs: 'A pivotal commercial milestone' - The Cool Down",
+      "pubDate": "Sun, 06 Jul 2025 14:30:00 GMT"
     }
   ]
 }
