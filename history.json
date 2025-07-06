@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Updates: Israel kills 60 in Gaza, medics search for survivors in al-Tuffah - Al Jazeera",
-      "pubDate": "Sat, 28 Jun 2025 20:20:34 GMT"
-    },
-    {
       "title": "At least 66 children dead of malnutrition in Gaza as Israel tightens siege - Al Jazeera",
       "pubDate": "Sun, 29 Jun 2025 01:18:45 GMT"
     },
@@ -160,14 +156,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 20:30:18 GMT"
-    },
-    {
-      "title": "Elon Musk slams Trump's megabill just as Senate prepares to hold critical vote - USA Today",
-      "pubDate": "Sat, 28 Jun 2025 20:40:37 GMT"
-    },
     {
       "title": "Live updates: Senate Republicans seek to advance Donald Trump megabill; Dems dig heels in - The Hill",
       "pubDate": "Sat, 28 Jun 2025 21:48:00 GMT"
@@ -1059,10 +1047,6 @@
   ],
   "financial_markets": [
     {
-      "title": "The record-breaking week in the stock market that could have gone very badly - CNBC",
-      "pubDate": "Sat, 28 Jun 2025 20:26:18 GMT"
-    },
-    {
       "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
       "pubDate": "Sun, 29 Jun 2025 05:11:00 GMT"
     },
@@ -1157,20 +1141,8 @@
       "pubDate": "Sun, 29 Jun 2025 03:25:00 GMT"
     },
     {
-      "title": "Letter: Artificial Intelligence is dangerous for kids - Mitchell Republic",
-      "pubDate": "Sat, 28 Jun 2025 20:14:45 GMT"
-    },
-    {
-      "title": "AI models fake understanding while failing basic tasks - PPC Land",
-      "pubDate": "Sat, 28 Jun 2025 20:46:49 GMT"
-    },
-    {
       "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
       "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
-    },
-    {
-      "title": "Artificial Intelligence in Obstetrics and Gynaecology: Advancing Precision and Personalised Care - Cureus",
-      "pubDate": "Sat, 28 Jun 2025 20:54:36 GMT"
     },
     {
       "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
@@ -1687,6 +1659,10 @@
     {
       "title": "The impact of China\u2019s artificial intelligence development on urban energy efficiency - Nature",
       "pubDate": "Sun, 06 Jul 2025 17:25:37 GMT"
+    },
+    {
+      "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
+      "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
     }
   ],
   "climate": [
@@ -2131,6 +2107,10 @@
     {
       "title": "How Trump Can Help Ukraine Win The War And Make Russia Pay For It - Forbes",
       "pubDate": "Sun, 06 Jul 2025 13:23:35 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Drones attack Russia's Black Sea Fleet; Russian pipelines explode in country's Far East, HUR says - The Kyiv Independent",
+      "pubDate": "Sun, 06 Jul 2025 15:59:42 GMT"
     }
   ],
   "us_economy": [
@@ -3977,12 +3957,6 @@
       "pubDate": "Fri, 04 Jul 2025 13:11:34 GMT"
     }
   ],
-  "nasa": [
-    {
-      "title": "White House Could Jeopardize Mars Missions By Slashing NASA\u2019s Funding - Forbes",
-      "pubDate": "Sat, 28 Jun 2025 20:50:24 GMT"
-    }
-  ],
   "asteroids": [
     {
       "title": "Surprise Discovery In Ryugu Asteroid Is Making Scientists Repurpose Their Theories - Mashable India",
@@ -4057,10 +4031,6 @@
   ],
   "technology": [
     {
-      "title": "OpenAI Loses 4 Key Researchers to Meta - WIRED",
-      "pubDate": "Sat, 28 Jun 2025 20:16:10 GMT"
-    },
-    {
       "title": "CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips - CNBC",
       "pubDate": "Thu, 03 Jul 2025 16:30:06 GMT"
     }
@@ -4106,10 +4076,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Few Bitcoin treasury companies will survive 'death spiral': VC Report - Cointelegraph",
-      "pubDate": "Sat, 28 Jun 2025 20:30:49 GMT"
-    },
     {
       "title": "Bitcoin Surges 10% to $108,000 Amid Geopolitical Tensions - AInvest",
       "pubDate": "Sun, 29 Jun 2025 10:11:18 GMT"
@@ -4185,6 +4151,10 @@
     {
       "title": "Investors expect bitcoin to break out to new records in the second half from a consolidation phase - CNBC",
       "pubDate": "Sun, 06 Jul 2025 13:01:09 GMT"
+    },
+    {
+      "title": "Bitcoin just became a path to homeownership. Here\u2019s how - USA Today",
+      "pubDate": "Sun, 06 Jul 2025 19:02:06 GMT"
     }
   ],
   "us_congress": [
@@ -4251,6 +4221,10 @@
     {
       "title": "Zohran Mamdani Wins N.Y.C. Mayoral Primary in Decisive 12-Point Victory - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 03:46:41 GMT"
+    },
+    {
+      "title": "Multiple shark sightings force closures of NYC beaches over busy holiday weekend - NBC New York",
+      "pubDate": "Sun, 06 Jul 2025 16:10:17 GMT"
     }
   ],
   "nvidia": [
@@ -4577,6 +4551,10 @@
     {
       "title": "BRICS nations condemn Israel over Iran war, in victory for Islamic Republic - The Times of Israel",
       "pubDate": "Sun, 06 Jul 2025 18:47:28 GMT"
+    },
+    {
+      "title": "BRICS summit opens in Brazil, overshadowed by Trump\u2019s tariff policies and Middle East tensions - CNBC",
+      "pubDate": "Sun, 06 Jul 2025 19:21:50 GMT"
     }
   ],
   "oceans": [
@@ -4679,6 +4657,12 @@
     {
       "title": "Israelis, Jewish groups in US plan protests against Gaza war during Netanyahu visit - The Times of Israel",
       "pubDate": "Sun, 06 Jul 2025 16:41:15 GMT"
+    }
+  ],
+  "machine_learning": [
+    {
+      "title": "Interpretable machine learning models for survival prediction in prostate cancer bone metastases - Nature",
+      "pubDate": "Sun, 06 Jul 2025 20:37:59 GMT"
     }
   ]
 }
