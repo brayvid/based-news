@@ -165,10 +165,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Issues Blistering Response After Iran Threatens U.S. - Time Magazine",
-      "pubDate": "Sat, 28 Jun 2025 17:13:22 GMT"
-    },
-    {
       "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 20:30:18 GMT"
     },
@@ -1157,10 +1153,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta hires four more OpenAI researchers, The Information reports - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 17:06:37 GMT"
-    },
-    {
       "title": "Meta's AGI Gambit: Talent, Risk, and the Race for AI Supremacy - AInvest",
       "pubDate": "Sat, 28 Jun 2025 18:08:27 GMT"
     },
@@ -1699,13 +1691,13 @@
     {
       "title": "Artificial intelligence provides exciting opportunities - Daily Inter Lake",
       "pubDate": "Sun, 06 Jul 2025 07:01:39 GMT"
+    },
+    {
+      "title": "The impact of China\u2019s artificial intelligence development on urban energy efficiency - Nature",
+      "pubDate": "Sun, 06 Jul 2025 17:25:37 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "Pakistan slams climate \u2018injustice\u2019 as deadly floods hit country again - Al Jazeera",
-      "pubDate": "Sat, 28 Jun 2025 17:03:45 GMT"
-    },
     {
       "title": "First Signal of Climate Change Became Detectable 130 Years Ago - ScienceAlert",
       "pubDate": "Sun, 29 Jun 2025 19:01:35 GMT"
@@ -1797,16 +1789,16 @@
     {
       "title": "US military cuts climate scientists off from vital satellite sea-ice data - Space",
       "pubDate": "Sun, 06 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Texas floods reveal limitations of disaster forecasting under climate crisis - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 17:12:00 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
-    },
-    {
-      "title": "Ukraine destroys Russian helicopters in latest airfield drone strikes - The Telegraph",
-      "pubDate": "Sat, 28 Jun 2025 17:55:00 GMT"
     },
     {
       "title": "Russia is hitting Ukraine with drones and missiles - Latest news from Azerbaijan",
@@ -2369,10 +2361,6 @@
   ],
   "china": [
     {
-      "title": "Tesla Has Big Plans in China - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sat, 28 Jun 2025 17:00:00 GMT"
-    },
-    {
       "title": "China\u2019s rare earth curbs spur overseas projects, says US developer - South China Morning Post",
       "pubDate": "Sun, 29 Jun 2025 01:30:10 GMT"
     },
@@ -2727,10 +2715,6 @@
     {
       "title": "What's in the Senate\u2019s version of Trump's budget bill \u2014 and who stands to benefit - CNBC",
       "pubDate": "Sat, 28 Jun 2025 19:57:28 GMT"
-    },
-    {
-      "title": "Senate GOP tweaks health care measures in tax bill to win holdouts, please parliamentarian - STAT",
-      "pubDate": "Sat, 28 Jun 2025 17:57:03 GMT"
     },
     {
       "title": "Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline - The Guardian",
@@ -3295,10 +3279,6 @@
   ],
   "drones": [
     {
-      "title": "Exclusive | NYC eyes system using net-firing drones to entangle and take down \u2018hostile\u2019 drones - New York Post",
-      "pubDate": "Sat, 28 Jun 2025 17:06:00 GMT"
-    },
-    {
       "title": "Russia Upgrades Shahed Drones, Adopts New Tactics In Ukraine - Forbes",
       "pubDate": "Sat, 28 Jun 2025 19:11:00 GMT"
     },
@@ -3539,6 +3519,10 @@
     {
       "title": "Gaza ceasefire talks set to resume in Doha as Israeli airstrikes continue in the Strip - CBS News",
       "pubDate": "Sun, 06 Jul 2025 15:06:56 GMT"
+    },
+    {
+      "title": "Israel says it killed Hamas naval commander in Gaza airstrike - The Indian Express",
+      "pubDate": "Sun, 06 Jul 2025 16:59:31 GMT"
     }
   ],
   "federal_reserve": [
@@ -3909,10 +3893,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Bybit Ethereum Heist Propels Record $2.1 Billion in Crypto Stolen by Hackers So Far in 2025 - Decrypt",
-      "pubDate": "Sat, 28 Jun 2025 17:31:02 GMT"
-    },
-    {
       "title": "USDG Stablecoin Expands to Europe - PYMNTS.com",
       "pubDate": "Wed, 02 Jul 2025 09:51:04 GMT"
     },
@@ -4086,10 +4066,6 @@
     }
   ],
   "quantum_computer": [
-    {
-      "title": "Scientists achieve teleportation between quantum computers for the first time ever - Earth.com",
-      "pubDate": "Sat, 28 Jun 2025 17:50:41 GMT"
-    },
     {
       "title": "Quantum computers just beat classical ones \u2014 Exponentially and unconditionally - ScienceDaily",
       "pubDate": "Mon, 30 Jun 2025 06:32:47 GMT"
@@ -4545,6 +4521,10 @@
     {
       "title": "Why does Mars look purple, yellow and orange in ESA's stunning new satellite image? - Space",
       "pubDate": "Sun, 06 Jul 2025 14:01:00 GMT"
+    },
+    {
+      "title": "Scientists study dust devils in southeast Oregon\u2019s Alvord Desert - Oregon Public Broadcasting - OPB",
+      "pubDate": "Sun, 06 Jul 2025 13:04:05 GMT"
     }
   ],
   "hacking": [
@@ -4581,6 +4561,10 @@
     {
       "title": "BRICS Leaders to Call for Data Protections Against Unauthorized AI Use - U.S. News & World Report",
       "pubDate": "Sun, 06 Jul 2025 12:45:00 GMT"
+    },
+    {
+      "title": "BRICS Leaders Condemn Attacks on Iran, Tell Israel to Leave Gaza - Bloomberg.com",
+      "pubDate": "Sun, 06 Jul 2025 17:15:41 GMT"
     }
   ],
   "oceans": [
@@ -4661,6 +4645,12 @@
     {
       "title": "EV Batteries Can Easily Outlast A Typical Gas Car\u2019s Lifespan: Study - MSN",
       "pubDate": "Sun, 06 Jul 2025 09:45:26 GMT"
+    }
+  ],
+  "alexandria_ocasio-cortez": [
+    {
+      "title": "AOC turns up pressure on Senator Murkowski over Trump bill - MSN",
+      "pubDate": "Sun, 06 Jul 2025 08:37:28 GMT"
     }
   ]
 }
