@@ -161,10 +161,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump Suffers Major Legal Blow: 'Grave Constitutional Violations' - Newsweek",
-      "pubDate": "Sat, 28 Jun 2025 09:02:31 GMT"
-    },
-    {
       "title": "Trump denies reports US looking at $30B nuclear deal with Iran: \u2018These people are SICK\u2019 - The Hill",
       "pubDate": "Sat, 28 Jun 2025 12:29:00 GMT"
     },
@@ -1829,10 +1825,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine Destroys Russian Fighter-Bombers in Precision Air Base Attack - Newsweek",
-      "pubDate": "Sat, 28 Jun 2025 09:21:56 GMT"
-    },
-    {
       "title": "Russian drone strike on port city kills married couple, injures 17, Ukraine officials say - CBS News",
       "pubDate": "Sat, 28 Jun 2025 11:12:40 GMT"
     },
@@ -2743,6 +2735,10 @@
     {
       "title": "For the first time, Xi is missing a China-backed BRICS summit. Why? - CNN",
       "pubDate": "Sat, 05 Jul 2025 23:43:00 GMT"
+    },
+    {
+      "title": "China retaliates to EU ban with import restrictions on medical devices - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 08:15:41 GMT"
     }
   ],
   "world_news": [
@@ -2779,10 +2775,6 @@
     {
       "title": "Senate aims to hold initial vote today on Trump's \"big, beautiful bill\" - CBS News",
       "pubDate": "Sat, 28 Jun 2025 11:05:00 GMT"
-    },
-    {
-      "title": "How the Supreme Court\u2019s Injunction Ruling Expands Trump\u2019s Power - The New York Times",
-      "pubDate": "Sat, 28 Jun 2025 09:03:47 GMT"
     },
     {
       "title": "Updated Senate bill slashes wind and solar incentives \u2013 and adds a new tax - The Hill",
@@ -3269,10 +3261,6 @@
   ],
   "recession": [
     {
-      "title": "Is the Rise of Workwear a Recession Indicator? - Inc.com",
-      "pubDate": "Sat, 28 Jun 2025 09:14:23 GMT"
-    },
-    {
       "title": "Blind boxes, baby tees and more rising recession indicators - The University Daily Kansan",
       "pubDate": "Sat, 28 Jun 2025 15:51:00 GMT"
     },
@@ -3599,6 +3587,10 @@
     {
       "title": "Israel sends team to Qatar for hostage talks, but deems Hamas demands \u2018unacceptable\u2019 - The Times of Israel",
       "pubDate": "Sun, 06 Jul 2025 04:52:30 GMT"
+    },
+    {
+      "title": "Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 08:19:25 GMT"
     }
   ],
   "federal_reserve": [
@@ -3755,6 +3747,10 @@
     {
       "title": "Scientists Turn Forgotten Cells Into Powerful Cancer Killers - SciTechDaily",
       "pubDate": "Sun, 06 Jul 2025 03:51:52 GMT"
+    },
+    {
+      "title": "Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways - Nature",
+      "pubDate": "Sat, 05 Jul 2025 23:56:48 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -4245,6 +4241,10 @@
     {
       "title": "Wild New Satoshi Nakamoto Theory Emerges From Massive $8 Billion Bitcoin Transfer Mystery - Forbes",
       "pubDate": "Sat, 05 Jul 2025 11:15:47 GMT"
+    },
+    {
+      "title": "80,000 Bitcoin Moved From Dormant Wallets Sparks Security Fears - AInvest",
+      "pubDate": "Sun, 06 Jul 2025 07:16:14 GMT"
     }
   ],
   "us_congress": [
@@ -4615,6 +4615,10 @@
     {
       "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
       "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
+    },
+    {
+      "title": "Researchers make stunning discovery in deepest ocean trench on Earth: 'Surprising and concerning' - The Cool Down",
+      "pubDate": "Sat, 05 Jul 2025 23:30:00 GMT"
     }
   ],
   "terrorism": [
@@ -4639,6 +4643,18 @@
     {
       "title": "AI tools raise questions about data privacy - The Philadelphia Tribune",
       "pubDate": "Sun, 06 Jul 2025 04:00:00 GMT"
+    }
+  ],
+  "business": [
+    {
+      "title": "American Business Is Being Destroyed by Russia - Kyiv Post",
+      "pubDate": "Sun, 06 Jul 2025 07:18:11 GMT"
+    }
+  ],
+  "new_york_politics": [
+    {
+      "title": "As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 03:29:19 GMT"
     }
   ]
 }
