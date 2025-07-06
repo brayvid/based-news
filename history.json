@@ -165,10 +165,6 @@
       "pubDate": "Sat, 28 Jun 2025 09:02:31 GMT"
     },
     {
-      "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 05:06:29 GMT"
-    },
-    {
       "title": "Trump denies reports US looking at $30B nuclear deal with Iran: \u2018These people are SICK\u2019 - The Hill",
       "pubDate": "Sat, 28 Jun 2025 12:29:00 GMT"
     },
@@ -803,13 +799,13 @@
     {
       "title": "Trump administration completes contentious deportations to South Sudan - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 20:03:45 GMT"
+    },
+    {
+      "title": "Donald Trump\u2019s UFC stunt is more than a circus. It\u2019s authoritarian theatre | Karim Zidan - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 19:06:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Married couple killed in Russian drone strike on Odesa high-rise - The Kyiv Independent",
-      "pubDate": "Sat, 28 Jun 2025 04:59:32 GMT"
-    },
     {
       "title": "Russia revives obsolete T-62 tanks amid equipment shortages, Ukraine's intel claims - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 12:06:08 GMT"
@@ -981,6 +977,10 @@
     {
       "title": "Russian missiles and drones continue to kill after impact, releasing toxic clouds of carcinogens over Ukrainian cities - Euromaidan Press",
       "pubDate": "Sat, 05 Jul 2025 21:00:44 GMT"
+    },
+    {
+      "title": "Russia claims Moscow drone attack, airspace briefly halted amid wider strikes - The Kyiv Independent",
+      "pubDate": "Sun, 06 Jul 2025 02:34:00 GMT"
     }
   ],
   "ai_safety": [
@@ -2381,6 +2381,10 @@
     {
       "title": "US Federal Reserve raises concerns over Trump\u2019s new bill and imposed tariffs - Sky News Australia",
       "pubDate": "Sun, 06 Jul 2025 03:15:03 GMT"
+    },
+    {
+      "title": "Jamie Dimon: The $35 Trillion Dollar Storm Brewing in the US Economy - MSN",
+      "pubDate": "Sun, 06 Jul 2025 02:34:17 GMT"
     }
   ],
   "china": [
@@ -3063,6 +3067,10 @@
     {
       "title": "Elon Musk\u2019s \u2018America\u2019 party could focus on a few pivotal congressional seats - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 23:06:00 GMT"
+    },
+    {
+      "title": "Elon Musk launches the America Party as feud with Trump escalates - Al Jazeera",
+      "pubDate": "Sun, 06 Jul 2025 05:07:10 GMT"
     }
   ],
   "democratic_party": [
@@ -3735,6 +3743,10 @@
     {
       "title": "Space capsule carrying ashes of 166 people \u2014 and cannabis seeds \u2014 lost after crashing into Pacific Ocean - New York Post",
       "pubDate": "Sat, 05 Jul 2025 00:19:00 GMT"
+    },
+    {
+      "title": "Scientists Find the Perfect Place on Mars for Future Human Settlers - MSN",
+      "pubDate": "Sun, 06 Jul 2025 05:37:08 GMT"
     }
   ],
   "health_care": [
@@ -3787,6 +3799,10 @@
     {
       "title": "World economy faces 'pivotal moment', central bank body BIS says - Reuters",
       "pubDate": "Sun, 29 Jun 2025 09:02:56 GMT"
+    },
+    {
+      "title": "BRICS finance ministers make unified proposal for IMF reforms - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 00:22:27 GMT"
     }
   ],
   "renewable_energy": [
@@ -4561,6 +4577,12 @@
     {
       "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
       "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
+    }
+  ],
+  "terrorism": [
+    {
+      "title": "Authorities arrest man for setting fire to Melbourne synagogue, are 'unsure' if linked to terrorism - The Jerusalem Post",
+      "pubDate": "Sun, 06 Jul 2025 02:22:30 GMT"
     }
   ]
 }
