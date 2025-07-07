@@ -145,20 +145,12 @@
   ],
   "donald_trump": [
     {
-      "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
-      "pubDate": "Sun, 29 Jun 2025 04:03:00 GMT"
-    },
-    {
       "title": "Trump slams Israel's prosecutors over Netanyahu corruption trial - Reuters",
       "pubDate": "Sun, 29 Jun 2025 05:24:00 GMT"
     },
     {
       "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
       "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
-    },
-    {
-      "title": "Senate Republicans advance Trump's tax and spending cuts bill after dramatic late-night vote - AP News",
-      "pubDate": "Sun, 29 Jun 2025 04:56:00 GMT"
     },
     {
       "title": "Trump calls for Gaza deal, slams Netanyahu trial - NPR",
@@ -2111,6 +2103,10 @@
     {
       "title": "Ukraine war briefing: Zelenskyy says US, Europe deals will increase drone production - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 23:46:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Russia and Ukraine exchange hundreds of drones - The Independent",
+      "pubDate": "Mon, 07 Jul 2025 03:28:00 GMT"
     }
   ],
   "us_economy": [
@@ -2336,10 +2332,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s humanoid robots generate more soccer excitement than their human counterparts - AP News",
-      "pubDate": "Sun, 29 Jun 2025 04:29:00 GMT"
-    },
     {
       "title": "China warns countries not to sign US trade deals at its expense - South China Morning Post",
       "pubDate": "Sun, 29 Jun 2025 07:06:00 GMT"
@@ -2684,14 +2676,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate Republicans vote to take up Trump\u2019s tax bill, overcoming resistance in their ranks - The Washington Post",
-      "pubDate": "Sun, 29 Jun 2025 04:31:55 GMT"
-    },
-    {
-      "title": "Senate Narrowly Advances Trump\u2019s Tax and Spending Megabill - WSJ",
-      "pubDate": "Sun, 29 Jun 2025 04:57:00 GMT"
-    },
     {
       "title": "Senate debates Trump's major tax, Medicaid, border bill after dramatic vote: Live updates - USA Today",
       "pubDate": "Sun, 29 Jun 2025 11:27:55 GMT"
@@ -3090,10 +3074,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "How Israel-Aligned Hackers Hobbled Iran\u2019s Financial System - WSJ",
-      "pubDate": "Sun, 29 Jun 2025 04:01:00 GMT"
-    },
     {
       "title": "Over 95,000 Mainers affected by Hannaford cybersecurity breach - WMTW",
       "pubDate": "Sun, 29 Jun 2025 22:41:00 GMT"
@@ -3637,6 +3617,10 @@
     {
       "title": "Trump says Musk is \u2018off the rails\u2019 and calls his new political party \u2018ridiculous\u2019 - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 18:24:00 GMT"
+    },
+    {
+      "title": "Elon Musk vows to start a new political party after Trump feud. Here's why that's harder than it sounds. - CBS News",
+      "pubDate": "Mon, 07 Jul 2025 01:22:32 GMT"
     }
   ],
   "cancer": [
@@ -4059,10 +4043,6 @@
   ],
   "republican_party": [
     {
-      "title": "Senate Republicans put megabill on track for likely Monday passage - Politico",
-      "pubDate": "Sun, 29 Jun 2025 04:10:32 GMT"
-    },
-    {
       "title": "Musk slams Trump megabill: \u2018Political suicide for the Republican Party\u2019 - The Hill",
       "pubDate": "Sun, 29 Jun 2025 13:11:00 GMT"
     },
@@ -4244,10 +4224,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia executives cash out $1bn worth of shares - Financial Times",
-      "pubDate": "Sun, 29 Jun 2025 04:00:28 GMT"
-    },
     {
       "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
       "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
@@ -4475,6 +4451,10 @@
     {
       "title": "Another hit piece on Kash Patel? FBI director accused of 'fire-transfer-push to resign' playbook - Times of India",
       "pubDate": "Sun, 06 Jul 2025 12:57:00 GMT"
+    },
+    {
+      "title": "DOJ, FBI review finds no Jeffrey Epstein 'client list,' confirms suicide: Memo - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Mon, 07 Jul 2025 04:20:24 GMT"
     }
   ],
   "science": [
@@ -4571,6 +4551,10 @@
     {
       "title": "BRICS leaders condemn Gaza and Iran attacks, urge global reforms - Reuters",
       "pubDate": "Mon, 07 Jul 2025 00:23:22 GMT"
+    },
+    {
+      "title": "Trump threatens additional tariffs on nations \u2018aligning\u2019 with \u2018anti-American\u2019 BRICS - The Hill",
+      "pubDate": "Mon, 07 Jul 2025 03:18:00 GMT"
     }
   ],
   "oceans": [
@@ -4719,6 +4703,10 @@
     {
       "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
       "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
+    },
+    {
+      "title": "Solar \u2018model village\u2019 illuminates challenges in India - Financial Times",
+      "pubDate": "Sun, 06 Jul 2025 23:30:06 GMT"
     }
   ],
   "large_language_models": [
@@ -4731,6 +4719,18 @@
     {
       "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
       "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
+    }
+  ],
+  "finance": [
+    {
+      "title": "Private credit's trillion-dollar boom is fueling warnings of a hidden financial contagion - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 03:43:00 GMT"
+    }
+  ],
+  "quantum_mechanics": [
+    {
+      "title": "Scientists Measured a Brain-Bending Version of Time That Shouldn\u2019t Exist - MSN",
+      "pubDate": "Sun, 06 Jul 2025 20:59:50 GMT"
     }
   ]
 }
