@@ -71,10 +71,6 @@
   ],
   "iran": [
     {
-      "title": "Iran says 71 killed in Israeli strike on Evin Prison - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 15:16:47 GMT"
-    },
-    {
       "title": "U.N. Inspector Says Iran Could Enrich Nuclear Fuel in \u2018Matter of Months\u2019 - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 20:33:13 GMT"
     },
@@ -140,10 +136,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
-      "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
-    },
     {
       "title": "Trump threatens to cut off New York City funds if Mamdani \u2018doesn\u2019t behave\u2019 - The Guardian",
       "pubDate": "Sun, 29 Jun 2025 17:30:00 GMT"
@@ -987,10 +979,6 @@
   ],
   "financial_markets": [
     {
-      "title": "A 2-month rally pushed the stock market to record highs \u2014 but watch for these risks in July - MarketWatch",
-      "pubDate": "Sun, 29 Jun 2025 16:00:00 GMT"
-    },
-    {
       "title": "What Drove the Stock Market's Record-breaking Week? Don\u2019t Overlook Growing Rate Cut Expectations - TradeAlgo",
       "pubDate": "Sun, 29 Jun 2025 16:43:23 GMT"
     },
@@ -1559,6 +1547,10 @@
     {
       "title": "Scientists create biological \u2018artificial intelligence\u2019 system - Scimex",
       "pubDate": "Mon, 07 Jul 2025 08:32:02 GMT"
+    },
+    {
+      "title": "Will A.I. Replace New Hires or Middle Managers? - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 15:20:54 GMT"
     }
   ],
   "climate": [
@@ -1685,6 +1677,10 @@
     {
       "title": "Texas Disaster Raises Alarms on Climate Readiness - Bloomberg",
       "pubDate": "Mon, 07 Jul 2025 12:22:38 GMT"
+    },
+    {
+      "title": "Scientists Say: Heat dome - Science News Explores",
+      "pubDate": "Mon, 07 Jul 2025 10:32:03 GMT"
     }
   ],
   "ukraine": [
@@ -2244,10 +2240,6 @@
     }
   ],
   "china": [
-    {
-      "title": "One American\u2019s Two-Year Quest to Move His Business Out of China - WSJ",
-      "pubDate": "Sun, 29 Jun 2025 15:30:45 GMT"
-    },
     {
       "title": "China\u2019s Envoy Urges Australia to Resist US Pressure on Military Spending - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 00:04:00 GMT"
@@ -2863,6 +2855,10 @@
     {
       "title": "America Party: Trump calls Musk's new political party plan 'ridiculous' - BBC",
       "pubDate": "Mon, 07 Jul 2025 03:17:15 GMT"
+    },
+    {
+      "title": "Trump to terminate deportation protection for thousands of Hondurans and Nicaraguans in U.S. - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 13:52:51 GMT"
     }
   ],
   "democratic_party": [
@@ -3059,10 +3055,6 @@
     {
       "title": "Fed Stress Test 2024: US Banks Can Withstand Severe Recession, Says Report - NewsX",
       "pubDate": "Sun, 29 Jun 2025 20:29:00 GMT"
-    },
-    {
-      "title": "I\u2019m an Economist: Here\u2019s How Likely a Recession Is for the Second Half of 2025 - MSN",
-      "pubDate": "Sun, 29 Jun 2025 15:21:58 GMT"
     },
     {
       "title": "Why CMOs must protect brand budgets in a recession - Ad Age",
@@ -3697,10 +3689,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "G.O.P. Bill Adds Surprise Tax That Could Cripple Wind and Solar Power - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 16:00:40 GMT"
-    },
-    {
       "title": "Senate Megabill Stuns the Clean Energy Industry With New Tax on Wind and Solar - WSJ",
       "pubDate": "Sun, 29 Jun 2025 20:24:00 GMT"
     },
@@ -4010,10 +3998,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin Rallies 74% in 2025, Stabilizes Near $105,000 Amid Institutional Demand - AInvest",
-      "pubDate": "Sun, 29 Jun 2025 15:11:18 GMT"
-    },
     {
       "title": "Bitcoin Soars, Altcoins Fade in $300 Billion Crypto Shakeout - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 05:00:00 GMT"
@@ -4745,6 +4729,24 @@
     {
       "title": "Researchers make major breakthrough that could change future of solar power: 'Saw excellent results in every case' - The Cool Down",
       "pubDate": "Mon, 07 Jul 2025 10:45:40 GMT"
+    }
+  ],
+  "war_and_unrest": [
+    {
+      "title": "Ukraine's General Staff confirms destruction of ammunition factory near Moscow by Unmanned Systems Forces' drones \u2013 video - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Mon, 07 Jul 2025 14:11:35 GMT"
+    }
+  ],
+  "apple": [
+    {
+      "title": "Apple appeals 500 million euro EU fine over App Store policies - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 13:29:25 GMT"
+    }
+  ],
+  "chemistry": [
+    {
+      "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
+      "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
     }
   ]
 }
