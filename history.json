@@ -71,10 +71,6 @@
   ],
   "iran": [
     {
-      "title": "U.N. Inspector Says Iran Could Enrich Nuclear Fuel in \u2018Matter of Months\u2019 - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 20:33:13 GMT"
-    },
-    {
       "title": "CIA chief says strike on metal conversion site set Iran nuclear program back by years - The Times of Israel",
       "pubDate": "Mon, 30 Jun 2025 03:38:10 GMT"
     },
@@ -703,10 +699,6 @@
   ],
   "russia": [
     {
-      "title": "Russia Fires 60 Missiles, 477 Drones and Decoys - Newser",
-      "pubDate": "Sun, 29 Jun 2025 20:50:00 GMT"
-    },
-    {
       "title": "Russia says NATO spending increase may lead to the collapse of alliance - Reuters",
       "pubDate": "Mon, 30 Jun 2025 07:34:58 GMT"
     },
@@ -869,10 +861,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Deceptive AI: New Models Lie, Manipulate, and Threaten, Raising Safety Alarms - iAfrica.com",
-      "pubDate": "Sun, 29 Jun 2025 20:40:03 GMT"
-    },
-    {
       "title": "S2W, Fino and Signet Partners join forces to enhance AI security in finance - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Mon, 30 Jun 2025 00:47:00 GMT"
     },
@@ -955,6 +943,10 @@
     {
       "title": "Two State AI Laws to Watch - The Information",
       "pubDate": "Mon, 07 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Anthropic proposes new transparency framework for frontier AI models - PPC Land",
+      "pubDate": "Mon, 07 Jul 2025 20:12:16 GMT"
     }
   ],
   "financial_markets": [
@@ -1024,10 +1016,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Inside Chanakya Thunuguntla\u2019s Plan to Rebuild the U.S. Workforce with Artificial Intelligence - USA Today",
-      "pubDate": "Sun, 29 Jun 2025 20:03:47 GMT"
-    },
     {
       "title": "GOP senators reach deal on AI regulation ban - The Hill",
       "pubDate": "Mon, 30 Jun 2025 02:01:00 GMT"
@@ -1523,13 +1511,13 @@
     {
       "title": "Will A.I. Replace New Hires or Middle Managers? - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 15:20:54 GMT"
+    },
+    {
+      "title": "AI could be about to completely change the way we do mathematics - New Scientist",
+      "pubDate": "Mon, 07 Jul 2025 09:00:33 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "Wildfire risks as climate change fuels extreme heatwave in Southern Europe - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 20:19:21 GMT"
-    },
     {
       "title": "Earth's Energy Imbalance Has Doubled in 2 Decades, Study Warns - ScienceAlert",
       "pubDate": "Mon, 30 Jun 2025 02:54:59 GMT"
@@ -1653,16 +1641,16 @@
     {
       "title": "Democrats retreat on climate: \u2018It\u2019s one of the more disappointing turnabouts\u2019 - Politico",
       "pubDate": "Mon, 07 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Floods are getting more dangerous around the country, not just in Texas - NPR",
+      "pubDate": "Mon, 07 Jul 2025 17:30:06 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Massive Russian assault among biggest attacks on Ukraine since start of war - NBC News",
       "pubDate": "Sun, 29 Jun 2025 23:32:54 GMT"
-    },
-    {
-      "title": "Ukraine war: Mariupol residents deny Russian stories about the city - BBC",
-      "pubDate": "Sun, 29 Jun 2025 21:00:30 GMT"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy to pull Kyiv out of convention banning anti-personnel landmines - The Guardian",
@@ -2553,10 +2541,6 @@
       "pubDate": "Sun, 29 Jun 2025 23:13:49 GMT"
     },
     {
-      "title": "Republican senator quits over \u2018big beautiful\u2019 Bill - The Telegraph",
-      "pubDate": "Sun, 29 Jun 2025 20:48:00 GMT"
-    },
-    {
       "title": "US Senate begins debate on Trump\u2019s \u2018Big, Beautiful Bill\u2019 - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 03:08:43 GMT"
     },
@@ -2857,10 +2841,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump won\u2019t let other countries score big \u2018wins\u2019 in trade talks. Both sides could lose. - Politico",
-      "pubDate": "Sun, 29 Jun 2025 20:44:52 GMT"
-    },
-    {
       "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
       "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
     },
@@ -2939,6 +2919,10 @@
     {
       "title": "Trump Announces 25% Tariffs on Japan and South Korea: Live Updates - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 17:58:26 GMT"
+    },
+    {
+      "title": "Trump Revives Trade War, Threatening Steep Aug. 1 Tariffs on Allies - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 16:59:45 GMT"
     }
   ],
   "cybersecurity": [
@@ -3012,10 +2996,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Fed Stress Test 2024: US Banks Can Withstand Severe Recession, Says Report - NewsX",
-      "pubDate": "Sun, 29 Jun 2025 20:29:00 GMT"
-    },
     {
       "title": "Why CMOs must protect brand budgets in a recession - Ad Age",
       "pubDate": "Mon, 30 Jun 2025 09:34:35 GMT"
@@ -3108,10 +3088,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Trump calls for a Gaza ceasefire deal as some Palestinians are skeptical - AP News",
-      "pubDate": "Sun, 29 Jun 2025 20:09:00 GMT"
-    },
     {
       "title": "Israel-Gaza war live: Israeli forces kill 23, Gaza authorities say, amid IDF warning of major offensive in north - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 06:39:00 GMT"
@@ -3359,6 +3335,10 @@
     {
       "title": "Senior Hamas commander says group\u2019s control over Gaza has \u2018completely collapsed\u2019 - The Times of Israel",
       "pubDate": "Mon, 07 Jul 2025 11:44:34 GMT"
+    },
+    {
+      "title": "Experts Break Down The Biggest Roadblocks to the Israel-Hamas Cease-Fire Negotiations - Time Magazine",
+      "pubDate": "Mon, 07 Jul 2025 20:03:54 GMT"
     }
   ],
   "federal_reserve": [
@@ -3653,10 +3633,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Senate Megabill Stuns the Clean Energy Industry With New Tax on Wind and Solar - WSJ",
-      "pubDate": "Sun, 29 Jun 2025 20:24:00 GMT"
-    },
-    {
       "title": "A surprise excise tax sends the clean energy industry into panic - Latitude Media",
       "pubDate": "Mon, 30 Jun 2025 00:47:54 GMT"
     },
@@ -3739,6 +3715,10 @@
     {
       "title": "China to power grid with record renewable energy as AI spurs demand - South China Morning Post",
       "pubDate": "Sun, 06 Jul 2025 11:00:09 GMT"
+    },
+    {
+      "title": "House Budget Bill Slashes Renewable Energy Credits, Sparking Backlash - KSJD",
+      "pubDate": "Mon, 07 Jul 2025 15:01:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -4581,6 +4561,10 @@
     {
       "title": "Mystery of lost civilization revealed by ancient temple ruin discovery - New Atlas",
       "pubDate": "Sun, 06 Jul 2025 04:05:22 GMT"
+    },
+    {
+      "title": "Major Finding on Beloved Egyptian Queen Rewrites History - Men's Journal",
+      "pubDate": "Mon, 07 Jul 2025 17:05:45 GMT"
     }
   ],
   "earth's_magnetic_field": [
