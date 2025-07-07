@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Tens of thousands flee Gaza City after Israel warns of major offensive - The Guardian",
-      "pubDate": "Sun, 29 Jun 2025 17:29:00 GMT"
-    },
-    {
       "title": "Israel\u2019s Attack on Evin Prison Killed 71, Iranian State Media Report - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 06:01:00 GMT"
     },
@@ -67,6 +63,10 @@
     {
       "title": "Israel strikes Gaza as ceasefire talks set to begin - CNN",
       "pubDate": "Sun, 06 Jul 2025 21:45:47 GMT"
+    },
+    {
+      "title": "LIVE: Gaza hospital, shelters, and aid sites attacked by Israel killing 42 - Al Jazeera",
+      "pubDate": "Mon, 07 Jul 2025 10:35:39 GMT"
     }
   ],
   "iran": [
@@ -137,20 +137,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens to cut off New York City funds if Mamdani \u2018doesn\u2019t behave\u2019 - The Guardian",
-      "pubDate": "Sun, 29 Jun 2025 17:30:00 GMT"
-    },
-    {
-      "title": "Musk Reignites Feud, Labels Trump Bill 'Insane, Destructive' - Time Magazine",
-      "pubDate": "Sun, 29 Jun 2025 17:22:43 GMT"
-    },
-    {
       "title": "Republican Sen. Thom Tillis will not seek reelection next year after Trump attacks - NPR",
       "pubDate": "Sun, 29 Jun 2025 19:12:00 GMT"
-    },
-    {
-      "title": "Trump reiterates Iran nuclear talking points despite swirling questions - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 17:39:50 GMT"
     },
     {
       "title": "It took 16 hours to read Trump\u2019s 940-page, foot-high bill aloud. Now the long debate begins - AP News",
@@ -2947,6 +2935,10 @@
     {
       "title": "Trump announces 25% tariffs on Japan, South Korea in first U.S. trade letters - CNBC",
       "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
+    },
+    {
+      "title": "Trump says 25% tariffs coming for Japan and South Korea as trade war escalates again - USA Today",
+      "pubDate": "Mon, 07 Jul 2025 16:46:21 GMT"
     }
   ],
   "cybersecurity": [
@@ -3757,6 +3749,10 @@
     {
       "title": "Secret Service Seizes $225 Million in Cryptocurrency Fraud - AInvest",
       "pubDate": "Sun, 06 Jul 2025 00:51:37 GMT"
+    },
+    {
+      "title": "North Korean IT scam stole from business in Atlanta and elsewhere, feds say - AJC.com",
+      "pubDate": "Mon, 07 Jul 2025 15:13:11 GMT"
     }
   ],
   "taxes": [
@@ -4135,6 +4131,10 @@
     {
       "title": "Scientists Detect Deep, Rhythmic Pulse Coming From Inside the Earth - Futurism",
       "pubDate": "Sun, 29 Jun 2025 19:00:30 GMT"
+    },
+    {
+      "title": "Scientists unlock secrets of oldest rocks on Earth at Canada\u2019s Nuvvuagittuq Greenstone Belt - The Independent",
+      "pubDate": "Mon, 07 Jul 2025 07:50:00 GMT"
     }
   ],
   "hurricanes": [
@@ -4171,6 +4171,10 @@
     {
       "title": "Trump\u2019s NOAA budget proposes eliminating funding for six Colorado climate and science labs - Boulder Daily Camera",
       "pubDate": "Wed, 02 Jul 2025 17:58:09 GMT"
+    },
+    {
+      "title": "A remote research station conducts critical science far from civilization - The Washington Post",
+      "pubDate": "Mon, 07 Jul 2025 17:00:15 GMT"
     }
   ],
   "openai": [
@@ -4575,6 +4579,10 @@
     {
       "title": "EV battery maker\u2019s profits more than double on back of Biden-era tax break - Financial Times",
       "pubDate": "Mon, 07 Jul 2025 05:54:50 GMT"
+    },
+    {
+      "title": "Officials announce groundbreaking policy to address major issue with electric vehicles: 'Taking significant steps' - The Cool Down",
+      "pubDate": "Mon, 07 Jul 2025 11:15:52 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -4733,6 +4741,12 @@
     {
       "title": "Scientists hear the universe hum \u2014 Strange cosmic waves echo through space - ecoportal.net",
       "pubDate": "Mon, 07 Jul 2025 13:50:48 GMT"
+    }
+  ],
+  "analytics": [
+    {
+      "title": "GoodData Launches AI for Self-Hosted Analytics: Powerful, Proven, Private - USA Today",
+      "pubDate": "Mon, 07 Jul 2025 13:13:38 GMT"
     }
   ]
 }
