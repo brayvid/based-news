@@ -67,6 +67,10 @@
     {
       "title": "Israel attacks three Yemeni ports and power plant, Israeli military says - Reuters",
       "pubDate": "Sun, 06 Jul 2025 23:37:16 GMT"
+    },
+    {
+      "title": "Israel strikes Gaza as ceasefire talks set to begin - CNN",
+      "pubDate": "Sun, 06 Jul 2025 21:45:47 GMT"
     }
   ],
   "iran": [
@@ -144,10 +148,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
-      "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
-    },
     {
       "title": "Trump calls for Gaza deal, slams Netanyahu trial - NPR",
       "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
@@ -763,10 +763,6 @@
       "pubDate": "Sun, 29 Jun 2025 11:54:23 GMT"
     },
     {
-      "title": "Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea - The Guardian",
-      "pubDate": "Sun, 29 Jun 2025 06:48:00 GMT"
-    },
-    {
       "title": "Russia Fires 60 Missiles, 477 Drones and Decoys - Newser",
       "pubDate": "Sun, 29 Jun 2025 20:50:00 GMT"
     },
@@ -1092,10 +1088,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
-      "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
-    },
     {
       "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
       "pubDate": "Sun, 29 Jun 2025 09:00:00 GMT"
@@ -1749,10 +1741,6 @@
   ],
   "ukraine": [
     {
-      "title": "At least six wounded in large-scale Russian air attack on Ukraine, Ukrainian authorities say - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 06:37:00 GMT"
-    },
-    {
       "title": "Russia launches biggest aerial attack on Ukraine since the start of the war - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sun, 29 Jun 2025 07:15:44 GMT"
     },
@@ -2095,6 +2083,10 @@
     {
       "title": "Ukraine war latest: Russia and Ukraine exchange hundreds of drones - The Independent",
       "pubDate": "Mon, 07 Jul 2025 03:28:00 GMT"
+    },
+    {
+      "title": "Facing battlefield setbacks, Ukraine withdraws from mine ban treaty - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 06:02:00 GMT"
     }
   ],
   "us_economy": [
@@ -2647,6 +2639,10 @@
     {
       "title": "China reroutes exports via south-east Asia in bid to dodge Trump\u2019s tariffs - Financial Times",
       "pubDate": "Sun, 06 Jul 2025 20:00:06 GMT"
+    },
+    {
+      "title": "Can Taiwan Really Disconnect Its Economy From China? - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 04:01:12 GMT"
     }
   ],
   "world_news": [
@@ -3749,6 +3745,10 @@
     {
       "title": "A new D.C. hospital grapples with too many patients and too few nurses - The Washington Post",
       "pubDate": "Sun, 06 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Obesity drug prices are dropping, but getting a steady supply remains a challenge - The Washington Post",
+      "pubDate": "Mon, 07 Jul 2025 05:24:25 GMT"
     }
   ],
   "world_economy": [
@@ -4155,6 +4155,10 @@
     {
       "title": "Bitcoin Holds Above $100,000 as Institutional Confidence and Regulatory Clarity Drive Crypto Surge - AInvest",
       "pubDate": "Sun, 06 Jul 2025 22:25:53 GMT"
+    },
+    {
+      "title": "Elon Musk confirms 'America Party' will embrace Bitcoin because fiat is hopeless - Crypto Briefing",
+      "pubDate": "Mon, 07 Jul 2025 01:36:53 GMT"
     }
   ],
   "us_congress": [
@@ -4551,6 +4555,10 @@
     {
       "title": "Trump threatens additional tariffs on nations \u2018aligning\u2019 with \u2018anti-American\u2019 BRICS - The Hill",
       "pubDate": "Mon, 07 Jul 2025 03:18:00 GMT"
+    },
+    {
+      "title": "Trump threatens extra 10% tariffs on BRICS as leaders meet in Brazil - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 04:37:00 GMT"
     }
   ],
   "oceans": [
@@ -4737,6 +4745,12 @@
     {
       "title": "Scientists aid WHO loneliness response - China Daily",
       "pubDate": "Mon, 07 Jul 2025 02:07:00 GMT"
+    }
+  ],
+  "wind_power": [
+    {
+      "title": "Researchers make groundbreaking discovery with potential to change future of wind energy: 'Could play an invaluable role' - The Cool Down",
+      "pubDate": "Mon, 07 Jul 2025 06:30:00 GMT"
     }
   ]
 }
