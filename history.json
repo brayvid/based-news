@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "At least 66 children dead of malnutrition in Gaza as Israel tightens siege - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 01:18:45 GMT"
-    },
-    {
       "title": "Tens of thousands flee Gaza City after Israel warns of major offensive - The Guardian",
       "pubDate": "Sun, 29 Jun 2025 17:29:00 GMT"
     },
@@ -67,13 +63,13 @@
     {
       "title": "LIVE: Israeli army continues bombing Gaza amid reports of ceasefire talks - Al Jazeera",
       "pubDate": "Sun, 06 Jul 2025 13:41:15 GMT"
+    },
+    {
+      "title": "Israel attacks three Yemeni ports and power plant, Israeli military says - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 23:37:16 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Iran will likely be able to produce enriched uranium \u2018in a matter of months\u2019, IAEA chief says - The Guardian",
-      "pubDate": "Sun, 29 Jun 2025 01:06:00 GMT"
-    },
     {
       "title": "Iran could begin enriching uranium again in months, says UN nuclear watchdog chief - Sky News",
       "pubDate": "Sun, 29 Jun 2025 12:49:18 GMT"
@@ -779,6 +775,10 @@
     {
       "title": "Trump hits out at Musk over plan to form political party - BBC",
       "pubDate": "Mon, 07 Jul 2025 00:08:34 GMT"
+    },
+    {
+      "title": "Trump calls Musk's formation of new party \"ridiculous\" and criticizes his own NASA pick - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 23:58:45 GMT"
     }
   ],
   "russia": [
@@ -1053,10 +1053,6 @@
     {
       "title": "Ethereum Price Poised to Surge 100% to $10,000 on Institutional Buying - AInvest",
       "pubDate": "Sun, 29 Jun 2025 05:41:04 GMT"
-    },
-    {
-      "title": "The Stock-Market Rally Is Moving Beyond Big Tech and Investors Are Thrilled - WSJ",
-      "pubDate": "Sun, 29 Jun 2025 01:00:00 GMT"
     },
     {
       "title": "A 2-month rally pushed the stock market to record highs \u2014 but watch for these risks in July - MarketWatch",
@@ -1659,6 +1655,10 @@
     {
       "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
       "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
+    },
+    {
+      "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
+      "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
     }
   ],
   "climate": [
@@ -2352,10 +2352,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s rare earth curbs spur overseas projects, says US developer - South China Morning Post",
-      "pubDate": "Sun, 29 Jun 2025 01:30:10 GMT"
-    },
     {
       "title": "China\u2019s humanoid robots generate more soccer excitement than their human counterparts - AP News",
       "pubDate": "Sun, 29 Jun 2025 04:29:00 GMT"
@@ -4571,6 +4567,10 @@
     {
       "title": "BRICS summit opens in Brazil, overshadowed by Trump\u2019s tariff policies and Middle East tensions - CNBC",
       "pubDate": "Sun, 06 Jul 2025 19:21:50 GMT"
+    },
+    {
+      "title": "Brics leaders condemn strikes on Iran and tariffs, but avoid direct mention of US, Israel - South China Morning Post",
+      "pubDate": "Sun, 06 Jul 2025 17:02:36 GMT"
     }
   ],
   "oceans": [
@@ -4615,6 +4615,10 @@
     {
       "title": "American Business Is Being Destroyed by Russia - Kyiv Post",
       "pubDate": "Sun, 06 Jul 2025 07:18:11 GMT"
+    },
+    {
+      "title": "How Trump's tariff chaos is reshaping Asia's businesses - BBC",
+      "pubDate": "Sun, 06 Jul 2025 23:07:22 GMT"
     }
   ],
   "new_york_politics": [
@@ -4705,6 +4709,12 @@
     {
       "title": "NASA spots a new comet flying in from a distant star system - LAist",
       "pubDate": "Sun, 06 Jul 2025 16:20:00 GMT"
+    }
+  ],
+  "alternative_energy": [
+    {
+      "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
+      "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
     }
   ]
 }
