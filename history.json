@@ -145,10 +145,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens Tillis with primary challenge - Politico",
-      "pubDate": "Sun, 29 Jun 2025 02:25:46 GMT"
-    },
-    {
       "title": "Trump's 'big, beautiful bill' clears key Senate hurdle after high drama - CNBC",
       "pubDate": "Sun, 29 Jun 2025 03:22:00 GMT"
     },
@@ -2361,10 +2357,6 @@
       "pubDate": "Sun, 29 Jun 2025 07:06:00 GMT"
     },
     {
-      "title": "China Reiterates Opposition to Any Trade Deals at Its Expense - Bloomberg.com",
-      "pubDate": "Sun, 29 Jun 2025 02:14:00 GMT"
-    },
-    {
       "title": "China's suppressed crypto demand is spilling over into these stocks - CNBC",
       "pubDate": "Sun, 29 Jun 2025 11:16:12 GMT"
     },
@@ -3103,6 +3095,10 @@
     {
       "title": "Trump confirms \u2018letter or a deal\u2019 by July 9. Bessent says tariffs will \u2018boomerang\u2019 to April levels if no deals by August 1 - CNN",
       "pubDate": "Sun, 06 Jul 2025 22:18:00 GMT"
+    },
+    {
+      "title": "Trump and US commerce secretary say tariffs are delayed until 1 August - The Guardian",
+      "pubDate": "Mon, 07 Jul 2025 00:30:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -3523,6 +3519,10 @@
     {
       "title": "IDF says it killed Hamas commander in cafe strike that killed dozens of civilians - BBC",
       "pubDate": "Sun, 06 Jul 2025 20:13:28 GMT"
+    },
+    {
+      "title": "Israel's Netanyahu says he believes Trump can help seal ceasefire deal - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 23:58:26 GMT"
     }
   ],
   "federal_reserve": [
@@ -3599,10 +3599,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Musk renews attacks on Trump's \"big, beautiful bill,\" says it will \"destroy million of jobs\" - CBS News",
-      "pubDate": "Sun, 29 Jun 2025 02:05:51 GMT"
-    },
-    {
       "title": "Musk Lieutenants Depart Tesla and Leave Leadership Void - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 11:02:27 GMT"
     },
@@ -3649,6 +3645,10 @@
     {
       "title": "Musk Announces New \u2018America Party Is Formed,\u2019 Cementing Split From Trump and Republicans - Time Magazine",
       "pubDate": "Sun, 06 Jul 2025 15:25:34 GMT"
+    },
+    {
+      "title": "Trump says Musk is \u2018off the rails\u2019 and calls his new political party \u2018ridiculous\u2019 - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 18:24:00 GMT"
     }
   ],
   "cancer": [
@@ -3769,6 +3769,10 @@
     {
       "title": "\u2018Tears My Heart to Pieces\u2019: North Carolina Braces for Medicaid Cuts - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 09:01:05 GMT"
+    },
+    {
+      "title": "A new D.C. hospital grapples with too many patients and too few nurses - The Washington Post",
+      "pubDate": "Sun, 06 Jul 2025 16:00:00 GMT"
     }
   ],
   "world_economy": [
@@ -3782,10 +3786,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Senate\u2019s tax bill seeks to gut clean energy; Musk calls it \u2018utterly insane\u2019 - The Washington Post",
-      "pubDate": "Sun, 29 Jun 2025 02:18:44 GMT"
-    },
     {
       "title": "G.O.P. Bill Adds Surprise Tax That Could Cripple Wind and Solar Power - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 16:00:40 GMT"
@@ -4571,6 +4571,10 @@
     {
       "title": "Brics leaders condemn strikes on Iran and tariffs, but avoid direct mention of US, Israel - South China Morning Post",
       "pubDate": "Sun, 06 Jul 2025 17:02:36 GMT"
+    },
+    {
+      "title": "BRICS leaders condemn Gaza and Iran attacks, urge global reforms - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 00:23:22 GMT"
     }
   ],
   "oceans": [
@@ -4697,6 +4701,10 @@
     {
       "title": "Antarctica Faces Tense Future as U.S. Science Budget Shrinks - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 18:07:39 GMT"
+    },
+    {
+      "title": "NASA has half-baked risk management for cybersecurity, scathing report finds - The Mandarin",
+      "pubDate": "Sun, 06 Jul 2025 23:31:45 GMT"
     }
   ],
   "ethereum": [
@@ -4715,6 +4723,12 @@
     {
       "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
       "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
+    }
+  ],
+  "large_language_models": [
+    {
+      "title": "OpenAI says GPT-5 will unify breakthroughs from different models - BleepingComputer",
+      "pubDate": "Mon, 07 Jul 2025 00:22:40 GMT"
     }
   ]
 }
