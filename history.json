@@ -145,10 +145,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump slams Israel's prosecutors over Netanyahu corruption trial - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 05:24:00 GMT"
-    },
-    {
       "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
       "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
     },
@@ -1023,14 +1019,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 05:11:00 GMT"
-    },
-    {
-      "title": "Ethereum Price Poised to Surge 100% to $10,000 on Institutional Buying - AInvest",
-      "pubDate": "Sun, 29 Jun 2025 05:41:04 GMT"
-    },
-    {
       "title": "A 2-month rally pushed the stock market to record highs \u2014 but watch for these risks in July - MarketWatch",
       "pubDate": "Sun, 29 Jun 2025 16:00:00 GMT"
     },
@@ -1631,6 +1619,10 @@
     {
       "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
       "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
+    },
+    {
+      "title": "The new battlefield: AI-based warfare in the \u2018agentic\u2019 age, multi-domain ops and energy as a big constraining factor - The Indian Express",
+      "pubDate": "Mon, 07 Jul 2025 03:38:00 GMT"
     }
   ],
   "climate": [
@@ -1756,10 +1748,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia is hitting Ukraine with drones and missiles - Latest news from Azerbaijan",
-      "pubDate": "Sun, 29 Jun 2025 05:46:54 GMT"
-    },
     {
       "title": "At least six wounded in large-scale Russian air attack on Ukraine, Ukrainian authorities say - Reuters",
       "pubDate": "Sun, 29 Jun 2025 06:37:00 GMT"
@@ -3071,6 +3059,10 @@
     {
       "title": "Trump and US commerce secretary say tariffs are delayed until 1 August - The Guardian",
       "pubDate": "Mon, 07 Jul 2025 00:30:00 GMT"
+    },
+    {
+      "title": "Trump says US nears trade deals as tariff effective date delayed - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 02:46:49 GMT"
     }
   ],
   "cybersecurity": [
@@ -3240,10 +3232,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "LIVE: Israel kills 60 in Gaza, claims senior Hamas official among dead - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 05:37:45 GMT"
-    },
     {
       "title": "Israel orders evacuations in northern Gaza as Trump calls for war to end - Reuters",
       "pubDate": "Sun, 29 Jun 2025 08:21:05 GMT"
@@ -3491,6 +3479,10 @@
     {
       "title": "First round of Israel and Hamas ceasefire talks ends without breakthrough - BBC",
       "pubDate": "Mon, 07 Jul 2025 00:12:53 GMT"
+    },
+    {
+      "title": "Netanyahu to Visit White House as Peace Talks With Hamas Continue - Newsweek",
+      "pubDate": "Sun, 06 Jul 2025 21:25:50 GMT"
     }
   ],
   "federal_reserve": [
@@ -3563,6 +3555,10 @@
     {
       "title": "Over 1,000 earthquakes and a viral prophecy: What\u2019s really happening in Japan? - The Economic Times",
       "pubDate": "Sun, 06 Jul 2025 08:09:25 GMT"
+    },
+    {
+      "title": "Dozens leave Japan islands after 1,600 earthquakes - Al Arabiya English",
+      "pubDate": "Mon, 07 Jul 2025 04:47:00 GMT"
     }
   ],
   "elon_musk": [
@@ -3621,6 +3617,10 @@
     {
       "title": "Elon Musk vows to start a new political party after Trump feud. Here's why that's harder than it sounds. - CBS News",
       "pubDate": "Mon, 07 Jul 2025 01:22:32 GMT"
+    },
+    {
+      "title": "Elon Musk says he's formed the 'America Party.' Trump says he's gone 'off the rails.' - Business Insider",
+      "pubDate": "Mon, 07 Jul 2025 00:17:00 GMT"
     }
   ],
   "cancer": [
@@ -4193,10 +4193,6 @@
   ],
   "us_senate": [
     {
-      "title": "Senate ekes out late-night win on Trump's \"big, beautiful bill\" - Axios",
-      "pubDate": "Sun, 29 Jun 2025 05:25:54 GMT"
-    },
-    {
       "title": "Senate GOP tax bill includes largest cut to U.S. safety net in decades - The Washington Post",
       "pubDate": "Sun, 29 Jun 2025 16:41:33 GMT"
     },
@@ -4697,6 +4693,10 @@
     {
       "title": "NASA spots a new comet flying in from a distant star system - LAist",
       "pubDate": "Sun, 06 Jul 2025 16:20:00 GMT"
+    },
+    {
+      "title": "Proposed NASA budget cuts will shutter Colorado missions, could impact state aerospace economy - KOAA News 5",
+      "pubDate": "Mon, 07 Jul 2025 04:31:35 GMT"
     }
   ],
   "alternative_energy": [
@@ -4731,6 +4731,12 @@
     {
       "title": "Scientists Measured a Brain-Bending Version of Time That Shouldn\u2019t Exist - MSN",
       "pubDate": "Sun, 06 Jul 2025 20:59:50 GMT"
+    }
+  ],
+  "global_health": [
+    {
+      "title": "Scientists aid WHO loneliness response - China Daily",
+      "pubDate": "Mon, 07 Jul 2025 02:07:00 GMT"
     }
   ]
 }
