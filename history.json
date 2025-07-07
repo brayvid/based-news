@@ -137,10 +137,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Republican Sen. Thom Tillis will not seek reelection next year after Trump attacks - NPR",
-      "pubDate": "Sun, 29 Jun 2025 19:12:00 GMT"
-    },
-    {
       "title": "It took 16 hours to read Trump\u2019s 940-page, foot-high bill aloud. Now the long debate begins - AP News",
       "pubDate": "Sun, 29 Jun 2025 21:50:00 GMT"
     },
@@ -2557,10 +2553,6 @@
       "pubDate": "Sun, 29 Jun 2025 23:13:49 GMT"
     },
     {
-      "title": "Chris Murphy calls birthright citizenship ruling \u2018dangerous\u2019 - Politico",
-      "pubDate": "Sun, 29 Jun 2025 19:58:34 GMT"
-    },
-    {
       "title": "Republican senator quits over \u2018big beautiful\u2019 Bill - The Telegraph",
       "pubDate": "Sun, 29 Jun 2025 20:48:00 GMT"
     },
@@ -2811,6 +2803,10 @@
     {
       "title": "Trump to terminate deportation protection for thousands of Hondurans and Nicaraguans in U.S. - Reuters",
       "pubDate": "Mon, 07 Jul 2025 13:52:51 GMT"
+    },
+    {
+      "title": "Trump announces steep tariffs on five more countries starting Aug. 1 - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
     }
   ],
   "democratic_party": [
@@ -4069,6 +4065,10 @@
     {
       "title": "Bitcoin's Price Stagnation Drives Bearish Sentiment in Long-Term Options Market - AInvest",
       "pubDate": "Mon, 07 Jul 2025 11:34:56 GMT"
+    },
+    {
+      "title": "Bitcoin Price Rises. Why Trump, Fed Rates, ETFs May Be Driving Cryptos. - Barron's",
+      "pubDate": "Mon, 07 Jul 2025 08:11:00 GMT"
     }
   ],
   "us_congress": [
@@ -4235,6 +4235,10 @@
     {
       "title": "Millions are at risk under federal healthcare cuts. California must step up | Opinion - Sacramento Bee",
       "pubDate": "Tue, 01 Jul 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Doctors and public health organizations sue Kennedy over vaccine policy changes - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Mon, 07 Jul 2025 18:00:15 GMT"
     }
   ],
   "blockchain": [
@@ -4271,6 +4275,10 @@
     {
       "title": "Senate passes Republicans\u2019 domestic policy bill with $150B extra for Pentagon - Stars and Stripes",
       "pubDate": "Tue, 01 Jul 2025 16:52:35 GMT"
+    },
+    {
+      "title": "Pentagon cuts off key air defense for Ukraine as Russian drone attacks skyrocket - USA Today",
+      "pubDate": "Mon, 07 Jul 2025 19:32:15 GMT"
     }
   ],
   "google": [
@@ -4371,6 +4379,10 @@
     {
       "title": "A Big, Beautiful Disaster For America - InsideEVs",
       "pubDate": "Sat, 05 Jul 2025 10:19:37 GMT"
+    },
+    {
+      "title": "Company unveils head-turning EV battery that can fully charge in under 20 seconds \u2014 here's how it could impact the future of cars - The Cool Down",
+      "pubDate": "Mon, 07 Jul 2025 09:00:00 GMT"
     }
   ],
   "united_states": [
@@ -4559,6 +4571,10 @@
     {
       "title": "Former Google CEO warns \u2018AI could surpass human intelligence in next few years\u2019; what is artificial super - Times of India",
       "pubDate": "Mon, 07 Jul 2025 12:25:00 GMT"
+    },
+    {
+      "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
+      "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
     }
   ],
   "ancient_history": [
@@ -4759,6 +4775,12 @@
     {
       "title": "GoodData Launches AI for Self-Hosted Analytics: Powerful, Proven, Private - USA Today",
       "pubDate": "Mon, 07 Jul 2025 13:13:38 GMT"
+    }
+  ],
+  "cloud_computing": [
+    {
+      "title": "CoreWeave joins data centre race: Nvidia-backed cloud computing firm set to buy Core Scientific for $9 billion - Mint",
+      "pubDate": "Mon, 07 Jul 2025 16:27:55 GMT"
     }
   ]
 }
