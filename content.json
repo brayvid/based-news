@@ -1,62 +1,72 @@
 {
-  "Hamas": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Netanyahu to meet Trump at White House as Israel, Hamas discuss ceasefire - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDdXUS1iTVhRM3ktOWQxODJpTF9fQkpzdlJWaFVTMFlKY0w3TDlReWZCd1VZY3ZZTGZVVjFONjVpRU1ndEhoRkpLSWoyeEpfdGZMQTBLRm9GYTBzamx2ZjBGX1N6azFRYm1MZWF0TGpSb3lvQkh3N2c3UWRtN29Xc1d6amQwS0N0RGttX3FmX0VMZm1kUXJkZjhtMWxsVVc2czhFbktmdWhtellnTmFKYXRPOWZjdGF5?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 10:36:00 GMT"
+        "title": "AI Safe Systems and Technologies: Ensuring responsible AI - Capgemini",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3poMmtqWFd4QlFYUlRxanFib3dKRFYtNS1CaHZCejRSblIwRklRRlU4eU5ESndOMk1ncDlQNm5fOVVkOWtycE92RURRLVdoc0hMa2RBVHE1TV8wTHhOR3g3b0laMVRZWXNwa1h0b2JGTVpsTGZYakROdjZid2c3UFpEUXQxWnJ3T3VKbVBGT29xb3Btc2o2Z180MVRpbGdjRlRURFdscnFaNV9K?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 11:49:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
   },
-  "Tesla": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Tesla shares plunge again as politics, China weigh on Musk - Axios",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZaGhZU1F1Sk9YUzZnRFpLUTBNUTlCaVV2aUJoY2s1UW5Pa0NwVzZlTW1KaDZVdDhGRGRJOVVSLXlGUTRwUWUzUkdseTg2VnpXTHR3cUl2enBaVU1RSlNla1oxSEg3QQ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 10:29:54 GMT"
+        "title": "Tesla CEO Elon Musk Confirms Wild Rumors As $37 Trillion \u2018Emergency\u2019 Predicted To Blow Up Bitcoin Price - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNUNNYzE1d05SS2ZXNXMxOEFNVVRuNFY4dTNSNU5QcDdTTUMxaURfMnJINjVLUkhXM1V3WnBjU2RvcTJfRE40OXdrWDF0dVVyRmRWc3k2YWVTTWlZY1RYbUsza25ibU9WcHM5LWJzU2dtdmFOUVdDSHdHVWp2MnQ3a3U3M0Y0VmMtQTc0NVJYSDhlZldjekkwYXlZR3psZUhEd0llMzhqc24zd01QVm4xNEZvNzZFM0NtQlN1bF9UWW1lRlpyNXRldEpyb3lobGV4S3lTRmRNa3NRekp6SWNTUWtVcHhwZzFFQkVHTC1GaXc3ZjVrdjFRSTVucDJOdHBvMlBMQkpfNHg?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 10:25:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Quantum Computing Threat: 25% of Bitcoin (BTC) at Risk as Polyhedra (ZKJ) Crashes 80% After Liquidity Attack - Blockchain News",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUnpGYVpHeWR0b0RWeGVpaU5NSHVDVWVaYWNVcGQxd2lzNzlpRkotZHNraEtOeThBaG9LNFRuekdOV0RYc0VDbHBzZk0yMmZRaTRBVklfMFBUY05iVE1lTW1KV1EyS0hQd2piQUp3Y2ZpZGw4U1VtV3dUd2t5X3VFM2FzaVo3S0lqTnpudm1Uc0I0VWxYeFI0SEVtaUw4Rl9PZE5wakFpSjY2RjVaVEdaV1lPaHJVdXpfVllZREM2bHNPZ1MwR0E5TFgxdWNBS3Na?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 10:12:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
+  },
+  "Climate": {
+    "articles": [
+      {
+        "title": "Wildfires erupt across Mediterranean as heatwave worsens - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjA4ajdLYmtiV2VMSUJSdkNUQ2pPRThMclBhU1ZnQ1NZZ1JLNDhrcnNFdFl4WHJCWm01amV2MXJrM2JXcnY5TmJ2M0h6RUR0SUpzejhyYlRVU2pJZ0VJODBzOGpzSU9KSHRoVUhHVE1mZjFER3NTdjJyOXY2TmRkNllxWkhWSC1aVzdmTlhLUFZzMXpEZTVuTHk5d1fSAaIBQVVfeXFMTldBdnFQR2pjaG5aa2pMWjBPcGNNQjZ0OVNRSjVFdHMzT0xXeUpUOVY5d001ekpsYVRZaHFRX0U5VVhESjFpT2VjQ3RjOHBXVDFPTWJnZG5MRU9QazBhdUJvSlRoY1NUWmtNdnpQcWJuNU1TZVVKMVRxNURWLU82UnpNVXU1blJfWkhyMW9hV3V0QkJEN0N4WE5YQzVPTmRsN1FB?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 09:55:38 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "1 dead, dozens injured as Russia launches 101 drones at Ukraine overnight, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWttQjJMc0tJZWRjSlU5eTRqNG14Y19Nbm4tcE14Mmt1b0RBenJoUmhLQVZ3RFdYOVJjbUFIY0NiS3BZTXMtbzFzOTVaeFRoVjMyZkpJVHRqc0pNOGxKRXA0anFYZ2NyYW00eGU4a3MxX3lqWm5OV2hHUnRWUTNxQzhnZDd3SkVEVG5CanhKTjdmbTRqT2VWcE85VERBOTBSRUhaaEM2WdIBrAFBVV95cUxQcDJad3h2Yzh6Z2JaSWVvbllxOHBtbVpOQ1E3TGgtWnpxU1N1S01jbnBqZDFCT0R5ZUk1ZnV3NHBJNDNrVDljZDRfNGFFR29zS1J6MUQyWFllaVFCaUpNaUphYzV4Z3lBRWdSbnJuME5mdThlVHlwWGg1bFhHQk1naTZwTFgxeTRWcUo2d0hESDBjM3ZhalRDVV9iUENtd0VqRTd1VXNlZDlLZHM4?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 10:01:39 GMT"
+        "title": "Ukraine Turns to Fishing Nets to Catch Russian Drones - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmozdnNCZ1Bac2xsQ3gtMGREUE9LRjlva1J3TzBYeFpRRjBtYlllU2U2b1l2LXRzMmNrdDdCaVFlbkl2MS00QlBTN2V1WnNGLWxwQVNyZmh1OTNvb3lIeFZBMzZ1NEFMNzY4N0xZX0NwTXdsNGhabmdybm1mOHpuNTRvYkdCUQ?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 09:02:40 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "How the U.S. health care system fails cancer patients like former MTV VJ Ananda Lewis - STAT",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFJ5TG0tZGItb1N2Ty1HM2YxVFVpR3Z6QUNtU0FVSWZneTYyNnVzVW82WTRqci1UcENnMWpnV2dkVnUyZkNsT2IwWVNxanM1MG51WXFfQXd0bFEwVnRVODBCdDNIVHJyZEpxUXpKY0dxTWJJZERJSXl2akJhLVJyVk9Ga3VjT3dHMnJyTVA3T2t6cFVSUDdUaEZia0x2T0NWWkY0?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 08:54:43 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
   },
   "Data Breach": {
     "articles": [
       {
-        "title": "Breaking: Qantas 'contacted by potential cybercriminal' after data attack - Australian Broadcasting Corporation",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1pEcTRWaUh6QVR3V1QwQnZDZm9hU3RyQnRPak5tN09xaHNyQUhyS0xTdXNUb3o2LXlrOEtLbUlESldtR3BQ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 08:11:17 GMT"
+        "title": "Update on Qantas frequent flyers data hack - News.com.au",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMEhGMjhFX3R4LS1zS09mTzlRdjYzYjZGMV8zZ3RCZnh5eTlfVTgycWNGLUg1STQ1dVJCWUZ6dHZobldQQV90bHlrZVcwNy1JcmxkY3J6VnMxa2FsRlhxaDdqSnUzeXZJb0RFcUtPRjRmRjAzOU9SeGZsNERTWVg1UExaYS1SVkhzWkhSUVJKSmhYdW1qWDFETS1ILS13LXpyczQ1bXdkVHBJT3plUVNMVkJpejVOelRtTlFRSzZIX3BNWWluRVNCY2tTaDRZc1YxWjBTeTdGTXc0UmFqQ053V19pd3RqVmdPTVAySk9QSUFMcnpicDk3WDB1SDRuM19iVkRyRXZCNHJmdjg3ZGJMZ0ZHTjfSAZoCQVVfeXFMT2ItSW1PN3dManNUNVF6c0VaOE9faHNBZE9VdEV4emNmWUctNGhxamFCQWZPRnhQaEdsU3B2RGowamM3VWg4MUVxc0h5bFhmZ2tDOHFXZW9CVzgxc0VUcUV2Wno5M3pCOXVmMmNwbXZ4cDdKWjZnUGFPVmxJMTdBLUF4RmsySHNtMHVFUnVUVnp3SzlVaFRKbG1mcjYzNlpBX0xnR1hGZGROWUptN1BMaGNyU1Bib2Y2ZzdRTVhSLUtZMUdQaGd0eHhYOEVabHVERk9CR1c1MUJzRFZ0ZEoxdldTQnFpNk9UMzhjOEpoRExSbjl4bEI0UldaSzVGWDdabmNOaUFmTlhYdEViNnhIQ01XcE81WFdfU3dB?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 08:28:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
   },
-  "US Politics": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "America Party: Trump calls Musk's new political party plan 'ridiculous' - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0eGE0MmVlV0x2azhJMGlPYUNxUHd5WmprYmpFaU9ZMHFQM3E3Wk9jc2xUVmM4Z1ZNbkMtUWZXMDVCZXluWVgtTDBpeWs5WjZ3aFpfSzBJQ1dJQdIBX0FVX3lxTFBUSVhQZzBsWXd1RkdodjFFUjh1WDFsWUdhTEhqcWRzZkhuMVgzeFRLV1VhRlZBc2pLRFpLbWdHY042S3MxbS1Wb0pJcS1IYlo4Tm5JTjNYZ3lhVEJoYjRZ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 03:17:15 GMT"
+        "title": "Trump slams ex-ally Musk\u2019s political party as \u2018ridiculous\u2019 - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1pmWC0wOWtKVXdlaXBMVU9WZFQ4SjdtNG1qaGJ5bEpSaXFpenhrMGpaN2t4dV9aYmNISHpvLS1YQ3A5WG9Fem5LVDZWeE9DNkw2REFYRFhPZTRHRDNuV1hGa0xEUHJlamR2cFRlS3MyUW03LUJGQlMzekJ6eUZOdkxoV2RJOGl0ZlFsd1REbHRzM1Z2dFRjcWExWdIBoAFBVV95cUxNVFJ5QW5wMjlvdEZaLUdpUS14ZXQ5MTFWR1p3dDdFMF9mR2JmOVF1SS1Hc3F6TjZJd2tpUGZITEpWMGtFWXYzcEhUMjlKcmF5RHgyWGd2dC1ISmU5bzRvVlVUOTMxcjQ0UG9DUUtvRWFZUGtBVjgzOWhHZDBWMVRvb3FuQmlYMW9SNTFqOEZhT0J4eV9DbllydXlRbUxyRGhr?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 07:22:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+    "last_updated_ts": "2025-07-07T12:00:43.415131+00:00"
   }
 }
