@@ -145,16 +145,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump's 'big, beautiful bill' clears key Senate hurdle after high drama - CNBC",
-      "pubDate": "Sun, 29 Jun 2025 03:22:00 GMT"
-    },
-    {
       "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
       "pubDate": "Sun, 29 Jun 2025 04:03:00 GMT"
-    },
-    {
-      "title": "Elon Musk renews his criticism of Trump\u2019s big bill as Senate Republicans scramble to pass it - AP News",
-      "pubDate": "Sun, 29 Jun 2025 03:38:00 GMT"
     },
     {
       "title": "Trump slams Israel's prosecutors over Netanyahu corruption trial - Reuters",
@@ -171,10 +163,6 @@
     {
       "title": "Trump calls for Gaza deal, slams Netanyahu trial - NPR",
       "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
-    },
-    {
-      "title": "Trump agenda survives key Senate vote but final outcome still uncertain - USA Today",
-      "pubDate": "Sun, 29 Jun 2025 03:45:00 GMT"
     },
     {
       "title": "Trump Is Wrong About Birthright Citizenship. History Proves It. - Politico",
@@ -1125,10 +1113,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI is learning to lie, scheme, and threaten its creators - The Straits Times",
-      "pubDate": "Sun, 29 Jun 2025 03:25:00 GMT"
-    },
-    {
       "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
       "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
     },
@@ -1773,6 +1757,10 @@
     {
       "title": "Texas flood highlights deadly climate risk at crucial moment - Los Angeles Times",
       "pubDate": "Sun, 06 Jul 2025 22:18:02 GMT"
+    },
+    {
+      "title": "Entire Villages Are Up and Leaving Due to Climate Change - Newser",
+      "pubDate": "Sun, 06 Jul 2025 20:25:00 GMT"
     }
   ],
   "ukraine": [
@@ -2701,10 +2689,6 @@
       "pubDate": "Sun, 29 Jun 2025 04:31:55 GMT"
     },
     {
-      "title": "Trump's 'Big Beautiful Bill' advances, but still faces Republican dissent - BBC",
-      "pubDate": "Sun, 29 Jun 2025 03:39:27 GMT"
-    },
-    {
       "title": "Senate Narrowly Advances Trump\u2019s Tax and Spending Megabill - WSJ",
       "pubDate": "Sun, 29 Jun 2025 04:57:00 GMT"
     },
@@ -2983,6 +2967,10 @@
     {
       "title": "Musk forms new party after split with Trump over tax and spending bill - NPR",
       "pubDate": "Sun, 06 Jul 2025 17:39:10 GMT"
+    },
+    {
+      "title": "Musk\u2019s America Party: A Billionaire\u2019s Bid to Reshape Politics - AInvest",
+      "pubDate": "Mon, 07 Jul 2025 01:41:34 GMT"
     }
   ],
   "democratic_party": [
@@ -3168,10 +3156,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "recession warning: yield curve inversion explained - MSN",
-      "pubDate": "Sun, 29 Jun 2025 03:52:07 GMT"
-    },
     {
       "title": "There's Still A Chance Of Recession In 2025. What To Watch - Investopedia",
       "pubDate": "Sun, 29 Jun 2025 11:00:00 GMT"
@@ -3523,6 +3507,10 @@
     {
       "title": "Israel's Netanyahu says he believes Trump can help seal ceasefire deal - Reuters",
       "pubDate": "Sun, 06 Jul 2025 23:58:26 GMT"
+    },
+    {
+      "title": "First round of Israel and Hamas ceasefire talks ends without breakthrough - BBC",
+      "pubDate": "Mon, 07 Jul 2025 00:12:53 GMT"
     }
   ],
   "federal_reserve": [
@@ -3719,6 +3707,10 @@
     {
       "title": "NASA Plans To Leave The ISS After 2030 - Here's What Will Come Next - Jalopnik",
       "pubDate": "Sun, 06 Jul 2025 12:25:00 GMT"
+    },
+    {
+      "title": "Lockheed Martin offers to rescue Mars mission from budget death - New Atlas",
+      "pubDate": "Mon, 07 Jul 2025 02:04:34 GMT"
     }
   ],
   "health_care": [
@@ -4039,6 +4031,10 @@
     {
       "title": "Data breach of 16 billion login credentials could risk Indian users - Scroll.in",
       "pubDate": "Sun, 06 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Texas agency announces critical identification leaked in breach - Chron",
+      "pubDate": "Sun, 06 Jul 2025 19:36:11 GMT"
     }
   ],
   "technology": [
@@ -4729,6 +4725,12 @@
     {
       "title": "OpenAI says GPT-5 will unify breakthroughs from different models - BleepingComputer",
       "pubDate": "Mon, 07 Jul 2025 00:22:40 GMT"
+    }
+  ],
+  "geopolitics": [
+    {
+      "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
     }
   ]
 }
