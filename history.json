@@ -169,10 +169,6 @@
       "pubDate": "Mon, 30 Jun 2025 02:05:11 GMT"
     },
     {
-      "title": "WATCH LIVE: Senate debates Trump\u2019s budget package after reading full text of 940-page bill - PBS",
-      "pubDate": "Sun, 29 Jun 2025 16:50:59 GMT"
-    },
-    {
       "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
       "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
     },
@@ -727,10 +723,6 @@
       "pubDate": "Sun, 29 Jun 2025 20:50:00 GMT"
     },
     {
-      "title": "Moscow's Top Spy Dials CIA After Russia's 500+ Missile Attack On Ukraine; Zelensky Sidelined? - Times of India",
-      "pubDate": "Sun, 29 Jun 2025 16:53:37 GMT"
-    },
-    {
       "title": "Russia says NATO spending increase may lead to the collapse of alliance - Reuters",
       "pubDate": "Mon, 30 Jun 2025 07:34:58 GMT"
     },
@@ -979,10 +971,6 @@
   ],
   "financial_markets": [
     {
-      "title": "What Drove the Stock Market's Record-breaking Week? Don\u2019t Overlook Growing Rate Cut Expectations - TradeAlgo",
-      "pubDate": "Sun, 29 Jun 2025 16:43:23 GMT"
-    },
-    {
       "title": "Ignoring a $7 Trillion Financial Disaster Won\u2019t Make It Go Away - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 10:30:26 GMT"
     },
@@ -1051,10 +1039,6 @@
     {
       "title": "Inside Chanakya Thunuguntla\u2019s Plan to Rebuild the U.S. Workforce with Artificial Intelligence - USA Today",
       "pubDate": "Sun, 29 Jun 2025 20:03:47 GMT"
-    },
-    {
-      "title": "China's biggest public AI drop since DeepSeek, Baidu's open source Ernie, is about to hit the market - CNBC",
-      "pubDate": "Sun, 29 Jun 2025 16:19:14 GMT"
     },
     {
       "title": "GOP senators reach deal on AI regulation ban - The Hill",
@@ -1685,24 +1669,12 @@
   ],
   "ukraine": [
     {
-      "title": "Russia Pounds Ukraine With Drones and Missiles in One of War\u2019s Largest Attacks - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 16:18:07 GMT"
-    },
-    {
-      "title": "Russia has launched biggest air attack of three-year war on Ukraine, Kyiv says - The Guardian",
-      "pubDate": "Sun, 29 Jun 2025 16:23:00 GMT"
-    },
-    {
       "title": "Massive Russian assault among biggest attacks on Ukraine since start of war - NBC News",
       "pubDate": "Sun, 29 Jun 2025 23:32:54 GMT"
     },
     {
       "title": "Ukraine war: Mariupol residents deny Russian stories about the city - BBC",
       "pubDate": "Sun, 29 Jun 2025 21:00:30 GMT"
-    },
-    {
-      "title": "Russia Launches Largest Drone Attack Yet Against Ukraine, Kills F-16 Pilot - Algemeiner.com",
-      "pubDate": "Sun, 29 Jun 2025 17:01:00 GMT"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy to pull Kyiv out of convention banning anti-personnel landmines - The Guardian",
@@ -2015,16 +1987,16 @@
     {
       "title": "Russia claims to have foothold in new Ukraine region as Zelenskyy pleads for more air defences \u2013 Europe live - The Guardian",
       "pubDate": "Mon, 07 Jul 2025 08:12:00 GMT"
+    },
+    {
+      "title": "Ukraine reports at least 11 dead and over 80 injured in Russian attacks - AP News",
+      "pubDate": "Mon, 07 Jul 2025 15:58:00 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "Startups Starved of Cash - Bloomberg",
       "pubDate": "Sun, 29 Jun 2025 22:08:30 GMT"
-    },
-    {
-      "title": "Trump's 'Big Beautiful Bill' clears Senate hurdle: What's inside the GOP's controversial push to reshape US ec - India TV News",
-      "pubDate": "Sun, 29 Jun 2025 16:22:20 GMT"
     },
     {
       "title": "Trump's budget: Nearly 12 million estimated to lose health coverage, says CBO - BBC",
@@ -2601,14 +2573,6 @@
       "pubDate": "Sun, 29 Jun 2025 19:58:34 GMT"
     },
     {
-      "title": "Senate Bill Would Add at Least $3.3 Trillion to Debt, Budget Office Says - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 16:25:00 GMT"
-    },
-    {
-      "title": "Republicans struggle to pass Trump\u2019s \u2018big, beautiful bill\u2019 as debate drags on - Financial Times",
-      "pubDate": "Sun, 29 Jun 2025 16:33:48 GMT"
-    },
-    {
       "title": "Republican senator quits over \u2018big beautiful\u2019 Bill - The Telegraph",
       "pubDate": "Sun, 29 Jun 2025 20:48:00 GMT"
     },
@@ -2979,6 +2943,10 @@
     {
       "title": "Trump\u2019s July 9 tariff deadline: What\u2019s next for global trade? - Al Jazeera",
       "pubDate": "Mon, 07 Jul 2025 06:48:41 GMT"
+    },
+    {
+      "title": "Trump announces 25% tariffs on Japan, South Korea in first U.S. trade letters - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
     }
   ],
   "cybersecurity": [
@@ -3148,10 +3116,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "LIVE: Israel\u2019s attacks on Gaza kill 47, including children and aid seekers - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 16:30:00 GMT"
-    },
     {
       "title": "Trump calls for a Gaza ceasefire deal as some Palestinians are skeptical - AP News",
       "pubDate": "Sun, 29 Jun 2025 20:09:00 GMT"
@@ -3599,6 +3563,10 @@
     {
       "title": "Jessie J reveals cancer operation success - BBC",
       "pubDate": "Mon, 07 Jul 2025 11:13:42 GMT"
+    },
+    {
+      "title": "Survival rates for cancer patients on immunotherapy depend on insurance coverage, study finds - STAT",
+      "pubDate": "Mon, 07 Jul 2025 16:38:08 GMT"
     }
   ],
   "space_exploration": [
@@ -4131,10 +4099,6 @@
   ],
   "us_senate": [
     {
-      "title": "Senate GOP tax bill includes largest cut to U.S. safety net in decades - The Washington Post",
-      "pubDate": "Sun, 29 Jun 2025 16:41:33 GMT"
-    },
-    {
       "title": "Senate moves toward final vote on big budget bill, with Alaska at the forefront - Alaska Beacon",
       "pubDate": "Tue, 01 Jul 2025 01:21:06 GMT"
     }
@@ -4511,6 +4475,10 @@
     {
       "title": "Authorities arrest man for setting fire to Melbourne synagogue, are 'unsure' if linked to terrorism - The Jerusalem Post",
       "pubDate": "Sun, 06 Jul 2025 02:22:30 GMT"
+    },
+    {
+      "title": "US revokes foreign terrorist designation for Syria's HTS - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 15:03:49 GMT"
     }
   ],
   "biology": [
@@ -4747,6 +4715,24 @@
     {
       "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
       "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
+    }
+  ],
+  "neuroscience": [
+    {
+      "title": "A signal that never repeats\u2014how the brain creates bookmarks to map time - Medical Xpress",
+      "pubDate": "Mon, 07 Jul 2025 15:06:39 GMT"
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Russian minister found dead in apparent suicide hours after being fired by Putin - France 24",
+      "pubDate": "Mon, 07 Jul 2025 14:35:36 GMT"
+    }
+  ],
+  "universe": [
+    {
+      "title": "Scientists hear the universe hum \u2014 Strange cosmic waves echo through space - ecoportal.net",
+      "pubDate": "Mon, 07 Jul 2025 13:50:48 GMT"
     }
   ]
 }
