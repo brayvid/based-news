@@ -1,72 +1,62 @@
 {
-  "US Politics": {
+  "Hamas": {
     "articles": [
       {
-        "title": "Trump Keeps Foreign Countries on Edge as Tariff Deadline Nears - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uTVdXNW9FVG90RURoN1ZfQmpXeEREcmpDeDFDRGVUYWg1eklzRnhvT2xtM2FVMDBiNDlzUFdHaXpDTXZuSFoyQkJ0LTQxcU14U2VjOVRQUmUxeW8zR0Z3TXFMVThTNnVrajZjam1Pb3VyREg4SHVfZFpGSzNXQQ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 09:03:18 GMT"
+        "title": "Netanyahu to meet Trump at White House as Israel, Hamas discuss ceasefire - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDdXUS1iTVhRM3ktOWQxODJpTF9fQkpzdlJWaFVTMFlKY0w3TDlReWZCd1VZY3ZZTGZVVjFONjVpRU1ndEhoRkpLSWoyeEpfdGZMQTBLRm9GYTBzamx2ZjBGX1N6azFRYm1MZWF0TGpSb3lvQkh3N2c3UWRtN29Xc1d6amQwS0N0RGttX3FmX0VMZm1kUXJkZjhtMWxsVVc2czhFbktmdWhtellnTmFKYXRPOWZjdGF5?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 10:36:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
+  },
+  "Tesla": {
+    "articles": [
+      {
+        "title": "Tesla shares plunge again as politics, China weigh on Musk - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZaGhZU1F1Sk9YUzZnRFpLUTBNUTlCaVV2aUJoY2s1UW5Pa0NwVzZlTW1KaDZVdDhGRGRJOVVSLXlGUTRwUWUzUkdseTg2VnpXTHR3cUl2enBaVU1RSlNla1oxSEg3QQ?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 10:29:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Ukrainian Troops Struggle to Hold the Line on the Eastern Front - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXpCWWhCellrX2wxNnRuTlUzbWNuVnQtSVRubUYtMjNlMzJkS2l1SHQ5WGlhbVQ2b1ZNYWg2YnlDZmplZmwyazAzcGVtQm1ZVG5UOWFxLUdQblNZSTJCbkEtVDF6NmJYcThnWnVTZnpoM0w2TEttclpQazlOdThNLUhuMDdTUQ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 09:02:05 GMT"
+        "title": "1 dead, dozens injured as Russia launches 101 drones at Ukraine overnight, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWttQjJMc0tJZWRjSlU5eTRqNG14Y19Nbm4tcE14Mmt1b0RBenJoUmhLQVZ3RFdYOVJjbUFIY0NiS3BZTXMtbzFzOTVaeFRoVjMyZkpJVHRqc0pNOGxKRXA0anFYZ2NyYW00eGU4a3MxX3lqWm5OV2hHUnRWUTNxQzhnZDd3SkVEVG5CanhKTjdmbTRqT2VWcE85VERBOTBSRUhaaEM2WdIBrAFBVV95cUxQcDJad3h2Yzh6Z2JaSWVvbllxOHBtbVpOQ1E3TGgtWnpxU1N1S01jbnBqZDFCT0R5ZUk1ZnV3NHBJNDNrVDljZDRfNGFFR29zS1J6MUQyWFllaVFCaUpNaUphYzV4Z3lBRWdSbnJuME5mdThlVHlwWGg1bFhHQk1naTZwTFgxeTRWcUo2d0hESDBjM3ZhalRDVV9iUENtd0VqRTd1VXNlZDlLZHM4?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 10:01:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
   },
-  "China": {
+  "Cancer": {
     "articles": [
       {
-        "title": "China\u2019s PBOC Keeps Buying Gold as Reserves Grow For Eighth Month - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHFSdm9GMEQxMEEzVWlPaFpEZ0NjQjlHWWtoanM4MWE2QUl5NW1femozZ1gtaEdDQWl3UHVhbHlfWWttR3IwaWFSVzRPWHpuaEZVNmdWR0ppMm42Q0s4RW9rY0IwU0U4T1hlZWRjWFNkV0VGdndadTVCVUlOMzhKZ0ZzYmVzb2c0TUV6a3VfRVY0dUo5NHdNRTd6MEE0LTdKZVFaQnVMUy1rNFozNUU1SkRJWnhyUQ?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 08:26:43 GMT"
+        "title": "How the U.S. health care system fails cancer patients like former MTV VJ Ananda Lewis - STAT",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFJ5TG0tZGItb1N2Ty1HM2YxVFVpR3Z6QUNtU0FVSWZneTYyNnVzVW82WTRqci1UcENnMWpnV2dkVnUyZkNsT2IwWVNxanM1MG51WXFfQXd0bFEwVnRVODBCdDNIVHJyZEpxUXpKY0dxTWJJZERJSXl2akJhLVJyVk9Ga3VjT3dHMnJyTVA3T2t6cFVSUDdUaEZia0x2T0NWWkY0?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 08:54:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
   },
-  "Climate": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "How climate change is worsening flooding and heavy rainfall - Grist.org",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUVzbnBFak5qN3N6WWYybGFBeU05YnlqSDhNUGhkcUJUOW9nTXRiQVdOeVhHMUFyR2ZwOWU0SFFVS1NuQVJIQlZnRzB5aFVXZGFiU3ZYVHp6QzlkaW94dVVNb0JzNzlrQ3otQ29QeUVRNlBEQlg5OENjbVNIVjZsZi1HcF82ejZSSTNuTmFUMzFlQW1sX3FOb0dR?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 08:01:12 GMT"
+        "title": "Breaking: Qantas 'contacted by potential cybercriminal' after data attack - Australian Broadcasting Corporation",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1pEcTRWaUh6QVR3V1QwQnZDZm9hU3RyQnRPak5tN09xaHNyQUhyS0xTdXNUb3o2LXlrOEtLbUlESldtR3BQ?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 08:11:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
   },
-  "Electric-Vehicle Battery": {
+  "US Politics": {
     "articles": [
       {
-        "title": "EV battery maker\u2019s profits more than double on back of Biden-era tax break - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NXZZVmlxZHotbFVQbWtRLXdfMkRyN0MyUFpUWXdfeFFTaW9tRjI2WWpEQTA2QVRUYVZKZ0liVE4yOFlIbkhKQWRoemd6bjg2dVRhSHlLSElZY29iQWhabHhWcm42M1VVbjM2aTdJdTg?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 05:54:50 GMT"
+        "title": "America Party: Trump calls Musk's new political party plan 'ridiculous' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0eGE0MmVlV0x2azhJMGlPYUNxUHd5WmprYmpFaU9ZMHFQM3E3Wk9jc2xUVmM4Z1ZNbkMtUWZXMDVCZXluWVgtTDBpeWs5WjZ3aFpfSzBJQ1dJQdIBX0FVX3lxTFBUSVhQZzBsWXd1RkdodjFFUjh1WDFsWUdhTEhqcWRzZkhuMVgzeFRLV1VhRlZBc2pLRFpLbWdHY042S3MxbS1Wb0pJcS1IYlo4Tm5JTjNYZ3lhVEJoYjRZ?oc=5",
+        "pubDate": "Mon, 07 Jul 2025 03:17:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
-  },
-  "World Economy": {
-    "articles": [
-      {
-        "title": "The global economy is suffering from the Rashomon effect - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUDREdmJfaTBnUzh0NWJGWGhXbXcwaXd6ZzZHMGxCTndsMHZFeFRsYzZXV0RXbVlFRXpFcngwa1dGY245SXdvOE1KMk4xd1Z0SXhodHFLcVJqbzVUdlVNT1U4WnkzdEVQT1Z6NW12aEo?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 04:00:17 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
-  },
-  "Cybersecurity": {
-    "articles": [
-      {
-        "title": "Brand Impersonation Scams Surge as Hackers Prey on Public Trust - PYMNTS.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3ZyS21NU3JXbjNjMnBncWx4eVNzc0RXZGRXWUVDbGV5cGVrN1Q1cmNxOHkxaHp4RjNTSjNEQWFDTmxUQTVVR1Uya1BqODhvaVJKRGQ2cllaMmlHSmduTDVka0pWbmkzWnYyNTd6MXRYOW1jQ01oMC13SGNjcU1KbFFycllUSmJhY015aUFxSkEzOGNLVGZTVVI5d3NLc2ZQWEJvUGk3bnJwQQ?oc=5",
-        "pubDate": "Sun, 06 Jul 2025 22:09:10 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-07T09:59:43.223150+00:00"
+    "last_updated_ts": "2025-07-07T11:00:23.706508+00:00"
   }
 }
