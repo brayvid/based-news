@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel acknowledges Palestinian civilians harmed at Gaza aid sites, says 'lessons learned' - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 18:09:51 GMT"
-    },
-    {
       "title": "Israeli strike on cafe near Gaza City port kills dozens, hospital official says - CNN",
       "pubDate": "Tue, 01 Jul 2025 00:04:00 GMT"
     },
@@ -75,10 +71,6 @@
       "pubDate": "Mon, 30 Jun 2025 21:44:00 GMT"
     },
     {
-      "title": "Fordo Nuclear Site Work Taking Place in Iran, Satellate Images Show - The New York Times",
-      "pubDate": "Mon, 30 Jun 2025 18:23:45 GMT"
-    },
-    {
       "title": "Iran assesses the damage and lashes out after Israeli and US strikes damage its nuclear sites - AP News",
       "pubDate": "Tue, 01 Jul 2025 12:26:00 GMT"
     },
@@ -116,14 +108,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
-      "pubDate": "Mon, 30 Jun 2025 18:27:00 GMT"
-    },
-    {
-      "title": "Trump expected to sign executive order to lift some sanctions on Syria - The Guardian",
-      "pubDate": "Mon, 30 Jun 2025 18:44:00 GMT"
-    },
     {
       "title": "Musk threatens to primary members of Congress who vote for Trump's megabill - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 30 Jun 2025 20:57:39 GMT"
@@ -953,24 +937,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
-      "pubDate": "Mon, 30 Jun 2025 18:45:26 GMT"
-    },
-    {
-      "title": "Meta shares hit all-time high as Mark Zuckerberg goes on AI hiring blitz - CNBC",
-      "pubDate": "Mon, 30 Jun 2025 18:43:24 GMT"
-    },
-    {
       "title": "Senate\u2019s New A.I. Moratorium Proposal Draws Fresh Criticism - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 20:55:44 GMT"
-    },
-    {
-      "title": "Mark Zuckerberg announces creation of Meta Superintelligence Labs. Read the memo - CNBC",
-      "pubDate": "Mon, 30 Jun 2025 18:32:44 GMT"
-    },
-    {
-      "title": "Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta\u2019s \u2018Superintelligence\u2019 Team - WIRED",
-      "pubDate": "Mon, 30 Jun 2025 18:09:00 GMT"
     },
     {
       "title": "Meta\u2019s Mark Zuckerberg unveils AI \u2018Superintelligence Labs\u2019 in restructuring as shares hit record high - New York Post",
@@ -1419,6 +1387,10 @@
     {
       "title": "Ohio to require AI rules in K-12 schools - Axios",
       "pubDate": "Tue, 08 Jul 2025 10:09:07 GMT"
+    },
+    {
+      "title": "OpenAI, Microsoft Back New Academy to Bring AI Into Classrooms - Bloomberg",
+      "pubDate": "Tue, 08 Jul 2025 15:34:03 GMT"
     }
   ],
   "climate": [
@@ -2401,10 +2373,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate version of Trump's \"big, beautiful bill\" would pummel renewable energy industry with new tax - CBS News",
-      "pubDate": "Mon, 30 Jun 2025 18:08:03 GMT"
-    },
-    {
       "title": "What\u2019s in the Senate\u2019s version of Trump\u2019s \u2018big beautiful bill\u2019? Tax cuts, Medicaid changes, immigration and more - NBC News",
       "pubDate": "Mon, 30 Jun 2025 21:03:41 GMT"
     },
@@ -2657,10 +2625,6 @@
   ],
   "north_korea": [
     {
-      "title": "US charges North Koreans in plot to defraud over 100 firms - South China Morning Post",
-      "pubDate": "Mon, 30 Jun 2025 18:56:04 GMT"
-    },
-    {
       "title": "Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 08:55:00 GMT"
     },
@@ -2683,6 +2647,10 @@
     {
       "title": "North Korea\u2019s Second Chance? - Foreign Affairs",
       "pubDate": "Tue, 08 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "U.S. sanctions North Korean member of Kim Jong Un's spy agency over IT worker scheme - CBS News",
+      "pubDate": "Tue, 08 Jul 2025 18:02:16 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2791,6 +2759,10 @@
     {
       "title": "Trump\u2019s new tariffs: Who is hit, what\u2019s next, how is the world responding? - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 12:45:32 GMT"
+    },
+    {
+      "title": "Trump says steep copper tariffs in store as he broadens his trade war - Reuters",
+      "pubDate": "Tue, 08 Jul 2025 18:35:55 GMT"
     }
   ],
   "cybersecurity": [
@@ -3203,10 +3175,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Trump Adds Pressure on Fed's Powell to Lower Rates - Newsmax",
-      "pubDate": "Mon, 30 Jun 2025 18:06:01 GMT"
-    },
-    {
       "title": "Federal Reserve Chair Powell is speaking on Tuesday, July 1, 2025 - Forexlive | Forex News, Technical Analysis & Trading Tools",
       "pubDate": "Tue, 01 Jul 2025 02:03:45 GMT"
     },
@@ -3500,10 +3468,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Senate GOP tax bill could crush wind and solar power, advocates say - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 30 Jun 2025 18:39:19 GMT"
-    },
     {
       "title": "Senate Version of \u201cBeautiful\u201d Bill Will \u201cKill\u201d America\u2019s Clean Energy Sector, Experts Say - Mother Jones",
       "pubDate": "Tue, 01 Jul 2025 00:19:27 GMT"
@@ -4107,6 +4071,10 @@
     {
       "title": "Public health groups file lawsuit to stop RFK Jr.\u2019s vaccine changes - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 04:43:54 GMT"
+    },
+    {
+      "title": "The health of U.S. kids has declined significantly since 2007, a new study finds - NPR",
+      "pubDate": "Tue, 08 Jul 2025 09:00:00 GMT"
     }
   ],
   "political_corruption": [
@@ -4293,6 +4261,10 @@
     {
       "title": "Scientists Finally Reveal the Startling Reason Mars Lost Its Water - The Daily Galaxy",
       "pubDate": "Mon, 07 Jul 2025 14:30:00 GMT"
+    },
+    {
+      "title": "How the Chemistry of Mars Both Extended and Ended Its Habitability - Universe Today",
+      "pubDate": "Tue, 08 Jul 2025 15:09:00 GMT"
     }
   ],
   "hacking": [
@@ -4787,6 +4759,18 @@
     {
       "title": "Putin Says Liberal Globalization Model is Obsolete - Tempo.co English",
       "pubDate": "Tue, 08 Jul 2025 09:49:47 GMT"
+    }
+  ],
+  "gaza": [
+    {
+      "title": "Militants kill 5 Israeli soldiers in Gaza and Israeli strikes kill 51 Palestinians - AP News",
+      "pubDate": "Tue, 08 Jul 2025 18:01:00 GMT"
+    }
+  ],
+  "history_of_the_earth": [
+    {
+      "title": "Scientists Just Reconstructed 540 Million Years of Earth's Sea Level History and Reached a Concerning Conclusion - The Daily Galaxy",
+      "pubDate": "Tue, 08 Jul 2025 15:40:00 GMT"
     }
   ]
 }
