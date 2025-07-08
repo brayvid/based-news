@@ -133,20 +133,12 @@
   ],
   "donald_trump": [
     {
-      "title": "Debate is underway in the Senate on Trump\u2019s big bill. It may go all night - AP News",
-      "pubDate": "Mon, 30 Jun 2025 00:58:00 GMT"
-    },
-    {
       "title": "Trump news at a glance: president pushes Republicans to back big bill amid forecast losses to healthcare - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 02:05:11 GMT"
     },
     {
       "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
       "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
-    },
-    {
-      "title": "Intercepted call of Iranian officials downplays damage of U.S. attack - The Washington Post",
-      "pubDate": "Mon, 30 Jun 2025 00:48:38 GMT"
     },
     {
       "title": "Trump admin live updates: Senate to begin 'One Big Beautiful Bill' vote-a-rama Monday - ABC News - Breaking News, Latest News and Videos",
@@ -861,10 +853,6 @@
   ],
   "ai_safety": [
     {
-      "title": "S2W, Fino and Signet Partners join forces to enhance AI security in finance - CHOSUNBIZ - Chosunbiz",
-      "pubDate": "Mon, 30 Jun 2025 00:47:00 GMT"
-    },
-    {
       "title": "Disturbing Signs of AI Threatening People Spark Concern - ScienceAlert",
       "pubDate": "Mon, 30 Jun 2025 02:34:49 GMT"
     },
@@ -955,6 +943,10 @@
     {
       "title": "Pushing for Asean AI safety amid global turmoil - thestar.com.my",
       "pubDate": "Mon, 07 Jul 2025 23:44:11 GMT"
+    },
+    {
+      "title": "OpenAI\u2019s o1 model tried to copy itself during shutdown tests - The Express Tribune",
+      "pubDate": "Mon, 07 Jul 2025 23:03:45 GMT"
     }
   ],
   "financial_markets": [
@@ -1657,6 +1649,10 @@
     {
       "title": "Extreme weather events like Texas rain are more likely to occur due to climate change, scientists warn - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 07 Jul 2025 22:33:41 GMT"
+    },
+    {
+      "title": "Understanding the climate connection with the devastating Texas floods - Climate Central",
+      "pubDate": "Mon, 07 Jul 2025 21:02:41 GMT"
     }
   ],
   "ukraine": [
@@ -2184,10 +2180,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Envoy Urges Australia to Resist US Pressure on Military Spending - Bloomberg",
-      "pubDate": "Mon, 30 Jun 2025 00:04:00 GMT"
-    },
     {
       "title": "China\u2019s Scorching Heat Poses Summer Test for Electricity Grid - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 01:43:16 GMT"
@@ -2783,6 +2775,10 @@
     {
       "title": "Republicans plot a strategy to fend off Democratic onslaught against Trump megabill - NBC News",
       "pubDate": "Mon, 07 Jul 2025 22:06:53 GMT"
+    },
+    {
+      "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
     }
   ],
   "democratic_party": [
@@ -3543,6 +3539,10 @@
     {
       "title": "New Cancer Drug Blocks Tumors Without Debilitating Side Effects - SciTechDaily",
       "pubDate": "Mon, 07 Jul 2025 21:29:50 GMT"
+    },
+    {
+      "title": "75% of stomach cancer cases could be prevented with a simple treatment - New Atlas",
+      "pubDate": "Mon, 07 Jul 2025 15:06:11 GMT"
     }
   ],
   "space_exploration": [
@@ -3632,10 +3632,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "A surprise excise tax sends the clean energy industry into panic - Latitude Media",
-      "pubDate": "Mon, 30 Jun 2025 00:47:54 GMT"
-    },
     {
       "title": "Clean energy stocks fall as Trump bill taxes components from China, phases out credits - CNBC",
       "pubDate": "Mon, 30 Jun 2025 13:59:04 GMT"
@@ -4479,6 +4475,10 @@
     {
       "title": "Trump threatens extra 10% tariff on nations that side with Brics - BBC",
       "pubDate": "Mon, 07 Jul 2025 04:42:30 GMT"
+    },
+    {
+      "title": "BRICS nations push back as Trump warns of tariffs - NPR",
+      "pubDate": "Mon, 07 Jul 2025 20:22:18 GMT"
     }
   ],
   "oceans": [
@@ -4533,6 +4533,10 @@
     {
       "title": "AI tools raise questions about data privacy - The Philadelphia Tribune",
       "pubDate": "Sun, 06 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Nigerian agency fines Multichoice 766 million naira for data privacy breaches - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 21:59:53 GMT"
     }
   ],
   "business": [
@@ -4795,6 +4799,12 @@
     {
       "title": "Major medical associations sue Kennedy, Trump administration health leaders for Covid-19 vaccine changes - CNN",
       "pubDate": "Mon, 07 Jul 2025 17:57:00 GMT"
+    }
+  ],
+  "earth": [
+    {
+      "title": "Earth is going to spin much faster over the next few months \u2014 so fast that several days are going to get shorter - Live Science",
+      "pubDate": "Mon, 07 Jul 2025 14:18:28 GMT"
     }
   ]
 }
