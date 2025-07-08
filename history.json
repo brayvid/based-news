@@ -117,10 +117,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Senate to begin 'One Big Beautiful Bill' vote-a-rama Monday - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 30 Jun 2025 07:32:00 GMT"
-    },
-    {
       "title": "Treasury yields tick lower as Trump's spending bill in focus - CNBC",
       "pubDate": "Mon, 30 Jun 2025 08:15:37 GMT"
     },
@@ -131,10 +127,6 @@
     {
       "title": "Trump Calls for Israel-Hamas Ceasefire - Time Magazine",
       "pubDate": "Mon, 30 Jun 2025 10:58:47 GMT"
-    },
-    {
-      "title": "Trump-Fueled Bitcoin Mania Leaves Most of Crypto in the Dust - Bloomberg.com",
-      "pubDate": "Mon, 30 Jun 2025 07:42:12 GMT"
     },
     {
       "title": "Opinion | The real reason Republicans are rushing to pass the Trump megabill - MSNBC News",
@@ -667,14 +659,6 @@
   ],
   "russia": [
     {
-      "title": "Russia says NATO spending increase may lead to the collapse of alliance - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 07:34:58 GMT"
-    },
-    {
-      "title": "Russia reportedly closes Crimean Bridge amid explosions in Kerch - The Kyiv Independent",
-      "pubDate": "Mon, 30 Jun 2025 07:08:18 GMT"
-    },
-    {
       "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
     },
@@ -825,6 +809,10 @@
     {
       "title": "Russia Appears To Be Hiding Its Death Figures - Newsweek",
       "pubDate": "Mon, 07 Jul 2025 13:15:12 GMT"
+    },
+    {
+      "title": "Russia Locks Up Population Data With War in Ukraine in Its Fourth Year - Bloomberg.com",
+      "pubDate": "Tue, 08 Jul 2025 07:25:28 GMT"
     }
   ],
   "ai_safety": [
@@ -915,6 +903,10 @@
     {
       "title": "OpenAI\u2019s o1 model tried to copy itself during shutdown tests - The Express Tribune",
       "pubDate": "Mon, 07 Jul 2025 23:03:45 GMT"
+    },
+    {
+      "title": "India\u2019s AI watchdog: What the IndiaAI Safety Institute will do - Moneycontrol",
+      "pubDate": "Tue, 08 Jul 2025 07:36:25 GMT"
     }
   ],
   "financial_markets": [
@@ -984,18 +976,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI Crypto Price Prediction: How Artificial Intelligence is Shaping the Future of Cryptocurrency Markets - Vocal",
-      "pubDate": "Mon, 30 Jun 2025 07:05:30 GMT"
-    },
-    {
-      "title": "Neuropsychopharmacology in the era of artificial intelligence and biomolecule prediction software - Nature",
-      "pubDate": "Mon, 30 Jun 2025 07:50:53 GMT"
-    },
-    {
-      "title": "OpenAI Rents Google\u2019s AI Chips, Looks Beyond Nvidia\u2019s GPUs - TipRanks",
-      "pubDate": "Mon, 30 Jun 2025 07:14:12 GMT"
-    },
     {
       "title": "Artificial Intelligence at Barclays \u2013 Two Use Cases - Emerj Artificial Intelligence Research",
       "pubDate": "Mon, 30 Jun 2025 10:12:50 GMT"
@@ -1483,6 +1463,10 @@
     {
       "title": "Apple's top AI executive Ruoming Pang leaves for Meta, Bloomberg News reports - Reuters",
       "pubDate": "Mon, 07 Jul 2025 22:40:44 GMT"
+    },
+    {
+      "title": "Samsung expects second-quarter profits to more than halve as it struggles to capture AI demand - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 23:33:57 GMT"
     }
   ],
   "climate": [
@@ -2455,6 +2439,10 @@
     {
       "title": "Why China's ultimatum to Myanmar rebels threatens global supply of heavy rare earths - Reuters",
       "pubDate": "Tue, 08 Jul 2025 03:09:00 GMT"
+    },
+    {
+      "title": "Experts raise alarm as China expected to triple illegal organ harvesting of detained Uyghurs - The Jerusalem Post",
+      "pubDate": "Tue, 08 Jul 2025 06:52:37 GMT"
     }
   ],
   "world_news": [
@@ -2727,6 +2715,10 @@
     {
       "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
+    },
+    {
+      "title": "Trump Pledges to Send More Weapons to Ukraine - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 03:51:42 GMT"
     }
   ],
   "democratic_party": [
@@ -2921,6 +2913,10 @@
     {
       "title": "Ingram Micro struggles to restore services after ransomware breach - Tech Wire Asia",
       "pubDate": "Mon, 07 Jul 2025 09:20:48 GMT"
+    },
+    {
+      "title": "Ransomware Attack Triggers Widespread Outage at Ingram Micro - Dark Reading",
+      "pubDate": "Mon, 07 Jul 2025 19:58:02 GMT"
     }
   ],
   "recession": [
@@ -3283,6 +3279,10 @@
     {
       "title": "Official says endgame in Gaza is 'no more Hamas,' Israel may have to take control for a while - The Times of Israel",
       "pubDate": "Tue, 08 Jul 2025 05:12:13 GMT"
+    },
+    {
+      "title": "Top Israeli Official Says Cease-fire Deal With Hamas Up to 90 Percent Agreed Upon - Haaretz",
+      "pubDate": "Tue, 08 Jul 2025 06:52:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -3822,10 +3822,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Ahold Delhaize Data Breach Impacts 2.2 Million People - SecurityWeek",
-      "pubDate": "Mon, 30 Jun 2025 07:04:38 GMT"
-    },
     {
       "title": "Massive Ahold Delhaize data breach sees 2.2 million people's data exposed in ransomware attacks against major U.S. food retailer - PC Gamer",
       "pubDate": "Tue, 01 Jul 2025 04:21:18 GMT"
