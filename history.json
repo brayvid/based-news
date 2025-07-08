@@ -101,16 +101,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Elon Musk vows campaigns against every Republican who votes for Trump\u2019s agenda - The Independent",
-      "pubDate": "Mon, 30 Jun 2025 22:30:00 GMT"
-    },
-    {
       "title": "Trump blames AT&T for tech issues in a call, AT&T says its network did not cause disruption - Reuters",
       "pubDate": "Tue, 01 Jul 2025 00:43:00 GMT"
-    },
-    {
-      "title": "Musk vows to punish lawmakers who back Trump's spending bill - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 22:42:32 GMT"
     },
     {
       "title": "Senate plods along as Republicans negotiate key portions of Trump's bill: Live updates - USA Today",
@@ -1513,10 +1505,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine war live: Kyiv claims advances in Sumy region ahead of counteroffensive - The Independent",
-      "pubDate": "Mon, 30 Jun 2025 22:09:29 GMT"
-    },
-    {
       "title": "The Future of Modern Warfare Is Being Built in Ukraine - Bloomberg.com",
       "pubDate": "Tue, 01 Jul 2025 04:00:00 GMT"
     },
@@ -1811,6 +1799,10 @@
     {
       "title": "Ukraine urges investigation into alleged Russian chemical weapons use - Reuters",
       "pubDate": "Tue, 08 Jul 2025 15:35:44 GMT"
+    },
+    {
+      "title": "Trump unloads on Putin after promising more military aid to Ukraine - NBC News",
+      "pubDate": "Tue, 08 Jul 2025 19:16:06 GMT"
     }
   ],
   "us_economy": [
@@ -2569,6 +2561,10 @@
     {
       "title": "Democrats step up efforts to woo military veterans ahead of midterms - The Washington Post",
       "pubDate": "Sat, 05 Jul 2025 17:00:00 GMT"
+    },
+    {
+      "title": "After Mamdani\u2019s Win, Some Democrats Are Determined to Stop Him - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 18:21:00 GMT"
     }
   ],
   "north_korea": [
@@ -2852,10 +2848,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Israel launches waves of Gaza airstrikes after new displacement orders - The Guardian",
-      "pubDate": "Mon, 30 Jun 2025 22:31:00 GMT"
-    },
     {
       "title": "Live: Gaza death toll surges as Hamas accuses Israel of stalling ceasefire - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 06:36:55 GMT"
@@ -3365,10 +3357,6 @@
   ],
   "health_care": [
     {
-      "title": "Who would be affected by health care cuts in Senate version of Trump\u2019s budget bill - PBS",
-      "pubDate": "Mon, 30 Jun 2025 22:35:48 GMT"
-    },
-    {
       "title": "Map Shows How Many Could Lose Health Care in Each State Under Tax Bill - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 16:33:44 GMT"
     },
@@ -3423,10 +3411,6 @@
     {
       "title": "Senate Version of \u201cBeautiful\u201d Bill Will \u201cKill\u201d America\u2019s Clean Energy Sector, Experts Say - Mother Jones",
       "pubDate": "Tue, 01 Jul 2025 00:19:27 GMT"
-    },
-    {
-      "title": "Republican senators seek to change Senate bill clean energy tax, improve tax credits - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 22:05:46 GMT"
     },
     {
       "title": "US startup Lyten to take over Northvolt's energy storage systems factory in Poland - Reuters",
@@ -3647,6 +3631,10 @@
     {
       "title": "Inside the most dangerous asteroid hunt ever - MIT Technology Review",
       "pubDate": "Tue, 08 Jul 2025 08:30:00 GMT"
+    },
+    {
+      "title": "Scientists raise concern as 2017 asteroid visit left behind unsettling traces after massive object is detected in Solar System - MARCA",
+      "pubDate": "Tue, 08 Jul 2025 18:41:48 GMT"
     }
   ],
   "data_breach": [
@@ -4325,6 +4313,10 @@
     {
       "title": "How terrorist groups are leveraging AI to recruit and finance their operations | Islamic State - The Guardian",
       "pubDate": "Tue, 08 Jul 2025 10:02:00 GMT"
+    },
+    {
+      "title": "Canadian police seize largest ever weapons cache in terrorism inquiry - The Guardian",
+      "pubDate": "Tue, 08 Jul 2025 19:33:00 GMT"
     }
   ],
   "biology": [
@@ -4425,6 +4417,10 @@
     {
       "title": "What is AGI? Nobody agrees, and it\u2019s tearing Microsoft and OpenAI apart. - Ars Technica",
       "pubDate": "Tue, 08 Jul 2025 16:50:29 GMT"
+    },
+    {
+      "title": "Chinese researchers unveil MemOS, the first 'memory operating system' that gives AI human-like recall - VentureBeat",
+      "pubDate": "Tue, 08 Jul 2025 21:57:16 GMT"
     }
   ],
   "ancient_history": [
@@ -4671,6 +4667,10 @@
     {
       "title": "Scientists hear the universe hum \u2014 Strange cosmic waves echo through space - ecoportal.net",
       "pubDate": "Mon, 07 Jul 2025 13:50:48 GMT"
+    },
+    {
+      "title": "Scientists calculate 'death date' of universe before the 'big crunch' takes place - LADbible",
+      "pubDate": "Tue, 08 Jul 2025 20:04:26 GMT"
     }
   ],
   "analytics": [
@@ -4761,6 +4761,12 @@
     {
       "title": "Massive boulders ejected during DART mission may complicate future asteroid deflection efforts - Phys.org",
       "pubDate": "Tue, 08 Jul 2025 16:03:04 GMT"
+    }
+  ],
+  "battery_technology": [
+    {
+      "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
+      "pubDate": "Tue, 08 Jul 2025 19:16:38 GMT"
     }
   ]
 }
