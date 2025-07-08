@@ -63,10 +63,6 @@
   ],
   "iran": [
     {
-      "title": "Satellite imagery reveals ongoing work at Iranian nuclear site bombed by US - CNN",
-      "pubDate": "Mon, 30 Jun 2025 19:26:00 GMT"
-    },
-    {
       "title": "Iran: More than 900 killed in war with Israel - The Hill",
       "pubDate": "Mon, 30 Jun 2025 21:44:00 GMT"
     },
@@ -871,13 +867,13 @@
     {
       "title": "OpenAI Fortifies Security Against Espionage, Citing DeepSeek\u2019s Alleged IP Theft - WinBuzzer",
       "pubDate": "Tue, 08 Jul 2025 10:30:59 GMT"
+    },
+    {
+      "title": "Researchers Uncover Alarming AI Hack: ChatGPT And Gemini Can Be Fooled With Gibberish Prompts To Reveal Banned Content, Bypass Filters, And Break Safety Rules - Wccftech",
+      "pubDate": "Tue, 08 Jul 2025 19:31:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "US stocks push further into record heights - The Morning Call",
-      "pubDate": "Mon, 30 Jun 2025 20:03:45 GMT"
-    },
     {
       "title": "Global Markets Mixed as Focus Shifts to Trump Bill - WSJ",
       "pubDate": "Tue, 01 Jul 2025 08:30:00 GMT"
@@ -939,14 +935,6 @@
     {
       "title": "Senate\u2019s New A.I. Moratorium Proposal Draws Fresh Criticism - The New York Times",
       "pubDate": "Mon, 30 Jun 2025 20:55:44 GMT"
-    },
-    {
-      "title": "Meta\u2019s Mark Zuckerberg unveils AI \u2018Superintelligence Labs\u2019 in restructuring as shares hit record high - New York Post",
-      "pubDate": "Mon, 30 Jun 2025 19:56:39 GMT"
-    },
-    {
-      "title": "Meta deepens AI push with 'Superintelligence' lab, source says - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 19:46:47 GMT"
     },
     {
       "title": "AI PCs, Ryzen, and the Next Frontier in Personal Computing \u2013 Six Five On The Road - The Futurum Group",
@@ -1541,6 +1529,10 @@
     {
       "title": "The Texas Floods Were Made Worse by Climate Denialism - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 09:00:21 GMT"
+    },
+    {
+      "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
     }
   ],
   "ukraine": [
@@ -2763,6 +2755,10 @@
     {
       "title": "Trump says steep copper tariffs in store as he broadens his trade war - Reuters",
       "pubDate": "Tue, 08 Jul 2025 18:35:55 GMT"
+    },
+    {
+      "title": "Trump threatens to escalate trade war amid confusion over new tariff rates - The Guardian",
+      "pubDate": "Tue, 08 Jul 2025 19:03:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -3317,6 +3313,10 @@
     {
       "title": "Elon Musk isn't the first businessman who's tried to challenge America's two-party system - Business Insider",
       "pubDate": "Tue, 08 Jul 2025 09:21:00 GMT"
+    },
+    {
+      "title": "Elon Musk says he\u2019ll start a new political party. He\u2019s not the first. - The Washington Post",
+      "pubDate": "Tue, 08 Jul 2025 19:30:07 GMT"
     }
   ],
   "cancer": [
@@ -3475,10 +3475,6 @@
     {
       "title": "Republican senators seek to change Senate bill clean energy tax, improve tax credits - Reuters",
       "pubDate": "Mon, 30 Jun 2025 22:05:46 GMT"
-    },
-    {
-      "title": "GOP fight over clean energy threatens to derail megabill - Politico",
-      "pubDate": "Mon, 30 Jun 2025 19:39:34 GMT"
     },
     {
       "title": "US startup Lyten to take over Northvolt's energy storage systems factory in Poland - Reuters",
@@ -3889,6 +3885,10 @@
     {
       "title": "Bitcoin Price Rises. Why Trump, Fed Rates, ETFs May Be Driving Cryptos. - Barron's",
       "pubDate": "Mon, 07 Jul 2025 08:11:00 GMT"
+    },
+    {
+      "title": "Bitcoin is coiled to break out to $170k, analyst says - Fox Business",
+      "pubDate": "Tue, 08 Jul 2025 19:13:49 GMT"
     }
   ],
   "us_congress": [
@@ -4765,6 +4765,10 @@
     {
       "title": "Militants kill 5 Israeli soldiers in Gaza and Israeli strikes kill 51 Palestinians - AP News",
       "pubDate": "Tue, 08 Jul 2025 18:01:00 GMT"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill nearly 80 Palestinians since dawn - Al Jazeera",
+      "pubDate": "Tue, 08 Jul 2025 18:11:15 GMT"
     }
   ],
   "history_of_the_earth": [
