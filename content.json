@@ -1,72 +1,62 @@
 {
-  "NASA": {
+  "US Foreign Policy": {
     "articles": [
       {
-        "title": "Trump\u2019s NASA budget could cede solar system to China, scientists warn - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnZrRFZGamk1NHZmYk9TTl9XcjhnZk0xM0ZpbVA1SVlzS2NMOFJFNU95Y0h0UUc1dks4MldzSGwtay1PWjJyR1BBRVR5d00xbzBBWjQtZnVvWHcxS0s3MnB5VDh2QnVJZWRUZ0JmZ2hOd05IaG8xY2F4RDBVc1BMak8xdDBIbkE?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 13:01:32 GMT"
+        "title": "US, Israel diverge on how to pursue Iran endgame after strikes, diplomats say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW9veWlWSU5nNG4xaTV1N1VYUmx6ZWVFNmk3TEgwTzlqODhtMDlUZUFyWGVCVDhIVU9xZzBOMC1VVFNTazF3RFZHVE5LdDhMa3FKbDkzeGxJaTVHOWZ5SEFpb0RSUnd2dU5VbmJYaW54ek1HeWZmcTB1WHpnZlVuVnFUdzFpdGhKeTltQzZtalU5Q2xoMkNsV3VCRWFUUDhaLTdUYlhwNGd6WndDSDE2dl9tLUVXd1g1THZKdEZkUlQ?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 14:50:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
   },
-  "Trade War": {
+  "Cancer": {
     "articles": [
       {
-        "title": "Trump\u2019s new tariffs: Who is hit, what\u2019s next, how is the world responding? - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEhEWEs1ZjFFa19Gand3Z081R25yYzBGcGFVcElHQ3NrSXdPUG1QbTItTEJ0WlBzLURwdjVKSEFhcDNiWVRnNjF3QnFNN1k4NnE2dm15YTFLdFVNbU9FQWpwbklPVFpjREdnQVBXOVJsOFBSalhSOVdaSDQ4MDJOZXE5Q1pOWHhyRWRvT0RnUDJJbTZpcFJRSno5V0hlQnMyZzItU0ZnNWs0MkdGY25v?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 12:45:32 GMT"
+        "title": "Breast cancer vaccine breakthrough: Over 75% show immune response - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjBySi1jTkFLV252V2lGQnd4SjBCWTZfUExIYXlUcjN1cGl5Zkt5VVRUOTg3b0NzX25pUld3N1BqVzJSdU4zWmVNeVNxb0gtS1BVVkhRUVBRVmxPaWs1VVowaHlzcjhUT2ZlVkQ2RGQyR3FtMXpleVozUnI4LWw5Z1Jrd1AxSTROU09jcWF1YVBMdDFCekFRdmttdmVoYmtu?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 14:18:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
-  },
-  "Oceans": {
-    "articles": [
-      {
-        "title": "Scientists make concerning discovery after studying crucial 'gateway' between oceans: 'First-order importance' - Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1ZEM3ZwX3hDU251UjYwd1NaRXVEdGI4M1hQQktXQXU2YTh6VHhwOHhUWG4tY1d5N0llY2JJUDB0YU1iVmhhc3UxeHBLd3dlbWE1bTlBOE5Xd2FqMXIzZjROVmVnanVnRTlfMkp5MTk5SWVPVUJWYTJfYlhSVU9Gd1pIYU5ob1loaVU4WWJ5czY0MWdp?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 10:45:55 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
-  },
-  "Terrorism": {
-    "articles": [
-      {
-        "title": "How terrorist groups are leveraging AI to recruit and finance their operations | Islamic State - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnRaQXZhZktuMGpWYko1WnpoQW9Hb1ozd1ZNNmxqc1d4X0JaZWtpa2tGNXBWRlpYWXlIWUNMcWs0ZGpmQW01ZkVEazN3WlU2dG12MmxoWThPWUk3dDBOVWRWVjQ1dTdhclBIZFhPX2RrSGhtZzZJNlJJYjBTeERGRE5PU2JBeTZSaWpOeV9MNA?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 10:02:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "New quantum record: Transmon qubit coherence reaches millisecond threshold - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlo2MUtvbUJZTzNZbkxMOUlXRmZxalVza0l3RHE5elJsWHlzUFhrXzhlTUhJVTdYcGtlSzFMS1FoNG5kTzVQcTM3VDR0UGNaNTJERUNBTUNxYnJuUFRka2JRei1fUTZVMy1NdS1BcmVfN1I5M0xrbmxHTkZtcEZWYWJXVG5rZ9IBhAFBVV95cUxNLUstY2g4ZlQzNk9IVWhUTW5XZjhJbjc4b2lycE9QQUp3WHhvR0hpMTlOc3FwM2pJaGtFNTZxVW8zZlhrMnFwT2lnbzZLUmVpMkxaYnpkUktqYUxrdE9GS2thekNibjB5b1NRamFhQWFsWXZZTDNwNF9pVUl4VzV5VHRMUlk?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 09:00:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
   },
   "Renewable Energy": {
     "articles": [
       {
-        "title": "A heat wave hit New England\u2019s grid. Clean energy saved the day. - Canary Media",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGwzRk5wa3ZfWU5Ia1lEbFBOVGtaZDhBbjhvLVV2d0dQZFpWeUNzZS1NYkNUaEZtcnhNeGhHYlBlT3drQ1djUlNfMGw2TTN3SjNjS3BMRktsQzRrVzg4UEtXd2ktZHZfeDZHaWk4QVl3UGhvQ0VtSTZ0WmxKZTZGb3Y5cXVCYnlBWWRUMmg1YnRnZjZ2Y2Vz?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 07:30:00 GMT"
+        "title": "Trump orders tight rules for wind, solar tax credits - Renewables Now",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDVGTG9XcnhpS1VIM1VEdjRTS2EzUXFkb3JleWZBaUp0WUEzRnFBZC0wRmkzcTJwR1Uxai1iMy1VQTdRbkFQT3Nnc0JtS05GblI3ZkJXcnlmd1o3ZUhYZ0hsTV9kbHRzTkpuMmJkMW8tWExGUmk1S0NPRV9zY3lHM1QtNC1RY3dGbXhrVnVsbWVmWDlxSFE?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 13:43:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
   },
-  "North Korea": {
+  "Atmospheric Science": {
     "articles": [
       {
-        "title": "North Korea\u2019s Second Chance? - Foreign Affairs",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tR0Vvanlndkdub21KTlZRd0xTSFdqTm9GeHg2dEtWRjhSUDdlenZZVmxacFZ2Ry1ua0l5cmhsSWQ2NHlNTGQ0VW10ZFJqTGV0UUo1MHBLWTJqNkp4MDdMZ2lsenIzMEVRMGEyYWR6bGR1VUNyZm95bw?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 04:00:00 GMT"
+        "title": "Mysterious 'Sprite' Phenomenon Stuns Mexico - OpenTools",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBha2trSW80LW9ra0VYNmhBdWtLTkNZMFp2WmN4QlBXTDNvdGY2bnZuZGlRLWhhQUp4UUROZ1pWTWs3REFFdG0tQk4xMVdLV2NUOHlUZE4xREN1Z1g4Si1PLVliV255MUp5ZEdteXFkWklGdXFvUFE?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 11:08:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T14:03:09.400404+00:00"
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Ohio to require AI rules in K-12 schools - Axios",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTjNDNTFGSGQzT2x1VjEwQ0RNa3hBLWJQMUNmTC02NU1mWHloQ3Z4Um9mSHFkWHFpc0k0SFZDWXUzQkFEaXQ2bUY0WUZUa3haYnlqM3N1U1FLczl2bFEyQW82aDYtam1PY1BoS2NtV2g0TkFNWmpnanV6cG1MWHV3MWoxdnBhb1c1a3RlY3prMW81dzdJSzgwdWFjNVc4SktCY2dBdQ?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 10:09:07 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
+  },
+  "Globalization": {
+    "articles": [
+      {
+        "title": "Putin Says Liberal Globalization Model is Obsolete - Tempo.co English",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEdhdzNHTFp2MmZGeHVjUEZxMXNXZ0VuaU0zTjl6cTRZOG9QTDBHc1pteXZLMjJ6YVFXdGJIWF9IdWJuYUs4OXViTHZHRHJ2NDVJV1RlaktnYmR4eFBwMWpQWW5wTHI2S3NnbFVtbUtaeDNvS3pPUWVZSGxYRkFRQUpKdXA3RnNrWTV3?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 09:49:47 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-08T15:04:33.753119+00:00"
   }
 }
