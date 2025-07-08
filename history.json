@@ -63,10 +63,6 @@
   ],
   "iran": [
     {
-      "title": "Iran: More than 900 killed in war with Israel - The Hill",
-      "pubDate": "Mon, 30 Jun 2025 21:44:00 GMT"
-    },
-    {
       "title": "Iran assesses the damage and lashes out after Israeli and US strikes damage its nuclear sites - AP News",
       "pubDate": "Tue, 01 Jul 2025 12:26:00 GMT"
     },
@@ -104,14 +100,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump drops lawsuit against Iowa pollster Ann Selzer, Des Moines Register - NBC News",
-      "pubDate": "Mon, 30 Jun 2025 22:00:30 GMT"
-    },
-    {
-      "title": "Trump Insults America\u2014Again - The Atlantic",
-      "pubDate": "Mon, 30 Jun 2025 21:52:00 GMT"
-    },
     {
       "title": "Elon Musk vows campaigns against every Republican who votes for Trump\u2019s agenda - The Independent",
       "pubDate": "Mon, 30 Jun 2025 22:30:00 GMT"
@@ -929,10 +917,6 @@
       "pubDate": "Tue, 01 Jul 2025 00:05:27 GMT"
     },
     {
-      "title": "Apple may power Siri with Anthropic or OpenAI models amid AI struggles - Engadget",
-      "pubDate": "Mon, 30 Jun 2025 21:20:28 GMT"
-    },
-    {
       "title": "Elon Musk's xAI raises $10 billion in debt and equity as it steps up challenge to OpenAI - CNBC",
       "pubDate": "Tue, 01 Jul 2025 08:37:27 GMT"
     },
@@ -1367,6 +1351,10 @@
     {
       "title": "Impostor uses AI to impersonate Rubio and contact foreign and US officials - AP News",
       "pubDate": "Tue, 08 Jul 2025 18:52:00 GMT"
+    },
+    {
+      "title": "China Wants to Use 115,000 Banned Nvidia Chips to Fulfil Its AI Ambitions (NVDA) - Bloomberg",
+      "pubDate": "Tue, 08 Jul 2025 21:00:00 GMT"
     }
   ],
   "climate": [
@@ -1517,6 +1505,10 @@
     {
       "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
+    },
+    {
+      "title": "Scientists link increased flash floods to climate change, warn of future weather threats - WLOS",
+      "pubDate": "Tue, 08 Jul 2025 21:28:05 GMT"
     }
   ],
   "ukraine": [
@@ -1823,10 +1815,6 @@
   ],
   "us_economy": [
     {
-      "title": "How Trump\u2019s big bill could leave states scrambling to cover federal funding cuts - AP News",
-      "pubDate": "Mon, 30 Jun 2025 21:12:00 GMT"
-    },
-    {
       "title": "Sharp HealthCare to lay off 315 employees due to economic challenges - cbs8.com",
       "pubDate": "Tue, 01 Jul 2025 01:12:00 GMT"
     },
@@ -2016,10 +2004,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Xi Jinping's Absence Signals Power Shift? Intel Sources Warn China's Internal Turmoil May Spill Over To LAC - News18",
-      "pubDate": "Mon, 30 Jun 2025 22:04:00 GMT"
-    },
     {
       "title": "China's June factory activity unexpectedly expands, private survey shows - CNBC",
       "pubDate": "Tue, 01 Jul 2025 02:03:00 GMT"
@@ -2571,6 +2555,10 @@
     {
       "title": "Trump Pledges to Send More Weapons to Ukraine - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 03:51:42 GMT"
+    },
+    {
+      "title": "Trump suggests taking over New York City and Washington - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 08 Jul 2025 19:27:25 GMT"
     }
   ],
   "democratic_party": [
@@ -3369,6 +3357,10 @@
     {
       "title": "Lockheed Martin offers to rescue Mars mission from budget death - New Atlas",
       "pubDate": "Mon, 07 Jul 2025 02:04:34 GMT"
+    },
+    {
+      "title": "Trump explains why he pulled Jared Isaacman's nomination for NASA chief - Space",
+      "pubDate": "Tue, 08 Jul 2025 21:00:00 GMT"
     }
   ],
   "health_care": [
@@ -4515,6 +4507,10 @@
     {
       "title": "NASA has half-baked risk management for cybersecurity, scathing report finds - The Mandarin",
       "pubDate": "Sun, 06 Jul 2025 23:31:45 GMT"
+    },
+    {
+      "title": "U.S. to ban Chinese purchases of farmland, citing national security - The Washington Post",
+      "pubDate": "Tue, 08 Jul 2025 20:38:51 GMT"
     }
   ],
   "ethereum": [
@@ -4753,6 +4749,18 @@
     {
       "title": "Massive $1B Energy Deal: Indonesia Taps Elong Power for Nationwide Green Energy Storage Revolution - Stock Titan",
       "pubDate": "Tue, 08 Jul 2025 20:05:00 GMT"
+    }
+  ],
+  "electric_vehicle": [
+    {
+      "title": "After nearly two decades, tax credits for electric vehicles will end on Sept. 30 - marketplace.org",
+      "pubDate": "Tue, 08 Jul 2025 21:00:00 GMT"
+    }
+  ],
+  "planetary_defense": [
+    {
+      "title": "Massive boulders ejected during DART mission may complicate future asteroid deflection efforts - Phys.org",
+      "pubDate": "Tue, 08 Jul 2025 16:03:04 GMT"
     }
   ]
 }
