@@ -71,10 +71,6 @@
   ],
   "iran": [
     {
-      "title": "CIA chief says strike on metal conversion site set Iran nuclear program back by years - The Times of Israel",
-      "pubDate": "Mon, 30 Jun 2025 03:38:10 GMT"
-    },
-    {
       "title": "Over 1,500 Explosion-induced Earthquakes Recorded Amid 12-day US-Israeli Strikes On Iran - Iran Front Page - Iran Front Page",
       "pubDate": "Mon, 30 Jun 2025 06:55:07 GMT"
     },
@@ -128,10 +124,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
-      "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "Trump admin live updates: Senate to begin 'One Big Beautiful Bill' vote-a-rama Monday - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 30 Jun 2025 07:32:00 GMT"
@@ -681,10 +673,6 @@
     {
       "title": "Russia says NATO spending increase may lead to the collapse of alliance - Reuters",
       "pubDate": "Mon, 30 Jun 2025 07:34:58 GMT"
-    },
-    {
-      "title": "Russia grooms Ukrainian teens as spies and saboteurs - Financial Times",
-      "pubDate": "Mon, 30 Jun 2025 04:00:01 GMT"
     },
     {
       "title": "Russia reportedly closes Crimean Bridge amid explosions in Kerch - The Kyiv Independent",
@@ -1491,6 +1479,10 @@
     {
       "title": "AI could be about to completely change the way we do mathematics - New Scientist",
       "pubDate": "Mon, 07 Jul 2025 09:00:33 GMT"
+    },
+    {
+      "title": "Apple Loses Top AI Models Executive to Meta\u2019s Hiring Spree - Bloomberg.com",
+      "pubDate": "Mon, 07 Jul 2025 22:17:43 GMT"
     }
   ],
   "climate": [
@@ -2459,6 +2451,10 @@
     {
       "title": "China's rare earth export controls are good for Beijing, bad for business - Reuters",
       "pubDate": "Mon, 07 Jul 2025 08:06:21 GMT"
+    },
+    {
+      "title": "How Harvard\u2019s Ties to China Helped Make It a White House Target - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 20:31:26 GMT"
     }
   ],
   "world_news": [
@@ -2480,14 +2476,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "US Senate begins debate on Trump\u2019s \u2018Big, Beautiful Bill\u2019 - Al Jazeera",
-      "pubDate": "Mon, 30 Jun 2025 03:08:43 GMT"
-    },
-    {
-      "title": "Senate advances Trump plan to gut social programs to benefit the super-rich - World Socialist Web Site",
-      "pubDate": "Mon, 30 Jun 2025 03:29:51 GMT"
-    },
     {
       "title": "Senate to begin 'vote-a-rama' on GOP bill and two firefighters killed in ambush: Morning Rundown - NBC News",
       "pubDate": "Mon, 30 Jun 2025 11:07:26 GMT"
@@ -2870,10 +2858,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "More than 25% of UK businesses hit by cyber-attack in last year, report finds - The Guardian",
-      "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "Agencies warn Iranian hackers may still target US entities, networks - The Hill",
       "pubDate": "Mon, 30 Jun 2025 14:49:00 GMT"
@@ -3283,6 +3267,10 @@
     {
       "title": "Hamas Says Lost Control Of 80% Of Gaza Amid IDF Advance | LIVE BLOG - i24NEWS",
       "pubDate": "Mon, 07 Jul 2025 20:48:31 GMT"
+    },
+    {
+      "title": "Trump pushes Netanyahu for Gaza truce, says Hamas 'wants' latest ceasefire deal - France 24",
+      "pubDate": "Tue, 08 Jul 2025 03:40:17 GMT"
     }
   ],
   "federal_reserve": [
@@ -3757,6 +3745,10 @@
     {
       "title": "Tesla short sellers score $1.4 billion windfall as Musk\u2019s political moves tank stock - USA Today",
       "pubDate": "Mon, 07 Jul 2025 22:32:14 GMT"
+    },
+    {
+      "title": "Tesla slides as Musk's 'America Party' heightens investor worries - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 20:46:39 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4043,6 +4035,10 @@
     {
       "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
       "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Google's Fusion Gamble: Betting on the Future of Clean Energy - AInvest",
+      "pubDate": "Mon, 07 Jul 2025 16:01:57 GMT"
     }
   ],
   "us_senate": [
@@ -4431,6 +4427,10 @@
     {
       "title": "BRICS nations push back as Trump warns of tariffs - NPR",
       "pubDate": "Mon, 07 Jul 2025 20:22:18 GMT"
+    },
+    {
+      "title": "Trump's Tariff Threat to BRICS Over 'Anti-American' Concern - Time Magazine",
+      "pubDate": "Mon, 07 Jul 2025 19:33:11 GMT"
     }
   ],
   "oceans": [
@@ -4757,6 +4757,12 @@
     {
       "title": "Earth is going to spin much faster over the next few months \u2014 so fast that several days are going to get shorter - Live Science",
       "pubDate": "Mon, 07 Jul 2025 14:18:28 GMT"
+    }
+  ],
+  "effects_of_global_warming": [
+    {
+      "title": "Study warns 1.5-degree warming limit can\u2019t prevent dangers of melting glaciers - PBS",
+      "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
     }
   ]
 }
