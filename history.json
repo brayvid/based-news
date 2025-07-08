@@ -113,14 +113,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump\u2019s \u2018Big\u2019 Policy Bill Threatens U.S. Clean Energy Future - Council on Foreign Relations",
-      "pubDate": "Mon, 30 Jun 2025 15:14:07 GMT"
-    },
-    {
-      "title": "Senate inches toward a vote on Trump\u2019s sweeping domestic policy bill - CNN",
-      "pubDate": "Mon, 30 Jun 2025 16:01:00 GMT"
-    },
-    {
       "title": "Live updates: White House urges GOP to \u2018stay tough\u2019 as Senate debates amendments to Trump\u2019s bill - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 17:39:48 GMT"
     },
@@ -635,16 +627,16 @@
     {
       "title": "Trump tariffs live: Germany warns EU ready to retaliate unless US reaches \u2018fair\u2019 trade deal - Financial Times",
       "pubDate": "Tue, 08 Jul 2025 12:24:45 GMT"
+    },
+    {
+      "title": "Trump's tariffs: South Africa's President Cyril Ramaphosa opposes 'unilateral' move - BBC",
+      "pubDate": "Tue, 08 Jul 2025 13:28:16 GMT"
     }
   ],
   "russia": [
     {
       "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
       "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
-    },
-    {
-      "title": "Russia Summons Azerbaijani Envoy as Tensions Flare Over Arrests - Bloomberg",
-      "pubDate": "Mon, 30 Jun 2025 15:17:08 GMT"
     },
     {
       "title": "Russia says Moscow now occupies all of Ukraine\u2019s Luhansk region, illegally annexed in 2022 - AP News",
@@ -1887,6 +1879,10 @@
     {
       "title": "Ukraine seeks more details on US weapons U-turn days after Pentagon halts delivery - The Guardian",
       "pubDate": "Tue, 08 Jul 2025 11:11:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Trump pledges more weapons for Kyiv - The Independent",
+      "pubDate": "Tue, 08 Jul 2025 12:52:00 GMT"
     }
   ],
   "us_economy": [
@@ -2088,10 +2084,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China coffee giant Luckin opens its first U.S. stores in New York City - CBS News",
-      "pubDate": "Mon, 30 Jun 2025 15:50:52 GMT"
-    },
     {
       "title": "Xi Jinping's Absence Signals Power Shift? Intel Sources Warn China's Internal Turmoil May Spill Over To LAC - News18",
       "pubDate": "Mon, 30 Jun 2025 22:04:00 GMT"
@@ -2398,10 +2390,6 @@
     }
   ],
   "world_news": [
-    {
-      "title": "Israeli attack on a cafe in Gaza kills 30 Palestinians - Al Jazeera",
-      "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
-    },
     {
       "title": "Israel Has Agreed To Conditions To Finalise 60-Day Gaza Ceasefire: Trump - NDTV",
       "pubDate": "Tue, 01 Jul 2025 22:56:54 GMT"
@@ -3461,10 +3449,6 @@
   ],
   "health_care": [
     {
-      "title": "Inside Operation Gold Rush, largest health care fraud bust in U.S. history - The Washington Post",
-      "pubDate": "Mon, 30 Jun 2025 15:17:04 GMT"
-    },
-    {
       "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
       "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
     },
@@ -3976,10 +3960,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Google strikes deal to buy fusion power from MIT spinoff Commonwealth - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 15:30:22 GMT"
-    },
     {
       "title": "Google just pre-ordered 200 megawatts of fusion energy for the 2030s - New Atlas",
       "pubDate": "Tue, 01 Jul 2025 07:12:13 GMT"
@@ -4683,6 +4663,10 @@
     {
       "title": "Scientists aid WHO loneliness response - China Daily",
       "pubDate": "Mon, 07 Jul 2025 02:07:00 GMT"
+    },
+    {
+      "title": "First malaria treatment for newborn babies approved for use - The Washington Post",
+      "pubDate": "Tue, 08 Jul 2025 15:11:54 GMT"
     }
   ],
   "wind_power": [
@@ -4719,6 +4703,10 @@
     {
       "title": "Apple appeals 500 million euro EU fine over App Store policies - CNBC",
       "pubDate": "Mon, 07 Jul 2025 13:29:25 GMT"
+    },
+    {
+      "title": "Apple Arcade launches four new games in August - Apple",
+      "pubDate": "Tue, 08 Jul 2025 13:59:48 GMT"
     }
   ],
   "chemistry": [
@@ -4753,6 +4741,10 @@
     {
       "title": "GoodData Launches AI for Self-Hosted Analytics: Powerful, Proven, Private - USA Today",
       "pubDate": "Mon, 07 Jul 2025 13:13:38 GMT"
+    },
+    {
+      "title": "Sensormatic Launches AI-Powered Retail Analytics Platform with Privacy-First Design | JCI Stock News - Stock Titan",
+      "pubDate": "Tue, 08 Jul 2025 14:28:00 GMT"
     }
   ],
   "cloud_computing": [
