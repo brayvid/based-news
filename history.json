@@ -63,6 +63,10 @@
     {
       "title": "LIVE: Gaza hospital, shelters, and aid sites attacked by Israel killing 42 - Al Jazeera",
       "pubDate": "Mon, 07 Jul 2025 10:35:39 GMT"
+    },
+    {
+      "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 10:31:49 GMT"
     }
   ],
   "iran": [
@@ -116,10 +120,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump Calls for Israel-Hamas Ceasefire - Time Magazine",
-      "pubDate": "Mon, 30 Jun 2025 10:58:47 GMT"
-    },
     {
       "title": "Senate Democrat: GOP budget math \u2018as fake as Donald Trump\u2019s tan\u2019 - The Hill",
       "pubDate": "Mon, 30 Jun 2025 13:29:00 GMT"
@@ -899,13 +899,13 @@
     {
       "title": "India\u2019s AI watchdog: What the IndiaAI Safety Institute will do - Moneycontrol",
       "pubDate": "Tue, 08 Jul 2025 07:36:25 GMT"
+    },
+    {
+      "title": "How AI computer vision is redefining workplace safety - The HR Director",
+      "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Ignoring a $7 Trillion Financial Disaster Won\u2019t Make It Go Away - Bloomberg.com",
-      "pubDate": "Mon, 30 Jun 2025 10:30:26 GMT"
-    },
     {
       "title": "US stocks push further into record heights - The Morning Call",
       "pubDate": "Mon, 30 Jun 2025 20:03:45 GMT"
@@ -968,10 +968,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence at Barclays \u2013 Two Use Cases - Emerj Artificial Intelligence Research",
-      "pubDate": "Mon, 30 Jun 2025 10:12:50 GMT"
-    },
     {
       "title": "Artificial Intelligence: The Defining Investment Theme of Our Era - Morningstar",
       "pubDate": "Mon, 30 Jun 2025 11:05:35 GMT"
@@ -2443,6 +2439,10 @@
     {
       "title": "China Military Uses Laser on NATO Nation's Aircraft: What to Know - Newsweek",
       "pubDate": "Tue, 08 Jul 2025 08:28:41 GMT"
+    },
+    {
+      "title": "Trump's trade advisor slams Apple's China ties \u2014 but Wall Street says it can't afford to leave - Business Insider",
+      "pubDate": "Tue, 08 Jul 2025 09:30:00 GMT"
     }
   ],
   "world_news": [
@@ -3005,10 +3005,6 @@
   ],
   "hamas": [
     {
-      "title": "Israeli military plans bigger Gaza op., waits for Hamas hostage response - The Jerusalem Post",
-      "pubDate": "Mon, 30 Jun 2025 10:21:11 GMT"
-    },
-    {
       "title": "Israeli Hostage Died of Heart Attack During Hamas Torture in Gaza Captivity, Brother Says - Haaretz",
       "pubDate": "Mon, 30 Jun 2025 12:31:00 GMT"
     },
@@ -3321,10 +3317,6 @@
       "pubDate": "Mon, 30 Jun 2025 13:10:12 GMT"
     },
     {
-      "title": "Why Redding has earthquakes: Here's what happens in Shasta Cascade region - Yahoo",
-      "pubDate": "Mon, 30 Jun 2025 11:01:49 GMT"
-    },
-    {
       "title": "Scientists detect a rare slow-motion earthquake along Japan\u2019s tsunami fault - Earth.com",
       "pubDate": "Tue, 01 Jul 2025 18:10:51 GMT"
     },
@@ -3437,6 +3429,10 @@
     {
       "title": "Elon Musk's Trump fallout poses deepening risks to Tesla, SpaceX - Axios",
       "pubDate": "Tue, 08 Jul 2025 09:02:10 GMT"
+    },
+    {
+      "title": "Elon Musk isn't the first businessman who's tried to challenge America's two-party system - Business Insider",
+      "pubDate": "Tue, 08 Jul 2025 09:21:00 GMT"
     }
   ],
   "cancer": [
@@ -4489,6 +4485,10 @@
     {
       "title": "US plans to begin breeding billions of flies to fight a pest. Here is how it will work - JC Post",
       "pubDate": "Sun, 06 Jul 2025 20:27:34 GMT"
+    },
+    {
+      "title": "Scientists Reveal Why Cats Always Sleep on Their Left Side - SciTechDaily",
+      "pubDate": "Tue, 08 Jul 2025 09:04:22 GMT"
     }
   ],
   "quantum_computing": [
@@ -4817,6 +4817,12 @@
     {
       "title": "Russia increasing military presence in Armenia, Ukraine claims - Euronews.com",
       "pubDate": "Tue, 08 Jul 2025 05:50:56 GMT"
+    }
+  ],
+  "data_mining": [
+    {
+      "title": "New Data Reveals: Hyperscale Data Hits $11.2M in Bitcoin Mining Revenue as Two New Sites Power 18,200 Miners - Stock Titan",
+      "pubDate": "Tue, 08 Jul 2025 10:30:00 GMT"
     }
   ]
 }

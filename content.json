@@ -1,72 +1,62 @@
 {
-  "Hamas": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Report provides legal framework to prosecute sexual violence during Oct. 7 Hamas massacre - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmowVXoyTEJUZkR6UG8zTkhKOVZOMUt2QnpLbmVJOFQ5TmVjX2UyaXFCeHVaT1dlY09FdU5DRGR3SElxNG1CcG9uRjRwVnJnWTZZaHY1bTVqZFRsN0QyOHZhOUZYVmZLUG1aRkV6UFZmYkN1UjZNajc1VHNKbGljRUxCRXo4TEQ3OWl1NWpTRHhSeEV0b0xla0xRS2ZFN0REeVY1VmxUYTRkM3RVX3ZnZ1ZWdDNZNnVsdDlCZVBOMDhYVzFRc1pEbkJPWWRRNzA?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 09:10:40 GMT"
+        "title": "How AI computer vision is redefining workplace safety - The HR Director",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlk1TGxTeXhiX200eEVXZ25VTllyUXB5aFNXd1BjbkpmRUZMdGNHU0pBWVJHLTRrUFdWNWNoU0dFXzgzX1pnbDNBVGU4N1MyZnZDWFdXek1xT0VjWG0xWktSWmRzbWVZeFpOZk5OYjAyUTNwaG05cmlPb1U4NWlORUhsVmhwQUE4VktpaEtQb2NuOGVSME1lWFo3RjZIRC12NkI3ajZzcElBMEk?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW1mNEdzTTBReENVX2VPcFN5T2VwUElxTE1sRVVBeVMwNXVldWhtZW1XT2tOQ2Q5bU4zMWk1WFBSY2JlT3ZVb2RnMEV4Z0UyVHlXLVZIdWtQWU56eUNxN0JIN2VJWEtfaUYyZEFpaG9vWURqRlhlLWdhVDZLNllIak43eVNWQWRpVjRtWQ?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 10:31:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
+  },
+  "Data Mining": {
+    "articles": [
+      {
+        "title": "New Data Reveals: Hyperscale Data Hits $11.2M in Bitcoin Mining Revenue as Two New Sites Power 18,200 Miners - Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGl1akdHSlJNNWlxTWthSjJwRHhzaThyOEhmazB4LWFhTHpLQU50Mlo0aFZrQTY2a2hLWUEwVVltU2xvX1ZnU2piX2Iycm1JdVYtcHBqU2UwM3pMWjNDLXRXVjBNSHpQWUlnUWk3Z0NTVUQ1Mnd2NDJlNnVWUmdVdjlEbmVOdWxUTWtCSmhvcXN5NzNNUjNNQV9POW1CdmdRNmxDTlM1SEVxbGt1bUh1X2tBY3dDb2pfdjZ2R3RncGM?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 10:30:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Trump's trade advisor slams Apple's China ties \u2014 but Wall Street says it can't afford to leave - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0lOQUNYZmtvdHpmaW5lNHk5c2dpY3pLV2syd0JFTGgwZGpHZ2FZMm1nMWhncXJray1UeGE3TnI1RVFCRXBvaFdaSGh5dFJqTE5GRjg2aUJYUGpZbjlSX2t5bmJDcGFZaklmTnJWV3lpQlprNFg1c0NRWExXOWt1SGIxN2JlbnhFWTlHNzlLbEluUlZjUGQ3elVVMlh0RW1JSU0tTUJGZEg?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 09:30:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
   },
   "Elon Musk": {
     "articles": [
       {
-        "title": "Elon Musk's Trump fallout poses deepening risks to Tesla, SpaceX - Axios",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWEJaSXJISDJLSkhSSnFtaFQwSlFEOWQ1NTg5MHd2TzRhZi0wZ1ZoYVZIVE9lYVV6Y2dobDBhdDVIdXNFSUlFLWhWZXA4bUNoNGV1NlNLTmNRVjQzS0dHN0FJS1J5cUd6ZGhNeG92XzlZU1Z4MFFz?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 09:02:10 GMT"
+        "title": "Elon Musk isn't the first businessman who's tried to challenge America's two-party system - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1pScTgwTzhwV015QmVJRExMWlE1c2wtdUxIY1hrSm53VHNHU2FEb2xGd1lYa0R0cVRxSWU4RFZFUW1YN0tISGNyXzJSUzA5NGt2R1N3SHE5NUVhdjBNUnM0UEJZVGlmRzE3b2tXakJjY3BiTnZVejNORElOMTU1S0VGaC1rekZqeUZKbWRyTkQ0WG5uemlwMnJzd3l5U1Vu?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 09:21:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
   },
-  "Climate": {
+  "Biology": {
     "articles": [
       {
-        "title": "Deadly floods could be new normal as Trump guts federal agencies, experts warn | Texas floods 2025 - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHI1MzBVYy1xTUJCMXpSTEVzN3pLcXdibXkwSEF5VU42TG9IM2ZKRkljWDhDQzVjUzlfZUdIeHlzLWNXTUExU2U3MVJleDliLUYzemJTYXZTeGNLeUtON3pVQXFuV0FzUncxNDN4QTR0THNiZzlPWUtONW42LTZRWHZ5QmptYW9hazBUUThlRXE?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 09:02:00 GMT"
+        "title": "Scientists Reveal Why Cats Always Sleep on Their Left Side - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSERkVGgzbjFZcmhPd1hPd3FkS01EbmtkVmZhX1lldzV0ei05dWtXajZSaDJpczlqQzA5TTQwQm9vVWVJSzJ5UGE1REV2UUhNeExPVkJ0QkFDUmN4XzhSNGlaQ2pBTkdKeEh6bmFfX3RXUHVoN1hEYUN3RzlvVzdrc0VUZVJURDdMYmZpTw?oc=5",
+        "pubDate": "Tue, 08 Jul 2025 09:04:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
-  },
-  "OpenAI": {
-    "articles": [
-      {
-        "title": "OpenAI clamps down on security after foreign spying threats - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2TEZIWjkwUjA2cWJnLU5oaHFpRUhUWEtYQmhxZG91VXRoUWlEZ0hQT0N6QTZpbFhsU3RDbFdHMllwWkhyU3VHSVEtUnhkUDdaRGdBaTNvaFRnSGdTSmVRb1ByYXRZd2ttSVVURzZDbTg?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 04:01:02 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
-  },
-  "Trade War": {
-    "articles": [
-      {
-        "title": "Trump Pushes Global Trade War Back to the Top of His Agenda - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUFhFd1EtUVhKTTdMMmVJR0IxU2drZE93VU5CcE1jU2ZHVWhwcjE5TEZDZ1Q1MDJRZkIxTV9IYThONUpvNzdJMjZlRGN2NmgwRzlyLUxxTmp1N3Q4OV84NHp0a05kTXJwUHBCTWhueThCbkc4SjBpYTcyallIWTE3LURlUXpqM2w4NWNCODE4UG5wOHR4bUtZT1BoemNUOXNLUmQxcjdkZFYzZVRaV1ZIaVI0cnY4RkZQN2pzcXZ0SWo2MmpQc2pycWpCTjUzN3pwY21yLXJ6UXgzYzlRNTFtYkxVVUQ2WmIxUDQ0M0ZaRkJEUEFFWGU3MV9WZW82SXdGSVlBY1hJZ2xUMzIzclUyNG5aY0licVJ2enp0bGhiSFU1LVBVdVA3bXdkdmFjRWprT3d2c2dTdndJbXprVnhwSVZ4TDhaaTUyd1RwM1Rxc2VlZm9LXzB6Smt0VDZHemg3czB5a2RoeEZnQjVIUlUwQktnRnBMY1hsN1hjZ1kwanFGRGZnRS1uQ0FlMEI4NDA?oc=5",
-        "pubDate": "Tue, 08 Jul 2025 01:05:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Russia jails former top general for 17 years in massive military graft case - The Kyiv Independent",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2ZMcHU4d0R4cnQwazRqc2h6UVpsa3ExemNUOFdSQ0Z5c08teTA4TlhxRmZwMzlmczBFNnBTYUVWV1QtbFI0dWduRUktMVViM084QzFsVXZETElRV3h0YnAzQVF1UXd2aWVyNXdGa2tDU0MwRzk0c3FzN1RSY0RCWTZUSWwzeDNnRXNKYmR2ek9SRm53dFRsN2d2RFEtdUZHMmc2cFhMOEo2TUctaFVxaEx30gG3AUFVX3lxTE0wWkFPUjhJczBkWFFRU0JmbTdoMDF6M1ZLaGpidkVOSnFmcXJhQl9WOVZKc1BjUlFvQnJZT0NFM3NvUmFjeVhSMGxDRkpjSnM1dHVXWTFKNVV1V1duV19jUUYwVlBwNS04T2RxVG51WXpWQUdqd0xnaldOb2dscG9JUjhIZWJkN3RRTGJLU21tOE0zcTJxZldoQnR2SGlZWmFzZS1IT3FXR3BaZ0h4cUVDdTIyV29mNA?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 23:53:49 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
-  },
-  "Ethereum": {
-    "articles": [
-      {
-        "title": "Two Ethereum Genesis Wallets Wake, Move $2.9M ETH - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11cFB3Tm5nMWUtV0E2Qm1ESkstUHk5RTdPNHdrZmUxYlVwTC15aDJNYkZYSlhGRnhFZEtTZ2M3UVJ5bUYteUxsRHVIYnFVMmhOS19JZmVMWDZrdTJhbUdYd0VGcDRnamZvWUFRSnh3U3RKZlBVbVBUMg?oc=5",
-        "pubDate": "Mon, 07 Jul 2025 22:03:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-08T10:01:41.314549+00:00"
+    "last_updated_ts": "2025-07-08T11:02:25.674609+00:00"
   }
 }
