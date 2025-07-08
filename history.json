@@ -793,14 +793,6 @@
   ],
   "ai_safety": [
     {
-      "title": "New AI safety group launches ad buy to build right-left alliance to protect humanity - The Hill",
-      "pubDate": "Mon, 30 Jun 2025 17:03:00 GMT"
-    },
-    {
-      "title": "Congress might block state AI laws for five years \u2014 here\u2019s what it means - TechCrunch",
-      "pubDate": "Mon, 30 Jun 2025 17:02:12 GMT"
-    },
-    {
       "title": "Google DeepMind Slammed by Protesters Over Broken AI Safety Promise - Tech Times",
       "pubDate": "Tue, 01 Jul 2025 07:45:32 GMT"
     },
@@ -887,6 +879,10 @@
     {
       "title": "OpenAI Shakes Up Safety: Superalignment Team Dissolved, AI Safety Gets a New Focus - OpenTools",
       "pubDate": "Tue, 08 Jul 2025 11:31:41 GMT"
+    },
+    {
+      "title": "OpenAI Fortifies Security Against Espionage, Citing DeepSeek\u2019s Alleged IP Theft - WinBuzzer",
+      "pubDate": "Tue, 08 Jul 2025 10:30:59 GMT"
     }
   ],
   "financial_markets": [
@@ -952,10 +948,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "US Senate debates whether to adopt revised state AI regulation ban - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 16:22:07 GMT"
-    },
     {
       "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 18:45:26 GMT"
@@ -1589,10 +1581,6 @@
       "pubDate": "Mon, 30 Jun 2025 20:54:08 GMT"
     },
     {
-      "title": "Why is Ukraine withdrawing from the Ottawa Treaty banning landmines? - Al Jazeera",
-      "pubDate": "Mon, 30 Jun 2025 16:46:23 GMT"
-    },
-    {
       "title": "The Future of Modern Warfare Is Being Built in Ukraine - Bloomberg.com",
       "pubDate": "Tue, 01 Jul 2025 04:00:00 GMT"
     },
@@ -1883,6 +1871,10 @@
     {
       "title": "Ukraine war latest: Trump pledges more weapons for Kyiv - The Independent",
       "pubDate": "Tue, 08 Jul 2025 12:52:00 GMT"
+    },
+    {
+      "title": "Ukraine urges investigation into alleged Russian chemical weapons use - Reuters",
+      "pubDate": "Tue, 08 Jul 2025 15:35:44 GMT"
     }
   ],
   "us_economy": [
@@ -2387,6 +2379,10 @@
     {
       "title": "Germany Accuses China of Laser Targeting Aircraft in EU Mission - U.S. News & World Report",
       "pubDate": "Tue, 08 Jul 2025 08:24:00 GMT"
+    },
+    {
+      "title": "Germany summons China\u2019s ambassador after a plane is lasered over Red Sea - AP News",
+      "pubDate": "Tue, 08 Jul 2025 10:37:00 GMT"
     }
   ],
   "world_news": [
@@ -2945,10 +2941,6 @@
       "pubDate": "Mon, 30 Jun 2025 22:31:00 GMT"
     },
     {
-      "title": "Israel kills 95 Palestinians, bombing across Gaza amid new ceasefire push - Al Jazeera",
-      "pubDate": "Mon, 30 Jun 2025 16:13:05 GMT"
-    },
-    {
       "title": "Live: Gaza death toll surges as Hamas accuses Israel of stalling ceasefire - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 06:36:55 GMT"
     },
@@ -3207,6 +3199,10 @@
     {
       "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say - BBC",
       "pubDate": "Tue, 08 Jul 2025 09:46:33 GMT"
+    },
+    {
+      "title": "New Israeli report says Hamas used sexual violence as a 'weapon of war' in Oct. 7 attack - NBC News",
+      "pubDate": "Tue, 08 Jul 2025 16:20:41 GMT"
     }
   ],
   "federal_reserve": [
@@ -3427,6 +3423,10 @@
     {
       "title": "Breast cancer vaccine breakthrough: Over 75% show immune response - The Independent",
       "pubDate": "Tue, 08 Jul 2025 14:18:00 GMT"
+    },
+    {
+      "title": "World\u2019s premier cancer institute faces crippling cuts and chaos - CNN",
+      "pubDate": "Tue, 08 Jul 2025 11:00:00 GMT"
     }
   ],
   "space_exploration": [
@@ -4099,10 +4099,6 @@
   ],
   "environment": [
     {
-      "title": "Mysterious Samurai in Dark Fantasy Japanese 3D Environment Made in Blender - 80 Level",
-      "pubDate": "Mon, 30 Jun 2025 16:13:22 GMT"
-    },
-    {
       "title": "California Rolls Back Its Landmark Environmental Law - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 03:51:25 GMT"
     },
@@ -4157,6 +4153,10 @@
     {
       "title": "Pentagon cuts off key air defense for Ukraine as Russian drone attacks skyrocket - USA Today",
       "pubDate": "Mon, 07 Jul 2025 19:32:15 GMT"
+    },
+    {
+      "title": "US only has 25% of all Patriot missile interceptors needed for Pentagon\u2019s military plans - The Guardian",
+      "pubDate": "Tue, 08 Jul 2025 10:02:00 GMT"
     }
   ],
   "google": [
@@ -4613,6 +4613,10 @@
     {
       "title": "Solar \u2018model village\u2019 illuminates challenges in India - Financial Times",
       "pubDate": "Sun, 06 Jul 2025 23:30:06 GMT"
+    },
+    {
+      "title": "Trump Orders Stricter Enforcement of Clean Energy Tax Rules - Bloomberg",
+      "pubDate": "Tue, 08 Jul 2025 15:14:42 GMT"
     }
   ],
   "large_language_models": [
