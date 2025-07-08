@@ -67,10 +67,6 @@
   ],
   "iran": [
     {
-      "title": "Over 1,500 Explosion-induced Earthquakes Recorded Amid 12-day US-Israeli Strikes On Iran - Iran Front Page - Iran Front Page",
-      "pubDate": "Mon, 30 Jun 2025 06:55:07 GMT"
-    },
-    {
       "title": "Satellite imagery reveals ongoing work at Iranian nuclear site bombed by US - CNN",
       "pubDate": "Mon, 30 Jun 2025 19:26:00 GMT"
     },
@@ -2153,10 +2149,6 @@
   ],
   "china": [
     {
-      "title": "China partially lifts ban on Japanese seafood imports - BBC",
-      "pubDate": "Mon, 30 Jun 2025 06:36:24 GMT"
-    },
-    {
       "title": "China Home Sales Slump Persists as Calls Grow for More Stimulus - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 11:23:31 GMT"
     },
@@ -2459,6 +2451,10 @@
     {
       "title": "China warns Trump on tariffs, threatens retaliation on supply chain deals - Reuters",
       "pubDate": "Tue, 08 Jul 2025 04:11:00 GMT"
+    },
+    {
+      "title": "Why China's ultimatum to Myanmar rebels threatens global supply of heavy rare earths - Reuters",
+      "pubDate": "Tue, 08 Jul 2025 03:09:00 GMT"
     }
   ],
   "world_news": [
@@ -2863,6 +2859,10 @@
     {
       "title": "Trump sets 25% tariffs on Japan and South Korea, and new import taxes on 12 other nations - AP News",
       "pubDate": "Tue, 08 Jul 2025 01:34:00 GMT"
+    },
+    {
+      "title": "Trump ramps up trade war with tariff blitz targeting 14 countries - Al Jazeera",
+      "pubDate": "Tue, 08 Jul 2025 05:48:12 GMT"
     }
   ],
   "cybersecurity": [
@@ -3020,10 +3020,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Israel-Gaza war live: Israeli forces kill 23, Gaza authorities say, amid IDF warning of major offensive in north - The Guardian",
-      "pubDate": "Mon, 30 Jun 2025 06:39:00 GMT"
-    },
     {
       "title": "Israeli military plans bigger Gaza op., waits for Hamas hostage response - The Jerusalem Post",
       "pubDate": "Mon, 30 Jun 2025 10:21:11 GMT"
@@ -3367,6 +3363,10 @@
     {
       "title": "Scientists Are Tracking an Undersea Phenomenon Off Japan\u2019s Tsunami-Prone Coast Linked to \"Silent\" Earthquakes - The Debrief",
       "pubDate": "Mon, 07 Jul 2025 19:22:31 GMT"
+    },
+    {
+      "title": "6.3-magnitude earthquake strikes off New Zealand coast - Latest news from Azerbaijan",
+      "pubDate": "Tue, 08 Jul 2025 05:49:20 GMT"
     }
   ],
   "elon_musk": [
@@ -3433,6 +3433,10 @@
     {
       "title": "Elon Musk Is Running Out of Road in China - WSJ",
       "pubDate": "Sun, 06 Jul 2025 22:18:06 GMT"
+    },
+    {
+      "title": "The Trump-Musk breakup appears to be complete - CNN",
+      "pubDate": "Mon, 07 Jul 2025 20:11:00 GMT"
     }
   ],
   "cancer": [
@@ -3895,10 +3899,6 @@
   ],
   "quantum_computer": [
     {
-      "title": "Quantum computers just beat classical ones \u2014 Exponentially and unconditionally - ScienceDaily",
-      "pubDate": "Mon, 30 Jun 2025 06:32:47 GMT"
-    },
-    {
       "title": "Quantum computer simulates spontaneous symmetry breaking at zero temperature - Phys.org",
       "pubDate": "Wed, 02 Jul 2025 20:17:04 GMT"
     },
@@ -4191,6 +4191,10 @@
     {
       "title": "Doctors and public health organizations sue Kennedy over vaccine policy changes - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 07 Jul 2025 18:00:15 GMT"
+    },
+    {
+      "title": "Public health groups file lawsuit to stop RFK Jr.\u2019s vaccine changes - The Washington Post",
+      "pubDate": "Tue, 08 Jul 2025 04:43:54 GMT"
     }
   ],
   "blockchain": [
@@ -4673,6 +4677,10 @@
     {
       "title": "Study could lead to LLMs that are better at complex reasoning - MIT News",
       "pubDate": "Tue, 08 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Scientists discover the moment AI truly understands language - ScienceDaily",
+      "pubDate": "Tue, 08 Jul 2025 06:40:23 GMT"
     }
   ],
   "geopolitics": [
@@ -4799,6 +4807,12 @@
     {
       "title": "Study warns 1.5-degree warming limit can\u2019t prevent dangers of melting glaciers - PBS",
       "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
+    }
+  ],
+  "military_intelligence": [
+    {
+      "title": "Russia increasing military presence in Armenia, Ukraine claims - Euronews.com",
+      "pubDate": "Tue, 08 Jul 2025 05:50:56 GMT"
     }
   ]
 }
