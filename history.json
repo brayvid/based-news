@@ -59,6 +59,10 @@
     {
       "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 10:31:49 GMT"
+    },
+    {
+      "title": "Israel defence minister plans to move Gaza's population to camp - BBC",
+      "pubDate": "Tue, 08 Jul 2025 10:33:24 GMT"
     }
   ],
   "iran": [
@@ -112,10 +116,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Live updates: White House urges GOP to \u2018stay tough\u2019 as Senate debates amendments to Trump\u2019s bill - The Washington Post",
-      "pubDate": "Mon, 30 Jun 2025 17:39:48 GMT"
-    },
     {
       "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
       "pubDate": "Mon, 30 Jun 2025 18:27:00 GMT"
@@ -631,13 +631,13 @@
     {
       "title": "Trump's tariffs: South Africa's President Cyril Ramaphosa opposes 'unilateral' move - BBC",
       "pubDate": "Tue, 08 Jul 2025 13:28:16 GMT"
+    },
+    {
+      "title": "Live updates: Trump addresses tariff deadline and Iran attacks during Cabinet meeting - NBC News",
+      "pubDate": "Tue, 08 Jul 2025 17:25:02 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia-Iran alliance wavers as Tehran suffers major blows - The Kyiv Independent",
-      "pubDate": "Mon, 30 Jun 2025 17:50:28 GMT"
-    },
     {
       "title": "Russia says Moscow now occupies all of Ukraine\u2019s Luhansk region, illegally annexed in 2022 - AP News",
       "pubDate": "Mon, 30 Jun 2025 20:29:00 GMT"
@@ -789,6 +789,10 @@
     {
       "title": "Russia's Ukraine war efforts could be hampered as Putin given 'recession' warning - Daily Express US",
       "pubDate": "Tue, 08 Jul 2025 08:33:08 GMT"
+    },
+    {
+      "title": "Russia expands recruitment, allowing foreigners to serve in army - Euronews.com",
+      "pubDate": "Tue, 08 Jul 2025 15:33:40 GMT"
     }
   ],
   "ai_safety": [
@@ -1568,10 +1572,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Smashing previous monthly record, Russia launches 5,337 kamikaze drones against Ukraine during June - The Kyiv Independent",
-      "pubDate": "Mon, 30 Jun 2025 17:40:19 GMT"
-    },
     {
       "title": "Ukraine war live: Kyiv claims advances in Sumy region ahead of counteroffensive - The Independent",
       "pubDate": "Mon, 30 Jun 2025 22:09:29 GMT"
@@ -2383,6 +2383,10 @@
     {
       "title": "Germany summons China\u2019s ambassador after a plane is lasered over Red Sea - AP News",
       "pubDate": "Tue, 08 Jul 2025 10:37:00 GMT"
+    },
+    {
+      "title": "China says it will retaliate on unfavorable deals after Trump warns Asia of higher tariffs - NBC News",
+      "pubDate": "Tue, 08 Jul 2025 11:14:09 GMT"
     }
   ],
   "world_news": [
@@ -2791,10 +2795,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "North Korea agents steal nearly $1 million in cryptocurrency from Buckhead business: FBI - WSB-TV",
-      "pubDate": "Mon, 30 Jun 2025 17:57:43 GMT"
-    },
-    {
       "title": "A Trio of US Treasury Hacks Exposes a Pattern Making Banks Nervous - Bloomberg.com",
       "pubDate": "Mon, 30 Jun 2025 21:00:27 GMT"
     },
@@ -2932,10 +2932,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "67 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food - AP News",
-      "pubDate": "Mon, 30 Jun 2025 17:42:00 GMT"
-    },
     {
       "title": "Israel launches waves of Gaza airstrikes after new displacement orders - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 22:31:00 GMT"
@@ -3357,10 +3353,6 @@
   ],
   "cancer": [
     {
-      "title": "New blood test detects cancers 3 years before typical diagnosis, study hints - Live Science",
-      "pubDate": "Mon, 30 Jun 2025 17:05:00 GMT"
-    },
-    {
       "title": "Thousands of cancer patients fear disruptions in care due to insurance contract dispute - CNN",
       "pubDate": "Tue, 01 Jul 2025 11:30:00 GMT"
     },
@@ -3449,10 +3441,6 @@
   ],
   "health_care": [
     {
-      "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
-      "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
-    },
-    {
       "title": "DOJ announces a record-breaking takedown of health care fraud schemes - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:39:35 GMT"
     },
@@ -3515,10 +3503,6 @@
     {
       "title": "Senate GOP tax bill could crush wind and solar power, advocates say - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 30 Jun 2025 18:39:19 GMT"
-    },
-    {
-      "title": "Senate Republicans push clean energy megabill amendments - E&E News by POLITICO",
-      "pubDate": "Mon, 30 Jun 2025 17:29:00 GMT"
     },
     {
       "title": "Senate Version of \u201cBeautiful\u201d Bill Will \u201cKill\u201d America\u2019s Clean Energy Sector, Experts Say - Mother Jones",
@@ -3951,6 +3935,10 @@
     {
       "title": "US Congress Passes Invest America Act - Bitcoin.com News",
       "pubDate": "Fri, 04 Jul 2025 22:12:40 GMT"
+    },
+    {
+      "title": "Trump takes another bite out of congressional power with TikTok, beautiful bill - The Hill",
+      "pubDate": "Tue, 08 Jul 2025 10:00:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -4157,6 +4145,10 @@
     {
       "title": "US only has 25% of all Patriot missile interceptors needed for Pentagon\u2019s military plans - The Guardian",
       "pubDate": "Tue, 08 Jul 2025 10:02:00 GMT"
+    },
+    {
+      "title": "Trump says US to help defense contractors to boost military equipment production - Reuters",
+      "pubDate": "Tue, 08 Jul 2025 16:55:34 GMT"
     }
   ],
   "google": [
@@ -4497,6 +4489,10 @@
     {
       "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
       "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
+    },
+    {
+      "title": "What is AGI? Nobody agrees, and it\u2019s tearing Microsoft and OpenAI apart. - Ars Technica",
+      "pubDate": "Tue, 08 Jul 2025 16:50:29 GMT"
     }
   ],
   "ancient_history": [
