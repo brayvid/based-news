@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli strike on cafe near Gaza City port kills dozens, hospital official says - CNN",
-      "pubDate": "Tue, 01 Jul 2025 00:04:00 GMT"
-    },
-    {
       "title": "Israel\u2019s Netanyahu Says He Will Meet With Trump Next Week - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 12:19:18 GMT"
     },
@@ -901,10 +897,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI PCs, Ryzen, and the Next Frontier in Personal Computing \u2013 Six Five On The Road - The Futurum Group",
-      "pubDate": "Mon, 30 Jun 2025 23:57:26 GMT"
-    },
-    {
       "title": "Banks Adopting AI Agents After Seeing Benefits of AI Chatbots - PYMNTS.com",
       "pubDate": "Tue, 01 Jul 2025 00:05:27 GMT"
     },
@@ -1347,6 +1339,10 @@
     {
       "title": "China Wants to Use 115,000 Banned Nvidia Chips to Fulfil Its AI Ambitions (NVDA) - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s AI chatbot Grok makes antisemitic posts on X - NBC News",
+      "pubDate": "Tue, 08 Jul 2025 22:08:04 GMT"
     }
   ],
   "climate": [
@@ -2317,10 +2313,6 @@
   ],
   "us_politics": [
     {
-      "title": "Republicans and Democrats buck party lines in marathon votes for Trump megabill - The Hill",
-      "pubDate": "Mon, 30 Jun 2025 23:14:00 GMT"
-    },
-    {
       "title": "Senate tries to overcome vote-a-rama, infighting to pass Trump's $3.3 trillion bill - Reuters",
       "pubDate": "Tue, 01 Jul 2025 00:50:00 GMT"
     },
@@ -2551,6 +2543,10 @@
     {
       "title": "Trump suggests taking over New York City and Washington - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 08 Jul 2025 19:27:25 GMT"
+    },
+    {
+      "title": "Supreme Court Clears Way for Trump Administration\u2019s Mass Firings of Federal Workers - The New York Times",
+      "pubDate": "Tue, 08 Jul 2025 22:05:38 GMT"
     }
   ],
   "democratic_party": [
@@ -2595,6 +2591,10 @@
     {
       "title": "U.S. sanctions North Korean member of Kim Jong Un's spy agency over IT worker scheme - CBS News",
       "pubDate": "Tue, 08 Jul 2025 18:02:16 GMT"
+    },
+    {
+      "title": "US targets North Korean fake IT worker scheme with China and Russia links - South China Morning Post",
+      "pubDate": "Tue, 08 Jul 2025 21:54:34 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -3183,16 +3183,16 @@
     {
       "title": "6.3-magnitude earthquake strikes off New Zealand coast - Latest news from Azerbaijan",
       "pubDate": "Tue, 08 Jul 2025 05:49:20 GMT"
+    },
+    {
+      "title": "Hundreds of earthquakes detected at Washington's Mt. Rainier - FOX Weather",
+      "pubDate": "Tue, 08 Jul 2025 17:47:00 GMT"
     }
   ],
   "elon_musk": [
     {
       "title": "Elon Musk Calls Republicans Pigs, Calls for New Political Party - vanityfair.com",
       "pubDate": "Tue, 01 Jul 2025 00:20:31 GMT"
-    },
-    {
-      "title": "Elon Musk just made his starkest political threat since the election - CNN",
-      "pubDate": "Mon, 30 Jun 2025 23:19:00 GMT"
     },
     {
       "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars - The New York Times",
@@ -3483,6 +3483,10 @@
     {
       "title": "Trump orders tight rules for wind, solar tax credits - Renewables Now",
       "pubDate": "Tue, 08 Jul 2025 13:43:20 GMT"
+    },
+    {
+      "title": "Trump moves fast to kill green energy tax breaks - Politico",
+      "pubDate": "Tue, 08 Jul 2025 22:30:35 GMT"
     }
   ],
   "cryptocurrency": [
@@ -3932,10 +3936,6 @@
     }
   ],
   "amazon": [
-    {
-      "title": "Amazon CEO Jassy says AI will lead to 'fewer people doing some of the jobs' that get automated - CNBC",
-      "pubDate": "Tue, 01 Jul 2025 00:01:00 GMT"
-    },
     {
       "title": "Amazon CEO Andy Jassy doubles down on his message to employees: We will need fewer people doing ... - Times of India",
       "pubDate": "Sun, 06 Jul 2025 06:46:00 GMT"
@@ -4737,6 +4737,10 @@
     {
       "title": "Hostages released from Gaza detail sexual violence as Israeli report concludes Hamas used it as \u2018weapon of war\u2019 on October 7 - CNN",
       "pubDate": "Tue, 08 Jul 2025 18:59:00 GMT"
+    },
+    {
+      "title": "Trump and Netanyahu meet to discuss Gaza deal push - Axios",
+      "pubDate": "Tue, 08 Jul 2025 23:16:55 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4767,6 +4771,12 @@
     {
       "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
       "pubDate": "Tue, 08 Jul 2025 19:16:38 GMT"
+    }
+  ],
+  "spacex": [
+    {
+      "title": "SpaceX Valuation to Hit Around $400 Billion in Share Sale - Bloomberg",
+      "pubDate": "Tue, 08 Jul 2025 20:21:15 GMT"
     }
   ]
 }
