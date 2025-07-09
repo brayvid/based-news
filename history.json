@@ -97,10 +97,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Senate plods along as Republicans negotiate key portions of Trump's bill: Live updates - USA Today",
-      "pubDate": "Tue, 01 Jul 2025 02:35:14 GMT"
-    },
-    {
       "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
       "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
     },
@@ -835,6 +831,10 @@
     {
       "title": "Lawmakers push for AI safeguards after teen\u2019s death tied to chatbot platform - ABC10",
       "pubDate": "Wed, 09 Jul 2025 01:23:00 GMT"
+    },
+    {
+      "title": "Anthropic Proposes AI Transparency Framework to Tackle Industry-Wide Safety Crisis - WinBuzzer",
+      "pubDate": "Tue, 08 Jul 2025 17:42:26 GMT"
     }
   ],
   "financial_markets": [
@@ -1795,13 +1795,13 @@
     {
       "title": "Trump updates: US president slams Putin on Ukraine at cabinet meeting - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 22:03:55 GMT"
+    },
+    {
+      "title": "Trump caught off guard by Pentagon's abrupt move to pause Ukraine weapons deliveries, AP sources say - AP News",
+      "pubDate": "Tue, 08 Jul 2025 23:58:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Federal Reserve Holds Rates Amid Political Pressure and Economic Uncertainty - AInvest",
-      "pubDate": "Tue, 01 Jul 2025 02:37:35 GMT"
-    },
     {
       "title": "Goldman Sachs raises Fed rate cut forecast to three in 2025 - Reuters",
       "pubDate": "Tue, 01 Jul 2025 08:52:04 GMT"
@@ -1984,10 +1984,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China sanctions former Philippines senator, foreign ministry says - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 02:16:00 GMT"
-    },
     {
       "title": "China ready to discuss tariffs and subsidies with US at WTO - Reuters",
       "pubDate": "Tue, 01 Jul 2025 08:20:05 GMT"
@@ -2699,6 +2695,10 @@
     {
       "title": "Trump threatens 'no extensions' on new Aug. 1 tariff deadline, warns of higher import taxes - NBC News",
       "pubDate": "Tue, 08 Jul 2025 21:12:00 GMT"
+    },
+    {
+      "title": "China producer price deflation deepens as trade war bites - Financial Times",
+      "pubDate": "Wed, 09 Jul 2025 02:13:35 GMT"
     }
   ],
   "cybersecurity": [
@@ -3117,6 +3117,10 @@
     {
       "title": "Trump takes on the Fed \u2013 but he has little power over central bank, economists say - The Guardian",
       "pubDate": "Mon, 07 Jul 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Federal Reserve Bank of Philadelphia Ushers In New Era As Anna Paulson Takes Reigns - PHILADELPHIA.Today",
+      "pubDate": "Tue, 08 Jul 2025 18:01:34 GMT"
     }
   ],
   "earthquakes": [
@@ -3303,6 +3307,10 @@
     {
       "title": "World\u2019s premier cancer institute faces crippling cuts and chaos - CNN",
       "pubDate": "Tue, 08 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Doctors have figured out a way to use herpes to fight untreatable advanced cancer - New York Post",
+      "pubDate": "Tue, 08 Jul 2025 20:00:00 GMT"
     }
   ],
   "space_exploration": [
@@ -3477,6 +3485,10 @@
     {
       "title": "House Preps For Crypto Week; Core Scientific Tumbles; Bit Digital Ditches Bitcoin - Investor's Business Daily",
       "pubDate": "Mon, 07 Jul 2025 20:31:00 GMT"
+    },
+    {
+      "title": "Trump Media files for 'Crypto Blue Chip ETF' with SEC - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 08 Jul 2025 16:44:54 GMT"
     }
   ],
   "taxes": [
@@ -3669,6 +3681,10 @@
     {
       "title": "Update on Qantas frequent flyers data hack - News.com.au",
       "pubDate": "Mon, 07 Jul 2025 08:28:28 GMT"
+    },
+    {
+      "title": "Qantas confirms 5.7 million customers were impacted in cyber attack - Australian Broadcasting Corporation",
+      "pubDate": "Tue, 08 Jul 2025 23:53:01 GMT"
     }
   ],
   "technology": [
