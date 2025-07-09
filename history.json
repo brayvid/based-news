@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Trump hits back after Musk criticizes megabill - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 01 Jul 2025 08:42:16 GMT"
-    },
-    {
       "title": "Trump threatens Musk\u2019s subsidies and contracts in latest social media spat - politico.eu",
       "pubDate": "Tue, 01 Jul 2025 10:06:10 GMT"
     },
@@ -575,14 +571,6 @@
   ],
   "russia": [
     {
-      "title": "Kim Jong Un Honors North Korean Soldiers Killed Fighting for Russia - The Moscow Times",
-      "pubDate": "Tue, 01 Jul 2025 08:12:00 GMT"
-    },
-    {
-      "title": "Russia launched record 5,438 drones at Ukraine in June alone - Euronews.com",
-      "pubDate": "Tue, 01 Jul 2025 08:43:37 GMT"
-    },
-    {
       "title": "Macron and Putin Discuss Iran and Ukraine in Rare Call - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 21:07:50 GMT"
     },
@@ -843,10 +831,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Global Markets Mixed as Focus Shifts to Trump Bill - WSJ",
-      "pubDate": "Tue, 01 Jul 2025 08:30:00 GMT"
-    },
-    {
       "title": "Putin Offers Special Accounts to Lure New Investors to Russia - Bloomberg",
       "pubDate": "Tue, 01 Jul 2025 15:36:22 GMT"
     },
@@ -896,10 +880,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Elon Musk's xAI raises $10 billion in debt and equity as it steps up challenge to OpenAI - CNBC",
-      "pubDate": "Tue, 01 Jul 2025 08:37:27 GMT"
-    },
     {
       "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 10:00:12 GMT"
@@ -1339,6 +1319,10 @@
     {
       "title": "Analysis | Is ChatGPT really the new Google? We dug into the numbers. - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 23:30:00 GMT"
+    },
+    {
+      "title": "Musk\u2019s AI firm forced to delete posts praising Hitler from Grok chatbot - The Guardian",
+      "pubDate": "Wed, 09 Jul 2025 04:23:00 GMT"
     }
   ],
   "climate": [
@@ -1501,6 +1485,10 @@
     {
       "title": "Research Suggests Climate Change Added Excess Deaths in European Heat Wave - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 04:00:04 GMT"
+    },
+    {
+      "title": "Scientists hail rapid estimate of climate change\u2019s role in heat deaths as a first - Climate Home News",
+      "pubDate": "Wed, 09 Jul 2025 07:25:14 GMT"
     }
   ],
   "ukraine": [
@@ -1815,13 +1803,13 @@
     {
       "title": "Russia launches massive overnight attack on Ukraine with 728 drones - Euronews.com",
       "pubDate": "Wed, 09 Jul 2025 06:35:54 GMT"
+    },
+    {
+      "title": "Russia launches largest drone attack on Ukraine as Kyiv pushes US for air defense aid - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 09 Jul 2025 08:30:33 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Goldman Sachs raises Fed rate cut forecast to three in 2025 - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 08:52:04 GMT"
-    },
     {
       "title": "US economy in meltdown as dollar suffers its worst six months since 1973 - Daily Express",
       "pubDate": "Tue, 01 Jul 2025 09:40:00 GMT"
@@ -1996,14 +1984,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China ready to discuss tariffs and subsidies with US at WTO - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 08:20:05 GMT"
-    },
-    {
-      "title": "China Vows to Rein In Intense Competition, Build Unified Market - Bloomberg.com",
-      "pubDate": "Tue, 01 Jul 2025 08:50:52 GMT"
-    },
     {
       "title": "China is using pollution as a geopolitical weapon, and the US must respond - The Hill",
       "pubDate": "Tue, 01 Jul 2025 14:00:00 GMT"
@@ -2305,10 +2285,6 @@
   ],
   "us_politics": [
     {
-      "title": "Mamdani could clinch Democratic primary when New York City releases ranked-choice results - CNN",
-      "pubDate": "Tue, 01 Jul 2025 09:00:00 GMT"
-    },
-    {
       "title": "Why is Musk calling for a new America Party over the Big Beautiful Bill? - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 12:12:52 GMT"
     },
@@ -2549,10 +2525,6 @@
   ],
   "north_korea": [
     {
-      "title": "Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 08:55:00 GMT"
-    },
-    {
       "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
       "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
     },
@@ -2715,13 +2687,13 @@
     {
       "title": "Trump intensifies tariff threats for copper, chips, drugs & BRICS (including India) - The Economic Times",
       "pubDate": "Wed, 09 Jul 2025 03:10:03 GMT"
+    },
+    {
+      "title": "Trump says 50% tariff on copper imports is coming and threatens 200% on pharmaceuticals - CNN",
+      "pubDate": "Wed, 09 Jul 2025 03:33:00 GMT"
     }
   ],
   "cybersecurity": [
-    {
-      "title": "DOJ announces arrest, indictments in North Korean IT worker scheme - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 08:24:08 GMT"
-    },
     {
       "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
       "pubDate": "Tue, 01 Jul 2025 15:56:21 GMT"
@@ -3837,6 +3809,10 @@
     {
       "title": "Bitcoin is coiled to break out to $170k, analyst says - Fox Business",
       "pubDate": "Tue, 08 Jul 2025 19:13:49 GMT"
+    },
+    {
+      "title": "Bitcoin lacks \u2018sustained momentum\u2019 for new high as traders are hesitant - Cointelegraph",
+      "pubDate": "Wed, 09 Jul 2025 06:17:26 GMT"
     }
   ],
   "us_congress": [
@@ -3857,6 +3833,10 @@
     {
       "title": "CIA declassifies review of intelligence report on 2016 Russia election interference - NBC News",
       "pubDate": "Thu, 03 Jul 2025 00:18:00 GMT"
+    },
+    {
+      "title": "FBI launches criminal probes into John Brennan, James Comey: report - KRNV",
+      "pubDate": "Tue, 08 Jul 2025 23:01:31 GMT"
     }
   ],
   "fusion_power": [
@@ -4549,6 +4529,10 @@
     {
       "title": "Trump Orders Stricter Enforcement of Clean Energy Tax Rules - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 15:14:42 GMT"
+    },
+    {
+      "title": "Congress is killing clean energy tax credits. Here\u2019s how to use them before they disappear. - Grist.org",
+      "pubDate": "Wed, 09 Jul 2025 08:45:49 GMT"
     }
   ],
   "large_language_models": [
