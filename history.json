@@ -97,24 +97,12 @@
   ],
   "donald_trump": [
     {
-      "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
-    },
-    {
-      "title": "Trump complains about US-Japan trade talks as Bessent warns of higher tariffs - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 03:46:00 GMT"
-    },
-    {
       "title": "Trump's \"Head Back To South Africa\" Threat Gets A Dare From Musk - NDTV",
       "pubDate": "Tue, 01 Jul 2025 07:09:59 GMT"
     },
     {
       "title": "Trump admin live updates: Trump hits back after Musk criticizes megabill - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 01 Jul 2025 08:42:16 GMT"
-    },
-    {
-      "title": "Trump threatens Japan with new tariffs, claiming it won\u2019t buy America\u2019s rice - CNN",
-      "pubDate": "Tue, 01 Jul 2025 03:40:00 GMT"
     },
     {
       "title": "Trump threatens Musk\u2019s subsidies and contracts in latest social media spat - politico.eu",
@@ -575,6 +563,10 @@
     {
       "title": "Live updates: Trump addresses tariff deadline and Iran attacks during Cabinet meeting - NBC News",
       "pubDate": "Tue, 08 Jul 2025 17:25:02 GMT"
+    },
+    {
+      "title": "Trump talks tariffs, Russia, Iran at Cabinet meeting; Supreme Court allows mass federal layoffs - NBC News",
+      "pubDate": "Wed, 09 Jul 2025 00:00:00 GMT"
     }
   ],
   "russia": [
@@ -835,6 +827,10 @@
     {
       "title": "Anthropic Proposes AI Transparency Framework to Tackle Industry-Wide Safety Crisis - WinBuzzer",
       "pubDate": "Tue, 08 Jul 2025 17:42:26 GMT"
+    },
+    {
+      "title": "Geotab Ace Safety Insights Highlight AI\u2019s Role in Driver Performance - Fleet Equipment Magazine",
+      "pubDate": "Tue, 08 Jul 2025 18:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1497,10 +1493,6 @@
   ],
   "ukraine": [
     {
-      "title": "The Future of Modern Warfare Is Being Built in Ukraine - Bloomberg.com",
-      "pubDate": "Tue, 01 Jul 2025 04:00:00 GMT"
-    },
-    {
       "title": "Ukraine-Russia war latest: Moscow claims first whole Ukrainian region after over three years of Putin\u2019s war - The Independent",
       "pubDate": "Tue, 01 Jul 2025 06:55:14 GMT"
     },
@@ -1799,6 +1791,10 @@
     {
       "title": "Trump caught off guard by Pentagon's abrupt move to pause Ukraine weapons deliveries, AP sources say - AP News",
       "pubDate": "Tue, 08 Jul 2025 23:58:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s sudden shift on weapons for Ukraine takes the war back to square one - CNN",
+      "pubDate": "Tue, 08 Jul 2025 17:54:00 GMT"
     }
   ],
   "us_economy": [
@@ -2279,6 +2275,10 @@
     {
       "title": "China says it will retaliate on unfavorable deals after Trump warns Asia of higher tariffs - NBC News",
       "pubDate": "Tue, 08 Jul 2025 11:14:09 GMT"
+    },
+    {
+      "title": "China\u2019s producer prices fall 3.6% in June, biggest drop in nearly two years as deflation deepens - CNBC",
+      "pubDate": "Wed, 09 Jul 2025 01:41:00 GMT"
     }
   ],
   "world_news": [
@@ -3575,6 +3575,10 @@
     {
       "title": "US Supreme Court lifts order that blocked Trump's mass federal layoffs - Reuters",
       "pubDate": "Tue, 08 Jul 2025 19:47:57 GMT"
+    },
+    {
+      "title": "Supreme Court clears way for Trump to pursue mass federal layoffs - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 02:40:00 GMT"
     }
   ],
   "inflation": [
@@ -3968,10 +3972,6 @@
     }
   ],
   "environment": [
-    {
-      "title": "California Rolls Back Its Landmark Environmental Law - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 03:51:25 GMT"
-    },
     {
       "title": "Scientists issue dire warning about alarming phenomenon found in world's oceans: 'The magnitude and extent ... is shocking' - The Cool Down",
       "pubDate": "Sat, 05 Jul 2025 11:00:44 GMT"
@@ -4757,6 +4757,18 @@
     {
       "title": "SpaceX Valuation to Hit Around $400 Billion in Share Sale - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 20:21:15 GMT"
+    }
+  ],
+  "asia": [
+    {
+      "title": "Trump's tariff blitz to weigh on Indian rupee, hurts Asia FX - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 03:08:00 GMT"
+    }
+  ],
+  "security_hacker": [
+    {
+      "title": "Chinese Man Accused of Hacking and Stealing Covid Research Arrested\u2014FBI - Newsweek",
+      "pubDate": "Tue, 08 Jul 2025 20:20:06 GMT"
     }
   ]
 }
