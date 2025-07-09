@@ -93,14 +93,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Senate passes GOP bill after marathon vote; Trump visits 'Alligator Alcatraz' and feuds with Elon Musk - NBC News",
-      "pubDate": "Tue, 01 Jul 2025 17:32:24 GMT"
-    },
-    {
-      "title": "Trump threatens to arrest Mamdani if he doesn't cooperate with ICE - Axios",
-      "pubDate": "Tue, 01 Jul 2025 17:49:22 GMT"
-    },
-    {
       "title": "Live updates: Senate passes Trump\u2019s agenda bill after marathon voting session | CNN Politics - CNN",
       "pubDate": "Tue, 01 Jul 2025 20:41:00 GMT"
     },
@@ -1247,13 +1239,13 @@
     {
       "title": "Musk's AI company scrubs inappropriate posts after Grok chatbot makes antisemitic comments - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 11:53:36 GMT"
+    },
+    {
+      "title": "Microsoft Pledges $4 Billion Toward A.I. Education - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 16:29:06 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "National Climate Report Website Goes Dark - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 17:08:40 GMT"
-    },
     {
       "title": "Scientists show how smarter flight decisions could help fight climate change - The Hill",
       "pubDate": "Wed, 02 Jul 2025 15:44:00 GMT"
@@ -1731,13 +1723,13 @@
     {
       "title": "Russia\u2019s summer Ukraine offensive looks like its deadliest so far - The Economist",
       "pubDate": "Wed, 09 Jul 2025 16:12:14 GMT"
+    },
+    {
+      "title": "Putin, Undeterred by Trump\u2019s Words, Escalates His War Against Ukraine - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 13:39:05 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump Is Setting the U.S. Economy Up for Another Great Financial Crisis - In These Times",
-      "pubDate": "Tue, 01 Jul 2025 18:00:00 GMT"
-    },
     {
       "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
       "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
@@ -1892,14 +1884,6 @@
     }
   ],
   "china": [
-    {
-      "title": "How Rare Earths Became China\u2019s Top Trade Weapon - Foreign Policy",
-      "pubDate": "Tue, 01 Jul 2025 17:53:23 GMT"
-    },
-    {
-      "title": "Justice Department says 2 Chinese nationals charged with spying inside the US for Beijing - AP News",
-      "pubDate": "Tue, 01 Jul 2025 17:57:00 GMT"
-    },
     {
       "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
       "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
@@ -2187,10 +2171,6 @@
     {
       "title": "Trump\u2019s Policy Bill Could Put the U.S. Further Behind China - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 19:49:28 GMT"
-    },
-    {
-      "title": "Senate passes Trump\u2019s major policy bill with $150 billion for the DOD - Military Times",
-      "pubDate": "Tue, 01 Jul 2025 17:18:08 GMT"
     },
     {
       "title": "Senate passes Trump's Big Beautiful Bill, including no tax on tips. When will it start in MA? - Worcester Telegram",
@@ -2579,6 +2559,10 @@
     {
       "title": "Trump says 50% tariff on copper imports is coming and threatens 200% on pharmaceuticals - CNN",
       "pubDate": "Wed, 09 Jul 2025 03:33:00 GMT"
+    },
+    {
+      "title": "Trump shares 6 more tariff letters addressed to Philippines, other emerging economies - Politico",
+      "pubDate": "Wed, 09 Jul 2025 16:56:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -3201,6 +3185,10 @@
     {
       "title": "Inside NASA\u2019s vision for Moon and Mars exploration - Innovation News Network",
       "pubDate": "Wed, 09 Jul 2025 10:50:15 GMT"
+    },
+    {
+      "title": "NASA Flips a Mars Orbiter Upside Down \u2013 And Discovers a Hidden World - SciTechDaily",
+      "pubDate": "Wed, 09 Jul 2025 13:43:40 GMT"
     }
   ],
   "health_care": [
@@ -3239,6 +3227,10 @@
     {
       "title": "Obesity drug prices are dropping, but getting a steady supply remains a challenge - The Washington Post",
       "pubDate": "Mon, 07 Jul 2025 05:24:25 GMT"
+    },
+    {
+      "title": "Why 1.5 Million New Yorkers Could Lose Health Insurance Under Trump Bill - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 17:35:37 GMT"
     }
   ],
   "world_economy": [
@@ -3255,10 +3247,6 @@
     {
       "title": "Senate passes megabill that curbs IRA tax credits, drops wind and solar tax - Utility Dive",
       "pubDate": "Tue, 01 Jul 2025 18:57:14 GMT"
-    },
-    {
-      "title": "Clean energy stocks jump after tax on solar and wind projects is removed from Trump's big bill - CNBC",
-      "pubDate": "Tue, 01 Jul 2025 17:28:57 GMT"
     },
     {
       "title": "Senate removes excise tax on renewable energy industry from Trump domestic policy bill - CBS News",
@@ -4015,6 +4003,10 @@
     {
       "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
       "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
+    },
+    {
+      "title": "Scientists are using AI to invent proteins from scratch - The Economist",
+      "pubDate": "Wed, 09 Jul 2025 17:15:00 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -4233,6 +4225,10 @@
     {
       "title": "New quantum record: Transmon qubit coherence reaches millisecond threshold - Phys.org",
       "pubDate": "Tue, 08 Jul 2025 09:00:01 GMT"
+    },
+    {
+      "title": "Record-Setting Qubit Performance Marks Important Step Toward Practical Quantum Computing - Gizmodo",
+      "pubDate": "Wed, 09 Jul 2025 11:05:09 GMT"
     }
   ],
   "data_privacy": [
