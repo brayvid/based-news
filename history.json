@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says Israel has agreed to conditions for Gaza ceasefire; Hamas hasn't responded - CBS News",
-      "pubDate": "Tue, 01 Jul 2025 22:56:47 GMT"
-    },
-    {
       "title": "Trump Falsely Claims Mamdani Is an Illegal Immigrant and Threatens to Arrest Him - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 23:14:39 GMT"
     },
@@ -511,6 +507,10 @@
     {
       "title": "Trump threatens Brazil with 50% tariff over Bolsonaro trial - BBC",
       "pubDate": "Wed, 09 Jul 2025 21:09:44 GMT"
+    },
+    {
+      "title": "Trump announces 50% tariff on Brazil in retaliation for Bolsonaro trial, trade deficit - CNBC",
+      "pubDate": "Wed, 09 Jul 2025 20:26:18 GMT"
     }
   ],
   "russia": [
@@ -763,6 +763,10 @@
     {
       "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
       "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
+    },
+    {
+      "title": "New York Seeks to RAISE the Bar on AI Regulation - Morgan Lewis",
+      "pubDate": "Wed, 09 Jul 2025 18:20:08 GMT"
     }
   ],
   "financial_markets": [
@@ -1385,10 +1389,6 @@
   ],
   "ukraine": [
     {
-      "title": "Pentagon halts weapons shipment to Ukraine amid concerns over U.S. stockpile - NBC News",
-      "pubDate": "Tue, 01 Jul 2025 22:12:07 GMT"
-    },
-    {
       "title": "US halts some weapons shipments to Ukraine, White House says - BBC",
       "pubDate": "Wed, 02 Jul 2025 01:45:15 GMT"
     },
@@ -1703,6 +1703,10 @@
     {
       "title": "Russia Makes Record Attack on Ukraine as Trump Castigates Putin - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 18:42:11 GMT"
+    },
+    {
+      "title": "Russia Fires Record Barrage of Drones, Missiles at Ukraine - Foreign Policy",
+      "pubDate": "Wed, 09 Jul 2025 21:56:06 GMT"
     }
   ],
   "us_economy": [
@@ -2110,10 +2114,6 @@
     }
   ],
   "world_news": [
-    {
-      "title": "Israel Has Agreed To Conditions To Finalise 60-Day Gaza Ceasefire: Trump - NDTV",
-      "pubDate": "Tue, 01 Jul 2025 22:56:54 GMT"
-    },
     {
       "title": "Record-Breaking Temperatures In June Around The World - NDTV",
       "pubDate": "Mon, 07 Jul 2025 17:19:25 GMT"
@@ -3025,10 +3025,6 @@
   ],
   "cancer": [
     {
-      "title": "Women over 65 still at risk from cancer from HPV and should be offered cervical screening \u2013 study - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 22:30:00 GMT"
-    },
-    {
       "title": "Regeneron Gets Accelerated FDA OK of Lynozyfic for Blood Cancer Treatment - WSJ",
       "pubDate": "Wed, 02 Jul 2025 15:45:00 GMT"
     },
@@ -3180,10 +3176,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Senate removes excise tax on renewable energy industry from Trump domestic policy bill - CBS News",
-      "pubDate": "Tue, 01 Jul 2025 22:17:20 GMT"
-    },
     {
       "title": "Senate GOP bets softer clean energy cuts won\u2019t come back to bite them - Politico",
       "pubDate": "Wed, 02 Jul 2025 10:28:00 GMT"
@@ -3851,10 +3843,6 @@
     {
       "title": "Google ordered to pay over $314 million to Android users in California for \u2018stealing\u2019 mobile data - Mint",
       "pubDate": "Wed, 02 Jul 2025 02:04:38 GMT"
-    },
-    {
-      "title": "Google Ends Recipe Pilot That Left Creators Fearing Web-Traffic Hit - Bloomberg.com",
-      "pubDate": "Tue, 01 Jul 2025 22:35:37 GMT"
     },
     {
       "title": "Google undercounts its carbon emissions, report finds - The Guardian",
@@ -4683,6 +4671,10 @@
     {
       "title": "AI-powered material discovery is reshaping the future of batteries - Tech Explorist",
       "pubDate": "Wed, 09 Jul 2025 10:25:49 GMT"
+    },
+    {
+      "title": "Breakthrough Confirmed: New Water Battery Technology Achieves 220 Full Cycles With Absolutely No Drop in Performance or Energy Storage - Energy Reporters",
+      "pubDate": "Wed, 09 Jul 2025 22:08:47 GMT"
     }
   ],
   "spacex": [
@@ -4707,6 +4699,10 @@
     {
       "title": "AI Algorithms Now Capable of Predicting Drug-Biological Target Interactions to Streamline Pharmaceutical Research - geneonline.com",
       "pubDate": "Tue, 08 Jul 2025 23:52:22 GMT"
+    },
+    {
+      "title": "Exclusive: TikTok prepares US app with its own algorithm and user data - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 22:01:50 GMT"
     }
   ],
   "india": [
@@ -4725,6 +4721,12 @@
     {
       "title": "Public infrastructure investments and Texas' deadly flooding - marketplace.org",
       "pubDate": "Wed, 09 Jul 2025 11:48:43 GMT"
+    }
+  ],
+  "astronomy": [
+    {
+      "title": "Scientists discover ice in space isn't like water on Earth after all - Space",
+      "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
     }
   ]
 }
