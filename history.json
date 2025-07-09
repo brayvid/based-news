@@ -117,10 +117,6 @@
       "pubDate": "Tue, 01 Jul 2025 15:30:16 GMT"
     },
     {
-      "title": "Trump seizes on \u2018moral character\u2019 loophole as way to revoke citizenship - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 15:00:00 GMT"
-    },
-    {
       "title": "Trump says Israel has agreed to conditions for Gaza ceasefire; Hamas hasn't responded - CBS News",
       "pubDate": "Tue, 01 Jul 2025 22:56:47 GMT"
     },
@@ -811,6 +807,10 @@
     {
       "title": "Singapore rolls out new initiatives to boost AI safety and data protection - ET HRSEA",
       "pubDate": "Wed, 09 Jul 2025 05:11:41 GMT"
+    },
+    {
+      "title": "Internet: LLMs Profitability and Consumer AI Safety - WorldHealth.net",
+      "pubDate": "Wed, 09 Jul 2025 08:04:23 GMT"
     }
   ],
   "financial_markets": [
@@ -864,22 +864,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "In dramatic reversal, Senate kills AI-law moratorium - The Washington Post",
-      "pubDate": "Tue, 01 Jul 2025 14:09:08 GMT"
-    },
-    {
-      "title": "Defeat of a 10-Year Ban on State A.I. Laws Is a Blow to Tech Industry - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 14:33:19 GMT"
-    },
-    {
-      "title": "Artificial intelligence and innovation in the human-tech nexus - Nature",
-      "pubDate": "Tue, 01 Jul 2025 15:01:15 GMT"
-    },
-    {
-      "title": "Microsoft quietly installed \u2018secret\u2019 update on some Windows 10 and 11 PCs - PCWorld",
-      "pubDate": "Tue, 01 Jul 2025 14:08:00 GMT"
-    },
     {
       "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 00:33:46 GMT"
@@ -1751,16 +1735,16 @@
     {
       "title": "Russia attacks Ukraine with 700 drones after Trump vows to send more weapons - Reuters",
       "pubDate": "Wed, 09 Jul 2025 10:44:42 GMT"
+    },
+    {
+      "title": "Russia Launches Massive Aerial Attack on Western Ukraine as Trump Blasts Putin - Democracy Now!",
+      "pubDate": "Wed, 09 Jul 2025 14:28:16 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
-    },
-    {
-      "title": "US ISM manufacturing rises to 49.0, fourth month of contraction - Action Forex",
-      "pubDate": "Tue, 01 Jul 2025 14:13:42 GMT"
     },
     {
       "title": "Trump Is Setting the U.S. Economy Up for Another Great Financial Crisis - In These Times",
@@ -1923,10 +1907,6 @@
     {
       "title": "China Issues Update on 'Complicated' Border Tensions With India - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 15:58:02 GMT"
-    },
-    {
-      "title": "China\u2019s giant new gamble with digital IDs - The Economist",
-      "pubDate": "Tue, 01 Jul 2025 14:31:04 GMT"
     },
     {
       "title": "How Rare Earths Became China\u2019s Top Trade Weapon - Foreign Policy",
@@ -2223,10 +2203,6 @@
     {
       "title": "Senate Republicans narrowly pass Trump megabill after marathon voting session - NBC News",
       "pubDate": "Tue, 01 Jul 2025 16:03:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s megabill squeaks through Senate, but House can still reject changes - CNBC",
-      "pubDate": "Tue, 01 Jul 2025 14:52:47 GMT"
     },
     {
       "title": "Trump\u2019s Policy Bill Could Put the U.S. Further Behind China - The New York Times",
@@ -3075,6 +3051,10 @@
     {
       "title": "Hundreds of earthquakes detected at Washington's Mt. Rainier - FOX Weather",
       "pubDate": "Tue, 08 Jul 2025 17:47:00 GMT"
+    },
+    {
+      "title": "Multiple earthquakes kill 2 people in Guatemala, cause landslides and evacuations - Los Angeles Times",
+      "pubDate": "Wed, 09 Jul 2025 14:11:26 GMT"
     }
   ],
   "elon_musk": [
@@ -3515,10 +3495,6 @@
   ],
   "inflation": [
     {
-      "title": "The Trump tariffs aren't causing U.S. prices to spike. Here's why. - CBS News",
-      "pubDate": "Tue, 01 Jul 2025 14:11:37 GMT"
-    },
-    {
       "title": "Fourth of July cookout: Food prices increase because of Trump tariffs, report finds - Axios",
       "pubDate": "Fri, 04 Jul 2025 13:11:34 GMT"
     }
@@ -3619,6 +3595,10 @@
     {
       "title": "CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips - CNBC",
       "pubDate": "Thu, 03 Jul 2025 16:30:06 GMT"
+    },
+    {
+      "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
+      "pubDate": "Wed, 09 Jul 2025 14:22:00 GMT"
     }
   ],
   "quantum_computer": [
@@ -3859,6 +3839,10 @@
     {
       "title": "Ukraine Kills Top Russian Navy Commander Who Putin Just Promoted - Newsweek",
       "pubDate": "Thu, 03 Jul 2025 11:58:59 GMT"
+    },
+    {
+      "title": "Trump threatened to 'bomb the s--- out' of Moscow to deter Putin: CNN - CNBC",
+      "pubDate": "Wed, 09 Jul 2025 14:56:44 GMT"
     }
   ],
   "atmospheric_science": [
@@ -4701,6 +4685,10 @@
     {
       "title": "Gaza truce talks reportedly stall despite Netanyahu-Trump meeting - BBC",
       "pubDate": "Wed, 09 Jul 2025 10:38:57 GMT"
+    },
+    {
+      "title": "LIVE: Israel unleashes new wave of heavy air raids on Gaza - Al Jazeera",
+      "pubDate": "Wed, 09 Jul 2025 14:26:15 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4731,6 +4719,10 @@
     {
       "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
       "pubDate": "Tue, 08 Jul 2025 19:16:38 GMT"
+    },
+    {
+      "title": "QuantumScape Stock (QS): Advances in Battery Technology - Value The Markets",
+      "pubDate": "Wed, 09 Jul 2025 14:19:42 GMT"
     }
   ],
   "spacex": [
