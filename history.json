@@ -507,17 +507,13 @@
     {
       "title": "Trump sends more letters dictating high tariff rates around the world - CNBC",
       "pubDate": "Wed, 09 Jul 2025 13:36:38 GMT"
+    },
+    {
+      "title": "Trump threatens Brazil with 50% tariff over Bolsonaro trial - BBC",
+      "pubDate": "Wed, 09 Jul 2025 21:09:44 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Macron and Putin Discuss Iran and Ukraine in Rare Call - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 21:07:50 GMT"
-    },
-    {
-      "title": "Ukrainian drone hits weapons plant 800 miles deep in Russia, killing at least 3 - New York Post",
-      "pubDate": "Tue, 01 Jul 2025 21:44:00 GMT"
-    },
     {
       "title": "Lack of New U.S. Sanctions Allows Russia to Replenish Its War Chest - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 04:01:05 GMT"
@@ -763,6 +759,10 @@
     {
       "title": "Internet: LLMs Profitability and Consumer AI Safety - WorldHealth.net",
       "pubDate": "Wed, 09 Jul 2025 08:04:23 GMT"
+    },
+    {
+      "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
+      "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
     }
   ],
   "financial_markets": [
@@ -1853,10 +1853,6 @@
   ],
   "china": [
     {
-      "title": "China boosts tech outreach to Global South as US collaboration dips: analysts - South China Morning Post",
-      "pubDate": "Tue, 01 Jul 2025 21:44:14 GMT"
-    },
-    {
       "title": "Two Chinese nationals charged for trying to recruit spies in US military - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 00:26:54 GMT"
     },
@@ -2127,10 +2123,6 @@
     {
       "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
       "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
-    },
-    {
-      "title": "Senate passes One Big Beautiful Bill Act - American Hospital Association",
-      "pubDate": "Tue, 01 Jul 2025 21:07:10 GMT"
     },
     {
       "title": "Senate Bill Offers Interest Deduction for Buyers of American-Made Cars - The New York Times",
@@ -2557,10 +2549,6 @@
   ],
   "recession": [
     {
-      "title": "Moody\u2019s to NYISO: U.S. Edging Near Recession - RTO Insider",
-      "pubDate": "Tue, 01 Jul 2025 21:27:57 GMT"
-    },
-    {
       "title": "It\u2019s a \u2018sideways\u2019 economy but not a recession yet, analysts say - Yahoo",
       "pubDate": "Wed, 02 Jul 2025 16:00:18 GMT"
     },
@@ -2587,6 +2575,10 @@
     {
       "title": "U.S. Recession Odds on Polymarket Plunge to 22% as Trade Tensions Cool - CoinDesk",
       "pubDate": "Sat, 05 Jul 2025 15:10:33 GMT"
+    },
+    {
+      "title": "US debt rises to $36.6T: Will recession signals send Bitcoin back to $95K? - Cointelegraph",
+      "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
     }
   ],
   "drones": [
@@ -3519,10 +3511,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Mysterious $20k Bitcoin transfer to Satoshi Nakamoto's untouched wallet adds to its $117 billion frozen since creator's disappearance in 2011 - Boing Boing",
-      "pubDate": "Tue, 01 Jul 2025 21:06:46 GMT"
-    },
-    {
       "title": "Bitcoin Braced For A Surprise $22 Trillion Fed Price Earthquake - Forbes",
       "pubDate": "Wed, 02 Jul 2025 14:23:00 GMT"
     },
@@ -3865,10 +3853,6 @@
       "pubDate": "Wed, 02 Jul 2025 02:04:38 GMT"
     },
     {
-      "title": "Google Owes $314 Million for Misusing Android Cell Phone Data - Bloomberg",
-      "pubDate": "Tue, 01 Jul 2025 22:04:04 GMT"
-    },
-    {
       "title": "Google Ends Recipe Pilot That Left Creators Fearing Web-Traffic Hit - Bloomberg.com",
       "pubDate": "Tue, 01 Jul 2025 22:35:37 GMT"
     },
@@ -4185,6 +4169,10 @@
     {
       "title": "Record-Setting Qubit Performance Marks Important Step Toward Practical Quantum Computing - Gizmodo",
       "pubDate": "Wed, 09 Jul 2025 11:05:09 GMT"
+    },
+    {
+      "title": "Researchers discover more efficient way to route information in quantum computers - Phys.org",
+      "pubDate": "Wed, 09 Jul 2025 14:40:04 GMT"
     }
   ],
   "data_privacy": [
@@ -4471,6 +4459,10 @@
     {
       "title": "Researchers make major breakthrough that could change future of solar power: 'Saw excellent results in every case' - The Cool Down",
       "pubDate": "Mon, 07 Jul 2025 10:45:40 GMT"
+    },
+    {
+      "title": "Solar becomes top source of electricity in California - pv magazine USA",
+      "pubDate": "Wed, 09 Jul 2025 11:39:45 GMT"
     }
   ],
   "war_and_unrest": [
@@ -4645,6 +4637,10 @@
     {
       "title": "US issues sanctions against UN investigator probing abuses in Gaza - The Washington Post",
       "pubDate": "Wed, 09 Jul 2025 19:32:11 GMT"
+    },
+    {
+      "title": "A Surgeon Shares What She Saw in Gaza\u2019s Hospitals - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 19:12:20 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4683,6 +4679,10 @@
     {
       "title": "QuantumScape Stock (QS): Advances in Battery Technology - Value The Markets",
       "pubDate": "Wed, 09 Jul 2025 14:19:42 GMT"
+    },
+    {
+      "title": "AI-powered material discovery is reshaping the future of batteries - Tech Explorist",
+      "pubDate": "Wed, 09 Jul 2025 10:25:49 GMT"
     }
   ],
   "spacex": [
