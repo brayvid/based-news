@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel\u2019s Netanyahu Says He Will Meet With Trump Next Week - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 12:19:18 GMT"
-    },
-    {
       "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
       "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
     },
@@ -59,10 +55,6 @@
   ],
   "iran": [
     {
-      "title": "Iran assesses the damage and lashes out after Israeli and US strikes damage its nuclear sites - AP News",
-      "pubDate": "Tue, 01 Jul 2025 12:26:00 GMT"
-    },
-    {
       "title": "Iranian authorities make sweeping arrests in wake of war with Israel - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 19:17:15 GMT"
     },
@@ -101,10 +93,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump suggests slashing Tesla subsidies, Musk says 'cut it all' - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 12:12:34 GMT"
-    },
-    {
       "title": "Live updates: Trump expresses hope Senate could pass his massive legislation today - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 13:38:40 GMT"
     },
@@ -135,10 +123,6 @@
     {
       "title": "Trump says DOGE 'might have to go back and eat' Elon Musk after his criticism of the GOP bill - NBC News",
       "pubDate": "Tue, 01 Jul 2025 15:30:16 GMT"
-    },
-    {
-      "title": "Trump tours 'Alligator Alcatraz,' a day before its first arrivals are expected - NPR",
-      "pubDate": "Tue, 01 Jul 2025 12:47:21 GMT"
     },
     {
       "title": "Trump seizes on \u2018moral character\u2019 loophole as way to revoke citizenship - The Guardian",
@@ -571,6 +555,10 @@
     {
       "title": "Trump said he threatened to bomb Moscow if Putin attacked Ukraine, 2024 fundraiser tapes show - CNN",
       "pubDate": "Wed, 09 Jul 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Trump compares Schumer to classic SNL character after Texas flooding attacks - MSN",
+      "pubDate": "Wed, 09 Jul 2025 07:06:05 GMT"
     }
   ],
   "russia": [
@@ -885,20 +873,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "US Senate strikes AI regulation ban from Trump megabill - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 12:56:42 GMT"
-    },
-    {
       "title": "In dramatic reversal, Senate kills AI-law moratorium - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 14:09:08 GMT"
     },
     {
       "title": "Defeat of a 10-Year Ban on State A.I. Laws Is a Blow to Tech Industry - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 14:33:19 GMT"
-    },
-    {
-      "title": "Senate strikes AI provision from GOP bill after uproar from the states - cbs8.com",
-      "pubDate": "Tue, 01 Jul 2025 12:47:00 GMT"
     },
     {
       "title": "Artificial intelligence and innovation in the human-tech nexus - Nature",
@@ -1311,6 +1291,10 @@
     {
       "title": "Musk\u2019s AI firm forced to delete posts praising Hitler from Grok chatbot - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 04:23:00 GMT"
+    },
+    {
+      "title": "Musk's AI company scrubs inappropriate posts after Grok chatbot makes antisemitic comments - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 09 Jul 2025 11:53:36 GMT"
     }
   ],
   "climate": [
@@ -2239,6 +2223,10 @@
     {
       "title": "China Bans Dual-Use Exports to Eight Taiwan Defense Entities - Bloomberg.com",
       "pubDate": "Wed, 09 Jul 2025 04:15:00 GMT"
+    },
+    {
+      "title": "How US buyers of critical minerals bypass China's export ban - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 08:52:31 GMT"
     }
   ],
   "world_news": [
@@ -2252,10 +2240,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Why is Musk calling for a new America Party over the Big Beautiful Bill? - Al Jazeera",
-      "pubDate": "Tue, 01 Jul 2025 12:12:52 GMT"
-    },
     {
       "title": "Senate Republicans narrowly pass Trump megabill after marathon voting session - NBC News",
       "pubDate": "Tue, 01 Jul 2025 16:03:00 GMT"
@@ -3547,10 +3531,6 @@
       "pubDate": "Tue, 01 Jul 2025 14:11:37 GMT"
     },
     {
-      "title": "Here\u2019s where groceries cost more (and less) over the past year - The Hill",
-      "pubDate": "Tue, 01 Jul 2025 12:18:00 GMT"
-    },
-    {
       "title": "Fourth of July cookout: Food prices increase because of Trump tariffs, report finds - Axios",
       "pubDate": "Fri, 04 Jul 2025 13:11:34 GMT"
     }
@@ -4501,6 +4481,10 @@
     {
       "title": "Congress is killing clean energy tax credits. Here\u2019s how to use them before they disappear. - Grist.org",
       "pubDate": "Wed, 09 Jul 2025 08:45:49 GMT"
+    },
+    {
+      "title": "New Hampshire budget guts Renewable Energy Fund, cuts project funding in half - New Hampshire Bulletin",
+      "pubDate": "Wed, 09 Jul 2025 09:05:50 GMT"
     }
   ],
   "large_language_models": [
@@ -4539,6 +4523,10 @@
     {
       "title": "Private credit's trillion-dollar boom is fueling warnings of a hidden financial contagion - CNBC",
       "pubDate": "Mon, 07 Jul 2025 03:43:00 GMT"
+    },
+    {
+      "title": "Global financial industry retreat from coal hasn't cut its funding - Axios",
+      "pubDate": "Wed, 09 Jul 2025 12:52:16 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -4777,6 +4765,12 @@
     {
       "title": "India scandal threatens Jane Street\u2019s prospects - Financial Times",
       "pubDate": "Wed, 09 Jul 2025 11:07:43 GMT"
+    }
+  ],
+  "oceanography": [
+    {
+      "title": "Scientists Face Limitations Accessing Seafloor Information - eos.org",
+      "pubDate": "Wed, 09 Jul 2025 12:30:00 GMT"
     }
   ]
 }
