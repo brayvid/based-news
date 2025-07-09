@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens Musk\u2019s subsidies and contracts in latest social media spat - politico.eu",
-      "pubDate": "Tue, 01 Jul 2025 10:06:10 GMT"
-    },
-    {
       "title": "Trump suggests slashing Tesla subsidies, Musk says 'cut it all' - Reuters",
       "pubDate": "Tue, 01 Jul 2025 12:12:34 GMT"
     },
@@ -567,6 +563,10 @@
     {
       "title": "Trump and Bondi, Confronted Over Epstein Files, Tell Supporters to Move On - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 22:18:30 GMT"
+    },
+    {
+      "title": "As Truth Social Business Struggles, Trump Media Goes Big on Crypto - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 09:01:11 GMT"
     }
   ],
   "russia": [
@@ -880,14 +880,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 10:00:12 GMT"
-    },
-    {
-      "title": "US Senate rejects plan to stop states regulating AI - Financial Times",
-      "pubDate": "Tue, 01 Jul 2025 09:53:31 GMT"
-    },
     {
       "title": "US Senate strikes AI regulation ban from Trump megabill - Reuters",
       "pubDate": "Tue, 01 Jul 2025 12:56:42 GMT"
@@ -1327,10 +1319,6 @@
   ],
   "climate": [
     {
-      "title": "Record rainfall in central China leads to flooding and evacuations - NBC News",
-      "pubDate": "Tue, 01 Jul 2025 09:37:57 GMT"
-    },
-    {
       "title": "National Climate Report Website Goes Dark - The New York Times",
       "pubDate": "Tue, 01 Jul 2025 17:08:40 GMT"
     },
@@ -1493,24 +1481,12 @@
   ],
   "ukraine": [
     {
-      "title": "Ukrainian drone strikes a Russian plant after record Russian drone attacks in June - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 01 Jul 2025 10:20:44 GMT"
-    },
-    {
       "title": "Three killed in Ukrainian drone attack on central Russia - BBC",
       "pubDate": "Tue, 01 Jul 2025 12:00:31 GMT"
     },
     {
-      "title": "Ukraine shows footage of Bober drones hitting Russian air defenses, fighter jet in Crimea. - The Kyiv Independent",
-      "pubDate": "Tue, 01 Jul 2025 09:52:15 GMT"
-    },
-    {
       "title": "Map Reveals Scale of Russia's Summer Offensive Against Ukraine - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 15:32:46 GMT"
-    },
-    {
-      "title": "Three dead as Ukrainian drone strike hits Russian plant - The Independent",
-      "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
     },
     {
       "title": "Pentagon halts weapons shipment to Ukraine amid concerns over U.S. stockpile - NBC News",
@@ -1810,10 +1786,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US economy in meltdown as dollar suffers its worst six months since 1973 - Daily Express",
-      "pubDate": "Tue, 01 Jul 2025 09:40:00 GMT"
-    },
     {
       "title": "Powell confirms that the Fed would have cut by now were it not for tariffs - CNBC",
       "pubDate": "Tue, 01 Jul 2025 13:57:35 GMT"
@@ -2791,10 +2763,6 @@
   ],
   "drones": [
     {
-      "title": "Video Shows Drone Rescuing Stranded Man During Flood in China - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 10:14:18 GMT"
-    },
-    {
       "title": "As Drones Spot Sharks, New York Beaches Are Shut Down - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 17:31:06 GMT"
     },
@@ -3221,6 +3189,10 @@
     {
       "title": "Elon Musk says he\u2019ll start a new political party. He\u2019s not the first. - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 19:30:07 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s AI Chatbot Responds As \u2018MechaHitler\u2019 - Forbes",
+      "pubDate": "Wed, 09 Jul 2025 09:28:00 GMT"
     }
   ],
   "cancer": [
@@ -3553,10 +3525,6 @@
   ],
   "us_supreme_court": [
     {
-      "title": "US Supreme Court Dealt Blows to EPA and Environmental Protections - U.S. News & World Report",
-      "pubDate": "Tue, 01 Jul 2025 10:05:00 GMT"
-    },
-    {
       "title": "A look at rulings from the Supreme Court term that could have far-reaching consequences - PBS",
       "pubDate": "Fri, 04 Jul 2025 22:50:54 GMT"
     },
@@ -3813,6 +3781,10 @@
     {
       "title": "Bitcoin lacks \u2018sustained momentum\u2019 for new high as traders are hesitant - Cointelegraph",
       "pubDate": "Wed, 09 Jul 2025 06:17:26 GMT"
+    },
+    {
+      "title": "The \u2018Trump Pump\u2019: How Crypto Lobbying Won Over a President - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 09:00:26 GMT"
     }
   ],
   "us_congress": [
@@ -4265,6 +4237,10 @@
     {
       "title": "Trump's Tariff Threat to BRICS Over 'Anti-American' Concern - Time Magazine",
       "pubDate": "Mon, 07 Jul 2025 19:33:11 GMT"
+    },
+    {
+      "title": "Trump promises more tariff letters and warns BRICS of what\u2019s coming - CNN",
+      "pubDate": "Wed, 09 Jul 2025 07:56:00 GMT"
     }
   ],
   "oceans": [
@@ -4741,6 +4717,10 @@
     {
       "title": "Google co-founder Sergey Brin calls U.N. \u2018transparently antisemitic\u2019 after report on tech firms and Gaza - The Washington Post",
       "pubDate": "Wed, 09 Jul 2025 03:55:00 GMT"
+    },
+    {
+      "title": "Netanyahu and Trump prioritize Gaza hostages and Hamas ceasefire in US talks - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 08:19:26 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4789,6 +4769,12 @@
     {
       "title": "Chinese Man Accused of Hacking and Stealing Covid Research Arrested\u2014FBI - Newsweek",
       "pubDate": "Tue, 08 Jul 2025 20:20:06 GMT"
+    }
+  ],
+  "algorithms": [
+    {
+      "title": "AI Algorithms Now Capable of Predicting Drug-Biological Target Interactions to Streamline Pharmaceutical Research - geneonline.com",
+      "pubDate": "Tue, 08 Jul 2025 23:52:22 GMT"
     }
   ]
 }
