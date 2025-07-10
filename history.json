@@ -821,10 +821,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
-      "pubDate": "Wed, 02 Jul 2025 00:33:46 GMT"
-    },
-    {
       "title": "A new tech race is on. Can Europe learn from the ones it lost? - politico.eu",
       "pubDate": "Wed, 02 Jul 2025 02:33:25 GMT"
     },
@@ -839,10 +835,6 @@
     {
       "title": "Zuckerberg reportedly offers $300 million packages to lure OpenAI staff - CTech",
       "pubDate": "Wed, 02 Jul 2025 07:01:00 GMT"
-    },
-    {
-      "title": "Surge AI Reportedly Targeting $1 Billion in First-Ever Fundraise - PYMNTS.com",
-      "pubDate": "Wed, 02 Jul 2025 00:11:15 GMT"
     },
     {
       "title": "Google Signs Deal to Buy Fusion Energy From Bill Gates-Backed Nuclear Startup - NucNet",
@@ -1711,6 +1703,10 @@
     {
       "title": "Russia Fires Record Barrage of Drones, Missiles at Ukraine - Foreign Policy",
       "pubDate": "Wed, 09 Jul 2025 21:56:06 GMT"
+    },
+    {
+      "title": "Russia's summer push in Ukraine targets three fronts but faces stern resistance - BBC",
+      "pubDate": "Wed, 09 Jul 2025 17:00:33 GMT"
     }
   ],
   "us_economy": [
@@ -1860,10 +1856,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Two Chinese nationals charged for trying to recruit spies in US military - Al Jazeera",
-      "pubDate": "Wed, 02 Jul 2025 00:26:54 GMT"
-    },
     {
       "title": "Major Chinese Ports Keep Iranian Oil Flowing Despite Sanctions - Bloomberg",
       "pubDate": "Wed, 02 Jul 2025 03:44:47 GMT"
@@ -2609,10 +2601,6 @@
   ],
   "hamas": [
     {
-      "title": "Israel-Gaza war live: Trump says Israel has agreed terms for 60-day ceasefire, urges Hamas to accept deal - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 01:00:57 GMT"
-    },
-    {
       "title": "Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 02:13:00 GMT"
     },
@@ -2951,6 +2939,10 @@
     {
       "title": "Hundreds of earthquakes detected at Mount Rainier in Washington, \"most significant seismic activity\" since 2009 - CBS News",
       "pubDate": "Wed, 09 Jul 2025 18:19:05 GMT"
+    },
+    {
+      "title": "Hundreds of small earthquakes are hitting Mount Rainier. Geologists say they're not concerned - KUOW",
+      "pubDate": "Wed, 09 Jul 2025 19:39:14 GMT"
     }
   ],
   "elon_musk": [
@@ -3294,10 +3286,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla shares drop on Musk, Trump feud ahead of Q2 deliveries - CNBC",
-      "pubDate": "Wed, 02 Jul 2025 00:29:00 GMT"
-    },
     {
       "title": "Tesla delivers 384,122 cars globally in Q2, falling further behind BYD - CnEVPost",
       "pubDate": "Wed, 02 Jul 2025 13:08:43 GMT"
@@ -4391,6 +4379,10 @@
     {
       "title": "New open-source language model offers multilingual support and public transparency - Tech Xplore",
       "pubDate": "Wed, 09 Jul 2025 13:07:54 GMT"
+    },
+    {
+      "title": "AI Models' Potemkin Comprehension Problem - BankInfoSecurity",
+      "pubDate": "Wed, 09 Jul 2025 18:08:21 GMT"
     }
   ],
   "geopolitics": [
@@ -4641,6 +4633,10 @@
     {
       "title": "US sanctions UN expert Francesca Albanese, critic of Israel's Gaza offensive - BBC",
       "pubDate": "Wed, 09 Jul 2025 22:25:43 GMT"
+    },
+    {
+      "title": "U.S. imposes sanctions on U.N. official investigating Israel over Gaza - The Washington Post",
+      "pubDate": "Wed, 09 Jul 2025 23:58:59 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4745,6 +4741,24 @@
     {
       "title": "The green transition is coming but who will protect workers? - The World Economic Forum",
       "pubDate": "Wed, 09 Jul 2025 19:50:18 GMT"
+    }
+  ],
+  "english_language": [
+    {
+      "title": "Trump says the president of Liberia, where English is the official language, speaks 'such good English' - NBC News",
+      "pubDate": "Wed, 09 Jul 2025 22:30:10 GMT"
+    }
+  ],
+  "outer_space": [
+    {
+      "title": "Mysterious Signals From Deep Space Expose Aftermath of Failed Cosmic Eruptions - Gizmodo",
+      "pubDate": "Wed, 09 Jul 2025 17:25:20 GMT"
+    }
+  ],
+  "physics": [
+    {
+      "title": "Scientists just recreated a 1938 experiment that could rewrite fusion history - ScienceDaily",
+      "pubDate": "Wed, 09 Jul 2025 13:14:29 GMT"
     }
   ]
 }
