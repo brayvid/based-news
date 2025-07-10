@@ -403,7 +403,14 @@ def contains_banned_keyword(text, banned_terms):
     norm_text = normalize(text)
     return any(banned_term in norm_text for banned_term in banned_terms if banned_term)
 
-def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, digest_history: list, gemini_api_key: str) -> dict:
+def prioritize_with_gemini(
+    headlines_to_send: dict,
+    digest_history: list,
+    gemini_api_key: str,
+    topic_weights: dict,
+    keyword_weights: dict,
+    overrides: dict
+) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(
         model_name=GEMINI_MODEL_NAME,
@@ -412,72 +419,82 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, diges
 
     digest_history_json = json.dumps(digest_history, indent=2)
 
-    # Instead of a long string, create a structured JSON for preferences. This is more robust.
+    # Build the preferences JSON from the arguments passed into the function.
+    # This makes the function self-contained and removes global dependencies.
     pref_data = {
-        "topic_weights": TOPIC_WEIGHTS,
-        "keyword_weights": KEYWORD_WEIGHTS,
-        "banned_terms": [k for k, v in OVERRIDES.items() if v == "ban"],
-        "demoted_terms": [k for k, v in OVERRIDES.items() if v == "demote"]
+        "topic_weights": topic_weights,
+        "keyword_weights": keyword_weights,
+        "banned_terms": [k for k, v in overrides.items() if v == "ban"],
+        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
     }
     user_preferences_json = json.dumps(pref_data, indent=2)
 
-    # --- THE NEW, ADVANCED PROMPT ---
+    # The prompt is now fully self-contained and uses the data passed in.
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
         "### Inputs Provided\n"
         f"1.  **User Preferences:** A JSON object defining topic interests, importance weights (1-5), and banned/demoted keywords.\n```json\n{user_preferences_json}\n```\n"
         f"2.  **Candidate Headlines:** A pool of new articles available for today's digest, organized by their machine-assigned topic.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
-        f"3.  **Digest History:** A list of headlines the user has already seen in recent digests. You MUST NOT select headlines that are substantively identical to these. An event already reported (e.g., 'Company X announces merger') should not be reported again unless there is a *significant new development*.\n```json\n{digest_history_json}\n```\n\n"
+        f"3.  **Digest History:** A list of headlines the user has already seen in recent digests. You MUST NOT select headlines that are substantively identical to these.\n```json\n{digest_history_json}\n```\n\n"
         "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
         "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\n"
-        "First, analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event. An 'event' is the underlying real-world occurrence, not the specific wording of a headline. Example: All headlines about 'Trump's megabill passing the House' are one single event.\n"
+        "First, analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event. An 'event' is the underlying real-world occurrence, not the specific wording of a headline.\n"
         "-   **Group by Meaning:** Cluster headlines based on their substantive meaning. For example, 'Fed Pauses Rate Hikes,' 'Federal Reserve Holds Interest Rates Steady,' and 'Powell Announces No Change to Fed Funds Rate' all belong to the same cluster.\n"
-        "-   **Select One Champion:** From each cluster, select ONLY ONE headline—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other headlines in that cluster immediately.\n"
-        "-   **This is a GLOBAL deduplication.** A headline about a 'Tech' company's earnings might be the same event as a headline in the 'Finance' topic. They must be deduplicated against each other.\n\n"
+        "-   **Select One Champion:** From each cluster, select ONLY ONE headline—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other headlines in that cluster immediately.\n\n"
         "**Step 2: History-Based Filtering**\n"
         "Now, take your deduplicated list of 'champion' headlines. Compare each one against the `Digest History`. If any of your champion headlines reports on the exact same event that has already been sent, DISCARD it. Only select news that provides a significant, new update.\n\n"
-        "**Step 3: Relevance & Quality Filtering**\n"
-        "For the remaining, unique, and new headlines, apply the following strict filtering criteria:\n"
-        f"-   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
-        "-   **User Preferences:** Prioritize topics with higher user-defined weights. Reject any headline with 'banned' terms. Heavily demote (treat as importance 0.1) headlines with 'demoted' terms.\n"
-        "-   **Geographic Focus, Commercial Content & Quality:** Apply all other strict rules regarding local news, ads, stock tips, sensationalism, and clickbait. Focus on objective, factual news.\n\n"
+        "**Step 3: Rigorous Relevance & Quality Filtering**\n"
+        "For the remaining, unique, and new headlines, apply the following strict filtering criteria with full force:\n\n"
+        f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "*   **Geographic Focus:**\n"
+        "    - Focus on national (U.S.) or major international news.\n"
+        "    - AVOID news that is *solely* of local interest (e.g., specific to a small town) *unless* it has clear and direct national or major international implications relevant to a U.S. audience.\n"
+        "*   **Banned/Demoted Content:**\n"
+        "    - Strictly REJECT any headlines containing terms flagged as 'banned' in user preferences.\n"
+        "    - Headlines with 'demote' terms should be *strongly deprioritized* (effectively treated as having an importance score of 0.1 on a 1-5 scale) and only selected if their relevance is exceptionally high.\n"
+        "*   **Commercial Content (APPLY WITH EXTREME PREJUDICE):**\n"
+        "    - REJECT advertisements, sponsored content, and articles that are primarily promotional.\n"
+        "    - REJECT mentions of specific products/services UNLESS it's highly newsworthy criticism, a major market-moving announcement (e.g., a massive product recall by a major company), or a significant technological breakthrough discussed in a news context, not a promotional one.\n"
+        "    - STRICTLY REJECT articles that primarily offer investment advice, promote specific stocks/cryptocurrencies as 'buy now' opportunities, or resemble 'hot stock tips' (e.g., \"Top X Stocks to Invest In,\" \"This Coin Will Explode,\" \"X Stocks Worth Buying\"). News about broad market trends (e.g., \"S&P 500 reaches record high\"), factual company earnings reports (without buy/sell advice), or major regulatory changes IS acceptable. The key is to distinguish objective financial news from investment solicitation.\n"
+        "*   **Content Quality & Style (CRITICAL):**\n"
+        "    - Ensure a healthy diversity of subjects if possible; do not let one single event dominate the entire digest.\n"
+        "    - PRIORITIZE content-rich, factual, objective, and neutrally-toned reporting.\n"
+        "    - AGGRESSIVELY AVOID AND REJECT headlines that are:\n"
+        "        - Sensationalist, using hyperbole, excessive superlatives (e.g., \"terrifying,\" \"decimated,\" \"gross failure\"), or fear-mongering.\n"
+        "        - Purely for entertainment, celebrity gossip, or \"fluff\" pieces lacking substantial news value.\n"
+        "        - Clickbait (e.g., withholding key information, using vague teasers like \"You won't believe what happened next!\").\n"
+        "        - Primarily opinion/op-ed pieces, especially those with inflammatory or biased language. Focus on reported news.\n"
+        "        - Phrased as questions (e.g., \"Is X the new Y?\") or promoting listicles (e.g., \"5 reasons why...\").\n\n"
         "**Step 4: Final Selection and Ordering**\n"
         "From the fully filtered and vetted pool of headlines, make your final selection.\n"
         "1.  **Topic Ordering:** Order the selected topics from most to least significant. Significance is a blend of the user's preference weight and the objective importance of the news you've selected for that topic.\n"
         "2.  **Headline Ordering:** Within each topic, order the selected headlines from most to least newsworthy/comprehensive.\n\n"
         "### Final Output\n"
-        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool. Your output must be concise and reflect the highest standards of news curation."
+        "Before calling the tool, perform a final mental check. Ask yourself:\n"
+        "- \"Is this headline truly distinct from everything else, including the history?\"\n"
+        "- \"Is this trying to sell me a stock, a product, or is it just reporting market news?\"\n"
+        "- \"Is this headline objective, or is it heavily opinionated/sensationalist clickbait?\"\n"
+        "- \"Is my final topic and headline ordering logical and based on true significance?\"\n\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool."
     )
 
     logging.info("Sending request to Gemini for prioritization with history.")
-    # The rest of your function (the try/except block for the API call and response parsing) is excellent and robust.
-    # No changes are needed there. Just copy-paste it below.
+    
     try:
         response = model.generate_content(
-            prompt,
+            [prompt],
             tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}}
         )
 
         finish_reason_display_str = "N/A"
         raw_finish_reason_value = None
-        is_malformed_call_suspected = False
 
         if response.candidates and hasattr(response.candidates[0], 'finish_reason'):
             raw_finish_reason_value = response.candidates[0].finish_reason
-
             if hasattr(raw_finish_reason_value, 'name'):
                 finish_reason_display_str = raw_finish_reason_value.name
-            elif isinstance(raw_finish_reason_value, int):
-                reason_map = {
-                    0: "UNSPECIFIED", 1: "STOP", 2: "MAX_TOKENS",
-                    3: "SAFETY", 4: "RECITATION", 5: "OTHER",
-                    10: "MALFORMED_FUNC_CALL_INT_10"
-                }
-                finish_reason_display_str = reason_map.get(raw_finish_reason_value, f"UNKNOWN_INT_REASON_{raw_finish_reason_value}")
-                if raw_finish_reason_value == 10:
-                    is_malformed_call_suspected = True
             else:
-                finish_reason_display_str = f"UNKNOWN_REASON_TYPE_{type(raw_finish_reason_value)}"
+                finish_reason_display_str = str(raw_finish_reason_value)
 
         has_tool_call = False
         function_call_part = None
@@ -489,53 +506,37 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, diges
                     finish_reason_display_str = "TOOL_CALLS"
                     break
 
-        logging.info(f"Gemini response. finish_reason_display: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
-
-        if is_malformed_call_suspected and not has_tool_call:
-            logging.error(f"Gemini indicated potential MALFORMED_FUNCTION_CALL (raw_value={raw_finish_reason_value}) and no tool call was processed. "
-                          f"Prompt token count: {response.usage_metadata.prompt_token_count if response.usage_metadata else 'N/A'}. "
-                          f"Full response: {response}")
-            return {}
+        logging.info(f"Gemini response. finish_reason: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
 
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args
                 logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...")
 
-                if isinstance(args, MapComposite):
-                    entries_list_proto = args.get("selected_digest_entries")
-                elif isinstance(args, dict):
-                    entries_list_proto = args.get("selected_digest_entries")
-                else:
-                    entries_list_proto = None
-
-                if entries_list_proto is None or not (isinstance(entries_list_proto, list) or isinstance(entries_list_proto, RepeatedComposite)):
-                    logging.warning(f"'selected_digest_entries' from Gemini is not a list/RepeatedComposite or is missing. Type: {type(entries_list_proto)}, Value: {entries_list_proto}")
-                    return {}
-
                 transformed_output = {}
-                for entry_proto in entries_list_proto:
-                    if isinstance(entry_proto, (dict, MapComposite)):
-                        topic_name = entry_proto.get("topic_name")
-                        headlines_proto = entry_proto.get("headlines")
+                if isinstance(args, (MapComposite, dict)):
+                    entries_list_proto = args.get("selected_digest_entries")
+                    if isinstance(entries_list_proto, (RepeatedComposite, list)):
+                        for entry_proto in entries_list_proto:
+                            if isinstance(entry_proto, (MapComposite, dict)):
+                                topic_name = entry_proto.get("topic_name")
+                                headlines_proto = entry_proto.get("headlines")
 
-                        headlines_python_list = []
-                        if isinstance(headlines_proto, (list, RepeatedComposite)):
-                            headlines_python_list = [str(h) for h in headlines_proto if isinstance(h, (str, bytes))]
-                        elif headlines_proto is not None:
-                            logging.warning(f"Headlines for topic '{topic_name}' is not a list/RepeatedComposite. Type: {type(headlines_proto)}")
+                                headlines_python_list = []
+                                if isinstance(headlines_proto, (RepeatedComposite, list)):
+                                    for h_item in headlines_proto:
+                                        headlines_python_list.append(str(h_item))
 
-                        if isinstance(topic_name, str) and topic_name.strip() and headlines_python_list:
-                            topic_name_clean = topic_name.strip()
-                            if topic_name_clean in transformed_output:
-                                transformed_output[topic_name_clean].extend(headlines_python_list)
+                                if isinstance(topic_name, str) and topic_name.strip() and headlines_python_list:
+                                    transformed_output[topic_name.strip()] = headlines_python_list
+                                else:
+                                    logging.warning(f"Skipping invalid entry from tool: topic '{topic_name}', headlines '{headlines_python_list}'")
                             else:
-                                transformed_output[topic_name_clean] = headlines_python_list
-                            transformed_output[topic_name_clean] = list(dict.fromkeys(transformed_output[topic_name_clean]))
-                        else:
-                            logging.warning(f"Skipping invalid entry: topic '{topic_name}' (type {type(topic_name)}), headlines '{headlines_python_list}'")
+                                logging.warning(f"Skipping non-dict/MapComposite item in 'selected_digest_entries' from tool: {type(entry_proto)}")
                     else:
-                        logging.warning(f"Skipping non-dict/MapComposite item in 'selected_digest_entries': type {type(entry_proto)}, value {entry_proto}")
+                        logging.warning(f"'selected_digest_entries' from tool is not a list/RepeatedComposite or is missing. Type: {type(entries_list_proto)}")
+                else:
+                    logging.warning(f"Gemini tool call 'args' is not a MapComposite or dict. Type: {type(args)}")
 
                 logging.info(f"Transformed output from Gemini tool call: {transformed_output}")
                 return transformed_output
@@ -546,61 +547,40 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, diges
             text_content = "".join(part.text for part in response.candidates[0].content.parts if hasattr(part, 'text'))
             if text_content.strip():
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
-                logging.debug(f"Gemini raw text response: {text_content}")
-                parsed_json = safe_parse_json(text_content)
+                parsed_json_fallback = safe_parse_json(text_content)
+                # The returned value from Gemini is a dict of {topic: [headlines]}
+                # Let's check if the parsed content matches this structure.
+                if isinstance(parsed_json_fallback, dict) and "selected_digest_entries" in parsed_json_fallback:
+                    # It seems the model might return JSON matching the tool structure, even in text.
+                    # We should handle this gracefully.
+                    entries = parsed_json_fallback.get("selected_digest_entries", [])
+                    if isinstance(entries, list):
+                        transformed_output = {}
+                        for item in entries:
+                            if isinstance(item, dict):
+                                topic = item.get("topic_name")
+                                headlines = item.get("headlines")
+                                if isinstance(topic, str) and isinstance(headlines, list):
+                                    transformed_output[topic] = headlines
+                        if transformed_output:
+                             logging.info(f"Successfully parsed tool-like structure from Gemini text response: {transformed_output}")
+                             return transformed_output
 
-                if "selected_digest_entries" in parsed_json and isinstance(parsed_json["selected_digest_entries"], list):
-                    transformed_output = {}
-                    for entry in parsed_json["selected_digest_entries"]:
-                        if isinstance(entry, dict):
-                            topic_name = entry.get("topic_name")
-                            headlines_list = entry.get("headlines")
-                            if isinstance(topic_name, str) and topic_name.strip() and isinstance(headlines_list, list):
-                                valid_headlines = [h for h in headlines_list if isinstance(h, str)]
-                                if valid_headlines:
-                                    topic_name_clean = topic_name.strip()
-                                    if topic_name_clean in transformed_output:
-                                        transformed_output[topic_name_clean].extend(valid_headlines)
-                                    else:
-                                        transformed_output[topic_name_clean] = valid_headlines
-                                    transformed_output[topic_name_clean] = list(dict.fromkeys(transformed_output[topic_name_clean]))
-                            else:
-                                logging.warning(f"Skipping invalid entry in parsed text JSON: {entry}")
-                        else:
-                             logging.warning(f"Skipping non-dict item in parsed text 'selected_digest_entries': {entry}")
-                    if transformed_output:
-                        logging.info(f"Successfully parsed and transformed text response from Gemini: {transformed_output}")
-                        return transformed_output
-                    else:
-                        logging.warning(f"Parsed text response from Gemini did not yield usable digest entries.")
-                        return {}
-                else:
-                    logging.warning(f"Gemini text response could not be parsed into the expected digest structure. Raw text: {text_content[:500]}")
-                    return {}
+                logging.warning(f"Could not parse Gemini's text response into expected format. Raw text: {text_content[:500]}")
+                return {}
             else:
-                 logging.warning("Gemini returned no usable function call and no parsable text content (empty parts).")
-                 if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
-                     logging.warning(f"Prompt feedback: {response.prompt_feedback}")
-                 logging.warning(f"Full Gemini response: {response}")
+                 logging.warning("Gemini returned no usable function call and no parsable text content.")
                  return {}
         else:
             if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
-            logging.warning(f"Gemini returned no candidates or no content parts. Full response object: {response}")
+            logging.warning(f"Gemini returned no candidates or no content parts.")
             return {}
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
-        try:
-            if 'response' in locals() and response:
-                logging.error(f"Gemini response object on error (prompt_feedback): {response.prompt_feedback if hasattr(response, 'prompt_feedback') else 'N/A'}")
-                if hasattr(response, 'candidates') and response.candidates:
-                     logging.error(f"Gemini response object on error (first candidate): {response.candidates[0]}")
-            else:
-                logging.error("Response object not available or None at the time of error logging during exception.")
-        except Exception as e_log:
-            logging.error(f"Error logging response details during exception: {e_log}")
         return {}
+
 def generate_digest_html_content(digest_data, current_zone):
     """Generates just the HTML string for a digest, without writing to a file."""
     html_parts = []
