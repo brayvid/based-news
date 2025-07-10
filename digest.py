@@ -258,6 +258,44 @@ def fetch_articles_for_topic(topic, max_articles=10):
         logging.error(f"Unexpected error fetching articles for {topic}: {e}")
         return []
 
+def load_recent_digest_history(digests_dir, manifest_file, max_digests):
+    """
+    Loads headlines from the most recent historical digests by reading the HTML files.
+    This provides the LLM with a true representation of what the user has already seen.
+    """
+    history_headlines = []
+    if not os.path.exists(manifest_file):
+        logging.info("Digest manifest not found. Starting with no digest history.")
+        return []
+
+    try:
+        with open(manifest_file, "r", encoding="utf-8") as f:
+            manifest = json.load(f)
+    except (json.JSONDecodeError, IOError) as e:
+        logging.warning(f"Could not read or parse manifest file for history, continuing without. Error: {e}")
+        return []
+
+    # Manifest is sorted newest to oldest, so we take the top N
+    digests_to_load = manifest[:max_digests]
+    logging.info(f"Loading history from the {len(digests_to_load)} most recent digests.")
+
+    for entry in digests_to_load:
+        # Construct the full path to the historical digest file
+        digest_file_path = os.path.join(os.path.dirname(manifest_file), entry["file"])
+        if os.path.exists(digest_file_path):
+            try:
+                with open(digest_file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                    # Simple but effective regex to find all headlines within the <a> tags
+                    found_headlines = re.findall(r'<a href="[^"]+" target="_blank">([^<]+)</a>', content)
+                    history_headlines.extend(html.unescape(h) for h in found_headlines) # Unescape HTML entities
+            except IOError as e:
+                logging.warning(f"Could not read historical digest file {digest_file_path}: {e}")
+
+    unique_history = list(dict.fromkeys(history_headlines))
+    logging.info(f"Loaded {len(unique_history)} unique headlines from recent digest history.")
+    return unique_history
+
 def build_user_preferences(topics, keywords, overrides):
     preferences = []
     if topics:
@@ -365,64 +403,55 @@ def contains_banned_keyword(text, banned_terms):
     norm_text = normalize(text)
     return any(banned_term in norm_text for banned_term in banned_terms if banned_term)
 
-def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemini_api_key: str) -> dict:
+def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, digest_history: list, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(
         model_name=GEMINI_MODEL_NAME,
         tools=[SELECT_DIGEST_ARTICLES_TOOL]
     )
 
+    digest_history_json = json.dumps(digest_history, indent=2)
+
+    # Instead of a long string, create a structured JSON for preferences. This is more robust.
+    pref_data = {
+        "topic_weights": TOPIC_WEIGHTS,
+        "keyword_weights": KEYWORD_WEIGHTS,
+        "banned_terms": [k for k, v in OVERRIDES.items() if v == "ban"],
+        "demoted_terms": [k for k, v in OVERRIDES.items() if v == "demote"]
+    }
+    user_preferences_json = json.dumps(pref_data, indent=2)
+
+    # --- THE NEW, ADVANCED PROMPT ---
     prompt = (
-        "You are an expert news curator. Your task is to meticulously select and deduplicate the most relevant news topics and headlines "
-        "for a user's email digest. You will be given user preferences and a list of candidate articles. "
-        "Your goal is to produce a concise, high-quality digest adhering to strict criteria.\n\n"
-        f"User Preferences:\n{user_preferences}\n\n"
-        f"Available Topics and Headlines (candidate articles):\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n\n"
-        "Core Selection and Prioritization Logic:\n"
-        "1.  **Topic Importance (User-Defined):** First, identify topics that align with the user's preferences and assigned importance weights (1=lowest, 5=highest). This is the primary driver for topic selection.\n"
-        "2.  **Headline Newsworthiness & Relevance:** Within those topics, select headlines that are genuinely newsworthy, factual, objective, and deeply informative for a U.S. audience.\n"
-        "3.  **Recency:** For developing stories with multiple updates, generally prefer the latest headline that provides the most comprehensive information, unless an earlier headline offers unique critical insight not found later.\n\n"
-        "Strict Filtering Criteria (Apply these *after* initial relevance assessment):\n\n"
-        "*   **Output Limits:**\n"
-        f"    - Select up to {MAX_TOPICS} topics.\n"
-        f"    - For each selected topic, choose up to {MAX_ARTICLES_PER_TOPIC} headlines.\n"
-        "*   **Aggressive Deduplication:**\n"
-        "    - CRITICAL: If multiple headlines cover the *exact same core event, announcement, or substantively similar information*, even if from different sources or under different candidate topics, select ONLY ONE. Choose the most comprehensive, authoritative, or recent version. Do not include slight rephrasing of the same news.\n"
-        "*   **Geographic Focus:**\n"
-        "    - Focus on national (U.S.) or major international news.\n"
-        "    - AVOID news that is *solely* of local interest (e.g., specific to a small town, county, or local community event) *unless* it has clear and direct national or major international implications relevant to a U.S. audience (e.g., a local protest that gains national attention due to presidential involvement and sparks a national debate).\n"
-        "*   **Banned/Demoted Content:**\n"
-        "    - Strictly REJECT any headlines containing terms flagged as 'banned' in user preferences.\n"
-        "    - Headlines with 'demote' terms should be *strongly deprioritized* (effectively treated as having an importance score of 0.1 on a 1-5 scale) and only selected if their relevance and importance are exceptionally high and no other suitable headlines exist for a critical user topic.\n" # Note: DEMOTE_FACTOR value is embedded here.
-        "*   **Commercial Content:**\n"
-        "    - REJECT advertisements.\n"
-        "    - REJECT mentions of specific products/services UNLESS it's highly newsworthy criticism, a major market-moving announcement (e.g., a massive product recall by a major company), or a significant technological breakthrough discussed in a news context, not a promotional one.\n"
-        "    - STRICTLY REJECT articles that primarily offer investment advice, promote specific stocks/cryptocurrencies as 'buy now' opportunities, or resemble 'hot stock tips' (e.g., \"Top X Stocks to Invest In,\" \"This Coin Will Explode,\" \"X Stocks Worth Buying\"). News about broad market trends (e.g., \"S&P 500 reaches record high\"), significant company earnings reports (without buy/sell advice), or major regulatory changes affecting financial markets IS acceptable. The key is to avoid direct or implied investment solicitation for specific securities.\n"
-        "*   **Content Quality & Style:**\n"
-        "    - Ensure a healthy diversity of subjects if possible within the user's preferences; do not let one single event (even if important) dominate the entire digest if other relevant news is available.\n"
-        "    - PRIORITIZE content-rich, factual, objective, and neutrally-toned reporting.\n"
-        "    - ACTIVELY AVOID and DEPRIORITIZE headlines that are:\n"
-        "        - Sensationalist, using hyperbole, excessive superlatives (e.g., \"terrifying,\" \"decimated,\" \"gross failure\"), or fear-mongering.\n"
-        "        - Purely for entertainment, celebrity gossip (unless of undeniable major national/international impact, e.g., death of a global icon), or \"fluff\" pieces lacking substantial news value (e.g., \"Recession Nails,\" \"Trump stumbles\").\n"
-        "        - Clickbait (e.g., withholding key information, using vague teasers like \"You won't believe what happened next!\").\n"
-        "        - Primarily opinion/op-ed pieces, especially those with inflammatory or biased language. Focus on reported news.\n"
-        "        - Phrased as questions (e.g., \"Is X the new Y?\") or promoting listicles (e.g., \"5 reasons why...\"), unless the underlying content is exceptionally newsworthy and unique.\n"
-        "*   **Overall Goal:** The selected articles must reflect genuine newsworthiness and be relevant to an informed general audience seeking serious, objective news updates.\n\n"
-        "**Final Output Structure and Ordering:**\n"
-        "When you provide your selections using the 'format_digest_selection' tool, you MUST adhere to the following ordering:\n"
-        "1.  **Topic Order:** The selected topics MUST be ordered from most significant to least significant. Topic significance is determined primarily by user preference weights, but also consider the overall impact and newsworthiness of the actual headlines selected for that topic. The topic you deem most important overall for the user should appear first.\n"
-        "2.  **Headline Order (within each topic):** For each selected topic, the chosen headlines MUST be ordered from most significant/newsworthy/comprehensive to least significant. This internal ordering should reflect the 'Headline Newsworthiness & Relevance' and 'Recency' criteria. The single most impactful headline for that topic should be listed first under that topic.\n\n"
-        "Chain-of-Thought Instruction (Internal Monologue):\n"
-        "Before finalizing, briefly review your choices against these criteria. Ask yourself:\n"
-        "- \"Is this headline truly distinct from others I've selected?\"\n"
-        "- \"Is this purely local, or does it have wider significance?\"\n"
-        "- \"Is this trying to sell me a stock or just reporting market news?\"\n"
-        "- \"Is this headline objective, or is it heavily opinionated/sensational?\"\n"
-        "- \"Have I ordered my selected topics and the headlines within them correctly according to their significance?\"\n\n"
-        "Based on all the above, provide your selections using the 'format_digest_selection' tool."
+        "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
+        "### Inputs Provided\n"
+        f"1.  **User Preferences:** A JSON object defining topic interests, importance weights (1-5), and banned/demoted keywords.\n```json\n{user_preferences_json}\n```\n"
+        f"2.  **Candidate Headlines:** A pool of new articles available for today's digest, organized by their machine-assigned topic.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
+        f"3.  **Digest History:** A list of headlines the user has already seen in recent digests. You MUST NOT select headlines that are substantively identical to these. An event already reported (e.g., 'Company X announces merger') should not be reported again unless there is a *significant new development*.\n```json\n{digest_history_json}\n```\n\n"
+        "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
+        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\n"
+        "First, analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event. An 'event' is the underlying real-world occurrence, not the specific wording of a headline. Example: All headlines about 'Trump's megabill passing the House' are one single event.\n"
+        "-   **Group by Meaning:** Cluster headlines based on their substantive meaning. For example, 'Fed Pauses Rate Hikes,' 'Federal Reserve Holds Interest Rates Steady,' and 'Powell Announces No Change to Fed Funds Rate' all belong to the same cluster.\n"
+        "-   **Select One Champion:** From each cluster, select ONLY ONE headline—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other headlines in that cluster immediately.\n"
+        "-   **This is a GLOBAL deduplication.** A headline about a 'Tech' company's earnings might be the same event as a headline in the 'Finance' topic. They must be deduplicated against each other.\n\n"
+        "**Step 2: History-Based Filtering**\n"
+        "Now, take your deduplicated list of 'champion' headlines. Compare each one against the `Digest History`. If any of your champion headlines reports on the exact same event that has already been sent, DISCARD it. Only select news that provides a significant, new update.\n\n"
+        "**Step 3: Relevance & Quality Filtering**\n"
+        "For the remaining, unique, and new headlines, apply the following strict filtering criteria:\n"
+        f"-   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "-   **User Preferences:** Prioritize topics with higher user-defined weights. Reject any headline with 'banned' terms. Heavily demote (treat as importance 0.1) headlines with 'demoted' terms.\n"
+        "-   **Geographic Focus, Commercial Content & Quality:** Apply all other strict rules regarding local news, ads, stock tips, sensationalism, and clickbait. Focus on objective, factual news.\n\n"
+        "**Step 4: Final Selection and Ordering**\n"
+        "From the fully filtered and vetted pool of headlines, make your final selection.\n"
+        "1.  **Topic Ordering:** Order the selected topics from most to least significant. Significance is a blend of the user's preference weight and the objective importance of the news you've selected for that topic.\n"
+        "2.  **Headline Ordering:** Within each topic, order the selected headlines from most to least newsworthy/comprehensive.\n\n"
+        "### Final Output\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool. Your output must be concise and reflect the highest standards of news curation."
     )
 
-    logging.info("Sending request to Gemini for prioritization.")
+    logging.info("Sending request to Gemini for prioritization with history.")
+    # The rest of your function (the try/except block for the API call and response parsing) is excellent and robust.
+    # No changes are needed there. Just copy-paste it below.
     try:
         response = model.generate_content(
             prompt,
@@ -572,8 +601,6 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         except Exception as e_log:
             logging.error(f"Error logging response details during exception: {e_log}")
         return {}
-
-
 def generate_digest_html_content(digest_data, current_zone):
     """Generates just the HTML string for a digest, without writing to a file."""
     html_parts = []
@@ -845,17 +872,28 @@ def perform_git_operations(base_dir, current_zone, config_obj):
     except Exception as e:
         logging.error(f"General error during Git operations: {e}", exc_info=True)
 
-
 def main():
-    history = {}
+    # --- DELETED ---
+    # The old way of loading history is no longer the primary source for LLM context.
+    # It was used for a flawed pre-filtering step that is now removed.
+
+    # +++ ADDED: Load the TRUE history of what the user has actually seen recently. +++
+    # This is the context that will be passed to the LLM.
+    recent_digest_headlines = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
+
+    # We still load the old history.json, but now it's only used at the very end
+    # by the `update_history_file` function to maintain its own long-term log.
+    # It is NO LONGER used to filter articles before sending to the LLM.
+    history_log_for_update = {}
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-                history = json.load(f)
+                history_log_for_update = json.load(f)
         except json.JSONDecodeError:
-            logging.warning("history.json is empty or invalid. Starting with an empty history.")
+            logging.warning("history.json is empty or invalid. Starting with an empty history log.")
         except Exception as e:
-            logging.error(f"Error loading history.json: {e}. Starting with empty history.")
+            logging.error(f"Error loading history.json: {e}. Starting with empty history log.")
+
 
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
@@ -878,9 +916,13 @@ def main():
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
-                    if is_in_history(art["title"], history):
-                        logging.debug(f"Skipping (in history): {art['title']}")
-                        continue
+                    # --- DELETED: The weak, syntactic history check is gone. ---
+                    # The LLM will now handle history checking semantically.
+                    # if is_in_history(art["title"], history_log_for_update):
+                    #     logging.debug(f"Skipping (in history): {art['title']}")
+                    #     continue
+
+                    # The banned keyword check is a hard rule, so it's fine to keep it here.
                     if contains_banned_keyword(art["title"], normalized_banned_terms):
                         logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
@@ -896,35 +938,29 @@ def main():
         gemini_processed_content = {}
 
         if not headlines_to_send_to_llm:
-            logging.info("No new, non-banned, non-historical headlines available to send to LLM.")
+            logging.info("No new, non-banned headlines available to send to LLM.")
         else:
             total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
             logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
 
-            selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, gemini_api_key)
+            # +++ MODIFIED: Pass the new, accurate digest history to the LLM +++
+            selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, recent_digest_headlines, gemini_api_key)
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
                 logging.warning("Gemini returned no content or invalid format.")
             else:
-                if len(selected_content_raw_from_llm) > MAX_TOPICS:
-                    logging.warning(f"Gemini returned {len(selected_content_raw_from_llm)} topics, which exceeds MAX_TOPICS={MAX_TOPICS}. Truncating to the first {MAX_TOPICS} topics provided by Gemini.")
-                    truncated_topics_list = list(selected_content_raw_from_llm.items())[:MAX_TOPICS]
-                    selected_content_raw_from_llm = dict(truncated_topics_list)
-
-                logging.info(f"Processing {len(selected_content_raw_from_llm)} topics from Gemini (after script's MAX_TOPICS truncation). Enforcing MAX_ARTICLES_PER_TOPIC={MAX_ARTICLES_PER_TOPIC}.")
+                logging.info(f"Processing {len(selected_content_raw_from_llm)} topics returned by Gemini.")
                 seen_normalized_titles_in_llm_output = set()
 
-                for topic_from_llm, titles_from_llm_untruncated in selected_content_raw_from_llm.items():
-                    if not isinstance(titles_from_llm_untruncated, list):
-                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm_untruncated}. Skipping.")
+                # Loop through topics in the order Gemini provided, as it's already sorted by importance.
+                for topic_from_llm, titles_from_llm in selected_content_raw_from_llm.items():
+                    if not isinstance(titles_from_llm, list):
+                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm}. Skipping.")
                         continue
 
-                    titles_from_llm = titles_from_llm_untruncated[:MAX_ARTICLES_PER_TOPIC]
-                    if len(titles_from_llm_untruncated) > MAX_ARTICLES_PER_TOPIC:
-                        logging.info(f"Topic '{topic_from_llm}' from LLM had {len(titles_from_llm_untruncated)} articles, script truncated to {MAX_ARTICLES_PER_TOPIC}.")
-
                     current_topic_articles_for_digest = []
-                    for title_from_llm in titles_from_llm:
+                    # Gemini is already asked to limit articles, but we enforce it here as a backup.
+                    for title_from_llm in titles_from_llm[:MAX_ARTICLES_PER_TOPIC]:
                         if not isinstance(title_from_llm, str):
                             logging.warning(f"LLM returned non-string headline: {title_from_llm} for topic '{topic_from_llm}'. Skipping.")
                             continue
@@ -932,15 +968,18 @@ def main():
                         norm_llm_title = normalize(title_from_llm)
                         if not norm_llm_title: continue
 
+                        # This check is now just a failsafe. The main semantic dedupe is already done by the LLM.
                         if norm_llm_title in seen_normalized_titles_in_llm_output:
-                            logging.info(f"Deduplicating LLM output: '{title_from_llm}' already selected under another topic by LLM this run.")
+                            logging.info(f"Failsafe Deduplication: Skipping '{title_from_llm}' as it was already selected this run.")
                             continue
 
+                        # Find the full article object for the selected title
                         article_data = full_articles_map_this_run.get(norm_llm_title)
                         if article_data:
                             current_topic_articles_for_digest.append(article_data)
                             seen_normalized_titles_in_llm_output.add(norm_llm_title)
                         else:
+                            # Fallback logic for slight wording differences between LLM input and output
                             found_fallback = False
                             for stored_norm_title, stored_article_data in full_articles_map_this_run.items():
                                 if norm_llm_title in stored_norm_title or stored_norm_title in norm_llm_title:
@@ -956,30 +995,17 @@ def main():
                     if current_topic_articles_for_digest:
                         gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest
 
-        final_digest_for_display_and_state = {}
-        if gemini_processed_content:
-            topics_with_pubdates = []
-            for topic_name, articles in gemini_processed_content.items():
-                if not articles:
-                    continue
-
-                newest_pubdate_str = articles[0]['pubDate']
-                try:
-                    newest_pubdate_dt = parsedate_to_datetime(newest_pubdate_str)
-                    if newest_pubdate_dt.tzinfo is None:
-                        newest_pubdate_dt = newest_pubdate_dt.replace(tzinfo=ZoneInfo("UTC"))
-                    topics_with_pubdates.append((topic_name, articles, newest_pubdate_dt))
-                except Exception as e:
-                    logging.warning(f"Could not parse pubDate '{newest_pubdate_str}' for topic '{topic_name}' during sorting. Using epoch. Error: {e}")
-                    topics_with_pubdates.append((topic_name, articles, datetime.min.replace(tzinfo=ZoneInfo("UTC"))))
-
-            topics_with_pubdates.sort(key=lambda x: x[2], reverse=True)
-
-            for topic_name, articles, _ in topics_with_pubdates:
-                final_digest_for_display_and_state[topic_name] = articles
-            logging.info(f"Sorted {len(final_digest_for_display_and_state)} topics by newest article pubdate for display.")
+        # --- RE-ARCHITECTED: We now trust Gemini's ordering. ---
+        # The LLM was instructed to order topics and headlines by significance, which is a better metric
+        # than just sorting by the newest pubDate. The logic below is no longer needed.
+        # final_digest_for_display_and_state = {}
+        # if gemini_processed_content:
+        #    ... [old sorting logic] ...
+        final_digest_for_display_and_state = gemini_processed_content
+        if final_digest_for_display_and_state:
+            logging.info(f"Final digest contains {len(final_digest_for_display_and_state)} topics, ordered by Gemini.")
         else:
-            logging.info("No content from Gemini to sort for display.")
+            logging.info("No content from Gemini to create a digest.")
 
         if final_digest_for_display_and_state:
             content_json_to_save = {}
@@ -991,24 +1017,19 @@ def main():
                     "last_updated_ts": now_utc_iso
                 }
 
-            # --- OPTIMIZATION 1: Generate HTML with correct heading level (h2) ---
             new_digest_html = generate_digest_html_content(final_digest_for_display_and_state, ZONE)
 
-            # Write to the standalone latest digest file (for history)
             with open(LATEST_DIGEST_HTML_FILE, "w", encoding="utf-8") as f:
                 f.write(new_digest_html)
             logging.info(f"Latest digest written to {LATEST_DIGEST_HTML_FILE}")
 
-            # --- OPTIMIZATION 2: Embed latest digest directly into a new index.html ---
             try:
-                # Use a template file to avoid self-modification issues
                 template_path = os.path.join(BASE_DIR, "public", "index.template.html")
                 final_index_path = os.path.join(BASE_DIR, "public", "index.html")
 
                 with open(template_path, "r", encoding="utf-8") as f:
                     index_content = f.read()
 
-                # Replace the placeholder with the actual latest digest content
                 index_content = index_content.replace("<!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->", new_digest_html)
 
                 with open(final_index_path, "w", encoding="utf-8") as f:
@@ -1018,7 +1039,6 @@ def main():
             except Exception as e:
                 logging.error(f"Failed to embed latest digest into index.html from template: {e}")
 
-            # Update history with the same content
             update_digest_history(new_digest_html, ZONE)
 
             try:
@@ -1029,9 +1049,10 @@ def main():
                 logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
 
         else:
-            logging.info("No topics from Gemini this run. Files are not modified.")
+            logging.info("No topics selected from Gemini this run. Files are not modified.")
 
-        update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
+        # This call now uses the history log variable we defined at the top
+        update_history_file(final_digest_for_display_and_state, history_log_for_update, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
             perform_git_operations(BASE_DIR, ZONE, CONFIG)
@@ -1042,30 +1063,6 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-
-# You also need to modify the HTML generation function for the h2 change
-def generate_digest_html_content(digest_data, current_zone):
-    """Generates just the HTML string for a digest, without writing to a file."""
-    html_parts = []
-    for topic, articles in digest_data.items():
-        # --- OPTIMIZATION 3: Use H2 for better heading structure ---
-        html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
-        for article in articles:
-            try:
-                pub_dt_orig = parsedate_to_datetime(article["pubDate"])
-                pub_dt_user_tz = to_user_timezone(pub_dt_orig)
-                date_str = pub_dt_user_tz.strftime("%a, %d %b %Y %I:%M %p %Z")
-            except Exception as e:
-                logging.warning(f"Could not parse date for article '{article['title']}': {article['pubDate']} - {e}")
-                date_str = "Date unavailable"
-
-            html_parts.append(
-                f'<p>'
-                f'<a href="{html.escape(article["link"])}" target="_blank">{html.escape(article["title"])}</a><br>'
-                f'<small>{date_str}</small>'
-                f'</p>\n'
-            )
-    return "".join(html_parts)
 
 if __name__ == "__main__":
     main()
