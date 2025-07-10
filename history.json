@@ -759,6 +759,10 @@
     {
       "title": "New York Passes the Responsible AI Safety and Education Act - The National Law Review",
       "pubDate": "Thu, 10 Jul 2025 15:42:39 GMT"
+    },
+    {
+      "title": "California Bill Requires AI Oversight for Infrastructure - Environment+Energy Leader",
+      "pubDate": "Thu, 10 Jul 2025 18:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -811,14 +815,6 @@
     {
       "title": "States retain power to regulate AI as Senate approves amendment led by Cantwell - GeekWire",
       "pubDate": "Wed, 02 Jul 2025 22:58:37 GMT"
-    },
-    {
-      "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
-    },
-    {
-      "title": "Microsoft axing 9,000 employees as tech world eyes artificial intelligence growth - KFOX",
-      "pubDate": "Wed, 02 Jul 2025 18:49:24 GMT"
     },
     {
       "title": "AI regulation draws support from both sides of the political aisle - Texas Standard",
@@ -1337,10 +1333,6 @@
   ],
   "ukraine": [
     {
-      "title": "Pentagon Under Scrutiny Over Decision to Halt Weapons to Ukraine - Bloomberg",
-      "pubDate": "Wed, 02 Jul 2025 18:52:58 GMT"
-    },
-    {
       "title": "U.S. pauses some Ukraine weapons shipments; Kyiv scrambles to respond - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 19:11:18 GMT"
     },
@@ -1667,6 +1659,10 @@
     {
       "title": "Russian drones swarm Kyiv from all sides in apparent shift of tactics - CNN",
       "pubDate": "Thu, 10 Jul 2025 13:36:00 GMT"
+    },
+    {
+      "title": "Russia bombards Kyiv before 'frank' talks with US and aid pledges - Reuters",
+      "pubDate": "Thu, 10 Jul 2025 14:49:52 GMT"
     }
   ],
   "us_economy": [
@@ -1808,10 +1804,6 @@
     }
   ],
   "china": [
-    {
-      "title": "A more complicated kind of kill chain is making China's missiles a deadlier problem for US forces, a top general says - Business Insider",
-      "pubDate": "Wed, 02 Jul 2025 18:20:00 GMT"
-    },
     {
       "title": "EU presses China on rare earths and Ukraine war - Reuters",
       "pubDate": "Wed, 02 Jul 2025 21:02:25 GMT"
@@ -2442,10 +2434,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cyberattack hits major airline, up to 6M customer profiles exposed - Fox Business",
-      "pubDate": "Wed, 02 Jul 2025 18:24:00 GMT"
-    },
     {
       "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams - The Hacker News",
       "pubDate": "Thu, 03 Jul 2025 16:02:00 GMT"
@@ -3203,10 +3191,6 @@
       "pubDate": "Wed, 02 Jul 2025 21:44:00 GMT"
     },
     {
-      "title": "Tesla\u2019s Global Vehicle Deliveries Plunged in Second Quarter - WSJ",
-      "pubDate": "Wed, 02 Jul 2025 18:09:00 GMT"
-    },
-    {
       "title": "Tesla's German car sales continue to fall in June - Reuters",
       "pubDate": "Fri, 04 Jul 2025 06:48:00 GMT"
     },
@@ -3740,10 +3724,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Air pollution linked to lung cancer-driving DNA mutations, study finds - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 18:36:00 GMT"
-    },
     {
       "title": "Landmark US study reveals sewage sludge and wastewater plants tied to Pfas pollution - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 11:02:00 GMT"
@@ -4283,6 +4263,10 @@
     {
       "title": "Trump Order Imperils Billions In Clean Energy Projects The Data Center Industry Just Fought To Save - Bisnow",
       "pubDate": "Wed, 09 Jul 2025 22:51:32 GMT"
+    },
+    {
+      "title": "Trump bill could increase energy costs, stymies renewables - The Martha's Vineyard Times",
+      "pubDate": "Thu, 10 Jul 2025 18:08:01 GMT"
     }
   ],
   "large_language_models": [
@@ -4595,6 +4579,10 @@
     {
       "title": "Israel Reaches Agreement With EU to Allow More Aid Into Gaza - Bloomberg",
       "pubDate": "Thu, 10 Jul 2025 13:14:48 GMT"
+    },
+    {
+      "title": "A Lethal Israeli Airstrike Hits Near a Gaza Aid Clinic - The New York Times",
+      "pubDate": "Thu, 10 Jul 2025 13:24:21 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4747,6 +4735,24 @@
     {
       "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
       "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
+    }
+  ],
+  "algorithmic_trading": [
+    {
+      "title": "Algorithmic trading risky without oversight, warns CSE official - MSN",
+      "pubDate": "Thu, 10 Jul 2025 07:23:55 GMT"
+    }
+  ],
+  "american_civil_liberties_union": [
+    {
+      "title": "Federal Court Blocks Trump Birthright Citizenship Order, Certifies Nationwide Class Protecting All Impacted Babies - Legal Defense Fund",
+      "pubDate": "Thu, 10 Jul 2025 18:07:31 GMT"
+    }
+  ],
+  "democracy": [
+    {
+      "title": "New poll finds most Californians believe American democracy is in peril - Los Angeles Times",
+      "pubDate": "Thu, 10 Jul 2025 10:00:00 GMT"
     }
   ]
 }
