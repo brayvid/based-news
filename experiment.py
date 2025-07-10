@@ -119,7 +119,7 @@ def perform_git_operations(base_dir):
             return
         
         # Add the files this script generates
-        files_to_add = [EVALUATED_PREDICTIONS_FILE, LAST_RUN_TIMESTAMP_FILE, os.path.join(LOG_DIR, 'experiment.log')]
+        files_to_add = [EVALUATED_PREDICTIONS_FILE, LAST_RUN_TIMESTAMP_FILE]
         relative_files_to_add = [os.path.relpath(f, base_dir) for f in files_to_add if os.path.exists(f)]
         
         if not relative_files_to_add:
