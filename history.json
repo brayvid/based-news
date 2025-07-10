@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump news at a glance: a senator quits, the \u2018big beautiful bill\u2019 loses its name \u2013 but senate still passes Trump\u2019s megabill - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 02:55:54 GMT"
-    },
-    {
       "title": "Donald Trump threatens Japan with tariff up to 35% as deadline looms - BBC",
       "pubDate": "Wed, 02 Jul 2025 04:33:45 GMT"
     },
@@ -825,14 +821,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "A new tech race is on. Can Europe learn from the ones it lost? - politico.eu",
-      "pubDate": "Wed, 02 Jul 2025 02:33:25 GMT"
-    },
-    {
-      "title": "China Is Quickly Eroding America\u2019s Lead in the Global AI Race - WSJ",
-      "pubDate": "Wed, 02 Jul 2025 03:00:00 GMT"
-    },
-    {
       "title": "Breakingviews - AI dooms the billable hour \u2013 and Big Law earnings - Reuters",
       "pubDate": "Wed, 02 Jul 2025 05:00:00 GMT"
     },
@@ -1219,6 +1207,10 @@
     {
       "title": "Nvidia's stock market value hits $4 trillion on AI dominance - Reuters",
       "pubDate": "Wed, 09 Jul 2025 20:38:54 GMT"
+    },
+    {
+      "title": "AI Unlocks Earth\u2019s Subsurface Mysteries for Smart Energy Applications - USC Viterbi School of Engineering",
+      "pubDate": "Wed, 09 Jul 2025 18:36:22 GMT"
     }
   ],
   "climate": [
@@ -1703,13 +1695,13 @@
     {
       "title": "Russia's summer push in Ukraine targets three fronts but faces stern resistance - BBC",
       "pubDate": "Wed, 09 Jul 2025 17:00:33 GMT"
+    },
+    {
+      "title": "Russia launches huge attack on Ukraine as Kremlin says it's \"quite calm\" about Trump's mounting criticism - CBS News",
+      "pubDate": "Wed, 09 Jul 2025 23:46:43 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
-      "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
-    },
     {
       "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
       "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
@@ -2116,10 +2108,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
-      "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
-    },
     {
       "title": "Senate Bill Offers Interest Deduction for Buyers of American-Made Cars - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 09:04:08 GMT"
@@ -2600,10 +2588,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 02:13:00 GMT"
-    },
     {
       "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
@@ -3593,6 +3577,10 @@
     {
       "title": "Bitcoin rises to fresh record above $112,000, helped by Nvidia-led tech rally - CNBC",
       "pubDate": "Wed, 09 Jul 2025 20:46:11 GMT"
+    },
+    {
+      "title": "Bitcoin soars to all-time peak just shy of $112,000 - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 21:45:03 GMT"
     }
   ],
   "us_congress": [
@@ -3695,6 +3683,10 @@
     {
       "title": "Nvidia becomes world\u2019s first $4T company, topping Apple and Microsoft in remarkable comeback - New York Post",
       "pubDate": "Wed, 09 Jul 2025 14:57:29 GMT"
+    },
+    {
+      "title": "Nvidia At $4 Trillion Market Cap \u2013 Is The S&P Heavyweight A Buy Now? - Investor's Business Daily",
+      "pubDate": "Wed, 09 Jul 2025 16:37:00 GMT"
     }
   ],
   "earth_science": [
@@ -3840,10 +3832,6 @@
     }
   ],
   "google": [
-    {
-      "title": "Google ordered to pay over $314 million to Android users in California for \u2018stealing\u2019 mobile data - Mint",
-      "pubDate": "Wed, 02 Jul 2025 02:04:38 GMT"
-    },
     {
       "title": "Google undercounts its carbon emissions, report finds - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 20:11:00 GMT"
@@ -4555,6 +4543,10 @@
     {
       "title": "Earth is going to spin much faster over the next few months \u2014 so fast that several days are going to get shorter - Live Science",
       "pubDate": "Mon, 07 Jul 2025 14:18:28 GMT"
+    },
+    {
+      "title": "Scientists Just Debunked 'Earth's Oldest Impact Crater' - ScienceAlert",
+      "pubDate": "Thu, 10 Jul 2025 01:20:13 GMT"
     }
   ],
   "effects_of_global_warming": [
@@ -4687,6 +4679,10 @@
     {
       "title": "Breakthrough Confirmed: New Water Battery Technology Achieves 220 Full Cycles With Absolutely No Drop in Performance or Energy Storage - Energy Reporters",
       "pubDate": "Wed, 09 Jul 2025 22:08:47 GMT"
+    },
+    {
+      "title": "New quantum battery breakthrough boosts energy storage by 1,000x - The Brighter Side of News",
+      "pubDate": "Wed, 09 Jul 2025 16:07:00 GMT"
     }
   ],
   "spacex": [
