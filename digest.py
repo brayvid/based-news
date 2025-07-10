@@ -853,17 +853,10 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         logging.error(f"General error during Git operations: {e}", exc_info=True)
 
 def main():
-    # --- DELETED ---
-    # The old way of loading history is no longer the primary source for LLM context.
-    # It was used for a flawed pre-filtering step that is now removed.
-
-    # +++ ADDED: Load the TRUE history of what the user has actually seen recently. +++
-    # This is the context that will be passed to the LLM.
+    # Load the TRUE history of what the user has actually seen recently from HTML digests.
     recent_digest_headlines = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
 
-    # We still load the old history.json, but now it's only used at the very end
-    # by the `update_history_file` function to maintain its own long-term log.
-    # It is NO LONGER used to filter articles before sending to the LLM.
+    # Load the old history.json, but only for the update function at the very end.
     history_log_for_update = {}
     if os.path.exists(HISTORY_FILE):
         try:
@@ -874,14 +867,14 @@ def main():
         except Exception as e:
             logging.error(f"Error loading history.json: {e}. Starting with empty history log.")
 
-
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
             logging.error("Missing GEMINI_API_KEY environment variable. Exiting.")
             sys.exit(1)
 
-        user_preferences = build_user_preferences(TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
+        # DELETED: The user_preferences string is no longer needed here as its components
+        # are passed directly into the self-contained `prioritize_with_gemini` function.
 
         headlines_to_send_to_llm = {}
         full_articles_map_this_run = {}
@@ -896,13 +889,7 @@ def main():
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
-                    # --- DELETED: The weak, syntactic history check is gone. ---
-                    # The LLM will now handle history checking semantically.
-                    # if is_in_history(art["title"], history_log_for_update):
-                    #     logging.debug(f"Skipping (in history): {art['title']}")
-                    #     continue
-
-                    # The banned keyword check is a hard rule, so it's fine to keep it here.
+                    # The weak is_in_history pre-filter is removed. The LLM handles history semantically.
                     if contains_banned_keyword(art["title"], normalized_banned_terms):
                         logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
@@ -923,8 +910,16 @@ def main():
             total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
             logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
 
-            # +++ MODIFIED: Pass the new, accurate digest history to the LLM +++
-            selected_content_raw_from_llm = prioritize_with_gemini(headlines_to_send_to_llm, user_preferences, recent_digest_headlines, gemini_api_key)
+            # --- THIS IS THE CORRECTED FUNCTION CALL ---
+            # It now passes all the required arguments, fixing the TypeError.
+            selected_content_raw_from_llm = prioritize_with_gemini(
+                headlines_to_send=headlines_to_send_to_llm,
+                digest_history=recent_digest_headlines,
+                gemini_api_key=gemini_api_key,
+                topic_weights=TOPIC_WEIGHTS,
+                keyword_weights=KEYWORD_WEIGHTS,
+                overrides=OVERRIDES
+            )
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
                 logging.warning("Gemini returned no content or invalid format.")
@@ -932,62 +927,49 @@ def main():
                 logging.info(f"Processing {len(selected_content_raw_from_llm)} topics returned by Gemini.")
                 seen_normalized_titles_in_llm_output = set()
 
-                # Loop through topics in the order Gemini provided, as it's already sorted by importance.
                 for topic_from_llm, titles_from_llm in selected_content_raw_from_llm.items():
                     if not isinstance(titles_from_llm, list):
-                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}': {titles_from_llm}. Skipping.")
+                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}'. Skipping.")
                         continue
 
                     current_topic_articles_for_digest = []
-                    # Gemini is already asked to limit articles, but we enforce it here as a backup.
                     for title_from_llm in titles_from_llm[:MAX_ARTICLES_PER_TOPIC]:
                         if not isinstance(title_from_llm, str):
-                            logging.warning(f"LLM returned non-string headline: {title_from_llm} for topic '{topic_from_llm}'. Skipping.")
+                            logging.warning(f"LLM returned non-string headline: {title_from_llm}. Skipping.")
                             continue
 
                         norm_llm_title = normalize(title_from_llm)
                         if not norm_llm_title: continue
 
-                        # This check is now just a failsafe. The main semantic dedupe is already done by the LLM.
                         if norm_llm_title in seen_normalized_titles_in_llm_output:
                             logging.info(f"Failsafe Deduplication: Skipping '{title_from_llm}' as it was already selected this run.")
                             continue
 
-                        # Find the full article object for the selected title
                         article_data = full_articles_map_this_run.get(norm_llm_title)
                         if article_data:
                             current_topic_articles_for_digest.append(article_data)
                             seen_normalized_titles_in_llm_output.add(norm_llm_title)
                         else:
-                            # Fallback logic for slight wording differences between LLM input and output
                             found_fallback = False
                             for stored_norm_title, stored_article_data in full_articles_map_this_run.items():
                                 if norm_llm_title in stored_norm_title or stored_norm_title in norm_llm_title:
                                     if stored_norm_title not in seen_normalized_titles_in_llm_output:
                                         current_topic_articles_for_digest.append(stored_article_data)
                                         seen_normalized_titles_in_llm_output.add(stored_norm_title)
-                                        logging.info(f"Matched LLM title '{title_from_llm}' to stored '{stored_article_data['title']}' via fallback.")
                                         found_fallback = True
                                         break
                             if not found_fallback:
-                                logging.warning(f"Could not map LLM title '{title_from_llm}' (normalized: '{norm_llm_title}') back to a fetched article.")
+                                logging.warning(f"Could not map LLM title '{title_from_llm}' back to a fetched article.")
 
                     if current_topic_articles_for_digest:
                         gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest
 
-        # --- RE-ARCHITECTED: We now trust Gemini's ordering. ---
-        # The LLM was instructed to order topics and headlines by significance, which is a better metric
-        # than just sorting by the newest pubDate. The logic below is no longer needed.
-        # final_digest_for_display_and_state = {}
-        # if gemini_processed_content:
-        #    ... [old sorting logic] ...
+        # We now trust Gemini's ordering, which is based on significance.
         final_digest_for_display_and_state = gemini_processed_content
-        if final_digest_for_display_and_state:
-            logging.info(f"Final digest contains {len(final_digest_for_display_and_state)} topics, ordered by Gemini.")
-        else:
-            logging.info("No content from Gemini to create a digest.")
 
         if final_digest_for_display_and_state:
+            logging.info(f"Final digest contains {len(final_digest_for_display_and_state)} topics, ordered by Gemini.")
+
             content_json_to_save = {}
             now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat()
 
@@ -1029,9 +1011,8 @@ def main():
                 logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
 
         else:
-            logging.info("No topics selected from Gemini this run. Files are not modified.")
+            logging.info("No topics from Gemini this run. Files are not modified.")
 
-        # This call now uses the history log variable we defined at the top
         update_history_file(final_digest_for_display_and_state, history_log_for_update, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
@@ -1043,6 +1024,6 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-
+        
 if __name__ == "__main__":
     main()
