@@ -1,72 +1,72 @@
 {
-  "NVIDIA": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Nvidia Becomes First Public Company Worth $4 Trillion - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3ZFNHgxQ1FfVi1hVXNsWlY4bXBuWlFVRTRFWHNDU0RnQVdIQjF4UTllaE45d3R0S3lSOWxnYzQwcGlLaURMdkFCUVFFSWhxZnpZWXZWV1A2b1dfNElBX21sQnlLRzNQVlV6UWQ1UFRrNXBITG5iM0g2MzRTa3BmeTJ6SU9NTkIz?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 20:18:09 GMT"
+        "title": "AI Security Crisis: Balancing Innovation with Data Protection - Security Info Watch",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVlCNzNDS3dQa19GXzV5SDBXam95aV9MQ1hfc1FmcWhRTUJld2d1dFl3czhsbElKTFdLeVRXaUNBVnp3bWRDRWdqTEV6c2t5RW1DZHg2aXZtX254Z0kzQzhlSHRld19rTUVsQWlxYnd3SG5nSE1oZXlZeWNXUUhCTW9EcmJCSFdxdU9OUzRMOEdNRnR1d3BRTzZuMXZkRGVNcE16bkkxSnBydXJXTDg3S0o5LWxpU0w0WkZNVDhxZFZqX0E?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 20:56:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
+  },
+  "Alternative Energy": {
+    "articles": [
+      {
+        "title": "Breakingviews - Trump\u2019s big bill shrinks America\u2019s energy future - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0FDeTBMUDNiMGZwakJXaVR4ZDFUQVhQZ05oWVRsT2hvT3Q1OThMSXJjcVc4VWRwRWRWTy14d00tc19fUUJhTjVkVlFHYlJfdjlVai1qcnRQS2Y1VXpjeW5RQkx3MzE2UXZXdkl6MzRaLXhxQmtlTEZERDR6VzA3TFpYZUpQRDZXdDBYc3VBUFhQN2RlVkV0bjdpendfeVZZVkRZRXEyRVdfcjA?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 11:59:51 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   },
   "Gaza": {
     "articles": [
       {
-        "title": "Israeli airstrike kills several children near Gaza health clinic - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWFPUGdIVVhCa1NVTEhkR3hJdExBUjEwQ0E2Q19vdkp5SjZYVjJReXRfN1pvQWZEeXMwUGhZenNrUnRvSGxsdFBuTTNkLW9TVTE5azYxT05oSGNSNEVIdnRaYm15cnc5d0lHbkhrc2Z2a2hISUQwb0g2djRqN2hBTW9VLV9pblU0YlVidTFoazlodzVNODZZNzdQQUZuSUVwVm5XVXM4R0Y5YWPSAWZBVV95cUxPQWVDcDRwd2FtVWF2WWJ3bllPa3hMSnVLM0J3eE1GZVh5QmF1bTVmb3FyNmpTOXU4WWxrYWxIZUlEd25JQmRiYnFWektLdnF2UmphQzJiaDMxTGdjdndLV0c5ZW1iamc?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 20:34:03 GMT"
+        "title": "Israel, European Union reach deal on more aid, fuel deliveries to Gaza - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2FPWmdRMXlmTnpJaFo0bmNSU29pVmQ0VGlfWG9aTnI5c0pHTU9Od1g0bnZwS3FJVk92SFg2dU5LNTBrbV9ST0oxVUlYOUlwb18taUNpWFVaR3VhU3VMdVVicXZGU2Nvd0NVQzlicW9RZUdlc05ROXdJcm9BV2NxQXVhaUptQQ?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 21:07:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   },
-  "Donald Trump": {
+  "NVIDIA": {
     "articles": [
       {
-        "title": "Trump's immigration enforcement record so far: High arrests, low deportations - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXRxbUgwWVB0TFVUMVJFaTY4Z1M3UmR0UV9nc0cySWpHeFlpdHJNS3U0RnJTdWtYQ1FKcldQSFZTQmtiMWRYMEM1empEa251MmNpUHhhQTBELTFoQ0ZFRnlvMjdieXRWS2VUU1JfRldIZjlVM1NnTzhITURzRk1GekNrTkg3bG1sSzNIR1JCXzBCQmxiejRLMTZ6TjdqdVFUa2xkR3gtUFdkb09ud3dCdmQ4M3Jfd9IBVkFVX3lxTE9mTzlxcHlLaG5qWVc5NHU5RTFFWkdnWnNDMFhNbS0zZ2RZWXNISVJCWTlGa1Vyb0U2dUprcURTanI1c3hEUG5qMnYta3c1c0w2ZFhYQTR3?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 10:00:40 GMT"
+        "title": "Nvidia becomes the first public company with $4T valuation - MSNBC News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHhOcHdJZ1NwT0J6eWFLdU1WbFpsMGEwX2YwS25QRnFpSS1JLTdtSjhLUE1LTFlObW5IQTJtanBhRjMtVm05RjYxZ3FnVXVJTzBNZGl3c1ZyeEFNWURURVFVMXRnZExtUVdsZjVNRTJNaFRVU1VrenV3VGd3SEgwTUcwUGhfQV9pM3V1U184QVU5eTg0bmtrRjhzd2t1X00yR1Vsb0M3VUFNUGxoMG5V0gFkQVVfeXFMUGNfem9VZjZ2VHQ0OW5SNTRwZnhJVUVqZGNSbDlMMktkOWJGUWlsSEhFVDRKeG12VGk2NlpZcUJDMm1JSW5uSE94dFI0RmRtamZ3aVVET1oxN1JOV0xocEZIbjZiaA?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 16:21:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia kills 2 in Kyiv with 10-hour drone, missile bombardment, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPek5QYzFUWXpWaUprbGFzRngtTTRHbmFhODZSM0ZENWs5eklYZ25STEZEZk9FSmRvNmpwUkJObGV3SWVrOHZQYUVQeVAxcThMYTdVZTBnUmFHQkZjNERYZVhIRUU5YmE5Q24yU25GSE9rT2FHR3M2azNWY1Z6akpGeTlnamxJVVEya1VTSnlqZ05tSk1KeXhxWDVQU1RjZ9IBowFBVV95cUxNVTZGVVhzWFlQTU9jZmt3VXZ6V3o3TVFjcEdaQmZFYzVUNmd3Sk5aMWxvNU1UVGU4aEUzMzdoSHVvNkl6clF0bkNQTjR3Z2FqTEJMdWJ5a3ZBU3FjRFVrMjRNejgtS3RRVVFWVzZMWWtqdGtNeENNVURUWEo4UjhOeEllS1JJcWRMWVI2NWhVNTd6R0RleFNkZ0FYdmZDV0xxbXdB?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 09:41:22 GMT"
+        "title": "Russia Pounds Ukraine Again as Trump Turns on Putin - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2FRaWp5c1p4RDdVUDVpU2lsdEdtWFRTX1cxUHp6N25OaWJFekhuYkVOdmxwbkRDRndYZGVwd2ktQnRsOTFyVDlxc2F4WXBzWFo2MzlUVmg4bWpYaHBscDhZUnBNSHFFZjRtZ0xEbEM1VjZIUmFvQ1VBSGY3MkZfQzdvMHd4OUps?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 14:03:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   },
-  "Data Breach": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Qantas Confirms 5.7 Million Impacted by Data Breach - SecurityWeek",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGtxalE1WjBmWDJvMnptLVN5SlhxY19vN2Z6X0FBbjgtQnBjRXpHaUdZLTFSbWhWNE1yR3BDZUo1dDJZeG1rM1ZtaEZsRUlaUk9wcWdxYXNFNVhUTGhab2E5b3RMOGhmX3pfbmZrZVZ5ZzZ4R0RXcXJubEZzeUd4RTNYZHJiWDJI0gGOAUFVX3lxTFBDd3otbHo0NjBmMFFvdGExRjZPRXVyWENTUUk3b0lZTjdfX0ZGaFQzLUZqS1pqa2FaanJYTmVNOXlKdEhYUEkwWU1wR3V6ZHdvWjZsMHRYd3l3dzRGS0NlNFp1dlU4X3JkVzV1c2dBcUszcFdmeHh4X2F5SFZQX3ZycUZMRzZrTUlaVk83Y3c?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 13:03:39 GMT"
+        "title": "White House accuses Powell of mismanaging Federal Reserve, citing headquarters renovation - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KSnNqSVJqNGtnWUV5dVJPcnB2RjR5R0VqbHZkelB5OU5vNnN2aV9KMVh3cllsUTBKV1BRSmhDYjZvUENfMDUtOG1TYnNLNi1raTJiM0ZYVVVsdEI5cHQtWTd5M2xGenYy0gFuQVVfeXFMTk5fVDRUcHBuTlVmNngxRGt2Mm82dm9DRW4yVlJWdEwxdnBGa1RrcVhzc3NYd2JhOGpROVBld2phWnVXYlVRMENYb0w4LS1tOUZrT1JHWUlhREIxeHg2cjE3bFZIZlpLOG1RU1RmVEE?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 18:00:27 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   },
-  "Business": {
+  "Oceans": {
     "articles": [
       {
-        "title": "North Carolina is America's Top State for Business in 2025, led by a strong workforce and economy - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3pPNUgtWVUxMHFEWHVrZXFwLUplLWRrZWpYUWQybE82UzNubHBCdHdFR0JVTnFXck5GbDh3UDFZMER0V3N1M1BhZHh5aVk2alVsYUhsWVlXeHYxVjdpYmR0S3VRREFXcWI2OWVlM3FYM3VmOUdCZXRpS05YVFN5NDZHNU9hU1RzM0HSAY8BQVVfeXFMTUtQdklCRTBUWnpha2V0TldfRTFvY2NuN0lnNjNNZFcxc3FaVW1USkFielI4Zng2Wk4xTzJSVnV2RVdMSW1iSHpENHgyd3NJSXFQTXkxWk5oRFBUckVMMndkTVQ2d0NhNkY3cnNsYjFaMnBLdGxhX29pR3dUYnNXSEQzRWdQSWZhakktTEhXeFE?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 12:21:01 GMT"
+        "title": "Scientists found mysterious black eggs 20000 feet beneath the Pacific Ocean, inside they found... - India.Com",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYUhyWVNYaWw2dnFmQ0hnekU3SGRBRmtsVVNncHRnZG1DN29GVlY1ZS1NZVNjTUU4OXM2OUU5TkVqU1ZHMFBJTUYxSkx0bDQ2UVNuY3RJalBRQVZxYmh6MGUxZ1drS0twLTZjU2tSc1dITHB1a3NicDdpOVFjZ1N2Mm9zaXk0cWYwem9KdTJrV0Q1RkFiWkk0S01EMUtrUms5WGZpX2FiM3NYSzA0cHF1ZnNBR2NLS3RULVdIdWViQUVuUTFfT21DNWtDZEFoVG9qb3Ria245V3JOd1lsbnNJNkNJOVo3SGNTNzdCWVpIaUFsaWw5QUHSAfsBQVVfeXFMTVhScHlDWkRvUWZZUmlEaHhtVFVHSkZoZ1FDbE0yRjlHclpzV1lRSkd3WDF0NXEzQjJ3WkR2ZnJPWmdCeV9lNXhVZmN6czF4cGpuVWdqNFk4NmVleGgxbHphWU5QWkNIajBnU1lSXzZ1UkVMd3hLYTd6Q2NEaHN5bkRrckFtNElXamtYZ2NMdFZtTmJfZlRnRmxiQWllMk41LXpxMG5vM3VhaklHaGU4cDlkcnNRLUJ2NkNCOHpTZmJhdTJZbkZVQ2N1TWJwYWUtTVI2VVpPUGFTOHFKS3oyd2VRMGdzNlRNdGtiMUUzdUxsa2VScEJjT1JLejg?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 18:55:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
-  },
-  "Environment": {
-    "articles": [
-      {
-        "title": "The Ugly Impacts of the \"Big Beautiful Bill\" on Clean Energy, Electricity Costs, our Environment and More - League of Conservation Voters",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS2RDd1FaT2o4eGhUdXp6X3dBeTZ4LVZ5NUR2aFdGbU1PUGY1c0R4WVdIX1I2NW1yeDBlaVdQNC1ONy1SREtHZjNLVGR6bUVhM0xoRFhKajBobEVMZWx3Q0hQU1YtdFhETFF0YTdmTzZXMlRtbWJOb192RnNGZ3ZLNTlCb014V1JEdW16SnJKNVhWeFVBc1Q2MUhFeVVEOXNTT2s1SHBQNVNqNVRmVjJycDFlaE9KanlhS2xzQXRqSnF0b2JsMkx2WjhnZGJDZnlJSVRnMkRlQTF2ZjZvLTUwd3BlT2MxdzRpZFFZYVVreTlleWI3TUwydTFIcw?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 17:11:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-10T21:04:39.107840+00:00"
+    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
   }
 }
