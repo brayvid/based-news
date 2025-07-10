@@ -888,9 +888,6 @@ def main():
         normalized_banned_terms = [normalize(term) for term in banned_terms_list if term]
 
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
-        
-        # Define the new threshold for the high-confidence check
-        HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD = float(CONFIG.get("HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD", 0.90))
 
         # --- HYBRID PRE-FILTERING STAGE ---
         for topic_name in TOPIC_WEIGHTS:
@@ -899,7 +896,7 @@ def main():
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
                     # 1. High-Confidence History Check (Your requested part, but safer)
-                    if is_high_confidence_duplicate_in_history(art["title"], history, HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD):
+                    if is_high_confidence_duplicate_in_history(art["title"], history, MATCH_THRESHOLD):
                         logging.debug(f"Skipping (high-confidence history match): {art['title']}")
                         continue
 
