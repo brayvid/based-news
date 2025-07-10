@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Falsely Claims Mamdani Is an Illegal Immigrant and Threatens to Arrest Him - The New York Times",
-      "pubDate": "Tue, 01 Jul 2025 23:14:39 GMT"
-    },
-    {
       "title": "Trump news at a glance: a senator quits, the \u2018big beautiful bill\u2019 loses its name \u2013 but senate still passes Trump\u2019s megabill - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 02:55:54 GMT"
     },
@@ -511,6 +507,10 @@
     {
       "title": "Trump announces 50% tariff on Brazil in retaliation for Bolsonaro trial, trade deficit - CNBC",
       "pubDate": "Wed, 09 Jul 2025 20:26:18 GMT"
+    },
+    {
+      "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
+      "pubDate": "Wed, 09 Jul 2025 22:56:00 GMT"
     }
   ],
   "russia": [
@@ -767,6 +767,10 @@
     {
       "title": "New York Seeks to RAISE the Bar on AI Regulation - Morgan Lewis",
       "pubDate": "Wed, 09 Jul 2025 18:20:08 GMT"
+    },
+    {
+      "title": "AI Giants May Face Mandatory Safety Disclosures Under Proposed California Law - CoinCentral",
+      "pubDate": "Wed, 09 Jul 2025 18:53:09 GMT"
     }
   ],
   "financial_markets": [
@@ -2943,6 +2947,10 @@
     {
       "title": "Dozens of earthquakes and aftershocks cause two deaths in Guatemala - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 09:49:41 GMT"
+    },
+    {
+      "title": "Hundreds of earthquakes detected at Mount Rainier in Washington, \"most significant seismic activity\" since 2009 - CBS News",
+      "pubDate": "Wed, 09 Jul 2025 18:19:05 GMT"
     }
   ],
   "elon_musk": [
@@ -3367,6 +3375,10 @@
     {
       "title": "Supreme Court lets Trump move forward with large-scale staff cuts for now - USA Today",
       "pubDate": "Tue, 08 Jul 2025 21:02:16 GMT"
+    },
+    {
+      "title": "US Supreme Court declines to let Florida enforce immigration crackdown - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 20:06:16 GMT"
     }
   ],
   "inflation": [
@@ -3409,14 +3421,6 @@
     {
       "title": "Qantas data breach to impact 6 million airline customers - BBC",
       "pubDate": "Wed, 02 Jul 2025 01:34:59 GMT"
-    },
-    {
-      "title": "Qantas says 'significant' portion of 6m customers' data likely stolen - Australian Broadcasting Corporation",
-      "pubDate": "Tue, 01 Jul 2025 23:49:28 GMT"
-    },
-    {
-      "title": "Qantas confirms cyber-attack exposed records of up to 6 million customers - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 23:59:00 GMT"
     },
     {
       "title": "Medicare data breach may have compromised personal information of 100,000 Americans - USA Today",
@@ -3695,6 +3699,10 @@
     {
       "title": "Nvidia Hits $4 Trillion Value as Rally Notches Another Milestone - Bloomberg",
       "pubDate": "Wed, 09 Jul 2025 13:49:43 GMT"
+    },
+    {
+      "title": "Nvidia becomes world\u2019s first $4T company, topping Apple and Microsoft in remarkable comeback - New York Post",
+      "pubDate": "Wed, 09 Jul 2025 14:57:29 GMT"
     }
   ],
   "earth_science": [
@@ -4629,6 +4637,10 @@
     {
       "title": "A Surgeon Shares What She Saw in Gaza\u2019s Hospitals - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 19:12:20 GMT"
+    },
+    {
+      "title": "US sanctions UN expert Francesca Albanese, critic of Israel's Gaza offensive - BBC",
+      "pubDate": "Wed, 09 Jul 2025 22:25:43 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4727,6 +4739,12 @@
     {
       "title": "Scientists discover ice in space isn't like water on Earth after all - Space",
       "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
+    }
+  ],
+  "energy_transition": [
+    {
+      "title": "The green transition is coming but who will protect workers? - The World Economic Forum",
+      "pubDate": "Wed, 09 Jul 2025 19:50:18 GMT"
     }
   ]
 }
