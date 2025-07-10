@@ -89,10 +89,6 @@
       "pubDate": "Wed, 02 Jul 2025 04:33:45 GMT"
     },
     {
-      "title": "Trump says US could reach trade deal with India, casts doubt on deal with Japan - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 03:42:00 GMT"
-    },
-    {
       "title": "Paramount to Pay Trump $16 Million to Settle \u201860 Minutes\u2019 Lawsuit - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 05:34:31 GMT"
     },
@@ -507,13 +503,13 @@
     {
       "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
       "pubDate": "Wed, 09 Jul 2025 22:56:00 GMT"
+    },
+    {
+      "title": "Trump threatens 50% tariffs on Brazil if it doesn\u2019t stop the Bolsonaro \u2018witch hunt\u2019 trial - CNN",
+      "pubDate": "Thu, 10 Jul 2025 01:04:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Lack of New U.S. Sanctions Allows Russia to Replenish Its War Chest - The New York Times",
-      "pubDate": "Wed, 02 Jul 2025 04:01:05 GMT"
-    },
     {
       "title": "C.I.A. Says Its Leaders Rushed Report on Russia Interference in 2016 Vote - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 21:09:43 GMT"
@@ -1211,6 +1207,10 @@
     {
       "title": "AI Unlocks Earth\u2019s Subsurface Mysteries for Smart Energy Applications - USC Viterbi School of Engineering",
       "pubDate": "Wed, 09 Jul 2025 18:36:22 GMT"
+    },
+    {
+      "title": "Nvidia\u2019s Jensen Huang plans Beijing trip ahead of new China AI chip launch - Financial Times",
+      "pubDate": "Wed, 09 Jul 2025 17:18:24 GMT"
     }
   ],
   "climate": [
@@ -1377,6 +1377,10 @@
     {
       "title": "EU lawmakers reject attempt to curb far right's sway on climate talks - Reuters",
       "pubDate": "Wed, 09 Jul 2025 11:58:47 GMT"
+    },
+    {
+      "title": "Is There Still Time to Be Hopeful About the Climate? - The New Yorker",
+      "pubDate": "Wed, 09 Jul 2025 17:09:18 GMT"
     }
   ],
   "ukraine": [
@@ -1699,6 +1703,10 @@
     {
       "title": "Russia launches huge attack on Ukraine as Kremlin says it's \"quite calm\" about Trump's mounting criticism - CBS News",
       "pubDate": "Wed, 09 Jul 2025 23:46:43 GMT"
+    },
+    {
+      "title": "Russia hits Kyiv with more missiles and drones, causing fires and injuring at least 10 - The Hill",
+      "pubDate": "Thu, 10 Jul 2025 02:23:00 GMT"
     }
   ],
   "us_economy": [
@@ -1844,10 +1852,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Major Chinese Ports Keep Iranian Oil Flowing Despite Sanctions - Bloomberg",
-      "pubDate": "Wed, 02 Jul 2025 03:44:47 GMT"
-    },
     {
       "title": "US judge says China's Huawei Technologies must face criminal case for racketeering and other charges - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 02 Jul 2025 09:45:00 GMT"
@@ -3391,6 +3395,10 @@
     {
       "title": "Scientists raise concern as 2017 asteroid visit left behind unsettling traces after massive object is detected in Solar System - MARCA",
       "pubDate": "Tue, 08 Jul 2025 18:41:48 GMT"
+    },
+    {
+      "title": "NASA's asteroid-crash Earth defense tactic has a complication \u2014 DART ejected large boulders into space - Space",
+      "pubDate": "Wed, 09 Jul 2025 20:10:59 GMT"
     }
   ],
   "data_breach": [
@@ -3634,10 +3642,6 @@
     }
   ],
   "new_york_city": [
-    {
-      "title": "Zohran Mamdani Wins N.Y.C. Mayoral Primary in Decisive 12-Point Victory - The New York Times",
-      "pubDate": "Wed, 02 Jul 2025 03:46:41 GMT"
-    },
     {
       "title": "Multiple shark sightings force closures of NYC beaches over busy holiday weekend - NBC New York",
       "pubDate": "Sun, 06 Jul 2025 16:10:17 GMT"
@@ -4485,6 +4489,10 @@
     {
       "title": "Scientists Mapped the Secret World of Platinum Atoms \u2013 And It Changes Everything - SciTechDaily",
       "pubDate": "Tue, 08 Jul 2025 04:42:52 GMT"
+    },
+    {
+      "title": "New Chemistry Discovery Promises More Effective Cancer Drugs With Fewer Side Effects - SciTechDaily",
+      "pubDate": "Thu, 10 Jul 2025 03:06:13 GMT"
     }
   ],
   "neuroscience": [
@@ -4633,6 +4641,10 @@
     {
       "title": "U.S. imposes sanctions on U.N. official investigating Israel over Gaza - The Washington Post",
       "pubDate": "Wed, 09 Jul 2025 23:58:59 GMT"
+    },
+    {
+      "title": "Hamas agrees to release 10 captives as Israeli attacks kill 74 in Gaza - Al Jazeera",
+      "pubDate": "Thu, 10 Jul 2025 00:06:31 GMT"
     }
   ],
   "history_of_the_earth": [
