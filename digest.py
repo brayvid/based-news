@@ -191,9 +191,14 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
-def is_in_history(article_title, history):
+def is_high_confidence_duplicate_in_history(article_title: str, history: dict, threshold: float) -> bool:
+    """
+    Checks if a given article title is a high-confidence (near-identical) duplicate
+    of any article title already in the history log, based on word overlap.
+    """
     norm_title_tokens = set(normalize(article_title).split())
-    if not norm_title_tokens: return False
+    if not norm_title_tokens:
+        return False
 
     for articles_in_topic in history.values():
         for past_article_data in articles_in_topic:
@@ -201,12 +206,14 @@ def is_in_history(article_title, history):
             past_tokens = set(normalize(past_title).split())
             if not past_tokens:
                 continue
+            
             intersection_len = len(norm_title_tokens.intersection(past_tokens))
             union_len = len(norm_title_tokens.union(past_tokens))
             if union_len == 0: continue
+
             similarity = intersection_len / union_len
-            if similarity >= MATCH_THRESHOLD:
-                logging.debug(f"Article '{article_title}' matched past article '{past_title}' with similarity {similarity:.2f}")
+            if similarity >= threshold:
+                logging.debug(f"Article '{article_title}' is a high-confidence match to past article '{past_title}' with similarity {similarity:.2f} >= {threshold}")
                 return True
     return False
 
@@ -853,28 +860,26 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         logging.error(f"General error during Git operations: {e}", exc_info=True)
 
 def main():
-    # Load the TRUE history of what the user has actually seen recently from HTML digests.
-    recent_digest_headlines = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
-
-    # Load the old history.json, but only for the update function at the very end.
-    history_log_for_update = {}
+    # Load the full history log. This is used for the high-confidence pre-filter
+    # and for the final history update.
+    history = {}
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-                history_log_for_update = json.load(f)
+                history = json.load(f)
         except json.JSONDecodeError:
             logging.warning("history.json is empty or invalid. Starting with an empty history log.")
         except Exception as e:
             logging.error(f"Error loading history.json: {e}. Starting with empty history log.")
+
+    # Load the user-facing history from recent HTML digests. This is the context passed to the LLM.
+    recent_digest_headlines = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
 
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
             logging.error("Missing GEMINI_API_KEY environment variable. Exiting.")
             sys.exit(1)
-
-        # DELETED: The user_preferences string is no longer needed here as its components
-        # are passed directly into the self-contained `prioritize_with_gemini` function.
 
         headlines_to_send_to_llm = {}
         full_articles_map_this_run = {}
@@ -883,13 +888,22 @@ def main():
         normalized_banned_terms = [normalize(term) for term in banned_terms_list if term]
 
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
+        
+        # Define the new threshold for the high-confidence check
+        HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD = float(CONFIG.get("HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD", 0.90))
 
+        # --- HYBRID PRE-FILTERING STAGE ---
         for topic_name in TOPIC_WEIGHTS:
             fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic)
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
-                    # The weak is_in_history pre-filter is removed. The LLM handles history semantically.
+                    # 1. High-Confidence History Check (Your requested part, but safer)
+                    if is_high_confidence_duplicate_in_history(art["title"], history, HIGH_CONFIDENCE_HISTORY_MATCH_THRESHOLD):
+                        logging.debug(f"Skipping (high-confidence history match): {art['title']}")
+                        continue
+
+                    # 2. Banned Keyword Check (Hard rule)
                     if contains_banned_keyword(art["title"], normalized_banned_terms):
                         logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
@@ -905,13 +919,11 @@ def main():
         gemini_processed_content = {}
 
         if not headlines_to_send_to_llm:
-            logging.info("No new, non-banned headlines available to send to LLM.")
+            logging.info("No new, non-banned, non-duplicate headlines available to send to LLM.")
         else:
             total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
             logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
 
-            # --- THIS IS THE CORRECTED FUNCTION CALL ---
-            # It now passes all the required arguments, fixing the TypeError.
             selected_content_raw_from_llm = prioritize_with_gemini(
                 headlines_to_send=headlines_to_send_to_llm,
                 digest_history=recent_digest_headlines,
@@ -939,10 +951,7 @@ def main():
                             continue
 
                         norm_llm_title = normalize(title_from_llm)
-                        if not norm_llm_title: continue
-
-                        if norm_llm_title in seen_normalized_titles_in_llm_output:
-                            logging.info(f"Failsafe Deduplication: Skipping '{title_from_llm}' as it was already selected this run.")
+                        if not norm_llm_title or norm_llm_title in seen_normalized_titles_in_llm_output:
                             continue
 
                         article_data = full_articles_map_this_run.get(norm_llm_title)
@@ -964,7 +973,6 @@ def main():
                     if current_topic_articles_for_digest:
                         gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest
 
-        # We now trust Gemini's ordering, which is based on significance.
         final_digest_for_display_and_state = gemini_processed_content
 
         if final_digest_for_display_and_state:
@@ -1013,7 +1021,8 @@ def main():
         else:
             logging.info("No topics from Gemini this run. Files are not modified.")
 
-        update_history_file(final_digest_for_display_and_state, history_log_for_update, HISTORY_FILE, ZONE)
+        # Pass the original 'history' object to be updated.
+        update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
             perform_git_operations(BASE_DIR, ZONE, CONFIG)
@@ -1024,6 +1033,6 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-        
+                
 if __name__ == "__main__":
     main()
