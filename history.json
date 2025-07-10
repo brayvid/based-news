@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "LIVE: Over 30 Palestinians killed as Trump says Israel agrees to Gaza truce - Al Jazeera",
-      "pubDate": "Wed, 02 Jul 2025 08:15:00 GMT"
-    },
-    {
       "title": "Israel kills more than 300 Palestinians in 48 hours as ceasefire in balance - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 06:53:34 GMT"
     },
@@ -81,6 +77,10 @@
     {
       "title": "Israel\u2019s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 04:44:39 GMT"
+    },
+    {
+      "title": "A Reporter\u2019s Trail From a Bush-Era Cyberattack to Trump\u2019s Strike on Iran - The New York Times",
+      "pubDate": "Thu, 10 Jul 2025 07:00:04 GMT"
     }
   ],
   "donald_trump": [
@@ -641,10 +641,6 @@
       "pubDate": "Wed, 02 Jul 2025 14:54:52 GMT"
     },
     {
-      "title": "How generative AI could help make construction sites safer - MIT Technology Review",
-      "pubDate": "Wed, 02 Jul 2025 09:00:00 GMT"
-    },
-    {
       "title": "From Safety to Security: Renaming the US AI Safety Institute Is Not Just Semantics - Tech Policy Press",
       "pubDate": "Thu, 03 Jul 2025 12:39:18 GMT"
     },
@@ -812,10 +808,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Google Signs Deal to Buy Fusion Energy From Bill Gates-Backed Nuclear Startup - NucNet",
-      "pubDate": "Wed, 02 Jul 2025 08:05:01 GMT"
-    },
     {
       "title": "Microsoft\u2019s Job Cuts Point to Squeeze From Rising Expense of AI - Bloomberg",
       "pubDate": "Wed, 02 Jul 2025 11:02:28 GMT"
@@ -1376,14 +1368,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war latest: Drone attack deep in Russia; US halts weapon shipments - The Independent",
-      "pubDate": "Wed, 02 Jul 2025 08:49:09 GMT"
-    },
-    {
-      "title": "Ukraine war briefing: Ukraine launches one of its deepest drone strikes into Russia, killing three - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 08:54:00 GMT"
-    },
     {
       "title": "Pause in U.S. Weapons Deepens Ukrainian Concerns as Russian Attacks Grow - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 11:35:44 GMT"
@@ -3407,10 +3391,6 @@
   ],
   "data_breach": [
     {
-      "title": "Australia's Qantas says 6 million customer accounts accessed in cyber hack - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 08:04:38 GMT"
-    },
-    {
       "title": "Qantas data breach exposes personal details of millions of customers - AppleInsider",
       "pubDate": "Wed, 02 Jul 2025 13:23:21 GMT"
     },
@@ -3625,6 +3605,10 @@
     {
       "title": "Trump administration targets Comey and Brennan with new investigation - NBC News",
       "pubDate": "Wed, 09 Jul 2025 21:52:04 GMT"
+    },
+    {
+      "title": "Ex-CIA Director John Brennan says he's had 'no contact' with federal authorities amid FBI probe \u2013 claims to be \u2018clueless\u2019 about why he\u2019s being investigated - New York Post",
+      "pubDate": "Thu, 10 Jul 2025 04:39:00 GMT"
     }
   ],
   "fusion_power": [
@@ -3707,6 +3691,10 @@
     {
       "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 18:28:00 GMT"
+    },
+    {
+      "title": "Nvidia Hits $4 Trillion Valuation Milestone on AI Demand - Bloomberg.com",
+      "pubDate": "Thu, 10 Jul 2025 08:27:26 GMT"
     }
   ],
   "earth_science": [
@@ -3717,6 +3705,10 @@
     {
       "title": "Scientists discover giant 'sinkites' beneath the North Sea - Phys.org",
       "pubDate": "Mon, 07 Jul 2025 13:19:03 GMT"
+    },
+    {
+      "title": "Scientists Rewrite the Story of Earth\u2019s First Continents With a Fiery New Twist - SciTechDaily",
+      "pubDate": "Thu, 10 Jul 2025 08:30:01 GMT"
     }
   ],
   "hurricanes": [
@@ -4381,6 +4373,10 @@
     {
       "title": "China Cements Leadership in Wind and Solar - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Wed, 09 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Trump Order Imperils Billions In Clean Energy Projects The Data Center Industry Just Fought To Save - Bisnow",
+      "pubDate": "Wed, 09 Jul 2025 22:51:32 GMT"
     }
   ],
   "large_language_models": [
@@ -4677,6 +4673,10 @@
     {
       "title": "US issues sanctions against Francesca Albanese, UN official investigating abuses in Gaza - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 21:23:00 GMT"
+    },
+    {
+      "title": "Israel insists on keeping troops in Gaza. That complicates truce talks with Hamas - AP News",
+      "pubDate": "Thu, 10 Jul 2025 01:47:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4815,6 +4815,12 @@
     {
       "title": "Researchers excited by virtual reality\u2019s potential in treating psychosis - NL Times",
       "pubDate": "Wed, 09 Jul 2025 16:40:00 GMT"
+    }
+  ],
+  "kim_jong_un": [
+    {
+      "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
+      "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
     }
   ]
 }
