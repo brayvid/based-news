@@ -1,32 +1,72 @@
 {
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "European Union Unveils Rules for Powerful A.I. Systems - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11eWJ4VnVzc2VhOG1YZFc4a2xkQmJONVlUaUVIYmVsdUpZUnlCcVBnQ1BscTBxM1RxZzdXZ2ZGNWVXSXVRZ1JMT2tqZ1NFQk40dURsd2FXOHYzUXlQUE0yQk9fY2dKbDZlS3hRNDRuR01Fdw?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 11:04:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump plans 50% tariff on Brazil and 'Superman' immigrant comment criticized: Morning Rundown - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDZWZERwbUw5Nzhvb05nOWF1VVFfVG1FbzkwRTJwOW5xdFBFRDYwSE01SGlhbVBrYmRNYmN3MUZHaDNYNXVzdGRZZDFlZDdJVEluODgxRmFZV2wxQjllU3JGUGpWQjhVZnFmTTVTVkJFUEZXNDk2QmNEdDVXMFFXbGlqanVQeDZIQlIwZTlFbmxSbFVLc2hBd0VaOFZ1OEo1OXFLb2RCa3VRc2Ywc0xwWG1B?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 11:08:37 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "LIVE: Israel kills 55 in Gaza; Rafah \u2018concentration camps\u2019 plan slammed - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1NjX1NiS0hCZTBsN1gweHNHWC02MnJjenV3ZlJEdVdLVk04eVdCUmdwZDFJM19ibUx2UXRvUmlmQzdGVVo5c3dCQTZvSjRPZnNSTDl5ck8tdkdpMlJUOHU1UkJzT2hscVhUWVdLc3oxakVrYW9UbVYzZXNHd3Zqd1g4b1FyNW9RME9ja3l1c016ZWhLM2dFa24wMXQ4Tzh6ZE51QjhwU19ZWFB0c202VURXb3VYclNzaFVhUVAxd9IBxAFBVV95cUxNSWQxakhtX0RyUWpqRVRIdVpUWkZtZXVlVmdNRHVXOXdOYjJCajJzc1d5R2txR1hYQm01MF93ODJoS0xJVUlDOFBYRkJSNHMxU2RnLUFNMFltYTVvLXotelBQbE9ZeFFwQVBiM0dYZHhia1RHTWdNNzdDd0N3Nzk3T1dtVk1aVnBBOWNGeEFITjhwVkNxaFVOREZDOVlLRVdFWDhGMUtTeklGc0R6VzRxNkp4Y1NMWHpIS0lPSFcwRVQ3Qkxz?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 10:43:38 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Deadly Russian attack rocks Kyiv as Ukraine lobbies for aid - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHBsanNMVlFwZXNHOVMwR2IzX3FnSGpyU1FsM21aNkJBODdVUXp4MVNNWThLbEh6UG41WEJ5c0xWeG8zdXJSWkk4RS1keW9jcUVOdkVmVHFneEZXal85N0ExN21xRUQyT0U2WlRiRUlsZUc0Z3RpLWhMczRTUWlGZEVRZWE5akh0Q250MTloMGVzOEtnbGpJaFJ0Wkw4eUtoU3pGdUVtaU5wZlFXZ2tFZlBVSlBHWXdn?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 10:32:23 GMT"
+        "title": "Russia unleashes drones, missiles on Ukraine in second massive air strike in two days - New York Post",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2ZpZzliblhfak54Z05xVkhTSXltbklPR3d4ajlERlpsU1ZUV1cyTmcwSl9jME4wLUIwb2k4cS1TNmRIVFcxY1QzU2hXUXY5OVNPNEdPN0JIOGk2TXZYeHRRajFPS05zeDRJdmZDRnE4NmMzNklQV1BHUTlDZzJpajVYQms1RlU4cVB3Y0dLX3NOR3FhdFVReG54YnZzSXRpQTFySjVaRXJfajhjNXlZV2RMMHgydy1XZmlxTElMNDZEdkly?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 11:23:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T11:02:45.311622+00:00"
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
   },
-  "Data Breach": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Bitcoin Depot discloses data breach that doxed 27K customers - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM1ZweVZPWVZIdnd3dkstaEQwOVZmR240YWJSWS0wajZSTU9weWlnV0pBWXpWVHd6NzlveWNWdTdrQlFPTWFuVGpyMEc3Ykh6VzVlZnh2a0hHQVJYblZCMklZTWFfNEE5RzdKUHRFSnRZcmpReGN4dHdyT01VWXl0WERYNWR0Zmc?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 06:10:08 GMT"
+        "title": "Bitcoin price today: below $112k record high amid profit taking, tariff woes - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNenZvYW0tRGRheHNkY29zbUlxYW54TWFrTWhhNU5GcVFDakxfLWROM2NjY2FLY2Ytb3VVc3lRM2djbTVMRFhCNGxELXpWSkg0T2pZd3FmSG1JcXNLTGVpc0RDa1c3S1JHY3NSN3VwbXF2ZzA4UDhHNjYyV2dPd2Q2ZHp4SmkybTExdmdPWXdTYXg5c0RYN0dSNHNuR0R5NEhhYXlRc0pOZWZkdHByc2hZdFhHRjdyQVJza0lVcElLM3lNZ0ZtWGw3RGJFd2xaQ3E0MU9Lc1Nn?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 04:03:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T11:02:45.311622+00:00"
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
   },
-  "OpenAI": {
+  "NVIDIA": {
     "articles": [
       {
-        "title": "OpenAI to Launch AI Web Browser - MacRumors",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iX2FSZGpYNjZzWmt2WVpHc2dsM3Rkb2VTZ2RTWUF6VlREYkREWWlDcHZuSUFkQ3pxT1dqNHZ2VUlKQ25rWDlVcllEYUhuZFd0cnozVWdMNnBYUEdnYjhRdGpEYlhKYmZ3X1YxNE9mR1hwV3NIcEhJVg?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 01:12:40 GMT"
+        "title": "Nvidia CEO to Visit Beijing Ahead of China-Specific AI Chip Launch - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFlweFNqOGZHRklnUFE2ZlVwM3E0Vm11UktrajUyUTJEVHlhNm5sYldWbGk5YmhrWGU1RTRqY3FfZjE5b2phLTdUUVBzc0JjU1hyV1FXNUlFd1ViWWJ3WFBkWk9RNnBOYzE5ZDBLR2w1LXJXRUpVVTI1RDNwZlVTU05qdndILVdKUFZKbXpBQ052X2ZaR2sxREF0aG4?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 06:44:02 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T11:02:45.311622+00:00"
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Scientists Dropped A Cow Carcass 1,629 Meters Into The South China Sea \u2013 And 8 Unexpected Visitors Turned Up - IFLScience",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTDhnS0ZOUkFhSUNaaVhqZjZoNFJZd2lBZEJGMndHOVEtdG03d1BZci1UbWdHV0JKY1BKR2hORVVVQ2FuSVhVVTR1bjN2X09uclhNMEJ5enh5ekNxa3ZqTzZRM1FXRWZ3WDNteV9pajdnZGx3aFB0dkZGMm9DS0xNQ3czWmxwMHkzWFJMYXVYTFFtY1l6Q2tUTExkMEh4U2liNGJlYmRDaWdnNnBGZ0tvTXUtZmZBa0cyRnVCQmozUVZpLVNGSTdBZ2xPVTV4Z2h6M1RiTQ?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 10:41:37 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T12:03:20.497446+00:00"
   }
 }
