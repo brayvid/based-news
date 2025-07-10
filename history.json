@@ -85,14 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump live: \u2018One Big Beautiful Bill\u2019 to face tight vote in US House - Al Jazeera",
-      "pubDate": "Wed, 02 Jul 2025 19:32:39 GMT"
-    },
-    {
-      "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
-      "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
-    },
-    {
       "title": "Live updates: Trump-backed \u2018big beautiful\u2019 bill moves to House after Senate Republicans make changes - NBC News",
       "pubDate": "Wed, 02 Jul 2025 21:40:17 GMT"
     },
@@ -817,14 +809,6 @@
       "pubDate": "Wed, 02 Jul 2025 22:58:37 GMT"
     },
     {
-      "title": "AI regulation draws support from both sides of the political aisle - Texas Standard",
-      "pubDate": "Wed, 02 Jul 2025 19:35:36 GMT"
-    },
-    {
-      "title": "Software Engineering in the LLM Era - Towards Data Science",
-      "pubDate": "Wed, 02 Jul 2025 19:27:46 GMT"
-    },
-    {
       "title": "How a GOP rift over tech regulation doomed a ban on state AI laws in Trump's tax bill - The Washington Post",
       "pubDate": "Thu, 03 Jul 2025 04:15:25 GMT"
     },
@@ -1167,6 +1151,10 @@
     {
       "title": "Musk unveils Grok 4 update a day after xAI chatbot made antisemitic remarks - CBS News",
       "pubDate": "Thu, 10 Jul 2025 12:52:09 GMT"
+    },
+    {
+      "title": "A recent high-profile case of AI hallucination serves as a stark warning - NPR",
+      "pubDate": "Thu, 10 Jul 2025 17:49:00 GMT"
     }
   ],
   "climate": [
@@ -1332,14 +1320,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "U.S. pauses some Ukraine weapons shipments; Kyiv scrambles to respond - The Washington Post",
-      "pubDate": "Wed, 02 Jul 2025 19:11:18 GMT"
-    },
-    {
-      "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
-      "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
-    },
     {
       "title": "Russia ramps up its offensive, putting pressure on Ukraine\u2019s reserve troops - AP News",
       "pubDate": "Wed, 02 Jul 2025 20:44:00 GMT"
@@ -1669,10 +1649,6 @@
     {
       "title": "The U.S. dollar has fallen at the fastest clip since 1973. Here's what that means. - NBC News",
       "pubDate": "Wed, 02 Jul 2025 21:06:00 GMT"
-    },
-    {
-      "title": "As the Fourth of July approaches, here are 4 reasons why \u2018American exceptionalism\u2019 isn\u2019t going away - MarketWatch",
-      "pubDate": "Wed, 02 Jul 2025 19:52:00 GMT"
     },
     {
       "title": "How Health Care Remade the U.S. Economy - The New York Times",
@@ -2056,10 +2032,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "CIA review finds flaws but does not dispute finding Putin sought to sway 2016 vote to Trump - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 19:47:30 GMT"
-    },
     {
       "title": "Republican doubts delay Trump's tax-cut bill in the House - Reuters",
       "pubDate": "Wed, 02 Jul 2025 21:07:49 GMT"
@@ -3143,6 +3115,10 @@
     {
       "title": "Scientists Found a Way to Turn Falling Rainwater Into Renewable Energy - ZME Science",
       "pubDate": "Thu, 10 Jul 2025 13:55:12 GMT"
+    },
+    {
+      "title": "Trump May Not Be Done Overhauling Renewable Energy - The New York Times",
+      "pubDate": "Thu, 10 Jul 2025 19:28:54 GMT"
     }
   ],
   "cryptocurrency": [
