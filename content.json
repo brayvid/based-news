@@ -1,72 +1,62 @@
 {
-  "AI Safety": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "AI Security Crisis: Balancing Innovation with Data Protection - Security Info Watch",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVlCNzNDS3dQa19GXzV5SDBXam95aV9MQ1hfc1FmcWhRTUJld2d1dFl3czhsbElKTFdLeVRXaUNBVnp3bWRDRWdqTEV6c2t5RW1DZHg2aXZtX254Z0kzQzhlSHRld19rTUVsQWlxYnd3SG5nSE1oZXlZeWNXUUhCTW9EcmJCSFdxdU9OUzRMOEdNRnR1d3BRTzZuMXZkRGVNcE16bkkxSnBydXJXTDg3S0o5LWxpU0w0WkZNVDhxZFZqX0E?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 20:56:06 GMT"
+        "title": "Trump Plans on Invoking Foreign Aid Law to Bolster Ukraine Arsenal: Report - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWJEaVVVT0JVNWdtbGFFcFZfZG1qd1k5NEVmb3o5cnNpT21oUm1zbENUZm8weEExVzlObzMwY1FZMzVUeHJVXzFjMUdFcjNFQlJrdHlsX0piV3UxektVa0NpN0FFRFVZTC1ZM2ZWTGt6Uk90MDEtcjVQT29OSnhVb3dBWldxNHdxNVFkYnFTUQ?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 21:19:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
   },
-  "Alternative Energy": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Breakingviews - Trump\u2019s big bill shrinks America\u2019s energy future - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0FDeTBMUDNiMGZwakJXaVR4ZDFUQVhQZ05oWVRsT2hvT3Q1OThMSXJjcVc4VWRwRWRWTy14d00tc19fUUJhTjVkVlFHYlJfdjlVai1qcnRQS2Y1VXpjeW5RQkx3MzE2UXZXdkl6MzRaLXhxQmtlTEZERDR6VzA3TFpYZUpQRDZXdDBYc3VBUFhQN2RlVkV0bjdpendfeVZZVkRZRXEyRVdfcjA?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 11:59:51 GMT"
+        "title": "Bitcoin sets another record above $113,000 as investors jump into risk assets, liquidate shorts - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmbWp5ZGpzUzZ6YS1OeFpFOWR6cWMyRGNvVHZxVHRRYmdqRHhnb1cxZjFIeFB3ZnhZN2FkVi1vdDJobE9qM25mYm5RQ2tiT1d5aWFodDBJSFIzaWJtVVl0czhzcHRkbnPSAWxBVV95cUxNaGtBTmVSR3dKZ1h0cTJERXlFZjhrYUZiRjlMVmlxZjV5X2tucm9CWi1KSzdrNWw4cjdGSl9pSXZkdEpxLWE0Sjg0TTJlOG12ZDYwQWpJb0xMTHNraHFYRTZiU1JBTXQ3T2VsVFc?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 18:32:05 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Elon Musk says AI Grok is coming to Tesla vehicles, days after it unleashed antisemitic rant - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWVFTHl5c25ibXYzLVhjSHpQeEZoaVpKTXRFQ2ZTUWd6cWpZOVlqdkpaM3oySVFGa0NsVmxRelBGMXZ6NW9NdFVQM3VBVVktUVhtWThwdk9yMEFENmJoMkxCUlVveVJZLU4zUFBvdEc5WTdsbGtEQlVyNnFIdVozM1V0ODFmYmp0LUNXamJGdzMtUllqdnZnaWNvczVNdW1LNEExd1lIN3NCT2c?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 20:37:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Federal judge blocks Trump\u2019s EO on birthright citizenship after SCOTUS ruling - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjVLc3ZlT2I5aGZ5dVVUUWVwVHpuXzE2MDE0bHJNZ1h3ajhyeTlWaGlvWkVCTWJqZkhQSHNDaDBVeTlLOWtsM1FwajhLUUxXSm01dGo2RE9BTzZBcGtqcUhpS19vYlB0aUl2NVJJODI3bDZiSE5kUlI2OEhfZ2M4UW9vUDdNOHNPRGZQOXNWOTlVRkVERUpZUjVDdUhCUmo3bUJpOFBoUmlVRW5JMW040gG0AUFVX3lxTFBCUEtuNk5ZU1BYd1F2V3lEUGhjdDhhWEc1eVF2aXZEQno1R3hQWEJSNkRyWUI0V1BxcEJIaTBqbklraXZkbG9mRzBfMWFXRDlDME1rLVhyNHFtSWFCb0dFRXR0UklJUlFkSEtCLXNlMkt0WkZFNGdwZUIwTmFPMHhSOHpXY29BSF9VOFphTmRpYUEzS0l1bWhUZ0M3bk5OdTFtRndYNkxiZUlLZUNGT05KM0h2dQ?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 14:35:53 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
   },
   "Gaza": {
     "articles": [
       {
-        "title": "Israel, European Union reach deal on more aid, fuel deliveries to Gaza - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2FPWmdRMXlmTnpJaFo0bmNSU29pVmQ0VGlfWG9aTnI5c0pHTU9Od1g0bnZwS3FJVk92SFg2dU5LNTBrbV9ST0oxVUlYOUlwb18taUNpWFVaR3VhU3VMdVVicXZGU2Nvd0NVQzlicW9RZUdlc05ROXdJcm9BV2NxQXVhaUptQQ?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 21:07:29 GMT"
+        "title": "Israel, EU agree to boost Gaza aid: \u2018More trucks, more crossings, and more routes\u2019 - timesofisrael.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb09aNWtCdkJMUDI4NHB5cjM0aTNzemNIZHdaSlVjQmJzbWFPZjdVUS1yRkVmaW9uUkVRX3FWWFE0WVhkeEEzQk5ZWThPWE5odlk1TDZ5U0xINW8wa011NWhoQ0ZWalgyWWdnQnhrSW9jcU1HYzRtY1Awa0RlRDVzdGthZlA4VWN3YlVadXp6Skt2ckZsU2pKOVl3ZFFRWG5vWFBRUjRTU2gwSEXSAbABQVVfeXFMT3RRWUtmRlVkeVZCbXdxWlVKRkozcGh2OG42Q2ZiUEh1bkEyakVqRnpWZ0dLVC1FYjBReWsydUhQYUNWbnZCZ3BNOWp4ekxWazdXazJJSjVYUHRQQzItRUtzRnBfWGFTQm54bVo4cElUMWNXVVpJVkh0T0xROFZNQ2lvV0lsSldNUTVIaG8wa2RMcl80U1E2N0JGcUU0Ry1XTlB2ZWZJZHJwTmxhX3J5SGo?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 13:48:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
   },
-  "NVIDIA": {
+  "Science": {
     "articles": [
       {
-        "title": "Nvidia becomes the first public company with $4T valuation - MSNBC News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHhOcHdJZ1NwT0J6eWFLdU1WbFpsMGEwX2YwS25QRnFpSS1JLTdtSjhLUE1LTFlObW5IQTJtanBhRjMtVm05RjYxZ3FnVXVJTzBNZGl3c1ZyeEFNWURURVFVMXRnZExtUVdsZjVNRTJNaFRVU1VrenV3VGd3SEgwTUcwUGhfQV9pM3V1U184QVU5eTg0bmtrRjhzd2t1X00yR1Vsb0M3VUFNUGxoMG5V0gFkQVVfeXFMUGNfem9VZjZ2VHQ0OW5SNTRwZnhJVUVqZGNSbDlMMktkOWJGUWlsSEhFVDRKeG12VGk2NlpZcUJDMm1JSW5uSE94dFI0RmRtamZ3aVVET1oxN1JOV0xocEZIbjZiaA?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 16:21:11 GMT"
+        "title": "French university courts American researchers seeking \"scientific asylum\" amid Trump's academic cuts - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONC1jQ3QwUUVEc0YwSWJmZnNudFloUVZtOWdWcWh6N242VVhJUVVQZnY1Nm8tWGR3TE4tdG1LUkNOeHoxZEx4eWpreVFRVUl5a3YxVFpORm5nR3V4aGotaDhydkFheTVLcUh5dC1VRkdVVVRKT2p6cUc2M3VMdFpKbVZCamRHM1BwTm5UUkNaVnI4Z9IBlwFBVV95cUxPdlZXSksyTjl0YWVLby1KaEJyRzFLeUt4SElGODVONlJfa21kNE9jYlpwU2tRVGRNUGRVUXNiYkxnX3JsU0w2N3RrMkxZbkdVVDJvUlFoZXJ4c0Z6Z3RUMXk5SjloWWVMUkZWa3ZfdkU1RDV2RVlNb3BSRWVrQTcxVk9HU09nblNXTDBtUEM1NmQ5bHUtUWJ3?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 12:11:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia Pounds Ukraine Again as Trump Turns on Putin - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2FRaWp5c1p4RDdVUDVpU2lsdEdtWFRTX1cxUHp6N25OaWJFekhuYkVOdmxwbkRDRndYZGVwd2ktQnRsOTFyVDlxc2F4WXBzWFo2MzlUVmg4bWpYaHBscDhZUnBNSHFFZjRtZ0xEbEM1VjZIUmFvQ1VBSGY3MkZfQzdvMHd4OUps?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 14:03:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "White House accuses Powell of mismanaging Federal Reserve, citing headquarters renovation - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KSnNqSVJqNGtnWUV5dVJPcnB2RjR5R0VqbHZkelB5OU5vNnN2aV9KMVh3cllsUTBKV1BRSmhDYjZvUENfMDUtOG1TYnNLNi1raTJiM0ZYVVVsdEI5cHQtWTd5M2xGenYy0gFuQVVfeXFMTk5fVDRUcHBuTlVmNngxRGt2Mm82dm9DRW4yVlJWdEwxdnBGa1RrcVhzc3NYd2JhOGpROVBld2phWnVXYlVRMENYb0w4LS1tOUZrT1JHWUlhREIxeHg2cjE3bFZIZlpLOG1RU1RmVEE?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 18:00:27 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
-  },
-  "Oceans": {
-    "articles": [
-      {
-        "title": "Scientists found mysterious black eggs 20000 feet beneath the Pacific Ocean, inside they found... - India.Com",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYUhyWVNYaWw2dnFmQ0hnekU3SGRBRmtsVVNncHRnZG1DN29GVlY1ZS1NZVNjTUU4OXM2OUU5TkVqU1ZHMFBJTUYxSkx0bDQ2UVNuY3RJalBRQVZxYmh6MGUxZ1drS0twLTZjU2tSc1dITHB1a3NicDdpOVFjZ1N2Mm9zaXk0cWYwem9KdTJrV0Q1RkFiWkk0S01EMUtrUms5WGZpX2FiM3NYSzA0cHF1ZnNBR2NLS3RULVdIdWViQUVuUTFfT21DNWtDZEFoVG9qb3Ria245V3JOd1lsbnNJNkNJOVo3SGNTNzdCWVpIaUFsaWw5QUHSAfsBQVVfeXFMTVhScHlDWkRvUWZZUmlEaHhtVFVHSkZoZ1FDbE0yRjlHclpzV1lRSkd3WDF0NXEzQjJ3WkR2ZnJPWmdCeV9lNXhVZmN6czF4cGpuVWdqNFk4NmVleGgxbHphWU5QWkNIajBnU1lSXzZ1UkVMd3hLYTd6Q2NEaHN5bkRrckFtNElXamtYZ2NMdFZtTmJfZlRnRmxiQWllMk41LXpxMG5vM3VhaklHaGU4cDlkcnNRLUJ2NkNCOHpTZmJhdTJZbkZVQ2N1TWJwYWUtTVI2VVpPUGFTOHFKS3oyd2VRMGdzNlRNdGtiMUUzdUxsa2VScEJjT1JLejg?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 18:55:34 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-10T22:04:41.467233+00:00"
+    "last_updated_ts": "2025-07-10T23:04:25.521802+00:00"
   }
 }
