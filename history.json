@@ -77,10 +77,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Policy Bill Stalls as Johnson Works to Wear Down G.O.P. Resistance - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 06:01:41 GMT"
-    },
-    {
       "title": "Trump speaks with GOP holdouts blocking his megabill in early-morning call - The Hill",
       "pubDate": "Thu, 03 Jul 2025 06:08:00 GMT"
     },
@@ -455,10 +451,6 @@
   ],
   "russia": [
     {
-      "title": "Russia says it controls Luhansk as US halts some weapons pledged to Ukraine - Al Jazeera",
-      "pubDate": "Thu, 03 Jul 2025 06:00:50 GMT"
-    },
-    {
       "title": "Russia poses growing military threat to NATO members, Italy says - Reuters",
       "pubDate": "Thu, 03 Jul 2025 08:11:19 GMT"
     },
@@ -764,10 +756,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft confirms 9000 layoffs in strategic pivot to artificial intelligence - The Times of India",
-      "pubDate": "Thu, 03 Jul 2025 05:09:00 GMT"
-    },
     {
       "title": "New push for national AI rules likely after state ban fails - Axios",
       "pubDate": "Thu, 03 Jul 2025 09:48:26 GMT"
@@ -1615,6 +1603,10 @@
     {
       "title": "Russia's intensifying drone war is spreading fear and eroding Ukrainian morale - BBC",
       "pubDate": "Thu, 10 Jul 2025 16:08:22 GMT"
+    },
+    {
+      "title": "Trump plans to send Ukraine weapons via NATO allies - Axios",
+      "pubDate": "Fri, 11 Jul 2025 01:03:20 GMT"
     }
   ],
   "us_economy": [
@@ -2747,10 +2739,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Tesla Is in Disarray. Musk Has Already Moved Beyond Caring About Cars. - WSJ",
-      "pubDate": "Thu, 03 Jul 2025 05:17:25 GMT"
-    },
-    {
       "title": "Grok Is Blaming Musk and Trump for Texas Flooding Deaths - The Daily Beast",
       "pubDate": "Sun, 06 Jul 2025 04:35:00 GMT"
     },
@@ -3166,10 +3154,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Qantas cyber-attack: what data was taken and what should I do if I\u2019m affected? - The Guardian",
-      "pubDate": "Thu, 03 Jul 2025 05:59:00 GMT"
-    },
     {
       "title": "Qantas cyber attack: What we know about the 'significant' customer data breach - SBS Australia",
       "pubDate": "Thu, 03 Jul 2025 13:30:38 GMT"
@@ -3625,6 +3609,10 @@
     {
       "title": "Most hospitals still deal with public health reporting challenges, even with automation - Healthcare IT News",
       "pubDate": "Thu, 10 Jul 2025 13:45:00 GMT"
+    },
+    {
+      "title": "Senate committee advances CDC director confirmation - CIDRAP",
+      "pubDate": "Thu, 10 Jul 2025 19:17:00 GMT"
     }
   ],
   "pollution": [
