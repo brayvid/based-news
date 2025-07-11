@@ -1,62 +1,42 @@
 {
-  "Donald Trump": {
+  "Trade War": {
     "articles": [
       {
-        "title": "Trump tours Texas flood damage as disaster tests vow to shutter Fema - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ05ybkVfMURxckZUdjY3dWxUWTJyMmxIVGl4TkREUGppSW0yTjBQVGN6NHpUcW5DWG16cThDNzQxY2RyS3RKZnpxcG8xNUNPQUlBeEhxVXB4am81ZGZ0Qmh2TndqY0VCZ251cVh6X1hCQjFPRk9pNERNRE9TRWxHaUg5Yw?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 14:49:00 GMT"
+        "title": "Trump announces new Canada tariffs, unexpectedly escalating trade war - MPA Mag",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUZlUm9qTFZoX2g2Sk5TdzdOei01QXBsYTBBUnZqRE9VcUozU3lTX0dDZElpN292TlVLRVdkZ2xPY1BfUnhHaXYzMHo4NFRwMmVIX21QNkVMVkdWUUVWRmpGdTBzV0wySHRVeThEYUJzM3lXUXU5cjQxSndzMVgzMWZzN3dCb0hvWGFsR3E4bWtxQ3hDX2hrdVhlUUNlcGNOYUU1MW5oNUlSdWhab0VsdloyUDQ?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 12:20:52 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
+    "last_updated_ts": "2025-07-11T23:03:29.764306+00:00"
   },
   "Gaza": {
     "articles": [
       {
-        "title": "Nearly 800 killed at Gaza food hubs and aid convoy routes since end of May, UN says - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDlnRzBMdUFvNDRRLUNFNW43NVZwMWdNODd3Q0NFaDE2MnlmbWFnM2NKZDBWWXZhbFBpU2dxV3p2bkFTbFcySUdtMy03TTdFeDFsdkhESVRpMkVpX09iLW5HYmVZOHVqOHpYMkh2X2x1MmZWcGoxanFhY09VbzZIOU1YVTYyZFg2SG1Ma3FvNEpiWFhmc3VDSktjcWV5U1NTc1c3TA?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
+        "title": "UN says starvation in Gaza \u2018worse than ever\u2019 as Israel kills 45 today - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQald6U3JRU1BFajRpVGQyNnF5clFSdFpZZTZ3eExBOUtWVTN6YWIyM1lTcXM2aXlFbHZtVlkycldCTGJYZ3FrdnhpVGVZSHFEdkZwUWZjYkNqSDVQYmZ0WktyYWdwS05lNmw3VmUtUHh5WUFqTllrRWFtOVExQ28wS1RJTndDWlZTREZtbjhvc0tqSGIzYzc2RGFYNk1iMjd6Q0QtZ0dhd1BPb0pHS3lNMzZmQTh0RTA?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 22:25:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
+    "last_updated_ts": "2025-07-11T23:03:29.764306+00:00"
   },
-  "Russia": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Russia Sees France as Its Main Enemy in Europe, French General Says - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSDAwNm5zbHpNTmw2T1F0YW9EMEFCZkJuWnVJTlNTWlBKYzhrVlRDOHNRd2tqc1dYSWNOclpEWjFnWUI3dVdfLWZfZWdlY1JkbUJ1eHozc2lFX25od0dwSFkwNHVIQjB0M1VNMktWZ0JpOHlNbXk2TjBYLWFObDQ?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 21:15:51 GMT"
+        "title": "Russia-Ukraine war: What are \u2018frustrated\u2019 Trump\u2019s next options with Putin? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONVdlMjFiNTNsRUtXQ29SdExJWEg5MjlHSnN2ZE9ydnBMbDJTbGZkbjZWX3ZyV3lWbUt6OEg1Sk9BMXRka016UWQ3TWk1NGFkWm5tSFVCek1GUWJFSVRSWHQyS1hRYjdyWmxsYnMxODhxVE9TQ2Vpa1ZsM0RNcjgxdEhBc3JSdV9qdE1hYTZlTjZZd2loRzdjMUpXUThpMC1Ia3NKd2JuY1NVR0lFdzJV0gG0AUFVX3lxTE1YVE03eEV5cmFOQlZnMUI5NXR3clQxQ1ZuMjFteWFNRkg0ZFdpbWZZOUNxQnVhaXdlYlRabTREUFhaVFNqZEp0MHVzSFk0UzRVT1VHa1pqdE1WLUlxUDdxcjJnUTU0NlJRZmdHSzltVE54UDBDenF6Z0FsM2JhMnJkZHZQVmVDZ2MzRTA5Y1Naa1VXMWdkdFhRTUNUeXNXbXBoQ2RFcThCMzZXeThtcm9MR3dDSw?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 13:04:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
+    "last_updated_ts": "2025-07-11T23:03:29.764306+00:00"
   },
-  "India": {
+  "NVIDIA": {
     "articles": [
       {
-        "title": "US, India in Talks on Trade Deal That May Cut Tariff Below 20% - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZEVEV4NTMzQjRtd2tkT3JiTEljQ0lrMmF3TUlwQUFvMm80UFJqa2M5TVJYNW1UVktFelhldlhzSTFaYzJVV0xtT1V5LV9MalVCQUJJNWFIb0swcFcyX1ZBNHJRb3hIbUkyTmlGV2RNSTltbjBOS3l2b0dBNDV1QjdYT1JadktIeVo4SUJqTVJtOUw4VVEtM2NVOU9UclpRSUpsc3VURlFjU24xbU53Zw?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 17:55:48 GMT"
+        "title": "Nvidia Becomes First Company Ever to Reach $4 Trillion Market Cap. Could the Growth Stock Have Even More Room to Run? - Nasdaq",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVZaSS11V09sRVNNc1FtaDlzYTlDdjhkbTVzaXlzSzd1ZWExLTQ0a2hzOFpfTnRucjhVUmIyRUh2MVlfNzdEdXRCUlBxWHk1VTZTTjZZMllmNS13UEwyWTkyMGZGZjJXRUJ6YU5uQ1o1eU0zOGhVYXE1MndmeXE2dmpZaE5ZWTJIdUtjZGowUU92a1BOZk9LdWpHeldNVzM5dVktS0N5andVQXVDYnhoVnhoR1BsSlQwTVBNa0Q5UQ?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 21:17:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
-  },
-  "Cybersecurity and Infrastructure Security Agency": {
-    "articles": [
-      {
-        "title": "CISA, Security and Intel Agencies Warn of Pro-Iranian Cyber Threats Targeting Critical Infrastructure - CPO Magazine",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2dkTlpReHBmN21EQmM4b3YyNUtMbUhVZHE2U1V5akdONUZkX0w4VnNXbTh4dW8zQ0dOVU95S0N4ZlplS1pHUm14aTNmNnU1SFRBc0pnRzJXdFBmeVBaYU9tOTF6MFFPajJ1TFM4bFdWeEpBV1dCblZwMFNCRFo4NEdrREl5YWhVaXhuT3ZXQVNvSklJV20wSXNWNU96N0ZPM2kxNC1IZXVyYUc5T29UQ2dCVTRlSzhaejg3SkxSRDhGbE9ZQ0VBQWliWE5oYlB2YXRlWElCV3RBcmI5?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 16:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1pOUFpCZkFic1MwTkJMQnZWT0Vob1hVX2tiZVFqWnNlRkR4M3NRV2hGdHluemRCelhxLUVyWVRFT1Q5VDQwcHNjTktOZGlEMjNQekxqa01sYlRHajBQNlR0MkNna2JHSm5TYTM3Y0ctbkVBZ252dDVuLTdYLWI5V3VVWVE2ejJteTMwVA?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-11T22:04:07.830477+00:00"
+    "last_updated_ts": "2025-07-11T23:03:29.764306+00:00"
   }
 }
