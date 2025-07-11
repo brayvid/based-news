@@ -73,14 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Supreme Court lets Trump admin deport men detained in shipping container for 6 weeks to South Sudan - Politico",
-      "pubDate": "Thu, 03 Jul 2025 21:12:00 GMT"
-    },
-    {
-      "title": "Major win for Trump as Congress passes 'big, beautiful bill' - BBC",
-      "pubDate": "Thu, 03 Jul 2025 21:41:13 GMT"
-    },
-    {
       "title": "Live updates: Trump plans to sign the tax bill Friday after House passage - The Washington Post",
       "pubDate": "Thu, 03 Jul 2025 23:11:59 GMT"
     },
@@ -399,6 +391,10 @@
     {
       "title": "Trump surveys damage in Texas after floods kill 120 and leave 160 missing - BBC",
       "pubDate": "Fri, 11 Jul 2025 17:48:45 GMT"
+    },
+    {
+      "title": "Trump tours Texas flood damage as disaster tests vow to shutter Fema - The Guardian",
+      "pubDate": "Fri, 11 Jul 2025 14:49:00 GMT"
     }
   ],
   "russia": [
@@ -505,13 +501,13 @@
     {
       "title": "Russia Makes 'Unprecedented' Censorship Admission - Newsweek",
       "pubDate": "Fri, 11 Jul 2025 07:44:47 GMT"
+    },
+    {
+      "title": "Russia Sees France as Its Main Enemy in Europe, French General Says - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 21:15:51 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Sutskever to lead Safe Superintelligence after Meta poaches CEO Gross in AI talent war - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 21:50:42 GMT"
-    },
     {
       "title": "OpenAI co-founder takes CEO role at Safe Superintelligence - Tech in Asia",
       "pubDate": "Fri, 04 Jul 2025 01:49:00 GMT"
@@ -693,20 +689,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI models just don't understand what they're talking about - theregister.com",
-      "pubDate": "Thu, 03 Jul 2025 21:39:00 GMT"
-    },
-    {
       "title": "Will artificial intelligence outsmart humankind? - China Daily",
       "pubDate": "Thu, 03 Jul 2025 23:37:00 GMT"
     },
     {
       "title": "Artificial Intelligence and societal decline - meer.com",
       "pubDate": "Fri, 04 Jul 2025 05:01:24 GMT"
-    },
-    {
-      "title": "Artificial intelligence to help growers assess hurricane crop damage - FOX 13 Tampa Bay",
-      "pubDate": "Thu, 03 Jul 2025 21:12:55 GMT"
     },
     {
       "title": "Artificial Intelligence News for the Week of June 20; Updates from Campfire, Databricks, Precisely & More - solutionsreview.com",
@@ -1005,10 +993,6 @@
     {
       "title": "Countries must protect human right to a stable climate, court rules - The Guardian",
       "pubDate": "Thu, 03 Jul 2025 22:18:00 GMT"
-    },
-    {
-      "title": "House Passes Trump\u2019s Spending Bill, With Consequences for the Climate - eos.org",
-      "pubDate": "Thu, 03 Jul 2025 21:16:32 GMT"
     },
     {
       "title": "A physically consistent dataset of water-energy-carbon fluxes across the Soil-Plant-Atmosphere Continuum - Nature",
@@ -2236,10 +2220,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Hamas Has a New Leader in Gaza. His Next Test: Cease-Fire Talks. - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 21:07:04 GMT"
-    },
     {
       "title": "LIVE: Israel intensifies Gaza attacks; Hamas seeks ceasefire guarantees - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 05:26:43 GMT"
@@ -4347,6 +4327,10 @@
     {
       "title": "Israel's Planned 'Humanitarian City' in Gaza Constitutes War Crime, Legal Experts Say - Haaretz",
       "pubDate": "Fri, 11 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Nearly 800 killed at Gaza food hubs and aid convoy routes since end of May, UN says - The Guardian",
+      "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4443,6 +4427,10 @@
     {
       "title": "India scandal threatens Jane Street\u2019s prospects - Financial Times",
       "pubDate": "Wed, 09 Jul 2025 11:07:43 GMT"
+    },
+    {
+      "title": "US, India in Talks on Trade Deal That May Cut Tariff Below 20% - Bloomberg",
+      "pubDate": "Fri, 11 Jul 2025 17:55:48 GMT"
     }
   ],
   "oceanography": [
@@ -4555,6 +4543,10 @@
     {
       "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
       "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
+    },
+    {
+      "title": "CISA, Security and Intel Agencies Warn of Pro-Iranian Cyber Threats Targeting Critical Infrastructure - CPO Magazine",
+      "pubDate": "Fri, 11 Jul 2025 16:00:00 GMT"
     }
   ],
   "climate_change": [
@@ -4565,6 +4557,10 @@
     {
       "title": "As NASA's budget shrinks, Europe doubles down on Earth science: 'Climate change is the defining challenge of our generation' - Space",
       "pubDate": "Fri, 11 Jul 2025 14:00:00 GMT"
+    },
+    {
+      "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
     }
   ],
   "violence": [
