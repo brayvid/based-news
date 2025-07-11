@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Jeffries delays an inevitable vote on Trump's big bill with hours-long protest speech - AP News",
-      "pubDate": "Thu, 03 Jul 2025 15:42:00 GMT"
-    },
-    {
       "title": "Jeffries uses \u2018magic minute\u2019 as part of resistance plan against Trump tax bill - USA Today",
       "pubDate": "Thu, 03 Jul 2025 16:20:07 GMT"
     },
@@ -535,10 +531,6 @@
     {
       "title": "Motor safety: AI-powered warning system enhances capability to uncover hidden faults - Tech Xplore",
       "pubDate": "Thu, 03 Jul 2025 17:16:03 GMT"
-    },
-    {
-      "title": "The promise and perils of AI in health care: Why we need better testing standards - KevinMD.com",
-      "pubDate": "Thu, 03 Jul 2025 15:09:28 GMT"
     },
     {
       "title": "Sutskever to lead Safe Superintelligence after Meta poaches CEO Gross in AI talent war - Reuters",
@@ -1039,6 +1031,10 @@
     {
       "title": "Huawei AI Chip Redesign Aims to Break Nvidia\u2019s China Dominance - The Information",
       "pubDate": "Fri, 11 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street - CNBC",
+      "pubDate": "Fri, 11 Jul 2025 09:30:01 GMT"
     }
   ],
   "climate": [
@@ -1204,10 +1200,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine kills Russian navy's No. 2 commander in strike, but officials worry about Trump's military aid cuts - CBS News",
-      "pubDate": "Thu, 03 Jul 2025 15:49:08 GMT"
-    },
     {
       "title": "Russia continues record-setting aerial attacks, US cuts off arms shipments to Ukraine - USA Today",
       "pubDate": "Thu, 03 Jul 2025 20:13:54 GMT"
@@ -1543,17 +1535,13 @@
     {
       "title": "Russia intercepts 155 Ukrainian drones, two killed in overnight attack - France 24",
       "pubDate": "Fri, 11 Jul 2025 06:37:44 GMT"
+    },
+    {
+      "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
+      "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "The US economy added a stronger-than-expected 147,000 jobs in June and the unemployment rate fell to 4.1% - CNN",
-      "pubDate": "Thu, 03 Jul 2025 15:20:00 GMT"
-    },
-    {
-      "title": "Solid Jobs Report Keeps Fed Rate Cuts at Bay - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 15:12:43 GMT"
-    },
     {
       "title": "Solid US job numbers mask weakness underneath - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 17:05:15 GMT"
@@ -2243,10 +2231,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams - The Hacker News",
-      "pubDate": "Thu, 03 Jul 2025 16:02:00 GMT"
-    },
-    {
       "title": "FBI warns travelers of 'Scattered Spider' group targeting airlines - SFGATE",
       "pubDate": "Sat, 05 Jul 2025 13:42:26 GMT"
     },
@@ -2284,10 +2268,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Carville says US will \u2018probably go into a recession,\u2019 even with GOP megabill passage - The Hill",
-      "pubDate": "Thu, 03 Jul 2025 15:35:00 GMT"
-    },
     {
       "title": "The Big Four Recession Indicators - Advisor Perspectives",
       "pubDate": "Thu, 03 Jul 2025 16:33:11 GMT"
@@ -3471,12 +3451,6 @@
       "pubDate": "Thu, 10 Jul 2025 10:53:12 GMT"
     }
   ],
-  "large_language_model": [
-    {
-      "title": "OpenAI rejects Robinhood\u2019s unauthorised tokenised shares - AI News",
-      "pubDate": "Thu, 03 Jul 2025 15:56:26 GMT"
-    }
-  ],
   "environment": [
     {
       "title": "Scientists issue dire warning about alarming phenomenon found in world's oceans: 'The magnitude and extent ... is shocking' - The Cool Down",
@@ -4477,6 +4451,10 @@
     {
       "title": "Gaza's largest functioning hospital facing disaster, medics warn, as Israel widens offensive - BBC",
       "pubDate": "Fri, 11 Jul 2025 12:43:08 GMT"
+    },
+    {
+      "title": "Israel's Planned 'Humanitarian City' in Gaza Constitutes War Crime, Legal Experts Say - Haaretz",
+      "pubDate": "Fri, 11 Jul 2025 15:00:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4645,6 +4623,10 @@
     {
       "title": "Federal Court Blocks Trump Birthright Citizenship Order - Migrant Insider",
       "pubDate": "Fri, 11 Jul 2025 09:37:41 GMT"
+    },
+    {
+      "title": "Federal judge hears arguments in ACLU lawsuit over ICE tactics in Los Angeles - CBS News",
+      "pubDate": "Fri, 11 Jul 2025 12:50:11 GMT"
     }
   ],
   "democracy": [
@@ -4679,6 +4661,10 @@
     {
       "title": "How climate change made Texas flooding more violent - CNN",
       "pubDate": "Fri, 11 Jul 2025 13:38:37 GMT"
+    },
+    {
+      "title": "As NASA's budget shrinks, Europe doubles down on Earth science: 'Climate change is the defining challenge of our generation' - Space",
+      "pubDate": "Fri, 11 Jul 2025 14:00:00 GMT"
     }
   ]
 }
