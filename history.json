@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Jeffries uses \u2018magic minute\u2019 as part of resistance plan against Trump tax bill - USA Today",
-      "pubDate": "Thu, 03 Jul 2025 16:20:07 GMT"
-    },
-    {
       "title": "Live updates: House passes Trump\u2019s signature bill, sending it to the president\u2019s desk - AP News",
       "pubDate": "Thu, 03 Jul 2025 18:43:00 GMT"
     },
@@ -712,10 +708,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Trump megabill preventing artificial intelligence regulation could harm planet\u2019s climate - Harvard T.H. Chan School of Public Health",
-      "pubDate": "Thu, 03 Jul 2025 16:19:17 GMT"
-    },
     {
       "title": "Behind the tanked AI moratorium - Politico",
       "pubDate": "Thu, 03 Jul 2025 18:00:00 GMT"
@@ -1539,6 +1531,10 @@
     {
       "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
       "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
+    },
+    {
+      "title": "Ukraine Says It Blew Up Russia Domestic Gas Link in West Siberia - Bloomberg",
+      "pubDate": "Fri, 11 Jul 2025 16:00:44 GMT"
     }
   ],
   "us_economy": [
@@ -1869,10 +1865,6 @@
   ],
   "us_politics": [
     {
-      "title": "Hakeem Jeffries Delays House Vote With Marathon Speech Opposing Trump\u2019s Policy Bill - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 16:58:12 GMT"
-    },
-    {
       "title": "Sweeping Trump Agenda Bill with $157 Billion Defense Boost, Food Aid Cuts Approved by Congress - Military.com",
       "pubDate": "Thu, 03 Jul 2025 19:17:49 GMT"
     },
@@ -2063,6 +2055,10 @@
     {
       "title": "North Korean defector to sue Kim Jong-un alleging torture and sexual violence in regime\u2019s detention facilities - The Guardian",
       "pubDate": "Fri, 11 Jul 2025 01:08:00 GMT"
+    },
+    {
+      "title": "North Korean defector files unprecedented lawsuits against Kim Jong Un - NK News",
+      "pubDate": "Fri, 11 Jul 2025 09:08:10 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -2269,10 +2265,6 @@
   ],
   "recession": [
     {
-      "title": "The Big Four Recession Indicators - Advisor Perspectives",
-      "pubDate": "Thu, 03 Jul 2025 16:33:11 GMT"
-    },
-    {
       "title": "Japan walks line between recession and submission as it seeks to overcome Trump tariffs - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 08:38:00 GMT"
     },
@@ -2319,10 +2311,6 @@
     {
       "title": "Hamas seeks ceasefire guarantees as scores more are killed in Gaza - Reuters",
       "pubDate": "Thu, 03 Jul 2025 19:38:31 GMT"
-    },
-    {
-      "title": "Hamas warns Palestinians against cooperating with U.S.-backed Gaza Humanitarian Foundation - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 16:13:31 GMT"
     },
     {
       "title": "Hamas Has a New Leader in Gaza. His Next Test: Cease-Fire Talks. - The New York Times",
@@ -3072,10 +3060,6 @@
     }
   ],
   "technology": [
-    {
-      "title": "CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips - CNBC",
-      "pubDate": "Thu, 03 Jul 2025 16:30:06 GMT"
-    },
     {
       "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 14:22:00 GMT"
@@ -4119,6 +4103,10 @@
     {
       "title": "Oil Gains Amid Rising Geopolitical Tensions in Middle East - The Wall Street Journal",
       "pubDate": "Fri, 11 Jul 2025 00:12:00 GMT"
+    },
+    {
+      "title": "Russia closing Polish consulate in Kaliningrad in tit-for-tat move - Al Jazeera",
+      "pubDate": "Fri, 11 Jul 2025 15:22:30 GMT"
     }
   ],
   "finance": [
@@ -4665,6 +4653,12 @@
     {
       "title": "As NASA's budget shrinks, Europe doubles down on Earth science: 'Climate change is the defining challenge of our generation' - Space",
       "pubDate": "Fri, 11 Jul 2025 14:00:00 GMT"
+    }
+  ],
+  "violence": [
+    {
+      "title": "Gervonta Davis arrested: Boxer jailed on domestic violence charge in Florida - USA Today",
+      "pubDate": "Fri, 11 Jul 2025 16:11:15 GMT"
     }
   ]
 }
