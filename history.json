@@ -1937,10 +1937,6 @@
   ],
   "us_politics": [
     {
-      "title": "Democratic leader speaks for more than four hours on House floor as Republicans aim to vote on Trump\u2019s major tax bill \u2013 live - The Guardian",
-      "pubDate": "Thu, 03 Jul 2025 11:55:00 GMT"
-    },
-    {
       "title": "Hakeem Jeffries Delays House Vote With Marathon Speech Opposing Trump\u2019s Policy Bill - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 16:58:12 GMT"
     },
@@ -2295,6 +2291,10 @@
     {
       "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates - CNBC",
       "pubDate": "Fri, 11 Jul 2025 00:32:00 GMT"
+    },
+    {
+      "title": "Trump threatens 35% tariffs on Canadian goods - BBC",
+      "pubDate": "Fri, 11 Jul 2025 04:36:27 GMT"
     }
   ],
   "cybersecurity": [
@@ -2823,6 +2823,10 @@
     {
       "title": "Scientists uncover immune cells that help prostate cancer resist treatment and a way to stop them - Virginia Tech News",
       "pubDate": "Thu, 10 Jul 2025 18:23:33 GMT"
+    },
+    {
+      "title": "Details of Julian McMahon\u2019s cancer revealed a week after his death aged 56 - The Guardian",
+      "pubDate": "Fri, 11 Jul 2025 01:07:00 GMT"
     }
   ],
   "space_exploration": [
@@ -2997,6 +3001,10 @@
     {
       "title": "Analysis | House Republicans plan \u2018Crypto Week\u2019 votes on industry-backed bills - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 20:15:40 GMT"
+    },
+    {
+      "title": "Bitcoin price all-time high: What\u2019s behind crypto\u2019s record-breaking rally \u2013 and how high could it go? - Yahoo",
+      "pubDate": "Fri, 11 Jul 2025 06:27:07 GMT"
     }
   ],
   "taxes": [
@@ -3337,10 +3345,6 @@
   ],
   "fusion_power": [
     {
-      "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
-      "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
-    },
-    {
       "title": "Google's Fusion Gamble: Betting on the Future of Clean Energy - AInvest",
       "pubDate": "Mon, 07 Jul 2025 16:01:57 GMT"
     },
@@ -3476,10 +3480,6 @@
     }
   ],
   "vladimir_putin": [
-    {
-      "title": "Ukraine Kills Top Russian Navy Commander Who Putin Just Promoted - Newsweek",
-      "pubDate": "Thu, 03 Jul 2025 11:58:59 GMT"
-    },
     {
       "title": "Trump threatened to 'bomb the s--- out' of Moscow to deter Putin: CNN - CNBC",
       "pubDate": "Wed, 09 Jul 2025 14:56:44 GMT"
@@ -3731,6 +3731,10 @@
     {
       "title": "Discovery of ancient riverbeds suggests Mars once wetter than thought - The Guardian",
       "pubDate": "Thu, 10 Jul 2025 04:09:00 GMT"
+    },
+    {
+      "title": "Another \u2018Water on Mars\u2019 Claim Bites the Dust - Scientific American",
+      "pubDate": "Fri, 11 Jul 2025 10:45:00 GMT"
     }
   ],
   "hacking": [
@@ -4371,12 +4375,20 @@
     {
       "title": "Study warns 1.5-degree warming limit can\u2019t prevent dangers of melting glaciers - PBS",
       "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
+    },
+    {
+      "title": "Melting Glaciers Could Reawaken Hundreds of Earth's Volcanoes - ScienceAlert",
+      "pubDate": "Fri, 11 Jul 2025 02:58:07 GMT"
     }
   ],
   "military_intelligence": [
     {
       "title": "Russia increasing military presence in Armenia, Ukraine claims - Euronews.com",
       "pubDate": "Tue, 08 Jul 2025 05:50:56 GMT"
+    },
+    {
+      "title": "Ukraine Spy Chief Says 40% of Russian Ammunition Is North Korean - Bloomberg",
+      "pubDate": "Fri, 11 Jul 2025 11:00:31 GMT"
     }
   ],
   "data_mining": [
@@ -4507,6 +4519,10 @@
     {
       "title": "LIVE: Israel keeps pounding Gaza as signs of starvation grow - Al Jazeera",
       "pubDate": "Fri, 11 Jul 2025 07:45:42 GMT"
+    },
+    {
+      "title": "How Netanyahu Prolonged the War in Gaza to Stay in Power - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 09:00:16 GMT"
     }
   ],
   "history_of_the_earth": [
