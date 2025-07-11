@@ -1,22 +1,52 @@
 {
+  "Geopolitics": {
+    "articles": [
+      {
+        "title": "Oil Gains Amid Rising Geopolitical Tensions in Middle East - The Wall Street Journal",
+        "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQUGlzbUFxS05hcmpzNUMwckpPeFFPY0Q2ZFNuX3NUX2ZHTmZUeEQtaDNlbGZzenBpbWxUR0lqQVh0cDNXci1IS055Vy05OVE3TjE5ZjdwTWVKcGVvVGVBdXo2TENoYmFxUmEwQndxR2RhdHpnLVVNYlBpNlBLazNweFRSejFHeDVRa2VVUHR6UnVCRTk4Z2Q0OU9KM0JNVHlkODNnTnFNYWduMXZ5U2llUWpuZjlDb1prVGwtQ05uY2dqN3FuZ2I3TVhLMHM3Vm5qSFJEVThHbVpDa1BVX1JhQ2NqaUNFLTYzX1QwRnp3VW9iYk9nMUVoaWhDWGN5WEpZSmZHTXJHWVRicVBkM1EyRXFkYUotYkhjM296d2VvM1dKUGFacGk5bE5XNDZ3YXdFa3N4WjQ3UFFJUzhVZlY0YmlrRkQtZGZKYVBBWE5RQjVZVF9BYTQtSVNQQ21hbFpscjhYWFFiVnMyUWw5S18xb1NRMUZ6UEpwdEttZjNwdHhtb0d6QXhEeDNVNjBwR2ZsM0ZmalFjN3Q5QWU0aFZOcWVuRXVrSG1LVGVXVUNYOHJZV3AtUzlsOW9jbw?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 00:12:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T08:02:24.613186+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Trump plans to send Ukraine weapons via NATO allies - Axios",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Dd1B0UDZBbjZDSFk5QnVmaG0ydmc3NjZkTlZuUVRxbXFvVXVyNWxqRm5pRWpKVkVUMXk4OWZCZ1Bqdm1nUGxCTnA3aDFlYVpJaHhtNzB0MndFTXRGMldiczhNb2N1dXV2azNxR240QTZuLTg2MUVWT055TQ?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 01:03:20 GMT"
+        "title": "Russia intercepts 155 Ukrainian drones, two killed in overnight attack - France 24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUF6ajZNVXYxRkItdG5xSnZXVm5UcnoySnh3dHI2a3NaTEdKQkRVbHhiOHZTQmhrVFV0dHBMWHUtcXJaSVVmVGRNQVRCYW1aaVNTaW9aTTladUFGWkJkN0d4bkJPazM4b2RvWWNKajRmNDBKVC1QVXNENVpWTkc0bnlGRDBiUWJRVVlIb0U4RndBQlh2dXZ3X3JMTHJiWHB1enpabENfWEhfbUZ5RUZJdGR4NA?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 06:37:44 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T06:02:49.816104+00:00"
+    "last_updated_ts": "2025-07-11T08:02:24.613186+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Justice Ketanji Brown Jackson says she fears for U.S. democracy - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVU2a3JwamZOS3JTMVJrdTk4VmZQSGhMME1ZT2xWTTYwbXAzS25XR0dyTHRKSEhCT1k2eGpYZmQ1U2Vqd0g2aGJPUVJwNUlaczk5bThHZHFMc1RDMnBCUmtCN1hyX2xJdlQwNzJ6U0kweU1vN0hjc3VjekJhSVFnYUZYQlZyeTF6d04wUHhpX01rTXR2eWlQclp1RWNadw?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 03:48:31 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T08:02:24.613186+00:00"
   },
   "Public Health": {
     "articles": [
       {
-        "title": "Senate committee advances CDC director confirmation - CIDRAP",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkFQakotWUFIWUFhVVBCVHFHRTBZVnJNTHlYemhrZ3BDVjFQRVNFWmJvNmVMbE5sUk5MamttemdhTFlSaDlvV2xYc2xRVFZFUEQ5VEdjQXlZczhjODU0bkZ3TVpNSzFxQUpEek1hSzJTTWM5cFpCT3M3UTFrNHdKUDVST0JhM0thWGlFNE5Dd2dnS3BjUl9F?oc=5",
-        "pubDate": "Thu, 10 Jul 2025 19:17:00 GMT"
+        "title": "Measles cases surge to highest levels in over 30 years, CDC data shows - PBS",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmt6NVd2eERzZTk1QVZWYk1tQXEweDZSVTFrVENFcjk2TUpsZzN6ZDF1NldsQ213WkdsRXpKX3NYTGZlXzdTTmRhZm15S3pjRjV5MlhfclZfc0FWNXZFMkM0dXpuUElyTmxLSXR6OEFQRjZyQlNlaTI0a2xfUHBwenRnNjJEWTFDeVo1RFRIOHdqQTJlS0EtRUZTdzgtNHc2WWFRakxn0gGrAUFVX3lxTE9iaXc2OGp4dGY2bjhZa085M1Q0MnBvRVNDRDVua3FjS3g1b0k3SHIxaE8xalZaRVBrUUVzLXFhQ2VteGI1UFR5NTdfU21wOW8zYWhEMVpUSGRLRkM4LXYxV0hQOEgwN1BoNFBMN1FVbVBJckY4VFIyNVRHNnZBazl5SnhNWnNmZnZVelMzWkRnUVprNnBqY01yelBFQTZ6bm9mMjJpQTltSVZrWQ?oc=5",
+        "pubDate": "Thu, 10 Jul 2025 22:45:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T06:02:49.816104+00:00"
+    "last_updated_ts": "2025-07-11T08:02:24.613186+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Helical Fusion Raises JPY 2.3 Billion Series A, Advances Roadmap for World's First Steady-State Net Power Fusion Plant - Voice of Alexandria",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdjhQVzFKTVpvbnFfMnFLY0l3NU9DTWRCRndmWlNHd2p2LXhhZm8tR3IzbDF3X0k4UV9uWXh1NzVzU1pJYmJGS19Jekp4bE51S3FYX3hFRURYRHpLUHBBTFlkWl84NEN6SFZoLURBSlRfRk1XTUZha2RLVDVoWDc2Z0cyckVnZjJvOVdnRkZOWFN1RlBoRUlTNUtiaFVwa1hwczZPbzlUbjg2UGhkMl9fdThNbnNweENqZWl2Z1AzSWp0LWRVajE3ZkdaTTg2TUdjNVhWdDBlSXg1azVoTnM4SjhxUk9QZWRoeG53Yy1qY0xnTndGdXlsM1Z4ZUhLWUpJQmxwcnRXSlJVRnZ3allvYnAtU2RqLVE1RDVqanhqYnJkaUVkYkE?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 02:00:28 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T08:02:24.613186+00:00"
   }
 }

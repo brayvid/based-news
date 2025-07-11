@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says he will put 20% tariff on Vietnam's exports - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 07:22:12 GMT"
-    },
-    {
       "title": "Live updates: House advances Trump agenda bill, setting up a final vote - NBC News",
       "pubDate": "Thu, 03 Jul 2025 08:21:43 GMT"
     },
@@ -449,10 +445,6 @@
     {
       "title": "Ukraine kills deputy chief of Putin\u2019s navy - politico.eu",
       "pubDate": "Thu, 03 Jul 2025 13:21:00 GMT"
-    },
-    {
-      "title": "Putin insisted Russia \u2018will not step back from goals\u2019 in Ukraine in hour-long call to Trump, Kremlin says \u2013 Europe live - The Guardian",
-      "pubDate": "Thu, 03 Jul 2025 07:43:00 GMT"
     },
     {
       "title": "Russia \u2018will not back down\u2019 on Ukraine war goals, Putin tells Trump - Al Jazeera",
@@ -1257,10 +1249,6 @@
   ],
   "ukraine": [
     {
-      "title": "US halts Ukraine-bound weapons already staged in Poland, WSJ reports - The Kyiv Independent",
-      "pubDate": "Thu, 03 Jul 2025 07:46:23 GMT"
-    },
-    {
       "title": "Ukraine kills Russian navy's No. 2 commander in strike, but officials worry about Trump's military aid cuts - CBS News",
       "pubDate": "Thu, 03 Jul 2025 15:49:08 GMT"
     },
@@ -1595,6 +1583,10 @@
     {
       "title": "Trump plans to send Ukraine weapons via NATO allies - Axios",
       "pubDate": "Fri, 11 Jul 2025 01:03:20 GMT"
+    },
+    {
+      "title": "Russia intercepts 155 Ukrainian drones, two killed in overnight attack - France 24",
+      "pubDate": "Fri, 11 Jul 2025 06:37:44 GMT"
     }
   ],
   "us_economy": [
@@ -1724,10 +1716,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US lifts chip design software curbs against China following London trade talks - CNN",
-      "pubDate": "Thu, 03 Jul 2025 07:12:00 GMT"
-    },
     {
       "title": "Taiwan Readies Soldiers, Civilians for Largest China Invasion Drills - Newsweek",
       "pubDate": "Thu, 03 Jul 2025 12:15:21 GMT"
@@ -2115,6 +2103,10 @@
     {
       "title": "Judge Blocks Trump\u2019s Birthright Citizenship Order in Class-Action Challenge - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 15:04:42 GMT"
+    },
+    {
+      "title": "Justice Ketanji Brown Jackson says she fears for U.S. democracy - The Washington Post",
+      "pubDate": "Fri, 11 Jul 2025 03:48:31 GMT"
     }
   ],
   "democratic_party": [
@@ -2176,10 +2168,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "As trade war truce with China holds, US lifts curbs for chip design software and ethane - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 07:20:02 GMT"
-    },
     {
       "title": "How the U.S.-China trade war could leave skies dark on the Fourth of July - NBC News",
       "pubDate": "Thu, 03 Jul 2025 08:14:33 GMT"
@@ -2408,10 +2396,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "82 Palestinians killed in Gaza, including 38 people waiting for aid, authorities say - AP News",
-      "pubDate": "Thu, 03 Jul 2025 07:21:00 GMT"
-    },
     {
       "title": "Israel hits Gaza with heavy strikes; 82 reported dead since midnight, ministry says - Haaretz",
       "pubDate": "Thu, 03 Jul 2025 08:15:00 GMT"
@@ -3375,6 +3359,10 @@
     {
       "title": "Why the US and Europe could lose the race for fusion energy - MIT Technology Review",
       "pubDate": "Tue, 08 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Helical Fusion Raises JPY 2.3 Billion Series A, Advances Roadmap for World's First Steady-State Net Power Fusion Plant - Voice of Alexandria",
+      "pubDate": "Fri, 11 Jul 2025 02:00:28 GMT"
     }
   ],
   "new_york_city": [
@@ -3593,6 +3581,10 @@
     {
       "title": "Senate committee advances CDC director confirmation - CIDRAP",
       "pubDate": "Thu, 10 Jul 2025 19:17:00 GMT"
+    },
+    {
+      "title": "Measles cases surge to highest levels in over 30 years, CDC data shows - PBS",
+      "pubDate": "Thu, 10 Jul 2025 22:45:32 GMT"
     }
   ],
   "pollution": [
@@ -4191,6 +4183,10 @@
     {
       "title": "Iran receives Chinese surface-to-air-missile batteries after Israel ceasefire deal - Middle East Eye",
       "pubDate": "Mon, 07 Jul 2025 21:54:11 GMT"
+    },
+    {
+      "title": "Oil Gains Amid Rising Geopolitical Tensions in Middle East - The Wall Street Journal",
+      "pubDate": "Fri, 11 Jul 2025 00:12:00 GMT"
     }
   ],
   "finance": [
