@@ -73,14 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: House passes Trump\u2019s signature bill, sending it to the president\u2019s desk - AP News",
-      "pubDate": "Thu, 03 Jul 2025 18:43:00 GMT"
-    },
-    {
-      "title": "Live updates: House passes Trump's mega bill, securing a big win for the GOP agenda - USA Today",
-      "pubDate": "Thu, 03 Jul 2025 18:39:24 GMT"
-    },
-    {
       "title": "Supreme Court lets Trump admin deport men detained in shipping container for 6 weeks to South Sudan - Politico",
       "pubDate": "Thu, 03 Jul 2025 21:12:00 GMT"
     },
@@ -91,10 +83,6 @@
     {
       "title": "Live updates: Trump plans to sign the tax bill Friday after House passage - The Washington Post",
       "pubDate": "Thu, 03 Jul 2025 23:11:59 GMT"
-    },
-    {
-      "title": "Trump Scores Big Victory As 'One Big Beautiful Bill' Clears Congress - NDTV",
-      "pubDate": "Thu, 03 Jul 2025 18:44:14 GMT"
     },
     {
       "title": "Trump signs executive order calling for foreign tourists to pay higher national park fees - CBS News",
@@ -407,13 +395,13 @@
     {
       "title": "Trump loses appeal of $5 million E. Jean Carroll sexual abuse, defamation verdict - CNBC",
       "pubDate": "Thu, 10 Jul 2025 19:00:11 GMT"
+    },
+    {
+      "title": "Trump surveys damage in Texas after floods kill 120 and leave 160 missing - BBC",
+      "pubDate": "Fri, 11 Jul 2025 17:48:45 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia \u2018will not back down\u2019 on Ukraine war goals, Putin tells Trump - Al Jazeera",
-      "pubDate": "Thu, 03 Jul 2025 18:24:56 GMT"
-    },
     {
       "title": "Russian Offensive Campaign Assessment, July 3, 2025 - Institute for the Study of War",
       "pubDate": "Fri, 04 Jul 2025 00:27:45 GMT"
@@ -659,6 +647,10 @@
     {
       "title": "EU publishes voluntary AI Code of Practice - Telecompaper",
       "pubDate": "Fri, 11 Jul 2025 06:59:43 GMT"
+    },
+    {
+      "title": "EU's Model Documentation Form makes AI providers explain their models like it's tax season - the-decoder.com",
+      "pubDate": "Fri, 11 Jul 2025 16:46:56 GMT"
     }
   ],
   "financial_markets": [
@@ -1523,6 +1515,10 @@
     {
       "title": "Ukraine Says It Blew Up Russia Domestic Gas Link in West Siberia - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 16:00:44 GMT"
+    },
+    {
+      "title": "Russia Intensifies Its Air War in Ukraine - NPR",
+      "pubDate": "Fri, 11 Jul 2025 16:08:04 GMT"
     }
   ],
   "us_economy": [
@@ -1533,10 +1529,6 @@
     {
       "title": "What have tariffs really done to the US economy? - BBC",
       "pubDate": "Thu, 03 Jul 2025 23:03:53 GMT"
-    },
-    {
-      "title": "Steady Hiring Added 147,000 Jobs to U.S. Economy in June - WSJ",
-      "pubDate": "Thu, 03 Jul 2025 18:44:00 GMT"
     },
     {
       "title": "Jobs Report Live Updates: U.S. Hiring Remains Solid as Unemployment Rate Falls - The New York Times",
@@ -1845,16 +1837,8 @@
       "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
     },
     {
-      "title": "House Republicans pass Trump's megabill, sending the package to his desk to be signed - NPR",
-      "pubDate": "Thu, 03 Jul 2025 18:32:35 GMT"
-    },
-    {
       "title": "House sends megabill to Trump\u2019s desk with $150B in military spending - The Hill",
       "pubDate": "Thu, 03 Jul 2025 23:45:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s tax-and-spending bill passes Congress in major win for president - The Guardian",
-      "pubDate": "Thu, 03 Jul 2025 18:39:00 GMT"
     },
     {
       "title": "Republicans muscle Trump's sweeping tax-cut and spending bill through Congress - Reuters",
@@ -2753,10 +2737,6 @@
       "pubDate": "Thu, 03 Jul 2025 23:08:13 GMT"
     },
     {
-      "title": "How the tax-cut bill that\u2019s headed to Trump\u2019s desk would upend health care - STAT",
-      "pubDate": "Thu, 03 Jul 2025 18:51:17 GMT"
-    },
-    {
       "title": "\u2018Tears My Heart to Pieces\u2019: North Carolina Braces for Medicaid Cuts - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 09:01:05 GMT"
     },
@@ -2788,14 +2768,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Trump megabill gives the oil industry everything it wants and ends key support for solar and wind - CNBC",
-      "pubDate": "Thu, 03 Jul 2025 18:55:21 GMT"
-    },
-    {
-      "title": "How the G.O.P. Bill Will Reshape America\u2019s Energy Landscape - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 19:00:54 GMT"
-    },
     {
       "title": "Trump\u2019s Tax Package Curbs Renewable Energy Just as AI\u2019s Power Needs Soar - Bloomberg.com",
       "pubDate": "Fri, 04 Jul 2025 11:42:09 GMT"
@@ -3179,13 +3151,13 @@
     {
       "title": "Bitcoin Hits New Highs: 6 Reasons Why the ETF Rally Could Continue - Zacks Investment Research",
       "pubDate": "Fri, 11 Jul 2025 10:31:18 GMT"
+    },
+    {
+      "title": "Bitcoin flies to new all-time highs, topping $118,000 as institutions pile into ETFs - CNBC",
+      "pubDate": "Fri, 11 Jul 2025 11:16:29 GMT"
     }
   ],
   "us_congress": [
-    {
-      "title": "House passes Senate version of megabill, sending it to Trump\u2019s desk - Utility Dive",
-      "pubDate": "Thu, 03 Jul 2025 18:37:58 GMT"
-    },
     {
       "title": "US Congress Passes Invest America Act - Bitcoin.com News",
       "pubDate": "Fri, 04 Jul 2025 22:12:40 GMT"
@@ -3506,10 +3478,6 @@
     }
   ],
   "science": [
-    {
-      "title": "Scientists warn US will lose a generation of talent because of Trump cuts - The Guardian",
-      "pubDate": "Thu, 03 Jul 2025 18:25:00 GMT"
-    },
     {
       "title": "Melting glaciers could trigger volcanic eruptions around the globe, study finds - Live Science",
       "pubDate": "Mon, 07 Jul 2025 23:01:00 GMT"
@@ -4501,6 +4469,10 @@
     {
       "title": "Exclusive: TikTok prepares US app with its own algorithm and user data - Reuters",
       "pubDate": "Wed, 09 Jul 2025 22:01:50 GMT"
+    },
+    {
+      "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
+      "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
     }
   ],
   "india": [
@@ -4615,6 +4587,10 @@
     {
       "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises - The Hacker News",
       "pubDate": "Fri, 11 Jul 2025 04:25:00 GMT"
+    },
+    {
+      "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
+      "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
     }
   ],
   "climate_change": [
@@ -4631,6 +4607,12 @@
     {
       "title": "Gervonta Davis arrested: Boxer jailed on domestic violence charge in Florida - USA Today",
       "pubDate": "Fri, 11 Jul 2025 16:11:15 GMT"
+    }
+  ],
+  "net_zero_emissions": [
+    {
+      "title": "HSBC departs Net-Zero Banking Alliance, following US banks - ESG Dive",
+      "pubDate": "Fri, 11 Jul 2025 16:46:24 GMT"
     }
   ]
 }

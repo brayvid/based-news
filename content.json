@@ -1,12 +1,72 @@
 {
-  "Cybersecurity": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "CISA confirms hackers are actively exploiting critical \u2018Citrix Bleed 2\u2019 bug - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTdpZnRtWUdkVGkwRi1CeWJ4OFk5SjdNdWI3Uk50M2ExaE1SMWhjd1VERWNidTdRRG5xS0JyRzlKbm1XaVA0NGszbEd6cGxtTjhfVDZXRG9YcUROc3JGMmQtRFNVdlk0al9jTEtZZ0JELWptZDVPZ2xhRGxzVTJEZ1JJZFZWTVJwTExYU2JucXhGVDVFWW9NeTVDUVNXeTVTZlpaNWI3WVMyeHgw?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 16:37:31 GMT"
+        "title": "EU's Model Documentation Form makes AI providers explain their models like it's tax season - the-decoder.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjhkMW5ZR1hpeEJJZDlLV3Q1RzFfNWtJTW9zVllOb0lMbmRuSG5qYjN1SXoxemN5d2lINzhvaTF0aHRMM3dld0hmVVFHS2F4U050bEtYZzBzX0U3RndvUVcxZmZRWlNvOVVValJPT0I3dGphd3lDZkZLYUJNWmIyeGVoOTJaMGVDMFd6cTFRWFZEa05uajRVb2dtWDNRUlgxSERoUEN4S3dpMnNlQlF3VzBTRQ?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 16:46:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-11T18:04:49.517551+00:00"
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Algorithms": {
+    "articles": [
+      {
+        "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUZWdFFLN3l6RE5BcUhIQzNCUHBRWVpPZUNBWmQ4Mnh4WFJWbDJJaV9tM3o0Ri02NmdhcF9rNFhwUzdwcTZ5UDZoSGg2QklQbnRlTUtXQnljY2Vvb2MtUWMtbDI1dGstVVRoX1R4NmR4Rlphai1JX3E0UkFrdVVvd3VCbjZqMGJ4bnJHdUVrUHVDbmJLblJOakRR?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Bitcoin": {
+    "articles": [
+      {
+        "title": "Bitcoin flies to new all-time highs, topping $118,000 as institutions pile into ETFs - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80WGwwbnNiVEU4QlJscHoyTU5oVnBTRXJtbW5DR2U5SHJrdnE5TGlENnRndTBUNERvVl8yLWMwU2F1NEVKQTh3czk1ekhObDllbmpva1JnbE9iT2dMWktCM080TktHdFHSAWxBVV95cUxPNjlIWm92UlVodzdGVjRUU3RzZGg0aFhBYXo0TXJIZ0EtWmY5S0trYnB3V3pkTXlZMDdDQ3JoUXpDbUhLeFRsMnc1VndoZ1B3N00yODV2UU9nYnJ2RURqVzZCT0gzNWtFdFk0anU?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 11:16:29 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Cybersecurity and Infrastructure Security Agency": {
+    "articles": [
+      {
+        "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yX29DR1BudmxoUm5hSk1UanB6TUtrWnBVa25IZ3R0YzlXQ281SzN3eWtoYUFzb2JxRFg2REo4dk9yZlZWSXc0MTdFbVQxckxRLUpXQUYtOHZ0TXJTWXpZVFRPaFhUVlNDSzM2bGtRbGxfeUE?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump surveys damage in Texas after floods kill 120 and leave 160 missing - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zZGNzYU9KS1NDbExlN3J1TmVLSVI0UEJMNk5sYjJiRmhzZ1JPOHltNmw5LW1PcWRJejF4MXZaN2dUcEVVNkRVek82QjNqRjNqYlh1VA?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 17:48:45 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "Russia Intensifies Its Air War in Ukraine - NPR",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEhrcVl1b1lMYnFfOXBiNHRWZi1xQjJydGhfS3RyLThkc3FjYVNHUGFZV1ZaZGw1TE1RbFVvdF9LLUQyTHBEVVFQdGtPOW02V0Vnd0Zqd3dqTTJ4TEN5TmRydXFqZmVCZ0lrX0MyVXQwS2Z6VEZIYmhvX3VtSGxlOFQyaF9FWVVETmxV?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 16:08:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
+  },
+  "Net Zero Emissions": {
+    "articles": [
+      {
+        "title": "HSBC departs Net-Zero Banking Alliance, following US banks - ESG Dive",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1c2ZGVrRFQzYS1EUTlrV1k0cEtwbURMZjZjQVNMZ0hSckFkSm90N2tTS1JnYTQ5Y0RkN2ZORjVyTWd6anlHTWlTQ0I1QlNJbi1aX1Y4ZjZxaDRhdGhZVWdSQVd6Vkc5SUE5MmRZZmtxZzVXX2JuTzJHcE1iYzZid1VocVB0YnhzcllXRG5WcThLM3Q1SkJadURuRU9ZZEhtcTZPbG53?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 16:46:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-11T19:05:14.032156+00:00"
   }
 }
