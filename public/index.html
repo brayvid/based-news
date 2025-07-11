@@ -3,10 +3,63 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- Title set to your preference -->
   <title>Based News | Blake Rayvid</title>
+
+  <!-- Your existing description -->
   <meta name="description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you.">
+  
+  <!-- =================================================================== -->
+  <!-- SEO: Core Metadata Additions                                        -->
+  <!-- =================================================================== -->
+  <!-- The definitive URL for this page -->
+  <link rel="canonical" href="https://news.blakerayvid.com" />
+  <!-- Optional: Create a favicon and uncomment this line -->
+  <!-- <link rel="icon" href="/favicon.ico" sizes="any"> -->
+
+  <!-- =================================================================== -->
+  <!-- SEO: Open Graph / Social Sharing Tags (Facebook, LinkedIn, etc.)    -->
+  <!-- =================================================================== -->
+  <meta property="og:title" content="Based News | Blake Rayvid" />
+  <meta property="og:description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://news.blakerayvid.com" />
+  <meta property="og:site_name" content="Based News" />
+  <!-- IMPORTANT: For this to work, create a 1200x630px image named "social-share-image.png" and place it in your site's root directory. -->
+  <meta property="og:image" content="https://news.blakerayvid.com/images/example.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- =================================================================== -->
+  <!-- SEO: Twitter Card Tags                                              -->
+  <!-- =================================================================== -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Based News | Blake Rayvid" />
+  <meta name="twitter:description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you." />
+  <!-- Twitter uses the same image as Open Graph. -->
+  <meta name="twitter:image" content="https://news.blakerayvid.com/images/example.png" />
+  
+  <!-- =================================================================== -->
+  <!-- SEO: Structured Data (JSON-LD) for Richer Search Results            -->
+  <!-- =================================================================== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Based News",
+    "url": "https://news.blakerayvid.com",
+    "description": "A tunable news digest, curated hourly by Google's Gemini AI.",
+    "publisher": {
+      "@type": "Person",
+      "name": "Blake Rayvid"
+    }
+  }
+  </script>
+
+  <!-- Your existing styles and font links are unchanged -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
     body {
   margin: 0;
@@ -260,6 +313,7 @@ p.timestamp {
     </div>
   </footer>
 
+  <!-- Your scripts are unchanged -->
   <script defer>
     document.addEventListener("DOMContentLoaded", function () {
       const digestSliderWrapper = document.getElementById("digest-slider-wrapper");
