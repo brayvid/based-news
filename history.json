@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump's mega-bill heads for final vote in overnight US House session - BBC",
-      "pubDate": "Thu, 03 Jul 2025 09:24:47 GMT"
-    },
-    {
       "title": "Trump Wants the World to Squeeze Out China. He\u2019s Starting With Vietnam. - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 12:46:28 GMT"
     },
@@ -87,10 +83,6 @@
     {
       "title": "Live updates: Jeffries delays an inevitable vote on Trump's big bill with hours-long protest speech - AP News",
       "pubDate": "Thu, 03 Jul 2025 15:42:00 GMT"
-    },
-    {
-      "title": "House Republicans expected to pass Trump's massive tax and policy bill by July 4 - NPR",
-      "pubDate": "Thu, 03 Jul 2025 09:28:09 GMT"
     },
     {
       "title": "Jeffries uses \u2018magic minute\u2019 as part of resistance plan against Trump tax bill - USA Today",
@@ -541,6 +533,10 @@
     {
       "title": "Russia seizes $50 billion in assets as economy shifts during war in Ukraine, research shows - Reuters",
       "pubDate": "Thu, 10 Jul 2025 20:59:02 GMT"
+    },
+    {
+      "title": "Russia's fuel export revenue in June fell 14% from last year, IEA says - Reuters",
+      "pubDate": "Fri, 11 Jul 2025 08:52:41 GMT"
     }
   ],
   "ai_safety": [
@@ -687,6 +683,10 @@
     {
       "title": "AI Security Crisis: Balancing Innovation with Data Protection - Security Info Watch",
       "pubDate": "Thu, 10 Jul 2025 20:56:06 GMT"
+    },
+    {
+      "title": "EU publishes voluntary AI Code of Practice - Telecompaper",
+      "pubDate": "Fri, 11 Jul 2025 06:59:43 GMT"
     }
   ],
   "financial_markets": [
@@ -732,14 +732,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "New push for national AI rules likely after state ban fails - Axios",
-      "pubDate": "Thu, 03 Jul 2025 09:48:26 GMT"
-    },
-    {
-      "title": "OpenAI & Oracle: The US$30bn Data Centre Deal for Stargate - AI Magazine",
-      "pubDate": "Thu, 03 Jul 2025 09:37:51 GMT"
-    },
     {
       "title": "OpenAI Says It's Hired a Forensic Psychiatrist as Its Users Keep Sliding Into Mental Health Crises - Futurism",
       "pubDate": "Thu, 03 Jul 2025 13:29:17 GMT"
@@ -2161,6 +2153,10 @@
     {
       "title": "State Department Begins Layoffs After Supreme Court Ruling - Bloomberg",
       "pubDate": "Thu, 10 Jul 2025 22:12:16 GMT"
+    },
+    {
+      "title": "State Department to Soon Begin Mass Layoffs - The New York Times",
+      "pubDate": "Thu, 10 Jul 2025 23:03:40 GMT"
     }
   ],
   "trade_war": [
@@ -2633,6 +2629,10 @@
     {
       "title": "White House accuses Powell of mismanaging Federal Reserve, citing headquarters renovation - CNBC",
       "pubDate": "Thu, 10 Jul 2025 18:00:27 GMT"
+    },
+    {
+      "title": "Federal Reserve Proposes Easing Requirements for Banks\u2019 \u2018Well-Managed\u2019 Ratings - PYMNTS.com",
+      "pubDate": "Fri, 11 Jul 2025 07:52:30 GMT"
     }
   ],
   "earthquakes": [
@@ -3297,6 +3297,10 @@
     {
       "title": "Bitcoin Soars To Record High Above $116K - Forbes",
       "pubDate": "Thu, 10 Jul 2025 23:41:00 GMT"
+    },
+    {
+      "title": "BTC News: Bitcoin Nears $118K, Sets Fresh Highs as Over $1B Shorts Get Liquidated in 2025 Record - CoinDesk",
+      "pubDate": "Fri, 11 Jul 2025 07:15:40 GMT"
     }
   ],
   "us_congress": [
@@ -4131,6 +4135,10 @@
     {
       "title": "Enhanced geothermal systems: An underground tech surfaces as a serious clean energy contender - Tech Xplore",
       "pubDate": "Thu, 10 Jul 2025 19:41:27 GMT"
+    },
+    {
+      "title": "Energy transition boom drives rise in lawsuits against alleged rights abuses - Mongabay",
+      "pubDate": "Fri, 11 Jul 2025 09:43:55 GMT"
     }
   ],
   "large_language_models": [
@@ -4479,6 +4487,10 @@
     {
       "title": "Israel-Hamas war rages after Trump-Netanyahu meetings, as 15 civilians reportedly killed at Gaza health clinic - CBS News",
       "pubDate": "Fri, 11 Jul 2025 00:58:02 GMT"
+    },
+    {
+      "title": "LIVE: Israel keeps pounding Gaza as signs of starvation grow - Al Jazeera",
+      "pubDate": "Fri, 11 Jul 2025 07:45:42 GMT"
     }
   ],
   "history_of_the_earth": [
