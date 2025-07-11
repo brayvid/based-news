@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says Powell should resign \u2018immediately\u2019 in latest attack on Fed chair - Al Jazeera",
-      "pubDate": "Thu, 03 Jul 2025 02:31:02 GMT"
-    },
-    {
       "title": "Trump Policy Bill Stalls as Johnson Works to Wear Down G.O.P. Resistance - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 06:01:41 GMT"
     },
@@ -573,6 +569,10 @@
     {
       "title": "Trump Plans \u2018Major\u2019 Russia Statement Monday, Mulls Sanctions - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 00:58:00 GMT"
+    },
+    {
+      "title": "Russia seizes $50 billion in assets as economy shifts during war in Ukraine, research shows - Reuters",
+      "pubDate": "Thu, 10 Jul 2025 20:59:02 GMT"
     }
   ],
   "ai_safety": [
@@ -1745,14 +1745,6 @@
   ],
   "china": [
     {
-      "title": "US Lifts Chip Design Curbs On China as Part of Trade Deal - Bloomberg.com",
-      "pubDate": "Thu, 03 Jul 2025 02:35:00 GMT"
-    },
-    {
-      "title": "China says Premier Li to visit Egypt after BRICS Brazil trip - The New Arab",
-      "pubDate": "Thu, 03 Jul 2025 02:23:19 GMT"
-    },
-    {
       "title": "China\u2019s north and west on red alert for heavy rains after deadly floods - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 06:56:15 GMT"
     },
@@ -2335,6 +2327,10 @@
     {
       "title": "Trump sets 50% US tariffs on copper, Brazilian imports starting in August - Reuters",
       "pubDate": "Thu, 10 Jul 2025 01:24:00 GMT"
+    },
+    {
+      "title": "Trump says he will hit Canadian imports with a 35% tariff in major escalation of trade war - NBC News",
+      "pubDate": "Fri, 11 Jul 2025 01:16:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -4511,6 +4507,10 @@
     {
       "title": "Israeli strike kills children near Gaza clinic with no immediate truce in sight - Reuters",
       "pubDate": "Thu, 10 Jul 2025 20:37:37 GMT"
+    },
+    {
+      "title": "Israeli strike kills at least 10 children queueing for medical treatment in Gaza - The Guardian",
+      "pubDate": "Thu, 10 Jul 2025 23:00:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4687,6 +4687,12 @@
     {
       "title": "EPA head promises 'total transparency' on geoengineering and contrails as weather conspiracy theories swirl - NBC News",
       "pubDate": "Thu, 10 Jul 2025 19:37:30 GMT"
+    }
+  ],
+  "political_corruption": [
+    {
+      "title": "Federal prosecutors seek nearly 6 years in prison for Madigan confidant Michael McClain - WBEZ Chicago",
+      "pubDate": "Thu, 10 Jul 2025 21:29:00 GMT"
     }
   ]
 }
