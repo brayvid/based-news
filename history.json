@@ -359,6 +359,10 @@
     {
       "title": "A red state reckons with Trump's 'big, beautiful bill' - NBC News",
       "pubDate": "Sat, 12 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump threatens to revoke US citizenship of longtime critic Rosie O\u2019Donnell - Politico",
+      "pubDate": "Sat, 12 Jul 2025 16:12:00 GMT"
     }
   ],
   "russia": [
@@ -608,10 +612,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Google hit with antitrust complaint in EU over AI summaries harming web traffic to news sites: report - New York Post",
-      "pubDate": "Fri, 04 Jul 2025 17:05:00 GMT"
-    },
     {
       "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
       "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
@@ -1032,10 +1032,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
-      "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
-    },
     {
       "title": "Russia ramps up use of banned chemical weapons in Ukraine, including WWI-era poison gas, 3 European intel services say - CBS News",
       "pubDate": "Fri, 04 Jul 2025 20:15:26 GMT"
@@ -1597,10 +1593,6 @@
       "pubDate": "Fri, 04 Jul 2025 22:15:25 GMT"
     },
     {
-      "title": "How many people will lose health care coverage in New Jersey after Trump budget bill? - Bergen Record",
-      "pubDate": "Fri, 04 Jul 2025 17:08:31 GMT"
-    },
-    {
       "title": "Trump signs bill affecting health care for millions - WCNC",
       "pubDate": "Sat, 05 Jul 2025 03:50:00 GMT"
     },
@@ -1739,6 +1731,10 @@
     {
       "title": "North Korean defector files unprecedented lawsuits against Kim Jong Un - NK News",
       "pubDate": "Fri, 11 Jul 2025 09:08:10 GMT"
+    },
+    {
+      "title": "Russia's Lavrov meets North Korea's Kim, praises ties as 'invincible brotherhood' - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 16:33:59 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1931,6 +1927,10 @@
     {
       "title": "Trump Announces 30% Tariffs Against E.U. and Mexico, Citing Threats to National Security - Time Magazine",
       "pubDate": "Sat, 12 Jul 2025 16:13:18 GMT"
+    },
+    {
+      "title": "Trump hits Mexico and EU with 30% tariffs, escalating trade war - South China Morning Post",
+      "pubDate": "Sat, 12 Jul 2025 17:54:25 GMT"
     }
   ],
   "cybersecurity": [
@@ -2731,6 +2731,10 @@
     {
       "title": "Nearly 49,000 Granite Staters impacted by Hannaford's parent company data breach - WMUR",
       "pubDate": "Sat, 12 Jul 2025 15:28:00 GMT"
+    },
+    {
+      "title": "McDonald\u2019s job app exposes data of 64 Million applicants - Security Affairs",
+      "pubDate": "Sat, 12 Jul 2025 17:10:29 GMT"
     }
   ],
   "technology": [
@@ -3072,10 +3076,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
-      "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
-    },
     {
       "title": "ChatGPT is pushing people towards mania, psychosis and death \u2013 and OpenAI doesn\u2019t know how to stop it - The Independent",
       "pubDate": "Sun, 06 Jul 2025 05:00:00 GMT"
@@ -3575,6 +3575,10 @@
     {
       "title": "Google Brain founder says AGI is overhyped, real power lies in knowing how to use AI and not building it - MSN",
       "pubDate": "Sat, 12 Jul 2025 13:17:23 GMT"
+    },
+    {
+      "title": "AI outsmarted 30 of the world's top mathematicians at secret meeting in California - Live Science",
+      "pubDate": "Sat, 12 Jul 2025 13:51:00 GMT"
     }
   ],
   "ancient_history": [
@@ -4215,6 +4219,10 @@
     {
       "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
       "pubDate": "Sat, 12 Jul 2025 13:47:00 GMT"
+    },
+    {
+      "title": "LIVE: UN says 86 percent of Gaza under Israeli forced displacement orders - Al Jazeera",
+      "pubDate": "Sat, 12 Jul 2025 16:20:42 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4511,6 +4519,12 @@
     {
       "title": "Horrifying Research Finds Melting Glaciers Could Activate Deadly Volcanoes - Futurism",
       "pubDate": "Sat, 12 Jul 2025 11:30:52 GMT"
+    }
+  ],
+  "atlantic_ocean": [
+    {
+      "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
+      "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
     }
   ]
 }
