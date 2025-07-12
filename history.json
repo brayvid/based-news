@@ -47,6 +47,10 @@
     {
       "title": "EU weighs suspending Israel ties over Gaza crisis - politico.eu",
       "pubDate": "Thu, 10 Jul 2025 20:23:00 GMT"
+    },
+    {
+      "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
+      "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
     }
   ],
   "iran": [
@@ -93,10 +97,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump signs megabill that slashes taxes, Medicaid while boosting national debt - USA Today",
-      "pubDate": "Fri, 04 Jul 2025 21:48:21 GMT"
-    },
-    {
       "title": "Trump signs his agenda bill, with a flyover and fireworks to mark the occasion - CNN",
       "pubDate": "Fri, 04 Jul 2025 22:46:00 GMT"
     },
@@ -107,10 +107,6 @@
     {
       "title": "Trump claims victory as he signs controversial budget and tax bill into law - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 22:54:04 GMT"
-    },
-    {
-      "title": "Trump signs \u2018Big Beautiful Bill\u2019 into law after saluting B-2 pilots who joined Iran strikes - New York Post",
-      "pubDate": "Fri, 04 Jul 2025 21:52:00 GMT"
     },
     {
       "title": "Trump says tariff letters to 12 countries signed, going out Monday - Reuters",
@@ -613,10 +609,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Artificial intelligence and journalism | Daily Sabah - Daily Sabah",
-      "pubDate": "Fri, 04 Jul 2025 21:05:00 GMT"
-    },
-    {
       "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
       "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
     },
@@ -875,6 +867,10 @@
     {
       "title": "xAI apologized for Grok's 'horrific' rant, and blamed flawed code and 'extremist' X user posts - Business Insider",
       "pubDate": "Sat, 12 Jul 2025 10:38:00 GMT"
+    },
+    {
+      "title": "Grok, the artificial intelligence assistant, praised Nazi leader Adolf Hitler in a series of posts deemed anti-Semitic - IslanderNews.com",
+      "pubDate": "Sat, 12 Jul 2025 19:01:57 GMT"
     }
   ],
   "climate": [
@@ -2009,16 +2005,8 @@
   ],
   "hamas": [
     {
-      "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
-      "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
-    },
-    {
       "title": "Hamas says ready for ceasefire talks as Israeli forces kill 19 in Gaza - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 06:22:30 GMT"
-    },
-    {
-      "title": "Hamas gives positive response to Gaza ceasefire proposal with reservations - Axios",
-      "pubDate": "Fri, 04 Jul 2025 21:51:44 GMT"
     },
     {
       "title": "Hamas says ready to enter Gaza ceasefire talks \u2018immediately\u2019 - politico.eu",
@@ -2291,6 +2279,10 @@
     {
       "title": "Powerful earthquake swarm rocks California sparking fears of the Big One - MSN",
       "pubDate": "Sat, 12 Jul 2025 02:47:01 GMT"
+    },
+    {
+      "title": "Another small earthquake recorded in Missouri - KFVS12",
+      "pubDate": "Sat, 12 Jul 2025 14:07:00 GMT"
     }
   ],
   "elon_musk": [
@@ -2435,6 +2427,10 @@
     {
       "title": "Intestinal microbiome and metabolite profiles linked to chemotherapy response in breast cancer - News-Medical",
       "pubDate": "Sat, 12 Jul 2025 01:33:00 GMT"
+    },
+    {
+      "title": "New cancer therapy brings hope for patients with advanced melanoma - News on 6",
+      "pubDate": "Sat, 12 Jul 2025 19:13:06 GMT"
     }
   ],
   "space_exploration": [
@@ -3284,10 +3280,6 @@
     }
   ],
   "hacking": [
-    {
-      "title": "Brazil\u2019s central bank service provider hacked, $140M stolen - Cointelegraph",
-      "pubDate": "Fri, 04 Jul 2025 21:32:06 GMT"
-    },
     {
       "title": "Chinese man charged in Texas with stealing COVID-19 research from US colleges - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 00:06:56 GMT"
@@ -4539,6 +4531,12 @@
     {
       "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
       "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
+    }
+  ],
+  "cosmology": [
+    {
+      "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
+      "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
     }
   ]
 }
