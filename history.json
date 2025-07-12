@@ -375,16 +375,16 @@
     {
       "title": "Trump surveys Texas flood devastation; State Department layoffs start - NBC News",
       "pubDate": "Sat, 12 Jul 2025 01:39:00 GMT"
+    },
+    {
+      "title": "Trump targets Fed chair Powell over HQ renovation, rates - Finance & Commerce",
+      "pubDate": "Sat, 12 Jul 2025 06:01:41 GMT"
     }
   ],
   "russia": [
     {
       "title": "Russia welcomes Trump\u2019s cut to Ukraine\u2019s military aid but it could be deadly for Kyiv - CNN",
       "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
-    },
-    {
-      "title": "Russia Delivers Loaded Independence Day Greeting to US - Newsweek",
-      "pubDate": "Fri, 04 Jul 2025 10:26:13 GMT"
     },
     {
       "title": "Russia expanding Ukraine chemical weapons use, allege European spy agencies - Al Jazeera",
@@ -652,10 +652,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence rules to go ahead, no pause, EU Commission says - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 10:47:46 GMT"
-    },
     {
       "title": "Meta Snags Former SSI CEO Daniel Gross for Its AI Crusade - OpenTools",
       "pubDate": "Fri, 04 Jul 2025 12:36:54 GMT"
@@ -1423,6 +1419,10 @@
     {
       "title": "Russia-Ukraine war: What are \u2018frustrated\u2019 Trump\u2019s next options with Putin? - Al Jazeera",
       "pubDate": "Fri, 11 Jul 2025 13:04:00 GMT"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, July 11, 2025 - Institute for the Study of War",
+      "pubDate": "Fri, 11 Jul 2025 23:43:56 GMT"
     }
   ],
   "us_economy": [
@@ -1671,6 +1671,10 @@
     {
       "title": "China \u2018luckiest driver\u2019 survives after truck balances on edge of collapsed bridge - South China Morning Post",
       "pubDate": "Sat, 12 Jul 2025 08:00:09 GMT"
+    },
+    {
+      "title": "Chinese lead poisoning scandal sparks backlash, echoing earlier controversies - South China Morning Post",
+      "pubDate": "Sat, 12 Jul 2025 08:00:16 GMT"
     }
   ],
   "world_news": [
@@ -1808,10 +1812,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "News - Rumsfeld Says Proliferation Greatest Danger from North Korea - DVIDS",
-      "pubDate": "Fri, 04 Jul 2025 10:24:00 GMT"
-    },
     {
       "title": "How North Korean operatives are infiltrating U.S. companies to fund weapons programs - PBS",
       "pubDate": "Sat, 05 Jul 2025 21:45:17 GMT"
@@ -2321,6 +2321,10 @@
     {
       "title": "White House Seizes on Fed Renovations as Opening to Oust Powell - The Wall Street Journal",
       "pubDate": "Sat, 12 Jul 2025 01:53:00 GMT"
+    },
+    {
+      "title": "Fed Defends Renovations as White House Widens Attacks on Central Bank - The New York Times",
+      "pubDate": "Sat, 12 Jul 2025 01:07:39 GMT"
     }
   ],
   "earthquakes": [
@@ -2698,10 +2702,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Trump's Tax Bill Could Be A Boost For Tesla-Rivals Rivian, Lucid Amid EV Slowdown, Says BNP Paribas - Benzinga",
-      "pubDate": "Fri, 04 Jul 2025 10:21:58 GMT"
-    },
     {
       "title": "Why Tesla\u2019s Cybertruck has been such a flop - CNN",
       "pubDate": "Fri, 04 Jul 2025 18:29:00 GMT"
@@ -3105,6 +3105,10 @@
     {
       "title": "US senators warn Nvidia CEO about upcoming China trip - Reuters",
       "pubDate": "Fri, 11 Jul 2025 21:08:48 GMT"
+    },
+    {
+      "title": "Nvidia Makes History as the First $4 Trillion Company. Will It Reach $5 Trillion? - The Globe and Mail",
+      "pubDate": "Sat, 12 Jul 2025 09:52:15 GMT"
     }
   ],
   "earth_science": [
@@ -3205,6 +3209,10 @@
     {
       "title": "OpenAI Reportedly Prepping Browser to Take on Google Chrome - PYMNTS.com",
       "pubDate": "Thu, 10 Jul 2025 10:53:12 GMT"
+    },
+    {
+      "title": "Sam Altman says OpenAI is delaying its open-weight model to run extra safety tests - Business Insider",
+      "pubDate": "Sat, 12 Jul 2025 10:15:00 GMT"
     }
   ],
   "environment": [
