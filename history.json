@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump shows his dominance over Congress in passing the 'big, beautiful bill' - NBC News",
-      "pubDate": "Fri, 04 Jul 2025 09:00:00 GMT"
-    },
-    {
       "title": "Trump says he is about to raise tariffs as high as 70% on some countries - CNN",
       "pubDate": "Fri, 04 Jul 2025 12:56:00 GMT"
     },
@@ -627,10 +623,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Bitcoin price can hit $150K in weeks thanks to Trump's 'Big Beautiful Bill' - Cointelegraph",
-      "pubDate": "Fri, 04 Jul 2025 09:58:53 GMT"
-    },
-    {
       "title": "India Cracks Down on Jane Street\u2019s Lucrative Derivatives Trades - WSJ",
       "pubDate": "Fri, 04 Jul 2025 13:48:00 GMT"
     },
@@ -660,10 +652,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Minister demands overhaul of UK\u2019s leading AI institute - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 09:59:00 GMT"
-    },
     {
       "title": "Artificial intelligence rules to go ahead, no pause, EU Commission says - Reuters",
       "pubDate": "Fri, 04 Jul 2025 10:47:46 GMT"
@@ -955,6 +943,10 @@
     {
       "title": "OpenAI\u2019s $3 Billion Deal to Buy AI Startup Windsurf Falls Apart - Bloomberg.com",
       "pubDate": "Sat, 12 Jul 2025 01:57:00 GMT"
+    },
+    {
+      "title": "AI Models Advise Lower Salaries for Women, Study Finds - WebProNews",
+      "pubDate": "Sat, 12 Jul 2025 00:20:57 GMT"
     }
   ],
   "climate": [
@@ -1112,10 +1104,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Hits Ukraine With Large Air Barrage Hours After Trump-Putin Call - The New York Times",
-      "pubDate": "Fri, 04 Jul 2025 09:43:53 GMT"
-    },
     {
       "title": "Russia launches largest aerial attack on Ukraine's capital as pessimism grows over a Trump ceasefire - NBC News",
       "pubDate": "Fri, 04 Jul 2025 11:30:12 GMT"
@@ -1679,6 +1667,10 @@
     {
       "title": "China's deflationary slide is worsening as companies spiral into price wars - CNBC",
       "pubDate": "Fri, 11 Jul 2025 09:57:55 GMT"
+    },
+    {
+      "title": "China \u2018luckiest driver\u2019 survives after truck balances on edge of collapsed bridge - South China Morning Post",
+      "pubDate": "Sat, 12 Jul 2025 08:00:09 GMT"
     }
   ],
   "world_news": [
@@ -2609,10 +2601,6 @@
       "pubDate": "Fri, 04 Jul 2025 11:42:09 GMT"
     },
     {
-      "title": "Renewables face setback under sweeping federal spending bill - Virginia Mercury",
-      "pubDate": "Fri, 04 Jul 2025 09:21:15 GMT"
-    },
-    {
       "title": "'Big, Beautiful Bill' cuts majority of clean energy incentives - Spectrum News 1 - Milwaukee",
       "pubDate": "Fri, 04 Jul 2025 20:29:00 GMT"
     },
@@ -2670,10 +2658,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Belgian court sentences three in kidnapping of crypto investor\u2019s wife - Cointelegraph",
-      "pubDate": "Fri, 04 Jul 2025 09:39:25 GMT"
-    },
     {
       "title": "Secret Service Seizes $225 Million in Cryptocurrency Fraud - AInvest",
       "pubDate": "Sun, 06 Jul 2025 00:51:37 GMT"
@@ -3050,10 +3034,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
-      "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
-    },
     {
       "title": "Nvidia beats Apple to become most valuable company ever! It's now worth more than all listed companies in UK - Mint",
       "pubDate": "Sat, 05 Jul 2025 07:34:30 GMT"
@@ -3907,6 +3887,10 @@
     {
       "title": "Trump blocks acquisition of equipment supplier Jupiter Systems by Hong Kong firm - Reuters",
       "pubDate": "Fri, 11 Jul 2025 20:06:03 GMT"
+    },
+    {
+      "title": "Russia warns US, South Korea and Japan against forming security alliance targeting North Korea - KSAT",
+      "pubDate": "Sat, 12 Jul 2025 09:24:53 GMT"
     }
   ],
   "finance": [
@@ -3917,6 +3901,10 @@
     {
       "title": "Global financial industry retreat from coal hasn't cut its funding - Axios",
       "pubDate": "Wed, 09 Jul 2025 12:52:16 GMT"
+    },
+    {
+      "title": "As Tesla Stumbles, SpaceX\u2019s Finances Go From Strength to Strength - The Wall Street Journal",
+      "pubDate": "Sat, 12 Jul 2025 01:00:00 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -4393,6 +4381,10 @@
     {
       "title": "Scientists discover ice in space isn't like water on Earth after all - Space",
       "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Scientists Discover Uranus Has a Dancing Partner - Universe Today",
+      "pubDate": "Fri, 11 Jul 2025 22:48:00 GMT"
     }
   ],
   "energy_transition": [
@@ -4545,6 +4537,10 @@
     {
       "title": "200 arrested in chaotic immigration raid at cannabis farm, one worker critically hurt in fall - Los Angeles Times",
       "pubDate": "Sat, 12 Jul 2025 01:19:00 GMT"
+    },
+    {
+      "title": "Federal judge orders ICE to halt immigration raids in Southern California - CBS News",
+      "pubDate": "Sat, 12 Jul 2025 03:09:16 GMT"
     }
   ]
 }
