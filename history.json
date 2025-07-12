@@ -85,10 +85,6 @@
       "pubDate": "Fri, 04 Jul 2025 12:56:00 GMT"
     },
     {
-      "title": "Inside the 24 hours that Trump willed his agenda bill over the finish line - CNN",
-      "pubDate": "Fri, 04 Jul 2025 11:09:00 GMT"
-    },
-    {
       "title": "Trump expects Hamas decision on \u2018final\u2019 peace proposal in hours - The Hill",
       "pubDate": "Fri, 04 Jul 2025 14:14:00 GMT"
     },
@@ -481,6 +477,10 @@
     {
       "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
       "pubDate": "Sat, 12 Jul 2025 06:54:00 GMT"
+    },
+    {
+      "title": "Trump interest in Russia sanctions raises Ukraine allies' hopes - to a point - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 10:03:51 GMT"
     }
   ],
   "ai_safety": [
@@ -657,10 +657,6 @@
       "pubDate": "Fri, 04 Jul 2025 12:36:54 GMT"
     },
     {
-      "title": "Tesla Vs. BYD: Tesla Loses Tax Credits Amid Robotaxi Push; BYD's BEV Sales Boom - MSN",
-      "pubDate": "Fri, 04 Jul 2025 11:36:29 GMT"
-    },
-    {
       "title": "Bombshell Research Finds a Staggering Number of Scientific Papers Were AI-Generated - Futurism",
       "pubDate": "Fri, 04 Jul 2025 16:00:50 GMT"
     },
@@ -671,10 +667,6 @@
     {
       "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
       "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
-    },
-    {
-      "title": "EU sticks with timeline for AI rules - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 11:20:04 GMT"
     },
     {
       "title": "OpenAI CEO Sam Altman Plans \u2018Fundamentally New Type of Computer\u2019 That Will Make AI \u2018Transcendentally Good\u2019 - Barchart.com",
@@ -1101,10 +1093,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russia launches largest aerial attack on Ukraine's capital as pessimism grows over a Trump ceasefire - NBC News",
-      "pubDate": "Fri, 04 Jul 2025 11:30:12 GMT"
-    },
-    {
       "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
       "pubDate": "Fri, 04 Jul 2025 12:40:03 GMT"
     },
@@ -1423,17 +1411,13 @@
     {
       "title": "Russian Offensive Campaign Assessment, July 11, 2025 - Institute for the Study of War",
       "pubDate": "Fri, 11 Jul 2025 23:43:56 GMT"
+    },
+    {
+      "title": "Russia fires over 600 drones, missiles in massive barrage targeting western Ukraine - France 24",
+      "pubDate": "Sat, 12 Jul 2025 09:23:13 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump\u2019s Medicaid cuts are coming for rural Americans: \u2018It\u2019s going to have to hit them first\u2019 - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 11:02:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s tax cuts: Who will it benefit? - NewsNation",
-      "pubDate": "Fri, 04 Jul 2025 11:13:19 GMT"
-    },
     {
       "title": "Trump says Powell costs US $900B a year in interest by not cutting rates. Is he right? - USA Today",
       "pubDate": "Fri, 04 Jul 2025 16:27:02 GMT"
@@ -1491,10 +1475,6 @@
     {
       "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
       "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
-    },
-    {
-      "title": "China Is Not Ready for Global Leadership - Foreign Policy",
-      "pubDate": "Fri, 04 Jul 2025 11:31:37 GMT"
     },
     {
       "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
@@ -1675,6 +1655,10 @@
     {
       "title": "Chinese lead poisoning scandal sparks backlash, echoing earlier controversies - South China Morning Post",
       "pubDate": "Sat, 12 Jul 2025 08:00:16 GMT"
+    },
+    {
+      "title": "After Northwestern scientist questioned for China ties died by suicide, family sues and speaks out - NBC News",
+      "pubDate": "Sat, 12 Jul 2025 11:00:00 GMT"
     }
   ],
   "world_news": [
@@ -2601,10 +2585,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump\u2019s Tax Package Curbs Renewable Energy Just as AI\u2019s Power Needs Soar - Bloomberg.com",
-      "pubDate": "Fri, 04 Jul 2025 11:42:09 GMT"
-    },
-    {
       "title": "'Big, Beautiful Bill' cuts majority of clean energy incentives - Spectrum News 1 - Milwaukee",
       "pubDate": "Fri, 04 Jul 2025 20:29:00 GMT"
     },
@@ -3213,6 +3193,10 @@
     {
       "title": "Sam Altman says OpenAI is delaying its open-weight model to run extra safety tests - Business Insider",
       "pubDate": "Sat, 12 Jul 2025 10:15:00 GMT"
+    },
+    {
+      "title": "OpenAI delays the release of its open model, again - TechCrunch",
+      "pubDate": "Sat, 12 Jul 2025 01:38:05 GMT"
     }
   ],
   "environment": [
@@ -3253,12 +3237,6 @@
     {
       "title": "Measles cases surge to highest levels in over 30 years, CDC data shows - PBS",
       "pubDate": "Thu, 10 Jul 2025 22:45:32 GMT"
-    }
-  ],
-  "pollution": [
-    {
-      "title": "Landmark US study reveals sewage sludge and wastewater plants tied to Pfas pollution - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 11:02:00 GMT"
     }
   ],
   "military_and_defense": [
@@ -3311,6 +3289,10 @@
     {
       "title": "The F.B.I. Is Using Polygraphs to Test Officials\u2019 Loyalty - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 20:34:15 GMT"
+    },
+    {
+      "title": "FBI Chief Kash Patel May Resign Over Epstein Files Fallout: Report - NDTV",
+      "pubDate": "Sat, 12 Jul 2025 09:48:32 GMT"
     }
   ],
   "science": [
@@ -3591,6 +3573,10 @@
     {
       "title": "Billionaire Warren Buffett Is (Indirectly) Wagering on 2 Quantum Computing Stocks to Make Berkshire Hathaway's Shareholders Richer - MSN",
       "pubDate": "Fri, 11 Jul 2025 10:23:04 GMT"
+    },
+    {
+      "title": "3 Millionaire-Maker Quantum Computing Stocks - Nasdaq",
+      "pubDate": "Sat, 12 Jul 2025 09:15:00 GMT"
     }
   ],
   "data_privacy": [
@@ -4263,6 +4249,10 @@
     {
       "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
       "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
+    },
+    {
+      "title": "Gaza is running out of blood - Al Jazeera",
+      "pubDate": "Sat, 12 Jul 2025 10:18:45 GMT"
     }
   ],
   "history_of_the_earth": [
