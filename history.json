@@ -77,13 +77,13 @@
     {
       "title": "Trump Signals Support for New Israel Attack if Iran Moves Toward Bomb - The Wall Street Journal",
       "pubDate": "Sat, 12 Jul 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Putin urges Iran to take 'zero enrichment' nuclear deal with US, Axios reports - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 12:43:25 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says he is about to raise tariffs as high as 70% on some countries - CNN",
-      "pubDate": "Fri, 04 Jul 2025 12:56:00 GMT"
-    },
     {
       "title": "Trump expects Hamas decision on \u2018final\u2019 peace proposal in hours - The Hill",
       "pubDate": "Fri, 04 Jul 2025 14:14:00 GMT"
@@ -383,10 +383,6 @@
       "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
     },
     {
-      "title": "Russia expanding Ukraine chemical weapons use, allege European spy agencies - Al Jazeera",
-      "pubDate": "Fri, 04 Jul 2025 12:19:55 GMT"
-    },
-    {
       "title": "Russia uses chemical agents in Ukraine, Dutch and German agencies say - Euronews.com",
       "pubDate": "Fri, 04 Jul 2025 15:58:44 GMT"
     },
@@ -652,10 +648,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Meta Snags Former SSI CEO Daniel Gross for Its AI Crusade - OpenTools",
-      "pubDate": "Fri, 04 Jul 2025 12:36:54 GMT"
-    },
     {
       "title": "Bombshell Research Finds a Staggering Number of Scientific Papers Were AI-Generated - Futurism",
       "pubDate": "Fri, 04 Jul 2025 16:00:50 GMT"
@@ -1092,10 +1084,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 12:40:03 GMT"
-    },
     {
       "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
       "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
@@ -1999,6 +1987,10 @@
     {
       "title": "President Trump threatens new tariffs in trade war - CBS News",
       "pubDate": "Sat, 12 Jul 2025 03:19:00 GMT"
+    },
+    {
+      "title": "Trump announces 30% tariffs on EU and Mexico - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 12:43:34 GMT"
     }
   ],
   "cybersecurity": [
@@ -2081,6 +2073,10 @@
     {
       "title": "Russia Adopts \u2018Double-Tap\u2019 Strategy in Civilian Drone Attacks - The Defense Post",
       "pubDate": "Tue, 08 Jul 2025 12:35:25 GMT"
+    },
+    {
+      "title": "Ukraine Unveils Pocket-Sized Net Launcher to Take Down FPV Drones - UNITED24 Media",
+      "pubDate": "Sat, 12 Jul 2025 10:05:13 GMT"
     }
   ],
   "hamas": [
@@ -2705,6 +2701,10 @@
     {
       "title": "Tesla slides as Musk's 'America Party' heightens investor worries - Reuters",
       "pubDate": "Mon, 07 Jul 2025 20:46:39 GMT"
+    },
+    {
+      "title": "Tesla Is Headed to Trial Over Another Deadly Autopilot Crash - Business Insider",
+      "pubDate": "Sat, 12 Jul 2025 09:02:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -4093,6 +4093,10 @@
     {
       "title": "New Data Reveals: Hyperscale Data Hits $11.2M in Bitcoin Mining Revenue as Two New Sites Power 18,200 Miners - Stock Titan",
       "pubDate": "Tue, 08 Jul 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Data mining uncovers treasure-trove of previously 'untouchable' proteins for drug development - Phys.org",
+      "pubDate": "Sat, 12 Jul 2025 11:40:01 GMT"
     }
   ],
   "globalization": [
@@ -4253,6 +4257,10 @@
     {
       "title": "Gaza is running out of blood - Al Jazeera",
       "pubDate": "Sat, 12 Jul 2025 10:18:45 GMT"
+    },
+    {
+      "title": "Gaza truce talks faltering over withdrawal, Palestinian and Israeli sources say - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 11:55:53 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4539,6 +4547,12 @@
     {
       "title": "Federal judge orders ICE to halt immigration raids in Southern California - CBS News",
       "pubDate": "Sat, 12 Jul 2025 03:09:16 GMT"
+    }
+  ],
+  "volcanoes": [
+    {
+      "title": "Horrifying Research Finds Melting Glaciers Could Activate Deadly Volcanoes - Futurism",
+      "pubDate": "Sat, 12 Jul 2025 11:30:52 GMT"
     }
   ]
 }
