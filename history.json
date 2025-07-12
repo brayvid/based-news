@@ -89,10 +89,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump expects Hamas decision on \u2018final\u2019 peace proposal in hours - The Hill",
-      "pubDate": "Fri, 04 Jul 2025 14:14:00 GMT"
-    },
-    {
       "title": "Trump Administration Live Updates: President to Sign Sweeping Domestic Policy Bill Into Law - The New York Times",
       "pubDate": "Fri, 04 Jul 2025 16:05:02 GMT"
     },
@@ -379,13 +375,13 @@
     {
       "title": "Trump targets Fed chair Powell over HQ renovation, rates - Finance & Commerce",
       "pubDate": "Sat, 12 Jul 2025 06:01:41 GMT"
+    },
+    {
+      "title": "A red state reckons with Trump's 'big, beautiful bill' - NBC News",
+      "pubDate": "Sat, 12 Jul 2025 09:00:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia welcomes Trump\u2019s cut to Ukraine\u2019s military aid but it could be deadly for Kyiv - CNN",
-      "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
-    },
     {
       "title": "Russia uses chemical agents in Ukraine, Dutch and German agencies say - Euronews.com",
       "pubDate": "Fri, 04 Jul 2025 15:58:44 GMT"
@@ -655,10 +651,6 @@
     {
       "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
       "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman Plans \u2018Fundamentally New Type of Computer\u2019 That Will Make AI \u2018Transcendentally Good\u2019 - Barchart.com",
-      "pubDate": "Fri, 04 Jul 2025 14:00:02 GMT"
     },
     {
       "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
@@ -1093,10 +1085,6 @@
       "pubDate": "Fri, 04 Jul 2025 20:15:26 GMT"
     },
     {
-      "title": "Putin Plots Summer of Relentless Attacks on Ukraine - WSJ",
-      "pubDate": "Fri, 04 Jul 2025 14:38:00 GMT"
-    },
-    {
       "title": "Ukraine says Kyiv hit by largest Russian aerial assault since the war began - NBC News",
       "pubDate": "Fri, 04 Jul 2025 23:22:14 GMT"
     },
@@ -1407,16 +1395,16 @@
     {
       "title": "Russia launches hundreds of drones and cruise missiles into Ukraine, killing at least 6 - CBS News",
       "pubDate": "Sat, 12 Jul 2025 13:45:39 GMT"
+    },
+    {
+      "title": "Ukraine targets key Russian gas pipeline causing costly damage - TVP World",
+      "pubDate": "Sat, 12 Jul 2025 07:10:00 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "Trump says Powell costs US $900B a year in interest by not cutting rates. Is he right? - USA Today",
       "pubDate": "Fri, 04 Jul 2025 16:27:02 GMT"
-    },
-    {
-      "title": "Economists Warn About Trump's Rocket Ship Bill As It's One Step Closer To Becoming Law - International Business Times UK",
-      "pubDate": "Fri, 04 Jul 2025 14:57:20 GMT"
     },
     {
       "title": "The Warning Signs for Russia\u2019s Economy Are Flashing Red - WSJ",
@@ -1464,10 +1452,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
-      "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
-    },
     {
       "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
       "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
@@ -1995,6 +1979,10 @@
     {
       "title": "Trump says he will hit E.U. and Mexico with 30% tariff - NBC News",
       "pubDate": "Sat, 12 Jul 2025 13:09:00 GMT"
+    },
+    {
+      "title": "Trump says he\u2019ll slap 30% tariffs on Mexico, European Union on Aug. 1 - The Washington Post",
+      "pubDate": "Sat, 12 Jul 2025 13:46:54 GMT"
     }
   ],
   "cybersecurity": [
@@ -2673,6 +2661,10 @@
     {
       "title": "Bitcoin tops $118,000 for the first time, as the cryptocurrency continues to climb to new heights - AP News",
       "pubDate": "Fri, 11 Jul 2025 17:12:00 GMT"
+    },
+    {
+      "title": "Trump Fed Warning Spurs Crypto Price Surge Toward $4 Trillion As Bitcoin, Ethereum And XRP Suddenly Soar - Forbes",
+      "pubDate": "Sat, 12 Jul 2025 11:30:47 GMT"
     }
   ],
   "taxes": [
@@ -3651,6 +3643,10 @@
     {
       "title": "Microsoft and OpenAI's AGI Fight Is Bigger Than a Contract - WIRED",
       "pubDate": "Fri, 11 Jul 2025 12:11:00 GMT"
+    },
+    {
+      "title": "Google Brain founder says AGI is overhyped, real power lies in knowing how to use AI and not building it - MSN",
+      "pubDate": "Sat, 12 Jul 2025 13:17:23 GMT"
     }
   ],
   "ancient_history": [
@@ -3705,6 +3701,10 @@
     {
       "title": "AOC Calls Trump \u2018Rapist\u2019 in Brutal Epstein Files Crisis Dig - The Daily Beast",
       "pubDate": "Sat, 12 Jul 2025 06:49:00 GMT"
+    },
+    {
+      "title": "AOC calls Trump a 'rapist' amid Epstein files fiasco - Daily Express US",
+      "pubDate": "Sat, 12 Jul 2025 14:06:06 GMT"
     }
   ],
   "electric_battery": [
@@ -4267,6 +4267,10 @@
     {
       "title": "Depleted Hamas focuses on desperate new aim: capturing an Israeli soldier - The Guardian",
       "pubDate": "Sat, 12 Jul 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
+      "pubDate": "Sat, 12 Jul 2025 13:47:00 GMT"
     }
   ],
   "history_of_the_earth": [
