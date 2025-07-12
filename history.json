@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Trump plans to sign the tax bill Friday after House passage - The Washington Post",
-      "pubDate": "Thu, 03 Jul 2025 23:11:59 GMT"
-    },
-    {
       "title": "Trump signs executive order calling for foreign tourists to pay higher national park fees - CBS News",
       "pubDate": "Fri, 04 Jul 2025 01:45:00 GMT"
     },
@@ -689,16 +685,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Will artificial intelligence outsmart humankind? - China Daily",
-      "pubDate": "Thu, 03 Jul 2025 23:37:00 GMT"
-    },
-    {
       "title": "Artificial Intelligence and societal decline - meer.com",
       "pubDate": "Fri, 04 Jul 2025 05:01:24 GMT"
-    },
-    {
-      "title": "Artificial Intelligence News for the Week of June 20; Updates from Campfire, Databricks, Precisely & More - solutionsreview.com",
-      "pubDate": "Thu, 03 Jul 2025 23:46:16 GMT"
     },
     {
       "title": "Minister demands overhaul of UK\u2019s leading AI institute - The Guardian",
@@ -1491,14 +1479,6 @@
   ],
   "us_economy": [
     {
-      "title": "What have tariffs really done to the US economy? - BBC",
-      "pubDate": "Thu, 03 Jul 2025 23:03:53 GMT"
-    },
-    {
-      "title": "Jobs Report Live Updates: U.S. Hiring Remains Solid as Unemployment Rate Falls - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 23:59:06 GMT"
-    },
-    {
       "title": "Trump\u2019s Medicaid cuts are coming for rural Americans: \u2018It\u2019s going to have to hit them first\u2019 - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 11:02:00 GMT"
     },
@@ -1564,10 +1544,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's foreign minister tells EU that Beijing cannot afford Russia to lose in Ukraine, media reports - The Kyiv Independent",
-      "pubDate": "Thu, 03 Jul 2025 23:06:41 GMT"
-    },
     {
       "title": "China, U.S. Speeding Up Trade Truce, Chinese Commerce Ministry Says - WSJ",
       "pubDate": "Fri, 04 Jul 2025 04:37:33 GMT"
@@ -1772,10 +1748,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House sends megabill to Trump\u2019s desk with $150B in military spending - The Hill",
-      "pubDate": "Thu, 03 Jul 2025 23:45:00 GMT"
-    },
     {
       "title": "AOC Warns of ICE 'Explosion' After Trump Bill Passes - Newsweek",
       "pubDate": "Fri, 04 Jul 2025 03:02:51 GMT"
@@ -2656,10 +2628,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "How the record cuts coming to Medicaid could devastate California health care - San Francisco Chronicle",
-      "pubDate": "Thu, 03 Jul 2025 23:08:13 GMT"
-    },
     {
       "title": "\u2018Tears My Heart to Pieces\u2019: North Carolina Braces for Medicaid Cuts - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 09:01:05 GMT"
@@ -4565,6 +4533,12 @@
     {
       "title": "HSBC departs Net-Zero Banking Alliance, following US banks - ESG Dive",
       "pubDate": "Fri, 11 Jul 2025 16:46:24 GMT"
+    }
+  ],
+  "polling": [
+    {
+      "title": "Support for Immigration Rebounds as Trump Cracks Down on It, Poll Finds - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 22:58:56 GMT"
     }
   ]
 }
