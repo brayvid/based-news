@@ -1,72 +1,62 @@
 {
-  "Donald Trump": {
+  "Geopolitics": {
     "articles": [
       {
-        "title": "Trump authorizes Ice agents to protect themselves using \u2018whatever means\u2019 necessary - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3kyM08wWVBBMmJfdVlzdWdvRnoxR3FHN0J2OUtkV0xwMDIwaGJYcGVjT1dwbGR3N1BuTG1lWFh2LTRqMWFxaE4xdEpaN0w2c0dzOEN0Z1EzaXVPS0hQQmRBWWVBekRKSHZ5ZklmY2twMmZzWUJlV1pURFFta2U4WC1mWnpHTmtyMzhRWmg1bTgyOWh6V2c?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 14:28:00 GMT"
+        "title": "US demands clarity from allies on their role in potential war over Taiwan, FT reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWZxVmc3TUpySXV4bmt6Y0YwSGxyVWFCYnhPUWtYY1N2c3lWR2cwTTRSOTRZa2ZVWVg3U3FIcFltb2wyT0pPYllIZlFYOUNVMno1OS0zNzR4N2RqMEV6ekFEcFc3clhLQjZSUE5qcmRMTmx0cVYwUlBjd1lTZlR4VVFtbHJZX3lDX1BIeVNET0xrOVFPYUNhd1NIOGdrYTJKVWFvMEJoMm1aVTdXanM2VjNabVFCal9TdmJfWTJn?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 16:06:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
+  },
+  "Planetary Defense": {
+    "articles": [
+      {
+        "title": "A giant asteroid could crash into the moon in 2032 and send debris toward Earth - Elcabildo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeC1wSDVWRUtyUm9zTUw0RmZVeU8tak1oYTBFc3hPYV9jd1JtTF9fX0JpU3dEa0hGWUZFTk1LQ2FVOGNxcXBuWlJkV0V4UHNEUmxQMU9kMDdrTElzbmZZMklhODcyYmV6ZzVNRFQ3MVdYSEFjVVJ6alNEc19Yb2JFTVNNQ3B6SUMxaVZPWkFDNnkzYjBMX2NzMHdOeF9RY1dGa2tLeURlTlY1Y0dsVlpfVFRXWmpXQQ?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 12:05:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Israeli jet malfunctioned above Iran, narrowly averted emergency landing amid war \u2014 report - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN3RqbjJfQl9pbzFvNTNPSG1nejM3V0lJMzhqY3lVSHVRemhGT1U2dU5FdU52RmZ0dnZoNUV1YnR4QThuV0tVNnJfdndoV3NqX3RSekJrRUZYd3NXOERZODB1dDBLcXluQWxlM1NOTEZLNE5Pc2E2N1B2WHB3SzRnb3d0U0JuUUVWZFVEVnNUekE2bHJUelpVZWwzam5lbU00MXVZRmF5bWxiRTZJVGFoNWs0Z3R0bUNfTVBHQzhNSVRvTDZyZVV5R1dUcXUxUQ?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 20:08:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
   },
   "Gaza": {
     "articles": [
       {
-        "title": "Gaza truce talks faltering over withdrawal; 17 reported killed in latest shooting near aid - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZl9VdTV4YkFpQzBSUlRNS29kOGFNMFhBR0NGNm9TemxuTVRobE5SZTg2ZzY1TGl2NU5xS0tfQWlaOXJmZG5hU0pYVDFycXBnMzJEaUQ3enJPUF9DU2UtZEpPcHVjaEhtWF96dmZsd0IxSUJBMi02SVRtSVVfRG5ySWNhS2pwMWJ4b1pSU21IVGdwRy1rQl9LaDd2VVMzOVF0Q0hjT3R2aFZSX25SRTBQTmp3MnRDckpZckV1MllJVFJGQVRYXzlj?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 19:12:39 GMT"
+        "title": "Battered but not beaten, Hamas embraces guerilla tactics with deadly force - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkdlTFFtazl1ZmdMMDJ5Q0Q4LWZmWk12enJGTXVrNVVjUEZBRFlRdDZMNVpnZUNHUC1tVDJvcmZNNHFwUm14TkRzN0p6QWtiNkl3c2JwZjhST1NyM0dPQllEa3RYSm1ZSVlEZEpsMHJfWDNmdUJpbk5JdGY3bFpTUnJmWXZZMzNv0gGOAUFVX3lxTE5YdlRXbXFHRzd3V1UyWV9RT0JXdjk1V0VmLW9jSDhtUDRfdHpqdkd4bUEtcVFEUW5OU3p5a3lHVldvSnRFQ09aaE1ROE8tX3FPNkxhUlhWbFhIMkltT0t2bGdxU0g1aUY4eV9rZzhKTWtuVXdxMXhVUGNTSXlydl9VcGdxQ25vaFdObHprTUE?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
   },
-  "Democracy": {
+  "Department of Homeland Security": {
     "articles": [
       {
-        "title": "EU warns Georgia it will use all available tools if authorities continue undermining democracy - Ukrinform",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXNaWGVwX1NfaURFcVp1bmMxYWNkYW1QLV9xWFNpNEZQa2tkYnlXOEJxOUF3aFhfdGF5bzBpd29wcXlTblpwMmFudFE4SDJ4ejc5djFTdWVzZWhfTmgtbmJtM2Zsd29Yd3ptV2dRMEtsUm1Rcnp4RGN6Y0NlNWJMRXhFWm9sdU5WbXpmTWVKODBOY1p6VUU2TVAtZktTY2s3WTJLWUFxTW9wT3VZVW1QWmxTWVhEWWNienozeEdqcXVqQlFlbVc5ZktEQTJSX3lvd3htUFo3bm9sdWlt0gHiAUFVX3lxTE9tTzJ5RWFHLXBRM3ZGVUVwLU44dGFXM1NTMzlWS0ZjSHVHaU94OUhIXzNRN0RQTEtkeVk4T09aQ2JMS1RFcUNlU1ljZTk0YlkzQWlTeThCQlBoWUdvUjhZTTdGbG5UZ3BzMjlIcXh1M0puVXl0S1UtU3M2clZjLXFvTkxqenZoa09ESmpQc01fMU92YTJRWFJSY0hOcWZDOEx5cmNhbUJXUWhBaVJCNHhDZEpaZENBWGNTbzZiOUFISEJZaXpnRmI3b0E4c2xSTHQ2dHpCYkFaZGt4eVIyQ2ozakE?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 09:20:00 GMT"
+        "title": "DHS Secretary Noem vows to ramp up deportations with funding boost from Trump\u2019s domestic policy law - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGVWaVFZS0hJejJXZW9ZMzVJaS1veko2Y0hFdTZZR1JqSm5jQ21LY0RKRndDYVJJMUNPd2Nrc0VJMFdPTXA4TXdZOVpIMW9JOU53S0kzN1lEcmhhV3lWUEZqYXhKV3JqX0hOUkVwdjNwQ0hONjhDaWdrd2puM2NiddIBhgFBVV95cUxNc2FqRjFVbU4tNkhIVXczcjc4Zi1yMzBtQVJqeHlYekNIVE5rd3lIdkhnRkdSekE2YzN2Mlc3c3BNY0JxOTdDNGJMelBlZGdJNkNVaXV6MVFDTkNQbHBlSnhsVXlFb3ktblVPMlMwWmJKZUEycmlUc0dpVG5TLVhVTk5MeGdjdw?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 20:22:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Pressure mounting? Jerome Powell may quit over $2.5 billion US Federal Reserve's Washington HQ \u2018scandal\u2019 - Mint",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTI1WUxCY2diaHhKeEhLMUFqdmhRLU9SV3RsZWxaNEdoNjJhT3A2NHZvR09DVkhFeDZyb0c1andld1RvMkxoYXo1b1pYUWZ2QTZsNWNBY1dWNmFDOEdBWjk0N0tybm1NNzBYUWtkdG44NlFaUXpxcDh3UFJsQ3c3NnlGVVMwOTZIck9STHhuaWY5U3lsbTB3dHZMVnJ1N1NETUJpeWpUb2YxRk0td0tsRkVsM1loWFRSTXVVa3lEX0ZPZ05zaFFGaUdpc3VTbEgxQlJ3N0dzS2M0VTdyN1VBSzRFcDlqNjFTUXE1UndR0gHzAUFVX3lxTE1ieUs3ZFFCT21FRkZTME40bUVzVUN4TkpVY0hjSEdTVThiUHNNZHJJaDI0ejBPRl92Yzh3S2pIaDhOR1VBbHMtSnh1Q2lrUEVRdkl6YTRKczYzWl9EOXdPaGw4TzROSHhRV25LbmQ2MXBWZEtEWWR2Y2lyOHFydDh5djBHXzBJM1FuNnVHNXVlV3ZrX2llc0c5MDRsTHlpRGJRcXB4a01PdjFMb2xGdDQ4cTVxcEdwZFE2Yy1iRDJmdzdFNW5iZk1lTDlwQ3lmNEFyckR6bkZ1YWlLcGFCel85blFueWczZXFyclFiTFY3Q0hrTQ?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 18:18:08 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Scientists transplant crossbred corals to help save Miami's reefs from climate change - niagara-gazette.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVnNQY3VWcVcyeHI2R0VrbXBNb2lIdDJLcV9wQWRJNVlxQWM0MGdESnlubkRSQjkyV1FiaUNGUi1lQWpZU0FnQUVCd0ZJU0xVdUxjX3JWT1VISDdzZ2NTU3pQUFV0bmc3T0Z2WWNMVWFrX2FpOTFEZXA4SXFldmloa1dNbktQNkx0WEw1T0xqckZGVjhvZEZBWHBKUlZ6QkVPV3E3OG5hbldnSEFlQVBRNkM0Uk1LNkZjT0xhTHNMWjVWSXBnbmFObTByRmdDOW9faGZSM0NhV01YVjZVWnRCZEo3V0RLVE1OR0ktR0JRQ2dQNVEtVU1XOHlOa2tLSHRr?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 18:45:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
-  },
-  "Kim Jong Un": {
-    "articles": [
-      {
-        "title": "Russia says foreign minister Lavrov met Kim Jong-un - The Korea Times",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmJhX0MyVkEwZUxyWGJoVUJJR3ZJa05MbF83Y29uLVBOVElsWmhLLUI0ZHR1N0JnTlhMcmRSWW5WMzdBZ0hCTnU4X1ZFSnVDckliU3hfQWVoRFNONF9NWDRBd1duLWVueGFWSmNCUlFmLXczLUlqR3haLVdybXNpMFh2OG1ZUTNiTjEwQWJYeHVKVUtKTHhqN25rUGZGYnVFZ0RaZnRXM1FHSV90eV84dGw5c29jZw?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 11:40:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
   },
   "Cybersecurity": {
     "articles": [
       {
-        "title": "Patient information may have been compromised in St. Joseph Hospital cybersecurity incident - WMUR",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUU0SEp5amowQ0VyN1RxbXZ3QnVhLTlmeTBWX2p5bzdnN2pzeDQzeUFpUTBZc2R2V3RtZl8tY2E1Ymp3YWdKR0h0cF9WTnBKbW9temw0eGtzdnR4TUJyOFpYaTFwZXhEbkNiLTlGTTlkNzF3eW5tanpzc0diYVBXNTJXMDZsM2xsd1dPSnE2T0hHZzR1VGlJaw?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 13:59:00 GMT"
+        "title": "Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjJIOUdFcjFuZmNZQm5NNkVBUjJKcXdEUXpLeU5NMmRQczdvVGJ3eWhwQ3QwODVHdWNaUHZfWUhxNXRPdDZpdXQ1WGx4TVZKZFozOUg0N2dyamdiUko1TFV6SVJ5ZS1jdUwzdjFkRmtVQnozUm5GZU5mSXdUcHNrSmg1U1k?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 12:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T20:00:18.741527+00:00"
+    "last_updated_ts": "2025-07-12T20:59:53.051633+00:00"
   }
 }
