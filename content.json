@@ -1,72 +1,32 @@
 {
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump threatens to revoke US citizenship of longtime critic Rosie O\u2019Donnell - Politico",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUJYbHU3VmU4Zk5DVXVPQmc5a0Z1amI1ejFuWTRmWVNLc0p6c0p4ZkFhekFyLUJmMDJ2VWxjWTdIRG9jc2FWenBIZDBVMnV5R1piNXdYc1pFcGxLMDFiS2lZVGl1M2ZOdFloMnJWZzBGYnNfelFmbmFrYjQxSEV4V042N3RTU0FyYmJjemZlMTlnZms?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 16:12:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "LIVE: UN says 86 percent of Gaza under Israeli forced displacement orders - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzcxVTNnVTdtLUdzNGVGZ3JtdG1UbnhSdGVpbDdFOUx3akVpb0VvREtWMXNmV2x1ekRNcG1pZHNyQjNVbVgzc1JlR2F6ZW5aaUlsVWM1N3pRZWhPTlRsUzVTRVg5a1N1VjY4RXlFaXVtMU42SmZGLUxZUlplVFRqYW9fMjRDTmJwYlFFOFY4cXdqNDRVSnNzMUZGUnIzNUk4cXRlSm1uVVFOTTBWTEFTM1NzQdIBuAFBVV95cUxNY0VTSkl3cVJZdktYWVp5N21uZHhiQVZGUHJDNUl0QThndjlYUVM3YWJZV05za2VIbHdMZlN4bHFLUGthMmVlMERsUUp5bDNhdDVsUk1YSm9MX0RaQjVzT21aZlNUbVJzTGNkdFpILVhoX2tQNVlCQkhhNHhSS2NNOEQ1SkN2cHN5STZ3N0gweE9kcGlrMVRETXFDU05JRzc3dGpnUWpBRVgzdlk5Sm5ONDk5N25IM2J6?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 16:20:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
-  },
-  "North Korea": {
-    "articles": [
-      {
-        "title": "Russia's Lavrov meets North Korea's Kim, praises ties as 'invincible brotherhood' - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczB0N0t5MFlMZHRFTlMzbDJaVXNxeWJWRnpCT0t5SEY2QWZPX3dZa2hDaGlJdWtBcDlCN2NLeWo4OEd4V0huRTZUVGFveW5jdzFUWm1ZYmVqd0pFblQxaXYyd3pUQ29hS0pTaTdoNXRySE5TR2NUSGlaZmxGRGFReXdyQUswYWMtZkVBLWRQWk5ySEMybjIxNWN4N25kZjR1SXRpVw?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 16:33:59 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
-  },
   "Trade War": {
     "articles": [
       {
-        "title": "Trump hits Mexico and EU with 30% tariffs, escalating trade war - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDVDb1hnR09HUlZyZ01oMTJDcGR5SElTSkljTjhhQ1F5NjZxMmFYNGFheUZObTZMYW0zQl9EQzVSVF9LTU4zNEMybDYyU0NCbHBWTW10VDVJLW85aWhRVThkbzJZamdNS21KTWRhaVREME5sWGk4X3pTZUFfaWZWekctNmJBNFMteEIyRFdPWXh1eEdtZXlILTllM1kzRWRMZ25vZWJZcTRkMF9VTHZIbmFCN0rSAbQBQVVfeXFMTU5PY0haUUZtTUEwMl95aGdjR2lsaThxTTJBNHpsS3hKYmJDeWl0UFZwTXBmYmZ4eFdhT2psS1luNmN1akxiM3lBYlhBUnRyUU5UalpRYjU5a0w3UEc0U3pheTNVUEJTSk9CZEJoSS0xRDFBbC1MX0l3dlVmcVJTMUMtWlVUVXNfQ3hrdGU2ckN4M1dqR0RvLUloYjA4QThXZ2Y2dzFjQkpzV084UGhCN3N2b0dG?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 17:54:25 GMT"
+        "title": "Trump Announces 30% Tariffs On European Union And Mexico As Trade War Ramps Up Again - HuffPost",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNczE0RnRoa2Zic1FaUWVqRkRReXhoLW1NSUd2TEZQbHloQzBGdkRQSGdMM0FlVGlET3FnaXZEYUc2SEhubGstX0NxSXZrc0ZacGwydzA3Q2ZTSGJtcnY5UXZxeGpKRjlGQ2lpWHNTcEpFZzVrSTZ4cDZnSU01eTRKZDhXN1FoR3F4TVpxMDZNYkdtRW1OdGlwNFBZejVoVEZRRWpnTnVOZjJ3c1g5V2RMU0Njb0d4bVhEZUJnWEFycm1FdW9jTjFpd1ZSdU5NcmNzc3Vpc21OTEXSAd4BQVVfeXFMT0JWaWF3VXVraGVsc0tXNkRLRlR4aGpaNzczVnN2V3VPeURORDBkSlhEZ2ZrM2llUXdQSFNDS3hDNE0xTVgtRWw5NTdIR3dtV2JHanlFeFExUFNLNFJiMXp1Rm5rM0xkNHpTdndsV3VyNTBSRUtfbFJmWXNDVVYwenlFLVJaOV81YkVvTjdheUI5TDhzdm1hWnVucGlJa09yd2hjRU5HcEJ5bkxWbzdMSjJ0QzNuRDR0bXpIV3ZTY0Z6dl9iWjN5LXUxd01IVlNYV01wOEk5X1hEU3h1Sktn?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 13:19:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
+    "last_updated_ts": "2025-07-12T19:00:18.909920+00:00"
   },
-  "Atlantic Ocean": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzVwOFlJcG84ZkQtcGxmbW9YRWRzdUdUVnlXcmtiNWhKNUl4V0w2dzdfZTBVMGIzTS1EYzZsZDJTZzhicmU3TVBxWTFwZlVyUk5DSGpLNlBWLUhnNUg4S3hfMUIxNU9TYUJsRFlHaFE5S1JCdm1uODBfQ2oyNXQ3eQ?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
+        "title": "Federal Reserve quietly responds to Trump administration attacks over renovation - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXFubm90ZURnMDl1TnBvZVJIRVNxQmhoZjRFaWpXaURzNmdHTjNfbnY5VE5jVXN5bWhCUjk4TXMxV09BQWJZWEJIOFJFSTZkYnM3VHJ6T2NsNUlQMDRzX1lsQTNzSmFvTHlCY18tMXpaUzFSVUY4ZXdjRzdIdERtMHM4d9IBiAFBVV95cUxNVUFJWm1SVmF0UFJNVE14X3ZnamtxcW1iSUJrSmZYME5NMTJDS2xRakpaUUlOQ2Z6QjRNWTZRT1pnZGdyb1RRWmlpZ2ZQS0Vpd2hPOHEzTVFtMnBYUGpDQmpvYnRJWDNNZF9sd0VwbHNkNG92ZHRFQ3Q0ZHBSTmI4dkJpR19jZncw?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 18:28:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
+    "last_updated_ts": "2025-07-12T19:00:18.909920+00:00"
   },
-  "Data Breach": {
+  "Volcanoes": {
     "articles": [
       {
-        "title": "McDonald\u2019s job app exposes data of 64 Million applicants - Security Affairs",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGpIUW85MS1rWFBmRmxLMTZtaHBZczlEc0paOXQxTTJwSmt3aTZxcGpCc3lvLVViZGdCb0pieVYwaDVlUlliZ1VUMGt2eVB4S25TcEcyUV96dFdSdUJock9OVXhIOGFOYndXYnUwX093YjBZSHQtUlN5aHgzanpOM1RTdXlmbzc1RENCb2t4elBmaVVXbTUtSXhJcXNuWVdIU25UcXNR0gGrAUFVX3lxTE5Fb3BHVU5HTnlNYUx6SHlPYkVHekxuLXlkeUh3RWlwZXpYRkNiZXRkQnlpZTkxYjFkeE81WTJtR2RDNE01cGx3V0kwVUh6RUZwWkFFdGx5V2NLbzl0bmcxc1l2dk5VMDV0ekdUaFo5NnNqWUxGcEVJUmJHU0hYWkFuUzVCY3lwaUtZWEVSclVxMnRvLUFncTNRa0t1QlZoSVVUUkpsTHFpM1l6SQ?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 17:10:29 GMT"
+        "title": "Iliamna Volcano in Alaska \u2018rumbling\u2019 after being inactive for a century - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQempHUkhWa21qZnUxMllLZG0tQm5mVmsxWXVETGVubzhYaVI1anZIYjdZOUVnT3UtLXNja2JpVmtmeVliZFE3Qjk1VXMxRkkxQi1yZGJDS1VaeWpNTDI1b0hlUDZnXzJMdlpDUWJrdGZhWkZ6bDV4R3NOWWpQUmlBTHF6TlVSZDA5bHE2b3pxY9IBlAFBVV95cUxNcTY5M09DX1ZuUkdqeW45MkVzOVB1Y3lZd3N2QUw0eUU4WDk1MzRSX2hDY29aTkw2ekxWVHNfeWxpVlU1RUFkZEtoSGN0cTZIY0Z2VHlpd3NMcWlkMmNpVVF1aWZ4ODhwWTdPYTVtd0xVQV95YzhrbVhNaGJDMlgtTXR4VGRKZEEzTGx1clFYdDhCOUlF?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 11:55:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
-  },
-  "Artificial General Intelligence": {
-    "articles": [
-      {
-        "title": "AI outsmarted 30 of the world's top mathematicians at secret meeting in California - Live Science",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUhGbGhZMi1SMmtfRmNOVUMtTW5WMTFRNGtXck5YQTgzOU01dVVrSlBlNDdPN1ZKb3pVTW50b0NYWEpVTGdRazREbm04TjN0c3BkcW9mcExhcExBYzlOY3NiSzQ3UlMzSHdPWGxzVWRPOUx5clZnazd1WXVGQnVZMF9uSnBFbmVYT3V3SmNOWkxwOVNZclNWUGN2ZUNfRE5xZDdwOXVhekxOaVk3M1VXckJmZnlJOE0xZnlWN0ZKOTFLUDVsU3lpZTNmclNKd1lHbUltVXdyeXpZT1BQ?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 13:51:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T18:00:15.351605+00:00"
+    "last_updated_ts": "2025-07-12T19:00:18.909920+00:00"
   }
 }
