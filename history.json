@@ -89,18 +89,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Administration Live Updates: President to Sign Sweeping Domestic Policy Bill Into Law - The New York Times",
-      "pubDate": "Fri, 04 Jul 2025 16:05:02 GMT"
-    },
-    {
-      "title": "Trump to sign tax-cut and spending bill in July 4 ceremony - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 16:40:11 GMT"
-    },
-    {
-      "title": "Trump to sign his huge tax and spending bill into law - BBC",
-      "pubDate": "Fri, 04 Jul 2025 16:59:09 GMT"
-    },
-    {
       "title": "Trump threatens 17% tariffs on food and farm produce exports from Europe - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 18:50:00 GMT"
     },
@@ -111,10 +99,6 @@
     {
       "title": "Trump signs his agenda bill, with a flyover and fireworks to mark the occasion - CNN",
       "pubDate": "Fri, 04 Jul 2025 22:46:00 GMT"
-    },
-    {
-      "title": "Trump signs \u2018big, beautiful bill\u2019 into law at White House ceremony - WWNY",
-      "pubDate": "Fri, 04 Jul 2025 16:17:00 GMT"
     },
     {
       "title": "Trump signs \u2018Big Beautiful Bill,\u2019 his sweeping policy legislation - The Washington Post",
@@ -625,10 +609,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Bombshell Research Finds a Staggering Number of Scientific Papers Were AI-Generated - Futurism",
-      "pubDate": "Fri, 04 Jul 2025 16:00:50 GMT"
-    },
-    {
       "title": "Google hit with antitrust complaint in EU over AI summaries harming web traffic to news sites: report - New York Post",
       "pubDate": "Fri, 04 Jul 2025 17:05:00 GMT"
     },
@@ -902,10 +882,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "A physically consistent dataset of water-energy-carbon fluxes across the Soil-Plant-Atmosphere Continuum - Nature",
-      "pubDate": "Fri, 04 Jul 2025 16:22:46 GMT"
-    },
     {
       "title": "Earth\u2019s Climate May Be More Fragile Than We Thought, New Study Warns - SciTechDaily",
       "pubDate": "Fri, 04 Jul 2025 22:50:04 GMT"
@@ -1383,10 +1359,6 @@
   ],
   "us_economy": [
     {
-      "title": "Trump says Powell costs US $900B a year in interest by not cutting rates. Is he right? - USA Today",
-      "pubDate": "Fri, 04 Jul 2025 16:27:02 GMT"
-    },
-    {
       "title": "The Warning Signs for Russia\u2019s Economy Are Flashing Red - WSJ",
       "pubDate": "Sat, 05 Jul 2025 03:00:00 GMT"
     },
@@ -1432,10 +1404,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
-      "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
-    },
     {
       "title": "China Warns India to Choose Its Words Carefully on Dalai Lama and Tibet - WSJ",
       "pubDate": "Fri, 04 Jul 2025 18:06:00 GMT"
@@ -1624,10 +1592,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Megabill hits health care for immigrants, including legal ones, hard - Politico",
-      "pubDate": "Fri, 04 Jul 2025 16:00:00 GMT"
-    },
     {
       "title": "States Brace for Added Burdens of Trump\u2019s Tax and Spending Law - The New York Times",
       "pubDate": "Fri, 04 Jul 2025 22:15:25 GMT"
@@ -1963,6 +1927,10 @@
     {
       "title": "Trump announces 30 percent tariffs against European Union and Mexico - The Boston Globe",
       "pubDate": "Sat, 12 Jul 2025 13:48:10 GMT"
+    },
+    {
+      "title": "Trump Announces 30% Tariffs Against E.U. and Mexico, Citing Threats to National Security - Time Magazine",
+      "pubDate": "Sat, 12 Jul 2025 16:13:18 GMT"
     }
   ],
   "cybersecurity": [
@@ -2051,10 +2019,6 @@
     {
       "title": "Hamas to Submit Response to Gaza Cease-fire, Hostage Proposal Later Friday, Diplomatic Source Estimates - Haaretz",
       "pubDate": "Fri, 04 Jul 2025 18:43:00 GMT"
-    },
-    {
-      "title": "LIVE: Hamas sends \u2018positive\u2019 response on ceasefire, Israel kills 50 today - Al Jazeera",
-      "pubDate": "Fri, 04 Jul 2025 16:33:41 GMT"
     },
     {
       "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
@@ -2707,10 +2671,6 @@
   ],
   "asteroids": [
     {
-      "title": "A Once-in-5000-Years Lunar Collision Could Cause Catastrophic Impact Visible from Earth - The Daily Galaxy",
-      "pubDate": "Fri, 04 Jul 2025 16:06:00 GMT"
-    },
-    {
       "title": "A massive 65-foot asteroid to skim past Earth at high speed today, NASA confirms - Moneycontrol",
       "pubDate": "Sun, 06 Jul 2025 01:30:32 GMT"
     },
@@ -2767,6 +2727,10 @@
     {
       "title": "Financial Giant Handing up to $5,000 per Person in Data Breach Settlement After Names, Social Security Numbers and More Exposed - CryptoRank",
       "pubDate": "Sat, 12 Jul 2025 13:18:07 GMT"
+    },
+    {
+      "title": "Nearly 49,000 Granite Staters impacted by Hannaford's parent company data breach - WMUR",
+      "pubDate": "Sat, 12 Jul 2025 15:28:00 GMT"
     }
   ],
   "technology": [
@@ -2786,10 +2750,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
-      "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
-    },
     {
       "title": "Bitcoin Surges 118% Since September 2024 Driven by Exchange Outflows - AInvest",
       "pubDate": "Sat, 05 Jul 2025 08:22:25 GMT"
@@ -3625,6 +3585,10 @@
     {
       "title": "Major Finding on Beloved Egyptian Queen Rewrites History - Men's Journal",
       "pubDate": "Mon, 07 Jul 2025 17:05:45 GMT"
+    },
+    {
+      "title": "Scientists discover a prehistoric animal that lived on Earth 259 million years ago - Earth.com",
+      "pubDate": "Sat, 12 Jul 2025 15:39:51 GMT"
     }
   ],
   "earth's_magnetic_field": [
@@ -3855,6 +3819,10 @@
     {
       "title": "Russia warns US, South Korea and Japan against forming security alliance targeting North Korea - KSAT",
       "pubDate": "Sat, 12 Jul 2025 09:24:53 GMT"
+    },
+    {
+      "title": "Russia\u2019s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore - Al Jazeera",
+      "pubDate": "Sat, 12 Jul 2025 12:11:59 GMT"
     }
   ],
   "finance": [
@@ -3913,6 +3881,10 @@
     {
       "title": "Solar becomes top source of electricity in California - pv magazine USA",
       "pubDate": "Wed, 09 Jul 2025 11:39:45 GMT"
+    },
+    {
+      "title": "The solar battery rebate has arrived \u2013 here\u2019s how to steer clear of scammers - The Guardian",
+      "pubDate": "Sat, 12 Jul 2025 06:40:00 GMT"
     }
   ],
   "war_and_unrest": [
@@ -4015,6 +3987,10 @@
     {
       "title": "American children's health has sharply declined, report finds - CBS News",
       "pubDate": "Tue, 08 Jul 2025 23:19:00 GMT"
+    },
+    {
+      "title": "Researchers Reveal Surprising Health Benefits of Watermelon - SciTechDaily",
+      "pubDate": "Sat, 12 Jul 2025 14:37:23 GMT"
     }
   ],
   "earth": [
@@ -4347,6 +4323,10 @@
     {
       "title": "Air India plane's fuel switches were cut off before crash, report finds - CBS News",
       "pubDate": "Sat, 12 Jul 2025 00:42:21 GMT"
+    },
+    {
+      "title": "Air India crash report shows pilot confusion over engine switch movement - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 16:34:59 GMT"
     }
   ],
   "oceanography": [
