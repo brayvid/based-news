@@ -375,10 +375,6 @@
   ],
   "russia": [
     {
-      "title": "Russia's all-night drone attack on Kyiv injures 23, Ukraine says - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 05:41:00 GMT"
-    },
-    {
       "title": "Russia welcomes Trump\u2019s cut to Ukraine\u2019s military aid but it could be deadly for Kyiv - CNN",
       "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
     },
@@ -473,6 +469,10 @@
     {
       "title": "Russia Sees France as Its Main Enemy in Europe, French General Says - The New York Times",
       "pubDate": "Fri, 11 Jul 2025 21:15:51 GMT"
+    },
+    {
+      "title": "Russia\u2019s Lavrov in North Korea for Latest High-Level Visit - Bloomberg",
+      "pubDate": "Sat, 12 Jul 2025 04:43:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1443,10 +1443,6 @@
       "pubDate": "Fri, 04 Jul 2025 11:13:19 GMT"
     },
     {
-      "title": "Trump\u2019s Big Beautiful Bill explained: What NRIs need to know about remittances, rentals, and property investments - Hindustan Times",
-      "pubDate": "Fri, 04 Jul 2025 05:03:11 GMT"
-    },
-    {
       "title": "Trump says Powell costs US $900B a year in interest by not cutting rates. Is he right? - USA Today",
       "pubDate": "Fri, 04 Jul 2025 16:27:02 GMT"
     },
@@ -1885,6 +1881,10 @@
     {
       "title": "State Department fires remaining employees who worked on climate change - The Washington Post",
       "pubDate": "Fri, 11 Jul 2025 19:45:49 GMT"
+    },
+    {
+      "title": "US State Department begins layoffs in Trump\u2019s shake-up of diplomatic corps - Al Jazeera",
+      "pubDate": "Sat, 12 Jul 2025 01:13:55 GMT"
     }
   ],
   "trade_war": [
@@ -2124,14 +2124,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "LIVE: Israel intensifies Gaza attacks; Hamas seeks ceasefire guarantees - Al Jazeera",
-      "pubDate": "Fri, 04 Jul 2025 05:26:43 GMT"
-    },
-    {
-      "title": "As sides await Hamas response to truce deal, Trump said to offer personal pledge to end war - The Times of Israel",
-      "pubDate": "Fri, 04 Jul 2025 05:37:30 GMT"
-    },
     {
       "title": "LIVE: Israel expands Gaza no-go zones, kills 138 in a day - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 15:39:40 GMT"
@@ -2473,6 +2465,10 @@
     {
       "title": "Linda Yaccarino steps down as CEO of Elon Musk's X - CNBC",
       "pubDate": "Wed, 09 Jul 2025 14:44:49 GMT"
+    },
+    {
+      "title": "Elon Musk Updated Grok. Guess What It Said. - The Atlantic",
+      "pubDate": "Fri, 11 Jul 2025 22:11:00 GMT"
     }
   ],
   "cancer": [
@@ -2671,6 +2667,10 @@
     {
       "title": "Trump May Not Be Done Overhauling Renewable Energy - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 19:28:54 GMT"
+    },
+    {
+      "title": "Energy Department to Gut Funding for Solar and Wind Projects - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 21:57:03 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2865,14 +2865,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin price today: steady near 109k as tariff, rate jitters offset \u2019crypto week\u2019 - Investing.com",
-      "pubDate": "Fri, 04 Jul 2025 05:23:56 GMT"
-    },
-    {
-      "title": "Bitcoin bull run could peter out in 2-3 months, says analyst - Cointelegraph",
-      "pubDate": "Fri, 04 Jul 2025 05:29:32 GMT"
-    },
-    {
       "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
       "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
     },
@@ -2999,6 +2991,10 @@
     {
       "title": "Bitcoin Breaks Records With 100% Profitable Days And Unmatched Returns - Bitcoin Magazine",
       "pubDate": "Fri, 11 Jul 2025 19:26:02 GMT"
+    },
+    {
+      "title": "Bitcoin Price Tops $118,000 to Set New Record High - The Wall Street Journal",
+      "pubDate": "Fri, 11 Jul 2025 21:19:00 GMT"
     }
   ],
   "us_congress": [
@@ -4259,6 +4255,10 @@
     {
       "title": "Israel turning Gaza into \u2018graveyard of children and starving\u2019: UNRWA chief - Al Jazeera",
       "pubDate": "Fri, 11 Jul 2025 21:33:45 GMT"
+    },
+    {
+      "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
+      "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4517,6 +4517,10 @@
     {
       "title": "Federal judge orders DHS to stop immigration arrests without probable cause - CNN",
       "pubDate": "Sat, 12 Jul 2025 02:49:25 GMT"
+    },
+    {
+      "title": "Federal judge says DHS must stop broad, race-based immigration stops and arrests in SoCal, granting 2 temporary restraining orders - ABC7 Los Angeles",
+      "pubDate": "Sat, 12 Jul 2025 02:37:30 GMT"
     }
   ]
 }
