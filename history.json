@@ -77,14 +77,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump kicks off 4 July celebrating tax-and-spending bill and promising UFC fight at White House - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 04:17:00 GMT"
-    },
-    {
-      "title": "Trump eyes simple tariff rates over complex talks, says letters going out Friday - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 04:33:00 GMT"
-    },
-    {
       "title": "Trump shows his dominance over Congress in passing the 'big, beautiful bill' - NBC News",
       "pubDate": "Fri, 04 Jul 2025 09:00:00 GMT"
     },
@@ -387,10 +379,6 @@
       "pubDate": "Fri, 04 Jul 2025 05:41:00 GMT"
     },
     {
-      "title": "Russian drone attack on Kyiv injures 14, triggers multiple fires, mayor says - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 04:20:00 GMT"
-    },
-    {
       "title": "Russia welcomes Trump\u2019s cut to Ukraine\u2019s military aid but it could be deadly for Kyiv - CNN",
       "pubDate": "Fri, 04 Jul 2025 14:51:00 GMT"
     },
@@ -660,10 +648,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence and societal decline - meer.com",
-      "pubDate": "Fri, 04 Jul 2025 05:01:24 GMT"
-    },
     {
       "title": "Minister demands overhaul of UK\u2019s leading AI institute - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 09:59:00 GMT"
@@ -1113,16 +1097,8 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine-Russia war latest: Trump says Putin call ended in \u2018no progress at all\u2019 and defends weapon supply halt - The Independent",
-      "pubDate": "Fri, 04 Jul 2025 04:42:18 GMT"
-    },
-    {
       "title": "Russia launches record number of drones at Ukraine after latest Trump-Putin phone call - CNN",
       "pubDate": "Fri, 04 Jul 2025 06:44:37 GMT"
-    },
-    {
-      "title": "Ukraine drones damage power infrastructure in Sergiyev Posad near Moscow, Russia says - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 04:56:00 GMT"
     },
     {
       "title": "Kyiv hit by barrage of drone strikes as Putin spurns Trump's truce bid - BBC",
@@ -1524,14 +1500,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China, U.S. Speeding Up Trade Truce, Chinese Commerce Ministry Says - WSJ",
-      "pubDate": "Fri, 04 Jul 2025 04:37:33 GMT"
-    },
-    {
-      "title": "China Plans Nationwide Subsidies to Boost Birthrate - Bloomberg.com",
-      "pubDate": "Fri, 04 Jul 2025 04:59:00 GMT"
-    },
     {
       "title": "China's Disappearing Generals Put Questions Over Xi's Grip - Newsweek",
       "pubDate": "Fri, 04 Jul 2025 08:04:24 GMT"
@@ -2063,6 +2031,10 @@
     {
       "title": "Trump announces new Canada tariffs, unexpectedly escalating trade war - MPA Mag",
       "pubDate": "Fri, 11 Jul 2025 12:20:52 GMT"
+    },
+    {
+      "title": "President Trump threatens new tariffs in trade war - CBS News",
+      "pubDate": "Sat, 12 Jul 2025 03:19:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -2435,6 +2407,10 @@
     {
       "title": "Guatemalan villagers lynch 5 men accused of robbing homes after earthquakes - Los Angeles Times",
       "pubDate": "Sat, 12 Jul 2025 01:15:00 GMT"
+    },
+    {
+      "title": "Scientists Recorded a Historic \u201cSwarm\u201d of Earthquakes Under Mount Rainier - Outside Magazine",
+      "pubDate": "Sat, 12 Jul 2025 01:00:21 GMT"
     }
   ],
   "elon_musk": [
@@ -3315,6 +3291,10 @@
     {
       "title": "Google Hit With EU Antitrust Lawsuit Over AI Summaries - PCMag",
       "pubDate": "Sun, 06 Jul 2025 11:44:42 GMT"
+    },
+    {
+      "title": "Google to pay $2.4 billion in deal to license tech of Windsurf, WSJ reports - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 02:34:57 GMT"
     }
   ],
   "microsoft": [
@@ -4117,6 +4097,10 @@
     {
       "title": "Ukraine Spy Chief Says 40% of Russian Ammunition Is North Korean - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 11:00:31 GMT"
+    },
+    {
+      "title": "North Korea supplies 40% of Russia's ammunition, Ukrainian intel chief tells Bloomberg - Korea JoongAng Daily",
+      "pubDate": "Sat, 12 Jul 2025 01:35:32 GMT"
     }
   ],
   "data_mining": [
@@ -4271,6 +4255,10 @@
     {
       "title": "UN says starvation in Gaza \u2018worse than ever\u2019 as Israel kills 45 today - Al Jazeera",
       "pubDate": "Fri, 11 Jul 2025 22:25:42 GMT"
+    },
+    {
+      "title": "Israel turning Gaza into \u2018graveyard of children and starving\u2019: UNRWA chief - Al Jazeera",
+      "pubDate": "Fri, 11 Jul 2025 21:33:45 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4371,6 +4359,10 @@
     {
       "title": "US, India in Talks on Trade Deal That May Cut Tariff Below 20% - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 17:55:48 GMT"
+    },
+    {
+      "title": "Air India plane's fuel switches were cut off before crash, report finds - CBS News",
+      "pubDate": "Sat, 12 Jul 2025 00:42:21 GMT"
     }
   ],
   "oceanography": [
@@ -4519,6 +4511,12 @@
     {
       "title": "Support for Immigration Rebounds as Trump Cracks Down on It, Poll Finds - The New York Times",
       "pubDate": "Fri, 11 Jul 2025 22:58:56 GMT"
+    }
+  ],
+  "department_of_homeland_security": [
+    {
+      "title": "Federal judge orders DHS to stop immigration arrests without probable cause - CNN",
+      "pubDate": "Sat, 12 Jul 2025 02:49:25 GMT"
     }
   ]
 }
