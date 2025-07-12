@@ -1,72 +1,52 @@
 {
-  "AI Safety": {
+  "Earthquakes": {
     "articles": [
       {
-        "title": "OpenAI delays launch of open-weight AI model for additional safety testing - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcU92emNSVGF6MGcxQ21mU19FbzlYekwxczUzTmpSbDNXV0ItQlJOUTZnUjJxZGdjYS1ZWEprZWo5cjROLVZrSmUtYWM3SWJabGN4MVRCcy1pRnNaSWk4d0tYazhnM1VDUkNLNWd0VDZjNFNrZXNZNGJkT3BNT2xlNmNYMV9KekVVQzVaY0lkLUVaQXNhMG54b0pTd2Z4RE14QnZBQ1JncjVGajVSZHRqYy01MEN6SGZXTFZ3VW5YR1FkanZHTGZseVNZUlZzekM1d2V6eHJObFJNYVZJ0gHiAUFVX3lxTE5OQWdYdlhaS3daaFJqeGFONWEwWjItdV8xWDFMTmNCUGQzbFZzUllUdlhicFFnMk5lU0hTSXZNdjcyelZ0TUh4d0ZwS2p3NHdRQXhlblpNYXNGRC1pTkloZ1MydnZvcURSam9rOHdpc1E4S2lSRW5IX0NhWGtWcmVGTmI0SVJZM3V0REl6R3VVWFQxamdocWxzdUwzSlpoZndHZE9QcXV0X0VNc0dlcS1FQ2MzNHpoNHA2ZF9feFktZ2d0aWpwc3YxVU1LWW1laHdiX0R4ODZQWi05S1hLTy0xMFE?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 06:55:47 GMT"
+        "title": "Powerful earthquake swarm rocks California sparking fears of the Big One - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZGNHd1Bxb0J1d0hQbUxxU0JpdzhKRXY2ekVQZEZ3d1RGX3lMVk1nbGdWSzljc1h2SExaWkplajFYT0pwWlNOWU9qLXJKVzhUWnBwdktjQm5TbXZILXBoRElURUpoTDZKdzJjOHpJeWlhVmROaXJZZkNWaXU1RDViTXRsNUpyY3pjaUUwTXZUWnBwZlpKdzBodHpzcU00cDR1SUl0Y0FTQkx5aVlhaElKU3hiVzZyek90UDdpWGsyZWtiM0FHN1pXWHItRWFzeFFfMEkyS0pBT0pzUU9YTFB3LUdQMnNEZU94dmR5SkZMaVI1aDZXUGl3ZTdHSjhqc3M?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 02:47:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
+    "last_updated_ts": "2025-07-12T08:59:23.840375+00:00"
   },
-  "Algorithms": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Paris police to investigate Elon Musk\u2019s X over data, algorithm abuse - Honolulu Star-Advertiser",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUhTMVBGVDBKMTlJaldGMUgwX0dvQTlieUJkUUp0WXZLa3B3MmVBZW5jT2ZDd0M1NU5ZMDdDTFJMWDRpQUQzc3pycVdkT2tjVk1PYUR3SzhCWEZ3aTlRMXN5TjU1VjFWRVU5RXBvRWZaQWhlVnp0dFpTNGhSUWtyLWtoREJZaDhQM3FWeHhnRHNNQXNjaXlZcGtIRHRIYmVGeE94YnNrSmh4VHVkLUFud1E3ZE16LXVUUk10S295aHU?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 19:52:35 GMT"
+        "title": "OpenAI\u2019s $3 Billion Deal to Buy AI Startup Windsurf Falls Apart - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXVZeUZEQ2sxMnpoSDZCUHduaVVHMEhjOVZYb1RENFUzYU9jcVBfUGhwRTBEZDVDTlZwYmNLSjlkRFlsdWJ5ak9ob09SeHF6Z2s2YUd5eWpwdFNQLUtWWC1zeUZaaERRRjBaOXpfMC1TREpsNDR4ak9UV1hDcDBWbjlZYXpBR2M2R21QdlJDWFdiREZwbXdzSmY2ZzJPa1dvcFJiUXJaWnJ4Ynk3ME1NZVFuZw?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 01:57:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
-  },
-  "Alternative Energy": {
-    "articles": [
-      {
-        "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemNXMENJZXZCQU0tNnlVVzBvbWt2dVF5dl9xNWtmSnJoZmpQVlZPLTItSUFCU0ctakRqeWxvc3dPM1VUMlRLZ2p2Q1ZWQ0xOSjdfQUxkanZEUzlDeHVuTFl4Q3JCYzBfbnpSajV0VF9lTDVOUmpPM0lia3Mxc3N6WDJnencxQVlITnNhTFZJQXNMN3JZS3ZEb1o3cy0yenl6ZVpB?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
-  },
-  "Bitcoin": {
-    "articles": [
-      {
-        "title": "Bitcoin Hits All-Time High as Crypto Legislation Votes Near - PYMNTS.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEloVUw4QkpaMjA5VXc5RTNxSEZiN2Z4SHdua1drSFp2UnVpSW1yeDRSOVdpNVNuV0xrSnFiazVrUlJQQmFvVDV0bkE4Tm9qbC00UnhqYlhBWlI2TEcyNUQ4RFl2NnM4NDVsZTVhMlZLVlZBTFZabkZuYXdRSTZsUEphZ3RYRDR5SFhPZWhVWkxpa3I1VDlJeHlxRl9jUzA3aXpzbmFCaHZ2eHM?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 22:50:43 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa2VLcG02dlR1YjU4bm40Sml0RVVwSG9zUU81eEFPTVNCSDdBd1RRMGJMUU8wd1hud2Y1RU9fSXF1WmRmd3FXWWlOV3poWlMzX21NNy0wSC1FT05RMzU3T0FKd000eXBpZ3RObjFma1FXUVBhYjVvRjMtdnR3UkhsdDVYWUtuR0c4UWkwUHpfT1Jua25ERzRDa1FJZ3J0cGJVeXBWUDIzZw?oc=5",
-        "pubDate": "Sat, 12 Jul 2025 06:54:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
+    "last_updated_ts": "2025-07-12T08:59:23.840375+00:00"
   },
   "NVIDIA": {
     "articles": [
       {
-        "title": "Nvidia\u2019s Jensen Huang says AI could lead to job losses \u2018if the world runs out of ideas\u2019 - CNN",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nMUNwZjJjUXB0TVAwN0NmRG4xczMyNDJYa1lCOWZhOHJKclczWkFNa3pFWDZUM2ZrV2NfNF9HSzc2emFJUjAtVlFqM3h2UHgwczhMNXdLWm1XcUxOX2diQjhOZVgzcWRNVjB5Ujc2UGt5dlROWEgxMk5rTdIBgAFBVV95cUxOWnNMRHBVRnlQankyME1XSlVtMkpGNU9TMlFhUnZWeXdudUJobXk3UXl6eXBLRTEyVUVhU19KWFhRRzNDTERRdU5PN0FWbGFKRXRRaWthc29RY2l2cTZ1Z2ZESFAzb3docXc1ek9mTVIyd1FYY29ZZEU3OVdxd1NtaA?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 21:06:00 GMT"
+        "title": "US senators warn Nvidia CEO about upcoming China trip - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHp3SU16WjIwN2cwOXd5WjVBdVdwS1l3UldEaVdhdVZUZ3pIOUZWdm03dVRjNzNoN1FUSXR4MHFjakh3X0ZZV2tUbzdhdjFicU5pQ0pSd0REMVZIYXF4ZnBzQUhxaEtuX2Q5V0x0czNwMWRzei0wYWpWUUlQRmdWOHFFdlVmYTdvWG44eXZNRlNGQ29aUEVUUUREbU5fb0YweEJN?oc=5",
+        "pubDate": "Fri, 11 Jul 2025 21:08:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
+    "last_updated_ts": "2025-07-12T08:59:23.840375+00:00"
   },
-  "Climate Change": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Examining the role of climate change in deadly Texas floods - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRtYUNCR3hTRXRUOW53U0JhS3RFQWp2MDNjNFk2OE1GdHBpUzhpdUpWMlVqUzVDMjkzczI3VUZjcEtGMXlKT1lDX2x2WEcyTElTeDFqa1RpYmlPQXltbHE1d2pwamtOTTgtekJTZThJdDMtTG42b1hVUko1bl9BTllSSjlNZUE?oc=5",
-        "pubDate": "Fri, 11 Jul 2025 20:24:00 GMT"
+        "title": "Trump surveys Texas flood devastation; State Department layoffs start - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNHY1aDdfaUtYT2hmTVJXdWwzbldobUxDdXJ3X05hekwyaUwxQ1dqRW1Sd1ZlMFBQQmtQUjJkWFFpNHBaeGxZd3RseHU0bTViN3huaDN0R2wzdHpxWFAwYTR1WVZGYldfUFZ6WElkS1ZncUp5dW9pSXV6NEtxUnd5RTI2SF9lRkx1OUViNDdIYW5FMWtZQmRVMDQzSGZGTWRraDdaNnpwZ2s3LXJiUmFmeUNQZ3hncGxKbDhhMTRaU1RiMEJqZ0pSLTVvcVp0ZjFoWDJfN9IBY0FVX3lxTE1HZDBOUWxEWTV6S1NoRXZZUTBNTGFHZkFwc3lIbVRGemwzR2R5bThiUWdVaGIwbmtueTBWSXFMQXQ5UE9EZGowd0lieHVaVktnZl91cS10MTNGWmNlcFlMa0ctcw?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 01:39:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-12T08:00:25.268183+00:00"
+    "last_updated_ts": "2025-07-12T08:59:23.840375+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Intestinal microbiome and metabolite profiles linked to chemotherapy response in breast cancer - News-Medical",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVWlrODZ5Mk1PeW9qZEtUNW0xQVRrQWpyRUNpZnRkYTFNODZDWEZIN2tPS3Utc1F5em5XV1lMbVd2VXNOd3BsNU9QT3hZNUppbUFCbHFRUVFwNE9ITVJSQlpDY0NwcDJBWVoyMlU3cWlwS2hEUXFyQ0hBTTQ5TVVhcGZ3Q0N3S1ByRXoyWDRlMUEzTV9tb2tZMnpKYmZLWVdVMlgwTzc3NmF6TWdBVDFzckZiV1NxY1ExUFlWWG1CU3c5ckRwazh4OVI4dWpleUhMaGVjWmx3cENVdw?oc=5",
+        "pubDate": "Sat, 12 Jul 2025 01:33:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-12T08:59:23.840375+00:00"
   }
 }
