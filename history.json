@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump Teases Sanctions on Russia: 'Very Unhappy' - Newsweek",
-      "pubDate": "Sat, 05 Jul 2025 10:20:39 GMT"
-    },
-    {
       "title": "Trump: China talks about TikTok deal to begin next week - The Hill",
       "pubDate": "Sat, 05 Jul 2025 12:38:00 GMT"
     },
@@ -343,6 +339,10 @@
     {
       "title": "Trump Pleads With Followers to Back Bondi in Dispute Over Epstein Inquiry - The New York Times",
       "pubDate": "Sun, 13 Jul 2025 03:03:50 GMT"
+    },
+    {
+      "title": "Trump faces a revolt from his MAGA base over the Epstein files - NBC News",
+      "pubDate": "Sun, 13 Jul 2025 01:19:00 GMT"
     }
   ],
   "russia": [
@@ -577,10 +577,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Companies keep slashing jobs. How worried should workers be about AI replacing them? - Los Angeles Times",
-      "pubDate": "Sat, 05 Jul 2025 10:00:00 GMT"
-    },
-    {
       "title": "\u201cWe Only Need a Few More Miracles\u201d: Microsoft AI Pioneer Says Human-Level Intelligence Is Closer Than Anyone Realized - Rude Baguette",
       "pubDate": "Sat, 05 Jul 2025 11:49:00 GMT"
     },
@@ -599,10 +595,6 @@
     {
       "title": "Drivers of artificial intelligence innovation in manufacturing clusters: insights from cellular automata simulations - Nature",
       "pubDate": "Sat, 05 Jul 2025 18:17:01 GMT"
-    },
-    {
-      "title": "Researchers make key breakthrough in effort to solve major issue with electric vehicles: 'Plays a critical role' - The Cool Down",
-      "pubDate": "Sat, 05 Jul 2025 10:45:00 GMT"
     },
     {
       "title": "Current Use and Future Directions of Artificial Intelligence in Hematology/Oncology - CancerNetwork",
@@ -975,10 +967,6 @@
     {
       "title": "UN chief \u2018strongly condemns\u2019 Russian drone assault on Ukraine - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 18:02:04 GMT"
-    },
-    {
-      "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
-      "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
     },
     {
       "title": "Russia to Involve Laos Troops in Its War Against Ukraine. Here\u2019s What We Know - UNITED24 Media",
@@ -1869,6 +1857,10 @@
     {
       "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - The Hacker News",
       "pubDate": "Sat, 12 Jul 2025 17:14:00 GMT"
+    },
+    {
+      "title": "Severe WordPress Plugin Flaw Puts 200,000 Sites at Risk of Full Takeover - gbhackers.com",
+      "pubDate": "Sun, 13 Jul 2025 00:30:59 GMT"
     }
   ],
   "recession": [
@@ -2257,6 +2249,10 @@
     {
       "title": "Elon Musk Updated Grok. Guess What It Said. - The Atlantic",
       "pubDate": "Fri, 11 Jul 2025 22:11:00 GMT"
+    },
+    {
+      "title": "Elon Musk's xAI pressed employees to install surveillance software on personal laptops - Business Insider",
+      "pubDate": "Sun, 13 Jul 2025 09:26:00 GMT"
     }
   ],
   "cancer": [
@@ -2769,6 +2765,10 @@
     {
       "title": "Bitcoin jumps to all-time high due to demand from institutional investors. DRML Mine launches contract mining, doubles profits! - Morningstar",
       "pubDate": "Sun, 13 Jul 2025 07:17:49 GMT"
+    },
+    {
+      "title": "Bitcoin Surges 117% to $117,800 Analyst Calls for Pause - AInvest",
+      "pubDate": "Sun, 13 Jul 2025 08:34:29 GMT"
     }
   ],
   "us_congress": [
@@ -3075,10 +3075,6 @@
   ],
   "microsoft": [
     {
-      "title": "Microsoft shuts down operations in Pakistan after 25 years, ex-president calls it a \u2018troubling sign for country\u2019 - Mint",
-      "pubDate": "Sat, 05 Jul 2025 10:13:09 GMT"
-    },
-    {
       "title": "Microsoft to Slash 9,000 Jobs in Massive New Layoff Wave - MSN",
       "pubDate": "Wed, 09 Jul 2025 03:13:16 GMT"
     }
@@ -3128,10 +3124,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "A Big, Beautiful Disaster For America - InsideEVs",
-      "pubDate": "Sat, 05 Jul 2025 10:19:37 GMT"
-    },
     {
       "title": "Company unveils head-turning EV battery that can fully charge in under 20 seconds \u2014 here's how it could impact the future of cars - The Cool Down",
       "pubDate": "Mon, 07 Jul 2025 09:00:00 GMT"
@@ -4165,6 +4157,10 @@
     {
       "title": "Children fetching water killed in Israeli strike in Gaza, emergency officials say - BBC",
       "pubDate": "Sun, 13 Jul 2025 09:02:28 GMT"
+    },
+    {
+      "title": "Israel increased Rafah demolition to prepare for Gaza forced transfer plan - Al Jazeera",
+      "pubDate": "Sun, 13 Jul 2025 10:18:45 GMT"
     }
   ],
   "history_of_the_earth": [
