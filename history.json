@@ -55,10 +55,6 @@
   ],
   "iran": [
     {
-      "title": "Iran's Khamenei attends event, in first public appearance in weeks, Iranian state media shows - The Jerusalem Post",
-      "pubDate": "Sat, 05 Jul 2025 19:30:20 GMT"
-    },
-    {
       "title": "China and Russia Keep Their Distance From Iran During Crisis - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 09:01:04 GMT"
     },
@@ -115,10 +111,6 @@
     {
       "title": "Trump administration completes contentious deportations to South Sudan - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 20:03:45 GMT"
-    },
-    {
-      "title": "Donald Trump\u2019s UFC stunt is more than a circus. It\u2019s authoritarian theatre | Karim Zidan - The Guardian",
-      "pubDate": "Sat, 05 Jul 2025 19:06:00 GMT"
     },
     {
       "title": "Musk launches US political party to fight \u2018one-party system\u2019 - Financial Times",
@@ -325,10 +317,6 @@
     {
       "title": "Russia claims Moscow drone attack, airspace briefly halted amid wider strikes - The Kyiv Independent",
       "pubDate": "Sun, 06 Jul 2025 02:34:00 GMT"
-    },
-    {
-      "title": "Russian air defences shoot down four drones headed for Moscow, mayor says - Reuters",
-      "pubDate": "Sat, 05 Jul 2025 19:53:52 GMT"
     },
     {
       "title": "Russia Reports Ammonia Leak at Leningrad\u2019s Ust-Luga Seaport - Bloomberg.com",
@@ -1487,6 +1475,10 @@
     {
       "title": "North Korea supplied Russia with 12 million rounds of 152mm shells, South Korean intelligence estimates - The Kyiv Independent",
       "pubDate": "Sun, 13 Jul 2025 09:06:25 GMT"
+    },
+    {
+      "title": "North Korea unconditionally backs Putin\u2019s war in Ukraine during Lavrov visit - Financial Times",
+      "pubDate": "Sun, 13 Jul 2025 14:35:26 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1520,10 +1512,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump Escalates Trade War: Tariff Offers to 12 Nations - MSN",
-      "pubDate": "Sat, 05 Jul 2025 19:15:14 GMT"
-    },
     {
       "title": "Trump prepares tariff notice as US trade partners scramble for deals - South China Morning Post",
       "pubDate": "Sun, 06 Jul 2025 10:46:03 GMT"
@@ -1695,6 +1683,10 @@
     {
       "title": "Trump expands trade war, proposes 30% tariffs against EU, Mexico | Daily Sabah - Daily Sabah",
       "pubDate": "Sun, 13 Jul 2025 07:58:00 GMT"
+    },
+    {
+      "title": "Trump demands more concessions as EU holds off on US tariff countermeasures - Reuters",
+      "pubDate": "Sun, 13 Jul 2025 18:03:55 GMT"
     }
   ],
   "cybersecurity": [
@@ -2247,6 +2239,10 @@
     {
       "title": "Researchers link severe disasters and loss of health care facilities - The Washington Post",
       "pubDate": "Sun, 13 Jul 2025 10:34:43 GMT"
+    },
+    {
+      "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
+      "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
     }
   ],
   "world_economy": [
@@ -2683,6 +2679,10 @@
     {
       "title": "Helical Fusion Raises JPY 2.3 Billion Series A, Advances Roadmap for World's First Steady-State Net Power Fusion Plant - Voice of Alexandria",
       "pubDate": "Fri, 11 Jul 2025 02:00:28 GMT"
+    },
+    {
+      "title": "The truth about nuclear fusion power - new breakthroughs - MSN",
+      "pubDate": "Sun, 13 Jul 2025 17:51:02 GMT"
     }
   ],
   "new_york_city": [
@@ -3643,6 +3643,10 @@
     {
       "title": "How computers are changing our relationship with the ocean - The Hindu",
       "pubDate": "Mon, 07 Jul 2025 00:00:00 GMT"
+    },
+    {
+      "title": "AI Company Mandates Employee Monitoring Software on Personal Computers for Security - AInvest",
+      "pubDate": "Sun, 13 Jul 2025 10:01:51 GMT"
     }
   ],
   "defense_intelligence_agency": [
@@ -4425,6 +4429,12 @@
     {
       "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
       "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
+    }
+  ],
+  "us_senate": [
+    {
+      "title": "US Senate report faults Secret Service discipline after Trump shooting - Reuters",
+      "pubDate": "Sun, 13 Jul 2025 19:10:53 GMT"
     }
   ]
 }
