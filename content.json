@@ -1,52 +1,62 @@
 {
-  "Donald Trump": {
+  "North Korea": {
     "articles": [
       {
-        "title": "Trump faces a revolt from his MAGA base over the Epstein files - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjRGbUhad09qankxaHp4WEpQX0REUWYtSUN0MXFIMzhyWS1YbGxXYk5veDJ0U2pFMU5qdXFjY05IX3pkQjY5VkhIb0M3Q1RBVllTY1E0NjFZc3J2Yzd5aGxWbjZ5U0NTc0dUVmwxb3NhdThubWpWbWRWajdCYkFMZ2UtQTlEV2JkaUdTeVQ1aVZCN2VaU0VLRVZRVWlqYnc1Yk5faUFJX3JWa3fSAVZBVV95cUxObGNXQXcxLXo5cmJqWm0xWEJpZ3NQX25sZm9tdkhSRUsyNExiYVRRc056LS1sOWQzZjFDcnFPZ2R5UFJ1aC1fZHhYRE90clZTWHlIVDk2QQ?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 01:19:00 GMT"
+        "title": "North Korea sent Russia over 12 million artillery shells - Defence Blog",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHBpcXA4bzZqOGE5WXNfeThTUzJmVEJiWXcyZkNWdDAwVWhhZXlkaWtlVHZZZEZlSWh5U3F0RmJKSnZoV193aGZ5NzNpaUJPWTVISk15Sm9nMUlLTlUyMHpkdkVMOEJNVTFWdzhvZklsbWwyTDRadC1kWlJuM09sMkFlWWxPcUo2ZVHSAY8BQVVfeXFMT0RhaFQzLUlOeUlQNzdUMlU0aTA5VElYVGxvdG1xdk9QSWhpS01vN3JUWXR5Rm5EWE5lbmRmTzFjN240TElnblBHd29Ed3kyaVJZLTFYU3RVMS1BdmFFa09rbWhuRzRlMlZvRUJMYXl4VGVjMmNaYnB6X3JBclNnZ1ZIZEJmeVpjS1E5ZWNJU3c?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 09:21:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-13T10:58:35.592663+00:00"
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
   },
-  "Gaza": {
+  "Iran": {
     "articles": [
       {
-        "title": "Israel increased Rafah demolition to prepare for Gaza forced transfer plan - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc25wVkpOMHhmUFpCRlpFQlNLZlROSXhjZE5fSzZUUDJHWUZTVWhLTzNkZW9WWXptQzdNdnQ1N283NV8zb0s4TGcxSXA4d0ZmT0x4V29XQ0FxbUZSSTV0X0FCZXJJZDlPQTRrY2psM1N3cm5DVm5YdzFxTHV1Q2dqa2dQdkZ6MTRqYTdNQmRXYUQ2OGItNUxMUFNNS1ZzRUZnNkI0aUVQQlBOU2hlZHVpSmZTdzNXbzNTNjR30gHAAUFVX3lxTFBnc25LdGRlS2U5SVI4M2U3Um1fQ29aZzJTOU9nMFVyS1BQbDdEd05pSVpaeDJ4Ry1tNXpNdXJwOXZFQThRS2luVHltQUlfQlBIU0UxUXNqa1ZqMXIxSldXZDRNQ1dqdHpjRDNzaHR3emloUWNEVi1EeUJiLUpYU2Y3bnVkLTV1MnpYd0xoYjVQRk1iRk8ycHgzYUlXRE9CZnBDM2xNc21WU3QwMVFjVEV6a0dKN2xtQlo4d2hpYmhEdw?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 10:18:45 GMT"
+        "title": "Live Updates: Iran's President Pezeshkian wounded during war with Israel - The Jerusalem Post",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkhDLTk5S1RUbDJlNkgwZ3ViV1JIb2pHaXJ3RE10c3RXaUlhZTVlNGotQjhOVjhsOUozUHlJWUF3OVNYaUFHcWpNLVRXSEFIRkZIMTNfcGEtamVHWHEtM3d3RkZ1UTFfRFJaRTdRNWtEYTZ0WnVIMkJSbDZmQllCOHdMdw?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 11:00:05 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-13T10:58:35.592663+00:00"
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
   },
-  "Bitcoin": {
+  "Health Care": {
     "articles": [
       {
-        "title": "Bitcoin Surges 117% to $117,800 Analyst Calls for Pause - AInvest",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT29FcUJKZzlqcDdnajl0aVNDM0doQzl3SHJOOTlFaHVuMkg5RHpwWWJaVldzUVFwdGdZQk9sbTAyUmMtWTBudFIxRzZhTFh4ZjZYTWdtNmxMY3lXaUxhMWt5TGpJQ3VxNFhFRWtCSUtSODZpdGxOQXhvQ1NkWHh0dXZrN1Q4LXFU?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 08:34:29 GMT"
+        "title": "Researchers link severe disasters and loss of health care facilities - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGxNaXlQRnJMcWxEcXNHczFKalUzZ095RkJyTExFT0xvX1VUU3pBcV9nYkNRWXoyejU4aVpqbjB4ZjI0WmRkSDIwVmVNVGRoZnFIQXowUnpYNXZodGc1bTNuckNwOWxHaDRoY2J0ZGlYOGpUSmh5NUc2anFBMTVDTWNSMnFtemdOaXVrRnVobHRDbjZfU0Rn?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 10:34:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-13T10:58:35.592663+00:00"
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
   },
-  "Elon Musk": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Elon Musk's xAI pressed employees to install surveillance software on personal laptops - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVBwMmJOdWloMFhCcEE5YWF6TUZCMHVIV1lGQTZ5Vk4yQjBOUkgwenZDQ2t6aWVEajBUdXJFcDJxQ25rZ19JT0hqSDVpTFpxQTdYV000b2FjbEFXNGtpekk4ai1aSE43T3JhSEZvV1E0ZkRjbzkxdkd6S1RGN1ExdWQxcE5mdTBjUnFOY0VfbDBjRXlxTk1MTmxjYTBzZU00YjJNUnIxbXY?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 09:26:00 GMT"
+        "title": "40\u00b0C temperatures, closed schools and heatstrokes: welcome to Europe's new normal - The Week",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHpkZFpka2lQN0RGRlNXempZT29mU2NycHVIaG5iWW9aeUJEejVHbWNZOFlJeE5ROExHQlNCd1hjUjZVd1VCYTAxak8wNnFsWmJ3NFhhQTVKSXVOWUhxR2lyR0MyWktmbk40VG5YSFBiWEdBSmZrZ3luZjZkTUl0QUpsRlBrYzZQUHhKaE9R?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 06:05:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-13T10:58:35.592663+00:00"
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
   },
-  "Cybersecurity": {
+  "Public Health": {
     "articles": [
       {
-        "title": "Severe WordPress Plugin Flaw Puts 200,000 Sites at Risk of Full Takeover - gbhackers.com",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KLWFUVndaT0paeFhxbEFodzdfQlNpMFRhSllyTER0bC1OZnl3ZWdpSkdValViTkVWN1FqOGpjTDBxS2E3VTdnTHNwYVhVZDZONVphNzBGcEJPNlpIMHR2LdIBZkFVX3lxTE95Wl9iV2EzWE9udzRPa2pHV3NGcjVlTDJtNVdtSzRUMW9VT3BRNGJYQ29lS21OamVYLWJkZW9MV29UZW5KT0RpS01ZRDZCRnA0Z2pjcWRPNWY3S3FXUGhSMEJITW4xQQ?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 00:30:59 GMT"
+        "title": "Scientists make surprising discoveries in fight against emerging public health threat: 'The goal now should be to make their efforts count' - The Cool Down",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUpBSGZYWk5jZVo4ZWRPSW5rQ0p3c0hfZWoyNUJTQnFORW9GRFIwMUhmU19TTV8xZUNmYTRaelVGcmY0NGpRXy1hYjMxQzZ2d3VzdDlTbnJ5ckI0TjEzSFBjRndsaVR3c2Q4M1RDOVVyWThrQ3ZCdTkzNTZEM0c4WTZoeFBKQUdlWURZMlVB?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 08:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-13T10:58:35.592663+00:00"
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
+  },
+  "Electric Vehicle": {
+    "articles": [
+      {
+        "title": "Why GM\u2019s CEO is still betting on electric vehicles (and racing) - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzBCOWlKRVZUSmI0NEs0RDBqZVRwWlZMZFRhdUdmOWhsbnNNVFFKb1h5TVlvRjNwLXFiZ2ZvSUNKZzNuOUV0QlZMbFBPMlpPcFA3Qy1neHhGSFF5NFBsbktuWmpCUHl0VzBGU2tUNHYybDQ1T3BhQ2ZTRlE5eldNMUhuUkFJLWpmSHZBeEd1OWU0Yk1aNWhDNnp3RnpINVd3?oc=5",
+        "pubDate": "Sun, 13 Jul 2025 11:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-13T11:58:51.221008+00:00"
   }
 }
