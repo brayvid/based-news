@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says tariff letters to 12 countries signed, going out Monday - Reuters",
-      "pubDate": "Sat, 05 Jul 2025 04:30:00 GMT"
-    },
-    {
       "title": "Trump says Ukraine will need Patriot missiles for its defense, chides Putin - Reuters",
       "pubDate": "Sat, 05 Jul 2025 05:30:00 GMT"
     },
@@ -584,10 +580,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
-      "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
-    },
     {
       "title": "Epic Battle Between AI Missionaries Versus AI Mercenaries To Achieve AGI And AI Super-Intelligence Is Underway Via Sam Altman And Mark Zuckerberg - Forbes",
       "pubDate": "Sat, 05 Jul 2025 07:15:00 GMT"
@@ -1345,20 +1337,12 @@
   ],
   "china": [
     {
-      "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
-      "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
-    },
-    {
       "title": "Leaders of Russia and China snub Brics summit in sign group\u2019s value may be waning - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 08:00:00 GMT"
     },
     {
       "title": "China\u2019s Wang Yi urges new international deal on Iran after US, Israeli attacks - South China Morning Post",
       "pubDate": "Sat, 05 Jul 2025 07:22:27 GMT"
-    },
-    {
-      "title": "China\u2019s Rare Earth Origin Story, Explained - The New York Times",
-      "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
     },
     {
       "title": "China relaxes visa rules to show off rich history and cyberpunk cool - The Washington Post",
@@ -1913,6 +1897,10 @@
     {
       "title": "Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub - The Hacker News",
       "pubDate": "Sat, 12 Jul 2025 12:45:00 GMT"
+    },
+    {
+      "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - The Hacker News",
+      "pubDate": "Sat, 12 Jul 2025 17:14:00 GMT"
     }
   ],
   "recession": [
@@ -1927,6 +1915,10 @@
     {
       "title": "US debt rises to $36.6T: Will recession signals send Bitcoin back to $95K? - Cointelegraph",
       "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Economists See Lower Recession Risk and Stronger Job Growth: WSJ Survey - The Wall Street Journal",
+      "pubDate": "Sun, 13 Jul 2025 01:00:00 GMT"
     }
   ],
   "drones": [
@@ -1953,6 +1945,10 @@
     {
       "title": "Ukraine Unveils Pocket-Sized Net Launcher to Take Down FPV Drones - UNITED24 Media",
       "pubDate": "Sat, 12 Jul 2025 10:05:13 GMT"
+    },
+    {
+      "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
+      "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
     }
   ],
   "hamas": [
@@ -2172,10 +2168,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Panic in Japan over 1,000 earthquakes in two weeks: 'Scary to even fall asleep' | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Sat, 05 Jul 2025 04:50:21 GMT"
-    },
     {
       "title": "Earthquake alert (automated) - english.kyodonews.net",
       "pubDate": "Sat, 05 Jul 2025 07:22:07 GMT"
@@ -2672,10 +2664,6 @@
     }
   ],
   "republican_party": [
-    {
-      "title": "How Republicans Re-engineered the Tax Code - The New York Times",
-      "pubDate": "Sat, 05 Jul 2025 04:33:00 GMT"
-    },
     {
       "title": "Republicans just cut Medicaid. Will it cost them control of Congress? - Politico",
       "pubDate": "Sun, 06 Jul 2025 16:00:00 GMT"
@@ -3617,6 +3605,10 @@
     {
       "title": "Two Ethereum Genesis Wallets Wake, Move $2.9M ETH - Cointelegraph",
       "pubDate": "Mon, 07 Jul 2025 22:03:56 GMT"
+    },
+    {
+      "title": "Ethereum Surges 30% to $2,817 Breaking $2,800 Resistance - AInvest",
+      "pubDate": "Sun, 13 Jul 2025 04:16:09 GMT"
     }
   ],
   "nasa": [
@@ -4177,6 +4169,10 @@
     {
       "title": "From raids to ransom: Israel\u2019s hostage policy has become Hamas\u2019s sharpest weapon - The Times of Israel",
       "pubDate": "Sun, 13 Jul 2025 01:35:27 GMT"
+    },
+    {
+      "title": "Israel at War Day 646 Netanyahu: 'The Hostages Are the Only Reason the War in Gaza Is Still Going On' - Haaretz",
+      "pubDate": "Sun, 13 Jul 2025 04:22:00 GMT"
     }
   ],
   "history_of_the_earth": [
