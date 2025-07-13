@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "The Cost of Victory: Israel Overpowered Its Foes, but Deepened Its Isolation - The New York Times",
-      "pubDate": "Sat, 05 Jul 2025 09:00:46 GMT"
-    },
-    {
       "title": "Former Mossad official details how Israel eliminated Iran's military elite - BBC",
       "pubDate": "Sat, 05 Jul 2025 17:48:48 GMT"
     },
@@ -97,13 +93,13 @@
     {
       "title": "Israeli jet malfunctioned above Iran, narrowly averted emergency landing amid war \u2014 report - The Times of Israel",
       "pubDate": "Sat, 12 Jul 2025 20:08:11 GMT"
+    },
+    {
+      "title": "Iran\u2019s president Pezeshkian was injured in an Israeli airstrike last month \u2013 report - The Times of Israel",
+      "pubDate": "Sun, 13 Jul 2025 05:25:09 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Donald Trump Responds To Fatal Texas Flash Floods: 'Shocking' - Newsweek",
-      "pubDate": "Sat, 05 Jul 2025 09:15:05 GMT"
-    },
     {
       "title": "Donald Trump Teases Sanctions on Russia: 'Very Unhappy' - Newsweek",
       "pubDate": "Sat, 05 Jul 2025 10:20:39 GMT"
@@ -350,10 +346,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia Drops Wheat Export Duty to Zero in Bid to Boost Sales - Bloomberg.com",
-      "pubDate": "Sat, 05 Jul 2025 09:27:49 GMT"
-    },
     {
       "title": "Russia Will Win Big If India Buys the Su-57 Fighter - The National Interest",
       "pubDate": "Sat, 05 Jul 2025 18:48:56 GMT"
@@ -977,10 +969,6 @@
   ],
   "ukraine": [
     {
-      "title": "Presumed F-16 Hub Targeted as Russia Fires 322 Drones in Overnight Assault - Kyiv Post",
-      "pubDate": "Sat, 05 Jul 2025 09:16:50 GMT"
-    },
-    {
       "title": "Ukraine's top general warns of possible new Russian offensive in northeast - Reuters",
       "pubDate": "Sat, 05 Jul 2025 14:40:09 GMT"
     },
@@ -1275,6 +1263,10 @@
     {
       "title": "Ukraine war briefing: Kim Jong-un voices \u2018unconditional\u2019 support for Moscow as Russian foreign minister visits - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 02:02:00 GMT"
+    },
+    {
+      "title": "Analysis: Ahead of Trump's 'major' Russia announcement, what will happen next to Ukraine? - The Kyiv Independent",
+      "pubDate": "Sun, 13 Jul 2025 06:32:00 GMT"
     }
   ],
   "us_economy": [
@@ -1472,14 +1464,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Will Trump's megabill help Democrats win the House? - NPR",
-      "pubDate": "Sat, 05 Jul 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Donald Trump's Approval Rating Collapses With Gen Z - Newsweek",
-      "pubDate": "Sat, 05 Jul 2025 09:00:01 GMT"
-    },
     {
       "title": "Elon Musk Launches 'America Party': A Bold Step into U.S. Politics - OpenTools",
       "pubDate": "Sat, 05 Jul 2025 17:06:54 GMT"
@@ -1827,6 +1811,10 @@
     {
       "title": "Trump announces 30% tariffs against EU, Mexico to begin Aug. 1, rattling major US trading partners - WSVN",
       "pubDate": "Sun, 13 Jul 2025 02:15:02 GMT"
+    },
+    {
+      "title": "Trump expands trade war, proposes 30% tariffs against EU, Mexico | Daily Sabah - Daily Sabah",
+      "pubDate": "Sun, 13 Jul 2025 07:58:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1929,13 +1917,13 @@
     {
       "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
+    },
+    {
+      "title": "Why the U.S. Is Way Behind China in Making Drones for War - The New York Times",
+      "pubDate": "Sun, 13 Jul 2025 09:00:25 GMT"
     }
   ],
   "hamas": [
-    {
-      "title": "Hamas says ready to enter Gaza ceasefire talks \u2018immediately\u2019 - politico.eu",
-      "pubDate": "Sat, 05 Jul 2025 09:48:20 GMT"
-    },
     {
       "title": "LIVE: Israel kills 56 Palestinians in Gaza, at least 9 of them aid seekers - Al Jazeera",
       "pubDate": "Sat, 05 Jul 2025 12:31:22 GMT"
@@ -2777,6 +2765,10 @@
     {
       "title": "Bitcoin Surges 100% to $117,000 on Institutional Buying - AInvest",
       "pubDate": "Sun, 13 Jul 2025 02:21:38 GMT"
+    },
+    {
+      "title": "Bitcoin jumps to all-time high due to demand from institutional investors. DRML Mine launches contract mining, doubles profits! - Morningstar",
+      "pubDate": "Sun, 13 Jul 2025 07:17:49 GMT"
     }
   ],
   "us_congress": [
@@ -3202,10 +3194,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "BRICS Expands to 56% of World Population, 44% of Global GDP: Vietnam Joins as Partner Country - ScheerPost",
-      "pubDate": "Sat, 05 Jul 2025 09:21:20 GMT"
-    },
     {
       "title": "BRICS Set to Condemn \u2018Coercive\u2019 Tariffs, Draft Statement Shows - Bloomberg",
       "pubDate": "Sat, 05 Jul 2025 15:07:45 GMT"
@@ -4173,6 +4161,10 @@
     {
       "title": "LIVE: Israeli forces bombard Gaza as Israel-Hamas ceasefire talks stall - Al Jazeera",
       "pubDate": "Sun, 13 Jul 2025 08:16:53 GMT"
+    },
+    {
+      "title": "Children fetching water killed in Israeli strike in Gaza, emergency officials say - BBC",
+      "pubDate": "Sun, 13 Jul 2025 09:02:28 GMT"
     }
   ],
   "history_of_the_earth": [
