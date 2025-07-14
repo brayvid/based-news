@@ -1,62 +1,12 @@
 {
-  "Bitcoin": {
+  "Tesla": {
     "articles": [
       {
-        "title": "Bitcoin passes $120,000 milestone as US Congress readies for \u2018crypto week\u2019 - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SX0pQMEhzZU00SVU0VXpjaFNsM1YxcHNpdjFyOUNvUTAtVWZmanNtS2MxT05Md1FBVU9HT1BfRTE2QVFlc0QtMGtuWkNfSzJBd3lRMkJReEN1aVRsNDVJU0ZJU2pfc3pDOU43SzlrTkU?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 06:26:03 GMT"
+        "title": "Tesla Faces First Jury Trial Tied to Its Autopilot System - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DNExUSlJhZ1NuT0xoRlNzQUdhZ3hEMzBlYU8xZ0VLQkhHTFA3cGRpODRYY3RBcDVhaWNlamYyd0JIdEFHMzJ1U2lEWnN4NFpmTnhoVXNMbFNaNzFpR2NWZHJxaUxXb3hBV2ZXME9GZ25qUi1qMzN2eHZn?oc=5",
+        "pubDate": "Mon, 14 Jul 2025 09:01:44 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia launches 136 drones into Ukraine ahead of expected Trump announcement - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1BmUlZoazhCblRGSzlYcGV5dHQ2SmhpMlhqSWltY0NCYzJTZ1pGUExaVFRrTm1MaE1ZV2w4dld5dWx4NEFlMFBiTDN4LUhDaU9ZLWlaQjd3THRLV2hxREJVSWJnXzlBZFdrZm1URXN6ZVM5Z2RYT3Y0MlFRVGFFQlZxbmpOdkFZTVNIVlNETmoxbXh3VC1nNjB3Y1p0Z0U5XzVxcThlMmhNcUJIX1Uwd9IBtgFBVV95cUxObk02bDdBTy01UFV5VjFIbGhKWUM3QmtBQklNRE02SWtGbHpVYnJGdFF1T193RFJUUWhxOXYxZ2NRM3dydURZWkdpVWxyZzB1c29jU1RCbHJ0SkpLdHk0WldHYl94eHk2Wl8zcW5qVHdLM2ZLYnREU19yYW9ZaGgyajE5bEVYQmVsRzljQTdWS0ZOVEhqNVE3Rl9abGxFNmd4NDdJdEhIQnBBVkF1V192eEo1WDI3QQ?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 08:49:29 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China's exports growth tops expectations in June; rare earth shipments surge 60% to record high - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43Uk9ZVWcyZ1NaVmhYLXc0b3FqQ1dtZGxNU0dwNFBkMDE3cW5mN2Jyd1JhWVE5Tmp5N3FQVjF0cDlab1k0bWtuWFRPdzE1anUtQ0hqUFBKMVFEYUp2M1VRNUFNVXkzek1QcVZiM1MyblR3SzliZ2FUajI1d1NDVzjSAYQBQVVfeXFMUG14Z1psRzdzQ2FyY3NqNWc5UDF4a1NRVmh1NFJ3RTExVGI2eHpLSEhKVXNMY1g4bFpWYm5oczAwT2hOc19LLTVudGQ3UkdDcW0yeEwxX04wQm95NzZtMExndW9MUXR5MTd5UWpONUFwU0wzbzNITXViY252RXd4RVY4YlAy?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 03:09:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "Cancer deaths from obesity have tripled in 20 years \u2014 these states have the highest and lowest rates - New York Post",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdW9HZDlKWHpqZWRVX1laeFRLR3lpdG5jdmM2MTdqMDF5czdXc21rVHZ0eHpIR2ZlV01kaHdfWUxVTmZLNDFhNkgwdXZBdEg0MEpJbUh0dERkeGxmVk9RaVYzRFR0UWg4SFZmZlJGLVY2SUEwWVozOFBIQUlUR2tUM0E2LWItQnFGbFNadXZnSEw4TXRFdGZaZGp6SQ?oc=5",
-        "pubDate": "Sun, 13 Jul 2025 23:22:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Cleaner air in east Asia has driven recent acceleration in global warming \u2013 new study - Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYWJsaXVkQ09lWVN0V3ZoRkI3LXFwT0d0NzRISXUxZDhrNFhoczZsc1J3Uld6WlkxYUVtOUtIa2hBd3NGVVo4UUFPY1c0WGFNSkY1eGUwaVBzVm1FM1RRZWx0SlhDWnZXQXNHMkV1VjQ5T0NCSGlLUQ?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 09:02:23 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
-  },
-  "Democracy": {
-    "articles": [
-      {
-        "title": "Former AG Mandelblit believes Israel heading toward end of democracy - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVE1wWE8zMmVKVHpsRnYzM1lyRndWcHczU2o3Z0pDbEF3ZGRncF83MVVZUlJfVkRJTlRKMzkweEtjc0RFNzFWSERQNndhOXlueTBDZUotdm0yd3ZhQ1l3TEU4ZTBIZWhqZEVNZHpRbzJ4ODZBbGhNRU9pMWJkTEVvd3NQMU43T0N0eDVMc2pjZm1XVm9lX3BrMWM4Z3dYSzEtUDBZWlZRMA?oc=5",
-        "pubDate": "Mon, 14 Jul 2025 06:14:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-14T10:00:35.514730+00:00"
+    "last_updated_ts": "2025-07-14T11:01:16.182470+00:00"
   }
 }
