@@ -517,10 +517,6 @@
       "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
     },
     {
-      "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
-      "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
-    },
-    {
       "title": "The new battlefield: AI-based warfare in the \u2018agentic\u2019 age, multi-domain ops and energy as a big constraining factor - The Indian Express",
       "pubDate": "Mon, 07 Jul 2025 03:38:00 GMT"
     },
@@ -1067,6 +1063,10 @@
     {
       "title": "Trump says he wants to send Patriot batteries to Ukraine. One country might be down to pay for them. - Business Insider",
       "pubDate": "Mon, 14 Jul 2025 05:27:00 GMT"
+    },
+    {
+      "title": "Trump announces weapons for Ukraine and threatens Russia with tariffs - NPR",
+      "pubDate": "Mon, 14 Jul 2025 16:02:10 GMT"
     }
   ],
   "us_economy": [
@@ -1084,10 +1084,6 @@
     }
   ],
   "china": [
-    {
-      "title": "TikTok building new version of app ahead of expected US sale, The Information reports - Reuters",
-      "pubDate": "Sun, 06 Jul 2025 16:45:02 GMT"
-    },
     {
       "title": "China reroutes exports via south-east Asia in bid to dodge Trump\u2019s tariffs - Financial Times",
       "pubDate": "Sun, 06 Jul 2025 20:00:06 GMT"
@@ -1313,6 +1309,10 @@
     {
       "title": "After Mamdani\u2019s Win, Some Democrats Are Determined to Stop Him - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 18:21:00 GMT"
+    },
+    {
+      "title": "The Democratic Party's fight over generational change flares in Arizona - NBC News",
+      "pubDate": "Mon, 14 Jul 2025 09:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -1709,16 +1709,8 @@
   ],
   "hamas": [
     {
-      "title": "Israel says it killed Hamas naval commander in Gaza airstrike - The Indian Express",
-      "pubDate": "Sun, 06 Jul 2025 16:59:31 GMT"
-    },
-    {
       "title": "LIVE: Israeli army targets Gaza City with heavy strikes, killing 39 today - Al Jazeera",
       "pubDate": "Sun, 06 Jul 2025 17:37:30 GMT"
-    },
-    {
-      "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
-      "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
     },
     {
       "title": "First round of indirect Hamas-Israel talks in Qatar end inconclusively, say sources - The Times of Israel",
@@ -2473,6 +2465,10 @@
     {
       "title": "Bitcoin Price Soars Past $120,000 at Outset of House\u2019s \u2018Crypto Week\u2019 - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 13:44:24 GMT"
+    },
+    {
+      "title": "Bitcoin achieves $120k milestone on Trump policy support - Sky News",
+      "pubDate": "Mon, 14 Jul 2025 05:44:26 GMT"
     }
   ],
   "us_congress": [
@@ -2522,10 +2518,6 @@
     }
   ],
   "new_york_city": [
-    {
-      "title": "Multiple shark sightings force closures of NYC beaches over busy holiday weekend - NBC New York",
-      "pubDate": "Sun, 06 Jul 2025 16:10:17 GMT"
-    },
     {
       "title": "New York City\u2019s congestion pricing has cut pollution and traffic \u2013 but Trump still wants to kill it - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 21:19:00 GMT"
@@ -2705,6 +2697,10 @@
     {
       "title": "OpenAI Delays Open-Source Model Release Indefinitely for Safety Testing - AInvest",
       "pubDate": "Sat, 12 Jul 2025 12:44:15 GMT"
+    },
+    {
+      "title": "OpenAI delays its first open-source AI model challenging DeepSeek - South China Morning Post",
+      "pubDate": "Mon, 14 Jul 2025 10:00:18 GMT"
     }
   ],
   "environment": [
@@ -2907,10 +2903,6 @@
     {
       "title": "BRICS summit opens in Brazil, overshadowed by Trump\u2019s tariff policies and Middle East tensions - CNBC",
       "pubDate": "Sun, 06 Jul 2025 19:21:50 GMT"
-    },
-    {
-      "title": "Brics leaders condemn strikes on Iran and tariffs, but avoid direct mention of US, Israel - South China Morning Post",
-      "pubDate": "Sun, 06 Jul 2025 17:02:36 GMT"
     },
     {
       "title": "BRICS leaders condemn Gaza and Iran attacks, urge global reforms - Reuters",
@@ -3135,12 +3127,6 @@
       "pubDate": "Sat, 12 Jul 2025 14:06:06 GMT"
     }
   ],
-  "protest": [
-    {
-      "title": "Israelis, Jewish groups in US plan protests against Gaza war during Netanyahu visit - The Times of Israel",
-      "pubDate": "Sun, 06 Jul 2025 16:41:15 GMT"
-    }
-  ],
   "machine_learning": [
     {
       "title": "Interpretable machine learning models for survival prediction in prostate cancer bone metastases - Nature",
@@ -3204,10 +3190,6 @@
     }
   ],
   "nasa": [
-    {
-      "title": "NASA spots a new comet flying in from a distant star system - LAist",
-      "pubDate": "Sun, 06 Jul 2025 16:20:00 GMT"
-    },
     {
       "title": "Proposed NASA budget cuts will shutter Colorado missions, could impact state aerospace economy - KOAA News 5",
       "pubDate": "Mon, 07 Jul 2025 04:31:35 GMT"
@@ -3849,6 +3831,10 @@
     {
       "title": "Plan to Indefinitely Displace Palestinians Threatens to Derail Gaza Truce - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 11:25:32 GMT"
+    },
+    {
+      "title": "Dozens dead as Israel pounds Gaza with air strikes - Al Jazeera",
+      "pubDate": "Mon, 14 Jul 2025 15:25:45 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3883,6 +3869,10 @@
     {
       "title": "Why GM\u2019s CEO is still betting on electric vehicles (and racing) - The Verge",
       "pubDate": "Sun, 13 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "GM\u2019s Final EV Battery Strategy Copies China\u2019s Playbook: Super Cheap Cells - WIRED",
+      "pubDate": "Mon, 14 Jul 2025 16:21:12 GMT"
     }
   ],
   "planetary_defense": [
