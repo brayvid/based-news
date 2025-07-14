@@ -1067,6 +1067,10 @@
     {
       "title": "Trump expected to make 'major' statement on support for Ukraine - BBC",
       "pubDate": "Mon, 14 Jul 2025 11:37:30 GMT"
+    },
+    {
+      "title": "Trump says he wants to send Patriot batteries to Ukraine. One country might be down to pay for them. - Business Insider",
+      "pubDate": "Mon, 14 Jul 2025 05:27:00 GMT"
     }
   ],
   "us_economy": [
@@ -1084,10 +1088,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China used embassies to undermine Rafale sales after India-Pakistan clash, French intel says - France 24",
-      "pubDate": "Sun, 06 Jul 2025 14:37:31 GMT"
-    },
     {
       "title": "TikTok building new version of app ahead of expected US sale, The Information reports - Reuters",
       "pubDate": "Sun, 06 Jul 2025 16:45:02 GMT"
@@ -2487,6 +2487,10 @@
     {
       "title": "Bitcoin climbs to record $123,000 as US to debate crypto rules - Reuters",
       "pubDate": "Mon, 14 Jul 2025 10:12:45 GMT"
+    },
+    {
+      "title": "Bitcoin hits $123,000: How investors can book cryptocurrency gains and report them in ITR - Mint",
+      "pubDate": "Mon, 14 Jul 2025 13:32:16 GMT"
     }
   ],
   "us_congress": [
@@ -3145,12 +3149,6 @@
       "pubDate": "Sat, 12 Jul 2025 14:06:06 GMT"
     }
   ],
-  "electric_battery": [
-    {
-      "title": "High-tech company makes key breakthrough that could revolutionize smartphones and EVs: 'A pivotal commercial milestone' - The Cool Down",
-      "pubDate": "Sun, 06 Jul 2025 14:30:00 GMT"
-    }
-  ],
   "protest": [
     {
       "title": "Israelis, Jewish groups in US plan protests against Gaza war during Netanyahu visit - The Times of Israel",
@@ -3238,10 +3236,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
-      "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
-    },
     {
       "title": "Solar \u2018model village\u2019 illuminates challenges in India - Financial Times",
       "pubDate": "Sun, 06 Jul 2025 23:30:06 GMT"
@@ -3865,6 +3859,10 @@
     {
       "title": "LIVE: Deadly Israeli attacks kill more Palestinians near Gaza aid centre - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 11:54:37 GMT"
+    },
+    {
+      "title": "Plan to Indefinitely Displace Palestinians Threatens to Derail Gaza Truce - The New York Times",
+      "pubDate": "Mon, 14 Jul 2025 11:25:32 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4297,6 +4295,24 @@
     {
       "title": "New technology uncovers lost bow of World War II battleship off Solomon Islands - Australian Broadcasting Corporation",
       "pubDate": "Sun, 13 Jul 2025 20:00:00 GMT"
+    }
+  ],
+  "european_union": [
+    {
+      "title": "EU warns that its trade with the US could be effectively wiped out if Trump follows through on his threat - CNN",
+      "pubDate": "Mon, 14 Jul 2025 13:59:00 GMT"
+    }
+  ],
+  "mark_zuckerberg": [
+    {
+      "title": "Meta investors, Zuckerberg to square off at $8 billion trial over alleged privacy violations - Reuters",
+      "pubDate": "Mon, 14 Jul 2025 12:44:39 GMT"
+    }
+  ],
+  "intelligence_agencies": [
+    {
+      "title": "Is America losing its intelligence? - The Economic Times",
+      "pubDate": "Mon, 14 Jul 2025 10:06:00 GMT"
     }
   ]
 }
