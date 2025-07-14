@@ -101,16 +101,8 @@
   ],
   "donald_trump": [
     {
-      "title": "Investors head into Trump tariff deadline benumbed and blase - Reuters",
-      "pubDate": "Sun, 06 Jul 2025 07:11:45 GMT"
-    },
-    {
       "title": "Trump\u2019s effort to deport pro-Palestinian activists goes to trial - Politico",
       "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Trump Admin Insider Blows Lid Off Tariffs: \u2018It\u2019s All Fake\u2019 - The Daily Beast",
-      "pubDate": "Sun, 06 Jul 2025 07:17:00 GMT"
     },
     {
       "title": "Trump and GOP target ballots arriving after Election Day that delay counts and feed conspiracy fears - ABC News - Breaking News, Latest News and Videos",
@@ -541,10 +533,6 @@
       "pubDate": "Sun, 06 Jul 2025 10:57:05 GMT"
     },
     {
-      "title": "Artificial intelligence provides exciting opportunities - Daily Inter Lake",
-      "pubDate": "Sun, 06 Jul 2025 07:01:39 GMT"
-    },
-    {
       "title": "The impact of China\u2019s artificial intelligence development on urban energy efficiency - Nature",
       "pubDate": "Sun, 06 Jul 2025 17:25:37 GMT"
     },
@@ -847,10 +835,6 @@
     {
       "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
       "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
-    },
-    {
-      "title": "Russian attacks across Ukraine kill 6, injure 22 over past day - The Kyiv Independent",
-      "pubDate": "Sun, 06 Jul 2025 07:59:36 GMT"
     },
     {
       "title": "Russia Says Captured 2 More East Ukraine Settlements in Donetsk and Kharkiv Regions - The Moscow Times",
@@ -2053,6 +2037,10 @@
     {
       "title": "Elon Musk Is Back at Work and Burning Through Executives - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Elon Musk confirms Tesla will let shareholders decide on xAI investment: Details here - Mint",
+      "pubDate": "Mon, 14 Jul 2025 05:09:53 GMT"
     }
   ],
   "cancer": [
@@ -2431,10 +2419,6 @@
   ],
   "bitcoin": [
     {
-      "title": "80,000 Bitcoin Moved From Dormant Wallets Sparks Security Fears - AInvest",
-      "pubDate": "Sun, 06 Jul 2025 07:16:14 GMT"
-    },
-    {
       "title": "Investors expect bitcoin to break out to new records in the second half from a consolidation phase - CNBC",
       "pubDate": "Sun, 06 Jul 2025 13:01:09 GMT"
     },
@@ -2707,6 +2691,10 @@
     {
       "title": "The CEO of Nvidia Admits What Everybody Is Afraid of About AI - Gizmodo",
       "pubDate": "Sun, 13 Jul 2025 22:34:00 GMT"
+    },
+    {
+      "title": "Nvidia CEO downplays U.S. fears that China's military will use his firm's chips - CNBC",
+      "pubDate": "Mon, 14 Jul 2025 04:54:21 GMT"
     }
   ],
   "earth_science": [
@@ -3157,10 +3145,6 @@
   ],
   "business": [
     {
-      "title": "American Business Is Being Destroyed by Russia - Kyiv Post",
-      "pubDate": "Sun, 06 Jul 2025 07:18:11 GMT"
-    },
-    {
       "title": "How Trump's tariff chaos is reshaping Asia's businesses - BBC",
       "pubDate": "Sun, 06 Jul 2025 23:07:22 GMT"
     },
@@ -3184,10 +3168,6 @@
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "AGI And AI Superintelligence Will Hack The Human Subconscious Via AI-Generated Subliminal Messaging - Forbes",
-      "pubDate": "Sun, 06 Jul 2025 07:15:00 GMT"
-    },
     {
       "title": "We need an Operation Warp Speed for AI - Washington Examiner",
       "pubDate": "Sun, 06 Jul 2025 11:00:00 GMT"
@@ -4197,6 +4177,10 @@
     {
       "title": "Russia says foreign minister Lavrov met Kim Jong-un - The Korea Times",
       "pubDate": "Sat, 12 Jul 2025 11:40:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un Says He'll \"Unconditionally Support\" Russia's War - Business Insider",
+      "pubDate": "Mon, 14 Jul 2025 06:34:00 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -4391,6 +4375,12 @@
     {
       "title": "US Senate report faults Secret Service discipline after Trump shooting - Reuters",
       "pubDate": "Sun, 13 Jul 2025 19:10:53 GMT"
+    }
+  ],
+  "pacific_ocean": [
+    {
+      "title": "New technology uncovers lost bow of World War II battleship off Solomon Islands - Australian Broadcasting Corporation",
+      "pubDate": "Sun, 13 Jul 2025 20:00:00 GMT"
     }
   ]
 }
