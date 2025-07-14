@@ -727,10 +727,6 @@
   ],
   "climate": [
     {
-      "title": "Breaking News Live Updates: Death toll from flooding in central Texas rises to 32, including 14 children, officials say - Times of India",
-      "pubDate": "Sun, 06 Jul 2025 03:49:25 GMT"
-    },
-    {
       "title": "Floods, hurricanes, heat: Americans fear rise of extreme weather - USA Today",
       "pubDate": "Sun, 06 Jul 2025 13:14:16 GMT"
     },
@@ -1131,10 +1127,6 @@
   ],
   "us_economy": [
     {
-      "title": "US Federal Reserve raises concerns over Trump\u2019s new bill and imposed tariffs - Sky News Australia",
-      "pubDate": "Sun, 06 Jul 2025 03:15:03 GMT"
-    },
-    {
       "title": "US economy shrank faster than expected, new data shows - AOL.com",
       "pubDate": "Mon, 07 Jul 2025 11:26:59 GMT"
     },
@@ -1415,6 +1407,10 @@
     {
       "title": "North Korea warns of military action against any threats from U.S., Japan, South Korea - The Hindu",
       "pubDate": "Sun, 13 Jul 2025 11:55:00 GMT"
+    },
+    {
+      "title": "North Korea Supplies Russia With 12 Million Shells, Seoul Says - Bloomberg",
+      "pubDate": "Mon, 14 Jul 2025 03:26:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1695,6 +1691,10 @@
     {
       "title": "US soft patch won\u2019t \u201cmetastasise\u201d into recession: ClearBridge - Financial Newswire",
       "pubDate": "Sun, 13 Jul 2025 20:27:52 GMT"
+    },
+    {
+      "title": "Singapore economy grows 4.3% in second quarter, avoids technical recession, advance estimate shows - TradingView",
+      "pubDate": "Mon, 14 Jul 2025 00:28:00 GMT"
     }
   ],
   "drones": [
@@ -2040,10 +2040,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Scientists Turn Forgotten Cells Into Powerful Cancer Killers - SciTechDaily",
-      "pubDate": "Sun, 06 Jul 2025 03:51:52 GMT"
-    },
     {
       "title": "Survival days of patients with metastatic spinal tumors of lung cancer requiring surgery: a prospective multicenter study - Nature",
       "pubDate": "Sun, 06 Jul 2025 09:57:56 GMT"
@@ -2683,6 +2679,10 @@
     {
       "title": "Nvidia CEO to hold media briefing in Beijing on July 16 - Reuters",
       "pubDate": "Sun, 13 Jul 2025 11:11:49 GMT"
+    },
+    {
+      "title": "The CEO of Nvidia Admits What Everybody Is Afraid of About AI - Gizmodo",
+      "pubDate": "Sun, 13 Jul 2025 22:34:00 GMT"
     }
   ],
   "earth_science": [
@@ -2835,6 +2835,10 @@
     {
       "title": "Scientists make surprising discoveries in fight against emerging public health threat: 'The goal now should be to make their efforts count' - The Cool Down",
       "pubDate": "Sun, 13 Jul 2025 08:45:00 GMT"
+    },
+    {
+      "title": "Emergency Vaccines Reduce Disease Outbreak Deaths by Almost 60% - ScienceAlert",
+      "pubDate": "Mon, 14 Jul 2025 02:15:07 GMT"
     }
   ],
   "military_and_defense": [
@@ -3160,10 +3164,6 @@
     }
   ],
   "new_york_politics": [
-    {
-      "title": "As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas - The New York Times",
-      "pubDate": "Sun, 06 Jul 2025 03:29:19 GMT"
-    },
     {
       "title": "Trump threatens federal takeover of NYC if \u2018communist\u2019 Zohran Mamdani wins mayoral race - New York Post",
       "pubDate": "Tue, 08 Jul 2025 20:57:17 GMT"
@@ -3973,6 +3973,10 @@
     {
       "title": "Israeli strikes kill at least 32 in Gaza as Palestinian war deaths top 58,000 - AP News",
       "pubDate": "Sun, 13 Jul 2025 19:41:00 GMT"
+    },
+    {
+      "title": "Israel bombs Gaza market, water point, as total death toll passes 58,000 - Al Jazeera",
+      "pubDate": "Mon, 14 Jul 2025 01:10:44 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4127,6 +4131,10 @@
     {
       "title": "Experts ask where the center of the universe is - Space",
       "pubDate": "Sun, 13 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
+      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
     }
   ],
   "energy_transition": [
@@ -4291,6 +4299,10 @@
     {
       "title": "HSBC departs Net-Zero Banking Alliance, following US banks - ESG Dive",
       "pubDate": "Fri, 11 Jul 2025 16:46:24 GMT"
+    },
+    {
+      "title": "HSBC Joins Wall Street-Led Exodus From Net Zero Alliance - Earth.Org",
+      "pubDate": "Mon, 14 Jul 2025 02:03:01 GMT"
     }
   ],
   "polling": [
