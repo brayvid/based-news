@@ -39,6 +39,10 @@
     {
       "title": "Israel Strikes Southern Syria in New Flareup of Violence - The Wall Street Journal",
       "pubDate": "Mon, 14 Jul 2025 17:21:00 GMT"
+    },
+    {
+      "title": "Israel and Iran Usher In New Era of Psychological Warfare - The New York Times",
+      "pubDate": "Tue, 15 Jul 2025 04:00:05 GMT"
     }
   ],
   "iran": [
@@ -671,6 +675,10 @@
     {
       "title": "Federal funding delays threaten AI education and America\u2019s tech future - K-12 Dive",
       "pubDate": "Mon, 14 Jul 2025 17:19:04 GMT"
+    },
+    {
+      "title": "Anthropic, Google, OpenAI and xAI granted up to $200 million for AI work from Defense Department - CNBC",
+      "pubDate": "Mon, 14 Jul 2025 17:35:49 GMT"
     }
   ],
   "climate": [
@@ -1781,10 +1789,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Dozens leave Japan islands after 1,600 earthquakes - Al Arabiya English",
-      "pubDate": "Mon, 07 Jul 2025 04:47:00 GMT"
-    },
-    {
       "title": "Scientists Are Tracking an Undersea Phenomenon Off Japan\u2019s Tsunami-Prone Coast Linked to \"Silent\" Earthquakes - The Debrief",
       "pubDate": "Mon, 07 Jul 2025 19:22:31 GMT"
     },
@@ -1839,6 +1843,10 @@
     {
       "title": "Powerful Earthquake Hits Spain Tourism Nerve Centre Just a Day After Heavy Storm Batters Costa del Sol and Alicante; New Rain Alerts for Barcelona, Huesca, Teruel, Zaragoza, Girona, Lleida, Tarragona, Castell\u00f3n, What US and Canada Tourists Need to K - Travel And Tour World",
       "pubDate": "Mon, 14 Jul 2025 16:22:22 GMT"
+    },
+    {
+      "title": "Strong and shallow M6.2 earthquake hits south of Panama - The Watchers - Watching the world evolve and transform",
+      "pubDate": "Mon, 14 Jul 2025 17:43:22 GMT"
     }
   ],
   "elon_musk": [
@@ -1987,6 +1995,10 @@
     {
       "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
       "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Why the health care lobby failed to stop cuts to Medicaid funding - NPR",
+      "pubDate": "Mon, 14 Jul 2025 17:31:23 GMT"
     }
   ],
   "world_economy": [
@@ -2511,6 +2523,10 @@
     {
       "title": "Nvidia CEO downplays U.S. fears that China's military will use his firm's chips - CNBC",
       "pubDate": "Mon, 14 Jul 2025 04:54:21 GMT"
+    },
+    {
+      "title": "Nvidia Wins OK to Resume Sales of AI Chip to China After CEO Meets Trump - WSJ - The Wall Street Journal",
+      "pubDate": "Tue, 15 Jul 2025 02:47:00 GMT"
     }
   ],
   "earth_science": [
@@ -2695,10 +2711,6 @@
   ],
   "fbi": [
     {
-      "title": "DOJ, FBI review finds no Jeffrey Epstein 'client list,' confirms suicide: Memo - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 07 Jul 2025 04:20:24 GMT"
-    },
-    {
       "title": "The F.B.I. Is Using Polygraphs to Test Officials\u2019 Loyalty - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 20:34:15 GMT"
     },
@@ -2800,14 +2812,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "Trump threatens extra 10% tariffs on BRICS as leaders meet in Brazil - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 04:37:00 GMT"
-    },
-    {
-      "title": "Trump threatens extra 10% tariff on nations that side with Brics - BBC",
-      "pubDate": "Mon, 07 Jul 2025 04:42:30 GMT"
-    },
     {
       "title": "BRICS nations push back as Trump warns of tariffs - NPR",
       "pubDate": "Mon, 07 Jul 2025 20:22:18 GMT"
@@ -3050,10 +3054,6 @@
     }
   ],
   "nasa": [
-    {
-      "title": "Proposed NASA budget cuts will shutter Colorado missions, could impact state aerospace economy - KOAA News 5",
-      "pubDate": "Mon, 07 Jul 2025 04:31:35 GMT"
-    },
     {
       "title": "Trump\u2019s NASA budget could cede solar system to China, scientists warn - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 13:01:32 GMT"
@@ -4185,6 +4185,12 @@
     {
       "title": "Researchers certify genuine quantum behavior in computers with up to 73 qubits - Phys.org",
       "pubDate": "Mon, 14 Jul 2025 15:27:03 GMT"
+    }
+  ],
+  "social_media": [
+    {
+      "title": "The Elmo Hack Shows Why No Brand Is Safe On Social Media - Forbes",
+      "pubDate": "Mon, 14 Jul 2025 21:28:17 GMT"
     }
   ]
 }
