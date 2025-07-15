@@ -501,16 +501,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Apple Loses Top AI Models Executive to Meta\u2019s Hiring Spree - Bloomberg.com",
-      "pubDate": "Mon, 07 Jul 2025 22:17:43 GMT"
-    },
-    {
       "title": "Meta reportedly recruits Apple\u2019s head of AI models - TechCrunch",
       "pubDate": "Mon, 07 Jul 2025 23:39:02 GMT"
-    },
-    {
-      "title": "Apple's top AI executive Ruoming Pang leaves for Meta, Bloomberg News reports - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 22:40:44 GMT"
     },
     {
       "title": "Samsung expects second-quarter profits to more than halve as it struggles to capture AI demand - CNBC",
@@ -707,13 +699,13 @@
     {
       "title": "Confirmed - artificial intelligence doesn't understand sign language... and the errors are already worrisome - Blanquivioletas",
       "pubDate": "Tue, 15 Jul 2025 16:00:45 GMT"
+    },
+    {
+      "title": "Trump Hails $90 Billion in A.I. Infrastructure Investments at Pennsylvania Summit - The New York Times",
+      "pubDate": "Tue, 15 Jul 2025 21:49:47 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "Extreme weather events like Texas rain are more likely to occur due to climate change, scientists warn - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 07 Jul 2025 22:33:41 GMT"
-    },
     {
       "title": "Heavy Rain in Texas Floods Intensified By Human-Driven Climate Change: Study - Earth.Org",
       "pubDate": "Tue, 08 Jul 2025 01:53:18 GMT"
@@ -1023,6 +1015,10 @@
     {
       "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
       "pubDate": "Tue, 15 Jul 2025 14:15:01 GMT"
+    },
+    {
+      "title": "Russia sees Trump\u2019s 50-day window as a green light to keep up brutal offensive in Ukraine - CNN",
+      "pubDate": "Tue, 15 Jul 2025 16:58:00 GMT"
     }
   ],
   "us_economy": [
@@ -1195,13 +1191,13 @@
     {
       "title": "China's second-quarter growth beats forecasts but deflation fears fuel calls for stimulus, deeper reform - CNBC",
       "pubDate": "Tue, 15 Jul 2025 02:01:00 GMT"
+    },
+    {
+      "title": "Japan calls China\u2019s military activity its biggest strategic challenge - AP News",
+      "pubDate": "Tue, 15 Jul 2025 12:53:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Republicans plot a strategy to fend off Democratic onslaught against Trump megabill - NBC News",
-      "pubDate": "Mon, 07 Jul 2025 22:06:53 GMT"
-    },
     {
       "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
@@ -1575,6 +1571,10 @@
     {
       "title": "Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks - Ars Technica",
       "pubDate": "Mon, 14 Jul 2025 18:25:36 GMT"
+    },
+    {
+      "title": "National Guard was hacked by China's \u2018Salt Typhoon\u2019 group, DHS says - NBC News",
+      "pubDate": "Tue, 15 Jul 2025 19:06:41 GMT"
     }
   ],
   "recession": [
@@ -1919,10 +1919,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump executive order seeks end to wind and solar energy subsidies - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 22:38:47 GMT"
-    },
-    {
       "title": "A heat wave hit New England\u2019s grid. Clean energy saved the day. - Canary Media",
       "pubDate": "Tue, 08 Jul 2025 07:30:00 GMT"
     },
@@ -2022,10 +2018,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla short sellers score $1.4 billion windfall as Musk\u2019s political moves tank stock - USA Today",
-      "pubDate": "Mon, 07 Jul 2025 22:32:14 GMT"
-    },
     {
       "title": "Tesla Is Headed to Trial Over Another Deadly Autopilot Crash - Business Insider",
       "pubDate": "Sat, 12 Jul 2025 09:02:00 GMT"
@@ -2275,6 +2267,10 @@
     {
       "title": "Bitcoin Pulls Back as Record Rally Triggers Profit Taking - Bloomberg",
       "pubDate": "Tue, 15 Jul 2025 12:32:25 GMT"
+    },
+    {
+      "title": "Bitcoin falls below $117,000 after Trump crypto bills are blocked before vote - CNBC",
+      "pubDate": "Tue, 15 Jul 2025 20:04:52 GMT"
     }
   ],
   "us_congress": [
@@ -2583,10 +2579,6 @@
   ],
   "science": [
     {
-      "title": "Melting glaciers could trigger volcanic eruptions around the globe, study finds - Live Science",
-      "pubDate": "Mon, 07 Jul 2025 23:01:00 GMT"
-    },
-    {
       "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
       "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
     },
@@ -2836,10 +2828,6 @@
     }
   ],
   "ethereum": [
-    {
-      "title": "Two Ethereum Genesis Wallets Wake, Move $2.9M ETH - Cointelegraph",
-      "pubDate": "Mon, 07 Jul 2025 22:03:56 GMT"
-    },
     {
       "title": "Ethereum Surges 30% to $2,817 Breaking $2,800 Resistance - AInvest",
       "pubDate": "Sun, 13 Jul 2025 04:16:09 GMT"
@@ -3471,6 +3459,10 @@
     {
       "title": "93 Palestinians killed in Israeli strikes in Gaza, Hamas-run health ministry says - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 18:13:13 GMT"
+    },
+    {
+      "title": "UN rapporteur demands global action to stop Israel\u2019s \u2018genocide\u2019 in Gaza - Al Jazeera",
+      "pubDate": "Tue, 15 Jul 2025 21:45:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3893,6 +3885,10 @@
     {
       "title": "Why our methane-detecting satellite shows that climate action must now aim sky-high - The World Economic Forum",
       "pubDate": "Tue, 15 Jul 2025 16:17:00 GMT"
+    },
+    {
+      "title": "NASA Pulls Back From Promise to Host Major Climate Change Reports, Citing Legal Loophole - Inside Climate News",
+      "pubDate": "Tue, 15 Jul 2025 17:56:18 GMT"
     }
   ],
   "violence": [
