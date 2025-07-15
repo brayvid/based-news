@@ -373,10 +373,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Anthropic proposes new transparency framework for frontier AI models - PPC Land",
-      "pubDate": "Mon, 07 Jul 2025 20:12:16 GMT"
-    },
-    {
       "title": "Expert Says AI Systems May Be Hiding Their True Capabilities to Seed Our Destruction - Futurism",
       "pubDate": "Mon, 07 Jul 2025 21:07:58 GMT"
     },
@@ -723,10 +719,6 @@
       "pubDate": "Mon, 07 Jul 2025 22:33:41 GMT"
     },
     {
-      "title": "Understanding the climate connection with the devastating Texas floods - Climate Central",
-      "pubDate": "Mon, 07 Jul 2025 21:02:41 GMT"
-    },
-    {
       "title": "Heavy Rain in Texas Floods Intensified By Human-Driven Climate Change: Study - Earth.Org",
       "pubDate": "Tue, 08 Jul 2025 01:53:18 GMT"
     },
@@ -1048,10 +1040,6 @@
     }
   ],
   "china": [
-    {
-      "title": "How Harvard\u2019s Ties to China Helped Make It a White House Target - The New York Times",
-      "pubDate": "Mon, 07 Jul 2025 20:31:26 GMT"
-    },
     {
       "title": "China warns Trump on tariffs, threatens retaliation on supply chain deals - Reuters",
       "pubDate": "Tue, 08 Jul 2025 04:11:00 GMT"
@@ -1395,6 +1383,10 @@
     {
       "title": "US State Department begins layoffs in Trump\u2019s shake-up of diplomatic corps - Al Jazeera",
       "pubDate": "Sat, 12 Jul 2025 01:13:55 GMT"
+    },
+    {
+      "title": "Trump's UN envoy pick Waltz says US needs strong voice to counter China - Reuters",
+      "pubDate": "Tue, 15 Jul 2025 18:57:00 GMT"
     }
   ],
   "trade_war": [
@@ -1643,10 +1635,6 @@
   ],
   "hamas": [
     {
-      "title": "Hamas Says Lost Control Of 80% Of Gaza Amid IDF Advance | LIVE BLOG - i24NEWS",
-      "pubDate": "Mon, 07 Jul 2025 20:48:31 GMT"
-    },
-    {
       "title": "Trump pushes Netanyahu for Gaza truce, says Hamas 'wants' latest ceasefire deal - France 24",
       "pubDate": "Tue, 08 Jul 2025 03:40:17 GMT"
     },
@@ -1788,10 +1776,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "The Trump-Musk breakup appears to be complete - CNN",
-      "pubDate": "Mon, 07 Jul 2025 20:11:00 GMT"
-    },
     {
       "title": "Elon Musk's Trump fallout poses deepening risks to Tesla, SpaceX - Axios",
       "pubDate": "Tue, 08 Jul 2025 09:02:10 GMT"
@@ -2005,10 +1989,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "House Preps For Crypto Week; Core Scientific Tumbles; Bit Digital Ditches Bitcoin - Investor's Business Daily",
-      "pubDate": "Mon, 07 Jul 2025 20:31:00 GMT"
-    },
-    {
       "title": "Trump Media files for 'Crypto Blue Chip ETF' with SEC - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 08 Jul 2025 16:44:54 GMT"
     },
@@ -2055,10 +2035,6 @@
       "pubDate": "Mon, 07 Jul 2025 22:32:14 GMT"
     },
     {
-      "title": "Tesla slides as Musk's 'America Party' heightens investor worries - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 20:46:39 GMT"
-    },
-    {
       "title": "Tesla Is Headed to Trial Over Another Deadly Autopilot Crash - Business Insider",
       "pubDate": "Sat, 12 Jul 2025 09:02:00 GMT"
     },
@@ -2076,10 +2052,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "Takeaways from the Supreme Court's Term - American Civil Liberties Union",
-      "pubDate": "Mon, 07 Jul 2025 20:57:43 GMT"
-    },
     {
       "title": "US Supreme Court lifts order that blocked Trump's mass federal layoffs - Reuters",
       "pubDate": "Tue, 08 Jul 2025 19:47:57 GMT"
@@ -2707,10 +2679,6 @@
   ],
   "brics": [
     {
-      "title": "BRICS nations push back as Trump warns of tariffs - NPR",
-      "pubDate": "Mon, 07 Jul 2025 20:22:18 GMT"
-    },
-    {
       "title": "Trump promises more tariff letters and warns BRICS of what\u2019s coming - CNN",
       "pubDate": "Wed, 09 Jul 2025 07:56:00 GMT"
     }
@@ -2794,10 +2762,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Another business permanently closes following Minneapolis water main break - Bring Me The News",
-      "pubDate": "Mon, 07 Jul 2025 20:13:04 GMT"
-    },
     {
       "title": "North Carolina is America's Top State for Business in 2025, led by a strong workforce and economy - CNBC",
       "pubDate": "Thu, 10 Jul 2025 12:21:01 GMT"
@@ -4083,6 +4047,12 @@
     {
       "title": "Google inks $3 billion US hydropower deal in largest clean energy agreement of its kind - Reuters",
       "pubDate": "Tue, 15 Jul 2025 17:22:17 GMT"
+    }
+  ],
+  "northeastern_united_states": [
+    {
+      "title": "Two dead in New Jersey as soaked US northeast braces for more rain - Al Jazeera",
+      "pubDate": "Tue, 15 Jul 2025 16:30:11 GMT"
     }
   ]
 }
