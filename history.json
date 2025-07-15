@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "LIVE: Gaza hospital, shelters, and aid sites attacked by Israel killing 42 - Al Jazeera",
-      "pubDate": "Mon, 07 Jul 2025 10:35:39 GMT"
-    },
-    {
       "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 10:31:49 GMT"
     },
@@ -101,6 +97,10 @@
     {
       "title": "Iran vows Israel will 'pay the price' for 'assassination' attempt on president - Ynetnews",
       "pubDate": "Sun, 13 Jul 2025 15:11:04 GMT"
+    },
+    {
+      "title": "UN Warns of Afghan Refugee Crisis as Iran Deports Thousands - Bloomberg.com",
+      "pubDate": "Tue, 15 Jul 2025 09:18:13 GMT"
     }
   ],
   "donald_trump": [
@@ -699,16 +699,16 @@
     {
       "title": "Nvidia to Resume H20 AI Chip Sales to China in US Reversal - Bloomberg",
       "pubDate": "Tue, 15 Jul 2025 06:43:00 GMT"
+    },
+    {
+      "title": "Nvidia says it has Trump administration green light to sell China its advanced H20 computer chips used for AI - CBS News",
+      "pubDate": "Tue, 15 Jul 2025 09:14:40 GMT"
     }
   ],
   "climate": [
     {
       "title": "Texas Disaster Raises Alarms on Climate Readiness - Bloomberg",
       "pubDate": "Mon, 07 Jul 2025 12:22:38 GMT"
-    },
-    {
-      "title": "Scientists Say: Heat dome - Science News Explores",
-      "pubDate": "Mon, 07 Jul 2025 10:32:03 GMT"
     },
     {
       "title": "Floods are getting more dangerous around the country, not just in Texas - NPR",
@@ -1283,6 +1283,10 @@
     {
       "title": "US nuclear regulator asks job seekers political questions - Reuters",
       "pubDate": "Tue, 15 Jul 2025 00:44:00 GMT"
+    },
+    {
+      "title": "Trump hails supreme court decision to let him dismantle education department \u2013 US politics live - The Guardian",
+      "pubDate": "Tue, 15 Jul 2025 09:52:16 GMT"
     }
   ],
   "democratic_party": [
@@ -1672,10 +1676,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Netanyahu to meet Trump at White House as Israel, Hamas discuss ceasefire - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 10:36:00 GMT"
-    },
     {
       "title": "Israel, Hamas to hold Gaza truce talks as Netanyahu due to meet Trump - Al Jazeera",
       "pubDate": "Mon, 07 Jul 2025 13:23:52 GMT"
@@ -2121,10 +2121,6 @@
   ],
   "tesla": [
     {
-      "title": "Tesla shares plunge again as politics, China weigh on Musk - Axios",
-      "pubDate": "Mon, 07 Jul 2025 10:29:54 GMT"
-    },
-    {
       "title": "Tesla Stock Slides After Musk Says He\u2019s Creating a New Political Party - WSJ",
       "pubDate": "Mon, 07 Jul 2025 18:43:00 GMT"
     },
@@ -2238,10 +2234,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Tesla CEO Elon Musk Confirms Wild Rumors As $37 Trillion \u2018Emergency\u2019 Predicted To Blow Up Bitcoin Price - Forbes",
-      "pubDate": "Mon, 07 Jul 2025 10:25:00 GMT"
-    },
     {
       "title": "Bitcoin's Price Stagnation Drives Bearish Sentiment in Long-Term Options Market - AInvest",
       "pubDate": "Mon, 07 Jul 2025 11:34:56 GMT"
@@ -2377,6 +2369,10 @@
     {
       "title": "Federal Agencies Clarify Bank Rules for Bitcoin Custody - Bitbo",
       "pubDate": "Tue, 15 Jul 2025 02:35:53 GMT"
+    },
+    {
+      "title": "Satoshi-era whale moves $4.6B in Bitcoin after 14-year HODL - Cointelegraph",
+      "pubDate": "Tue, 15 Jul 2025 10:07:24 GMT"
     }
   ],
   "us_congress": [
@@ -2845,10 +2841,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Computing Threat: 25% of Bitcoin (BTC) at Risk as Polyhedra (ZKJ) Crashes 80% After Liquidity Attack - Blockchain News",
-      "pubDate": "Mon, 07 Jul 2025 10:12:43 GMT"
-    },
-    {
       "title": "Quantum Computing Giant IonQ Secures Largest-Ever $1B Investment Deal at Remarkable 25% Premium - Stock Titan",
       "pubDate": "Mon, 07 Jul 2025 12:55:00 GMT"
     },
@@ -3099,10 +3091,6 @@
   ],
   "large_language_models": [
     {
-      "title": "How a big shift in training LLMs led to a capability explosion - Ars Technica",
-      "pubDate": "Mon, 07 Jul 2025 11:00:17 GMT"
-    },
-    {
       "title": "Study could lead to LLMs that are better at complex reasoning - MIT News",
       "pubDate": "Tue, 08 Jul 2025 04:00:00 GMT"
     },
@@ -3198,10 +3186,6 @@
     }
   ],
   "solar_power": [
-    {
-      "title": "Researchers make major breakthrough that could change future of solar power: 'Saw excellent results in every case' - The Cool Down",
-      "pubDate": "Mon, 07 Jul 2025 10:45:40 GMT"
-    },
     {
       "title": "Solar becomes top source of electricity in California - pv magazine USA",
       "pubDate": "Wed, 09 Jul 2025 11:39:45 GMT"
@@ -3761,6 +3745,10 @@
     {
       "title": "New quantum battery breakthrough boosts energy storage by 1,000x - The Brighter Side of News",
       "pubDate": "Wed, 09 Jul 2025 16:07:00 GMT"
+    },
+    {
+      "title": "China Slaps Export Curbs on EV Battery Technology - The Wall Street Journal",
+      "pubDate": "Tue, 15 Jul 2025 09:51:00 GMT"
     }
   ],
   "spacex": [
@@ -4149,6 +4137,10 @@
     {
       "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
       "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Melting Arctic ice bolstering North Atlantic Ocean currents, for now - Phys.org",
+      "pubDate": "Tue, 15 Jul 2025 10:40:02 GMT"
     }
   ],
   "cosmology": [
