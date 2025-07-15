@@ -295,10 +295,6 @@
       "pubDate": "Mon, 07 Jul 2025 15:04:00 GMT"
     },
     {
-      "title": "Russia Appears To Be Hiding Its Death Figures - Newsweek",
-      "pubDate": "Mon, 07 Jul 2025 13:15:12 GMT"
-    },
-    {
       "title": "Russia Locks Up Population Data With War in Ukraine in Its Fourth Year - Bloomberg.com",
       "pubDate": "Tue, 08 Jul 2025 07:25:28 GMT"
     },
@@ -372,10 +368,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Two State AI Laws to Watch - The Information",
-      "pubDate": "Mon, 07 Jul 2025 14:00:00 GMT"
-    },
     {
       "title": "Anthropic proposes new transparency framework for frontier AI models - PPC Land",
       "pubDate": "Mon, 07 Jul 2025 20:12:16 GMT"
@@ -707,6 +699,10 @@
     {
       "title": "Nvidia says it has Trump administration green light to sell China its advanced H20 computer chips used for AI - CBS News",
       "pubDate": "Tue, 15 Jul 2025 09:14:40 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Reveals $100bn Meta AI Supercluster Push - Data Centre Magazine",
+      "pubDate": "Tue, 15 Jul 2025 08:43:51 GMT"
     }
   ],
   "climate": [
@@ -1221,10 +1217,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump to terminate deportation protection for thousands of Hondurans and Nicaraguans in U.S. - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 13:52:51 GMT"
-    },
-    {
       "title": "Trump announces steep tariffs on five more countries starting Aug. 1 - CNBC",
       "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
     },
@@ -1287,6 +1279,10 @@
     {
       "title": "Trump hails supreme court decision to let him dismantle education department \u2013 US politics live - The Guardian",
       "pubDate": "Tue, 15 Jul 2025 09:52:16 GMT"
+    },
+    {
+      "title": "Trump Reluctantly Comes Around to Backing Ukraine. Will He Stick With It? - The New York Times",
+      "pubDate": "Tue, 15 Jul 2025 02:08:31 GMT"
     }
   ],
   "democratic_party": [
@@ -1676,10 +1672,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Israel, Hamas to hold Gaza truce talks as Netanyahu due to meet Trump - Al Jazeera",
-      "pubDate": "Mon, 07 Jul 2025 13:23:52 GMT"
-    },
     {
       "title": "Where Do Israel-Hamas Truce Negotiations Stand? - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 14:11:44 GMT"
@@ -2511,10 +2503,6 @@
   ],
   "earth_science": [
     {
-      "title": "Scientists discover giant 'sinkites' beneath the North Sea - Phys.org",
-      "pubDate": "Mon, 07 Jul 2025 13:19:03 GMT"
-    },
-    {
       "title": "Scientists Rewrite the Story of Earth\u2019s First Continents With a Fiery New Twist - SciTechDaily",
       "pubDate": "Thu, 10 Jul 2025 08:30:01 GMT"
     },
@@ -3161,10 +3149,6 @@
   ],
   "defense_intelligence_agency": [
     {
-      "title": "Trump accuses Democrats of leaking intel assessment of Iran strikes: \u2018They should be prosecuted!\u2019 - AOL.com",
-      "pubDate": "Mon, 07 Jul 2025 13:43:02 GMT"
-    },
-    {
       "title": "North Korea sends 12M+ shells to Russia - Shafaq News - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
       "pubDate": "Sun, 13 Jul 2025 07:22:23 GMT"
     }
@@ -3203,10 +3187,6 @@
   ],
   "apple": [
     {
-      "title": "Apple appeals 500 million euro EU fine over App Store policies - CNBC",
-      "pubDate": "Mon, 07 Jul 2025 13:29:25 GMT"
-    },
-    {
       "title": "Apple Arcade launches four new games in August - Apple",
       "pubDate": "Tue, 08 Jul 2025 13:59:48 GMT"
     },
@@ -3221,13 +3201,13 @@
     {
       "title": "Apple needs a new CEO to survive the high-stakes AI race, analysts warn - The Indian Express",
       "pubDate": "Mon, 14 Jul 2025 04:10:00 GMT"
+    },
+    {
+      "title": "Apple backs Trump rare earth minerals push, invests $500M in US mine - Fox Business",
+      "pubDate": "Tue, 15 Jul 2025 09:00:00 GMT"
     }
   ],
   "chemistry": [
-    {
-      "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
-      "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
-    },
     {
       "title": "Scientists Mapped the Secret World of Platinum Atoms \u2013 And It Changes Everything - SciTechDaily",
       "pubDate": "Tue, 08 Jul 2025 04:42:52 GMT"
@@ -3255,19 +3235,11 @@
   ],
   "universe": [
     {
-      "title": "Scientists hear the universe hum \u2014 Strange cosmic waves echo through space - ecoportal.net",
-      "pubDate": "Mon, 07 Jul 2025 13:50:48 GMT"
-    },
-    {
       "title": "Scientists calculate 'death date' of universe before the 'big crunch' takes place - LADbible",
       "pubDate": "Tue, 08 Jul 2025 20:04:26 GMT"
     }
   ],
   "analytics": [
-    {
-      "title": "GoodData Launches AI for Self-Hosted Analytics: Powerful, Proven, Private - USA Today",
-      "pubDate": "Mon, 07 Jul 2025 13:13:38 GMT"
-    },
     {
       "title": "Sensormatic Launches AI-Powered Retail Analytics Platform with Privacy-First Design | JCI Stock News - Stock Titan",
       "pubDate": "Tue, 08 Jul 2025 14:28:00 GMT"
@@ -3877,6 +3849,10 @@
     {
       "title": "The biggest black hole smashup ever detected challenges physics theories - Science News",
       "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
+    },
+    {
+      "title": "Scientists spot massive black hole collision that defies current theories - theregister.com",
+      "pubDate": "Tue, 15 Jul 2025 06:33:00 GMT"
     }
   ],
   "earth's_atmosphere": [
@@ -4057,6 +4033,10 @@
     {
       "title": "Study: Climate change helps diversify, increase transmissibility of West Nile virus - CIDRAP",
       "pubDate": "Mon, 14 Jul 2025 20:21:37 GMT"
+    },
+    {
+      "title": "How climate change fuels wildfires in Europe - Reuters",
+      "pubDate": "Tue, 15 Jul 2025 09:04:34 GMT"
     }
   ],
   "violence": [
