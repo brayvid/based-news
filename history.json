@@ -711,10 +711,6 @@
       "pubDate": "Mon, 07 Jul 2025 17:30:06 GMT"
     },
     {
-      "title": "World Court to issue climate change opinion on July 23 - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 16:49:25 GMT"
-    },
-    {
       "title": "Extreme weather events like Texas rain are more likely to occur due to climate change, scientists warn - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 07 Jul 2025 22:33:41 GMT"
     },
@@ -1027,6 +1023,10 @@
     {
       "title": "Donald Trump asked Volodymyr Zelenskyy if Ukraine could hit Moscow, say people briefed on call - Financial Times",
       "pubDate": "Tue, 15 Jul 2025 08:58:11 GMT"
+    },
+    {
+      "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
+      "pubDate": "Tue, 15 Jul 2025 14:15:01 GMT"
     }
   ],
   "us_economy": [
@@ -1213,10 +1213,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump announces steep tariffs on five more countries starting Aug. 1 - CNBC",
-      "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
-    },
-    {
       "title": "Republicans plot a strategy to fend off Democratic onslaught against Trump megabill - NBC News",
       "pubDate": "Mon, 07 Jul 2025 22:06:53 GMT"
     },
@@ -1401,20 +1397,8 @@
   ],
   "trade_war": [
     {
-      "title": "Trump announces 25% tariffs on Japan, South Korea in first U.S. trade letters - CNBC",
-      "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
-    },
-    {
-      "title": "Trump says 25% tariffs coming for Japan and South Korea as trade war escalates again - USA Today",
-      "pubDate": "Mon, 07 Jul 2025 16:46:21 GMT"
-    },
-    {
       "title": "Trump Announces 25% Tariffs on Japan and South Korea: Live Updates - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 17:58:26 GMT"
-    },
-    {
-      "title": "Trump Revives Trade War, Threatening Steep Aug. 1 Tariffs on Allies - The New York Times",
-      "pubDate": "Mon, 07 Jul 2025 16:59:45 GMT"
     },
     {
       "title": "Trump sets 25% tariffs on Japan and South Korea, and new import taxes on 12 other nations - AP News",
@@ -1861,10 +1845,6 @@
   ],
   "cancer": [
     {
-      "title": "Survival rates for cancer patients on immunotherapy depend on insurance coverage, study finds - STAT",
-      "pubDate": "Mon, 07 Jul 2025 16:38:08 GMT"
-    },
-    {
       "title": "New Cancer Drug Blocks Tumors Without Debilitating Side Effects - SciTechDaily",
       "pubDate": "Mon, 07 Jul 2025 21:29:50 GMT"
     },
@@ -1959,6 +1939,10 @@
     {
       "title": "Why the health care lobby failed to stop cuts to Medicaid funding - NPR",
       "pubDate": "Mon, 14 Jul 2025 17:31:23 GMT"
+    },
+    {
+      "title": "Oregon Health Authority committee floats cap on commercial health insurance payments to hospitals - OregonLive.com",
+      "pubDate": "Tue, 15 Jul 2025 13:03:00 GMT"
     }
   ],
   "world_economy": [
@@ -2189,6 +2173,10 @@
     {
       "title": "Secret Afghan relocation scheme set up after major data breach - BBC",
       "pubDate": "Tue, 15 Jul 2025 11:22:28 GMT"
+    },
+    {
+      "title": "Thousands of Afghans were resettled in Britain after a data leak put them in danger - NBC News",
+      "pubDate": "Tue, 15 Jul 2025 14:13:34 GMT"
     }
   ],
   "technology": [
@@ -2505,19 +2493,11 @@
   ],
   "atmospheric_science": [
     {
-      "title": "A remote research station conducts critical science far from civilization - The Washington Post",
-      "pubDate": "Mon, 07 Jul 2025 17:00:15 GMT"
-    },
-    {
       "title": "Mysterious 'Sprite' Phenomenon Stuns Mexico - OpenTools",
       "pubDate": "Tue, 08 Jul 2025 11:08:46 GMT"
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI's Sam Altman rebukes Democratic Party in scathing July 4 message - Fox Business",
-      "pubDate": "Mon, 07 Jul 2025 16:57:35 GMT"
-    },
     {
       "title": "OpenAI tightens the screws on security to keep away prying eyes - TechCrunch",
       "pubDate": "Tue, 08 Jul 2025 05:44:33 GMT"
@@ -2857,10 +2837,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
-      "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
-    },
-    {
       "title": "What is AGI? Nobody agrees, and it\u2019s tearing Microsoft and OpenAI apart. - Ars Technica",
       "pubDate": "Tue, 08 Jul 2025 16:50:29 GMT"
     },
@@ -3083,6 +3059,10 @@
     {
       "title": "Russia and China discuss Ukraine war and ties with the United States - Reuters",
       "pubDate": "Sun, 13 Jul 2025 15:31:02 GMT"
+    },
+    {
+      "title": "Japan's defense white paper highlights China's military drills around Taiwan - Focus Taiwan",
+      "pubDate": "Tue, 15 Jul 2025 14:06:00 GMT"
     }
   ],
   "finance": [
@@ -3199,12 +3179,6 @@
       "pubDate": "Tue, 08 Jul 2025 14:28:00 GMT"
     }
   ],
-  "cloud_computing": [
-    {
-      "title": "CoreWeave joins data centre race: Nvidia-backed cloud computing firm set to buy Core Scientific for $9 billion - Mint",
-      "pubDate": "Mon, 07 Jul 2025 16:27:55 GMT"
-    }
-  ],
   "health": [
     {
       "title": "Major medical associations sue Kennedy, Trump administration health leaders for Covid-19 vaccine changes - CNN",
@@ -3242,10 +3216,6 @@
     }
   ],
   "effects_of_global_warming": [
-    {
-      "title": "Study warns 1.5-degree warming limit can\u2019t prevent dangers of melting glaciers - PBS",
-      "pubDate": "Mon, 07 Jul 2025 16:21:00 GMT"
-    },
     {
       "title": "Melting Glaciers Could Reawaken Hundreds of Earth's Volcanoes - ScienceAlert",
       "pubDate": "Fri, 11 Jul 2025 02:58:07 GMT"
