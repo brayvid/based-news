@@ -361,13 +361,13 @@
     {
       "title": "Russia\u2019s economy minister warns that the country is on the brink of recession - AOL.com",
       "pubDate": "Tue, 15 Jul 2025 08:23:31 GMT"
+    },
+    {
+      "title": "Trump threatens tariffs targeting Russia without deal to end Ukraine war in 50 days - CBS News",
+      "pubDate": "Tue, 15 Jul 2025 07:16:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Safe Systems and Technologies: Ensuring responsible AI - Capgemini",
-      "pubDate": "Mon, 07 Jul 2025 11:49:48 GMT"
-    },
     {
       "title": "Two State AI Laws to Watch - The Information",
       "pubDate": "Mon, 07 Jul 2025 14:00:00 GMT"
@@ -1039,10 +1039,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economy shrank faster than expected, new data shows - AOL.com",
-      "pubDate": "Mon, 07 Jul 2025 11:26:59 GMT"
-    },
-    {
       "title": "US Economy Entering \u201cWorse Than Recession\u201d Territory \u2013 What It Means for Consumers - MSN",
       "pubDate": "Wed, 09 Jul 2025 10:02:25 GMT"
     },
@@ -1211,6 +1207,10 @@
     {
       "title": "Nvidia Reveals Next Trump U-Turn in Trade Talks With China - Bloomberg",
       "pubDate": "Tue, 15 Jul 2025 09:25:31 GMT"
+    },
+    {
+      "title": "China's second-quarter growth beats forecasts but deflation fears fuel calls for stimulus, deeper reform - CNBC",
+      "pubDate": "Tue, 15 Jul 2025 02:01:00 GMT"
     }
   ],
   "world_news": [
@@ -1647,10 +1647,6 @@
   ],
   "drones": [
     {
-      "title": "Ukrainian drone strike hits major oil refinery in Russia's Krasnodar Krai, HUR source claims - The Kyiv Independent",
-      "pubDate": "Mon, 07 Jul 2025 12:01:48 GMT"
-    },
-    {
       "title": "Russia fires over 100 drones at Ukraine killing at least 10 civilians, authorities say - PBS",
       "pubDate": "Mon, 07 Jul 2025 14:14:10 GMT"
     },
@@ -1683,10 +1679,6 @@
     {
       "title": "Where Do Israel-Hamas Truce Negotiations Stand? - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 14:11:44 GMT"
-    },
-    {
-      "title": "Senior Hamas commander says group\u2019s control over Gaza has \u2018completely collapsed\u2019 - The Times of Israel",
-      "pubDate": "Mon, 07 Jul 2025 11:44:34 GMT"
     },
     {
       "title": "Experts Break Down The Biggest Roadblocks to the Israel-Hamas Cease-Fire Negotiations - Time Magazine",
@@ -1730,10 +1722,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Trump takes on the Fed \u2013 but he has little power over central bank, economists say - The Guardian",
-      "pubDate": "Mon, 07 Jul 2025 11:02:00 GMT"
-    },
     {
       "title": "Federal Reserve Bank of Philadelphia Ushers In New Era As Anna Paulson Takes Reigns - PHILADELPHIA.Today",
       "pubDate": "Tue, 08 Jul 2025 18:01:34 GMT"
@@ -1889,10 +1877,6 @@
   ],
   "cancer": [
     {
-      "title": "Jessie J reveals cancer operation success - BBC",
-      "pubDate": "Mon, 07 Jul 2025 11:13:42 GMT"
-    },
-    {
       "title": "Survival rates for cancer patients on immunotherapy depend on insurance coverage, study finds - STAT",
       "pubDate": "Mon, 07 Jul 2025 16:38:08 GMT"
     },
@@ -1951,6 +1935,10 @@
     {
       "title": "Obesity is driving a hidden cancer epidemic\u201413 types and rising deaths nationwide - ScienceDaily",
       "pubDate": "Tue, 15 Jul 2025 07:38:45 GMT"
+    },
+    {
+      "title": "Obesity-Related Cancer Deaths More Than Triple - Medscape",
+      "pubDate": "Tue, 15 Jul 2025 11:29:07 GMT"
     }
   ],
   "space_exploration": [
@@ -2225,6 +2213,10 @@
     {
       "title": "5.4 million hit in major healthcare data breach \u2014 names, emails, SSNs and more exposed - Tom's Guide",
       "pubDate": "Mon, 14 Jul 2025 21:57:23 GMT"
+    },
+    {
+      "title": "Secret Afghan relocation scheme set up after major data breach - BBC",
+      "pubDate": "Tue, 15 Jul 2025 11:22:28 GMT"
     }
   ],
   "technology": [
@@ -2234,10 +2226,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin's Price Stagnation Drives Bearish Sentiment in Long-Term Options Market - AInvest",
-      "pubDate": "Mon, 07 Jul 2025 11:34:56 GMT"
-    },
     {
       "title": "Bitcoin is coiled to break out to $170k, analyst says - Fox Business",
       "pubDate": "Tue, 08 Jul 2025 19:13:49 GMT"
@@ -2681,6 +2669,10 @@
     {
       "title": "Google to pay $2.4 billion in deal to license tech of Windsurf, WSJ reports - Reuters",
       "pubDate": "Sat, 12 Jul 2025 02:34:57 GMT"
+    },
+    {
+      "title": "Google to invest billions for hydroelectric energy and artificial intelligence in Pa. - Pittsburgh Post-Gazette",
+      "pubDate": "Tue, 15 Jul 2025 10:00:00 GMT"
     }
   ],
   "microsoft": [
@@ -2960,10 +2952,6 @@
     }
   ],
   "electric-vehicle_battery": [
-    {
-      "title": "Officials announce groundbreaking policy to address major issue with electric vehicles: 'Taking significant steps' - The Cool Down",
-      "pubDate": "Mon, 07 Jul 2025 11:15:52 GMT"
-    },
     {
       "title": "U.S. Ends Electric Vehicle Tax Credit, Hurting Domestic Battery Manufacturers Amid Chinese Competition - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Mon, 07 Jul 2025 20:00:00 GMT"
@@ -3667,6 +3655,10 @@
     {
       "title": "US-backed ceasefire plan for Gaza still under discussion, but optimism fading - Reuters",
       "pubDate": "Tue, 15 Jul 2025 07:26:57 GMT"
+    },
+    {
+      "title": "Israel's new 'humanitarian city' in Gaza: leaks and rows, but no real plan - Reuters",
+      "pubDate": "Tue, 15 Jul 2025 10:19:44 GMT"
     }
   ],
   "history_of_the_earth": [
