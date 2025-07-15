@@ -105,10 +105,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump slams ex-ally Musk\u2019s political party as \u2018ridiculous\u2019 - Al Jazeera",
-      "pubDate": "Mon, 07 Jul 2025 07:22:11 GMT"
-    },
-    {
       "title": "Trump announces new tariffs of up to 40% on a growing number of countries - CNN",
       "pubDate": "Mon, 07 Jul 2025 19:34:00 GMT"
     },
@@ -283,6 +279,10 @@
     {
       "title": "Trump says Putin\u2019s talk about achieving peace \u2018doesn\u2019t mean anything\u2019 - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 06:20:31 GMT"
+    },
+    {
+      "title": "Thousands of vehicles sit idle at EU port as Trump\u2019s tariffs leave their mark - The Guardian",
+      "pubDate": "Tue, 15 Jul 2025 07:00:00 GMT"
     }
   ],
   "russia": [
@@ -695,13 +695,13 @@
     {
       "title": "Nvidia says it will resume sale of key AI chip to China - WRAL.com",
       "pubDate": "Tue, 15 Jul 2025 05:44:55 GMT"
+    },
+    {
+      "title": "Nvidia says Trump administration lifts ban on AI chip sales to China - The Washington Post",
+      "pubDate": "Tue, 15 Jul 2025 07:25:19 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "How climate change is worsening flooding and heavy rainfall - Grist.org",
-      "pubDate": "Mon, 07 Jul 2025 08:01:12 GMT"
-    },
     {
       "title": "Wildfires erupt across Mediterranean as heatwave worsens - Al Jazeera",
       "pubDate": "Mon, 07 Jul 2025 09:55:38 GMT"
@@ -1231,6 +1231,10 @@
     {
       "title": "China GDP: Economic growth beats expectations as Trump tariffs loom - BBC",
       "pubDate": "Tue, 15 Jul 2025 04:30:50 GMT"
+    },
+    {
+      "title": "China\u2019s Economy Grows Steadily Despite Trump\u2019s Tariffs - The New York Times",
+      "pubDate": "Tue, 15 Jul 2025 03:36:31 GMT"
     }
   ],
   "world_news": [
@@ -2405,6 +2409,10 @@
     {
       "title": "MicroStrategy\u2019s stock surges as bitcoin purchases resume, lifting holdings to above 600,000 - MarketWatch",
       "pubDate": "Mon, 14 Jul 2025 14:29:00 GMT"
+    },
+    {
+      "title": "Bitcoin Pegs Record; ETFs, Miners Breaking Out On Crypto Week Legislation Blitz - Investor's Business Daily",
+      "pubDate": "Mon, 14 Jul 2025 20:27:00 GMT"
     }
   ],
   "us_congress": [
@@ -2550,10 +2558,6 @@
     }
   ],
   "earth_science": [
-    {
-      "title": "Scientists unlock secrets of oldest rocks on Earth at Canada\u2019s Nuvvuagittuq Greenstone Belt - The Independent",
-      "pubDate": "Mon, 07 Jul 2025 07:50:00 GMT"
-    },
     {
       "title": "Scientists discover giant 'sinkites' beneath the North Sea - Phys.org",
       "pubDate": "Mon, 07 Jul 2025 13:19:03 GMT"
@@ -2979,6 +2983,10 @@
     {
       "title": "AI outsmarted 30 of the world's top mathematicians at secret meeting in California - Live Science",
       "pubDate": "Sat, 12 Jul 2025 13:51:00 GMT"
+    },
+    {
+      "title": "Concerns That AGI And AI Superintelligence Might Be Dangerously Deeply Loyal To Their AI Maker - Forbes",
+      "pubDate": "Tue, 15 Jul 2025 07:15:00 GMT"
     }
   ],
   "ancient_history": [
@@ -3699,6 +3707,10 @@
     {
       "title": "IDF issues evacuation order for Gaza City, Jabalia, saying fighting \u2018is spreading westward\u2019 - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 05:35:03 GMT"
+    },
+    {
+      "title": "EU foreign ministers set to weigh sanctions against Israel over Gaza war - The Times of Israel",
+      "pubDate": "Tue, 15 Jul 2025 05:54:51 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4085,6 +4097,10 @@
     {
       "title": "Federal court dismisses landmark Torres Strait climate case but warns of \u2018bleak future\u2019 without urgent action - The Guardian",
       "pubDate": "Tue, 15 Jul 2025 05:02:00 GMT"
+    },
+    {
+      "title": "Study: Climate change helps diversify, increase transmissibility of West Nile virus - CIDRAP",
+      "pubDate": "Mon, 14 Jul 2025 20:21:37 GMT"
     }
   ],
   "violence": [
