@@ -283,6 +283,10 @@
     {
       "title": "Trump joins tech and energy executives amid AI push - Reuters",
       "pubDate": "Tue, 15 Jul 2025 14:05:27 GMT"
+    },
+    {
+      "title": "Trump says Attorney General Bondi should release 'credible' information on Epstein - BBC",
+      "pubDate": "Wed, 16 Jul 2025 00:12:26 GMT"
     }
   ],
   "russia": [
@@ -467,6 +471,10 @@
     {
       "title": "Pentagon taps four commercial tech firms to expand military use of AI - Defense News",
       "pubDate": "Tue, 15 Jul 2025 15:20:28 GMT"
+    },
+    {
+      "title": "Industry leaders stress AI progress with focus on trust & impact - SecurityBrief New Zealand",
+      "pubDate": "Tue, 15 Jul 2025 23:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1359,13 +1367,13 @@
     {
       "title": "Trump's UN envoy pick Waltz says US needs strong voice to counter China - Reuters",
       "pubDate": "Tue, 15 Jul 2025 18:57:00 GMT"
+    },
+    {
+      "title": "US launches probe into Brazil\u2019s trade practices - CNN",
+      "pubDate": "Wed, 16 Jul 2025 05:42:00 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump ramps up trade war with tariff blitz targeting 14 countries - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 05:48:12 GMT"
-    },
     {
       "title": "Trump\u2019s new tariffs: Who is hit, what\u2019s next, how is the world responding? - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 12:45:32 GMT"
@@ -1611,10 +1619,6 @@
   ],
   "hamas": [
     {
-      "title": "Official says endgame in Gaza is 'no more Hamas,' Israel may have to take control for a while - The Times of Israel",
-      "pubDate": "Tue, 08 Jul 2025 05:12:13 GMT"
-    },
-    {
       "title": "Top Israeli Official Says Cease-fire Deal With Hamas Up to 90 Percent Agreed Upon - Haaretz",
       "pubDate": "Tue, 08 Jul 2025 06:52:00 GMT"
     },
@@ -1686,10 +1690,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "6.3-magnitude earthquake strikes off New Zealand coast - Latest news from Azerbaijan",
-      "pubDate": "Tue, 08 Jul 2025 05:49:20 GMT"
-    },
     {
       "title": "Hundreds of earthquakes detected at Washington's Mt. Rainier - FOX Weather",
       "pubDate": "Tue, 08 Jul 2025 17:47:00 GMT"
@@ -2433,10 +2433,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI tightens the screws on security to keep away prying eyes - TechCrunch",
-      "pubDate": "Tue, 08 Jul 2025 05:44:33 GMT"
-    },
-    {
       "title": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 09:00:08 GMT"
     },
@@ -2887,6 +2883,10 @@
     {
       "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
       "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
+    },
+    {
+      "title": "California reaches new record clean energy milestone - The Mercury News",
+      "pubDate": "Tue, 15 Jul 2025 18:40:32 GMT"
     }
   ],
   "large_language_models": [
@@ -3102,10 +3102,6 @@
     }
   ],
   "military_intelligence": [
-    {
-      "title": "Russia increasing military presence in Armenia, Ukraine claims - Euronews.com",
-      "pubDate": "Tue, 08 Jul 2025 05:50:56 GMT"
-    },
     {
       "title": "Ukraine Spy Chief Says 40% of Russian Ammunition Is North Korean - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 11:00:31 GMT"
@@ -4027,6 +4023,12 @@
     {
       "title": "Trump Touts $92 Billion AI, Energy Projects in Key Swing State - Barron's",
       "pubDate": "Tue, 15 Jul 2025 21:19:00 GMT"
+    }
+  ],
+  "amazon": [
+    {
+      "title": "EU Parliament threatens wider ban on lobbyists as Amazon spat deepens - politico.eu",
+      "pubDate": "Wed, 16 Jul 2025 03:38:00 GMT"
     }
   ]
 }
