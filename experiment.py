@@ -134,7 +134,7 @@ def perform_git_operations(base_dir):
             return
 
         # Commit the changes
-        commit_message = f"Automated: Update prediction data on {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z')}"
+        commit_message = f"Automated: Update prediction data on {datetime.datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z')}"
         subprocess.run(["git", "commit", "-m", commit_message], check=True, cwd=base_dir)
         logging.info(f"Committed changes with message: '{commit_message}'")
 
