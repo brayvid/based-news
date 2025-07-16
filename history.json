@@ -105,10 +105,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump tariffs live: Germany warns EU ready to retaliate unless US reaches \u2018fair\u2019 trade deal - Financial Times",
-      "pubDate": "Tue, 08 Jul 2025 12:24:45 GMT"
-    },
-    {
       "title": "Trump's tariffs: South Africa's President Cyril Ramaphosa opposes 'unilateral' move - BBC",
       "pubDate": "Tue, 08 Jul 2025 13:28:16 GMT"
     },
@@ -447,6 +443,10 @@
     {
       "title": "OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI' - VentureBeat",
       "pubDate": "Tue, 15 Jul 2025 22:49:59 GMT"
+    },
+    {
+      "title": "OpenAI, Google, Anthropic researchers warn about AI \u2018thoughts\u2019: Urgent need explained - digit.in",
+      "pubDate": "Wed, 16 Jul 2025 09:56:00 GMT"
     }
   ],
   "financial_markets": [
@@ -464,10 +464,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A Marco Rubio impostor is using AI voice to call high-level officials - The Washington Post",
-      "pubDate": "Tue, 08 Jul 2025 12:13:55 GMT"
-    },
     {
       "title": "OpenAI, Microsoft Back New Academy to Bring AI Into Classrooms - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 15:34:03 GMT"
@@ -708,10 +704,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war latest: Trump pledges more weapons for Kyiv - The Independent",
-      "pubDate": "Tue, 08 Jul 2025 12:52:00 GMT"
-    },
     {
       "title": "Ukraine urges investigation into alleged Russian chemical weapons use - Reuters",
       "pubDate": "Tue, 08 Jul 2025 15:35:44 GMT"
@@ -975,6 +967,10 @@
     {
       "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
       "pubDate": "Wed, 16 Jul 2025 08:23:45 GMT"
+    },
+    {
+      "title": "Trump says Ukraine should not target Moscow - Al Jazeera",
+      "pubDate": "Wed, 16 Jul 2025 04:57:23 GMT"
     }
   ],
   "us_economy": [
@@ -985,6 +981,10 @@
     {
       "title": "US Economy in a 'Goldilocks-Like Equilibrium' as Bitcoin Blasts Past $121K - Decrypt",
       "pubDate": "Mon, 14 Jul 2025 04:01:19 GMT"
+    },
+    {
+      "title": "Despite Dire Warnings, the Economy Is Holding Up. Can That Last? - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 09:01:55 GMT"
     }
   ],
   "china": [
@@ -1131,6 +1131,10 @@
     {
       "title": "China jails Japanese businessman for espionage, embassy says - Al Jazeera",
       "pubDate": "Wed, 16 Jul 2025 06:58:45 GMT"
+    },
+    {
+      "title": "China\u2019s nuclear weapons ploy is a war signal from Xi - The Hill",
+      "pubDate": "Wed, 16 Jul 2025 12:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1326,10 +1330,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump\u2019s new tariffs: Who is hit, what\u2019s next, how is the world responding? - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 12:45:32 GMT"
-    },
     {
       "title": "Trump says steep copper tariffs in store as he broadens his trade war - Reuters",
       "pubDate": "Tue, 08 Jul 2025 18:35:55 GMT"
@@ -1556,10 +1556,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Russia Adopts \u2018Double-Tap\u2019 Strategy in Civilian Drone Attacks - The Defense Post",
-      "pubDate": "Tue, 08 Jul 2025 12:35:25 GMT"
-    },
     {
       "title": "Ukraine Unveils Pocket-Sized Net Launcher to Take Down FPV Drones - UNITED24 Media",
       "pubDate": "Sat, 12 Jul 2025 10:05:13 GMT"
@@ -1825,6 +1821,10 @@
     {
       "title": "Oregon Health Authority committee floats cap on commercial health insurance payments to hospitals - OregonLive.com",
       "pubDate": "Tue, 15 Jul 2025 13:03:00 GMT"
+    },
+    {
+      "title": "More employers plan to pass along health care costs to workers in 2026 - CNN",
+      "pubDate": "Wed, 16 Jul 2025 10:00:00 GMT"
     }
   ],
   "world_economy": [
@@ -2315,6 +2315,10 @@
     {
       "title": "Nvidia Wins OK to Resume Sales of AI Chip to China After CEO Meets Trump - WSJ - The Wall Street Journal",
       "pubDate": "Tue, 15 Jul 2025 02:47:00 GMT"
+    },
+    {
+      "title": "As Nvidia gets a lifeline in China, Jensen Huang goes on the charm offensive in Beijing - CNBC",
+      "pubDate": "Wed, 16 Jul 2025 12:08:47 GMT"
     }
   ],
   "earth_science": [
@@ -2720,10 +2724,6 @@
     }
   ],
   "nasa": [
-    {
-      "title": "Trump\u2019s NASA budget could cede solar system to China, scientists warn - The Washington Post",
-      "pubDate": "Tue, 08 Jul 2025 13:01:32 GMT"
-    },
     {
       "title": "NASA Just Flew Through the Sun\u2019s Atmosphere \u2013 And What It Saw Is Jaw-Dropping - SciTechDaily",
       "pubDate": "Fri, 11 Jul 2025 08:39:56 GMT"
@@ -3347,6 +3347,10 @@
     {
       "title": "Gaza: GHF says 20 killed in 'crowd surge' at aid site - BBC",
       "pubDate": "Wed, 16 Jul 2025 07:40:42 GMT"
+    },
+    {
+      "title": "At Least 20 Killed in Stampede Outside a Gaza Aid Site - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 12:10:33 GMT"
     }
   ],
   "history_of_the_earth": [
