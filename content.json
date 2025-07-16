@@ -1,52 +1,12 @@
 {
-  "US Politics": {
+  "Trade War": {
     "articles": [
       {
-        "title": "Trump unveils more than $100B in AI, energy investments as part of major push for US to lead innovation over China - New York Post",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2xFRkFYWE1xelpEOUFRM0M2eTQyY0lTeU5ZTWNXMm90WkhKNjZHbTZSUmtVWnA3RnlvQTJsdjhVUUdlMGZiUmZPczlTNWgweUVYRVllVmM2ZXYzM3I1QVF5ZHR0SElKSWUtQUtBeHpheFNCbGllMHoxZDF0NXdIeUdoVEg4ajFBRlEwUjBRS0I4ZzQ?oc=5",
-        "pubDate": "Tue, 15 Jul 2025 23:05:38 GMT"
+        "title": "Trump Announces \u2018Great Deal\u2019 With Indonesia - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGtPVWNjd0kwQVZaaXVBaUtGYkwyVWZZejJILWF6WXZidlNYbnM2LTROc3ducmd3cTdYZlp1SDBBMUVmNll5NE13NHVHd2NyRmFiWjM2QzA3a25xYWhGYkYtT3hCSXN6OFpPS0pFY3RHNjR0c21FdTBVZ2xUeW9WeHdGLXZ0NU9TbWpvckVhRm5mQ0FYaGRudVhXUQ?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 11:10:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T11:01:27.319891+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Gaza: GHF says 20 killed in 'crowd surge' at aid site - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93SDNRZ0szcU1Wb1dmYzdTNjB3TElqRHBlSEMtQ3RWbDkteWJHRFBkTlpibzliWXROX00wUDMzN2ZyTkxZN1l1eDhnSFRzTnN4VjRuVmxwRjE4UdIBX0FVX3lxTE5NdHJlejRWNTdIdWY3RmRLdHBhVWNnalhHU2pOWUxiYUdjNjNPcUlzQzhqTUtVLVBLMnFHcWZQcjZjMmRUbXhBcjAxbjZfX0stM2RKcHBYX1J4NXo0SGpV?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 07:40:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T11:01:27.319891+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China jails Japanese businessman for espionage, embassy says - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEdLd3pzRElwdHhtVl84V2ZzN251OF9jbWlYbFlaN05BNndtQkpZREY0cmZfVmRaNmVkV1lKNERhaXhvRFRTRllKZmR1MTRaWUM2OV9Wcm00cVdrM1FES1JPdWZOWVlGM0lzTlhXMnVfb1dsbXZEdXFRaXRucFk4eFdockZHVmRfUmI3TUJPbkhfdWRHNG9FWXRFUnEyVWFmT1HSAacBQVVfeXFMT2hTYmVtUmJ4UExobjEzcTR2SlFMR1RxRlAzWlBwdW9fN3NQLW9PTjlzejFST2dWVnY3Q1R6dkZWbnJnUFVsY1N3aHk5YUtscVl1VVVQa3g2cHNhQ3BjV3lRSlh4bTdPN1BLOEdLUzVtQk9BZGs0LUdacFcwU01ad1ZkSzhGU29kNnlGYnBmemk4N0xtUXkzWW1ucllxWFA2eVlmNkkwRWM?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 06:58:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T11:01:27.319891+00:00"
-  },
-  "Volcanoes": {
-    "articles": [
-      {
-        "title": "Southwestern Iceland volcano erupts, prompting evacuation of campsite and geothermal spa - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc1FMbFBzcTk4ZHhfaHFhaXFIeGNHUzJaZWxuYVZfQ3Rab3dIZEY5cDAyMGlNMVV5V1VKTFZZdnRFZ2RzN3Ewa2ZFektlTGR0TlBmeU9nQUVZZmpUWGlwX0hRY3VaSkNiS25EZkFfTmlubF9hSlloS0VlQ3JqVjZPdEpMdlJIV19qMjFPd1YwUDNtejZHZmpKejRESlJqWG5abjNFLVotWDRsZVhmdm1nWm84QWRWak5ETTVoLW5yazRXTXFJWXROaNIBzgFBVV95cUxNd2ZrY0tuM0RIdkd3SGpmazRudGVHNzd1T2V3XzkyVW5fVmgzZHR1MWRsTjZPWU9HQl9lT1BWMXNKSWFGQ2Y3M2JDRm81aDFPWHpCZkFtZHhzWWU1Slh0ZkhQQmJpOEQ4RXJObHFOaXJRczBXaDBTRFdFVmZSY0EwU1ZpelMtMjd3bnRLLWU3REZsNy1RRFoxcTMwZldJbE1LeTY5bnpQQlBjQTlMbC1aRTFrbmVqNHFiZnQ3dzRNVVd4LXdlSGxmR3VVbU9DZw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 08:25:35 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T11:01:27.319891+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI Models Can Forget, Doubt, and Overreact, Google Study Finds - digit.fyi",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85QlR2b1gtbHRBaDJXaUxvNk94OUhDYVkyNHRCZVBOdTRGb3VfUzMyY1hqdlFPWVc2UGVzNTZSeHR3UW51LWcyY29mMi1TcGJBTkVmMC1WVkFaeWs0?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 10:06:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T11:01:27.319891+00:00"
+    "last_updated_ts": "2025-07-16T12:01:38.818035+00:00"
   }
 }
