@@ -671,10 +671,6 @@
   ],
   "climate": [
     {
-      "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
-      "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
-    },
-    {
       "title": "Scientists link increased flash floods to climate change, warn of future weather threats - WLOS",
       "pubDate": "Tue, 08 Jul 2025 21:28:05 GMT"
     },
@@ -1301,10 +1297,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US, Israel diverge on how to pursue Iran endgame after strikes, diplomats say - Reuters",
-      "pubDate": "Tue, 08 Jul 2025 14:50:59 GMT"
-    },
-    {
       "title": "Trump Seems to Be Warming to What Europe Wants for Ukraine: New Russia Sanctions - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 10:35:18 GMT"
     },
@@ -1731,10 +1723,6 @@
   ],
   "cancer": [
     {
-      "title": "Breast cancer vaccine breakthrough: Over 75% show immune response - The Independent",
-      "pubDate": "Tue, 08 Jul 2025 14:18:00 GMT"
-    },
-    {
       "title": "Doctors have figured out a way to use herpes to fight untreatable advanced cancer - New York Post",
       "pubDate": "Tue, 08 Jul 2025 20:00:00 GMT"
     },
@@ -1781,6 +1769,10 @@
     {
       "title": "Can new blood tests really detect cancer early? - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 23:00:45 GMT"
+    },
+    {
+      "title": "Scientists develop tool that improves tissue cancer analysis - Medical Xpress",
+      "pubDate": "Wed, 16 Jul 2025 14:00:01 GMT"
     }
   ],
   "space_exploration": [
@@ -2677,6 +2669,10 @@
     {
       "title": "AOC calls Trump a 'rapist' amid Epstein files fiasco - Daily Express US",
       "pubDate": "Sat, 12 Jul 2025 14:06:06 GMT"
+    },
+    {
+      "title": "Trump calls Democrats Alexandria Ocasio-Cortez and Jasmine Crockett 'low IQ' - Yahoo",
+      "pubDate": "Wed, 16 Jul 2025 07:06:28 GMT"
     }
   ],
   "national_security": [
@@ -2725,6 +2721,10 @@
     {
       "title": "SharpLink becomes largest corporate ether holder with 280,706 ETH surpassing Ethereum Foundation - The Block",
       "pubDate": "Tue, 15 Jul 2025 14:30:01 GMT"
+    },
+    {
+      "title": "Ethereum Pumps To Five-Month High As Treasury Companies Stockpile ETH - Decrypt",
+      "pubDate": "Wed, 16 Jul 2025 12:13:03 GMT"
     }
   ],
   "nasa": [
@@ -2945,12 +2945,6 @@
     {
       "title": "Scientists calculate 'death date' of universe before the 'big crunch' takes place - LADbible",
       "pubDate": "Tue, 08 Jul 2025 20:04:26 GMT"
-    }
-  ],
-  "analytics": [
-    {
-      "title": "Sensormatic Launches AI-Powered Retail Analytics Platform with Privacy-First Design | JCI Stock News - Stock Titan",
-      "pubDate": "Tue, 08 Jul 2025 14:28:00 GMT"
     }
   ],
   "health": [
@@ -3867,6 +3861,10 @@
     {
       "title": "Southwestern Iceland volcano erupts, prompting evacuation of campsite and geothermal spa - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 16 Jul 2025 08:25:35 GMT"
+    },
+    {
+      "title": "Lava erupts from gigantic fissure in Iceland following earthquake swarm \u2014 and the photos are epic - Live Science",
+      "pubDate": "Wed, 16 Jul 2025 13:33:10 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -3985,6 +3983,12 @@
     {
       "title": "CPI rose in June to 2.7% annual rate, highest since February - CBS News",
       "pubDate": "Wed, 16 Jul 2025 12:55:54 GMT"
+    }
+  ],
+  "psychology": [
+    {
+      "title": "Why do we fear difference, act irrationally, and choose aggression over peace? - Psychology Today",
+      "pubDate": "Wed, 16 Jul 2025 14:32:37 GMT"
     }
   ]
 }
