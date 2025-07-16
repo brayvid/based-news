@@ -1,42 +1,62 @@
 {
-  "Investment": {
-    "articles": [
-      {
-        "title": "Trump announces billions in investments to make Pennsylvania an AI hub - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTRscjYzdHhxNXFqWnBrbEhmakUwV1JGMWVrZjcyOU5DYXNTdHRkd29qX3FQemFBbmJBSGlDLVFRQ25UZFExX3dZTTZybmg1cU5wQml2WWIyTndlQjlBRW5LRTk2cFJESEloNWlrVDBpQjZVeFBlQjh6R240eGRLWk1pRkE5Q05VYW9zaC1VYw?oc=5",
-        "pubDate": "Tue, 15 Jul 2025 20:46:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T08:01:24.895940+00:00"
-  },
   "Gaza": {
     "articles": [
       {
-        "title": "Twenty people killed at Israeli-backed aid site as starvation grips Gaza - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHZfNkpuR2Y5Zl9MZjg2TWdnX1NjdkNFdmlDR2x4VWtJTl9rV0NmaTFYaElneWN6OGwtaTBfX3JmZmE5M1o2MnhtOUNLdTlzbnVGaWJibUJ0UE52eURDT2h3M1VuaXpfNnJoV0twUldKcWRpbURQcXEtaDk0VXlIVlc3aG9ZTkJVeFZvMExoeXZUd2RVTjJUOXZQY2xFUDU1NlNRTUxCR1hlOVZLYVZmR0lJMm1wMkt2R1VPYw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 07:41:15 GMT"
+        "title": "At least 20 killed in crush at Gaza aid point \u2013 Middle East crisis live - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejU1ZXg1VFpTdXlFNm1QWkVhUmw4Y3NTRURpUU5CRWdHem1Da2t4cWxCVHFHa3J6ekItdkRmdVpTWTZhQWZ1dVg1d0NGQjVtOUpWOVJ6dGgwQWxjSTN0YzB6bVVhdHNMbmFIc3Job0JvTHRqQ1U4WkozczVOWjJCaXhWX3VMS2pNT2JxUFAzd1VMZ2F6eU53U2dDUDNOUlg3WWFVc2oteUlnRnAya1RPZjhoS21ZMExWbHVUWA?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 08:01:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T08:01:24.895940+00:00"
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
+  },
+  "Earthquakes": {
+    "articles": [
+      {
+        "title": "Earthquake: Scientists find Concord fault line farther west than they once thought - ABC7 San Francisco",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmVmczRoY0NiY3pZNGxuQlZteEtjQ0dOMko3WXhuRE5pQ3doN2hVTVZSN1ZFSGRVM1BfOUIzX09oYnZ2VnZ3cjBSZmVNTlhGTm13MG9yZDlkWVV3RDR5b29BS1RTMVMwTDluVVdQYjV3Zm5ndGxuNURROGlSVDB3LWpVVG9YT1BmbWpFaFJWamJkYlpuaWFvazJGdXZmWkFjbXdWaNIBqgFBVV95cUxPQWZqZ1VEQ3p2b3VBOUV0WFpXeFRmNjZmUThwanNGdUFPcEFMSk1WRFVEeVV2RWNydG03RzBJUXY1bkx3TEt0TVRRa0xjb29rQmlaOVNZbHZVU1FYR0d1ajIyTzc2N3N3dXBIdHU1OUg4TjQ5b185UmJHWEVURFZBbEQ0OHh6NlZOSy1aZkF1UWJteUdKcEMwWC0wc0JvbElhNGlnNklPOS1lZw?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 03:15:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Melting glaciers may lead to more volcanic eruptions - The Week",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2FxNmtDMUFXQUVxaWFqby1sUDZYLUZETEFLOFNhTFdFNWdGcVVqdWVtNDZ0MHZKVTYzQXlFcVdtbmdMQTZzNXVpZWhueDM5S01BaG5rM1pJOEJrU3dlQWJyckVRSUJadF9BRjAzUGZ1Y0t1bTBoaUJBMFpCVWo1SUw1RlpTbmwxQkE?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 06:01:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Humanoids are leading China\u2019s AI and tech revolution - CNN",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUlTV00yOVFRdHA2QnZYU3UxcEl0b1JxanpCZ2pXSGJkRzQ4bzk0TjZ6b1pnN0x2dkpFbWtwakdabDk4WUl5TllUbUhsY3RTSnJ5Y3puTTdENHQ1cHVuWnhaVkRERzZDbUZ2NTNJdnp5bmUxYXJPNEVSaFpKQzFJbno0dWoxVDZlN2FvaE1tSU1fSGM3eHBfckJxX3piQQ?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 08:00:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
+  },
+  "Venture Capital": {
+    "articles": [
+      {
+        "title": "Overall VC Fundraising Drops 33%, But AI Investment Surges - tech.co",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DS09lbGx6S1BBc05NdXFoVXV0NG5fNGxBOW1oanZWbENXVEdRTzhURlhBcDFwVF9lQ05sMXdPQkk5aVljWUxpTDhVckRybTcyaVdSeXd1aXA0c0VXZW8xRk1ZWS0tRjBwcUw3UHZNcGVJOFppMllfZ2l3?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 01:15:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
   },
   "Hydrogen Fuel": {
     "articles": [
       {
-        "title": "Stellantis discontinues hydrogen fuel cell technology development programme - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHpBa29NTHZxcmFZOHpOMDNXMEI3d000dElvaDUwUDQ1WGp6OHAyeGtINE51Qk04TWw4U0NicTlrLW50U2ZJTTh1U1JDS0hTcHhPN3F6dkNfNFB2ZHJWUmRIYWZVVmRSUk1qVTdsZzFYcU42X2t1MER0MTRtY3RjNTgyMEtUTnd5Wnd6SXVxdmFuVmFDU2pFV0dSQlE4TE1BaE16TEljclpPSjFrMWEtQU9xNktpZFotd0lNYm5ZMVBlSHJKS3RkdW1PR1UxdG9telE?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 06:17:00 GMT"
+        "title": "Stellantis to end hydrogen fuel cell program citing infrastructure gaps, high costs (STLA:NYSE) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFZKRWZySHN2TXkxR3NPWmptajJfREs3VExIdm9fcmRiY0NkV2IxMjdldTRCdHZmLWhYWXdKMnd6NDlCR1M5ZWtDY3FUeVcxWlRNclExMEwwTWY1WnRWbjM2Xzg2RDd6RWY4d3BYelJhRktLYThGVEs1amZkWV9LRy1hX1pNSmtmQk5kR0QtdHJ4MnlUa29lWDVZT2M0VDlFenBNMDMzeFA4NVNuTU16T1J0VFlqYVlvdTEyTg?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 06:23:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T08:01:24.895940+00:00"
-  },
-  "Data Breach": {
-    "articles": [
-      {
-        "title": "Three key questions after Afghan data leak sparked unprecedented secret evacuation - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUVJzUWtmX3B5bTM4WkJOS28xRkhWemJQSHBjUU4zUXoyUll0RWtybXprUXg0dW9fSGh4WnBMVTRBNzVPWTV4OG9xQklMX1pKNWE0M1NiclUzUdIBX0FVX3lxTE15T05Ra24wbFZPTlFNeWxVY2FZd3dKTTdXZEN4M082NG9tcXIxcUxRcVZJWGwzMExQeGhWS3dJMUlJLVlFSmtYaERoVHdLOTgtZmdITzlVTmRGMTBEMk9v?oc=5",
-        "pubDate": "Tue, 15 Jul 2025 20:10:21 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T08:01:24.895940+00:00"
+    "last_updated_ts": "2025-07-16T09:01:22.996751+00:00"
   }
 }
