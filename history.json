@@ -43,6 +43,10 @@
     {
       "title": "All three members of UN commission investigating Israel resign amid Trump crackdown - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 11:06:37 GMT"
+    },
+    {
+      "title": "Israel strikes Syria's capital Damascus, pledging to defend Druze minorities - NPR",
+      "pubDate": "Wed, 16 Jul 2025 13:51:37 GMT"
     }
   ],
   "iran": [
@@ -275,6 +279,10 @@
     {
       "title": "Trump lambasts Republicans pursuing what he calls the \u2018Epstein hoax\u2019 as \u2018stupid people\u2019 \u2013 live updates - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 17:26:45 GMT"
+    },
+    {
+      "title": "Trump calls Epstein conspiracy a \u2018hoax\u2019 and turns on Maga \u2018weaklings\u2019 - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 10:42:00 GMT"
     }
   ],
   "russia": [
@@ -337,13 +345,13 @@
     {
       "title": "Trump threatens \u2018very significant\u2019 Russia sanctions, bashes \u2018all talk\u2019 Putin - Politico",
       "pubDate": "Wed, 16 Jul 2025 00:50:00 GMT"
+    },
+    {
+      "title": "Russia Strikes NATO Ally's Factory in 'Deliberate' Attack - Newsweek",
+      "pubDate": "Wed, 16 Jul 2025 15:22:14 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Researchers Uncover Alarming AI Hack: ChatGPT And Gemini Can Be Fooled With Gibberish Prompts To Reveal Banned Content, Bypass Filters, And Break Safety Rules - Wccftech",
-      "pubDate": "Tue, 08 Jul 2025 19:31:00 GMT"
-    },
     {
       "title": "Lawmakers push for AI safeguards after teen\u2019s death tied to chatbot platform - ABC10",
       "pubDate": "Wed, 09 Jul 2025 01:23:00 GMT"
@@ -435,6 +443,10 @@
     {
       "title": "AI Leaders Unite to Enhance Transparency in AI Models - AInvest",
       "pubDate": "Wed, 16 Jul 2025 07:27:33 GMT"
+    },
+    {
+      "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
+      "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
     }
   ],
   "financial_markets": [
@@ -680,10 +692,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Trump unloads on Putin after promising more military aid to Ukraine - NBC News",
-      "pubDate": "Tue, 08 Jul 2025 19:16:06 GMT"
-    },
     {
       "title": "Trump updates: US president slams Putin on Ukraine at cabinet meeting - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 22:03:55 GMT"
@@ -1127,10 +1135,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump suggests taking over New York City and Washington - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 08 Jul 2025 19:27:25 GMT"
-    },
-    {
       "title": "Supreme Court Clears Way for Trump Administration\u2019s Mass Firings of Federal Workers - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 22:05:38 GMT"
     },
@@ -1306,10 +1310,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump threatens to escalate trade war amid confusion over new tariff rates - The Guardian",
-      "pubDate": "Tue, 08 Jul 2025 19:03:00 GMT"
-    },
     {
       "title": "Trump threatens 'no extensions' on new Aug. 1 tariff deadline, warns of higher import taxes - NBC News",
       "pubDate": "Tue, 08 Jul 2025 21:12:00 GMT"
@@ -1663,10 +1663,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Elon Musk says he\u2019ll start a new political party. He\u2019s not the first. - The Washington Post",
-      "pubDate": "Tue, 08 Jul 2025 19:30:07 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s AI Chatbot Responds As \u2018MechaHitler\u2019 - Forbes",
       "pubDate": "Wed, 09 Jul 2025 09:28:00 GMT"
     },
@@ -1692,10 +1688,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Doctors have figured out a way to use herpes to fight untreatable advanced cancer - New York Post",
-      "pubDate": "Tue, 08 Jul 2025 20:00:00 GMT"
-    },
     {
       "title": "Using math to answer cancer\u2019s biggest questions - MD Anderson Cancer Center",
       "pubDate": "Wed, 09 Jul 2025 12:40:20 GMT"
@@ -1809,10 +1801,6 @@
       "pubDate": "Tue, 08 Jul 2025 22:30:35 GMT"
     },
     {
-      "title": "Trump Issues Executive Order Targeting \u2018Unreliable\u2019 Clean Energy Options - Inside Climate News",
-      "pubDate": "Tue, 08 Jul 2025 19:36:47 GMT"
-    },
-    {
       "title": "China is building 74% of all current solar and wind projects, report says - Financial Times",
       "pubDate": "Wed, 09 Jul 2025 00:55:00 GMT"
     },
@@ -1923,10 +1911,6 @@
   ],
   "us_supreme_court": [
     {
-      "title": "US Supreme Court lifts order that blocked Trump's mass federal layoffs - Reuters",
-      "pubDate": "Tue, 08 Jul 2025 19:47:57 GMT"
-    },
-    {
       "title": "Supreme Court clears way for Trump to pursue mass federal layoffs - Reuters",
       "pubDate": "Wed, 09 Jul 2025 02:40:00 GMT"
     },
@@ -2010,10 +1994,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin is coiled to break out to $170k, analyst says - Fox Business",
-      "pubDate": "Tue, 08 Jul 2025 19:13:49 GMT"
-    },
     {
       "title": "Bitcoin lacks \u2018sustained momentum\u2019 for new high as traders are hesitant - Cointelegraph",
       "pubDate": "Wed, 09 Jul 2025 06:17:26 GMT"
@@ -2423,10 +2403,6 @@
   ],
   "science": [
     {
-      "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
-      "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
-    },
-    {
       "title": "Scientists are using AI to invent proteins from scratch - The Economist",
       "pubDate": "Wed, 09 Jul 2025 17:15:00 GMT"
     },
@@ -2509,17 +2485,7 @@
       "pubDate": "Thu, 10 Jul 2025 18:55:34 GMT"
     }
   ],
-  "terrorism": [
-    {
-      "title": "Canadian police seize largest ever weapons cache in terrorism inquiry - The Guardian",
-      "pubDate": "Tue, 08 Jul 2025 19:33:00 GMT"
-    }
-  ],
   "biology": [
-    {
-      "title": "Scientists Created an Evolution Engine That Works Inside Animal Cells Like a Biological AI - ZME Science",
-      "pubDate": "Tue, 08 Jul 2025 19:34:30 GMT"
-    },
     {
       "title": "Scientists Uncover DNA Secrets to Bolster Corn Crop Traits | Newswise - Newswise",
       "pubDate": "Tue, 15 Jul 2025 22:50:00 GMT"
@@ -3349,10 +3315,6 @@
   ],
   "battery_technology": [
     {
-      "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
-      "pubDate": "Tue, 08 Jul 2025 19:16:38 GMT"
-    },
-    {
       "title": "QuantumScape Stock (QS): Advances in Battery Technology - Value The Markets",
       "pubDate": "Wed, 09 Jul 2025 14:19:42 GMT"
     },
@@ -3535,6 +3497,10 @@
     {
       "title": "New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
+    },
+    {
+      "title": "Scientists Discover a New \u201cMagic Number\u201d That Could Rewrite the Rules of Nuclear Physics - SciTechDaily",
+      "pubDate": "Wed, 16 Jul 2025 14:45:43 GMT"
     }
   ],
   "earth's_atmosphere": [
@@ -3963,6 +3929,12 @@
     {
       "title": "Scientists glimpse planetary birth - Courthouse News Service",
       "pubDate": "Wed, 16 Jul 2025 15:00:45 GMT"
+    }
+  ],
+  "internet_security": [
+    {
+      "title": "US foils Volt Typhoon persistence in critical infrastructure networks - SC Media",
+      "pubDate": "Wed, 16 Jul 2025 13:09:29 GMT"
     }
   ]
 }

@@ -1,72 +1,62 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzFCQ041R1R3UE5EZFM3bGg4ZnpCM0xzbzUzd0ZIUFNqX0lYVjMzYmd3NzVnZGFtSlJBR2hEcTlFbmk5bUhwQ19uMXF4UjlHT0stTjhrdHZvOVNHODJnN2hEeWFfRFFWUkhiTGp6UkVmUmhlOWJtaVFDSXFMby0wTFdoQ1JYbk9MWnQzYnJJOE5JRjBzd09Edm42Z2Nib1VxR0s4?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Trump lambasts Republicans pursuing what he calls the \u2018Epstein hoax\u2019 as \u2018stupid people\u2019 \u2013 live updates - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlNleDliNmJuWFlEUWpmZW5OVUxqdG9lelFFZm9Va1hIV2djeGcwYjBETmdxV0dHLXk4NTMwQUhNTXAzWXZMRzFJRGhJU0pmcGMwYmZmaURZTmZkSXdQQ2swdVZZeXJCLWFUUWRXajVzWVZoN1VyN1hGNGpzU1RGZUZaaFE4RjE0a1dLSU12bU1kaDBEV2YxZkpBd2VXUmMzdmtFeVRYTks1U0hOeGFLQWVPelZOZjFSM0E?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 17:26:45 GMT"
+        "title": "Trump calls Epstein conspiracy a \u2018hoax\u2019 and turns on Maga \u2018weaklings\u2019 - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0g0TkUteHd1aHB5cVdqY3VfVHUySUxlN3RIYzZFTE5mRVhQbWRTRW1LNGJFaHFjSDRRRHgycmE5R1RWRUlWcDlOMHVqMTRvcElnMkhHWDBUdXN6LUszQk9DZlptUHRpMEVoNlJaSUNDQ1diY19vNno0bnhBR0RhUVlpUkhJU1V4cDdYR2sybTF1YmlTR3JnZFIxd0lpRTFEOXhSTzJ5THd2ZTVWTFE?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 10:42:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
   },
-  "Planets": {
+  "Israel": {
     "articles": [
       {
-        "title": "Scientists glimpse planetary birth - Courthouse News Service",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hdVhKUXNHZEpOWEllbU1LQWZwR2puWk8tMS1xUm5lRHNPOW5MTHVUUmpLQ21tcUJGdW1lSFFycVlPNXZSUkpQdlZ1X3h0M0tPYUhSOFdsVXN1eU51QTYwZ0l4dlJ2T3BROU9Gb3A5eWlJOU9H?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 15:00:45 GMT"
+        "title": "Israel strikes Syria's capital Damascus, pledging to defend Druze minorities - NPR",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxV0F1cmczVW9QNXZqTWM1Nl9kbWZDZmxPX25kQmE3OFR6X0xnN1dvT0lSYTg2VlJOb25fcVlhMUxQUW1qTkdVRllMWHhZZjBWcXU5SkFTQjUzTHczWm9kV3hFM3NMNlZvLUpQNXREVmdLem0zem5USGcyVEM1YmM?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 13:51:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
   },
-  "Gaza": {
+  "Internet Security": {
     "articles": [
       {
-        "title": "Stampede at Gaza aid distribution site kills at least 21, Health Ministry says - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rekJNZTBnbFZXLXpmZElfbDdLVnFqMzFia3VHTW1DMU55Rm1TbTFGc1JDQjZHVlZhUE9rZVZrbTlEQVF5Z3h5TmVreWZHN2hPVVk4VFlPQ0p6RmN6cFVPZnNUMTNSN3N4bDNHTjg3SkZSa0NVYUNLalV3?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 17:33:37 GMT"
+        "title": "US foils Volt Typhoon persistence in critical infrastructure networks - SC Media",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenBGUURaSk9fUlJidm1qYURYZ2ZGVjhWTW1kVXJBTnRHcjJQZFI2VVRWbTRjVndBamFqRW1Pbi1QbUt2b3dXTzZhcTY3QUlYd1hENFg1NWcwTzJFeEJ6Y2xFYzhNWDAzbkNFaUhfZnFOMWN5U3YyMGI1b1hkTTQ4SHV0UXNzbTVHYWtiXzdnVEsyUENsSWhJSHFONnBJSVFB?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 13:09:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
   },
-  "Battery Technology": {
+  "Physics": {
     "articles": [
       {
-        "title": "GM, LG Energy joint venture making plans to ramp up production of low cost EV batteries - Repairer Driven News",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU9oQ3BrY1l2WV9MTnd2QWdoLU9LM2VSUmtkQ053U0MwcDFJZVpqQXpkbVlPME1lZXluQy1LMlN3ZndabTlwcGRoem5XMmU1MTZEeG5Hdk9IV3dZZkxJMWFHUXF1TVpQLVJraWNDcWNhcER4ZjlzNjVKSnRzX3B4dUwzdEpaUkF1ZkdpejRHZTBKS2tXcDZPenVCRWFUVEpIS1ZiS3J6S0dIdV9WdC1EVkJ2VElVVXVsSDNNcndlQzYxZnRmWjBCMVJmQ1ZNZw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 13:00:23 GMT"
+        "title": "Scientists Discover a New \u201cMagic Number\u201d That Could Rewrite the Rules of Nuclear Physics - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUE93VUZ2RXNaVDZfWW9BdTF3aDVuYjBOM2ZlRENRTkZkTVBxS0lRT0FWZzNDajdzaUtkbC1Wemk2aUpDMlh5MGVEX19IUzB4YzNFd243cmJ1M21aYVlSdlRUM0lmbHhrZ1RVd0xfUkNiUlE1LVFvZ2dQM3NZY1JfcVFISjNSZmR4Z2c2c3J5UmU1cS1Ra0pZWFVmcWtWd0hZdjhxdjZINEJvQjE3Um9nOVRn?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 14:45:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
   },
-  "Cryptocurrency": {
+  "Russia": {
     "articles": [
       {
-        "title": "US House clears procedural hurdle on cryptocurrency legislation - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWdETVBGbU1YNVVwUFozM0JLcGlxMWJLby1pSVk4VVJrUndIYTlVazlsckVsR2Q3QjlDa3p4cURfUHdxVW9WdVR5YzBFcEJhOHVrWXBvaVNSYlZNSWZKS2VBbmMxaGNkNjJ3Z2dOZFNmNHZMSl9iNXYtTDlUaDUyNV9VMjJhR2YzNWpTRGtxU1NZYjFUZkhkY1RwSXI3aGtBbEZjd1gwNlZ6cXJheENGZF9Tcw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 17:27:13 GMT"
+        "title": "Russia Strikes NATO Ally's Factory in 'Deliberate' Attack - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGl5TlJVcVZmNlowQTVxNmRtU3ZfRWUzek16bDZ3SHpMT0JvVElmaE1Od1JPQ083RWl4T2YxcXAwWFAxdGRjcS1HT2tXdGktZjJOeDhXUFFNMmhsZ3lzRDViaTBIa1pNWnItSkl1REhzZ0xIZUREOXRPYjQzUTZ6V3VXOUhqSnhnNWRaTGJFeE8?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 15:22:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China, North Korea and Russia represent biggest security challenge since World War II, Japan says - CNN",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnkxSkI4QUQ5MFpOUjVRcVF4TXhRbElGcW9lUXN2NjlRMXhtdElITlVvRzFQNG1Ka2NLdUdtOFdsSGYyRG03QURVQXBPampCVkpxckVtMl9RRjBiN3dCNDNZM2p2Q0dRdTZBUkdkdE9ndE4yTHRXemhGbG9TSVpaUUl4LVA4SDFRNzYxUlRodjY1S1BHLTRCd0ZCYXFsdUXSAaQBQVVfeXFMTjBYWVh4U3A4SFlvMVFWSUxYWl9fRzE1NjZ4SHI1dnJmOGtVOURZcmVuX1pmQVRjZ3N0bXEzZ2xkOFJTWWduQzJ2Y3Awd1AxRFRQNEEyQ0dzajF2aWd5ZG95UkNnbDY3cU91c0x3UTQwNDFyUG0zNVpabG1rZ08xYWtQTkhHdEd4X042alVoVUs2UTZBX3NSVy00NmlNdWdzLW5UQXo?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 07:22:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
-  },
-  "Mark Zuckerberg": {
-    "articles": [
-      {
-        "title": "Zuckerberg says Meta will build a data center the size of Manhattan in latest AI push - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQV9RZHI2c1ZLZFYxcDRDdjVyUTJVTl9BYXhXNzNWM2l2QV9PQ1g2MGJSazVua0lIZk5JcTVkU0Jpb3l3MjZFWFp2ZWxiZWFSalc1SlcxbkdQYkJiUFI0VG1aZ2FmclNjY0txVGFjaXRDMGlTczZUSU05bkVKd1FwNG0tRGNmVmpYVTRWOGZJOFFRUVhiTGc?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 18:07:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T19:02:52.925741+00:00"
+    "last_updated_ts": "2025-07-16T20:02:39.677002+00:00"
   }
 }
