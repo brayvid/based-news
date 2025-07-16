@@ -295,10 +295,6 @@
   ],
   "russia": [
     {
-      "title": "Russia Locks Up Population Data With War in Ukraine in Its Fourth Year - Bloomberg.com",
-      "pubDate": "Tue, 08 Jul 2025 07:25:28 GMT"
-    },
-    {
       "title": "Russia's Ukraine war efforts could be hampered as Putin given 'recession' warning - Daily Express US",
       "pubDate": "Tue, 08 Jul 2025 08:33:08 GMT"
     },
@@ -372,10 +368,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "India\u2019s AI watchdog: What the IndiaAI Safety Institute will do - Moneycontrol",
-      "pubDate": "Tue, 08 Jul 2025 07:36:25 GMT"
-    },
     {
       "title": "How AI computer vision is redefining workplace safety - The HR Director",
       "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
@@ -1903,10 +1895,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "A heat wave hit New England\u2019s grid. Clean energy saved the day. - Canary Media",
-      "pubDate": "Tue, 08 Jul 2025 07:30:00 GMT"
-    },
-    {
       "title": "Trump orders tight rules for wind, solar tax credits - Renewables Now",
       "pubDate": "Tue, 08 Jul 2025 13:43:20 GMT"
     },
@@ -2111,6 +2099,10 @@
     {
       "title": "Thousands of Afghans were resettled in Britain after a data leak put them in danger - NBC News",
       "pubDate": "Tue, 15 Jul 2025 14:13:34 GMT"
+    },
+    {
+      "title": "Three key questions after Afghan data leak sparked unprecedented secret evacuation - BBC",
+      "pubDate": "Tue, 15 Jul 2025 20:10:21 GMT"
     }
   ],
   "technology": [
@@ -3459,6 +3451,10 @@
     {
       "title": "LIVE: Israel bombs Gaza, Syria amid alarm over rise in starving children - Al Jazeera",
       "pubDate": "Wed, 16 Jul 2025 05:04:59 GMT"
+    },
+    {
+      "title": "Twenty people killed at Israeli-backed aid site as starvation grips Gaza - Al Jazeera",
+      "pubDate": "Wed, 16 Jul 2025 07:41:15 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4035,12 +4031,22 @@
     {
       "title": "Trump Touts $92 Billion AI, Energy Projects in Key Swing State - Barron's",
       "pubDate": "Tue, 15 Jul 2025 21:19:00 GMT"
+    },
+    {
+      "title": "Trump announces billions in investments to make Pennsylvania an AI hub - The Verge",
+      "pubDate": "Tue, 15 Jul 2025 20:46:41 GMT"
     }
   ],
   "amazon": [
     {
       "title": "EU Parliament threatens wider ban on lobbyists as Amazon spat deepens - politico.eu",
       "pubDate": "Wed, 16 Jul 2025 03:38:00 GMT"
+    }
+  ],
+  "hydrogen_fuel": [
+    {
+      "title": "Stellantis discontinues hydrogen fuel cell technology development programme - Reuters",
+      "pubDate": "Wed, 16 Jul 2025 06:17:00 GMT"
     }
   ]
 }
