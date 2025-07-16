@@ -683,6 +683,10 @@
     {
       "title": "Trump touts administration\u2019s accomplishments at major energy and AI summit - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 00:47:45 GMT"
+    },
+    {
+      "title": "China Is Spending Billions to Become an A.I. Superpower - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 04:00:06 GMT"
     }
   ],
   "climate": [
@@ -995,6 +999,10 @@
     {
       "title": "Russia says it needs time to \u2018analyse\u2019 Trump\u2019s Ukraine announcements - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 17:26:15 GMT"
+    },
+    {
+      "title": "Russia may hope to use Trump's 50-day window to wear down Ukraine, but quick gains seem unlikely - AP News",
+      "pubDate": "Wed, 16 Jul 2025 04:14:00 GMT"
     }
   ],
   "us_economy": [
@@ -1008,10 +1016,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China warns Trump on tariffs, threatens retaliation on supply chain deals - Reuters",
-      "pubDate": "Tue, 08 Jul 2025 04:11:00 GMT"
-    },
     {
       "title": "Experts raise alarm as China expected to triple illegal organ harvesting of detained Uyghurs - The Jerusalem Post",
       "pubDate": "Tue, 08 Jul 2025 06:52:37 GMT"
@@ -1233,6 +1237,10 @@
     {
       "title": "House GOP blocks second Dem attempt to release Epstein files - Axios",
       "pubDate": "Tue, 15 Jul 2025 20:19:28 GMT"
+    },
+    {
+      "title": "Senate confirms official who called Obama \u2018a terrorist leader\u2019 for Pentagon personnel chief - Politico",
+      "pubDate": "Tue, 15 Jul 2025 19:21:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1602,10 +1610,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "LIVE: Israel pounds Gaza; Trump hosts Netanyahu amid push for ceasefire - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 04:05:47 GMT"
-    },
     {
       "title": "Official says endgame in Gaza is 'no more Hamas,' Israel may have to take control for a while - The Times of Israel",
       "pubDate": "Tue, 08 Jul 2025 05:12:13 GMT"
@@ -1995,6 +1999,10 @@
     {
       "title": "House GOP hard-liners agree to move ahead with crypto bills, Trump says - Politico",
       "pubDate": "Wed, 16 Jul 2025 01:37:19 GMT"
+    },
+    {
+      "title": "House hard-liners tank procedural vote for crypto, defense bills - Politico",
+      "pubDate": "Tue, 15 Jul 2025 19:15:30 GMT"
     }
   ],
   "tesla": [
@@ -2481,10 +2489,6 @@
   ],
   "public_health": [
     {
-      "title": "Public health groups file lawsuit to stop RFK Jr.\u2019s vaccine changes - The Washington Post",
-      "pubDate": "Tue, 08 Jul 2025 04:43:54 GMT"
-    },
-    {
       "title": "The health of U.S. kids has declined significantly since 2007, a new study finds - NPR",
       "pubDate": "Tue, 08 Jul 2025 09:00:00 GMT"
     },
@@ -2674,10 +2678,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Scientists Just Simulated the \u201cImpossible\u201d in Quantum Computing - SciTechDaily",
-      "pubDate": "Tue, 08 Jul 2025 04:07:22 GMT"
-    },
     {
       "title": "New quantum record: Transmon qubit coherence reaches millisecond threshold - Phys.org",
       "pubDate": "Tue, 08 Jul 2025 09:00:01 GMT"
@@ -3036,10 +3036,6 @@
     }
   ],
   "chemistry": [
-    {
-      "title": "Scientists Mapped the Secret World of Platinum Atoms \u2013 And It Changes Everything - SciTechDaily",
-      "pubDate": "Tue, 08 Jul 2025 04:42:52 GMT"
-    },
     {
       "title": "New Chemistry Discovery Promises More Effective Cancer Drugs With Fewer Side Effects - SciTechDaily",
       "pubDate": "Thu, 10 Jul 2025 03:06:13 GMT"
@@ -3455,6 +3451,10 @@
     {
       "title": "Israeli attacks in Gaza kill at least 61 as UN warns of rising malnutrition - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 20:20:47 GMT"
+    },
+    {
+      "title": "UNRWA sounds alarm as 1 in 10 children in Gaza malnourished - Al Jazeera",
+      "pubDate": "Wed, 16 Jul 2025 03:33:45 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -4021,6 +4021,12 @@
     {
       "title": "Two dead in New Jersey as soaked US northeast braces for more rain - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 16:30:11 GMT"
+    }
+  ],
+  "investment": [
+    {
+      "title": "Trump Touts $92 Billion AI, Energy Projects in Key Swing State - Barron's",
+      "pubDate": "Tue, 15 Jul 2025 21:19:00 GMT"
     }
   ]
 }
