@@ -699,10 +699,6 @@
   ],
   "climate": [
     {
-      "title": "Deadly floods could be new normal as Trump guts federal agencies, experts warn | Texas floods 2025 - The Guardian",
-      "pubDate": "Tue, 08 Jul 2025 09:02:00 GMT"
-    },
-    {
       "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
     },
@@ -1003,6 +999,10 @@
     {
       "title": "Russia may hope to use Trump's 50-day window to wear down Ukraine, but quick gains seem unlikely - AP News",
       "pubDate": "Wed, 16 Jul 2025 04:14:00 GMT"
+    },
+    {
+      "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
+      "pubDate": "Wed, 16 Jul 2025 08:23:45 GMT"
     }
   ],
   "us_economy": [
@@ -1016,10 +1016,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump's trade advisor slams Apple's China ties \u2014 but Wall Street says it can't afford to leave - Business Insider",
-      "pubDate": "Tue, 08 Jul 2025 09:30:00 GMT"
-    },
     {
       "title": "Germany summons China\u2019s ambassador after a plane is lasered over Red Sea - AP News",
       "pubDate": "Tue, 08 Jul 2025 10:37:00 GMT"
@@ -1229,6 +1225,10 @@
     {
       "title": "Senate confirms official who called Obama \u2018a terrorist leader\u2019 for Pentagon personnel chief - Politico",
       "pubDate": "Tue, 15 Jul 2025 19:21:00 GMT"
+    },
+    {
+      "title": "Trump Says Most House GOP Holdouts Have Agreed To Back His Crypto Bills\u2014What To Know - Forbes",
+      "pubDate": "Wed, 16 Jul 2025 08:11:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1505,10 +1505,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Many companies are still failing to budget for cybersecurity - TechRadar",
-      "pubDate": "Tue, 08 Jul 2025 09:17:53 GMT"
-    },
-    {
       "title": "Qantas says cyberattack affected 5.7 million customers - Cybersecurity Dive",
       "pubDate": "Wed, 09 Jul 2025 15:07:10 GMT"
     },
@@ -1547,6 +1543,10 @@
     {
       "title": "More than 170 jobs lost as Scottish cybersecurity firm falls into administration - TheNational.scot",
       "pubDate": "Tue, 15 Jul 2025 13:35:44 GMT"
+    },
+    {
+      "title": "Google AI \"Big Sleep\" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act - The Hacker News",
+      "pubDate": "Wed, 16 Jul 2025 07:44:00 GMT"
     }
   ],
   "recession": [
@@ -1602,14 +1602,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Report provides legal framework to prosecute sexual violence during Oct. 7 Hamas massacre - The Times of Israel",
-      "pubDate": "Tue, 08 Jul 2025 09:10:40 GMT"
-    },
-    {
-      "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say - BBC",
-      "pubDate": "Tue, 08 Jul 2025 09:46:33 GMT"
-    },
     {
       "title": "New Israeli report says Hamas used sexual violence as a 'weapon of war' in Oct. 7 attack - NBC News",
       "pubDate": "Tue, 08 Jul 2025 16:20:41 GMT"
@@ -1732,14 +1724,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk's Trump fallout poses deepening risks to Tesla, SpaceX - Axios",
-      "pubDate": "Tue, 08 Jul 2025 09:02:10 GMT"
-    },
-    {
-      "title": "Elon Musk isn't the first businessman who's tried to challenge America's two-party system - Business Insider",
-      "pubDate": "Tue, 08 Jul 2025 09:21:00 GMT"
-    },
     {
       "title": "Elon Musk says he\u2019ll start a new political party. He\u2019s not the first. - The Washington Post",
       "pubDate": "Tue, 08 Jul 2025 19:30:07 GMT"
@@ -2241,12 +2225,6 @@
       "pubDate": "Tue, 15 Jul 2025 20:04:52 GMT"
     }
   ],
-  "us_congress": [
-    {
-      "title": "Trump takes another bite out of congressional power with TikTok, beautiful bill - The Hill",
-      "pubDate": "Tue, 08 Jul 2025 10:00:00 GMT"
-    }
-  ],
   "central_intelligence_agency": [
     {
       "title": "FBI launches criminal probes into John Brennan, James Comey: report - KRNV",
@@ -2262,10 +2240,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Why the US and Europe could lose the race for fusion energy - MIT Technology Review",
-      "pubDate": "Tue, 08 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "Helical Fusion Raises JPY 2.3 Billion Series A, Advances Roadmap for World's First Steady-State Net Power Fusion Plant - Voice of Alexandria",
       "pubDate": "Fri, 11 Jul 2025 02:00:28 GMT"
@@ -2637,12 +2611,12 @@
   ],
   "biology": [
     {
-      "title": "Scientists Reveal Why Cats Always Sleep on Their Left Side - SciTechDaily",
-      "pubDate": "Tue, 08 Jul 2025 09:04:22 GMT"
-    },
-    {
       "title": "Scientists Created an Evolution Engine That Works Inside Animal Cells Like a Biological AI - ZME Science",
       "pubDate": "Tue, 08 Jul 2025 19:34:30 GMT"
+    },
+    {
+      "title": "Scientists Uncover DNA Secrets to Bolster Corn Crop Traits | Newswise - Newswise",
+      "pubDate": "Tue, 15 Jul 2025 22:50:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -3091,12 +3065,6 @@
     {
       "title": "Data mining uncovers treasure-trove of previously 'untouchable' proteins for drug development - Phys.org",
       "pubDate": "Sat, 12 Jul 2025 11:40:01 GMT"
-    }
-  ],
-  "globalization": [
-    {
-      "title": "Putin Says Liberal Globalization Model is Obsolete - Tempo.co English",
-      "pubDate": "Tue, 08 Jul 2025 09:49:47 GMT"
     }
   ],
   "gaza": [
@@ -3569,6 +3537,10 @@
     {
       "title": "Elon Musk's X Under Criminal Probe In France For Alleged Algorithm Manipulation And Hate Speech - Benzinga",
       "pubDate": "Mon, 14 Jul 2025 07:22:16 GMT"
+    },
+    {
+      "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
+      "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
     }
   ],
   "india": [
@@ -3629,6 +3601,10 @@
     {
       "title": "Gravitational waves reveal most massive black hole merger ever detected \u2014 one 'forbidden' by current models - Space",
       "pubDate": "Mon, 14 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Record-Sized Collision Between Black Holes Detected by Astronomers - ScienceAlert",
+      "pubDate": "Wed, 16 Jul 2025 02:20:04 GMT"
     }
   ],
   "energy_transition": [
@@ -4037,6 +4013,12 @@
     {
       "title": "Overall VC Fundraising Drops 33%, But AI Investment Surges - tech.co",
       "pubDate": "Wed, 16 Jul 2025 01:15:01 GMT"
+    }
+  ],
+  "animals": [
+    {
+      "title": "Scientists Find First Evidence of Auditory Interaction Between Animals and Plants: Study - EcoWatch",
+      "pubDate": "Wed, 16 Jul 2025 00:28:01 GMT"
     }
   ]
 }
