@@ -1,42 +1,72 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "AI Leaders Unite to Enhance Transparency in AI Models - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMk1pOEtHZkhCOVFqNDFtcWhHbkl0MGZxRWpyTnE3V0lwRTJqZWpSUTMwZmNzNXBRand1R1FLeU4tRlhobHhndVR0RlVjVkVJQTlsZ3hPc1gydmhfSGIyMDd5RTB5NkFLeGMyMUF0enhJVGdjVTZWbFpVMzY5anZHREgyWFk4NzhPUHc?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 07:27:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
+  },
+  "Democracy": {
+    "articles": [
+      {
+        "title": "As democracy in Georgia collapses, Russia, China and Iran see an opening - CNN",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUg5OXJmNWc3b3NHVTFNTWdMeXlFNGs0VkFWU0prOVNrdFBuRFowelVTb0pJanVONDdSd2RiZWpITjlBb0RDTFdtSnFxYXY5VG1Dc3MwTkVFT0t6UjdRX3U4QS1ja1hVMUlKb3ZUUUlqYllaYWVLRi1VRE1HdlZIZXJxUnByeW1ZY3BsZzdIWTRhdDFmYVHSAZsBQVVfeXFMTjlmN3BPV3hUZ05yQWtZaXdMUkJVSzR5RE1wQzZiVklzSzZwcFZKYThwQ2J3QmlOT0VjdTQ1Y1JjNkFlUjU4SVlGYV83RXB3bVFfdW50YjBUbVNOdm9mUGIzQVg0TnlsSEdGWEU5N0h3VWo5RFlHTUtmX2RvSWpsclE3YzdrMGgtZzN4dy00cEx4Q0JiVnZuZmd1RzA?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 09:54:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
+  },
+  "Trade War": {
+    "articles": [
+      {
+        "title": "Trump says he will set tariffs for 150 small countries in one swoop - Politico",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb09qM2tPVG15ZTZzZlUwRFdBSmtHWWFBckRRdHBfc243RF8ya3RyZHUtOXJ1VFFjeDljaHd0Q3R5ZzF2VDd4Smw4ZEEyTDFQaWNabG9jaHZlcXJvenBuQ3dmaEZQbDJrSFhaUWpqM2RfZEJsUzV6cVVLQ29Vd0gxTkIyU1lDUQ?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 17:17:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
+  },
+  "Volcanoes": {
+    "articles": [
+      {
+        "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - The Daily Galaxy",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EUEdvSWxfNWhHUEx0QVBLN2g5QzRpcUY0ZWxEUENWU2YxM29ScENGdEktbnlheFhGcEZNUFJ6V19MejRNV1E0V1hzVkhzUVF5YTlSZkk2ZVA5cW1fLUNuRm1pSjBFRE5CQndva0JDLTRramNyLW1iQWJFdw?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 16:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "EU accused of \u2018cruel and unlawful betrayal\u2019 of Palestinians over failure to confront Israel - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9xY1BHZENUVFZqYmkwSG1CNHNEYm9ZSTdJTzMxUXlTT2t1SmVHVDBoUmczTEpKbFhMNVhoc3RmNmliMGZBV3ZNRkZQUW9iajNNaGhJUG1sb193Y0hMSkdYalUtZm9mcnNYRFVTeERyWjFvUm80QUw3aHl2T0ZqMVQtc0VGOHBFUDBwd3NjY0xHQnMtNF9xN1dtOFdScVVRVkRZN0dGdV9aOXRkZGRz?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 15:16:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia launches massive attacks; Trump backtracks from suggestion Ukraine should target Moscow - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2lWVWZNbDVSX2I3ZXJTZzZFRzFUY3hpaEZqaVZQcGlCamU3NW1ic3NPd3d1RkRjMDQtWjhfeTRQZkxiSlJVcEJLZlJPNzg1MWFEV0lHLVpsU3hCZ1lfVTVrb0RCMFdQbGo1dkpfTmFwVGFqcVFRTUdVeFozYm10WlREdGY3eGhKSHhwVDVCWHFJeXhrUVpyamhUaHNSa1FfWG9iRjZRalVFTmdrSnotOHJWM3rSAVZBVV95cUxQbVpnaUJpWkQzNkNYb0JsYXRhZVJTTzBEdVdfSGhOblo3X0NfTEp4c2FqRnJsUDljZlN5OEwxSG9ub1JKVkc0cFhodVV1dU9PSVJHMWJMdw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 11:50:05 GMT"
+        "title": "Russia Issues Nuclear Warning After Trump's Weapons for Ukraine Plan - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3NKRHVvTE9CTnNCLWJsTFVFWTdVN2V2cEZsV3RVbk5fRDBqbmttQkhrMUpkLS1ZUXpKeXUyRldIalVGaFRDMW9feU5LX3E3RmlJaVZVVE1TMS1KTF9rS2RaNmlIV2M3SW9lc016YUhSdGFsNXU2YmprWl9WVWpkWGF5NTZzN0VzNUF3?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 17:03:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T17:02:48.300647+00:00"
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
   },
-  "China": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXo5UUxXYS1aeG94eE9NMlRUUGtDSGpKZUk5OE5tTmxpSjRYSEZaaHVLYTNsNnplaUNDV1kwb3E4c0taRGFMOTdoQ1RZMkphVnJVd0taSFhlTVNuRW9zUW9lWk9MR2Y4Z1pJSjNVanZuWkl3R3ZoZHEtZjlVdzdIYllZTzQ?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 16:02:10 GMT"
+        "title": "Trump asked GOP lawmakers if he should fire Fed Chair Jerome Powell - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1NUUDltYW81SDlyNENZZ2lfd2JwX1Y3cGcxdUNSM1R6ZmFBSUtpaVBma2VMcDB5YXEwZHc5cmNHb3BDQUw3RlBuOTlXdnRUa20zandCaFE5RlBJcWtQLTlMZHg5WUgtanFsQ3k0NHVFdmZjTUg1V293a3lROUphemFPNGdjQi0ycGtwRUdTX19zSVowTzNtcGJNTdIBoAFBVV95cUxPQ3BrWFBFX3l0enJuMFRTUXNPV3Ata2FuanlaZDhWdXRXUjVTcy1lV1VhajdPSWhJLVZ1LVcwbXdRTGRZTlVXXzh5UWdjWUJ2bXNRMm5EbnJLLVp1S1RSb1J1TEdMRG51WndQWklqZTZhQUVlcm1MLWNFeWh5VGFjWmNDMGJvaHRqbXRUZXlSRjBzSTc4U1dXVTQyYkpZbGR2?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 16:36:05 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-16T17:02:48.300647+00:00"
-  },
-  "Physics": {
-    "articles": [
-      {
-        "title": "New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUFpEelh3TjQxRDBoQmp2c2ZRblcxOHpHbVZKNUZLTjFuLTNZR1BRb3hVZ29GOVM4SWd5eWFRQnpSLXFoVV9FS2VCa3dpbVhFOHNTWGRrbi1QcVNjQl9JZjluekwzbkVNUEZKSjcyTkpyTURnT0tMa2JzVQ?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T17:02:48.300647+00:00"
-  },
-  "Astronomy": {
-    "articles": [
-      {
-        "title": "Researchers observe early state of planet formation beyond Earth's sun - upi.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3owaTlLZUpIWDN1ZE02TkRKZnB1OVhrOGZjZ1F2QmN4NV9JODhSaXdvTHFmRDNBeVBrYTlKOUVKUml6LTY4RGRrYzFfV08yeTZXcURfUVFDRkE4d0VtMFJyM1Y4NVNzdnplWndWMnU5Qi13bzJzVl9OaVZ1X0I3dEEza2FoeW9CdnZaME0tWHlvZ2RVWFpZTGNkYjRzQllaSzZDQkZGaDBDTFpCRjVKWXFmTjZMOTY5cjg4UmJjR2ZnaGlUaTJoRV9GSUxvQQ?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-16T17:02:48.300647+00:00"
+    "last_updated_ts": "2025-07-16T18:03:19.038084+00:00"
   }
 }
