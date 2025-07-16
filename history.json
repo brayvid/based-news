@@ -271,13 +271,13 @@
     {
       "title": "Trump says Attorney General Bondi should release 'credible' information on Epstein - BBC",
       "pubDate": "Wed, 16 Jul 2025 00:12:26 GMT"
+    },
+    {
+      "title": "Trump lambasts Republicans pursuing what he calls the \u2018Epstein hoax\u2019 as \u2018stupid people\u2019 \u2013 live updates - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 17:26:45 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Trump says he is considering Russia sanctions, not happy with Putin - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 18:45:43 GMT"
-    },
     {
       "title": "Trump Plans \u2018Major\u2019 Russia Statement Monday, Mulls Sanctions - Bloomberg",
       "pubDate": "Fri, 11 Jul 2025 00:58:00 GMT"
@@ -452,10 +452,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Impostor uses AI to impersonate Rubio and contact foreign and US officials - AP News",
-      "pubDate": "Tue, 08 Jul 2025 18:52:00 GMT"
-    },
     {
       "title": "China Wants to Use 115,000 Banned Nvidia Chips to Fulfil Its AI Ambitions (NVDA) - Bloomberg",
       "pubDate": "Tue, 08 Jul 2025 21:00:00 GMT"
@@ -1123,6 +1119,10 @@
     {
       "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 16:02:10 GMT"
+    },
+    {
+      "title": "China, North Korea and Russia represent biggest security challenge since World War II, Japan says - CNN",
+      "pubDate": "Wed, 16 Jul 2025 07:22:00 GMT"
     }
   ],
   "us_politics": [
@@ -1196,10 +1196,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "After Mamdani\u2019s Win, Some Democrats Are Determined to Stop Him - The New York Times",
-      "pubDate": "Tue, 08 Jul 2025 18:21:00 GMT"
-    },
     {
       "title": "The Democratic Party's fight over generational change flares in Arizona - NBC News",
       "pubDate": "Mon, 14 Jul 2025 09:00:00 GMT"
@@ -1310,10 +1306,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump says steep copper tariffs in store as he broadens his trade war - Reuters",
-      "pubDate": "Tue, 08 Jul 2025 18:35:55 GMT"
-    },
     {
       "title": "Trump threatens to escalate trade war amid confusion over new tariff rates - The Guardian",
       "pubDate": "Tue, 08 Jul 2025 19:03:00 GMT"
@@ -1905,6 +1897,10 @@
     {
       "title": "House hard-liners tank procedural vote for crypto, defense bills - Politico",
       "pubDate": "Tue, 15 Jul 2025 19:15:30 GMT"
+    },
+    {
+      "title": "US House clears procedural hurdle on cryptocurrency legislation - Reuters",
+      "pubDate": "Wed, 16 Jul 2025 17:27:13 GMT"
     }
   ],
   "tesla": [
@@ -1952,10 +1948,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "Scientists raise concern as 2017 asteroid visit left behind unsettling traces after massive object is detected in Solar System - MARCA",
-      "pubDate": "Tue, 08 Jul 2025 18:41:48 GMT"
-    },
     {
       "title": "NASA's asteroid-crash Earth defense tactic has a complication \u2014 DART ejected large boulders into space - Space",
       "pubDate": "Wed, 09 Jul 2025 20:10:59 GMT"
@@ -2963,14 +2955,6 @@
   ],
   "gaza": [
     {
-      "title": "Israeli attacks across Gaza kill nearly 80 Palestinians since dawn - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 18:11:15 GMT"
-    },
-    {
-      "title": "Hostages released from Gaza detail sexual violence as Israeli report concludes Hamas used it as \u2018weapon of war\u2019 on October 7 - CNN",
-      "pubDate": "Tue, 08 Jul 2025 18:59:00 GMT"
-    },
-    {
       "title": "Trump and Netanyahu meet to discuss Gaza deal push - Axios",
       "pubDate": "Tue, 08 Jul 2025 23:16:55 GMT"
     },
@@ -3305,6 +3289,10 @@
     {
       "title": "EU accused of \u2018cruel and unlawful betrayal\u2019 of Palestinians over failure to confront Israel - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 15:16:00 GMT"
+    },
+    {
+      "title": "Stampede at Gaza aid distribution site kills at least 21, Health Ministry says - The Washington Post",
+      "pubDate": "Wed, 16 Jul 2025 17:33:37 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3391,6 +3379,10 @@
     {
       "title": "China restricts battery cathode material technology exports - electrive.com",
       "pubDate": "Tue, 15 Jul 2025 13:28:19 GMT"
+    },
+    {
+      "title": "GM, LG Energy joint venture making plans to ramp up production of low cost EV batteries - Repairer Driven News",
+      "pubDate": "Wed, 16 Jul 2025 13:00:23 GMT"
     }
   ],
   "spacex": [
@@ -3881,6 +3873,10 @@
     {
       "title": "Meta investors, Zuckerberg to square off at $8 billion trial over alleged privacy violations - Reuters",
       "pubDate": "Mon, 14 Jul 2025 12:44:39 GMT"
+    },
+    {
+      "title": "Zuckerberg says Meta will build a data center the size of Manhattan in latest AI push - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 18:07:00 GMT"
     }
   ],
   "intelligence_agencies": [
@@ -3961,6 +3957,12 @@
     {
       "title": "Why do we fear difference, act irrationally, and choose aggression over peace? - Psychology Today",
       "pubDate": "Wed, 16 Jul 2025 14:32:37 GMT"
+    }
+  ],
+  "planets": [
+    {
+      "title": "Scientists glimpse planetary birth - Courthouse News Service",
+      "pubDate": "Wed, 16 Jul 2025 15:00:45 GMT"
     }
   ]
 }
