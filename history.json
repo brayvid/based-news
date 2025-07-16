@@ -101,13 +101,13 @@
     {
       "title": "US and European allies said to give Iran until end of August to reach nuclear deal - The Times of Israel",
       "pubDate": "Wed, 16 Jul 2025 04:22:12 GMT"
+    },
+    {
+      "title": "As Iran Deports a Million Afghans, \u2018Where Do We Even Go?\u2019 - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 12:51:17 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump's tariffs: South Africa's President Cyril Ramaphosa opposes 'unilateral' move - BBC",
-      "pubDate": "Tue, 08 Jul 2025 13:28:16 GMT"
-    },
     {
       "title": "Live updates: Trump addresses tariff deadline and Iran attacks during Cabinet meeting - NBC News",
       "pubDate": "Tue, 08 Jul 2025 17:25:02 GMT"
@@ -971,6 +971,10 @@
     {
       "title": "Trump says Ukraine should not target Moscow - Al Jazeera",
       "pubDate": "Wed, 16 Jul 2025 04:57:23 GMT"
+    },
+    {
+      "title": "Ukraine ready for peace talks anytime, foreign minister says, as Trump backtracks from idea to \u2018target Moscow\u2019 \u2013 Europe live - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 07:43:00 GMT"
     }
   ],
   "us_economy": [
@@ -1839,10 +1843,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump orders tight rules for wind, solar tax credits - Renewables Now",
-      "pubDate": "Tue, 08 Jul 2025 13:43:20 GMT"
-    },
-    {
       "title": "Trump moves fast to kill green energy tax breaks - Politico",
       "pubDate": "Tue, 08 Jul 2025 22:30:35 GMT"
     },
@@ -2387,6 +2387,10 @@
     {
       "title": "OpenAI delays its first open-source AI model challenging DeepSeek - South China Morning Post",
       "pubDate": "Mon, 14 Jul 2025 10:00:18 GMT"
+    },
+    {
+      "title": "Another High-Profile OpenAI Researcher Departs for Meta - WIRED",
+      "pubDate": "Wed, 16 Jul 2025 02:56:00 GMT"
     }
   ],
   "environment": [
@@ -2904,10 +2908,6 @@
     }
   ],
   "apple": [
-    {
-      "title": "Apple Arcade launches four new games in August - Apple",
-      "pubDate": "Tue, 08 Jul 2025 13:59:48 GMT"
-    },
     {
       "title": "Apple Should Consider Replacing Tim Cook as CEO, LightShed Says - Bloomberg",
       "pubDate": "Wed, 09 Jul 2025 18:20:41 GMT"
@@ -3889,6 +3889,10 @@
     {
       "title": "US Senate report faults Secret Service discipline after Trump shooting - Reuters",
       "pubDate": "Sun, 13 Jul 2025 19:10:53 GMT"
+    },
+    {
+      "title": "Senate Republicans advance Trump bill to cancel $9bn in approved spending - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 02:18:00 GMT"
     }
   ],
   "pacific_ocean": [
@@ -3975,6 +3979,12 @@
     {
       "title": "Scientists Find First Evidence of Auditory Interaction Between Animals and Plants: Study - EcoWatch",
       "pubDate": "Wed, 16 Jul 2025 00:28:01 GMT"
+    }
+  ],
+  "inflation": [
+    {
+      "title": "CPI rose in June to 2.7% annual rate, highest since February - CBS News",
+      "pubDate": "Wed, 16 Jul 2025 12:55:54 GMT"
     }
   ]
 }
