@@ -117,13 +117,13 @@
     {
       "title": "New U.S. assessment finds American strikes destroyed only one of three Iranian nuclear sites - NBC News",
       "pubDate": "Thu, 17 Jul 2025 09:00:43 GMT"
+    },
+    {
+      "title": "New US assessment reveals strike on Iran\u2019s Fordo set back enrichment capabilities by about two years - NBC News",
+      "pubDate": "Thu, 17 Jul 2025 21:08:32 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump threatens Brazil with 50% tariff over Bolsonaro trial - BBC",
-      "pubDate": "Wed, 09 Jul 2025 21:09:44 GMT"
-    },
     {
       "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
       "pubDate": "Wed, 09 Jul 2025 22:56:00 GMT"
@@ -676,10 +676,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Fires Record Barrage of Drones, Missiles at Ukraine - Foreign Policy",
-      "pubDate": "Wed, 09 Jul 2025 21:56:06 GMT"
-    },
     {
       "title": "Russia launches huge attack on Ukraine as Kremlin says it's \"quite calm\" about Trump's mounting criticism - CBS News",
       "pubDate": "Wed, 09 Jul 2025 23:46:43 GMT"
@@ -1647,6 +1643,10 @@
     {
       "title": "7.3 magnitude earthquake triggers brief tsunami warning for Southwest Alaska communities - Anchorage Daily News",
       "pubDate": "Wed, 16 Jul 2025 22:31:32 GMT"
+    },
+    {
+      "title": "Billions of phones can detect and warn about nearby earthquakes - New Scientist",
+      "pubDate": "Thu, 17 Jul 2025 18:00:57 GMT"
     }
   ],
   "elon_musk": [
@@ -1865,6 +1865,10 @@
     {
       "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
       "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
+    },
+    {
+      "title": "House sends crypto bill to Trump in historic win for industry - Politico",
+      "pubDate": "Thu, 17 Jul 2025 19:59:57 GMT"
     }
   ],
   "tesla": [
@@ -1952,14 +1956,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin soars to all-time peak just shy of $112,000 - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 21:45:03 GMT"
-    },
-    {
-      "title": "Bitcoin hits record high. Why the crypto\u2019s rally may lose steam after briefly topping $112,000. - MarketWatch",
-      "pubDate": "Wed, 09 Jul 2025 21:49:00 GMT"
-    },
     {
       "title": "Bitcoin price today: below $112k record high amid profit taking, tariff woes - Investing.com",
       "pubDate": "Thu, 10 Jul 2025 04:03:43 GMT"
@@ -2079,10 +2075,6 @@
   ],
   "central_intelligence_agency": [
     {
-      "title": "Trump administration targets Comey and Brennan with new investigation - NBC News",
-      "pubDate": "Wed, 09 Jul 2025 21:52:04 GMT"
-    },
-    {
       "title": "Ex-CIA Director John Brennan says he's had 'no contact' with federal authorities amid FBI probe \u2013 claims to be \u2018clueless\u2019 about why he\u2019s being investigated - New York Post",
       "pubDate": "Thu, 10 Jul 2025 04:39:00 GMT"
     }
@@ -2099,12 +2091,6 @@
     {
       "title": "MIT launches new lab to fast-track development of near-limitless energy machines: 'The start of a new era' - Yahoo",
       "pubDate": "Mon, 14 Jul 2025 11:30:03 GMT"
-    }
-  ],
-  "new_york_city": [
-    {
-      "title": "New York City\u2019s congestion pricing has cut pollution and traffic \u2013 but Trump still wants to kill it - The Guardian",
-      "pubDate": "Wed, 09 Jul 2025 21:19:00 GMT"
     }
   ],
   "nvidia": [
@@ -2773,10 +2759,6 @@
       "pubDate": "Thu, 10 Jul 2025 00:06:31 GMT"
     },
     {
-      "title": "US issues sanctions against Francesca Albanese, UN official investigating abuses in Gaza - The Guardian",
-      "pubDate": "Wed, 09 Jul 2025 21:23:00 GMT"
-    },
-    {
       "title": "Israel insists on keeping troops in Gaza. That complicates truce talks with Hamas - AP News",
       "pubDate": "Thu, 10 Jul 2025 01:47:00 GMT"
     },
@@ -3103,6 +3085,10 @@
     {
       "title": "3 killed, 10 wounded in Israeli strike on Catholic church in Gaza - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 17 Jul 2025 11:37:30 GMT"
+    },
+    {
+      "title": "Israeli envoy condemns \u2018glaring silence\u2019 from UN agencies - JNS.org",
+      "pubDate": "Thu, 17 Jul 2025 16:58:16 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3168,10 +3154,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "Exclusive: TikTok prepares US app with its own algorithm and user data - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 22:01:50 GMT"
-    },
     {
       "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
       "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
@@ -3777,6 +3759,18 @@
     {
       "title": "Senate approves Trump\u2019s bill to cut spending, sending it to the House - The Washington Post",
       "pubDate": "Thu, 17 Jul 2025 13:47:16 GMT"
+    }
+  ],
+  "rivian": [
+    {
+      "title": "Rivian announces Atlanta as East Coast HQ, plans 500 jobs - AJC.com",
+      "pubDate": "Thu, 17 Jul 2025 17:16:54 GMT"
+    }
+  ],
+  "infrastructure": [
+    {
+      "title": "Trump administration plans to modernize the country\u2019s infrastructure - Queen City News",
+      "pubDate": "Thu, 17 Jul 2025 21:02:00 GMT"
     }
   ]
 }
