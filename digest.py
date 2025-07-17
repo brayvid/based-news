@@ -790,13 +790,15 @@ def perform_git_operations(base_dir, current_zone, config_obj):
             else:
                 logging.info("Stashed changes popped successfully.")
 
-        # --- MODIFIED GIT ADD LOGIC ---
+        # --- CORRECTED GIT ADD LOGIC ---
         files_for_git_add = []
         history_file_abs = os.path.join(base_dir, "history.json")
         digest_state_file_abs = os.path.join(base_dir, "content.json")
         digests_dir_abs = os.path.join(base_dir, "public/digests")
         digest_manifest_abs = os.path.join(base_dir, "public/digest-manifest.json")
         latest_digest_abs = os.path.join(base_dir, "public/digest.html")
+        # --- ADD THIS LINE ---
+        index_html_abs = os.path.join(base_dir, "public/index.html") 
 
 
         if os.path.exists(history_file_abs): files_for_git_add.append(os.path.relpath(history_file_abs, base_dir))
@@ -804,6 +806,8 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         if os.path.exists(digests_dir_abs): files_for_git_add.append(os.path.relpath(digests_dir_abs, base_dir))
         if os.path.exists(digest_manifest_abs): files_for_git_add.append(os.path.relpath(digest_manifest_abs, base_dir))
         if os.path.exists(latest_digest_abs): files_for_git_add.append(os.path.relpath(latest_digest_abs, base_dir))
+        # --- AND THIS LINE ---
+        if os.path.exists(index_html_abs): files_for_git_add.append(os.path.relpath(index_html_abs, base_dir))
 
         if files_for_git_add:
             logging.info(f"Staging script generated/modified files: {files_for_git_add}")
@@ -815,7 +819,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
                 logging.info(f"git add successful for: {files_for_git_add}")
         else:
             logging.info("No specific script-generated files found/modified to add.")
-        # --- END MODIFIED GIT ADD LOGIC ---
+        # --- END CORRECTED GIT ADD LOGIC ---
 
         status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
         if not status_result.stdout.strip():
@@ -858,7 +862,7 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         logging.error(f"Git operation failed: {e}. Command: '{e.cmd}'. Output: {output_str}. Stderr: {stderr_str}")
     except Exception as e:
         logging.error(f"General error during Git operations: {e}", exc_info=True)
-
+        
 def main():
     # Load the full history log. This is used for the high-confidence pre-filter
     # and for the final history update.
