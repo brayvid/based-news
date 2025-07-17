@@ -439,6 +439,10 @@
     {
       "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
+    },
+    {
+      "title": "AI Researchers Develop Safety Tool for Transparent AI Systems - AInvest",
+      "pubDate": "Wed, 16 Jul 2025 21:22:40 GMT"
     }
   ],
   "financial_markets": [
@@ -646,14 +650,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "Climate breakdown tripled death toll in Europe\u2019s June heatwave, study finds - The Guardian",
-      "pubDate": "Wed, 09 Jul 2025 04:00:00 GMT"
-    },
-    {
-      "title": "Research Suggests Climate Change Added Excess Deaths in European Heat Wave - The New York Times",
-      "pubDate": "Wed, 09 Jul 2025 04:00:04 GMT"
-    },
     {
       "title": "Scientists hail rapid estimate of climate change\u2019s role in heat deaths as a first - Climate Home News",
       "pubDate": "Wed, 09 Jul 2025 07:25:14 GMT"
@@ -1111,6 +1107,10 @@
     {
       "title": "China\u2019s Belt and Road investment and construction activity hits record - Financial Times",
       "pubDate": "Thu, 17 Jul 2025 01:01:19 GMT"
+    },
+    {
+      "title": "China Probes $100 Underwriting Fee Amid Xi Price War Clampdown - Bloomberg",
+      "pubDate": "Thu, 17 Jul 2025 01:25:00 GMT"
     }
   ],
   "us_politics": [
@@ -1282,14 +1282,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump intensifies tariff threats for copper, chips, drugs & BRICS (including India) - The Economic Times",
-      "pubDate": "Wed, 09 Jul 2025 03:10:03 GMT"
-    },
-    {
-      "title": "Trump says 50% tariff on copper imports is coming and threatens 200% on pharmaceuticals - CNN",
-      "pubDate": "Wed, 09 Jul 2025 03:33:00 GMT"
-    },
     {
       "title": "Trump shares 6 more tariff letters addressed to Philippines, other emerging economies - Politico",
       "pubDate": "Wed, 09 Jul 2025 16:56:00 GMT"
@@ -1573,6 +1565,10 @@
     {
       "title": "Trump privately indicates he may soon fire Fed chair Jerome Powell - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 16:48:00 GMT"
+    },
+    {
+      "title": "Trump says he\u2019s \u2018highly unlikely\u2019 to fire Fed\u2019s Powell after floating that idea in private - AP News",
+      "pubDate": "Wed, 16 Jul 2025 19:06:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1631,6 +1627,10 @@
     {
       "title": "Earthquake: Scientists find Concord fault line farther west than they once thought - ABC7 San Francisco",
       "pubDate": "Wed, 16 Jul 2025 03:15:32 GMT"
+    },
+    {
+      "title": "7.3 magnitude earthquake prompts tsunami warning along parts of Alaska\u2019s coast - The Hill",
+      "pubDate": "Wed, 16 Jul 2025 22:35:00 GMT"
     }
   ],
   "elon_musk": [
@@ -2327,10 +2327,6 @@
   ],
   "microsoft": [
     {
-      "title": "Microsoft to Slash 9,000 Jobs in Massive New Layoff Wave - MSN",
-      "pubDate": "Wed, 09 Jul 2025 03:13:16 GMT"
-    },
-    {
       "title": "Microsoft cuts 15,000 jobs, tells remaining employees to invest in ... - Times of India",
       "pubDate": "Sun, 13 Jul 2025 03:12:00 GMT"
     }
@@ -2365,6 +2361,10 @@
     {
       "title": "Scientists have detected the largest black hole merger yet. What it is and why it matters - CBC",
       "pubDate": "Tue, 15 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Scientists show that mRNA therapy can be delivered as a capsule - STAT",
+      "pubDate": "Wed, 16 Jul 2025 20:35:37 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -2859,10 +2859,6 @@
   ],
   "gaza": [
     {
-      "title": "Google co-founder Sergey Brin calls U.N. \u2018transparently antisemitic\u2019 after report on tech firms and Gaza - The Washington Post",
-      "pubDate": "Wed, 09 Jul 2025 03:55:00 GMT"
-    },
-    {
       "title": "Netanyahu and Trump prioritize Gaza hostages and Hamas ceasefire in US talks - Reuters",
       "pubDate": "Wed, 09 Jul 2025 08:19:26 GMT"
     },
@@ -3193,6 +3189,10 @@
     {
       "title": "Israel strikes Damascus as fighting rages in southern Syria - Reuters",
       "pubDate": "Wed, 16 Jul 2025 18:20:57 GMT"
+    },
+    {
+      "title": "Israel bombs Syria as more than 90 Palestinians killed in Gaza in 24 hours - Al Jazeera",
+      "pubDate": "Thu, 17 Jul 2025 03:42:57 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3271,12 +3271,6 @@
     {
       "title": "GM, LG Energy joint venture making plans to ramp up production of low cost EV batteries - Repairer Driven News",
       "pubDate": "Wed, 16 Jul 2025 13:00:23 GMT"
-    }
-  ],
-  "asia": [
-    {
-      "title": "Trump's tariff blitz to weigh on Indian rupee, hurts Asia FX - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 03:08:00 GMT"
     }
   ],
   "algorithms": [
@@ -3371,6 +3365,10 @@
     {
       "title": "Researchers observe early state of planet formation beyond Earth's sun - upi.com",
       "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
+    },
+    {
+      "title": "Astronomers see formation of new solar system around distant sun for first time - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 20:27:00 GMT"
     }
   ],
   "energy_transition": [
