@@ -1,32 +1,62 @@
 {
-  "US Senate": {
+  "Democratic Party": {
     "articles": [
       {
-        "title": "Senate rejects Democrats\u2019 initial attempts to trim Trump\u2019s cutbacks - Politico",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzNueGtqT0cxSHBMMldYMG51eTYzRUJ2YXRkckVyWkF4ZmZYaXpTTUZLY05DS2U5OERJaVZPRkVzeDFla1V2UGh4SGw2cHhRLXp2UEJ4NUlWVmlETWZKV3hzRWd6M1RESUdpMTZhODZJUzhtTWlzYU9fNEVtLU53cGxoMW1NUUFRVGF6OURmQTNER3RTNzREemFiTlo5ZlNnQUNF?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 19:29:02 GMT"
+        "title": "Senate Democrats slam Israel in major shift of tone - Axios",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOU0xajdXUzhWb0dvNFNCZWE5alIzSlUzamhJOTBhaE90aGtnTFJKSk9tQjNRTEpRWGNKTWJpSldtTEZ2MVcwdENvVWRjMEdVa2pCZmNrZjlIR2pBTGN1VUZPMkx5d2p6b1hpWFFuOTRmWmtSN2RuR0RKUWZYOW83SDd0WlQ2NlR4a2FtQw?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 00:23:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T01:02:08.579275+00:00"
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Live updates: Justice Department fires prosecutor on Epstein case and daughter of ex-FBI director - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NQjR6YmVSY0VmeWpWd0MzM0pDM2lDVXN2UWg2SnBmWDE0UGFPZGg5Qlk2emVTYlNCbnFaN3BrbmUyTFQ4Nzkzd3psNERhQzROWXFtSHVXbXNySTZYMjFLSUZySExZUm1NempV?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 23:50:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Afghan data breach raises serious questions for Tories, Keir Starmer says - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YMFlRYU1WWllQUWw1eGgwX2cxUDJHb2c4SmJoanoxaUd2QWtSQjJiZXBDWWRmOV90ZEV4Q2ZEQlNRZ01vcl9GUVB5djVfcElQMG5TSU1yTnFUUdIBX0FVX3lxTE1qQnhXbGIteGpLYVBwYzZaNlpwWGdtdzk3VTA2Skx4akJPaGU1RlVrSDdwdFBKMmdGYVBuUjhzN3FYUnpDYTR5UEViVGxaN21VMVBpTG9reWNNSklxRVNB?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 17:22:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Why did targeted therapy stop working? Proteomics can guide which cancer treatments are likely to be effective - WTOP",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTg2bVB3N0hwSkJJRGRCaFFVVExMell1YjVOT1RBckE1dXFKOUc5WVZqTEU1LTRLS1J6SVVVaFpMS1BLQ1Y5YmhVZVNQejJvS3I0LWxVMjM4bk50c2VmYk44UmM2NFRSUmM2Z2FsOGhsUmtYdlVaMXl2ZXVwbHZBNHpQdEplblUzNm9GbGxLUU1ReXl3MWxVd1dDcU1PYUZ2WVNMdXd2WWRkZ1FONXpnLUJBN1dxWUx4d2Jrbk5aRHE3NzdZNDlYeUJoMmJOZ0tsaEhuVi0zNTY?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 14:17:38 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China\u2019s Belt and Road investment and construction activity hits record - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rcVdlYjRSZmo2WVp4Q2drdHR2N3Z2QUF2dmhCTENTN1NFVGhSTThsVEF3Yzc0RE01aGVBemVDamNTZjlnOTg4amVfajJsbnpITE52czVqWGFVM2d3d2NMeDFjVUMtclpxYVZ0VHo4bUs?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 01:01:19 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "At least two killed in \u2018horrific\u2019 Russian attack on Ukraine\u2019s Dobropillia - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm5SUkloZ2I5UWdvMDAwZ3ZnSzFHRU9FbjhXc1FlcVdQX05TZDFOaFIyYUMzU1Vob05XWG9WSUlDajBJejFpQTFZRWFaTGV0b0cyZ0h1dVJWLWlVSERsVW1oRHh2ZFRQT3ZTTkdjb0hrbEFiREVyVHZWcXhIUWhhaldublhNczdBUlJWRWNtYnZQWVlZZkVURGxFVFY4T245UkdYb2ZydWVwS0dROWFITtIBtgFBVV95cUxQUHNld0pONEh1T1ViVVhCcW5ua1lidHQ0dUticnhKSUs2Wjl5N19YUm0zbTFPdHBhWVhYUXdDUjJGR2M3TE1saXM0dUl1RVhkeGhra3pzaF9nT09rNVVjQ1NfSmZNTDVxb2dQbmtmcC1va0ZQYUgwTVo0TkxwZEpxcjh4aENWSmVYZFlOY2xYLW5YbldfT2t4M0RjOG1Jenh2Sk9ZelB0S0Z3VGVnNTlzZEtlc1UyZw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 22:07:30 GMT"
+        "title": "Russia hits Ukraine despite Trump ultimatum - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGZrVTgxbHZNczMzVjROZEdpQ1JvRnJEajNCVzJUeTJ0Mnp2RmpaN2tVSDNiZ2lBc2thdS0zT3FQOFVjM2djaGg2UVpVLWNHSjhOOFFkeDNTLVBhbXJCZ19jSWxXYlFpR3pIUXVoZW5XMVlnUy12Q0U1ZGhqZVNYMlBfamlNNVIyR0tlRk5FdUdzQjlnaW5Ca1VzMV81c2VxV2d5SThkMmowejg2ZlFV0gG0AUFVX3lxTE5WVTN1cEpCVHdUWFpRbEI3VGoybWFadm9aTlpVbWgyVjNOZDZ0STcxQXprZUdIY1dOZ2pPV0hZTWk0dk9fU25wWm51TTNoSjNDcEhQcXR2Qy1wU3YxUUxoaVk2R0RTVllsUVAxRFVjVDZGY0dra0x5alg1U2hqTERIOUMzS09WcFBBcjAxQTh4b2JEb2REcUxFNU8zZkRPZUMtdFFRNTZ4SkRVVk9GMTE4OGxqTA?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 23:01:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T01:02:08.579275+00:00"
-  },
-  "Ethereum": {
-    "articles": [
-      {
-        "title": "Massive Whale Profits $15 Million\u2014Now Betting Big On Ethereum To Crash - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHJCVTdmYkZLOTVmc2pPNFd6YzVWb01pZUFGVTRmY2dUa2g1T2laMHJYWHpsbXEteHhnOFRUQVRVVWRmTkVuR192Sk1TV2xVZ0dYd25xOHV3R182WVM1LXRYaDRmZXpPd09LTGl2aU5yanhCRnE1eG4wYmduVEttVDhSVEVRWEdpLVFBODBERzJYQzZRSFNOaGJnWUVQOFNPY1BQMzJ4WkI1Z2tvUFc4NU1aMGdYaWxiTUNrM0ZXSkEydFpsUkE?oc=5",
-        "pubDate": "Thu, 17 Jul 2025 00:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-17T01:02:08.579275+00:00"
+    "last_updated_ts": "2025-07-17T02:01:49.305387+00:00"
   }
 }
