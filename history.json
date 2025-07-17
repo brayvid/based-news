@@ -295,6 +295,10 @@
     {
       "title": "Trump undergoes medical exam for swelling in legs, hand bruising - The Hill",
       "pubDate": "Thu, 17 Jul 2025 18:06:00 GMT"
+    },
+    {
+      "title": "Trump diagnosed with chronic venous insufficiency following leg swelling - CNN",
+      "pubDate": "Thu, 17 Jul 2025 19:03:00 GMT"
     }
   ],
   "russia": [
@@ -939,6 +943,10 @@
     {
       "title": "Russia says Trump's new weapons pledge a signal for Ukraine to abandon peace efforts - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:25:20 GMT"
+    },
+    {
+      "title": "Russia, Ukraine exchange more bodies of war dead, Kremlin says - Al Jazeera",
+      "pubDate": "Thu, 17 Jul 2025 11:26:15 GMT"
     }
   ],
   "us_economy": [
@@ -952,10 +960,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US scrutinizes Chinese AI for ideological bias, memo shows - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 20:00:18 GMT"
-    },
     {
       "title": "Scientists Dropped A Cow Carcass 1,629 Meters Into The South China Sea \u2013 And 8 Unexpected Visitors Turned Up - IFLScience",
       "pubDate": "Thu, 10 Jul 2025 10:41:37 GMT"
@@ -1475,6 +1479,10 @@
     {
       "title": "Google AI \"Big Sleep\" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act - The Hacker News",
       "pubDate": "Wed, 16 Jul 2025 07:44:00 GMT"
+    },
+    {
+      "title": "Cybersecurity Bosses Are Growing Increasingly Worried About AI Attacks and Misuse - Bloomberg",
+      "pubDate": "Thu, 17 Jul 2025 13:00:03 GMT"
     }
   ],
   "recession": [
@@ -1601,10 +1609,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Hundreds of small earthquakes are hitting Mount Rainier. Geologists say they're not concerned - KUOW",
-      "pubDate": "Wed, 09 Jul 2025 19:39:14 GMT"
-    },
-    {
       "title": "More than 150 earthquakes and aftershocks in Guatemala have left 4 dead, officials say - PBS",
       "pubDate": "Wed, 09 Jul 2025 23:32:28 GMT"
     },
@@ -1676,10 +1680,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Scientists reveal how Epstein-Barr virus protein EBNA-LP rewires DNA to drive cancer - Medical Xpress",
-      "pubDate": "Wed, 09 Jul 2025 19:05:22 GMT"
-    },
     {
       "title": "Modified personalized cancer vaccine generates powerful immune response - Medical Xpress",
       "pubDate": "Thu, 10 Jul 2025 17:35:46 GMT"
@@ -1869,6 +1869,10 @@
     {
       "title": "Over 1 in 5 high-level Trump picks held crypto, Post analysis finds - The Washington Post",
       "pubDate": "Thu, 17 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "House passes sweeping crypto market structure bill - Axios",
+      "pubDate": "Thu, 17 Jul 2025 19:33:07 GMT"
     }
   ],
   "tesla": [
@@ -2383,6 +2387,10 @@
     {
       "title": "Study suggests liquid brines could form on Mars' surface during seasonal frost melting - Phys.org",
       "pubDate": "Wed, 16 Jul 2025 15:54:32 GMT"
+    },
+    {
+      "title": "Largest piece of Mars on Earth sells for nearly $5.3 million at auction - CBS News",
+      "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
     }
   ],
   "hacking": [
@@ -2786,14 +2794,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "US issues sanctions against UN investigator probing abuses in Gaza - The Washington Post",
-      "pubDate": "Wed, 09 Jul 2025 19:32:11 GMT"
-    },
-    {
-      "title": "A Surgeon Shares What She Saw in Gaza\u2019s Hospitals - The New York Times",
-      "pubDate": "Wed, 09 Jul 2025 19:12:20 GMT"
-    },
     {
       "title": "US sanctions UN expert Francesca Albanese, critic of Israel's Gaza offensive - BBC",
       "pubDate": "Wed, 09 Jul 2025 22:25:43 GMT"
@@ -3293,12 +3293,6 @@
       "pubDate": "Thu, 17 Jul 2025 02:33:13 GMT"
     }
   ],
-  "energy_transition": [
-    {
-      "title": "The green transition is coming but who will protect workers? - The World Economic Forum",
-      "pubDate": "Wed, 09 Jul 2025 19:50:18 GMT"
-    }
-  ],
   "english_language": [
     {
       "title": "Trump says the president of Liberia, where English is the official language, speaks 'such good English' - NBC News",
@@ -3541,6 +3535,10 @@
     {
       "title": "Senate Links Climate Change to Public Health Crisis - Environment+Energy Leader",
       "pubDate": "Thu, 17 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Americans Are Concerned About Climate Change\u2014but They Should Be Afraid - The Nation",
+      "pubDate": "Thu, 17 Jul 2025 09:03:46 GMT"
     }
   ],
   "violence": [
@@ -3811,6 +3809,12 @@
     {
       "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity - Reuters",
       "pubDate": "Wed, 16 Jul 2025 23:10:02 GMT"
+    }
+  ],
+  "us_congress": [
+    {
+      "title": "Senate approves Trump\u2019s bill to cut spending, sending it to the House - The Washington Post",
+      "pubDate": "Thu, 17 Jul 2025 13:47:16 GMT"
     }
   ]
 }
