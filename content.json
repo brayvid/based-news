@@ -1,12 +1,72 @@
 {
-  "World Economy": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2w4cHA4Tmx5SllHbWFzVzllSF9BemplRHF6ZmdKZDRmdEtGRlBWRmI1TW5lUjVnNlRqTmRrbFZWb2lvT3ozTG1La2NBZU1GblU3eHNSZ0dmYkt6ZkRnWllLZzE3cHpMa0hoX3VWeEYzTWc2YTRXYjNKMmpnb2IyMVRnV2lrQjRoZXJISFA4OEN2RTdLTC1sY0p0QWhoUkxWOTNXc2tTTnRQb2ZxelBvZjl1MkRPdWwtN3lsVjlieXcxQUItSHRoZGppVnM1VEVrQ0NN0gHYAUFVX3lxTE0yRThFN3VKSWNGcTZRcTNLNDhqOEZZazBqUXEzQVlObnZDbTUtR2ZpM0N5OVMtdFpJY2F5QlEwY1JrNGx6ZW0zbWJhaWFZQjc1UFZpejJGenBlODZVc3lmcmFxaFlCOTkxTnRhRzhBOC1nVWNweFQ3NTFxZzZDbFoyTFBRTkVsVE1rc1RBTUhRejRZWE5uSDdaaERROGpxT2xpa3FxOTdGblVRdUFjd29fNUFudkhhNUZ0bE10NGNnSURHMkI2TGtIME5ET3l0RTMwMDhkcjUyMw?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
+        "title": "AI firms \u2018unprepared\u2019 for dangers of building human-level systems, report warns - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVdlT1Y2VTZBTkhrX1JzR1FUTWhLeXJCT3pULTA0ZVJFN1VVWGFlUU50bXEtbWFlMklrOFdrWmhKSVZGTG13ZFZ1R2Vrd09yMzZOWkRuZHJCMVF6QzZyYWpEVWI3UWU3ajgzaGc3Tld5TXNrNUFjV0lmQU54SnlXb3l1cjBBd2xMSm5IRFNFOUJyb0hWY1J6VGJRTjExYjlTaWFKcGRXeFlKU2lfTXhXRnEzaTRWZGM5Q05tYWpMbGMzZU1Xb0E?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 07:03:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T07:00:51.053917+00:00"
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "Trump says he's not planning to fire Fed's Powell - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzN0dFJpWDdTLXVDTUhGaWhGNGpjZkNLS201RFlMTjJFM3l0dWlIcWlLc21ZNjlMOEZGTXJKVnRoY214eFlZMDR0TU1vSDFfN3lwXzl1Z0JOZ3hnb3MtRVFaLUszSDludVVRbldkTVZwMmtzV0ZBV284X3dySzdtZHd4ZHl4aEJGQ3I1TzUtMDRHck5EUk12SjNIUzB6cTdESzJCdnlrWENtMWVYNmpuYmpmVDRmLXNsWmc?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 23:32:05 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Sirens and evacuations as Taipei rehearses to counter China invasion threat - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iVEJDWDRZTG8zSHhoSzVsWnRWdm4tZjZGWS0tSEI4MlowMFhiOWtPaHNyVVlHVmt0NC0xNWlCLWRJUGtfeF9MZGlzeTU3ZHNoZE1mbFlnSXM1Z9IBX0FVX3lxTE1Cd2ZLcExOeHNNb1ljU05sS0NRTm02WTk3eEJFeHo2UlpJMUVYX2s1SUdsTWZaX0JMQ3pvQ01Ld0oxWXUzMEVlV0xrWVlxYXJITVB6aU44MFNCWXRIcXZR?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 22:29:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXlqTkdCNWhPZklaOWxKVWFBWnB0blVMYVRsSW5TTVVBR203ZE1PYTBxU0RKdVFlWXpqRlRMUGU3VWJiMF9mUS1LN0ZfSHl1YW1TUFZ0OFlKYkRlYzFqcGgyQTZJbThjZ21MS01lMHY1ZldOS0kzSE9BS18ybXUzVk5aTklueTRwcEdHWERNQzg4VFNGWnFEenUwN0RNRUI5akFKV3hYSkM?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "Oceanography": {
+    "articles": [
+      {
+        "title": "Scientists Discover Unprecedented Abyssal Predator 8,000 Meters Deep, Shaking Up Deep-Sea Ecosystems - MSN",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQeHVBSjRDNE9OU0F2NlNTam5DNXBfSWxtcFZlZzhubjQydWxsWUhlUVpXdmNBSU9wVFQwbTV4MXJoR3ZKTkdyZDU5R3pETkRSOWthcWVCaHpzd2dEVXRDc1BmZy0yOUdKM01KTlplRDRvWnZoV3RfejBzVC1TWUZISWdVOGZmeHpMMW1XbHU0MGRWS2xockljSUNiMkhPZDlUX1RDS1V3VDVTa2tUajVERUEzUDQ3VGQxTVRGTUYyQTVIaXpEQ1RJOXlRZWxSUHRVOXk4dGFlbk9nb2xaOVFDMUVUUDNWRmREUVltekVJMWx2YmMwQ2RsWW5QaWRxQ2gtS3hEazBMWkx1XzlLNHhIbjg5S3E5dExuMVNKMUVUTldOYTVpb1Rz?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 00:20:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "Volcanoes": {
+    "articles": [
+      {
+        "title": "Iceland volcano eruption creates fiery scene of smoke and glowing lava - MSN",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0JjMGNWUnRjOFdITVFGZUJ3ODhQenlPUGtWMmtBeTJHQ3R2eUljR0NWanZDNktjeUprU1FndjRoVDVkQWVvRmdqX1lpYVlJdmdobTBwMXFmbFBuX19paU1tU042eGNhMFluOVdNMVRDOEpSTjMxUHpERlBpTlJra0IwR2ZhY2pydm4wczktTDNOWkNtWnNDQS1VYmNjTjVfMC1Yelh2NlV3ZHV5cXF1bzdxazBXNjZ6WlBSNFozNEpoT3EwUEE?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 20:01:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "US House agrees to consider crypto legislation in big win for the digital asset industry - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWdETVBGbU1YNVVwUFozM0JLcGlxMWJLby1pSVk4VVJrUndIYTlVazlsckVsR2Q3QjlDa3p4cURfUHdxVW9WdVR5YzBFcEJhOHVrWXBvaVNSYlZNSWZKS2VBbmMxaGNkNjJ3Z2dOZFNmNHZMSl9iNXYtTDlUaDUyNV9VMjJhR2YzNWpTRGtxU1NZYjFUZkhkY1RwSXI3aGtBbEZjd1gwNlZ6cXJheENGZF9Tcw?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 04:28:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T08:00:45.653836+00:00"
   }
 }
