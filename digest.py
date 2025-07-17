@@ -21,7 +21,7 @@ DIGEST_STATE_FILE = os.path.join(BASE_DIR, "content.json")
 # New paths for digest history
 DIGESTS_DIR = os.path.join(BASE_DIR, "public", "digests")
 DIGEST_MANIFEST_FILE = os.path.join(BASE_DIR, "public", "digest-manifest.json")
-# Path for the main, latest digest file
+# Path for the file containing only the latest digest's HTML content
 LATEST_DIGEST_HTML_FILE = os.path.join(BASE_DIR, "public", "digest.html")
 
 
@@ -253,7 +253,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
             articles.append({"title": title.strip(), "link": link, "pubDate": pubDate})
             if len(articles) >= max_articles:
                 break
-        logging.info(f"Fetched {len(articles)} articles for topic '{topic}'")
+        # logging.info(f"Fetched {len(articles)} articles for topic '{topic}'")
         return articles
     except requests.exceptions.RequestException as e:
         logging.warning(f"Request failed for topic {topic} articles: {e}")
@@ -895,12 +895,10 @@ def main():
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
-                    # 1. High-Confidence History Check (Your requested part, but safer)
                     if is_high_confidence_duplicate_in_history(art["title"], history, MATCH_THRESHOLD):
                         logging.debug(f"Skipping (high-confidence history match): {art['title']}")
                         continue
 
-                    # 2. Banned Keyword Check (Hard rule)
                     if contains_banned_keyword(art["title"], normalized_banned_terms):
                         logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
@@ -974,22 +972,17 @@ def main():
 
         if final_digest_for_display_and_state:
             logging.info(f"Final digest contains {len(final_digest_for_display_and_state)} topics, ordered by Gemini.")
-
-            content_json_to_save = {}
-            now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat()
-
-            for topic, articles in final_digest_for_display_and_state.items():
-                content_json_to_save[topic] = {
-                    "articles": articles,
-                    "last_updated_ts": now_utc_iso
-                }
-
+            
+            # ** CORE PERFORMANCE FIX LOGIC **
+            # 1. Generate the latest digest HTML content string
             new_digest_html = generate_digest_html_content(final_digest_for_display_and_state, ZONE)
 
+            # 2. Write that content to your established `digest.html` file
             with open(LATEST_DIGEST_HTML_FILE, "w", encoding="utf-8") as f:
                 f.write(new_digest_html)
-            logging.info(f"Latest digest written to {LATEST_DIGEST_HTML_FILE}")
+            logging.info(f"Latest digest content written to {LATEST_DIGEST_HTML_FILE}")
 
+            # 3. Inject the same HTML content into the template to create the final index.html
             try:
                 template_path = os.path.join(BASE_DIR, "public", "index.template.html")
                 final_index_path = os.path.join(BASE_DIR, "public", "index.html")
@@ -997,6 +990,7 @@ def main():
                 with open(template_path, "r", encoding="utf-8") as f:
                     index_content = f.read()
 
+                # Replace the placeholder with the actual latest digest HTML
                 index_content = index_content.replace("<!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->", new_digest_html)
 
                 with open(final_index_path, "w", encoding="utf-8") as f:
@@ -1005,10 +999,18 @@ def main():
 
             except Exception as e:
                 logging.error(f"Failed to embed latest digest into index.html from template: {e}")
+            # ** END CORE PERFORMANCE FIX LOGIC **
 
+            # Update historical digests and manifest
             update_digest_history(new_digest_html, ZONE)
 
+            # Update state/history files
             try:
+                content_json_to_save = {}
+                now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat()
+                for topic, articles in final_digest_for_display_and_state.items():
+                    content_json_to_save[topic] = { "articles": articles, "last_updated_ts": now_utc_iso }
+
                 with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
                     json.dump(content_json_to_save, f, indent=2)
                 logging.info(f"Snapshot of current digest saved to {DIGEST_STATE_FILE}")
@@ -1018,10 +1020,10 @@ def main():
         else:
             logging.info("No topics from Gemini this run. Files are not modified.")
 
-        # Pass the original 'history' object to be updated.
         update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
+            # The git operation will automatically pick up the new index.html
             perform_git_operations(BASE_DIR, ZONE, CONFIG)
         else:
             logging.info("Git push is disabled in config. Skipping.")
@@ -1030,6 +1032,6 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-                
+        
 if __name__ == "__main__":
     main()
