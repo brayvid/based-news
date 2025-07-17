@@ -1,72 +1,62 @@
 {
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump lashes out at \u2018weaklings\u2019 who believe Epstein \u2018bullsh*t\u2019 amid building GOP pressure to release documents - CNN",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00S0tCNFdwZDQzSW5veFdoV3RiNk9oU0JoS2dRdzRVc0twMUlrZzlxSGpyeUhPWFhfLTFvb05ncDR5Z19nRTdzVUZOb1BlSXFHcVdXRmRwMHctOThfUnJMeDZQQU94YVphZU9jdnp5Y241YV9QaU9YSXJhYnE5MUHSAYQBQVVfeXFMTUFFWWdWN00zZUczRkFsTnRIeVZHSk15QWFzYVJWUnUzZDlubWYxVTViRVFjZk9DNnJ5YmdBSUJCUFVILW1UUzA1OVFIb1VZZC1EQWpiQ3doYXIxRU5vdUt4TFg1endYZS1KMkJJVHZSaEVfZjFMdmx4MmM4NDBpUU5IbGhZ?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 23:53:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
-  },
-  "Earthquakes": {
-    "articles": [
-      {
-        "title": "7.3 magnitude earthquake rattles Alaskan island, prompting tsunami advisory - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1oNk01YU1TOVVUU1kwUU54eXp0Skl4dmRrcXgwbS1nUGl1WUZ1Q1RTQzgxWnFIN2V5S2VBcGFVMUdRaU1lVm15TENBNDNoVS13MzJpdEh4WFI2emk3dzl3Z2hHUzZ6QkYxT0xJeWUtUXg5ZHRycjhMUUo5bE1MeWdYZ3BQOC1Oa3l2ZVlsTHpQWnhZN3V2YTRELUJKcHAyMVo3MmhFUdIBrAFBVV95cUxOeklWQkpHMF8wZFc1X1NmclpGclJLVkhNd1hDQm9XSUFhZnBzOFlNMGNtaEZ3OXZEUzR0dHhBMjVEZ0l3QlZMTU1sNFlkQkhOUFBuQmx5Q2NtNW1tN3NlQTVHMWlmNmdNeEtBbkxkZWhkbWxCakZSWng0ZmxnbENyOGhYREhaQzVLb0VldjZ2UmY4eV9wTjNOU3NLVHh3S25xOGdXNEliWTRPcklu?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 22:07:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Israel presses ahead with Gaza \u2018concentration camp\u2019 plans despite criticism - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHRIT19JcHBHdWtrd0FwOEU5bU05ZDlPS2cxcmZycVdnbWtSTWtvN19EWFZXSzdVU0k2dTcxaWgxM2k0UVBfTlh1LTFRWExrWS1HZmk1RVJUZU9RWXZfMXczZGdmUkVMczBHdzI5bkJmZjZKeHE4b3N4cElKOS1lMW9NRzlTbTBBR0gta3BJeGpMRVBnU1RuLU5iaVB0MU5OSnYyaTFLSjhCZEVkMVHSAbMBQVVfeXFMTUxPVkR6V1haeFJaWXhUQ3JNTmVkVTlEbVRYRWg3ZDFyOTBGWXJqajFBQlRhVHlxaTh5akFyclppV0V3X3lYazhLMS1EZnlIYWZDaTNtZ2xkc0c2c01hZzhmemFnb1owN1c4MkpjT3V2TkdqOHFWdUlNamFrNXFBZllqSTJXU2Y0RXFjcXltc1pSTWtURnJYcEs3STUwelpyRHdPc3JTbThXTGJ0NGVWU0x3RE0?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 22:52:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
-  },
   "AI Safety": {
     "articles": [
       {
-        "title": "OpenAI and Anthropic warn: xAI\u2019s \u2018reckless\u2019 safety culture jeopardizes public trust - Storyboard18",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmh4X09IM2FUa3M2dC1VZENhcTZ3ejV5dkxTOXFMY3N4UkUwZzNoUVBDMGs1eVUyclRJRHVrbm55UmVSejlnTFVYZ09FZmtfZUhNWXRoMkxCQVc0NlhTbjg2dUxUc21oa1lVZDBaZGhGcDJ6MmNWbXJ6ZkpVRzQxaXlpamdRaTFLTXBla2lSLTlERTQtR3czMlRoeGJkVUFVZlBpVk5UREpUYmhlcExXbnNoUEs3ZHhpQ1JneVhSc0VmSU420gHKAUFVX3lxTE9wdUtLNHlrYkFSTWdnem5nNUlDMnVsZWpXM1J4V2JmWTUyVG1FLVNZeDlEbFZWRmU5WEw3TTlodHAxOW5rVU5MNG5ZWnBTWkJ2UlN6SkdvM3FXdkdJV3M3MElYUF8xbmtfeDdZUXQ0YTdfSncxZ010Y2Rwb0hwMmVDMUQ0OFhVSTV0VjF1aEYzeXdKQkMtWWR3Qi1meXhVMTMwblVTNU8tSC1iTTBXcFhRNmZ6ZHBpNjVVSGdSRzhOMVBSY2V1ak5BRUE?oc=5",
-        "pubDate": "Thu, 17 Jul 2025 03:43:02 GMT"
+        "title": "Researchers warn future AI may hide its thoughts, making misbehavior hard to catch - digit.in",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFo5Z3huTTBtX19oWlo1QzltQWhUMWFIRDlRTm9KSTNMcWhaVG1hVzJSdkpiOHF2Vjh3Y3BGUGVfNE9LcTBYWTdPQmlVMlRPZVIwOEZiVDV5bWNTSHNhUGNYT3VmeFdwVU43bGJILVRJVUx4UGh0SXQ2TEswSFdhY1lUclFTSDE5alNJVDhWNFhfeHBIclBNRTJFM2JKQURaNGlRcVlrTzFvTmZoeFlKbjlqM1ZGMW5SbG9VZtIBwwFBVV95cUxNSklJaGlMU1JOQm9ERU9yUzlkMDFCbE4za3U1SEg5SnhFbzRXUEhyMGd5WUtnZjJOaXFKWDkxbkJTNlpkT3J2elJtT1MzaHpueTlfZjRXd1h3VHpDNVVvQ2dzQWI3U2NDcmpaaW1FLUQ0ZlU3VXJ0RndLUHk4a0tUVl92M0YtQkFnQm1HWXM0U3pHeGNHQVRXdVcwa3pzdVJrczN2MFBuWW1qNGY0cFM2UmxZWmZxZndTeV9IUFBnd213VFk?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 04:14:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "Should China adopt a zero interest rate? - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DclhyT3JncGZ1WktUclVIaUc4SU4xZlVuMnlLS05BekZJRjY5cm45aGUtczRuNkFwUkhFUS1KdHVKdVVTelVpZEt5LXRBS1dNTzRGNWxIY21pM29WZ0NNQzJpcE9uTTlVS3ROa29GaW8?oc=5",
-        "pubDate": "Thu, 17 Jul 2025 03:04:48 GMT"
+        "title": "Record US Firms Cut China Investment Plans as Tariffs Spiraled - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUtKWW9KMkpUZWxIVlczOXlteGF5dVBCaDlIaFFRdi1WV1I0QzhKSGtJN0dwT25VZVJtU09lcTVITXY2OV9qS0ZqZVBpc0J2WFExSjNEbVc1cXd3QnNfTnNhc2EtMXlXTHc2TTBqbENPNUM3djNJWVN1QVlrR0RWSGVHTTFvMVVrdGFuU0tKZUlaSHB1SzVZZFd2VjBtZGktcXdmd2NtUGVaQ2lYejQwd21rSQ?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 03:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
   },
-  "Russia": {
+  "Earthquakes": {
     "articles": [
       {
-        "title": "Why Trump is supporting Ukraine and cooling on Putin and Russia - MSNBC News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2lPdEpwd20xRGY3a3BYdVRyamJ3eTZHb01ldlFtOThwTUtqYzFXT1FrM2dXRzFHTkFDS0NrZ1JOdU02dHVjeXRncVV5ZFV0SzVxQWVMZk5PLWZVcGNXT04yTlZ4R01nY1lMZnhuc2FnRk00VkdmWW9DNm5oRktzTDVfcWlpU0hIU2R6M0ZEYThLd2tnT3FHNTJ30gFUQVVfeXFMTXUwNVItSGpBY1Q3MF82Q2l3WWV0YXRKYlBPVVBBY1d3NFpISExZX2hhNzhWbVZVOUVjX2FPanR0ZXplRW5KWnM5V2k5em01T09BOHNr?oc=5",
-        "pubDate": "Wed, 16 Jul 2025 19:43:09 GMT"
+        "title": "7.3 magnitude earthquake triggers brief tsunami warning for Southwest Alaska communities - Anchorage Daily News",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVLVHVzYkNya0c2VkdJc3ZZcFkwbVVnMXZQWjE3T2Nka0ltc3hkay1SQlNwT0dYRlZEZFBLSlJsWUtrVnc0SllERWUyMC1ZQ0YxdVh3R192QWlxYlhET280cU95ejE4akdHXzhRUnhCSTU1RnZUb2ttNndWSjBVNjZ6NUp2ZTZhOTZER2hlOFIyY0Q2Q0lYcVFFOF9fVzBiNjYyb0xGd2VTMk92UkdDZkRNLWtXeS1GUEE3UThVNzFsVGxxYXBlS21lRWxlaEZ6ZXRn?oc=5",
+        "pubDate": "Wed, 16 Jul 2025 22:31:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
   },
-  "Oceans": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Scientists issue warning over disturbing business idea proposed for ocean floor: 'We all see how destructive' - MSN",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUm9hNXJHU21KbTNTVHdVakF0MGVJNUZvU0tXUWZ4RlE0QTZ2WTN6d25USlhzMXdSNzlNODUxOG1PVFR4WmRwazZNUXNIRnR0NjlXR09zOGRYbjBsTjVxZlRTdDRmaGt4WDhsaEgzOGpxZ0NMWURPT3BFVjFDU2FfOU5ldUZBdE5VZDV5VW45M2dYMVk3bW5SV28tempfTzV0UThKYXpEUUJKazN6UUlnZkcxbGV5VDBzemVVMFpXbDl1dndYNFpfUHQ5ZVAyQ3FzYnRiSUhIaWdJa2ZDNEwzUkFMQTV2cGsxV3BQVklTcjVZd0NmcFNNQWpXei1VRWFoRk1mV3ZybDhobXpuY2drbFFR?oc=5",
-        "pubDate": "Thu, 17 Jul 2025 00:31:45 GMT"
+        "title": "Trump faces questions on Powell, Epstein as Congress works on bill to claw back spending - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zTEc2U3dONzhBaEg3SVF6OXZHc2JNdzJJYmg0MUx0ZHBZS3FUMUszUFJWLUxIVnM4R2FNT3NYNlJGNUQ1cmtTaGdJSnY5eGhraUxpMUVuSGthTmhhQTZ4bUNqVzRpZU0tcTVNam1CQW1FMlAxZnZtTkh5WlF4UQ?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 05:15:52 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-17T05:01:11.283046+00:00"
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
+  },
+  "Climate": {
+    "articles": [
+      {
+        "title": "Why is Pakistan so vulnerable to deadly flooding? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjRIRnppR01qRkRxcmFWMUt2Sm1YcHJJVE4xcHRTYjA2cXk2bTViLXRZczVnUDhOc3RpVFpuOFYweFE5WE8zRFJqU0E0cU56djVpMVBzeHJxTThjU0Z4TlE3Y0VIeEF3TGpsYmJtRnRTRnoxRnlpR0VWV0xkNnFoNkhRcWFYRmJiLUp3YTZLdEl1NXfSAZgBQVVfeXFMTmpHWlhQZlZaYTZlc3FoTmRBYXpnMl81MWxVMVVrR2Yxd1FQMkw4Z2J0dk5Td3l0ZDdBZko2UU9VNURKM2o1a1VETUtYSWNJYXlKTlRDQ3R5UWNZczFyclZzYzNaRE85WTNlaFZnb052Tm5McTVwS1RTRzdITEpxdS00QnpMang2bHQ2RFgxYVVhNjZaWW05VjY?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 05:15:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Meta privacy trial: Here's what shareholders allege against Mark Zuckerberg, from illegal data mining to board failures\u2026 - Mint",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaWowMHJfb1NfRDJpVE1PcUZQMW85aVdzc1JkdVUzbnk1MnM5MGM1ZXQ1QmVxQzJzWFFMQ21fZ1QxZkU4TC1MZUV3aDNiRnhiQXdUbHFVeFpVaVcyZFZLRWM0eDZ5ZERaQzVLTGRTZnNWUGpjMl9Nb3hRLVlqeHdlNkNvTWV1dHRUUWVNWS05bFMwMENRWWlRWk1HdjF6XzdiV2p5enBLbDIwN2hyODJPYVVKWnl6Mkp3N190Zml6WTh1YlFtcElxWTZIV3BfTmRoSzZZUmpDMHp0R09oelVuSUx5akFCMzNQM1ZwQ0lyc1NzSFVMV1FRcC1id1JpWktpYXJSODloZlZQT03SAZACQVVfeXFMUHhPN29LeVJOY2h0VlJxOE1HVzg5bTEwR1RvUWNUNTRwWmFlS3Q5dVhwbGdubG9fcWFwRXU3aXNzOTlZYmhmVFVyLUxaY09wN3p5MlJmYmpZd3pQZDFlS0JRUlR0US14TUVrZTVFUjUyVXlTb0Rrek15cGdqaC1hbklUa3VMcGdRdG1nMzJZa3NVbWtpWlVFNnRNNmZyQ0ZhTTJ6UXJNVWZNT19lTTZIdnFSbEVXaG9MaTV6UjM4elNsTk8wLWpXQk9oMEpiaEplYjhPcnRTdzczSkE3bWxTRGhLUWVjel9sR2FlQlltNzRGSXo2Y0JSREd4NzY4ZW1GSURla3hUQnY2NnkwbDNUb3Y?oc=5",
+        "pubDate": "Thu, 17 Jul 2025 02:33:24 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-17T06:00:59.579397+00:00"
   }
 }
