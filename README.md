@@ -1,33 +1,38 @@
+
 # Based News Reader
 
-This Python script fetches the latest Google News RSS headlines for a user-defined list of topics and updates an HTML site every hour. It uses Google Gemini, with a carefully refined prompting strategy, to prioritize headlines based on the user's preferences. Designed to be scheduled with `cron` on any Unix-based system.
+This project is a fully automated news digest generator. It fetches headlines from Google News, uses Google's Gemini AI to intelligently select and rank them based on user preferences, and generates a high-performance, statically-served website. The entire process is designed to be run on an automated schedule (e.g., hourly via `cron` or a GitHub Action).
 
-View the demo here: **[news.blakerayvid.com](https://news.blakerayvid.com)**
-
----
-
-## How it works
-
-*   Reads your preferences from a [configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) (Google Sheets published as CSV).
-*   Retrieves the latest headlines from Google News RSS for each topic.
-*   Filters out banned keywords and already-seen headlines using a local `history.json` file.
-*   **Employs a detailed and refined prompt with Google Gemini to select and prioritize headlines based on user-defined topic/keyword weights, strict filtering criteria (deduplication, content type, quality), and specific instructions to ensure relevance and objectivity.**
-*   Updates styled HTML files (`digest.html` hourly, `summary.html` daily) for Netlify (or any static host).
-*   Designed to run hourly using `cron`.
+View the live demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 
 ---
 
-## Gemini Prompting Strategy
+## Key Features & How It Works
 
-Achieving precise compliance from Large Language Models (LLMs) like Gemini for specific tasks such as news curation requires careful prompt engineering. The prompt used in this project has been iteratively refined to:
+*   **Configurable via Google Sheets:** Easily manage topics, keywords, banned terms, and script parameters by editing a [Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing), which is then fetched as CSV.
+*   **Intelligent Curation with Gemini:** A carefully engineered, multi-step prompt instructs the Gemini AI to:
+    *   Perform aggressive cross-topic deduplication to find the single best headline for each news event.
+    *   Filter out low-quality content, clickbait, ads, and sensationalism.
+    *   Strictly adhere to banned and demoted keywords.
+    *   Prioritize headlines based on user-defined weights for topics and keywords.
+    *   Avoid selecting headlines that have appeared in recent historical digests.
+*   **High-Performance Static Site Generation:**
+    *   The latest news digest is injected directly into `index.html` during the build process. This eliminates client-side fetching for the initial view, resulting in excellent PageSpeed scores and a fast user experience.
+    *   The front end is pure, dependency-free HTML, CSS, and vanilla JavaScript.
+*   **Historical Digest Slider:**
+    *   The website features a swipeable/clickable slider that allows users to browse through previous digests.
+    *   Older digests are lazy-loaded on demand, keeping the initial page load light.
+*   **Automated Deployment:** Includes logic to automatically commit and push the updated website files to a Git repository, making it perfect for CI/CD workflows like GitHub Actions.
 
-*   **Emphasize Aggressive Deduplication:** Instructing Gemini to critically avoid multiple versions of the same core news event.
-*   **Clarify Geographic Focus:** Allowing local news only if it has clear national/international implications.
-*   **Strengthen Content Filtering:** Providing more explicit examples of what to reject (e.g., specific stock-picking advice, sensationalism, fluff) and what is acceptable (e.g., broad market trends).
-*   **Improve Objectivity:** Prioritizing factual reporting over opinion pieces.
-*   **Incorporate Chain-of-Thought (CoT) Cues:** Guiding the model's internal reasoning process to better adhere to complex instructions.
+## Tech Stack
 
-This ongoing refinement is crucial for improving the quality and relevance of the news digest.
+*   **Backend:** Python 3
+*   **AI:** Google Gemini API (`gemini-1.5-flash`)
+*   **Data/NLP:** `requests`, `nltk`
+*   **Frontend:** HTML5, CSS3, Vanilla JavaScript
+*   **Configuration:** Google Sheets (published as CSV)
+*   **Automation:** `cron` or GitHub Actions
+*   **Hosting:** Any static hosting provider (e.g., GitHub Pages, Netlify, Vercel)
 
 ---
 
@@ -35,72 +40,68 @@ This ongoing refinement is crucial for improving the quality and relevance of th
 
 ```plaintext
 based-news/
-├── digest.py              # Main Python script for generating the digest
-├── requirements.txt       # Python dependencies
-├── history.json           # Stores previously posted headlines to avoid duplicates
-├── public/                # Root directory for the static website
-│   ├── index.html         # Main landing page (typically static)
-│   ├── digest.html        # Dynamically updated hourly with the latest news digest
-│   └── summary.html       # Dynamically updated weekly with a news summary
-├── .env                   # Contains Gemini API key (excluded from version control)
-└── logs/                  # Directory for log files (excluded from version control)
+├── digest.py                   # Main Python script for generating the digest
+├── requirements.txt            # Python dependencies
+├── .env                        # Stores API keys (excluded from version control)
+├── .github/workflows/          # (Optional) For GitHub Actions automation
+│   └── digest.yml
+└── public/                     # Root directory for the static website
+    ├── index.html              # The final, generated main page with the latest digest embedded
+    ├── index.template.html     # The template used by the script to generate index.html
+    ├── digest-manifest.json    # A list of historical digests for the front-end slider
+    └── digests/                # Folder containing all historical digest HTML files
 ```
 
 ---
 
 ## Setup
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/brayvid/based-news.git
 cd based-news
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 
-It's recommended to use a virtual environment:
+It's highly recommended to use a virtual environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
+The script will attempt to download necessary `nltk` data on first run.
 
-Or manually:
-```bash
-pip install nltk requests python-dotenv google-generativeai
-```
-*(Note: `nltk` might require additional data download. The script attempts to handle this, but run `python -m nltk.downloader punkt` if you encounter issues.)*
+### 3. Set Up Environment Variables
 
-### 3. Set up environment
-
-Create a `.env` file in the `based-news` root directory containing your Gemini API key:
+Create a `.env` file in the project's root directory. At a minimum, it needs your Gemini API key. If you plan to use automated Git pushes, add your GitHub credentials.
 
 ```env
-GEMINI_API_KEY=your_gemini_api_key
+# Required for news generation
+GEMINI_API_KEY="your_gemini_api_key_here"
+
+# Required for automated Git push from script or GitHub Actions
+GITHUB_TOKEN="your_github_personal_access_token"
+GITHUB_REPOSITORY="your_username/based-news"
+GITHUB_USER="Your GitHub Username"
+GITHUB_EMAIL="your-email@example.com"
 ```
 
-[Get a Gemini API key here](https://ai.google.dev/gemini-api/docs/api-key).
+*   [Get a Gemini API key here](https://ai.google.dev/gemini-api/docs/api-key).
+*   For `GITHUB_TOKEN`, create a [Personal Access Token (classic)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with the `repo` scope.
 
-### 4. Configure preferences
+### 4. Configure Your Preferences
 
-The script fetches its configuration from publicly published Google Sheets CSVs.
+The script is configured via public Google Sheets.
 
 1.  **Make a copy** of the template [Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing).
-2.  For **each tab** (`Topics`, `Keywords`, `Overrides`, `Parameters`):
+2.  For **each tab** (`Topics`, `Keywords`, `Overrides`, `Config`):
     *   Go to `File > Share > Publish to web`.
-    *   Select the specific sheet (tab).
-    *   Choose `Comma-separated values (.csv)` as the format.
+    *   Select the specific sheet (tab) and `Comma-separated values (.csv)`.
     *   Ensure "Automatically republish when changes are made" is checked.
     *   Click `Publish` and copy the generated URL.
-3.  Update the corresponding CSV URLs at the top of the `digest.py` script:
-    ```python
-    # Configuration URLs from Google Sheets (Publish to Web > CSV)
-    TOPICS_CSV_URL = "YOUR_PUBLISHED_TOPICS_CSV_URL"
-    KEYWORDS_CSV_URL = "YOUR_PUBLISHED_KEYWORDS_CSV_URL"
-    OVERRIDES_CSV_URL = "YOUR_PUBLISHED_OVERRIDES_CSV_URL"
-    PARAMETERS_CSV_URL = "YOUR_PUBLISHED_PARAMETERS_CSV_URL"
-    ```
+3.  Update the corresponding URLs at the top of the `digest.py` script.
 
 #### Configuration Details:
 
@@ -151,31 +152,65 @@ horoscope,ban
 
 ## Running the Script
 
-Ensure your virtual environment is active if you used one.
+### Manual Run
 
+Ensure your virtual environment is active.
 ```bash
 python3 digest.py
 ```
+This will generate/update all necessary files in the `public/` directory.
 
-This will generate/update `public/digest.html` and `public/summary.html` (if it's the day for summary generation).
+### Automated Run (GitHub Actions)
 
-To schedule the script to run every hour using `cron`:
+This is the recommended method for a "set it and forget it" setup.
 
-1.  Open your crontab for editing:
-    ```bash
-    crontab -e
-    ```
-2.  Add an entry similar to the following, adjusting paths as necessary:
+1.  In your GitHub repository, go to `Settings > Secrets and variables > Actions`.
+2.  Create repository secrets for each of the environment variables in your `.env` file (`GEMINI_API_KEY`, `GITHUB_TOKEN`, etc.).
+3.  Create the file `.github/workflows/digest.yml` with the following content:
 
-    ```cron
-    0 * * * * cd /full/path/to/based-news && /full/path/to/based-news/venv/bin/python3 /full/path/to/based-news/digest.py >> /full/path/to/based-news/logs/digest.log 2>&1
-    ```
-    *   Replace `/full/path/to/based-news` with the absolute path to your project directory.
-    *   If not using a virtual environment, adjust the python interpreter path accordingly (e.g., `/usr/bin/env python3`).
-    *   This example runs the script at the start of every hour and appends standard output and errors to a log file.
+```yaml
+name: Generate Daily News Digest
+
+on:
+  schedule:
+    # Runs every hour at the top of the hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Or your preferred version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Digest Script
+        run: python digest.py
+        env:
+          # These secrets are configured in your repository settings
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_USER: ${{ secrets.GITHUB_USER }}
+          GITHUB_EMAIL: ${{ secrets.GITHUB_EMAIL }}
+
+```
+This action will check out your code, run the Python script, and the script's internal Git logic will commit and push the updated `public/` directory back to the repository. If you host your site with GitHub Pages, it will be updated automatically.
 
 ---
 
 <br>
 
 ![](images/example.png)
+
+
