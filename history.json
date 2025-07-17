@@ -117,10 +117,6 @@
   ],
   "donald_trump": [
     {
-      "title": "As Truth Social Business Struggles, Trump Media Goes Big on Crypto - The New York Times",
-      "pubDate": "Wed, 09 Jul 2025 09:01:11 GMT"
-    },
-    {
       "title": "Trump defends tariffs as more trade announcements expected \u2013 live updates - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 12:15:00 GMT"
     },
@@ -473,6 +469,10 @@
     {
       "title": "Trump\u2019s tariff threats, Bitcoin surges, stocks and Bonds slide as Gold and Oil climb - FXStreet",
       "pubDate": "Mon, 14 Jul 2025 11:37:49 GMT"
+    },
+    {
+      "title": "Global Markets Inch Higher After Volatile Wednesday Session - The Wall Street Journal",
+      "pubDate": "Thu, 17 Jul 2025 08:41:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -935,6 +935,10 @@
     {
       "title": "Ukraine-Russia war latest: Zelensky says Trump can succeed with Putin where Biden failed - The Independent",
       "pubDate": "Thu, 17 Jul 2025 06:26:00 GMT"
+    },
+    {
+      "title": "Enter the kill zone: Ukraine's drone-infested front slows Russian advance - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 05:12:00 GMT"
     }
   ],
   "us_economy": [
@@ -1115,6 +1119,10 @@
     {
       "title": "Sirens and evacuations as Taipei rehearses to counter China invasion threat - BBC",
       "pubDate": "Wed, 16 Jul 2025 22:29:40 GMT"
+    },
+    {
+      "title": "Trump's soft-power retreat scrambles U.S.-China race - Axios",
+      "pubDate": "Thu, 17 Jul 2025 09:02:25 GMT"
     }
   ],
   "us_politics": [
@@ -1177,6 +1185,10 @@
     {
       "title": "Trump unveils more than $100B in AI, energy investments as part of major push for US to lead innovation over China - New York Post",
       "pubDate": "Tue, 15 Jul 2025 23:05:38 GMT"
+    },
+    {
+      "title": "Senate approves Trump administration cuts to public broadcasting and foreign aid - NPR",
+      "pubDate": "Thu, 17 Jul 2025 06:53:45 GMT"
     }
   ],
   "democratic_party": [
@@ -1581,10 +1593,6 @@
       "pubDate": "Wed, 09 Jul 2025 14:11:26 GMT"
     },
     {
-      "title": "Dozens of earthquakes and aftershocks cause two deaths in Guatemala - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 09 Jul 2025 09:49:41 GMT"
-    },
-    {
       "title": "Hundreds of earthquakes detected at Mount Rainier in Washington, \"most significant seismic activity\" since 2009 - CBS News",
       "pubDate": "Wed, 09 Jul 2025 18:19:05 GMT"
     },
@@ -1646,10 +1654,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk\u2019s AI Chatbot Responds As \u2018MechaHitler\u2019 - Forbes",
-      "pubDate": "Wed, 09 Jul 2025 09:28:00 GMT"
-    },
     {
       "title": "Linda Yaccarino steps down as CEO of Elon Musk's X - CNBC",
       "pubDate": "Wed, 09 Jul 2025 14:44:49 GMT"
@@ -2131,10 +2135,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia Stock Is on a Tear. How It Can Soon Pass These 2 Market Milestones. - Barron's",
-      "pubDate": "Wed, 09 Jul 2025 09:20:00 GMT"
-    },
-    {
       "title": "Nvidia hits $4 trillion market cap, first company to do so - CNBC",
       "pubDate": "Wed, 09 Jul 2025 13:42:41 GMT"
     },
@@ -2614,10 +2614,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "New Hampshire budget guts Renewable Energy Fund, cuts project funding in half - New Hampshire Bulletin",
-      "pubDate": "Wed, 09 Jul 2025 09:05:50 GMT"
-    },
     {
       "title": "Trump Order Imperils Billions In Clean Energy Projects The Data Center Industry Just Fought To Save - Bisnow",
       "pubDate": "Wed, 09 Jul 2025 22:51:32 GMT"
@@ -3771,6 +3767,10 @@
     {
       "title": "Senate rejects Democrats\u2019 initial attempts to trim Trump\u2019s cutbacks - Politico",
       "pubDate": "Wed, 16 Jul 2025 19:29:02 GMT"
+    },
+    {
+      "title": "US Senate backs $9bn in cuts to public broadcasting and foreign aid - Financial Times",
+      "pubDate": "Thu, 17 Jul 2025 08:18:32 GMT"
     }
   ],
   "pacific_ocean": [
@@ -3895,6 +3895,12 @@
     {
       "title": "House Panel Adds Ban on Restoring Confederate Base Names as It Advances Major Defense Bill - Military.com",
       "pubDate": "Wed, 16 Jul 2025 14:33:33 GMT"
+    }
+  ],
+  "cloud_computing": [
+    {
+      "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity - Reuters",
+      "pubDate": "Wed, 16 Jul 2025 23:10:02 GMT"
     }
   ]
 }
