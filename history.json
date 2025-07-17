@@ -113,16 +113,16 @@
     {
       "title": "As Iran Deports a Million Afghans, \u2018Where Do We Even Go?\u2019 - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 12:51:17 GMT"
+    },
+    {
+      "title": "New U.S. assessment finds American strikes destroyed only one of three Iranian nuclear sites - NBC News",
+      "pubDate": "Thu, 17 Jul 2025 09:00:43 GMT"
     }
   ],
   "donald_trump": [
     {
       "title": "Trump admin live updates: Trump says 'we're getting very close to a deal' on Israel and Hamas - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 18:15:00 GMT"
-    },
-    {
-      "title": "Trump sends more letters dictating high tariff rates around the world - CNBC",
-      "pubDate": "Wed, 09 Jul 2025 13:36:38 GMT"
     },
     {
       "title": "Trump threatens Brazil with 50% tariff over Bolsonaro trial - BBC",
@@ -463,6 +463,10 @@
     {
       "title": "Straight Out of Sci-Fi: AI Model Rewrote Its Own Code to Prevent Being Turned Off by Humans - Indian Defence Review",
       "pubDate": "Thu, 17 Jul 2025 11:15:00 GMT"
+    },
+    {
+      "title": "Elon Musk released xAI\u2019s Grok 4 without any safety reports\u2014despite calling AI more \u2018dangerous than nukes\u2019 - Fortune",
+      "pubDate": "Thu, 17 Jul 2025 13:08:00 GMT"
     }
   ],
   "financial_markets": [
@@ -683,10 +687,6 @@
     {
       "title": "Russia\u2019s summer Ukraine offensive looks like its deadliest so far - The Economist",
       "pubDate": "Wed, 09 Jul 2025 16:12:14 GMT"
-    },
-    {
-      "title": "Putin, Undeterred by Trump\u2019s Words, Escalates His War Against Ukraine - The New York Times",
-      "pubDate": "Wed, 09 Jul 2025 13:39:05 GMT"
     },
     {
       "title": "Russia Makes Record Attack on Ukraine as Trump Castigates Putin - The New York Times",
@@ -935,6 +935,10 @@
     {
       "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
       "pubDate": "Thu, 17 Jul 2025 10:34:00 GMT"
+    },
+    {
+      "title": "Russian attack on Ukraine's energy infrastructure injures at least 15 - NBC News",
+      "pubDate": "Thu, 17 Jul 2025 08:29:24 GMT"
     }
   ],
   "us_economy": [
@@ -1497,6 +1501,10 @@
     {
       "title": "Singapore warns of \u2018uncertainty\u2019 after it averts a technical recession on manufacturing and construction growth - CNBC",
       "pubDate": "Mon, 14 Jul 2025 00:10:00 GMT"
+    },
+    {
+      "title": "UK in \u2018serious jobs recession\u2019 as payrolls fall and unemployment rises \u2013 business live - The Guardian",
+      "pubDate": "Thu, 17 Jul 2025 10:45:18 GMT"
     }
   ],
   "drones": [
@@ -1735,10 +1743,6 @@
   ],
   "space_exploration": [
     {
-      "title": "NASA Flips a Mars Orbiter Upside Down \u2013 And Discovers a Hidden World - SciTechDaily",
-      "pubDate": "Wed, 09 Jul 2025 13:43:40 GMT"
-    },
-    {
       "title": "China launches new spacesuits, other supplies to Tiangong space station (video) - Space",
       "pubDate": "Mon, 14 Jul 2025 22:20:53 GMT"
     }
@@ -1788,10 +1792,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Trump\u2019s crackdown on renewable energy has just begun - The Washington Post",
-      "pubDate": "Wed, 09 Jul 2025 13:45:33 GMT"
-    },
     {
       "title": "Trump calls wind, solar bad for power grid. Texas shows otherwise - Reuters",
       "pubDate": "Thu, 10 Jul 2025 16:13:44 GMT"
@@ -2135,20 +2135,12 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia hits $4 trillion market cap, first company to do so - CNBC",
-      "pubDate": "Wed, 09 Jul 2025 13:42:41 GMT"
-    },
-    {
       "title": "Nvidia becomes first company to surpass $4 trillion in market valuation - CBS News",
       "pubDate": "Wed, 09 Jul 2025 14:48:57 GMT"
     },
     {
       "title": "Nvidia becomes world's first $4tn company - BBC",
       "pubDate": "Wed, 09 Jul 2025 14:56:18 GMT"
-    },
-    {
-      "title": "Nvidia Hits $4 Trillion Value as Rally Notches Another Milestone - Bloomberg",
-      "pubDate": "Wed, 09 Jul 2025 13:49:43 GMT"
     },
     {
       "title": "Nvidia becomes world\u2019s first $4T company, topping Apple and Microsoft in remarkable comeback - New York Post",
@@ -2445,6 +2437,10 @@
     {
       "title": "Scientists issue warning over disturbing business idea proposed for ocean floor: 'We all see how destructive' - MSN",
       "pubDate": "Thu, 17 Jul 2025 00:31:45 GMT"
+    },
+    {
+      "title": "Scientists report an unexpected accumulation of radioactive material in the Pacific Ocean - Earth.com",
+      "pubDate": "Thu, 17 Jul 2025 11:07:31 GMT"
     }
   ],
   "biology": [
@@ -2645,10 +2641,6 @@
   ],
   "large_language_models": [
     {
-      "title": "New open-source language model offers multilingual support and public transparency - Tech Xplore",
-      "pubDate": "Wed, 09 Jul 2025 13:07:54 GMT"
-    },
-    {
       "title": "AI Models' Potemkin Comprehension Problem - BankInfoSecurity",
       "pubDate": "Wed, 09 Jul 2025 18:08:21 GMT"
     }
@@ -2803,6 +2795,10 @@
     {
       "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
       "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
+    },
+    {
+      "title": "Millions of Americans now face a devastating one-two punch on health care - Axios",
+      "pubDate": "Thu, 17 Jul 2025 10:46:28 GMT"
     }
   ],
   "earth": [
@@ -3376,10 +3372,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "Scientists just recreated a 1938 experiment that could rewrite fusion history - ScienceDaily",
-      "pubDate": "Wed, 09 Jul 2025 13:14:29 GMT"
-    },
     {
       "title": "The biggest black hole smashup ever detected challenges physics theories - Science News",
       "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
