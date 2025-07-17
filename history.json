@@ -125,10 +125,6 @@
       "pubDate": "Wed, 09 Jul 2025 21:09:44 GMT"
     },
     {
-      "title": "Trump announces 50% tariff on Brazil in retaliation for Bolsonaro trial, trade deficit - CNBC",
-      "pubDate": "Wed, 09 Jul 2025 20:26:18 GMT"
-    },
-    {
       "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
       "pubDate": "Wed, 09 Jul 2025 22:56:00 GMT"
     },
@@ -373,10 +369,6 @@
   ],
   "ai_safety": [
     {
-      "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
-      "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
-    },
-    {
       "title": "Most AI models can fake alignment, but safety training suppresses the behavior, study finds - the-decoder.com",
       "pubDate": "Thu, 10 Jul 2025 13:45:05 GMT"
     },
@@ -500,10 +492,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Nvidia's stock market value hits $4 trillion on AI dominance - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 20:38:54 GMT"
-    },
     {
       "title": "Meta offered Apple\u2019s head of foundation models more than $200M to jump ship - 9to5Mac",
       "pubDate": "Wed, 09 Jul 2025 23:14:00 GMT"
@@ -947,6 +935,10 @@
     {
       "title": "Russia, Ukraine exchange more bodies of war dead, Kremlin says - Al Jazeera",
       "pubDate": "Thu, 17 Jul 2025 11:26:15 GMT"
+    },
+    {
+      "title": "Europe assumes financial burden of Ukraine war, angering Russia - Al Jazeera",
+      "pubDate": "Thu, 17 Jul 2025 10:13:08 GMT"
     }
   ],
   "us_economy": [
@@ -1487,10 +1479,6 @@
   ],
   "recession": [
     {
-      "title": "US debt rises to $36.6T: Will recession signals send Bitcoin back to $95K? - Cointelegraph",
-      "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
-    },
-    {
       "title": "Economists See Lower Recession Risk and Stronger Job Growth: WSJ Survey - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 01:00:00 GMT"
     },
@@ -1873,6 +1861,10 @@
     {
       "title": "House passes sweeping crypto market structure bill - Axios",
       "pubDate": "Thu, 17 Jul 2025 19:33:07 GMT"
+    },
+    {
+      "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
+      "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
     }
   ],
   "tesla": [
@@ -1895,19 +1887,11 @@
   ],
   "us_supreme_court": [
     {
-      "title": "US Supreme Court declines to let Florida enforce immigration crackdown - Reuters",
-      "pubDate": "Wed, 09 Jul 2025 20:06:16 GMT"
-    },
-    {
       "title": "Supreme Court says Trump's efforts to close the Education Department can continue - NPR",
       "pubDate": "Mon, 14 Jul 2025 21:02:33 GMT"
     }
   ],
   "asteroids": [
-    {
-      "title": "NASA's asteroid-crash Earth defense tactic has a complication \u2014 DART ejected large boulders into space - Space",
-      "pubDate": "Wed, 09 Jul 2025 20:10:59 GMT"
-    },
     {
       "title": "Space Wealth Revolution: How Asteroid Mining Could Crash Earth\u2019s Economy While Making Fortunes - MSN",
       "pubDate": "Tue, 15 Jul 2025 07:24:29 GMT"
@@ -1969,20 +1953,8 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin Surges to New All-Time High Price Above $112K - Decrypt",
-      "pubDate": "Wed, 09 Jul 2025 20:06:01 GMT"
-    },
-    {
-      "title": "Bitcoin rises to fresh record above $112,000, helped by Nvidia-led tech rally - CNBC",
-      "pubDate": "Wed, 09 Jul 2025 20:46:11 GMT"
-    },
-    {
       "title": "Bitcoin soars to all-time peak just shy of $112,000 - Reuters",
       "pubDate": "Wed, 09 Jul 2025 21:45:03 GMT"
-    },
-    {
-      "title": "Bitcoin soars to new all-time high above $112K as traders liquidate shorts - Cointelegraph",
-      "pubDate": "Wed, 09 Jul 2025 20:10:22 GMT"
     },
     {
       "title": "Bitcoin hits record high. Why the crypto\u2019s rally may lose steam after briefly topping $112,000. - MarketWatch",
@@ -2321,10 +2293,6 @@
   ],
   "science": [
     {
-      "title": "A fusion of art and science - The Martha's Vineyard Times",
-      "pubDate": "Wed, 09 Jul 2025 21:00:08 GMT"
-    },
-    {
       "title": "French university courts American researchers seeking \"scientific asylum\" amid Trump's academic cuts - CBS News",
       "pubDate": "Thu, 10 Jul 2025 12:11:22 GMT"
     },
@@ -2391,6 +2359,10 @@
     {
       "title": "Largest piece of Mars on Earth sells for nearly $5.3 million at auction - CBS News",
       "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
+    },
+    {
+      "title": "Texas investigating Skittles maker Mars for failing to remove artificial food dyes - Food Dive",
+      "pubDate": "Thu, 17 Jul 2025 14:26:15 GMT"
     }
   ],
   "hacking": [
@@ -2447,12 +2419,6 @@
     {
       "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
-    }
-  ],
-  "data_privacy": [
-    {
-      "title": "German court rules Meta tracking technology violates European privacy laws - The Record from Recorded Future News",
-      "pubDate": "Wed, 09 Jul 2025 20:59:35 GMT"
     }
   ],
   "business": [
@@ -3252,10 +3218,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Scientists discover ice in space isn't like water on Earth after all - Space",
-      "pubDate": "Wed, 09 Jul 2025 21:00:00 GMT"
-    },
     {
       "title": "Scientists Discover Uranus Has a Dancing Partner - Universe Today",
       "pubDate": "Fri, 11 Jul 2025 22:48:00 GMT"
