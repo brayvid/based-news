@@ -121,10 +121,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Trump says 'we're getting very close to a deal' on Israel and Hamas - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 09 Jul 2025 18:15:00 GMT"
-    },
-    {
       "title": "Trump threatens Brazil with 50% tariff over Bolsonaro trial - BBC",
       "pubDate": "Wed, 09 Jul 2025 21:09:44 GMT"
     },
@@ -295,6 +291,10 @@
     {
       "title": "Trump admin live updates: Attorney General Bondi visits Alcatraz - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 17 Jul 2025 17:33:00 GMT"
+    },
+    {
+      "title": "Trump undergoes medical exam for swelling in legs, hand bruising - The Hill",
+      "pubDate": "Thu, 17 Jul 2025 18:06:00 GMT"
     }
   ],
   "russia": [
@@ -371,14 +371,6 @@
     {
       "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
       "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
-    },
-    {
-      "title": "New York Seeks to RAISE the Bar on AI Regulation - Morgan Lewis",
-      "pubDate": "Wed, 09 Jul 2025 18:20:08 GMT"
-    },
-    {
-      "title": "AI Giants May Face Mandatory Safety Disclosures Under Proposed California Law - CoinCentral",
-      "pubDate": "Wed, 09 Jul 2025 18:53:09 GMT"
     },
     {
       "title": "Most AI models can fake alignment, but safety training suppresses the behavior, study finds - the-decoder.com",
@@ -507,10 +499,6 @@
     {
       "title": "Nvidia's stock market value hits $4 trillion on AI dominance - Reuters",
       "pubDate": "Wed, 09 Jul 2025 20:38:54 GMT"
-    },
-    {
-      "title": "AI Unlocks Earth\u2019s Subsurface Mysteries for Smart Energy Applications - USC Viterbi School of Engineering",
-      "pubDate": "Wed, 09 Jul 2025 18:36:22 GMT"
     },
     {
       "title": "Meta offered Apple\u2019s head of foundation models more than $200M to jump ship - 9to5Mac",
@@ -683,6 +671,10 @@
     {
       "title": "Britain boosts computing power in $1.3 billion AI drive - Yahoo",
       "pubDate": "Thu, 17 Jul 2025 17:02:38 GMT"
+    },
+    {
+      "title": "A new push for AI rules from Washington - Politico",
+      "pubDate": "Thu, 17 Jul 2025 18:00:00 GMT"
     }
   ],
   "climate": [
@@ -692,10 +684,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia Makes Record Attack on Ukraine as Trump Castigates Putin - The New York Times",
-      "pubDate": "Wed, 09 Jul 2025 18:42:11 GMT"
-    },
     {
       "title": "Russia Fires Record Barrage of Drones, Missiles at Ukraine - Foreign Policy",
       "pubDate": "Wed, 09 Jul 2025 21:56:06 GMT"
@@ -947,6 +935,10 @@
     {
       "title": "Russia Says Ukrainian Drones Targeted Moscow, St. Petersburg - The Wall Street Journal",
       "pubDate": "Thu, 17 Jul 2025 16:17:00 GMT"
+    },
+    {
+      "title": "Russia says Trump's new weapons pledge a signal for Ukraine to abandon peace efforts - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 16:25:20 GMT"
     }
   ],
   "us_economy": [
@@ -1147,6 +1139,10 @@
     {
       "title": "Wells Fargo suspends China travel after employee exit ban, source says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 15:13:43 GMT"
+    },
+    {
+      "title": "US Set to Impose 93.5% Tariff on Key Battery Material From China - Bloomberg",
+      "pubDate": "Thu, 17 Jul 2025 17:28:00 GMT"
     }
   ],
   "us_politics": [
@@ -1604,10 +1600,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Hundreds of earthquakes detected at Mount Rainier in Washington, \"most significant seismic activity\" since 2009 - CBS News",
-      "pubDate": "Wed, 09 Jul 2025 18:19:05 GMT"
-    },
     {
       "title": "Hundreds of small earthquakes are hitting Mount Rainier. Geologists say they're not concerned - KUOW",
       "pubDate": "Wed, 09 Jul 2025 19:39:14 GMT"
@@ -2141,10 +2133,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
-      "pubDate": "Wed, 09 Jul 2025 18:28:00 GMT"
-    },
-    {
       "title": "Nvidia Hits $4 Trillion Valuation Milestone on AI Demand - Bloomberg.com",
       "pubDate": "Thu, 10 Jul 2025 08:27:26 GMT"
     },
@@ -2613,12 +2601,6 @@
       "pubDate": "Tue, 15 Jul 2025 18:40:32 GMT"
     }
   ],
-  "large_language_models": [
-    {
-      "title": "AI Models' Potemkin Comprehension Problem - BankInfoSecurity",
-      "pubDate": "Wed, 09 Jul 2025 18:08:21 GMT"
-    }
-  ],
   "geopolitics": [
     {
       "title": "Oil Gains Amid Rising Geopolitical Tensions in Middle East - The Wall Street Journal",
@@ -2722,10 +2704,6 @@
     }
   ],
   "apple": [
-    {
-      "title": "Apple Should Consider Replacing Tim Cook as CEO, LightShed Says - Bloomberg",
-      "pubDate": "Wed, 09 Jul 2025 18:20:41 GMT"
-    },
     {
       "title": "Apple needs a new CEO to survive the high-stakes AI race, analysts warn - The Indian Express",
       "pubDate": "Mon, 14 Jul 2025 04:10:00 GMT"
@@ -3155,6 +3133,10 @@
     {
       "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
+    },
+    {
+      "title": "3 killed, 10 wounded in Israeli strike on Catholic church in Gaza - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 17 Jul 2025 11:37:30 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3395,6 +3377,10 @@
     {
       "title": "As democracy in Georgia collapses, Russia, China and Iran see an opening - CNN",
       "pubDate": "Wed, 16 Jul 2025 09:54:00 GMT"
+    },
+    {
+      "title": "Lowering the voting age: a boost for UK democracy or a shot in the dark? - The Guardian",
+      "pubDate": "Thu, 17 Jul 2025 12:50:00 GMT"
     }
   ],
   "climate_engineering": [
