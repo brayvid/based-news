@@ -307,6 +307,10 @@
     {
       "title": "Trump suggests there is no 'smoking gun' in the Jeffrey Epstein files - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 18 Jul 2025 14:51:55 GMT"
+    },
+    {
+      "title": "Trump launches fresh defense of inaction in Epstein case following report he sent birthday letter - The Guardian",
+      "pubDate": "Fri, 18 Jul 2025 15:54:00 GMT"
     }
   ],
   "russia": [
@@ -388,10 +392,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "EU code of practice to help firms comply with AI rules will focus on copyright, safety - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 16:10:14 GMT"
-    },
     {
       "title": "California Bill Requires AI Oversight for Infrastructure - Environment+Energy Leader",
       "pubDate": "Thu, 10 Jul 2025 18:00:00 GMT"
@@ -703,10 +703,6 @@
     {
       "title": "Russia Bombards Ukraine as U.S. Frustration Mounts - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 18:40:27 GMT"
-    },
-    {
-      "title": "Russia's intensifying drone war is spreading fear and eroding Ukrainian morale - BBC",
-      "pubDate": "Thu, 10 Jul 2025 16:08:22 GMT"
     },
     {
       "title": "Trump plans to send Ukraine weapons via NATO allies - Axios",
@@ -1135,6 +1131,10 @@
     {
       "title": "Is China\u2019s Military Ready for War? - Foreign Affairs",
       "pubDate": "Fri, 18 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
+      "pubDate": "Fri, 18 Jul 2025 16:14:21 GMT"
     }
   ],
   "us_politics": [
@@ -1773,10 +1773,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump calls wind, solar bad for power grid. Texas shows otherwise - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 16:13:44 GMT"
-    },
-    {
       "title": "Trump May Not Be Done Overhauling Renewable Energy - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 19:28:54 GMT"
     },
@@ -1981,13 +1977,13 @@
     {
       "title": "Afghan data leak: SAS and UK spies named in Afghan data breach - BBC",
       "pubDate": "Thu, 17 Jul 2025 21:13:20 GMT"
+    },
+    {
+      "title": "Data Breaches Up 10% Although Victim Count Falls Sharply - The HIPAA Journal",
+      "pubDate": "Fri, 18 Jul 2025 11:47:20 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin hits fresh record high - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 16:57:24 GMT"
-    },
     {
       "title": "Bitcoin sets another record above $113,000 as investors jump into risk assets, liquidate shorts - CNBC",
       "pubDate": "Thu, 10 Jul 2025 18:32:05 GMT"
@@ -2127,10 +2123,6 @@
     {
       "title": "Nvidia Becomes First Public Company Worth $4 Trillion - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 20:18:09 GMT"
-    },
-    {
-      "title": "Nvidia becomes the first public company with $4T valuation - MSNBC News",
-      "pubDate": "Thu, 10 Jul 2025 16:21:11 GMT"
     },
     {
       "title": "Nvidia Becomes First Company Ever to Reach $4 Trillion Market Cap. Could the Growth Stock Have Even More Room to Run? - Nasdaq",
@@ -2541,6 +2533,10 @@
     {
       "title": "NASA\u2019s TRACERS Mission Eyes Space Weather\u2019s Bottom-Line Risks - payloadspace.com",
       "pubDate": "Fri, 18 Jul 2025 12:30:00 GMT"
+    },
+    {
+      "title": "House Democrats accuse NASA of illegal impoundment of funds - SpaceNews",
+      "pubDate": "Fri, 18 Jul 2025 12:03:43 GMT"
     }
   ],
   "alternative_energy": [
@@ -3101,6 +3097,10 @@
     {
       "title": "Israel kills 35; \u2018unprecedented\u2019 number of hungry people in Gaza hospitals - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 14:49:22 GMT"
+    },
+    {
+      "title": "Hamas says ready for \u2018long battle of attrition\u2019 as Israel pounds Gaza - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 16:24:16 GMT"
     }
   ],
   "energy_storage": [
@@ -3843,6 +3843,18 @@
     {
       "title": "Moderna cancels plans to build Japan plant on poor business environment - Reuters",
       "pubDate": "Fri, 18 Jul 2025 10:37:03 GMT"
+    }
+  ],
+  "jupiter": [
+    {
+      "title": "Scientists Are Studying Earth\u2019s Deep Oceans to Find Life on Jupiter\u2019s Moon - The Daily Galaxy",
+      "pubDate": "Fri, 18 Jul 2025 13:20:00 GMT"
+    }
+  ],
+  "pollution": [
+    {
+      "title": "Serious pollution incidents by English water companies rose 60% last year - The Guardian",
+      "pubDate": "Fri, 18 Jul 2025 14:08:00 GMT"
     }
   ]
 }
