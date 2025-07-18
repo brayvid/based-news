@@ -299,6 +299,10 @@
     {
       "title": "Trump requests release of Epstein grand jury transcripts amid report of \u2018bawdy\u2019 birthday note - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 02:31:00 GMT"
+    },
+    {
+      "title": "Trump vows to sue Rupert Murdoch over WSJ\u2019s Epstein birthday letter report - CNN",
+      "pubDate": "Fri, 18 Jul 2025 02:54:00 GMT"
     }
   ],
   "russia": [
@@ -369,6 +373,10 @@
     {
       "title": "Why Trump is supporting Ukraine and cooling on Putin and Russia - MSNBC News",
       "pubDate": "Wed, 16 Jul 2025 19:43:09 GMT"
+    },
+    {
+      "title": "EU agrees 18th sanctions package against Russia - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 06:34:00 GMT"
     }
   ],
   "ai_safety": [
@@ -684,10 +692,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Deadly strikes on Kyiv as Russia continues bombardment of Ukraine for second night - CNN",
-      "pubDate": "Thu, 10 Jul 2025 07:08:00 GMT"
-    },
     {
       "title": "Deadly Russian attack rocks Kyiv as Ukraine lobbies for aid - Reuters",
       "pubDate": "Thu, 10 Jul 2025 10:32:23 GMT"
@@ -1911,6 +1915,10 @@
     {
       "title": "Elon Musk looms over jury selection in Tesla Autopilot fatality trial - CNBC",
       "pubDate": "Mon, 14 Jul 2025 20:46:06 GMT"
+    },
+    {
+      "title": "Tesla finally parks in India. But can it survive? - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 05:28:24 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2223,6 +2231,10 @@
     {
       "title": "OpenAI says it will use Google's cloud for ChatGPT - CNBC",
       "pubDate": "Wed, 16 Jul 2025 19:38:05 GMT"
+    },
+    {
+      "title": "OpenAI Commission Recommends Emergency Grants for Civic Organizations - The Information",
+      "pubDate": "Thu, 17 Jul 2025 22:42:41 GMT"
     }
   ],
   "environment": [
@@ -2241,6 +2253,10 @@
     {
       "title": "Brazil passes \u2018devastation bill\u2019 that drastically weakens environmental law - The Guardian",
       "pubDate": "Thu, 17 Jul 2025 18:41:00 GMT"
+    },
+    {
+      "title": "Brazil\u2019s congress passes bill to overhaul environmental regulations - AP News",
+      "pubDate": "Thu, 17 Jul 2025 21:57:00 GMT"
     }
   ],
   "public_health": [
@@ -3283,12 +3299,6 @@
       "pubDate": "Mon, 14 Jul 2025 06:34:00 GMT"
     }
   ],
-  "algorithmic_trading": [
-    {
-      "title": "Algorithmic trading risky without oversight, warns CSE official - MSN",
-      "pubDate": "Thu, 10 Jul 2025 07:23:55 GMT"
-    }
-  ],
   "american_civil_liberties_union": [
     {
       "title": "Federal Court Blocks Trump Birthright Citizenship Order, Certifies Nationwide Class Protecting All Impacted Babies - Legal Defense Fund",
@@ -3669,6 +3679,10 @@
     {
       "title": "Researchers certify genuine quantum behavior in computers with up to 73 qubits - Phys.org",
       "pubDate": "Mon, 14 Jul 2025 15:27:03 GMT"
+    },
+    {
+      "title": "Wave or Particle? Physicists Crack a 50-Year-Old Quantum Puzzle - SciTechDaily",
+      "pubDate": "Thu, 17 Jul 2025 21:17:42 GMT"
     }
   ],
   "social_media": [
@@ -3805,6 +3819,12 @@
     {
       "title": "Oil jumps $1 after further drone attacks on Iraq oil fields - Reuters",
       "pubDate": "Thu, 17 Jul 2025 19:16:28 GMT"
+    }
+  ],
+  "data_analysis": [
+    {
+      "title": "Researchers issue warning after making concerning discovery in Antarctica: 'It's a global story' - The Cool Down",
+      "pubDate": "Fri, 18 Jul 2025 00:15:00 GMT"
     }
   ]
 }
