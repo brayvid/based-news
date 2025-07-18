@@ -129,10 +129,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Federal judge blocks Trump\u2019s EO on birthright citizenship after SCOTUS ruling - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 10 Jul 2025 14:35:53 GMT"
-    },
-    {
       "title": "Trump loses appeal of $5 million E. Jean Carroll sexual abuse, defamation verdict - CNBC",
       "pubDate": "Thu, 10 Jul 2025 19:00:11 GMT"
     },
@@ -307,6 +303,10 @@
     {
       "title": "Trump denies letter to Epstein and Stephen Colbert's 'Late Show' to end: Morning Rundown - NBC News",
       "pubDate": "Fri, 18 Jul 2025 11:22:35 GMT"
+    },
+    {
+      "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; NPR, PBS and foreign aid cuts clear Congress - NBC News",
+      "pubDate": "Fri, 18 Jul 2025 14:42:51 GMT"
     }
   ],
   "russia": [
@@ -487,6 +487,10 @@
     {
       "title": "Isambard-AI Now Fully Operational, Supporting Cancer Research and AI Security - HPCwire",
       "pubDate": "Thu, 17 Jul 2025 17:03:31 GMT"
+    },
+    {
+      "title": "AI giants \u2018fundamentally unprepared\u2019 for dangers of human level intelligence - Yahoo",
+      "pubDate": "Fri, 18 Jul 2025 13:33:01 GMT"
     }
   ],
   "financial_markets": [
@@ -692,10 +696,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia bombards Kyiv before 'frank' talks with US and aid pledges - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 14:49:52 GMT"
-    },
     {
       "title": "Trump Plans on Invoking Foreign Aid Law to Bolster Ukraine Arsenal: Report - Newsweek",
       "pubDate": "Thu, 10 Jul 2025 21:19:47 GMT"
@@ -907,6 +907,10 @@
     {
       "title": "Ukraine launches new points for killing Russians scheme - BBC",
       "pubDate": "Fri, 18 Jul 2025 04:59:45 GMT"
+    },
+    {
+      "title": "EU hits Russian oil, shadow fleet with new sanctions over Ukraine war - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 11:08:08 GMT"
     }
   ],
   "us_economy": [
@@ -1123,6 +1127,10 @@
     {
       "title": "China pledges to crack down on illicit exports of rare earths, urges US to lift more trade controls - The Hill",
       "pubDate": "Fri, 18 Jul 2025 11:41:00 GMT"
+    },
+    {
+      "title": "China Threatens Trump's Panama Canal Deal: Report - Newsweek",
+      "pubDate": "Fri, 18 Jul 2025 14:17:34 GMT"
     }
   ],
   "us_politics": [
@@ -2091,6 +2099,10 @@
     {
       "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
       "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
+    },
+    {
+      "title": "Bitcoin Has Found a New Purpose. What Could Go Wrong? - Bloomberg",
+      "pubDate": "Fri, 18 Jul 2025 12:27:07 GMT"
     }
   ],
   "fusion_power": [
@@ -3459,6 +3471,10 @@
     {
       "title": "Texas flooding disaster exposes what climate researchers fear most about the future - KHOU",
       "pubDate": "Fri, 18 Jul 2025 03:01:00 GMT"
+    },
+    {
+      "title": "High-resolution climate model reveals detailed regional impacts of 1\u00b0C global warming - Phys.org",
+      "pubDate": "Fri, 18 Jul 2025 12:44:21 GMT"
     }
   ],
   "violence": [
@@ -3811,6 +3827,12 @@
     {
       "title": "Scientists demonstrate that \u201cAI\u2019s superhuman persuasiveness is already a reality\u201d - PsyPost",
       "pubDate": "Fri, 18 Jul 2025 10:08:58 GMT"
+    }
+  ],
+  "business": [
+    {
+      "title": "Moderna cancels plans to build Japan plant on poor business environment - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 10:37:03 GMT"
     }
   ]
 }
