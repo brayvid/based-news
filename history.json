@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Will Allow More Aid Into Gaza, Officials Say - The New York Times",
-      "pubDate": "Thu, 10 Jul 2025 15:47:36 GMT"
-    },
-    {
       "title": "EU weighs suspending Israel ties over Gaza crisis - politico.eu",
       "pubDate": "Thu, 10 Jul 2025 20:23:00 GMT"
     },
@@ -307,6 +303,10 @@
     {
       "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; NPR, PBS and foreign aid cuts clear Congress - NBC News",
       "pubDate": "Fri, 18 Jul 2025 14:42:51 GMT"
+    },
+    {
+      "title": "Trump suggests there is no 'smoking gun' in the Jeffrey Epstein files - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 18 Jul 2025 14:51:55 GMT"
     }
   ],
   "russia": [
@@ -391,10 +391,6 @@
     {
       "title": "EU code of practice to help firms comply with AI rules will focus on copyright, safety - Reuters",
       "pubDate": "Thu, 10 Jul 2025 16:10:14 GMT"
-    },
-    {
-      "title": "New York Passes the Responsible AI Safety and Education Act - The National Law Review",
-      "pubDate": "Thu, 10 Jul 2025 15:42:39 GMT"
     },
     {
       "title": "California Bill Requires AI Oversight for Infrastructure - Environment+Energy Leader",
@@ -687,6 +683,10 @@
     {
       "title": "Meta hires two Apple AI researchers for Superintelligence push, Bloomberg News reports - Reuters",
       "pubDate": "Fri, 18 Jul 2025 01:27:00 GMT"
+    },
+    {
+      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 11:04:55 GMT"
     }
   ],
   "climate": [
@@ -1131,13 +1131,13 @@
     {
       "title": "China Threatens Trump's Panama Canal Deal: Report - Newsweek",
       "pubDate": "Fri, 18 Jul 2025 14:17:34 GMT"
+    },
+    {
+      "title": "Is China\u2019s Military Ready for War? - Foreign Affairs",
+      "pubDate": "Fri, 18 Jul 2025 04:00:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Judge Blocks Trump\u2019s Birthright Citizenship Order in Class-Action Challenge - The New York Times",
-      "pubDate": "Thu, 10 Jul 2025 15:04:42 GMT"
-    },
     {
       "title": "Justice Ketanji Brown Jackson says she fears for U.S. democracy - The Washington Post",
       "pubDate": "Fri, 11 Jul 2025 03:48:31 GMT"
@@ -1723,6 +1723,10 @@
     {
       "title": "Surprising finding could pave way for universal cancer vaccine - Medical Xpress",
       "pubDate": "Fri, 18 Jul 2025 09:00:04 GMT"
+    },
+    {
+      "title": "Congress targets hair products with cancer-causing ingredients marketed to Black women - NBC News",
+      "pubDate": "Fri, 18 Jul 2025 14:09:00 GMT"
     }
   ],
   "space_exploration": [
@@ -2333,6 +2337,10 @@
     {
       "title": "Stellantis pulls plug on hydrogen vans, renews focus on hybrid and battery electric vehicles - evsandbeyond.co.nz",
       "pubDate": "Fri, 18 Jul 2025 03:07:02 GMT"
+    },
+    {
+      "title": "Electric vehicle\u2019s battery catches fire, officials say, shutting busy Northbrook mall - Chicago Tribune",
+      "pubDate": "Fri, 18 Jul 2025 12:20:18 GMT"
     }
   ],
   "mars": [
@@ -2407,6 +2415,10 @@
     {
       "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Quantum Teleportation Was Achieved Over Internet For The First Time - ScienceAlert",
+      "pubDate": "Fri, 18 Jul 2025 13:02:04 GMT"
     }
   ],
   "new_york_politics": [
@@ -3085,12 +3097,10 @@
     {
       "title": "Israel strikes the Gaza church the pope used to call nightly, killing 3 - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 06:04:49 GMT"
-    }
-  ],
-  "history_of_the_earth": [
+    },
     {
-      "title": "Scientists Uncover a Groundbreaking New Origin for Earth\u2019s First Continents - The Daily Galaxy",
-      "pubDate": "Thu, 10 Jul 2025 15:30:00 GMT"
+      "title": "Israel kills 35; \u2018unprecedented\u2019 number of hungry people in Gaza hospitals - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 14:49:22 GMT"
     }
   ],
   "energy_storage": [
