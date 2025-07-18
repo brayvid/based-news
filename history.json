@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "EU weighs suspending Israel ties over Gaza crisis - politico.eu",
-      "pubDate": "Thu, 10 Jul 2025 20:23:00 GMT"
-    },
-    {
       "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
       "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
     },
@@ -315,10 +311,6 @@
       "pubDate": "Fri, 11 Jul 2025 00:58:00 GMT"
     },
     {
-      "title": "Russia seizes $50 billion in assets as economy shifts during war in Ukraine, research shows - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 20:59:02 GMT"
-    },
-    {
       "title": "Russia's fuel export revenue in June fell 14% from last year, IEA says - Reuters",
       "pubDate": "Fri, 11 Jul 2025 08:52:41 GMT"
     },
@@ -388,10 +380,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Security Crisis: Balancing Innovation with Data Protection - Security Info Watch",
-      "pubDate": "Thu, 10 Jul 2025 20:56:06 GMT"
-    },
     {
       "title": "EU publishes voluntary AI Code of Practice - Telecompaper",
       "pubDate": "Fri, 11 Jul 2025 06:59:43 GMT"
@@ -508,10 +496,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Elon Musk says AI Grok is coming to Tesla vehicles, days after it unleashed antisemitic rant - CBS News",
-      "pubDate": "Thu, 10 Jul 2025 20:37:00 GMT"
-    },
     {
       "title": "EU unveils strict AI code targeting OpenAI, Google, Microsoft - Interesting Engineering",
       "pubDate": "Fri, 11 Jul 2025 00:08:00 GMT"
@@ -1631,6 +1615,10 @@
     {
       "title": "Smartphones could help detect earthquakes and send early warnings, study finds - The Independent",
       "pubDate": "Fri, 18 Jul 2025 11:29:00 GMT"
+    },
+    {
+      "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
+      "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1881,6 +1869,10 @@
     {
       "title": "Landmark cryptocurrency legislation passes US House, to be signed into law by President Trump - International Consortium of Investigative Journalists - ICIJ",
       "pubDate": "Fri, 18 Jul 2025 18:53:02 GMT"
+    },
+    {
+      "title": "Trump signs cryptocurrency bill - WCNC",
+      "pubDate": "Fri, 18 Jul 2025 20:17:00 GMT"
     }
   ],
   "tesla": [
@@ -2121,10 +2113,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia Becomes First Public Company Worth $4 Trillion - The New York Times",
-      "pubDate": "Thu, 10 Jul 2025 20:18:09 GMT"
-    },
-    {
       "title": "Nvidia Becomes First Company Ever to Reach $4 Trillion Market Cap. Could the Growth Stock Have Even More Room to Run? - Nasdaq",
       "pubDate": "Fri, 11 Jul 2025 21:17:00 GMT"
     },
@@ -2162,10 +2150,6 @@
     }
   ],
   "earth_science": [
-    {
-      "title": "Scientists manage to simulate what the first days of early Earth were like, 4.5 billion years ago - Earth.com",
-      "pubDate": "Thu, 10 Jul 2025 20:49:04 GMT"
-    },
     {
       "title": "Scientists Discover the Explosive Power of Earth's Mysterious BLOBS \u2013 Is an Eruption Coming? - The Daily Galaxy",
       "pubDate": "Tue, 15 Jul 2025 18:00:00 GMT"
@@ -2271,10 +2255,6 @@
   ],
   "fbi": [
     {
-      "title": "The F.B.I. Is Using Polygraphs to Test Officials\u2019 Loyalty - The New York Times",
-      "pubDate": "Thu, 10 Jul 2025 20:34:15 GMT"
-    },
-    {
       "title": "FBI Chief Kash Patel May Resign Over Epstein Files Fallout: Report - NDTV",
       "pubDate": "Sat, 12 Jul 2025 09:48:32 GMT"
     }
@@ -2321,6 +2301,10 @@
     {
       "title": "Electric vehicle\u2019s battery catches fire, officials say, shutting busy Northbrook mall - Chicago Tribune",
       "pubDate": "Fri, 18 Jul 2025 12:20:18 GMT"
+    },
+    {
+      "title": "Chinese graphite is crucial to electric car batteries. Trump just put a 93.5% tariff on it - CNN",
+      "pubDate": "Fri, 18 Jul 2025 18:57:00 GMT"
     }
   ],
   "mars": [
@@ -2373,6 +2357,10 @@
     {
       "title": "Scientists Uncover DNA Secrets to Bolster Corn Crop Traits | Newswise - Newswise",
       "pubDate": "Tue, 15 Jul 2025 22:50:00 GMT"
+    },
+    {
+      "title": "Scientists Call for a Global Pause on Creating \u201cMirror Life\u201d Before It\u2019s Too Late: \u201cThe threat we\u2019re talking about is unprecedented\u201d - ZME Science",
+      "pubDate": "Fri, 18 Jul 2025 15:16:27 GMT"
     }
   ],
   "quantum_computing": [
@@ -2435,6 +2423,10 @@
     {
       "title": "AI Companies Lack Plans for Managing AGI Risks, Report Finds - ShiaWaves",
       "pubDate": "Fri, 18 Jul 2025 09:16:53 GMT"
+    },
+    {
+      "title": "Why AIs Struggle with Simple Tests that Humans Ace and why Video Games are the Next Frontier - Scientific American",
+      "pubDate": "Fri, 18 Jul 2025 17:00:00 GMT"
     }
   ],
   "ancient_history": [
@@ -2731,16 +2723,8 @@
   ],
   "gaza": [
     {
-      "title": "Israeli airstrike kills several children near Gaza health clinic - NBC News",
-      "pubDate": "Thu, 10 Jul 2025 20:34:03 GMT"
-    },
-    {
       "title": "Israel, European Union reach deal on more aid, fuel deliveries to Gaza - The Washington Post",
       "pubDate": "Thu, 10 Jul 2025 21:07:29 GMT"
-    },
-    {
-      "title": "Israeli strike kills children near Gaza clinic with no immediate truce in sight - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 20:37:37 GMT"
     },
     {
       "title": "Israeli strike kills at least 10 children queueing for medical treatment in Gaza - The Guardian",
@@ -3085,6 +3069,10 @@
     {
       "title": "LIVE: Israel kills 41 in Gaza; clashes resume in Syria\u2019s Suwayda - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 16:24:16 GMT"
+    },
+    {
+      "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
     }
   ],
   "energy_storage": [
@@ -3837,6 +3825,12 @@
     {
       "title": "Serious pollution incidents by English water companies rose 60% last year - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 14:08:00 GMT"
+    }
+  ],
+  "central_intelligence_agency": [
+    {
+      "title": "Senate Considers Ending Its Vetting of Spy Agencies\u2019 Top Lawyers - Bloomberg",
+      "pubDate": "Fri, 18 Jul 2025 17:37:05 GMT"
     }
   ]
 }
