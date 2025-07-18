@@ -291,6 +291,10 @@
     {
       "title": "Trump diagnosed with chronic venous insufficiency following leg swelling - CNN",
       "pubDate": "Thu, 17 Jul 2025 19:03:00 GMT"
+    },
+    {
+      "title": "Trump orders Pam Bondi to seek the release of 'pertinent' records from Epstein grand jury - NBC News",
+      "pubDate": "Fri, 18 Jul 2025 04:11:00 GMT"
     }
   ],
   "russia": [
@@ -463,6 +467,10 @@
     {
       "title": "Researchers from OpenAI, Anthropic, Meta, and Google issue joint AI safety warning - here's why - ZDNet",
       "pubDate": "Thu, 17 Jul 2025 14:15:00 GMT"
+    },
+    {
+      "title": "Isambard-AI Now Fully Operational, Supporting Cancer Research and AI Security - HPCwire",
+      "pubDate": "Thu, 17 Jul 2025 17:03:31 GMT"
     }
   ],
   "financial_markets": [
@@ -668,10 +676,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Deadly new Russian drone attack reported on Kyiv - BBC",
-      "pubDate": "Thu, 10 Jul 2025 04:25:10 GMT"
-    },
     {
       "title": "Deadly strikes on Kyiv as Russia continues bombardment of Ukraine for second night - CNN",
       "pubDate": "Thu, 10 Jul 2025 07:08:00 GMT"
@@ -1119,6 +1123,10 @@
     {
       "title": "US-based Wells Fargo banker blocked from leaving China after arriving for work trip: report - New York Post",
       "pubDate": "Thu, 17 Jul 2025 19:30:00 GMT"
+    },
+    {
+      "title": "China\u2019s Asian Supply Chains Aren\u2019t a Sham - Bloomberg.com",
+      "pubDate": "Thu, 17 Jul 2025 21:00:19 GMT"
     }
   ],
   "us_politics": [
@@ -1181,6 +1189,10 @@
     {
       "title": "Senate approves Trump administration cuts to public broadcasting and foreign aid - NPR",
       "pubDate": "Thu, 17 Jul 2025 06:53:45 GMT"
+    },
+    {
+      "title": "House passes Trump\u2019s $9 billion DOGE cuts package in another legislative win for president - CNN",
+      "pubDate": "Fri, 18 Jul 2025 04:06:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1945,10 +1957,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin price today: below $112k record high amid profit taking, tariff woes - Investing.com",
-      "pubDate": "Thu, 10 Jul 2025 04:03:43 GMT"
-    },
-    {
       "title": "Bitcoin hits fresh record high - Reuters",
       "pubDate": "Thu, 10 Jul 2025 16:57:24 GMT"
     },
@@ -2063,12 +2071,6 @@
     {
       "title": "Trump administration is looking into a de minimis tax exemption for Bitcoin transactions under $600 - MSN",
       "pubDate": "Thu, 17 Jul 2025 23:12:20 GMT"
-    }
-  ],
-  "central_intelligence_agency": [
-    {
-      "title": "Ex-CIA Director John Brennan says he's had 'no contact' with federal authorities amid FBI probe \u2013 claims to be \u2018clueless\u2019 about why he\u2019s being investigated - New York Post",
-      "pubDate": "Thu, 10 Jul 2025 04:39:00 GMT"
     }
   ],
   "fusion_power": [
@@ -2310,10 +2312,6 @@
     }
   ],
   "mars": [
-    {
-      "title": "Discovery of ancient riverbeds suggests Mars once wetter than thought - The Guardian",
-      "pubDate": "Thu, 10 Jul 2025 04:09:00 GMT"
-    },
     {
       "title": "Another \u2018Water on Mars\u2019 Claim Bites the Dust - Scientific American",
       "pubDate": "Fri, 11 Jul 2025 10:45:00 GMT"
@@ -3061,6 +3059,10 @@
     {
       "title": "Israeli Strike on a Gaza Church Kills Three - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 20:05:36 GMT"
+    },
+    {
+      "title": "Israeli strike hits Gaza church, killing 3 and wounding priest who was close to Pope Francis - AP News",
+      "pubDate": "Fri, 18 Jul 2025 00:24:00 GMT"
     }
   ],
   "history_of_the_earth": [
@@ -3119,6 +3121,10 @@
     {
       "title": "GM, LG Energy joint venture making plans to ramp up production of low cost EV batteries - Repairer Driven News",
       "pubDate": "Wed, 16 Jul 2025 13:00:23 GMT"
+    },
+    {
+      "title": "QuantumScape Stock Surges on Solid-State Battery Breakthrough | Buy, Hold, or Sell? - techi.com",
+      "pubDate": "Thu, 17 Jul 2025 20:10:24 GMT"
     }
   ],
   "algorithms": [
@@ -3753,6 +3759,12 @@
     {
       "title": "Trump administration plans to modernize the country\u2019s infrastructure - Queen City News",
       "pubDate": "Thu, 17 Jul 2025 21:02:00 GMT"
+    }
+  ],
+  "world_news": [
+    {
+      "title": "Oil jumps $1 after further drone attacks on Iraq oil fields - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 19:16:28 GMT"
     }
   ]
 }
