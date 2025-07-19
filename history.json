@@ -109,10 +109,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens to revoke US citizenship of longtime critic Rosie O\u2019Donnell - Politico",
-      "pubDate": "Sat, 12 Jul 2025 16:12:00 GMT"
-    },
-    {
       "title": "Trump defends Bondi amid MAGA fallout over her handling of Epstein investigation - CNN",
       "pubDate": "Sat, 12 Jul 2025 22:38:00 GMT"
     },
@@ -595,6 +591,10 @@
     {
       "title": "OpenAI claims a breakthrough in LLM reasoning on complex math problems - the-decoder.com",
       "pubDate": "Sat, 19 Jul 2025 12:12:35 GMT"
+    },
+    {
+      "title": "AI guzzled millions of books without permission. Authors are fighting back. - The Washington Post",
+      "pubDate": "Sat, 19 Jul 2025 16:10:24 GMT"
     }
   ],
   "climate": [
@@ -1097,6 +1097,10 @@
     {
       "title": "Gabbard alleges Obama manufactured intel on Russian interference - NewsNation",
       "pubDate": "Fri, 18 Jul 2025 23:17:43 GMT"
+    },
+    {
+      "title": "Musk goes nuclear on Epstein saga - News.com.au",
+      "pubDate": "Sat, 19 Jul 2025 05:22:18 GMT"
     }
   ],
   "democratic_party": [
@@ -1114,10 +1118,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "Russia's Lavrov meets North Korea's Kim, praises ties as 'invincible brotherhood' - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 16:33:59 GMT"
-    },
     {
       "title": "North Korean leader pledges \u2018unconditional\u2019 support for Russia\u2019s war against Ukraine - The Korea Herald",
       "pubDate": "Sun, 13 Jul 2025 04:51:15 GMT"
@@ -1178,10 +1178,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump Announces 30% Tariffs Against E.U. and Mexico, Citing Threats to National Security - Time Magazine",
-      "pubDate": "Sat, 12 Jul 2025 16:13:18 GMT"
-    },
     {
       "title": "Trump hits Mexico and EU with 30% tariffs, escalating trade war - South China Morning Post",
       "pubDate": "Sat, 12 Jul 2025 17:54:25 GMT"
@@ -2113,6 +2109,10 @@
     {
       "title": "Scientists report an unexpected accumulation of radioactive material in the Pacific Ocean - Earth.com",
       "pubDate": "Thu, 17 Jul 2025 11:07:31 GMT"
+    },
+    {
+      "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
+      "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
     }
   ],
   "biology": [
@@ -2289,10 +2289,6 @@
   ],
   "geopolitics": [
     {
-      "title": "US demands clarity from allies on their role in potential war over Taiwan, FT reports - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 16:06:00 GMT"
-    },
-    {
       "title": "Gaza reveals the brutal new ethos of global geopolitics - Arab News PK",
       "pubDate": "Sat, 12 Jul 2025 17:39:23 GMT"
     },
@@ -2428,10 +2424,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "LIVE: UN says 86 percent of Gaza under Israeli forced displacement orders - Al Jazeera",
-      "pubDate": "Sat, 12 Jul 2025 16:20:42 GMT"
-    },
     {
       "title": "Gaza truce talks faltering over withdrawal; 17 reported killed in latest shooting near aid - Reuters",
       "pubDate": "Sat, 12 Jul 2025 19:12:39 GMT"
@@ -2795,10 +2787,6 @@
   ],
   "india": [
     {
-      "title": "Air India crash report shows pilot confusion over engine switch movement - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 16:34:59 GMT"
-    },
-    {
       "title": "Air India Plane Crash Report Says Fuel to Engines Was Cut Off - The New York Times",
       "pubDate": "Sat, 12 Jul 2025 23:45:00 GMT"
     }
@@ -3109,10 +3097,6 @@
   ],
   "atlantic_ocean": [
     {
-      "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
-      "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
-    },
-    {
       "title": "Melting Arctic ice bolstering North Atlantic Ocean currents, for now - Phys.org",
       "pubDate": "Tue, 15 Jul 2025 10:40:02 GMT"
     },
@@ -3126,10 +3110,6 @@
     }
   ],
   "cosmology": [
-    {
-      "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
-      "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
-    },
     {
       "title": "NEWS\ud83d\udea8: James Webb Confirms There's Something Seriously Wrong With Our Understanding of the Universe \u2014 and Reveals Unknown Physics Exists - Vocal",
       "pubDate": "Sat, 19 Jul 2025 04:56:47 GMT"
@@ -3343,6 +3323,10 @@
     {
       "title": "House passes defense appropriations bill with millions for Israel - JNS.org",
       "pubDate": "Fri, 18 Jul 2025 20:38:26 GMT"
+    },
+    {
+      "title": "The Pentagon Just Released Its Long-Overdue Drone Plan - The National Interest",
+      "pubDate": "Sat, 19 Jul 2025 16:04:47 GMT"
     }
   ],
   "cloud_computing": [
@@ -3425,6 +3409,10 @@
     {
       "title": "Serious pollution incidents by English water companies rose 60% last year - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 14:08:00 GMT"
+    },
+    {
+      "title": "Trump order gives Minnesota taconite plants more time to cut mercury pollution - MPR News",
+      "pubDate": "Sat, 19 Jul 2025 12:00:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -3453,12 +3441,22 @@
     {
       "title": "One of These BRICS Is Not Like the Others - The New York Times",
       "pubDate": "Fri, 18 Jul 2025 18:59:32 GMT"
+    },
+    {
+      "title": "Trump, Tariffs, BRICS and ASEAN: Much Ado About What? - Modern Diplomacy",
+      "pubDate": "Sat, 19 Jul 2025 06:30:09 GMT"
     }
   ],
   "earth's_magnetic_field": [
     {
       "title": "Humanity Has Dammed So Much Water It's Shifted Earth's Magnetic Poles - ScienceAlert",
       "pubDate": "Sat, 19 Jul 2025 12:02:02 GMT"
+    }
+  ],
+  "polling": [
+    {
+      "title": "Japan heads to polls in key test for PM Ishiba - Reuters",
+      "pubDate": "Sat, 19 Jul 2025 14:03:04 GMT"
     }
   ]
 }
