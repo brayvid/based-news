@@ -331,6 +331,10 @@
     {
       "title": "DOJ asks judge to unseal Epstein-related grand jury testimony; Trump files libel lawsuit against Wall Street Journal - NBC News",
       "pubDate": "Sat, 19 Jul 2025 02:32:00 GMT"
+    },
+    {
+      "title": "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story - Al Jazeera",
+      "pubDate": "Sat, 19 Jul 2025 02:37:30 GMT"
     }
   ],
   "russia": [
@@ -911,6 +915,10 @@
     {
       "title": "Australia delivers Abrams tanks to Ukraine for war with Russia - Reuters",
       "pubDate": "Sat, 19 Jul 2025 00:46:42 GMT"
+    },
+    {
+      "title": "Ukraine attacks Moscow with drones for 3rd straight night, Russian official says - The Kyiv Independent",
+      "pubDate": "Fri, 18 Jul 2025 23:16:05 GMT"
     }
   ],
   "us_economy": [
@@ -1294,10 +1302,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump threatens 35% tariffs on Canadian goods - BBC",
-      "pubDate": "Fri, 11 Jul 2025 04:36:27 GMT"
-    },
     {
       "title": "Trump announces 35 percent tariffs on Canada - The Washington Post",
       "pubDate": "Fri, 11 Jul 2025 12:01:15 GMT"
@@ -2205,12 +2209,6 @@
       "pubDate": "Sun, 13 Jul 2025 17:32:06 GMT"
     }
   ],
-  "vladimir_putin": [
-    {
-      "title": "What will happen now that Trump has turned on Putin? - CNN",
-      "pubDate": "Fri, 11 Jul 2025 04:01:00 GMT"
-    }
-  ],
   "openai": [
     {
       "title": "Sam Altman says OpenAI is delaying its open-weight model to run extra safety tests - Business Insider",
@@ -2291,6 +2289,10 @@
     {
       "title": "Microsoft cuts 15,000 jobs, tells remaining employees to invest in ... - Times of India",
       "pubDate": "Sun, 13 Jul 2025 03:12:00 GMT"
+    },
+    {
+      "title": "Microsoft Says It Has Stopped Using China-Based Engineers to Support Defense Department Computer Systems - ProPublica",
+      "pubDate": "Fri, 18 Jul 2025 21:35:00 GMT"
     }
   ],
   "fbi": [
@@ -2603,6 +2605,10 @@
     {
       "title": "Mexico's Water Crisis Could Undermine Its Clean Energy Plans - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Fri, 18 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "EPA faults state on offshore wind permit process - The Star Democrat",
+      "pubDate": "Fri, 18 Jul 2025 22:00:00 GMT"
     }
   ],
   "geopolitics": [
@@ -2677,6 +2683,10 @@
     {
       "title": "US rejects amendments to WHO international health regulations - The Hill",
       "pubDate": "Fri, 18 Jul 2025 18:22:00 GMT"
+    },
+    {
+      "title": "US withdraws from WHO pandemic response reforms - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 17:26:15 GMT"
     }
   ],
   "computers": [
@@ -3267,6 +3277,10 @@
     {
       "title": "Astronomers Discover an Uncommon Way for Black Holes to Form - Time Magazine",
       "pubDate": "Fri, 18 Jul 2025 20:06:31 GMT"
+    },
+    {
+      "title": "Astronomer CEO placed on leave after Coldplay 'kiss cam' video appeared to show him embracing HR chief - Business Insider",
+      "pubDate": "Sat, 19 Jul 2025 01:48:00 GMT"
     }
   ],
   "physics": [
@@ -3326,10 +3340,6 @@
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises - The Hacker News",
-      "pubDate": "Fri, 11 Jul 2025 04:25:00 GMT"
-    },
     {
       "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
       "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
@@ -3915,6 +3925,12 @@
     {
       "title": "EPA eliminates research and development office, begins layoffs - AP News",
       "pubDate": "Fri, 18 Jul 2025 22:22:00 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "One of These BRICS Is Not Like the Others - The New York Times",
+      "pubDate": "Fri, 18 Jul 2025 18:59:32 GMT"
     }
   ]
 }
