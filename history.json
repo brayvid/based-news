@@ -47,10 +47,6 @@
   ],
   "iran": [
     {
-      "title": "Israeli jet malfunctioned above Iran, narrowly averted emergency landing amid war \u2014 report - The Times of Israel",
-      "pubDate": "Sat, 12 Jul 2025 20:08:11 GMT"
-    },
-    {
       "title": "Iran\u2019s president Pezeshkian was injured in an Israeli airstrike last month \u2013 report - The Times of Israel",
       "pubDate": "Sun, 13 Jul 2025 05:25:09 GMT"
     },
@@ -599,6 +595,10 @@
     {
       "title": "OpenAI's AI crushes coding legends in 10-hour programming contest, but one human still beat the bot - India Today",
       "pubDate": "Sat, 19 Jul 2025 08:14:21 GMT"
+    },
+    {
+      "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
+      "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
     }
   ],
   "climate": [
@@ -829,10 +829,6 @@
   ],
   "china": [
     {
-      "title": "Another Upstate NY village loses its Chinese restaurant owner in Trump\u2019s immigration push - Syracuse.com",
-      "pubDate": "Sat, 12 Jul 2025 20:10:00 GMT"
-    },
-    {
       "title": "Nvidia\u2019s Huang Says China\u2019s Military Unlikely to Use US AI Chips - Bloomberg.com",
       "pubDate": "Sun, 13 Jul 2025 15:21:13 GMT"
     },
@@ -1043,6 +1039,10 @@
     {
       "title": "Tropical storm Wipha threatens southern China after battering Taiwan and the Philippines - AP News",
       "pubDate": "Sat, 19 Jul 2025 09:45:00 GMT"
+    },
+    {
+      "title": "China vows tougher action against smuggling of strategic minerals - Reuters",
+      "pubDate": "Sat, 19 Jul 2025 08:55:36 GMT"
     }
   ],
   "us_politics": [
@@ -2141,6 +2141,10 @@
     {
       "title": "Researchers Push for Open-Source Quantum Tools to Break Critical Industry Bottlenecks - The Quantum Insider",
       "pubDate": "Sat, 19 Jul 2025 11:48:23 GMT"
+    },
+    {
+      "title": "Quantum computing is so fire \u2014 No, seriously. BofA says it could be humanity's biggest breakthrough since the discovery of fire - Fortune",
+      "pubDate": "Sat, 19 Jul 2025 19:04:00 GMT"
     }
   ],
   "new_york_politics": [
@@ -3029,10 +3033,6 @@
   ],
   "department_of_homeland_security": [
     {
-      "title": "DHS Secretary Noem vows to ramp up deportations with funding boost from Trump\u2019s domestic policy law - CNN",
-      "pubDate": "Sat, 12 Jul 2025 20:22:00 GMT"
-    },
-    {
       "title": "Over 300 arrested during immigration raids at Glass House cannabis farms near Camarillo and Carpinteria, DHS says - ABC7 Los Angeles",
       "pubDate": "Sat, 12 Jul 2025 23:35:55 GMT"
     },
@@ -3303,6 +3303,10 @@
     {
       "title": "US House Passes $832 Billion Defense Bill After Defeating Ukraine Aid Ban - Kyiv Post",
       "pubDate": "Sat, 19 Jul 2025 06:28:57 GMT"
+    },
+    {
+      "title": "House Advances $832 Billion Military Budget - RealClearDefense",
+      "pubDate": "Sat, 19 Jul 2025 14:53:42 GMT"
     }
   ],
   "cloud_computing": [
@@ -3439,6 +3443,12 @@
     {
       "title": "US threatens Mexican flights over cargo, competition issues - Reuters",
       "pubDate": "Sat, 19 Jul 2025 19:28:21 GMT"
+    }
+  ],
+  "political_corruption": [
+    {
+      "title": "Jason Galanis to Newsmax: Biden Family Corruption \u2018Was Endemic\u2019 - WJBC AM 1230",
+      "pubDate": "Sat, 19 Jul 2025 18:15:54 GMT"
     }
   ]
 }
