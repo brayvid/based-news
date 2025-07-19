@@ -431,6 +431,10 @@
     {
       "title": "ChatGPT Agent shows that there\u2019s a whole new world of AI security threats on the way we need to worry about - TechRadar",
       "pubDate": "Fri, 18 Jul 2025 15:04:15 GMT"
+    },
+    {
+      "title": "DuckDuckGo adds AI image filter and scam blocker to boost privacy and safety - The Indian Express",
+      "pubDate": "Sat, 19 Jul 2025 13:58:28 GMT"
     }
   ],
   "financial_markets": [
@@ -456,10 +460,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Grok, the artificial intelligence assistant, praised Nazi leader Adolf Hitler in a series of posts deemed anti-Semitic - IslanderNews.com",
-      "pubDate": "Sat, 12 Jul 2025 19:01:57 GMT"
-    },
     {
       "title": "SpaceX to invest $2 billion in Musk's xAI startup, WSJ reports - Reuters",
       "pubDate": "Sat, 12 Jul 2025 23:16:19 GMT"
@@ -605,6 +605,10 @@
     {
       "title": "Why is Pakistan so vulnerable to deadly flooding? - Al Jazeera",
       "pubDate": "Thu, 17 Jul 2025 05:15:00 GMT"
+    },
+    {
+      "title": "What Trump\u2019s Budget Cuts Mean for Disaster Preparedness - Inside Climate News",
+      "pubDate": "Sat, 19 Jul 2025 09:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1183,10 +1187,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump Intensifies Trade War With Threat of 30% Tariffs on EU, Mexico - GV Wire",
-      "pubDate": "Sat, 12 Jul 2025 19:49:08 GMT"
-    },
-    {
       "title": "Trump announces plans for tariffs on European Union, Mexico - CBS News",
       "pubDate": "Sat, 12 Jul 2025 23:28:00 GMT"
     },
@@ -1275,6 +1275,10 @@
     {
       "title": "Singapore facing 'serious' cyberattack by espionage group with alleged China ties - France 24",
       "pubDate": "Sat, 19 Jul 2025 11:37:30 GMT"
+    },
+    {
+      "title": "Iranian cyberattack targeted Arizona candidate photos on election website - The Arizona Republic",
+      "pubDate": "Sat, 19 Jul 2025 12:11:42 GMT"
     }
   ],
   "recession": [
@@ -1419,6 +1423,10 @@
     {
       "title": "Catastrophic volcano near 3m Americans rocked by 800 earthquakes as experts wait with bated breath - MSN",
       "pubDate": "Fri, 18 Jul 2025 23:31:48 GMT"
+    },
+    {
+      "title": "Myanmar earthquake's fault rupture exceeded seismic wave speeds, offering rare evidence of supershear - Phys.org",
+      "pubDate": "Sat, 19 Jul 2025 11:27:45 GMT"
     }
   ],
   "elon_musk": [
@@ -1440,10 +1448,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "New cancer therapy brings hope for patients with advanced melanoma - News on 6",
-      "pubDate": "Sat, 12 Jul 2025 19:13:06 GMT"
-    },
     {
       "title": "Cancer deaths from obesity have tripled in 20 years \u2014 these states have the highest and lowest rates - New York Post",
       "pubDate": "Sun, 13 Jul 2025 23:22:00 GMT"
@@ -1689,6 +1693,10 @@
     {
       "title": "Charles Schwab plans to launch Bitcoin, Ether spot trading, CEO says - Cointelegraph",
       "pubDate": "Sat, 19 Jul 2025 09:56:03 GMT"
+    },
+    {
+      "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
+      "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
     }
   ],
   "tesla": [
@@ -1963,10 +1971,6 @@
   ],
   "public_health": [
     {
-      "title": "Arizona resident dies from pneumonic plague, health officials say - BBC",
-      "pubDate": "Sat, 12 Jul 2025 19:38:25 GMT"
-    },
-    {
       "title": "Scientists make surprising discoveries in fight against emerging public health threat: 'The goal now should be to make their efforts count' - The Cool Down",
       "pubDate": "Sun, 13 Jul 2025 08:45:00 GMT"
     },
@@ -1999,6 +2003,10 @@
     {
       "title": "FBI personnel were told to flag Epstein files mentioning Trump, Senate Democrat says - NBC News",
       "pubDate": "Sat, 19 Jul 2025 00:56:00 GMT"
+    },
+    {
+      "title": "The FBI prepares to leave its \u2018monstrosity\u2019 of a home \u2013 but may end up back where it started - CNN",
+      "pubDate": "Sat, 19 Jul 2025 10:00:00 GMT"
     }
   ],
   "science": [
@@ -2400,10 +2408,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Gaza truce talks faltering over withdrawal; 17 reported killed in latest shooting near aid - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 19:12:39 GMT"
-    },
     {
       "title": "Gaza hospital says 24 people killed near aid site as witnesses blame IDF - BBC",
       "pubDate": "Sat, 12 Jul 2025 21:49:47 GMT"
@@ -3029,10 +3033,6 @@
       "pubDate": "Sat, 12 Jul 2025 20:22:00 GMT"
     },
     {
-      "title": "ICE Set to Vastly Expand Its Reach With New Funds - The New York Times",
-      "pubDate": "Sat, 12 Jul 2025 19:07:09 GMT"
-    },
-    {
       "title": "Over 300 arrested during immigration raids at Glass House cannabis farms near Camarillo and Carpinteria, DHS says - ABC7 Los Angeles",
       "pubDate": "Sat, 12 Jul 2025 23:35:55 GMT"
     },
@@ -3433,6 +3433,12 @@
     {
       "title": "Japan heads to polls in key test for PM Ishiba - Reuters",
       "pubDate": "Sat, 19 Jul 2025 14:03:04 GMT"
+    }
+  ],
+  "united_states": [
+    {
+      "title": "US threatens Mexican flights over cargo, competition issues - Reuters",
+      "pubDate": "Sat, 19 Jul 2025 19:28:21 GMT"
     }
   ]
 }
