@@ -117,10 +117,6 @@
       "pubDate": "Sat, 12 Jul 2025 16:12:00 GMT"
     },
     {
-      "title": "Trump authorizes Ice agents to protect themselves using \u2018whatever means\u2019 necessary - The Guardian",
-      "pubDate": "Sat, 12 Jul 2025 14:28:00 GMT"
-    },
-    {
       "title": "Trump defends Bondi amid MAGA fallout over her handling of Epstein investigation - CNN",
       "pubDate": "Sat, 12 Jul 2025 22:38:00 GMT"
     },
@@ -1031,6 +1027,10 @@
     {
       "title": "China Kicks Off Controversial Mega-Dam Project in Tibet - Bloomberg.com",
       "pubDate": "Sat, 19 Jul 2025 09:59:19 GMT"
+    },
+    {
+      "title": "Tropical storm Wipha threatens southern China after battering Taiwan and the Philippines - AP News",
+      "pubDate": "Sat, 19 Jul 2025 09:45:00 GMT"
     }
   ],
   "us_politics": [
@@ -1275,6 +1275,10 @@
     {
       "title": "Singapore accuses Chinese state-backed hackers of attacking critical infrastructure networks - The Record from Recorded Future News",
       "pubDate": "Fri, 18 Jul 2025 20:02:03 GMT"
+    },
+    {
+      "title": "Singapore facing 'serious' cyberattack by espionage group with alleged China ties - France 24",
+      "pubDate": "Sat, 19 Jul 2025 11:37:30 GMT"
     }
   ],
   "recession": [
@@ -1384,10 +1388,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Another small earthquake recorded in Missouri - KFVS12",
-      "pubDate": "Sat, 12 Jul 2025 14:07:00 GMT"
-    },
     {
       "title": "Magnitude 6.8 earthquake hits Indonesia\u2019s Tanimbar Islands region - The Independent",
       "pubDate": "Mon, 14 Jul 2025 06:15:15 GMT"
@@ -2191,16 +2191,16 @@
   ],
   "alexandria_ocasio-cortez": [
     {
-      "title": "AOC calls Trump a 'rapist' amid Epstein files fiasco - Daily Express US",
-      "pubDate": "Sat, 12 Jul 2025 14:06:06 GMT"
-    },
-    {
       "title": "Trump calls Democrats Alexandria Ocasio-Cortez and Jasmine Crockett 'low IQ' - Yahoo",
       "pubDate": "Wed, 16 Jul 2025 07:06:28 GMT"
     },
     {
       "title": "House Democrats praise Mamdani after Ocasio-Cortez event - The Hill",
       "pubDate": "Wed, 16 Jul 2025 15:28:00 GMT"
+    },
+    {
+      "title": "US progressive lawmaker AOC rejects cutting funding for \u201cIsrael\u2019s\u201d air defense system - Roya News",
+      "pubDate": "Sat, 19 Jul 2025 11:35:22 GMT"
     }
   ],
   "national_security": [
@@ -2402,10 +2402,6 @@
     }
   ],
   "health": [
-    {
-      "title": "Researchers Reveal Surprising Health Benefits of Watermelon - SciTechDaily",
-      "pubDate": "Sat, 12 Jul 2025 14:37:23 GMT"
-    },
     {
       "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
       "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
@@ -2727,6 +2723,10 @@
     {
       "title": "LIVE: 70 Palestinians killed as Israel targets food aid sites in Gaza again - Al Jazeera",
       "pubDate": "Sat, 19 Jul 2025 11:15:00 GMT"
+    },
+    {
+      "title": "IDF troops, Air Force conduct coordinated strikes on Gaza terror infrastructure - Ynetnews",
+      "pubDate": "Sat, 19 Jul 2025 12:34:02 GMT"
     }
   ],
   "energy_storage": [
