@@ -307,6 +307,10 @@
     {
       "title": "Trump launches fresh defense of inaction in Epstein case following report he sent birthday letter - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 15:54:00 GMT"
+    },
+    {
+      "title": "Trump sues Wall Street Journal over Epstein report, seeks $10 billion - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 23:08:59 GMT"
     }
   ],
   "russia": [
@@ -883,6 +887,10 @@
     {
       "title": "EU hits Russian oil, shadow fleet with new sanctions over Ukraine war - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 11:08:08 GMT"
+    },
+    {
+      "title": "How Ukraine\u2019s allies helped Zelensky recover his standing with Trump - The Washington Post",
+      "pubDate": "Fri, 18 Jul 2025 17:22:12 GMT"
     }
   ],
   "us_economy": [
@@ -896,10 +904,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Xi Signals China May Finally Move to End Deflationary Price Wars - Bloomberg.com",
-      "pubDate": "Thu, 10 Jul 2025 23:50:24 GMT"
-    },
     {
       "title": "China's deflationary slide is worsening as companies spiral into price wars - CNBC",
       "pubDate": "Fri, 11 Jul 2025 09:57:55 GMT"
@@ -1256,10 +1260,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "State Department to Soon Begin Mass Layoffs - The New York Times",
-      "pubDate": "Thu, 10 Jul 2025 23:03:40 GMT"
-    },
     {
       "title": "State Department fires remaining employees who worked on climate change - The Washington Post",
       "pubDate": "Fri, 11 Jul 2025 19:45:49 GMT"
@@ -1985,10 +1985,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin Soars To Record High Above $116K - Forbes",
-      "pubDate": "Thu, 10 Jul 2025 23:41:00 GMT"
-    },
-    {
       "title": "BTC News: Bitcoin Nears $118K, Sets Fresh Highs as Over $1B Shorts Get Liquidated in 2025 Record - CoinDesk",
       "pubDate": "Fri, 11 Jul 2025 07:15:40 GMT"
     },
@@ -2399,6 +2395,10 @@
     {
       "title": "Quantum Teleportation Was Achieved Over Internet For The First Time - ScienceAlert",
       "pubDate": "Fri, 18 Jul 2025 13:02:04 GMT"
+    },
+    {
+      "title": "Global Quantum Computing Market Report 2025: Revenue, Trends, and Key Players - GlobeNewswire",
+      "pubDate": "Fri, 18 Jul 2025 14:18:15 GMT"
     }
   ],
   "new_york_politics": [
@@ -2615,6 +2615,10 @@
     {
       "title": "Goldman Sachs Profit Surges, Powered by Trading, Investment Banking Revenue - The Wall Street Journal",
       "pubDate": "Wed, 16 Jul 2025 11:35:00 GMT"
+    },
+    {
+      "title": "Is investment banking still a jewel in Wall Street\u2019s crown? - Financial Times",
+      "pubDate": "Fri, 18 Jul 2025 13:00:09 GMT"
     }
   ],
   "global_health": [
@@ -3849,6 +3853,12 @@
     {
       "title": "Senate Considers Ending Its Vetting of Spy Agencies\u2019 Top Lawyers - Bloomberg",
       "pubDate": "Fri, 18 Jul 2025 17:37:05 GMT"
+    }
+  ],
+  "neuroscience": [
+    {
+      "title": "A common food additive solves a sticky neuroscience problem - Medical Xpress",
+      "pubDate": "Fri, 18 Jul 2025 14:30:03 GMT"
     }
   ]
 }
