@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
-      "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
-    },
-    {
       "title": "Palestinian-American dies in West Bank amid controversy over Israel's so-called safe haven plan - CBS News",
       "pubDate": "Sat, 12 Jul 2025 22:39:00 GMT"
     },
@@ -291,6 +287,10 @@
     {
       "title": "Trump files suit against Rupert Murdoch, Dow Jones over Epstein birthday letter story - Business Insider",
       "pubDate": "Fri, 18 Jul 2025 23:14:00 GMT"
+    },
+    {
+      "title": "Trump Takes Step Forward On Epstein Files, Then Rants About \"Left Lunatics\" - NDTV",
+      "pubDate": "Sat, 19 Jul 2025 16:03:37 GMT"
     }
   ],
   "russia": [
@@ -595,6 +595,10 @@
     {
       "title": "AI guzzled millions of books without permission. Authors are fighting back. - The Washington Post",
       "pubDate": "Sat, 19 Jul 2025 16:10:24 GMT"
+    },
+    {
+      "title": "OpenAI's AI crushes coding legends in 10-hour programming contest, but one human still beat the bot - India Today",
+      "pubDate": "Sat, 19 Jul 2025 08:14:21 GMT"
     }
   ],
   "climate": [
@@ -1179,10 +1183,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump hits Mexico and EU with 30% tariffs, escalating trade war - South China Morning Post",
-      "pubDate": "Sat, 12 Jul 2025 17:54:25 GMT"
-    },
-    {
       "title": "Trump Intensifies Trade War With Threat of 30% Tariffs on EU, Mexico - GV Wire",
       "pubDate": "Sat, 12 Jul 2025 19:49:08 GMT"
     },
@@ -1240,10 +1240,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs - The Hacker News",
-      "pubDate": "Sat, 12 Jul 2025 17:14:00 GMT"
-    },
     {
       "title": "Severe WordPress Plugin Flaw Puts 200,000 Sites at Risk of Full Takeover - gbhackers.com",
       "pubDate": "Sun, 13 Jul 2025 00:30:59 GMT"
@@ -1762,10 +1758,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "McDonald\u2019s job app exposes data of 64 Million applicants - Security Affairs",
-      "pubDate": "Sat, 12 Jul 2025 17:10:29 GMT"
-    },
     {
       "title": "5.4 million hit in major healthcare data breach \u2014 names, emails, SSNs and more exposed - Tom's Guide",
       "pubDate": "Mon, 14 Jul 2025 21:57:23 GMT"
@@ -2288,10 +2280,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Gaza reveals the brutal new ethos of global geopolitics - Arab News PK",
-      "pubDate": "Sat, 12 Jul 2025 17:39:23 GMT"
-    },
     {
       "title": "Kim Jong Un reaffirms support for Russia's war in Ukraine - BBC",
       "pubDate": "Sat, 12 Jul 2025 23:13:58 GMT"
@@ -3043,6 +3031,10 @@
     {
       "title": "15 essential books to better understand climate change - MPR News",
       "pubDate": "Sat, 19 Jul 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Reducing pollution may have unmasked deeper climate risks, study reveals - BBC Science Focus Magazine",
+      "pubDate": "Sat, 19 Jul 2025 15:00:00 GMT"
     }
   ],
   "net_zero_emissions": [
@@ -3327,6 +3319,10 @@
     {
       "title": "The Pentagon Just Released Its Long-Overdue Drone Plan - The National Interest",
       "pubDate": "Sat, 19 Jul 2025 16:04:47 GMT"
+    },
+    {
+      "title": "US House Passes $832 Billion Defense Bill After Defeating Ukraine Aid Ban - Kyiv Post",
+      "pubDate": "Sat, 19 Jul 2025 06:28:57 GMT"
     }
   ],
   "cloud_computing": [
