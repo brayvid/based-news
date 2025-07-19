@@ -327,6 +327,10 @@
     {
       "title": "Trump files libel lawsuit over Wall Street Journal report on Jeffrey Epstein\u2019s birthday letters - CNN",
       "pubDate": "Sat, 19 Jul 2025 01:10:00 GMT"
+    },
+    {
+      "title": "DOJ asks judge to unseal Epstein-related grand jury testimony; Trump files libel lawsuit against Wall Street Journal - NBC News",
+      "pubDate": "Sat, 19 Jul 2025 02:32:00 GMT"
     }
   ],
   "russia": [
@@ -528,10 +532,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Groundbreaking Biological \u201cArtificial Intelligence\u201d System Could Make Impossible Medicines Real - SciTechDaily",
-      "pubDate": "Fri, 11 Jul 2025 03:04:56 GMT"
-    },
     {
       "title": "Huawei AI Chip Redesign Aims to Break Nvidia\u2019s China Dominance - The Information",
       "pubDate": "Fri, 11 Jul 2025 13:00:00 GMT"
@@ -907,6 +907,10 @@
     {
       "title": "How Ukraine\u2019s allies helped Zelensky recover his standing with Trump - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 17:22:12 GMT"
+    },
+    {
+      "title": "Australia delivers Abrams tanks to Ukraine for war with Russia - Reuters",
+      "pubDate": "Sat, 19 Jul 2025 00:46:42 GMT"
     }
   ],
   "us_economy": [
@@ -1142,10 +1146,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Justice Ketanji Brown Jackson says she fears for U.S. democracy - The Washington Post",
-      "pubDate": "Fri, 11 Jul 2025 03:48:31 GMT"
-    },
     {
       "title": "Trump\u2019s mass deportation is backfiring - CNN",
       "pubDate": "Sun, 13 Jul 2025 11:00:00 GMT"
@@ -1447,6 +1447,10 @@
     {
       "title": "Chinese hackers were able to breach US National Guard and stay undetected for months - TechRadar",
       "pubDate": "Fri, 18 Jul 2025 17:09:00 GMT"
+    },
+    {
+      "title": "Singapore accuses Chinese state-backed hackers of attacking critical infrastructure networks - The Record from Recorded Future News",
+      "pubDate": "Fri, 18 Jul 2025 20:02:03 GMT"
     }
   ],
   "recession": [
@@ -1909,6 +1913,10 @@
     {
       "title": "Watch live: Trump holds signing ceremony for cryptocurrency bill - NBC News",
       "pubDate": "Fri, 18 Jul 2025 15:18:47 GMT"
+    },
+    {
+      "title": "Trump says newly signed crypto law will establish \u2018American dominance\u2019 - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 21:56:15 GMT"
     }
   ],
   "tesla": [
@@ -3495,6 +3503,10 @@
     {
       "title": "Weeks After a Heat Wave Baked the US, Democrats Push to Declare Heat a Major Disaster - Inside Climate News",
       "pubDate": "Fri, 18 Jul 2025 21:51:41 GMT"
+    },
+    {
+      "title": "Climate Change Is Upending The Home Insurance Market - Science Friday",
+      "pubDate": "Fri, 18 Jul 2025 19:13:37 GMT"
     }
   ],
   "violence": [
@@ -3807,6 +3819,10 @@
     {
       "title": "Proposed defense budget includes 3.8% pay bump for servicemembers - 13newsnow.com",
       "pubDate": "Thu, 17 Jul 2025 14:35:00 GMT"
+    },
+    {
+      "title": "House passes defense appropriations bill with millions for Israel - JNS.org",
+      "pubDate": "Fri, 18 Jul 2025 20:38:26 GMT"
     }
   ],
   "cloud_computing": [
@@ -3893,6 +3909,12 @@
     {
       "title": "A common food additive solves a sticky neuroscience problem - Medical Xpress",
       "pubDate": "Fri, 18 Jul 2025 14:30:03 GMT"
+    }
+  ],
+  "research_and_development": [
+    {
+      "title": "EPA eliminates research and development office, begins layoffs - AP News",
+      "pubDate": "Fri, 18 Jul 2025 22:22:00 GMT"
     }
   ]
 }
