@@ -1,12 +1,62 @@
 {
-  "Space Exploration": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Mars mission reimagined \u2014 Russia\u2019s secret engine shocks space race - ECOticias.com El Peri\u00f3dico Verde",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81NjFwTUVyMlNGbUg5cDlWM1NvaTNqWHlsSHdNM0lkUGItcjZrMW4xSTBDblYtbnB3ZnpMWkJ4N3hUWlN0YnMwa3dXZFNvVFNaeE1BQ3c4dFhaZWw2dEFiZ2l3OTFoMzNNUWlHV0hRQU45WEdXM2cxMjcwbTVUUQ?oc=5",
-        "pubDate": "Sat, 19 Jul 2025 15:50:34 GMT"
+        "title": "Russian Offensive Campaign Assessment, July 19, 2025 - Institute for the Study of War",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUlMcW03SEw2SjJXYnR2Y21lVUl4WW1QbWRMUWJXdnpxVnhqajhUX0lwY1F2X0hzWk83UUZnM01ocXlRSzAxamRSVUlUdWIyZ0tCMkZ0cE1uSllOTVlGYk96aTZra2YtZW9naFNnRkgtMzRtNlRyeXJlODRfNnNqNUgyVTMwWGNEUV95YU9LMFd1MEtWYnRkc1JsSG4?oc=5",
+        "pubDate": "Sat, 19 Jul 2025 21:16:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-20T01:57:51.325117+00:00"
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Trump news at a glance: How Robert F Kennedy Jr is cancelling medical science - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2lNRjRZZHlXdjhlN0ZVWHpMX2JoVlh5T21paTVKMng4dFZuS2NaaUU0b2ZnT1NwbktMaTZZOS1ZNXZzSzkxTWNCc3pncHhEdnRybmhZb2V1M0Nia0xWLUtkdzNDZ3JlU3J3eW9MUWN2VW5DRWxjbWRGaHFERG1iZDk0bTR5c2dWM2ZCazhoV2NnZUc2Qm1YVXNVWng0c0N6Tmc2V29hM0VKOVM4Q19BV1lFUkQ5VWtMSmUzbHR0ZTNmQQ?oc=5",
+        "pubDate": "Sun, 20 Jul 2025 01:31:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China\u2019s J-35 Naval Stealth Fighter Looks Set For Service - Yahoo Home",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nN3ZYSDl6TC1sOXB0YTc5NE1xWlhCX0t3R3FGNkRfUWtGM0JGWmtFZGk3dW9UZUJrSEl1TnhGYllBelE4UzFudTRIa2hIWF9KLTNFNzFmY3ZPRV9UVW4zSENiVDRTNHBaYXkzU214R3R0ZnBJ?oc=5",
+        "pubDate": "Sat, 19 Jul 2025 19:03:53 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
+  },
+  "Hacking": {
+    "articles": [
+      {
+        "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVY4UWhJNFgzdjZHMjUtT19xdk1sUTMtWVBsMF9ydmU3RlpReWk3SUhSb05sWGVyTzZJUkpVdkxaREdFMXhvZGJkZml1NHQwTXhuRWtfU3k5aVZLaGVQTUE4YVV5d2d3Z2YwZkxKLWNVVFBCS0ZKM1BzMzkzVUdOaXZSMXlRTkk?oc=5",
+        "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
+  },
+  "Artificial General Intelligence": {
+    "articles": [
+      {
+        "title": "AI Is Making Us Dumber, MIT Researchers Find - HPCwire",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFJoOWJSb1JSalJFNndCRlZ6MHZld0pVekhKREFUVzhwOXI3N3Y1UkRfaXY5OTU2Z3NsXzZidHhvVFdldWpLSTd3bklKTDVlYllneDgyZHJiNTBlaVo5VzB4aVFUcFVPYTkzazI2SUxfZWZPcUF2a3F1bVpPeVRNWW9GcmY4Zw?oc=5",
+        "pubDate": "Sat, 19 Jul 2025 20:05:47 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "How National Cancer Institute funding cuts could affect the fight against the disease - PBS",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQUpXSGt1YVlCMmM4VGMyYUlfMjZFNjNidnNFZUtsN001WFVkU0hlandjWTg2eTRtSW50Ymd4dzh5c3Z2U1ZrYm9VSVFndndEcXhtdTVEaWJlZ3Bzbk9wYUlXekhaWmZCM0lFMjl3dklQVDNodDN6Vk55Tm9jZ2F0STBvRUdCVVVDY1VVb0xJQXRvelVtV3c1VThUZDBwV2RuLUxycENPdGdpLU5idWQ5RVM1eXZ5alFGdldHd3FvSWhDd2VYbDFRbWx4d1BZVjZMYVIzQ1J3YmV4R0pDUndVVlpwdXEzOHJzWGhhT2hCbnlZR1o1allRN2tTVWJoMW5pdTJQbG15bVNsT2hUX0gyUktldF9OWWpHel9kd2NR0gGjAkFVX3lxTE5xLUZ0UVdjY0pFdkd1VXJCUXp6M25uZE9ucEtremI0ODNQYjY2Yy1VOFJfTS00cXR2ZVJ2OHNkMVZCcFlzZ0RzRC01Xzd2eGJfQnY5ZXNra05hZGE4WHVRc1Fkenc4Y3FfOFRQclRxNWxmbXc2TG1DdkxLMTM5a0VVNllKZkdTa0d1amViLTNPUnU2U1BCbUpUUFNYX05HQ3N0UTlSVDBUUXlOMjVzOXdfS1ZtWFZFQmNNeHZ6dlJVRjFSa3RTOVdycXdxVC1wVEh5MUdHbGhIRi1yQ3dWR0MtSmlkMkRoUTJWTUhwcklqUlZFeGNyRGhQUVZVTzhlSjB0SlRpdVBpWmFRcENHUHpjLU9vbDV2eTdadVAxaVJheWxpNA?oc=5",
+        "pubDate": "Sat, 19 Jul 2025 21:45:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-20T02:57:38.708201+00:00"
   }
 }
