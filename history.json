@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump, Coldplay & red carpets - was Club World Cup final more like Superbowl or soccer? - BBC",
-      "pubDate": "Sun, 13 Jul 2025 22:59:10 GMT"
-    },
-    {
       "title": "Trump says he spoke to FBI\u2019s Bongino amid Epstein controversy: \u2018He sounded terrific\u2019 - The Indian Express",
       "pubDate": "Mon, 14 Jul 2025 06:01:44 GMT"
     },
@@ -243,6 +239,10 @@
     {
       "title": "Trump fossil-fuel push setting back green progress decades, critics warn - The Guardian",
       "pubDate": "Sun, 20 Jul 2025 15:42:00 GMT"
+    },
+    {
+      "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
+      "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
     }
   ],
   "russia": [
@@ -400,10 +400,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI Is Already Showing Signs of Slashing Job Openings in the UK - Bloomberg.com",
-      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
-    },
     {
       "title": "Scientists reportedly hiding AI text prompts in academic papers to receive positive peer reviews - The Guardian",
       "pubDate": "Mon, 14 Jul 2025 03:15:00 GMT"
@@ -743,6 +739,10 @@
     {
       "title": "Russia is open to peace with Ukraine but insists on achieving its goals, Kremlin spokesman says - San Francisco Chronicle",
       "pubDate": "Sun, 20 Jul 2025 13:30:07 GMT"
+    },
+    {
+      "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
+      "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
     }
   ],
   "us_economy": [
@@ -975,6 +975,10 @@
     {
       "title": "China starts building $167 billion mega-dam on Brahmaputra amid India's \u2018water bomb\u2019 concern | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Sun, 20 Jul 2025 05:04:38 GMT"
+    },
+    {
+      "title": "China Tightens Control: 2025 Rare Earth Quotas Issued Quietly Amid Global Tensions - Deccan Herald",
+      "pubDate": "Sun, 20 Jul 2025 23:38:11 GMT"
     }
   ],
   "us_politics": [
@@ -1055,6 +1059,10 @@
     {
       "title": "Senate Democrats slam Israel in major shift of tone - Axios",
       "pubDate": "Thu, 17 Jul 2025 00:23:26 GMT"
+    },
+    {
+      "title": "ICE raids and Medicaid cuts are bad news for California's immigrants. State cuts could be \u2018much worse.\u2019 - Politico",
+      "pubDate": "Sun, 20 Jul 2025 18:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -1199,10 +1207,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Federal Reserve Likely to Keep Rates Unchanged in July at 93.3% Probability - AInvest",
-      "pubDate": "Sun, 13 Jul 2025 23:51:44 GMT"
-    },
-    {
       "title": "Trump says Powell should resign immediately from Federal Reserve leadership position over economic missteps - Fox Business",
       "pubDate": "Mon, 14 Jul 2025 00:56:44 GMT"
     },
@@ -1328,10 +1332,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Cancer deaths from obesity have tripled in 20 years \u2014 these states have the highest and lowest rates - New York Post",
-      "pubDate": "Sun, 13 Jul 2025 23:22:00 GMT"
-    },
     {
       "title": "Obesity is driving a hidden cancer epidemic\u201413 types and rising deaths nationwide - ScienceDaily",
       "pubDate": "Tue, 15 Jul 2025 07:38:45 GMT"
@@ -2023,6 +2023,10 @@
     {
       "title": "Quantum Computing Inc. Stock Analysis and Forecast - High-profit stock alerts - Autocar Professional",
       "pubDate": "Sun, 20 Jul 2025 05:50:52 GMT"
+    },
+    {
+      "title": "Quantum Leap or Overpriced Hype? D-Wave's $400M Raise and the Future of Quantum Computing - AInvest",
+      "pubDate": "Sun, 20 Jul 2025 17:35:18 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2501,6 +2505,10 @@
     {
       "title": "Despite reported progress in Gaza ceasefire talks, Israel holds off on sending senior delegation - Ynetnews",
       "pubDate": "Sun, 20 Jul 2025 15:36:26 GMT"
+    },
+    {
+      "title": "Israel Denies Visa Extension for Top UN Official Over Gaza War Criticism - Haaretz",
+      "pubDate": "Sun, 20 Jul 2025 15:16:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2571,14 +2579,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
-      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
-    },
-    {
-      "title": "Astronomers Detect a Black Hole Merger That\u2019s So Massive It Shouldn\u2019t Exist - Gizmodo",
-      "pubDate": "Sun, 13 Jul 2025 23:01:48 GMT"
-    },
-    {
       "title": "Gravitational waves reveal most massive black hole merger ever detected \u2014 one 'forbidden' by current models - Space",
       "pubDate": "Mon, 14 Jul 2025 10:00:00 GMT"
     },
@@ -2616,10 +2616,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "The biggest black hole smashup ever detected challenges physics theories - Science News",
-      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
-    },
     {
       "title": "Scientists spot massive black hole collision that defies current theories - theregister.com",
       "pubDate": "Tue, 15 Jul 2025 06:33:00 GMT"
@@ -2823,6 +2819,10 @@
     {
       "title": "Europe\u2019s oldest ice core reveals 12,000 years of climate change - Earth.com",
       "pubDate": "Sun, 20 Jul 2025 20:48:24 GMT"
+    },
+    {
+      "title": "Extreme weather drives food price surges across the globe - Financial Times",
+      "pubDate": "Sun, 20 Jul 2025 23:01:03 GMT"
     }
   ],
   "net_zero_emissions": [
