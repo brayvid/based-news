@@ -43,10 +43,6 @@
   ],
   "iran": [
     {
-      "title": "Iran says it would resume nuclear talks if US guaranteed no further attacks \u2013 Middle East crisis live - The Guardian",
-      "pubDate": "Sun, 13 Jul 2025 12:32:58 GMT"
-    },
-    {
       "title": "Iran vows Israel will 'pay the price' for 'assassination' attempt on president - Ynetnews",
       "pubDate": "Sun, 13 Jul 2025 15:11:04 GMT"
     },
@@ -81,6 +77,10 @@
     {
       "title": "Iran bomb damage intel suggests two nuclear sites not \u2018obliterated\u2019 - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 16:00:45 GMT"
+    },
+    {
+      "title": "Iran says it has replaced air defences damaged in Israel war - Reuters",
+      "pubDate": "Sun, 20 Jul 2025 09:22:09 GMT"
     }
   ],
   "donald_trump": [
@@ -1623,6 +1623,10 @@
     {
       "title": "Tesla finally parks in India. But can it survive? - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 05:28:24 GMT"
+    },
+    {
+      "title": "Tesla CEO Elon Musk admits he had been \u2018living in denial\u2019, says \u2018Now it is game on\u2019 - Times of India",
+      "pubDate": "Sun, 20 Jul 2025 09:52:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2691,6 +2695,10 @@
     {
       "title": "Lowering the voting age: a boost for UK democracy or a shot in the dark? - The Guardian",
       "pubDate": "Thu, 17 Jul 2025 12:50:00 GMT"
+    },
+    {
+      "title": "The Next Phase in Destroying Israeli Democracy Begins: Ousting the Attorney General - Haaretz",
+      "pubDate": "Sun, 20 Jul 2025 03:23:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -3295,6 +3303,12 @@
     {
       "title": "Scientists twist DNA into self-building nanostructures that could transform technology - ScienceDaily",
       "pubDate": "Sun, 20 Jul 2025 08:40:27 GMT"
+    }
+  ],
+  "software": [
+    {
+      "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer - Fortune",
+      "pubDate": "Sun, 20 Jul 2025 11:33:00 GMT"
     }
   ]
 }
