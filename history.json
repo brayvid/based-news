@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump wins big on the Supreme Court's \"shadow docket\" - Axios",
-      "pubDate": "Sun, 13 Jul 2025 13:00:31 GMT"
-    },
-    {
       "title": "Secret Service did not 'act on direct threats' before Trump shooting, Senate report says - USA Today",
       "pubDate": "Sun, 13 Jul 2025 22:41:49 GMT"
     },
@@ -394,10 +390,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "JPMorgan Says to Short Tesla (TSLA), Moderna (MRNA), and 7 Other Stocks in 2025 - TipRanks",
-      "pubDate": "Sun, 13 Jul 2025 13:47:08 GMT"
-    },
     {
       "title": "Trump\u2019s tariff threats, Bitcoin surges, stocks and Bonds slide as Gold and Oil climb - FXStreet",
       "pubDate": "Mon, 14 Jul 2025 11:37:49 GMT"
@@ -1609,6 +1601,10 @@
     {
       "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
       "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
+    },
+    {
+      "title": "Reeves \u2018eyes \u00a35bn windfall from sale of seized cryptocurrency\u2019 - The Independent",
+      "pubDate": "Sun, 20 Jul 2025 12:55:00 GMT"
     }
   ],
   "tesla": [
@@ -1697,6 +1693,10 @@
     {
       "title": "Data Breaches Up 10% Although Victim Count Falls Sharply - The HIPAA Journal",
       "pubDate": "Fri, 18 Jul 2025 11:47:20 GMT"
+    },
+    {
+      "title": "Amazon Ring Doorbell May 28 Mass Hacking Claim Goes Viral - Forbes",
+      "pubDate": "Sun, 20 Jul 2025 12:26:00 GMT"
     }
   ],
   "bitcoin": [
@@ -2047,12 +2047,6 @@
       "pubDate": "Sun, 20 Jul 2025 05:50:52 GMT"
     }
   ],
-  "new_york_politics": [
-    {
-      "title": "Opinion | Should I Snub My Right-Wing Relatives? - The New York Times",
-      "pubDate": "Sun, 13 Jul 2025 13:00:04 GMT"
-    }
-  ],
   "artificial_general_intelligence": [
     {
       "title": "Concerns That AGI And AI Superintelligence Might Be Dangerously Deeply Loyal To Their AI Maker - Forbes",
@@ -2100,10 +2094,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Trump's paranoid security state - Axios",
-      "pubDate": "Sun, 13 Jul 2025 13:25:11 GMT"
-    },
     {
       "title": "US opens national security probes into imported drones, polysilicon - Reuters",
       "pubDate": "Tue, 15 Jul 2025 00:04:00 GMT"
@@ -2541,6 +2531,10 @@
     {
       "title": "Israel orders evacuations in central Gaza, where ground operations were rare - WCVB",
       "pubDate": "Sun, 20 Jul 2025 08:34:00 GMT"
+    },
+    {
+      "title": "Israel extends Gaza offensive to areas not yet reached by ground forces - Financial Times",
+      "pubDate": "Sun, 20 Jul 2025 10:43:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2606,10 +2600,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Experts ask where the center of the universe is - Space",
-      "pubDate": "Sun, 13 Jul 2025 13:00:00 GMT"
-    },
     {
       "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
@@ -2851,6 +2841,10 @@
     {
       "title": "Antarctica\u2019s buried landscape may be slowing climate change, study finds - AOL.com",
       "pubDate": "Sun, 20 Jul 2025 01:15:53 GMT"
+    },
+    {
+      "title": "Children May Lose 1.5 Years Of Schooling Due To Climate Change: UN Report - NDTV",
+      "pubDate": "Sun, 20 Jul 2025 09:16:55 GMT"
     }
   ],
   "net_zero_emissions": [
@@ -3225,6 +3219,10 @@
     {
       "title": "The CIA Has Been Caught Lying About Lee Harvey Oswald - MSN",
       "pubDate": "Sat, 19 Jul 2025 04:03:04 GMT"
+    },
+    {
+      "title": "The CIA\u2019s Phantom War Against Russia - Sri Lanka Guardian",
+      "pubDate": "Sun, 20 Jul 2025 02:20:15 GMT"
     }
   ],
   "neuroscience": [
