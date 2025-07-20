@@ -1099,16 +1099,8 @@
   ],
   "north_korea": [
     {
-      "title": "North Korea sent Russia over 12 million artillery shells - Defence Blog",
-      "pubDate": "Sun, 13 Jul 2025 09:21:59 GMT"
-    },
-    {
       "title": "North Korea Ships 28,000 Containers of Weapons to Russia, Says South Korea\u2019s Intelligence - UNITED24 Media",
       "pubDate": "Sun, 13 Jul 2025 10:13:05 GMT"
-    },
-    {
-      "title": "North Korea supplied Russia with 12 million rounds of 152mm shells, South Korean intelligence estimates - The Kyiv Independent",
-      "pubDate": "Sun, 13 Jul 2025 09:06:25 GMT"
     },
     {
       "title": "North Korea unconditionally backs Putin\u2019s war in Ukraine during Lavrov visit - Financial Times",
@@ -1137,6 +1129,10 @@
     {
       "title": "How North Korea Is Giving Russia an Edge in the War on Ukraine - Bloomberg",
       "pubDate": "Tue, 15 Jul 2025 12:08:36 GMT"
+    },
+    {
+      "title": "North Korea. Russia deepen alliance; Apples, ammunition & manpower cross the border - Firstpost",
+      "pubDate": "Sun, 20 Jul 2025 09:24:18 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1252,10 +1248,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Why the U.S. Is Way Behind China in Making Drones for War - The New York Times",
-      "pubDate": "Sun, 13 Jul 2025 09:00:25 GMT"
-    },
     {
       "title": "US probes imports of drones and critical material in chips and solar panels - Financial Times",
       "pubDate": "Mon, 14 Jul 2025 23:58:35 GMT"
@@ -1383,17 +1375,13 @@
     {
       "title": "Tsunami Warning Issued: Earthquakes Hit Kamchatka, Russia and Hawaii on High Alert - Deccan Herald",
       "pubDate": "Sun, 20 Jul 2025 07:41:18 GMT"
+    },
+    {
+      "title": "Powerful earthquakes in Russia: Tsunami alert issued; three quakes including 7.4 magnitude strike off nea - Times of India",
+      "pubDate": "Sun, 20 Jul 2025 07:40:00 GMT"
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk's xAI pressed employees to install surveillance software on personal laptops - Business Insider",
-      "pubDate": "Sun, 13 Jul 2025 09:26:00 GMT"
-    },
-    {
-      "title": "Elon Musk Is Back at Work and Burning Through Executives - The Wall Street Journal",
-      "pubDate": "Sun, 13 Jul 2025 09:30:00 GMT"
-    },
     {
       "title": "Elon Musk confirms Tesla will let shareholders decide on xAI investment: Details here - Mint",
       "pubDate": "Mon, 14 Jul 2025 05:09:53 GMT"
@@ -2101,6 +2089,10 @@
     {
       "title": "Quantum computing is so fire \u2014 No, seriously. BofA says it could be humanity's biggest breakthrough since the discovery of fire - Fortune",
       "pubDate": "Sat, 19 Jul 2025 19:04:00 GMT"
+    },
+    {
+      "title": "Quantum Computing Inc. Stock Analysis and Forecast - High-profit stock alerts - Autocar Professional",
+      "pubDate": "Sun, 20 Jul 2025 05:50:52 GMT"
     }
   ],
   "new_york_politics": [
@@ -2340,10 +2332,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Children fetching water killed in Israeli strike in Gaza, emergency officials say - BBC",
-      "pubDate": "Sun, 13 Jul 2025 09:02:28 GMT"
-    },
     {
       "title": "Israel increased Rafah demolition to prepare for Gaza forced transfer plan - Al Jazeera",
       "pubDate": "Sun, 13 Jul 2025 10:18:45 GMT"
@@ -2611,6 +2599,10 @@
     {
       "title": "It's Clear \u2013 Israel Now Has a Plan for the Ethnic Cleansing of Palestinians From Gaza - Haaretz",
       "pubDate": "Sun, 20 Jul 2025 03:54:00 GMT"
+    },
+    {
+      "title": "Israel orders evacuations in central Gaza, where ground operations were rare - WCVB",
+      "pubDate": "Sun, 20 Jul 2025 08:34:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2657,6 +2649,10 @@
     {
       "title": "QuantumScape Stock Surges on Solid-State Battery Breakthrough | Buy, Hold, or Sell? - techi.com",
       "pubDate": "Thu, 17 Jul 2025 20:10:24 GMT"
+    },
+    {
+      "title": "China's grip on cathode tech exposes fragility in U.S. and EU battery ambitions - digitimes",
+      "pubDate": "Sat, 19 Jul 2025 23:46:28 GMT"
     }
   ],
   "algorithms": [
@@ -3349,6 +3345,10 @@
     {
       "title": "Jason Galanis to Newsmax: Biden Family Corruption \u2018Was Endemic\u2019 - WJBC AM 1230",
       "pubDate": "Sat, 19 Jul 2025 18:15:54 GMT"
+    },
+    {
+      "title": "The Chinese political bribery scandal that\u2019s rattling Europe - The Sydney Morning Herald",
+      "pubDate": "Sun, 20 Jul 2025 06:07:52 GMT"
     }
   ],
   "terrorism": [
@@ -3367,6 +3367,12 @@
     {
       "title": "Trump administration reviewed SpaceX contracts after Musk fallout, found firm too critical to drop: Report - The Economic Times",
       "pubDate": "Sun, 20 Jul 2025 01:27:10 GMT"
+    }
+  ],
+  "nanotechnology": [
+    {
+      "title": "Scientists twist DNA into self-building nanostructures that could transform technology - ScienceDaily",
+      "pubDate": "Sun, 20 Jul 2025 08:40:27 GMT"
     }
   ]
 }
