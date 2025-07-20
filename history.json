@@ -1171,10 +1171,6 @@
       "pubDate": "Sun, 13 Jul 2025 22:15:00 GMT"
     },
     {
-      "title": "US soft patch won\u2019t \u201cmetastasise\u201d into recession: ClearBridge - Financial Newswire",
-      "pubDate": "Sun, 13 Jul 2025 20:27:52 GMT"
-    },
-    {
       "title": "Singapore economy grows 4.3% in second quarter, avoids technical recession, advance estimate shows - TradingView",
       "pubDate": "Mon, 14 Jul 2025 00:28:00 GMT"
     },
@@ -1439,6 +1435,10 @@
     {
       "title": "More employers plan to pass along health care costs to workers in 2026 - CNN",
       "pubDate": "Wed, 16 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "GOP bill biggest health care shake-up since Obamacare. Here\u2019s what it means in Nevada. - The Nevada Independent",
+      "pubDate": "Sun, 20 Jul 2025 09:00:00 GMT"
     }
   ],
   "world_economy": [
@@ -1803,6 +1803,10 @@
     {
       "title": "Nvidia faces supply issues in China return - report - Seeking Alpha",
       "pubDate": "Sat, 19 Jul 2025 18:56:00 GMT"
+    },
+    {
+      "title": "Veteran fund manager who predicted Nvidia stock rally resets forecast on China shock - TheStreet",
+      "pubDate": "Sun, 20 Jul 2025 14:07:20 GMT"
     }
   ],
   "earth_science": [
@@ -1892,10 +1896,6 @@
     }
   ],
   "science": [
-    {
-      "title": "Scientists make fascinating discovery after studying earthquakes and tsunamis: 'Critical insights' - The Cool Down",
-      "pubDate": "Sun, 13 Jul 2025 20:30:00 GMT"
-    },
     {
       "title": "Scientists have detected the largest black hole merger yet. What it is and why it matters - CBC",
       "pubDate": "Tue, 15 Jul 2025 08:00:00 GMT"
@@ -2899,12 +2899,6 @@
       "pubDate": "Thu, 17 Jul 2025 07:25:07 GMT"
     }
   ],
-  "pacific_ocean": [
-    {
-      "title": "New technology uncovers lost bow of World War II battleship off Solomon Islands - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 13 Jul 2025 20:00:00 GMT"
-    }
-  ],
   "european_union": [
     {
       "title": "EU warns that its trade with the US could be effectively wiped out if Trump follows through on his threat - CNN",
@@ -3311,6 +3305,18 @@
     {
       "title": "Pregnant Mother in Tennessee Denied Care for Being Unmarried - Nashville Banner",
       "pubDate": "Sun, 20 Jul 2025 15:26:58 GMT"
+    }
+  ],
+  "vladimir_putin": [
+    {
+      "title": "Vladimir Putin throws a tyrant tantrum \u2014 but Russia is big, brutish and bluffing - New York Post",
+      "pubDate": "Sun, 20 Jul 2025 16:01:00 GMT"
+    }
+  ],
+  "universe": [
+    {
+      "title": "Scientists reveal the most likely way the universe will end and the exact date it could happen - UNILAD",
+      "pubDate": "Sun, 20 Jul 2025 16:14:16 GMT"
     }
   ]
 }
