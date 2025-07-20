@@ -43,10 +43,6 @@
   ],
   "iran": [
     {
-      "title": "Iran\u2019s president Pezeshkian was injured in an Israeli airstrike last month \u2013 report - The Times of Israel",
-      "pubDate": "Sun, 13 Jul 2025 05:25:09 GMT"
-    },
-    {
       "title": "Live Updates: Iran's President Pezeshkian wounded during war with Israel - The Jerusalem Post",
       "pubDate": "Sun, 13 Jul 2025 11:00:05 GMT"
     },
@@ -1287,6 +1283,10 @@
     {
       "title": "Ukraine Proposes Mega-Deal To Share Battle-Tested Drone Technology With US - DroneXL.co",
       "pubDate": "Sat, 19 Jul 2025 16:56:34 GMT"
+    },
+    {
+      "title": "Sudan War Strategy Shifts To The Air As Both Sides Increase Drone Use - Eurasia Review",
+      "pubDate": "Sat, 19 Jul 2025 23:21:16 GMT"
     }
   ],
   "federal_reserve": [
@@ -1387,6 +1387,10 @@
     {
       "title": "Magnitude 5.6 earthquake strikes northern Iran - India Today",
       "pubDate": "Sat, 19 Jul 2025 22:13:48 GMT"
+    },
+    {
+      "title": "Magnitude 4.1 - 9 miles NW of Tatitlek - Alaska Earthquake Center",
+      "pubDate": "Sat, 19 Jul 2025 19:34:44 GMT"
     }
   ],
   "elon_musk": [
@@ -1475,6 +1479,10 @@
     {
       "title": "How National Cancer Institute funding cuts could affect the fight against the disease - PBS",
       "pubDate": "Sat, 19 Jul 2025 21:45:36 GMT"
+    },
+    {
+      "title": "Personalized Neoantigen Vaccines Show Lasting Tumor Control in Kidney Cancer - Curetoday",
+      "pubDate": "Sat, 19 Jul 2025 18:04:58 GMT"
     }
   ],
   "space_exploration": [
@@ -1525,10 +1533,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Coloradans worry over green energy tax credit cuts in 'Big Beautiful Bill' - KUSA.com",
-      "pubDate": "Sun, 13 Jul 2025 04:58:00 GMT"
-    },
-    {
       "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - The Cool Down",
       "pubDate": "Mon, 14 Jul 2025 05:30:00 GMT"
     },
@@ -1550,10 +1554,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Millions in savers\u2019 cash goes missing after crypto company collapses - The Telegraph",
-      "pubDate": "Sun, 13 Jul 2025 05:30:00 GMT"
-    },
     {
       "title": "Ethereum Breaks $3,000 as Little Pepe Presale Surges Past $5,000,000 By Chainwire - Investing.com",
       "pubDate": "Sun, 13 Jul 2025 11:34:31 GMT"
@@ -1917,6 +1917,10 @@
     {
       "title": "OpenAI Commission Recommends Emergency Grants for Civic Organizations - The Information",
       "pubDate": "Thu, 17 Jul 2025 22:42:41 GMT"
+    },
+    {
+      "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
+      "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
     }
   ],
   "environment": [
@@ -2953,6 +2957,10 @@
     {
       "title": "Only 3 years left \u2013 new study warns the world is running out of time to avoid the worst impacts of climate change - The Conversation",
       "pubDate": "Sun, 20 Jul 2025 04:20:54 GMT"
+    },
+    {
+      "title": "Antarctica\u2019s buried landscape may be slowing climate change, study finds - AOL.com",
+      "pubDate": "Sun, 20 Jul 2025 01:15:53 GMT"
     }
   ],
   "net_zero_emissions": [
@@ -3379,6 +3387,18 @@
     {
       "title": "US Issues Strong Warning for American Travelers to India, Urging Heightened Caution Amid Growing Concerns Over Crime, Women\u2019s Safety, and Terrorism Risks - Travel And Tour World",
       "pubDate": "Sat, 19 Jul 2025 17:22:51 GMT"
+    }
+  ],
+  "asia": [
+    {
+      "title": "China's Trilateral Diplomacy: Beijing Reshapes South Asia\u2019s Strategic Balance - Deccan Herald",
+      "pubDate": "Sat, 19 Jul 2025 20:13:49 GMT"
+    }
+  ],
+  "spacex": [
+    {
+      "title": "Trump administration reviewed SpaceX contracts after Musk fallout, found firm too critical to drop: Report - The Economic Times",
+      "pubDate": "Sun, 20 Jul 2025 01:27:10 GMT"
     }
   ]
 }
