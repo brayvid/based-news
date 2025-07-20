@@ -289,6 +289,10 @@
     {
       "title": "Massive Drone Attack Disrupts Moscow Airports, Damages Homes and Cars - Kyiv Post",
       "pubDate": "Sun, 20 Jul 2025 06:06:49 GMT"
+    },
+    {
+      "title": "Russia faces intense barrage of drones, shutting down Moscow airports - upi.com",
+      "pubDate": "Sun, 20 Jul 2025 17:55:03 GMT"
     }
   ],
   "ai_safety": [
@@ -1099,10 +1103,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump demands more concessions as EU holds off on US tariff countermeasures - Reuters",
-      "pubDate": "Sun, 13 Jul 2025 18:03:55 GMT"
-    },
-    {
       "title": "Trump slaps 17 percent tariff on tomatoes from Mexico - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 02:26:33 GMT"
     },
@@ -1428,10 +1428,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
-      "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
-    },
     {
       "title": "Why the health care lobby failed to stop cuts to Medicaid funding - NPR",
       "pubDate": "Mon, 14 Jul 2025 17:31:23 GMT"
@@ -1945,10 +1941,6 @@
   ],
   "mars": [
     {
-      "title": "The biggest piece of Mars on Earth is going up for auction in New York - AP News",
-      "pubDate": "Sun, 13 Jul 2025 18:53:00 GMT"
-    },
-    {
       "title": "Study suggests liquid brines could form on Mars' surface during seasonal frost melting - Phys.org",
       "pubDate": "Wed, 16 Jul 2025 15:54:32 GMT"
     },
@@ -2106,10 +2098,6 @@
     }
   ],
   "ethereum": [
-    {
-      "title": "Ethereum (ETH) Price Prediction: Ethereum Gathers Strength Around $3,000 as Analysts Outline Path to New All-Time High in 2025 - Brave New Coin",
-      "pubDate": "Sun, 13 Jul 2025 18:00:07 GMT"
-    },
     {
       "title": "SharpLink becomes largest corporate ether holder with 280,706 ETH surpassing Ethereum Foundation - The Block",
       "pubDate": "Tue, 15 Jul 2025 14:30:01 GMT"
@@ -2701,10 +2689,6 @@
   ],
   "climate_change": [
     {
-      "title": "Ocean circulation going South? - RealClimate",
-      "pubDate": "Sun, 13 Jul 2025 18:27:59 GMT"
-    },
-    {
       "title": "Cleaner air in east Asia has driven recent acceleration in global warming \u2013 new study - Yahoo",
       "pubDate": "Mon, 14 Jul 2025 09:02:23 GMT"
     },
@@ -2847,6 +2831,10 @@
     {
       "title": "Children May Lose 1.5 Years Of Schooling Due To Climate Change: UN Report - NDTV",
       "pubDate": "Sun, 20 Jul 2025 09:16:55 GMT"
+    },
+    {
+      "title": "Why scientists fear climate change could help Covid to thrive - The Independent",
+      "pubDate": "Sun, 20 Jul 2025 16:18:00 GMT"
     }
   ],
   "net_zero_emissions": [
@@ -3325,6 +3313,12 @@
     {
       "title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer - Fortune",
       "pubDate": "Sun, 20 Jul 2025 11:33:00 GMT"
+    }
+  ],
+  "ethics": [
+    {
+      "title": "Pregnant Mother in Tennessee Denied Care for Being Unmarried - Nashville Banner",
+      "pubDate": "Sun, 20 Jul 2025 15:26:58 GMT"
     }
   ]
 }
