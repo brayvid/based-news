@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Blocks Medical Equipment From Entering Gaza Strip, Citing Potential Hamas Use - Haaretz",
-      "pubDate": "Mon, 14 Jul 2025 10:21:00 GMT"
-    },
-    {
       "title": "Israel Strikes Southern Syria in New Flareup of Violence - The Wall Street Journal",
       "pubDate": "Mon, 14 Jul 2025 17:21:00 GMT"
     },
@@ -551,6 +547,10 @@
     {
       "title": "Material Needs of Artificial Intelligence Eclipsed by Energy Debates - Forbes",
       "pubDate": "Mon, 21 Jul 2025 08:25:35 GMT"
+    },
+    {
+      "title": "AI fuels tech job cuts despite efficiency questions among workers - NBC News",
+      "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
     }
   ],
   "climate": [
@@ -747,6 +747,10 @@
     {
       "title": "Ukraine's new PM elevated after biggest wartime cabinet reshuffle - Australian Broadcasting Corporation",
       "pubDate": "Sun, 20 Jul 2025 18:51:05 GMT"
+    },
+    {
+      "title": "Ukraine Graft Raid Ups Pressure on Kyiv to Clean House - Bloomberg.com",
+      "pubDate": "Mon, 21 Jul 2025 09:59:07 GMT"
     }
   ],
   "us_economy": [
@@ -756,10 +760,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Appears to Pull Off Satellite Feat That NASA Has Never Achieved - Newsweek",
-      "pubDate": "Mon, 14 Jul 2025 10:56:54 GMT"
-    },
     {
       "title": "China\u2019s Growth Seen Outpacing Target, Easing Stimulus Pressure - Bloomberg",
       "pubDate": "Mon, 14 Jul 2025 11:34:07 GMT"
@@ -1325,6 +1325,10 @@
     {
       "title": "Analysis | Elon Musk\u2019s Starlink internet works great if hardly anyone uses it - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 23:30:00 GMT"
+    },
+    {
+      "title": "Musk's X refuses to hand over data in 'politically-motivated' French investigation - CNBC",
+      "pubDate": "Mon, 21 Jul 2025 10:10:24 GMT"
     }
   ],
   "cancer": [
@@ -1705,13 +1709,13 @@
     {
       "title": "Microsoft SharePoint zero-day breach hits 75 servers: Here\u2019s what the company said - The Times of India",
       "pubDate": "Mon, 21 Jul 2025 03:43:00 GMT"
+    },
+    {
+      "title": "More than 2,000 in New Hampshire impacted by data breach at St. Joseph Hospital's parent company - WMUR",
+      "pubDate": "Mon, 21 Jul 2025 03:53:00 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin climbs to record $123,000 as US to debate crypto rules - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 10:12:45 GMT"
-    },
     {
       "title": "Bitcoin hits $123,000: How investors can book cryptocurrency gains and report them in ITR - Mint",
       "pubDate": "Mon, 14 Jul 2025 13:32:16 GMT"
@@ -1763,6 +1767,10 @@
     {
       "title": "El Salvador hasn't bought Bitcoin since February, finance chiefs tell IMF, contradicting Bukele administration - The Block",
       "pubDate": "Sat, 19 Jul 2025 21:14:37 GMT"
+    },
+    {
+      "title": "Bitcoin price today: up near $119k amid legislative boost; altcoins extend rally - Investing.com",
+      "pubDate": "Mon, 21 Jul 2025 06:36:25 GMT"
     }
   ],
   "fusion_power": [
@@ -1816,10 +1824,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI delays its first open-source AI model challenging DeepSeek - South China Morning Post",
-      "pubDate": "Mon, 14 Jul 2025 10:00:18 GMT"
-    },
     {
       "title": "Another High-Profile OpenAI Researcher Departs for Meta - WIRED",
       "pubDate": "Wed, 16 Jul 2025 02:56:00 GMT"
@@ -2253,10 +2257,6 @@
   ],
   "gaza": [
     {
-      "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
-      "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
-    },
-    {
       "title": "LIVE: Deadly Israeli attacks kill more Palestinians near Gaza aid centre - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 11:54:37 GMT"
     },
@@ -2527,6 +2527,10 @@
     {
       "title": "Gaza killings denounced as \u2018disgrace to humanity\u2019 by Belgian king - politico.eu",
       "pubDate": "Mon, 21 Jul 2025 02:42:00 GMT"
+    },
+    {
+      "title": "Israel sends tanks into Gaza's Deir Al-Balah, raising concerns among hostages' families - USA Today",
+      "pubDate": "Mon, 21 Jul 2025 10:22:32 GMT"
     }
   ],
   "energy_storage": [
@@ -2596,10 +2600,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Gravitational waves reveal most massive black hole merger ever detected \u2014 one 'forbidden' by current models - Space",
-      "pubDate": "Mon, 14 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "Record-Sized Collision Between Black Holes Detected by Astronomers - ScienceAlert",
       "pubDate": "Wed, 16 Jul 2025 02:20:04 GMT"
@@ -2676,10 +2676,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Flood risk is widespread in the U.S. Few people have insurance for it - NPR",
-      "pubDate": "Mon, 14 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "China\u2019s success in cleaning up air pollution may have accelerated global warming: Study - The Hill",
       "pubDate": "Mon, 14 Jul 2025 17:26:00 GMT"
@@ -2835,6 +2831,10 @@
     {
       "title": "The heatwave that shattered ecosystems, starved whales, and drove fish north - ScienceDaily",
       "pubDate": "Mon, 21 Jul 2025 06:46:51 GMT"
+    },
+    {
+      "title": "Trump bill takes a \u2018big, beautiful\u2019 bite out of US climate progress - The Hill",
+      "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2955,12 +2955,6 @@
     {
       "title": "Meta settles $8bn lawsuit with Zuckerberg over Facebook privacy - BBC",
       "pubDate": "Thu, 17 Jul 2025 20:05:28 GMT"
-    }
-  ],
-  "intelligence_agencies": [
-    {
-      "title": "Is America losing its intelligence? - The Economic Times",
-      "pubDate": "Mon, 14 Jul 2025 10:06:00 GMT"
     }
   ],
   "quantum": [
