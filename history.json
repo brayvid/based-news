@@ -549,20 +549,12 @@
   ],
   "ukraine": [
     {
-      "title": "Russia says Ukrainian drones attacked training centre at Zaporizhzhia nuclear plant - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 05:09:00 GMT"
-    },
-    {
       "title": "Russia launches 136 drones into Ukraine ahead of expected Trump announcement - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 14 Jul 2025 08:49:29 GMT"
     },
     {
       "title": "Trump expected to make 'major' statement on support for Ukraine - BBC",
       "pubDate": "Mon, 14 Jul 2025 11:37:30 GMT"
-    },
-    {
-      "title": "Trump says he wants to send Patriot batteries to Ukraine. One country might be down to pay for them. - Business Insider",
-      "pubDate": "Mon, 14 Jul 2025 05:27:00 GMT"
     },
     {
       "title": "Trump announces weapons for Ukraine and threatens Russia with tariffs - NPR",
@@ -1055,6 +1047,10 @@
     {
       "title": "ICE raids and Medicaid cuts are bad news for California's immigrants. State cuts could be \u2018much worse.\u2019 - Politico",
       "pubDate": "Sun, 20 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Democrat voters who sat out last election want candidates further to the left - like AOC and Bernie Sanders, new poll finds - AOL.com",
+      "pubDate": "Sun, 20 Jul 2025 18:15:51 GMT"
     }
   ],
   "north_korea": [
@@ -1319,10 +1315,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Elon Musk confirms Tesla will let shareholders decide on xAI investment: Details here - Mint",
-      "pubDate": "Mon, 14 Jul 2025 05:09:53 GMT"
-    },
-    {
       "title": "Analysis | Elon Musk\u2019s Starlink internet works great if hardly anyone uses it - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 23:30:00 GMT"
     }
@@ -1399,6 +1391,10 @@
     {
       "title": "Groundbreaking study reveals overlooked factor behind increased cancer risk in women: 'Their cumulative public health impact is substantial' - The Cool Down",
       "pubDate": "Sun, 20 Jul 2025 06:15:00 GMT"
+    },
+    {
+      "title": "Major Hampshire study to examine rare appendix cancer - BBC",
+      "pubDate": "Mon, 21 Jul 2025 05:05:36 GMT"
     }
   ],
   "space_exploration": [
@@ -1431,6 +1427,10 @@
     {
       "title": "GOP bill biggest health care shake-up since Obamacare. Here\u2019s what it means in Nevada. - The Nevada Independent",
       "pubDate": "Sun, 20 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Hospitals scoop up physician practices, driving prices up - Axios",
+      "pubDate": "Mon, 21 Jul 2025 04:38:30 GMT"
     }
   ],
   "world_economy": [
@@ -1448,10 +1448,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - The Cool Down",
-      "pubDate": "Mon, 14 Jul 2025 05:30:00 GMT"
-    },
     {
       "title": "Saudi Arabia to boost renewable energy with $8bn investment - Financial Times",
       "pubDate": "Mon, 14 Jul 2025 13:18:17 GMT"
@@ -1693,10 +1689,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin tops $120,000 for the first time - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 05:04:00 GMT"
-    },
-    {
       "title": "Bitcoin passes $120,000 milestone as US Congress readies for \u2018crypto week\u2019 - Financial Times",
       "pubDate": "Mon, 14 Jul 2025 06:26:03 GMT"
     },
@@ -1711,10 +1703,6 @@
     {
       "title": "Bitcoin Price Soars Past $120,000 at Outset of House\u2019s \u2018Crypto Week\u2019 - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 13:44:24 GMT"
-    },
-    {
-      "title": "Bitcoin achieves $120k milestone on Trump policy support - Sky News",
-      "pubDate": "Mon, 14 Jul 2025 05:44:26 GMT"
     },
     {
       "title": "MicroStrategy\u2019s stock surges as bitcoin purchases resume, lifting holdings to above 600,000 - MarketWatch",
@@ -1879,6 +1867,10 @@
     {
       "title": "FBI agent found guilty of raping three women inside of his secret tattoo parlor - The Independent",
       "pubDate": "Sun, 20 Jul 2025 15:42:00 GMT"
+    },
+    {
+      "title": "FBI to investigate anti-Catholic, antisemitic vandalism at Pittsburgh area church - OSV News",
+      "pubDate": "Sun, 20 Jul 2025 21:59:46 GMT"
     }
   ],
   "science": [
@@ -2923,6 +2915,10 @@
     {
       "title": "EU commissioner shocked by dangers of some goods sold by Shein and Temu | Retail industry - The Guardian",
       "pubDate": "Sun, 20 Jul 2025 18:34:00 GMT"
+    },
+    {
+      "title": "China confirms Xi meeting with EU's von der Leyen, Costa - Reuters",
+      "pubDate": "Mon, 21 Jul 2025 04:20:00 GMT"
     }
   ],
   "mark_zuckerberg": [
@@ -3173,6 +3169,10 @@
     {
       "title": "Astronomer CEO caught cuddling on concert Jumbotron with HR head steps down - Fox Business",
       "pubDate": "Sat, 19 Jul 2025 19:09:00 GMT"
+    },
+    {
+      "title": "Alaska Airlines grounds planes amid computer network outage - NBC News",
+      "pubDate": "Mon, 21 Jul 2025 05:01:00 GMT"
     }
   ],
   "jupiter": [
@@ -3335,6 +3335,12 @@
     {
       "title": "Senior Pentagon adviser, who alleged colleague called the cops on him, fired by Pete Hegseth - The Independent",
       "pubDate": "Sun, 20 Jul 2025 14:01:00 GMT"
+    }
+  ],
+  "protest": [
+    {
+      "title": "Pro-Palestinian protest prompts scuffle onstage at Royal Opera House in London - ABC News",
+      "pubDate": "Mon, 21 Jul 2025 01:17:03 GMT"
     }
   ]
 }
