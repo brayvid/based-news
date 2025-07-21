@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Trump pledges weapons for Ukraine, threatens secondary tariffs on Russia - NBC News",
-      "pubDate": "Mon, 14 Jul 2025 15:45:34 GMT"
-    },
-    {
       "title": "Trump says Putin\u2019s talk about achieving peace \u2018doesn\u2019t mean anything\u2019 - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 06:20:31 GMT"
     },
@@ -301,6 +297,10 @@
     {
       "title": "Russia's high military recruitment bonuses are straining its economy - Business Insider",
       "pubDate": "Mon, 21 Jul 2025 07:05:00 GMT"
+    },
+    {
+      "title": "Putin Orders FSB to Vet Ships Entering Russia Ports After Blasts - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 14:33:36 GMT"
     }
   ],
   "ai_safety": [
@@ -765,14 +765,6 @@
   ],
   "china": [
     {
-      "title": "China steps in as US pulls back from diplomacy, report says - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 15:04:47 GMT"
-    },
-    {
-      "title": "China Grants Synopsys Approval for $35 Billion Ansys Takeover - Bloomberg",
-      "pubDate": "Mon, 14 Jul 2025 15:28:55 GMT"
-    },
-    {
       "title": "State Department cuts China policy staff amid major overhaul - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 01:02:39 GMT"
     },
@@ -1045,6 +1037,10 @@
     {
       "title": "Trump threatens to hold up stadium deal if Washington Commanders don't switch back to Redskins - KOMU 8",
       "pubDate": "Sun, 20 Jul 2025 23:14:00 GMT"
+    },
+    {
+      "title": "Republicans are ready to revive stalled health care legislation. Dems want the GOP to pay a price. - Politico",
+      "pubDate": "Mon, 21 Jul 2025 08:45:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1451,6 +1447,10 @@
     {
       "title": "How Trump Killed Cancer Research - WIRED",
       "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "A creek with atomic waste from WWII is linked to increased cancer risk - NPR",
+      "pubDate": "Mon, 21 Jul 2025 15:15:31 GMT"
     }
   ],
   "space_exploration": [
@@ -1518,10 +1518,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Bitcoin surges past $120,000, riding momentum in D.C. and markets - NBC News",
-      "pubDate": "Mon, 14 Jul 2025 15:01:29 GMT"
-    },
     {
       "title": "Bitcoin breaks $123,000 price record as lawmakers begin 'Crypto Week' in Washington - Fox Business",
       "pubDate": "Mon, 14 Jul 2025 19:24:00 GMT"
@@ -1651,6 +1647,10 @@
     {
       "title": "Tesla\u2019s Earnings Are Almost Here. They\u2019re Going to Be Wild. - Barron's",
       "pubDate": "Mon, 21 Jul 2025 08:50:00 GMT"
+    },
+    {
+      "title": "Tesla to Fight California\u2019s Claim It Overhypes Autopilot - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 14:19:53 GMT"
     }
   ],
   "us_supreme_court": [
@@ -1933,16 +1933,8 @@
   ],
   "battery_electric_vehicle": [
     {
-      "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - Bloomberg",
-      "pubDate": "Mon, 14 Jul 2025 15:00:01 GMT"
-    },
-    {
       "title": "EV sales hit 9.1M globally in H1 2025, but the US just hit the brakes - Electrek",
       "pubDate": "Mon, 14 Jul 2025 23:01:00 GMT"
-    },
-    {
-      "title": "Ultium Cells to upgrade Tennessee plant for low-cost EV battery cell production - General Motors",
-      "pubDate": "Mon, 14 Jul 2025 15:53:15 GMT"
     },
     {
       "title": "China puts new restrictions on EV battery technology in latest move to consolidate dominance - CNN",
@@ -2065,6 +2057,10 @@
     {
       "title": "7M Bitcoin at Risk as Quantum Computing Set to Break Crypto in 3 Years | Interview - Cryptonews",
       "pubDate": "Mon, 21 Jul 2025 09:40:24 GMT"
+    },
+    {
+      "title": "Quantum computing is the most radical technology in history: Bank of America's Haim Israel - MSN",
+      "pubDate": "Mon, 21 Jul 2025 14:29:40 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2289,10 +2285,6 @@
   ],
   "gaza": [
     {
-      "title": "Dozens dead as Israel pounds Gaza with air strikes - Al Jazeera",
-      "pubDate": "Mon, 14 Jul 2025 15:25:45 GMT"
-    },
-    {
       "title": "Gaza documentary shown on BBC breached accuracy guideline, review finds - Reuters",
       "pubDate": "Mon, 14 Jul 2025 17:08:21 GMT"
     },
@@ -2303,10 +2295,6 @@
     {
       "title": "Three IDF troops killed, officer seriously wounded in northern Gaza fighting - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 01:20:45 GMT"
-    },
-    {
-      "title": "Gaza: UNICEF mourns seven children killed queuing for water - UN News",
-      "pubDate": "Mon, 14 Jul 2025 15:36:40 GMT"
     },
     {
       "title": "Updates: Hamas says \u2018war of attrition\u2019 in Gaza as 3 Israeli soldiers killed - Al Jazeera",
@@ -2559,6 +2547,10 @@
     {
       "title": "Cabinet minister: Hostages could die in Gaza offensive, but 'decisive battle' necessary - Ynetnews",
       "pubDate": "Mon, 21 Jul 2025 07:33:09 GMT"
+    },
+    {
+      "title": "Israeli forces push into parts of a central Gaza city that the war had largely spared - AP News",
+      "pubDate": "Mon, 21 Jul 2025 15:50:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2871,6 +2863,10 @@
     {
       "title": "Trump bill takes a \u2018big, beautiful\u2019 bite out of US climate progress - The Hill",
       "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Amazon's Carbon Emissions Surge 6% in 2024 Due to AI Data Center Growth, Threatening 2040 Net-Zero Target - WebProNews",
+      "pubDate": "Mon, 21 Jul 2025 12:27:38 GMT"
     }
   ],
   "volcanoes": [
@@ -2986,10 +2982,6 @@
     }
   ],
   "quantum": [
-    {
-      "title": "Researchers certify genuine quantum behavior in computers with up to 73 qubits - Phys.org",
-      "pubDate": "Mon, 14 Jul 2025 15:27:03 GMT"
-    },
     {
       "title": "Wave or Particle? Physicists Crack a 50-Year-Old Quantum Puzzle - SciTechDaily",
       "pubDate": "Thu, 17 Jul 2025 21:17:42 GMT"
