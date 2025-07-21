@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Strikes Southern Syria in New Flareup of Violence - The Wall Street Journal",
-      "pubDate": "Mon, 14 Jul 2025 17:21:00 GMT"
-    },
-    {
       "title": "Israel and Iran Usher In New Era of Psychological Warfare - The New York Times",
       "pubDate": "Tue, 15 Jul 2025 04:00:05 GMT"
     },
@@ -247,6 +243,10 @@
     {
       "title": "Trump Envisions Jailing Obama as Tulsi Gabbard Threatens Prosecutions - Time Magazine",
       "pubDate": "Mon, 21 Jul 2025 10:52:26 GMT"
+    },
+    {
+      "title": "Trump touts U.S. as \"most respected country\" as he marks six months in office - Axios",
+      "pubDate": "Mon, 21 Jul 2025 11:36:01 GMT"
     }
   ],
   "russia": [
@@ -409,28 +409,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Google, Anthropic, OpenAI and xAI join US defence to tackle national security with AI - Mint",
-      "pubDate": "Mon, 14 Jul 2025 17:28:29 GMT"
-    },
-    {
       "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 18:28:20 GMT"
     },
     {
-      "title": "Trump to Unveil $70 Billion in AI and Energy Investments - Bloomberg.com",
-      "pubDate": "Mon, 14 Jul 2025 17:03:10 GMT"
-    },
-    {
       "title": "Defense Department to begin using Grok, Musk\u2019s controversial AI model - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 02:22:10 GMT"
-    },
-    {
-      "title": "Federal funding delays threaten AI education and America\u2019s tech future - K-12 Dive",
-      "pubDate": "Mon, 14 Jul 2025 17:19:04 GMT"
-    },
-    {
-      "title": "Anthropic, Google, OpenAI and xAI granted up to $200 million for AI work from Defense Department - CNBC",
-      "pubDate": "Mon, 14 Jul 2025 17:35:49 GMT"
     },
     {
       "title": "Nvidia says it will resume sale of key AI chip to China - WRAL.com",
@@ -564,10 +548,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Trump announces novel plan to send weapons to Ukraine and gives Russia new deadline to make peace - CNN",
-      "pubDate": "Mon, 14 Jul 2025 17:06:00 GMT"
-    },
     {
       "title": "Trump Threatens New Financial Penalties For Russia Amid Stalled Peace Talks - Bloomberg.com",
       "pubDate": "Mon, 14 Jul 2025 18:43:28 GMT"
@@ -1185,6 +1165,10 @@
     {
       "title": "The Recession Reality Check: Understanding Today's Economic Warning Signs - MSN",
       "pubDate": "Mon, 21 Jul 2025 10:34:25 GMT"
+    },
+    {
+      "title": "Leading economic index points to recession. It may be another false signal, economist says. - MarketWatch",
+      "pubDate": "Mon, 21 Jul 2025 15:17:32 GMT"
     }
   ],
   "drones": [
@@ -1215,6 +1199,10 @@
     {
       "title": "Russia is making so many Iranian Shahed drones that it could soon launch 2,000 of them in a single night - Business Insider",
       "pubDate": "Mon, 21 Jul 2025 06:54:00 GMT"
+    },
+    {
+      "title": "Russia ramps up drone production using teenage workers, video shows - Euronews.com",
+      "pubDate": "Mon, 21 Jul 2025 09:05:22 GMT"
     }
   ],
   "federal_reserve": [
@@ -1257,13 +1245,13 @@
     {
       "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve - CNBC",
       "pubDate": "Mon, 21 Jul 2025 12:44:05 GMT"
+    },
+    {
+      "title": "Why the Fed is running big losses - Axios",
+      "pubDate": "Mon, 21 Jul 2025 16:00:22 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "Strong and shallow M6.2 earthquake hits south of Panama - The Watchers - Watching the world evolve and transform",
-      "pubDate": "Mon, 14 Jul 2025 17:43:22 GMT"
-    },
     {
       "title": "Scientists detect rare underwater salt deposits, possibly solving an earthquake mystery - Earth.com",
       "pubDate": "Tue, 15 Jul 2025 16:58:08 GMT"
@@ -1468,10 +1456,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "Why the health care lobby failed to stop cuts to Medicaid funding - NPR",
-      "pubDate": "Mon, 14 Jul 2025 17:31:23 GMT"
-    },
     {
       "title": "Oregon Health Authority committee floats cap on commercial health insurance payments to hospitals - OregonLive.com",
       "pubDate": "Tue, 15 Jul 2025 13:03:00 GMT"
@@ -1745,6 +1729,10 @@
     {
       "title": "More than 2,000 in New Hampshire impacted by data breach at St. Joseph Hospital's parent company - WMUR",
       "pubDate": "Mon, 21 Jul 2025 03:53:00 GMT"
+    },
+    {
+      "title": "Microsoft server hack has hit about 100 victims, researcher says - Reuters",
+      "pubDate": "Mon, 21 Jul 2025 16:26:10 GMT"
     }
   ],
   "bitcoin": [
@@ -2285,10 +2273,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza documentary shown on BBC breached accuracy guideline, review finds - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 17:08:21 GMT"
-    },
-    {
       "title": "UN: \u2018No parallel\u2019 to Gaza\u2019s \u2018horrific\u2019 destruction - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 20:41:20 GMT"
     },
@@ -2555,18 +2539,16 @@
     {
       "title": "Israel condemned by 25 nations over \"inhumane killing\" of Gaza civilians and \"drip feeding of aid\" as war expands - CBS News",
       "pubDate": "Mon, 21 Jul 2025 16:04:26 GMT"
+    },
+    {
+      "title": "Gaza's hunger crisis has killed hundreds \u2014 including dozens of children from malnutrition - NBC News",
+      "pubDate": "Mon, 21 Jul 2025 15:49:41 GMT"
     }
   ],
   "energy_storage": [
     {
       "title": "Massive 186 MWh Energy Storage Project: Fluence Partners with VERBUND for German Grid Transformation - Stock Titan",
       "pubDate": "Tue, 15 Jul 2025 07:02:00 GMT"
-    }
-  ],
-  "electric_vehicle": [
-    {
-      "title": "GM gears up to build low-cost LFP EV batteries in Tennessee after announcing new upgrades - Electrek",
-      "pubDate": "Mon, 14 Jul 2025 17:06:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2704,10 +2686,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "China\u2019s success in cleaning up air pollution may have accelerated global warming: Study - The Hill",
-      "pubDate": "Mon, 14 Jul 2025 17:26:00 GMT"
-    },
     {
       "title": "More Than 100 People Dead In Texas: The Latest In a Line of Climate Disasters and Denial - Center for International Environmental Law | CIEL",
       "pubDate": "Mon, 14 Jul 2025 18:21:30 GMT"
