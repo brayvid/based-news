@@ -89,10 +89,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says he spoke to FBI\u2019s Bongino amid Epstein controversy: \u2018He sounded terrific\u2019 - The Indian Express",
-      "pubDate": "Mon, 14 Jul 2025 06:01:44 GMT"
-    },
-    {
       "title": "Live updates: Trump pledges weapons for Ukraine, threatens secondary tariffs on Russia - NBC News",
       "pubDate": "Mon, 14 Jul 2025 15:45:34 GMT"
     },
@@ -293,6 +289,10 @@
     {
       "title": "Russia faces intense barrage of drones, shutting down Moscow airports - upi.com",
       "pubDate": "Sun, 20 Jul 2025 17:55:03 GMT"
+    },
+    {
+      "title": "Russia-Linked Refinery in India Seeks Early Payment After Curbs - Bloomberg.com",
+      "pubDate": "Mon, 21 Jul 2025 06:31:00 GMT"
     }
   ],
   "ai_safety": [
@@ -745,10 +745,6 @@
   ],
   "china": [
     {
-      "title": "China's exports jump 5.8% in June as tariffs reprieve prompts a rush of orders - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 14 Jul 2025 06:46:40 GMT"
-    },
-    {
       "title": "China Appears to Pull Off Satellite Feat That NASA Has Never Achieved - Newsweek",
       "pubDate": "Mon, 14 Jul 2025 10:56:54 GMT"
     },
@@ -959,6 +955,10 @@
     {
       "title": "Caught between a fossil fuel past and a green future, China\u2019s coal miners chart an uncertain path - The Guardian",
       "pubDate": "Mon, 21 Jul 2025 00:27:00 GMT"
+    },
+    {
+      "title": "Rules of foreign aid 'rewritten' in China's favour since Trump's return - Australian Broadcasting Corporation",
+      "pubDate": "Sun, 20 Jul 2025 20:32:13 GMT"
     }
   ],
   "us_politics": [
@@ -1233,10 +1233,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Magnitude 6.8 earthquake hits Indonesia\u2019s Tanimbar Islands region - The Independent",
-      "pubDate": "Mon, 14 Jul 2025 06:15:15 GMT"
-    },
-    {
       "title": "Powerful Earthquake Hits Spain Tourism Nerve Centre Just a Day After Heavy Storm Batters Costa del Sol and Alicante; New Rain Alerts for Barcelona, Huesca, Teruel, Zaragoza, Girona, Lleida, Tarragona, Castell\u00f3n, What US and Canada Tourists Need to K - Travel And Tour World",
       "pubDate": "Mon, 14 Jul 2025 16:22:22 GMT"
     },
@@ -1395,6 +1391,10 @@
     {
       "title": "Major Hampshire study to examine rare appendix cancer - BBC",
       "pubDate": "Mon, 21 Jul 2025 05:05:36 GMT"
+    },
+    {
+      "title": "Dad\u2019s aggressive brain cancer vanishes after taking new drug - The Independent",
+      "pubDate": "Sun, 20 Jul 2025 23:01:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1434,10 +1434,6 @@
     }
   ],
   "world_economy": [
-    {
-      "title": "Is America Breaking the Global Economy? - Foreign Affairs",
-      "pubDate": "Mon, 14 Jul 2025 05:58:35 GMT"
-    },
     {
       "title": "China's June new yuan loans beat forecast after stimulus and trade truce - Reuters",
       "pubDate": "Mon, 14 Jul 2025 11:25:15 GMT"
@@ -1577,6 +1573,10 @@
     {
       "title": "Reeves \u2018eyes \u00a35bn windfall from sale of seized cryptocurrency\u2019 - The Independent",
       "pubDate": "Sun, 20 Jul 2025 12:55:00 GMT"
+    },
+    {
+      "title": "Cryptocurrency Exchanges Lose $1.5 Billion in July 2025 Hacks - AInvest",
+      "pubDate": "Sun, 20 Jul 2025 21:33:35 GMT"
     }
   ],
   "tesla": [
@@ -1685,13 +1685,13 @@
     {
       "title": "Hong Kong Probes Louis Vuitton Data Leak After UK, Korea Attacks - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 03:34:00 GMT"
+    },
+    {
+      "title": "Microsoft SharePoint zero-day breach hits 75 servers: Here\u2019s what the company said - The Times of India",
+      "pubDate": "Mon, 21 Jul 2025 03:43:00 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin passes $120,000 milestone as US Congress readies for \u2018crypto week\u2019 - Financial Times",
-      "pubDate": "Mon, 14 Jul 2025 06:26:03 GMT"
-    },
     {
       "title": "Bitcoin climbs to record $123,000 as US to debate crypto rules - Reuters",
       "pubDate": "Mon, 14 Jul 2025 10:12:45 GMT"
@@ -2495,6 +2495,10 @@
     {
       "title": "79 Gazans killed waiting for food after Israeli troops open fire, medics say - The Washington Post",
       "pubDate": "Mon, 21 Jul 2025 01:13:52 GMT"
+    },
+    {
+      "title": "Hamas Expected to Agree to Gaza Cease-fire Deal Soon, Israeli Officials Say - Haaretz",
+      "pubDate": "Sun, 20 Jul 2025 23:02:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2627,17 +2631,7 @@
       "pubDate": "Sun, 20 Jul 2025 13:10:47 GMT"
     }
   ],
-  "kim_jong_un": [
-    {
-      "title": "Kim Jong Un Says He'll \"Unconditionally Support\" Russia's War - Business Insider",
-      "pubDate": "Mon, 14 Jul 2025 06:34:00 GMT"
-    }
-  ],
   "democracy": [
-    {
-      "title": "Former AG Mandelblit believes Israel heading toward end of democracy - The Times of Israel",
-      "pubDate": "Mon, 14 Jul 2025 06:14:48 GMT"
-    },
     {
       "title": "As democracy in Georgia collapses, Russia, China and Iran see an opening - CNN",
       "pubDate": "Wed, 16 Jul 2025 09:54:00 GMT"
@@ -2817,6 +2811,10 @@
     {
       "title": "Rising food prices driven by climate crisis threaten world\u2019s poorest, report finds - The Guardian",
       "pubDate": "Sun, 20 Jul 2025 23:02:06 GMT"
+    },
+    {
+      "title": "Top central banker defends climate work after US pushback - Financial Times",
+      "pubDate": "Mon, 21 Jul 2025 04:00:47 GMT"
     }
   ],
   "volcanoes": [
