@@ -81,6 +81,10 @@
     {
       "title": "Iran says it has replaced air defences damaged in Israel war - Reuters",
       "pubDate": "Sun, 20 Jul 2025 09:22:09 GMT"
+    },
+    {
+      "title": "Iran to hold nuclear talks with 3 European powers on Friday - Al Jazeera",
+      "pubDate": "Sun, 20 Jul 2025 22:52:30 GMT"
     }
   ],
   "donald_trump": [
@@ -527,6 +531,10 @@
     {
       "title": "OpenAI announces AI model matches International Mathematical Olympiad gold medal level - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sun, 20 Jul 2025 08:20:00 GMT"
+    },
+    {
+      "title": "New UK AI audit standard aims to crack down on \u2018wild west\u2019 operators - Financial Times",
+      "pubDate": "Mon, 21 Jul 2025 04:00:15 GMT"
     }
   ],
   "climate": [
@@ -739,26 +747,14 @@
   ],
   "us_economy": [
     {
-      "title": "US Economy in a 'Goldilocks-Like Equilibrium' as Bitcoin Blasts Past $121K - Decrypt",
-      "pubDate": "Mon, 14 Jul 2025 04:01:19 GMT"
-    },
-    {
       "title": "Despite Dire Warnings, the Economy Is Holding Up. Can That Last? - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 09:01:55 GMT"
     }
   ],
   "china": [
     {
-      "title": "China\u2019s Steel Exports Defy Protectionist Wave to Hit New High - Bloomberg.com",
-      "pubDate": "Mon, 14 Jul 2025 04:08:00 GMT"
-    },
-    {
       "title": "China's exports jump 5.8% in June as tariffs reprieve prompts a rush of orders - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 14 Jul 2025 06:46:40 GMT"
-    },
-    {
-      "title": "China Is Buying Appliances and iPhones. What Happens When the Subsidies Stop? - The New York Times",
-      "pubDate": "Mon, 14 Jul 2025 04:01:20 GMT"
     },
     {
       "title": "China Appears to Pull Off Satellite Feat That NASA Has Never Achieved - Newsweek",
@@ -1159,6 +1155,10 @@
     {
       "title": "Microsoft SharePoint servers under attack via zero-day vulnerability with no patch (CVE-2025-53770) - Help Net Security",
       "pubDate": "Sun, 20 Jul 2025 21:01:15 GMT"
+    },
+    {
+      "title": "Microsoft Server Software Comes Under Widespread Cyberattack (MSFT) - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 03:06:00 GMT"
     }
   ],
   "recession": [
@@ -1311,6 +1311,10 @@
     {
       "title": "AI Reveals 10X More Yellowstone Volcano Earthquakes Than Known Before - Science 2.0",
       "pubDate": "Sun, 20 Jul 2025 23:03:00 GMT"
+    },
+    {
+      "title": "Alaska Earthquake: 6.2 magnitude tremor strikes days after major quake, no damage reported - The Economic Times",
+      "pubDate": "Mon, 21 Jul 2025 01:33:34 GMT"
     }
   ],
   "elon_musk": [
@@ -1405,6 +1409,10 @@
     {
       "title": "Mars mission reimagined \u2014 Russia\u2019s secret engine shocks space race - ECOticias.com El Peri\u00f3dico Verde",
       "pubDate": "Sat, 19 Jul 2025 15:50:34 GMT"
+    },
+    {
+      "title": "Scientists testing possibility of growing tea in space - The Guam Daily Post",
+      "pubDate": "Mon, 21 Jul 2025 01:13:42 GMT"
     }
   ],
   "health_care": [
@@ -1677,13 +1685,13 @@
     {
       "title": "Radiology Associates of Richmond data breach impacts 1.4 million people - Security Affairs",
       "pubDate": "Sun, 20 Jul 2025 08:10:24 GMT"
+    },
+    {
+      "title": "Hong Kong Probes Louis Vuitton Data Leak After UK, Korea Attacks - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 03:34:00 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin Hits Record High of $120,000 as Bullish Momentum Builds - Bloomberg.com",
-      "pubDate": "Mon, 14 Jul 2025 04:07:00 GMT"
-    },
     {
       "title": "Bitcoin tops $120,000 for the first time - Reuters",
       "pubDate": "Mon, 14 Jul 2025 05:04:00 GMT"
@@ -1772,10 +1780,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia CEO downplays U.S. fears that China's military will use his firm's chips - CNBC",
-      "pubDate": "Mon, 14 Jul 2025 04:54:21 GMT"
-    },
     {
       "title": "Nvidia Wins OK to Resume Sales of AI Chip to China After CEO Meets Trump - WSJ - The Wall Street Journal",
       "pubDate": "Tue, 15 Jul 2025 02:47:00 GMT"
@@ -2201,10 +2205,6 @@
   ],
   "apple": [
     {
-      "title": "Apple needs a new CEO to survive the high-stakes AI race, analysts warn - The Indian Express",
-      "pubDate": "Mon, 14 Jul 2025 04:10:00 GMT"
-    },
-    {
       "title": "Apple backs Trump rare earth minerals push, invests $500M in US mine - Fox Business",
       "pubDate": "Tue, 15 Jul 2025 09:00:00 GMT"
     },
@@ -2235,19 +2235,11 @@
   ],
   "earth": [
     {
-      "title": "Mysterious Blobs Deep Inside Earth May Fuel Deadly Volcanic Eruptions - ScienceAlert",
-      "pubDate": "Mon, 14 Jul 2025 04:49:01 GMT"
-    },
-    {
       "title": "Scientists stunned after finding one of Earth's most remote places blanketed in dangerous material: 'Is it snowing plastic \u2026 ?' - Yahoo Home",
       "pubDate": "Sat, 19 Jul 2025 10:30:44 GMT"
     }
   ],
   "gaza": [
-    {
-      "title": "Inside Gaza\u2019s \u2018death traps\u2019 - Financial Times",
-      "pubDate": "Mon, 14 Jul 2025 04:00:35 GMT"
-    },
     {
       "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
@@ -2571,6 +2563,10 @@
     {
       "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
+    },
+    {
+      "title": "US and China race to set post-quantum cryptography standards - digitimes",
+      "pubDate": "Mon, 21 Jul 2025 03:48:38 GMT"
     }
   ],
   "oceanography": [
