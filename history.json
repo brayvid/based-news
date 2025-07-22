@@ -761,10 +761,6 @@
   ],
   "china": [
     {
-      "title": "State Department cuts China policy staff amid major overhaul - The Washington Post",
-      "pubDate": "Tue, 15 Jul 2025 01:02:39 GMT"
-    },
-    {
       "title": "China's second-quarter GDP growth tops forecast even as US tariff risks mount - Reuters",
       "pubDate": "Tue, 15 Jul 2025 02:48:00 GMT"
     },
@@ -963,6 +959,10 @@
     {
       "title": "US embassy in China warns exit bans risk straining bilateral relations - Financial Times",
       "pubDate": "Mon, 21 Jul 2025 06:57:32 GMT"
+    },
+    {
+      "title": "Opinion | As China and India perform a balancing act, is a breakthrough possible? - South China Morning Post",
+      "pubDate": "Tue, 22 Jul 2025 01:30:08 GMT"
     }
   ],
   "us_politics": [
@@ -1163,6 +1163,10 @@
     {
       "title": "Another massive security snafu hits Microsoft, but don't expect it to stick - theregister.com",
       "pubDate": "Mon, 21 Jul 2025 19:58:00 GMT"
+    },
+    {
+      "title": "Microsoft Rushes to Stop Hackers from Wreaking Global Havoc - Bloomberg.com",
+      "pubDate": "Mon, 21 Jul 2025 21:52:51 GMT"
     }
   ],
   "recession": [
@@ -1973,6 +1977,10 @@
     {
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
       "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
+    },
+    {
+      "title": "China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure - The Hacker News",
+      "pubDate": "Mon, 21 Jul 2025 16:27:00 GMT"
     }
   ],
   "oceans": [
@@ -2291,10 +2299,6 @@
   ],
   "gaza": [
     {
-      "title": "Three IDF troops killed, officer seriously wounded in northern Gaza fighting - The Times of Israel",
-      "pubDate": "Tue, 15 Jul 2025 01:20:45 GMT"
-    },
-    {
       "title": "IDF issues evacuation order for Gaza City, Jabalia, saying fighting \u2018is spreading westward\u2019 - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 05:35:03 GMT"
     },
@@ -2557,6 +2561,10 @@
     {
       "title": "UK, Canada and 23 other countries say the war in Gaza \u2018must end now\u2019 - AP News",
       "pubDate": "Mon, 21 Jul 2025 18:05:00 GMT"
+    },
+    {
+      "title": "IDF must pressure Hamas without harming Gaza hostages - The Jerusalem Post",
+      "pubDate": "Mon, 21 Jul 2025 16:47:01 GMT"
     }
   ],
   "energy_storage": [
@@ -2704,10 +2712,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump administration says it won't publish major climate change reports on NASA website as promised - AP News",
-      "pubDate": "Tue, 15 Jul 2025 01:26:00 GMT"
-    },
     {
       "title": "Catastrophe bond sales hit record as insurers offload climate risks - Financial Times",
       "pubDate": "Tue, 15 Jul 2025 04:00:02 GMT"
@@ -2889,6 +2893,10 @@
     {
       "title": "Is Yellowstone\u2019s supervolcano about to erupt? Truth and rumours behind the viral bear video - The Times of India",
       "pubDate": "Sun, 20 Jul 2025 17:04:00 GMT"
+    },
+    {
+      "title": "Another Volcanic Eruption In Iceland Causes Evacuations At The Blue Lagoon \u2013 What To Know - Travel Noire",
+      "pubDate": "Mon, 21 Jul 2025 14:09:53 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -3387,6 +3395,10 @@
     {
       "title": "Scientists reveal the most likely way the universe will end and the exact date it could happen - UNILAD",
       "pubDate": "Sun, 20 Jul 2025 16:14:16 GMT"
+    },
+    {
+      "title": "Violent Collision of Two Black Holes Rippled Across the Universe - The Wall Street Journal",
+      "pubDate": "Mon, 21 Jul 2025 22:15:00 GMT"
     }
   ],
   "the_pentagon": [
@@ -3405,6 +3417,12 @@
     {
       "title": "Is the US Intelligence community at a breaking point? - GZERO Media",
       "pubDate": "Mon, 21 Jul 2025 11:15:00 GMT"
+    }
+  ],
+  "income_tax_in_the_united_states": [
+    {
+      "title": "Trump Tax Law to Add $3.4 Trillion to US Deficits, CBO Says - Bloomberg.com",
+      "pubDate": "Mon, 21 Jul 2025 18:55:51 GMT"
     }
   ]
 }
