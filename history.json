@@ -285,6 +285,10 @@
     {
       "title": "Putin Orders FSB to Vet Ships Entering Russia Ports After Blasts - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 14:33:36 GMT"
+    },
+    {
+      "title": "Russia passes law punishing searches for 'extremist' content - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 16:44:47 GMT"
     }
   ],
   "ai_safety": [
@@ -507,6 +511,10 @@
     {
       "title": "America Should Assume the Worst About AI: How To Plan For a Tech-Driven Geopolitical Crisis - Foreign Affairs",
       "pubDate": "Tue, 22 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Why I\u2019m Suing OpenAI, the Creator of ChatGPT - Scientific American",
+      "pubDate": "Tue, 22 Jul 2025 13:03:17 GMT"
     }
   ],
   "climate": [
@@ -524,10 +532,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia says it needs time to \u2018analyse\u2019 Trump\u2019s Ukraine announcements - Al Jazeera",
-      "pubDate": "Tue, 15 Jul 2025 17:26:15 GMT"
-    },
     {
       "title": "Russia may hope to use Trump's 50-day window to wear down Ukraine, but quick gains seem unlikely - AP News",
       "pubDate": "Wed, 16 Jul 2025 04:14:00 GMT"
@@ -887,6 +891,10 @@
     {
       "title": "China behind vast global hack involving multiple US agencies - Politico",
       "pubDate": "Tue, 22 Jul 2025 16:05:00 GMT"
+    },
+    {
+      "title": "China kindergarten poisoning: Investigation finds cover-up as six arrested - BBC",
+      "pubDate": "Tue, 22 Jul 2025 06:07:57 GMT"
     }
   ],
   "us_politics": [
@@ -979,6 +987,10 @@
     {
       "title": "US launches probe into Brazil\u2019s trade practices - CNN",
       "pubDate": "Wed, 16 Jul 2025 05:42:00 GMT"
+    },
+    {
+      "title": "Trump orders UNESCO exit, dismantling decades of US leadership in global education - Times of India",
+      "pubDate": "Tue, 22 Jul 2025 14:40:00 GMT"
     }
   ],
   "trade_war": [
@@ -1087,6 +1099,10 @@
     {
       "title": "China-backed hackers are among those targeting Microsoft SharePoint customers, Google says - Axios",
       "pubDate": "Mon, 21 Jul 2025 17:59:17 GMT"
+    },
+    {
+      "title": "Democrat senators warn Medicaid cuts could worsen rural hospital cybersecurity - Healthcare Dive",
+      "pubDate": "Tue, 22 Jul 2025 15:37:52 GMT"
     }
   ],
   "recession": [
@@ -1567,10 +1583,6 @@
   ],
   "asteroids": [
     {
-      "title": "Giant space 'boulders' unleashed by NASA's DART mission aren't behaving as expected, revealing hidden risks of deflecting asteroids - Live Science",
-      "pubDate": "Tue, 15 Jul 2025 17:26:59 GMT"
-    },
-    {
       "title": "NASA tracking plane-sized asteroid approaching Earth today - MSN",
       "pubDate": "Thu, 17 Jul 2025 15:35:01 GMT"
     },
@@ -1736,10 +1748,6 @@
     }
   ],
   "earth_science": [
-    {
-      "title": "Scientists Discover the Explosive Power of Earth's Mysterious BLOBS \u2013 Is an Eruption Coming? - The Daily Galaxy",
-      "pubDate": "Tue, 15 Jul 2025 18:00:00 GMT"
-    },
     {
       "title": "Why rivers split: A century-old mystery has finally been solved - Earth.com",
       "pubDate": "Fri, 18 Jul 2025 10:07:41 GMT"
@@ -2553,19 +2561,11 @@
   ],
   "cybersecurity_and_infrastructure_security_agency": [
     {
-      "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
-      "pubDate": "Tue, 15 Jul 2025 17:05:20 GMT"
-    },
-    {
       "title": "Microsoft SharePoint under 'active exploitation,' Homeland Security's CISA says - Yahoo Home",
       "pubDate": "Mon, 21 Jul 2025 09:33:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "NASA Pulls Back From Promise to Host Major Climate Change Reports, Citing Legal Loophole - Inside Climate News",
-      "pubDate": "Tue, 15 Jul 2025 17:56:18 GMT"
-    },
     {
       "title": "Climate change is fueling brutal rainstorms. Here's how to stay safe - NPR",
       "pubDate": "Tue, 15 Jul 2025 22:38:31 GMT"
@@ -2709,6 +2709,10 @@
     {
       "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
       "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
+    },
+    {
+      "title": "World court set to hear Vanuatu\u2019s case on climate crisis obligations - Al Jazeera",
+      "pubDate": "Tue, 22 Jul 2025 11:48:45 GMT"
     }
   ],
   "volcanoes": [
@@ -2846,10 +2850,6 @@
     }
   ],
   "hydroelectric_power": [
-    {
-      "title": "Google inks $3 billion US hydropower deal in largest clean energy agreement of its kind - Reuters",
-      "pubDate": "Tue, 15 Jul 2025 17:22:17 GMT"
-    },
     {
       "title": "China Launches World\u2019s Largest Hydroelectric Project on Yarlung Tsangpo River - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Mon, 21 Jul 2025 02:04:45 GMT"
@@ -3287,6 +3287,12 @@
     {
       "title": "New DHS Memo Reveals Chinese State-Sponsored Hackers Compromised Army National Guard for Much of 2024 - CPO Magazine",
       "pubDate": "Mon, 21 Jul 2025 22:00:00 GMT"
+    }
+  ],
+  "geopolitics": [
+    {
+      "title": "Israel Warns Iran in New IDF Assessment - Newsweek",
+      "pubDate": "Tue, 22 Jul 2025 08:44:06 GMT"
     }
   ]
 }
