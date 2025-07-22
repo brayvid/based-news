@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel and Iran Usher In New Era of Psychological Warfare - The New York Times",
-      "pubDate": "Tue, 15 Jul 2025 04:00:05 GMT"
-    },
-    {
       "title": "LIVE: Israel bombs Gaza refugee camp; settlers attack West Bank village - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 05:03:45 GMT"
     },
@@ -35,6 +31,10 @@
     {
       "title": "US envoy pans Israel\u2019s Syria intervention, doubles down on support for Damascus - The Times of Israel",
       "pubDate": "Mon, 21 Jul 2025 13:57:23 GMT"
+    },
+    {
+      "title": "Trump \u2018caught off guard\u2019 by Israel\u2019s actions in Gaza and Syria last week as skepticism of Netanyahu grows inside White House - CNN",
+      "pubDate": "Mon, 21 Jul 2025 21:00:00 GMT"
     }
   ],
   "iran": [
@@ -559,6 +559,10 @@
     {
       "title": "Pentagon awards up to $200 million to AI companies whose models are rife with ideological bias - Reason Magazine",
       "pubDate": "Mon, 21 Jul 2025 20:21:02 GMT"
+    },
+    {
+      "title": "Artificial intelligence disrupting job search process for both candidates, companies - kjzz.com",
+      "pubDate": "Mon, 21 Jul 2025 22:33:43 GMT"
     }
   ],
   "climate": [
@@ -757,16 +761,16 @@
     {
       "title": "China's US Treasury Holdings Fell to Lowest Level Since 2009 in May - Bitcoin.com News",
       "pubDate": "Mon, 21 Jul 2025 08:23:25 GMT"
+    },
+    {
+      "title": "Falling Container Imports Hint at Tariff-Driven Slowdown for U.S. Economy - gCaptain",
+      "pubDate": "Mon, 21 Jul 2025 21:35:26 GMT"
     }
   ],
   "china": [
     {
       "title": "China posts better-than-expected Q2 growth in face of Trump tariffs - CNN",
       "pubDate": "Tue, 15 Jul 2025 05:06:00 GMT"
-    },
-    {
-      "title": "China GDP: Economic growth beats expectations as Trump tariffs loom - BBC",
-      "pubDate": "Tue, 15 Jul 2025 04:30:50 GMT"
     },
     {
       "title": "Nvidia Reveals Next Trump U-Turn in Trade Talks With China - Bloomberg",
@@ -1077,6 +1081,10 @@
     {
       "title": "Trump's tariff tantrum could actually be a huge win for Canada's economy - Business Insider",
       "pubDate": "Mon, 21 Jul 2025 08:02:00 GMT"
+    },
+    {
+      "title": "Oil falls as trade war concerns increase worries about fuel demand - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 03:46:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1795,6 +1803,10 @@
     {
       "title": "Fusion Future Ignited: New Ultra-Precise Laser Technology Could Finally Make Net-Energy Devices a Scalable Global Reality - Sustainability Times",
       "pubDate": "Mon, 21 Jul 2025 21:07:33 GMT"
+    },
+    {
+      "title": "Fusion energy start-up claims to have cracked alchemy - Financial Times",
+      "pubDate": "Tue, 22 Jul 2025 04:00:13 GMT"
     }
   ],
   "nvidia": [
@@ -2713,14 +2725,6 @@
   ],
   "climate_change": [
     {
-      "title": "Catastrophe bond sales hit record as insurers offload climate risks - Financial Times",
-      "pubDate": "Tue, 15 Jul 2025 04:00:02 GMT"
-    },
-    {
-      "title": "Federal court dismisses landmark Torres Strait climate case but warns of \u2018bleak future\u2019 without urgent action - The Guardian",
-      "pubDate": "Tue, 15 Jul 2025 05:02:00 GMT"
-    },
-    {
       "title": "How climate change fuels wildfires in Europe - Reuters",
       "pubDate": "Tue, 15 Jul 2025 09:04:34 GMT"
     },
@@ -3237,6 +3241,10 @@
     {
       "title": "Scientists Are Studying Earth\u2019s Deep Oceans to Find Life on Jupiter\u2019s Moon - The Daily Galaxy",
       "pubDate": "Fri, 18 Jul 2025 13:20:00 GMT"
+    },
+    {
+      "title": "'Chaos' reigns beneath the ice of Jupiter moon Europa, James Webb Space Telescope reveals - Space",
+      "pubDate": "Mon, 21 Jul 2025 22:00:00 GMT"
     }
   ],
   "pollution": [
@@ -3437,6 +3445,12 @@
     {
       "title": "Could Earth One Day Lose Its Atmosphere? - Vocal",
       "pubDate": "Mon, 21 Jul 2025 23:14:28 GMT"
+    }
+  ],
+  "security_hacker": [
+    {
+      "title": "New DHS Memo Reveals Chinese State-Sponsored Hackers Compromised Army National Guard for Much of 2024 - CPO Magazine",
+      "pubDate": "Mon, 21 Jul 2025 22:00:00 GMT"
     }
   ]
 }
