@@ -243,6 +243,10 @@
     {
       "title": "Trump's 'tomato tax' tariff blasted by companies in Arizona, Texas - NBC News",
       "pubDate": "Tue, 22 Jul 2025 16:06:01 GMT"
+    },
+    {
+      "title": "Trump deflects from questions about Epstein probe with accusations about Obama - NPR",
+      "pubDate": "Tue, 22 Jul 2025 18:05:54 GMT"
     }
   ],
   "russia": [
@@ -695,6 +699,10 @@
     {
       "title": "Ukrainian lawmakers vote to scuttle independence of anti-corruption agencies - politico.eu",
       "pubDate": "Tue, 22 Jul 2025 13:30:00 GMT"
+    },
+    {
+      "title": "Ukraine moves against independent anti-corruption bodies - Financial Times",
+      "pubDate": "Tue, 22 Jul 2025 11:22:00 GMT"
     }
   ],
   "us_economy": [
@@ -981,10 +989,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump's UN envoy pick Waltz says US needs strong voice to counter China - Reuters",
-      "pubDate": "Tue, 15 Jul 2025 18:57:00 GMT"
-    },
-    {
       "title": "US launches probe into Brazil\u2019s trade practices - CNN",
       "pubDate": "Wed, 16 Jul 2025 05:42:00 GMT"
     },
@@ -994,10 +998,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump announces trade agreement with Indonesia, including 19% tariff - CNN",
-      "pubDate": "Tue, 15 Jul 2025 18:51:00 GMT"
-    },
     {
       "title": "Trump says Indonesia to pay 19% tariffs, buy 50 Boeing jets under trade deal - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 00:12:00 GMT"
@@ -1155,6 +1155,10 @@
     {
       "title": "Russia using children to design and test its military drones, investigation finds - The Guardian",
       "pubDate": "Tue, 22 Jul 2025 14:07:00 GMT"
+    },
+    {
+      "title": "Russia Drones Equipped With Chinese Technology Raise Eyebrows - Newsweek",
+      "pubDate": "Tue, 22 Jul 2025 16:04:56 GMT"
     }
   ],
   "federal_reserve": [
@@ -1769,13 +1773,13 @@
     {
       "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
       "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
+    },
+    {
+      "title": "OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round - WIRED",
+      "pubDate": "Tue, 22 Jul 2025 18:23:30 GMT"
     }
   ],
   "environment": [
-    {
-      "title": "House Republicans pitch 23 percent cut to EPA - The Hill",
-      "pubDate": "Tue, 15 Jul 2025 18:10:00 GMT"
-    },
     {
       "title": "Brazil passes \u2018devastation bill\u2019 that drastically weakens environmental law - The Guardian",
       "pubDate": "Thu, 17 Jul 2025 18:41:00 GMT"
@@ -2061,10 +2065,6 @@
   ],
   "alternative_energy": [
     {
-      "title": "California reaches new record clean energy milestone - The Mercury News",
-      "pubDate": "Tue, 15 Jul 2025 18:40:32 GMT"
-    },
-    {
       "title": "New York halts offshore wind transmission plan amid federal uncertainty - Reuters",
       "pubDate": "Thu, 17 Jul 2025 22:12:17 GMT"
     },
@@ -2194,10 +2194,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "93 Palestinians killed in Israeli strikes in Gaza, Hamas-run health ministry says - The Times of Israel",
-      "pubDate": "Tue, 15 Jul 2025 18:13:13 GMT"
-    },
     {
       "title": "UN rapporteur demands global action to stop Israel\u2019s \u2018genocide\u2019 in Gaza - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 21:45:00 GMT"
@@ -2713,6 +2709,10 @@
     {
       "title": "World court set to hear Vanuatu\u2019s case on climate crisis obligations - Al Jazeera",
       "pubDate": "Tue, 22 Jul 2025 11:48:45 GMT"
+    },
+    {
+      "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
+      "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
     }
   ],
   "volcanoes": [
@@ -3293,6 +3293,12 @@
     {
       "title": "Israel Warns Iran in New IDF Assessment - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 08:44:06 GMT"
+    }
+  ],
+  "electric_vehicle": [
+    {
+      "title": "GM says EVs are its 'North Star' as legacy automaker chases Tesla - CNBC",
+      "pubDate": "Tue, 22 Jul 2025 18:22:11 GMT"
     }
   ]
 }
