@@ -255,10 +255,6 @@
   ],
   "russia": [
     {
-      "title": "Russia\u2019s economy minister warns that the country is on the brink of recession - AOL.com",
-      "pubDate": "Tue, 15 Jul 2025 08:23:31 GMT"
-    },
-    {
       "title": "Russia 'didn\u2019t care' about Trump's weapons for Ukraine, tariff threats, official says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 15 Jul 2025 13:20:58 GMT"
     },
@@ -425,10 +421,6 @@
       "pubDate": "Tue, 15 Jul 2025 09:14:40 GMT"
     },
     {
-      "title": "Mark Zuckerberg Reveals $100bn Meta AI Supercluster Push - Data Centre Magazine",
-      "pubDate": "Tue, 15 Jul 2025 08:43:51 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s Grok chatbot melts down \u2013 and then wins a military contract - The Guardian",
       "pubDate": "Tue, 15 Jul 2025 14:30:00 GMT"
     },
@@ -535,6 +527,10 @@
     {
       "title": "Artificial intelligence disrupting job search process for both candidates, companies - kjzz.com",
       "pubDate": "Mon, 21 Jul 2025 22:33:43 GMT"
+    },
+    {
+      "title": "China\u2019s drive toward self-reliance in artificial intelligence: from chips to large language models - Mercator Institute for China Studies (MERICS)",
+      "pubDate": "Tue, 22 Jul 2025 08:00:01 GMT"
     }
   ],
   "climate": [
@@ -548,10 +544,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Donald Trump asked Volodymyr Zelenskyy if Ukraine could hit Moscow, say people briefed on call - Financial Times",
-      "pubDate": "Tue, 15 Jul 2025 08:58:11 GMT"
-    },
     {
       "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
       "pubDate": "Tue, 15 Jul 2025 14:15:01 GMT"
@@ -1453,6 +1445,10 @@
     {
       "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
       "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
+    },
+    {
+      "title": "Teflon capitalism: the mounting threats to the global economy - The Economist",
+      "pubDate": "Tue, 22 Jul 2025 08:30:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -1603,6 +1599,10 @@
     {
       "title": "Tesla to Fight California\u2019s Claim It Overhypes Autopilot - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 14:19:53 GMT"
+    },
+    {
+      "title": "California DMV claims Tesla misled drivers about self-driving capabilities; looks to suspend business for 30 days - ABC7 San Francisco",
+      "pubDate": "Tue, 22 Jul 2025 02:37:30 GMT"
     }
   ],
   "asteroids": [
@@ -2141,6 +2141,10 @@
     {
       "title": "Germany captures 14 GW from air \u2014 The biggest wind project ever completed - ECOticias.com El Peri\u00f3dico Verde",
       "pubDate": "Mon, 21 Jul 2025 11:50:02 GMT"
+    },
+    {
+      "title": "Analysis: China\u2019s clean-energy exports in 2024 alone will cut overseas CO2 by 1% - Carbon Brief",
+      "pubDate": "Mon, 21 Jul 2025 23:58:32 GMT"
     }
   ],
   "geopolitics": [
@@ -2183,6 +2187,10 @@
     {
       "title": "US rejects global pandemic rules, citing sovereignty concerns - NZ Herald",
       "pubDate": "Sat, 19 Jul 2025 05:44:47 GMT"
+    },
+    {
+      "title": "New PMNCH strategy launched as world faces perilous moment for women\u2019s, children\u2019s and adolescents\u2019 health and rights - Partnership for Maternal, Newborn and Child Health",
+      "pubDate": "Tue, 22 Jul 2025 05:52:10 GMT"
     }
   ],
   "computers": [
@@ -2198,10 +2206,6 @@
     }
   ],
   "apple": [
-    {
-      "title": "Apple backs Trump rare earth minerals push, invests $500M in US mine - Fox Business",
-      "pubDate": "Tue, 15 Jul 2025 09:00:00 GMT"
-    },
     {
       "title": "Why Apple CEO Tim Cook\u2019s AI struggles serve as a warning for C-suite leaders - Fortune",
       "pubDate": "Thu, 17 Jul 2025 11:46:00 GMT"
@@ -2220,10 +2224,6 @@
     }
   ],
   "chemistry": [
-    {
-      "title": "Scientists Create the Impossible: New Compound Challenges Fundamental Principle of Chemistry - SciTechDaily",
-      "pubDate": "Tue, 15 Jul 2025 08:17:42 GMT"
-    },
     {
       "title": "A tiny chemistry hack just made mRNA vaccines safer, stronger, and smarter - ScienceDaily",
       "pubDate": "Mon, 21 Jul 2025 12:13:23 GMT"
@@ -2254,10 +2254,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "European Diplomats Discuss Deal With Israel to Increase Gaza Aid - U.S. News & World Report",
-      "pubDate": "Tue, 15 Jul 2025 08:13:00 GMT"
-    },
     {
       "title": "Israel's new 'humanitarian city' in Gaza: leaks and rows, but no real plan - Reuters",
       "pubDate": "Tue, 15 Jul 2025 10:19:44 GMT"
@@ -3079,6 +3075,10 @@
     {
       "title": "Russia seen as boosting combat-drone output, switching attack angles - Defense News",
       "pubDate": "Mon, 21 Jul 2025 12:37:00 GMT"
+    },
+    {
+      "title": "US Military Plans Reaper Drone Operations Near China, North Korea - Newsweek",
+      "pubDate": "Tue, 22 Jul 2025 08:31:37 GMT"
     }
   ],
   "cloud_computing": [
@@ -3341,6 +3341,10 @@
     {
       "title": "Violent Collision of Two Black Holes Rippled Across the Universe - The Wall Street Journal",
       "pubDate": "Mon, 21 Jul 2025 22:15:00 GMT"
+    },
+    {
+      "title": "Mysterious Red Dots in Early Universe Could Be Seeds of Supermassive Stars - ScienceAlert",
+      "pubDate": "Tue, 22 Jul 2025 01:45:06 GMT"
     }
   ],
   "the_pentagon": [
