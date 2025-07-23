@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel strikes Syria's capital Damascus, pledging to defend Druze minorities - NPR",
-      "pubDate": "Wed, 16 Jul 2025 13:51:37 GMT"
-    },
-    {
       "title": "Powerful Israeli strikes rock Damascus as Syrian forces clash with Druze militias - CNN",
       "pubDate": "Wed, 16 Jul 2025 19:08:00 GMT"
     },
@@ -385,6 +381,10 @@
     {
       "title": "Gold Purchases By Central Banks May Be Twice As High As Reported \u2014 Analyst Says They're Buying Outside Traditional Markets - Benzinga",
       "pubDate": "Mon, 21 Jul 2025 08:49:03 GMT"
+    },
+    {
+      "title": "Markets rally after Trump announces tariff deal with Japan - The Guardian",
+      "pubDate": "Wed, 23 Jul 2025 11:04:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -981,6 +981,10 @@
     {
       "title": "North Korea Submarine Delays Frustrate Kim Jong Un's Naval Buildup - Newsweek",
       "pubDate": "Wed, 23 Jul 2025 08:21:14 GMT"
+    },
+    {
+      "title": "Mysterious annex at North Korean missile plant has analysts puzzled - Defense News",
+      "pubDate": "Wed, 23 Jul 2025 09:43:01 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1275,6 +1279,10 @@
     {
       "title": "In world first, CCTV captures supershear velocity earthquake - Yahoo Home",
       "pubDate": "Tue, 22 Jul 2025 19:04:20 GMT"
+    },
+    {
+      "title": "Our phones can alert us to earthquakes \u2014 but there\u2019s a catch - Financial Times",
+      "pubDate": "Wed, 23 Jul 2025 04:00:35 GMT"
     }
   ],
   "elon_musk": [
@@ -1300,10 +1308,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Scientists develop tool that improves tissue cancer analysis - Medical Xpress",
-      "pubDate": "Wed, 16 Jul 2025 14:00:01 GMT"
-    },
     {
       "title": "Why did targeted therapy stop working? Proteomics can guide which cancer treatments are likely to be effective - WTOP",
       "pubDate": "Wed, 16 Jul 2025 14:17:38 GMT"
@@ -1955,6 +1959,10 @@
     {
       "title": "Scientists Strip Cells of Mysterious Organelles To Reveal Hidden Secrets - SciTechDaily",
       "pubDate": "Mon, 21 Jul 2025 15:23:36 GMT"
+    },
+    {
+      "title": "The Sea Slug Defying Biological Orthodoxy - The Atlantic",
+      "pubDate": "Wed, 23 Jul 2025 13:00:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -2031,6 +2039,10 @@
     {
       "title": "Microsoft poaches top Google DeepMind staff in AI talent war - Financial Times",
       "pubDate": "Tue, 22 Jul 2025 16:20:07 GMT"
+    },
+    {
+      "title": "Congress Isn't Stepping Up to Regulate AI. Where Does That Leave Us Now? - AOL.com",
+      "pubDate": "Wed, 23 Jul 2025 11:19:13 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2129,6 +2141,10 @@
     {
       "title": "New York's latest energy plan predicts mandates won't be met - Times Union",
       "pubDate": "Tue, 22 Jul 2025 22:05:37 GMT"
+    },
+    {
+      "title": "Trump is trying to prop up coal, oil, and gas\u2014but the economics of fossil fuel are failing - Fast Company",
+      "pubDate": "Wed, 23 Jul 2025 09:06:42 GMT"
     }
   ],
   "finance": [
@@ -2717,10 +2733,6 @@
   ],
   "volcanoes": [
     {
-      "title": "Lava erupts from gigantic fissure in Iceland following earthquake swarm \u2014 and the photos are epic - Live Science",
-      "pubDate": "Wed, 16 Jul 2025 13:33:10 GMT"
-    },
-    {
       "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - The Daily Galaxy",
       "pubDate": "Wed, 16 Jul 2025 16:00:00 GMT"
     },
@@ -2903,12 +2915,6 @@
     {
       "title": "Scientists glimpse planetary birth - Courthouse News Service",
       "pubDate": "Wed, 16 Jul 2025 15:00:45 GMT"
-    }
-  ],
-  "internet_security": [
-    {
-      "title": "US foils Volt Typhoon persistence in critical infrastructure networks - SC Media",
-      "pubDate": "Wed, 16 Jul 2025 13:09:29 GMT"
     }
   ],
   "military_and_defense": [
@@ -3311,6 +3317,12 @@
     {
       "title": "Why the Current Research Funding Model Needs an Overhaul - Technology Networks",
       "pubDate": "Wed, 23 Jul 2025 11:04:04 GMT"
+    }
+  ],
+  "ancient_history": [
+    {
+      "title": "China's Bronze Age - History, Empires, and Ancient Trade - MSN",
+      "pubDate": "Wed, 23 Jul 2025 10:54:09 GMT"
     }
   ]
 }
