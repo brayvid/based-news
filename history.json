@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Powerful Israeli strikes rock Damascus as Syrian forces clash with Druze militias - CNN",
-      "pubDate": "Wed, 16 Jul 2025 19:08:00 GMT"
-    },
-    {
       "title": "Israel and Syria agree ceasefire as Israel allows Syrian troops limited access to Sweida - Reuters",
       "pubDate": "Fri, 18 Jul 2025 23:26:29 GMT"
     },
@@ -19,6 +15,10 @@
     {
       "title": "Trump \u2018caught off guard\u2019 by Israel\u2019s actions in Gaza and Syria last week as skepticism of Netanyahu grows inside White House - CNN",
       "pubDate": "Mon, 21 Jul 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Knesset approves Israeli sovereignty in West Bank - The Jerusalem Post",
+      "pubDate": "Wed, 23 Jul 2025 13:27:12 GMT"
     }
   ],
   "iran": [
@@ -231,10 +231,6 @@
   ],
   "russia": [
     {
-      "title": "Why Trump is supporting Ukraine and cooling on Putin and Russia - MSNBC News",
-      "pubDate": "Wed, 16 Jul 2025 19:43:09 GMT"
-    },
-    {
       "title": "EU agrees 18th sanctions package against Russia - Reuters",
       "pubDate": "Fri, 18 Jul 2025 06:34:00 GMT"
     },
@@ -280,10 +276,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
-      "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
-    },
     {
       "title": "AI Researchers Develop Safety Tool for Transparent AI Systems - AInvest",
       "pubDate": "Wed, 16 Jul 2025 21:22:40 GMT"
@@ -519,6 +511,10 @@
     {
       "title": "Live updates: Trump to sign executive orders easing AI regulations - NBC4 Washington",
       "pubDate": "Wed, 23 Jul 2025 16:17:40 GMT"
+    },
+    {
+      "title": "Tech companies want to move fast. Trump\u2019s \u2018AI Action Plan\u2019 aims to remove \u2018red tape\u2019 - Los Angeles Times",
+      "pubDate": "Wed, 23 Jul 2025 19:45:05 GMT"
     }
   ],
   "climate": [
@@ -1005,6 +1001,10 @@
     {
       "title": "Trump says US will impose 19% tariff on imports from Philippines in deal struck with leader Marcos - AP News",
       "pubDate": "Wed, 23 Jul 2025 04:56:00 GMT"
+    },
+    {
+      "title": "EU prepares heavy artillery for US in tariff war - Euronews.com",
+      "pubDate": "Wed, 23 Jul 2025 16:58:12 GMT"
     }
   ],
   "cybersecurity": [
@@ -1163,10 +1163,6 @@
       "pubDate": "Wed, 16 Jul 2025 20:14:01 GMT"
     },
     {
-      "title": "Trump says he\u2019s \u2018highly unlikely\u2019 to fire Fed\u2019s Powell after floating that idea in private - AP News",
-      "pubDate": "Wed, 16 Jul 2025 19:06:00 GMT"
-    },
-    {
       "title": "Trump says he's not planning to fire Fed's Powell - Reuters",
       "pubDate": "Wed, 16 Jul 2025 23:32:05 GMT"
     },
@@ -1271,6 +1267,10 @@
     {
       "title": "Our phones can alert us to earthquakes \u2014 but there\u2019s a catch - Financial Times",
       "pubDate": "Wed, 23 Jul 2025 04:00:35 GMT"
+    },
+    {
+      "title": "Google's Ambitious Push to Use 2.5 Billion Android Phones to Detect Earthquakes - extremetech.com",
+      "pubDate": "Wed, 23 Jul 2025 11:01:39 GMT"
     }
   ],
   "elon_musk": [
@@ -1782,10 +1782,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI says it will use Google's cloud for ChatGPT - CNBC",
-      "pubDate": "Wed, 16 Jul 2025 19:38:05 GMT"
-    },
     {
       "title": "OpenAI Commission Recommends Emergency Grants for Civic Organizations - The Information",
       "pubDate": "Thu, 17 Jul 2025 22:42:41 GMT"
@@ -2729,6 +2725,10 @@
     {
       "title": "Trump admin will soon propose to kill EPA\u2019s ability to make rules about climate pollution, sources say - CNN",
       "pubDate": "Wed, 23 Jul 2025 15:44:00 GMT"
+    },
+    {
+      "title": "How Entire Countries Have Become the Target of Climate Change Lawsuits - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 15:54:39 GMT"
     }
   ],
   "volcanoes": [
@@ -2774,10 +2774,6 @@
     }
   ],
   "us_senate": [
-    {
-      "title": "Senate rejects Democrats\u2019 initial attempts to trim Trump\u2019s cutbacks - Politico",
-      "pubDate": "Wed, 16 Jul 2025 19:29:02 GMT"
-    },
     {
       "title": "US Senate backs $9bn in cuts to public broadcasting and foreign aid - Financial Times",
       "pubDate": "Thu, 17 Jul 2025 08:18:32 GMT"
