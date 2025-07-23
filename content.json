@@ -1,42 +1,62 @@
 {
+  "Gaza": {
+    "articles": [
+      {
+        "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2pDUkMxTUNKZ1hBR1ZUcFpkOGdQVkNBOG9DVlFjdTMwUTdkbWpNYjZaZTUxTmxnaDVoVFQ0bGZfMUxQYm16R1pMbWJVcHBIVGZzTlVtLWZ1cnhRdVozd09wanlPUzNaMmYwLWpnbXhub291T1dGWDhOWGc1TnNUT3dtNHF1NVZWVXZycXpsaVVoUm51YU1ITDI1d9IBoAFBVV95cUxQUEIxTUFyaWNkSWZBNEtPRU9oWFpuUVFuSXoyVFU4eS1Telp2N3Y0bnBGZlFoSnE4bVRPRW44TXprYzBPWDJpSkVLdkM5RUUtV2t5d2JMRjJSTW96amh5Q3A4U2RKQ2tMbmgzcFRoZ0Y3SGQ2bHR6T3UyLVF1WHlaRFRwZTNGM0RzZmVOMzVab0k3Zy1WTmNVM1B3bGFLTzRP?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "Arizona Secretary of State calls for cybersecurity funding after Iranian hack of candidate portal - ABC15 Arizona",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHo2SDR3ckVnN3Zvb3dYbU15QkFFSGk3WHpzWDBlWFVHdWgxbEZYZEpfbmVFZk4xcENXWnVMZWc5N1Y5d0JQRjVZXzJ5REw4SEhiQTJnaXh3a2dCQlpETUROT05zd2FQaE95Z3JaTUVGM1VMSVF3c2NwZ3h4aHVpREMwYVBId2hUVjlaMjhlYkV2RWwtVTYxNlNneG5ITEhNOG9NOXhsOHZjYWQ2dDhkZHlhX2hNUU9UU2Y5cmRKMXE3QjA2dmt4bWtB?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 15:52:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
+  },
   "OpenAI": {
     "articles": [
       {
-        "title": "OpenAI faces an 'increasingly fragile moat,' JPMorgan says, as Sam Altman braces for 'OS war' against Google, Apple and other Silicon Valley titans - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWRpalpuYWY2U0dkdmtKbDl5U2xwODRTampGWEp3Nm1WV05pYlJzT0ZiVGUyT3dnUWxaV01jd1k0QW1pclllYVo3c1EyNHBsQ2xJSXJ1cmNCbGdueExwNkNxRWN6OE9pM1BVQ3g3aDVyaTBOTE9SY3hrcjFyal93Q1JuUGsxdHJyZFBOblNhSnJMSl9seF9QLVNKeGk?oc=5",
-        "pubDate": "Tue, 22 Jul 2025 16:00:00 GMT"
+        "title": "OpenAI agreed to pay Oracle $30B a year for data center services - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkRtYkdSbTlvYnFlZVNkeU0zVkxHb1l2bnpzdUFzYS1Pd3A3bWd3blpNV19tdnVqd052ZFpzN19LQTNFYnNoTDFETWJFSUR1aWotNTBqMWQtRW1yaGZOTkdUQXBBTWxPay1YLWp5WXdKWkZZRkdCUFAwUV9nSkRXLXozZjFLNW5MVFl4Zkprc0pKbFk0VDFMeTJERnhsVTg?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 20:36:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T01:59:33.538521+00:00"
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
   },
-  "Physics": {
+  "Artificial General Intelligence": {
     "articles": [
       {
-        "title": "Scientists investigate how sperm manage to defy a major law of physics - Earth.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak5qbWs5anEzZHIyU3g1MVUxUkduTWdGRHV5Unp0MmJRTlpub1RobTB3SW13SkpkMWRUQkhGT0Y4a0t6UWEyWERTSXZ3bWw0YnBKQmVOWGVzLUc2NnEzeE1ZaVhxZzV0eV9yRnI2dlpMeHVzRk1YejdvSnluSjhsckRxeTNINS1TTnFLNTQ5VnFOV2RDNlpqYUV5VC1sdzRmQkRsWA?oc=5",
-        "pubDate": "Tue, 22 Jul 2025 22:19:23 GMT"
+        "title": "Microsoft poaches top Google DeepMind staff in AI talent war - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FeVZUXzZQemQyRGQ3Wk5RT3J4Q1ctUVdnMnVIbTk1T3pPYXk5anlYVzRVbVVEN1JyNF9RN2hmQU1Yblo4QzE4d3JYRDQyZkFZNnV5Z2ttLWhXUmx6SlBIYklXd1dYOGp2T1RJODlPdHU?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 16:20:07 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T01:59:33.538521+00:00"
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
   },
-  "Military and Defense": {
+  "Alternative Energy": {
     "articles": [
       {
-        "title": "New Pentagon rules limits medical waivers to join military - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMU9FV1YteDB5MllQc1JnNG1oek9scTU3RndRZ0NubnFSQlVZOE5kdE1NOUw3bDJUQ1dfQVJ5OU10V1RGaEtpMlZjSENVNy1YZ3B2TFBwcVZIZkRJeEVUY2ZuQjRRZU9PX1RHWXBMdVZmUEVtZnZpN2NwN2R0emltVG1yMDNHNVFm0gGOAUFVX3lxTE9GTmVZdHBsVlhfejJNYWY5aUFGSGI0YWdEa3dXNEFfXzQ1d1dWTEpSbm1EX3NnOGxFWWRQcHBEUkFZY1dKMjlXVlRNQ205MDV3ZUFkQVJtd0xuNHNaVlAyUS0xaDc2SDRqUzE3dmdnV2dmQ2s4aU1qcW5CcDdTZlJLTXJlRG5IQWlFS2pxSUE?oc=5",
-        "pubDate": "Tue, 22 Jul 2025 21:50:00 GMT"
+        "title": "Renewable energy hits global tipping point for even lower costs, UN says - Yahoo Home",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTA3RGgyaFlvSERIMWx4RG5rSnp0a3VjR0xnaTdxWlNYZExmbmxXaDh1U3JKLWxwZGVLNHBoZlFQRlJfRFlfTGxZUzJ3U3ozbXM4TGVXSndldkxlY1hYZ3NtdU1kcVVQWGxfTHdyYnpDcHBnd3Zoc3p1ZGJuLS1wNlY2VE9mcU5qTU1HZTF3M2Y?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 19:24:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T01:59:33.538521+00:00"
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
   },
-  "Tesla": {
+  "United Kingdom": {
     "articles": [
       {
-        "title": "Tesla fights two court battles over claims it misled consumers about automated driving - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVU4bVJWODUtbXVRSWd0cDBIUHdkaXBOZ1VFNDFJakIySks2N1FpYjlMZUl4S292bG1Rc0RXV0U2d3hpcjJtWDQ2YThQVEZPS0xmX0NNYUJJRGY5RVBLTnZ5Q0dVVFBCOXNSYUdNd3ZzQlRpZ1huS29wWEQzcVBaRjNkeDk3Z3RfSVFGRg?oc=5",
-        "pubDate": "Tue, 22 Jul 2025 17:35:00 GMT"
+        "title": "US Nuclear Weapons 'Deployed' to UK for First Time in 17 Years - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvcnRiaDc0SnV6dm4takFGWkY2R1A2OUJTTjdVT1ViSnRoQVA5RkJJalp6ZEhuLVpNWHFucFB0dkMyUlZLS3NqZTRrSGZvUGNBZlU0QnYxWURmSHBNSUNDZlpadXlhRXdaejZ5ZlA0X1NpamVCVHpkSQ?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 15:26:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T01:59:33.538521+00:00"
+    "last_updated_ts": "2025-07-23T02:59:27.750622+00:00"
   }
 }

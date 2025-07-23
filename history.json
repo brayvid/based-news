@@ -1083,6 +1083,10 @@
     {
       "title": "Democrat senators warn Medicaid cuts could worsen rural hospital cybersecurity - Healthcare Dive",
       "pubDate": "Tue, 22 Jul 2025 15:37:52 GMT"
+    },
+    {
+      "title": "Arizona Secretary of State calls for cybersecurity funding after Iranian hack of candidate portal - ABC15 Arizona",
+      "pubDate": "Tue, 22 Jul 2025 15:52:43 GMT"
     }
   ],
   "recession": [
@@ -1735,10 +1739,6 @@
   ],
   "openai": [
     {
-      "title": "Another High-Profile OpenAI Researcher Departs for Meta - WIRED",
-      "pubDate": "Wed, 16 Jul 2025 02:56:00 GMT"
-    },
-    {
       "title": "OpenAI says it will use Google's cloud for ChatGPT - CNBC",
       "pubDate": "Wed, 16 Jul 2025 19:38:05 GMT"
     },
@@ -1761,6 +1761,10 @@
     {
       "title": "OpenAI faces an 'increasingly fragile moat,' JPMorgan says, as Sam Altman braces for 'OS war' against Google, Apple and other Silicon Valley titans - Fortune",
       "pubDate": "Tue, 22 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "OpenAI agreed to pay Oracle $30B a year for data center services - TechCrunch",
+      "pubDate": "Tue, 22 Jul 2025 20:36:31 GMT"
     }
   ],
   "environment": [
@@ -1979,6 +1983,10 @@
     {
       "title": "AI Is Making Us Dumber, MIT Researchers Find - HPCwire",
       "pubDate": "Sat, 19 Jul 2025 20:05:47 GMT"
+    },
+    {
+      "title": "Microsoft poaches top Google DeepMind staff in AI talent war - Financial Times",
+      "pubDate": "Tue, 22 Jul 2025 16:20:07 GMT"
     }
   ],
   "ancient_history": [
@@ -2079,6 +2087,10 @@
     {
       "title": "UN SG: World must supercharge the energy transition - Panda.org",
       "pubDate": "Tue, 22 Jul 2025 18:18:28 GMT"
+    },
+    {
+      "title": "Renewable energy hits global tipping point for even lower costs, UN says - Yahoo Home",
+      "pubDate": "Tue, 22 Jul 2025 19:24:08 GMT"
     }
   ],
   "finance": [
@@ -2413,6 +2425,10 @@
     {
       "title": "Jeremy Bowen: Israel's allies see evidence of war crimes in Gaza mounting up - BBC",
       "pubDate": "Tue, 22 Jul 2025 16:54:01 GMT"
+    },
+    {
+      "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
+      "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
     }
   ],
   "battery_technology": [
@@ -2454,10 +2470,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Record-Sized Collision Between Black Holes Detected by Astronomers - ScienceAlert",
-      "pubDate": "Wed, 16 Jul 2025 02:20:04 GMT"
-    },
     {
       "title": "Researchers observe early state of planet formation beyond Earth's sun - upi.com",
       "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
@@ -2746,10 +2758,6 @@
     }
   ],
   "us_senate": [
-    {
-      "title": "Senate Republicans advance Trump bill to cancel $9bn in approved spending - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 02:18:00 GMT"
-    },
     {
       "title": "Senate rejects Democrats\u2019 initial attempts to trim Trump\u2019s cutbacks - Politico",
       "pubDate": "Wed, 16 Jul 2025 19:29:02 GMT"
@@ -3271,6 +3279,12 @@
     {
       "title": "GM says EVs are its 'North Star' as legacy automaker chases Tesla - CNBC",
       "pubDate": "Tue, 22 Jul 2025 18:22:11 GMT"
+    }
+  ],
+  "united_kingdom": [
+    {
+      "title": "US Nuclear Weapons 'Deployed' to UK for First Time in 17 Years - Newsweek",
+      "pubDate": "Tue, 22 Jul 2025 15:26:08 GMT"
     }
   ]
 }
