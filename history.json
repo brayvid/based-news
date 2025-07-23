@@ -289,13 +289,13 @@
     {
       "title": "Russia passes law punishing searches for 'extremist' content - Reuters",
       "pubDate": "Tue, 22 Jul 2025 16:44:47 GMT"
+    },
+    {
+      "title": "Russia begins major naval drills in the Pacific and Arctic oceans and the Baltic Sea - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 07:26:22 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "OpenAI, Google, Anthropic researchers warn about AI \u2018thoughts\u2019: Urgent need explained - digit.in",
-      "pubDate": "Wed, 16 Jul 2025 09:56:00 GMT"
-    },
     {
       "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
@@ -515,6 +515,10 @@
     {
       "title": "Amazon shuts down Shanghai AI research lab, FT says - Reuters",
       "pubDate": "Wed, 23 Jul 2025 05:49:00 GMT"
+    },
+    {
+      "title": "Is today's AI boom bigger than the dotcom bubble? - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 03:00:00 GMT"
     }
   ],
   "climate": [
@@ -703,10 +707,6 @@
   ],
   "us_economy": [
     {
-      "title": "Despite Dire Warnings, the Economy Is Holding Up. Can That Last? - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 09:01:55 GMT"
-    },
-    {
       "title": "China's US Treasury Holdings Fell to Lowest Level Since 2009 in May - Bitcoin.com News",
       "pubDate": "Mon, 21 Jul 2025 08:23:25 GMT"
     },
@@ -891,6 +891,10 @@
     {
       "title": "Trump says a China trip is \u2018not too distant\u2019 as trade tensions ease - AP News",
       "pubDate": "Tue, 22 Jul 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Satellite Photos Show Where China Is Building World's Biggest Hydro Dam - Newsweek",
+      "pubDate": "Wed, 23 Jul 2025 09:00:02 GMT"
     }
   ],
   "us_politics": [
@@ -2419,6 +2423,10 @@
     {
       "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
       "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
+    },
+    {
+      "title": "More than 100 agencies say mass starvation spreading across Gaza, accusing Israel of aid 'siege' - BBC",
+      "pubDate": "Wed, 23 Jul 2025 08:37:30 GMT"
     }
   ],
   "battery_technology": [
@@ -2516,10 +2524,6 @@
     }
   ],
   "democracy": [
-    {
-      "title": "As democracy in Georgia collapses, Russia, China and Iran see an opening - CNN",
-      "pubDate": "Wed, 16 Jul 2025 09:54:00 GMT"
-    },
     {
       "title": "Lowering the voting age: a boost for UK democracy or a shot in the dark? - The Guardian",
       "pubDate": "Thu, 17 Jul 2025 12:50:00 GMT"
@@ -2691,6 +2695,10 @@
     {
       "title": "Egypt feels the heat from global climate change - The New Arab",
       "pubDate": "Wed, 23 Jul 2025 07:24:26 GMT"
+    },
+    {
+      "title": "Global climate action is at stake in the UN top court\u2019s biggest ever decision - AP News",
+      "pubDate": "Wed, 23 Jul 2025 08:49:00 GMT"
     }
   ],
   "volcanoes": [
@@ -3015,6 +3023,10 @@
     {
       "title": "Alaska Airlines grounds planes amid computer network outage - NBC News",
       "pubDate": "Mon, 21 Jul 2025 05:01:00 GMT"
+    },
+    {
+      "title": "Trump secures historic $550B trade deal with Japan: 'Never been anything like it' - Fox Business",
+      "pubDate": "Wed, 23 Jul 2025 03:23:00 GMT"
     }
   ],
   "jupiter": [
@@ -3273,6 +3285,12 @@
     {
       "title": "China Introduces National Cyber ID Amid Privacy Concerns - Dark Reading | Security",
       "pubDate": "Wed, 23 Jul 2025 01:00:10 GMT"
+    }
+  ],
+  "india": [
+    {
+      "title": "'They shot down five planes': Donald Trump repeats India-Pakistan ceasefire claim for 25th time; Congress - Times of India",
+      "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
     }
   ]
 }
