@@ -1,62 +1,72 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Trump deflects Epstein questions as Johnson shuts down House, avoiding vote on files - PBS",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG5mNXJ1VlVfaWk3aXdxemUxMnNPWmFzMmxzMTZUX1NhRzgxOWwxZndNak41VXRKX0lsbG5rUkxtSGJFVlVBR0Y1dDhLQ21lVTByclJBSlJXblRBZTBiekpBNDh3WWF0VVdVcWhUbUpfVl9hSzVNWkhTVUpFSFNzT0RFcWlTdVZkcF81eDFJeW0wYjBqYmRSZXZoZWlHeEhBY1BoQ3UzV1JOb29RRzVKN1d0akFaMlZi0gG-AUFVX3lxTE9Nb084dmxxLXNocWV6SG00SC1YeDBSelhyNTBjWnFTWlVtc3k1X25UaVFsUE55VWsxU29WOE5sbWlqWEZ3RzZlNlB5UVZHeDlDYkFrV0dFVE9xc2ZPd3RmbkhoMWtZN0tSamZQQWtCQ0o4bzNtS3Z0SGJFQWkzbXF5ZUU3bWVzWFFJUnNCR1BuVlhia3ZaWmMtSXpScHNvN3E2UnBFUVNmUzdZYzVtVjhadHVVeEIwdG1yMUlhVUE?oc=5",
-        "pubDate": "Tue, 22 Jul 2025 22:55:38 GMT"
+        "title": "How AI is transforming travel safety for real people - PhocusWire",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMURhLVRNVC1RZDQxVlFIbzRURUdFaV8xUGVjYUFYQ1dnQ0NiYUFlVFBUWG0tTzVuNDJod1FVcUF2Q0lWeDdfT1p0ekRUVk1kRTFwSW5CbnFQTEpZdWlOcmIxTG1FY3c?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 06:05:27 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
   },
-  "Privacy": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "China Introduces National Cyber ID Amid Privacy Concerns - Dark Reading | Security",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlFpZ1lHQzlqUXlhQ0FEZ29DeVlBcTg5Nm5vMnJyelFkb3QzYkdHalpydGI3S0JBcjhsa1dvWGVMUEVqMG5ZejBQTTREUk1qUlc0MFJzdTlGRk5xN0d2cTVCemlDalFUNDdmS0JjaDRlSFg0RmJ1Z3Z1VGRmeVk1TEtsa0dldEVTczNUU2FHVlB4QUc1?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 01:00:10 GMT"
+        "title": "Amazon shuts down Shanghai AI research lab, FT says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1ZxWWdNaFRZdEUtOUtJVG9lcEh2MnlmYzRQbDljbUZOUERJcm5YMmJUWTFDTm5xdjJheW42REsxbWJNakE0ZHZfcHppOWFwQkgwXzlFTUVzRTlMUTUtOHByQ0F0YnFEVFlXWTBaZ3paYjA4V2tfcjRKY0lGc3JqSXpWV1M4cnlmbUVGMjh2elRBOF9ZbW1STk5EbmRZd0R4NWhnRXgydVlwOUVfODg0ZA?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 05:49:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
-  },
-  "Earth Science": {
-    "articles": [
-      {
-        "title": "About 700m years ago, the Earth froze over entirely \u2013 now we may know why - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTVPbGpSeGNncFBweHFwSWttdXU4OEJONHBsYWNmVkFpUEhvcDFETlhlTi1vMDB5WXRndmdnb1FLSW10VHYzb21XOUI5bE5sZzRmckNjT1JaMmp5VWt1SjkweVRsbDRVd0JhNjAxTHF3Ymp3M3k0V295eDZFcXJRTmZLOVVNRzV5MjUtYmswTU93dVpjNmhCdU9acWpUMzlldW1yTktMQzBsdVlHZ2hRakw5a2tscldrUnc?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 05:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "New approach doubles chemotherapy effectiveness by targeting cancer cell memory - News-Medical",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFhQODNNZmRwdDRpUEk1N3o2U19hdDFMUUJMUmNud0RJaEZmZ20wSW5objVwN0FJancwQVhmclljVTBGVlp6WjUzaGRTbVJjQ195UGlDS3pQU2l5Q2p3RzlZajVLQmlqWHQ0U055Z19WMnY2WVlRRWo4dTVTdlpPZGZMNmJURVZXVmIzU054R2dnMng4LWFhbUtBcl9tR1hlMnFzNjhUUWRHaktXT3RmSEdkNmZXRDJSdzlycFFlUnhFaHBrUmc?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 03:15:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "EPA Plans to Ditch Linchpin Climate Policy, Washington Post Says - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVZORnlDdnpUbS1zX2JzajVsSThCNWV1U0VUeXlJQjE0WENkbGJWYi1GRTBCekxUSU1YWTRIdTh5U3hJc0FkZnBoZDlPOFZ6NFNiandGdmVMaVRLVHZpODFNNXJDVjVkUTdoakg5M2RaaS1HN0h3UTdjanBCM190M3R2VVMyVmE1Y2VvZTF0dEhGX2VEQ1NFRmg2aDBYYWFtV0MzOEhxYnRuTkNsRGZ0S1VjLU4?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 04:38:00 GMT"
+        "title": "Egypt feels the heat from global climate change - The New Arab",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zazRCQjdrUVZ4anJIS2VNMTdTeS1WM3doRGFMeUUyWFhfY1ZhTmhPSFlHZTlQUTBpdW1SY0pvc19Fbk9sa2UxU2NRY3BhUzBjS01CRGNXaDRqSHhQazhhWnFwd3RQOU8xWkpyOG1JeUlmcEJ1MGfSAXtBVV95cUxPMWozbmxDd0NtRWI2UVBIV1ZneTFlcW9lWklzVjdOaVpqb3JZTjhfQUNfZFlFb3FyamY1VHNJV1RzYUhPa2docWpUanBrbTJxdmV5TTBEeDVUSGxTLW5hZlRaT1dSWnhfNUJ6M0Y3MWJSUDJGZmNQQXV0amc?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 07:24:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
   },
-  "Quantum Computing": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "Physicists Break Quantum Barrier With Record-Breaking Qubit Coherence - SciTechDaily",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0NlZFlSWG1sUWFQQVFFVFZVWkI0SmQ3SGpSNFdEbmhZeWxoWGZ3SXhWX0w3WDAySWlmU1lWeDMxNktqbkE2VWpJWldCbDBnWmt5N2FpaDl6X25oLXNJNVNmZWQtM096eE9VUUJJM1ZXSV94RmR6WHBjVmZfdFR2MmVldHZGT1BTTG9ocG1sUTJhUVNQanFENDlhcw?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 03:16:41 GMT"
+        "title": "US critical infrastructure remains exposed as Congress confronts OT cybersecurity gaps, fifteen years after Stuxnet - Industrial Cyber",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTk1maUM1Z1JjcjRjN1pWMndMbVZKdkkzUjBpUkN2WkdDRThmNTR1N2dLNmxkX0tSZkY1Nm9PMVozSDRJZ1JmVnhjbHhubjVhc2txSE9FTUdXNlh3OGVnVjlKMmYzd0Exdm5XOENRdWRnTW5ZdmZsSkZvb3UyRGhNU29ESTRUWl8zekVzd0xBLURqTVZFNmNYY0tIcTVuNWJtR0FRdTZmemR1OW1xN3JQTWlVZ2JPZ191ajVReWMzZ1hvUl9oTjJxN2xvU2ZVeUNMOWxEeWdXRS1JVVBWdlo1ZDlNSi1DbXdxdVhvVGlqLXBtVDBQT1NlVHBOOA?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 05:28:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-23T05:58:47.030291+00:00"
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Iran fears Israel behind for mysterious explosions, fires - The Jerusalem Post",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwelc3d3ZDWWlqVU1za2xkQWNra3lCMEt6SkJxWHd5aURGbVZxMV9IVmNPeEc5V0pzNVpZWjBUNWhaT1ZDRHBlcFhpeGVhME5rbFpUSXdsQUEwX3NFcDR1SDRZMWxIcFdrVnc?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 06:18:35 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
+  },
+  "North Korea": {
+    "articles": [
+      {
+        "title": "North Korea Submarine Delays Frustrate Kim Jong Un's Naval Buildup - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21kcmlfYzNwLV93MllITHhhWFpoWXMxdmxDaDZYcWZnSW5pQ1RfNk05VjlKX1lINzl4S3Q4ZFhnclJqWEhhcldMUS1WV00xMFhSX2tOZHRwZ2FuQkQ0dXlET1kzTThVMFFYelBEVWprQWJhX0E5enVNak9RaUJEcmdkYkQ2T3FNUGRkSktHMjZBWmtka3ZLczlIVXkzdw?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 08:21:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
+  },
+  "Space Exploration": {
+    "articles": [
+      {
+        "title": "SpaceX launches 2 powerful internet satellites, lands rocket on ship at sea (video) - Space",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNW0xYlZ6VWp1WW91M1g1VUNYSzhQc1FrOVptcmJpdDFjZWlaVDZQNkllMURURDdPUmV6RDNRNmhKSkJBUWFrNTBMVzFNRzdMZVhKQWJwTmdLd3ZsbXRlckNuVHB6T3BWMWZEdXNzQlE3RXFrN1EtckhwNXRQaEVMd2ZGMVJheDNSRkZHaVVxMmdhZXVtUUJNTmlOOXdGaE9WZjhza0RKQVo1d3JiZkxSblJLWDFxOUxScG9WTTd1Zk1LeTk2NFBSc1h6X1F6T2M?oc=5",
+        "pubDate": "Tue, 22 Jul 2025 21:24:42 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-23T08:58:35.219066+00:00"
   }
 }
