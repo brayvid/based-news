@@ -511,6 +511,10 @@
     {
       "title": "AI startups raised $104 billion in first half of year, but exits tell a different story - CNBC",
       "pubDate": "Tue, 22 Jul 2025 20:51:16 GMT"
+    },
+    {
+      "title": "OpenAI wins trademark lawsuit over 'Open Artificial Intelligence' - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 19:44:48 GMT"
     }
   ],
   "climate": [
@@ -1087,6 +1091,10 @@
     {
       "title": "Arizona Secretary of State calls for cybersecurity funding after Iranian hack of candidate portal - ABC15 Arizona",
       "pubDate": "Tue, 22 Jul 2025 15:52:43 GMT"
+    },
+    {
+      "title": "Arizona cyberattack appears to be linked to U.S. bombing of Iran, state cybersecurity chief says - 12News",
+      "pubDate": "Wed, 23 Jul 2025 01:57:00 GMT"
     }
   ],
   "recession": [
@@ -1192,10 +1200,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Earthquake: Scientists find Concord fault line farther west than they once thought - ABC7 San Francisco",
-      "pubDate": "Wed, 16 Jul 2025 03:15:32 GMT"
-    },
     {
       "title": "7.3 magnitude earthquake prompts tsunami warning along parts of Alaska\u2019s coast - The Hill",
       "pubDate": "Wed, 16 Jul 2025 22:35:00 GMT"
@@ -2187,10 +2191,6 @@
   ],
   "gaza": [
     {
-      "title": "UNRWA sounds alarm as 1 in 10 children in Gaza malnourished - Al Jazeera",
-      "pubDate": "Wed, 16 Jul 2025 03:33:45 GMT"
-    },
-    {
       "title": "LIVE: Israel bombs Gaza, Syria amid alarm over rise in starving children - Al Jazeera",
       "pubDate": "Wed, 16 Jul 2025 05:04:59 GMT"
     },
@@ -2845,10 +2845,6 @@
   ],
   "amazon": [
     {
-      "title": "EU Parliament threatens wider ban on lobbyists as Amazon spat deepens - politico.eu",
-      "pubDate": "Wed, 16 Jul 2025 03:38:00 GMT"
-    },
-    {
       "title": "Trump Hits Amazon with 50 Percent Tariffs - Counterpunch",
       "pubDate": "Thu, 17 Jul 2025 06:00:34 GMT"
     },
@@ -3243,6 +3239,10 @@
     {
       "title": "Pro-Palestinian protest prompts scuffle onstage at Royal Opera House in London - ABC News",
       "pubDate": "Mon, 21 Jul 2025 01:17:03 GMT"
+    },
+    {
+      "title": "Columbia disciplines dozens of students for pro-Palestinian library protest in May - The Guardian",
+      "pubDate": "Tue, 22 Jul 2025 22:26:00 GMT"
     }
   ],
   "intelligence_agencies": [
@@ -3285,6 +3285,12 @@
     {
       "title": "US Nuclear Weapons 'Deployed' to UK for First Time in 17 Years - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 15:26:08 GMT"
+    }
+  ],
+  "hurricanes": [
+    {
+      "title": "National Hurricane Center watching another potential storm off Southeast coast - USA Today",
+      "pubDate": "Wed, 23 Jul 2025 02:45:27 GMT"
     }
   ]
 }
