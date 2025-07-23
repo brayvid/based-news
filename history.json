@@ -31,10 +31,6 @@
   ],
   "iran": [
     {
-      "title": "As Iran Deports a Million Afghans, \u2018Where Do We Even Go?\u2019 - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 12:51:17 GMT"
-    },
-    {
       "title": "New U.S. assessment finds American strikes destroyed only one of three Iranian nuclear sites - NBC News",
       "pubDate": "Thu, 17 Jul 2025 09:00:43 GMT"
     },
@@ -717,13 +713,13 @@
     {
       "title": "Falling Container Imports Hint at Tariff-Driven Slowdown for U.S. Economy - gCaptain",
       "pubDate": "Mon, 21 Jul 2025 21:35:26 GMT"
+    },
+    {
+      "title": "Trump's 'big, beautiful bill' sparks investment surge across American businesses - Fox Business",
+      "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s nuclear weapons ploy is a war signal from Xi - The Hill",
-      "pubDate": "Wed, 16 Jul 2025 12:00:00 GMT"
-    },
     {
       "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 16:02:10 GMT"
@@ -903,6 +899,10 @@
     {
       "title": "China\u2019s tech talent are making big strides \u2014 they're creating apps for the world - CNBC",
       "pubDate": "Wed, 23 Jul 2025 10:00:01 GMT"
+    },
+    {
+      "title": "China Spy Stole Secret US Missile Tech: DOJ - Newsweek",
+      "pubDate": "Wed, 23 Jul 2025 12:48:11 GMT"
     }
   ],
   "us_politics": [
@@ -1387,6 +1387,10 @@
     {
       "title": "New approach doubles chemotherapy effectiveness by targeting cancer cell memory - News-Medical",
       "pubDate": "Wed, 23 Jul 2025 03:15:00 GMT"
+    },
+    {
+      "title": "Dispatch Bio raises $216M for solid cancer immunotherapy - Axios",
+      "pubDate": "Wed, 23 Jul 2025 10:46:58 GMT"
     }
   ],
   "space_exploration": [
@@ -1743,13 +1747,13 @@
     {
       "title": "Researchers reportedly achieve remarkable feat using tiny nuclear reactor: 'The size of a fire extinguisher' - The Cool Down",
       "pubDate": "Tue, 22 Jul 2025 05:45:00 GMT"
+    },
+    {
+      "title": "With Google Deal, Fusion Energy Inches Closer to Reality - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 10:00:07 GMT"
     }
   ],
   "nvidia": [
-    {
-      "title": "As Nvidia gets a lifeline in China, Jensen Huang goes on the charm offensive in Beijing - CNBC",
-      "pubDate": "Wed, 16 Jul 2025 12:08:47 GMT"
-    },
     {
       "title": "Nvidia CEO Huang Just Met With China\u2019s Commerce Minister. Why the Stock Is Gaining. - Barron's",
       "pubDate": "Fri, 18 Jul 2025 14:04:00 GMT"
@@ -2067,10 +2071,6 @@
   ],
   "ethereum": [
     {
-      "title": "Ethereum Pumps To Five-Month High As Treasury Companies Stockpile ETH - Decrypt",
-      "pubDate": "Wed, 16 Jul 2025 12:13:03 GMT"
-    },
-    {
       "title": "Massive Whale Profits $15 Million\u2014Now Betting Big On Ethereum To Crash - TradingView",
       "pubDate": "Thu, 17 Jul 2025 00:00:00 GMT"
     },
@@ -2214,10 +2214,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "At Least 20 Killed in Stampede Outside a Gaza Aid Site - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 12:10:33 GMT"
-    },
     {
       "title": "Israel launches heavy airstrikes in Damascus, vowing to shield Druze - Reuters",
       "pubDate": "Wed, 16 Jul 2025 14:28:55 GMT"
@@ -2445,10 +2441,6 @@
   ],
   "battery_technology": [
     {
-      "title": "GM, LG Energy joint venture making plans to ramp up production of low cost EV batteries - Repairer Driven News",
-      "pubDate": "Wed, 16 Jul 2025 13:00:23 GMT"
-    },
-    {
       "title": "QuantumScape Stock Surges on Solid-State Battery Breakthrough | Buy, Hold, or Sell? - techi.com",
       "pubDate": "Thu, 17 Jul 2025 20:10:24 GMT"
     },
@@ -2551,6 +2543,10 @@
     {
       "title": "Microsoft SharePoint under 'active exploitation,' Homeland Security's CISA says - Yahoo Home",
       "pubDate": "Mon, 21 Jul 2025 09:33:00 GMT"
+    },
+    {
+      "title": "Federal Agencies Warn of Interlock Ransomware Targeting Critical Infrastructure with Unusual Tactics - HSToday",
+      "pubDate": "Wed, 23 Jul 2025 07:45:53 GMT"
     }
   ],
   "climate_change": [
@@ -2888,10 +2884,6 @@
     }
   ],
   "inflation": [
-    {
-      "title": "CPI rose in June to 2.7% annual rate, highest since February - CBS News",
-      "pubDate": "Wed, 16 Jul 2025 12:55:54 GMT"
-    },
     {
       "title": "A weak housing market could deliver rate cuts and rescue the Fed from Trump - Fortune",
       "pubDate": "Mon, 21 Jul 2025 16:28:00 GMT"
@@ -3303,12 +3295,22 @@
     {
       "title": "China Introduces National Cyber ID Amid Privacy Concerns - Dark Reading | Security",
       "pubDate": "Wed, 23 Jul 2025 01:00:10 GMT"
+    },
+    {
+      "title": "Proton\u2019s new privacy-first AI assistant encrypts all chats, keeps no logs - TechCrunch",
+      "pubDate": "Wed, 23 Jul 2025 12:49:08 GMT"
     }
   ],
   "india": [
     {
       "title": "'They shot down five planes': Donald Trump repeats India-Pakistan ceasefire claim for 25th time; Congress - Times of India",
       "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
+    }
+  ],
+  "research": [
+    {
+      "title": "Why the Current Research Funding Model Needs an Overhaul - Technology Networks",
+      "pubDate": "Wed, 23 Jul 2025 11:04:04 GMT"
     }
   ]
 }
