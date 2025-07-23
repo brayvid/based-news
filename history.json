@@ -941,6 +941,10 @@
     {
       "title": "House lawmakers are now getting $5,000 a month for personal security guards - Business Insider",
       "pubDate": "Tue, 22 Jul 2025 18:10:00 GMT"
+    },
+    {
+      "title": "Trump deflects Epstein questions as Johnson shuts down House, avoiding vote on files - PBS",
+      "pubDate": "Tue, 22 Jul 2025 22:55:38 GMT"
     }
   ],
   "democratic_party": [
@@ -980,10 +984,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "US launches probe into Brazil\u2019s trade practices - CNN",
-      "pubDate": "Wed, 16 Jul 2025 05:42:00 GMT"
-    },
     {
       "title": "Trump orders UNESCO exit, dismantling decades of US leadership in global education - Times of India",
       "pubDate": "Tue, 22 Jul 2025 14:40:00 GMT"
@@ -1379,6 +1379,10 @@
     {
       "title": "Replimune skin cancer therapy rejected by FDA, a sign of regulators\u2019 hardened stance - statnews.com",
       "pubDate": "Tue, 22 Jul 2025 11:50:45 GMT"
+    },
+    {
+      "title": "New approach doubles chemotherapy effectiveness by targeting cancer cell memory - News-Medical",
+      "pubDate": "Wed, 23 Jul 2025 03:15:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1747,6 +1751,10 @@
     {
       "title": "Why rivers split: A century-old mystery has finally been solved - Earth.com",
       "pubDate": "Fri, 18 Jul 2025 10:07:41 GMT"
+    },
+    {
+      "title": "About 700m years ago, the Earth froze over entirely \u2013 now we may know why - The Guardian",
+      "pubDate": "Wed, 23 Jul 2025 05:00:00 GMT"
     }
   ],
   "openai": [
@@ -1977,6 +1985,10 @@
     {
       "title": "Quantum computing is the most radical technology in history: Bank of America's Haim Israel - MSN",
       "pubDate": "Mon, 21 Jul 2025 14:29:40 GMT"
+    },
+    {
+      "title": "Physicists Break Quantum Barrier With Record-Breaking Qubit Coherence - SciTechDaily",
+      "pubDate": "Wed, 23 Jul 2025 03:16:41 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2147,12 +2159,6 @@
       "pubDate": "Thu, 17 Jul 2025 11:01:58 GMT"
     }
   ],
-  "solar_power": [
-    {
-      "title": "Scientists develop astounding material that could slash price of solar power: 'A record efficiency' - The Cool Down",
-      "pubDate": "Wed, 16 Jul 2025 05:30:00 GMT"
-    }
-  ],
   "apple": [
     {
       "title": "Why Apple CEO Tim Cook\u2019s AI struggles serve as a warning for C-suite leaders - Fortune",
@@ -2202,10 +2208,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "LIVE: Israel bombs Gaza, Syria amid alarm over rise in starving children - Al Jazeera",
-      "pubDate": "Wed, 16 Jul 2025 05:04:59 GMT"
-    },
     {
       "title": "Twenty people killed at Israeli-backed aid site as starvation grips Gaza - Al Jazeera",
       "pubDate": "Wed, 16 Jul 2025 07:41:15 GMT"
@@ -2713,6 +2715,10 @@
     {
       "title": "Burn Scars Can Exacerbate Flooding, Posing Compounding Climate Hazards - Inside Climate News",
       "pubDate": "Tue, 22 Jul 2025 18:38:04 GMT"
+    },
+    {
+      "title": "EPA Plans to Ditch Linchpin Climate Policy, Washington Post Says - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 04:38:00 GMT"
     }
   ],
   "volcanoes": [
@@ -3303,6 +3309,12 @@
     {
       "title": "National Hurricane Center watching another potential storm off Southeast coast - USA Today",
       "pubDate": "Wed, 23 Jul 2025 02:45:27 GMT"
+    }
+  ],
+  "privacy": [
+    {
+      "title": "China Introduces National Cyber ID Amid Privacy Concerns - Dark Reading | Security",
+      "pubDate": "Wed, 23 Jul 2025 01:00:10 GMT"
     }
   ]
 }
