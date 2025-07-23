@@ -239,10 +239,6 @@
   ],
   "russia": [
     {
-      "title": "Russia Strikes NATO Ally's Factory in 'Deliberate' Attack - Newsweek",
-      "pubDate": "Wed, 16 Jul 2025 15:22:14 GMT"
-    },
-    {
       "title": "Why Trump is supporting Ukraine and cooling on Putin and Russia - MSNBC News",
       "pubDate": "Wed, 16 Jul 2025 19:43:09 GMT"
     },
@@ -281,6 +277,10 @@
     {
       "title": "Russia begins major naval drills in the Pacific and Arctic oceans and the Baltic Sea - Reuters",
       "pubDate": "Wed, 23 Jul 2025 07:26:22 GMT"
+    },
+    {
+      "title": "Russia is pouring money into its war machine \u2014 but it's still struggling to create new, advanced systems - Business Insider",
+      "pubDate": "Wed, 23 Jul 2025 09:35:00 GMT"
     }
   ],
   "ai_safety": [
@@ -519,6 +519,10 @@
     {
       "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas - AP News",
       "pubDate": "Wed, 23 Jul 2025 12:05:00 GMT"
+    },
+    {
+      "title": "Trump aims to get rid of AI regulations and finance exports to win AI race - NPR",
+      "pubDate": "Wed, 23 Jul 2025 15:34:08 GMT"
     }
   ],
   "climate": [
@@ -543,10 +547,6 @@
     {
       "title": "Russia Issues Nuclear Warning After Trump's Weapons for Ukraine Plan - Newsweek",
       "pubDate": "Wed, 16 Jul 2025 17:03:34 GMT"
-    },
-    {
-      "title": "Ukraine wing of US-founded terrorist group says it was involved in killing of intelligence officer in Kyiv - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 15:04:00 GMT"
     },
     {
       "title": "At least two killed in \u2018horrific\u2019 Russian attack on Ukraine\u2019s Dobropillia - Al Jazeera",
@@ -1167,10 +1167,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Trump Has Penned Letter To Fire Fed Chair Jerome Powell - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 15:29:51 GMT"
-    },
-    {
       "title": "Trump asked GOP lawmakers if he should fire Fed Chair Jerome Powell - CBS News",
       "pubDate": "Wed, 16 Jul 2025 16:36:05 GMT"
     },
@@ -1403,6 +1399,10 @@
     {
       "title": "Dispatch Bio raises $216M for solid cancer immunotherapy - Axios",
       "pubDate": "Wed, 23 Jul 2025 10:46:58 GMT"
+    },
+    {
+      "title": "Kentucky\u2019s campaign to improve rural cancer care is a national model. Federal cuts threaten its progress - statnews.com",
+      "pubDate": "Wed, 23 Jul 2025 08:32:28 GMT"
     }
   ],
   "space_exploration": [
@@ -1683,6 +1683,10 @@
     {
       "title": "Cybersecurity breach at hedge fund manager Waratah may have exposed sensitive client data - The Globe and Mail",
       "pubDate": "Tue, 22 Jul 2025 17:50:05 GMT"
+    },
+    {
+      "title": "Federal watchdog ends student data breach probe - Insurance Business America",
+      "pubDate": "Wed, 23 Jul 2025 11:54:43 GMT"
     }
   ],
   "bitcoin": [
@@ -1763,6 +1767,10 @@
     {
       "title": "With Google Deal, Fusion Energy Inches Closer to Reality - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 10:00:07 GMT"
+    },
+    {
+      "title": "Avalanche Energy hits key milestone on the road to a desktop fusion reactor - TechCrunch",
+      "pubDate": "Wed, 23 Jul 2025 14:25:00 GMT"
     }
   ],
   "nvidia": [
@@ -1911,10 +1919,6 @@
   ],
   "mars": [
     {
-      "title": "Study suggests liquid brines could form on Mars' surface during seasonal frost melting - Phys.org",
-      "pubDate": "Wed, 16 Jul 2025 15:54:32 GMT"
-    },
-    {
       "title": "Largest piece of Mars on Earth sells for nearly $5.3 million at auction - CBS News",
       "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
     },
@@ -1974,10 +1978,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Researchers at USC demonstrate exponential quantum scaling speedup - ibm.com",
-      "pubDate": "Wed, 16 Jul 2025 15:12:37 GMT"
-    },
     {
       "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
@@ -2054,10 +2054,6 @@
     }
   ],
   "alexandria_ocasio-cortez": [
-    {
-      "title": "House Democrats praise Mamdani after Ocasio-Cortez event - The Hill",
-      "pubDate": "Wed, 16 Jul 2025 15:28:00 GMT"
-    },
     {
       "title": "US progressive lawmaker AOC rejects cutting funding for \u201cIsrael\u2019s\u201d air defense system - Roya News",
       "pubDate": "Sat, 19 Jul 2025 11:35:22 GMT"
@@ -2238,10 +2234,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "EU accused of \u2018cruel and unlawful betrayal\u2019 of Palestinians over failure to confront Israel - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 15:16:00 GMT"
-    },
     {
       "title": "Stampede at Gaza aid distribution site kills at least 21, Health Ministry says - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 17:33:37 GMT"
@@ -2457,6 +2449,10 @@
     {
       "title": "More than 100 agencies say mass starvation spreading across Gaza, accusing Israel of aid 'siege' - BBC",
       "pubDate": "Wed, 23 Jul 2025 08:37:30 GMT"
+    },
+    {
+      "title": "Palestinians are starving or being killed by Israeli troops while seeking aid almost daily. How did we get here? - CNN",
+      "pubDate": "Wed, 23 Jul 2025 15:04:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2491,10 +2487,6 @@
   ],
   "astronomy": [
     {
-      "title": "Researchers observe early state of planet formation beyond Earth's sun - upi.com",
-      "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
-    },
-    {
       "title": "Astronomers see formation of new solar system around distant sun for first time - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 20:27:00 GMT"
     },
@@ -2524,10 +2516,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 15:00:06 GMT"
-    },
     {
       "title": "Mysterious radio pulses beneath Antarctica defy rules of particle physics - New Atlas",
       "pubDate": "Sun, 20 Jul 2025 07:06:40 GMT"
@@ -2733,13 +2721,13 @@
     {
       "title": "ICJ to rule on nations' legal responsibility regarding climate change - upi.com",
       "pubDate": "Wed, 23 Jul 2025 13:44:09 GMT"
+    },
+    {
+      "title": "Vanuatu Wins Landmark Legal Battle Over Climate Change Impact - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 15:28:40 GMT"
     }
   ],
   "volcanoes": [
-    {
-      "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - The Daily Galaxy",
-      "pubDate": "Wed, 16 Jul 2025 16:00:00 GMT"
-    },
     {
       "title": "Iceland volcano eruption creates fiery scene of smoke and glowing lava - MSN",
       "pubDate": "Wed, 16 Jul 2025 20:01:50 GMT"
@@ -2909,12 +2897,6 @@
     {
       "title": "Scientists reveal a widespread but previously unidentified psychological phenomenon - PsyPost",
       "pubDate": "Sun, 20 Jul 2025 10:02:33 GMT"
-    }
-  ],
-  "planets": [
-    {
-      "title": "Scientists glimpse planetary birth - Courthouse News Service",
-      "pubDate": "Wed, 16 Jul 2025 15:00:45 GMT"
     }
   ],
   "military_and_defense": [
