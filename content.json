@@ -1,72 +1,62 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Is the new ChatGPT agent really a weapons risk? - Information Age | ACS",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVlwM3NGcUNhMzVlM2RtTHR1VXk4YzdiTkE3Qk9FRWhUNTZrall1NlRVd3pWRnU3Sm10b2NrQmt3bUdPRUMzMXlYSk9pSVlidV9fVFYxWDk4X0Q5dFBSRmtWT094WjdBUktJdFhWVThPRHBKLWpaV0hvTGRLcWVnUzV0SVFaMUpsaENUdG1QYkU?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 02:05:59 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
+  },
   "China": {
     "articles": [
       {
-        "title": "Nvidia AI chips worth $1bn smuggled to China after Trump export controls - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBM1Z0YmlBb1R6OUZ6VHdkR0g3Vk4wYmNvU0l3OXU3em84ZGNwNDhhTWRuU1EwZlZYVmY5NGJKenQ3Y21jU1ZwTGkyR0tsX21qOVpGSE05UDNaOFFNYWw2WW1rXzFJaXZHczhpMm1CSUE?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 11:00:08 GMT"
+        "title": "China releases draft law amendment to help curb price wars - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQck9nTWFhNV9HX3NwU2V4cU1RQU1vSXhVZG5vMXRVSlB1YTNWWUpMNXhsa2plMXY2XzVEV0stMWNTcGhiSm5xSlFiWjZFeDItaVAzX2dEcHhQYjZYMVlYUU1IQnpWcDNXdmdtVVAwQ29tMzQwX2dwMU4wa0dWanRFRWoyc3FHM2RwOW53MmpZRlE0OG5NTDY5bmh2OVlVUUpoM0NlN1RDaEVEV0duSUxzaW5zbWdZamJ5UkRSX3B1VkJONkJIWm5GNVpDZw?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 11:58:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Reactions Pour in After ICJ Delivers Landmark Climate Opinion - Earth.Org",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYlAxLTNLXzFtdVhIdWY4MXFVbkRRU01tZExQMzRpUjdLT3hmcThKaGx0N0tDQTJXYzZCOTNoRUw1eU42RDVxdUs5c3Vmc3I1ZmVUWWtPSVF0MGlUYXVuTWdGMjR4eXFwd1Fuc0FjYXc1N09rV1VlOHV5bzN6NEExUkFRM0tOdzhLLVVrT0tzeHloSlRVM2FmT0pZNjh2MTVjdG8zc045dS04RnA0RVRoUkdZbjZ5Tlk1UjFHSFI5RFo1eFp4MGY0eTRwVTRlTDdwR2hmbGJIUUlOYm5HRWc?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 02:28:59 GMT"
+        "title": "Swapping weather bombs for real bombs: The debate over climate change as national security heats up - CBC",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUVjUGYtZ3hjLW04M3IyYlE3RHBkalBJdGtzanV3UzZxQUxTS0RsU0VHd0pRdkkxbXJ4cW5jcGo0eEJuUFdNQjhzV3JweW5ycEVmSzB1N3EwS0VJRTBIbjNkYWs5ODl4NkNmNmhsSU9YeHllRi02ZWFUcVowYzNKeg?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 08:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Trump to Tour Federal Reserve HQ Construction Site - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblVjdWRlVWNod2VEZjI0TUMzT3B3RmRDSDVOUkZ5OVBBdmdvaUtiTlJ6TE1mMmZ0anlmanBUOTRHVXNJbHVqOC15cnZxZDRnLV9veWxCbUY5aGFSMjhLN2FqYkpLVzVBU2ZWdmpvZTlPQ09ibVdlcF82T2FSZmJ6d3VvZmlDSzlVck1RaHJzVHc0SmtTTkN4c05IYlFYV2ZS?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 10:59:26 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
-  },
-  "North Korea": {
-    "articles": [
-      {
-        "title": "Kim Jong Un calls for 'actual war' training by combat units - upi.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGRUNGtLRHZPMzJJbjRFSFYwYlZpQTZBVDBHV1dGeFF3S2t4UTF5d2Fvc3VaVnZRdFN3WVZ6V1djNWEyUzhVQVlEYkN6d3dtSUZlc3h6c3FKd3I3N3JlSW9ackNhSVd2X2J6WHRQMUtQT0VuV0k5aWhmdjRENzJpQUg5R2RCcTVDZ0hhc1dOSVI4V2xRbUJZbDVpcldhalhKbkdsNEN3Rmd3S3owNm8yOFJVY0VBWGhyTzBMU3dfcVFrWmFW0gHKAUFVX3lxTE8wc3NJQXZNbW5OS0FpbEdnWkl3QnlYMDg0cFotMWxneGFSUWczN1FpSVk5M3o0RVROaVhJMGpQckJNYkR6Zlhxam53MnZZbFF5WUIydUV3eEVFbzJ4bXA5eFVCeUdfU3ZZQVA0QUNFTEZqMFZNSExKUlR0R1FRT05ObDhZdWtQRVVPMF9SZ3haeGtkUmpmOFFPVjRxR1pjOEpXREFaT19qVzlKTGV0aUNqV0xXT3doRnY0WElTQmV2RTU0WGgtaXRUQXc?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 09:34:24 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "A new, faster, cheaper way to arm Ukraine supercharged key artillery production - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1M0a1dQMU5idThVeVpGblQ3bl9PRkZBRHA4Sk9xa19BRFFqell3R2N6Q3h0U1RBaXVVelA4cWtDNEs5VmYyUW9oc3pkTUF4SEJvNlJaeTU0QkNvVjVZTVVHaGgyUlVBcmRBNk94VFUzckJBZDF5NTVLelZhcXMxTEJMelpjb19KSXpIY3p1cEhXdHFSZzRFTEpiQzU2c3RISkxtSWw5dTBqZ3Qy?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 09:45:00 GMT"
+        "title": "Zelensky united Ukraine to fight Russia \u2013 but now he\u2019s accused of destroying their democracy - The Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXV2SjRSbFUtVzd2SXd5ZXdtN1NGYmc5d1hJRUNENzc2S3Jtay1nRTE1NHN4cXVDX05ORUU1QmRrRlFQdm9RRDVPSk8td2JWSnNNN1VJRUpRVmZZQ01DN0p4dTR6OTFNY2JzM2owWGxRRkJ4RmxNa19vUFdEWUs3YmxyVDFoY2hTVUstc2VuT2U3akk1MGc?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 12:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
   },
-  "Iran": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Taliban tortured and threatened Afghans expelled from Pakistan and Iran, UN report says - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0FxSFJWNl9Gb2hEejFYUE1wUUlLNzNpS3RycXpGTWgzWFRtS2V6bmVMeUhDWXRKZWNsSjBfU2lNdWxGRTdmR0R2dnMtS2V1N2s2RjRpTWpKRE9ieTl4M3RmdU0xSHB5MWowWEZESHZFSzMyXzJEbktRMkFwcnhnWkxfN083Y0M2YXlfdUlHTUE3cmNmaUJzaU1HbHhWdFNhdWpjd04waHZtSldzaVJidi0tNXJYYjQ5WG1pV0loWdIBxAFBVV95cUxQa3hWdHRvX3F5SFo3azR2c0NlRjZNQXR1c0FacnRvM1dMU19XaUNISWhFd1BYaU91TnlIaE9qbk5tbkxZSE41aGpmbzhBMmNDbHlDbWpvUV9Td2ZDcm83endtREFnckNVeXhfZHE3OWhXZlAzSktXWDUwU2ZSQmhmMFpLTm9KVVVxN2FKMmlIVEJnOVVWNHBhZkpGcXptQ1h6RTh4ZUFjTlVsSy1KVFV0XzhFVjB6eUZ2aFJyaE9jX3B4dHVW?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 09:35:20 GMT"
+        "title": "Trump offered MAGA Obama\u2019s head on a platter. Why he can\u2019t deliver on that promise - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWl9MblpDajJmdm1CWHNnQWgzN2t1b2lKQnZaaHJ2ZHdaejRINDlreFhLemJhb1ZaVlJ1d3BpRF9PT2t3dTd6SGpBMzZFOEZWSDRIeWJ4OTZRam5UM0phbzRHUzNhWXFmNEVpdm1uUlFhdGxRZnZ6WGxsYVNxQkR5VjhXVklCVFdjeUQtdkRJU0VQSHdhNHBSNURuNzRzOTMxUlM4VnRZTGJoaWM?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 12:21:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
   },
-  "Public Health": {
+  "Tesla": {
     "articles": [
       {
-        "title": "Experts Warn of Hidden Psychological Burden in Glaucoma - Medscape",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEpVYzRrUlhoLXhGVXlfUzBobDU5cVlKZ3Y2ZjJ6TmhpcTNaYmZ2c0tnMkZrNjdiRmV1bjlGZl9MNXhXS1drYXVESTQ2N21HUTZSVGl2Wl8wQ3l0OUppVzFucjhISTlheFZmRTBYVmJJLXJDMVJNcDdhMHRKZ0JLZ0lPcXFOLWRmRFpsSF91VlN4UEl6WGNnUEctMEttWXZM?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 10:06:04 GMT"
+        "title": "Tesla shares fall amid delays, distractions and fading EV dominance - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1lFU1dBaGUyUWIzNXM4ckRaSTZrYkpjTmk5N2NmNlZjb25IcnNTUFk3Uk1JYjNuRVdpNTVCek5rc0t1R1hYT3VyWUVISXpFbHkxWGV1djlIbDVIdnhmbXZMX1FxV216R3NvWENNOHZyRWQ0cWsxRWd6TUk2X3lPTVhnR1lJa1hCbWxYLVR4a201UDMweDluUnh2MVpCQ182RkdMMlJ2b0lZRlFXNlBXRUc5MWxSdzgtb2dIMjc2bkJncWN3RlVB?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 08:59:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T11:59:05.575899+00:00"
+    "last_updated_ts": "2025-07-24T12:59:11.560121+00:00"
   }
 }
