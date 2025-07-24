@@ -57,6 +57,10 @@
     {
       "title": "Mysterious blasts hit Iran one month after Israeli ceasefire - Washington Times",
       "pubDate": "Wed, 23 Jul 2025 19:13:10 GMT"
+    },
+    {
+      "title": "Taliban tortured and threatened Afghans expelled from Pakistan and Iran, UN report says - ABC News",
+      "pubDate": "Thu, 24 Jul 2025 09:35:20 GMT"
     }
   ],
   "donald_trump": [
@@ -268,10 +272,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Straight Out of Sci-Fi: AI Model Rewrote Its Own Code to Prevent Being Turned Off by Humans - Indian Defence Review",
-      "pubDate": "Thu, 17 Jul 2025 11:15:00 GMT"
-    },
     {
       "title": "Elon Musk released xAI\u2019s Grok 4 without any safety reports\u2014despite calling AI more \u2018dangerous than nukes\u2019 - Fortune",
       "pubDate": "Thu, 17 Jul 2025 13:08:00 GMT"
@@ -517,20 +517,12 @@
   ],
   "ukraine": [
     {
-      "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
-    },
-    {
       "title": "Russia Says Ukrainian Drones Targeted Moscow, St. Petersburg - The Wall Street Journal",
       "pubDate": "Thu, 17 Jul 2025 16:17:00 GMT"
     },
     {
       "title": "Russia says Trump's new weapons pledge a signal for Ukraine to abandon peace efforts - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:25:20 GMT"
-    },
-    {
-      "title": "Russia, Ukraine exchange more bodies of war dead, Kremlin says - Al Jazeera",
-      "pubDate": "Thu, 17 Jul 2025 11:26:15 GMT"
     },
     {
       "title": "Ukraine launches new points for killing Russians scheme - BBC",
@@ -663,6 +655,10 @@
     {
       "title": "Why Ukraine's new anti-corruption law spells trouble for its EU hopes - Euronews.com",
       "pubDate": "Thu, 24 Jul 2025 05:30:32 GMT"
+    },
+    {
+      "title": "A new, faster, cheaper way to arm Ukraine supercharged key artillery production - Business Insider",
+      "pubDate": "Thu, 24 Jul 2025 09:45:00 GMT"
     }
   ],
   "us_economy": [
@@ -843,6 +839,10 @@
     {
       "title": "China Reacts to Deadly Thailand, Cambodia Border Fight - Newsweek",
       "pubDate": "Thu, 24 Jul 2025 08:31:54 GMT"
+    },
+    {
+      "title": "Nvidia AI chips worth $1bn smuggled to China after Trump export controls - Financial Times",
+      "pubDate": "Thu, 24 Jul 2025 11:00:08 GMT"
     }
   ],
   "us_politics": [
@@ -925,6 +925,10 @@
     {
       "title": "Mysterious annex at North Korean missile plant has analysts puzzled - Defense News",
       "pubDate": "Wed, 23 Jul 2025 09:43:01 GMT"
+    },
+    {
+      "title": "Kim Jong Un calls for 'actual war' training by combat units - upi.com",
+      "pubDate": "Thu, 24 Jul 2025 09:34:24 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1141,6 +1145,10 @@
     {
       "title": "US Fed independence under threat, say economists, but no one expects a July rate cut- Reuters poll - Reuters",
       "pubDate": "Wed, 23 Jul 2025 11:00:18 GMT"
+    },
+    {
+      "title": "Trump to Tour Federal Reserve HQ Construction Site - Bloomberg",
+      "pubDate": "Thu, 24 Jul 2025 10:59:26 GMT"
     }
   ],
   "earthquakes": [
@@ -1907,10 +1915,6 @@
   ],
   "oceans": [
     {
-      "title": "Scientists report an unexpected accumulation of radioactive material in the Pacific Ocean - Earth.com",
-      "pubDate": "Thu, 17 Jul 2025 11:07:31 GMT"
-    },
-    {
       "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
       "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
     }
@@ -2159,17 +2163,7 @@
       "pubDate": "Tue, 22 Jul 2025 05:52:10 GMT"
     }
   ],
-  "computers": [
-    {
-      "title": "Scientists want to build 'living' computers\u2014powered by live brain cells - National Geographic",
-      "pubDate": "Thu, 17 Jul 2025 11:01:58 GMT"
-    }
-  ],
   "apple": [
-    {
-      "title": "Why Apple CEO Tim Cook\u2019s AI struggles serve as a warning for C-suite leaders - Fortune",
-      "pubDate": "Thu, 17 Jul 2025 11:46:00 GMT"
-    },
     {
       "title": "Apple iPhone 17 And iPhone 17 Pro Design Changes Revealed In Wide-Ranging Leak - Forbes",
       "pubDate": "Sat, 19 Jul 2025 09:45:16 GMT"
@@ -2209,10 +2203,6 @@
   ],
   "gaza": [
     {
-      "title": "Israeli strike on Gaza church kills two and injures priest Pope Francis called daily - The Guardian",
-      "pubDate": "Thu, 17 Jul 2025 11:08:00 GMT"
-    },
-    {
       "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
       "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
     },
@@ -2223,10 +2213,6 @@
     {
       "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
-    },
-    {
-      "title": "3 killed, 10 wounded in Israeli strike on Catholic church in Gaza - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 17 Jul 2025 11:37:30 GMT"
     },
     {
       "title": "Israeli envoy condemns \u2018glaring silence\u2019 from UN agencies - JNS.org",
@@ -2685,6 +2671,10 @@
     {
       "title": "EPA considering rollback of key climate change tools that regulate greenhouse-gas emissions, report says - ABC7 San Francisco",
       "pubDate": "Thu, 24 Jul 2025 03:00:50 GMT"
+    },
+    {
+      "title": "Reactions Pour in After ICJ Delivers Landmark Climate Opinion - Earth.Org",
+      "pubDate": "Thu, 24 Jul 2025 02:28:59 GMT"
     }
   ],
   "volcanoes": [
@@ -3301,6 +3291,12 @@
     {
       "title": "India Tax Department Boosts AI, Data Analytics to Widen Tax Net - news.bloombergtax.com",
       "pubDate": "Thu, 24 Jul 2025 00:25:00 GMT"
+    }
+  ],
+  "public_health": [
+    {
+      "title": "Experts Warn of Hidden Psychological Burden in Glaucoma - Medscape",
+      "pubDate": "Thu, 24 Jul 2025 10:06:04 GMT"
     }
   ]
 }
