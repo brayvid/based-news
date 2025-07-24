@@ -35,10 +35,6 @@
   ],
   "iran": [
     {
-      "title": "New US assessment reveals strike on Iran\u2019s Fordo set back enrichment capabilities by about two years - NBC News",
-      "pubDate": "Thu, 17 Jul 2025 21:08:32 GMT"
-    },
-    {
       "title": "Iran\u2019s Fordo Nuclear Site Was Badly Damaged by U.S. Strikes, New Assessment Finds - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 22:17:54 GMT"
     },
@@ -677,10 +673,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s Asian Supply Chains Aren\u2019t a Sham - Bloomberg.com",
-      "pubDate": "Thu, 17 Jul 2025 21:00:19 GMT"
-    },
-    {
       "title": "China\u2019s supersoldier experiments \u2018disturbing\u2019: Ex-intelligence officer - NewsNation",
       "pubDate": "Fri, 18 Jul 2025 03:06:03 GMT"
     },
@@ -933,6 +925,10 @@
     {
       "title": "Kim Jong Un calls for 'actual war' training by combat units - upi.com",
       "pubDate": "Thu, 24 Jul 2025 09:34:24 GMT"
+    },
+    {
+      "title": "North Korea\u2019s Kim urges troops to prepare \u2018for real war\u2019 - CTV News",
+      "pubDate": "Thu, 24 Jul 2025 10:56:37 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1149,6 +1145,10 @@
     {
       "title": "Trump to Tour Federal Reserve HQ Construction Site - Bloomberg",
       "pubDate": "Thu, 24 Jul 2025 10:59:26 GMT"
+    },
+    {
+      "title": "Trump visits Federal Reserve and tussles with Jerome Powell in extraordinary moment - NPR",
+      "pubDate": "Thu, 24 Jul 2025 21:07:41 GMT"
     }
   ],
   "earthquakes": [
@@ -1257,10 +1257,6 @@
   ],
   "cancer": [
     {
-      "title": "GSK's blood cancer drug fails to secure US FDA advisers' support - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 21:58:24 GMT"
-    },
-    {
       "title": "UF researchers say discovery could pave the way for universal cancer vaccine - Tampa Bay Times",
       "pubDate": "Fri, 18 Jul 2025 10:00:11 GMT"
     },
@@ -1361,6 +1357,10 @@
     {
       "title": "SpaceX Launches NASA Tracers Mission Along With Rideshare Payloads - Via Satellite",
       "pubDate": "Wed, 23 Jul 2025 23:05:56 GMT"
+    },
+    {
+      "title": "Wild new 'Skyfall' Mars mission would drop 6 scout helicopters onto the Red Planet from the air - Space",
+      "pubDate": "Thu, 24 Jul 2025 19:55:17 GMT"
     }
   ],
   "health_care": [
@@ -1409,10 +1409,6 @@
     {
       "title": "US passes Genius Act, first major national crypto legislation - BBC",
       "pubDate": "Thu, 17 Jul 2025 23:17:14 GMT"
-    },
-    {
-      "title": "House Majority Whip Tom Emmer discusses passage of cryptocurrency regulation bill - CBS News",
-      "pubDate": "Thu, 17 Jul 2025 21:22:00 GMT"
     },
     {
       "title": "Congress advances first-ever cryptocurrency regulatory framework - Straight Arrow News",
@@ -1569,10 +1565,6 @@
   ],
   "data_breach": [
     {
-      "title": "Afghan data leak: SAS and UK spies named in Afghan data breach - BBC",
-      "pubDate": "Thu, 17 Jul 2025 21:13:20 GMT"
-    },
-    {
       "title": "Data Breaches Up 10% Although Victim Count Falls Sharply - The HIPAA Journal",
       "pubDate": "Fri, 18 Jul 2025 11:47:20 GMT"
     },
@@ -1619,6 +1611,10 @@
     {
       "title": "Most data breaches have unknown causes as transparency continues to fall - Help Net Security",
       "pubDate": "Thu, 24 Jul 2025 04:00:37 GMT"
+    },
+    {
+      "title": "Massive T-Mobile data breach payments prove all settlements aren't created equal - Android Police",
+      "pubDate": "Thu, 24 Jul 2025 18:51:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1773,10 +1769,6 @@
   ],
   "environment": [
     {
-      "title": "Brazil\u2019s congress passes bill to overhaul environmental regulations - AP News",
-      "pubDate": "Thu, 17 Jul 2025 21:57:00 GMT"
-    },
-    {
       "title": "EPA eliminates its scientific research arm - The Washington Post",
       "pubDate": "Sat, 19 Jul 2025 00:22:40 GMT"
     },
@@ -1889,6 +1881,10 @@
     {
       "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
       "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
+    },
+    {
+      "title": "Record marine heatwaves may signal a permanent shift in the oceans - New Scientist",
+      "pubDate": "Thu, 24 Jul 2025 18:00:14 GMT"
     }
   ],
   "biology": [
@@ -2357,6 +2353,10 @@
     {
       "title": "Gaza Humanitarian Foundation Head Boasts Success as Palestinians Starve - The Intercept",
       "pubDate": "Thu, 24 Jul 2025 14:33:38 GMT"
+    },
+    {
+      "title": "Live updates: Macron says France will recognize a Palestinian state in September - CNN",
+      "pubDate": "Thu, 24 Jul 2025 20:24:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2727,12 +2727,6 @@
       "pubDate": "Thu, 24 Jul 2025 11:34:56 GMT"
     }
   ],
-  "quantum": [
-    {
-      "title": "Wave or Particle? Physicists Crack a 50-Year-Old Quantum Puzzle - SciTechDaily",
-      "pubDate": "Thu, 17 Jul 2025 21:17:42 GMT"
-    }
-  ],
   "hydroelectric_power": [
     {
       "title": "China Launches World\u2019s Largest Hydroelectric Project on Yarlung Tsangpo River - \u0411\u0443\u043a\u0432\u0438",
@@ -2829,12 +2823,6 @@
     {
       "title": "Rivian Automotive\u2019s Stock Surges Amid Georgia Factory Plans - TipRanks",
       "pubDate": "Sat, 19 Jul 2025 14:04:21 GMT"
-    }
-  ],
-  "infrastructure": [
-    {
-      "title": "Trump administration plans to modernize the country\u2019s infrastructure - Queen City News",
-      "pubDate": "Thu, 17 Jul 2025 21:02:00 GMT"
     }
   ],
   "world_news": [
@@ -3217,6 +3205,10 @@
     {
       "title": "China's Bronze Age - History, Empires, and Ancient Trade - MSN",
       "pubDate": "Wed, 23 Jul 2025 10:54:09 GMT"
+    },
+    {
+      "title": "AI is uncovering the lost history of ancient Rome - The Business Standard",
+      "pubDate": "Thu, 24 Jul 2025 13:35:00 GMT"
     }
   ],
   "net_zero_emissions": [
