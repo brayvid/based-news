@@ -349,10 +349,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI unveils ChatGPT agent to handle tasks as AI apps evolve - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 20:23:16 GMT"
-    },
-    {
       "title": "Meta hires two Apple AI researchers for Superintelligence push, Bloomberg News reports - Reuters",
       "pubDate": "Fri, 18 Jul 2025 01:27:00 GMT"
     },
@@ -973,6 +969,10 @@
     {
       "title": "EU prepares heavy artillery for US in tariff war - Euronews.com",
       "pubDate": "Wed, 23 Jul 2025 16:58:12 GMT"
+    },
+    {
+      "title": "Russia warns Trump\u2019s tariffs pose risks to US and global economy - Investing.com",
+      "pubDate": "Thu, 24 Jul 2025 10:14:11 GMT"
     }
   ],
   "cybersecurity": [
@@ -1389,10 +1389,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump targets solar and wind with tighter federal permitting in another blow to renewable industry - CNBC",
-      "pubDate": "Thu, 17 Jul 2025 20:52:30 GMT"
-    },
-    {
       "title": "Trump adds new level of scrutiny to wind and solar projects - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 03:56:00 GMT"
     },
@@ -1410,14 +1406,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
-      "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
-    },
-    {
-      "title": "House sends first-of-its-kind cryptocurrency legislation to Trump\u2019s desk after conservative revolt briefly delayed it - CNN",
-      "pubDate": "Thu, 17 Jul 2025 20:03:00 GMT"
-    },
     {
       "title": "US passes Genius Act, first major national crypto legislation - BBC",
       "pubDate": "Thu, 17 Jul 2025 23:17:14 GMT"
@@ -2195,16 +2183,8 @@
       "pubDate": "Thu, 17 Jul 2025 22:04:00 GMT"
     },
     {
-      "title": "Israeli Strike on a Gaza Church Kills Three - The New York Times",
-      "pubDate": "Thu, 17 Jul 2025 20:05:36 GMT"
-    },
-    {
       "title": "Israeli strike hits Gaza church, killing 3 and wounding priest who was close to Pope Francis - AP News",
       "pubDate": "Fri, 18 Jul 2025 00:24:00 GMT"
-    },
-    {
-      "title": "Mediators present updated Gaza ceasefire proposal to Israel and Hamas, Axios reports - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 20:13:46 GMT"
     },
     {
       "title": "Israel says it \u2018deeply regrets\u2019 strike on Gaza\u2019s only Catholic church, calls for investigation - CNN",
@@ -2380,10 +2360,6 @@
     }
   ],
   "battery_technology": [
-    {
-      "title": "QuantumScape Stock Surges on Solid-State Battery Breakthrough | Buy, Hold, or Sell? - techi.com",
-      "pubDate": "Thu, 17 Jul 2025 20:10:24 GMT"
-    },
     {
       "title": "China's grip on cathode tech exposes fragility in U.S. and EU battery ambitions - digitimes",
       "pubDate": "Sat, 19 Jul 2025 23:46:28 GMT"
@@ -2749,12 +2725,6 @@
     {
       "title": "New EU Sanctions Could Be the First to Hit Moscow\u2019s Crude Flows - Bloomberg.com",
       "pubDate": "Thu, 24 Jul 2025 11:34:56 GMT"
-    }
-  ],
-  "mark_zuckerberg": [
-    {
-      "title": "Meta settles $8bn lawsuit with Zuckerberg over Facebook privacy - BBC",
-      "pubDate": "Thu, 17 Jul 2025 20:05:28 GMT"
     }
   ],
   "quantum": [
@@ -3197,6 +3167,10 @@
     {
       "title": "Israel Warns Iran in New IDF Assessment - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 08:44:06 GMT"
+    },
+    {
+      "title": "North Korea\u2019s military is being transformed on the battlefields of Ukraine \u2013 so why is Seoul silent? - The Guardian",
+      "pubDate": "Thu, 24 Jul 2025 14:18:00 GMT"
     }
   ],
   "electric_vehicle": [
@@ -3267,6 +3241,12 @@
     {
       "title": "New research shows lifestyle changes may reduce fibroids - CBS News",
       "pubDate": "Thu, 24 Jul 2025 12:12:00 GMT"
+    }
+  ],
+  "us_supreme_court": [
+    {
+      "title": "Appeals Court upholds birthright citizenship, says Trump violated the Constitution - People's World",
+      "pubDate": "Thu, 24 Jul 2025 16:52:37 GMT"
     }
   ]
 }
