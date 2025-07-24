@@ -35,10 +35,6 @@
   ],
   "iran": [
     {
-      "title": "Iran\u2019s Fordo Nuclear Site Was Badly Damaged by U.S. Strikes, New Assessment Finds - The New York Times",
-      "pubDate": "Thu, 17 Jul 2025 22:17:54 GMT"
-    },
-    {
       "title": "Iran bomb damage intel suggests two nuclear sites not \u2018obliterated\u2019 - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 16:00:45 GMT"
     },
@@ -655,6 +651,10 @@
     {
       "title": "Ukraine's deputy defense minister for digital affairs steps down - The Record from Recorded Future News",
       "pubDate": "Thu, 24 Jul 2025 15:27:22 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s Zelenskyy introduces bill after anticorruption protests - Al Jazeera",
+      "pubDate": "Thu, 24 Jul 2025 18:22:30 GMT"
     }
   ],
   "us_economy": [
@@ -669,6 +669,10 @@
     {
       "title": "Trump's 'big, beautiful bill' sparks investment surge across American businesses - Fox Business",
       "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "US economy today: Trade tensions rise, AI disruption looms, retail tourism lags - Fingerlakes1.com",
+      "pubDate": "Thu, 24 Jul 2025 11:44:56 GMT"
     }
   ],
   "china": [
@@ -1623,10 +1627,6 @@
       "pubDate": "Thu, 17 Jul 2025 23:12:20 GMT"
     },
     {
-      "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
-      "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
-    },
-    {
       "title": "Bitcoin Has Found a New Purpose. What Could Go Wrong? - Bloomberg",
       "pubDate": "Fri, 18 Jul 2025 12:27:07 GMT"
     },
@@ -1742,10 +1742,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI Commission Recommends Emergency Grants for Civic Organizations - The Information",
-      "pubDate": "Thu, 17 Jul 2025 22:42:41 GMT"
-    },
     {
       "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
       "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
@@ -2055,14 +2051,6 @@
   ],
   "alternative_energy": [
     {
-      "title": "New York halts offshore wind transmission plan amid federal uncertainty - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 22:12:17 GMT"
-    },
-    {
-      "title": "Solar, wind projects on US lands will get extra scrutiny - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 22:11:27 GMT"
-    },
-    {
       "title": "Mexico's Water Crisis Could Undermine Its Clean Energy Plans - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Fri, 18 Jul 2025 16:00:00 GMT"
     },
@@ -2174,10 +2162,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel apologizes for deadly strike on Gaza Catholic church after Trump call - Politico",
-      "pubDate": "Thu, 17 Jul 2025 22:04:00 GMT"
-    },
     {
       "title": "Israeli strike hits Gaza church, killing 3 and wounding priest who was close to Pope Francis - AP News",
       "pubDate": "Fri, 18 Jul 2025 00:24:00 GMT"
@@ -2395,6 +2379,10 @@
     {
       "title": "Scientists Find Mysterious Object In Kuiper Belt, And It's Not A Planet - NDTV",
       "pubDate": "Mon, 21 Jul 2025 13:34:29 GMT"
+    },
+    {
+      "title": "Scientists May Have Found Life\u2019s Building Blocks In Planet-Forming Disk For First Time - Study Finds",
+      "pubDate": "Thu, 24 Jul 2025 21:33:05 GMT"
     }
   ],
   "physics": [
@@ -2649,12 +2637,6 @@
     {
       "title": "Scientists simulate the Solar System\u2019s \u2018ice volcanoes\u2019 in OU\u2019s Milton Keynes lab - The Open University",
       "pubDate": "Thu, 24 Jul 2025 08:01:49 GMT"
-    }
-  ],
-  "atlantic_ocean": [
-    {
-      "title": "Body found in Atlantic ocean near Maine-New Hampshire border - WGME",
-      "pubDate": "Thu, 17 Jul 2025 22:07:58 GMT"
     }
   ],
   "cosmology": [
@@ -3031,6 +3013,10 @@
     {
       "title": "Senate confirms Hurley as undersecretary for terrorism and financial intelligence - The Hill",
       "pubDate": "Wed, 23 Jul 2025 16:23:00 GMT"
+    },
+    {
+      "title": "Israel Condemns France's Recognition Of Palestine As \"Aid To Terrorism\" - NDTV",
+      "pubDate": "Thu, 24 Jul 2025 20:31:28 GMT"
     }
   ],
   "asia": [
@@ -3239,6 +3225,12 @@
     {
       "title": "Appeals Court upholds birthright citizenship, says Trump violated the Constitution - People's World",
       "pubDate": "Thu, 24 Jul 2025 16:52:37 GMT"
+    }
+  ],
+  "natural_history": [
+    {
+      "title": "New Triassic Reptile Has Enormous Crest Unknown to Science That Upends Feather Evolution Theories - Good News Network",
+      "pubDate": "Thu, 24 Jul 2025 13:00:27 GMT"
     }
   ]
 }
