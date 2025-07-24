@@ -61,10 +61,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump set to visit Pakistan in September, reports say - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 08:08:55 GMT"
-    },
-    {
       "title": "Trump faces backlash as 69% believe Epstein details concealed, Reuters/Ipsos poll finds - Reuters",
       "pubDate": "Thu, 17 Jul 2025 12:58:03 GMT"
     },
@@ -331,13 +327,13 @@
     {
       "title": "Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely - VentureBeat",
       "pubDate": "Wed, 23 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Trump administration\u2019s new artificial intelligence plan focuses on deregulation, beating China - southernillinoisnow.com",
+      "pubDate": "Wed, 23 Jul 2025 22:36:35 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Global Markets Inch Higher After Volatile Wednesday Session - The Wall Street Journal",
-      "pubDate": "Thu, 17 Jul 2025 08:41:00 GMT"
-    },
     {
       "title": "Markets will 'crash' if Trump fires Powell, Sen. Warren warns - CNBC",
       "pubDate": "Thu, 17 Jul 2025 14:32:00 GMT"
@@ -525,10 +521,6 @@
       "pubDate": "Thu, 17 Jul 2025 10:34:00 GMT"
     },
     {
-      "title": "Russian attack on Ukraine's energy infrastructure injures at least 15 - NBC News",
-      "pubDate": "Thu, 17 Jul 2025 08:29:24 GMT"
-    },
-    {
       "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
     },
@@ -675,6 +667,10 @@
     {
       "title": "Putin\u2019s bloody war puts democracy under strain in Ukraine - politico.eu",
       "pubDate": "Thu, 24 Jul 2025 03:01:00 GMT"
+    },
+    {
+      "title": "Why Ukraine's new anti-corruption law spells trouble for its EU hopes - Euronews.com",
+      "pubDate": "Thu, 24 Jul 2025 05:30:32 GMT"
     }
   ],
   "us_economy": [
@@ -893,6 +889,10 @@
     {
       "title": "House Republicans back Epstein subpoena - Politico",
       "pubDate": "Wed, 23 Jul 2025 21:58:45 GMT"
+    },
+    {
+      "title": "House Panel Votes to Subpoena Justice Dept. for Epstein Files - The New York Times",
+      "pubDate": "Thu, 24 Jul 2025 00:40:21 GMT"
     }
   ],
   "democratic_party": [
@@ -1223,6 +1223,10 @@
     {
       "title": "Google's Ambitious Push to Use 2.5 Billion Android Phones to Detect Earthquakes - extremetech.com",
       "pubDate": "Wed, 23 Jul 2025 11:01:39 GMT"
+    },
+    {
+      "title": "Hundreds of earthquakes swarm Mt. Rainier but eruption not imminent, seismologists say - Lynnwood Times",
+      "pubDate": "Thu, 24 Jul 2025 00:02:39 GMT"
     }
   ],
   "elon_musk": [
@@ -1551,6 +1555,10 @@
     {
       "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
       "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
+    },
+    {
+      "title": "Tesla Q2 earnings: downturn continues after Musk White House exit - NBC News",
+      "pubDate": "Wed, 23 Jul 2025 22:26:41 GMT"
     }
   ],
   "asteroids": [
@@ -2705,6 +2713,10 @@
     {
       "title": "Another Volcanic Eruption In Iceland Causes Evacuations At The Blue Lagoon \u2013 What To Know - Travel Noire",
       "pubDate": "Mon, 21 Jul 2025 14:09:53 GMT"
+    },
+    {
+      "title": "Scientists simulate the Solar System\u2019s \u2018ice volcanoes\u2019 in OU\u2019s Milton Keynes lab - The Open University",
+      "pubDate": "Thu, 24 Jul 2025 08:01:49 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -2732,10 +2744,6 @@
     }
   ],
   "us_senate": [
-    {
-      "title": "US Senate backs $9bn in cuts to public broadcasting and foreign aid - Financial Times",
-      "pubDate": "Thu, 17 Jul 2025 08:18:32 GMT"
-    },
     {
       "title": "US senators visit Canada to build bridges as trade deadline looms - Politico",
       "pubDate": "Mon, 21 Jul 2025 16:35:00 GMT"
@@ -3289,6 +3297,12 @@
     {
       "title": "Oil majors exit global net zero standard-setting group - MSN",
       "pubDate": "Thu, 24 Jul 2025 03:17:44 GMT"
+    }
+  ],
+  "analytics": [
+    {
+      "title": "India Tax Department Boosts AI, Data Analytics to Widen Tax Net - news.bloombergtax.com",
+      "pubDate": "Thu, 24 Jul 2025 00:25:00 GMT"
     }
   ]
 }
