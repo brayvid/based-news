@@ -273,10 +273,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Researchers from OpenAI, Anthropic, Meta, and Google issue joint AI safety warning - here's why - ZDNet",
-      "pubDate": "Thu, 17 Jul 2025 14:15:00 GMT"
-    },
-    {
       "title": "Isambard-AI Now Fully Operational, Supporting Cancer Research and AI Security - HPCwire",
       "pubDate": "Thu, 17 Jul 2025 17:03:31 GMT"
     },
@@ -338,10 +334,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Markets will 'crash' if Trump fires Powell, Sen. Warren warns - CNBC",
-      "pubDate": "Thu, 17 Jul 2025 14:32:00 GMT"
-    },
     {
       "title": "Gold Purchases By Central Banks May Be Twice As High As Reported \u2014 Analyst Says They're Buying Outside Traditional Markets - Benzinga",
       "pubDate": "Mon, 21 Jul 2025 08:49:03 GMT"
@@ -667,6 +659,10 @@
     {
       "title": "Volodymyr Zelenskyy signals retreat from power grab after mass protests - Financial Times",
       "pubDate": "Thu, 24 Jul 2025 12:56:52 GMT"
+    },
+    {
+      "title": "Russia seeking to create \u2018buffer zones\u2019 in Ukraine, says Kremlin - Al Jazeera",
+      "pubDate": "Thu, 24 Jul 2025 12:14:17 GMT"
     }
   ],
   "us_economy": [
@@ -1383,6 +1379,10 @@
     {
       "title": "Hospitals scoop up physician practices, driving prices up - Axios",
       "pubDate": "Mon, 21 Jul 2025 04:38:30 GMT"
+    },
+    {
+      "title": "After Cleveland Clinic expanded to Florida, patients say surprise fees followed - NBC News",
+      "pubDate": "Thu, 24 Jul 2025 09:00:42 GMT"
     }
   ],
   "world_economy": [
@@ -1903,14 +1903,6 @@
   ],
   "mars": [
     {
-      "title": "Largest piece of Mars on Earth sells for nearly $5.3 million at auction - CBS News",
-      "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
-    },
-    {
-      "title": "Texas investigating Skittles maker Mars for failing to remove artificial food dyes - Food Dive",
-      "pubDate": "Thu, 17 Jul 2025 14:26:15 GMT"
-    },
-    {
       "title": "Neither fiction nor fantasy - NASA discovers traces of organic life on Mars and the finding could change humanity's future - Uni\u00f3n Rayo",
       "pubDate": "Fri, 18 Jul 2025 12:00:28 GMT"
     }
@@ -2218,10 +2210,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
-      "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
-    },
     {
       "title": "Israel strikes Gaza Catholic church, killing three - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:17:03 GMT"
@@ -2833,6 +2821,10 @@
     {
       "title": "A weak housing market could deliver rate cuts and rescue the Fed from Trump - Fortune",
       "pubDate": "Mon, 21 Jul 2025 16:28:00 GMT"
+    },
+    {
+      "title": "European Central Bank holds interest rates as tariff turmoil keeps policymakers on edge - CNBC",
+      "pubDate": "Thu, 24 Jul 2025 12:17:13 GMT"
     }
   ],
   "psychology": [
@@ -2842,10 +2834,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "Proposed defense budget includes 3.8% pay bump for servicemembers - 13newsnow.com",
-      "pubDate": "Thu, 17 Jul 2025 14:35:00 GMT"
-    },
     {
       "title": "House passes defense appropriations bill with millions for Israel - JNS.org",
       "pubDate": "Fri, 18 Jul 2025 20:38:26 GMT"
@@ -3305,6 +3293,12 @@
     {
       "title": "Experts Warn of Hidden Psychological Burden in Glaucoma - Medscape",
       "pubDate": "Thu, 24 Jul 2025 10:06:04 GMT"
+    }
+  ],
+  "health": [
+    {
+      "title": "New research shows lifestyle changes may reduce fibroids - CBS News",
+      "pubDate": "Thu, 24 Jul 2025 12:12:00 GMT"
     }
   ]
 }
