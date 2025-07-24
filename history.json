@@ -933,10 +933,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Senate Democrats slam Israel in major shift of tone - Axios",
-      "pubDate": "Thu, 17 Jul 2025 00:23:26 GMT"
-    },
-    {
       "title": "ICE raids and Medicaid cuts are bad news for California's immigrants. State cuts could be \u2018much worse.\u2019 - Politico",
       "pubDate": "Sun, 20 Jul 2025 18:00:00 GMT"
     },
@@ -1103,6 +1099,10 @@
     {
       "title": "Clorox files $380 million suit blaming Cognizant for 2023 cyberattack - Cybersecurity Dive",
       "pubDate": "Wed, 23 Jul 2025 16:33:20 GMT"
+    },
+    {
+      "title": "Microsoft Hack Hits Hundreds of Firms, Agencies as Damage Spreads - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 17:36:04 GMT"
     }
   ],
   "recession": [
@@ -1761,6 +1761,10 @@
     {
       "title": "Veteran fund manager who predicted Nvidia stock rally resets forecast on China shock - TheStreet",
       "pubDate": "Sun, 20 Jul 2025 14:07:20 GMT"
+    },
+    {
+      "title": "Trump wanted to break up Nvidia \u2014 but then its CEO won him over - The Verge",
+      "pubDate": "Wed, 23 Jul 2025 23:25:46 GMT"
     }
   ],
   "earth_science": [
@@ -1922,10 +1926,6 @@
     }
   ],
   "oceans": [
-    {
-      "title": "Scientists issue warning over disturbing business idea proposed for ocean floor: 'We all see how destructive' - MSN",
-      "pubDate": "Thu, 17 Jul 2025 00:31:45 GMT"
-    },
     {
       "title": "Scientists report an unexpected accumulation of radioactive material in the Pacific Ocean - Earth.com",
       "pubDate": "Thu, 17 Jul 2025 11:07:31 GMT"
@@ -2467,12 +2467,6 @@
       "pubDate": "Mon, 21 Jul 2025 12:30:17 GMT"
     }
   ],
-  "oceanography": [
-    {
-      "title": "Scientists Discover Unprecedented Abyssal Predator 8,000 Meters Deep, Shaking Up Deep-Sea Ecosystems - MSN",
-      "pubDate": "Thu, 17 Jul 2025 00:20:25 GMT"
-    }
-  ],
   "astronomy": [
     {
       "title": "Scientists Spot a Cosmic Visitor That May Be 7 Billion Years Old - Men's Journal",
@@ -2903,6 +2897,10 @@
     {
       "title": "New Pentagon rules limits medical waivers to join military - The Hill",
       "pubDate": "Tue, 22 Jul 2025 21:50:00 GMT"
+    },
+    {
+      "title": "US Approves $322 Million Military Aid Package for Ukraine, Including HAWK Air Defense and Bradley Vehicles - UNITED24 Media",
+      "pubDate": "Wed, 23 Jul 2025 20:53:12 GMT"
     }
   ],
   "cloud_computing": [
@@ -2979,6 +2977,10 @@
     {
       "title": "First-ever AI malware \u2018LameHug\u2019 hides in ZIP files to hack Windows PCs - The Indian Express",
       "pubDate": "Sun, 20 Jul 2025 03:23:00 GMT"
+    },
+    {
+      "title": "Proposed Senate Bill Would Prohibit Use of Personal Identifying Information and Potentially Copyrightable Works to Train Large Language Models - The National Law Review",
+      "pubDate": "Wed, 23 Jul 2025 20:48:45 GMT"
     }
   ],
   "business": [
@@ -3007,6 +3009,10 @@
     {
       "title": "'Chaos' reigns beneath the ice of Jupiter moon Europa, James Webb Space Telescope reveals - Space",
       "pubDate": "Mon, 21 Jul 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Scientists solve the mystery of plasma oscillations above Jupiter\u2019s poles - Universe Space Tech",
+      "pubDate": "Wed, 23 Jul 2025 14:10:48 GMT"
     }
   ],
   "pollution": [
