@@ -61,14 +61,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Justice Department fires prosecutor on Epstein case and daughter of ex-FBI director - AP News",
-      "pubDate": "Wed, 16 Jul 2025 23:50:00 GMT"
-    },
-    {
-      "title": "Trump lashes out at \u2018weaklings\u2019 who believe Epstein \u2018bullsh*t\u2019 amid building GOP pressure to release documents - CNN",
-      "pubDate": "Wed, 16 Jul 2025 23:53:00 GMT"
-    },
-    {
       "title": "Trump faces questions on Powell, Epstein as Congress works on bill to claw back spending - The Washington Post",
       "pubDate": "Thu, 17 Jul 2025 05:15:52 GMT"
     },
@@ -277,6 +269,10 @@
     {
       "title": "Russia Pumps Less Gas as China Fails to Offset Lost Europe Flows - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 16:00:01 GMT"
+    },
+    {
+      "title": "Putin expands FSB powers, turning Russia into military dictatorship \u2013 intelligence - Ukrinform",
+      "pubDate": "Wed, 23 Jul 2025 12:22:00 GMT"
     }
   ],
   "ai_safety": [
@@ -540,10 +536,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia hits Ukraine despite Trump ultimatum - The Hill",
-      "pubDate": "Wed, 16 Jul 2025 23:01:00 GMT"
-    },
     {
       "title": "Ukraine-Russia war latest: Zelensky says Trump can succeed with Putin where Biden failed - The Independent",
       "pubDate": "Thu, 17 Jul 2025 06:26:00 GMT"
@@ -895,6 +887,10 @@
     {
       "title": "China Spy Stole Secret US Missile Tech: DOJ - Newsweek",
       "pubDate": "Wed, 23 Jul 2025 12:48:11 GMT"
+    },
+    {
+      "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
     }
   ],
   "us_politics": [
@@ -1167,10 +1163,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Trump says he's not planning to fire Fed's Powell - Reuters",
-      "pubDate": "Wed, 16 Jul 2025 23:32:05 GMT"
-    },
-    {
       "title": "Can Donald Trump fire the chair of the US Federal Reserve? - Financial Times",
       "pubDate": "Thu, 17 Jul 2025 19:03:43 GMT"
     },
@@ -1411,10 +1403,6 @@
   ],
   "world_economy": [
     {
-      "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
-      "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
-    },
-    {
       "title": "Teflon capitalism: the mounting threats to the global economy - The Economist",
       "pubDate": "Tue, 22 Jul 2025 08:30:00 GMT"
     }
@@ -1587,6 +1575,10 @@
     {
       "title": "Tesla starts 'first builds' of affordable model, posts steepest drop in quarterly revenue in over a decade - Reuters",
       "pubDate": "Wed, 23 Jul 2025 20:35:49 GMT"
+    },
+    {
+      "title": "Tesla reports sales miss as auto revenue drops for second straight quarter - CNBC",
+      "pubDate": "Wed, 23 Jul 2025 16:00:09 GMT"
     }
   ],
   "asteroids": [
@@ -2017,6 +2009,10 @@
     {
       "title": "The Magic at the Heart of Quantum Computers Has Finally Worked - Popular Mechanics",
       "pubDate": "Wed, 23 Jul 2025 12:30:00 GMT"
+    },
+    {
+      "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
+      "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2083,10 +2079,6 @@
   ],
   "ethereum": [
     {
-      "title": "Massive Whale Profits $15 Million\u2014Now Betting Big On Ethereum To Crash - TradingView",
-      "pubDate": "Thu, 17 Jul 2025 00:00:00 GMT"
-    },
-    {
       "title": "Diguised Unemployment? 88% of Ethereum Protocols Are Not Earning Revenue vs 75% in Solana - CoinDesk",
       "pubDate": "Wed, 23 Jul 2025 07:43:37 GMT"
     },
@@ -2149,6 +2141,10 @@
     {
       "title": "Trump is trying to prop up coal, oil, and gas\u2014but the economics of fossil fuel are failing - Fast Company",
       "pubDate": "Wed, 23 Jul 2025 09:06:42 GMT"
+    },
+    {
+      "title": "Clean energy costs drop below fossil fuels as UN urges rapid shift - ehn.org",
+      "pubDate": "Wed, 23 Jul 2025 17:34:42 GMT"
     }
   ],
   "finance": [
@@ -2237,10 +2233,6 @@
     {
       "title": "Israel bombs Syria as more than 90 Palestinians killed in Gaza in 24 hours - Al Jazeera",
       "pubDate": "Thu, 17 Jul 2025 03:42:57 GMT"
-    },
-    {
-      "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
-      "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
     },
     {
       "title": "European missile group MBDA selling parts for bombs that have killed children in Gaza - The Guardian",
@@ -2445,6 +2437,10 @@
     {
       "title": "Gaza facing man-made 'mass starvation', says WHO's Tedros - Reuters",
       "pubDate": "Wed, 23 Jul 2025 15:49:44 GMT"
+    },
+    {
+      "title": "UN official reiterates call for Gaza ceasefire as \u2018nightmare of historic proportions\u2019 unfolds - UN News",
+      "pubDate": "Wed, 23 Jul 2025 17:11:28 GMT"
     }
   ],
   "battery_technology": [
@@ -2911,10 +2907,6 @@
   ],
   "cloud_computing": [
     {
-      "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity - Reuters",
-      "pubDate": "Wed, 16 Jul 2025 23:10:02 GMT"
-    },
-    {
       "title": "Amazon cuts some jobs in cloud computing unit as layoffs continue - CNBC",
       "pubDate": "Thu, 17 Jul 2025 16:10:10 GMT"
     },
@@ -3043,6 +3035,10 @@
     {
       "title": "'The Mission': Revelatory on CIA leadership, less so for privatization and technology - Jack Poulson | Substack",
       "pubDate": "Mon, 21 Jul 2025 18:24:00 GMT"
+    },
+    {
+      "title": "House report reveals Brennan pushed flawed intelligence on Russia-Trump collusion in 2016 - The National Desk",
+      "pubDate": "Wed, 23 Jul 2025 15:14:12 GMT"
     }
   ],
   "neuroscience": [
