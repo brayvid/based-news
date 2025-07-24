@@ -503,6 +503,10 @@
     {
       "title": "Trump administration recommends location verification for AI chips - Reuters",
       "pubDate": "Thu, 24 Jul 2025 01:23:03 GMT"
+    },
+    {
+      "title": "White House unveils U.S. strategic plan on AI. Here's what it includes. - CBS News",
+      "pubDate": "Wed, 23 Jul 2025 22:33:42 GMT"
     }
   ],
   "climate": [
@@ -520,10 +524,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Zelensky says Trump can succeed with Putin where Biden failed - The Independent",
-      "pubDate": "Thu, 17 Jul 2025 06:26:00 GMT"
-    },
     {
       "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
       "pubDate": "Thu, 17 Jul 2025 10:34:00 GMT"
@@ -675,6 +675,10 @@
     {
       "title": "Russia-Ukraine talks end in Istanbul after less than an hour - CNN",
       "pubDate": "Wed, 23 Jul 2025 17:45:00 GMT"
+    },
+    {
+      "title": "Putin\u2019s bloody war puts democracy under strain in Ukraine - politico.eu",
+      "pubDate": "Thu, 24 Jul 2025 03:01:00 GMT"
     }
   ],
   "us_economy": [
@@ -858,10 +862,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate approves Trump administration cuts to public broadcasting and foreign aid - NPR",
-      "pubDate": "Thu, 17 Jul 2025 06:53:45 GMT"
-    },
     {
       "title": "House passes Trump\u2019s $9 billion DOGE cuts package in another legislative win for president - CNN",
       "pubDate": "Fri, 18 Jul 2025 04:06:00 GMT"
@@ -1381,6 +1381,10 @@
     {
       "title": "Teflon capitalism: the mounting threats to the global economy - The Economist",
       "pubDate": "Tue, 22 Jul 2025 08:30:00 GMT"
+    },
+    {
+      "title": "Experts: Tariffs spur global realignment - China Daily",
+      "pubDate": "Thu, 24 Jul 2025 03:32:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -1547,6 +1551,10 @@
     {
       "title": "Tesla reports sales miss as auto revenue drops for second straight quarter - CNBC",
       "pubDate": "Wed, 23 Jul 2025 16:00:09 GMT"
+    },
+    {
+      "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
+      "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
     }
   ],
   "asteroids": [
@@ -2425,6 +2433,10 @@
     {
       "title": "Gaza Faces Environmental Disaster as War Creates Waste, Contamination - Bloomberg",
       "pubDate": "Thu, 24 Jul 2025 04:06:48 GMT"
+    },
+    {
+      "title": "Brazil to join South Africa's Gaza genocide case against Israel at ICJ - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 23:21:34 GMT"
     }
   ],
   "battery_technology": [
@@ -2802,10 +2814,6 @@
     }
   ],
   "amazon": [
-    {
-      "title": "Trump Hits Amazon with 50 Percent Tariffs - Counterpunch",
-      "pubDate": "Thu, 17 Jul 2025 06:00:34 GMT"
-    },
     {
       "title": "Exclusive: Amazon's AWS cloud computing unit cuts jobs - Reuters",
       "pubDate": "Thu, 17 Jul 2025 15:32:08 GMT"
@@ -3279,6 +3287,12 @@
     {
       "title": "China's Bronze Age - History, Empires, and Ancient Trade - MSN",
       "pubDate": "Wed, 23 Jul 2025 10:54:09 GMT"
+    }
+  ],
+  "net_zero_emissions": [
+    {
+      "title": "Oil majors exit global net zero standard-setting group - MSN",
+      "pubDate": "Thu, 24 Jul 2025 03:17:44 GMT"
     }
   ]
 }
