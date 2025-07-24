@@ -1,52 +1,72 @@
 {
-  "Cybersecurity": {
+  "Financial Markets": {
     "articles": [
       {
-        "title": "Microsoft Hack Hits Hundreds of Firms, Agencies as Damage Spreads - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFE2MVhjX09pZDZWNUpabC0wcDJEdmNUVW9mVVpNLURZNS11bS1LN1lGcjF2enpLWVliVmNwX1g5ZGcyOUpRdk4xOFkwN0FoRHdoeFdNVkEzUnh6TzZrYktPcko3TTEtOV9td01ULUw0YmVHYk5CeFZ3Y09aWm81VFBmS0Z6a1JMRnVmRzNQTVo2VHNySXphNEFidFY3OVpuMnZJWERwbTB5dWc2eGVFMldvZ24?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 17:36:04 GMT"
+        "title": "US stock market concentration risks come to fore as megacaps report earnings - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0NMRklCWlNmbGs4TFNPenExYUotaVQwZm5tZlU3Tk81UjZPNGdMU1p5TDFQRlBXWWttbWh5a2ZXTHpOZXBSWTRHOTlnd0tTYnZpeVotU1ROWHZoWGlRLU9tUmNUdzBtUHB2aHhDSFo3UENXWlpRdUJFM0NZU0ZQSW80VWF0WnZaLTMzRGxSRmxDSGRtc3NoZ3NXSHpzNm9VQWg2eHVBdk9NMDVaOXhwU1Z5XzQ0Qm81SDRXVnU4LWtWalN6NDRMRjlxSElXUnhaUnc?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 14:07:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T00:59:58.168618+00:00"
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
   },
-  "Military and Defense": {
+  "Terrorism": {
     "articles": [
       {
-        "title": "US Approves $322 Million Military Aid Package for Ukraine, Including HAWK Air Defense and Bradley Vehicles - UNITED24 Media",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjZXbURDVEQ2djJZRHFibXVWRmRGM2RKMUNvTzhrTURPbHBRRXU0YUU5WTA3WHdrN25iWjRJTzNyREVqYWpwOUpnSFZVUV9FTUIwUG1JcndobVUzQkcxbE9kNklsU09ienkySTJXZHZzWDlLdmRHSUFacHJMVjRMeDBwUXB0eko0dk9mRE5qcGxpYm5iTkhaTkZwUW5HZkFpN1BDOHNHbTA0cE1hMlNoT1ZDS2xzTkpEajA4clVoQ3h4UTdWMnVvUUo4MGFqQ3V4cm9vdERldEFsZmVSN0t0Z09n?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 20:53:12 GMT"
+        "title": "Senate confirms Hurley as undersecretary for terrorism and financial intelligence - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWnJGVUwxQVdEZWdvSzhNTWhvdjhYb20wb0JYSXprbXd6czNzY2xGZUVFdjlyZng4QjMxd3RaSkxNR0IzWTZMSDRlUkxNNUNHRmJiTkFSS0VZWXZuQmpuOGRiT2dmNXdfY3BxQUZKZTBXb0dGejA4SFVuVWbSAYIBQVVfeXFMTXc4ZHg3WjVuQkhtTVZCX3JkNHJaR1JlMUpNWXoxbnFScVZDUlRGX3NrSXNycVJPbjJ2SzhCTVlrTkJrTU5NMjJpU0RSbDNrVy1rTUtSUVptVHlkZWVlZ1lCQnZ1alNEU1h4a2htcUtyMHgzRWRPQlp1dWdwZVdPakZMUQ?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 16:23:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T00:59:58.168618+00:00"
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
   },
-  "NVIDIA": {
+  "Space Exploration": {
     "articles": [
       {
-        "title": "Trump wanted to break up Nvidia \u2014 but then its CEO won him over - The Verge",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXUteEstWkIwc1JWWmkzN1BlSTRBMjNuNUk2UW5mWHU1TkZVRFA0Z0FIYndXQldHMWZsQlRjNTBGMWJGLVd1c2NJcFctUG1mN21qMlI1SDVDckRyNWFtREI0MFZWNW5wR1B0Uk9ZeFFhWG0temxqRHp4RTR6dm5LS2FIb05DcEE?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 23:25:46 GMT"
+        "title": "SpaceX Launches NASA Tracers Mission Along With Rideshare Payloads - Via Satellite",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzRJbUpYSkMtZW5XdDItM1hsZ2g1QXNsODRlMjdDeE92VEhObEtQdmk3bDhxMnFNSGxlNy1ESzk0amc3Rm84WU9jdHJiemJ2WEUwem9JNnRkdmJxNlR5Z1NTd25TMnRkNWVISEdiaEZOSGRaY3BVcFVpaDJ2cVE0cHdNOVZEQ3d3emtPTjcyNENacmdWSGZGb2xIT2F6Q0FPVkdSYnE2Y3h5VTZBVWZuTm5sUEVLdWM?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 23:05:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T00:59:58.168618+00:00"
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
   },
-  "Jupiter": {
+  "Environment": {
     "articles": [
       {
-        "title": "Scientists solve the mystery of plasma oscillations above Jupiter\u2019s poles - Universe Space Tech",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjM2RUp1RUlESWR6WEVUZ0ltWmpmakVGWkowbG5OUnhBN0NDZTJpUG1nX2RYeFY3OE1wZ0tIR25jTTRhd1hPMlh0dDVwbk03YUVOeGpOTkdlWjJMYmVwMmh1SVNjZTlRLVRMSHJhcWp3UXNDRHRYWnd6RXVvbldESXpvc1l3czJUZDFBbTBuWmtjUENkWU1rY1pWWHBpOFNuS1lnYVROOG4?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 14:10:48 GMT"
+        "title": "EU eyes more cutbacks to environmental laws after industry criticism - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUM0NEhNQjRYbmd4OUxzT2MzYlJGN0ZENk5pbVNhZHdhSTlRVXJaRXJzVzFzbUUwS0NNd0Roa3I5QXFadFRhT1licGdIUnVUbGpmSG43VjlhR1ZnczByMnhkcnFQSmhjRFVBUUZtMnNGZy1JaXNuekd0aWlqbXFiTEpnMDlOejRBeGduM2xlelJmeGJTaFQ4VGUzV0JhSTFfWkVhcWFWclhYa0dqWXVPLWc1bGZDWkVTa01mTnpiVjBIanhjUWFXSzN1dw?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 19:04:21 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T00:59:58.168618+00:00"
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
   },
-  "Large Language Models": {
+  "Fusion Power": {
     "articles": [
       {
-        "title": "Proposed Senate Bill Would Prohibit Use of Personal Identifying Information and Potentially Copyrightable Works to Train Large Language Models - The National Law Review",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdS1OeV9QVUQzQkJGdXA2Q2Y5dnhCazgtbmlJQl9ET29wZkM3UEkxcE9ZeHVTU25HVWd4TENZTmtCclY2ZzBfTVVBVzNQdHBTWHlRckw1clRSOGw0dllKVW1SR2M1c1A1Q0NGMUFMRi1LaWY1RGo1Z05Jc2t5V09CQmZWUi05clNtbXFZRFBYNmFtTjlYekdOTGdMV0FZRlB1WnE4MlM5eE9Ldlduc0HSAbMBQVVfeXFMTmlxSExuanR3R0gzLWt0Q3M1NjBXb2FSOEZaTHdHa2Z3Z3U0UE1XZndVWHRSXzBheDVPM2ZJRzBkbHVWZV9qWmhud21DMkdjSEJlNzVMV2EyVkg1NWZ3c1MwRU9ReDZqYmtyTHJpNXA5bGUtUUZyWDhpNkF3REg3YXhSYWpLSU9yTjRfYWxpV09yS01Fc1RQR1NNYXMtcnc3Y2NVSVdlQ0dCUTlScFUtWC12Qm8?oc=5",
-        "pubDate": "Wed, 23 Jul 2025 20:48:45 GMT"
+        "title": "China Launches National Fusion Energy Firm With $1.6 Billion Investment from SOEs - Caixin Global",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHRVT095dDhHNnBMWHZkV0dTWl95c3FFNV9KYnBLVVF5T3g4RlRKdGwzYUJ4VzN2dlpObFJpQjFQaGdXNjRUN3B3MXdCNFRFak5Rc2xoVi1vcTkyR1pqLWtvVENTZ0FtUHViUngyNmEtaEE4NG9DcVFiVjhDNzZqN3cycm5ETFkySWNqbF9OM2NyX2ltdWdyNVpxWDFSUlhVbVdRQjhUVUZBTWNnOVVPRHdETktjVXQyZ244ZUVvTG1pa0s3UVNYYmMtckhjVEE?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 20:46:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T00:59:58.168618+00:00"
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Health network announces 2023 data breach - WHIO-TV",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0Z0aTJlQzhISnJtWnR4cUo1NzNRQVFJSDlTaGZFSTluQ1dMMFJQUzFIQnUxTnViTVhNMnZVQW1VM0pROUhZcXdXMjFrOXJCNjlydko2WkJuYmFZRk5nWWoybldvQjB4TkZZUUFlMHVNZUJKUVpaSnhydnpiQkduWTJ1QkJpY0VWdWxSOW9OY2NPVElkMVpVWE05OHN3VVpoem1HU0hIMG8?oc=5",
+        "pubDate": "Wed, 23 Jul 2025 23:57:06 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Trump administration recommends location verification for AI chips - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0w1RkF0Q08yN3FUdmxDOUJoWV9KS3FRTzJFUlQ4NFg0bkUzR2hzbWFIX1J5RGJ4aXVYVGxzT3pRRHBKM0dwbEFxeGxleXpZZjY1QnQ0eWtHdkM5X29TeU5LUjk4NGFNaEY2c3VGNnRlX1Ayd1kzX0JEMU9CY0ozS3RZMm5Oa05JUUM3Q2pLVVB4RXZhcGVTdXdNenNzeEZBdThXWGw0NDBLeUJtODQw?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 01:23:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-24T01:59:44.289857+00:00"
   }
 }
