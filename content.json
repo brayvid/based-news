@@ -1,52 +1,62 @@
 {
-  "US Economy": {
+  "Business": {
     "articles": [
       {
-        "title": "US economy today: Trade tensions rise, AI disruption looms, retail tourism lags - Fingerlakes1.com",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jU2FXZzhLOFdoWXZhQ21jSHJnLVRFNlZCMjlYZXFSWFRkRkdRX1FIYXFSbVZsN3pmSnBwOVdsRU1pZXFhdzVEY2NON01uUnBVcFAtNm4zV1Bvd3k0VGl0bHZ0ZzJqZU9uejNYTDlaQWs5TG5yUS1iSWFB?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 11:44:56 GMT"
+        "title": "US Business Growth Hits 2025 High As Services Strength Offsets Manufacturing - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVJckxqeGU3WjNsNlVvV1ZLWHdsLUc4dEJraXRCVFF4OEJQaHBCMHpFRm5vT25rY3ljTEhDd1I1X1hPdkJVNHBKRm44NEdLeVQyLS1KSmFmQThvZ2IxeGZoQ2RLUm5PZ1JCMzZmWnF1T1g1eE5CQWQ3RHRfbTg2M2NEemdKTmtwSUg3VzlQVTJfMTNUWnE5RUhTbTVfS1kxdGRFQ2dleDQ1X2NNRC15cGVuTkN4Zw?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 13:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T22:59:53.806497+00:00"
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
   },
-  "Ukraine": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Ukraine\u2019s Zelenskyy introduces bill after anticorruption protests - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0syeGxhbXNrTlVXZzVGVXdqQm1GRU9JWFdEbWxEdkpsam85MmNITDNyMGxEWWx0VzF1MmhMQ0l4S2hhUDNWRHpZOVFJTnFiaFRvLW4xNk5idWR5aFlOaVlqamljWEF4NGlaMDM4d2tQdW8zcW9sSld5bjlXMENVaUtVcHkxR21tVS0wb04xY2N6Q1VONEtQU3ZKOVEzVXJQb3pvTzlmSy1HbW4tb2pFWU1wTlrSAboBQVVfeXFMTWJHVUZ6Zks2RjNmUmhFWUV5MTRUaGxLUU9HRlptYTYxVTh1VFhsZVdfMUJCM0l4SnlZSlR1dWY1ZnF1SlJDTDFseGE2OWhoRE9UY0Ficmw4ejQxd0dvRXVzNXVGWkdLNmh6NFJ0cEZ1d2dqMjJ0SXBQZHcwSlRfUTVUTy1SeWpHdGdBbUZGU1JsY3N3VDJxeFc1Zmo4ZzNoeEFqN2dfbVlVVF8yeGEzMXVyU0NHYmNtbmN3?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 18:22:30 GMT"
+        "title": "Trump insists 'no tension' with Powell after meeting despite awkward clash on camera over renovation cost - Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFNqdkpWZXdPaUxlLTBfdDRhX2N4RnNia2dLVmxZdUpGUldhWWM5NXRHSXVIUzI3VVhLT0xNQi1MUG0ybmRFZUFHOFhFb1pGTUhTQldKM3hQdVc1MC10ZHZMc0ROTGxHZENIcG5lOWsyel9kUmViUV8xb3RCekUtQnZSd01JckRzNDNtR3BlRzVONVVhVkdVTjNCRU11bkJIRU54N2lpMmZFcWdPb3BrclNhR29meEFqOG1XZUhfbnRpb05BY3I0LTJpNHR6c0pG0gHWAUFVX3lxTFBGNUVFU1VNbVozVzZ2R3J6Y2xubkNoN0dJMTM1VHJtRy10cHhZWWQ5RXJvcUV4QThhWk1YT0ZiODhIaGRzQjhpZUEwNTRuLXRyU0VKc0tFNmxDbFkxTllyR2M1b3NYUW9vUGVocTJPV3d2VUo2SzdhSVh2RGF4SFExRXk1ZmNwQzYtNnpabzdPRUpXTVRGbTVUa2pkR0FSUFh0SmJkU2FENUluWk8wOVB4SDlxbzlKX3lFZUkyeTkxT3BnekhOLXBvZG1mZ3VSOERqSm1DWWc?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 23:44:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T22:59:53.806497+00:00"
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
   },
-  "Terrorism": {
+  "Cancer": {
     "articles": [
       {
-        "title": "Israel Condemns France's Recognition Of Palestine As \"Aid To Terrorism\" - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjhVS1dfcXpTYmFPNVl4SlhTNE1lQkJPY1NfcjI0WVJTRncyaWliVy1pa0xacm9FU0tGcG9rOTZBMm1JVVJFcDZOV09TX3ZsN1JJMHMxYTBhallGbWg1UUhLM1ltajd1cWdfOFI3MUVwamJiN1Z1b1NjUG5fUE1kLXk4aUlNNzdObF8ybWpSUW10Y0xsVDNPUVpiWHFITmtzeDFpRjJBQ25Ecmwt0gG0AUFVX3lxTE9YTnhZMGwwMldTS1dfMHIwbkx4ckNoYkdzOHZBcjk4dnVibnRZY3RZeXc4NXdiNFdQbE0tbm5QdGdENXE2MGpwd1p0NnRENi1MM0ZWOUdQVUNncVpQQWZJbTRXM20tNTU4NkRBZHRJRFFpdlNZTFZHa0FudElfd2hNX2ZjZDJFR0U0aVpxZUFYWUwyVE5IcHYwMWNlalVyRWdlY19wYUlPS18yeE50N21HTDFGXw?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 20:31:28 GMT"
+        "title": "New FDA-approved esophageal cancer test EsoGuard detects disease early, and it only takes 90 seconds - ABC7 Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblp2TzNMbHIxR3NFUHFIU0NXWnhsNjg4VnFieFVBRG45Uk9DU0tVU1U4ME44eF94SGtzUlZEZk5FblFoQlBLV2pDTVdKUUw2YWZ2RGhyby1qMngxQW9Ea254ZDFiU2F6ekdEcFhWNVBVcWZCNmlSbVdPblp4VFplMVZFRmh1UXRjdy1MUFdKeC1JMWQtNURGTGE2bGlVOVZHUUpNSXh2X2ZSSXNNSWRSeWVVOGZEX3hkcnJB0gHAAUFVX3lxTFBoeG9kbk9NMlo3eEpPR21kODUyU2N0bGRDSjhrNVUtQ3hWeUNCM0tZTk5ZcFhpNUVhV2JldDIydElQTGRPTDk5RFZmUi14TVZjWS0ycnNsNVFRT2JzX015NnNfX3RWQjRPSUZod1JJZjhDdWJEa05acVI2c2NRcUFVem9QUlF1NkZ6YlVOV2d3OER1RFl4T0FHU005UTBwdG94MXVSUjFhOFBrZm43NkNGOFd3d2o3WXVFdTl3VkhkQQ?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 00:26:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T22:59:53.806497+00:00"
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
   },
-  "Astronomy": {
+  "Algorithms": {
     "articles": [
       {
-        "title": "Scientists May Have Found Life\u2019s Building Blocks In Planet-Forming Disk For First Time - Study Finds",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUhwUUJkckt3U1dGWm0tbHNYazhjSy1qOGZ5VVpDTkdKSkNsY0RhWXg1dGVXMFBNaHdQQi1sdHBaTThPUktlcUJaX2hoQ3paYXRLam5wTjFuNFJjLWRxOW9YeC1LVTFwb3Z3YkJSU0xQOUlDTVRpNEtPQmVRQVhHSzFkU3NWVHhFS01QYlRHYzh4bEdlN1E?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 21:33:05 GMT"
+        "title": "AI-Powered Cyber Attacks Utilize ML Algorithms to Deploy Malware and Circumvent Traditional Security - gbhackers.com",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45UFo5Nm1NWGV3Z1lsZVVpaDAzdjZKUnhWazZIX3lkbi01enNEeHNHN2ZGZDlCbEdqSEJuSDJQU3ppZndINW9icEhpM2VBbnRUSHpDek02aTRqemJnWlZ3ejhvWVVfdWlBdUtkanVCdmxoYlJ6YmJxatIBfkFVX3lxTE1ZSkNobGYzZ01HR2pFelp1VmYyYlhLUi1PWEdJbDJKVmg1Z3VPcEFFZENYUko1bkVzZnlRNk9jTEY5dmN5WlVyUHlBaDVjMTNKWGlJaW8yaUdOTndxRkdkdFVySnhuTURLYVRzU1VuNkFSN19keWpMano3WlNoQQ?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 19:31:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T22:59:53.806497+00:00"
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
   },
-  "Natural History": {
+  "Science": {
     "articles": [
       {
-        "title": "New Triassic Reptile Has Enormous Crest Unknown to Science That Upends Feather Evolution Theories - Good News Network",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYU1UdnhWUFhMdnBDT3FXZXYzNG80alh3bFYtREpoZHl4SW4yZ0J4a2pVYndHaVZVaHB0REEzMG9iM1J2VVZhay12TTZ2WWpFVDZqMGVlOWloazE5c1JIQ05JNXM2MGQySUx1ZXdHSDNMdE56X1JFSlhWa3ZQQVcySzN4akdydVB2eDd2dGJuRGdEM1BmMXR5S3N6Z3Q2MXhhM0czN2w5SUFJbVBRc3lxb1pNMjFiR3RqcE10bUs4Rk5mRnVvcDBPUWp3?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 13:00:27 GMT"
+        "title": "Scientists warn of bigger hailstorms as research funding faces cuts - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjVwaUJwRjdNU1E4T3g0Tldwd0VwUHltdDZxUTAwLURWMVFlUnc2a21FMks1QVE3ZkZDWnpOOHpQNzJzc1lhdUIwUzRXd01fRHAtNmxMZV9faDdrTmU2RDN4QTZ1Y0NPd0tBYlVxN3dycjRieTRCMm4ydkJqWG5fQUxFWDZ1emhsemdaNWY2TUR4WHNLUUx2eDd2SE9CX1lEdU1Jc2dGRVN4V2pOckNlY2V6R08?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 23:17:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-24T22:59:53.806497+00:00"
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
+  },
+  "SpaceX": {
+    "articles": [
+      {
+        "title": "SpaceX Starship Lost Over The Indian Ocean After Losing Attitude Control During Flight 9 - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmdheWJOdm1ZblFhLWtZRHdsYVdkSnNqNlBUV2pvckptdlYyb1pKN1BRYXhOTmtQclpVRkt3OXpYUUhrbHhDTXdzWUlmWkp2aG5oWVYyWmNyM0VRZHpzcUdnSjlMNzZuekNnTkdQQ2NvaUUwS2VmM05ROUZvZ1FoazB5d0JNR1dwT25NWmVvLU5qMTdIZDVQZlVDNTV0TXR6SDhXNmhwYUlqaEFZNDhvMU1rX1lBcUIwbWw1eEQxMnF3WTdhVkg3QWtqTUp5SHR1dVJOVGpKSnZ0Zw?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 20:01:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-25T00:59:47.502468+00:00"
   }
 }
