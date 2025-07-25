@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens to sue WSJ over Epstein sketch claims \u2013 US politics live - The Guardian",
-      "pubDate": "Fri, 18 Jul 2025 10:14:00 GMT"
-    },
-    {
       "title": "Trump denies letter to Epstein and Stephen Colbert's 'Late Show' to end: Morning Rundown - NBC News",
       "pubDate": "Fri, 18 Jul 2025 11:22:35 GMT"
     },
@@ -199,6 +195,10 @@
     {
       "title": "Trump order pushes forcible hospitalization of homeless people - The Washington Post",
       "pubDate": "Fri, 25 Jul 2025 04:17:53 GMT"
+    },
+    {
+      "title": "Trump's approval sinks: Here's who's causing his numbers to crumble - Axios",
+      "pubDate": "Fri, 25 Jul 2025 10:33:58 GMT"
     }
   ],
   "russia": [
@@ -253,6 +253,10 @@
     {
       "title": "Russia\u2019s Growing Economic Woes Set Stage for Deeper Key Rate Cut - Bloomberg",
       "pubDate": "Fri, 25 Jul 2025 03:00:00 GMT"
+    },
+    {
+      "title": "Russia lifts lid on secretive drone factory as satellite images reveal rapid expansion at key site - CNN",
+      "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -675,6 +679,10 @@
     {
       "title": "Ukraine says Starlink's global outage hit its military communications - Reuters",
       "pubDate": "Fri, 25 Jul 2025 07:44:26 GMT"
+    },
+    {
+      "title": "Zelenskyy reverses course on anti-corruption law after nationwide backlash - Latest news from Azerbaijan",
+      "pubDate": "Fri, 25 Jul 2025 08:04:10 GMT"
     }
   ],
   "us_economy": [
@@ -847,6 +855,10 @@
     {
       "title": "China Premier Puts Factory Boom Down to Hard Work, Not Subsidies - Bloomberg.com",
       "pubDate": "Fri, 25 Jul 2025 04:48:00 GMT"
+    },
+    {
+      "title": "China Budget Gap Hits Record in Spending Blitz to Offset Tariffs - Bloomberg",
+      "pubDate": "Fri, 25 Jul 2025 08:44:10 GMT"
     }
   ],
   "us_politics": [
@@ -1293,10 +1305,6 @@
   ],
   "cancer": [
     {
-      "title": "UF researchers say discovery could pave the way for universal cancer vaccine - Tampa Bay Times",
-      "pubDate": "Fri, 18 Jul 2025 10:00:11 GMT"
-    },
-    {
       "title": "Congress targets hair products with cancer-causing ingredients marketed to Black women - NBC News",
       "pubDate": "Fri, 18 Jul 2025 14:09:00 GMT"
     },
@@ -1697,10 +1705,6 @@
   ],
   "fusion_power": [
     {
-      "title": "EU announces \u20ac200m contribution to Spanish fusion research facility - Global Construction Review",
-      "pubDate": "Fri, 18 Jul 2025 10:32:53 GMT"
-    },
-    {
       "title": "Scientists Are Now 43 Seconds Closer to Producing Limitless Energy - AOL.com",
       "pubDate": "Fri, 18 Jul 2025 19:20:17 GMT"
     },
@@ -1772,10 +1776,6 @@
     }
   ],
   "earth_science": [
-    {
-      "title": "Why rivers split: A century-old mystery has finally been solved - Earth.com",
-      "pubDate": "Fri, 18 Jul 2025 10:07:41 GMT"
-    },
     {
       "title": "About 700m years ago, the Earth froze over entirely \u2013 now we may know why - The Guardian",
       "pubDate": "Wed, 23 Jul 2025 05:00:00 GMT"
@@ -2044,10 +2044,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "US farm agency fires 70 foreign researchers following national security review - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 10:34:09 GMT"
-    },
     {
       "title": "Microsoft stops relying on Chinese engineers for Pentagon cloud support - CNBC",
       "pubDate": "Fri, 18 Jul 2025 21:47:53 GMT"
@@ -2377,6 +2373,10 @@
     {
       "title": "Dozens of kids and adults in Gaza have starved to death in July as hunger surges - AP News",
       "pubDate": "Fri, 25 Jul 2025 00:27:00 GMT"
+    },
+    {
+      "title": "US cuts short Gaza ceasefire talks and accuses Hamas of lacking \u2018good faith\u2019 - AP News",
+      "pubDate": "Fri, 25 Jul 2025 01:06:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2857,10 +2857,6 @@
   ],
   "large_language_models": [
     {
-      "title": "Scientists demonstrate that \u201cAI\u2019s superhuman persuasiveness is already a reality\u201d - PsyPost",
-      "pubDate": "Fri, 18 Jul 2025 10:08:58 GMT"
-    },
-    {
       "title": "First-ever AI malware \u2018LameHug\u2019 hides in ZIP files to hack Windows PCs - The Indian Express",
       "pubDate": "Sun, 20 Jul 2025 03:23:00 GMT"
     },
@@ -2870,10 +2866,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Moderna cancels plans to build Japan plant on poor business environment - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 10:37:03 GMT"
-    },
     {
       "title": "Astronomer CEO caught cuddling on concert Jumbotron with HR head steps down - Fox Business",
       "pubDate": "Sat, 19 Jul 2025 19:09:00 GMT"
@@ -2897,6 +2889,10 @@
     {
       "title": "German Business Outlook Edges Up as EU-US Move Toward Trade Deal - Bloomberg.com",
       "pubDate": "Fri, 25 Jul 2025 08:07:49 GMT"
+    },
+    {
+      "title": "Intel shares slide on quarterly loss, foundry business exit risk - Reuters",
+      "pubDate": "Fri, 25 Jul 2025 09:42:01 GMT"
     }
   ],
   "jupiter": [
@@ -3273,6 +3269,10 @@
     {
       "title": "New research shows lifestyle changes may reduce fibroids - CBS News",
       "pubDate": "Thu, 24 Jul 2025 12:12:00 GMT"
+    },
+    {
+      "title": "Centene Stock Plummets After Earnings. The Health Insurer\u2019s Results Were Even Worse Than Feared. - Barron's",
+      "pubDate": "Fri, 25 Jul 2025 10:20:00 GMT"
     }
   ],
   "us_supreme_court": [
