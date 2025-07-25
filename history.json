@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump denies letter to Epstein and Stephen Colbert's 'Late Show' to end: Morning Rundown - NBC News",
-      "pubDate": "Fri, 18 Jul 2025 11:22:35 GMT"
-    },
-    {
       "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; NPR, PBS and foreign aid cuts clear Congress - NBC News",
       "pubDate": "Fri, 18 Jul 2025 14:42:51 GMT"
     },
@@ -357,10 +353,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI models with systemic risks given pointers on how to comply with EU AI rules - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 11:04:55 GMT"
-    },
-    {
       "title": "How a Video Studio Embraced A.I. and Stormed the Internet - The New York Times",
       "pubDate": "Fri, 18 Jul 2025 21:22:39 GMT"
     },
@@ -505,13 +497,13 @@
     {
       "title": "Another heat dome to raise temperatures above 100. Will it reach the Northeast? - Yahoo Home",
       "pubDate": "Tue, 22 Jul 2025 14:55:08 GMT"
+    },
+    {
+      "title": "New York\u2019s Landmark Climate Law Goes on Trial - New York Focus",
+      "pubDate": "Fri, 25 Jul 2025 09:35:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "EU hits Russian oil, shadow fleet with new sanctions over Ukraine war - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 11:08:08 GMT"
-    },
     {
       "title": "How Ukraine\u2019s allies helped Zelensky recover his standing with Trump - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 17:22:12 GMT"
@@ -705,10 +697,6 @@
   ],
   "china": [
     {
-      "title": "China pledges to crack down on illicit exports of rare earths, urges US to lift more trade controls - The Hill",
-      "pubDate": "Fri, 18 Jul 2025 11:41:00 GMT"
-    },
-    {
       "title": "China Threatens Trump's Panama Canal Deal: Report - Newsweek",
       "pubDate": "Fri, 18 Jul 2025 14:17:34 GMT"
     },
@@ -859,6 +847,10 @@
     {
       "title": "China Budget Gap Hits Record in Spending Blitz to Offset Tariffs - Bloomberg",
       "pubDate": "Fri, 25 Jul 2025 08:44:10 GMT"
+    },
+    {
+      "title": "DeepSeek, Trump\u2019s Plan Steer Agenda at China\u2019s Top AI Forum - Bloomberg",
+      "pubDate": "Fri, 25 Jul 2025 03:03:00 GMT"
     }
   ],
   "us_politics": [
@@ -1197,10 +1189,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Smartphones could help detect earthquakes and send early warnings, study finds - The Independent",
-      "pubDate": "Fri, 18 Jul 2025 11:29:00 GMT"
-    },
-    {
       "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
       "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
     },
@@ -1301,6 +1289,10 @@
     {
       "title": "SpaceX warns investors Elon Musk could return to politics - Los Angeles Times",
       "pubDate": "Wed, 23 Jul 2025 13:32:00 GMT"
+    },
+    {
+      "title": "Musk ordered shutdown of Starlink satellite service as Ukraine retook territory from Russia - Reuters",
+      "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
     }
   ],
   "cancer": [
@@ -1383,6 +1375,10 @@
     {
       "title": "Ongoing Research Aims to Alter Management of HR+ Breast Cancer After Frontline CDK4/6 Inhibition - OncLive",
       "pubDate": "Fri, 25 Jul 2025 04:04:09 GMT"
+    },
+    {
+      "title": "Study uncovers how prostate cancer becomes deadly, offers hope for new treatments - Medical Xpress",
+      "pubDate": "Fri, 25 Jul 2025 10:50:01 GMT"
     }
   ],
   "space_exploration": [
@@ -1608,10 +1604,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Data Breaches Up 10% Although Victim Count Falls Sharply - The HIPAA Journal",
-      "pubDate": "Fri, 18 Jul 2025 11:47:20 GMT"
-    },
     {
       "title": "Amazon Ring Doorbell May 28 Mass Hacking Claim Goes Viral - Forbes",
       "pubDate": "Sun, 20 Jul 2025 12:26:00 GMT"
@@ -2377,6 +2369,10 @@
     {
       "title": "US cuts short Gaza ceasefire talks and accuses Hamas of lacking \u2018good faith\u2019 - AP News",
       "pubDate": "Fri, 25 Jul 2025 01:06:00 GMT"
+    },
+    {
+      "title": "US and Israel recall negotiating teams from Gaza talks, raising doubts over truce - CNN",
+      "pubDate": "Fri, 25 Jul 2025 11:08:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2663,6 +2659,10 @@
     {
       "title": "\u2018Unprecedented\u2019 Ocean Heat Waves in 2023 Suggest Climate Tipping Point - Bloomberg.com",
       "pubDate": "Thu, 24 Jul 2025 18:00:05 GMT"
+    },
+    {
+      "title": "Caribbean leaders hail ICJ climate ruling as \u2018historic\u2019 win for small island states - The Guardian",
+      "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2704,10 +2704,6 @@
     }
   ],
   "european_union": [
-    {
-      "title": "EU Targets Russia With Toughest Sanctions Package in Years - The Wall Street Journal",
-      "pubDate": "Fri, 18 Jul 2025 11:41:00 GMT"
-    },
     {
       "title": "Meta Rejects European Commission\u2019s AI Code of Practice, Citing \u2018Overreach\u2019 - PYMNTS.com",
       "pubDate": "Fri, 18 Jul 2025 18:22:30 GMT"
@@ -3303,6 +3299,12 @@
     {
       "title": "EU solar energy rollout slows for first time in decade as subsidies cut - Reuters",
       "pubDate": "Thu, 24 Jul 2025 17:25:42 GMT"
+    }
+  ],
+  "outer_space": [
+    {
+      "title": "Russia launches satellite for Iran toward orbit alongside 2 space weather probes (photos) - Space",
+      "pubDate": "Fri, 25 Jul 2025 06:17:58 GMT"
     }
   ]
 }
