@@ -333,6 +333,10 @@
     {
       "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records - ABC News",
       "pubDate": "Fri, 25 Jul 2025 06:32:59 GMT"
+    },
+    {
+      "title": "Once considered a safe investment, U.S. Treasuries now feel shakier - NPR",
+      "pubDate": "Fri, 25 Jul 2025 08:12:04 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -467,6 +471,10 @@
     {
       "title": "Trump AI plan would \"ramp up exploitation\" of people and the environment, advocates warn - The New Lede",
       "pubDate": "Fri, 25 Jul 2025 01:24:09 GMT"
+    },
+    {
+      "title": "Google Just Released an A.I. Tool That Helps Historians Fill in Missing Words in Ancient Roman Inscriptions - Smithsonian Magazine",
+      "pubDate": "Fri, 25 Jul 2025 13:00:00 GMT"
     }
   ],
   "climate": [
@@ -1431,6 +1439,10 @@
     {
       "title": "AI-backed medical debt company claims payment plans can help US healthcare costs - The Guardian",
       "pubDate": "Fri, 25 Jul 2025 11:01:00 GMT"
+    },
+    {
+      "title": "Planned Parenthood closing 2 Houston clinics amid 'heartbreaking' restructuring - Houston Chronicle",
+      "pubDate": "Fri, 25 Jul 2025 16:33:08 GMT"
     }
   ],
   "world_economy": [
@@ -1462,10 +1474,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Landmark cryptocurrency legislation passes US House, to be signed into law by President Trump - International Consortium of Investigative Journalists - ICIJ",
-      "pubDate": "Fri, 18 Jul 2025 18:53:02 GMT"
-    },
     {
       "title": "Trump signs cryptocurrency bill - WCNC",
       "pubDate": "Fri, 18 Jul 2025 20:17:00 GMT"
@@ -1877,10 +1885,6 @@
   ],
   "battery_electric_vehicle": [
     {
-      "title": "Chinese graphite is crucial to electric car batteries. Trump just put a 93.5% tariff on it - CNN",
-      "pubDate": "Fri, 18 Jul 2025 18:57:00 GMT"
-    },
-    {
       "title": "Record growth in BEVs continues to accelerate - FleetPoint",
       "pubDate": "Mon, 21 Jul 2025 08:16:35 GMT"
     },
@@ -2105,10 +2109,6 @@
       "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
     },
     {
-      "title": "US rejects amendments to WHO international health regulations - The Hill",
-      "pubDate": "Fri, 18 Jul 2025 18:22:00 GMT"
-    },
-    {
       "title": "US rejects global pandemic rules, citing sovereignty concerns - NZ Herald",
       "pubDate": "Sat, 19 Jul 2025 05:44:47 GMT"
     },
@@ -2164,10 +2164,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
-    },
     {
       "title": "Trump says 10 Israeli hostages to be released from Gaza \u2018very shortly\u2019 - The Guardian",
       "pubDate": "Sat, 19 Jul 2025 00:50:00 GMT"
@@ -2447,10 +2443,6 @@
   ],
   "climate_change": [
     {
-      "title": "Severe storms, rising temperatures: Climate change felt in KC area, experts say - Kansas City Star",
-      "pubDate": "Fri, 18 Jul 2025 18:37:09 GMT"
-    },
-    {
       "title": "Weeks After a Heat Wave Baked the US, Democrats Push to Declare Heat a Major Disaster - Inside Climate News",
       "pubDate": "Fri, 18 Jul 2025 21:51:41 GMT"
     },
@@ -2670,10 +2662,6 @@
     }
   ],
   "european_union": [
-    {
-      "title": "Meta Rejects European Commission\u2019s AI Code of Practice, Citing \u2018Overreach\u2019 - PYMNTS.com",
-      "pubDate": "Fri, 18 Jul 2025 18:22:30 GMT"
-    },
     {
       "title": "E.U. hits Russia with new round of sanctions targeting energy - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 19:15:02 GMT"
@@ -2923,10 +2911,6 @@
   ],
   "brics": [
     {
-      "title": "One of These BRICS Is Not Like the Others - The New York Times",
-      "pubDate": "Fri, 18 Jul 2025 18:59:32 GMT"
-    },
-    {
       "title": "Trump, Tariffs, BRICS and ASEAN: Much Ado About What? - Modern Diplomacy",
       "pubDate": "Sat, 19 Jul 2025 06:30:09 GMT"
     },
@@ -3159,6 +3143,10 @@
     {
       "title": "Assessing the Geopolitical and Economic Risks of Reimposed Sanctions on Iran and Their Impact on Global Energy and Commodity Markets - AInvest",
       "pubDate": "Fri, 25 Jul 2025 06:04:19 GMT"
+    },
+    {
+      "title": "US, China confront each other on Ukraine at United Nations - Reuters",
+      "pubDate": "Fri, 25 Jul 2025 18:00:56 GMT"
     }
   ],
   "electric_vehicle": [
@@ -3287,6 +3275,12 @@
     {
       "title": "NASA or the Space Force: Who should protect Earth from dangerous asteroids? - Space",
       "pubDate": "Fri, 25 Jul 2025 13:00:00 GMT"
+    }
+  ],
+  "machine_learning": [
+    {
+      "title": "Scientists develop dynamic landslide prediction method using hydrological and machine learning data - Phys.org",
+      "pubDate": "Fri, 25 Jul 2025 13:00:03 GMT"
     }
   ]
 }
