@@ -73,10 +73,6 @@
       "pubDate": "Fri, 18 Jul 2025 04:38:11 GMT"
     },
     {
-      "title": "Trump seeks release of grand jury transcripts as Epstein uproar widens - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 03:56:15 GMT"
-    },
-    {
       "title": "Donald Trump orders US attorney general to 'produce' more Epstein documents - BBC",
       "pubDate": "Fri, 18 Jul 2025 04:20:55 GMT"
     },
@@ -680,10 +676,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s supersoldier experiments \u2018disturbing\u2019: Ex-intelligence officer - NewsNation",
-      "pubDate": "Fri, 18 Jul 2025 03:06:03 GMT"
-    },
     {
       "title": "China Lifts Exports of Rare-Earth Products After Trade War Curbs - Bloomberg",
       "pubDate": "Fri, 18 Jul 2025 05:55:00 GMT"
@@ -1417,10 +1409,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Trump adds new level of scrutiny to wind and solar projects - The Washington Post",
-      "pubDate": "Fri, 18 Jul 2025 03:56:00 GMT"
-    },
-    {
       "title": "California Says 66% of Its Power Is Now From Renewable or Zero-Carbon Sources - SingularityHub",
       "pubDate": "Fri, 18 Jul 2025 23:41:53 GMT"
     },
@@ -1848,10 +1836,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "Stellantis pulls plug on hydrogen vans, renews focus on hybrid and battery electric vehicles - evsandbeyond.co.nz",
-      "pubDate": "Fri, 18 Jul 2025 03:07:02 GMT"
-    },
     {
       "title": "Electric vehicle\u2019s battery catches fire, officials say, shutting busy Northbrook mall - Chicago Tribune",
       "pubDate": "Fri, 18 Jul 2025 12:20:18 GMT"
@@ -2361,6 +2345,10 @@
     {
       "title": "Israel Puts the Mediterranean Sea Off-Limits to Gazans. Protests in Ukraine. - NPR",
       "pubDate": "Thu, 24 Jul 2025 21:59:36 GMT"
+    },
+    {
+      "title": "US Quits Gaza Truce Talks, Blames \"Selfish\" Hamas For Failure - NDTV",
+      "pubDate": "Thu, 24 Jul 2025 19:27:44 GMT"
     }
   ],
   "battery_technology": [
@@ -2451,10 +2439,6 @@
     {
       "title": "Southwestern Drought Likely to Continue Through 2100, Research Finds - Inside Climate News",
       "pubDate": "Fri, 18 Jul 2025 08:55:00 GMT"
-    },
-    {
-      "title": "Texas flooding disaster exposes what climate researchers fear most about the future - KHOU",
-      "pubDate": "Fri, 18 Jul 2025 03:01:00 GMT"
     },
     {
       "title": "High-resolution climate model reveals detailed regional impacts of 1\u00b0C global warming - Phys.org",
@@ -3259,6 +3243,12 @@
     {
       "title": "Oil \u2018does not guarantee stability\u2019: Colombia\u2019s environment minister on energy transition - Mongabay",
       "pubDate": "Thu, 24 Jul 2025 21:41:05 GMT"
+    }
+  ],
+  "atlantic_ocean": [
+    {
+      "title": "Massive 14-foot 1,600-pound great white shark emerges in water off Massachusetts - Boston 25 News",
+      "pubDate": "Thu, 24 Jul 2025 19:19:06 GMT"
     }
   ]
 }
