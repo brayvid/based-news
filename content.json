@@ -1,52 +1,72 @@
 {
-  "United States": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "US Lifts Sanctions On Myanmar Junta Allies After Letter Of Praise To Trump - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU5UdEJYaF9qUkV1SUdUYW1aU3VaeXJOSXBNRk1BTFlxemhCdlBDOElUSEhyY0Z4MHk1eEtUTTBGRWhHbGtFWlBkWHFsN2JSU0FpUGx4QmV3WlppdHlkbmtla1dOT1o4STNuUkNTVkVyeTNVT2pzRkJTdVNkcGNSdi1ZVm1SbFNNUUhjT2RGUVhvWkIwVWhRYzdfYmNQdFZfamVYZkdsV0dRU1NxdlpZRnJDMWY?oc=5",
-        "pubDate": "Fri, 25 Jul 2025 07:36:26 GMT"
+        "title": "AI models may secretly pass on hidden behaviours, warns study - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM3Fia0RnZEFqVXpfZk9mOE13N21tYUdsS1FqMl9Da01uUWhqeWR1STRfZFZtR0pKcTVMOWtfR2gxUXBzVDZJaTNxX1lFckdhTlBaQ2JEa0J5WTVrLTNVeG5taHJXQ3R2UUx6cng1SFBQbFRYaEszTzN2Q0t5SjJZM1EzLWhzTkRudmNaR29hTV9qZnRERlZHYzU2M3pSbElodGpBZ2VHLXJ5X1luREgzMllaZXBPbFVPSWI0bVFXRGFNTENfRW91Q0x5QU9yY0E3OWl6SHRKS3pvb2vSAeABQVVfeXFMTUhmREhEYl9CWlItTmVXZ0VWZUE4VnFzOF9xZ2k3VEl2d2VMVnBTbDMwM1NEYV9MVnBtYVpRbEdhSkI1bmVCclVCNVpxRE9SX01RUVlQNm9aSVoyWkNqSFJWUlZsRzFKQ2F1Qk1DX1dfcl9xbV9vLVB3RzZSUUtNbXBwT280UkdpT3hIMjU4dGVsUUNNaUxIZUtPLThUeGN1REQ3bDJESmM5RnB2MFo2azJON1JGUkk0QTZvb050NEEyZDJxTnJOVnlwS1BBUy1EcVo4OUhwU2RjSU5wVGowaTk?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 08:23:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-25T07:58:43.150486+00:00"
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
   },
-  "Geopolitics": {
+  "Alexandria Ocasio-Cortez": {
     "articles": [
       {
-        "title": "Assessing the Geopolitical and Economic Risks of Reimposed Sanctions on Iran and Their Impact on Global Energy and Commodity Markets - AInvest",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG5Pc3VzaENwNjMtT2tkR3k2M3poSW9mOVh2NmlyYzFObnBEM3J3aHpYdllaNFVsY0tCSmdPanRHRllTZ0dhb0dxZzBLcXUwWHJOaUllTTF5V3dUbmZKWENLRDlBNG5KcV9tbHppVXlGWWRTSXZJVEpjLXpJNjdVVGxnZWg0MVd1Qk03aHU0NGdTSEZyOFZRM255OXhsNEZoZk50YVFkai1SX3B3RlNuZzhFYWItYWZuNVpuSnhYUmhfMUFtbUtkMDFtaVYwQzV2V3c?oc=5",
-        "pubDate": "Fri, 25 Jul 2025 06:04:19 GMT"
+        "title": "New Poll: AOC Emerges Among Presidential Front-Runners - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1FESEoyaGNDUkJnejU1QTdOWWQzbVFpLU8tdW04SS1qbWZTZW5MMGFndXFCN2JuYlJiUmh1MlVTT3NpdFhOaDdUVDhCSm56a2NmNVN1LTROZGxITHk5NE9VdVY0U3NUMTVZNWZxMHNqVFczdXNIMExHcHZRV0J3Y1pzejA0bVd2cU1fSGhzc09zNHNMU2E2M1NwX3IzN3pjLUtxc0F1SUI?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 05:01:19 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-25T07:58:43.150486+00:00"
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
   },
-  "Ukraine": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Ukraine says Starlink's global outage hit its military communications - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTS1SbGlHWHQ3b3dsSWVyRlBXYUNNdldJSXV4X1pNeGVmdVU3OFBhcjRXUC00ck9US2xGcU5vajZXVlpiSVJQX29iMGV2NHM1YWJMNVdsZjJPdGNoRzJWSGdiQi1iRmdHejZWUTh4Wk9WaUU5bFh4MXlsVmJZQW5oSW1McDZWelAyT01PcnR1SGdKLWhNWjB5SzUtT21HU3FqYXpGcjk1WTdsMDA4bi15OWJOblpNNzczUUhpeVhSUmNvczUwLXc?oc=5",
-        "pubDate": "Fri, 25 Jul 2025 07:44:26 GMT"
+        "title": "Bitcoin Slides as Fed Rate Cut Hopes Diminish - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDNKUXNkcjF3b1VEWGtsa2ZMUjJVNno1ZHBKeFI4bFQ3YnhFelNQdkk1UEtEOE5wV01HZFNMbW9oTUpBekVPSkpBTHRGZ01EbnFZZnFvNFlWakkxV0RsZ09qTEFTeXd1ekRHMnhjTzFXaHk3a3VodmIzbXR1SXdvUmZOMHo3MjVNVTBQSnRMc01KVlV3dkRZdzdkZGU?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 07:18:25 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-25T07:58:43.150486+00:00"
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
   },
-  "Algorithms": {
+  "Asteroids": {
     "articles": [
       {
-        "title": "New online safety measures to protect children from \u2018toxic algorithms\u2019 - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWZoeHFWMmw3MmtGeFEzaDFBVFdNbHc4QU9DYmVvZW1wVi0wc0RkejQ3YU9qUVFsZ0ItMzRlWld0UVNudWlOUTluRTlrcS1xVTZDaklEelV1UlVrNlp3WnlCa1kyT2g0Y01iSXRTeXFqb0pxNFZWVWNLOW5ZNW40TnZ4OC1zWFJHdVZWTTg2clVsOFZfZThqZzBqakJoaUk?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 21:30:00 GMT"
+        "title": "Airplane-Sized Asteroid Will Fly Past Earth Next Week, Sparing Us From an Impact - Discover Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTBSQkxLMmZaWkM1c25GR2NVMkZJX1VzVUl6Tzk3RzBqY0J1dTBzUGJYMnliZmZoWUdVT25qTE9jZmxBcXZpSVpXaUpwM3NEeUU0Y3dabXV5VWllaGJjb1g2aVZ5YTBsNjNuVFRRUFl1SGM1NERYSVJWSDVWQ2tPZmdZQ3ctZzdOMUpfaTVHb0labVR3OFVMVUJqUkZwTUFhUDR4MlBSSWxrSWxqZFRyc3pZNEFvTVFHbXc?oc=5",
+        "pubDate": "Thu, 24 Jul 2025 22:00:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-25T07:58:43.150486+00:00"
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
   },
-  "Pollution": {
+  "Astronomy": {
     "articles": [
       {
-        "title": "Air pollution raises risk of dementia, say Cambridge scientists - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTF9ZX1czMjlyRG12WTc4MTd4SnVEc1hyQU9FMm9WLW0zUkRKRzFYQjQwWHNzX2x3LURfeDJhZ2tJOWdTVm9aVmxKVFN2akFRYWJSdVhkY3BDOHBidVhnQy1udloxRzktV2ZoTzA1dDBZcVhyclZ4TFJ6Tm5zQlNHVjFQYXdfQ0VWYkMwMFE3VHFmRGZxZVN6VV91TFdWcHZyUUlibWtTZHFmOTJvbFJhNS1TeTY?oc=5",
-        "pubDate": "Thu, 24 Jul 2025 22:30:00 GMT"
+        "title": "Cosmic Death Spiral: Astronomers Catch Planet in Final Orbit Before Destruction - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUhqUFFibFlCRXpxY3Y2LUFZaERzRzl2VTd3X3NReDZPUVVnWXAwRWJEQW9fYm0tRGFmazAyRTZRWnFtT3pTbWxWOWEzLUk5amxmVk5sY0VfQlhuLVVxYm9nYTgwdmRDTGlCUFhsNEkxb094Yk1MMzNfbmdqUnMzeE9lMkZMS2ZFd1g4NnhKWFJraUd4bVR5TG5UZzFRNDlwZ2ZHQkJRVQ?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 08:15:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-25T07:58:43.150486+00:00"
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
+  },
+  "Business": {
+    "articles": [
+      {
+        "title": "German Business Outlook Edges Up as EU-US Move Toward Trade Deal - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGhnbF94MERHRURaeVl3SFVOcU1GY3ZHODNUNlhRdzJ0eEV6LXEtRFhyLVVfT2lScVVobDdNYl96cE5ONFdGcy1Ydk45dGtBY3FYSF9obnRieExVR0dUNlduaDdxMDVmT19xdnNhRDU1WlN2Nk9pUW9NbFIwWlFxOXFhUWFXcG9LSV9XdlNUN3RBSExNUTlWamMwNzQzQkJrRjBGYk1FRnNTSEttYlNrLXBUdkc2UQ?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 08:07:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Ongoing Research Aims to Alter Management of HR+ Breast Cancer After Frontline CDK4/6 Inhibition - OncLive",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUx2WmxjN0VSVnE2OE5TajIwSzlMOGJkM0JUVmRtRmVVa0FWYm1PY21QSGZWQWIydmlTQUZWXzJOZHBxbms0MWpYRHZKR2RvWklDdmdTczVINUZLbjNEamdSWGEyOXBPNWkyRndtYkFBc2E3VjlMTjFXdDlFaFo4QV8ybS1rX3duUmhaVk5kYTVhVklkYTJEc2RyWjI3Q2ZNVmJyVlp5SnllNEkwelhFWExteFl2ZFpQOURSZ3BXXzFMdw?oc=5",
+        "pubDate": "Fri, 25 Jul 2025 04:04:09 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-25T08:58:36.171885+00:00"
   }
 }
