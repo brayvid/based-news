@@ -35,6 +35,10 @@
     {
       "title": "Israeli settler attacks show new level of violence, organisation - Al Jazeera",
       "pubDate": "Thu, 24 Jul 2025 19:44:02 GMT"
+    },
+    {
+      "title": "Trump tells Israel to \u2018finish the job\u2019 against Hamas weeks after suggesting ceasefire deal in sight - CNN",
+      "pubDate": "Fri, 25 Jul 2025 19:43:00 GMT"
     }
   ],
   "iran": [
@@ -1005,10 +1009,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Singapore accuses Chinese state-backed hackers of attacking critical infrastructure networks - The Record from Recorded Future News",
-      "pubDate": "Fri, 18 Jul 2025 20:02:03 GMT"
-    },
-    {
       "title": "Singapore facing 'serious' cyberattack by espionage group with alleged China ties - France 24",
       "pubDate": "Sat, 19 Jul 2025 11:37:30 GMT"
     },
@@ -1483,24 +1483,12 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Trump signs cryptocurrency bill - WCNC",
-      "pubDate": "Fri, 18 Jul 2025 20:17:00 GMT"
-    },
-    {
-      "title": "Trump signs landmark crypto bill into law - Politico",
-      "pubDate": "Fri, 18 Jul 2025 20:15:00 GMT"
-    },
-    {
       "title": "Trump signs new stablecoin regulations into law, a major milestone for crypto industry - AP News",
       "pubDate": "Fri, 18 Jul 2025 21:21:00 GMT"
     },
     {
       "title": "Trump says newly signed crypto law will establish \u2018American dominance\u2019 - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 21:56:15 GMT"
-    },
-    {
-      "title": "These Cryptocurrencies\u2014Ether, Bitcoin And More\u2014Surged The Most During \u2018Crypto Week\u2019 Rally - Forbes",
-      "pubDate": "Fri, 18 Jul 2025 20:53:58 GMT"
     },
     {
       "title": "Charles Schwab plans to launch Bitcoin, Ether spot trading, CEO says - Cointelegraph",
@@ -1849,10 +1837,6 @@
   ],
   "fbi": [
     {
-      "title": "FBI was ordered to flag any mention of Trump in Epstein files, top Democrat says - Los Angeles Times",
-      "pubDate": "Fri, 18 Jul 2025 20:05:22 GMT"
-    },
-    {
       "title": "FBI personnel were told to flag Epstein files mentioning Trump, Senate Democrat says - NBC News",
       "pubDate": "Sat, 19 Jul 2025 00:56:00 GMT"
     },
@@ -2108,10 +2092,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "US rejects WHO pandemic changes to global health rules - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
-    },
     {
       "title": "US rejects global pandemic rules, citing sovereignty concerns - NZ Herald",
       "pubDate": "Sat, 19 Jul 2025 05:44:47 GMT"
@@ -2375,13 +2355,13 @@
     {
       "title": "New online safety measures to protect children from \u2018toxic algorithms\u2019 - The Independent",
       "pubDate": "Thu, 24 Jul 2025 21:30:00 GMT"
+    },
+    {
+      "title": "Meta-Algorithms Efficiently Prepare Thermal States on Noisy Intermediate-Scale Quantum Devices - Quantum Zeitgeist",
+      "pubDate": "Fri, 25 Jul 2025 15:46:24 GMT"
     }
   ],
   "astronomy": [
-    {
-      "title": "Astronomers Discover an Uncommon Way for Black Holes to Form - Time Magazine",
-      "pubDate": "Fri, 18 Jul 2025 20:06:31 GMT"
-    },
     {
       "title": "Astronomer CEO placed on leave after Coldplay 'kiss cam' video appeared to show him embracing HR chief - Business Insider",
       "pubDate": "Sat, 19 Jul 2025 01:48:00 GMT"
@@ -2401,6 +2381,10 @@
     {
       "title": "Cosmic Death Spiral: Astronomers Catch Planet in Final Orbit Before Destruction - SciTechDaily",
       "pubDate": "Fri, 25 Jul 2025 08:15:03 GMT"
+    },
+    {
+      "title": "Rogue black hole found terrorizing unfortunate star in distant galaxy - Space",
+      "pubDate": "Fri, 25 Jul 2025 20:14:22 GMT"
     }
   ],
   "physics": [
@@ -2743,10 +2727,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "House passes defense appropriations bill with millions for Israel - JNS.org",
-      "pubDate": "Fri, 18 Jul 2025 20:38:26 GMT"
-    },
-    {
       "title": "The Pentagon Just Released Its Long-Overdue Drone Plan - The National Interest",
       "pubDate": "Sat, 19 Jul 2025 16:04:47 GMT"
     },
@@ -2780,10 +2760,6 @@
     }
   ],
   "cloud_computing": [
-    {
-      "title": "Microsoft to stop using engineers in China for tech support of U.S. military after ProPublica report - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 20:55:09 GMT"
-    },
     {
       "title": "Microsoft bans China-based engineers from all Pentagon cloud contracts - Hindustan Times - Hindustan Times",
       "pubDate": "Sat, 19 Jul 2025 00:53:52 GMT"
@@ -3285,6 +3261,24 @@
     {
       "title": "Scientists develop dynamic landslide prediction method using hydrological and machine learning data - Phys.org",
       "pubDate": "Fri, 25 Jul 2025 13:00:03 GMT"
+    }
+  ],
+  "financial_data": [
+    {
+      "title": "Half-Yearly Financial Report 2025 - volkswagen-group.com",
+      "pubDate": "Fri, 25 Jul 2025 17:44:18 GMT"
+    }
+  ],
+  "engineering": [
+    {
+      "title": "New approach to engineering crumpled GO membranes for separating hydrogen and other gases - Phys.org",
+      "pubDate": "Fri, 25 Jul 2025 12:19:54 GMT"
+    }
+  ],
+  "self-driving_cars": [
+    {
+      "title": "Data on autonomous vehicles reveals serious concerns - Land Line Media",
+      "pubDate": "Fri, 25 Jul 2025 16:09:32 GMT"
     }
   ]
 }
