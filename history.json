@@ -39,10 +39,6 @@
   ],
   "iran": [
     {
-      "title": "Iran bomb damage intel suggests two nuclear sites not \u2018obliterated\u2019 - The Washington Post",
-      "pubDate": "Fri, 18 Jul 2025 16:00:45 GMT"
-    },
-    {
       "title": "Iran says it has replaced air defences damaged in Israel war - Reuters",
       "pubDate": "Sun, 20 Jul 2025 09:22:09 GMT"
     },
@@ -248,10 +244,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "The EU just issued guidelines for AI safety, and Meta is already opting out - Mashable",
-      "pubDate": "Fri, 18 Jul 2025 16:22:04 GMT"
-    },
     {
       "title": "Meta declines to abide by voluntary EU AI safety guidelines - theregister.com",
       "pubDate": "Fri, 18 Jul 2025 22:29:00 GMT"
@@ -663,6 +655,10 @@
     {
       "title": "The Shahed blitz: can Russian drone onslaught break Ukraine\u2019s resolve? - The Guardian",
       "pubDate": "Fri, 25 Jul 2025 10:06:00 GMT"
+    },
+    {
+      "title": "Russia signals no Putin-Zelensky meeting until final peace talk stages - The Hill",
+      "pubDate": "Fri, 25 Jul 2025 16:21:00 GMT"
     }
   ],
   "us_economy": [
@@ -684,10 +680,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
-      "pubDate": "Fri, 18 Jul 2025 16:14:21 GMT"
-    },
     {
       "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say - Axios",
       "pubDate": "Fri, 18 Jul 2025 19:21:57 GMT"
@@ -1471,10 +1463,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Trump to sign 1st major federal cryptocurrency bill into law - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 18 Jul 2025 16:32:40 GMT"
-    },
-    {
       "title": "Landmark cryptocurrency legislation passes US House, to be signed into law by President Trump - International Consortium of Investigative Journalists - ICIJ",
       "pubDate": "Fri, 18 Jul 2025 18:53:02 GMT"
     },
@@ -1905,6 +1893,10 @@
     {
       "title": "NASA's Viking Project May Have Found Life On Mars 50 Years Ago, Then Accidentally Killed It - IFLScience",
       "pubDate": "Thu, 24 Jul 2025 16:22:23 GMT"
+    },
+    {
+      "title": "Scientists Just Made a Groundbreaking Discovery on Mars\u2014A Game-Changer for Exploration! - The Daily Galaxy",
+      "pubDate": "Fri, 25 Jul 2025 14:30:00 GMT"
     }
   ],
   "hacking": [
@@ -2177,14 +2169,6 @@
   ],
   "gaza": [
     {
-      "title": "Hamas says ready for \u2018long battle of attrition\u2019 as Israel pounds Gaza - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 16:24:16 GMT"
-    },
-    {
-      "title": "LIVE: Israel kills 41 in Gaza; clashes resume in Syria\u2019s Suwayda - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 16:24:16 GMT"
-    },
-    {
       "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
     },
@@ -2359,6 +2343,10 @@
     {
       "title": "Exclusive: USAID analysis found no evidence of massive Hamas theft of Gaza aid - Reuters",
       "pubDate": "Fri, 25 Jul 2025 14:59:45 GMT"
+    },
+    {
+      "title": "Israel 'racing' to wipe out Gaza, heritage minister says - Middle East Eye",
+      "pubDate": "Fri, 25 Jul 2025 12:07:50 GMT"
     }
   ],
   "battery_technology": [
@@ -2462,10 +2450,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Florida Keys guts road-raising projects, slashes jobs. Budget cuts derail climate plans - Miami Herald",
-      "pubDate": "Fri, 18 Jul 2025 16:51:00 GMT"
-    },
     {
       "title": "Severe storms, rising temperatures: Climate change felt in KC area, experts say - Kansas City Star",
       "pubDate": "Fri, 18 Jul 2025 18:37:09 GMT"
@@ -2725,6 +2709,10 @@
     {
       "title": "EU-China summit as it happened: Tense meeting dominated by trade, Ukraine and rare earths - Reuters",
       "pubDate": "Thu, 24 Jul 2025 23:48:45 GMT"
+    },
+    {
+      "title": "Meta will cease political ads in European Union by fall, blaming bloc\u2019s new rules - AP News",
+      "pubDate": "Fri, 25 Jul 2025 12:47:00 GMT"
     }
   ],
   "hydroelectric_power": [
@@ -2879,6 +2867,10 @@
     {
       "title": "Intel shares slide on quarterly loss, foundry business exit risk - Reuters",
       "pubDate": "Fri, 25 Jul 2025 09:42:01 GMT"
+    },
+    {
+      "title": "Intel drops 9% as chipmaker's foundry business axes projects, struggles to find customers - CNBC",
+      "pubDate": "Fri, 25 Jul 2025 16:02:57 GMT"
     }
   ],
   "jupiter": [
@@ -2899,6 +2891,10 @@
     {
       "title": "Air pollution raises risk of dementia, say Cambridge scientists - The Guardian",
       "pubDate": "Thu, 24 Jul 2025 22:30:00 GMT"
+    },
+    {
+      "title": "Trump administration grants two Indiana plants \u2018relief\u2019 from toxic pollution regulations - IndyStar",
+      "pubDate": "Fri, 25 Jul 2025 09:10:17 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -3289,6 +3285,12 @@
     {
       "title": "Russia launches satellite for Iran toward orbit alongside 2 space weather probes (photos) - Space",
       "pubDate": "Fri, 25 Jul 2025 06:17:58 GMT"
+    }
+  ],
+  "planetary_defense": [
+    {
+      "title": "NASA or the Space Force: Who should protect Earth from dangerous asteroids? - Space",
+      "pubDate": "Fri, 25 Jul 2025 13:00:00 GMT"
     }
   ]
 }
