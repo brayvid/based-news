@@ -61,21 +61,13 @@
     {
       "title": "Taliban tortured and threatened Afghans expelled from Pakistan and Iran, UN report says - ABC News",
       "pubDate": "Thu, 24 Jul 2025 09:35:20 GMT"
+    },
+    {
+      "title": "Iran Starts New Talks Today Over Its Nuclear Program. Here\u2019s What to Know. - The New York Times",
+      "pubDate": "Fri, 25 Jul 2025 04:00:21 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump orders Pam Bondi to seek the release of 'pertinent' records from Epstein grand jury - NBC News",
-      "pubDate": "Fri, 18 Jul 2025 04:11:00 GMT"
-    },
-    {
-      "title": "Trump threatens to sue The Wall Street Journal over article about his Epstein ties - NPR",
-      "pubDate": "Fri, 18 Jul 2025 04:38:11 GMT"
-    },
-    {
-      "title": "Donald Trump orders US attorney general to 'produce' more Epstein documents - BBC",
-      "pubDate": "Fri, 18 Jul 2025 04:20:55 GMT"
-    },
     {
       "title": "Trump threatens to sue WSJ over Epstein sketch claims \u2013 US politics live - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 10:14:00 GMT"
@@ -199,6 +191,10 @@
     {
       "title": "Trump insists 'no tension' with Powell after meeting despite awkward clash on camera over renovation cost - Fox Business",
       "pubDate": "Thu, 24 Jul 2025 23:44:00 GMT"
+    },
+    {
+      "title": "Trump order pushes forcible hospitalization of homeless people - The Washington Post",
+      "pubDate": "Fri, 25 Jul 2025 04:17:53 GMT"
     }
   ],
   "russia": [
@@ -257,6 +253,10 @@
     {
       "title": "Russia Moves Jamming Systems Closer to NATO Border, Estonia Says - Bloomberg.com",
       "pubDate": "Thu, 24 Jul 2025 11:52:16 GMT"
+    },
+    {
+      "title": "Russia\u2019s Growing Economic Woes Set Stage for Deeper Key Rate Cut - Bloomberg",
+      "pubDate": "Fri, 25 Jul 2025 03:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -685,10 +685,6 @@
       "pubDate": "Fri, 18 Jul 2025 08:25:53 GMT"
     },
     {
-      "title": "China's spy agency attacks foreign efforts to 'steal' rare earths - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 04:47:28 GMT"
-    },
-    {
       "title": "Nvidia CEO Huang Emerges as Reluctant Emissary in US-China Clash - Bloomberg.com",
       "pubDate": "Fri, 18 Jul 2025 06:59:00 GMT"
     },
@@ -699,10 +695,6 @@
     {
       "title": "China Threatens Trump's Panama Canal Deal: Report - Newsweek",
       "pubDate": "Fri, 18 Jul 2025 14:17:34 GMT"
-    },
-    {
-      "title": "Is China\u2019s Military Ready for War? - Foreign Affairs",
-      "pubDate": "Fri, 18 Jul 2025 04:00:00 GMT"
     },
     {
       "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
@@ -842,10 +834,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House passes Trump\u2019s $9 billion DOGE cuts package in another legislative win for president - CNN",
-      "pubDate": "Fri, 18 Jul 2025 04:06:00 GMT"
-    },
     {
       "title": "Gabbard alleges Obama manufactured intel on Russian interference - NewsNation",
       "pubDate": "Fri, 18 Jul 2025 23:17:43 GMT"
@@ -1243,6 +1231,10 @@
     {
       "title": "Magnitude 6.3 earthquake hits off Indonesia coast - Latest news from Azerbaijan",
       "pubDate": "Thu, 24 Jul 2025 02:46:25 GMT"
+    },
+    {
+      "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
+      "pubDate": "Thu, 24 Jul 2025 21:47:17 GMT"
     }
   ],
   "elon_musk": [
@@ -1733,6 +1725,10 @@
     {
       "title": "Trump wanted to break up Nvidia \u2014 but then its CEO won him over - The Verge",
       "pubDate": "Wed, 23 Jul 2025 23:25:46 GMT"
+    },
+    {
+      "title": "Nvidia CEO says Trump's AI plan will 'fundamentally change' US' position in years to come - Fox Business",
+      "pubDate": "Thu, 24 Jul 2025 18:32:00 GMT"
     }
   ],
   "earth_science": [
@@ -2349,6 +2345,10 @@
     {
       "title": "US Quits Gaza Truce Talks, Blames \"Selfish\" Hamas For Failure - NDTV",
       "pubDate": "Thu, 24 Jul 2025 19:27:44 GMT"
+    },
+    {
+      "title": "Dozens of kids and adults in Gaza have starved to death in July as hunger surges - AP News",
+      "pubDate": "Fri, 25 Jul 2025 00:27:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2819,10 +2819,6 @@
   ],
   "blockchain": [
     {
-      "title": "Congress Passes Historic Bills Regulating Blockchain and Cryptocurrency - AInvest",
-      "pubDate": "Fri, 18 Jul 2025 04:52:03 GMT"
-    },
-    {
       "title": "Goldman Sachs, BNY to Record Money Market Funds on Blockchain - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 13:35:52 GMT"
     }
@@ -3249,6 +3245,12 @@
     {
       "title": "Massive 14-foot 1,600-pound great white shark emerges in water off Massachusetts - Boston 25 News",
       "pubDate": "Thu, 24 Jul 2025 19:19:06 GMT"
+    }
+  ],
+  "solar_power": [
+    {
+      "title": "EU solar energy rollout slows for first time in decade as subsidies cut - Reuters",
+      "pubDate": "Thu, 24 Jul 2025 17:25:42 GMT"
     }
   ]
 }
