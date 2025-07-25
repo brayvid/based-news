@@ -73,14 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; NPR, PBS and foreign aid cuts clear Congress - NBC News",
-      "pubDate": "Fri, 18 Jul 2025 14:42:51 GMT"
-    },
-    {
-      "title": "Trump suggests there is no 'smoking gun' in the Jeffrey Epstein files - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 18 Jul 2025 14:51:55 GMT"
-    },
-    {
       "title": "Trump launches fresh defense of inaction in Epstein case following report he sent birthday letter - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 15:54:00 GMT"
     },
@@ -195,6 +187,10 @@
     {
       "title": "Trump's approval sinks: Here's who's causing his numbers to crumble - Axios",
       "pubDate": "Fri, 25 Jul 2025 10:33:58 GMT"
+    },
+    {
+      "title": "Trump: 'I haven't thought about' pardoning Jeffrey Epstein accomplice Ghislaine Maxwell - CNBC",
+      "pubDate": "Fri, 25 Jul 2025 13:49:09 GMT"
     }
   ],
   "russia": [
@@ -256,10 +252,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Can speed and safety truly coexist in the AI race? - AI News",
-      "pubDate": "Fri, 18 Jul 2025 14:41:10 GMT"
-    },
     {
       "title": "The EU just issued guidelines for AI safety, and Meta is already opting out - Mashable",
       "pubDate": "Fri, 18 Jul 2025 16:22:04 GMT"
@@ -697,10 +689,6 @@
   ],
   "china": [
     {
-      "title": "China Threatens Trump's Panama Canal Deal: Report - Newsweek",
-      "pubDate": "Fri, 18 Jul 2025 14:17:34 GMT"
-    },
-    {
       "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 16:14:21 GMT"
     },
@@ -851,6 +839,10 @@
     {
       "title": "DeepSeek, Trump\u2019s Plan Steer Agenda at China\u2019s Top AI Forum - Bloomberg",
       "pubDate": "Fri, 25 Jul 2025 03:03:00 GMT"
+    },
+    {
+      "title": "China\u2019s Overlooked AI Strategy: Beijing Is Using Soft Power to Gain Global Dominance - Foreign Affairs",
+      "pubDate": "Fri, 25 Jul 2025 04:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1151,6 +1143,10 @@
     {
       "title": "Ukraine\u2019s Upgraded Fiber Drones Are Deadlier At Longer Ranges - Forbes",
       "pubDate": "Thu, 24 Jul 2025 08:57:07 GMT"
+    },
+    {
+      "title": "Zelensky Hopes US Will Buy Up to $30 Billion Worth of Ukrainian Drones - Newsweek",
+      "pubDate": "Fri, 25 Jul 2025 14:18:52 GMT"
     }
   ],
   "federal_reserve": [
@@ -1300,10 +1296,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Congress targets hair products with cancer-causing ingredients marketed to Black women - NBC News",
-      "pubDate": "Fri, 18 Jul 2025 14:09:00 GMT"
-    },
     {
       "title": "'Universal cancer vaccine' trains the immune system to kill any tumor - New Atlas",
       "pubDate": "Fri, 18 Jul 2025 19:35:49 GMT"
@@ -1713,6 +1705,10 @@
     {
       "title": "Bitcoin Slides as Fed Rate Cut Hopes Diminish - Bloomberg.com",
       "pubDate": "Fri, 25 Jul 2025 07:18:25 GMT"
+    },
+    {
+      "title": "Bitcoin Slides to $115K as Dow Jones' Rally Stalls at December-January High - CoinDesk",
+      "pubDate": "Fri, 25 Jul 2025 04:50:36 GMT"
     }
   ],
   "fusion_power": [
@@ -1763,13 +1759,13 @@
     {
       "title": "China sets up state-owned fusion energy company amidst push for inexhaustible clean power - Xinhua",
       "pubDate": "Thu, 24 Jul 2025 14:44:15 GMT"
+    },
+    {
+      "title": "Nuclear breakthrough: French fusion reactor sustains reaction for 22 minutes - dixiesunnews.com",
+      "pubDate": "Fri, 25 Jul 2025 13:00:36 GMT"
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia CEO Huang Just Met With China\u2019s Commerce Minister. Why the Stock Is Gaining. - Barron's",
-      "pubDate": "Fri, 18 Jul 2025 14:04:00 GMT"
-    },
     {
       "title": "Nvidia faces supply issues in China return - report - Seeking Alpha",
       "pubDate": "Sat, 19 Jul 2025 18:56:00 GMT"
@@ -1950,10 +1946,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Global Quantum Computing Market Report 2025: Revenue, Trends, and Key Players - GlobeNewswire",
-      "pubDate": "Fri, 18 Jul 2025 14:18:15 GMT"
-    },
     {
       "title": "Quantum tech could break online security, warns India - Digital Watch Observatory",
       "pubDate": "Sat, 19 Jul 2025 08:00:00 GMT"
@@ -2189,10 +2181,6 @@
   ],
   "gaza": [
     {
-      "title": "Israel kills 35; \u2018unprecedented\u2019 number of hungry people in Gaza hospitals - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 14:49:22 GMT"
-    },
-    {
       "title": "Hamas says ready for \u2018long battle of attrition\u2019 as Israel pounds Gaza - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 16:24:16 GMT"
     },
@@ -2367,6 +2355,10 @@
     {
       "title": "US and Israel recall negotiating teams from Gaza talks, raising doubts over truce - CNN",
       "pubDate": "Fri, 25 Jul 2025 11:08:00 GMT"
+    },
+    {
+      "title": "As the Epstein saga rages, Trump is getting a pass on his role in the building famine in Gaza - CNN",
+      "pubDate": "Fri, 25 Jul 2025 04:00:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2657,6 +2649,10 @@
     {
       "title": "Caribbean leaders hail ICJ climate ruling as \u2018historic\u2019 win for small island states - The Guardian",
       "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "States have an obligation to combat climate change: landmark UN ruling - Materia Rinnovabile | Renewable Matter",
+      "pubDate": "Fri, 25 Jul 2025 09:31:56 GMT"
     }
   ],
   "volcanoes": [
@@ -2897,10 +2893,6 @@
   ],
   "pollution": [
     {
-      "title": "Serious pollution incidents by English water companies rose 60% last year - The Guardian",
-      "pubDate": "Fri, 18 Jul 2025 14:08:00 GMT"
-    },
-    {
       "title": "Trump order gives Minnesota taconite plants more time to cut mercury pollution - MPR News",
       "pubDate": "Sat, 19 Jul 2025 12:00:00 GMT"
     },
@@ -2933,12 +2925,6 @@
     {
       "title": "Trump questions CIA report's validity on Russia electoral interference - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Thu, 24 Jul 2025 02:46:00 GMT"
-    }
-  ],
-  "neuroscience": [
-    {
-      "title": "A common food additive solves a sticky neuroscience problem - Medical Xpress",
-      "pubDate": "Fri, 18 Jul 2025 14:30:03 GMT"
     }
   ],
   "research_and_development": [
