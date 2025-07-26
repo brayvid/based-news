@@ -69,14 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "DOJ asks judge to unseal Epstein-related grand jury testimony; Trump files libel lawsuit against Wall Street Journal - NBC News",
-      "pubDate": "Sat, 19 Jul 2025 02:32:00 GMT"
-    },
-    {
-      "title": "Trump sues Wall Street Journal, Rupert Murdoch for $10bn over Epstein story - Al Jazeera",
-      "pubDate": "Sat, 19 Jul 2025 02:37:30 GMT"
-    },
-    {
       "title": "Trump Takes Step Forward On Epstein Files, Then Rants About \"Left Lunatics\" - NDTV",
       "pubDate": "Sat, 19 Jul 2025 16:03:37 GMT"
     },
@@ -483,6 +475,10 @@
     {
       "title": "Tech firms to showcase AI innovations in a China under US sanctions - Reuters",
       "pubDate": "Fri, 25 Jul 2025 20:50:31 GMT"
+    },
+    {
+      "title": "American and Southwest Airlines say they will not use AI to set prices - NBC 5 Dallas-Fort Worth",
+      "pubDate": "Sat, 26 Jul 2025 01:40:59 GMT"
     }
   ],
   "climate": [
@@ -867,6 +863,10 @@
     {
       "title": "Taiwan votes in major recall election closely watched by China - Reuters",
       "pubDate": "Sat, 26 Jul 2025 00:06:00 GMT"
+    },
+    {
+      "title": "China's Premier Li proposes global AI cooperation organisation - Reuters",
+      "pubDate": "Sat, 26 Jul 2025 02:44:00 GMT"
     }
   ],
   "us_politics": [
@@ -1267,6 +1267,10 @@
     {
       "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
       "pubDate": "Thu, 24 Jul 2025 21:47:17 GMT"
+    },
+    {
+      "title": "Yellowstone is hiding more than 80,000 earthquakes below its surface - The Weather Network",
+      "pubDate": "Sat, 26 Jul 2025 00:08:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1391,6 +1395,10 @@
     {
       "title": "Hormone found to suppress immune cells, allowing cancer to evade detection - Medical Xpress",
       "pubDate": "Fri, 25 Jul 2025 11:20:03 GMT"
+    },
+    {
+      "title": "RFK Jr. to Oust Advisory Panel on Cancer Screenings, WSJ Reports - Bloomberg.com",
+      "pubDate": "Fri, 25 Jul 2025 22:13:31 GMT"
     }
   ],
   "space_exploration": [
@@ -2029,6 +2037,10 @@
     {
       "title": "NASA Tests 5G-Based Aviation Network to Boost Air Taxi Conne - ASDNews",
       "pubDate": "Thu, 24 Jul 2025 09:55:05 GMT"
+    },
+    {
+      "title": "More than 20% of NASA's workforce requests to leave agency - CBS News",
+      "pubDate": "Sat, 26 Jul 2025 02:49:49 GMT"
     }
   ],
   "alternative_energy": [
@@ -2317,6 +2329,10 @@
     {
       "title": "Severe malnutrition in under-5s has tripled at Gaza City clinic, charity reports - The Guardian",
       "pubDate": "Fri, 25 Jul 2025 19:01:00 GMT"
+    },
+    {
+      "title": "Netanyahu, Trump appear to abandon Gaza ceasefire negotiations with Hamas - Reuters",
+      "pubDate": "Fri, 25 Jul 2025 20:04:41 GMT"
     }
   ],
   "battery_technology": [
@@ -3277,6 +3293,12 @@
     {
       "title": "Data on autonomous vehicles reveals serious concerns - Land Line Media",
       "pubDate": "Fri, 25 Jul 2025 16:09:32 GMT"
+    }
+  ],
+  "investment": [
+    {
+      "title": "US-Japan deal's 9-1 investment profit split limited in scope: Tokyo - Nikkei Asia",
+      "pubDate": "Fri, 25 Jul 2025 18:17:00 GMT"
     }
   ]
 }
