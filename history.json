@@ -509,10 +509,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine's Zelenskiy says Russia launched over 30 missiles, 300 drones in overnight attack - Reuters",
-      "pubDate": "Sat, 19 Jul 2025 07:01:37 GMT"
-    },
-    {
       "title": "Russia pounds Ukraine with over 300 drones, killing 1 in Odesa - The Washington Post",
       "pubDate": "Sat, 19 Jul 2025 08:54:58 GMT"
     },
@@ -691,6 +687,10 @@
     {
       "title": "Ukraine Aims to Produce 1,000 Interceptor Drones a Day Amid Russian Air Threats - UNITED24 Media",
       "pubDate": "Fri, 25 Jul 2025 16:55:34 GMT"
+    },
+    {
+      "title": "Putin may be miscalculating Trump\u2019s resolve on Ukraine - Atlantic Council",
+      "pubDate": "Fri, 25 Jul 2025 22:53:00 GMT"
     }
   ],
   "us_economy": [
@@ -712,10 +712,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Defends Growth Model, Plans Consumption as Greater Driver - Bloomberg.com",
-      "pubDate": "Sat, 19 Jul 2025 07:03:06 GMT"
-    },
     {
       "title": "China Kicks Off Controversial Mega-Dam Project in Tibet - Bloomberg.com",
       "pubDate": "Sat, 19 Jul 2025 09:59:19 GMT"
@@ -917,6 +913,10 @@
     {
       "title": "US judge reaffirms nationwide injunction blocking Trump executive order on birthright citizenship - Reuters",
       "pubDate": "Fri, 25 Jul 2025 22:20:09 GMT"
+    },
+    {
+      "title": "Exclusive | Democrats Get Lowest Rating From Voters in 35 Years, WSJ Poll Finds - The Wall Street Journal",
+      "pubDate": "Sat, 26 Jul 2025 01:00:00 GMT"
     }
   ],
   "democratic_party": [
@@ -987,6 +987,10 @@
     {
       "title": "US Opens Investigation Into Harvards Participation In Exchange Visitor Program - Zee News",
       "pubDate": "Thu, 24 Jul 2025 03:15:34 GMT"
+    },
+    {
+      "title": "US confirms it will destroy contraceptives previously designated as aid - Al Jazeera",
+      "pubDate": "Fri, 25 Jul 2025 20:03:45 GMT"
     }
   ],
   "trade_war": [
@@ -2053,6 +2057,10 @@
     {
       "title": "NASA Releases Workforce Resignation Numbers - NASA Watch",
       "pubDate": "Sat, 26 Jul 2025 01:38:40 GMT"
+    },
+    {
+      "title": "NASA losing nearly 4,000 employees to Trump administration's 'deferred resignation' program - Space",
+      "pubDate": "Sat, 26 Jul 2025 04:26:26 GMT"
     }
   ],
   "alternative_energy": [
@@ -2349,6 +2357,10 @@
     {
       "title": "Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com",
       "pubDate": "Sat, 26 Jul 2025 03:38:51 GMT"
+    },
+    {
+      "title": "Hundreds bang pots, pans in London in Gaza hunger crisis protest - Al Jazeera",
+      "pubDate": "Fri, 25 Jul 2025 20:15:55 GMT"
     }
   ],
   "battery_technology": [
@@ -3191,6 +3203,10 @@
     {
       "title": "Archaeologists Discovered an Unprecedented Ancient Monument That Could Rewrite History - AOL.com",
       "pubDate": "Fri, 25 Jul 2025 05:53:42 GMT"
+    },
+    {
+      "title": "Scientists trace Indigenous history on ancient river for climate change analysis - MSN",
+      "pubDate": "Sat, 26 Jul 2025 03:31:52 GMT"
     }
   ],
   "net_zero_emissions": [
@@ -3307,6 +3323,12 @@
     {
       "title": "US-Japan deal's 9-1 investment profit split limited in scope: Tokyo - Nikkei Asia",
       "pubDate": "Fri, 25 Jul 2025 18:17:00 GMT"
+    }
+  ],
+  "technology": [
+    {
+      "title": "Meta Clashes With Apple, Google Over Child Age Check Legislation - Bloomberg.com",
+      "pubDate": "Fri, 25 Jul 2025 19:53:38 GMT"
     }
   ]
 }
