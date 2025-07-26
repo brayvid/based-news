@@ -517,10 +517,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine Gets Major Abrams Tank Boost - Newsweek",
-      "pubDate": "Sat, 19 Jul 2025 11:15:01 GMT"
-    },
-    {
       "title": "Russia Deploys New Lethal Tactic Against Ukraine - Newsweek",
       "pubDate": "Sat, 19 Jul 2025 12:38:13 GMT"
     },
@@ -1013,10 +1009,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Singapore facing 'serious' cyberattack by espionage group with alleged China ties - France 24",
-      "pubDate": "Sat, 19 Jul 2025 11:37:30 GMT"
-    },
-    {
       "title": "Iranian cyberattack targeted Arizona candidate photos on election website - The Arizona Republic",
       "pubDate": "Sat, 19 Jul 2025 12:11:42 GMT"
     },
@@ -1115,6 +1107,10 @@
     {
       "title": "Microsoft Probes Suspected MAPP Leak Enabling Chinese Hackers to Exploit SharePoint Vulnerability - AInvest",
       "pubDate": "Sat, 26 Jul 2025 01:19:53 GMT"
+    },
+    {
+      "title": "The Invisible Frontline: Cybersecurity Supply Chains and the Geopolitical Risks Investors Can't Ignore - AInvest",
+      "pubDate": "Sat, 26 Jul 2025 08:03:15 GMT"
     }
   ],
   "recession": [
@@ -1216,10 +1212,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Myanmar earthquake's fault rupture exceeded seismic wave speeds, offering rare evidence of supershear - Phys.org",
-      "pubDate": "Sat, 19 Jul 2025 11:27:45 GMT"
-    },
     {
       "title": "Magnitude 5.6 earthquake strikes northern Iran - India Today",
       "pubDate": "Sat, 19 Jul 2025 22:13:48 GMT"
@@ -1679,6 +1671,10 @@
     {
       "title": "Tea app hacked: 13,000 photos leaked after 4chan call to action - NBC News",
       "pubDate": "Fri, 25 Jul 2025 22:44:38 GMT"
+    },
+    {
+      "title": "DATA BREACH ALERT: Edelson Lechtzin LLP is Investigating Claims on Behalf of Tea Dating Advice, Inc. (Tea app), Customers Whose Data May Have Been Compromised - PR Newswire",
+      "pubDate": "Sat, 26 Jul 2025 00:08:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1941,10 +1937,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Researchers Push for Open-Source Quantum Tools to Break Critical Industry Bottlenecks - The Quantum Insider",
-      "pubDate": "Sat, 19 Jul 2025 11:48:23 GMT"
-    },
-    {
       "title": "Quantum computing is so fire \u2014 No, seriously. BofA says it could be humanity's biggest breakthrough since the discovery of fire - Fortune",
       "pubDate": "Sat, 19 Jul 2025 19:04:00 GMT"
     },
@@ -1979,6 +1971,10 @@
     {
       "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
       "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
+    },
+    {
+      "title": "Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play - MSN",
+      "pubDate": "Sat, 26 Jul 2025 00:38:36 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1996,10 +1992,6 @@
     }
   ],
   "alexandria_ocasio-cortez": [
-    {
-      "title": "US progressive lawmaker AOC rejects cutting funding for \u201cIsrael\u2019s\u201d air defense system - Roya News",
-      "pubDate": "Sat, 19 Jul 2025 11:35:22 GMT"
-    },
     {
       "title": "AOC votes against cutting Israeli missile funding - SKWAWKBOX",
       "pubDate": "Sun, 20 Jul 2025 07:56:14 GMT"
@@ -2142,10 +2134,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "LIVE: 70 Palestinians killed as Israel targets food aid sites in Gaza again - Al Jazeera",
-      "pubDate": "Sat, 19 Jul 2025 11:15:00 GMT"
-    },
     {
       "title": "IDF troops, Air Force conduct coordinated strikes on Gaza terror infrastructure - Ynetnews",
       "pubDate": "Sat, 19 Jul 2025 12:34:02 GMT"
@@ -2399,6 +2387,10 @@
     {
       "title": "Rogue black hole found terrorizing unfortunate star in distant galaxy - Space",
       "pubDate": "Fri, 25 Jul 2025 20:14:22 GMT"
+    },
+    {
+      "title": "Scientists Find Evidence That Original Life on Earth Was Assembled From Material in Space - Yahoo Home",
+      "pubDate": "Sat, 26 Jul 2025 10:00:55 GMT"
     }
   ],
   "physics": [
@@ -3241,6 +3233,10 @@
     {
       "title": "The Supreme Court Has Hit Rock Bottom - The New Republic",
       "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Trump Wins 6-3 Supreme Court Ruling \u2014 Sotomayor Leads Dissent - MSN",
+      "pubDate": "Sat, 26 Jul 2025 09:43:18 GMT"
     }
   ],
   "natural_history": [
@@ -3333,6 +3329,12 @@
     {
       "title": "Republican Party of Iowa hosts fundraiser in Clear Lake - KIMT",
       "pubDate": "Fri, 25 Jul 2025 22:34:00 GMT"
+    }
+  ],
+  "war_and_unrest": [
+    {
+      "title": "Russia and Ukraine trade aerial attacks, killing 4 - CBS News",
+      "pubDate": "Sat, 26 Jul 2025 11:05:10 GMT"
     }
   ]
 }
