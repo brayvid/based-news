@@ -35,6 +35,10 @@
     {
       "title": "Trump tells Israel to \u2018finish the job\u2019 against Hamas weeks after suggesting ceasefire deal in sight - CNN",
       "pubDate": "Fri, 25 Jul 2025 19:43:00 GMT"
+    },
+    {
+      "title": "Israeli Parliament Votes for Making Apartheid Official. Fetterman: \u201cI Haven\u2019t Been Following It.\u201d - The Intercept",
+      "pubDate": "Sat, 26 Jul 2025 10:00:00 GMT"
     }
   ],
   "iran": [
@@ -276,10 +280,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "DuckDuckGo adds AI image filter and scam blocker to boost privacy and safety - The Indian Express",
-      "pubDate": "Sat, 19 Jul 2025 13:58:28 GMT"
-    },
     {
       "title": "Cursor AI YOLO mode lets coding assistant run wild, security firm warns - theregister.com",
       "pubDate": "Mon, 21 Jul 2025 21:02:00 GMT"
@@ -691,6 +691,10 @@
     {
       "title": "Putin BOMBARDS Kharkiv; Ukraine Emergency Services Take Cover As Russian Kamikaze Drones Strike - Times of India",
       "pubDate": "Sat, 26 Jul 2025 12:30:00 GMT"
+    },
+    {
+      "title": "Men Are Already Writing Off Ukraine\u2019s New Prime Minister - The Atlantic",
+      "pubDate": "Sat, 26 Jul 2025 11:30:00 GMT"
     }
   ],
   "us_economy": [
@@ -2073,6 +2077,10 @@
     {
       "title": "NASA losing nearly 4,000 employees to Trump administration's 'deferred resignation' program - Space",
       "pubDate": "Sat, 26 Jul 2025 04:26:26 GMT"
+    },
+    {
+      "title": "NASA says it will lose about 20 percent of its workforce - Yahoo Home",
+      "pubDate": "Sat, 26 Jul 2025 13:23:28 GMT"
     }
   ],
   "alternative_energy": [
@@ -2397,6 +2405,10 @@
     {
       "title": "Meta-Algorithms Efficiently Prepare Thermal States on Noisy Intermediate-Scale Quantum Devices - Quantum Zeitgeist",
       "pubDate": "Fri, 25 Jul 2025 15:46:24 GMT"
+    },
+    {
+      "title": "How Energy-Hungry Algorithms Are Fueling the Climate Crisis: The Hidden Cost of AI - LA Progressive",
+      "pubDate": "Sat, 26 Jul 2025 14:22:24 GMT"
     }
   ],
   "astronomy": [
@@ -2773,10 +2785,6 @@
       "pubDate": "Sat, 19 Jul 2025 16:04:47 GMT"
     },
     {
-      "title": "House Advances $832 Billion Military Budget - RealClearDefense",
-      "pubDate": "Sat, 19 Jul 2025 14:53:42 GMT"
-    },
-    {
       "title": "Russia seen as boosting combat-drone output, switching attack angles - Defense News",
       "pubDate": "Mon, 21 Jul 2025 12:37:00 GMT"
     },
@@ -2803,12 +2811,6 @@
       "pubDate": "Wed, 23 Jul 2025 20:39:50 GMT"
     }
   ],
-  "rivian": [
-    {
-      "title": "Rivian Automotive\u2019s Stock Surges Amid Georgia Factory Plans - TipRanks",
-      "pubDate": "Sat, 19 Jul 2025 14:04:21 GMT"
-    }
-  ],
   "world_news": [
     {
       "title": "Ozzy Osbourne, Black Sabbath's bat-biting frontman, dies aged 76 - Reuters",
@@ -2817,6 +2819,10 @@
     {
       "title": "Thailand-Cambodia clash: Airstrikes kill at least 15 in deadly escalation over disputed border - The Hindu",
       "pubDate": "Fri, 25 Jul 2025 01:03:00 GMT"
+    },
+    {
+      "title": "Russia Using Kidnapped Ukrainian Children As Soldiers: Top Zelensky Aide - NDTV",
+      "pubDate": "Sat, 26 Jul 2025 05:25:38 GMT"
     }
   ],
   "blockchain": [
@@ -2945,12 +2951,6 @@
     {
       "title": "NASA Is Watching a Huge Anomaly Growing in Earth's Magnetic Field - ScienceAlert",
       "pubDate": "Fri, 25 Jul 2025 13:01:30 GMT"
-    }
-  ],
-  "polling": [
-    {
-      "title": "Japan heads to polls in key test for PM Ishiba - Reuters",
-      "pubDate": "Sat, 19 Jul 2025 14:03:04 GMT"
     }
   ],
   "united_states": [
@@ -3359,6 +3359,12 @@
     {
       "title": "Russia and Ukraine trade aerial attacks, killing 4 - CBS News",
       "pubDate": "Sat, 26 Jul 2025 11:05:10 GMT"
+    }
+  ],
+  "us_treasury": [
+    {
+      "title": "US Treasury Sanctions Venezuela\u2019s Cartel de los Soles - Bloomberg",
+      "pubDate": "Sat, 26 Jul 2025 04:44:00 GMT"
     }
   ]
 }
