@@ -207,6 +207,10 @@
     {
       "title": "Trump calls on Thailand and Cambodia to cease fire and talk trade - BBC",
       "pubDate": "Sat, 26 Jul 2025 18:13:03 GMT"
+    },
+    {
+      "title": "Trump's trade deals and tariffs are on the chopping block in court. What happens next - CNBC",
+      "pubDate": "Sat, 26 Jul 2025 12:00:01 GMT"
     }
   ],
   "russia": [
@@ -380,10 +384,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
-      "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
-    },
     {
       "title": "OpenAI announces AI model matches International Mathematical Olympiad gold medal level - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sun, 20 Jul 2025 08:20:00 GMT"
@@ -2007,16 +2007,16 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "AI Is Making Us Dumber, MIT Researchers Find - HPCwire",
-      "pubDate": "Sat, 19 Jul 2025 20:05:47 GMT"
-    },
-    {
       "title": "Microsoft poaches top Google DeepMind staff in AI talent war - Financial Times",
       "pubDate": "Tue, 22 Jul 2025 16:20:07 GMT"
     },
     {
       "title": "Congress Isn't Stepping Up to Regulate AI. Where Does That Leave Us Now? - AOL.com",
       "pubDate": "Wed, 23 Jul 2025 11:19:13 GMT"
+    },
+    {
+      "title": "OpenAI\u2019s Sam Altman Eyes 100M GPUs in $3T Push for AGI Dominance - WebProNews",
+      "pubDate": "Sat, 26 Jul 2025 18:22:22 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2045,6 +2045,10 @@
     {
       "title": "US nuclear weapons agency \u2018among 400 organisations breached by Chinese hackers\u2019 - The Guardian",
       "pubDate": "Wed, 23 Jul 2025 09:54:00 GMT"
+    },
+    {
+      "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
+      "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
     }
   ],
   "ethereum": [
@@ -2381,6 +2385,10 @@
     {
       "title": "At least 57 killed in Gaza in 24 hours as Israel withdraws from ceasefire talks - The Guardian",
       "pubDate": "Sat, 26 Jul 2025 16:34:00 GMT"
+    },
+    {
+      "title": "LIVE: Israeli army surrounds Gaza-bound aid ship as attacks kill 71 today - Al Jazeera",
+      "pubDate": "Sat, 26 Jul 2025 14:24:03 GMT"
     }
   ],
   "battery_technology": [
@@ -2715,6 +2723,10 @@
     {
       "title": "A cosmic void may help resolve the Hubble tension - Physics World",
       "pubDate": "Mon, 21 Jul 2025 16:16:49 GMT"
+    },
+    {
+      "title": "Is Our Universe Inside A Black Hole? JWST\u2019s New Findings Suggest It Might Be - The Daily Galaxy",
+      "pubDate": "Sat, 26 Jul 2025 14:35:00 GMT"
     }
   ],
   "us_senate": [
@@ -3009,10 +3021,6 @@
   ],
   "asia": [
     {
-      "title": "China's Trilateral Diplomacy: Beijing Reshapes South Asia\u2019s Strategic Balance - Deccan Herald",
-      "pubDate": "Sat, 19 Jul 2025 20:13:49 GMT"
-    },
-    {
       "title": "Western aid cuts cede ground to China in Southeast Asia: study - Northeast Mississippi Daily Journal",
       "pubDate": "Sun, 20 Jul 2025 12:36:26 GMT"
     },
@@ -3287,6 +3295,10 @@
     {
       "title": "National Hurricane Center now tracking 4 waves in Atlantic, Caribbean, rain from Gulf system - Treasure Coast News",
       "pubDate": "Fri, 25 Jul 2025 15:11:15 GMT"
+    },
+    {
+      "title": "Ancient 'lost city' found at bottom of the Atlantic Ocean holds clue to origins of life - MSN",
+      "pubDate": "Sat, 26 Jul 2025 20:28:47 GMT"
     }
   ],
   "solar_power": [
@@ -3375,6 +3387,12 @@
     {
       "title": "China Launches Its First 6nm GPUs For Gaming & AI, the Lisuan 7G106 12 GB & 7G105 24 GB, Up To 24 TFLOPs, Faster Than RTX 4060 In Synthetic Benchmarks & Even Runs Black Myth Wukong at 4K High With Playable FPS - Wccftech",
       "pubDate": "Sat, 26 Jul 2025 09:18:00 GMT"
+    }
+  ],
+  "big_data": [
+    {
+      "title": "Texas Leads Data Privacy Crackdown: Record Fines For Big Tech And AI - Dallas Express",
+      "pubDate": "Sat, 26 Jul 2025 19:04:59 GMT"
     }
   ]
 }
