@@ -367,6 +367,10 @@
     {
       "title": "Congress introduces bill to ban AI surveillance pricing - theregister.com",
       "pubDate": "Sat, 26 Jul 2025 13:15:00 GMT"
+    },
+    {
+      "title": "Asean to establish AI safety initiative - thestar.com.my",
+      "pubDate": "Sun, 27 Jul 2025 05:27:00 GMT"
     }
   ],
   "financial_markets": [
@@ -396,10 +400,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI announces AI model matches International Mathematical Olympiad gold medal level - CHOSUNBIZ - Chosunbiz",
-      "pubDate": "Sun, 20 Jul 2025 08:20:00 GMT"
-    },
     {
       "title": "New UK AI audit standard aims to crack down on \u2018wild west\u2019 operators - Financial Times",
       "pubDate": "Mon, 21 Jul 2025 04:00:15 GMT"
@@ -1713,10 +1713,6 @@
       "pubDate": "Sun, 20 Jul 2025 15:26:30 GMT"
     },
     {
-      "title": "Radiology Associates of Richmond data breach impacts 1.4 million people - Security Affairs",
-      "pubDate": "Sun, 20 Jul 2025 08:10:24 GMT"
-    },
-    {
       "title": "Hong Kong Probes Louis Vuitton Data Leak After UK, Korea Attacks - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 03:34:00 GMT"
     },
@@ -2246,10 +2242,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel orders evacuations in central Gaza, where ground operations were rare - WCVB",
-      "pubDate": "Sun, 20 Jul 2025 08:34:00 GMT"
-    },
     {
       "title": "Israel extends Gaza offensive to areas not yet reached by ground forces - Financial Times",
       "pubDate": "Sun, 20 Jul 2025 10:43:00 GMT"
@@ -3107,6 +3099,10 @@
     {
       "title": "US forces capture ISIS finance chief in Somalia - Task & Purpose",
       "pubDate": "Sat, 26 Jul 2025 19:05:06 GMT"
+    },
+    {
+      "title": "Israeli-Jordanian agreement over Temple Mount is pathetic appeasement to terrorism - opinion - The Jerusalem Post",
+      "pubDate": "Sun, 27 Jul 2025 00:59:01 GMT"
     }
   ],
   "asia": [
@@ -3139,12 +3135,6 @@
     {
       "title": "SpaceX Starship Lost Over The Indian Ocean After Losing Attitude Control During Flight 9 - MSN",
       "pubDate": "Thu, 24 Jul 2025 20:01:11 GMT"
-    }
-  ],
-  "nanotechnology": [
-    {
-      "title": "Scientists twist DNA into self-building nanostructures that could transform technology - ScienceDaily",
-      "pubDate": "Sun, 20 Jul 2025 08:40:27 GMT"
     }
   ],
   "software": [
@@ -3545,6 +3535,12 @@
     {
       "title": "Alight, Inc. (ALIT): A High-Conviction Buy in an Undervalued Cloud Services Play - AInvest",
       "pubDate": "Sat, 26 Jul 2025 21:28:15 GMT"
+    }
+  ],
+  "data_analysis": [
+    {
+      "title": "Over 50 per cent children stunted in 63 districts across 13 states and UTs: Parliament data analysis - The Economic Times",
+      "pubDate": "Sun, 27 Jul 2025 08:19:08 GMT"
     }
   ]
 }
