@@ -547,6 +547,10 @@
     {
       "title": "AI is driving mass layoffs in tech, but it's boosting salaries by $18,000 a year everywhere else, study says - Fortune",
       "pubDate": "Sun, 27 Jul 2025 11:17:00 GMT"
+    },
+    {
+      "title": "AI's race in the dark with China - Axios",
+      "pubDate": "Sun, 27 Jul 2025 11:52:29 GMT"
     }
   ],
   "climate": [
@@ -572,10 +576,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia is open to peace with Ukraine but insists on achieving its goals, Kremlin spokesman says - San Francisco Chronicle",
-      "pubDate": "Sun, 20 Jul 2025 13:30:07 GMT"
-    },
     {
       "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
       "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
@@ -1617,6 +1617,10 @@
     {
       "title": "Woman convinced to deposit nearly $5,000 into cryptocurrency ATM in attempted scam - Cleveland.com",
       "pubDate": "Sat, 26 Jul 2025 22:34:00 GMT"
+    },
+    {
+      "title": "Crypto lenders make risky comeback with unsecured loans, AI tools: FT (BTC-USD:Cryptocurrency) - Seeking Alpha",
+      "pubDate": "Sun, 27 Jul 2025 12:43:01 GMT"
     }
   ],
   "tesla": [
@@ -2033,10 +2037,6 @@
       "pubDate": "Sun, 20 Jul 2025 17:35:18 GMT"
     },
     {
-      "title": "Quantum chip hints at multiverse \u2014 Willow may prove parallel existence - ecoportal.net",
-      "pubDate": "Sun, 20 Jul 2025 13:50:54 GMT"
-    },
-    {
       "title": "7M Bitcoin at Risk as Quantum Computing Set to Break Crypto in 3 Years | Interview - Cryptonews",
       "pubDate": "Mon, 21 Jul 2025 09:40:24 GMT"
     },
@@ -2221,6 +2221,10 @@
     {
       "title": "'Super alcohol' created in space-like lab reveals cosmic secrets - Phys.org",
       "pubDate": "Mon, 21 Jul 2025 13:03:20 GMT"
+    },
+    {
+      "title": "Scientists discover salt that makes batteries last 10x longer - ScienceDaily",
+      "pubDate": "Sun, 27 Jul 2025 10:47:25 GMT"
     }
   ],
   "earth": [
@@ -2509,6 +2513,10 @@
     {
       "title": "How Energy-Hungry Algorithms Are Fueling the Climate Crisis: The Hidden Cost of AI - LA Progressive",
       "pubDate": "Sat, 26 Jul 2025 14:22:24 GMT"
+    },
+    {
+      "title": "Dead or 'unalive'? How social platforms \u2014 and algorithms \u2014 are shaping the way we talk - CBC",
+      "pubDate": "Sun, 27 Jul 2025 08:00:00 GMT"
     }
   ],
   "astronomy": [
@@ -2543,13 +2551,13 @@
     {
       "title": "Astronomers Discover Potentially Habitable Earth-Like Planet Just 35 Light-Years Away - SciTechDaily",
       "pubDate": "Sun, 27 Jul 2025 04:34:21 GMT"
+    },
+    {
+      "title": "Astronomers witness a newborn planet emerging from the dust around a sun-like star: Space photo of the week - Live Science",
+      "pubDate": "Sun, 27 Jul 2025 10:00:00 GMT"
     }
   ],
   "physics": [
-    {
-      "title": "The most accurate atomic clock to date - Tech Explorist",
-      "pubDate": "Sun, 20 Jul 2025 13:10:47 GMT"
-    },
     {
       "title": "Scientists Found a Black Hole That Shouldn\u2019t Exist. Now Physics Has a Problem. - Yahoo Home",
       "pubDate": "Mon, 21 Jul 2025 13:30:00 GMT"
@@ -2777,6 +2785,10 @@
     {
       "title": "Earth appears to be developing new never-before-seen human-made seasons, study finds - Live Science",
       "pubDate": "Sun, 27 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Dance Poles and Leopard-Print Walls: Love Motels Ready Rooms for Climate Summit - The New York Times",
+      "pubDate": "Sun, 27 Jul 2025 07:00:16 GMT"
     }
   ],
   "volcanoes": [
@@ -3539,6 +3551,12 @@
     {
       "title": "Is computer science still a relevant stream? Students weary as US tech layoffs surge - financialexpress.com",
       "pubDate": "Sun, 27 Jul 2025 05:46:13 GMT"
+    }
+  ],
+  "animals": [
+    {
+      "title": "A heartbreaking economic indicator: More people are giving up their pets - CNN",
+      "pubDate": "Sun, 27 Jul 2025 10:00:00 GMT"
     }
   ]
 }
