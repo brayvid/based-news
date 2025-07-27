@@ -85,6 +85,10 @@
     {
       "title": "Iran executes two members of banned group for targeting infrastructure - Reuters",
       "pubDate": "Sun, 27 Jul 2025 05:17:00 GMT"
+    },
+    {
+      "title": "Iran Forcing Out Afghans En Masse After Israel Spying Claims - Bloomberg",
+      "pubDate": "Sun, 27 Jul 2025 06:00:00 GMT"
     }
   ],
   "donald_trump": [
@@ -226,10 +230,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Massive Drone Attack Disrupts Moscow Airports, Damages Homes and Cars - Kyiv Post",
-      "pubDate": "Sun, 20 Jul 2025 06:06:49 GMT"
-    },
     {
       "title": "Russia faces intense barrage of drones, shutting down Moscow airports - upi.com",
       "pubDate": "Sun, 20 Jul 2025 17:55:03 GMT"
@@ -923,6 +923,10 @@
     {
       "title": "China Strong-Armed Japan Over Rare Earths. It\u2019s a Lesson for the U.S. - The Wall Street Journal",
       "pubDate": "Sun, 27 Jul 2025 04:02:00 GMT"
+    },
+    {
+      "title": "China is suppressing coverage of deadly attacks. Some people are complaining online - ABC News",
+      "pubDate": "Sun, 27 Jul 2025 05:09:28 GMT"
     }
   ],
   "us_politics": [
@@ -1412,10 +1416,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Groundbreaking study reveals overlooked factor behind increased cancer risk in women: 'Their cumulative public health impact is substantial' - The Cool Down",
-      "pubDate": "Sun, 20 Jul 2025 06:15:00 GMT"
-    },
     {
       "title": "Major Hampshire study to examine rare appendix cancer - BBC",
       "pubDate": "Mon, 21 Jul 2025 05:05:36 GMT"
@@ -2485,6 +2485,10 @@
     {
       "title": "Israel intercepts Gaza-bound activist boat with food aid - BBC",
       "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
+    },
+    {
+      "title": "IDF reservist dies of wounds from southern Gaza blast - Ynetnews",
+      "pubDate": "Sat, 26 Jul 2025 19:48:17 GMT"
     }
   ],
   "battery_technology": [
@@ -3075,10 +3079,6 @@
   ],
   "political_corruption": [
     {
-      "title": "The Chinese political bribery scandal that\u2019s rattling Europe - The Sydney Morning Herald",
-      "pubDate": "Sun, 20 Jul 2025 06:07:52 GMT"
-    },
-    {
       "title": "Zelensky faces major protests after signing bill targeting anti-graft bodies - France 24",
       "pubDate": "Wed, 23 Jul 2025 11:16:11 GMT"
     },
@@ -3529,6 +3529,24 @@
     {
       "title": "Childhood Trauma May Rewire Brain for Lifelong Aggression - Neuroscience News",
       "pubDate": "Sat, 26 Jul 2025 19:56:56 GMT"
+    }
+  ],
+  "venezuela": [
+    {
+      "title": "US Sanctions Venezuelan Cartel Headed By Maduro - Eurasia Review",
+      "pubDate": "Sat, 26 Jul 2025 23:56:45 GMT"
+    }
+  ],
+  "japan": [
+    {
+      "title": "Three drones detected in Japan nuclear plant - The Economic Times",
+      "pubDate": "Sun, 27 Jul 2025 02:44:38 GMT"
+    }
+  ],
+  "hong_kong": [
+    {
+      "title": "Canada condemns Hong Kong arrest warrants targeting pro-democracy activists - Yahoo Home",
+      "pubDate": "Sat, 26 Jul 2025 19:36:21 GMT"
     }
   ]
 }
