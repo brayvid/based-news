@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
-      "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
-    },
-    {
       "title": "Trump posts AI-generated video depicting Obama's arrest to rally support - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Mon, 21 Jul 2025 07:22:00 GMT"
     },
@@ -214,10 +210,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia faces intense barrage of drones, shutting down Moscow airports - upi.com",
-      "pubDate": "Sun, 20 Jul 2025 17:55:03 GMT"
-    },
     {
       "title": "Russia-Linked Refinery in India Seeks Early Payment After Curbs - Bloomberg.com",
       "pubDate": "Mon, 21 Jul 2025 06:31:00 GMT"
@@ -363,6 +355,10 @@
     {
       "title": "Asean to establish AI safety initiative - thestar.com.my",
       "pubDate": "Sun, 27 Jul 2025 05:27:00 GMT"
+    },
+    {
+      "title": "AI Godfather Hinton Criticizes Altman, Zuckerberg on AI Risks, Praises Hassabis - WebProNews",
+      "pubDate": "Sun, 27 Jul 2025 16:28:03 GMT"
     }
   ],
   "financial_markets": [
@@ -1117,6 +1113,10 @@
     {
       "title": "How a US Trade War With China Could Become a Hot War - Bloomberg",
       "pubDate": "Sat, 26 Jul 2025 08:00:07 GMT"
+    },
+    {
+      "title": "US and China are expected to extend trade truce by 90 Days, SCMP says - Fortune",
+      "pubDate": "Sun, 27 Jul 2025 16:44:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1763,6 +1763,10 @@
     {
       "title": "Allianz Life says \u2018majority\u2019 of customers\u2019 personal data stolen in cyberattack - TechCrunch",
       "pubDate": "Sat, 26 Jul 2025 13:40:16 GMT"
+    },
+    {
+      "title": "Major Life Insurance Data Breach Puts Over 1 Million at Risk - Men's Journal",
+      "pubDate": "Sun, 27 Jul 2025 15:12:58 GMT"
     }
   ],
   "bitcoin": [
@@ -2029,13 +2033,13 @@
     {
       "title": "Groundbreaking Study Identifies Four Biologically Distinct Autism Subtypes - SciTechDaily",
       "pubDate": "Wed, 23 Jul 2025 13:06:21 GMT"
+    },
+    {
+      "title": "Study Overturns Decades-Old Dogma: Scientists Discover \u201cHidden Organization\u201d in Gene Regulation - SciTechDaily",
+      "pubDate": "Sun, 27 Jul 2025 11:37:51 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum Leap or Overpriced Hype? D-Wave's $400M Raise and the Future of Quantum Computing - AInvest",
-      "pubDate": "Sun, 20 Jul 2025 17:35:18 GMT"
-    },
     {
       "title": "7M Bitcoin at Risk as Quantum Computing Set to Break Crypto in 3 Years | Interview - Cryptonews",
       "pubDate": "Mon, 21 Jul 2025 09:40:24 GMT"
@@ -2473,6 +2477,10 @@
     {
       "title": "Israel begins a limited pause in fighting in 3 Gaza areas as concerns over hunger mount - NPR",
       "pubDate": "Sun, 27 Jul 2025 10:29:20 GMT"
+    },
+    {
+      "title": "Trump insists Hamas is stealing food amid Gaza hunger crisis - The Hill",
+      "pubDate": "Sun, 27 Jul 2025 16:58:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2780,10 +2788,6 @@
     }
   ],
   "volcanoes": [
-    {
-      "title": "Is Yellowstone\u2019s supervolcano about to erupt? Truth and rumours behind the viral bear video - The Times of India",
-      "pubDate": "Sun, 20 Jul 2025 17:04:00 GMT"
-    },
     {
       "title": "Another Volcanic Eruption In Iceland Causes Evacuations At The Blue Lagoon \u2013 What To Know - Travel Noire",
       "pubDate": "Mon, 21 Jul 2025 14:09:53 GMT"
@@ -3255,6 +3259,10 @@
     {
       "title": "Why the Current Research Funding Model Needs an Overhaul - Technology Networks",
       "pubDate": "Wed, 23 Jul 2025 11:04:04 GMT"
+    },
+    {
+      "title": "Researchers quietly planned a test to dim sunlight. They wanted to \u2018avoid scaring\u2019 the public. - Politico",
+      "pubDate": "Sun, 27 Jul 2025 11:00:00 GMT"
     }
   ],
   "ancient_history": [
@@ -3525,6 +3533,12 @@
     {
       "title": "US Attorney Bill Essayli and immigration attorney examine DHS raids on Eyewitness Newsmakers - ABC7 Los Angeles",
       "pubDate": "Sun, 27 Jul 2025 15:55:11 GMT"
+    }
+  ],
+  "atmospheric_science": [
+    {
+      "title": "Deep-sea fish just changed what we know about Earth\u2019s carbon cycle - ScienceDaily",
+      "pubDate": "Sun, 27 Jul 2025 13:10:15 GMT"
     }
   ]
 }
