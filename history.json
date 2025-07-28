@@ -215,10 +215,6 @@
   ],
   "russia": [
     {
-      "title": "Putin Orders FSB to Vet Ships Entering Russia Ports After Blasts - Bloomberg",
-      "pubDate": "Mon, 21 Jul 2025 14:33:36 GMT"
-    },
-    {
       "title": "Russia passes law punishing searches for 'extremist' content - Reuters",
       "pubDate": "Tue, 22 Jul 2025 16:44:47 GMT"
     },
@@ -301,6 +297,10 @@
     {
       "title": "Russia runs low on Soviet-era arms as North Korea fills gap - Financial Times",
       "pubDate": "Mon, 28 Jul 2025 04:00:47 GMT"
+    },
+    {
+      "title": "Brutal punishments are being meted out to Russian soldiers no longer willing to fight for Putin - CNN",
+      "pubDate": "Mon, 28 Jul 2025 10:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -400,10 +400,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Patients have reservations about physicians who use artificial intelligence, according to study - Medical Xpress",
-      "pubDate": "Mon, 21 Jul 2025 14:20:06 GMT"
-    },
     {
       "title": "Pentagon awards up to $200 million to AI companies whose models are rife with ideological bias - Reason Magazine",
       "pubDate": "Mon, 21 Jul 2025 20:21:02 GMT"
@@ -575,10 +571,6 @@
     {
       "title": "Ukraine secures major military pledges from allies at UDCG meeting - Anadolu Ajans\u0131",
       "pubDate": "Mon, 21 Jul 2025 19:20:35 GMT"
-    },
-    {
-      "title": "Russia launches a major aerial attack on Kyiv hours before high-level talks on weapons support for Ukraine - PBS",
-      "pubDate": "Mon, 21 Jul 2025 14:36:12 GMT"
     },
     {
       "title": "Ukraine war briefing: International protest over arrests at anti-corruption agency - The Guardian",
@@ -967,6 +959,10 @@
     {
       "title": "Intense rains lash China swelling waterways, rivers; landslide kills four - Reuters",
       "pubDate": "Mon, 28 Jul 2025 09:41:49 GMT"
+    },
+    {
+      "title": "Did China Just Violate the Biological Warfare Convention? - Lieber Institute West Point",
+      "pubDate": "Mon, 28 Jul 2025 14:07:55 GMT"
     }
   ],
   "us_politics": [
@@ -1227,6 +1223,10 @@
     {
       "title": "Quantum Cybersecurity Pioneer Launches Advanced Protection Platform in Philippines Through Strategic Alliance - Stock Titan",
       "pubDate": "Mon, 28 Jul 2025 01:02:42 GMT"
+    },
+    {
+      "title": "CISA\u2019s next chapter on election security - Politico",
+      "pubDate": "Mon, 28 Jul 2025 14:00:00 GMT"
     }
   ],
   "recession": [
@@ -1609,13 +1609,13 @@
     {
       "title": "The Tornado Cash Trial: A Defining Moment for Cryptocurrency Privacy - OneSafe",
       "pubDate": "Mon, 28 Jul 2025 08:13:31 GMT"
+    },
+    {
+      "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
+      "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla to Fight California\u2019s Claim It Overhypes Autopilot - Bloomberg",
-      "pubDate": "Mon, 21 Jul 2025 14:19:53 GMT"
-    },
     {
       "title": "California DMV claims Tesla misled drivers about self-driving capabilities; looks to suspend business for 30 days - ABC7 San Francisco",
       "pubDate": "Tue, 22 Jul 2025 02:37:30 GMT"
@@ -2016,10 +2016,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum computing is the most radical technology in history: Bank of America's Haim Israel - MSN",
-      "pubDate": "Mon, 21 Jul 2025 14:29:40 GMT"
-    },
     {
       "title": "Physicists Break Quantum Barrier With Record-Breaking Qubit Coherence - SciTechDaily",
       "pubDate": "Wed, 23 Jul 2025 03:16:41 GMT"
@@ -2583,10 +2579,6 @@
       "pubDate": "Mon, 21 Jul 2025 19:55:38 GMT"
     },
     {
-      "title": "Climate change intensifies midsummer U.S. heatwave for millions - Climate Central",
-      "pubDate": "Mon, 21 Jul 2025 14:21:01 GMT"
-    },
-    {
       "title": "From dying reefs to flooded graves, Vanuatu is leading a global climate case - AP News",
       "pubDate": "Tue, 22 Jul 2025 02:03:00 GMT"
     },
@@ -2776,10 +2768,6 @@
     }
   ],
   "volcanoes": [
-    {
-      "title": "Another Volcanic Eruption In Iceland Causes Evacuations At The Blue Lagoon \u2013 What To Know - Travel Noire",
-      "pubDate": "Mon, 21 Jul 2025 14:09:53 GMT"
-    },
     {
       "title": "Scientists simulate the Solar System\u2019s \u2018ice volcanoes\u2019 in OU\u2019s Milton Keynes lab - The Open University",
       "pubDate": "Thu, 24 Jul 2025 08:01:49 GMT"
@@ -3285,6 +3273,10 @@
     {
       "title": "Public health advisory issued due to sewer line break at 87th Street, Mission Road in Leawood - KSHB 41 Kansas City",
       "pubDate": "Fri, 25 Jul 2025 19:39:02 GMT"
+    },
+    {
+      "title": "New analysis predicts sprawling effects of proposed NIH budget cuts - statnews.com",
+      "pubDate": "Mon, 28 Jul 2025 08:34:18 GMT"
     }
   ],
   "health": [
