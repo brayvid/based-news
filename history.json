@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "US envoy pans Israel\u2019s Syria intervention, doubles down on support for Damascus - The Times of Israel",
-      "pubDate": "Mon, 21 Jul 2025 13:57:23 GMT"
-    },
-    {
       "title": "Trump \u2018caught off guard\u2019 by Israel\u2019s actions in Gaza and Syria last week as skepticism of Netanyahu grows inside White House - CNN",
       "pubDate": "Mon, 21 Jul 2025 21:00:00 GMT"
     },
@@ -103,10 +99,6 @@
     {
       "title": "Trump lashes out at federal judge presiding over Harvard case - Politico",
       "pubDate": "Mon, 21 Jul 2025 19:19:00 GMT"
-    },
-    {
-      "title": "Six months into Trump\u2019s second term, voters remain divided - CNN",
-      "pubDate": "Mon, 21 Jul 2025 13:37:00 GMT"
     },
     {
       "title": "Trump administration live updates: Judge appears to lean in favor of Harvard in university's suit over funding - NBC News",
@@ -971,6 +963,10 @@
     {
       "title": "China\u2019s Rare Earth Grip: Supply shock may hit Indian industry, exports and bank books - The Economic Times",
       "pubDate": "Mon, 28 Jul 2025 05:46:09 GMT"
+    },
+    {
+      "title": "Intense rains lash China swelling waterways, rivers; landslide kills four - Reuters",
+      "pubDate": "Mon, 28 Jul 2025 09:41:49 GMT"
     }
   ],
   "us_politics": [
@@ -1153,10 +1149,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "After FBI Warning, Alaska Airlines Grounded; Salt Typhoon Suspected - Forbes",
-      "pubDate": "Mon, 21 Jul 2025 13:14:13 GMT"
-    },
-    {
       "title": "Another massive security snafu hits Microsoft, but don't expect it to stick - theregister.com",
       "pubDate": "Mon, 21 Jul 2025 19:58:00 GMT"
     },
@@ -1317,17 +1309,13 @@
     {
       "title": "Trump is quietly changing the Fed, even without firing Powell - CNN",
       "pubDate": "Mon, 28 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Federal Reserve Watch: Stick With The Fed - Seeking Alpha",
+      "pubDate": "Mon, 28 Jul 2025 12:26:31 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "Saving Istanbul\u2019s ancient structures from the next big earthquake - The Washington Post",
-      "pubDate": "Mon, 21 Jul 2025 13:01:47 GMT"
-    },
-    {
-      "title": "AI uncovers 86,000 hidden earthquakes beneath Yellowstone\u2019s surface - ScienceDaily",
-      "pubDate": "Mon, 21 Jul 2025 13:28:53 GMT"
-    },
     {
       "title": "In world first, CCTV captures supershear velocity earthquake - Yahoo Home",
       "pubDate": "Tue, 22 Jul 2025 19:04:20 GMT"
@@ -1487,6 +1475,10 @@
     {
       "title": "Patients face high out-of-pocket costs after incident cancer diagnosis - Medical Xpress",
       "pubDate": "Mon, 28 Jul 2025 11:29:50 GMT"
+    },
+    {
+      "title": "Celcuity posts Phase 3 win in breast cancer, setting up challenge to Novartis and Roche - Endpoints News",
+      "pubDate": "Mon, 28 Jul 2025 10:00:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1809,13 +1801,13 @@
     {
       "title": "Dormant Whale Sells $80,000 BTC, But Bitcoin Bulls Still In Control - TradingView",
       "pubDate": "Sun, 27 Jul 2025 23:00:32 GMT"
+    },
+    {
+      "title": "Bitcoin Zooms to $120K, ETH Nears $4K as Trump\u2019s EU Tariff Deal Lifts Risk Sentiment - CoinDesk",
+      "pubDate": "Mon, 28 Jul 2025 06:21:50 GMT"
     }
   ],
   "fusion_power": [
-    {
-      "title": "\u201cThey\u2019ve Broken the Fusion Barrier\u201d: China\u2019s Tokamak Reactor Shatters World Record in Historic Leap Toward Infinite Clean Energy - Sustainability Times",
-      "pubDate": "Mon, 21 Jul 2025 13:12:00 GMT"
-    },
     {
       "title": "Global investment in fusion energy rises the most since 2022 - MarketScreener",
       "pubDate": "Mon, 21 Jul 2025 23:51:09 GMT"
@@ -1989,6 +1981,10 @@
     {
       "title": "Tea app hacked: Images stolen from women's dating safety app that vets men - BBC",
       "pubDate": "Sat, 26 Jul 2025 13:58:47 GMT"
+    },
+    {
+      "title": "Russia\u2019s Aeroflot cancels flights after pro-Ukraine hackers claim cyber-attack | Airline industry - The Guardian",
+      "pubDate": "Mon, 28 Jul 2025 11:38:00 GMT"
     }
   ],
   "oceans": [
@@ -2219,10 +2215,6 @@
   ],
   "chemistry": [
     {
-      "title": "'Super alcohol' created in space-like lab reveals cosmic secrets - Phys.org",
-      "pubDate": "Mon, 21 Jul 2025 13:03:20 GMT"
-    },
-    {
       "title": "Scientists discover salt that makes batteries last 10x longer - ScienceDaily",
       "pubDate": "Sun, 27 Jul 2025 10:47:25 GMT"
     }
@@ -2243,6 +2235,10 @@
     {
       "title": "Satellites reveal a hidden global water crisis that could change life on Earth - The Economic Times",
       "pubDate": "Sun, 27 Jul 2025 22:33:50 GMT"
+    },
+    {
+      "title": "Scientists have just discovered an ocean at the Earth's core, challenging our understanding of the universe. - evidencenetwork.ca",
+      "pubDate": "Mon, 28 Jul 2025 12:52:00 GMT"
     }
   ],
   "gaza": [
@@ -2513,10 +2509,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists Find Mysterious Object In Kuiper Belt, And It's Not A Planet - NDTV",
-      "pubDate": "Mon, 21 Jul 2025 13:34:29 GMT"
-    },
-    {
       "title": "Scientists May Have Found Life\u2019s Building Blocks In Planet-Forming Disk For First Time - Study Finds",
       "pubDate": "Thu, 24 Jul 2025 21:33:05 GMT"
     },
@@ -2550,10 +2542,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "Scientists Found a Black Hole That Shouldn\u2019t Exist. Now Physics Has a Problem. - Yahoo Home",
-      "pubDate": "Mon, 21 Jul 2025 13:30:00 GMT"
-    },
     {
       "title": "Scientists investigate how sperm manage to defy a major law of physics - Earth.com",
       "pubDate": "Tue, 22 Jul 2025 22:19:23 GMT"
