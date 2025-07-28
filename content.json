@@ -1,12 +1,72 @@
 {
-  "Global Health": {
+  "Algorithms": {
     "articles": [
       {
-        "title": "Global hunger declines, but rises in Africa and western Asia: UN report - Unicef",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXA2ZnpRS1RLbUxqVjhmYzRIdDFCSXlPaUVmbm9URFEzV1ZzY0I3X2tEUnVHZ0IyOFBrMFowUWt2SHd2Mk80bzI1NlhYN3dxaDZkRUFnckR2X1NRSjFkdDZWSFJJSTlUTllmbkhWOHdnUEI3aEdfUDJ5Yk1fd0k2cE9WcHBwUE5GZ3V3SWxSTk5wQ202OFl4WmY4NE9VcjlFbFE?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 16:26:03 GMT"
+        "title": "Barry Appleton: Canada submits to China's algorithmic colonialism - National Post",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXhPRF8wX0t6em5WaTlQWnhkMVA0ZnFRRmNKbjhiWjVKbEtManZMcjR3LWxQWEhaVXZBanRNV0VMR010SGJHWHhKcmdZelVuZFpvdFRER2VMbHFUTkZxbjMtQjdsTU5wRVJ6VjZGR2JGNVJTQUpidFdyelRCM2QzNk42ZjFCOEI4RnVlTWdZNDk0TGdHSEd4QkJvUm4?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 16:19:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T20:00:33.744351+00:00"
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Marathon Fusion claims it can turn mercury into gold while creating clean energy - Phys.org",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3QjFObzBhbU9qamVRWktXeVg0cV9obW9GUVNjbHpGOFE0R3hzajJsVlRaY3MwXzVfc2NiRTdvZkl2MTJ6YV9ncWVjbzluZllpR3Z3bnZ5RVVrdjA0R3pOZUVFcXJYM0UzVDFOZ19taXdlRGlaVUdhZDR30gF4QVVfeXFMTXpHblQ5cXJjX0MxSGVCd0RVQnlZeVo1S3FtT3JBcjhQXzk5ekxWYTByZjVGWl85MzNZdkdkQ0tsQ0tVZ05QODREOUFuSmFILURlZjFvYWNtZFJqQVFyaFRNMTlRa3hGN190U3lLTk9SdUtlcDF2ajVP?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 16:30:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Exclusive: Cadence to plead guilty and pay $140 million to US for China sales - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0k4ZkcyZHBQbGNpTTNjZUV5a0g5T2N1WmlYX3NSY1AxeER3RmRQNHFqd25vU3ZEY3VxWU5zbTNnV2lDODVmYnRwMXZzWWhNUGFZX1hnajM0cWgyU0J4VjlpaGIzNkV1QVJaY09YNGtWQkdsZGR2OThwZXFBRzNxRlY1SHRzMm5FWTUzWFJaRjZOVjdzbl9haHIxWnA4cVBq?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 20:33:27 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "European Union": {
+    "articles": [
+      {
+        "title": "EU proposes to suspend Israeli access to European research fund over Gaza war - Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGNYX2NzQkNveFZ3SThzSkdxTTlhaGxDUGdENFhyTDE3ekZxQVFzeEtNLVN2dUx3OXJCbl8xRlNnS3ZPdVRxQXd3bzRRbU1sdDAycEZIS2x5U2RuNzI5RVdDaVZqMXBSbnQ2WlVWTG1nWTluV19ZY0Y2NVl0S05BQVFjNThibTJxV2VEVjlSbEpYUnIwakRjdzlsUkVyVDFtTEw3MmxNb2FCN1NETVQ2MU9FdkxWMUJIVUhWLQ?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 19:47:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "FBI": {
+    "articles": [
+      {
+        "title": "FBI investigates Texas cruise ship death. What we know about the Carnival Dream case - Austin American-Statesman",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQczh0LTBSU1BRUC1lWXdVRzlyNG9KTXhlZmNsdE9jYkJ1dDhudk40Q3JFMUtSYy1JbEZpS3JvUFF2a3lGekQ4ZmZCaXBLNzNmV1NSR0hwMTJERHNmYTh1ZXhXSTdRbTkwdjk5WHoxMHk0QmR1dmxzQ0h4OVFScjhCVWQ0NXZXc3prblRocFE5R0RjZkQ0QzE0NUFVYmhTUVRUSHY4MHpDUktaNVlGMEs1X3JDdy1fZTNjSjVzdzhRNzFOcjFQaWlRbzlpWGw2WU5abXNTYm1KX3RpNDY4aFhGeXJB?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 14:17:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "Federal Reserve": {
+    "articles": [
+      {
+        "title": "Fed expected to keep rates unchanged as it sifts through mixed economic data - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURIXzVVd0M3dzUyNFZaeFRSYkV0TnQtdUVMMG5lQl80c2NBSDV3bTJJMGxXamlJbGtFWi1rY2ptM1pmWnpUcHczUnZsUnNHOUxPd3JwWmdGTXZCZVVnM2pDcmJPaFRVeGlhVzVOUTdqTzlaTVVkTzNDck9kbWVMOHZfeHRfdVJ5amlKakVLbmV0eldaRnJlNWxQbExhQ1NuV0s3MjhxRFNrU2RxbTNTalNnV0ZOakFHY2VnaDl4bWE?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 16:32:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump blocks Taiwan\u2019s President Lai from New York stopover - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MWN2LUlQM2RhS28wUDJNcm9MZVo1Z2dEUTJleURJWTh4WUFTTE5RZHNjckNQLUt3b2VQdGpTUXFRb2VqNmlBNGxBOF9aQy1waXlhUnVWX0E4ZGtzZEZNY2xDeW8yNl8tWUotTk1Femk?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 20:30:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T21:01:15.300344+00:00"
   }
 }

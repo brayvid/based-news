@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Trump \u2018caught off guard\u2019 by Israel\u2019s actions in Gaza and Syria last week as skepticism of Netanyahu grows inside White House - CNN",
-      "pubDate": "Mon, 21 Jul 2025 21:00:00 GMT"
-    },
-    {
       "title": "Knesset approves Israeli sovereignty in West Bank - The Jerusalem Post",
       "pubDate": "Wed, 23 Jul 2025 13:27:12 GMT"
     },
@@ -215,6 +211,10 @@
     {
       "title": "Trump says he\u2019s \u2018disappointed\u2019 in Putin as US president meets with UK prime minister - CNN",
       "pubDate": "Mon, 28 Jul 2025 17:57:00 GMT"
+    },
+    {
+      "title": "Trump blocks Taiwan\u2019s President Lai from New York stopover - Financial Times",
+      "pubDate": "Mon, 28 Jul 2025 20:30:36 GMT"
     }
   ],
   "russia": [
@@ -420,10 +420,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Pentagon awards up to $200 million to AI companies whose models are rife with ideological bias - Reason Magazine",
-      "pubDate": "Mon, 21 Jul 2025 20:21:02 GMT"
-    },
     {
       "title": "Artificial intelligence disrupting job search process for both candidates, companies - kjzz.com",
       "pubDate": "Mon, 21 Jul 2025 22:33:43 GMT"
@@ -991,6 +987,10 @@
     {
       "title": "Chinese exports to U.S. could decrease by $485 billion by 2027: Tariff simulator - CNBC",
       "pubDate": "Mon, 28 Jul 2025 18:23:01 GMT"
+    },
+    {
+      "title": "Exclusive: Cadence to plead guilty and pay $140 million to US for China sales - Reuters",
+      "pubDate": "Mon, 28 Jul 2025 20:33:27 GMT"
     }
   ],
   "us_politics": [
@@ -1043,10 +1043,6 @@
     {
       "title": "Texas Democrats threaten walkout over \"Trump takeover\" as special session begins - CBS News",
       "pubDate": "Tue, 22 Jul 2025 00:10:34 GMT"
-    },
-    {
-      "title": "Hunter Biden attacks Democrats who turned on his father in fiery, expletive-filled interview - AL.com",
-      "pubDate": "Mon, 21 Jul 2025 20:10:00 GMT"
     },
     {
       "title": "House Democrats seek 'birthday book' from Epstein estate - ABC News",
@@ -1329,6 +1325,10 @@
     {
       "title": "Federal Reserve Watch: Stick With The Fed - Seeking Alpha",
       "pubDate": "Mon, 28 Jul 2025 12:26:31 GMT"
+    },
+    {
+      "title": "Fed expected to keep rates unchanged as it sifts through mixed economic data - Reuters",
+      "pubDate": "Mon, 28 Jul 2025 16:32:04 GMT"
     }
   ],
   "earthquakes": [
@@ -1867,6 +1867,10 @@
     {
       "title": "Partnership between energy giants brings limitless clean power closer to reality: 'A significant milestone' - The Cool Down",
       "pubDate": "Fri, 25 Jul 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Marathon Fusion claims it can turn mercury into gold while creating clean energy - Phys.org",
+      "pubDate": "Mon, 28 Jul 2025 16:30:01 GMT"
     }
   ],
   "nvidia": [
@@ -2481,6 +2485,10 @@
     {
       "title": "Dead or 'unalive'? How social platforms \u2014 and algorithms \u2014 are shaping the way we talk - CBC",
       "pubDate": "Sun, 27 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Barry Appleton: Canada submits to China's algorithmic colonialism - National Post",
+      "pubDate": "Mon, 28 Jul 2025 16:19:01 GMT"
     }
   ],
   "astronomy": [
@@ -2795,6 +2803,10 @@
     {
       "title": "European Union-China summit: sharp tensions between Beijing and Brussels - World Socialist Web Site",
       "pubDate": "Sat, 26 Jul 2025 02:39:35 GMT"
+    },
+    {
+      "title": "EU proposes to suspend Israeli access to European research fund over Gaza war - Euronews.com",
+      "pubDate": "Mon, 28 Jul 2025 19:47:56 GMT"
     }
   ],
   "amazon": [
@@ -3537,6 +3549,12 @@
     {
       "title": "Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica",
       "pubDate": "Mon, 28 Jul 2025 17:05:32 GMT"
+    }
+  ],
+  "fbi": [
+    {
+      "title": "FBI investigates Texas cruise ship death. What we know about the Carnival Dream case - Austin American-Statesman",
+      "pubDate": "Mon, 28 Jul 2025 14:17:56 GMT"
     }
   ]
 }
