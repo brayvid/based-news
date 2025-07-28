@@ -1,72 +1,62 @@
 {
+  "North Korea": {
+    "articles": [
+      {
+        "title": "North Korea rejects Seoul's efforts at reconciliation - upi.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2phMVQ4dDRuLUhMNjRoWHdXQm5saVU5ZG9TSUZNckpoc2pZRFBRaEFuRXZWMUdIWktKMzJjY3k3c1VGMm9jak9SN0ZPeXhOb01UXy1xa1FEQllRNS01UUJKa0dyZzJkN2w1YmIwc0YzQW1neUI4TDI2Y1B6aFUtaTRPVHV2Mk85RTRNZmFncDdIaWo1QzByNjY4WV9jb1JJejFwYWxkRXV2Y2p4d2JwM1B5Zkk5Zl9VTFczSmNSbnjSAcYBQVVfeXFMUFlOeDdrT0hnWkdEUnRTY1Voc1JmOFozYmg3dHgwdGRpS3hhR3VPbFRpZmJfcmZjY0Rka1h3V1RvbmVlX01kd1lqR2FzVlh4bHVHV25QY2VtRUlTbmRpZ2FIN0taZnRrV3BZWXlsZnBNY1Q1QmlpeEw4c0JSMFFoN1dxcDdIckU2UXBaNzRpTXYyZUZfZmszWWN6Y2FwUVduT1owbzdZb1hlWlFIR3JqNFpfQ1lSdGxSOUoybm9kdF9VQ2d6SU1n?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 06:17:07 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Heavy rains in northern China kill 4 as flood warnings are issued in Beijing and neighboring areas - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTdibGZXRDVmcFRnQXV6ZFlMN0pkZ1RYd3lPSk96RU5pS1V4d2VTZGRRbC0waWFYWGF3eGl4bVMyR2xEM0tWdGxqWk4xWVVfVC15MEFOMDZwZXFnZDdfeWZVdVFaUjN6WGNZcmN5MF9xTHA5TlMtSnN3bmFoTGREdWE0MTlZcHBVWGxDb3lNYXdFdE1jeXU5MTVRRmtaZndRU3diSUFITDHSAa4BQVVfeXFMT29lWTE1cTJENUhGWmozb0NJNngtRUxYTWJka2MybUtjd2sxVTl4TnVZUXA5WlJ5RzAwMVFqM1p4N05FRUlxSnNHTmZCN2Q1NzF6YnZkZ1ZyTHM0MklheW5kS2M0cnU2VzNJUzgyOEtfQUN6dXFhajdYN1Bmb21QMzJVSG5jWlBkNkV0eW1Jekh1TmZWS3duOVJZQVZ0TTJRMTc0ejRLcDVraC00aXBn?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:38:47 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
+  },
   "Climate Change": {
     "articles": [
       {
-        "title": "UN urges Australia to step up climate action - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE1SOXFlREQ5RTFPNkpBSXpxclJFMVpLbkh1SDRHS0lNdEQxelBNWHhDNHRiN0xTeGhGSEJYYVNrUEhhZHdrSXB3QjBscmVFb0hIVXNFVldYMVZIbGowcHQ4X3ZyM1Z3dnMwcmc5NklXcTV1X0ZXZTM3djgyUUJwTDhvTVdCVUJ3ZGR6NE9XeERGX3F5cm02TEpleGw?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 02:58:00 GMT"
+        "title": "Data centres face physical climate risks, report warns - Mongabay-India",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFhHLXducF9pRjFKbEpDeHRFWWowTUdSOTY3QzNlZXo0TTlXOHJ6OHNiemJwWm1MOHBveXVKRG5hbnN5b0wzX1BLdUt5QnZsa0l3c2ZXQ3JzM1Zxd0poSGJKWjVGYThFQUdEQ1RqSlZ6VVU3SjB3dUcwWEh4SFd0U04tS0VaZ3BrUzBKOFBvMC1KV2tYWG1OMHl4enVDcnBuWHduS1B3?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:05:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
   },
-  "Bitcoin": {
+  "Battery Technology": {
     "articles": [
       {
-        "title": "Dormant Whale Sells $80,000 BTC, But Bitcoin Bulls Still In Control - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEsyQl9uYU5aYUc5eTNRWkJFRnJLZEZwTmhlQzZBMlV4bmUxbEV2SGtrZlA1U2pKZlVZQWt2UFh3Y0xiTWV5V1MyV01qT3pHRjVwWEdncWtLaThwWWlhYmt0YmdMbUFhQUltcENuRVZ3TkNpS0t3LWNFa2c4N3RUS0t3ZTMzYWswdzhfcEdmTWJpOG8tZV9YN1hEaF9kTHhieGd6ZjhLTE5Ya0NqMHlpeUlteVduUVVJb19hNXhIQlU?oc=5",
-        "pubDate": "Sun, 27 Jul 2025 23:00:32 GMT"
+        "title": "Self-repairing batteries promise longer life and range for electric cars - Modern Diplomacy",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWJsRzhuZ19HUVJScW14UGJUNjZVVW82SUJLUkx1VWZudmMxZmdXY0pZSzd5UWY1c2JtbDFHZjRVWE1HeEMwY01PU2VNTi14OGRfQzIwYUtEQWFMRGI3S3h1WlhVcGxFWDhWam1YRnJFNzdBcElyZXVmVkNxWlV2Z1RkWTcxSE5vQTkzejNPZjVWamJ4Y29QWk0tdzFCbzhYOWx3VllMcGtMeE54bUZPbw?oc=5",
+        "pubDate": "Sun, 27 Jul 2025 22:00:19 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
   },
-  "Cybersecurity": {
+  "Ethereum": {
     "articles": [
       {
-        "title": "Axonius reportedly acquires healthcare cybersecurity company Cynerio in deal worth up to $250M - SiliconANGLE",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2hMVlJXOHRYZF8xLXo4dmN6Sk1LZHdxbnZlTERSRE1OcmgyUllkN3VRaWRhWUxFak8wY3Z5UC1DUENLZEI4R0FySGYwa3NyOEpyN25YYUMxN3AxQXl4bG9UWEE4ckJoNEJ3MnRFSERkZ0xheHlvR2lGdUJXUTN5RVpHT2lZUXVzV0Q0dVNQVUNnaHIwQVlHQkh5MXJqS0o1UlpxMUxWVmllcFBlNE42aExGN0tXZXoxM19vOVlR?oc=5",
-        "pubDate": "Sun, 27 Jul 2025 22:31:08 GMT"
+        "title": "Ethereum $6K Christmas Odds Surge as Options Traders Reprice Tail Risk - Decrypt",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVE4ZUlyZkdzc2xQT3hhaDlwczJxRG5jNkY2MXpVWTI0RVFFOVBtOFo5c1ltdzZ3T3dMTEt4RWhJTU9yblkxbTl3N3l0d3JDOVF3aDFFWXQ3YzRDY2h5RlJncDN2ZlFjMGR2blNEaFotOUZQUUVXM2RuNmhoMl9UZ2VJckI4Zk9QdDdYdjFVOFEzU3VrdDBj0gGfAUFVX3lxTE5GUk9oSEc0cl9nSk83U2d2OEZpa0JxdGpVaTRIWUdxd3Z1MXF2dko4Y29aUDJSeE4zZDF2Z2pQZk9CN3Njbm9sdlNFNk1tRjJPbDVqX0tPdU1BX2wwallGenJwWjF2SENFT2hpcDBuOE5YVEQ5cE1lSEN2d3ZBb3hUeUNyeWUteG81NExFYmJBTmpyX2tLX0ZEQjA3WHpqdw?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 05:33:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Poland Scrambles Jets as Russia Conducts Extended Ukraine Attack - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnV4cElGVnJVYU1VX2htNlE2V0MxSzdrMFQwZlZxVFYtRGVyd3M0U2xtZmNvb1Fici1uMnJrQ1RIVGkyVVZhVDZacHQwaGRTcVhYMUp4RGdzblNieWNYVG9fYjFWRHJ6NlhHTHVPTktSaURZQk1NVEwtQnpLNk1JSXBJaGdHWEdTS09MdW1mMEZyS3JkdDBpMzhpYVJLQVRUYmg0bXZ0c25sOWtScjcyREpaYXhzZw?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 06:20:00 GMT"
+        "title": "Former POWs in Russia channel their pain into rebuilding lives in Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelFCcXE3ZF9RVWhXUW0ydkpCbHBaQWhxRmFMQWQ3X3BkTlFtSU9IcWh0OFl5YjZfeEdMX1pZUHZKYkxfUHI2M0ljdnlMZWV4cDFhUVBlcEtSVmU0OG96MnB5RmFrbzVWcVdjY3ItWDVpT09SNGVwRTFMLUdpMGg2MTZDWFJXU0ZBeWdUaDJYTzVGXzFiT1V0ZTFn?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 04:31:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
-  },
-  "Elon Musk": {
-    "articles": [
-      {
-        "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcW1lMkZRZVd2bzVxTW5HdklHdFkxS2RubHhzaDZJTHJBMk05ZDV1aHdMWklNZkIwMUV1RGRBV3hhTU5mcjZjem93MWhReG16T0MxUWk3WVozQW54cnhKZWVDdzRHWWVnT3VYZmY5SHFMdlhobVJyVFdVR3hVUjN3UG5VVHMtd0RS0gGOAUFVX3lxTE1MNDhSMkNIS3BIamthU2Zsa2dLdnhUWFIxXzJjb0dPVmQycDJmMUlfYzZ1bEpLaE1FNUVHM2lkTVV0a3hINmtqWXJyNTFtNFBIbmFoV1JKSEs5QnJiNjBGNjM5TWZ5blNmZDBQNV9lUzdDWFZKY1BjdDFTZlA4ZXMxUDFQa01uRHBiZlV5cnc?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 00:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "NIH Policy Update: New Limits on Applications and Artificial Intelligence Use in Grant Proposals - The University of Utah",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHB3SmdHYkpJbnhsS0NzOXNENG5ia2R4ektvQUhyVVJTOUZ0TW5kaVlUalFrdjZNa3B4YlhWazB4UXZ0dkZSckg5Sk12dWx4emM4cXBIM25CbTlIUEExQUZUNWVWa0l1M3UxMGVEYjR6VkVXVnhxUHdRRmRkUlFqc3c1V0pRUU9hd1lPek5SR3pxQ1VhSU9uanBHbGV1ZDVLeGNVQ3JYN3VUdXpTY2RqSk1DRFYzZTRhZDlmTkFxVWVGU2ZwWHNqQkFpNDlEMU00RG1mU19UajdSd3kzdjRTYWx2VjY?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 02:52:08 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
-  },
-  "Energy Storage": {
-    "articles": [
-      {
-        "title": "Energy Dome signs CO2 battery technology agreement with Google - Evertiq",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHhXZ1FnN0RqSUloNlNmLXRQelROQU54ZHJEN0I4MmM4Mmt4SkxVZ3NZdC1IUXRDVExrRlpuc1FndEwxcWdYOC13V01GY2M3OE90MXQ1TG5qS0NQWWFaZVp6YVI4TzVZLTBmR19INVZUbzFJUTg0ekpEbHVlemRxUFZrYUJRR0dBRXYtb0JsV0kzYnZ1NUZnLVpRWVQ4ZmNzckE?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 04:04:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T06:58:05.716152+00:00"
+    "last_updated_ts": "2025-07-28T07:58:02.729217+00:00"
   }
 }
