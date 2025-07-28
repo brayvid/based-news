@@ -231,10 +231,6 @@
   ],
   "russia": [
     {
-      "title": "Russia-Linked Refinery in India Seeks Early Payment After Curbs - Bloomberg.com",
-      "pubDate": "Mon, 21 Jul 2025 06:31:00 GMT"
-    },
-    {
       "title": "Russia's high military recruitment bonuses are straining its economy - Business Insider",
       "pubDate": "Mon, 21 Jul 2025 07:05:00 GMT"
     },
@@ -571,6 +567,10 @@
     {
       "title": "China Pushes Creation of World AI Cooperation Effort - PYMNTS.com",
       "pubDate": "Mon, 28 Jul 2025 02:03:45 GMT"
+    },
+    {
+      "title": "NIH Policy Update: New Limits on Applications and Artificial Intelligence Use in Grant Proposals - The University of Utah",
+      "pubDate": "Mon, 28 Jul 2025 02:52:08 GMT"
     }
   ],
   "climate": [
@@ -755,6 +755,10 @@
     {
       "title": "\u2018That idiot Putin wants to take it all\u2019: Russia\u2019s kamikaze tactics fuel a slow advance in Ukraine - The Guardian",
       "pubDate": "Sun, 27 Jul 2025 18:48:00 GMT"
+    },
+    {
+      "title": "Poland Scrambles Jets as Russia Conducts Extended Ukraine Attack - Bloomberg.com",
+      "pubDate": "Mon, 28 Jul 2025 06:20:00 GMT"
     }
   ],
   "us_economy": [
@@ -784,10 +788,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US embassy in China warns exit bans risk straining bilateral relations - Financial Times",
-      "pubDate": "Mon, 21 Jul 2025 06:57:32 GMT"
-    },
     {
       "title": "Opinion | As China and India perform a balancing act, is a breakthrough possible? - South China Morning Post",
       "pubDate": "Tue, 22 Jul 2025 01:30:08 GMT"
@@ -1149,10 +1149,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - The Hacker News",
-      "pubDate": "Mon, 21 Jul 2025 06:13:00 GMT"
-    },
-    {
       "title": "Global cybersecurity insurance market to double by 2030 - Insurance Business America",
       "pubDate": "Mon, 21 Jul 2025 07:30:32 GMT"
     },
@@ -1243,6 +1239,10 @@
     {
       "title": "Cybersecurity Risks in Financial Markets: The Hidden Cost of Malicious Google Ads - AInvest",
       "pubDate": "Sun, 27 Jul 2025 04:47:44 GMT"
+    },
+    {
+      "title": "Axonius reportedly acquires healthcare cybersecurity company Cynerio in deal worth up to $250M - SiliconANGLE",
+      "pubDate": "Sun, 27 Jul 2025 22:31:08 GMT"
     }
   ],
   "recession": [
@@ -1264,10 +1264,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Russia is making so many Iranian Shahed drones that it could soon launch 2,000 of them in a single night - Business Insider",
-      "pubDate": "Mon, 21 Jul 2025 06:54:00 GMT"
-    },
     {
       "title": "Russia ramps up drone production using teenage workers, video shows - Euronews.com",
       "pubDate": "Mon, 21 Jul 2025 09:05:22 GMT"
@@ -1433,6 +1429,10 @@
     {
       "title": "Musk Immediately Throws Trump\u2019s Suck Up Attempt Back in His Face - The Daily Beast",
       "pubDate": "Fri, 25 Jul 2025 10:04:00 GMT"
+    },
+    {
+      "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics - CNBC",
+      "pubDate": "Mon, 28 Jul 2025 00:30:00 GMT"
     }
   ],
   "cancer": [
@@ -1779,14 +1779,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin price today: up near $119k amid legislative boost; altcoins extend rally - Investing.com",
-      "pubDate": "Mon, 21 Jul 2025 06:36:25 GMT"
-    },
-    {
-      "title": "Bitcoin (BTC) News Today: Dominance Rate Crashes Nearly 6% as Correlation With Altcoins Weakens - CoinDesk",
-      "pubDate": "Mon, 21 Jul 2025 06:02:32 GMT"
-    },
-    {
       "title": "Trump Media builds $2 billion bitcoin hoard, as cryptocurrency swells president's net worth - CNBC",
       "pubDate": "Mon, 21 Jul 2025 18:11:32 GMT"
     },
@@ -1837,6 +1829,10 @@
     {
       "title": "Satoshi Nakamoto-Era Bombshell Suddenly Puts Bitcoin Price On The Brink Ahead Of $50 Trillion Crypto Game-Changer - Forbes",
       "pubDate": "Sun, 27 Jul 2025 11:11:00 GMT"
+    },
+    {
+      "title": "Dormant Whale Sells $80,000 BTC, But Bitcoin Bulls Still In Control - TradingView",
+      "pubDate": "Sun, 27 Jul 2025 23:00:32 GMT"
     }
   ],
   "fusion_power": [
@@ -2279,10 +2275,6 @@
   ],
   "gaza": [
     {
-      "title": "IDF Carrying Out Strikes in Deir al-Balah, Gaza Reports Say - Haaretz",
-      "pubDate": "Mon, 21 Jul 2025 06:37:00 GMT"
-    },
-    {
       "title": "Israel sends tanks into Gaza's Deir Al-Balah, raising concerns among hostages' families - USA Today",
       "pubDate": "Mon, 21 Jul 2025 10:22:32 GMT"
     },
@@ -2627,10 +2619,6 @@
   ],
   "climate_change": [
     {
-      "title": "The heatwave that shattered ecosystems, starved whales, and drove fish north - ScienceDaily",
-      "pubDate": "Mon, 21 Jul 2025 06:46:51 GMT"
-    },
-    {
       "title": "Trump bill takes a \u2018big, beautiful\u2019 bite out of US climate progress - The Hill",
       "pubDate": "Mon, 21 Jul 2025 10:00:00 GMT"
     },
@@ -2825,6 +2813,10 @@
     {
       "title": "Deadly wildfires in Turkey, Greece force thousands to evacuate in searing heat - Axios",
       "pubDate": "Mon, 28 Jul 2025 05:03:43 GMT"
+    },
+    {
+      "title": "UN urges Australia to step up climate action - Reuters",
+      "pubDate": "Mon, 28 Jul 2025 02:58:00 GMT"
     }
   ],
   "volcanoes": [
@@ -3052,10 +3044,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "Trump Threatens BRICS Over Dollar Threat Amid Stablecoin Push - Times Now",
-      "pubDate": "Mon, 21 Jul 2025 06:29:48 GMT"
-    },
     {
       "title": "Why Trump Sees BRICS as the Biggest Threat to US Dominance - CryptoRank",
       "pubDate": "Mon, 21 Jul 2025 19:00:50 GMT"
@@ -3615,6 +3603,12 @@
     {
       "title": "Number of Democratic voters who are \u2018extremely motivated\u2019 to vote in next election skyrockets - The Independent",
       "pubDate": "Sun, 27 Jul 2025 21:49:00 GMT"
+    }
+  ],
+  "energy_storage": [
+    {
+      "title": "Energy Dome signs CO2 battery technology agreement with Google - Evertiq",
+      "pubDate": "Mon, 28 Jul 2025 04:04:46 GMT"
     }
   ]
 }
