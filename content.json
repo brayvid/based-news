@@ -1,62 +1,12 @@
 {
-  "Climate Change": {
+  "Global Health": {
     "articles": [
       {
-        "title": "EPA to launch plan Tuesday for undoing climate rule cornerstone - E&E News by POLITICO",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTExTzQ5UHFoMzgwbFVwUEFiTExMekU4MmJhQ1VYTUlBNUlEU3BIRUhNZENWTFVDUFd4QW81X2xWOXVJeDdsT3VGUkhFNXZrWGp1WnZtM2ZvM2EyWG0zcms5N3FuOUtncHkzTjVFM3B2QXQwbk9hQlBNOVpSZGVnOGM5OEZVOC15OVB4SGFsVV9ELVllbFFmVS1XUGc?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 17:41:00 GMT"
+        "title": "Global hunger declines, but rises in Africa and western Asia: UN report - Unicef",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXA2ZnpRS1RLbUxqVjhmYzRIdDFCSXlPaUVmbm9URFEzV1ZzY0I3X2tEUnVHZ0IyOFBrMFowUWt2SHd2Mk80bzI1NlhYN3dxaDZkRUFnckR2X1NRSjFkdDZWSFJJSTlUTllmbkhWOHdnUEI3aEdfUDJ5Yk1fd0k2cE9WcHBwUE5GZ3V3SWxSTk5wQ202OFl4WmY4NE9VcjlFbFE?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 16:26:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump says he\u2019s \u2018disappointed\u2019 in Putin as US president meets with UK prime minister - CNN",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DSTNBc0tlZjNLLTZfNzhoX0JNdFA3NTlvMnFBSHZ0bUJ4OG96Y29CTGpMMjdWQzlvZmFLOUdfaGZ5MjJnRlVxaTBhVWI1eWdjZEhFVzJsSUEzaC1uQ3ViMEs1Z3M5dTM3eEFOTnByLUVqdlZyVHBnbw?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 17:57:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Chinese exports to U.S. could decrease by $485 billion by 2027: Tariff simulator - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDdudUJIT0RwU1NDMkNQY2tmeWtSSUpTZHJWRENRS2hiMjdDaUpjNDdrdmdCWmxkMjB3cmNOc2EwNUJWN1RBMGZfZ1B4LXc1SlFfdlVCWlNzci13eHdxOHZzNDlDdGlSY2RJY2l2US16eW5MWTNORGNrWmw3OERFWDRkYVRaZlg3RWhrRnpyNnRWV3dCbWJQNUR0SWN6dThS0gGmAUFVX3lxTE5leHBEME42REd5WkFGZTAtZmVYbFFBSERNLW5LVHFJMnE0Nmx0eTF2SWVpSkpNYjZVSTc4d1lPWjdzNmtDMTRzT3R5dUZzQ2cwbzdXWUdvRzFmbEdlektVSlR0aXBxS1RZR3ZGSkwyYXRCNGJ1cTM3LTVKa0lxTFRHSTMxYkFNY2Z0WGZvam1oQlpXM05rRXY1QWV6SUZLQ1l0eWw3Unc?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 18:23:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
-  },
-  "Large Language Models": {
-    "articles": [
-      {
-        "title": "Research shows LLMs can conduct sophisticated attacks without humans - Cybersecurity Dive",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXFfcElhdURFZm8zck9wYXZUb3RydGQ3b21iaVl6TXJGMmFtQTVscGM3NFg2ajExTDRNM2dWRm1qczVYOTJBSWYzSmxseXdrQ2p2Z2NadG1nQi0zOFNxZXA3ZXVBVW9rZVdYRHBCOUhzNFpGSkNKTnY5djBpbFFhWUEydGZ2ZUxVb2pF?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 15:13:59 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
-  },
-  "Google": {
-    "articles": [
-      {
-        "title": "Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkdrclN6REEteTN5em1XTHVMa25yWHc1M3ZIejdSLUd2c3pjSENmN0x5Y2ZvQ0c3cUJ2SDlDUVJNVEllNm1zOFU3VEhUSkUyQkg4VHZYbXVZUXlFQ3Bjc2JhTTdoT1pnU0U3NVowQnRpMmZuV3V4Ynlhd0dnRFlqc3Mzd183bkRTODkzY1FnYkJkbTN0eDVwWVFLbHV5U3lpRTVfT3p4aGRkQQ?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 17:05:32 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
-  },
-  "Science": {
-    "articles": [
-      {
-        "title": "Israel's science teams conclude olympiad season with record 26 medals - The Jerusalem Post",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ydjU4MUFjRDZ3UDJ6UkQ1VlRyLWpZRVg5TXY5Zl8yMy1CUmFsdTlLRFN3WXRZRE9URFFDR0hqSDVEMFRRMmcwSDR4QkZ4c0UwOFZMSGg5ZTc4dTZO?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 16:26:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-28T19:00:16.104561+00:00"
+    "last_updated_ts": "2025-07-28T20:00:33.744351+00:00"
   }
 }
