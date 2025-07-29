@@ -1,32 +1,72 @@
 {
-  "Climate Change": {
+  "India": {
     "articles": [
       {
-        "title": "Trump to scrap landmark finding that regulates carbon emissions - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBNTRUVURWY3pPX3AxTVFzNTJKamhYeVhfMjBjRHZjdVFpSVhtZW5iWGliYjIydDJOQzlYd3MtdnFtSnhxT2ljbjBLSFRxQTE4UUJJR1ozdVc4QdIBX0FVX3lxTE1jVS1VM1A2LXpFSlVZeG1xVjZ4eFhyOVNpU1NHOGN6Z2E1eWlFMVM2ZS1oeEZfT3lQQVJ6aU42NE96VC1EeHFSYjdsdVh5X1NrV3UyeW1sREpBZEVpbDlv?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 18:42:33 GMT"
+        "title": "Trump threatens India with tariffs as high as 25% - CNN",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YT3A5a1kzWHpOZUhLS1RzaUlMTFBOa29YSzFrX2dBOFkyaFZYLURPWk05MjVEaF9hRjRkNlFBUUhNcUE2MXllLVlXSmtfaGFBeFRVMFFLZVlHaFh1N1ZZNVFOSEZVNlJXT0VN0gFwQVVfeXFMTlVDMklndER5cHQxcjd5bUlkbEJvY0xMVWFsRVQxRTFvVGlmODl5elZpc1hvSnFTcTRTOTdzYV9zWjQ4b1FzTVdSV01hdWtkLTFlbzVncW01RGxlZW1LRGFmQlJYcUpaaU95RVdVVkx6Yg?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 18:16:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
   },
-  "Technology": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "Microsoft Authenticator is ending password autofill soon. How to set up a passkey before Aug. 1 - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkFTNjdyYVgtdTFxRFU5TnEzdXRHbW9ULVE5aENyOXZsRUpEUHRmZ0lYeVR5NWlCeVNHUmxFZ0lhRExPMm5UdExSWFJVU2tpV3pqYTJ0ZDg3OGM5R2pKcTZPRTlvYlVoMEJ5OFdTWjhqc19qQTEzYVlGUU9mS1NjRU9VZlJLc2hkVUxnOUZOX0RRNk9LdGhmb0lTS2VtbVp1WWlsRGotcktzUDFDZ09hRFU2b1NXbUg0ZmfSAb8BQVVfeXFMUFFibW82QTF3ZEp0a2ZPZWk5TFRNZzFLWDc5eEtrcFVlVVhyaDlYV0xMUG00V2RNNHFvLUliMHhORkhRdy1Yc191Vi11LUw5TV9MQk5QZDYxRUVsYUJHOEUtRkRMQVRyMWZyV0s0cGZpZTFLTWpJQThpcUU5NEhHaGVZcHZEa2owSFN0ZG5vOUltSDYtbTEyWWNUQ1NhYjJKM2FJTVhSc0ZmRzJtbG9aajFWcTFYSTVYSi15dHl4TVk?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 19:08:21 GMT"
+        "title": "Palo Alto Networks in talks to buy CyberArk in deal worth over $20 billion, WSJ reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMS02NzdrN1lmRXJOR1dCaDBFY21LUjdKdEtfLXpYVE9aWERkMHdOZzJubWhVZ2hOTlhMcnlOOWEyLTR6a2I2ampDWVBxQkpTVm9HVktrX3htMUdBSjJfeFV2QjBQa3pybGNaV2IxUG9tVmFZTkdaSDlOSFhXVFZMZ3ctRWlVZlpSNFNlc09QV2RKOERfQWQ1WDVaVkJ6RXZRZm95NFFrOS1xRXV6bUROaV9ZQ0lSTWhBRDFmTXdR?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 17:08:19 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
   },
-  "Self-Driving Cars": {
+  "Asteroids": {
     "articles": [
       {
-        "title": "Waymo to launch driverless vehicles in Dallas, company announces - WFAA",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHpOdFNEWl9tU0FCbGVER2dtdkVYOWtYS1E4Z0VnWXNTZ0NtSDhXOEJwcWZuLWxlZURqX3hoTnFBVWpMQ1B2bHVzNURpRXJVMDVpSzV5dlM3bkJ0cjdBcjVmcVVaaUxOWW9UZFRWa3NobHlnQTRFeHByamNYYkcyN2tWc2xCUThiUnk3TmVZWWRUWlFVUXFUR2l4MlVCREUtdHI3dkQyWjVEOTkyeHNmaE1vRWg3UjFwSFNUazFHaDdrQQ?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 13:02:00 GMT"
+        "title": "Scientists May Have Solved a Puzzling Space Rock Mystery That Could Change Our Understanding of How Life Began - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEtYanlnWjRkcDhSVGxrbHhKWTg2WUNnclRkaWxjNC1xV0FEeE1iRXJkVWIzRlExUmlPNkFSNzl5d3F6bGs3RlFEU3Q5bUltU3FQNnNNdVlZZjV6dTRLR3hJRlk1LURtMF83MDdUcnhZLUVHTTFWei11NVFBSHIxUzEtOUptNG94REI4WkdvUFJsa3lkUGw2UkpZYTRPN29QWld4YjFSbjNWUlFfUENtT2VMSGFXVVJLMkowN09ReEpIUUthYmFTYUxsZVZKWlI3ZVE?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 20:38:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
+  },
+  "Space Exploration": {
+    "articles": [
+      {
+        "title": "The US neglects space disaster preparedness at its own peril - Atlantic Council",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDctUnhZc1ZYOTFfTm9mNV8ycDBfMkgtT3FXR0lvaXVwaTZVNWVrODJjNXhvOXJCVGZEMHJwRHI5dmhOSDJRalRzY01MM0dzWmxvNGs2OHBib21xLTU4Y0c4ckRGVV9pWHNsNjhYUWxheG55a3ZpbUl3M3UzSkQ4SGZkVUZzbjY2T1BTVEMySDNEWjRfbkU2VEw0RDBTNGxtNFVINGh6RVlHZkdCQU5xcmtkSkxzdw?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 20:07:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
+  },
+  "Geopolitics": {
+    "articles": [
+      {
+        "title": "China stake in CK Hutchison port sale could ease Beijing pressure but US geopolitical risks remain - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTBEZ2tYLXQ4TG96WlFUZVh2SGZwM3o1bFNVVGV0Sm1nMmVaTGY3aUEzVmNQcDVFSUdOSmVwdWtQSmwwemVsSnNUbEJmTGlVY1ZVY05JZ0doelNTMjJwaXY4VnA4QzB1VDJmNzllYUQwek80RXNfZTBWSEFVQUhhOF9KbzV5R3B3Nl81aTc5NHpqWjRhRFA0Zk1HdDFMWGludjVHMFM5bjhELUNoakhMOGlKOXRuMnVoamd3T1pwR0d4RTI5?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 10:17:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Watch AstraZeneca Profit, Revenue Lifted by Cancer Drugs - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEJlb0pZX1o0V2tqQkdSSWVwNmhKMld4Y1B0VkFQUXY0UVh2WjhqWEdhbGtvWmRIclVMZzdXM1FUWGpzT25DbkJ6ZXlON2pjTUZhQ1hvMlc0R0xUblBZNmpyeTh2TE41VXBVVFhpZUEwd3ROeUxTWW4wNmJwQmQ3cEhBMXhtSFNNa0RLVG9NWnpuLTJSMWNxNTgxdDA4ZkpHRnlsWFBLMA?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 20:00:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "AI agent autonomously solves complex cybersecurity challenges using text-based tools - Tech Xplore",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3dLZzFrb0lIVEJ6SktIOEdCdmd5TXEtUEdHNXY5X3d3Tm5vV2JrRm13MDFnVENTdlN2X3hpLTNwWl9XWXJBbWZLUk01SjZ2dXZZZk05a2NTUjFqYXhMTUhqOXBSQnFDSndBZi1OSDhvQVI0enJyTGcwM05Ya25MSDA4Q2Z0NGw2NkI3dA?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 17:20:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-29T21:00:45.692039+00:00"
   }
 }
