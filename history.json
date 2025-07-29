@@ -413,10 +413,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "China\u2019s drive toward self-reliance in artificial intelligence: from chips to large language models - Mercator Institute for China Studies (MERICS)",
-      "pubDate": "Tue, 22 Jul 2025 08:00:01 GMT"
-    },
-    {
       "title": "Why I\u2019m Suing OpenAI, the Creator of ChatGPT - Scientific American",
       "pubDate": "Tue, 22 Jul 2025 13:03:17 GMT"
     },
@@ -543,6 +539,10 @@
     {
       "title": "Cheyenne to host massive AI data center using more electricity than all Wyoming homes combined - AP News",
       "pubDate": "Mon, 28 Jul 2025 23:24:00 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s Neuralink implants brain chip in ninth patient: What Neuralink is doing to bring 'The Matrix' - Times of India",
+      "pubDate": "Tue, 29 Jul 2025 05:49:00 GMT"
     }
   ],
   "climate": [
@@ -573,6 +573,10 @@
     {
       "title": "EU Far Right Wants 2040 Climate Target Binned - Rigzone",
       "pubDate": "Mon, 28 Jul 2025 07:03:01 GMT"
+    },
+    {
+      "title": "Billion-dollar disasters: The economic toll of wildfires, severe storms and earthquakes is soaring - NBC News",
+      "pubDate": "Tue, 29 Jul 2025 06:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -999,6 +1003,10 @@
     {
       "title": "China's Submarine Rescue Ship Detected Sailing Toward Russia - Newsweek",
       "pubDate": "Tue, 29 Jul 2025 07:28:33 GMT"
+    },
+    {
+      "title": "Outrage in China after reports exploitative images of Chinese women shared in Telegram groups - Reuters",
+      "pubDate": "Tue, 29 Jul 2025 08:41:59 GMT"
     }
   ],
   "us_politics": [
@@ -1053,6 +1061,10 @@
     {
       "title": "US memo allows federal employees to evangelise colleagues at work - Al Jazeera",
       "pubDate": "Mon, 28 Jul 2025 19:32:04 GMT"
+    },
+    {
+      "title": "Republican candidate for Congress was registered to vote outside Cincinnati-area district - Cincinnati Enquirer",
+      "pubDate": "Tue, 29 Jul 2025 04:26:12 GMT"
     }
   ],
   "democratic_party": [
@@ -1595,10 +1607,6 @@
   ],
   "world_economy": [
     {
-      "title": "Teflon capitalism: the mounting threats to the global economy - The Economist",
-      "pubDate": "Tue, 22 Jul 2025 08:30:00 GMT"
-    },
-    {
       "title": "Experts: Tariffs spur global realignment - China Daily",
       "pubDate": "Thu, 24 Jul 2025 03:32:00 GMT"
     },
@@ -1802,10 +1810,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "SpaceX moves $150 million in bitcoin after three-year dormancy: Arkham - The Block",
-      "pubDate": "Tue, 22 Jul 2025 08:34:22 GMT"
-    },
     {
       "title": "Can Bitcoin Hold Above $120K? Bulls and Bears Are Split - Decrypt",
       "pubDate": "Tue, 22 Jul 2025 22:48:06 GMT"
@@ -2513,6 +2517,10 @@
     {
       "title": "Israelis rebuff Trump, insisting images of starvation in Gaza are \u2018fake\u2019 - Los Angeles Times",
       "pubDate": "Mon, 28 Jul 2025 21:08:20 GMT"
+    },
+    {
+      "title": "Worst-case scenario of famine unfolding in Gaza, UN-backed food security body says - BBC",
+      "pubDate": "Tue, 29 Jul 2025 08:37:30 GMT"
     }
   ],
   "battery_technology": [
@@ -2845,6 +2853,10 @@
     {
       "title": "Honolulu's lawsuit against fossil fuel companies leads climate change legal fight - ABC News",
       "pubDate": "Tue, 29 Jul 2025 05:14:52 GMT"
+    },
+    {
+      "title": "Trump\u2019s Billions in Climate Cuts Have Nonprofits Scrambling to Survive - Bloomberg",
+      "pubDate": "Mon, 28 Jul 2025 21:03:28 GMT"
     }
   ],
   "volcanoes": [
@@ -2863,10 +2875,6 @@
     {
       "title": "European Commission Issues Guidelines on the Protection of Minors - Hunton Andrews Kurth LLP",
       "pubDate": "Tue, 22 Jul 2025 15:19:28 GMT"
-    },
-    {
-      "title": "Why \u2018Anti-Coercion\u2019 Tool Is the EU\u2019s Trade Weapon of Last Resort - Bloomberg",
-      "pubDate": "Tue, 22 Jul 2025 08:12:14 GMT"
     },
     {
       "title": "EU-China summit kicks off under shadow of fraught ties - BBC",
@@ -2914,10 +2922,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "US Military Plans Reaper Drone Operations Near China, North Korea - Newsweek",
-      "pubDate": "Tue, 22 Jul 2025 08:31:37 GMT"
-    },
     {
       "title": "New Pentagon rules limits medical waivers to join military - The Hill",
       "pubDate": "Tue, 22 Jul 2025 21:50:00 GMT"
@@ -3188,10 +3192,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Israel Warns Iran in New IDF Assessment - Newsweek",
-      "pubDate": "Tue, 22 Jul 2025 08:44:06 GMT"
-    },
     {
       "title": "North Korea\u2019s military is being transformed on the battlefields of Ukraine \u2013 so why is Seoul silent? - The Guardian",
       "pubDate": "Thu, 24 Jul 2025 14:18:00 GMT"
@@ -3679,6 +3679,12 @@
     {
       "title": "Mass shooting in central business district shakes Manhattan, leaves at least 4 dead - Fortune",
       "pubDate": "Tue, 29 Jul 2025 02:03:00 GMT"
+    }
+  ],
+  "quantum_mechanics": [
+    {
+      "title": "A quantum physics theory was born 100 years ago that proved Einstein wrong - Australian Broadcasting Corporation",
+      "pubDate": "Mon, 28 Jul 2025 23:00:00 GMT"
     }
   ]
 }
