@@ -1,32 +1,32 @@
 {
-  "Pollution": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "The EPA proposes gutting its greenhouse gas rules. Here's what it means for cars and pollution - NPR",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2pPS0UydFgyNnBBVEdabUlLQTBYUEI1NWxoVFROWHVzX2Z6OHNoaGM2OHQwNThyeFB6bTZPTWlSaDBnZXRzR0p1OXJvUFIxYzJBdFRwUGtlYTRHV05xelRfZmdOc25XandvdDJZN2dFbzd6UjRJOXF5cUVPbWY2TUl0Ukl1OTdrNTMyZ2Z0SmRrdnZp?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 17:52:06 GMT"
+        "title": "Trump to scrap landmark finding that regulates carbon emissions - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBNTRUVURWY3pPX3AxTVFzNTJKamhYeVhfMjBjRHZjdVFpSVhtZW5iWGliYjIydDJOQzlYd3MtdnFtSnhxT2ljbjBLSFRxQTE4UUJJR1ozdVc4QdIBX0FVX3lxTE1jVS1VM1A2LXpFSlVZeG1xVjZ4eFhyOVNpU1NHOGN6Z2E1eWlFMVM2ZS1oeEZfT3lQQVJ6aU42NE96VC1EeHFSYjdsdVh5X1NrV3UyeW1sREpBZEVpbDlv?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 18:42:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-29T19:01:38.031570+00:00"
+    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
+  },
+  "Technology": {
+    "articles": [
+      {
+        "title": "Microsoft Authenticator is ending password autofill soon. How to set up a passkey before Aug. 1 - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkFTNjdyYVgtdTFxRFU5TnEzdXRHbW9ULVE5aENyOXZsRUpEUHRmZ0lYeVR5NWlCeVNHUmxFZ0lhRExPMm5UdExSWFJVU2tpV3pqYTJ0ZDg3OGM5R2pKcTZPRTlvYlVoMEJ5OFdTWjhqc19qQTEzYVlGUU9mS1NjRU9VZlJLc2hkVUxnOUZOX0RRNk9LdGhmb0lTS2VtbVp1WWlsRGotcktzUDFDZ09hRFU2b1NXbUg0ZmfSAb8BQVVfeXFMUFFibW82QTF3ZEp0a2ZPZWk5TFRNZzFLWDc5eEtrcFVlVVhyaDlYV0xMUG00V2RNNHFvLUliMHhORkhRdy1Yc191Vi11LUw5TV9MQk5QZDYxRUVsYUJHOEUtRkRMQVRyMWZyV0s0cGZpZTFLTWpJQThpcUU5NEhHaGVZcHZEa2owSFN0ZG5vOUltSDYtbTEyWWNUQ1NhYjJKM2FJTVhSc0ZmRzJtbG9aajFWcTFYSTVYSi15dHl4TVk?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 19:08:21 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
   },
   "Self-Driving Cars": {
     "articles": [
       {
-        "title": "Another Chinese self-driving test: deadly results and lawbreaking in city ADAS use - Electrek",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakI5aWRuTVBqdFU4dzkweFNFZEVaMkRtQ3RTcGlmNm9XUjlSdFRuZE1sdEJhM0QtSEM5SlRzLUtpZmhJUEVxUzFqS1o3SlpyUVdlNmhoLXNtMEp6SHR6MHk3Smxnaks2dnR3enJQS1FGWFRva1Y0WFBPM1c3cHFZdzZQNGxhTklTMDcwd3dZeXI4ZUExWFF6N3MwY2ROTHpMSDFMb3k1U0E0eUt1b1RB?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 13:00:00 GMT"
+        "title": "Waymo to launch driverless vehicles in Dallas, company announces - WFAA",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHpOdFNEWl9tU0FCbGVER2dtdkVYOWtYS1E4Z0VnWXNTZ0NtSDhXOEJwcWZuLWxlZURqX3hoTnFBVWpMQ1B2bHVzNURpRXJVMDVpSzV5dlM3bkJ0cjdBcjVmcVVaaUxOWW9UZFRWa3NobHlnQTRFeHByamNYYkcyN2tWc2xCUThiUnk3TmVZWWRUWlFVUXFUR2l4MlVCREUtdHI3dkQyWjVEOTkyeHNmaE1vRWg3UjFwSFNUazFHaDdrQQ?oc=5",
+        "pubDate": "Tue, 29 Jul 2025 13:02:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-29T19:01:38.031570+00:00"
-  },
-  "Cybersecurity and Infrastructure Security Agency": {
-    "articles": [
-      {
-        "title": "Kimberley Thompson Takes on Leadership Role at CISA\u2019s National Risk Management Center - HSToday",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTmR4X2VwNDEtUnJJOWh1RlFnRGJxZHRmRWZjUjNQd3g4endHLVdSWTRoMklUem9vem8yc204Z2NkeE9qbmhPNURLUXVkMzJGWjNJMkxGOGUzMkJQRHktV3B4eGdiZ082bGpiZ3FCazZHckM3OUUyNm9pcVVId0FGZlZOLUduaHcwTzJ0dWIzSnQ1SDBONTFWYkFsZFdDS0poOVE1YVdRS0w2WXNsMVR4aDFHYmZtMEg2bUhHeDZTZEp0ZXRCLVNtTXlScXVycFQ5TEE?oc=5",
-        "pubDate": "Tue, 29 Jul 2025 08:09:19 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-29T19:01:38.031570+00:00"
+    "last_updated_ts": "2025-07-29T20:00:57.511366+00:00"
   }
 }
