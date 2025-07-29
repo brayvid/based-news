@@ -387,6 +387,10 @@
     {
       "title": "New report highlights emerging risks in multi-agent AI systems - Department of Industry Science and Resources",
       "pubDate": "Tue, 29 Jul 2025 06:50:53 GMT"
+    },
+    {
+      "title": "AI models may be accidentally (and secretly) learning each other\u2019s bad behaviors - NBC News",
+      "pubDate": "Tue, 29 Jul 2025 09:00:41 GMT"
     }
   ],
   "financial_markets": [
@@ -420,10 +424,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Why I\u2019m Suing OpenAI, the Creator of ChatGPT - Scientific American",
-      "pubDate": "Tue, 22 Jul 2025 13:03:17 GMT"
-    },
     {
       "title": "Senators seek clarity on Delta's AI-powered pricing strategy - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 14:24:09 GMT"
@@ -596,10 +596,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukrainian lawmakers vote to scuttle independence of anti-corruption agencies - politico.eu",
-      "pubDate": "Tue, 22 Jul 2025 13:30:00 GMT"
-    },
     {
       "title": "Ukraine War Map, Update: Russia Attacks Inside 'Fortress City' Pokrovsk - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 14:54:27 GMT"
@@ -1583,6 +1579,10 @@
     {
       "title": "Lifestyle changes and vaccination \u2018could prevent most liver cancer cases\u2019 - The Guardian",
       "pubDate": "Mon, 28 Jul 2025 22:30:00 GMT"
+    },
+    {
+      "title": "Lilly's cancer drug more effective than AbbVie's in head-to-head study - Reuters",
+      "pubDate": "Tue, 29 Jul 2025 11:46:12 GMT"
     }
   ],
   "space_exploration": [
@@ -2305,6 +2305,10 @@
     {
       "title": "Trump is trying to kill solar power\u2014here's how to fight back - Mother Jones",
       "pubDate": "Tue, 29 Jul 2025 10:01:58 GMT"
+    },
+    {
+      "title": "Australia boosts underwriting scheme for renewables to meet clean energy target - Reuters",
+      "pubDate": "Tue, 29 Jul 2025 05:40:00 GMT"
     }
   ],
   "global_health": [
@@ -2315,6 +2319,10 @@
     {
       "title": "Global hunger declines, but rises in Africa and western Asia: UN report - Unicef",
       "pubDate": "Mon, 28 Jul 2025 16:26:03 GMT"
+    },
+    {
+      "title": "Global, regional, and national burden of maternal disorders, 1990\u20132021: a systematic analysis from the global burden of disease study 2021 - BMC Public Health",
+      "pubDate": "Tue, 29 Jul 2025 11:00:08 GMT"
     }
   ],
   "chemistry": [
@@ -2343,6 +2351,10 @@
     {
       "title": "Scientists have just discovered an ocean at the Earth's core, challenging our understanding of the universe. - evidencenetwork.ca",
       "pubDate": "Mon, 28 Jul 2025 12:52:00 GMT"
+    },
+    {
+      "title": "China's 30-Meter Landsat Composites: A New Era in Earth Observation | Newswise - Newswise",
+      "pubDate": "Tue, 29 Jul 2025 09:45:00 GMT"
     }
   ],
   "gaza": [
@@ -2694,14 +2706,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
-      "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
-    },
-    {
-      "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
-      "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
-    },
     {
       "title": "Burn Scars Can Exacerbate Flooding, Posing Compounding Climate Hazards - Inside Climate News",
       "pubDate": "Tue, 22 Jul 2025 18:38:04 GMT"
@@ -3124,10 +3128,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "South Africa Roads Agency on Verge of Accessing BRICS Bank Loan - Bloomberg",
-      "pubDate": "Tue, 22 Jul 2025 13:07:27 GMT"
-    },
     {
       "title": "Global Currency Shift: BRICS Target U.S. Dollar Dominance - MSN",
       "pubDate": "Thu, 24 Jul 2025 10:18:38 GMT"
@@ -3755,6 +3755,18 @@
     {
       "title": "Microsoft throws spotlight on Apple bug patched in March - theregister.com",
       "pubDate": "Mon, 28 Jul 2025 22:41:00 GMT"
+    }
+  ],
+  "algorithmic_trading": [
+    {
+      "title": "Sebi Extends Deadline for Retail Algo Trading - Rediff MoneyWiz",
+      "pubDate": "Tue, 29 Jul 2025 11:45:36 GMT"
+    }
+  ],
+  "microsoft": [
+    {
+      "title": "Microsoft\u2019s stock has been on fire. Will good earnings be enough to further the rally? - MarketWatch",
+      "pubDate": "Tue, 29 Jul 2025 11:30:00 GMT"
     }
   ]
 }
