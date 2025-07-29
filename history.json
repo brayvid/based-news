@@ -207,6 +207,10 @@
     {
       "title": "Trump lawsuit against Murdoch and 'Wall Street Journal' turns personal - NPR",
       "pubDate": "Tue, 29 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump-backed 'big beautiful bill' unleashes billions for Big Tech. How four of our megacaps benefit - CNBC",
+      "pubDate": "Tue, 29 Jul 2025 17:00:35 GMT"
     }
   ],
   "russia": [
@@ -417,20 +421,12 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI CEO Sam Altman warns of AI \"fraud crisis\" targeting consumer accounts - Axios",
-      "pubDate": "Tue, 22 Jul 2025 17:38:55 GMT"
-    },
-    {
       "title": "AI startups raised $104 billion in first half of year, but exits tell a different story - CNBC",
       "pubDate": "Tue, 22 Jul 2025 20:51:16 GMT"
     },
     {
       "title": "OpenAI wins trademark lawsuit over 'Open Artificial Intelligence' - Reuters",
       "pubDate": "Tue, 22 Jul 2025 19:44:48 GMT"
-    },
-    {
-      "title": "Google\u2019s newest Gemini 2.5 model aims for \u2018intelligence per dollar\u2019 - AI News",
-      "pubDate": "Tue, 22 Jul 2025 17:04:58 GMT"
     },
     {
       "title": "Amazon shuts down Shanghai AI research lab, FT says - Reuters",
@@ -999,6 +995,10 @@
     {
       "title": "More than 30 killed, tens of thousands evacuated in Chinese floods - The Washington Post",
       "pubDate": "Tue, 29 Jul 2025 09:10:46 GMT"
+    },
+    {
+      "title": "Can China save South Africa from Donald Trump? - The Economist",
+      "pubDate": "Tue, 29 Jul 2025 11:17:10 GMT"
     }
   ],
   "us_politics": [
@@ -1689,10 +1689,6 @@
   ],
   "tesla": [
     {
-      "title": "Tesla fights two court battles over claims it misled consumers about automated driving - The Washington Post",
-      "pubDate": "Tue, 22 Jul 2025 17:35:00 GMT"
-    },
-    {
       "title": "It Looks Like the Tesla Model Y Refresh Has Bombed - WIRED",
       "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
     },
@@ -1760,10 +1756,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Cybersecurity breach at hedge fund manager Waratah may have exposed sensitive client data - The Globe and Mail",
-      "pubDate": "Tue, 22 Jul 2025 17:50:05 GMT"
-    },
     {
       "title": "Federal watchdog ends student data breach probe - Insurance Business America",
       "pubDate": "Wed, 23 Jul 2025 11:54:43 GMT"
@@ -2219,6 +2211,10 @@
     {
       "title": "NASA says it will lose about 20 percent of its workforce - Yahoo Home",
       "pubDate": "Sat, 26 Jul 2025 13:23:28 GMT"
+    },
+    {
+      "title": "Russia Space Chief in US for First Visit With NASA Head in Years - Bloomberg.com",
+      "pubDate": "Tue, 29 Jul 2025 15:41:27 GMT"
     }
   ],
   "alternative_energy": [
@@ -2537,6 +2533,10 @@
     {
       "title": "32% in U.S. Back Israel's Military Action in Gaza, a New Low - Gallup News",
       "pubDate": "Tue, 29 Jul 2025 10:05:25 GMT"
+    },
+    {
+      "title": "Palestinians in Gaza \u2018enduring humanitarian catastrophe of epic proportions\u2019, says UN secretary general \u2013 Middle East crisis live - The Guardian",
+      "pubDate": "Tue, 29 Jul 2025 07:36:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2641,6 +2641,10 @@
     {
       "title": "New experiment uses levitated magnets to search for dark matter - Physics World",
       "pubDate": "Mon, 28 Jul 2025 08:07:03 GMT"
+    },
+    {
+      "title": "Scientists Created an Antimatter Qubit That Could Upend Physics - Popular Mechanics",
+      "pubDate": "Tue, 29 Jul 2025 14:15:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -3079,6 +3083,10 @@
     {
       "title": "Global Currency Shift: BRICS Target U.S. Dollar Dominance - MSN",
       "pubDate": "Thu, 24 Jul 2025 10:18:38 GMT"
+    },
+    {
+      "title": "The hottest multilateral club doesn't include the US : The Indicator from Planet Money - NPR",
+      "pubDate": "Tue, 29 Jul 2025 07:00:59 GMT"
     }
   ],
   "earth's_magnetic_field": [
@@ -3725,6 +3733,12 @@
     {
       "title": "Microsoft\u2019s stock has been on fire. Will good earnings be enough to further the rally? - MarketWatch",
       "pubDate": "Tue, 29 Jul 2025 11:30:00 GMT"
+    }
+  ],
+  "mark_zuckerberg": [
+    {
+      "title": "Meta's AI spending spree is Wall Street's focus in second-quarter earnings - CNBC",
+      "pubDate": "Tue, 29 Jul 2025 12:00:01 GMT"
     }
   ]
 }
