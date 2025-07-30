@@ -207,6 +207,10 @@
     {
       "title": "Trump tells Chuck Grassley to have \u2018courage\u2019 in moving judicial noms without Dems - Politico",
       "pubDate": "Wed, 30 Jul 2025 01:12:26 GMT"
+    },
+    {
+      "title": "Trump's economy rebounds as growth jumps, consumer spending accelerates - Politico",
+      "pubDate": "Wed, 30 Jul 2025 14:12:00 GMT"
     }
   ],
   "russia": [
@@ -301,10 +305,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely - VentureBeat",
-      "pubDate": "Wed, 23 Jul 2025 15:00:00 GMT"
-    },
-    {
       "title": "Trump administration\u2019s new artificial intelligence plan focuses on deregulation, beating China - southernillinoisnow.com",
       "pubDate": "Wed, 23 Jul 2025 22:36:35 GMT"
     },
@@ -386,10 +386,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "US stock market concentration risks come to fore as megacaps report earnings - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 14:07:28 GMT"
-    },
     {
       "title": "New York Municipal Bonds Flash a Buy Sign With Spreads Highest Since 2022 - Bloomberg",
       "pubDate": "Thu, 24 Jul 2025 17:15:05 GMT"
@@ -1117,6 +1113,10 @@
     {
       "title": "Kim Yo Jong hints at US talks, but with caveats - CNN",
       "pubDate": "Wed, 30 Jul 2025 03:48:56 GMT"
+    },
+    {
+      "title": "North Korea's Kim dismisses Trump's overtures and demands the U.S. accept it as a nuclear power - Milwaukee Independent",
+      "pubDate": "Wed, 30 Jul 2025 10:00:23 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1429,6 +1429,10 @@
     {
       "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics - CNBC",
       "pubDate": "Mon, 28 Jul 2025 00:30:00 GMT"
+    },
+    {
+      "title": "Public officials react to Elon Musk's Music City Loop project - Axios",
+      "pubDate": "Wed, 30 Jul 2025 11:17:21 GMT"
     }
   ],
   "cancer": [
@@ -1869,10 +1873,6 @@
   ],
   "fusion_power": [
     {
-      "title": "Avalanche Energy hits key milestone on the road to a desktop fusion reactor - TechCrunch",
-      "pubDate": "Wed, 23 Jul 2025 14:25:00 GMT"
-    },
-    {
       "title": "Avalanche lands $10M state grant to build fusion energy R&D site in Washington - GeekWire",
       "pubDate": "Wed, 23 Jul 2025 15:27:59 GMT"
     },
@@ -1965,10 +1965,6 @@
       "pubDate": "Wed, 23 Jul 2025 18:12:00 GMT"
     },
     {
-      "title": "International Court of Justice declares clean, sustainable environment a human right in landmark climate ruling - Mint",
-      "pubDate": "Wed, 23 Jul 2025 14:55:59 GMT"
-    },
-    {
       "title": "EU eyes more cutbacks to environmental laws after industry criticism - Reuters",
       "pubDate": "Wed, 23 Jul 2025 19:04:21 GMT"
     },
@@ -2007,6 +2003,10 @@
     {
       "title": "Tesla leads Australia\u2019s buoyant BEV market as rivals make gains - Autovista24",
       "pubDate": "Mon, 28 Jul 2025 16:40:32 GMT"
+    },
+    {
+      "title": "Mercedes-Benz pauses EV deliveries to the US as demand falters - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 13:21:32 GMT"
     }
   ],
   "mars": [
@@ -2505,6 +2505,10 @@
     {
       "title": "Israel-Gaza war: UK wants to 'affect situation on the ground' - BBC",
       "pubDate": "Wed, 30 Jul 2025 10:50:23 GMT"
+    },
+    {
+      "title": "Israeli minister hints at annexing parts of Gaza - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 12:48:28 GMT"
     }
   ],
   "battery_technology": [
@@ -2837,6 +2841,10 @@
     {
       "title": "UN holds emergency talks over sky-high costs for COP30 climate summit - Reuters",
       "pubDate": "Tue, 29 Jul 2025 21:04:57 GMT"
+    },
+    {
+      "title": "EPA aims to revoke \u2018endangerment finding\u2019 underpinning power, auto sector climate regs - Utility Dive",
+      "pubDate": "Wed, 30 Jul 2025 14:45:01 GMT"
     }
   ],
   "volcanoes": [
@@ -2995,12 +3003,6 @@
     {
       "title": "Intel drops 9% as chipmaker's foundry business axes projects, struggles to find customers - CNBC",
       "pubDate": "Fri, 25 Jul 2025 16:02:57 GMT"
-    }
-  ],
-  "jupiter": [
-    {
-      "title": "Scientists solve the mystery of plasma oscillations above Jupiter\u2019s poles - Universe Space Tech",
-      "pubDate": "Wed, 23 Jul 2025 14:10:48 GMT"
     }
   ],
   "pollution": [
@@ -3729,6 +3731,12 @@
     {
       "title": "Meta's AI spending spree is Wall Street's focus in second-quarter earnings - CNBC",
       "pubDate": "Tue, 29 Jul 2025 12:00:01 GMT"
+    }
+  ],
+  "internet_security": [
+    {
+      "title": "Russia blocks Ookla's online Speedtest service due to internet security threats - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 13:19:54 GMT"
     }
   ]
 }
