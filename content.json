@@ -1,22 +1,42 @@
 {
-  "Gaza": {
+  "US Economy": {
     "articles": [
       {
-        "title": "A famine hasn't been declared in Gaza, but that may not matter, experts say - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3l1d2FiUzhTZG1lSjVCaWhTbXdxRGVCWjJ2c2NSSkkxQklaSGhxNmJYTDhCMVRtWjZrTExvRDlqNjI1Z1VXV01iVzU4bkg4NWlfaEpqZVY4QktxXzA2UGRzWWNIaTNoNTRfOGw4NDh1Vjk1a240VERDZHI2RGNMaVpzTExXby1FYXNRaVVIMXFIRmJHamfSAZsBQVVfeXFMTTNvRkdGZzYwQ0hDalZMUTkxMjlVZ3ZRWGk0SC1HZlFGUlZVSzQ3dUhqYlhGQjRDYWRCeHJwb3V5U3hGYTZqaS1oS0N5NlpIVE9HX29jbG90T1luT1VSc1gwZVBWRFZsZ1o2Z1JNalJCRXhrOWFOOEs2OUxoOVN4TVIycFhQUU1uaEVvWWpLbk11VzlvcWZnZUdTQk0?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 09:24:24 GMT"
+        "title": "US economy rebounds a surprisingly strong 3% in the second quarter - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUw4T3pUdUQtNVFSNVRlWDR5Rk1NcHlTSWZoc1ZHWUllMDdRZ3RvdGFFZWs0ODlCYzJVcnI5d1VGOGxYSlM0cUdNSWgtXzZpUC1LVlhJVFhTVGpnN0M3a0lZMWhFcjlFS0dPVDlfdG5BWTV2dkVnNFM0VDlYYUctZGtZZFhkbVFFQTlIZ1h3?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 13:22:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-30T19:01:14.054519+00:00"
+    "last_updated_ts": "2025-07-30T20:01:17.598251+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "US hits Iranian shipping network with major new sanctions - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFZ6dFNkZVFrMENQLVNqZm1zaHVxSnlLcXAwXy15b2hRZkRINUV1Tmd0NWF5NkYtMWVRZjRqUVpPYkhrME9OY1pjZWJmbnZQTW9VQ0Ryd2I3VEZidE05RXhaWXVGMV9vd3pHeGxLSHJydUhUdm9uNERkRVdVeXRBc0JpUnB0TGdqQVB1TFl6UWtjb01zbzBOUDlNUk9seGpLVTRhU1JQVWtxWjlS?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 19:46:29 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-30T20:01:17.598251+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Mark Zuckerberg says \u2018developing superintelligence is now in sight,\u2019 shades OpenAI and other firms focused on automating work - VentureBeat",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNamJzVkpTWlFlekdYV3pZaW0zZ2hmYkJsTXZsRnBiN0laV2pjVFgzeVg0T09tVE9oVHJydHlWalNLWHZWbm05WU1uZ1FNTmI4ZkNMM2NxZDljRC1GalV2T180VHFjZWFUS2tDQS1ETkJQQXdlMThXbV9FNG5qcFVPUHZ6aHpxOFA2eXBmQUh6SVkzT3VfaHFNY01WNFBKZHBmUFRwd2RTeWw3a0E4cUZWMGlPRENMUDhVRFNBaHhydjFXV1JQVzZBSWc5bThHdWgwajkzdTVkTE1kMlhIZVRqWUxLT2w?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 15:11:45 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-30T20:01:17.598251+00:00"
   },
   "US Politics": {
     "articles": [
       {
-        "title": "US sanctions Brazil\u2019s Supreme Court justice overseeing case against Bolsonaro - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODlVVTRfVmM3eUtkSHFjTy1CLS15VGNPUGZfVkpsbUprdVdnQkJmWXJSQnYtYjJ5aWRfNk44SFZHMGFkOUR1LVJVM0l0VXFDdXlmdUVwWVJma0JHLWJLeGliWk5KM0RVRVZmQU1COFlNQi1Fc09wQklMLW1QVjhWZ0RTc05wMWRCWm5JWkltei1LbFp2UDYyZVBnOUpJbXI4OXgwVk05eGZ5U0lTa01UdTltcXB5ZnVraXc5U0NjTGU5Y0dLRVhqRNIBzgFBVV95cUxOakpHZHRTemdMQi1EWlJYZ2c0SG1jZ19PTDRYNE9aOEJHNVBGQmZVZ3MwOGtocFFkaVJzWl9YbVRISk05NGltTmxtYk5CY1pMb2hxY1pQWlpwbWp4U3YzR0ZxVnd3a0E0WmM3YU40dVFVQ0thTzZpdFZnZUY4QmUwNEJuWHNRVnBHMEtWazJqckxpQlM1YS1KTExsaXpDNVg1UktVcjdPVThveThEd2oxel9ucnltV0NBWXpoSEt3UjNXaUlFT0FYRFhzN2xiZw?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 17:50:00 GMT"
+        "title": "Texas Republicans release new House maps as they attempt to take 5 Democratic seats - CNN",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Sc01vR0REZ25OTkdpdnJGS19OZlU5Q3YtLVJibWU4YlQxdFpyVFR4WEI3Qkt5MUpqbUNoclJOUTlWVEJjaEktZmhjZTRPa1lUNFo1MVJJXzJXVU9oSDh0bkxRNEJmVXRGb1JpXzBldXpHY3dMakZzUHVDVdIBgAFBVV95cUxPWHE3RVZtb3FNcGc1THJQOUZVSTFqWjI3UTJYNFlhdEpGZ3FVQ2Z4emk1dDZoaTF1QVVDYnctWTlKeUNaZ1hEM095eHl1TEI2X3k5TkZmaG1qcDNTZWhiQUtHSHE1V1FYSGZKWExlRGZUNk5fV3hMQjM2MGc0ZmthRg?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 14:48:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-30T19:01:14.054519+00:00"
+    "last_updated_ts": "2025-07-30T20:01:17.598251+00:00"
   }
 }
