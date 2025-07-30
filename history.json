@@ -207,16 +207,16 @@
     {
       "title": "Analysis: Donald Trump\u2019s long history of fake history - CNN",
       "pubDate": "Wed, 30 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Trump tells Chuck Grassley to have \u2018courage\u2019 in moving judicial noms without Dems - Politico",
+      "pubDate": "Wed, 30 Jul 2025 01:12:26 GMT"
     }
   ],
   "russia": [
     {
       "title": "Russia Pumps Less Gas as China Fails to Offset Lost Europe Flows - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 16:00:01 GMT"
-    },
-    {
-      "title": "Putin expands FSB powers, turning Russia into military dictatorship \u2013 intelligence - Ukrinform",
-      "pubDate": "Wed, 23 Jul 2025 12:22:00 GMT"
     },
     {
       "title": "Plane goes missing in Russia\u2019s Far East with nearly 50 aboard - CNN",
@@ -421,10 +421,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "From tech podcasts to policy: Trump's new AI plan leans heavily on Silicon Valley industry ideas - AP News",
-      "pubDate": "Wed, 23 Jul 2025 12:05:00 GMT"
-    },
-    {
       "title": "Trump aims to get rid of AI regulations and finance exports to win AI race - NPR",
       "pubDate": "Wed, 23 Jul 2025 15:34:08 GMT"
     },
@@ -527,6 +523,10 @@
     {
       "title": "National Science Foundation Awards UC Davis $5 Million for Artificial Intelligence Hub - UC Davis",
       "pubDate": "Tue, 29 Jul 2025 16:55:53 GMT"
+    },
+    {
+      "title": "Google to sign EU's AI code of practice despite concerns - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 07:13:59 GMT"
     }
   ],
   "climate": [
@@ -752,10 +752,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Spy Stole Secret US Missile Tech: DOJ - Newsweek",
-      "pubDate": "Wed, 23 Jul 2025 12:48:11 GMT"
-    },
     {
       "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
       "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
@@ -1811,6 +1807,10 @@
     {
       "title": "Research shows data breach costs have reached an all-time high - CyberScoop",
       "pubDate": "Wed, 30 Jul 2025 10:04:11 GMT"
+    },
+    {
+      "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
+      "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
     }
   ],
   "bitcoin": [
@@ -1907,6 +1907,10 @@
     {
       "title": "US Startup Claims To Have Found New Way To Make 5,000-Kg Of Gold Every Year - NDTV",
       "pubDate": "Mon, 28 Jul 2025 13:49:14 GMT"
+    },
+    {
+      "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
     }
   ],
   "nvidia": [
@@ -2045,10 +2049,6 @@
   ],
   "biology": [
     {
-      "title": "The Sea Slug Defying Biological Orthodoxy - The Atlantic",
-      "pubDate": "Wed, 23 Jul 2025 13:00:00 GMT"
-    },
-    {
       "title": "Groundbreaking Study Identifies Four Biologically Distinct Autism Subtypes - SciTechDaily",
       "pubDate": "Wed, 23 Jul 2025 13:06:21 GMT"
     },
@@ -2062,10 +2062,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "The Magic at the Heart of Quantum Computers Has Finally Worked - Popular Mechanics",
-      "pubDate": "Wed, 23 Jul 2025 12:30:00 GMT"
-    },
     {
       "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
       "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
@@ -2509,6 +2505,10 @@
     {
       "title": "MAGA is turning on Israel over Gaza, but Trump is unmoved - Politico",
       "pubDate": "Tue, 29 Jul 2025 23:19:00 GMT"
+    },
+    {
+      "title": "Israel-Gaza war: UK wants to 'affect situation on the ground' - BBC",
+      "pubDate": "Wed, 30 Jul 2025 10:50:23 GMT"
     }
   ],
   "battery_technology": [
@@ -3277,12 +3277,6 @@
       "pubDate": "Tue, 29 Jul 2025 11:59:14 GMT"
     }
   ],
-  "privacy": [
-    {
-      "title": "Proton\u2019s new privacy-first AI assistant encrypts all chats, keeps no logs - TechCrunch",
-      "pubDate": "Wed, 23 Jul 2025 12:49:08 GMT"
-    }
-  ],
   "india": [
     {
       "title": "India's Crypto Tax Revenue Surges 63% as Advanced Analytics Crackdown Intensifies - AInvest",
@@ -3655,6 +3649,10 @@
     {
       "title": "Number of Democratic voters who are \u2018extremely motivated\u2019 to vote in next election skyrockets - The Independent",
       "pubDate": "Sun, 27 Jul 2025 21:49:00 GMT"
+    },
+    {
+      "title": "American democracy is crashing out and it will be hard to reverse, international rights group warns - Salon.com",
+      "pubDate": "Wed, 30 Jul 2025 10:30:37 GMT"
     }
   ],
   "energy_storage": [

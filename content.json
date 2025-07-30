@@ -1,72 +1,62 @@
 {
-  "Cryptocurrency": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "White House set to unveil closely watched crypto policy report - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0JWLW1FV0NteDZTVElfOFFYTHZ5elhQY081TzRWTTJXM3V0blJiUENFYkpETFRLLTlmSHRYd1NxV0lqRks5ZEU1YmoyazZZa25rNDBPV25TSXI4Um5DeEVudk9KTDJ4bEFDLVRyRkF0YTJzRFJ4WVNKLWNmU2VBSmhZdzRETDBkWEVXQXljdGFOLS1hbVQ5ejM4OHVZZjB0aUdVQUlibmU5Y3BCYTdDZkNn?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 10:33:50 GMT"
+        "title": "Google to sign EU's AI code of practice despite concerns - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbm40T01iQ2w0czdUTmtLR0k5UDItZHp2Q3k2djFyUDZBRU5UTmdRVU53OHRfaUxMVmlUMmQ4WFBDQjV6clRBTFFxbGZjSmxCSExLZWNaWmdMLUItZ0RmZThkX3VSdV9sdU82MVNBSFNzV0h5TEtJcm9ybE1pc3BBTEhzMHVNN3ViSS1VZlBGeHpLa0RTYzhDc2xsVks5UUE3aWdVSm0zOEZSQnFfZGNZbzRHNVhKUG1iZTRLaXRsS1JCTXM?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 07:13:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "Israel-Gaza war: UK wants to 'affect situation on the ground' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zcUpBVndndHc1OHRpZzlYN1ZVYjZBVkhjQnJ3LXNzNmcwNWM3LUd5em1ORWlsZmtwRk5xM2ZBX0VrTmYyaEcxWjltN3lOeGt1eVV2WWZkQVR0d9IBX0FVX3lxTFAzcVY5cVJIMElPRlVBV1FFNElTZDVhUWl6VDVBN3otTUtkd3VTZm50YXlzNG5WaHZkajRMYmwwMlNIeDI1TVMtWmRTbmdDM29YN1FIRDFmNUVhdDNNYk04?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 10:50:23 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVk0cS0xN0kzUnMzdkduWW9FeWUtQ3pOQUxHS3MyOGNtTC1iTHo0UWFQc2ZvaVFxYzcwVmVHTmZhaHJZZmYzdnMzTDM1YkxDWWN6TUE3X0dNeUsxcEJtQTZnRkhrZHV4Y1o2ZnVEek5RRTl4QWZ6UnkzMXZMWHVwNWRrdm90STNCQVFZelMtNlBuZ3lYQjdxTVFsaWJsZjFPWG5HeVR3OFBhLXNHdTl3Wi1BS1VOQ0ZDbWRfZHJCUnVKaW5KcFE?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ2VzQlUwdUFsNXRDNHJyOVBhTlkzdkNkblg4VFA5OUlDYnhnZzZ2dGhXellWOGlScEhtWS01c1pWTENWVURPMExfQm9ET0laMmRMWXhSS2NsUy04QmlwNFBSVnRHNUdCT3J0anZqRjEwU193WnBvekFuX3o3RHNOYmpiOW1rOU9mb3B3d3I2eWZOMlFQcVZqaVB3V01UZlR3RkNSN0JaT1RFdjhsdTlSM09HYVFjSTRoSHlWakN3UmQ0R0tfakU2N1FjNmh5eEV3Q1RyNGpkVjk1OFdtenptZDVSU2pWMkNsNmhiZE04Ulo3Q3c?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
   },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Analysis: Donald Trump\u2019s long history of fake history - CNN",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TQW9MQUEtSWVoaVEzdnZDUC1lS09ER2hvTnlxMmhpVXZrZlhaUW1PNlJGaUI1VG5tN1kwaVB0VVhfRWd0cldHSUkyandDNl9kYk5JYzR5Y2FDUWZpSFZhZkdXZXgyaFZsQVRSMDRzeFZXd2vSAXhBVV95cUxQbmwtdkRIeGRuN1hONWVSTGN4OTZMSnplX3d6a1NMRXlTa3ZxbERhRzBtRW95U19IaDFhSkZkZkxXVEk0eUJleS0xMVY1c1JnRk8tQVpjZndxajJtOXZidTFlY2stZWgxbGM1ckt0a0hrd3UxdmxnbUw?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 10:00:00 GMT"
+        "title": "Trump tells Chuck Grassley to have \u2018courage\u2019 in moving judicial noms without Dems - Politico",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1Ayc3pUUVRoQ3ZKUDk0YVVhQW41OGhDMWNzMmNYY2tQVmU2cldrVzBUX3dVT1ZzdlNEUHRPaUVkQWdIb1R0dS03UnRzQmVwZzdhX3FXVEVzVmw2MWxaXzM2clI5YlR0RVZ2aHdnb0p1TWt5YUM2YU54VFR3ckJtZHpSQWVNR1hNZk40R0VNQQ?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 01:12:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
   },
-  "Apple": {
+  "Democracy": {
     "articles": [
       {
-        "title": "Apple earnings under pressure from tariffs, slow AI roll-out - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2lFR3ZpblZkclJTVm9jSEI1VzBLdDBhUFFacTlLWEZ4V1I1bnNKam1lRHMxLWVnbExLMmJpSWxTTjZfV3hOUFREeGJTZHNFQ2FpSkxyV1BXbnl5SlB3OG8xRnBvU2hmWlRZTGRGWFlhdnJNSE0yMU9NdDBCSHhtekRfWGFOZWFXSUxCQUJTRVFQZEdLcUdjdENJc3c1NjJT?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 10:02:48 GMT"
+        "title": "American democracy is crashing out and it will be hard to reverse, international rights group warns - Salon.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVZqSVcyVWxaWTZLMl83UU1rOTNNYzFCRDR6UUg2ZUxGSkE5U05zYkY0VDFXenhhYl9NVUdGTTJCc2F3T0hNWDM3TmFabHNlUFA2enJtSDNqRUp6U0VXT3dqTHpJUXRRMTkzemNKZjNqZjdCMGVzVGdjZDhGaU42ZkZGbzJ4RFFELWJSQmstVEhZbG5UVlNTVkIwY1l2UDh4bDY4WG1sRjN4UkhrMWx2YjdqeXF6RHVrQjRnTGNhRFlqTjNOcmxHdjVLblI?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 10:30:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia hits Ukrainian training unit, killing and wounding servicemen - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lLWRmenhSODZHemN6VGp4RU9SUV9qbURRZ0VONHNGdThYRmpyQ0dNcVF1ZWRTOUhEQnJKMS1BbENhMHdWd1RsSnd2c3lxM2QtRW9zMUlJZjQ2UdIBX0FVX3lxTE9xMzlKUXVyTkphNDlrNEEtTHNoVDYtNm5sbDBGMEkzNWZUc3RmWHIwZUZwWEp4RHNhdU9ibGVOSmREZWp3NWdVRmtiM3NUbnZNaGhKa3NtbFNfam94NzhF?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 10:15:40 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
-  },
-  "Cybersecurity and Infrastructure Security Agency": {
-    "articles": [
-      {
-        "title": "CISA Faces Budget Cuts: 7 Steps to Prepare for the Changes Ahead - CPO Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEhkU1QtSE9YaG1oNG5pa09IWXlaUGNZNXVKaFJ4WFFGSWNKVWtXTC11Q3pzb2VVVE1FcllFemVLNUJEU2l4TkpyR1NnMGVNZU9ReFVhS0lPd2RxMHpoOXJMSlpZa3RnRk0tV2ZOQTRXeHpoT3hpM29XNF9jYlI0M0FEOXdBeVZYbkUxd2gxUlVJT2g3VVU3RUdfbVVsS0M2MGNaYTlMb0FrdUk?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 11:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "Investors whale on Cardiff, sinking stock after seeing updated colorectal cancer data - Fierce Biotech",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzZtQzFvX2FOaXdYMjVWdzEwV0g0TE9NcFlmQ01UanF3eF9SSWNSWlpILWRNSjZ1bkZ2aDU5bkRSZEZMSnU0eWpZYUtkemNLa2hyVjlBREMwNU9Yd0VVQk5jWmhnRVNzclBFUk9VRVJvXzhsSDN0bWFlN0dyRHpTT0QteUVDQ0tCV2hjRDNaMDZFNmJ3TmNCVVpHSk1SenpPUlJqWFFWSURtc3k1cjZsVzMxTUtUbFNBSnJr?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 11:25:20 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
-  },
-  "India": {
-    "articles": [
-      {
-        "title": "Historic joint mission between US and India could change the way we see Earth - CNN",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NWXNMcnVZdmRpOUlaUlBpdzdiRTY5N094MlRjU3NGV1Y4M2RHQXA0TUdNXzdaS1E1SFo4ekdVVkEtOWJrbHdxd3JDczc4N1c0MEpHeTZhYVMzajZjZTdvdVZlMXBtYkh1NEh3Nk0xS2t3SGUxVFNKdNIBfkFVX3lxTE1xOEI5dEF5clpoT29qMTJGQXpGMEZUTERXazFyaGNKN21tekpBUlpDSnV5UjJWaDBSMl9vNGJ0QVNsZGhEdlhUYkVXQjJTSFNHa3d1bmI2WjhUMS1TOGx3NzBuUkVyZ3JtM2JpWF9GMy11VTJTaXZjdFZXMWFQQQ?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 11:12:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-07-30T12:02:25.535457+00:00"
+    "last_updated_ts": "2025-07-30T13:00:30.140674+00:00"
   }
 }
