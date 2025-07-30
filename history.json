@@ -207,10 +207,6 @@
   ],
   "russia": [
     {
-      "title": "Russia is pouring money into its war machine \u2014 but it's still struggling to create new, advanced systems - Business Insider",
-      "pubDate": "Wed, 23 Jul 2025 09:35:00 GMT"
-    },
-    {
       "title": "Russia Pumps Less Gas as China Fails to Offset Lost Europe Flows - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 16:00:01 GMT"
     },
@@ -379,6 +375,10 @@
     {
       "title": "Union calls for 'mandatory' employee consultations on AI programs - iTnews",
       "pubDate": "Tue, 29 Jul 2025 20:51:00 GMT"
+    },
+    {
+      "title": "Canada commits funding to joint AI safety effort with the U.K. - ca.finance.yahoo.com",
+      "pubDate": "Wed, 30 Jul 2025 07:00:34 GMT"
     }
   ],
   "financial_markets": [
@@ -757,10 +757,6 @@
   ],
   "china": [
     {
-      "title": "Satellite Photos Show Where China Is Building World's Biggest Hydro Dam - Newsweek",
-      "pubDate": "Wed, 23 Jul 2025 09:00:02 GMT"
-    },
-    {
       "title": "China\u2019s tech talent are making big strides \u2014 they're creating apps for the world - CNBC",
       "pubDate": "Wed, 23 Jul 2025 10:00:01 GMT"
     },
@@ -987,6 +983,10 @@
     {
       "title": "No extension of US-China tariff deadline, yet - Politico",
       "pubDate": "Tue, 29 Jul 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Xi Ties His Legacy and China\u2019s Economy to $167 Billion Dam - Bloomberg",
+      "pubDate": "Wed, 30 Jul 2025 06:34:00 GMT"
     }
   ],
   "us_politics": [
@@ -1070,10 +1070,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "Mysterious annex at North Korean missile plant has analysts puzzled - Defense News",
-      "pubDate": "Wed, 23 Jul 2025 09:43:01 GMT"
-    },
     {
       "title": "Kim Jong Un calls for 'actual war' training by combat units - upi.com",
       "pubDate": "Thu, 24 Jul 2025 09:34:24 GMT"
@@ -1547,6 +1543,10 @@
     {
       "title": "Watch AstraZeneca Profit, Revenue Lifted by Cancer Drugs - Bloomberg",
       "pubDate": "Tue, 29 Jul 2025 20:00:14 GMT"
+    },
+    {
+      "title": "Study Finds One Workout Can Cut Cancer Cell Growth by 30% - SciTechDaily",
+      "pubDate": "Wed, 30 Jul 2025 08:21:52 GMT"
     }
   ],
   "space_exploration": [
@@ -1711,10 +1711,6 @@
     {
       "title": "It Looks Like the Tesla Model Y Refresh Has Bombed - WIRED",
       "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Get ready for more bad news from Tesla - CNN",
-      "pubDate": "Wed, 23 Jul 2025 09:00:00 GMT"
     },
     {
       "title": "Tesla begins production on \"more affordable model\" amid sales backlash - Axios",
@@ -2165,10 +2161,6 @@
   ],
   "national_security": [
     {
-      "title": "US nuclear weapons agency \u2018among 400 organisations breached by Chinese hackers\u2019 - The Guardian",
-      "pubDate": "Wed, 23 Jul 2025 09:54:00 GMT"
-    },
-    {
       "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
       "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
     },
@@ -2231,10 +2223,6 @@
   ],
   "alternative_energy": [
     {
-      "title": "Trump is trying to prop up coal, oil, and gas\u2014but the economics of fossil fuel are failing - Fast Company",
-      "pubDate": "Wed, 23 Jul 2025 09:06:42 GMT"
-    },
-    {
       "title": "Clean energy costs drop below fossil fuels as UN urges rapid shift - ehn.org",
       "pubDate": "Wed, 23 Jul 2025 17:34:42 GMT"
     },
@@ -2261,6 +2249,10 @@
     {
       "title": "Australia boosts underwriting scheme for renewables to meet clean energy target - Reuters",
       "pubDate": "Tue, 29 Jul 2025 05:40:00 GMT"
+    },
+    {
+      "title": "Analysis: China\u2019s clean-energy exports in 2024 alone will cut overseas CO2 by 1% - Eco-Business",
+      "pubDate": "Wed, 30 Jul 2025 06:06:00 GMT"
     }
   ],
   "global_health": [
@@ -2593,6 +2585,10 @@
     {
       "title": "Barry Appleton: Canada submits to China's algorithmic colonialism - National Post",
       "pubDate": "Mon, 28 Jul 2025 16:19:01 GMT"
+    },
+    {
+      "title": "New algorithms enable efficient machine learning with symmetric data - MIT News",
+      "pubDate": "Wed, 30 Jul 2025 04:00:00 GMT"
     }
   ],
   "astronomy": [
@@ -3741,12 +3737,20 @@
     {
       "title": "Microsoft throws spotlight on Apple bug patched in March - theregister.com",
       "pubDate": "Mon, 28 Jul 2025 22:41:00 GMT"
+    },
+    {
+      "title": "Apple Continues Losing AI Experts to Meta - MacRumors",
+      "pubDate": "Wed, 30 Jul 2025 01:47:00 GMT"
     }
   ],
   "algorithmic_trading": [
     {
       "title": "Sebi Extends Deadline for Retail Algo Trading - Rediff MoneyWiz",
       "pubDate": "Tue, 29 Jul 2025 11:45:36 GMT"
+    },
+    {
+      "title": "Regulatory Risk and Market Integrity in High-Frequency Trading: Lessons from Jane Street's SEBI Saga - AInvest",
+      "pubDate": "Wed, 30 Jul 2025 04:44:26 GMT"
     }
   ],
   "microsoft": [
