@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Knesset approves Israeli sovereignty in West Bank - The Jerusalem Post",
-      "pubDate": "Wed, 23 Jul 2025 13:27:12 GMT"
-    },
-    {
       "title": "Israel\u2019s Future-Oriented Natalism: A Q&A with Daniel Kane - Public Discourse",
       "pubDate": "Thu, 24 Jul 2025 00:00:26 GMT"
     },
@@ -723,6 +719,10 @@
     {
       "title": "Russia hits Ukrainian training unit, killing and wounding servicemen - BBC",
       "pubDate": "Wed, 30 Jul 2025 10:15:40 GMT"
+    },
+    {
+      "title": "Ukraine arrests air force officer for spying on Western-supplied fighter jets - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 13:56:46 GMT"
     }
   ],
   "us_economy": [
@@ -975,6 +975,10 @@
     {
       "title": "Xi Ties His Legacy and China\u2019s Economy to $167 Billion Dam - Bloomberg",
       "pubDate": "Wed, 30 Jul 2025 06:34:00 GMT"
+    },
+    {
+      "title": "China\u2019s super-dam is an ecological and geopolitical time bomb - The Hill",
+      "pubDate": "Wed, 30 Jul 2025 13:30:00 GMT"
     }
   ],
   "us_politics": [
@@ -1165,14 +1169,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Hacker Plants Computer 'Wiping' Commands in Amazon's AI Coding Agent - 404 Media",
-      "pubDate": "Wed, 23 Jul 2025 13:50:45 GMT"
-    },
-    {
-      "title": "Key figure behind major Russian-speaking cybercrime forum targeted in Ukraine - Europol",
-      "pubDate": "Wed, 23 Jul 2025 13:03:42 GMT"
-    },
-    {
       "title": "Clorox files $380 million suit blaming Cognizant for 2023 cyberattack - Cybersecurity Dive",
       "pubDate": "Wed, 23 Jul 2025 16:33:20 GMT"
     },
@@ -1333,6 +1329,10 @@
     {
       "title": "The economic consequences of Trump's pressure on the Federal Reserve - WCVB",
       "pubDate": "Tue, 29 Jul 2025 10:32:00 GMT"
+    },
+    {
+      "title": "Federal Reserve debates interest rate cuts amid tariff uncertainty - KCRA",
+      "pubDate": "Wed, 30 Jul 2025 12:56:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1418,10 +1418,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "SpaceX warns investors Elon Musk could return to politics - Los Angeles Times",
-      "pubDate": "Wed, 23 Jul 2025 13:32:00 GMT"
-    },
     {
       "title": "Musk ordered shutdown of Starlink satellite service as Ukraine retook territory from Russia - Reuters",
       "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
@@ -1911,6 +1907,10 @@
     {
       "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Reuters",
       "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
+    },
+    {
+      "title": "Helion Secures Land and Begins Building on the Site of World\u2019s First Fusion Power Plant - Eagle-Tribune",
+      "pubDate": "Wed, 30 Jul 2025 12:01:51 GMT"
     }
   ],
   "nvidia": [
@@ -2048,10 +2048,6 @@
     }
   ],
   "biology": [
-    {
-      "title": "Groundbreaking Study Identifies Four Biologically Distinct Autism Subtypes - SciTechDaily",
-      "pubDate": "Wed, 23 Jul 2025 13:06:21 GMT"
-    },
     {
       "title": "Study Overturns Decades-Old Dogma: Scientists Discover \u201cHidden Organization\u201d in Gene Regulation - SciTechDaily",
       "pubDate": "Sun, 27 Jul 2025 11:37:51 GMT"
@@ -2643,10 +2639,6 @@
   ],
   "climate_change": [
     {
-      "title": "ICJ to rule on nations' legal responsibility regarding climate change - upi.com",
-      "pubDate": "Wed, 23 Jul 2025 13:44:09 GMT"
-    },
-    {
       "title": "Vanuatu Wins Landmark Legal Battle Over Climate Change Impact - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 15:28:40 GMT"
     },
@@ -2965,10 +2957,6 @@
   ],
   "blockchain": [
     {
-      "title": "Goldman Sachs, BNY to Record Money Market Funds on Blockchain - Bloomberg",
-      "pubDate": "Wed, 23 Jul 2025 13:35:52 GMT"
-    },
-    {
       "title": "Vietnam launches NDAChain as national blockchain to power digital economy - Crypto Briefing",
       "pubDate": "Fri, 25 Jul 2025 15:04:26 GMT"
     }
@@ -3170,10 +3158,6 @@
     }
   ],
   "vladimir_putin": [
-    {
-      "title": "Russia accuses Italy of discrimination after it cancels pro-Putin conductor Gergiev concert - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 13:08:27 GMT"
-    },
     {
       "title": "Putin is preparing for another invasion while Nato is fatally distracted - The Telegraph",
       "pubDate": "Thu, 24 Jul 2025 17:12:00 GMT"
@@ -3715,6 +3699,10 @@
     {
       "title": "Apple earnings under pressure from tariffs, slow AI roll-out - Reuters",
       "pubDate": "Wed, 30 Jul 2025 10:02:48 GMT"
+    },
+    {
+      "title": "Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome - The Hacker News",
+      "pubDate": "Wed, 30 Jul 2025 10:50:00 GMT"
     }
   ],
   "algorithmic_trading": [
