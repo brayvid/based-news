@@ -215,10 +215,6 @@
   ],
   "russia": [
     {
-      "title": "Russia Pumps Less Gas as China Fails to Offset Lost Europe Flows - Bloomberg",
-      "pubDate": "Wed, 23 Jul 2025 16:00:01 GMT"
-    },
-    {
       "title": "Plane goes missing in Russia\u2019s Far East with nearly 50 aboard - CNN",
       "pubDate": "Thu, 24 Jul 2025 06:23:00 GMT"
     },
@@ -413,10 +409,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Trump aims to get rid of AI regulations and finance exports to win AI race - NPR",
-      "pubDate": "Wed, 23 Jul 2025 15:34:08 GMT"
-    },
-    {
       "title": "Live updates: Trump to sign executive orders easing AI regulations - NBC4 Washington",
       "pubDate": "Wed, 23 Jul 2025 16:17:40 GMT"
     },
@@ -519,6 +511,10 @@
     {
       "title": "Google to sign EU's AI code of practice despite concerns - Reuters",
       "pubDate": "Wed, 30 Jul 2025 07:13:59 GMT"
+    },
+    {
+      "title": "Amazon to Pay NYT Up to $25 Million for AI Licensing - PYMNTS.com",
+      "pubDate": "Wed, 30 Jul 2025 14:49:19 GMT"
     }
   ],
   "climate": [
@@ -975,6 +971,10 @@
     {
       "title": "China\u2019s super-dam is an ecological and geopolitical time bomb - The Hill",
       "pubDate": "Wed, 30 Jul 2025 13:30:00 GMT"
+    },
+    {
+      "title": "China Buys Up Property in America's Hottest Housing Market - Newsweek",
+      "pubDate": "Wed, 30 Jul 2025 08:00:01 GMT"
     }
   ],
   "us_politics": [
@@ -1121,10 +1121,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US lawmakers advance bill that could sanction South Africa over its foreign policy - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 15:13:20 GMT"
-    },
-    {
       "title": "US Opens Investigation Into Harvards Participation In Exchange Visitor Program - Zee News",
       "pubDate": "Thu, 24 Jul 2025 03:15:34 GMT"
     },
@@ -1165,6 +1161,10 @@
     {
       "title": "Trump\u2019s trade war victory is already under siege - CNN",
       "pubDate": "Tue, 29 Jul 2025 12:59:00 GMT"
+    },
+    {
+      "title": "Trump imposes 25% tariff on India: Centre hits back, says 'will take all steps to secure national interest' - Times of India",
+      "pubDate": "Wed, 30 Jul 2025 15:08:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1333,6 +1333,10 @@
     {
       "title": "Federal Reserve debates interest rate cuts amid tariff uncertainty - KCRA",
       "pubDate": "Wed, 30 Jul 2025 12:56:00 GMT"
+    },
+    {
+      "title": "The Fed is likely to hold interest rates steady despite intense pressure from Trump - NPR",
+      "pubDate": "Wed, 30 Jul 2025 09:00:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1415,6 +1419,10 @@
     {
       "title": "Tsunami waves begin to hit Hawaii after massive 8.8 quake strikes off Russia - FOX Weather",
       "pubDate": "Tue, 29 Jul 2025 23:55:00 GMT"
+    },
+    {
+      "title": "Huge quake rocks Russia's Far East, triggering tsunami warnings around Pacific - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 13:59:19 GMT"
     }
   ],
   "elon_musk": [
@@ -1531,6 +1539,10 @@
     {
       "title": "Investors whale on Cardiff, sinking stock after seeing updated colorectal cancer data - Fierce Biotech",
       "pubDate": "Wed, 30 Jul 2025 11:25:20 GMT"
+    },
+    {
+      "title": "'Universal' cancer vaccine heading to human trials could be useful for 'all forms of cancer' - Live Science",
+      "pubDate": "Wed, 30 Jul 2025 14:30:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1701,10 +1713,6 @@
       "pubDate": "Wed, 23 Jul 2025 20:35:49 GMT"
     },
     {
-      "title": "Tesla reports sales miss as auto revenue drops for second straight quarter - CNBC",
-      "pubDate": "Wed, 23 Jul 2025 16:00:09 GMT"
-    },
-    {
       "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
       "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
     },
@@ -1811,6 +1819,10 @@
     {
       "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
       "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
+    },
+    {
+      "title": "Costs of data breaches dropping globally but not in Canada: IBM study - Business News - Castanet",
+      "pubDate": "Wed, 30 Jul 2025 14:06:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1872,10 +1884,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Avalanche lands $10M state grant to build fusion energy R&D site in Washington - GeekWire",
-      "pubDate": "Wed, 23 Jul 2025 15:27:59 GMT"
-    },
     {
       "title": "China Launches National Fusion Energy Firm With $1.6 Billion Investment from SOEs - Caixin Global",
       "pubDate": "Wed, 23 Jul 2025 20:46:00 GMT"
@@ -2143,10 +2151,6 @@
   ],
   "ethereum": [
     {
-      "title": "Aave whales withdraw $1.7bn in Ethereum and trigger scramble to unwind looping trades - dlnews.com",
-      "pubDate": "Wed, 23 Jul 2025 15:05:39 GMT"
-    },
-    {
       "title": "BlackRock Ethereum ETF becomes 3rd-fastest to hit $10B in assets - Cointelegraph",
       "pubDate": "Thu, 24 Jul 2025 14:24:56 GMT"
     },
@@ -2274,14 +2278,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Palestinians are starving or being killed by Israeli troops while seeking aid almost daily. How did we get here? - CNN",
-      "pubDate": "Wed, 23 Jul 2025 15:04:00 GMT"
-    },
-    {
-      "title": "Gaza facing man-made 'mass starvation', says WHO's Tedros - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 15:49:44 GMT"
-    },
     {
       "title": "UN official reiterates call for Gaza ceasefire as \u2018nightmare of historic proportions\u2019 unfolds - UN News",
       "pubDate": "Wed, 23 Jul 2025 17:11:28 GMT"
@@ -2642,22 +2638,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Vanuatu Wins Landmark Legal Battle Over Climate Change Impact - Bloomberg",
-      "pubDate": "Wed, 23 Jul 2025 15:28:40 GMT"
-    },
-    {
-      "title": "International law includes climate-change obligations, UN court says - Axios",
-      "pubDate": "Wed, 23 Jul 2025 15:55:50 GMT"
-    },
-    {
-      "title": "Trump admin will soon propose to kill EPA\u2019s ability to make rules about climate pollution, sources say - CNN",
-      "pubDate": "Wed, 23 Jul 2025 15:44:00 GMT"
-    },
-    {
-      "title": "How Entire Countries Have Become the Target of Climate Change Lawsuits - Bloomberg",
-      "pubDate": "Wed, 23 Jul 2025 15:54:39 GMT"
-    },
     {
       "title": "Trump EPA will propose repealing finding that climate change endangers public health - The Hill",
       "pubDate": "Wed, 23 Jul 2025 21:22:00 GMT"
@@ -3024,10 +3004,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "House report reveals Brennan pushed flawed intelligence on Russia-Trump collusion in 2016 - The National Desk",
-      "pubDate": "Wed, 23 Jul 2025 15:14:12 GMT"
-    },
     {
       "title": "Trump questions CIA report's validity on Russia electoral interference - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Thu, 24 Jul 2025 02:46:00 GMT"
