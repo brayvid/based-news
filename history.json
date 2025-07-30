@@ -379,6 +379,10 @@
     {
       "title": "International AI Alignment effort tackles unpredictability - Computer Weekly",
       "pubDate": "Wed, 30 Jul 2025 08:11:52 GMT"
+    },
+    {
+      "title": "AI Safety under the EU AI Code of Practice \u2014 A New Global Standard? - CSET | Center for Security and Emerging Technology",
+      "pubDate": "Wed, 30 Jul 2025 11:29:30 GMT"
     }
   ],
   "financial_markets": [
@@ -549,10 +553,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russia, Ukraine discuss more POW swaps; no deal on ceasefire or leaders' meeting - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 20:48:24 GMT"
-    },
-    {
       "title": "Putin\u2019s bloody war puts democracy under strain in Ukraine - politico.eu",
       "pubDate": "Thu, 24 Jul 2025 03:01:00 GMT"
     },
@@ -707,6 +707,10 @@
     {
       "title": "Ukraine arrests air force officer for spying on Western-supplied fighter jets - Reuters",
       "pubDate": "Wed, 30 Jul 2025 13:56:46 GMT"
+    },
+    {
+      "title": "Ukraine parliament to vote on law to restore powers of anti-corruption bodies - The Guardian",
+      "pubDate": "Wed, 30 Jul 2025 14:25:00 GMT"
     }
   ],
   "us_economy": [
@@ -740,10 +744,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
-    },
     {
       "title": "China urges Israel to \u2018immediately cease\u2019 Gaza assaults at UN Security Council - Anadolu Ajans\u0131",
       "pubDate": "Wed, 23 Jul 2025 21:16:10 GMT"
@@ -1329,6 +1329,10 @@
     {
       "title": "The Fed is likely to hold interest rates steady despite intense pressure from Trump - NPR",
       "pubDate": "Wed, 30 Jul 2025 09:00:00 GMT"
+    },
+    {
+      "title": "US Federal Reserve leaves rates unchanged despite pressure from White House - Al Jazeera",
+      "pubDate": "Wed, 30 Jul 2025 18:53:24 GMT"
     }
   ],
   "earthquakes": [
@@ -1697,14 +1701,6 @@
   ],
   "tesla": [
     {
-      "title": "Tesla begins production on \"more affordable model\" amid sales backlash - Axios",
-      "pubDate": "Wed, 23 Jul 2025 20:50:57 GMT"
-    },
-    {
-      "title": "Tesla starts 'first builds' of affordable model, posts steepest drop in quarterly revenue in over a decade - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 20:35:49 GMT"
-    },
-    {
       "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
       "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
     },
@@ -1877,10 +1873,6 @@
   ],
   "fusion_power": [
     {
-      "title": "China Launches National Fusion Energy Firm With $1.6 Billion Investment from SOEs - Caixin Global",
-      "pubDate": "Wed, 23 Jul 2025 20:46:00 GMT"
-    },
-    {
       "title": "China sets up state-owned fusion energy company amidst push for inexhaustible clean power - Xinhua",
       "pubDate": "Thu, 24 Jul 2025 14:44:15 GMT"
     },
@@ -2047,10 +2039,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
-      "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
-    },
-    {
       "title": "Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play - MSN",
       "pubDate": "Sat, 26 Jul 2025 00:38:36 GMT"
     },
@@ -2145,6 +2133,10 @@
     {
       "title": "Ethereum $6K Christmas Odds Surge as Options Traders Reprice Tail Risk - Decrypt",
       "pubDate": "Mon, 28 Jul 2025 05:33:28 GMT"
+    },
+    {
+      "title": "At 10 years old, Ethereum's future is brighter than ever despite recent setbacks - CNBC",
+      "pubDate": "Wed, 30 Jul 2025 13:30:55 GMT"
     }
   ],
   "nasa": [
@@ -2813,6 +2805,10 @@
     {
       "title": "EU climate goals at risk as ailing forests absorb less CO2, scientists say - Reuters",
       "pubDate": "Wed, 30 Jul 2025 15:05:08 GMT"
+    },
+    {
+      "title": "Google\u2019s Newest AI Model Acts Like a Satellite to Track Climate Change - WIRED",
+      "pubDate": "Wed, 30 Jul 2025 18:57:44 GMT"
     }
   ],
   "volcanoes": [
@@ -2891,10 +2887,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "US Approves $322 Million Military Aid Package for Ukraine, Including HAWK Air Defense and Bradley Vehicles - UNITED24 Media",
-      "pubDate": "Wed, 23 Jul 2025 20:53:12 GMT"
-    },
-    {
       "title": "Western arms makers are setting up in Ukraine. Kyiv gets firepower, NATO gets lessons in war. - Business Insider",
       "pubDate": "Fri, 25 Jul 2025 09:41:00 GMT"
     },
@@ -2909,12 +2901,6 @@
     {
       "title": "Russia's sinking fake ships with exploding naval drones. The training likely isn't for war with Ukraine. - Business Insider",
       "pubDate": "Mon, 28 Jul 2025 15:52:00 GMT"
-    }
-  ],
-  "us_congress": [
-    {
-      "title": "Congress is in August recess, but the Epstein controversy keeps bubbling - NPR",
-      "pubDate": "Wed, 23 Jul 2025 20:39:50 GMT"
     }
   ],
   "world_news": [
@@ -2942,10 +2928,6 @@
     }
   ],
   "large_language_models": [
-    {
-      "title": "Proposed Senate Bill Would Prohibit Use of Personal Identifying Information and Potentially Copyrightable Works to Train Large Language Models - The National Law Review",
-      "pubDate": "Wed, 23 Jul 2025 20:48:45 GMT"
-    },
     {
       "title": "Researchers train AI model to respond to online political posts, find quality of discourse improved - Deccan Herald",
       "pubDate": "Sun, 27 Jul 2025 04:59:23 GMT"
@@ -3617,6 +3599,10 @@
     {
       "title": "New York is looking for 1 GW of energy storage projects right now - Solar Power World",
       "pubDate": "Mon, 28 Jul 2025 17:37:04 GMT"
+    },
+    {
+      "title": "Hundreds of Old EV Batteries Have New Jobs in Texas: Stabilizing the Grid - Inside Climate News",
+      "pubDate": "Wed, 30 Jul 2025 20:35:13 GMT"
     }
   ],
   "stocks_&_bonds": [
