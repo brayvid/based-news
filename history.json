@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli settler attacks show new level of violence, organisation - Al Jazeera",
-      "pubDate": "Thu, 24 Jul 2025 19:44:02 GMT"
-    },
-    {
       "title": "Trump tells Israel to \u2018finish the job\u2019 against Hamas weeks after suggesting ceasefire deal in sight - CNN",
       "pubDate": "Fri, 25 Jul 2025 19:43:00 GMT"
     },
@@ -199,6 +195,10 @@
     {
       "title": "Trump says Canada's move to recognise Palestinian state threatens trade deal - BBC",
       "pubDate": "Thu, 31 Jul 2025 05:48:45 GMT"
+    },
+    {
+      "title": "Trump plans massive renovation of White House - Politico",
+      "pubDate": "Thu, 31 Jul 2025 19:07:00 GMT"
     }
   ],
   "russia": [
@@ -355,6 +355,10 @@
     {
       "title": "Hacker claims to have exposed Amazon's 'AI security theater' after exploiting its coding assistant with a simple factory reset prompt - PC Gamer",
       "pubDate": "Wed, 30 Jul 2025 16:17:28 GMT"
+    },
+    {
+      "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
+      "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
     }
   ],
   "financial_markets": [
@@ -671,6 +675,10 @@
     {
       "title": "Senate panel advances funding bill with $1 billion for Ukraine - The Hill",
       "pubDate": "Thu, 31 Jul 2025 16:05:00 GMT"
+    },
+    {
+      "title": "Kyiv toll rises to 15 as wave of Russian strikes defies Trump ceasefire demand - BBC",
+      "pubDate": "Thu, 31 Jul 2025 17:01:31 GMT"
     }
   ],
   "us_economy": [
@@ -931,6 +939,10 @@
     {
       "title": "Treasury Secretary Bessent says 'we have the makings of a deal' with China - CNBC",
       "pubDate": "Thu, 31 Jul 2025 11:42:41 GMT"
+    },
+    {
+      "title": "China uses \"dark fleet\" to buy oil from Iran and evade U.S. sanctions in international waters - CBS News",
+      "pubDate": "Thu, 31 Jul 2025 18:14:12 GMT"
     }
   ],
   "us_politics": [
@@ -1017,10 +1029,6 @@
     {
       "title": "US woman jailed for stealing identities to give North Koreans jobs - BBC",
       "pubDate": "Thu, 24 Jul 2025 20:28:42 GMT"
-    },
-    {
-      "title": "Confessions of a Laptop Farmer: How an American Helped North Korea\u2019s Wild Remote Worker Scheme - Bloomberg.com",
-      "pubDate": "Thu, 24 Jul 2025 19:23:44 GMT"
     },
     {
       "title": "Trump remains open to dialogue with Kim to achieve 'fully denuclearized' North Korea: White House - Korea JoongAng Daily",
@@ -1112,10 +1120,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Hackers breach intelligence website used by CIA - Washington Times",
-      "pubDate": "Thu, 24 Jul 2025 19:23:40 GMT"
-    },
     {
       "title": "A Failed Microsoft Security Patch Is the Latest Win for Chinese Hackers - Hindustan Times",
       "pubDate": "Fri, 25 Jul 2025 09:30:53 GMT"
@@ -1495,10 +1499,6 @@
   ],
   "space_exploration": [
     {
-      "title": "Wild new 'Skyfall' Mars mission would drop 6 scout helicopters onto the Red Planet from the air - Space",
-      "pubDate": "Thu, 24 Jul 2025 19:55:17 GMT"
-    },
-    {
       "title": "New Hope for Life on Mars: Study Finds Elusive Conditions for Liquid Water Still Exist - SciTechDaily",
       "pubDate": "Fri, 25 Jul 2025 08:50:57 GMT"
     },
@@ -1735,10 +1735,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Tesla dumped 75% of its bitcoin at one of the worst times, losing out on billions - CNBC",
-      "pubDate": "Thu, 24 Jul 2025 19:49:37 GMT"
-    },
-    {
       "title": "Bitcoin Slides as Fed Rate Cut Hopes Diminish - Bloomberg.com",
       "pubDate": "Fri, 25 Jul 2025 07:18:25 GMT"
     },
@@ -1919,6 +1915,10 @@
     {
       "title": "Mercedes-Benz pauses EV deliveries to the US as demand falters - Reuters",
       "pubDate": "Wed, 30 Jul 2025 13:21:32 GMT"
+    },
+    {
+      "title": "Charging ahead: Study reveals key to smarter, greener EV policies - Tech Xplore",
+      "pubDate": "Thu, 31 Jul 2025 13:09:04 GMT"
     }
   ],
   "mars": [
@@ -2191,10 +2191,6 @@
       "pubDate": "Thu, 24 Jul 2025 21:59:36 GMT"
     },
     {
-      "title": "US Quits Gaza Truce Talks, Blames \"Selfish\" Hamas For Failure - NDTV",
-      "pubDate": "Thu, 24 Jul 2025 19:27:44 GMT"
-    },
-    {
       "title": "Dozens of kids and adults in Gaza have starved to death in July as hunger surges - AP News",
       "pubDate": "Fri, 25 Jul 2025 00:27:00 GMT"
     },
@@ -2438,10 +2434,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "AI-Powered Cyber Attacks Utilize ML Algorithms to Deploy Malware and Circumvent Traditional Security - gbhackers.com",
-      "pubDate": "Thu, 24 Jul 2025 19:31:12 GMT"
-    },
     {
       "title": "New online safety measures to protect children from \u2018toxic algorithms\u2019 - The Independent",
       "pubDate": "Thu, 24 Jul 2025 21:30:00 GMT"
@@ -2733,6 +2725,10 @@
     {
       "title": "What prompts interest in climate change? - Yale Program on Climate Change Communication",
       "pubDate": "Thu, 31 Jul 2025 11:42:14 GMT"
+    },
+    {
+      "title": "What is climate change? A really simple guide - BBC",
+      "pubDate": "Thu, 31 Jul 2025 13:45:44 GMT"
     }
   ],
   "volcanoes": [
@@ -2789,6 +2785,10 @@
     {
       "title": "Amazon still the online retailer of choice as cloud business faces competition - Reuters",
       "pubDate": "Wed, 30 Jul 2025 10:28:35 GMT"
+    },
+    {
+      "title": "Pressure is on for Amazon to deliver strong Q2 earnings results following big beats by Google, Microsoft - Yahoo.co",
+      "pubDate": "Thu, 31 Jul 2025 17:25:09 GMT"
     }
   ],
   "military_and_defense": [
@@ -3190,10 +3190,6 @@
     }
   ],
   "atlantic_ocean": [
-    {
-      "title": "Massive 14-foot 1,600-pound great white shark emerges in water off Massachusetts - Boston 25 News",
-      "pubDate": "Thu, 24 Jul 2025 19:19:06 GMT"
-    },
     {
       "title": "National Hurricane Center now tracking 4 waves in Atlantic, Caribbean, rain from Gulf system - Treasure Coast News",
       "pubDate": "Fri, 25 Jul 2025 15:11:15 GMT"
