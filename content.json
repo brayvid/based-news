@@ -1,22 +1,42 @@
 {
-  "Climate Change": {
+  "Biology": {
     "articles": [
       {
-        "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjIydVhTZXBNaGx5RWNfUlVXYnlMQ09PdDVNRF9LaWhhSTN5d21CeHhpZmJUXzZ6Ry10Qjk2bHhWVlhvZWFBam4zZjBKMlpxR1dJRGF4cTRuc21KRTEwa2VSbVJMeVBtZjEyb29Gb3REQkxxbDUzdUVFOHl1cTk3T2x1NEJzZW9zT1dlRTFJeEJZVy01N1lKYzVkMHZMU2t6eWpTNFVVa25SekdJWGFCOXl1WV9oRXQ4T0pyMW94cWQwZw?oc=5",
-        "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
+        "title": "Scientists want to sequence all animals, fungi and plants on Earth - The Economist",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmFWTk9YOElxZzF6X0MxeTcybHgzSDFaY3J0dExGd0FBYjJ4RUhxTHhLUXFVNnkzam9GM19PZlhoX3Y3V2VJVWVNdGhvREE0eVN5b0dHdXZodDlIMGhBRU1HUUZkc1I1Ukt0Ql83cklxWDVLOHgzU1dZMXM0NTlSU1JFY2NtRkhORW5FYkFuazQ4Yy01eWNEMUY2X3dZaEpWNEZOcHEyWnk2VXJtcndPc3oyTWFpUUpnczRVVHJtM3FnQVU?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 13:02:38 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T14:00:29.069876+00:00"
+    "last_updated_ts": "2025-07-31T15:00:00.925068+00:00"
   },
-  "US Economy": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "US economy defies expectations with bumper 3% growth ahead of Fed rates decision - MSN",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVQxWHZ2eXltaC02QmR6eEgteUFOanJDcG5LQUhTTi1hdE9RMWFhbTlpVUdadXBpQ0RKOEJDNUU1cW1ablZ5VzhBbnY5bFJycVVIT0R5OTJrU2NMZF9LdzJiZXVUb0xRZmc2eVlYZWk1S3lYTUo4ZVYwRGNBU09HaHZweHRCVDVlUHlfY29HaXA4VlJEOHpJd3RtQjhaRDlNVGl2QmVmTUkzeEt1WWIxM0lucVF4c1RLLTJHdi0zQ2xTbGpRNVFMRFBPRQ?oc=5",
-        "pubDate": "Thu, 31 Jul 2025 03:18:15 GMT"
+        "title": "Trump wants deal to end Russia's war in Ukraine by Aug. 8, US tells UN - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHBLcV9HNTBRcnBRWWFIbm03V0dGS1RId292eHB3YjloaVNvOTFWWVIyQ25rc1BoRHYyRkF6X2pxbXhodGJCem9jeEFjdTh1dE9veklWUVVlNFJZT1FGTEJGb1MtSHVlT2hrLUJQNWoyUXpXYnJXYy1iT3hBZW1iMmJzcmVtRGlYR1hnX2k4ZWJXb21OMFJ2VjZxaEhta0puNmdwYW9TUE1ROHRfY1Q0?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 14:49:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T14:00:29.069876+00:00"
+    "last_updated_ts": "2025-07-31T15:00:00.925068+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Senate legislation would direct federal agencies to fortify against quantum computing cyber threats - CyberScoop",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE1RMmh0ZWFzS24yeWRsTkl3dHctWWg2QnEtaHNSaXVJOXJIaXduTUNoZVFWdlFaeUtJTXM3WlFBdjFRU0NjRjFvVHZNOGE4cnpabXpBYXVZUS1DNlppUHBqcFM0TUE5U1psX0lrRVBiakJqdDM0QndWVkZFcjNHWUJoNWFlTnpGWHdoM2Y5ZlUxaGhp?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 13:00:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-31T15:00:00.925068+00:00"
+  },
+  "Battery Technology": {
+    "articles": [
+      {
+        "title": "Scientists Are Turning the Earth Beneath Our Feet Into a Giant Battery - Popular Mechanics",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSF9NeTJjTkF3bnJCN2FieEJfOURuenY3NFlIbHlnbnJkcDB2c00wam9qX0pFMDNlTWJ1ZGZlUDRMV0huWFBOWlNLTEpnM0Ywc1FFeERyTjBjaC1JX3RZQ0ZiYkVtY0hHV2NHODVBQjJkbDljcnZlalBWTVdsc2E1ZW9rck9wVVpYTGlZa0V3?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 13:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-31T15:00:00.925068+00:00"
   }
 }
