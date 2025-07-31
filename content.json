@@ -1,42 +1,62 @@
 {
-  "Earthquakes": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Massive Russian earthquake struck on 'megathrust fault' - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTFXRDFqdUQ1QU9hdFRvVnJ1cmxLcmdkTlNPZGxrMmFWdzRrejM3YVVYb3VDQVdVc0p6eERFVWxfdTBkTXpIclphYXhQWm5tQ25fTjltenlRTmxhRjRBejZVbHpyZXVUQ2c0Rmd4NmdZank5RzdBRDZQNjFJdmdXT3NSX2hkdUFCaWN4TTZ2bHllWjZFQ2tNUmRpVHdHVG9QR3lDVVNQRi10eUk?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 16:44:56 GMT"
+        "title": "Russia\u2019s summer offensive is turning into an escalating crisis for Ukraine - CNN",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWExoNF9nY0Z0Ui15M2ZCZUFvdk9Yb3RydzhuSjBSUmd6RlFSV1pYVi1aRFhvOXFURnZnaTE1bjVIdWhBcTh3OVNjV19LQ2Q1M2Y5eHk3SlFOMkpZakZUVEVBTXNSRkRoSzZFdTF0UGg1aDhKR2ZyX0piZUJrQWtZR0JkOGJpNUNLSmlWM3NmR0h5R3B60gGaAUFVX3lxTE5UWnhrS0FkRlpkQXpvTm1YTjZKQ2tDQjNZVUt4aXpxdjF3VjQxeWNwYktLNkZXdnIzVlJVR1ZnYUIyMmtpUXNWZGdiUEY5UVBMazlSSGNUMTduTzVRT0NsSXpiT2REUnpRLTA3Wm9jN3dBcVJiQlI2ZFRHZUoxdUdTQ1ktZk5wV0g5eV96V1F3NUM4RVNkWXpOeEE?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 00:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T00:00:43.317384+00:00"
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
   },
-  "Cybersecurity": {
+  "Health": {
     "articles": [
       {
-        "title": "Army Secretary Directs West Point to Rescind Appointment of Biden-Era Cybersecurity Director - Military.com",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0JsMlFNTHEyWFFkVjdKVVhJcDg4Z3NsMnFQZDZnaFE2cFRrMEFfMXBJSDBpREJQbEw2TEp3dzlDMDhsY1ZHeVFRNzVmbTFtSnItcFJGOWQ2eFJwNkYzSmJ3cXBIeF9tSm9iR3o2cHBhd0JZWUE2eFU3SEZrSS10SU1jNlpSSHNvM1dmNmdqMmI4UWpUUjZZbTdIdTJxS21XdC1tMjk0Sy12RWVhVktVRnZ6clY5NThJZGlkU005SGlKT3dsZ3BqVnJVRmJFNzk3STQ0VTlIeW0?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 20:52:23 GMT"
+        "title": "Trump administration is launching a new private health tracking system with Big Tech\u2019s help - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1hsV0Z3aHozdm5aSkpfM1p5QlQ2OGt5OEpyLXpFdUhseElnU0dQcGg3bGZRb1NCZ1FyYzFZeTNfZEhrZDI5Q2hfbm5EWXhyWHQtcEV6ZXA3X0JTc2toUHBLQVdIVi1aUmdTa1VjenZHczkzZjFnamdCM0JuYVZxNEN2N0t5Q1dUTkZta0JDYTQ?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 22:20:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T00:00:43.317384+00:00"
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
   },
-  "Ethereum": {
+  "Energy Storage": {
     "articles": [
       {
-        "title": "Ethereum at 10: The top corporate ETH holders as Wall Street eyes crypto - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlh1TkRZYTNMbDJzeDRNYURrY0pKRWlkejZZRkJPNGFlcHltNGNwNEpXWnFXVGxoUmZ5OFQ4OGVhVW1acWRRbERUNFM5Z2dMTEl6a2dfQ2NuUVRTeEp3eWFxR2w4d2tpNUVYMVdkdjN6N0JETkltVlZhRGZvN21PMmRFYnBaZWE4ZmlEVmNjTERXdw?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 12:10:34 GMT"
+        "title": "Peak Energy just shipped the US\u2019s first grid-scale sodium-ion battery - Electrek",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHlDZk8wcmJtVUVfX0pfMFlzTFVnSlBGakJpYzRNUDctYWRfZ0JUUllzZWpucnBYQWdISXcyTlBsVzhQdGVhTk02a0ppZ2p4eXRzMS1kekdPRzNKb1hrNVZmRFVyQ2VBTEoyVHp3S0lPeFlhWERRZ0NXb0plTjRhd2pDT21fOFZNQWc?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 20:41:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T00:00:43.317384+00:00"
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
   },
-  "Artificial Intelligence": {
+  "Solar Power": {
     "articles": [
       {
-        "title": "Zuckerberg shares AI 'personal superintelligence' vision after spending billions on top talent - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rNWF2UTVkcFBPcnVSZ1B0c1lmTW5nRU5jWHpBdFFyMi1CbzZCMWxTQ1RsQnVQZGZKRE9iZ3hrYWRxNmdZM1p2OUExMnVYRzB3Y05QRko4STB5RVE4RVU1d0tiWHZmbDFDdFd2c2JMVDllaVFzQ1p5RXk0elozZ9IBgwFBVV95cUxOMFBaeXRIbHUyOEU3aDNNNUFQV2E1OUYyd1NielpkUUt5ZmlVdUExLW41ZEFFQlJRcmFGbjV4MVRhdm81QmlVOU9MYk5iQ19ORWNjVFNiclhpTU1YZHdRejNMQTV2UVdaNDA1NG8zWHJXMkEwdS0yRDdXeGNUVlhrNTVSSQ?oc=5",
-        "pubDate": "Wed, 30 Jul 2025 14:56:56 GMT"
+        "title": "15% increase in solar power production could significantly cut U.S. CO2 emissions, study finds - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjFNbmxMQVk3S3FsNDJDdHZtQWd6eTZDMmNMdW5xc3hQdDljWXhrbGZiNm5Jd19sWjlVdUlNQmdObGZGQUdxY1pkSmRFcFNuVm9uRFNpZ1RxQmVyZ3lQZFFOWTZFYUMtMlNnR3QxcDNJTHlaMGZLUGVmRk1iVUdwSHBobk5sRlVLaGdENXg3bFZWR2RfeWVnZG1MY2pmVjNpa205TkY4QTlGb1VqaDJzX3JVTlowU01EODFSTQ?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 22:48:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-07-31T00:00:43.317384+00:00"
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Modified EMICoRe Eigensolver Improves Variational Quantum Eigensolver Performance - Quantum Zeitgeist",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaF9fZGItNm8xQTJKaEQtWDNhYUNQSy11OU5yNUVpeFU0NkdCVWo0MWI2cnNKOVlHRGNzdWF0M2ZndFVNVUlSLTJMZnVnTzVJSm42ekd5cjVKdUxPRzl3VXZyYUZmeXhoS0VpX29tNktpdEFiR05uWmlYUjRJNjc2RERoY094Mm5vdlFta0JydGJRYmpZdTc0MUo0bUVjSlZrSlFNVTNHSUtSa0p1VktoNg?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 13:21:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
+  },
+  "Large Language Models": {
+    "articles": [
+      {
+        "title": "AI Models Often Use Stigmatizing Language - Legal Reader",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iYzRaVi1ueTRhRDljbFpoUWI4OUk1cnFBeFVZVnZWQUxseHkxaDQweXJYMGtSZF9JSUF5VllTTlRMa2RERjlUMnJXbWJhRHByZXJxYlBDT1ZITmJzWlhHcEFHLXlQdmlkblFaOFB5ZzBOaE4zMzdDRzR3?oc=5",
+        "pubDate": "Wed, 30 Jul 2025 15:26:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-07-31T01:00:31.821521+00:00"
   }
 }
