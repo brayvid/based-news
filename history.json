@@ -545,10 +545,6 @@
   ],
   "ukraine": [
     {
-      "title": "Why Ukraine's new anti-corruption law spells trouble for its EU hopes - Euronews.com",
-      "pubDate": "Thu, 24 Jul 2025 05:30:32 GMT"
-    },
-    {
       "title": "A new, faster, cheaper way to arm Ukraine supercharged key artillery production - Business Insider",
       "pubDate": "Thu, 24 Jul 2025 09:45:00 GMT"
     },
@@ -971,6 +967,10 @@
     {
       "title": "China Factory Activity Worsens as Exports Show Signs of Slowing - Bloomberg",
       "pubDate": "Thu, 31 Jul 2025 01:33:00 GMT"
+    },
+    {
+      "title": "China's July manufacturing activity contracts more than expected \u2014 declines for fourth-straight month - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 01:44:00 GMT"
     }
   ],
   "us_politics": [
@@ -1411,6 +1411,10 @@
     {
       "title": "Massive Russian earthquake struck on 'megathrust fault' - Reuters",
       "pubDate": "Wed, 30 Jul 2025 16:44:56 GMT"
+    },
+    {
+      "title": "Why one of the world\u2019s biggest earthquakes wasn\u2019t followed by a monster tsunami - The Washington Post",
+      "pubDate": "Thu, 31 Jul 2025 03:04:38 GMT"
     }
   ],
   "elon_musk": [
@@ -1849,6 +1853,10 @@
     {
       "title": "US seeks to claim $2.4M in Bitcoin seized from ransomware group - Cointelegraph",
       "pubDate": "Tue, 29 Jul 2025 06:28:25 GMT"
+    },
+    {
+      "title": "Bitcoin Price News: BTC Breaks Lower on Powell Stance - CoinDesk",
+      "pubDate": "Wed, 30 Jul 2025 19:48:50 GMT"
     }
   ],
   "fusion_power": [
@@ -1925,6 +1933,10 @@
     {
       "title": "OpenAI's CEO says he's scared of GPT-5 - TechRadar",
       "pubDate": "Mon, 28 Jul 2025 23:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
+      "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
     }
   ],
   "environment": [
@@ -2081,6 +2093,10 @@
     {
       "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - AOL.com",
       "pubDate": "Mon, 28 Jul 2025 03:27:34 GMT"
+    },
+    {
+      "title": "US lawmaker urges Senate to back Sanders' resolutions blocking arms sales to Israel - Anadolu Ajans\u0131",
+      "pubDate": "Wed, 30 Jul 2025 18:45:26 GMT"
     }
   ],
   "national_security": [
@@ -2975,6 +2991,10 @@
     {
       "title": "The hottest multilateral club doesn't include the US : The Indicator from Planet Money - NPR",
       "pubDate": "Tue, 29 Jul 2025 07:00:59 GMT"
+    },
+    {
+      "title": "Trump Targets India Over Tariffs and BRICS Membership Amid Trade Negotiations | Trump Tariffs - News18",
+      "pubDate": "Thu, 31 Jul 2025 02:29:33 GMT"
     }
   ],
   "earth's_magnetic_field": [
@@ -3661,6 +3681,12 @@
     {
       "title": "Russia blocks Ookla's online Speedtest service due to internet security threats - Reuters",
       "pubDate": "Wed, 30 Jul 2025 13:19:54 GMT"
+    }
+  ],
+  "meta": [
+    {
+      "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
+      "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
     }
   ]
 }
