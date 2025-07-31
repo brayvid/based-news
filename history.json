@@ -359,6 +359,10 @@
     {
       "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
       "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
+    },
+    {
+      "title": "Meta joins others at UPenn event to support AI that enhances public safety - Metro Philadelphia",
+      "pubDate": "Thu, 31 Jul 2025 20:21:58 GMT"
     }
   ],
   "financial_markets": [
@@ -487,6 +491,10 @@
     {
       "title": "Meta Platforms profits surge helps drive Zuckerberg\u2019s AI ambitions - BBC",
       "pubDate": "Thu, 31 Jul 2025 01:03:35 GMT"
+    },
+    {
+      "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like N.B.A. Stars. - The New York Times",
+      "pubDate": "Thu, 31 Jul 2025 15:07:16 GMT"
     }
   ],
   "climate": [
@@ -1235,10 +1243,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Trump visits Federal Reserve and tussles with Jerome Powell in extraordinary moment - NPR",
-      "pubDate": "Thu, 24 Jul 2025 21:07:41 GMT"
-    },
-    {
       "title": "Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign - AP News",
       "pubDate": "Thu, 24 Jul 2025 23:55:00 GMT"
     },
@@ -1292,10 +1296,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
-      "pubDate": "Thu, 24 Jul 2025 21:47:17 GMT"
-    },
     {
       "title": "Yellowstone is hiding more than 80,000 earthquakes below its surface - The Weather Network",
       "pubDate": "Sat, 26 Jul 2025 00:08:00 GMT"
@@ -2145,6 +2145,10 @@
     {
       "title": "Is wind power really a \u2018con job\u2019? Fact-checking Trump\u2019s latest claims - Euronews.com",
       "pubDate": "Wed, 30 Jul 2025 05:00:23 GMT"
+    },
+    {
+      "title": "How the U.S. lost its lead in electric vehicles and other clean energy inventions - The Washington Post",
+      "pubDate": "Thu, 31 Jul 2025 17:00:43 GMT"
     }
   ],
   "global_health": [
@@ -2194,10 +2198,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel Puts the Mediterranean Sea Off-Limits to Gazans. Protests in Ukraine. - NPR",
-      "pubDate": "Thu, 24 Jul 2025 21:59:36 GMT"
-    },
     {
       "title": "Dozens of kids and adults in Gaza have starved to death in July as hunger surges - AP News",
       "pubDate": "Fri, 25 Jul 2025 00:27:00 GMT"
@@ -2443,10 +2443,6 @@
   ],
   "algorithms": [
     {
-      "title": "New online safety measures to protect children from \u2018toxic algorithms\u2019 - The Independent",
-      "pubDate": "Thu, 24 Jul 2025 21:30:00 GMT"
-    },
-    {
       "title": "Meta-Algorithms Efficiently Prepare Thermal States on Noisy Intermediate-Scale Quantum Devices - Quantum Zeitgeist",
       "pubDate": "Fri, 25 Jul 2025 15:46:24 GMT"
     },
@@ -2468,10 +2464,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Scientists May Have Found Life\u2019s Building Blocks In Planet-Forming Disk For First Time - Study Finds",
-      "pubDate": "Thu, 24 Jul 2025 21:33:05 GMT"
-    },
     {
       "title": "Cosmic Death Spiral: Astronomers Catch Planet in Final Orbit Before Destruction - SciTechDaily",
       "pubDate": "Fri, 25 Jul 2025 08:15:03 GMT"
@@ -2801,6 +2793,10 @@
     {
       "title": "Pressure is on for Amazon to deliver strong Q2 earnings results following big beats by Google, Microsoft - Yahoo.co",
       "pubDate": "Thu, 31 Jul 2025 17:25:09 GMT"
+    },
+    {
+      "title": "Amazon gloomy earnings forecast overshadows better-than-expected results - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 16:00:02 GMT"
     }
   ],
   "military_and_defense": [
@@ -3191,12 +3187,6 @@
       "pubDate": "Sun, 27 Jul 2025 14:00:00 GMT"
     }
   ],
-  "energy_transition": [
-    {
-      "title": "Oil \u2018does not guarantee stability\u2019: Colombia\u2019s environment minister on energy transition - Mongabay",
-      "pubDate": "Thu, 24 Jul 2025 21:41:05 GMT"
-    }
-  ],
   "atlantic_ocean": [
     {
       "title": "National Hurricane Center now tracking 4 waves in Atlantic, Caribbean, rain from Gulf system - Treasure Coast News",
@@ -3343,6 +3333,10 @@
     {
       "title": "Texas Leads Data Privacy Crackdown: Record Fines For Big Tech And AI - Dallas Express",
       "pubDate": "Sat, 26 Jul 2025 19:04:59 GMT"
+    },
+    {
+      "title": "Big data begins to crack the cold case of endometriosis - Medical Xpress",
+      "pubDate": "Thu, 31 Jul 2025 15:00:01 GMT"
     }
   ],
   "violence": [
@@ -3535,6 +3529,10 @@
     {
       "title": "Apple to open a Detroit manufacturing academy amid Trump onshoring pressures - Quartz",
       "pubDate": "Wed, 30 Jul 2025 07:08:16 GMT"
+    },
+    {
+      "title": "Apple reports biggest revenue growth since December 2021 - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -3611,6 +3609,12 @@
     {
       "title": "Russia's Putin meets Syrian FM in Moscow, Sharaa invited to Russia-Arab summit - Reuters",
       "pubDate": "Thu, 31 Jul 2025 15:50:58 GMT"
+    }
+  ],
+  "information_security": [
+    {
+      "title": "China Issues a Notice on DPO Reporting Requirements - Hunton Andrews Kurth LLP",
+      "pubDate": "Thu, 31 Jul 2025 15:31:09 GMT"
     }
   ]
 }
