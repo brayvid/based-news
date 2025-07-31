@@ -203,13 +203,13 @@
     {
       "title": "Trump's economy rebounds as growth jumps, consumer spending accelerates - Politico",
       "pubDate": "Wed, 30 Jul 2025 14:12:00 GMT"
+    },
+    {
+      "title": "Trump says Canada's move to recognise Palestinian state threatens trade deal - BBC",
+      "pubDate": "Thu, 31 Jul 2025 05:48:45 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Plane goes missing in Russia\u2019s Far East with nearly 50 aboard - CNN",
-      "pubDate": "Thu, 24 Jul 2025 06:23:00 GMT"
-    },
     {
       "title": "Russia Moves Jamming Systems Closer to NATO Border, Estonia Says - Bloomberg.com",
       "pubDate": "Thu, 24 Jul 2025 11:52:16 GMT"
@@ -292,10 +292,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI safety institutes remain focused despite politics, South Korean official says - MLex",
-      "pubDate": "Thu, 24 Jul 2025 06:22:00 GMT"
-    },
     {
       "title": "UK Deepens Dependence on US Tech with New OpenAI Partnership - Tech Policy Press",
       "pubDate": "Thu, 24 Jul 2025 13:32:49 GMT"
@@ -703,6 +699,10 @@
     {
       "title": "Soldiers in Ukraine battle Russian offensive as drones riddle the night sky - CNN",
       "pubDate": "Thu, 31 Jul 2025 00:38:26 GMT"
+    },
+    {
+      "title": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 6 - The New York Times",
+      "pubDate": "Thu, 31 Jul 2025 06:08:07 GMT"
     }
   ],
   "us_economy": [
@@ -740,10 +740,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s Xi urges EU to make \u2018the right strategic choice\u2019 amid international trade turbulence at key summit - CNN",
-      "pubDate": "Thu, 24 Jul 2025 06:47:00 GMT"
-    },
     {
       "title": "China Reacts to Deadly Thailand, Cambodia Border Fight - Newsweek",
       "pubDate": "Thu, 24 Jul 2025 08:31:54 GMT"
@@ -971,6 +967,10 @@
     {
       "title": "China's July manufacturing activity contracts more than expected \u2014 declines for fourth-straight month - CNBC",
       "pubDate": "Thu, 31 Jul 2025 01:44:00 GMT"
+    },
+    {
+      "title": "Nvidia\u2019s China-bound H20 AI chips face Beijing scrutiny over \u2018tracking\u2019 and security concerns - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 06:15:09 GMT"
     }
   ],
   "us_politics": [
@@ -1857,6 +1857,10 @@
     {
       "title": "Bitcoin Price News: BTC Breaks Lower on Powell Stance - CoinDesk",
       "pubDate": "Wed, 30 Jul 2025 19:48:50 GMT"
+    },
+    {
+      "title": "Bitcoin Price Dips Below $116,000 After White House Releases Digital Assets Report - Bitcoin Magazine",
+      "pubDate": "Wed, 30 Jul 2025 21:45:08 GMT"
     }
   ],
   "fusion_power": [
@@ -2797,6 +2801,10 @@
     {
       "title": "US reversal on key climate finding spells uncertainty for business - Reuters",
       "pubDate": "Wed, 30 Jul 2025 23:31:13 GMT"
+    },
+    {
+      "title": "DOE questions climate change consensus - Politico",
+      "pubDate": "Wed, 30 Jul 2025 22:09:53 GMT"
     }
   ],
   "volcanoes": [
@@ -3669,6 +3677,10 @@
     {
       "title": "Microsoft earnings are coming Wednesday. Here\u2019s what top analysts expect - CNBC",
       "pubDate": "Wed, 30 Jul 2025 13:59:10 GMT"
+    },
+    {
+      "title": "Microsoft Gives Azure Cloud Sales for First Time at $75 Billion - Bloomberg",
+      "pubDate": "Wed, 30 Jul 2025 20:27:49 GMT"
     }
   ],
   "mark_zuckerberg": [
@@ -3687,6 +3699,10 @@
     {
       "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
       "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
+    },
+    {
+      "title": "Meta Reality Labs Q2: $4.5B Loss Beats Expectations, Glasses Sales Triple - WebProNews",
+      "pubDate": "Wed, 30 Jul 2025 21:26:30 GMT"
     }
   ]
 }
