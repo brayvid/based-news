@@ -737,6 +737,10 @@
     {
       "title": "US Q2 GDP growth masks broader economic downturn - Al Jazeera",
       "pubDate": "Wed, 30 Jul 2025 17:29:12 GMT"
+    },
+    {
+      "title": "US economy surges in Q2 of 2025, exceeding expectations - Lynnwood Times",
+      "pubDate": "Thu, 31 Jul 2025 01:51:34 GMT"
     }
   ],
   "china": [
@@ -1157,6 +1161,10 @@
     {
       "title": "Trump hits Brazil with 50% tariffs, excludes aircraft, OJ, energy - Reuters",
       "pubDate": "Wed, 30 Jul 2025 20:21:10 GMT"
+    },
+    {
+      "title": "Trump escalates trade war with Canada following Palestine stance - Reuters",
+      "pubDate": "Thu, 31 Jul 2025 07:18:56 GMT"
     }
   ],
   "cybersecurity": [
@@ -1941,6 +1949,10 @@
     {
       "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
       "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
+    },
+    {
+      "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
     }
   ],
   "environment": [
@@ -2805,6 +2817,10 @@
     {
       "title": "DOE questions climate change consensus - Politico",
       "pubDate": "Wed, 30 Jul 2025 22:09:53 GMT"
+    },
+    {
+      "title": "Thousands of animal species face an imminent threat of extinction from climate change - Earth.com",
+      "pubDate": "Wed, 30 Jul 2025 20:29:32 GMT"
     }
   ],
   "volcanoes": [
@@ -3066,10 +3082,6 @@
     }
   ],
   "asia": [
-    {
-      "title": "Japan's Topix hits record high as Asia-Pacific stocks climb on trade deal optimism - CNBC",
-      "pubDate": "Thu, 24 Jul 2025 07:53:00 GMT"
-    },
     {
       "title": "US Ally Thailand Warns of War With Chinese-Backed Neighbor - Newsweek",
       "pubDate": "Fri, 25 Jul 2025 11:29:57 GMT"
@@ -3631,6 +3643,10 @@
     {
       "title": "A quantum physics theory was born 100 years ago that proved Einstein wrong - Australian Broadcasting Corporation",
       "pubDate": "Mon, 28 Jul 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Scientists Are Still Perplexed by Quantum Physics and Can\u2019t Agree on Its True Meaning, Landmark Survey Finds - The Debrief",
+      "pubDate": "Wed, 30 Jul 2025 21:11:56 GMT"
     }
   ],
   "apple": [
@@ -3703,6 +3719,18 @@
     {
       "title": "Meta Reality Labs Q2: $4.5B Loss Beats Expectations, Glasses Sales Triple - WebProNews",
       "pubDate": "Wed, 30 Jul 2025 21:26:30 GMT"
+    }
+  ],
+  "hydroelectric_power": [
+    {
+      "title": "Massive Canada To U.S. Power Transmission Project To Affect Traffic Along The Hudson - Patch",
+      "pubDate": "Thu, 31 Jul 2025 01:27:00 GMT"
+    }
+  ],
+  "income_tax_in_the_united_states": [
+    {
+      "title": "Trump announces 25 percent tariff on India and unspecified penalties for buying Russian oil - The Boston Globe",
+      "pubDate": "Thu, 31 Jul 2025 02:15:00 GMT"
     }
   ]
 }
