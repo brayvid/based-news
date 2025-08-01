@@ -1,42 +1,12 @@
 {
-  "AI Safety": {
+  "Russia": {
     "articles": [
       {
-        "title": "Anthropic CEO talks about being labeled a doomer and his OpenAI departure - the-decoder.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG4wVW1IZmJDb0FMV1BHWWpCdUNLeGZJdVlkd0tFS2FVU3ZOc25WR1JVbkdrWk5QVXFUNk44STk4RHk1TmhjZUktSFBsanVncjhVdlVBRDNZV3prWGNqNHRkdnFaZHE5a2ZkSUlULXFWZnFZZEtqNTdOQnZleEY5MFBEcE9qMlNqN0FxUDdYaDZkNlZnT21HNUxJOUZEUl9kdWdVSE5EUk9IYnpRNUhMaFNaWXVWdHkx?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 14:22:48 GMT"
+        "title": "Putin says Russia\u2019s hypersonic missile has entered service and will be deployed in Belarus - CNN",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeEY3d1dOTGhKdVlRVUV2dlpTUDFXSXlsdC1nMGJnMUVKcG11RWU0ZHpIS0JrRU5jdVh1bjU3WGFPaGF1RWJ5M2Y4MjdHOHJHSy1Pa1NqM01kV2dvWTY1NkEwNGtnQ3R5MXRYLUNtY0NpVmQzOFVObm9YQnJDVTBrR21DWUVTRjA2N1FOSjk5dHo5OUxaVWfSAZsBQVVfeXFMTkVQRW11Y2JRempSU1dYWDZUVHhzVDVOcDhWTXVvMTlrUElZMXpvWXhXclNnT3lTcmw3dFREWDIyMTZfMWxtbWdsY05mb2dHM1JydElDNVAzVGt6Unhoc0dybzJvTnB2STd3eHZrcHNQdWNMMnVMYkFfTThydG9fNEpBaGpSNEl1UDg0NHdEMkxXbV84LTlGRjBLWHc?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 20:20:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T21:00:02.763640+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Trump fires BLS commissioner after weak jobs report and baseless claim of 'faked' stats - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm9adHJWVkF3WjBGMy0ycG5KNmZlS3hxNVlTaGxRLUFRVld1c3ZPUTVyT1E5TW1qM08yU2Yzb3k4TEtibzA1V1hBbl9VNDh2Q0JuTWNRZS1JaExUejhadTcyck1fSVp3MkFOeXFEYTdFWXBTaGRNLWY4bWs5c2xjR2dIUXfSAYoBQVVfeXFMT2dxa3hROVRyd2xaSUplQ29aSUd2ZXJIMjhZRzY4M3VZaTVTeERFNXhQc3pLUGVfNFQtZHdrc2FkUEw3T0ZiZ005Zks2dkVWeUwxUG1UWnpSaGVWenM3bS0zY0tKNXRBeHVlSHNKdTJjS294ODBXLUpBTjdHTHN3c2RWX202blIyMmNB?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 19:10:02 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T21:00:02.763640+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Kyiv apartment block strike marks the deadliest attack on Ukraine\u2019s capital since 2024 - CNN",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1hfTExkRzFOVy1tOUdFeEdhSFFaT3doM0dnZkNEcUYxWGZzdzZfZHIwRDRLcHk3MlJCejBCT1c0NzduMFhOWW1vQ2owV29GQUx3ek9pcU5LWXdQbjF2X2I1eEt3ZkV2RTRnbVh3UEw4cUxjTW9lZDktSnJTVkZaSnFzN2s1TFRxYU04Nlhn0gGTAUFVX3lxTE5YN1FSUEVhZ2RWaHhvV0M2QTZzWFpfNkpNa2wxQnNZbTdLTXloUHFrcDUxcUFKRTh3cEU2Z0pXc1VMNUpjR0gyTFNyTlRMNkJiY2lxQl81TFNfeXNjUEdBQjB5cTQ2LTBlQ3BBbEhfb1FoT2lMVUIzSnRneFRtTnpEc05XUDlQS0hFQjdzc1RXbmdhUQ?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 11:42:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T21:00:02.763640+00:00"
-  },
-  "Technology": {
-    "articles": [
-      {
-        "title": "Tesla must pay $329 million in damages after fatal Autopilot crash, jury says - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHc5WllEbzdGWXRTU2NQbkhGVl9wdzREaWVmWUxZNUplTjRzTmZKMFhvTFBBX0p0Rm9famszczFpQW92ZXdzdDNoQ1BVb0p5aW85eE9iNUQwMFB2am5JdVJjRDZxWmNfdmdVVzZKaTZhZE5NSGFEbmpnZnQ1dG1sUkJ4aEZiTWtJTGpnRURPNjM2dVkwdVFraXdOaUxvbWvSAaQBQVVfeXFMTjBIZ3BtRUVWeXhQU2E2VWJpUG5NMXhKbDllc0l1R0paa294ekxIX09WSklBVHljZXJfeU1yVkFnbHFscEw0V01KdXdQMEMtTXA1SWhEV2N5MXA5aGVYbXBRQnNXNWtHek96amhGbDU1SDNSdldBMExsSlZIZTZBU21vcWFROGJKU2I4N3pnZm41Z1NFellURmMzdXNDQnU5QWloTjE?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 18:20:53 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T21:00:02.763640+00:00"
+    "last_updated_ts": "2025-08-01T23:59:42.612502+00:00"
   }
 }
