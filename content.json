@@ -1,72 +1,62 @@
 {
-  "China": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "China's weak job market stirs boom-era nostalgia on social media - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTW95cWhTbndLdDgzMkREeUl4V3h0OGhhSlpqSE5ZYXdiOUduQlZVN3Z5VVNTOU9EQWZLVDZyOFVPQ0I4WFpNeDBGVWprTGVuMmFLMHh1VzFtTmNhTGhlMjRlTUo1WjFlY05JRzcteFlUcU1VUHlsX0dhdl9iZ3F3RXhFVUYtbDNUR1p6QVdYZ0RURXQzYV9YZi1tVWpPTFkyTDNPLWptalRTLWFqampQTzVlVDhpVmhHUmh1c3dDX3g4eUIzNGhaWGJXZXBVYUR4cUFOZDBQb3E?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 05:03:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump tariffs live: new rates on 92 countries released; Canada PM \u2018disappointed\u2019 at 35% levy - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDE0TVpzandSYkNFbmZDQUF6S1dPNTYyZzJibS1wbG92N2o4UjZKZGdQZHl6cGxCWXVKeEhmckxINkVFQzdYOUNOX3paUTRoT2pYaFkxQ1NBbkJTOS12cXpldG5jcGJvTzBXVWhEQmV4VF85REw2YU95TmpZV0VQLVVOcUFzQVJ6RzVLTzRvNlVwQWxYTHlzb2U1aENzTG9QRnZhenFUZEdTVjA5VFhmeWpfeXdKSFc1aE9xaDBDRVNlVUZw?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 05:43:29 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Gaza latest: 'Children are passing out from hunger' - US doctor in Gaza sounds alarm on starvation crisis - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2lKSWtvZFpHbDlGRHQyb000OUdITG9JNUtGVzh4NDE5UkJ5a0JaalRLaVdCUHJ3RHUtLTM3ck5sVjhKM2R6N0tqLWdQX3p3a0ZPM0VQU2Zfc3ROemV6QXRGZ3B1MGFEUHg5Wl8tQ1FWSmJ1R0F2OV9EX0NjWVJ3aEtJcnZhTFJvRGd4NXJvUnBmWUdXdkNtM2EyZm85MjdFeWc?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 05:32:07 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
-  },
-  "Microsoft": {
-    "articles": [
-      {
-        "title": "Microsoft briefly becomes the second company to hit $4 trillion in market value - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkFta09uei0wQllSaGVTb3FfY01vcnhUNjQwYTBfUnFqMWJrWmtWb1ZkWHp2NzNEbHU0cWF2LXFyVEt0NGk3ekg0UjIwWG5mdjVfcm9KMFZLUkVxSnk0bkEyRkwxbDZ4bF9sT1JneVRXUWFLR05vNHRGZnNsQUtMSXdJRXNKbkYwR0pOZHZWZ3pTdHpYc2lPOXBtckNXZ1BhTXF0eXEydkJpemhSeWtRU1pyWl9PblUzN3ZxV2FaUVpwT0E50gFWQVVfeXFMTXJCSWhiRjNjMXhMTjlxd2tfZVZ4OVNvQ2JjZl9ia1NiWVo4VU9GQzk0R2R0c1gtMWlyd19mNWFnM2RhWmplNVgwc2VkMmlCbkxtenhHUUE?oc=5",
-        "pubDate": "Thu, 31 Jul 2025 21:02:22 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
-  },
-  "NVIDIA": {
-    "articles": [
-      {
-        "title": "Nvidia Stock Hits a Record High After Microsoft, Meta\u2019s Blowout Earnings. Here\u2019s Why. - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUjFEWll2ZVZKS0RfaElBcXFUTFYxT1VBRUJRZHp4eTJYQWJBbjBhekkweW0yMmxMbFRDd2Y0bWpCencyaTJmVEJ1RjV3SnJVdUVVNlZVRTlVU0M4MlRGWHRNY3dUWjFLRnNhNkRiYk4tMWt1TnVrczdlSEMzb0NmVlM4VC0xOWNjQlpRaA?oc=5",
+        "title": "Exclusive: How Glu.ai blends brand safety with AI-driven commerce - SecurityBrief Australia",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXNIQ0pORTcyc0h6UklZQVNYUnVhUlEwQ21RVDJoWDRWanowSjdTLS1CWnpRdC1qMS0tN0NDUmpFNGw4TFNTMVMxa204UkpXX01CVlVNTnFVS2VmXy0tVnpsR1RvUVNRMWdOSl9RaDZWeFU1UE9saTJpUlhud3V3S0hUR1Z2cEVTbk5GdDNUUjk3ekRtMmRweXVFeVg1NFNo?oc=5",
         "pubDate": "Thu, 31 Jul 2025 21:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
   },
-  "Ethereum": {
+  "Climate": {
     "articles": [
       {
-        "title": "Ethereum researcher pitches \u2018Lean\u2019 network for quantum era - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44d3dfczBRRnFTeFlLOU9WR29LOHJ2QmxNcXlyQTJ5Z2V6UmdSM2V1TjNKbGF3WUpjM25xT0N0dFZkcEhTaUxKeUUwX2xOX0lScGh6eFhsTXd2cVBSNXRSbEdUREFqejB0UmJaS21lbDlTUHo5?oc=5",
-        "pubDate": "Thu, 31 Jul 2025 22:20:00 GMT"
+        "title": "Europe is breaking its reliance on American science - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2FIOXRMcFoycXNZT3RkSWZkWjd3REpabk9PN0xwR2p5VnpZQlZ5VEVJZnRra0wzcWhweVJVMjAwZXkxT1djYmdMemxVYTdNRzBkZzU3Y2pXc3Y4dTJERXAzOFZzZDVXSTg3SC1Nby0wTjRFenN1dnJmNDBtbHlhdlp0LURTaXB3U0pBZExqckxfYzZMM1VwRVZ6eS1DVzhFSE0yS3hyRkVCX3dnVnlDWENzblQ?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 05:06:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
   },
-  "Earthquakes": {
+  "Democracy": {
     "articles": [
       {
-        "title": "Massive Earthquake Could Strike Canada as Ancient Fault Line Wakes - ScienceAlert",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzlBN2FLRkRYSTBBczluc0Faa05uWHBXM2tLeUtHN3dEVE14YVZOUW9yU3ZRN3NiaXo1cTY2ZTZ4LUhVblNEY2xLWVVvN053Ml92MVctWUFjUFBLWF9EQjFEeGdpTlZ2QTEwQUdZWFZUY1N6UVZrMkhpRUEzNVFUT1huelAzRDd0VVRVNjNFNnFwNWVueEx5R3BKVQ?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 03:28:32 GMT"
+        "title": "Macao police arrest former pro-democracy lawmaker for colluding with foreign forces - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRlX1NNc3BqR0tqWFlmV0hYcWdRbU1TajFrTTFHZWRTMzZkb0diTE5FTDNKWUNCRlhHQjFnZF9IUmFqQWV6R0w0YTktUzJQR1VQWkEzWmNzQmU1OXBLS1RvaVl1RlpxWC10Nk4xYVN5LVJkaDNjNjU5NHEtbU94cjBkOTduSVVvQUx5SkRHT3JUYmVIdnFnMllsb0hockRHTEY0RQ?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 01:19:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T05:59:31.772783+00:00"
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Dollar Tree denies data breach - says hackers targeted its rival instead - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZZbmlmOWx4Q08waXF3SVA2N2tCY212MjBwM25HYmlGUFZkblNwLVFjRkxWOE5ibWdEX0Q0OUtqNkY1ZmdzWUJBQTNvQXhnRDNkSlEyN01TbUtLOU9VenA2QmZuYTMxQ1lYWjhHN2lQcVg3Y0Y1WGg3WWdmdS01NkJiUzA3bmF5bG1ja29lck41MWVMUnhLek9iTXlkX1VjQ0NrbXZmdDVIUkhX?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 00:03:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
+  },
+  "Blockchain": {
+    "articles": [
+      {
+        "title": "JPMorgan CEO Jamie Dimon says he believes in stablecoins and blockchain: CNBC Crypto World - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmswTlUtanVET1FGcVh2QU5ieFprX0NjSkl1QUp1eWpSbm0wTDJRNFZtc29nVk53SFNLNlgtaTVuQ21XXzBmT2ZyWi1vX1E3YmViZDRwN3Byd0NZRm1rMzNUNVhBc1JXMmhERlhRUkNyOTZoM0tnYVBpVUhHQW9NYXhDa0p2QmFpb2lYMWFrN3VaMDJ0YXNKd211ekNuTHNMWlJ4T2xkUWZyY092djYxNEl2RFlRUQ?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 19:06:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
+  },
+  "Elon Musk": {
+    "articles": [
+      {
+        "title": "Elon Musk gave Trump and the GOP $15M even as he was fighting with the president - Politico",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEw4bm8zSldrQ1piblBZV1JhNm10ZEg5WmpncmV6bVpEd0pEUFk3SDc3YXpFVmhGNVNaU1dkaU9SMUxLU0pZZ1o1RkdHWTVJTjNpY1JEblZ0cEMxTVhtdFE2cXZXeU5CZnhhbElNcGptQjlyRnd0eXozYi1ydzg1cWVFYw?oc=5",
+        "pubDate": "Thu, 31 Jul 2025 23:01:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-01T06:59:14.495752+00:00"
   }
 }
