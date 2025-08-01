@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump: 'I haven't thought about' pardoning Jeffrey Epstein accomplice Ghislaine Maxwell - CNBC",
-      "pubDate": "Fri, 25 Jul 2025 13:49:09 GMT"
-    },
-    {
       "title": "Trump administration latest: DOJ meets with Epstein associate for second day - CNN",
       "pubDate": "Fri, 25 Jul 2025 16:52:00 GMT"
     },
@@ -368,10 +364,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Google Just Released an A.I. Tool That Helps Historians Fill in Missing Words in Ancient Roman Inscriptions - Smithsonian Magazine",
-      "pubDate": "Fri, 25 Jul 2025 13:00:00 GMT"
-    },
     {
       "title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab - Reuters",
       "pubDate": "Fri, 25 Jul 2025 21:36:28 GMT"
@@ -1745,14 +1737,6 @@
   ],
   "fusion_power": [
     {
-      "title": "Nuclear breakthrough: French fusion reactor sustains reaction for 22 minutes - dixiesunnews.com",
-      "pubDate": "Fri, 25 Jul 2025 13:00:36 GMT"
-    },
-    {
-      "title": "America\u2019s Artificial Sun Is Here and It\u2019s Already Tearing the Country Apart Between Tech Elites, Climate Rebels, and Energy Giants - Sustainability Times",
-      "pubDate": "Fri, 25 Jul 2025 13:08:27 GMT"
-    },
-    {
       "title": "Partnership between energy giants brings limitless clean power closer to reality: 'A significant milestone' - The Cool Down",
       "pubDate": "Fri, 25 Jul 2025 21:15:00 GMT"
     },
@@ -1833,6 +1817,10 @@
     {
       "title": "OpenAI to build its first European data centre in Norway, with partners - Reuters",
       "pubDate": "Thu, 31 Jul 2025 14:34:36 GMT"
+    },
+    {
+      "title": "OpenAI raises $8.3 billion at $300 billion valuation, exceeding target - NYT - Investing.com",
+      "pubDate": "Fri, 01 Aug 2025 12:28:01 GMT"
     }
   ],
   "environment": [
@@ -2443,10 +2431,6 @@
   ],
   "physics": [
     {
-      "title": "Physicists discover new state of quantum matter - Phys.org",
-      "pubDate": "Fri, 25 Jul 2025 13:47:45 GMT"
-    },
-    {
       "title": "New experiment uses levitated magnets to search for dark matter - Physics World",
       "pubDate": "Mon, 28 Jul 2025 08:07:03 GMT"
     },
@@ -2867,12 +2851,6 @@
       "pubDate": "Thu, 31 Jul 2025 02:29:33 GMT"
     }
   ],
-  "earth's_magnetic_field": [
-    {
-      "title": "NASA Is Watching a Huge Anomaly Growing in Earth's Magnetic Field - ScienceAlert",
-      "pubDate": "Fri, 25 Jul 2025 13:01:30 GMT"
-    }
-  ],
   "united_states": [
     {
       "title": "FTC and private litigants increase scrutiny of Made in the USA claims - Reuters",
@@ -3141,28 +3119,14 @@
   ],
   "planetary_defense": [
     {
-      "title": "NASA or the Space Force: Who should protect Earth from dangerous asteroids? - Space",
-      "pubDate": "Fri, 25 Jul 2025 13:00:00 GMT"
-    },
-    {
       "title": "NASA experiments with asteroid Dimorphos to develop planetary defense technology - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Mon, 28 Jul 2025 07:30:00 GMT"
-    }
-  ],
-  "machine_learning": [
-    {
-      "title": "Scientists develop dynamic landslide prediction method using hydrological and machine learning data - Phys.org",
-      "pubDate": "Fri, 25 Jul 2025 13:00:03 GMT"
     }
   ],
   "financial_data": [
     {
       "title": "Half-Yearly Financial Report 2025 - volkswagen-group.com",
       "pubDate": "Fri, 25 Jul 2025 17:44:18 GMT"
-    },
-    {
-      "title": "US economic data quality a worry, authorities not acting urgently enough, experts say- Reuters poll - Reuters",
-      "pubDate": "Fri, 25 Jul 2025 13:10:14 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3485,6 +3449,10 @@
     {
       "title": "Apple crushes Wall Street expectations as iPhone sales soar - NBC News",
       "pubDate": "Thu, 31 Jul 2025 21:03:36 GMT"
+    },
+    {
+      "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
+      "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
     }
   ],
   "algorithmic_trading": [

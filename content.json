@@ -1,52 +1,22 @@
 {
-  "Donald Trump": {
+  "OpenAI": {
     "articles": [
       {
-        "title": "Trump, Term-Limited, Amasses $200 Million War Chest for Political Ambitions - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdm84VlByWk9rdllkWmdfVm1ybTdhVGcxYVdmTmVBT294VTFsQUk4TXkzaUh5dFpRdno3ZkRobkxsWEZaWHJGUnZlekQ0RVZSQy10ZzZ0RDBjeTlzaGZzbUVQTEVEdFc3cTR4WXl3V2pyY0x6aGFrXzFnYWxlS3JGdVR1eW0?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 02:53:49 GMT"
+        "title": "OpenAI raises $8.3 billion at $300 billion valuation, exceeding target - NYT - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYU55bEtjenhKQXhVQ01KU0phMDNMVDdXcWY3YlQ3d084dGV6Zml2Ylk3MnZMeFpFSm1wNG1zTjlIRWVOTzJUY0EwLXE0NDlIZE9xOXBQRkhXQ20xTW9MbS1rWnV1dm5RR1d3MFNDWDhxMDhKRHJuNUdxMEQyWGk5SVVyd09MeERMY3RIWjJMUVhYdjFYRjFqVl9HajZ2T3RUX3VRNFl5VE1WU05YNzdUOVpLNkpLc0h0QWsxUVZITDZlQ0x4YV9R?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 12:28:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T12:59:36.918848+00:00"
+    "last_updated_ts": "2025-08-01T13:59:47.090592+00:00"
   },
-  "Climate Change": {
+  "Apple": {
     "articles": [
       {
-        "title": "ICJ ruling expected to shape US climate lawsuits in defiance of Trump - Climate Home News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhlazNzSF9Uck9kMk5DZDk2U0IyTFN1eG1NeVBIcGdRTWZwMzlSdlBrWGJBc0RxSnBnU05taklUbEhOcE8ydTQwMFlUakVEVWJOeVhLNEUwdFU0RDYwRC00aDJIM3gtV1YwM205dFJ2ek4wYUlOMWYyejNIUE1IeERNNjlaUmxhRnc0d01vNTQ0VkFHSzUyYVlpRDNoZG1WaG1oeWRINlNmaTdJaXdvYzI5bTZ5dw?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 11:55:51 GMT"
+        "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQk01N2lkcmRieWctWnc0d0p2eXYtX2hUR0JlTG0tT3ZrdlRPNzlLR1ZtZ1g2a1JJdHJZUmVSWDF0Qi1GUTMyREp0cHNVS1kzSHRsUGZoWkNoYTNvSDNEd2ZaNms5NGhxLUVfOTRUTjBCMGZ1QWxWNlVRX2M0RDFLRENaNFdfVi1vaW81Wl9vM3ZyQnRwU3Z3bHhsSE1ZM0czd1pqVlQxUFBRdW5vR013MGgxWHk?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-01T12:59:36.918848+00:00"
-  },
-  "Tesla": {
-    "articles": [
-      {
-        "title": "Tesla sales drop again around Europe despite Model Y revamp - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVUxpbnNHOXN2WVpnT2xKcWJEXzFHdnRhZnFEMk5GRU4xUmhLM3ZrVVl2cm5vNjJZeVVXYzc0NkhCNjVaa2dnV1pnOEdKU3lCc1VvUEppa0dHWDlLcmcxcUVWd1ZwbFlRU093LXEyN1RiTk9EQkpOZUJQRm81bGxVRXgydnRUcW9wV19EcUFiOThEX2UyR0hhSjRtcFhtcF82U1RGTGl0dElwREFrcTRwQTZ5d08wekFzSjZFYTVleWxiazg?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 11:36:28 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T12:59:36.918848+00:00"
-  },
-  "SpaceX": {
-    "articles": [
-      {
-        "title": "SpaceX fires up Starship spacecraft ahead of 10th test flight (video, photos) - Space",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcUhrSkJaLXNXdnFrcl9qTVpmaXE4WTdYRDBFUVpNcjNoTDA4dzhNdUpXSklmaXBWMzBnejY5MktPQjl0djlPTXJrNkJkWHZwbVNCYWxNT0o3MVVwUWd2TlFaXy1mb21rUEZSN1k5RHF5V3FXeVVNT0dtTEFzdXJ4LTE5ZzNzSVlsYXpLQlBZT3VSNGlsTkdSdmhqNGpSa0F4cklUazNIMjNOajJCS3pPemR0Ul90cHBDakpkWTExSlJYV25rMmpIR2tBc1RlcXc?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 12:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T12:59:36.918848+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Slovenia becomes first EU country to impose arms embargo on Israel - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWh1WEtkRFMwYVlQY2UzUDZHZllZOTV3LThNbzZ6djVOY0wzUUl2Q2Y1Q0VwU0h2enNiNk80SUxyRUhLSUdDa043ZXhXbFJCd2lGRjRiZnN4TjdRX1FlS2dEcFl1cmxraFkxaHd6LTZJWjZVRjd4TThWdXQtVXdmNlptaUVSNW55VF9mNjdWY3FjX3BLRTdrUG80TDduaEVUeXYxSGJoVWpjd9IBrwFBVV95cUxQWE9PcFExRlBEYVlGamczMl9IT1lOQ2MxbS1Nd1p2ZlA3em9SakZ2YzVjc21TQmU4QkdhVTdybEJDSU1SdjByMzJZa2VWOXdPb2ZoSC1rMlVmejZhUXJISjRDclRlX2pTVEoxTWFFNUJJQkJRNTFkRXJLbTVucjdtZXRTQ0JSOWE2SGtueDRWa250UDFlbWt4NlhVUnZNNjZmczNzb0JwdHRoNVBWVWw0?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 11:52:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-01T12:59:36.918848+00:00"
+    "last_updated_ts": "2025-08-01T13:59:47.090592+00:00"
   }
 }
