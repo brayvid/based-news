@@ -85,10 +85,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump administration latest: DOJ meets with Epstein associate for second day - CNN",
-      "pubDate": "Fri, 25 Jul 2025 16:52:00 GMT"
-    },
-    {
       "title": "Trump Denies Being Told His Name Appeared In Jeffrey Epstein Files - Deadline",
       "pubDate": "Fri, 25 Jul 2025 21:02:00 GMT"
     },
@@ -497,16 +493,8 @@
   ],
   "ukraine": [
     {
-      "title": "Russia signals no Putin-Zelensky meeting until final peace talk stages - The Hill",
-      "pubDate": "Fri, 25 Jul 2025 16:21:00 GMT"
-    },
-    {
       "title": "Ukraine facing fierce fighting around eastern city of Pokrovsk, Zelenskiy says - Reuters",
       "pubDate": "Fri, 25 Jul 2025 21:35:17 GMT"
-    },
-    {
-      "title": "Ukraine Aims to Produce 1,000 Interceptor Drones a Day Amid Russian Air Threats - UNITED24 Media",
-      "pubDate": "Fri, 25 Jul 2025 16:55:34 GMT"
     },
     {
       "title": "Putin may be miscalculating Trump\u2019s resolve on Ukraine - Atlantic Council",
@@ -895,6 +883,10 @@
     {
       "title": "China Deploys Cannibal Mosquitoes to Battle Chikungunya Surge - Bloomberg",
       "pubDate": "Fri, 01 Aug 2025 05:03:00 GMT"
+    },
+    {
+      "title": "China's plan to stop Elon Musk's Starlink includes submarines that can shoot lasers into space - Fortune",
+      "pubDate": "Fri, 01 Aug 2025 12:58:00 GMT"
     }
   ],
   "us_politics": [
@@ -1080,10 +1072,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Microsoft Used China-Based Support for Multiple U.S. Agencies, Potentially Exposing Sensitive Data - ProPublica",
-      "pubDate": "Fri, 25 Jul 2025 16:05:00 GMT"
-    },
     {
       "title": "Microsoft Probes Suspected MAPP Leak Enabling Chinese Hackers to Exploit SharePoint Vulnerability - AInvest",
       "pubDate": "Sat, 26 Jul 2025 01:19:53 GMT"
@@ -1357,10 +1345,6 @@
   ],
   "cancer": [
     {
-      "title": "Cancer Carer Scammed Millions for Kim Jong Un From Suburban Home - The Daily Beast",
-      "pubDate": "Fri, 25 Jul 2025 16:24:00 GMT"
-    },
-    {
       "title": "RFK Jr. to Oust Advisory Panel on Cancer Screenings, WSJ Reports - Bloomberg.com",
       "pubDate": "Fri, 25 Jul 2025 22:13:31 GMT"
     },
@@ -1468,10 +1452,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "Planned Parenthood closing 2 Houston clinics amid 'heartbreaking' restructuring - Houston Chronicle",
-      "pubDate": "Fri, 25 Jul 2025 16:33:08 GMT"
-    },
     {
       "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
       "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
@@ -2119,10 +2099,6 @@
   ],
   "gaza": [
     {
-      "title": "Back in Gaza City again, IDF finds itself fighting \u2018infrastructure,\u2019 not terrorists - The Times of Israel",
-      "pubDate": "Fri, 25 Jul 2025 16:39:40 GMT"
-    },
-    {
       "title": "Israel says it is considering alternatives to ceasefire talks with Hamas, deepening uncertainty - apnews.com",
       "pubDate": "Fri, 25 Jul 2025 19:56:00 GMT"
     },
@@ -2135,20 +2111,12 @@
       "pubDate": "Fri, 25 Jul 2025 22:27:18 GMT"
     },
     {
-      "title": "Trump says Hamas will be \u2018hunted down\u2019 as Gaza ceasefire talks wane - Al Jazeera",
-      "pubDate": "Fri, 25 Jul 2025 16:21:38 GMT"
-    },
-    {
       "title": "Severe malnutrition in under-5s has tripled at Gaza City clinic, charity reports - The Guardian",
       "pubDate": "Fri, 25 Jul 2025 19:01:00 GMT"
     },
     {
       "title": "Netanyahu, Trump appear to abandon Gaza ceasefire negotiations with Hamas - Reuters",
       "pubDate": "Fri, 25 Jul 2025 20:04:41 GMT"
-    },
-    {
-      "title": "In hard-hitting human rights address, Guterres calls for urgent action on Gaza, authoritarianism and climate justice - UN News",
-      "pubDate": "Fri, 25 Jul 2025 16:34:53 GMT"
     },
     {
       "title": "Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com",
@@ -2321,6 +2289,10 @@
     {
       "title": "US envoy Witkoff visits Gaza aid distribution site as starvation crisis deepens - CNN",
       "pubDate": "Fri, 01 Aug 2025 07:26:00 GMT"
+    },
+    {
+      "title": "Israeli author David Grossman says his country is committing genocide in Gaza - The Guardian",
+      "pubDate": "Fri, 01 Aug 2025 15:30:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2657,6 +2629,10 @@
     {
       "title": "Climate change threatens yaks, herding culture in India\u2019s Ladakh - Al Jazeera",
       "pubDate": "Fri, 01 Aug 2025 13:41:15 GMT"
+    },
+    {
+      "title": "Scientists slam Trump administration climate report as a \u2018farce\u2019 full of misinformation - The Guardian",
+      "pubDate": "Fri, 01 Aug 2025 16:01:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2780,10 +2756,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Intel drops 9% as chipmaker's foundry business axes projects, struggles to find customers - CNBC",
-      "pubDate": "Fri, 25 Jul 2025 16:02:57 GMT"
-    },
     {
       "title": "Apple overcomes Trump's trade war, slow start in AI to deliver surprisingly strong quarter - SFGATE",
       "pubDate": "Thu, 31 Jul 2025 20:56:28 GMT"
@@ -3106,10 +3078,6 @@
     }
   ],
   "self-driving_cars": [
-    {
-      "title": "Data on autonomous vehicles reveals serious concerns - Land Line Media",
-      "pubDate": "Fri, 25 Jul 2025 16:09:32 GMT"
-    },
     {
       "title": "Another Chinese self-driving test: deadly results and lawbreaking in city ADAS use - Electrek",
       "pubDate": "Tue, 29 Jul 2025 13:00:00 GMT"
