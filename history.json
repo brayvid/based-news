@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump's approval sinks: Here's who's causing his numbers to crumble - Axios",
-      "pubDate": "Fri, 25 Jul 2025 10:33:58 GMT"
-    },
-    {
       "title": "Trump: 'I haven't thought about' pardoning Jeffrey Epstein accomplice Ghislaine Maxwell - CNBC",
       "pubDate": "Fri, 25 Jul 2025 13:49:09 GMT"
     },
@@ -194,14 +190,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia lifts lid on secretive drone factory as satellite images reveal rapid expansion at key site - CNN",
-      "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Russia\u2019s central bank speeds up rate cuts as war economy cools - Financial Times",
-      "pubDate": "Fri, 25 Jul 2025 10:45:53 GMT"
-    },
     {
       "title": "A minister\u2019s death tells Russia\u2019s elite it is no longer untouchable - washingtonpost.com",
       "pubDate": "Fri, 25 Jul 2025 14:00:57 GMT"
@@ -516,10 +504,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "The Shahed blitz: can Russian drone onslaught break Ukraine\u2019s resolve? - The Guardian",
-      "pubDate": "Fri, 25 Jul 2025 10:06:00 GMT"
-    },
     {
       "title": "Russia signals no Putin-Zelensky meeting until final peace talk stages - The Hill",
       "pubDate": "Fri, 25 Jul 2025 16:21:00 GMT"
@@ -919,6 +903,10 @@
     {
       "title": "China Racing to Stop Population From Plunging to World War II Levels - Newsweek",
       "pubDate": "Fri, 01 Aug 2025 08:00:01 GMT"
+    },
+    {
+      "title": "China Deploys Cannibal Mosquitoes to Battle Chikungunya Surge - Bloomberg",
+      "pubDate": "Fri, 01 Aug 2025 05:03:00 GMT"
     }
   ],
   "us_politics": [
@@ -1367,10 +1355,6 @@
       "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
     },
     {
-      "title": "Musk Immediately Throws Trump\u2019s Suck Up Attempt Back in His Face - The Daily Beast",
-      "pubDate": "Fri, 25 Jul 2025 10:04:00 GMT"
-    },
-    {
       "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics - CNBC",
       "pubDate": "Mon, 28 Jul 2025 00:30:00 GMT"
     },
@@ -1392,10 +1376,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Study uncovers how prostate cancer becomes deadly, offers hope for new treatments - Medical Xpress",
-      "pubDate": "Fri, 25 Jul 2025 10:50:01 GMT"
-    },
     {
       "title": "Ocean Sugar Makes Cancer Cells Explode - SciTechDaily",
       "pubDate": "Fri, 25 Jul 2025 12:29:12 GMT"
@@ -1574,10 +1554,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Kremlin's New Cryptocurrency: How A7A5 Could Help Russia Evade Sanctions - NDTV",
-      "pubDate": "Fri, 25 Jul 2025 10:42:03 GMT"
-    },
     {
       "title": "Woman convinced to deposit nearly $5,000 into cryptocurrency ATM in attempted scam - Cleveland.com",
       "pubDate": "Sat, 26 Jul 2025 22:34:00 GMT"
@@ -2393,6 +2369,10 @@
     {
       "title": "Gaza latest: 'Children are passing out from hunger' - US doctor in Gaza sounds alarm on starvation crisis - Sky News",
       "pubDate": "Fri, 01 Aug 2025 05:32:07 GMT"
+    },
+    {
+      "title": "Looting, chaos and Israeli gunfire prevent aid from reaching Gazans - The Washington Post",
+      "pubDate": "Fri, 01 Aug 2025 10:11:30 GMT"
     }
   ],
   "battery_technology": [
@@ -2522,10 +2502,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Caribbean leaders hail ICJ climate ruling as \u2018historic\u2019 win for small island states - The Guardian",
-      "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "We are undergoing unprecedented loss of freshwater across the planet - New Scientist",
       "pubDate": "Fri, 25 Jul 2025 19:22:46 GMT"
@@ -3129,10 +3105,6 @@
   ],
   "health": [
     {
-      "title": "Centene Stock Plummets After Earnings. The Health Insurer\u2019s Results Were Even Worse Than Feared. - Barron's",
-      "pubDate": "Fri, 25 Jul 2025 10:20:00 GMT"
-    },
-    {
       "title": "US health officials, tech executives to launch data-sharing plan, Bloomberg News reports - Reuters",
       "pubDate": "Sat, 26 Jul 2025 14:50:59 GMT"
     },
@@ -3150,10 +3122,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "The Supreme Court Has Hit Rock Bottom - The New Republic",
-      "pubDate": "Fri, 25 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "Trump Wins 6-3 Supreme Court Ruling \u2014 Sotomayor Leads Dissent - MSN",
       "pubDate": "Sat, 26 Jul 2025 09:43:18 GMT"
@@ -3409,6 +3377,10 @@
     {
       "title": "US Attorney Bill Essayli and immigration attorney examine DHS raids on Eyewitness Newsmakers - ABC7 Los Angeles",
       "pubDate": "Sun, 27 Jul 2025 15:55:11 GMT"
+    },
+    {
+      "title": "ICE detains police officer even after DHS system approved him for work - The Washington Post",
+      "pubDate": "Fri, 01 Aug 2025 03:22:39 GMT"
     }
   ],
   "atmospheric_science": [
