@@ -431,6 +431,10 @@
     {
       "title": "Top economist Brad DeLong to recent college grads: Don't blame AI for job struggles\u2014blame the sputtering economy - Fortune",
       "pubDate": "Sat, 02 Aug 2025 08:08:00 GMT"
+    },
+    {
+      "title": "Anthropic Tops OpenAI in Enterprise LLM Market with 32% Share - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 12:58:19 GMT"
     }
   ],
   "climate": [
@@ -653,6 +657,10 @@
     {
       "title": "US employers slash hiring as Trump advances a punishing trade agenda - AP News",
       "pubDate": "Fri, 01 Aug 2025 15:48:00 GMT"
+    },
+    {
+      "title": "US Labor Market Weakens Under Trump Tariffs: Job Losses and Recession Risks Rise - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 13:46:03 GMT"
     }
   ],
   "china": [
@@ -847,6 +855,10 @@
     {
       "title": "Trump\u2019s tariffs are sending African countries into China\u2019s hands - CNN",
       "pubDate": "Sat, 02 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "China\u2019s central bank vows to boost liquidity, cut borrowing costs in growth push - South China Morning Post",
+      "pubDate": "Sat, 02 Aug 2025 13:00:09 GMT"
     }
   ],
   "us_politics": [
@@ -1316,10 +1328,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "US scientists discover new early warning sign for deadly pancreatic cancer - Times of India",
-      "pubDate": "Sat, 26 Jul 2025 14:02:00 GMT"
-    },
     {
       "title": "Ovarian Cancer Cure Rate: What Patients Need to Know in 2025 - Oncodaily",
       "pubDate": "Sun, 27 Jul 2025 05:55:29 GMT"
@@ -1801,10 +1809,6 @@
   ],
   "hacking": [
     {
-      "title": "Tea app hacked: Images stolen from women's dating safety app that vets men - BBC",
-      "pubDate": "Sat, 26 Jul 2025 13:58:47 GMT"
-    },
-    {
       "title": "Russia\u2019s Aeroflot cancels flights after pro-Ukraine hackers claim cyber-attack | Airline industry - The Guardian",
       "pubDate": "Mon, 28 Jul 2025 11:38:00 GMT"
     },
@@ -1912,10 +1916,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
-      "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
-    },
     {
       "title": "Support Eastern Shipbuilding for economic, national security reasons | Opinion - Panama City News Herald",
       "pubDate": "Sun, 27 Jul 2025 09:10:49 GMT"
@@ -2049,10 +2049,6 @@
     {
       "title": "At least 57 killed in Gaza in 24 hours as Israel withdraws from ceasefire talks - The Guardian",
       "pubDate": "Sat, 26 Jul 2025 16:34:00 GMT"
-    },
-    {
-      "title": "LIVE: Israeli army surrounds Gaza-bound aid ship as attacks kill 71 today - Al Jazeera",
-      "pubDate": "Sat, 26 Jul 2025 14:24:03 GMT"
     },
     {
       "title": "More Gazans starve to death as aid agencies warn airdrops won\u2019t alleviate crisis - CNN",
@@ -2254,10 +2250,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "How Energy-Hungry Algorithms Are Fueling the Climate Crisis: The Hidden Cost of AI - LA Progressive",
-      "pubDate": "Sat, 26 Jul 2025 14:22:24 GMT"
-    },
     {
       "title": "Dead or 'unalive'? How social platforms \u2014 and algorithms \u2014 are shaping the way we talk - CBC",
       "pubDate": "Sun, 27 Jul 2025 08:00:00 GMT"
@@ -2535,12 +2527,6 @@
     {
       "title": "Indonesia\u2019s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away - AP News",
       "pubDate": "Sat, 02 Aug 2025 04:19:00 GMT"
-    }
-  ],
-  "cosmology": [
-    {
-      "title": "Is Our Universe Inside A Black Hole? JWST\u2019s New Findings Suggest It Might Be - The Daily Galaxy",
-      "pubDate": "Sat, 26 Jul 2025 14:35:00 GMT"
     }
   ],
   "european_union": [
@@ -2839,10 +2825,6 @@
   ],
   "hurricanes": [
     {
-      "title": "What does the ACE index tell us about hurricane season? - WVTM",
-      "pubDate": "Sat, 26 Jul 2025 14:20:00 GMT"
-    },
-    {
       "title": "Hurricane season warning signs pile up. Brace for a dangerous August. - USA Today",
       "pubDate": "Sun, 27 Jul 2025 10:05:32 GMT"
     },
@@ -2908,10 +2890,6 @@
     }
   ],
   "health": [
-    {
-      "title": "US health officials, tech executives to launch data-sharing plan, Bloomberg News reports - Reuters",
-      "pubDate": "Sat, 26 Jul 2025 14:50:59 GMT"
-    },
     {
       "title": "How nanoplastics may be impacting our long-term health - CBS News",
       "pubDate": "Sat, 26 Jul 2025 22:48:00 GMT"
@@ -3365,6 +3343,12 @@
     {
       "title": "US appeals court keeps ban on LA immigration arrests - Yahoo Home",
       "pubDate": "Sat, 02 Aug 2025 09:48:02 GMT"
+    }
+  ],
+  "quantum": [
+    {
+      "title": "First Quantum Bit Made of Antimatter Captured in Physics Breakthrough - ScienceAlert",
+      "pubDate": "Sat, 02 Aug 2025 12:01:38 GMT"
     }
   ]
 }
