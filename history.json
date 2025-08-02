@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump calls on Thailand and Cambodia to cease fire and talk trade - BBC",
-      "pubDate": "Sat, 26 Jul 2025 18:13:03 GMT"
-    },
-    {
       "title": "Trump faces protests in Scotland as European Union deal unfolds - MSN",
       "pubDate": "Sat, 26 Jul 2025 23:53:39 GMT"
     },
@@ -439,10 +435,6 @@
   ],
   "climate": [
     {
-      "title": "Canadian wildfires prompt New York air quality alert - BBC",
-      "pubDate": "Sat, 26 Jul 2025 18:41:35 GMT"
-    },
-    {
       "title": "To host UN climate talks, Brazil chose one of its poorer cities. That\u2019s no accident - AP News",
       "pubDate": "Sun, 27 Jul 2025 13:00:00 GMT"
     },
@@ -603,6 +595,10 @@
     {
       "title": "Ukraine says it uncovers major drone procurement corruption scheme - Reuters",
       "pubDate": "Sat, 02 Aug 2025 16:03:24 GMT"
+    },
+    {
+      "title": "Ukraine claims attacks on Russian drone storage airbase and military plant - Euronews.com",
+      "pubDate": "Sat, 02 Aug 2025 10:49:07 GMT"
     }
   ],
   "us_economy": [
@@ -665,6 +661,10 @@
     {
       "title": "US Labor Market Weakens Under Trump Tariffs: Job Losses and Recession Risks Rise - WebProNews",
       "pubDate": "Sat, 02 Aug 2025 13:46:03 GMT"
+    },
+    {
+      "title": "US Treasury Yields Hit Lows on Weak Jobs Data, Igniting Recession Fears - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 13:54:02 GMT"
     }
   ],
   "china": [
@@ -936,10 +936,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "The Democratic Party\u2019s Brand Is Cooked - Rolling Stone",
-      "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
-    },
     {
       "title": "A Florida Democratic Party revival? It may take decades to overcome GOP, experts say - Tallahassee Democrat",
       "pubDate": "Tue, 29 Jul 2025 09:06:10 GMT"
@@ -1611,10 +1607,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Global Liquidity Surge Sets Stage for Bitcoin Price Explosion - Bitcoin.com News",
-      "pubDate": "Sat, 26 Jul 2025 18:16:40 GMT"
-    },
-    {
       "title": "Has Bitcoin Been Co-Opted? Ancient Whale's Sale Examined - Bitcoin.com News",
       "pubDate": "Sun, 27 Jul 2025 14:41:11 GMT"
     },
@@ -1871,10 +1863,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI\u2019s Sam Altman Eyes 100M GPUs in $3T Push for AGI Dominance - WebProNews",
-      "pubDate": "Sat, 26 Jul 2025 18:22:22 GMT"
-    },
-    {
       "title": "AI \u2018Godfather\u2019 Geoffrey Hinton Urges Global AI Cooperation at WAIC 2025 in Shanghai - Pandaily",
       "pubDate": "Sun, 27 Jul 2025 01:01:55 GMT"
     },
@@ -1897,6 +1885,10 @@
     {
       "title": "AI is entering an 'unprecedented regime.' Should we stop it \u2014 and can we \u2014 before it destroys us? - livescience.com",
       "pubDate": "Fri, 01 Aug 2025 16:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Raises $8.3B, Hits $300B Valuation in AGI Funding Round - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 17:02:03 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2717,10 +2709,6 @@
   ],
   "terrorism": [
     {
-      "title": "9 dead, 22 injured in 'terrorist' attack in Iran - upi.com",
-      "pubDate": "Sat, 26 Jul 2025 18:49:50 GMT"
-    },
-    {
       "title": "US forces capture ISIS finance chief in Somalia - Task & Purpose",
       "pubDate": "Sat, 26 Jul 2025 19:05:06 GMT"
     },
@@ -2933,12 +2921,6 @@
     {
       "title": "Waymo to launch driverless vehicles in Dallas, company announces - WFAA",
       "pubDate": "Tue, 29 Jul 2025 13:02:00 GMT"
-    }
-  ],
-  "investment": [
-    {
-      "title": "US-Japan trade deal gives Trump control over $550 billion. It could be 'vapor ware' - Fortune",
-      "pubDate": "Sat, 26 Jul 2025 18:27:00 GMT"
     }
   ],
   "technology": [
