@@ -607,10 +607,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economy defies expectations, Mohamed A El-Erian states - Traders Union",
-      "pubDate": "Sat, 26 Jul 2025 20:00:09 GMT"
-    },
-    {
       "title": "EU walks back $600B investment promise hours after Trump trade deal rollout - The Independent",
       "pubDate": "Mon, 28 Jul 2025 18:34:00 GMT"
     },
@@ -866,10 +862,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Pentagon ends lie detector sweep as Hegseth faces leak probe - Yahoo Home",
-      "pubDate": "Sat, 26 Jul 2025 20:00:16 GMT"
-    },
     {
       "title": "Trump administration live updates: President discusses trade and Gaza with U.K. Prime Minister Keir Starmer during Scotland visit - NBC News",
       "pubDate": "Mon, 28 Jul 2025 23:51:35 GMT"
@@ -1145,6 +1137,10 @@
     {
       "title": "Shock jobs report stirs recession fears: 5 takeaways - USA Today",
       "pubDate": "Fri, 01 Aug 2025 19:02:40 GMT"
+    },
+    {
+      "title": "'Recession indicators' flood TikTok in US: Labubus, lipsticks and low-rise jeans trigger panic - The Economic Times",
+      "pubDate": "Sat, 02 Aug 2025 15:28:10 GMT"
     }
   ],
   "drones": [
@@ -1299,6 +1295,10 @@
     {
       "title": "Map: 4.3-Magnitude Earthquake Strikes Southern California - The New York Times",
       "pubDate": "Sat, 02 Aug 2025 07:00:09 GMT"
+    },
+    {
+      "title": "Magnitude 5.7 earthquake hits Mexico\u2019s Oaxaca region, GFZ says - The Indian Express",
+      "pubDate": "Sat, 02 Aug 2025 18:37:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1534,10 +1534,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "NASA update on 'airplane sized' asteroid and when it will make 'close approach' to Earth - Liverpool Echo",
-      "pubDate": "Sat, 26 Jul 2025 20:00:00 GMT"
-    },
     {
       "title": "Researchers Believe That Heliostats Can Detect Asteroids - Orbital Today",
       "pubDate": "Mon, 28 Jul 2025 02:02:07 GMT"
@@ -1831,10 +1827,6 @@
     {
       "title": "Illinois takes leap in quantum computing with headquarters announcement - MyStateline",
       "pubDate": "Sat, 26 Jul 2025 22:15:28 GMT"
-    },
-    {
-      "title": "Recommended Reading: A Framework for Quantum Advantage - Quantum Computing Report",
-      "pubDate": "Sat, 26 Jul 2025 20:46:18 GMT"
     },
     {
       "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
@@ -2305,10 +2297,6 @@
   ],
   "climate_change": [
     {
-      "title": "Longer, more intense, and more damaging: Marine heatwaves are on the rise - Digital Journal",
-      "pubDate": "Sat, 26 Jul 2025 20:02:13 GMT"
-    },
-    {
       "title": "EPA set to strike down legal foundation that underpins all major climate regulations - reports - Seeking Alpha",
       "pubDate": "Sun, 27 Jul 2025 00:15:00 GMT"
     },
@@ -2579,6 +2567,10 @@
     {
       "title": "Senate panel OKs plans for $852 billion in defense spending next year - Military Times",
       "pubDate": "Thu, 31 Jul 2025 15:19:18 GMT"
+    },
+    {
+      "title": "Ukraine Allocates $232 Million to Drones, Logistics After 22,700 Successful Strikes in July - UNITED24 Media",
+      "pubDate": "Sat, 02 Aug 2025 12:46:09 GMT"
     }
   ],
   "world_news": [
@@ -2719,6 +2711,10 @@
     {
       "title": "Michigan authorities seek to file terrorism charges in Walmart stabbing attack - CBS News",
       "pubDate": "Sun, 27 Jul 2025 19:17:54 GMT"
+    },
+    {
+      "title": "Hamas claims of famine disputed after terrorist arm exposed - The Jerusalem Post",
+      "pubDate": "Sat, 02 Aug 2025 20:00:36 GMT"
     }
   ],
   "asia": [
@@ -2889,12 +2885,6 @@
     {
       "title": "SCOTUS Could Be Set to End Key Protection for Minority Voters - Democracy Docket",
       "pubDate": "Sat, 02 Aug 2025 00:45:59 GMT"
-    }
-  ],
-  "atlantic_ocean": [
-    {
-      "title": "Ancient 'lost city' found at bottom of the Atlantic Ocean holds clue to origins of life - MSN",
-      "pubDate": "Sat, 26 Jul 2025 20:28:47 GMT"
     }
   ],
   "solar_power": [
@@ -3187,6 +3177,10 @@
     {
       "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
       "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
+    },
+    {
+      "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
+      "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -3315,6 +3309,12 @@
     {
       "title": "Scientists Just Admitted Nobody Really Gets Quantum Physics - ScienceAlert",
       "pubDate": "Sat, 02 Aug 2025 15:01:38 GMT"
+    }
+  ],
+  "oceans": [
+    {
+      "title": "Scientists Found a Mysterious Barrier in The Ocean That Jellyfish Won't Cross - ScienceAlert",
+      "pubDate": "Sat, 02 Aug 2025 19:01:45 GMT"
     }
   ]
 }
