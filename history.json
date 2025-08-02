@@ -855,6 +855,10 @@
     {
       "title": "China\u2019s central bank vows to boost liquidity, cut borrowing costs in growth push - South China Morning Post",
       "pubDate": "Sat, 02 Aug 2025 13:00:09 GMT"
+    },
+    {
+      "title": "Travel Warning Issued for China Amid Mosquito-Borne Virus Outbreak - Newsweek",
+      "pubDate": "Sat, 02 Aug 2025 21:11:21 GMT"
     }
   ],
   "us_politics": [
@@ -1137,10 +1141,6 @@
   ],
   "drones": [
     {
-      "title": "Russian drones attack Kharkiv, explosions heard in city - Ukrinform",
-      "pubDate": "Sat, 26 Jul 2025 22:27:00 GMT"
-    },
-    {
       "title": "Software group Auterion to ship 33,000 AI drone \u2018strike kits\u2019 to Ukraine - Financial Times",
       "pubDate": "Sun, 27 Jul 2025 04:00:39 GMT"
     },
@@ -1291,6 +1291,10 @@
     {
       "title": "Magnitude 5.7 earthquake hits Mexico\u2019s Oaxaca region, GFZ says - The Indian Express",
       "pubDate": "Sat, 02 Aug 2025 18:37:00 GMT"
+    },
+    {
+      "title": "Magnitude 3.1 earthquake shakes Big Bear Lake - KTLA",
+      "pubDate": "Sat, 02 Aug 2025 18:30:13 GMT"
     }
   ],
   "elon_musk": [
@@ -1313,6 +1317,10 @@
     {
       "title": "Elon Musk spent millions on Republican candidates despite feud with Donald Trump - Financial Times",
       "pubDate": "Thu, 31 Jul 2025 23:43:03 GMT"
+    },
+    {
+      "title": "Elon Musk Warns of Losing Tesla Control, Denies Personal Loans Tied To Shares - Benzinga",
+      "pubDate": "Sat, 02 Aug 2025 19:46:31 GMT"
     }
   ],
   "cancer": [
@@ -1458,10 +1466,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Woman convinced to deposit nearly $5,000 into cryptocurrency ATM in attempted scam - Cleveland.com",
-      "pubDate": "Sat, 26 Jul 2025 22:34:00 GMT"
-    },
     {
       "title": "Crypto lenders make risky comeback with unsecured loans, AI tools: FT (BTC-USD:Cryptocurrency) - Seeking Alpha",
       "pubDate": "Sun, 27 Jul 2025 12:43:01 GMT"
@@ -1816,10 +1820,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Illinois takes leap in quantum computing with headquarters announcement - MyStateline",
-      "pubDate": "Sat, 26 Jul 2025 22:15:28 GMT"
-    },
     {
       "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
       "pubDate": "Mon, 28 Jul 2025 11:00:00 GMT"
@@ -2633,10 +2633,6 @@
   ],
   "central_intelligence_agency": [
     {
-      "title": "Retired CIA official rebuts Gabbard\u2019s claims about US intelligence on Russian election interference - News Channel 3-12",
-      "pubDate": "Sat, 26 Jul 2025 22:33:38 GMT"
-    },
-    {
       "title": "CIA director: New secret documents will expose FBI\u2019s role in Trump-Russia hoax - Washington Times",
       "pubDate": "Sun, 27 Jul 2025 18:52:40 GMT"
     },
@@ -2861,10 +2857,6 @@
   ],
   "health": [
     {
-      "title": "How nanoplastics may be impacting our long-term health - CBS News",
-      "pubDate": "Sat, 26 Jul 2025 22:48:00 GMT"
-    },
-    {
       "title": "US judge blocks Trump\u2019s effort to defund reproductive health organisation - Al Jazeera",
       "pubDate": "Mon, 28 Jul 2025 17:08:32 GMT"
     },
@@ -3053,6 +3045,10 @@
     {
       "title": "Deep-sea fish just changed what we know about Earth\u2019s carbon cycle - ScienceDaily",
       "pubDate": "Sun, 27 Jul 2025 13:10:15 GMT"
+    },
+    {
+      "title": "Scientists fight back against Energy Department's 'antiscientific' and 'deceptive' climate report - Daily Kos",
+      "pubDate": "Sat, 02 Aug 2025 22:04:08 GMT"
     }
   ],
   "democracy": [
@@ -3115,6 +3111,10 @@
     {
       "title": "FBI investigates Texas cruise ship death. What we know about the Carnival Dream case - Austin American-Statesman",
       "pubDate": "Mon, 28 Jul 2025 14:17:56 GMT"
+    },
+    {
+      "title": "Long Beach man pledged allegiance to ISIS, built homemade bomb: FBI - KTLA",
+      "pubDate": "Sat, 02 Aug 2025 16:22:52 GMT"
     }
   ],
   "new_york_city": [
@@ -3321,6 +3321,12 @@
     {
       "title": "After a historic economic week, stagflation fears are back - Axios",
       "pubDate": "Sat, 02 Aug 2025 11:23:54 GMT"
+    }
+  ],
+  "us_senate": [
+    {
+      "title": "Republican Senate candidates seeking to replace McConnell aim to define themselves at Fancy Farm - WTAJ",
+      "pubDate": "Sat, 02 Aug 2025 14:45:54 GMT"
     }
   ]
 }
