@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli Parliament Votes for Making Apartheid Official. Fetterman: \u201cI Haven\u2019t Been Following It.\u201d - The Intercept",
-      "pubDate": "Sat, 26 Jul 2025 10:00:00 GMT"
-    },
-    {
       "title": "Israel, Syria Hold Talks to Reach Security Agreement to End Israeli Attacks, Source Says - Haaretz",
       "pubDate": "Sun, 27 Jul 2025 17:01:00 GMT"
     },
@@ -72,10 +68,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump's distraction methods fall flat against Epstein uproar - Reuters",
-      "pubDate": "Sat, 26 Jul 2025 10:04:37 GMT"
-    },
     {
       "title": "Trump\u2019s War On Sanctuary Cities Dealt Major Blow\u2014But He Finds A New Battle - Time Magazine",
       "pubDate": "Sat, 26 Jul 2025 16:25:53 GMT"
@@ -166,10 +158,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia\u2019s Once-Hot War Economy Shows More Cracks - Bloomberg.com",
-      "pubDate": "Sat, 26 Jul 2025 10:45:05 GMT"
-    },
     {
       "title": "Russia could be ready for 'confrontation with Europe' by 2027, Polish prime minister says - The Kyiv Independent",
       "pubDate": "Sat, 26 Jul 2025 12:57:35 GMT"
@@ -340,10 +328,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Huawei shows off AI computing system to rival Nvidia's top product - Reuters",
-      "pubDate": "Sat, 26 Jul 2025 10:11:16 GMT"
-    },
     {
       "title": "Meta chief AI scientist Yann LeCun clarifies his role after the company hires another chief AI scientist - Business Insider",
       "pubDate": "Sat, 26 Jul 2025 19:50:00 GMT"
@@ -607,6 +591,10 @@
     {
       "title": "Russia Used Very Fast Jet Drones in Devastating Kyiv Attacks - Technology Org",
       "pubDate": "Fri, 01 Aug 2025 21:00:57 GMT"
+    },
+    {
+      "title": "Trump Warns Putin May Try to Seize All of Ukraine, Threatens Sanctions by August 8 - UNITED24 Media",
+      "pubDate": "Sat, 02 Aug 2025 09:51:57 GMT"
     }
   ],
   "us_economy": [
@@ -937,13 +925,13 @@
     {
       "title": "Trump fires US labor official over data and gets earlier than expected chance to reshape Fed - Reuters",
       "pubDate": "Fri, 01 Aug 2025 23:41:39 GMT"
+    },
+    {
+      "title": "Republicans Are Clobbering Democrats in Super PAC Fund-Raising - The New York Times",
+      "pubDate": "Fri, 01 Aug 2025 23:20:21 GMT"
     }
   ],
   "democratic_party": [
-    {
-      "title": "House Democrats seek 'birthday book' from Epstein estate - ABC News",
-      "pubDate": "Sat, 26 Jul 2025 10:05:59 GMT"
-    },
     {
       "title": "The Democratic Party\u2019s Brand Is Cooked - Rolling Stone",
       "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
@@ -1049,6 +1037,10 @@
     {
       "title": "Trump administration sends mixed messages on China trade pact - South China Morning Post",
       "pubDate": "Thu, 31 Jul 2025 22:53:25 GMT"
+    },
+    {
+      "title": "US trade war: The state of play as Trump signs order imposing new tariffs - but there are more delays - Sky News",
+      "pubDate": "Sat, 02 Aug 2025 10:14:54 GMT"
     }
   ],
   "cybersecurity": [
@@ -1425,10 +1417,6 @@
   ],
   "health_care": [
     {
-      "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
-      "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
-    },
-    {
       "title": "A Massive Health Care Shock Is Coming - The Bulwark",
       "pubDate": "Sun, 27 Jul 2025 12:02:57 GMT"
     },
@@ -1439,6 +1427,10 @@
     {
       "title": "Federal policy jeopardizes health care access and affordability in Colorado, experts tell lawmakers - Colorado Newsline",
       "pubDate": "Thu, 31 Jul 2025 23:59:53 GMT"
+    },
+    {
+      "title": "Administration\u2019s ACA Marketplace Rule Will Raise Health Care Costs for Millions of Families - Center on Budget and Policy Priorities",
+      "pubDate": "Fri, 01 Aug 2025 23:49:35 GMT"
     }
   ],
   "world_economy": [
@@ -1761,6 +1753,10 @@
     {
       "title": "OpenAI banned from using Claude AI just before GPT-5 launch: Here's why - Mint",
       "pubDate": "Sat, 02 Aug 2025 06:56:08 GMT"
+    },
+    {
+      "title": "OpenAI prepares new open weight models along with GPT-5 - BleepingComputer",
+      "pubDate": "Sat, 02 Aug 2025 10:01:37 GMT"
     }
   ],
   "environment": [
@@ -2293,10 +2289,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists Find Evidence That Original Life on Earth Was Assembled From Material in Space - Yahoo Home",
-      "pubDate": "Sat, 26 Jul 2025 10:00:55 GMT"
-    },
-    {
       "title": "Scientists look to black holes to know exactly where we are in the Universe. But phones and wifi are blocking the view - Space",
       "pubDate": "Sat, 26 Jul 2025 12:00:00 GMT"
     },
@@ -2557,6 +2549,10 @@
     {
       "title": "The World Court just ruled countries can be held liable for climate change damage \u2013 what does that mean for the US? - The Conversation",
       "pubDate": "Fri, 01 Aug 2025 12:49:05 GMT"
+    },
+    {
+      "title": "Macroscope | Why force of law is world\u2019s best hope for beating climate change - South China Morning Post",
+      "pubDate": "Sat, 02 Aug 2025 08:30:09 GMT"
     }
   ],
   "volcanoes": [
