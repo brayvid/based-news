@@ -151,6 +151,10 @@
     {
       "title": "Donald Trump Disapproval Rating Hits New 2025 High - Newsweek",
       "pubDate": "Sat, 02 Aug 2025 12:29:45 GMT"
+    },
+    {
+      "title": "Office of Special Counsel Opens Investigation Into Jack Smith Over Trump Prosecution - The New York Times",
+      "pubDate": "Sat, 02 Aug 2025 18:38:43 GMT"
     }
   ],
   "russia": [
@@ -320,10 +324,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Meta chief AI scientist Yann LeCun clarifies his role after the company hires another chief AI scientist - Business Insider",
-      "pubDate": "Sat, 26 Jul 2025 19:50:00 GMT"
-    },
     {
       "title": "Artificial intelligence (AI) - The Guardian",
       "pubDate": "Sun, 27 Jul 2025 02:08:42 GMT"
@@ -599,13 +599,13 @@
     {
       "title": "Ukraine claims attacks on Russian drone storage airbase and military plant - Euronews.com",
       "pubDate": "Sat, 02 Aug 2025 10:49:07 GMT"
+    },
+    {
+      "title": "Ukraine Strikes Strategic Russian Shahed Air Base in Precision Attack - Newsweek",
+      "pubDate": "Sat, 02 Aug 2025 14:36:04 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Major IRS Changes Coming for Business Tax Audits in 2025 - Newsweek",
-      "pubDate": "Sat, 26 Jul 2025 19:05:19 GMT"
-    },
     {
       "title": "US economy defies expectations, Mohamed A El-Erian states - Traders Union",
       "pubDate": "Sat, 26 Jul 2025 20:00:09 GMT"
@@ -1453,10 +1453,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "Experts say Trump's mega budget bill will delay clean energy rollouts in New Mexico - Yahoo Home",
-      "pubDate": "Sat, 26 Jul 2025 19:02:00 GMT"
-    },
-    {
       "title": "Clean Energy\u2019s \u2018Unstoppable\u2019 Global Growth - Forbes",
       "pubDate": "Mon, 28 Jul 2025 12:15:00 GMT"
     },
@@ -1517,6 +1513,10 @@
     {
       "title": "Why ethereum is suddenly beating bitcoin - Business Insider",
       "pubDate": "Fri, 01 Aug 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Pastor Indicted For Cryptocurrency Scam He Claims God Told Him To Do - Forbes",
+      "pubDate": "Sat, 02 Aug 2025 17:32:52 GMT"
     }
   ],
   "tesla": [
@@ -2049,10 +2049,6 @@
       "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
     },
     {
-      "title": "IDF reservist dies of wounds from southern Gaza blast - Ynetnews",
-      "pubDate": "Sat, 26 Jul 2025 19:48:17 GMT"
-    },
-    {
       "title": "Israeli says it has begun aid airdrops into Gaza - BBC",
       "pubDate": "Sun, 27 Jul 2025 00:20:49 GMT"
     },
@@ -2561,6 +2557,10 @@
     {
       "title": "Amazon Recall Update: Fatal Warning Issued Nationwide - Newsweek",
       "pubDate": "Sat, 02 Aug 2025 12:13:09 GMT"
+    },
+    {
+      "title": "Amazon Online Retail Sales Surged 11% In Second Quarter, Ahead Of Amazon Prime Day - Forbes",
+      "pubDate": "Sat, 02 Aug 2025 19:31:10 GMT"
     }
   ],
   "military_and_defense": [
@@ -2708,10 +2708,6 @@
     }
   ],
   "terrorism": [
-    {
-      "title": "US forces capture ISIS finance chief in Somalia - Task & Purpose",
-      "pubDate": "Sat, 26 Jul 2025 19:05:06 GMT"
-    },
     {
       "title": "Israeli-Jordanian agreement over Temple Mount is pathetic appeasement to terrorism - opinion - The Jerusalem Post",
       "pubDate": "Sun, 27 Jul 2025 00:59:01 GMT"
@@ -2963,10 +2959,6 @@
   ],
   "big_data": [
     {
-      "title": "Texas Leads Data Privacy Crackdown: Record Fines For Big Tech And AI - Dallas Express",
-      "pubDate": "Sat, 26 Jul 2025 19:04:59 GMT"
-    },
-    {
       "title": "Big data begins to crack the cold case of endometriosis - Medical Xpress",
       "pubDate": "Thu, 31 Jul 2025 15:00:01 GMT"
     }
@@ -2984,10 +2976,6 @@
     }
   ],
   "neuroscience": [
-    {
-      "title": "Childhood Trauma May Rewire Brain for Lifelong Aggression - Neuroscience News",
-      "pubDate": "Sat, 26 Jul 2025 19:56:56 GMT"
-    },
     {
       "title": "Analyzing the Fallout from Alto Neuroscience's Failed Phase 2b Trial and Implications for Biotech IPOs: A Cautionary Tale for Investors - AInvest",
       "pubDate": "Sun, 27 Jul 2025 20:02:48 GMT"
@@ -3011,12 +2999,6 @@
     {
       "title": "Three drones detected in Japan nuclear plant - The Economic Times",
       "pubDate": "Sun, 27 Jul 2025 02:44:38 GMT"
-    }
-  ],
-  "hong_kong": [
-    {
-      "title": "Canada condemns Hong Kong arrest warrants targeting pro-democracy activists - Yahoo Home",
-      "pubDate": "Sat, 26 Jul 2025 19:36:21 GMT"
     }
   ],
   "cloud_computing": [
