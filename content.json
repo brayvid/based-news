@@ -1,22 +1,72 @@
 {
-  "World Politics": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Israel\u2019s international isolation has begun - Mondoweiss",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ja0JSbE16b25xeVFMR2FIaHJjRUJZV3lIdGxYLVczSTB4S1NiQVJlZ2dfSUdoYnd5TmFIa1hXNzhKbHdfUlJyVFpqa0xwZ1JfekFod3lHUmFfa1lCS2xfc3JqSGZVTzJQSWFjVnFMM3hGUUdNVlR1MnU1UGdWZw?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 19:01:19 GMT"
+        "title": "Trump fires US labor official over data and gets earlier than expected chance to reshape Fed - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2JZNGVxbnZDT3ZveUphbWtzQmp1THNPbm91ZDhFaVVCbTlPLWVpdG9DNi1HRVNfUEJreGcyOER4Rmt1bDNZNk5MZDluOWExWkxtbHFrUk9TbXZiNGR4WEtlOFQ5Mjk4d2p5MDNCN1p1VHl3U2M3RU5UU1FMVk1BTWVNVmljeXRULWxwRE94NDU1VnNoeFVEYTFQQmRwMEVWZHVwNE9aRXp5NTdQRnVvQTRwSXc4bThmWEhlLWRzb0Ryb2F6?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 23:41:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-02T05:57:59.128480+00:00"
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
   },
-  "North Korea": {
+  "Business": {
     "articles": [
       {
-        "title": "North Korea sent me abroad to be a secret IT worker. My wages funded the regime - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCYUZsSkg2R1NaTllSRWkwU2Ricm56a09fQXAxWnhnN0FPQzRpVjc3b243ZVUwSmZOdGxsbFFMbjg5dDZuOGtfdnFKN2ZtOGphN1dSOHNHNXNlUdIBX0FVX3lxTFBKSjZrV2g4S241ckNGX2JXemhLUlF3RGhzZDhjR2U1cVdqTk1pUVZCRFRrMERfODRCNlBVSWFpUU5Ra2c1X0J3SWlBWFVrbFFYOEE3OXgwMUJLYlVoX1Nr?oc=5",
-        "pubDate": "Fri, 01 Aug 2025 23:28:22 GMT"
+        "title": "Trump\u2019s Tariffs: How businesses around the world responded - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaMU10RWxmbEF5LTJTSGxzOFlMdXlLVmdfT1BSb3o3d0psM0J4VjlhT1A5UkQwSTItaHRPWkdCZkpmVndCbC1Wb1pNU1RfTmZ2QjRjdk5rd0paUdIBX0FVX3lxTFA5eWN1ZkR5TnhFblJyMnpySmlFWXJ5d2l0RFlZRDhsSE1BZmU2UXhqaGplSTd6MjNtVjZ5RnZ1ZjBHZ2dwOXNiTjZJUWRIeDBzbmNRYXlPNWhLWVhQOFZV?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 20:14:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-02T05:57:59.128480+00:00"
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
+  },
+  "World Economy": {
+    "articles": [
+      {
+        "title": "EU banks can weather recession driven by global trade war, stress test shows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnVNN3B1elhPSUVXd09ob0ZZZlRlSWgycnBlSDRyM29CS0xleXFrYnVBN0d5MEs2Y0ZpU0E0MnFqQmZjcHZpQ201em0yTmJPdjktZTNSYm9hQlN6WFZhN2lEVXRLeEN3a1U5ZTl0M1lSZTl2S2FqZXdtUUx0Yy1iZzhyODFSZmFiSUNGdFlvNlczSkJILW1IYU1uNE5adTFvQXAzcy01UEtla2hUcnFmMWkydU0tTEFVZzZURS1ZM1ozVFdGSFMtZkdRNllwZzBQYVIwTWFtSXpRWGt5ZVVMQmVSQzZTUQ?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 21:39:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "Trump recalibrates Gaza stance as humanitarian concerns grow - Politico",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDlIQ0FadWxEX3Btb0ZOQUQ5UTNoVHExWHVyNlpkT1NoMXBLRkhQUk05SFBLbnVBS2hoWXhxNkp6VnhKeGkxUWo5Q3BFdEhKRlFZbUh5SFh2cEdVdnpQWWVJMjhtV05ScjBxTGVFbFJZNDlQc1diY3E0c2l2ejVWcklDbnk2c01FdmtBbk9aYXhlazlTX2hxNmlyNkxhY251bWl3SEtpM0V4SnRzYWdqZnZDTU0?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 21:36:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Apple CEO Tells Staff AI Is \u2018Ours to Grab\u2019 in Hourlong Pep Talk - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTIwVk9OOXFOTEJFNEEzMHpmRW1tX3Nuei1Ic2NkeWtzazdER0pHVWFoekFZMzVQMmNHcDRONTMxUjczQkM5R21HamJqbjNfeGZMd0dEcnV6Qm9yYVMxRjZRVzBWQmlqWkQ5WG5iUU44Q3U1THdFVlNjenR1LXEtb2JMamIweWhpcjJvbWsyYkx2ai1BSzNRbXBzZU1LZVZGcHhLa0FTcGUzOEN0TThOVFRR?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 20:53:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "Ransomware spike linked to potential zero-day flaw in SonicWall devices - Cybersecurity Dive",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXFDczRDN3Y4RDZRYl96Ym1ra0t2MWRRVFM4cWFhaUd1NDlKR3lXMUdvTV95alFmVEZ3X3JDS2RkMVNCSnVZZzM5TUc2WGZ1Z0x0NVBGdjZjOG0yRXYxWi1CWFpCbGxCdE1WVG4xRnFmY2pWZW03QkxmYW9Ha3Q1R3RtdlM4NTNmbTlKNGF0c1FGWm8?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 21:42:29 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
+  },
+  "Energy Storage": {
+    "articles": [
+      {
+        "title": "Energy storage to hit record high - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnhXdWR6VkZlTFAwV2NYaEp6U3lESkhSNGZHRGVMaS1ZT2p6SWtOd09sWTM0amhES19GSm1KTVVPOHRvY3hHR1hsVkhxaWpSaERJeTMyd2tnek9aQjRMaGZvbm5SSXhKYVNKS2RZX3Rjemc0dW9jRFI2dGI4NFlKeW1PbXhuR0ZHMDdXclNja3NZVVA4VEQyaFZfUE1RRUFvT1M2TjVn0gGrAUFVX3lxTE9McFk2c0paRWNNeHQ0cjEzV3p6TkduaFRuUkZ1MHpRVGlKN2JIOElKcFpyZ19QQUFwT2pMOWgzM2dUTUFHbmpfSXlLRDBEa1AyTU9MWU81WU5QU1BpQlAxVVgtVmM4cDR3R1pwMk9jMFo1ZC00eDVNb1pXUEM1bUR2VnkzQmdvTm1yNzVSLVJjemVtVTRfRl85UTBOS2psYkE2QVM0U0RnZzJ4Yw?oc=5",
+        "pubDate": "Fri, 01 Aug 2025 19:17:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-02T06:57:48.253341+00:00"
   }
 }
