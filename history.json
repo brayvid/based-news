@@ -77,10 +77,6 @@
       "pubDate": "Sat, 26 Jul 2025 18:13:03 GMT"
     },
     {
-      "title": "Trump's trade deals and tariffs are on the chopping block in court. What happens next - CNBC",
-      "pubDate": "Sat, 26 Jul 2025 12:00:01 GMT"
-    },
-    {
       "title": "Trump faces protests in Scotland as European Union deal unfolds - MSN",
       "pubDate": "Sat, 26 Jul 2025 23:53:39 GMT"
     },
@@ -155,6 +151,10 @@
     {
       "title": "Live updates: Trump, in warning to Russia, says nuclear submarines will be sent to \u2018appropriate regions\u2019 - The Washington Post",
       "pubDate": "Fri, 01 Aug 2025 18:25:26 GMT"
+    },
+    {
+      "title": "Trump's authoritarian streak - Axios",
+      "pubDate": "Sat, 02 Aug 2025 11:48:51 GMT"
     }
   ],
   "russia": [
@@ -469,10 +469,6 @@
   ],
   "ukraine": [
     {
-      "title": "Putin BOMBARDS Kharkiv; Ukraine Emergency Services Take Cover As Russian Kamikaze Drones Strike - Times of India",
-      "pubDate": "Sat, 26 Jul 2025 12:30:00 GMT"
-    },
-    {
       "title": "Motion cameras were set up in the jungles of Guatemala \u2014 and they captured something incredible - vox.com",
       "pubDate": "Sun, 27 Jul 2025 11:00:00 GMT"
     },
@@ -595,6 +591,10 @@
     {
       "title": "Millions of Ukrainians abroad hope to return home once Russia's invasion ends - NPR",
       "pubDate": "Sat, 02 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Ukraine drone attacks kill three in Russia, cause fire at oil refinery - Al Jazeera",
+      "pubDate": "Sat, 02 Aug 2025 12:24:59 GMT"
     }
   ],
   "us_economy": [
@@ -656,10 +656,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Taiwanese voters reject a bid to remove lawmakers from a China-friendly party - NPR",
-      "pubDate": "Sat, 26 Jul 2025 12:05:35 GMT"
-    },
     {
       "title": "Chinese research ship detected off Alaskan coast, Coast Guard says - CBS News",
       "pubDate": "Sat, 26 Jul 2025 21:35:16 GMT"
@@ -989,6 +985,10 @@
     {
       "title": "North Korea's opened its doors to Russian tourists. So... how was their holiday? - Sky News",
       "pubDate": "Sat, 02 Aug 2025 01:02:31 GMT"
+    },
+    {
+      "title": "North Korea hopes for 'lasting' peace following Thailand-Cambodia ceasefire - Latest news from Azerbaijan",
+      "pubDate": "Sat, 02 Aug 2025 10:30:56 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1201,6 +1201,10 @@
     {
       "title": "Federal Reserve holds its benchmark rate steady at today's FOMC meeting - CBS News",
       "pubDate": "Wed, 30 Jul 2025 23:31:31 GMT"
+    },
+    {
+      "title": "Did the Fed just royally screw up? - CNN",
+      "pubDate": "Sat, 02 Aug 2025 08:00:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1599,13 +1603,13 @@
     {
       "title": "Dollar Tree denies data breach - says hackers targeted its rival instead - TechRadar",
       "pubDate": "Fri, 01 Aug 2025 00:03:00 GMT"
+    },
+    {
+      "title": "Tea App Data Breach Is a Reminder of What\u2019s at Risk for Women - The New York Times",
+      "pubDate": "Sat, 02 Aug 2025 09:01:40 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Ancient Bitcoin (BTC) Springing to Life, Signaling Potential Sell-Side Pressure: Crypto Analytics Firm - The Daily Hodl",
-      "pubDate": "Sat, 26 Jul 2025 12:45:56 GMT"
-    },
     {
       "title": "Global Liquidity Surge Sets Stage for Bitcoin Price Explosion - Bitcoin.com News",
       "pubDate": "Sat, 26 Jul 2025 18:16:40 GMT"
@@ -2277,10 +2281,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists look to black holes to know exactly where we are in the Universe. But phones and wifi are blocking the view - Space",
-      "pubDate": "Sat, 26 Jul 2025 12:00:00 GMT"
-    },
-    {
       "title": "Scientists detect gargantuan 'pimple' that has plagued a star for at least 7 years - Live Science",
       "pubDate": "Sat, 26 Jul 2025 15:00:00 GMT"
     },
@@ -2334,10 +2334,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Oil Markets Are Defying Seasonal Expectations - Bloomberg.com",
-      "pubDate": "Sat, 26 Jul 2025 12:00:10 GMT"
-    },
     {
       "title": "Longer, more intense, and more damaging: Marine heatwaves are on the rise - Digital Journal",
       "pubDate": "Sat, 26 Jul 2025 20:02:13 GMT"
@@ -2677,6 +2673,10 @@
     {
       "title": "Dangerous Mekong River pollution blamed on lawless mining in Myanmar - Al Jazeera",
       "pubDate": "Fri, 01 Aug 2025 23:39:09 GMT"
+    },
+    {
+      "title": "New push to reach global plastic pollution pact - The Straits Times",
+      "pubDate": "Sat, 02 Aug 2025 06:05:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -2733,6 +2733,10 @@
     {
       "title": "Inside Zelenskyy\u2019s failed coup against Ukraine\u2019s anti-corruption agencies - Euromaidan Press",
       "pubDate": "Fri, 01 Aug 2025 00:54:01 GMT"
+    },
+    {
+      "title": "US warns of corruption and reported bribery aimed at destabilizing Haiti as crisis deepens - The Washington Post",
+      "pubDate": "Sat, 02 Aug 2025 02:48:42 GMT"
     }
   ],
   "terrorism": [
@@ -2922,10 +2926,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "US Supreme Court Upholds Tennessee Ban on Gender-Affirming Care for Minors Amid Rising Anti-LGBTQ Legislation - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Sat, 26 Jul 2025 12:25:03 GMT"
-    },
     {
       "title": "Supreme Court Lets Trump Enact His Authoritarian Agenda on Its \u2018Shadow Docket\u2019 - Rolling Stone",
       "pubDate": "Sun, 27 Jul 2025 14:00:00 GMT"
