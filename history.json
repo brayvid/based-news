@@ -665,10 +665,6 @@
   ],
   "china": [
     {
-      "title": "Chinese research ship detected off Alaskan coast, Coast Guard says - CBS News",
-      "pubDate": "Sat, 26 Jul 2025 21:35:16 GMT"
-    },
-    {
       "title": "China's industrial profits fall 1.8% in first half - Reuters",
       "pubDate": "Sun, 27 Jul 2025 01:39:16 GMT"
     },
@@ -1036,10 +1032,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybersecurity Woes and Regulatory Challenges: Allianz Life Data Breach and Meta\u2019s EU Ad Halt - BBN Times",
-      "pubDate": "Sat, 26 Jul 2025 21:10:22 GMT"
-    },
     {
       "title": "Cybersecurity Risks in Financial Markets: The Hidden Cost of Malicious Google Ads - AInvest",
       "pubDate": "Sun, 27 Jul 2025 04:47:44 GMT"
@@ -1517,6 +1509,10 @@
     {
       "title": "Pastor Indicted For Cryptocurrency Scam He Claims God Told Him To Do - Forbes",
       "pubDate": "Sat, 02 Aug 2025 17:32:52 GMT"
+    },
+    {
+      "title": "Federal Report Charts Path For U.S. To Dominate World Cryptocurrency Market - Dallas Express",
+      "pubDate": "Sat, 02 Aug 2025 17:04:57 GMT"
     }
   ],
   "tesla": [
@@ -1791,10 +1787,6 @@
   ],
   "mars": [
     {
-      "title": "Mars' Seasonal Frost Could Briefly Host Liquid Water - Universe Today",
-      "pubDate": "Sat, 26 Jul 2025 21:20:00 GMT"
-    },
-    {
       "title": "Two Mars Hill businesses announce closures, another moves from Main Street to Burnsville - The Asheville Citizen Times",
       "pubDate": "Tue, 29 Jul 2025 19:50:11 GMT"
     }
@@ -2025,10 +2017,6 @@
   ],
   "gaza": [
     {
-      "title": "More Gazans starve to death as aid agencies warn airdrops won\u2019t alleviate crisis - CNN",
-      "pubDate": "Sat, 26 Jul 2025 21:44:00 GMT"
-    },
-    {
       "title": "Australia news live: PM says Israel had breached international law by stopping food delivery in Gaza - The Guardian",
       "pubDate": "Sat, 26 Jul 2025 23:52:44 GMT"
     },
@@ -2195,6 +2183,10 @@
     {
       "title": "LIVE: Israel kills 57 in Gaza, mostly starving people seeking aid - Al Jazeera",
       "pubDate": "Sat, 02 Aug 2025 14:31:36 GMT"
+    },
+    {
+      "title": "Hamas terrorists seen surrendering to IDF troops in Gaza - JNS.org",
+      "pubDate": "Sat, 02 Aug 2025 19:42:27 GMT"
     }
   ],
   "battery_technology": [
@@ -2571,6 +2563,10 @@
     {
       "title": "Ukraine Allocates $232 Million to Drones, Logistics After 22,700 Successful Strikes in July - UNITED24 Media",
       "pubDate": "Sat, 02 Aug 2025 12:46:09 GMT"
+    },
+    {
+      "title": "U.S. Approves $4.67 Billion Missile Sale to Egypt - Overt Defense -",
+      "pubDate": "Sat, 02 Aug 2025 14:00:01 GMT"
     }
   ],
   "world_news": [
@@ -2945,6 +2941,10 @@
     {
       "title": "Another High-End Chinese GPU Emerges Online \u2014 Moore Threads MTT S90 Reportedly Outperforms NVIDIA GeForce RTX 4060 With Solid Gaming Performance - Wccftech",
       "pubDate": "Sun, 27 Jul 2025 11:13:00 GMT"
+    },
+    {
+      "title": "Nvidia Secures $2.36B GPU Deal for Asian AI Data Centers Amid Surge - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 12:46:00 GMT"
     }
   ],
   "big_data": [
@@ -2977,6 +2977,10 @@
     {
       "title": "Groundbreaking Living Brain Project challenges decades of assumptions in neuroscience - News-Medical",
       "pubDate": "Tue, 29 Jul 2025 14:28:00 GMT"
+    },
+    {
+      "title": "Scientists Find Evidence That Memories in Brain Are Physically Moving Around - Futurism",
+      "pubDate": "Sat, 02 Aug 2025 11:30:12 GMT"
     }
   ],
   "venezuela": [
@@ -2992,10 +2996,6 @@
     }
   ],
   "cloud_computing": [
-    {
-      "title": "Alight, Inc. (ALIT): A High-Conviction Buy in an Undervalued Cloud Services Play - AInvest",
-      "pubDate": "Sat, 26 Jul 2025 21:28:15 GMT"
-    },
     {
       "title": "The AI Infrastructure Revolution: CoreWeave, Nvidia, and the Future of Cloud Computing - AInvest",
       "pubDate": "Mon, 28 Jul 2025 21:29:17 GMT"
@@ -3315,6 +3315,12 @@
     {
       "title": "Scientists Found a Mysterious Barrier in The Ocean That Jellyfish Won't Cross - ScienceAlert",
       "pubDate": "Sat, 02 Aug 2025 19:01:45 GMT"
+    }
+  ],
+  "inflation": [
+    {
+      "title": "After a historic economic week, stagflation fears are back - Axios",
+      "pubDate": "Sat, 02 Aug 2025 11:23:54 GMT"
     }
   ]
 }
