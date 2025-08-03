@@ -5,10 +5,6 @@
       "pubDate": "Sun, 27 Jul 2025 17:01:00 GMT"
     },
     {
-      "title": "Sen. Lindsey Graham says there's no way for Israel to negotiate an end to the war with Hamas - NBC News",
-      "pubDate": "Sun, 27 Jul 2025 16:10:27 GMT"
-    },
-    {
       "title": "Gaza live: Netanyahu hits out at Starmer\u2019s statement on recognising Palestine - The Independent",
       "pubDate": "Wed, 30 Jul 2025 07:32:00 GMT"
     },
@@ -143,6 +139,10 @@
     {
       "title": "From friend to foe: Behind the tangled relationship between Rupert Murdoch and Donald Trump - Los Angeles Times",
       "pubDate": "Sun, 03 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Former Trump statistics chief slams Friday firing of Erika McEntarfer - Politico",
+      "pubDate": "Sun, 03 Aug 2025 16:15:00 GMT"
     }
   ],
   "russia": [
@@ -196,10 +196,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Godfather Hinton Criticizes Altman, Zuckerberg on AI Risks, Praises Hassabis - WebProNews",
-      "pubDate": "Sun, 27 Jul 2025 16:28:03 GMT"
-    },
     {
       "title": "\u2018Godfather of AI\u2019 calls out tech giants for downplaying risks - Storyboard18",
       "pubDate": "Mon, 28 Jul 2025 06:07:47 GMT"
@@ -987,10 +983,6 @@
   ],
   "trade_war": [
     {
-      "title": "US and China are expected to extend trade truce by 90 Days, SCMP says - Fortune",
-      "pubDate": "Sun, 27 Jul 2025 16:44:00 GMT"
-    },
-    {
       "title": "US and EU reach a trade deal that sets 15% across-the-board tariffs and pledges hundreds of billions in investments - Fortune",
       "pubDate": "Sun, 27 Jul 2025 17:42:00 GMT"
     },
@@ -1151,10 +1143,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "White House presses Fed for \u2018dramatically lower\u2019 rates as meeting looms - Financial Times",
-      "pubDate": "Sun, 27 Jul 2025 16:21:06 GMT"
-    },
-    {
       "title": "Trump is quietly changing the Fed, even without firing Powell - CNN",
       "pubDate": "Mon, 28 Jul 2025 09:00:00 GMT"
     },
@@ -1200,10 +1188,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Scientists Warn: Tintina Fault Could Unleash Major Earthquake - SciTechDaily",
-      "pubDate": "Sun, 27 Jul 2025 16:15:45 GMT"
-    },
     {
       "title": "Magnitude 5.5 - 49 miles SE of Unalaska - Alaska Earthquake Center",
       "pubDate": "Sun, 27 Jul 2025 22:47:04 GMT"
@@ -1637,6 +1621,10 @@
     {
       "title": "Bitcoin News today: Trump Media's Bitcoin Treasury, BTC Options Bets, and Future Crypto Plans - CoinDesk",
       "pubDate": "Sun, 03 Aug 2025 06:20:59 GMT"
+    },
+    {
+      "title": "Bitcoin dip making \u2018perfect bottom,\u2019 says analyst: Will BTC rally to $148K? - Cointelegraph",
+      "pubDate": "Sun, 03 Aug 2025 15:49:07 GMT"
     }
   ],
   "fusion_power": [
@@ -2017,10 +2005,6 @@
       "pubDate": "Mon, 28 Jul 2025 00:55:33 GMT"
     },
     {
-      "title": "Malnutrition in Gaza at alarming levels, WHO warns as aid airdrops resume - follow live - BBC",
-      "pubDate": "Sun, 27 Jul 2025 16:11:48 GMT"
-    },
-    {
       "title": "Leading Israeli human rights group accuses Israel of genocide in Gaza - CNN",
       "pubDate": "Mon, 28 Jul 2025 11:07:00 GMT"
     },
@@ -2159,6 +2143,10 @@
     {
       "title": "On Temple Mount, Ben Gvir calls for Gaza takeover, \u2018voluntary emigration\u2019 of Palestinians - The Times of Israel",
       "pubDate": "Sun, 03 Aug 2025 08:20:08 GMT"
+    },
+    {
+      "title": "At least one killed in Israeli strike on Gaza Red Crescent HQ, says aid group - France 24",
+      "pubDate": "Sun, 03 Aug 2025 05:48:57 GMT"
     }
   ],
   "battery_technology": [
@@ -3137,6 +3125,10 @@
     {
       "title": "Apple Sues Movie Theater Chain With Similar 'Apple Cinemas' Name - MacRumors",
       "pubDate": "Sat, 02 Aug 2025 14:37:00 GMT"
+    },
+    {
+      "title": "Apple now looking to rival ChatGPT with a new in-house \u2018Answers\u2019 team: report - 9to5Mac",
+      "pubDate": "Sun, 03 Aug 2025 12:20:00 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -3321,6 +3313,12 @@
     {
       "title": "Why utilities are a top pick in Donald Trump\u2019s uncertain world - AFR",
       "pubDate": "Sun, 03 Aug 2025 06:00:00 GMT"
+    }
+  ],
+  "us_congress": [
+    {
+      "title": "US Congress accuses Harvard University of decade-long ties with Chinese Communist Party, demands records by August 7 - DNA India",
+      "pubDate": "Sun, 03 Aug 2025 11:15:00 GMT"
     }
   ]
 }
