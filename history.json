@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump news at a glance: president tells Europe to \u2018stop the windmills\u2019 ahead of EU and UK trade talks - The Guardian",
-      "pubDate": "Sun, 27 Jul 2025 01:45:34 GMT"
-    },
-    {
       "title": "Trump sets EU tariff at 15%, lower than his original threat, after meeting in Scotland - NPR",
       "pubDate": "Sun, 27 Jul 2025 18:14:24 GMT"
     },
@@ -213,6 +209,10 @@
     {
       "title": "Trump says he's deploying two nuclear subs after 'highly provocative statements' from Russia's Medvedev - NBC News",
       "pubDate": "Fri, 01 Aug 2025 22:25:27 GMT"
+    },
+    {
+      "title": "For Trump, Russia\u2019s nuclear saber-rattling may be a useful distraction - CNN",
+      "pubDate": "Sat, 02 Aug 2025 22:08:00 GMT"
     }
   ],
   "ai_safety": [
@@ -607,6 +607,10 @@
     {
       "title": "Ukraine officials held in military drone corruption probe - BBC",
       "pubDate": "Sun, 03 Aug 2025 00:35:01 GMT"
+    },
+    {
+      "title": "Ukraine's military intelligence, partisans blow up bus carrying Chechen soldiers in occupied Melitopol - The Kyiv Independent",
+      "pubDate": "Sat, 02 Aug 2025 20:51:18 GMT"
     }
   ],
   "us_economy": [
@@ -668,10 +672,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's industrial profits fall 1.8% in first half - Reuters",
-      "pubDate": "Sun, 27 Jul 2025 01:39:16 GMT"
-    },
     {
       "title": "China Strong-Armed Japan Over Rare Earths. It\u2019s a Lesson for the U.S. - The Wall Street Journal",
       "pubDate": "Sun, 27 Jul 2025 04:02:00 GMT"
@@ -1855,10 +1855,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "AI \u2018Godfather\u2019 Geoffrey Hinton Urges Global AI Cooperation at WAIC 2025 in Shanghai - Pandaily",
-      "pubDate": "Sun, 27 Jul 2025 01:01:55 GMT"
-    },
-    {
       "title": "Move over, tech bros: AI battle between China and the US is heating up - Australian Broadcasting Corporation",
       "pubDate": "Sun, 27 Jul 2025 18:46:22 GMT"
     },
@@ -2645,6 +2641,10 @@
     {
       "title": "New push to reach global plastic pollution pact - The Straits Times",
       "pubDate": "Sat, 02 Aug 2025 06:05:00 GMT"
+    },
+    {
+      "title": "Countries under pressure to finalise UN plastic pollution treaty as talks resume - The Independent",
+      "pubDate": "Sat, 02 Aug 2025 23:01:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -2708,10 +2708,6 @@
     }
   ],
   "terrorism": [
-    {
-      "title": "Israeli-Jordanian agreement over Temple Mount is pathetic appeasement to terrorism - opinion - The Jerusalem Post",
-      "pubDate": "Sun, 27 Jul 2025 00:59:01 GMT"
-    },
     {
       "title": "Three 'TTP terrorists' killed in Swat IBO - The Express Tribune",
       "pubDate": "Sun, 27 Jul 2025 02:22:18 GMT"
@@ -2967,18 +2963,6 @@
     {
       "title": "Big data begins to crack the cold case of endometriosis - Medical Xpress",
       "pubDate": "Thu, 31 Jul 2025 15:00:01 GMT"
-    }
-  ],
-  "violence": [
-    {
-      "title": "Eleven people stabbed at a Walmart in Michigan, suspect in custody - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 27 Jul 2025 01:48:23 GMT"
-    }
-  ],
-  "quantum_information": [
-    {
-      "title": "Quantum Internet Inches Closer: Researchers Successfully Teleport Light-Based Information - MSN",
-      "pubDate": "Sun, 27 Jul 2025 01:26:05 GMT"
     }
   ],
   "neuroscience": [
@@ -3353,6 +3337,10 @@
     {
       "title": "Republican Senate candidates seeking to replace McConnell aim to define themselves at Fancy Farm - WTAJ",
       "pubDate": "Sat, 02 Aug 2025 14:45:54 GMT"
+    },
+    {
+      "title": "Senate GOP eyes recess appointments as stalemate drags on - Axios",
+      "pubDate": "Sat, 02 Aug 2025 22:59:49 GMT"
     }
   ]
 }
