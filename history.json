@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel, Syria Hold Talks to Reach Security Agreement to End Israeli Attacks, Source Says - Haaretz",
-      "pubDate": "Sun, 27 Jul 2025 17:01:00 GMT"
-    },
-    {
       "title": "Gaza live: Netanyahu hits out at Starmer\u2019s statement on recognising Palestine - The Independent",
       "pubDate": "Wed, 30 Jul 2025 07:32:00 GMT"
     },
@@ -587,6 +583,10 @@
     {
       "title": "Ukraine urges Trump admin to 'strangle' Russian economy amid nuclear tensions - ABC News",
       "pubDate": "Sun, 03 Aug 2025 09:22:30 GMT"
+    },
+    {
+      "title": "Ukrainian attack sparks blaze at Russian oil depot as countries trade strikes - The Guardian",
+      "pubDate": "Sun, 03 Aug 2025 12:20:00 GMT"
     }
   ],
   "us_economy": [
@@ -983,10 +983,6 @@
   ],
   "trade_war": [
     {
-      "title": "US and EU reach a trade deal that sets 15% across-the-board tariffs and pledges hundreds of billions in investments - Fortune",
-      "pubDate": "Sun, 27 Jul 2025 17:42:00 GMT"
-    },
-    {
       "title": "Trump reaches 15% tariff trade agreement with European Union - KCRA",
       "pubDate": "Mon, 28 Jul 2025 11:17:00 GMT"
     },
@@ -1107,6 +1103,10 @@
     {
       "title": "New \u2018Plague\u2019 PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft - The Hacker News",
       "pubDate": "Sat, 02 Aug 2025 13:33:00 GMT"
+    },
+    {
+      "title": "Pentagon Snub Rattles Cybersecurity Conference Circuit - wsj.com",
+      "pubDate": "Sun, 03 Aug 2025 13:00:00 GMT"
     }
   ],
   "recession": [
@@ -1367,6 +1367,10 @@
     {
       "title": "A Cancer Patient Chose Assisted Death. That Wasn\u2019t the Last Hard Choice. - The New York Times",
       "pubDate": "Sun, 03 Aug 2025 13:31:04 GMT"
+    },
+    {
+      "title": "Jessie J suffers setback in breast cancer treatment - The Independent",
+      "pubDate": "Sun, 03 Aug 2025 16:03:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1442,10 +1446,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Ethereum (ETH) Price Prediction: ETH Eyes Massive Rally Beyond ATH as NasdaqBTC CEO Sees Institutional Surge Like Bitcoin - Brave New Coin",
-      "pubDate": "Sun, 27 Jul 2025 17:10:21 GMT"
-    },
     {
       "title": "The Tornado Cash Trial: A Defining Moment for Cryptocurrency Privacy - OneSafe",
       "pubDate": "Mon, 28 Jul 2025 08:13:31 GMT"
@@ -1993,10 +1993,6 @@
   ],
   "gaza": [
     {
-      "title": "Trump insists Hamas is stealing food amid Gaza hunger crisis - The Hill",
-      "pubDate": "Sun, 27 Jul 2025 16:58:00 GMT"
-    },
-    {
       "title": "Keir Starmer to recall cabinet for emergency meeting on Gaza crisis - The Guardian",
       "pubDate": "Sun, 27 Jul 2025 19:21:00 GMT"
     },
@@ -2187,6 +2183,10 @@
     {
       "title": "AI upgrade: New algorithm could lead to cheaper, accurate, and light-weight AI models - Notebookcheck",
       "pubDate": "Sat, 02 Aug 2025 21:44:00 GMT"
+    },
+    {
+      "title": "The AI 'algorithmic audit' could be coming to hotel room checkout - CNBC",
+      "pubDate": "Sun, 03 Aug 2025 12:30:01 GMT"
     }
   ],
   "astronomy": [
@@ -2427,6 +2427,10 @@
     {
       "title": "Has climate change made wildfires, storms worse, more frequent? - The Arizona Republic",
       "pubDate": "Sun, 03 Aug 2025 12:06:19 GMT"
+    },
+    {
+      "title": "As Trump Guts Climate Justice Work, Coastal Cities Are Pushing Back - rollingstone.com",
+      "pubDate": "Sun, 03 Aug 2025 15:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2633,6 +2637,10 @@
     {
       "title": "Trump Targets India Over Tariffs and BRICS Membership Amid Trade Negotiations | Trump Tariffs - News18",
       "pubDate": "Thu, 31 Jul 2025 02:29:33 GMT"
+    },
+    {
+      "title": "BRICS 2025: What the Summit Really Achieved Behind Closed Doors - CryptoRank",
+      "pubDate": "Sun, 03 Aug 2025 11:14:50 GMT"
     }
   ],
   "united_states": [
@@ -2713,10 +2721,6 @@
     {
       "title": "EU trade deal with Trump helps Europe ditch Russian fuels - Axios",
       "pubDate": "Sun, 27 Jul 2025 21:41:17 GMT"
-    },
-    {
-      "title": "Trump covets rare earth riches, but Greenland plans to mine its own business - The Washington Post",
-      "pubDate": "Sun, 27 Jul 2025 17:15:56 GMT"
     },
     {
       "title": "Russia makes surprising move to strengthen alliance as it 'prepares to invade new country' - UNILAD",
@@ -3319,6 +3323,12 @@
     {
       "title": "US Congress accuses Harvard University of decade-long ties with Chinese Communist Party, demands records by August 7 - DNA India",
       "pubDate": "Sun, 03 Aug 2025 11:15:00 GMT"
+    }
+  ],
+  "investment": [
+    {
+      "title": "Historic Scotch Whisky Distillery Launches Cask Investment Programme - Forbes",
+      "pubDate": "Sun, 03 Aug 2025 16:04:11 GMT"
     }
   ]
 }
