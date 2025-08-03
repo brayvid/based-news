@@ -53,10 +53,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump sets EU tariff at 15%, lower than his original threat, after meeting in Scotland - NPR",
-      "pubDate": "Sun, 27 Jul 2025 18:14:24 GMT"
-    },
-    {
       "title": "Trump strikes a deal with the E.U., and a bipartisan duo wants the Epstein files: Weekend Rundown - NBC News",
       "pubDate": "Sun, 27 Jul 2025 22:00:42 GMT"
     },
@@ -142,10 +138,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia Starts First Direct Flights From Moscow to Pyongyang - Bloomberg",
-      "pubDate": "Sun, 27 Jul 2025 18:11:12 GMT"
-    },
     {
       "title": "Russia runs low on Soviet-era arms as North Korea fills gap - Financial Times",
       "pubDate": "Mon, 28 Jul 2025 04:00:47 GMT"
@@ -433,10 +425,6 @@
   ],
   "ukraine": [
     {
-      "title": "\u2018That idiot Putin wants to take it all\u2019: Russia\u2019s kamikaze tactics fuel a slow advance in Ukraine - The Guardian",
-      "pubDate": "Sun, 27 Jul 2025 18:48:00 GMT"
-    },
-    {
       "title": "Poland Scrambles Jets as Russia Conducts Extended Ukraine Attack - Bloomberg.com",
       "pubDate": "Mon, 28 Jul 2025 06:20:00 GMT"
     },
@@ -587,6 +575,10 @@
     {
       "title": "Ukrainian attack sparks blaze at Russian oil depot as countries trade strikes - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 12:20:00 GMT"
+    },
+    {
+      "title": "Ukraine Gains Secrets of Russia\u2019s Newest Nuclear Sub \u201cKnyaz Pozharsky\"\u2014Crew, Schematics, Combat Orders Leaked - UNITED24 Media",
+      "pubDate": "Sun, 03 Aug 2025 10:53:51 GMT"
     }
   ],
   "us_economy": [
@@ -1815,13 +1807,13 @@
     {
       "title": "Is IonQ a Buy Ahead of Q2 Earnings in a High-Growth, High-Risk Quantum Computing Landscape? - AInvest",
       "pubDate": "Sun, 03 Aug 2025 10:39:06 GMT"
+    },
+    {
+      "title": "Elon Musk Poses Chilling Question\u2014Can Quantum Computers Hack Bitcoin? - Bitcoinist.com",
+      "pubDate": "Sun, 03 Aug 2025 18:30:24 GMT"
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "Move over, tech bros: AI battle between China and the US is heating up - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 27 Jul 2025 18:46:22 GMT"
-    },
     {
       "title": "China tops global AI model count with over 1,500 large models released - chinadailyasia.com",
       "pubDate": "Mon, 28 Jul 2025 08:13:57 GMT"
@@ -2143,6 +2135,10 @@
     {
       "title": "At least one killed in Israeli strike on Gaza Red Crescent HQ, says aid group - France 24",
       "pubDate": "Sun, 03 Aug 2025 05:48:57 GMT"
+    },
+    {
+      "title": "Tens of thousands march in Sydney calling for peace and aid in Gaza - CNN",
+      "pubDate": "Sun, 03 Aug 2025 08:09:17 GMT"
     }
   ],
   "battery_technology": [
@@ -2187,6 +2183,10 @@
     {
       "title": "The AI 'algorithmic audit' could be coming to hotel room checkout - CNBC",
       "pubDate": "Sun, 03 Aug 2025 12:30:01 GMT"
+    },
+    {
+      "title": "The quiet rebellion against fashion\u2019s social media algorithms - The Independent",
+      "pubDate": "Sun, 03 Aug 2025 09:36:00 GMT"
     }
   ],
   "astronomy": [
@@ -2236,10 +2236,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Study Warns of Rapid Global Freshwater Loss Due to Climate Change and Overuse - ShiaWaves",
-      "pubDate": "Sun, 27 Jul 2025 18:39:21 GMT"
-    },
     {
       "title": "UN climate chief tells Australia to \u2018go big\u2019 with its 2035 emissions reduction target - The Conversation",
       "pubDate": "Mon, 28 Jul 2025 02:03:00 GMT"
@@ -2431,6 +2427,10 @@
     {
       "title": "As Trump Guts Climate Justice Work, Coastal Cities Are Pushing Back - rollingstone.com",
       "pubDate": "Sun, 03 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "From Katrina to Chantal, we can\u2019t afford to ignore climate change - NC Newsline",
+      "pubDate": "Sun, 03 Aug 2025 10:01:28 GMT"
     }
   ],
   "volcanoes": [
@@ -2613,10 +2613,6 @@
   ],
   "central_intelligence_agency": [
     {
-      "title": "CIA director: New secret documents will expose FBI\u2019s role in Trump-Russia hoax - Washington Times",
-      "pubDate": "Sun, 27 Jul 2025 18:52:40 GMT"
-    },
-    {
       "title": "Former CIA Director, William J. Burns, Receives 2025 William Oliver Baker Award in D.C. - HSToday",
       "pubDate": "Mon, 28 Jul 2025 08:49:08 GMT"
     },
@@ -2748,10 +2744,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - The Business Download |",
-      "pubDate": "Sun, 27 Jul 2025 18:14:58 GMT"
-    },
     {
       "title": "Trump hits brakes on electric vehicle growth, for now - Reuters",
       "pubDate": "Mon, 28 Jul 2025 15:59:30 GMT"
@@ -3133,6 +3125,10 @@
     {
       "title": "Apple now looking to rival ChatGPT with a new in-house \u2018Answers\u2019 team: report - 9to5Mac",
       "pubDate": "Sun, 03 Aug 2025 12:20:00 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Just Declared War on the iPhone - wsj.com",
+      "pubDate": "Sun, 03 Aug 2025 09:30:00 GMT"
     }
   ],
   "algorithmic_trading": [
