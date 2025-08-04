@@ -411,10 +411,6 @@
   ],
   "climate": [
     {
-      "title": "EU Far Right Wants 2040 Climate Target Binned - Rigzone",
-      "pubDate": "Mon, 28 Jul 2025 07:03:01 GMT"
-    },
-    {
       "title": "Billion-dollar disasters: The economic toll of wildfires, severe storms and earthquakes is soaring - NBC News",
       "pubDate": "Tue, 29 Jul 2025 06:00:00 GMT"
     },
@@ -437,6 +433,10 @@
     {
       "title": "Deep in the Amazon, a bold question: Can the forest save itself? - The Washington Post",
       "pubDate": "Sun, 03 Aug 2025 11:32:19 GMT"
+    },
+    {
+      "title": "New DOE Report On How Greenhouse Gases Affect U.S. Climate - Forbes",
+      "pubDate": "Mon, 04 Aug 2025 01:21:14 GMT"
     }
   ],
   "ukraine": [
@@ -661,13 +661,13 @@
     {
       "title": "Economists Warn US Close To 'Stall Speed' And Could 'Tip Over Into Recession' On Disappointing Jobs Report - Benzinga",
       "pubDate": "Mon, 04 Aug 2025 02:16:39 GMT"
+    },
+    {
+      "title": "US data points to slowdown, not recession: Raymond James strategist - CNBC TV18",
+      "pubDate": "Mon, 04 Aug 2025 05:39:43 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Heavy rains in northern China kill 4 as flood warnings are issued in Beijing and neighboring areas - ABC News",
-      "pubDate": "Mon, 28 Jul 2025 07:38:47 GMT"
-    },
     {
       "title": "Intense rains lash China swelling waterways, rivers; landslide kills four - Reuters",
       "pubDate": "Mon, 28 Jul 2025 09:41:49 GMT"
@@ -985,6 +985,10 @@
     {
       "title": "S. Korea begins dismantling loudspeakers along border with N. Korea - The Korea Herald",
       "pubDate": "Mon, 04 Aug 2025 01:59:38 GMT"
+    },
+    {
+      "title": "North Korean IT worker infiltrations exploded 220% over the past 12 months, with GenAI weaponized at every stage of the hiring process - Fortune",
+      "pubDate": "Mon, 04 Aug 2025 07:03:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1111,6 +1115,10 @@
     {
       "title": "Pentagon Snub Rattles Cybersecurity Conference Circuit - wsj.com",
       "pubDate": "Sun, 03 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads - The Hacker News",
+      "pubDate": "Mon, 04 Aug 2025 06:19:00 GMT"
     }
   ],
   "recession": [
@@ -2175,6 +2183,10 @@
     {
       "title": "Israel\u2019s support for clans in Gaza puts tribal strongman in spotlight - The Washington Post",
       "pubDate": "Sun, 03 Aug 2025 21:47:57 GMT"
+    },
+    {
+      "title": "Supplies trickling into Gaza not enough to prevent Palestinian deaths, UN office warns - PBS",
+      "pubDate": "Sun, 03 Aug 2025 21:50:06 GMT"
     }
   ],
   "battery_technology": [
@@ -2268,10 +2280,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Data centres face physical climate risks, report warns - Mongabay-India",
-      "pubDate": "Mon, 28 Jul 2025 07:05:38 GMT"
-    },
     {
       "title": "From snow to sea: How climate change impacts Indias military operations - Tribune India",
       "pubDate": "Mon, 28 Jul 2025 09:18:19 GMT"
@@ -2665,6 +2673,10 @@
     {
       "title": "Canadian Wildfires: 56 Megatonnes Of Pollution Blankets US, Toxic Haze May Linger Till Monday - Times Now",
       "pubDate": "Sat, 02 Aug 2025 19:58:30 GMT"
+    },
+    {
+      "title": "China unveils cutting-edge technology that could revolutionize how nations tackle air pollution: 'Has taken the lead' - The Cool Down",
+      "pubDate": "Mon, 04 Aug 2025 00:00:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -2895,12 +2907,6 @@
     {
       "title": "15% increase in solar power production could significantly cut U.S. CO2 emissions, study finds - CBS News",
       "pubDate": "Wed, 30 Jul 2025 22:48:00 GMT"
-    }
-  ],
-  "planetary_defense": [
-    {
-      "title": "NASA experiments with asteroid Dimorphos to develop planetary defense technology - CHOSUNBIZ - Chosunbiz",
-      "pubDate": "Mon, 28 Jul 2025 07:30:00 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3381,6 +3387,12 @@
     {
       "title": "UN Security Council to convene over Gaza hostages - RTE.ie",
       "pubDate": "Mon, 04 Aug 2025 02:20:53 GMT"
+    }
+  ],
+  "oceanography": [
+    {
+      "title": "Scientists shocked as deep-sea expedition captures 'enigmatic' discovery at bottom of Pacific Ocean: 'Might otherwise be missed entirely' - The Cool Down",
+      "pubDate": "Sun, 03 Aug 2025 23:40:00 GMT"
     }
   ]
 }

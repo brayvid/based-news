@@ -1,72 +1,72 @@
 {
+  "US Economy": {
+    "articles": [
+      {
+        "title": "US data points to slowdown, not recession: Raymond James strategist - CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmU0cEFtVERWV0dhU2hxZXNFRHR2NTRoek9EZ2RibUtNMGJkNEhUMUJXa3VnejJWQ3VZTC05anRQajVlNWZlellxZDdiSnZNM3JTRlJkWVVTRmhlOXp1WWdjOUtRQkhxeE9xTjdQd0t3VU9iWXpIelB4Y3I2TFFYQS1MNi1ob3J2cnMwY3lra3pzMTllREZFZ0h6SFBfUDFRNXdvdzJkQml4MUVzd0JZ0gG0AUFVX3lxTE5NSl8talJnNzV4U0ZqNWxXZ182WHZnVnd5VWNzTDBOMmgxbEF6NHQ5NEduaEhUcThyYUR3NGd1Y2JJQ2JfWHlTVUFrZEU0RkgtWWZxTlhpcUVRZURLSTI2OWdIa3JQbm5vNDdVZjRlN1QwNmR6SHFsMnh1Y3lyNFpEOFA3Q3RqdkQwdDZvRER5NTlCRXhLcjVvRlFGTzdVSnFVUTlrSm9tenZfYVVTRFp4VzdvRw?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 05:39:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
+  "Oceanography": {
+    "articles": [
+      {
+        "title": "Scientists shocked as deep-sea expedition captures 'enigmatic' discovery at bottom of Pacific Ocean: 'Might otherwise be missed entirely' - The Cool Down",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YMkJKTjk3YU5tdFJ0R2phNW9MTi0zZU1pT0lxWldvMURDdDNMck1BWjRQOXpPZVIzLXV4S1JpZk11OEl1TkJWMG5pNDRXc3BfSF9lclV6SGpvbkMwRVZzdlZTV3BYUDFQblFMZEVCVFZGeC0wSkpnQkxNemc?oc=5",
+        "pubDate": "Sun, 03 Aug 2025 23:40:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
+  "Pollution": {
+    "articles": [
+      {
+        "title": "China unveils cutting-edge technology that could revolutionize how nations tackle air pollution: 'Has taken the lead' - The Cool Down",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW5LZW8wTnI0VnEwTVYxbFZ0ZFVKNFdRcC0wRm13ZmNGcENTWHB5MnlBRllTNjgxTDJQTm96N2ExVVgyTXFlamtpVFJwNXNCSUlRRU03THBkTjRuTnd0VzBmX2d1NkRxeDRuOWt4TzFTWnZuSFNHOWJybU02c1pialVOam4?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 00:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ENGNMOFhab3l6VmZDc3BFeVdMQW82RXgwR0RKX1lGcXhMbWJETklWN0dPTUtCWXlkMXcyQzU4N2JLZ1I5TDVtMFFZZEpiVG4zVjM1MWtGN1hWY2lVdVFTSGphZGh1a3FDNnFJbjd2LTZfbmYwOUJqYlVDS0ZOdw?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 06:19:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
+  "North Korea": {
+    "articles": [
+      {
+        "title": "North Korean IT worker infiltrations exploded 220% over the past 12 months, with GenAI weaponized at every stage of the hiring process - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHNXZEZZMmFocUNRZ1pEeTZBTXZXNHVfcjR6bDIweWx1VV9KZjZVU0t1OWhoSVlFclB3ZTM0QXRhSnRaWU1QaFhJQjk0QVlfSUczMllLUExyajdydldoc1FWaGZRRHBpMllHWkJPZjJNblpXTHIzUVR3MUlGZVZUa2dDQQ?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 07:03:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
+  "Climate": {
+    "articles": [
+      {
+        "title": "New DOE Report On How Greenhouse Gases Affect U.S. Climate - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHROWXl0eWdIYUdReFdodjAtUExyVFBSbmNpbEp0Y1dzMnljaENtNDZleHVPYnJHWFh2VVF5SGZJblZETndXOW9oLWR6WUM4eGJ1UWtkanJ1dTN6QkZFa2p2T1Vzc1RXWk0zZTNSYkNXQkl4dVEzdndsNWxabk1VNFJJOGx1cHpZMVNLQzNtYk01WW5iRHBDcm1KaXVuVHp0dm5HVGR6OThyUzA?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 01:21:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
+  },
   "Gaza": {
     "articles": [
       {
-        "title": "Israel\u2019s support for clans in Gaza puts tribal strongman in spotlight - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObkxaZFhoQ25HM0kwQmpFVmZDdGtVSktjZUtXLUlZRFJTWEhycHhOZnZnVG0zdUcwNjJwWVhWdnVsRlk2cjEtM0JidGZveUZGMm5MZjd5bGpFVFFnWThXU3ZNMkdWMWM2bkg5YncwR1ljQU45U0t0elRvV3ZqOG13RG1HSQ?oc=5",
-        "pubDate": "Sun, 03 Aug 2025 21:47:57 GMT"
+        "title": "Supplies trickling into Gaza not enough to prevent Palestinian deaths, UN office warns - PBS",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzc4MVZuRzF4R3l1ZHJzQmM0bjZrLWxoV20xZzVkbU03amFHZVpMcnpFbFlUQ2d1M3psOXdZeG9Ea0ZLVWtMNTNQMkVJeThXdVJkT3N4RVJ3VW5ocGtzcmdscmNCT0RtV1FsUUFzT05haExzZ0xUU1JZVHdsTFlxTHB5VkdHRW1iN2R6STFiQ3BXZG1rTVNwdlJYYzduS1k4bFNnelczN3cwd2tnQ0trTjkzVDFTZE1JX1o00gHAAUFVX3lxTFBvLUVFTFVVdVdqRU4zUDR2N2R3RFVDSkdVdWFJX1IyZDNkVGhDUHQ1LUtXRmFVUUNnUjJkSHd5WXVJeTU2WXNhVXhwU2xlZTlmTWZWZ3J6dFFraHBMQzdhNjRtaG5LNk40SDFlU19aWEZZQTUtTVA0eHZOQS1GMVAyWHdZbWlvZWN2XzdwdU51WlBiTlFKWlpSeUVNSzlfbHFIWjE0UTgyWTAyRHFuaU8wUzVUdF9XTjFpVGswbWJnRA?oc=5",
+        "pubDate": "Sun, 03 Aug 2025 21:50:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Why an explosive fight erupted over the UK's new Chinese embassy - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUTFQMGhFY0pZeFk4RzMtenkwN1drdHpMQXhDMjQ3VmJlc2lEQWZtUzJZYmx2QVRqZlp3NGY0OGk2LWFONzByLWRMVkswQXNXRHpsaEUwRmZrZ9IBX0FVX3lxTE9ybEhKRTdwOHMzcWpMWjA1MHpTRld3YmUzTHg5dlg3ZTB3ZVpqYlUycjlzZndTYXJTU1R0QnBjM2JMazFXakJBc3Q5Tmp6T1Q3RkRfUTlfWGR3ODQ3dmZ3?oc=5",
-        "pubDate": "Sun, 03 Aug 2025 23:15:40 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Trump says he'll name people to 2 jobs closely watched by Wall Street - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalNSc2V4VHFtUmgtTFJaU0RxLVdhZkNRaHladGZ0T0JIWndKaURuU1lfLUZ0LUg4bEFtMFBJVFNkaWdNY01ndVBTZUZnV3VlUDRLb2FNOVU5UzRkX3l6dFNTNUljdDJaYnF4SFBBUUVUc3cwX0FkVzhmNkIxRExmbEFXUU9INFBoY2ZCSEhnU25VWktRRUE?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 05:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "Data Breach": {
-    "articles": [
-      {
-        "title": "Average global data breach cost now $4.44 million - Help Net Security",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkdmNDBycFUteVlhTmNScklyZmFqbWZiRWFRX0QxZ0ljVWtvSlNtQm4wNEtWdTBxbjlkR1JONU9GbkpwVEZGdDMxY2dQUDZiQnFPdlk3dDlXSlgwcC1FTmY3S0VjS0FtSmNRVnM4SFJTNVdTN3BPLUFIU3NjbGVuQkhB?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 05:30:44 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "Energy Storage": {
-    "articles": [
-      {
-        "title": "US Firm's \"Record-Breaking\" Sodium Phosphate Battery Sparks Outrage: $500 Million Savings Claimed But Critics Question Environmental Cost - Energy Reporters",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbjg3UFk1VXR0Yk5HZ2ZfM2ZqU1cxU3BXMU9SckxrZnlxOGd3VGRWYm52UUlKajVDbEhBYVRVb2o3LWtvUzZGODd4dWdGU2k1R0lKMTR0blBma2k4NVNlMXJlV1l5NGdYbUozeXFwSXUydVhDVTBpNmZyVG5LT3lxc0dtNy1mRUNRWlFRRXdad1BHekpOWjZjelFJLXd2dHBrRzBPdFB2SExEOHI1TVZ4TzhXZGI4S1NJN2ZIZVZpLWlKYU52V3RCeGcwby1FallMYzBRcW1kZVlmck1pWklqbFhHWk5YejNidXYtVEhGeDVZM2FnelY5WFUyWWx4OUt3bmgyaA?oc=5",
-        "pubDate": "Sun, 03 Aug 2025 21:54:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "Bitcoin": {
-    "articles": [
-      {
-        "title": "BlackRock Bitcoin ETF set for \u2018monstrous lead\u2019 with SEC options boost - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVhhNlhEb0FRampIOWhnRUZuOXVTUVJ1c3hKZEpqQ1ZOWjNiOGZ3R0gtN2x0aHFmVVByb2NoZFZPVlBId0RDc211bC1lekRIdlV0aENmS3hSYnRjUmhMSEQ5MEZPX3ZzOVhOcWVjei13bHdiQmN3Q3ZKRzVId19nSFhiUExZemVZX3VRQzJGYUhtS3diSDVN?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 06:09:53 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
-  },
-  "European Union": {
-    "articles": [
-      {
-        "title": "Germany hails drop in asylum claims, citing tough Merz policies - The Times",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemI1dEtvMzhpT0dHVE1yU1ZxWXNOcVhLdTNhTDdKTWUxVDUzd2VUOFJUa3VEbEZYLXhSbU5IM1hIRE5lcU5jT3VOTHFaenhfeGw2eDd4SWJSWlpQY0tBa1JLcThUazc4c0pxNHpVOE1XX0Z2WDFDNWpsMUZWdHFDWmRxOVNiVkFRdnVKZ2lyRUptZTRTREVaSUNJYjlxaXAxN3BfbDhhaE1KN2pOOGxpU0VRc3luME80Umc?oc=5",
-        "pubDate": "Sun, 03 Aug 2025 21:50:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-04T06:57:32.128843+00:00"
+    "last_updated_ts": "2025-08-04T07:57:39.534179+00:00"
   }
 }
