@@ -301,10 +301,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Cheyenne to host massive AI data center using more electricity than all Wyoming homes combined - AP News",
-      "pubDate": "Mon, 28 Jul 2025 23:24:00 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s Neuralink implants brain chip in ninth patient: What Neuralink is doing to bring 'The Matrix' - Times of India",
       "pubDate": "Tue, 29 Jul 2025 05:49:00 GMT"
     },
@@ -587,6 +583,10 @@
     {
       "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 14:02:00 GMT"
+    },
+    {
+      "title": "Ukraine says foreign \u2018mercenaries\u2019 from various countries aiding Russia - Al Jazeera",
+      "pubDate": "Mon, 04 Aug 2025 17:43:02 GMT"
     }
   ],
   "us_economy": [
@@ -664,10 +664,6 @@
     }
   ],
   "china": [
-    {
-      "title": "At least 30 dead in Beijing after days of heavy rain - CNN",
-      "pubDate": "Mon, 28 Jul 2025 23:51:00 GMT"
-    },
     {
       "title": "Watch China Floods: Heavy Rainfall Impacts Beijing, Leads to Deaths - Bloomberg.com",
       "pubDate": "Tue, 29 Jul 2025 02:24:00 GMT"
@@ -847,10 +843,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump administration live updates: President discusses trade and Gaza with U.K. Prime Minister Keir Starmer during Scotland visit - NBC News",
-      "pubDate": "Mon, 28 Jul 2025 23:51:35 GMT"
-    },
-    {
       "title": "Republican candidate for Congress was registered to vote outside Cincinnati-area district - Cincinnati Enquirer",
       "pubDate": "Tue, 29 Jul 2025 04:26:12 GMT"
     },
@@ -935,10 +927,6 @@
   ],
   "north_korea": [
     {
-      "title": "North Korea Says Trump-Kim Ties \u2018Not Bad,\u2019 Urges US New Approach - Bloomberg.com",
-      "pubDate": "Mon, 28 Jul 2025 23:41:14 GMT"
-    },
-    {
       "title": "North Korea snubs US offer to resume diplomatic talks: \u2018mockery without nuclear recognition\u2019 - Mint",
       "pubDate": "Tue, 29 Jul 2025 02:12:06 GMT"
     },
@@ -1017,6 +1005,10 @@
     {
       "title": "Companies announce price increases to offset tariff costs amid trade war - MSN",
       "pubDate": "Sat, 02 Aug 2025 23:12:00 GMT"
+    },
+    {
+      "title": "Trump tariffs: Businesses warn of price hike on everyday items -- from food, electronics to alcohol - 6abc Philadelphia",
+      "pubDate": "Mon, 04 Aug 2025 21:28:52 GMT"
     }
   ],
   "cybersecurity": [
@@ -1095,6 +1087,10 @@
     {
       "title": "CISA and FEMA Announce $100M Cybersecurity Grant - AFCEA International",
       "pubDate": "Mon, 04 Aug 2025 12:00:00 GMT"
+    },
+    {
+      "title": "AI is helping hackers automate and customize cyberattacks - Cybersecurity Dive",
+      "pubDate": "Mon, 04 Aug 2025 15:32:36 GMT"
     }
   ],
   "recession": [
@@ -1403,6 +1399,10 @@
     {
       "title": "Administration\u2019s ACA Marketplace Rule Will Raise Health Care Costs for Millions of Families - Center on Budget and Policy Priorities",
       "pubDate": "Fri, 01 Aug 2025 23:49:35 GMT"
+    },
+    {
+      "title": "Proposed rule bans nearly all abortions at VA hospitals - The Hill",
+      "pubDate": "Mon, 04 Aug 2025 23:16:00 GMT"
     }
   ],
   "world_economy": [
@@ -1547,10 +1547,6 @@
   ],
   "bitcoin": [
     {
-      "title": "SEC Delays Decision on Trump-Linked Bitcoin, Grayscale Solana ETFs - Decrypt",
-      "pubDate": "Mon, 28 Jul 2025 23:21:27 GMT"
-    },
-    {
       "title": "US seeks to claim $2.4M in Bitcoin seized from ransomware group - Cointelegraph",
       "pubDate": "Tue, 29 Jul 2025 06:28:25 GMT"
     },
@@ -1658,10 +1654,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI's CEO says he's scared of GPT-5 - TechRadar",
-      "pubDate": "Mon, 28 Jul 2025 23:00:00 GMT"
-    },
     {
       "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
       "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
@@ -2387,6 +2379,10 @@
     {
       "title": "Volcano in Russia erupts for the first time in centuries - CBS News",
       "pubDate": "Sun, 03 Aug 2025 18:29:23 GMT"
+    },
+    {
+      "title": "Kilauea eruption's 30th episode is imminent - Spectrum News",
+      "pubDate": "Mon, 04 Aug 2025 20:26:00 GMT"
     }
   ],
   "european_union": [
@@ -2607,6 +2603,10 @@
     {
       "title": "US warns of corruption and reported bribery aimed at destabilizing Haiti as crisis deepens - The Washington Post",
       "pubDate": "Sat, 02 Aug 2025 02:48:42 GMT"
+    },
+    {
+      "title": "Netanyahu moves to fire attorney general prosecuting him for corruption - Axios",
+      "pubDate": "Mon, 04 Aug 2025 15:35:53 GMT"
     }
   ],
   "terrorism": [
@@ -2918,10 +2918,6 @@
     }
   ],
   "quantum_mechanics": [
-    {
-      "title": "A quantum physics theory was born 100 years ago that proved Einstein wrong - Australian Broadcasting Corporation",
-      "pubDate": "Mon, 28 Jul 2025 23:00:00 GMT"
-    },
     {
       "title": "Scientists Are Still Perplexed by Quantum Physics and Can\u2019t Agree on Its True Meaning, Landmark Survey Finds - The Debrief",
       "pubDate": "Wed, 30 Jul 2025 21:11:56 GMT"
