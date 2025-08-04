@@ -23,10 +23,6 @@
   ],
   "iran": [
     {
-      "title": "Trump Threatens 'Stupid' Iran - Newsweek",
-      "pubDate": "Mon, 28 Jul 2025 08:57:11 GMT"
-    },
-    {
       "title": "Trump warns US could bomb Iran nuclear sites again if they restart - Reuters",
       "pubDate": "Mon, 28 Jul 2025 17:47:18 GMT"
     },
@@ -441,20 +437,12 @@
   ],
   "ukraine": [
     {
-      "title": "NATO aircraft scrambled during major Russian drone, missile strike on Ukraine - ABC News",
-      "pubDate": "Mon, 28 Jul 2025 07:58:13 GMT"
-    },
-    {
       "title": "Russia at the gates: How Ukraine defended a strategic city for months - Reuters",
       "pubDate": "Mon, 28 Jul 2025 09:06:10 GMT"
     },
     {
       "title": "Trump says he will reduce Russia's 50-day deadline for peace deal with Ukraine - CNBC",
       "pubDate": "Mon, 28 Jul 2025 12:29:28 GMT"
-    },
-    {
-      "title": "Trump gives Russia \u201810 or 12\u2019 days to move on Ukraine as \u2018no progress made\u2019 \u2013 Europe live - The Guardian",
-      "pubDate": "Mon, 28 Jul 2025 08:05:00 GMT"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy praises Trump for trimming Putin deadline by about 25 days - The Guardian",
@@ -665,6 +653,10 @@
     {
       "title": "US data points to slowdown, not recession: Raymond James strategist - CNBC TV18",
       "pubDate": "Mon, 04 Aug 2025 05:39:43 GMT"
+    },
+    {
+      "title": "Moody's Chief Economist Warns US Economy On 'Precipice Of Recession' As Tariffs, Labor Shortages Trigger Market Selloff - Benzinga",
+      "pubDate": "Mon, 04 Aug 2025 08:48:39 GMT"
     }
   ],
   "china": [
@@ -855,6 +847,10 @@
     {
       "title": "Why an explosive fight erupted over the UK's new Chinese embassy - BBC",
       "pubDate": "Sun, 03 Aug 2025 23:15:40 GMT"
+    },
+    {
+      "title": "UK academics studying topics sensitive to China face harassment, survey finds - The Guardian",
+      "pubDate": "Mon, 04 Aug 2025 04:12:00 GMT"
     }
   ],
   "us_politics": [
@@ -1119,6 +1115,10 @@
     {
       "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads - The Hacker News",
       "pubDate": "Mon, 04 Aug 2025 06:19:00 GMT"
+    },
+    {
+      "title": "The AI Cybersecurity Arms Race: How Threat Actors Are Weaponizing GenAI and Why It Matters to Investors - AInvest",
+      "pubDate": "Mon, 04 Aug 2025 07:23:14 GMT"
     }
   ],
   "recession": [
@@ -1479,10 +1479,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "The Tornado Cash Trial: A Defining Moment for Cryptocurrency Privacy - OneSafe",
-      "pubDate": "Mon, 28 Jul 2025 08:13:31 GMT"
-    },
-    {
       "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
       "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
     },
@@ -1757,6 +1753,10 @@
     {
       "title": "OpenAI Just Released Its Powerful New ChatGPT Agent - Sequoia Capital",
       "pubDate": "Sun, 03 Aug 2025 10:49:55 GMT"
+    },
+    {
+      "title": "OpenAI CEO teases launch of new AI models and products in coming months - Hindustan Times",
+      "pubDate": "Mon, 04 Aug 2025 05:38:04 GMT"
     }
   ],
   "environment": [
@@ -1866,10 +1866,6 @@
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "China tops global AI model count with over 1,500 large models released - chinadailyasia.com",
-      "pubDate": "Mon, 28 Jul 2025 08:13:57 GMT"
-    },
     {
       "title": "Global AI rivalry is a dangerous game - Financial Times",
       "pubDate": "Tue, 29 Jul 2025 04:00:32 GMT"
@@ -2187,6 +2183,10 @@
     {
       "title": "Supplies trickling into Gaza not enough to prevent Palestinian deaths, UN office warns - PBS",
       "pubDate": "Sun, 03 Aug 2025 21:50:06 GMT"
+    },
+    {
+      "title": "Videos of emaciated hostages condemned as Red Cross calls for access - BBC",
+      "pubDate": "Sun, 03 Aug 2025 21:15:58 GMT"
     }
   ],
   "battery_technology": [
@@ -2248,10 +2248,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "New experiment uses levitated magnets to search for dark matter - Physics World",
-      "pubDate": "Mon, 28 Jul 2025 08:07:03 GMT"
-    },
     {
       "title": "Scientists Created an Antimatter Qubit That Could Upend Physics - Popular Mechanics",
       "pubDate": "Tue, 29 Jul 2025 14:15:00 GMT"
@@ -2595,6 +2591,10 @@
     {
       "title": "Thousands of Boeing workers who make the F-15 and F/A-18 fighter jets are about to go on strike - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 03:35:00 GMT"
+    },
+    {
+      "title": "China Is Choking Supply of Critical Minerals to Western Defense Companies - MSN",
+      "pubDate": "Mon, 04 Aug 2025 01:56:39 GMT"
     }
   ],
   "world_news": [
@@ -2681,10 +2681,6 @@
   ],
   "central_intelligence_agency": [
     {
-      "title": "Former CIA Director, William J. Burns, Receives 2025 William Oliver Baker Award in D.C. - HSToday",
-      "pubDate": "Mon, 28 Jul 2025 08:49:08 GMT"
-    },
-    {
       "title": "Trump CIA chief: Brennan, Comey and Hillary Clinton could face indictment - KTALnews.com",
       "pubDate": "Mon, 28 Jul 2025 14:13:21 GMT"
     },
@@ -2726,10 +2722,6 @@
     }
   ],
   "political_corruption": [
-    {
-      "title": "Why on Earth is an Alabama PAC acting as a private lender? | BRIAN LYMAN - Montgomery Advertiser",
-      "pubDate": "Mon, 28 Jul 2025 08:51:22 GMT"
-    },
     {
       "title": "Ukraine's Security Service rejects political plot accusations around arrest of anti-corruption officer - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Thu, 31 Jul 2025 11:27:29 GMT"
@@ -2879,10 +2871,6 @@
   ],
   "public_health": [
     {
-      "title": "New analysis predicts sprawling effects of proposed NIH budget cuts - statnews.com",
-      "pubDate": "Mon, 28 Jul 2025 08:34:18 GMT"
-    },
-    {
       "title": "California Removes 900,000 People From Health Care Plan - Newsweek",
       "pubDate": "Sat, 02 Aug 2025 10:00:01 GMT"
     }
@@ -2907,6 +2895,10 @@
     {
       "title": "15% increase in solar power production could significantly cut U.S. CO2 emissions, study finds - CBS News",
       "pubDate": "Wed, 30 Jul 2025 22:48:00 GMT"
+    },
+    {
+      "title": "Scientists invent unbelievable tech that could transform buildings into sources of energy: 'Turning everyday surfaces into invisible power plants' - The Cool Down",
+      "pubDate": "Mon, 04 Aug 2025 05:45:00 GMT"
     }
   ],
   "self-driving_cars": [
