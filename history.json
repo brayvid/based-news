@@ -151,10 +151,6 @@
   ],
   "russia": [
     {
-      "title": "Russia runs low on Soviet-era arms as North Korea fills gap - Financial Times",
-      "pubDate": "Mon, 28 Jul 2025 04:00:47 GMT"
-    },
-    {
       "title": "Brutal punishments are being meted out to Russian soldiers no longer willing to fight for Putin - CNN",
       "pubDate": "Mon, 28 Jul 2025 10:00:00 GMT"
     },
@@ -453,10 +449,6 @@
       "pubDate": "Mon, 28 Jul 2025 06:20:00 GMT"
     },
     {
-      "title": "Former POWs in Russia channel their pain into rebuilding lives in Ukraine - AP News",
-      "pubDate": "Mon, 28 Jul 2025 04:31:00 GMT"
-    },
-    {
       "title": "Russia depletes Soviet arms, heavily relies on foreign supplies for Ukraine war, analysis suggests - The Kyiv Independent",
       "pubDate": "Mon, 28 Jul 2025 05:07:00 GMT"
     },
@@ -677,6 +669,10 @@
     {
       "title": "Despite Trump, the US economy remains surprisingly resilient. But for how long? | Richard Partington - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 09:52:00 GMT"
+    },
+    {
+      "title": "Economists Warn US Close To 'Stall Speed' And Could 'Tip Over Into Recession' On Disappointing Jobs Report - Benzinga",
+      "pubDate": "Mon, 04 Aug 2025 02:16:39 GMT"
     }
   ],
   "china": [
@@ -867,6 +863,10 @@
     {
       "title": "China\u2019s trade deadline \u2018under discussion\u2019 after Washington has positive talks with Beijing: US Trade Rep - Fox Business",
       "pubDate": "Sun, 03 Aug 2025 17:11:00 GMT"
+    },
+    {
+      "title": "Chinese university students told to spy on classmates, report says - BBC",
+      "pubDate": "Mon, 04 Aug 2025 04:02:11 GMT"
     }
   ],
   "us_politics": [
@@ -997,6 +997,10 @@
     {
       "title": "North Korea stoke WW3 fears and claims two nations are preparing for 'nuclear war' - Daily Star",
       "pubDate": "Sun, 03 Aug 2025 06:56:00 GMT"
+    },
+    {
+      "title": "S. Korea begins dismantling loudspeakers along border with N. Korea - The Korea Herald",
+      "pubDate": "Mon, 04 Aug 2025 01:59:38 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1535,6 +1539,10 @@
     {
       "title": "Elon Musk's Tesla fined over \u20b91,996 crore in Florida autopilot crash case; jury flags \u2018responsibility\u2019 amid tech failure - Mint",
       "pubDate": "Sat, 02 Aug 2025 03:45:41 GMT"
+    },
+    {
+      "title": "The Tesla whistleblower and the cost of taking on Elon Musk - podcast - The Guardian",
+      "pubDate": "Mon, 04 Aug 2025 03:40:03 GMT"
     }
   ],
   "asteroids": [
@@ -2561,10 +2569,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "US used about a quarter of its high-end missile interceptors in Israel-Iran war, exposing supply gap - CNN",
-      "pubDate": "Mon, 28 Jul 2025 04:01:00 GMT"
-    },
-    {
       "title": "Germany is said to plan massive military buildup, doubling defense budget by 2029 - Seeking Alpha",
       "pubDate": "Mon, 28 Jul 2025 15:16:07 GMT"
     },
@@ -2591,6 +2595,10 @@
     {
       "title": "Russia Turns Ruins of Donetsk Airport Into Launchpad for Iranian Killer Drones - UNITED24 Media",
       "pubDate": "Sun, 03 Aug 2025 11:41:16 GMT"
+    },
+    {
+      "title": "Thousands of Boeing workers who make the F-15 and F/A-18 fighter jets are about to go on strike - Business Insider",
+      "pubDate": "Mon, 04 Aug 2025 03:35:00 GMT"
     }
   ],
   "world_news": [
@@ -3043,10 +3051,6 @@
   ],
   "energy_storage": [
     {
-      "title": "Energy Dome signs CO2 battery technology agreement with Google - Evertiq",
-      "pubDate": "Mon, 28 Jul 2025 04:04:46 GMT"
-    },
-    {
       "title": "New York launches first bulk energy storage RFP to boost grid reliability - WRGB",
       "pubDate": "Mon, 28 Jul 2025 16:55:19 GMT"
     },
@@ -3383,6 +3387,12 @@
     {
       "title": "As AI power needs surge, a Bay Area data center bets on hydrogen as a sustainable alternative - The Mercury News",
       "pubDate": "Sun, 03 Aug 2025 16:49:15 GMT"
+    }
+  ],
+  "united_nations_security_council": [
+    {
+      "title": "UN Security Council to convene over Gaza hostages - RTE.ie",
+      "pubDate": "Mon, 04 Aug 2025 02:20:53 GMT"
     }
   ]
 }
