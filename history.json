@@ -173,6 +173,10 @@
     {
       "title": "For Trump, Russia\u2019s nuclear saber-rattling may be a useful distraction - CNN",
       "pubDate": "Sat, 02 Aug 2025 22:08:00 GMT"
+    },
+    {
+      "title": "Kremlin plays down Trump's nuclear rhetoric as US envoy set to visit Moscow - BBC",
+      "pubDate": "Mon, 04 Aug 2025 11:40:46 GMT"
     }
   ],
   "ai_safety": [
@@ -1289,6 +1293,10 @@
     {
       "title": "Tesla awards Musk $29 billion in shares with prior pay package in limbo - CNBC",
       "pubDate": "Mon, 04 Aug 2025 14:08:57 GMT"
+    },
+    {
+      "title": "Tesla\u2019s poor stock performance has slashed Elon Musk\u2019s wealth by $80 billion\u2014another tumble like that could dethrone the world\u2019s richest man - Fortune",
+      "pubDate": "Mon, 04 Aug 2025 15:49:00 GMT"
     }
   ],
   "cancer": [
@@ -1901,6 +1909,10 @@
     {
       "title": "Gaza health care workers face starvation alongside their patients, Doctors Without Borders warns - ABC News",
       "pubDate": "Tue, 29 Jul 2025 21:22:30 GMT"
+    },
+    {
+      "title": "Plastic causing \"disease and death from infancy to old age\" that costs $1.5 trillion a year, report warns - CBS News",
+      "pubDate": "Mon, 04 Aug 2025 11:05:00 GMT"
     }
   ],
   "chemistry": [
@@ -1927,10 +1939,6 @@
     {
       "title": "Trump says many are starving in Gaza, vows to set up food centres - Reuters",
       "pubDate": "Mon, 28 Jul 2025 22:47:58 GMT"
-    },
-    {
-      "title": "Israelis rebuff Trump, insisting images of starvation in Gaza are \u2018fake\u2019 - Los Angeles Times",
-      "pubDate": "Mon, 28 Jul 2025 21:08:20 GMT"
     },
     {
       "title": "Worst-case scenario of famine unfolding in Gaza, UN-backed food security body says - BBC",
@@ -2095,13 +2103,13 @@
     {
       "title": "Netanyahu reportedly pushing for major expansion of war in Gaza - Jewish Insider",
       "pubDate": "Mon, 04 Aug 2025 19:33:05 GMT"
+    },
+    {
+      "title": "Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com",
+      "pubDate": "Mon, 04 Aug 2025 17:32:27 GMT"
     }
   ],
   "battery_technology": [
-    {
-      "title": "Revolutionary New Tech Promises to Address EV Battery Fire Risks - autoblog.com",
-      "pubDate": "Mon, 28 Jul 2025 21:30:00 GMT"
-    },
     {
       "title": "China\u2019s New Battery Tech Could Change Everything\u2014Here\u2019s Why - Technology Org",
       "pubDate": "Tue, 29 Jul 2025 19:45:44 GMT"
@@ -2155,6 +2163,10 @@
     {
       "title": "Scientists made AI search for new laws of physics and correct incorrect assumptions \u2014 it works - ITC.ua",
       "pubDate": "Mon, 04 Aug 2025 10:16:56 GMT"
+    },
+    {
+      "title": "Scientists Discovered a Way to Reverse Time\u2014and Possibly Erase Mistakes - Popular Mechanics",
+      "pubDate": "Mon, 04 Aug 2025 17:17:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2181,14 +2193,6 @@
   ],
   "climate_change": [
     {
-      "title": "Summer nights are getting warmer due to climate change, sparking health concerns - ABC News",
-      "pubDate": "Mon, 28 Jul 2025 21:45:00 GMT"
-    },
-    {
-      "title": "EPA Set to Unravel US Authority to Regulate Greenhouse Gases - Bloomberg.com",
-      "pubDate": "Mon, 28 Jul 2025 21:28:24 GMT"
-    },
-    {
       "title": "China\u2019s Coal Pipeline Risks Creating Glut, Blowing Climate Goals - Bloomberg",
       "pubDate": "Tue, 29 Jul 2025 00:01:00 GMT"
     },
@@ -2199,10 +2203,6 @@
     {
       "title": "Honolulu's lawsuit against fossil fuel companies leads climate change legal fight - ABC News",
       "pubDate": "Tue, 29 Jul 2025 05:14:52 GMT"
-    },
-    {
-      "title": "Trump\u2019s Billions in Climate Cuts Have Nonprofits Scrambling to Survive - Bloomberg",
-      "pubDate": "Mon, 28 Jul 2025 21:03:28 GMT"
     },
     {
       "title": "The US is sitting out the most consequential climate summit in a decade. It may offer a victory to China - CNN",
@@ -2833,10 +2833,6 @@
   ],
   "cloud_computing": [
     {
-      "title": "The AI Infrastructure Revolution: CoreWeave, Nvidia, and the Future of Cloud Computing - AInvest",
-      "pubDate": "Mon, 28 Jul 2025 21:29:17 GMT"
-    },
-    {
       "title": "Microsoft's Azure cloud revenue surges as AI spending pays off - Reuters",
       "pubDate": "Wed, 30 Jul 2025 20:24:30 GMT"
     },
@@ -3245,6 +3241,12 @@
     {
       "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
       "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
+    }
+  ],
+  "national_institute_of_standards_and_technology": [
+    {
+      "title": "New NIST Consortium Unveils Draft to Fortify Software Supply Chains - MeriTalk",
+      "pubDate": "Mon, 04 Aug 2025 18:40:57 GMT"
     }
   ]
 }
