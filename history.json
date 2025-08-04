@@ -143,6 +143,10 @@
     {
       "title": "Trump revives the Presidential Fitness Test in American public schools. What to know. - MSNBC News",
       "pubDate": "Sun, 03 Aug 2025 13:06:32 GMT"
+    },
+    {
+      "title": "Trump stokes conspiracies about jobs data, as White House defends firing BLS chief - CNBC",
+      "pubDate": "Mon, 04 Aug 2025 14:29:35 GMT"
     }
   ],
   "russia": [
@@ -254,10 +258,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "European stocks rise to four-month high after the U.S. and EU strike trade agreement - CNBC",
-      "pubDate": "Mon, 28 Jul 2025 14:21:00 GMT"
-    },
     {
       "title": "Why explanations of market moves are so often wrong: Fridson - Reuters",
       "pubDate": "Wed, 30 Jul 2025 07:08:43 GMT"
@@ -575,6 +575,10 @@
     {
       "title": "Ukraine claims it destroyed Russian fighter jets in Crimea | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Mon, 04 Aug 2025 10:59:20 GMT"
+    },
+    {
+      "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - Business Insider",
+      "pubDate": "Mon, 04 Aug 2025 14:02:00 GMT"
     }
   ],
   "us_economy": [
@@ -656,10 +660,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Did China Just Violate the Biological Warfare Convention? - Lieber Institute West Point",
-      "pubDate": "Mon, 28 Jul 2025 14:07:55 GMT"
-    },
     {
       "title": "Honduras Presidential Rival Vows to Embrace US, Rebuff China - Bloomberg",
       "pubDate": "Mon, 28 Jul 2025 16:11:26 GMT"
@@ -1525,10 +1525,6 @@
       "pubDate": "Mon, 28 Jul 2025 15:31:55 GMT"
     },
     {
-      "title": "HCA Healthcare data breach class action settlement - Class Action Lawsuits",
-      "pubDate": "Mon, 28 Jul 2025 14:10:33 GMT"
-    },
-    {
       "title": "Research shows data breach costs have reached an all-time high - CyberScoop",
       "pubDate": "Wed, 30 Jul 2025 10:04:11 GMT"
     },
@@ -1563,6 +1559,10 @@
     {
       "title": "Average global data breach cost now $4.44 million - Help Net Security",
       "pubDate": "Mon, 04 Aug 2025 05:30:44 GMT"
+    },
+    {
+      "title": "More than 650,000 Granite Staters affected by 2024 Change Healthcare data breach - WMUR",
+      "pubDate": "Mon, 04 Aug 2025 05:00:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1889,6 +1889,10 @@
     {
       "title": "Russia Space Chief in US for First Visit With NASA Head in Years - Bloomberg.com",
       "pubDate": "Tue, 29 Jul 2025 15:41:27 GMT"
+    },
+    {
+      "title": "After 178 Days in Orbit, NASA Astronaut\u2019s \u2018Lightbulb Moment\u2019 Exposes Humanity\u2019s Biggest Lie - The Daily Galaxy",
+      "pubDate": "Mon, 04 Aug 2025 11:30:00 GMT"
     }
   ],
   "alternative_energy": [
@@ -2135,6 +2139,10 @@
     {
       "title": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war - BBC",
       "pubDate": "Mon, 04 Aug 2025 09:03:44 GMT"
+    },
+    {
+      "title": "Israel considers expanding Gaza war as ceasefire talks reach an impasse - CNN",
+      "pubDate": "Mon, 04 Aug 2025 12:50:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2228,10 +2236,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Global warming is altering storms lightning, impacting tropical forests - Mongabay",
-      "pubDate": "Mon, 28 Jul 2025 14:38:04 GMT"
-    },
     {
       "title": "Accelerating Health Impacts Of Heat: Global Climate And Health Summit Highlights Trends - Health Policy Watch",
       "pubDate": "Mon, 28 Jul 2025 15:35:08 GMT"
@@ -2637,10 +2641,6 @@
   ],
   "central_intelligence_agency": [
     {
-      "title": "Trump CIA chief: Brennan, Comey and Hillary Clinton could face indictment - KTALnews.com",
-      "pubDate": "Mon, 28 Jul 2025 14:13:21 GMT"
-    },
-    {
       "title": "How CIA-backed tech giant Palantir aids Israeli genocide in Gaza with AI, surveillance - PressTV",
       "pubDate": "Sat, 02 Aug 2025 13:21:11 GMT"
     }
@@ -3027,10 +3027,6 @@
   ],
   "fbi": [
     {
-      "title": "FBI investigates Texas cruise ship death. What we know about the Carnival Dream case - Austin American-Statesman",
-      "pubDate": "Mon, 28 Jul 2025 14:17:56 GMT"
-    },
-    {
       "title": "Long Beach man pledged allegiance to ISIS, built homemade bomb: FBI - KTLA",
       "pubDate": "Sat, 02 Aug 2025 16:22:52 GMT"
     }
@@ -3349,6 +3345,12 @@
     {
       "title": "Possible EPB internet outage - WTVC",
       "pubDate": "Mon, 04 Aug 2025 08:08:57 GMT"
+    }
+  ],
+  "cosmology": [
+    {
+      "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
+      "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
     }
   ]
 }
