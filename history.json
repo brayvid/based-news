@@ -193,10 +193,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Union calls for 'mandatory' employee consultations on AI programs - iTnews",
-      "pubDate": "Tue, 29 Jul 2025 20:51:00 GMT"
-    },
-    {
       "title": "Canada commits funding to joint AI safety effort with the U.K. - ca.finance.yahoo.com",
       "pubDate": "Wed, 30 Jul 2025 07:00:34 GMT"
     },
@@ -259,6 +255,10 @@
     {
       "title": "Six-figure AI investment drives safety innovation at Pallet-Track - NationalWorld",
       "pubDate": "Mon, 04 Aug 2025 20:52:34 GMT"
+    },
+    {
+      "title": "Reality Defender and ActiveFence Partner to Strengthen AI Safety Infrastructure - Morningstar",
+      "pubDate": "Tue, 05 Aug 2025 12:22:00 GMT"
     }
   ],
   "financial_markets": [
@@ -571,13 +571,13 @@
     {
       "title": "Ukraine-Russia war latest: Mercenaries from China, Pakistan and Africa fighting for Moscow, claims Zelensky - The Independent",
       "pubDate": "Tue, 05 Aug 2025 09:38:29 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s anti-corruption reforms are more vital than ever during wartime - Atlantic Council",
+      "pubDate": "Tue, 05 Aug 2025 20:13:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US consumer confidence improves slightly but tariff concerns persist - cheddar.com",
-      "pubDate": "Tue, 29 Jul 2025 20:14:32 GMT"
-    },
     {
       "title": "Moody's Just Downgraded The U.S. Economy - How To Prepare - MSN",
       "pubDate": "Wed, 30 Jul 2025 03:33:36 GMT"
@@ -807,6 +807,10 @@
     {
       "title": "Protests in China over viral school bullying case - BBC",
       "pubDate": "Tue, 05 Aug 2025 09:33:05 GMT"
+    },
+    {
+      "title": "Six months after DeepSeek\u2019s breakthrough, China speeds on with AI - The Economist",
+      "pubDate": "Tue, 05 Aug 2025 18:19:36 GMT"
     }
   ],
   "us_politics": [
@@ -1061,6 +1065,10 @@
     {
       "title": "Why changing monetary and immigration policies may be edging U.S. closer to a recession: Carmen Reinhart - CNBC",
       "pubDate": "Mon, 04 Aug 2025 16:50:26 GMT"
+    },
+    {
+      "title": "The jobs report that enraged Trump was flashing a recession warning sign - CNN",
+      "pubDate": "Tue, 05 Aug 2025 17:13:00 GMT"
     }
   ],
   "drones": [
@@ -1261,10 +1269,6 @@
   ],
   "cancer": [
     {
-      "title": "Watch AstraZeneca Profit, Revenue Lifted by Cancer Drugs - Bloomberg",
-      "pubDate": "Tue, 29 Jul 2025 20:00:14 GMT"
-    },
-    {
       "title": "Study Finds One Workout Can Cut Cancer Cell Growth by 30% - SciTechDaily",
       "pubDate": "Wed, 30 Jul 2025 08:21:52 GMT"
     },
@@ -1310,10 +1314,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "The US neglects space disaster preparedness at its own peril - Atlantic Council",
-      "pubDate": "Tue, 29 Jul 2025 20:07:00 GMT"
-    },
     {
       "title": "US, India to launch powerful Earth-monitoring satellite - Yahoo Home",
       "pubDate": "Wed, 30 Jul 2025 01:44:00 GMT"
@@ -1438,10 +1438,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "Scientists May Have Solved a Puzzling Space Rock Mystery That Could Change Our Understanding of How Life Began - SciTechDaily",
-      "pubDate": "Tue, 29 Jul 2025 20:38:39 GMT"
-    },
     {
       "title": "NASA Alerts: Asteroid 2025 OL1 Is Headed for a Close Flyby of Earth on July 30 at a Breakneck Speed of 16,900 Mph - The Daily Galaxy",
       "pubDate": "Wed, 30 Jul 2025 11:45:00 GMT"
@@ -1765,6 +1761,10 @@
     {
       "title": "AOC slams progressive critics for 'lying' about her Iron Dome stance in defense bill fight - AOL.com",
       "pubDate": "Sat, 02 Aug 2025 20:48:59 GMT"
+    },
+    {
+      "title": "Trump trails Ocasio-Cortez, Sanders in favorability polling: Gallup - The Hill",
+      "pubDate": "Tue, 05 Aug 2025 13:20:00 GMT"
     }
   ],
   "national_security": [
@@ -1819,6 +1819,10 @@
     {
       "title": "Why a NASA satellite that scientists and farmers rely on may be destroyed on purpose - NPR",
       "pubDate": "Mon, 04 Aug 2025 09:30:00 GMT"
+    },
+    {
+      "title": "NASA declares troubled Lunar Trailblazer moon orbiter dead - Space",
+      "pubDate": "Tue, 05 Aug 2025 19:00:00 GMT"
     }
   ],
   "alternative_energy": [
@@ -2063,6 +2067,10 @@
     {
       "title": "A wasteland of rubble, dust and graves: how Gaza looks from the sky - The Guardian",
       "pubDate": "Tue, 05 Aug 2025 19:05:00 GMT"
+    },
+    {
+      "title": "Israelis Are Starting to Talk About Famine in Gaza - The New Yorker",
+      "pubDate": "Tue, 05 Aug 2025 15:46:46 GMT"
     }
   ],
   "battery_technology": [
