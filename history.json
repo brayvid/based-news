@@ -587,6 +587,10 @@
     {
       "title": "Ukraine says foreign \u2018mercenaries\u2019 from various countries aiding Russia - Al Jazeera",
       "pubDate": "Mon, 04 Aug 2025 17:43:02 GMT"
+    },
+    {
+      "title": "Ukraine claims it hacked Russia's nuclear submarine, leaks classified data - The Jerusalem Post",
+      "pubDate": "Mon, 04 Aug 2025 21:50:30 GMT"
     }
   ],
   "us_economy": [
@@ -664,10 +668,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Watch China Floods: Heavy Rainfall Impacts Beijing, Leads to Deaths - Bloomberg.com",
-      "pubDate": "Tue, 29 Jul 2025 02:24:00 GMT"
-    },
     {
       "title": "China offers parents $1,500 in bid to boost births - BBC",
       "pubDate": "Tue, 29 Jul 2025 03:19:05 GMT"
@@ -843,6 +843,10 @@
     {
       "title": "China rejects US demands to halt Russian, Iranian oil imports - The Kyiv Independent",
       "pubDate": "Mon, 04 Aug 2025 16:23:30 GMT"
+    },
+    {
+      "title": "China closes gap in AI model development - Fox Business",
+      "pubDate": "Mon, 04 Aug 2025 23:00:26 GMT"
     }
   ],
   "us_politics": [
@@ -934,10 +938,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea snubs US offer to resume diplomatic talks: \u2018mockery without nuclear recognition\u2019 - Mint",
-      "pubDate": "Tue, 29 Jul 2025 02:12:06 GMT"
-    },
     {
       "title": "Kim Yo Jong hints at US talks, but with caveats - CNN",
       "pubDate": "Wed, 30 Jul 2025 03:48:56 GMT"
@@ -1099,10 +1099,6 @@
   ],
   "recession": [
     {
-      "title": "Recession Is Here: 150,000 Layoffs And More To Come - MSN",
-      "pubDate": "Tue, 29 Jul 2025 02:04:50 GMT"
-    },
-    {
       "title": "Shock jobs report stirs recession fears: 5 takeaways - USA Today",
       "pubDate": "Fri, 01 Aug 2025 19:02:40 GMT"
     },
@@ -1185,16 +1181,16 @@
     {
       "title": "Trump says he'll name people to 2 jobs closely watched by Wall Street - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: Fed's Daly says time is nearing for rate cuts, may need more than two - Reuters",
+      "pubDate": "Mon, 04 Aug 2025 21:59:28 GMT"
     }
   ],
   "earthquakes": [
     {
       "title": "Why the 6.7 magnitude earthquake in Andaman and Nicobar did not trigger a tsunami - MSN",
       "pubDate": "Tue, 29 Jul 2025 08:02:34 GMT"
-    },
-    {
-      "title": "Magnitude 6.9 earthquake strikes remote area in South Pacific; no tsunami threat - BNO News",
-      "pubDate": "Tue, 29 Jul 2025 02:09:26 GMT"
     },
     {
       "title": "Earthquake of magnitude 8 strikes off Russia's Kamchatka, USGS says - Reuters",
@@ -1713,6 +1709,10 @@
     {
       "title": "Scientists Finally Identify Killer Microbe Behind \u2018Terrifying\u2019 Sea Star Disease - The New York Times",
       "pubDate": "Mon, 04 Aug 2025 15:00:09 GMT"
+    },
+    {
+      "title": "Scientists say they've found out what killed over 5 billion sea stars - NBC News",
+      "pubDate": "Mon, 04 Aug 2025 23:23:47 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -2101,6 +2101,10 @@
     {
       "title": "Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com",
       "pubDate": "Mon, 04 Aug 2025 17:32:27 GMT"
+    },
+    {
+      "title": "Trump pushing an 'all or nothing' Israel-Hamas ceasefire deal, special envoy says - NBC News",
+      "pubDate": "Mon, 04 Aug 2025 16:09:35 GMT"
     }
   ],
   "battery_technology": [
@@ -2477,10 +2481,6 @@
   ],
   "world_news": [
     {
-      "title": "Five dead in New York city shooting, including police officer, suspect - Al Jazeera",
-      "pubDate": "Tue, 29 Jul 2025 02:43:06 GMT"
-    },
-    {
       "title": "Lithuania's prime minister quits after pressure over business ties to sister-in-law - Reuters",
       "pubDate": "Thu, 31 Jul 2025 10:19:11 GMT"
     },
@@ -2587,6 +2587,10 @@
     {
       "title": "BRICS \u2018KILL DOLLAR\u2019 Move \u2018SHOCKS\u2019 Trump; Russia Ally China Leads Currency Revolt | Watch - The Times of India",
       "pubDate": "Mon, 04 Aug 2025 16:13:30 GMT"
+    },
+    {
+      "title": "Russia accuses US of neocolonialism, backs BRICS for fair global order - The Hindu BusinessLine",
+      "pubDate": "Tue, 05 Aug 2025 01:51:44 GMT"
     }
   ],
   "united_states": [
@@ -2923,12 +2927,6 @@
       "pubDate": "Sat, 02 Aug 2025 16:22:52 GMT"
     }
   ],
-  "new_york_city": [
-    {
-      "title": "Mass shooting in central business district shakes Manhattan, leaves at least 4 dead - Fortune",
-      "pubDate": "Tue, 29 Jul 2025 02:03:00 GMT"
-    }
-  ],
   "quantum_mechanics": [
     {
       "title": "Scientists Are Still Perplexed by Quantum Physics and Can\u2019t Agree on Its True Meaning, Landmark Survey Finds - The Debrief",
@@ -3249,6 +3247,12 @@
     {
       "title": "New NIST Consortium Unveils Draft to Fortify Software Supply Chains - MeriTalk",
       "pubDate": "Mon, 04 Aug 2025 18:40:57 GMT"
+    }
+  ],
+  "rivian": [
+    {
+      "title": "Rivian calls Ohio\u2019s ban on direct car sales \u2018irrational in the extreme\u2019 in new lawsuit - The Verge",
+      "pubDate": "Mon, 04 Aug 2025 17:07:57 GMT"
     }
   ]
 }
