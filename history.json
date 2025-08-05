@@ -143,10 +143,6 @@
   ],
   "russia": [
     {
-      "title": "Russia Hit by Second Major Cyberattack in Two Days: Live Updates - Newsweek",
-      "pubDate": "Tue, 29 Jul 2025 14:39:52 GMT"
-    },
-    {
       "title": "Russia's Oil Shipments Have Quietly Slumped Over the Past Year - Bloomberg",
       "pubDate": "Tue, 29 Jul 2025 15:32:05 GMT"
     },
@@ -292,10 +288,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft Seeks to Extend Access to OpenAI Technology - PYMNTS.com",
-      "pubDate": "Tue, 29 Jul 2025 14:34:20 GMT"
-    },
     {
       "title": "AI agent autonomously solves complex cybersecurity challenges using text-based tools - Tech Xplore",
       "pubDate": "Tue, 29 Jul 2025 17:20:01 GMT"
@@ -885,6 +877,10 @@
     {
       "title": "Texas House Democrats flee to Chicago to derail congressional redistricting bill - Dallas News",
       "pubDate": "Sun, 03 Aug 2025 22:23:56 GMT"
+    },
+    {
+      "title": "Trump says Republicans are 'entitled' to more Texas seats - USA Today",
+      "pubDate": "Tue, 05 Aug 2025 14:01:46 GMT"
     }
   ],
   "democratic_party": [
@@ -1741,6 +1737,10 @@
     {
       "title": "OpenAI Raises $8.3B, Hits $300B Valuation in AGI Funding Round - WebProNews",
       "pubDate": "Sat, 02 Aug 2025 17:02:03 GMT"
+    },
+    {
+      "title": "Google outlines latest step towards creating artificial general intelligence - The Guardian",
+      "pubDate": "Tue, 05 Aug 2025 14:14:00 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2102,10 +2102,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "Scientists Created an Antimatter Qubit That Could Upend Physics - Popular Mechanics",
-      "pubDate": "Tue, 29 Jul 2025 14:15:00 GMT"
-    },
     {
       "title": "Scientists made AI search for new laws of physics and correct incorrect assumptions \u2014 it works - ITC.ua",
       "pubDate": "Mon, 04 Aug 2025 10:16:56 GMT"
@@ -2543,10 +2539,6 @@
   ],
   "united_states": [
     {
-      "title": "FTC and private litigants increase scrutiny of Made in the USA claims - Reuters",
-      "pubDate": "Tue, 29 Jul 2025 14:31:13 GMT"
-    },
-    {
       "title": "US placed on rights watchlist over health of its civil society under Trump | US news - The Guardian",
       "pubDate": "Wed, 30 Jul 2025 05:05:00 GMT"
     },
@@ -2768,10 +2760,6 @@
     }
   ],
   "neuroscience": [
-    {
-      "title": "Groundbreaking Living Brain Project challenges decades of assumptions in neuroscience - News-Medical",
-      "pubDate": "Tue, 29 Jul 2025 14:28:00 GMT"
-    },
     {
       "title": "Scientists Find Evidence That Memories in Brain Are Physically Moving Around - Futurism",
       "pubDate": "Sat, 02 Aug 2025 11:30:12 GMT"
@@ -3025,6 +3013,10 @@
     {
       "title": "Israel\u2019s international isolation has begun - Mondoweiss",
       "pubDate": "Fri, 01 Aug 2025 19:01:19 GMT"
+    },
+    {
+      "title": "China Is Competing in the New Nuclear Arms Race, Too - World Politics Review",
+      "pubDate": "Tue, 05 Aug 2025 12:24:05 GMT"
     }
   ],
   "information_security": [
@@ -3141,6 +3133,10 @@
     {
       "title": "Historic Scotch Whisky Distillery Launches Cask Investment Programme - Forbes",
       "pubDate": "Sun, 03 Aug 2025 16:04:11 GMT"
+    },
+    {
+      "title": "Norway Asks Wealth Fund to Review Israel Assets After Uproar - Bloomberg.com",
+      "pubDate": "Tue, 05 Aug 2025 13:32:40 GMT"
     }
   ],
   "hydrogen_fuel": [
@@ -3203,6 +3199,12 @@
     {
       "title": "Vladimir Putin's 'daughter' resurfaces with cryptic post: \u2018The man who destroyed my life' | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Tue, 05 Aug 2025 05:29:10 GMT"
+    }
+  ],
+  "violence": [
+    {
+      "title": "Active violence training at Mason High School - WILX",
+      "pubDate": "Tue, 05 Aug 2025 10:26:00 GMT"
     }
   ]
 }
