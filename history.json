@@ -65,10 +65,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump lawsuit against Murdoch and 'Wall Street Journal' turns personal - NPR",
-      "pubDate": "Tue, 29 Jul 2025 09:00:00 GMT"
-    },
-    {
       "title": "Trump-backed 'big beautiful bill' unleashes billions for Big Tech. How four of our megacaps benefit - CNBC",
       "pubDate": "Tue, 29 Jul 2025 17:00:35 GMT"
     },
@@ -192,10 +188,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI models may be accidentally (and secretly) learning each other\u2019s bad behaviors - NBC News",
-      "pubDate": "Tue, 29 Jul 2025 09:00:41 GMT"
-    },
     {
       "title": "Union calls for 'mandatory' employee consultations on AI programs - iTnews",
       "pubDate": "Tue, 29 Jul 2025 20:51:00 GMT"
@@ -419,10 +411,6 @@
   ],
   "climate": [
     {
-      "title": "EPA looks to overturn the scientific reason for climate regulations - Axios",
-      "pubDate": "Tue, 29 Jul 2025 09:47:44 GMT"
-    },
-    {
       "title": "Japan records highest temperature on record - Al Jazeera",
       "pubDate": "Wed, 30 Jul 2025 09:52:45 GMT"
     },
@@ -587,6 +575,10 @@
     {
       "title": "Ukraine claims it hacked Russia's nuclear submarine, leaks classified data - The Jerusalem Post",
       "pubDate": "Mon, 04 Aug 2025 21:50:30 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Mercenaries from China, Pakistan and Africa fighting for Moscow, claims Zelensky - The Independent",
+      "pubDate": "Tue, 05 Aug 2025 09:38:29 GMT"
     }
   ],
   "us_economy": [
@@ -661,13 +653,13 @@
     {
       "title": "Moody's Chief Economist Warns US Economy On 'Precipice Of Recession' As Tariffs, Labor Shortages Trigger Market Selloff - Benzinga",
       "pubDate": "Mon, 04 Aug 2025 08:48:39 GMT"
+    },
+    {
+      "title": "Most U.S. adults stressed by grocery costs: poll - Axios",
+      "pubDate": "Tue, 05 Aug 2025 04:29:06 GMT"
     }
   ],
   "china": [
-    {
-      "title": "More than 30 killed, tens of thousands evacuated in Chinese floods - The Washington Post",
-      "pubDate": "Tue, 29 Jul 2025 09:10:46 GMT"
-    },
     {
       "title": "Can China save South Africa from Donald Trump? - The Economist",
       "pubDate": "Tue, 29 Jul 2025 11:17:10 GMT"
@@ -905,10 +897,6 @@
   ],
   "democratic_party": [
     {
-      "title": "A Florida Democratic Party revival? It may take decades to overcome GOP, experts say - Tallahassee Democrat",
-      "pubDate": "Tue, 29 Jul 2025 09:06:10 GMT"
-    },
-    {
       "title": "Texas Republicans say 'hunt down' Democrats who are leaving state over redistricting - ABC News",
       "pubDate": "Mon, 04 Aug 2025 03:33:45 GMT"
     },
@@ -962,10 +950,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Oil prices rise further on trade war relief - Reuters",
-      "pubDate": "Tue, 29 Jul 2025 09:50:34 GMT"
-    },
     {
       "title": "Trump\u2019s trade war victory is already under siege - CNN",
       "pubDate": "Tue, 29 Jul 2025 12:59:00 GMT"
@@ -1723,10 +1707,6 @@
   ],
   "biology": [
     {
-      "title": "Researchers create 'virtual scientists' to solve complex biological problems - Phys.org",
-      "pubDate": "Tue, 29 Jul 2025 09:00:04 GMT"
-    },
-    {
       "title": "Scientists want to sequence all animals, fungi and plants on Earth - The Economist",
       "pubDate": "Thu, 31 Jul 2025 13:02:38 GMT"
     },
@@ -1887,6 +1867,10 @@
     {
       "title": "ACER proposes cost-sharing for hydrogen networks to avoid high initial tariffs - Strategic Energy Europe",
       "pubDate": "Tue, 05 Aug 2025 06:36:59 GMT"
+    },
+    {
+      "title": "US Residential Solar Faces 46% Drop By 2030 Under OBBBA, But Long-Term Market Poised For 1,500 GW Growth - Wood Mackenzie - SolarQuarter",
+      "pubDate": "Tue, 05 Aug 2025 06:26:10 GMT"
     }
   ],
   "global_health": [
@@ -1904,10 +1888,6 @@
     }
   ],
   "earth": [
-    {
-      "title": "China's 30-Meter Landsat Composites: A New Era in Earth Observation | Newswise - Newswise",
-      "pubDate": "Tue, 29 Jul 2025 09:45:00 GMT"
-    },
     {
       "title": "Mysterious boost to Earth's spin will make Aug. 5 one of the shortest days on record - Space",
       "pubDate": "Mon, 04 Aug 2025 10:00:00 GMT"
@@ -2642,10 +2622,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX Unveils New Version of Mars-Bound Starship - Newsweek",
-      "pubDate": "Tue, 29 Jul 2025 09:49:56 GMT"
-    },
     {
       "title": "How SpaceX's rocket diplomacy backfired in the Bahamas - Reuters",
       "pubDate": "Tue, 29 Jul 2025 10:11:11 GMT"
