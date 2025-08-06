@@ -31,10 +31,6 @@
   ],
   "iran": [
     {
-      "title": "US hits Iranian shipping network with major new sanctions - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 19:46:29 GMT"
-    },
-    {
       "title": "US imposes new sanctions on Iran, harshest since leaving nuclear deal in 2018 - Ynetnews",
       "pubDate": "Thu, 31 Jul 2025 05:52:04 GMT"
     },
@@ -287,6 +283,10 @@
     {
       "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
       "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
+    },
+    {
+      "title": "'The best solution is to murder him in his sleep': AI models can send subliminal messages that teach other AIs to be 'evil,' study claims - Live Science",
+      "pubDate": "Wed, 06 Aug 2025 10:56:22 GMT"
     }
   ],
   "financial_markets": [
@@ -823,6 +823,10 @@
     {
       "title": "Trump's threatened 40% tariff on 'transshipped' goods tries to target China and its manufacturing strength - Fortune",
       "pubDate": "Wed, 06 Aug 2025 07:21:00 GMT"
+    },
+    {
+      "title": "China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill - ABC News",
+      "pubDate": "Wed, 06 Aug 2025 19:03:15 GMT"
     }
   ],
   "us_politics": [
@@ -1141,6 +1145,10 @@
     {
       "title": "Federal Reserve Vacancy Opens Door for Trump to Shape the Central Bank's Future - Investopedia",
       "pubDate": "Wed, 06 Aug 2025 16:07:17 GMT"
+    },
+    {
+      "title": "Trump faces a variety of choices as he seeks to fill Fed vacancies - CNBC",
+      "pubDate": "Wed, 06 Aug 2025 19:22:42 GMT"
     }
   ],
   "earthquakes": [
@@ -1475,13 +1483,13 @@
     {
       "title": "Over 900,000 hit in massive healthcare data breach \u2014 names, addresses and Social Security numbers exposed online - Tom's Guide",
       "pubDate": "Tue, 05 Aug 2025 21:59:08 GMT"
+    },
+    {
+      "title": "Google says a group of hackers broke into one of its internal Salesforce systems - Axios",
+      "pubDate": "Wed, 06 Aug 2025 19:47:35 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin Price News: BTC Breaks Lower on Powell Stance - CoinDesk",
-      "pubDate": "Wed, 30 Jul 2025 19:48:50 GMT"
-    },
     {
       "title": "Bitcoin Price Dips Below $116,000 After White House Releases Digital Assets Report - Bitcoin Magazine",
       "pubDate": "Wed, 30 Jul 2025 21:45:08 GMT"
@@ -2049,6 +2057,10 @@
     {
       "title": "Mother of Israeli Hostage Says Occupation of Gaza Would be \u2018Death Sentence\u2019 for Her Son and Others - Time Magazine",
       "pubDate": "Wed, 06 Aug 2025 12:39:36 GMT"
+    },
+    {
+      "title": "Photos of hunger and despair from Gaza were staged in collaboration with Hamas, German newspaper reveals - Ynetnews",
+      "pubDate": "Wed, 06 Aug 2025 09:14:18 GMT"
     }
   ],
   "battery_technology": [
@@ -2597,6 +2609,10 @@
     {
       "title": "South Korea, Japan set heat records as deadly weather roils Asia - Semafor",
       "pubDate": "Tue, 05 Aug 2025 22:33:00 GMT"
+    },
+    {
+      "title": "Assessing North Korea-Southeast Asia\u2019s Diplomatic Renewal - 38 North",
+      "pubDate": "Wed, 06 Aug 2025 13:06:01 GMT"
     }
   ],
   "spacex": [
@@ -3245,6 +3261,12 @@
     {
       "title": "Blackstone Acquires Energy Data Analytics Platform Enverus - ESG Today",
       "pubDate": "Wed, 06 Aug 2025 14:09:21 GMT"
+    }
+  ],
+  "hurricanes": [
+    {
+      "title": "National Hurricane Center Watching 2 Areas For Possible Tropical Development, Including Near The Southeast US - The Weather Channel",
+      "pubDate": "Wed, 06 Aug 2025 10:26:45 GMT"
     }
   ]
 }
