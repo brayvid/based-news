@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Analysis: Donald Trump\u2019s long history of fake history - CNN",
-      "pubDate": "Wed, 30 Jul 2025 10:00:00 GMT"
-    },
-    {
       "title": "Trump's economy rebounds as growth jumps, consumer spending accelerates - Politico",
       "pubDate": "Wed, 30 Jul 2025 14:12:00 GMT"
     },
@@ -456,10 +452,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia hits Ukrainian training unit, killing and wounding servicemen - BBC",
-      "pubDate": "Wed, 30 Jul 2025 10:15:40 GMT"
-    },
     {
       "title": "Ukraine arrests air force officer for spying on Western-supplied fighter jets - Reuters",
       "pubDate": "Wed, 30 Jul 2025 13:56:46 GMT"
@@ -843,6 +835,10 @@
     {
       "title": "US charges Chinese nationals with illegally shipping Nvidia chips to China - Al Jazeera",
       "pubDate": "Wed, 06 Aug 2025 02:15:00 GMT"
+    },
+    {
+      "title": "Trump's threatened 40% tariff on 'transshipped' goods tries to target China and its manufacturing strength - Fortune",
+      "pubDate": "Wed, 06 Aug 2025 07:21:00 GMT"
     }
   ],
   "us_politics": [
@@ -926,10 +922,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea's Kim dismisses Trump's overtures and demands the U.S. accept it as a nuclear power - Milwaukee Independent",
-      "pubDate": "Wed, 30 Jul 2025 10:00:23 GMT"
-    },
     {
       "title": "North Korea sent me abroad to be a secret IT worker. My wages funded the regime - BBC",
       "pubDate": "Fri, 01 Aug 2025 23:28:22 GMT"
@@ -1169,6 +1161,10 @@
     {
       "title": "Federal Reserve And FDIC Release Public Portions Of 2025 Resolution Plans For Major U.S. And Foreign Banks - CU Today",
       "pubDate": "Wed, 06 Aug 2025 08:18:45 GMT"
+    },
+    {
+      "title": "Federal Reserve 2025 Jackson Hole Economic Policy Symposium will be held August 21-23 - investingLive",
+      "pubDate": "Wed, 06 Aug 2025 01:23:48 GMT"
     }
   ],
   "earthquakes": [
@@ -1399,10 +1395,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "White House set to unveil closely watched crypto policy report - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 10:33:50 GMT"
-    },
-    {
       "title": "Why ethereum is suddenly beating bitcoin - Business Insider",
       "pubDate": "Fri, 01 Aug 2025 09:30:00 GMT"
     },
@@ -1460,10 +1452,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Research shows data breach costs have reached an all-time high - CyberScoop",
-      "pubDate": "Wed, 30 Jul 2025 10:04:11 GMT"
-    },
     {
       "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
       "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
@@ -1791,6 +1779,10 @@
     {
       "title": "Ocasio-Cortez's office vandalized amid 'multiple threats' to her life, campaign manager says - AOL.com",
       "pubDate": "Wed, 06 Aug 2025 06:22:55 GMT"
+    },
+    {
+      "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - AOL.com",
+      "pubDate": "Wed, 06 Aug 2025 09:12:05 GMT"
     }
   ],
   "national_security": [
@@ -1918,10 +1910,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel-Gaza war: UK wants to 'affect situation on the ground' - BBC",
-      "pubDate": "Wed, 30 Jul 2025 10:50:23 GMT"
-    },
     {
       "title": "Israeli minister hints at annexing parts of Gaza - Reuters",
       "pubDate": "Wed, 30 Jul 2025 12:48:28 GMT"
@@ -2111,6 +2099,10 @@
     {
       "title": "AI discovers new material that could transform batteries - Yahoo.co",
       "pubDate": "Mon, 04 Aug 2025 15:52:29 GMT"
+    },
+    {
+      "title": "Used EV batteries could upend the race for long-duration storage - Canary Media",
+      "pubDate": "Wed, 06 Aug 2025 07:30:00 GMT"
     }
   ],
   "algorithms": [
@@ -2137,6 +2129,10 @@
     {
       "title": "Opening a new era in algorithmic development - IBM Research",
       "pubDate": "Tue, 05 Aug 2025 13:30:00 GMT"
+    },
+    {
+      "title": "X\u2019s Algorithmic Design Helped Fuel Anti-Muslim Riots After Southport Tragedy, Amnesty Report Finds - Digital Information World",
+      "pubDate": "Wed, 06 Aug 2025 10:43:00 GMT"
     }
   ],
   "astronomy": [
@@ -2401,10 +2397,6 @@
   ],
   "amazon": [
     {
-      "title": "Amazon still the online retailer of choice as cloud business faces competition - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 10:28:35 GMT"
-    },
-    {
       "title": "Pressure is on for Amazon to deliver strong Q2 earnings results following big beats by Google, Microsoft - Yahoo.co",
       "pubDate": "Thu, 31 Jul 2025 17:25:09 GMT"
     },
@@ -2665,10 +2657,6 @@
   ],
   "geopolitics": [
     {
-      "title": "Russia\u2019s Peaceful Atom Strategy - Geopolitical Futures",
-      "pubDate": "Wed, 30 Jul 2025 10:00:13 GMT"
-    },
-    {
       "title": "Russia rolls a geopolitical dice - The Express Tribune",
       "pubDate": "Sat, 02 Aug 2025 20:45:03 GMT"
     },
@@ -2881,10 +2869,6 @@
   ],
   "democracy": [
     {
-      "title": "American democracy is crashing out and it will be hard to reverse, international rights group warns - Salon.com",
-      "pubDate": "Wed, 30 Jul 2025 10:30:37 GMT"
-    },
-    {
       "title": "Macao police arrest former pro-democracy lawmaker for colluding with foreign forces - AP News",
       "pubDate": "Fri, 01 Aug 2025 01:19:00 GMT"
     },
@@ -2948,14 +2932,6 @@
     }
   ],
   "apple": [
-    {
-      "title": "Apple earnings under pressure from tariffs, slow AI roll-out - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 10:02:48 GMT"
-    },
-    {
-      "title": "Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome - The Hacker News",
-      "pubDate": "Wed, 30 Jul 2025 10:50:00 GMT"
-    },
     {
       "title": "Apple reports biggest revenue growth since December 2021 - CNBC",
       "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
@@ -3297,6 +3273,12 @@
     {
       "title": "More scientific papers being written with help of ChatGPT\u2014especially in computer science - Phys.org",
       "pubDate": "Tue, 05 Aug 2025 15:30:01 GMT"
+    }
+  ],
+  "venture_capital": [
+    {
+      "title": "Global Venture Capital Flows Into Agentic AI Startups Reach USD 2.8 Bn in Early 2025: Report - Entrepreneur",
+      "pubDate": "Wed, 06 Aug 2025 05:28:00 GMT"
     }
   ]
 }
