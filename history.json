@@ -151,6 +151,10 @@
     {
       "title": "Trump views foreign investment pledges as gifts. Trade partners say that's way off the mark - CNBC",
       "pubDate": "Wed, 06 Aug 2025 13:19:23 GMT"
+    },
+    {
+      "title": "Trump threatens federal takeover of DC after attack on former DOGE worker - PBS",
+      "pubDate": "Wed, 06 Aug 2025 14:03:42 GMT"
     }
   ],
   "russia": [
@@ -275,6 +279,10 @@
     {
       "title": "NHS Health App Saves $789M, But AI Transcription Raises Safety Alarms - eWEEK",
       "pubDate": "Tue, 05 Aug 2025 23:11:39 GMT"
+    },
+    {
+      "title": "AI Chatbots Often Spread Medical Falsehoods, Study Finds - scienceblog.com",
+      "pubDate": "Wed, 06 Aug 2025 14:03:58 GMT"
     }
   ],
   "financial_markets": [
@@ -320,10 +328,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Mark Zuckerberg says \u2018developing superintelligence is now in sight,\u2019 shades OpenAI and other firms focused on automating work - VentureBeat",
-      "pubDate": "Wed, 30 Jul 2025 15:11:45 GMT"
-    },
     {
       "title": "Meta shares jump as AI fuels ad sales, outweighing big capital costs - Reuters",
       "pubDate": "Thu, 31 Jul 2025 00:32:00 GMT"
@@ -939,10 +943,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump imposes 25% tariff on India: Centre hits back, says 'will take all steps to secure national interest' - Times of India",
-      "pubDate": "Wed, 30 Jul 2025 15:08:00 GMT"
-    },
-    {
       "title": "Trump hits Brazil with 50% tariffs, excludes aircraft, OJ, energy - Reuters",
       "pubDate": "Wed, 30 Jul 2025 20:21:10 GMT"
     },
@@ -1215,6 +1215,10 @@
     {
       "title": "Global quakes and eruptions revive West Coast seismic concerns - Axios",
       "pubDate": "Wed, 06 Aug 2025 13:35:59 GMT"
+    },
+    {
+      "title": "Scientists just found a massive earthquake threat hiding beneath Yukon - ScienceDaily",
+      "pubDate": "Wed, 06 Aug 2025 08:01:37 GMT"
     }
   ],
   "elon_musk": [
@@ -1252,10 +1256,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Flu, COVID may 'wake up' dormant cancer cells, new study finds - USA Today",
-      "pubDate": "Wed, 30 Jul 2025 15:02:01 GMT"
-    },
     {
       "title": "Breakthrough lung cancer treatment supercharges immune cells with mitochondria - ScienceDaily",
       "pubDate": "Sun, 03 Aug 2025 08:23:45 GMT"
@@ -1415,6 +1415,10 @@
     {
       "title": "Tesla\u2019s UK sales plummet 60% as Elon Musk receives $30bn stock award - Financial Times",
       "pubDate": "Tue, 05 Aug 2025 09:58:58 GMT"
+    },
+    {
+      "title": "Tesla Issues Voluntary Recall Due to Brake Fluid in Select Model 3 and Model Y Vehicles - Not a Tesla App",
+      "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
     }
   ],
   "asteroids": [
@@ -1831,6 +1835,10 @@
     {
       "title": "Global Energy Demand Outpaces Renewable Expansion - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Tue, 05 Aug 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Could California prevent more blackouts by joining a Western power market? - CalMatters",
+      "pubDate": "Wed, 06 Aug 2025 12:30:00 GMT"
     }
   ],
   "global_health": [
@@ -2110,10 +2118,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "EU climate goals at risk as ailing forests absorb less CO2, scientists say - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 15:05:08 GMT"
-    },
     {
       "title": "Google\u2019s Newest AI Model Acts Like a Satellite to Track Climate Change - WIRED",
       "pubDate": "Wed, 30 Jul 2025 18:57:44 GMT"
@@ -2397,6 +2401,10 @@
     {
       "title": "US Army to boost Patriot air defense battalions - MSN",
       "pubDate": "Tue, 05 Aug 2025 16:02:43 GMT"
+    },
+    {
+      "title": "Russia Strikes Ukrainian Defense Infrastructure in 142 Areas - \u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0434\u0435\u043b\u043e",
+      "pubDate": "Wed, 06 Aug 2025 08:32:57 GMT"
     }
   ],
   "world_news": [
@@ -2433,12 +2441,6 @@
     {
       "title": "Global Banks Invest $100 Billion in Blockchain Since 2020 - AInvest",
       "pubDate": "Sun, 03 Aug 2025 19:08:26 GMT"
-    }
-  ],
-  "large_language_models": [
-    {
-      "title": "AI Models Often Use Stigmatizing Language - Legal Reader",
-      "pubDate": "Wed, 30 Jul 2025 15:26:50 GMT"
     }
   ],
   "business": [
@@ -3217,6 +3219,12 @@
     {
       "title": "Global Venture Capital Flows Into Agentic AI Startups Reach USD 2.8 Bn in Early 2025: Report - Entrepreneur",
       "pubDate": "Wed, 06 Aug 2025 05:28:00 GMT"
+    }
+  ],
+  "analytics": [
+    {
+      "title": "Blackstone Acquires Energy Data Analytics Platform Enverus - ESG Today",
+      "pubDate": "Wed, 06 Aug 2025 14:09:21 GMT"
     }
   ]
 }
