@@ -449,10 +449,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 6 - The New York Times",
-      "pubDate": "Thu, 31 Jul 2025 06:08:07 GMT"
-    },
-    {
       "title": "Germany to Send $9.7 Billion in Military Aid to Ukraine in 2026 Amid Record Defense Spending - UNITED24 Media",
       "pubDate": "Thu, 31 Jul 2025 10:14:31 GMT"
     },
@@ -641,10 +637,6 @@
   ],
   "china": [
     {
-      "title": "Nvidia\u2019s China-bound H20 AI chips face Beijing scrutiny over \u2018tracking\u2019 and security concerns - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 06:15:09 GMT"
-    },
-    {
       "title": "Chinese official makes rare admission of failings over deadly Beijing floods - The Guardian",
       "pubDate": "Thu, 31 Jul 2025 10:19:00 GMT"
     },
@@ -803,6 +795,10 @@
     {
       "title": "China\u2019s Property Slump to Last Longer Than Expected, UBS Says - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Trump vows more secondary sanctions for Russia oil buyers are coming, including potentially on China - CNN",
+      "pubDate": "Thu, 07 Aug 2025 04:32:00 GMT"
     }
   ],
   "us_politics": [
@@ -1035,6 +1031,10 @@
     {
       "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
       "pubDate": "Thu, 07 Aug 2025 01:15:39 GMT"
+    },
+    {
+      "title": "US still prioritizing zero-trust migration to limit hacks\u2019 damage - Cybersecurity Dive",
+      "pubDate": "Wed, 06 Aug 2025 19:05:39 GMT"
     }
   ],
   "recession": [
@@ -1065,6 +1065,10 @@
     {
       "title": "Recession Watch Metrics - Calculated Risk",
       "pubDate": "Wed, 06 Aug 2025 17:21:00 GMT"
+    },
+    {
+      "title": "The next jobs downturn could mean an AI-induced purge of millions of workers - Axios",
+      "pubDate": "Wed, 06 Aug 2025 20:38:24 GMT"
     }
   ],
   "drones": [
@@ -1779,6 +1783,10 @@
     {
       "title": "The Pentagon\u2019s supply chain has a blind spot and it could be a national security risk - Federal News Network",
       "pubDate": "Wed, 06 Aug 2025 19:01:35 GMT"
+    },
+    {
+      "title": "U.S. nuclear weapons agency breached in hack - Knewz",
+      "pubDate": "Wed, 06 Aug 2025 22:30:03 GMT"
     }
   ],
   "ethereum": [
@@ -2079,6 +2087,10 @@
     {
       "title": "Israel is using US munitions to \u2018illegally and indiscriminately\u2019 attack Gaza school shelters, Human Rights Watch says - CNN",
       "pubDate": "Thu, 07 Aug 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
+      "pubDate": "Thu, 07 Aug 2025 05:26:46 GMT"
     }
   ],
   "battery_technology": [
@@ -2101,6 +2113,10 @@
     {
       "title": "China Issues New Rules on Exports of EV Batteries and Materials - The Institute for Energy Research",
       "pubDate": "Wed, 06 Aug 2025 13:05:23 GMT"
+    },
+    {
+      "title": "Samsung SDI batteries power world\u2019s longest journey by EV on single charge - The Korea Times",
+      "pubDate": "Thu, 07 Aug 2025 02:32:00 GMT"
     }
   ],
   "algorithms": [
