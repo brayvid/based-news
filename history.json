@@ -341,10 +341,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta Platforms profits surge helps drive Zuckerberg\u2019s AI ambitions - BBC",
-      "pubDate": "Thu, 31 Jul 2025 01:03:35 GMT"
-    },
-    {
       "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like N.B.A. Stars. - The New York Times",
       "pubDate": "Thu, 31 Jul 2025 15:07:16 GMT"
     },
@@ -603,10 +599,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economy surges in Q2 of 2025, exceeding expectations - Lynnwood Times",
-      "pubDate": "Thu, 31 Jul 2025 01:51:34 GMT"
-    },
-    {
       "title": "The US economy is \u2018bouncing back\u2019 under Trump, says commentator - foxnews.com",
       "pubDate": "Thu, 31 Jul 2025 03:24:59 GMT"
     },
@@ -660,14 +652,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Factory Activity Worsens as Exports Show Signs of Slowing - Bloomberg",
-      "pubDate": "Thu, 31 Jul 2025 01:33:00 GMT"
-    },
-    {
-      "title": "China's July manufacturing activity contracts more than expected \u2014 declines for fourth-straight month - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 01:44:00 GMT"
-    },
     {
       "title": "Nvidia\u2019s China-bound H20 AI chips face Beijing scrutiny over \u2018tracking\u2019 and security concerns - CNBC",
       "pubDate": "Thu, 31 Jul 2025 06:15:09 GMT"
@@ -1073,6 +1057,10 @@
     {
       "title": "Goldman Trader Says Buoyant Stocks Are Ignoring Recession Risks - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 09:07:42 GMT"
+    },
+    {
+      "title": "Recession Watch Metrics - Calculated Risk",
+      "pubDate": "Wed, 06 Aug 2025 17:21:00 GMT"
     }
   ],
   "drones": [
@@ -1223,6 +1211,10 @@
     {
       "title": "More earthquakes shake Southern California after pair of quakes rattle nation's most populous metros - FOX Weather",
       "pubDate": "Wed, 06 Aug 2025 08:47:00 GMT"
+    },
+    {
+      "title": "Major Earthquake Shifts and Sinks Huge Russian Peninsula - Newsweek",
+      "pubDate": "Wed, 06 Aug 2025 16:17:02 GMT"
     }
   ],
   "elon_musk": [
@@ -1317,6 +1309,10 @@
     {
       "title": "Is NASA Wallops Going GOCO? - NASA Watch",
       "pubDate": "Tue, 05 Aug 2025 18:24:38 GMT"
+    },
+    {
+      "title": "China wants to return samples from Mars. Will there be any international cooperation? - Space",
+      "pubDate": "Wed, 06 Aug 2025 14:00:00 GMT"
     }
   ],
   "health_care": [
@@ -1375,6 +1371,10 @@
     {
       "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
+    },
+    {
+      "title": "Federal Rooftop Solar Grants Are on the Chopping Block. Here\u2019s Who Would Get Hurt - Inside Climate News",
+      "pubDate": "Wed, 06 Aug 2025 19:44:51 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1431,12 +1431,6 @@
     {
       "title": "Tesla Issues Voluntary Recall Due to Brake Fluid in Select Model 3 and Model Y Vehicles - Not a Tesla App",
       "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
-    }
-  ],
-  "asteroids": [
-    {
-      "title": "A giant 110-foot asteroid is on a collision course with Earth, NASA confirms - Moneycontrol",
-      "pubDate": "Thu, 31 Jul 2025 01:30:08 GMT"
     }
   ],
   "data_breach": [
@@ -1584,10 +1578,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
-      "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
-    },
     {
       "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
       "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
@@ -2361,6 +2351,10 @@
     {
       "title": "Germany hails drop in asylum claims, citing tough Merz policies - The Times",
       "pubDate": "Sun, 03 Aug 2025 21:50:16 GMT"
+    },
+    {
+      "title": "EU staff urge sanctions on Israel over Gaza crisis, warn against 'silence as complicity' - Ynetnews",
+      "pubDate": "Wed, 06 Aug 2025 20:08:33 GMT"
     }
   ],
   "amazon": [
@@ -2669,6 +2663,10 @@
     {
       "title": "India's Modi to visit China for first time in 7 years as tensions with US rise - Reuters",
       "pubDate": "Wed, 06 Aug 2025 12:47:18 GMT"
+    },
+    {
+      "title": "Trump\u2019s tariffs are giving Lula a boost and shifting Brazil\u2019s geopolitics - Atlantic Council",
+      "pubDate": "Wed, 06 Aug 2025 23:20:00 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2991,10 +2989,6 @@
   ],
   "hydroelectric_power": [
     {
-      "title": "Massive Canada To U.S. Power Transmission Project To Affect Traffic Along The Hudson - Patch",
-      "pubDate": "Thu, 31 Jul 2025 01:27:00 GMT"
-    },
-    {
       "title": "China starts Tibet dam megaproject to power coastal cities - Nikkei Asia",
       "pubDate": "Mon, 04 Aug 2025 20:21:00 GMT"
     }
@@ -3273,6 +3267,12 @@
     {
       "title": "Scientists achieve first direct measurement of quantum distance in solid material - R&D World",
       "pubDate": "Wed, 06 Aug 2025 23:30:31 GMT"
+    }
+  ],
+  "self-driving_cars": [
+    {
+      "title": "US issues exemption for self-driving Zoox vehicles, closes probe - Reuters",
+      "pubDate": "Wed, 06 Aug 2025 19:30:27 GMT"
     }
   ]
 }
