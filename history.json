@@ -77,10 +77,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump plans massive renovation of White House - Politico",
-      "pubDate": "Thu, 31 Jul 2025 19:07:00 GMT"
-    },
-    {
       "title": "Trump issues order imposing new global tariff rates effective Aug. 7 - Politico",
       "pubDate": "Fri, 01 Aug 2025 00:37:00 GMT"
     },
@@ -849,6 +845,10 @@
     {
       "title": "Trump threatens to take over DC police, might bring in National Guard - NBC News",
       "pubDate": "Thu, 07 Aug 2025 00:02:00 GMT"
+    },
+    {
+      "title": "Record Party Gaps in Job Approval of Supreme Court, Congress - Gallup News",
+      "pubDate": "Thu, 07 Aug 2025 08:15:00 GMT"
     }
   ],
   "democratic_party": [
@@ -953,6 +953,10 @@
     {
       "title": "European earnings lag behind US as trade war throttles market revival - Financial Times",
       "pubDate": "Thu, 07 Aug 2025 04:00:51 GMT"
+    },
+    {
+      "title": "The trade war isn't over. It's just beginning - Axios",
+      "pubDate": "Thu, 07 Aug 2025 15:52:31 GMT"
     }
   ],
   "cybersecurity": [
@@ -1353,6 +1357,10 @@
     {
       "title": "Global profits plunge amid Trump's latest tariffs \u2014 what's at stake for Australia? - SBS Australia",
       "pubDate": "Wed, 06 Aug 2025 06:42:14 GMT"
+    },
+    {
+      "title": "US Farm Trade Deficit Hits Record as Historic Shift Deepens - Bloomberg.com",
+      "pubDate": "Thu, 07 Aug 2025 18:24:58 GMT"
     }
   ],
   "renewable_energy": [
@@ -1657,6 +1665,10 @@
     {
       "title": "Nuclear Science Center begins expansion to \u2018supercharge\u2019 nuclear science capabilities - WSU Insider",
       "pubDate": "Wed, 06 Aug 2025 13:06:55 GMT"
+    },
+    {
+      "title": "Scientists develop technology that brings new precision to genome editing - Phys.org",
+      "pubDate": "Thu, 07 Aug 2025 11:50:04 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -1771,6 +1783,10 @@
     {
       "title": "Russia's Shoigu meets Indian national security adviser, stresses 'strategic partnership' - The Economic Times",
       "pubDate": "Thu, 07 Aug 2025 08:58:06 GMT"
+    },
+    {
+      "title": "Active-duty Army soldier charged with attempting to share sensitive information about military tanks with Russia - ABC News",
+      "pubDate": "Thu, 07 Aug 2025 11:29:54 GMT"
     }
   ],
   "ethereum": [
@@ -1818,10 +1834,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Trump administration cancels plans to develop new offshore wind projects - The Pilot News",
-      "pubDate": "Thu, 31 Jul 2025 19:55:00 GMT"
-    },
     {
       "title": "America\u2019s Top Gas Exporter Claims Massive Tax Credit for \u201cAlternative\u201d Fuels - Mother Jones",
       "pubDate": "Sat, 02 Aug 2025 10:00:00 GMT"
@@ -2165,10 +2177,6 @@
   ],
   "climate_change": [
     {
-      "title": "New Mexico environment leaders push back at EPA proposed climate change rollback - Source New Mexico",
-      "pubDate": "Thu, 31 Jul 2025 19:27:02 GMT"
-    },
-    {
       "title": "Scientists Warn Of Climate \u2018Tipping Point\u2019 After Marine Heat Waves Hit 276-Year Extremes - Study Finds",
       "pubDate": "Thu, 31 Jul 2025 21:35:55 GMT"
     },
@@ -2461,10 +2469,6 @@
   ],
   "blockchain": [
     {
-      "title": "JPMorgan CEO Jamie Dimon says he believes in stablecoins and blockchain: CNBC Crypto World - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 19:06:00 GMT"
-    },
-    {
       "title": "Subzero Labs raises $20 million to build a blockchain for the \u2018real world\u2019 - Fortune",
       "pubDate": "Fri, 01 Aug 2025 16:00:00 GMT"
     },
@@ -2601,6 +2605,10 @@
     {
       "title": "Iran Executes Two Men on Espionage, Terrorism Charges - IranWire",
       "pubDate": "Wed, 06 Aug 2025 10:26:16 GMT"
+    },
+    {
+      "title": "Three Charged With Showing Support for Palestine Action \u201cTerrorist Group\u201d, UK Met Says - Homeland Security Today",
+      "pubDate": "Thu, 07 Aug 2025 09:49:27 GMT"
     }
   ],
   "asia": [
@@ -3017,12 +3025,6 @@
       "pubDate": "Thu, 07 Aug 2025 15:06:33 GMT"
     }
   ],
-  "thunderstorms": [
-    {
-      "title": "Severe thunderstorms, tornadoes possible as Tri-State Area braces for heavy rain that could lead to flash flooding - CBS News",
-      "pubDate": "Thu, 31 Jul 2025 19:10:53 GMT"
-    }
-  ],
   "military_intelligence": [
     {
       "title": "Israeli Military Intelligence Goes Back to Basics With Focus on Spies, Not Tech - Bloomberg",
@@ -3323,6 +3325,12 @@
     {
       "title": "US import taxes hit levels not seen in nearly 100 years. Follow live updates. - The Boston Globe",
       "pubDate": "Thu, 07 Aug 2025 16:21:02 GMT"
+    }
+  ],
+  "research_and_development": [
+    {
+      "title": "Federal Acquisition Regulations Revised for R&D and Construction - JD Supra",
+      "pubDate": "Thu, 07 Aug 2025 14:44:28 GMT"
     }
   ]
 }
