@@ -73,6 +73,10 @@
     {
       "title": "Iran executes nuclear scientist for spying for Israel - The Telegraph",
       "pubDate": "Wed, 06 Aug 2025 08:42:00 GMT"
+    },
+    {
+      "title": "US unveils new sanctions aimed at Iran revenue generation, sanctions evasion - The Hill",
+      "pubDate": "Thu, 07 Aug 2025 20:52:00 GMT"
     }
   ],
   "donald_trump": [
@@ -208,10 +212,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Meta's AI Has Shown Impressively Terrifying Signs Of Self-Improvement - bgr.com",
-      "pubDate": "Thu, 31 Jul 2025 21:21:02 GMT"
-    },
     {
       "title": "DoubleVerify warns AI recipe sites threaten advertiser brand safety - PPC Land",
       "pubDate": "Fri, 01 Aug 2025 05:05:54 GMT"
@@ -1195,6 +1195,10 @@
     {
       "title": "Early Quake Warning System in Alaska Could Provide Critical Seconds - Technology Networks",
       "pubDate": "Thu, 07 Aug 2025 08:07:54 GMT"
+    },
+    {
+      "title": "Magnitude 3.8 - 62 miles SE of Yakutat - Alaska Earthquake Center",
+      "pubDate": "Thu, 07 Aug 2025 13:18:54 GMT"
     }
   ],
   "elon_musk": [
@@ -1488,10 +1492,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "MicroStrategy Swings to Profit on Bitcoin Gains - The Wall Street Journal",
-      "pubDate": "Thu, 31 Jul 2025 21:17:00 GMT"
-    },
     {
       "title": "Bitcoin records its highest monthly close in history at $115,644 despite 2% dip - The Block",
       "pubDate": "Fri, 01 Aug 2025 04:03:25 GMT"
@@ -2151,19 +2151,11 @@
   ],
   "cybersecurity_and_infrastructure_security_agency": [
     {
-      "title": "The Cybersecurity and Infrastructure Security Agency (CISA) Agrees to Release Report detailing Telecom Infrastructure Vulnerabilities Which Are Tied to the Salt Typhoon Attacks - Womble Bond Dickinson",
-      "pubDate": "Thu, 31 Jul 2025 21:11:15 GMT"
-    },
-    {
       "title": "CISA Issues Urgent Microsoft CVE-2025-53786 Security Warning - Forbes",
       "pubDate": "Thu, 07 Aug 2025 08:49:18 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Scientists Warn Of Climate \u2018Tipping Point\u2019 After Marine Heat Waves Hit 276-Year Extremes - Study Finds",
-      "pubDate": "Thu, 31 Jul 2025 21:35:55 GMT"
-    },
     {
       "title": "Marine climate interventions can have unintended consequences \u2013 we need to manage the risks - The Conversation",
       "pubDate": "Fri, 01 Aug 2025 06:05:36 GMT"
@@ -2923,10 +2915,6 @@
       "pubDate": "Fri, 01 Aug 2025 00:03:00 GMT"
     },
     {
-      "title": "Apple crushes Wall Street expectations as iPhone sales soar - NBC News",
-      "pubDate": "Thu, 31 Jul 2025 21:03:36 GMT"
-    },
-    {
       "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
       "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
     },
@@ -2966,10 +2954,6 @@
     }
   ],
   "microsoft": [
-    {
-      "title": "Microsoft briefly becomes the second company to hit $4 trillion in market value - NBC News",
-      "pubDate": "Thu, 31 Jul 2025 21:02:22 GMT"
-    },
     {
       "title": "Microsoft storing Israeli intelligence trove used to attack Palestinians - +972 Magazine",
       "pubDate": "Wed, 06 Aug 2025 11:35:32 GMT"
@@ -3301,6 +3285,12 @@
     {
       "title": "Federal Acquisition Regulations Revised for R&D and Construction - JD Supra",
       "pubDate": "Thu, 07 Aug 2025 14:44:28 GMT"
+    }
+  ],
+  "chemistry": [
+    {
+      "title": "Scientists synthesized elusive 'super alcohol' \u2014 a 'seed of life molecule' that marks a step toward finding alien life - Live Science",
+      "pubDate": "Thu, 07 Aug 2025 18:06:27 GMT"
     }
   ]
 }
