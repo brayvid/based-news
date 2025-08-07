@@ -31,10 +31,6 @@
   ],
   "iran": [
     {
-      "title": "US imposes new sanctions on Iran, harshest since leaving nuclear deal in 2018 - Ynetnews",
-      "pubDate": "Thu, 31 Jul 2025 05:52:04 GMT"
-    },
-    {
       "title": "UK, US and allies accuse Iran of cross-border assassination plots - Al Jazeera",
       "pubDate": "Thu, 31 Jul 2025 17:36:22 GMT"
     },
@@ -68,10 +64,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump says Canada's move to recognise Palestinian state threatens trade deal - BBC",
-      "pubDate": "Thu, 31 Jul 2025 05:48:45 GMT"
-    },
     {
       "title": "Trump plans massive renovation of White House - Politico",
       "pubDate": "Thu, 31 Jul 2025 19:07:00 GMT"
@@ -427,6 +419,10 @@
     {
       "title": "Parents of Parkland shooting victim use AI to \"bring him back\" - Axios",
       "pubDate": "Wed, 06 Aug 2025 19:57:59 GMT"
+    },
+    {
+      "title": "Robots can program each other's brains with AI, scientist shows - theregister.com",
+      "pubDate": "Thu, 07 Aug 2025 00:29:00 GMT"
     }
   ],
   "climate": [
@@ -455,10 +451,6 @@
     {
       "title": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 6 - The New York Times",
       "pubDate": "Thu, 31 Jul 2025 06:08:07 GMT"
-    },
-    {
-      "title": "Ukraine: Russian strikes on Kyiv kill six and injure more than 50, Ukrainian officials say - BBC",
-      "pubDate": "Thu, 31 Jul 2025 05:31:51 GMT"
     },
     {
       "title": "Germany to Send $9.7 Billion in Military Aid to Ukraine in 2026 Amid Record Defense Spending - UNITED24 Media",
@@ -969,6 +961,10 @@
     {
       "title": "Trump raises tariffs on India, Canada, Brazil and others over stalled trade deals - Fox Business",
       "pubDate": "Wed, 06 Aug 2025 20:09:00 GMT"
+    },
+    {
+      "title": "Trump to put additional 25% import taxes on India, bringing combined tariffs to 50% - AP News",
+      "pubDate": "Thu, 07 Aug 2025 02:38:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -1485,6 +1481,10 @@
     {
       "title": "Google Discloses Data Breach via Salesforce Hack - SecurityWeek",
       "pubDate": "Wed, 06 Aug 2025 17:25:17 GMT"
+    },
+    {
+      "title": "Judge Allows Key Claims In Mr. Cooper Data Breach Case to Proceed - National Mortgage Professional",
+      "pubDate": "Thu, 07 Aug 2025 04:53:35 GMT"
     }
   ],
   "bitcoin": [
@@ -1775,6 +1775,10 @@
     {
       "title": "China warns Worldcoin-style iris data collection for crypto poses national security threat - The Block",
       "pubDate": "Wed, 06 Aug 2025 07:41:25 GMT"
+    },
+    {
+      "title": "The Pentagon\u2019s supply chain has a blind spot and it could be a national security risk - Federal News Network",
+      "pubDate": "Wed, 06 Aug 2025 19:01:35 GMT"
     }
   ],
   "ethereum": [
@@ -2071,6 +2075,10 @@
     {
       "title": "Updates: Israeli blockade on fuel endangering 100 premature babies in Gaza - Al Jazeera",
       "pubDate": "Wed, 06 Aug 2025 13:43:03 GMT"
+    },
+    {
+      "title": "Israel is using US munitions to \u2018illegally and indiscriminately\u2019 attack Gaza school shelters, Human Rights Watch says - CNN",
+      "pubDate": "Thu, 07 Aug 2025 04:01:00 GMT"
     }
   ],
   "battery_technology": [
