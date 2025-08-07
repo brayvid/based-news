@@ -35,6 +35,10 @@
     {
       "title": "Israel Accused of Censoring Battle Damage During 12-Day War By Iran - National Security Journal",
       "pubDate": "Thu, 07 Aug 2025 12:24:26 GMT"
+    },
+    {
+      "title": "Israel signs record $35 billion gas export deal with Egypt - The Jerusalem Post",
+      "pubDate": "Thu, 07 Aug 2025 11:19:10 GMT"
     }
   ],
   "iran": [
@@ -431,6 +435,10 @@
     {
       "title": "Microsoft accidentally confirms GPT-5, GPT-5-Mini, GPT-5-Nano ahead of launch - BleepingComputer",
       "pubDate": "Thu, 07 Aug 2025 06:49:12 GMT"
+    },
+    {
+      "title": "Stunning new data reveals 140% layoff spike in July, with almost half connected to AI and 'technological updates' - Fortune",
+      "pubDate": "Thu, 07 Aug 2025 16:13:00 GMT"
     }
   ],
   "climate": [
@@ -456,10 +464,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Senate panel advances funding bill with $1 billion for Ukraine - The Hill",
-      "pubDate": "Thu, 31 Jul 2025 16:05:00 GMT"
-    },
     {
       "title": "Kyiv toll rises to 15 as wave of Russian strikes defies Trump ceasefire demand - BBC",
       "pubDate": "Thu, 31 Jul 2025 17:01:31 GMT"
@@ -1501,6 +1505,10 @@
     {
       "title": "Judge Allows Key Claims In Mr. Cooper Data Breach Case to Proceed - National Mortgage Professional",
       "pubDate": "Thu, 07 Aug 2025 04:53:35 GMT"
+    },
+    {
+      "title": "Google Confirms It Has Been Hacked \u2014 Warns User Data Stolen - Forbes",
+      "pubDate": "Thu, 07 Aug 2025 07:33:54 GMT"
     }
   ],
   "bitcoin": [
@@ -1833,10 +1841,6 @@
     {
       "title": "Trump administration cancels plans to develop new offshore wind projects - The Pilot News",
       "pubDate": "Thu, 31 Jul 2025 19:55:00 GMT"
-    },
-    {
-      "title": "As the cost of renewables plummets, other challenges emerge - Corporate Knights",
-      "pubDate": "Thu, 31 Jul 2025 16:43:22 GMT"
     },
     {
       "title": "America\u2019s Top Gas Exporter Claims Massive Tax Credit for \u201cAlternative\u201d Fuels - Mother Jones",
@@ -2173,10 +2177,6 @@
     {
       "title": "The Cybersecurity and Infrastructure Security Agency (CISA) Agrees to Release Report detailing Telecom Infrastructure Vulnerabilities Which Are Tied to the Salt Typhoon Attacks - Womble Bond Dickinson",
       "pubDate": "Thu, 31 Jul 2025 21:11:15 GMT"
-    },
-    {
-      "title": "CISA open-sources Thorium platform for malware, forensic analysis - BleepingComputer",
-      "pubDate": "Thu, 31 Jul 2025 16:43:00 GMT"
     },
     {
       "title": "CISA Issues Urgent Microsoft CVE-2025-53786 Security Warning - Forbes",
@@ -2665,6 +2665,10 @@
     {
       "title": "SpaceX delivers four astronauts to the International Space Station just 15 hours after launch - ABC News",
       "pubDate": "Sun, 03 Aug 2025 11:56:28 GMT"
+    },
+    {
+      "title": "Elon Musk has made an announcement: \u2018Starship flight to Mars crewed by Optimus in Nov/Dec next year\u2019 - The Times of India",
+      "pubDate": "Thu, 07 Aug 2025 11:15:00 GMT"
     }
   ],
   "geopolitics": [
@@ -2695,6 +2699,10 @@
     {
       "title": "Trump\u2019s tariffs are giving Lula a boost and shifting Brazil\u2019s geopolitics - Atlantic Council",
       "pubDate": "Wed, 06 Aug 2025 23:20:00 GMT"
+    },
+    {
+      "title": "US losing ground to China in competition over Central Asia\u2019s critical minerals - Eurasianet",
+      "pubDate": "Thu, 07 Aug 2025 16:20:11 GMT"
     }
   ],
   "electric_vehicle": [
@@ -3245,6 +3253,10 @@
     {
       "title": "Active violence training at Mason High School - WILX",
       "pubDate": "Tue, 05 Aug 2025 10:26:00 GMT"
+    },
+    {
+      "title": "Warlord \u2018Barbecue\u2019 Threatens Haiti PM Office as Violence Flares - Bloomberg.com",
+      "pubDate": "Thu, 07 Aug 2025 14:11:28 GMT"
     }
   ],
   "computer_science": [
@@ -3317,6 +3329,12 @@
     {
       "title": "OpenAI ChatGPT-5 launch LIVE: All the big news as it happens - Tom's Guide",
       "pubDate": "Thu, 07 Aug 2025 15:34:06 GMT"
+    }
+  ],
+  "taxes": [
+    {
+      "title": "New tariffs snap into effect, raising import taxes to highest level since Great Depression - NBC News",
+      "pubDate": "Thu, 07 Aug 2025 12:18:00 GMT"
     }
   ]
 }
