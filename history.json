@@ -209,16 +209,8 @@
   ],
   "ai_safety": [
     {
-      "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
-      "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
-    },
-    {
       "title": "Meta joins others at UPenn event to support AI that enhances public safety - Metro Philadelphia",
       "pubDate": "Thu, 31 Jul 2025 20:21:58 GMT"
-    },
-    {
-      "title": "Inside the Summit Where China Pitched Its AI Agenda to the World - WIRED",
-      "pubDate": "Thu, 31 Jul 2025 15:04:47 GMT"
     },
     {
       "title": "Meta's AI Has Shown Impressively Terrifying Signs Of Self-Improvement - bgr.com",
@@ -348,10 +340,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like N.B.A. Stars. - The New York Times",
-      "pubDate": "Thu, 31 Jul 2025 15:07:16 GMT"
-    },
     {
       "title": "UNM weighs in on artificial intelligence - Artesia Daily Press",
       "pubDate": "Thu, 31 Jul 2025 17:30:00 GMT"
@@ -595,6 +583,10 @@
     {
       "title": "Russian drones hunt civilians as Putin zeroes in on Ukraine\u2019s Kherson - CNN",
       "pubDate": "Thu, 07 Aug 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Putin reveals one possible location for Trump talks - and reacts to idea of meeting Zelenskyy - Sky News",
+      "pubDate": "Thu, 07 Aug 2025 06:07:39 GMT"
     }
   ],
   "us_economy": [
@@ -913,6 +905,10 @@
     {
       "title": "North Korean Hackers Are Using AI to Get Jobs at U.S. Companies and Steal Data - Inc.com",
       "pubDate": "Tue, 05 Aug 2025 10:04:14 GMT"
+    },
+    {
+      "title": "Russia Lends Nuclear Support to New Combat Ally - Newsweek",
+      "pubDate": "Thu, 07 Aug 2025 12:55:05 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -972,14 +968,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Ransomware gangs capitalize on law enforcement takedowns of competitors - Cybersecurity Dive",
-      "pubDate": "Thu, 31 Jul 2025 15:31:33 GMT"
-    },
-    {
-      "title": "Industry groups urge vigilance as Scattered Spider evolves tactics - Cybersecurity Dive",
-      "pubDate": "Thu, 31 Jul 2025 15:46:33 GMT"
-    },
     {
       "title": "It\u2019s time to sound the alarm on water sector cybersecurity - Help Net Security",
       "pubDate": "Fri, 01 Aug 2025 06:00:47 GMT"
@@ -1691,10 +1679,6 @@
   ],
   "hacking": [
     {
-      "title": "The Kremlin\u2019s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware - WIRED",
-      "pubDate": "Thu, 31 Jul 2025 16:00:00 GMT"
-    },
-    {
       "title": "US Authorities Extradite Nigerian Man Accused of Hacking and Fraud - Infosecurity Magazine",
       "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
     },
@@ -2103,13 +2087,13 @@
     {
       "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
       "pubDate": "Thu, 07 Aug 2025 05:26:46 GMT"
+    },
+    {
+      "title": "Hamas using secret cash stockpile, looted aid to pay employees and loyalists \u2014 BBC - The Times of Israel",
+      "pubDate": "Thu, 07 Aug 2025 06:33:52 GMT"
     }
   ],
   "battery_technology": [
-    {
-      "title": "QuantumScape: Powering the Future with Solid-State Battery Innovation - FinancialContent",
-      "pubDate": "Thu, 31 Jul 2025 15:37:00 GMT"
-    },
     {
       "title": "AI discovers new material that could transform batteries - Yahoo.co",
       "pubDate": "Mon, 04 Aug 2025 15:52:29 GMT"
@@ -2125,6 +2109,10 @@
     {
       "title": "Samsung SDI batteries power world\u2019s longest journey by EV on single charge - The Korea Times",
       "pubDate": "Thu, 07 Aug 2025 02:32:00 GMT"
+    },
+    {
+      "title": "Experts Warn \u201cBattery Failures Are Deadly\u201d As New Prediction Tool Promises Breakthrough For Safer EVs - Energy Reporters",
+      "pubDate": "Thu, 07 Aug 2025 13:09:44 GMT"
     }
   ],
   "algorithms": [
@@ -2411,10 +2399,6 @@
       "pubDate": "Thu, 31 Jul 2025 17:25:09 GMT"
     },
     {
-      "title": "Amazon gloomy earnings forecast overshadows better-than-expected results - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 16:00:02 GMT"
-    },
-    {
       "title": "Amazon CEO says prices steady despite tariff risk - Axios",
       "pubDate": "Thu, 31 Jul 2025 22:03:23 GMT"
     },
@@ -2440,10 +2424,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "Senate panel OKs plans for $852 billion in defense spending next year - Military Times",
-      "pubDate": "Thu, 31 Jul 2025 15:19:18 GMT"
-    },
     {
       "title": "Ukraine Allocates $232 Million to Drones, Logistics After 22,700 Successful Strikes in July - UNITED24 Media",
       "pubDate": "Sat, 02 Aug 2025 12:46:09 GMT"
@@ -2857,10 +2837,6 @@
   ],
   "big_data": [
     {
-      "title": "Big data begins to crack the cold case of endometriosis - Medical Xpress",
-      "pubDate": "Thu, 31 Jul 2025 15:00:01 GMT"
-    },
-    {
       "title": "The secret of Microsoft's profits: What the company is hiding - Root-Nation.com",
       "pubDate": "Sun, 03 Aug 2025 15:18:18 GMT"
     },
@@ -3045,22 +3021,12 @@
   ],
   "world_politics": [
     {
-      "title": "Russia's Putin meets Syrian FM in Moscow, Sharaa invited to Russia-Arab summit - Reuters",
-      "pubDate": "Thu, 31 Jul 2025 15:50:58 GMT"
-    },
-    {
       "title": "Israel\u2019s international isolation has begun - Mondoweiss",
       "pubDate": "Fri, 01 Aug 2025 19:01:19 GMT"
     },
     {
       "title": "China Is Competing in the New Nuclear Arms Race, Too - World Politics Review",
       "pubDate": "Tue, 05 Aug 2025 12:24:05 GMT"
-    }
-  ],
-  "information_security": [
-    {
-      "title": "China Issues a Notice on DPO Reporting Requirements - Hunton Andrews Kurth LLP",
-      "pubDate": "Thu, 31 Jul 2025 15:31:09 GMT"
     }
   ],
   "thunderstorms": [
@@ -3345,6 +3311,12 @@
     {
       "title": "United Airlines flights grounded nationwide because of computer problems - NPR",
       "pubDate": "Thu, 07 Aug 2025 01:06:11 GMT"
+    }
+  ],
+  "large_language_models": [
+    {
+      "title": "OpenAI ChatGPT-5 launch LIVE: All the big news as it happens - Tom's Guide",
+      "pubDate": "Thu, 07 Aug 2025 15:34:06 GMT"
     }
   ]
 }
