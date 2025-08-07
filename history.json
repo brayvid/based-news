@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Canada plans to recognize Palestinian state, raising allies' pressure on Israel - Reuters",
-      "pubDate": "Thu, 31 Jul 2025 02:24:00 GMT"
-    },
-    {
       "title": "Slovenia becomes first EU country to impose arms embargo on Israel - Al Jazeera",
       "pubDate": "Fri, 01 Aug 2025 11:52:30 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump plans 100% tariff on semiconductors, with big exemption - Axios",
       "pubDate": "Wed, 06 Aug 2025 21:52:45 GMT"
+    },
+    {
+      "title": "Trump vows 100% tariff on chips, unless companies are building in the U.S. - CNBC",
+      "pubDate": "Wed, 06 Aug 2025 21:31:20 GMT"
     }
   ],
   "russia": [
@@ -811,6 +811,10 @@
     {
       "title": "New Chinese Stealth Tactical Jet Breaks Cover - The War Zone",
       "pubDate": "Wed, 06 Aug 2025 23:36:22 GMT"
+    },
+    {
+      "title": "China\u2019s Property Slump to Last Longer Than Expected, UBS Says - Bloomberg.com",
+      "pubDate": "Wed, 06 Aug 2025 23:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -965,6 +969,10 @@
     {
       "title": "Trump warns EU: 35% tariffs if $600bn investment pledge unfulfilled - Euronews.com",
       "pubDate": "Tue, 05 Aug 2025 16:22:36 GMT"
+    },
+    {
+      "title": "US-India relations at their \u2018worst\u2019 as Trump slaps 50 percent tariff - Al Jazeera",
+      "pubDate": "Thu, 07 Aug 2025 02:12:13 GMT"
     }
   ],
   "cybersecurity": [
@@ -1031,6 +1039,10 @@
     {
       "title": "Hackers Steal Passwords From UK\u2019s NHS With Sneaky Malware Tool - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 19:50:48 GMT"
+    },
+    {
+      "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
+      "pubDate": "Thu, 07 Aug 2025 01:15:39 GMT"
     }
   ],
   "recession": [
@@ -1673,6 +1685,10 @@
     {
       "title": "US Authorities Extradite Nigerian Man Accused of Hacking and Fraud - Infosecurity Magazine",
       "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Federal court filing system hit in sweeping hack - Politico",
+      "pubDate": "Thu, 07 Aug 2025 01:32:32 GMT"
     }
   ],
   "biology": [
@@ -2303,6 +2319,10 @@
     {
       "title": "Pakistan\u2019s deadly monsoon floods were worsened by global warming, study finds - WTOP",
       "pubDate": "Wed, 06 Aug 2025 22:13:59 GMT"
+    },
+    {
+      "title": "One dead, 13 injured in France wildfire spanning area greater than Paris - The Washington Post",
+      "pubDate": "Thu, 07 Aug 2025 02:14:24 GMT"
     }
   ],
   "volcanoes": [
@@ -2536,10 +2556,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "Trump Targets India Over Tariffs and BRICS Membership Amid Trade Negotiations | Trump Tariffs - News18",
-      "pubDate": "Thu, 31 Jul 2025 02:29:33 GMT"
-    },
     {
       "title": "BRICS 2025: What the Summit Really Achieved Behind Closed Doors - CryptoRank",
       "pubDate": "Sun, 03 Aug 2025 11:14:50 GMT"
@@ -2991,12 +3007,6 @@
     {
       "title": "China starts Tibet dam megaproject to power coastal cities - Nikkei Asia",
       "pubDate": "Mon, 04 Aug 2025 20:21:00 GMT"
-    }
-  ],
-  "income_tax_in_the_united_states": [
-    {
-      "title": "Trump announces 25 percent tariff on India and unspecified penalties for buying Russian oil - The Boston Globe",
-      "pubDate": "Thu, 31 Jul 2025 02:15:00 GMT"
     }
   ],
   "world_politics": [
