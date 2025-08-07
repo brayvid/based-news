@@ -299,6 +299,10 @@
     {
       "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
       "pubDate": "Thu, 07 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Political pressure reportedly kept a major AI vulnerability study under wraps - the-decoder.com",
+      "pubDate": "Thu, 07 Aug 2025 13:33:51 GMT"
     }
   ],
   "financial_markets": [
@@ -807,6 +811,10 @@
     {
       "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
       "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
+    },
+    {
+      "title": "China's exports top forecasts as shippers rush to meet tariff deadline - Reuters",
+      "pubDate": "Thu, 07 Aug 2025 06:14:00 GMT"
     }
   ],
   "us_politics": [
@@ -1035,6 +1043,10 @@
     {
       "title": "US still prioritizing zero-trust migration to limit hacks\u2019 damage - Cybersecurity Dive",
       "pubDate": "Wed, 06 Aug 2025 19:05:39 GMT"
+    },
+    {
+      "title": "Cybersecurity News: Gemini AI hijacked, Nvidia rejects AI chip backdoors, phishers abuse Microsoft 365 - CISO Series",
+      "pubDate": "Thu, 07 Aug 2025 10:00:00 GMT"
     }
   ],
   "recession": [
@@ -1223,6 +1235,10 @@
     {
       "title": "Major Earthquake Shifts and Sinks Huge Russian Peninsula - Newsweek",
       "pubDate": "Wed, 06 Aug 2025 16:17:02 GMT"
+    },
+    {
+      "title": "Early Quake Warning System in Alaska Could Provide Critical Seconds - Technology Networks",
+      "pubDate": "Thu, 07 Aug 2025 08:07:54 GMT"
     }
   ],
   "elon_musk": [
@@ -1257,6 +1273,10 @@
     {
       "title": "Trump Calls Elon Musk 'A Good Person', Says He Had A Really Bad moment After 'Unpopular' Poll Rating - NDTV",
       "pubDate": "Thu, 07 Aug 2025 06:22:25 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s Latest AI Frontier: \u201cSpicy\u201d Deepfakes Of Stars Like Scarlett Johansson & Taylor Swift - Deadline",
+      "pubDate": "Thu, 07 Aug 2025 12:20:00 GMT"
     }
   ],
   "cancer": [
@@ -1311,6 +1331,10 @@
     {
       "title": "Scientists Discover a Viral Cause of One of The World's Most Common Cancers - ScienceAlert",
       "pubDate": "Thu, 07 Aug 2025 12:49:42 GMT"
+    },
+    {
+      "title": "As mRNA falls out of favor for HHS, are cancer vaccines next? - statnews.com",
+      "pubDate": "Thu, 07 Aug 2025 08:30:43 GMT"
     }
   ],
   "space_exploration": [
@@ -1455,10 +1479,6 @@
   ],
   "data_breach": [
     {
-      "title": "US data breach recovery costs break records - SC Media",
-      "pubDate": "Thu, 31 Jul 2025 13:46:21 GMT"
-    },
-    {
       "title": "NYC housing lottery applicants' personal information exposed online in data breach, investigation finds - CBS News",
       "pubDate": "Fri, 01 Aug 2025 03:44:38 GMT"
     },
@@ -1558,10 +1578,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Fusion takes step forward as Helion preps reactor site - Axios",
-      "pubDate": "Thu, 31 Jul 2025 13:50:24 GMT"
-    },
     {
       "title": "The Race Against China for Fusion Power: Whoever Controls It, Controls the Century - gatestoneinstitute.org",
       "pubDate": "Sat, 02 Aug 2025 09:00:00 GMT"
@@ -1685,10 +1701,6 @@
   ],
   "battery_electric_vehicle": [
     {
-      "title": "Charging ahead: Study reveals key to smarter, greener EV policies - Tech Xplore",
-      "pubDate": "Thu, 31 Jul 2025 13:09:04 GMT"
-    },
-    {
       "title": "Registrations of new cars down by 5% in July as drivers delay EV purchases - Yahoo.co",
       "pubDate": "Tue, 05 Aug 2025 08:48:34 GMT"
     }
@@ -1713,19 +1725,11 @@
   ],
   "biology": [
     {
-      "title": "Scientists want to sequence all animals, fungi and plants on Earth - The Economist",
-      "pubDate": "Thu, 31 Jul 2025 13:02:38 GMT"
-    },
-    {
       "title": "What Should Oncology Nurses Know About Biology-Guided RT? - Oncology Nursing News",
       "pubDate": "Sun, 03 Aug 2025 14:03:54 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Senate legislation would direct federal agencies to fortify against quantum computing cyber threats - CyberScoop",
-      "pubDate": "Thu, 31 Jul 2025 13:00:30 GMT"
-    },
     {
       "title": "Quantum Computing News: Japan\u2019s $335 Million Bet and New Milestones Signal Sector Growth - TipRanks",
       "pubDate": "Sun, 03 Aug 2025 08:51:43 GMT"
@@ -2119,10 +2123,6 @@
   ],
   "battery_technology": [
     {
-      "title": "Scientists Are Turning the Earth Beneath Our Feet Into a Giant Battery - Popular Mechanics",
-      "pubDate": "Thu, 31 Jul 2025 13:00:00 GMT"
-    },
-    {
       "title": "QuantumScape: Powering the Future with Solid-State Battery Innovation - FinancialContent",
       "pubDate": "Thu, 31 Jul 2025 15:37:00 GMT"
     },
@@ -2213,16 +2213,8 @@
   ],
   "climate_change": [
     {
-      "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
-      "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
-    },
-    {
       "title": "Flames to floods: how Europe\u2019s devastating wildfires are fuelling its next climate crisis - The Conversation",
       "pubDate": "Thu, 31 Jul 2025 14:37:47 GMT"
-    },
-    {
-      "title": "What is climate change? A really simple guide - BBC",
-      "pubDate": "Thu, 31 Jul 2025 13:45:44 GMT"
     },
     {
       "title": "New Mexico environment leaders push back at EPA proposed climate change rollback - Source New Mexico",
@@ -2565,6 +2557,10 @@
     {
       "title": "Trump, Apple to Announce Fresh $100 Billion US Investment - Bloomberg",
       "pubDate": "Wed, 06 Aug 2025 14:09:16 GMT"
+    },
+    {
+      "title": "Trump moves to protect American bank accounts from politically based closures - Fox Business",
+      "pubDate": "Thu, 07 Aug 2025 11:22:00 GMT"
     }
   ],
   "pollution": [
