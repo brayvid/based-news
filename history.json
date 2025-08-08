@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump tariffs live: new rates on 92 countries released; Canada PM \u2018disappointed\u2019 at 35% levy - The Guardian",
-      "pubDate": "Fri, 01 Aug 2025 05:43:29 GMT"
-    },
-    {
       "title": "Trump orders nuclear submarines moved near Russia - Reuters",
       "pubDate": "Fri, 01 Aug 2025 17:17:56 GMT"
     },
@@ -163,6 +159,10 @@
     {
       "title": "Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News",
       "pubDate": "Fri, 08 Aug 2025 02:33:36 GMT"
+    },
+    {
+      "title": "Trump Turns the Screws on the Fortune 500 - Politico",
+      "pubDate": "Fri, 08 Aug 2025 00:23:18 GMT"
     }
   ],
   "russia": [
@@ -220,10 +220,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "DoubleVerify warns AI recipe sites threaten advertiser brand safety - PPC Land",
-      "pubDate": "Fri, 01 Aug 2025 05:05:54 GMT"
-    },
     {
       "title": "Anthropic CEO talks about being labeled a doomer and his OpenAI departure - the-decoder.com",
       "pubDate": "Fri, 01 Aug 2025 14:22:48 GMT"
@@ -439,10 +435,6 @@
   ],
   "climate": [
     {
-      "title": "Europe is breaking its reliance on American science - Reuters",
-      "pubDate": "Fri, 01 Aug 2025 05:06:00 GMT"
-    },
-    {
       "title": "The EPA Just Issued Its Most Damaging Climate Change Move Ever - Slate",
       "pubDate": "Fri, 01 Aug 2025 17:40:00 GMT"
     },
@@ -637,20 +629,12 @@
   ],
   "china": [
     {
-      "title": "China's weak job market stirs boom-era nostalgia on social media - Reuters",
-      "pubDate": "Fri, 01 Aug 2025 05:03:00 GMT"
-    },
-    {
       "title": "China to crack down on 'herd behaviour' in emerging sector investment - Reuters",
       "pubDate": "Fri, 01 Aug 2025 06:00:00 GMT"
     },
     {
       "title": "China Racing to Stop Population From Plunging to World War II Levels - Newsweek",
       "pubDate": "Fri, 01 Aug 2025 08:00:01 GMT"
-    },
-    {
-      "title": "China Deploys Cannibal Mosquitoes to Battle Chikungunya Surge - Bloomberg",
-      "pubDate": "Fri, 01 Aug 2025 05:03:00 GMT"
     },
     {
       "title": "China's plan to stop Elon Musk's Starlink includes submarines that can shoot lasers into space - Fortune",
@@ -1371,6 +1355,10 @@
     {
       "title": "Federal Rooftop Solar Grants Are on the Chopping Block. Here\u2019s Who Would Get Hurt - Inside Climate News",
       "pubDate": "Wed, 06 Aug 2025 19:44:51 GMT"
+    },
+    {
+      "title": "EPA cancels $7 billion Biden-era grant program to boost solar energy - Coast Reporter",
+      "pubDate": "Thu, 07 Aug 2025 19:00:05 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1439,6 +1427,10 @@
     {
       "title": "Tesla shuts down Dojo supercomputer team, reassigns workers amid strategic AI shift, Bloomberg News reports - Reuters",
       "pubDate": "Thu, 07 Aug 2025 23:31:35 GMT"
+    },
+    {
+      "title": "Musk's Tesla ends Dojo supercomputer effort, shifts compute to Nvidia, AMD, and Samsung - report - Data Center Dynamics",
+      "pubDate": "Thu, 07 Aug 2025 22:25:52 GMT"
     }
   ],
   "data_breach": [
@@ -1531,6 +1523,10 @@
     {
       "title": "Bitcoin jumps as Trump is set to sign an order that allows cryptocurrencies in 401(k)s - CNBC",
       "pubDate": "Thu, 07 Aug 2025 12:11:46 GMT"
+    },
+    {
+      "title": "Why struggling companies are loading up on bitcoin - Financial Times",
+      "pubDate": "Fri, 08 Aug 2025 04:00:51 GMT"
     }
   ],
   "fusion_power": [
@@ -1889,10 +1885,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza latest: 'Children are passing out from hunger' - US doctor in Gaza sounds alarm on starvation crisis - Sky News",
-      "pubDate": "Fri, 01 Aug 2025 05:32:07 GMT"
-    },
-    {
       "title": "Looting, chaos and Israeli gunfire prevent aid from reaching Gazans - The Washington Post",
       "pubDate": "Fri, 01 Aug 2025 10:11:30 GMT"
     },
@@ -2075,6 +2067,10 @@
     {
       "title": "Hamas using secret cash stockpile, looted aid to pay employees and loyalists \u2014 BBC - The Times of Israel",
       "pubDate": "Thu, 07 Aug 2025 06:33:52 GMT"
+    },
+    {
+      "title": "Israel announces plan to retake Gaza City in another escalation of the war - NPR",
+      "pubDate": "Fri, 08 Aug 2025 05:02:12 GMT"
     }
   ],
   "battery_technology": [
