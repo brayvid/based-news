@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump issues order imposing new global tariff rates effective Aug. 7 - Politico",
-      "pubDate": "Fri, 01 Aug 2025 00:37:00 GMT"
-    },
-    {
       "title": "Trump tariffs live: new rates on 92 countries released; Canada PM \u2018disappointed\u2019 at 35% levy - The Guardian",
       "pubDate": "Fri, 01 Aug 2025 05:43:29 GMT"
     },
@@ -1133,10 +1129,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Millions return home as tsunami warnings lifted: Live updates - The Independent",
-      "pubDate": "Fri, 01 Aug 2025 00:00:00 GMT"
-    },
-    {
       "title": "Massive Earthquake Could Strike Canada as Ancient Fault Line Wakes - ScienceAlert",
       "pubDate": "Fri, 01 Aug 2025 03:28:32 GMT"
     },
@@ -1317,10 +1309,6 @@
   ],
   "health_care": [
     {
-      "title": "Federal policy jeopardizes health care access and affordability in Colorado, experts tell lawmakers - Colorado Newsline",
-      "pubDate": "Thu, 31 Jul 2025 23:59:53 GMT"
-    },
-    {
       "title": "Administration\u2019s ACA Marketplace Rule Will Raise Health Care Costs for Millions of Families - Center on Budget and Policy Priorities",
       "pubDate": "Fri, 01 Aug 2025 23:49:35 GMT"
     },
@@ -1401,6 +1389,10 @@
     {
       "title": "Ethereum treasury buying catches up to ETFs as exchange reserves dry up - dlnews.com",
       "pubDate": "Thu, 07 Aug 2025 09:30:05 GMT"
+    },
+    {
+      "title": "Trump opens door for 401(k) retirement plans to invest in private equity and crypto - PBS",
+      "pubDate": "Thu, 07 Aug 2025 22:00:15 GMT"
     }
   ],
   "tesla": [
@@ -1441,10 +1433,6 @@
     {
       "title": "NYC housing lottery applicants' personal information exposed online in data breach, investigation finds - CBS News",
       "pubDate": "Fri, 01 Aug 2025 03:44:38 GMT"
-    },
-    {
-      "title": "Dollar Tree denies data breach - says hackers targeted its rival instead - TechRadar",
-      "pubDate": "Fri, 01 Aug 2025 00:03:00 GMT"
     },
     {
       "title": "Tea App Data Breach Is a Reminder of What\u2019s at Risk for Women - The New York Times",
@@ -1857,6 +1845,10 @@
     {
       "title": "US solar capacity slowed but not stopped by Trump policy u-turn - Reuters",
       "pubDate": "Wed, 06 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "The Global Clean Energy Technology Demonstration Challenge: An Update - Council on Foreign Relations",
+      "pubDate": "Thu, 07 Aug 2025 20:57:37 GMT"
     }
   ],
   "global_health": [
@@ -1880,10 +1872,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "US officials to make 'highly unusual' visit to Gaza - amid warnings of 'politically manmade' famine - Sky News",
-      "pubDate": "Fri, 01 Aug 2025 00:17:04 GMT"
-    },
     {
       "title": "Gaza latest: 'Children are passing out from hunger' - US doctor in Gaza sounds alarm on starvation crisis - Sky News",
       "pubDate": "Fri, 01 Aug 2025 05:32:07 GMT"
@@ -2141,6 +2129,10 @@
     {
       "title": "Astronomers cannot agree on how fast the universe is expanding - The Economist",
       "pubDate": "Wed, 06 Aug 2025 18:03:49 GMT"
+    },
+    {
+      "title": "Astronomers reveal how molecular clouds survive in harsh outskirts of the galaxy - Phys.org",
+      "pubDate": "Thu, 07 Aug 2025 13:28:02 GMT"
     }
   ],
   "physics": [
@@ -2543,10 +2535,6 @@
   ],
   "political_corruption": [
     {
-      "title": "Inside Zelenskyy\u2019s failed coup against Ukraine\u2019s anti-corruption agencies - Euromaidan Press",
-      "pubDate": "Fri, 01 Aug 2025 00:54:01 GMT"
-    },
-    {
       "title": "US warns of corruption and reported bribery aimed at destabilizing Haiti as crisis deepens - The Washington Post",
       "pubDate": "Sat, 02 Aug 2025 02:48:42 GMT"
     },
@@ -2907,10 +2895,6 @@
   ],
   "apple": [
     {
-      "title": "Apple revenue forecast beats estimates, tariff costs projected at $1.1 billion - Reuters",
-      "pubDate": "Fri, 01 Aug 2025 00:03:00 GMT"
-    },
-    {
       "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
       "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
     },
@@ -2941,12 +2925,6 @@
     {
       "title": "Google mocks Apple's delayed AI features in new 'coming soon' ad - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 21:59:00 GMT"
-    }
-  ],
-  "algorithmic_trading": [
-    {
-      "title": "India\u2019s retail traders gain formal access to algo trading under Sebi's new framework - The Economic Times",
-      "pubDate": "Fri, 01 Aug 2025 00:36:35 GMT"
     }
   ],
   "microsoft": [
