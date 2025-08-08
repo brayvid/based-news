@@ -81,10 +81,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump orders nuclear submarines moved near Russia - Reuters",
-      "pubDate": "Fri, 01 Aug 2025 17:17:56 GMT"
-    },
-    {
       "title": "Live updates: Trump, in warning to Russia, says nuclear submarines will be sent to \u2018appropriate regions\u2019 - The Washington Post",
       "pubDate": "Fri, 01 Aug 2025 18:25:26 GMT"
     },
@@ -171,6 +167,10 @@
     {
       "title": "Donald Trump Orders Crackdown on Politically-Motivated \u2018Debanking\u2019 - WIRED",
       "pubDate": "Fri, 08 Aug 2025 07:02:49 GMT"
+    },
+    {
+      "title": "Trump doubles reward to $50 million for arrest of Venezuela\u2019s president to face US drug charges - CNN",
+      "pubDate": "Fri, 08 Aug 2025 16:53:00 GMT"
     }
   ],
   "russia": [
@@ -357,10 +357,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI is leading to thousands of job losses, report finds - CBS News",
-      "pubDate": "Fri, 01 Aug 2025 17:36:00 GMT"
-    },
-    {
       "title": "Apple CEO Tells Staff AI Is \u2018Ours to Grab\u2019 in Hourlong Pep Talk - Bloomberg",
       "pubDate": "Fri, 01 Aug 2025 20:53:54 GMT"
     },
@@ -458,10 +454,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "The EPA Just Issued Its Most Damaging Climate Change Move Ever - Slate",
-      "pubDate": "Fri, 01 Aug 2025 17:40:00 GMT"
-    },
     {
       "title": "Deep in the Amazon, a bold question: Can the forest save itself? - The Washington Post",
       "pubDate": "Sun, 03 Aug 2025 11:32:19 GMT"
@@ -1537,6 +1529,10 @@
     {
       "title": "French Telecom Firm Bouygues Says Data Breach Affects 6.4M Customers - SecurityWeek",
       "pubDate": "Fri, 08 Aug 2025 07:40:27 GMT"
+    },
+    {
+      "title": "Columbia University data breach impacts nearly 870,000 individuals - BleepingComputer",
+      "pubDate": "Fri, 08 Aug 2025 08:43:28 GMT"
     }
   ],
   "bitcoin": [
@@ -1960,10 +1956,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Two More Palestinians Starve to Death Amid Israel\u2019s Siege of Gaza - Democracy Now!",
-      "pubDate": "Fri, 01 Aug 2025 17:37:30 GMT"
-    },
     {
       "title": "Trump recalibrates Gaza stance as humanitarian concerns grow - Politico",
       "pubDate": "Fri, 01 Aug 2025 21:36:00 GMT"
@@ -2399,6 +2391,10 @@
     {
       "title": "A new global ruling shows states are legally responsible for tackling climate change - The Conversation",
       "pubDate": "Fri, 08 Aug 2025 16:10:14 GMT"
+    },
+    {
+      "title": "Far more environmental data is being deleted in Trump's second term than before - NPR",
+      "pubDate": "Fri, 08 Aug 2025 14:57:05 GMT"
     }
   ],
   "volcanoes": [
@@ -2639,6 +2635,10 @@
     {
       "title": "Modi Speaks With Lula, Plans Xi Meeting as Ties With US Sour - Bloomberg.com",
       "pubDate": "Fri, 08 Aug 2025 01:31:00 GMT"
+    },
+    {
+      "title": "Putin-led BRICS Vs Trump: India\u2019s Modi Talks Trade With Russia Leader, \u2018SNUBS\u2019 US Amid Tariff War - Times of India",
+      "pubDate": "Fri, 08 Aug 2025 15:44:14 GMT"
     }
   ],
   "political_corruption": [
@@ -2705,6 +2705,10 @@
     {
       "title": "China Watching in Chinese - Asia Society",
       "pubDate": "Thu, 07 Aug 2025 15:36:52 GMT"
+    },
+    {
+      "title": "Japan stocks soar but rest of Asia uneven as Miran gets Fed nod - Reuters",
+      "pubDate": "Fri, 08 Aug 2025 05:52:00 GMT"
     }
   ],
   "spacex": [
@@ -2947,6 +2951,10 @@
     {
       "title": "Scientists fight back against Energy Department's 'antiscientific' and 'deceptive' climate report - Daily Kos",
       "pubDate": "Sat, 02 Aug 2025 22:04:08 GMT"
+    },
+    {
+      "title": "He Was a Meteorologist for 22 Years\u2014Now He\u2019s Battling Political Storms in Washington, D.C. - Scientific American",
+      "pubDate": "Fri, 08 Aug 2025 10:00:00 GMT"
     }
   ],
   "democracy": [
@@ -3413,6 +3421,12 @@
     {
       "title": "India's Manappuram Finance posts drop in first-quarter profit on higher provisions - Reuters",
       "pubDate": "Fri, 08 Aug 2025 10:25:34 GMT"
+    }
+  ],
+  "intelligence_agencies": [
+    {
+      "title": "Assessing the Role of Mossad Leading up to the 7 October Attack by Hamas - Modern Ghana",
+      "pubDate": "Fri, 08 Aug 2025 16:30:51 GMT"
     }
   ]
 }
