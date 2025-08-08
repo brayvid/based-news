@@ -295,6 +295,10 @@
     {
       "title": "What OpenAI's Latest Red-Teaming Challenge Reveals About the Evolution of AI 'Safety' Practices - Tech Policy Press",
       "pubDate": "Thu, 07 Aug 2025 15:33:45 GMT"
+    },
+    {
+      "title": "GPT-5 is alive - Platformer",
+      "pubDate": "Fri, 08 Aug 2025 00:46:56 GMT"
     }
   ],
   "financial_markets": [
@@ -449,6 +453,10 @@
     {
       "title": "First-of-a-kind US class-action lawsuit would force EPA to reinstate $3bn climate program - The Guardian",
       "pubDate": "Tue, 05 Aug 2025 11:30:00 GMT"
+    },
+    {
+      "title": "Why insurers worry the world could soon become uninsurable - CNBC",
+      "pubDate": "Fri, 08 Aug 2025 05:22:47 GMT"
     }
   ],
   "ukraine": [
@@ -629,10 +637,6 @@
   ],
   "china": [
     {
-      "title": "China to crack down on 'herd behaviour' in emerging sector investment - Reuters",
-      "pubDate": "Fri, 01 Aug 2025 06:00:00 GMT"
-    },
-    {
       "title": "China Racing to Stop Population From Plunging to World War II Levels - Newsweek",
       "pubDate": "Fri, 01 Aug 2025 08:00:01 GMT"
     },
@@ -779,6 +783,10 @@
     {
       "title": "China accuses Philippines of 'playing with fire' on Taiwan - Reuters",
       "pubDate": "Fri, 08 Aug 2025 03:45:21 GMT"
+    },
+    {
+      "title": "Alarm in China that efforts to control Chikungunya virus are infringing on rights - The Guardian",
+      "pubDate": "Fri, 08 Aug 2025 05:51:00 GMT"
     }
   ],
   "us_politics": [
@@ -944,10 +952,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "It\u2019s time to sound the alarm on water sector cybersecurity - Help Net Security",
-      "pubDate": "Fri, 01 Aug 2025 06:00:47 GMT"
-    },
     {
       "title": "China accuses US of exploiting Microsoft zero-day in cyberattack - CyberScoop",
       "pubDate": "Fri, 01 Aug 2025 14:07:47 GMT"
@@ -1897,10 +1901,6 @@
       "pubDate": "Fri, 01 Aug 2025 15:30:00 GMT"
     },
     {
-      "title": "Why not enough food is reaching people in Gaza even after Israel eased its blockade - AP News",
-      "pubDate": "Fri, 01 Aug 2025 06:20:00 GMT"
-    },
-    {
       "title": "Two More Palestinians Starve to Death Amid Israel\u2019s Siege of Gaza - Democracy Now!",
       "pubDate": "Fri, 01 Aug 2025 17:37:30 GMT"
     },
@@ -2168,10 +2168,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Marine climate interventions can have unintended consequences \u2013 we need to manage the risks - The Conversation",
-      "pubDate": "Fri, 01 Aug 2025 06:05:36 GMT"
-    },
     {
       "title": "Democrats retreat on the Green New Deal - Axios",
       "pubDate": "Fri, 01 Aug 2025 09:01:42 GMT"
@@ -2489,6 +2485,10 @@
     {
       "title": "Trump moves to protect American bank accounts from politically based closures - Fox Business",
       "pubDate": "Thu, 07 Aug 2025 11:22:00 GMT"
+    },
+    {
+      "title": "Trump Is Making CEOs\u2019 Business His Business - The Wall Street Journal",
+      "pubDate": "Fri, 08 Aug 2025 01:00:00 GMT"
     }
   ],
   "pollution": [
@@ -2555,6 +2555,10 @@
     {
       "title": "Trump Says Lula Can Call Him. \"I Will Call PM Modi,\" Replies Brazil Leader - NDTV",
       "pubDate": "Wed, 06 Aug 2025 03:08:27 GMT"
+    },
+    {
+      "title": "Modi Speaks With Lula, Plans Xi Meeting as Ties With US Sour - Bloomberg.com",
+      "pubDate": "Fri, 08 Aug 2025 01:31:00 GMT"
     }
   ],
   "political_corruption": [
@@ -2981,12 +2985,6 @@
       "pubDate": "Thu, 07 Aug 2025 15:06:33 GMT"
     }
   ],
-  "military_intelligence": [
-    {
-      "title": "Israeli Military Intelligence Goes Back to Basics With Focus on Spies, Not Tech - Bloomberg",
-      "pubDate": "Fri, 01 Aug 2025 06:00:00 GMT"
-    }
-  ],
   "energy_transition": [
     {
       "title": "Why DC is becoming a key technology in the energy transition - Smart Energy International",
@@ -3309,6 +3307,12 @@
     {
       "title": "New research using mRNA vaccines targets rare cancers - MSNBC News",
       "pubDate": "Thu, 07 Aug 2025 20:18:56 GMT"
+    }
+  ],
+  "abiogenesis": [
+    {
+      "title": "Darwin declared dead again: a paper in a supposedly reputable journal concludes that life could not have originated by evolutionary processes - Why Evolution Is True",
+      "pubDate": "Fri, 08 Aug 2025 03:11:15 GMT"
     }
   ]
 }
