@@ -303,6 +303,10 @@
     {
       "title": "GPT-5 is alive - Platformer",
       "pubDate": "Fri, 08 Aug 2025 00:46:56 GMT"
+    },
+    {
+      "title": "Let AI Dangle: Why the sketch.dev Integrity Breach Demands Human Accountability, Not Technical Cages - flyingpenguin",
+      "pubDate": "Fri, 08 Aug 2025 09:06:36 GMT"
     }
   ],
   "financial_markets": [
@@ -593,10 +597,6 @@
     {
       "title": "US economy adds just 73,000 jobs, far below expectations as Trump unveils global tariffs - The Independent",
       "pubDate": "Fri, 01 Aug 2025 13:56:00 GMT"
-    },
-    {
-      "title": "US job growth stalls: Just 73,000 jobs added in July, with \u2018stunning\u2019 downward revisions to recent months - CNN",
-      "pubDate": "Fri, 01 Aug 2025 09:00:00 GMT"
     },
     {
       "title": "US employers slash hiring as Trump advances a punishing trade agenda - AP News",
@@ -1087,6 +1087,10 @@
     {
       "title": "US proposes new drone rules that could lead to Starbucks, Amazon deliveries - Reuters",
       "pubDate": "Tue, 05 Aug 2025 17:35:50 GMT"
+    },
+    {
+      "title": "Russia Has An Arsenal Of New AI Drones Built With Smuggled U.S. Chips - Forbes",
+      "pubDate": "Fri, 08 Aug 2025 08:09:12 GMT"
     }
   ],
   "federal_reserve": [
@@ -1129,6 +1133,10 @@
     {
       "title": "Federal Reserve Bank of Atlanta President Bostic will speak Thursday - more rate cut talk? - TradingView",
       "pubDate": "Thu, 07 Aug 2025 02:38:00 GMT"
+    },
+    {
+      "title": "Trump picks Stephen Miran to fill open spot on Fed Board - Reuters",
+      "pubDate": "Fri, 08 Aug 2025 05:53:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1370,10 +1378,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Why ethereum is suddenly beating bitcoin - Business Insider",
-      "pubDate": "Fri, 01 Aug 2025 09:30:00 GMT"
-    },
     {
       "title": "Pastor Indicted For Cryptocurrency Scam He Claims God Told Him To Do - Forbes",
       "pubDate": "Sat, 02 Aug 2025 17:32:52 GMT"
@@ -2075,6 +2079,10 @@
     {
       "title": "Israel's security cabinet approves Gaza City takeover as Starmer calls plan 'wrong' - live updates - BBC",
       "pubDate": "Fri, 08 Aug 2025 08:00:54 GMT"
+    },
+    {
+      "title": "Gaza latest: Israel to \u2018begin siege of Gaza on October 7\u2019 after Netanyahu given green light to take full military control - The Independent",
+      "pubDate": "Fri, 08 Aug 2025 09:34:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2180,14 +2188,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Democrats retreat on the Green New Deal - Axios",
-      "pubDate": "Fri, 01 Aug 2025 09:01:42 GMT"
-    },
-    {
-      "title": "Global warming and CEO leadership (but make it funny!) - Fortune",
-      "pubDate": "Fri, 01 Aug 2025 09:42:00 GMT"
-    },
     {
       "title": "ICJ ruling expected to shape US climate lawsuits in defiance of Trump - Climate Home News",
       "pubDate": "Fri, 01 Aug 2025 11:55:51 GMT"
@@ -2401,6 +2401,10 @@
     {
       "title": "Colombia\u2019s President Petro accuses Peru of annexing disputed Amazon island - Al Jazeera",
       "pubDate": "Tue, 05 Aug 2025 23:54:18 GMT"
+    },
+    {
+      "title": "Amazon, Walmart, Target Halt Orders From India After Trump Doubles Tariff: Sources - NDTV",
+      "pubDate": "Fri, 08 Aug 2025 03:55:18 GMT"
     }
   ],
   "military_and_defense": [
@@ -2935,10 +2939,6 @@
   ],
   "apple": [
     {
-      "title": "Apple Growth Rebounds on Strength of iPhone 16 Line, China - Bloomberg",
-      "pubDate": "Fri, 01 Aug 2025 09:14:30 GMT"
-    },
-    {
       "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
       "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
     },
@@ -3321,6 +3321,12 @@
     {
       "title": "Darwin declared dead again: a paper in a supposedly reputable journal concludes that life could not have originated by evolutionary processes - Why Evolution Is True",
       "pubDate": "Fri, 08 Aug 2025 03:11:15 GMT"
+    }
+  ],
+  "the_pentagon": [
+    {
+      "title": "New Pentagon policy could divert weapons built for Ukraine back into US stockpiles - CNN",
+      "pubDate": "Fri, 08 Aug 2025 08:00:00 GMT"
     }
   ]
 }
