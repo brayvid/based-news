@@ -1,72 +1,62 @@
 {
-  "AI Safety": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Samsung Electronics defeats competitors to win US AI Cyber Challenge - CHOSUNBIZ - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiYVYzX3k5Tk84TlZiWEJ5eWVXQ3p6WEd1aEpGZTdxRWlwcERCbXpQcHUxd1gyTXJaOXJQV3ljTVNVdDktZXkzOXVCM2dzTHZjaUZkZlJsWTJEMkt0LVdyLThDeUdwRzVjd2t5TWRyTTRnQU5EemdkUnV30gGOAUFVX3lxTE9XR25MNzZoQkpWdHhKSVRzdjVuNHZBMEFLN1BmX1EwMWl1VlFTUFlreVJBSFFmYWxyUDB4T3FDaWItWjlnR1J5bU1RQlhHSWdlZWVJVUY5VHBOUF9VYmsxRmRYaGJWanpya09WZ1NHUEh3QXBrbXZobjB5bXlueDVqQ1ZXcC03Vkt1eG80REE?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 05:08:00 GMT"
+        "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWE0QW5oWDZwWXJfR0U5WE9GR0pWSmVpZFNMZl9OdXd2cW9CeHA1cE1NYjdlN19qRHUteGhoNGZpMTYtRjFGYXVHOWJnVXZSTUZSSTh5S1lrcURaS0h0V2dwMmEwSzVsZlRXQzVBbjVYRTRwdThidEpJODdLZkdBVXZsNlpxcTdidFFiU1BDdThsekllMmR6MmIteFlfTTN0ZjRZODIzMFFSVmfSAbABQVVfeXFMTWktcnItWmNxczVuMDhuR0E5Umk5blF4X2RGdEZwZFBwSmFtOVVnT1BMZ09BLWJZdkpzbmxHX2Zab2swUW81NkhjM3lYaC12VUtISldQai1EbGhOVHU3SEktZm5JY1cyT0lqZGJPWXd5NkQyazh6YXE0M0RPQ1ZLRnpMaVFNWHdUQ21oczNXYVpFenFSRWduZXExM3Zjb2JGbTJRVnBYVWtvZjFORjBIWHg?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 14:20:52 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Trump wants demilitarized Gaza, disarmed Hamas in new proposal, officials say - Ynetnews",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TRUxqSi1VV3dId25FazAtdXFpcW5yOURsR0VvVmVGN3FPSXFzN25SdDhISjNDTG44MHE0UTdNeVNhVklpWTB2TGhFNnNxNzNtcW85bC03dw?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 12:53:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
+  },
+  "Bitcoin": {
+    "articles": [
+      {
+        "title": "These three catalysts will help Bitcoin break $122K - Cointelegraph",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODJOVkZJX0Y4b0NBemJMZjA1cFBQYzlqUHhBSTA2U184dm0wWEM1Wi1ZajROcUJkXzlWdmo3YV92ZjZxMlJqLTF4cUU3dFhaOGJjdTUzQzUzclIzVG8yNzJlZmltc1dkaVl2dGpqS2VyZUw3OUZjREY0S2xGT1BoYV9Wdl9rX1VMbjBB?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 10:09:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
+  },
+  "Battery Technology": {
+    "articles": [
+      {
+        "title": "Battery company makes key breakthrough that could revolutionize electric vehicles: 'A powerful path forward' - Yahoo! Tech",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGEtWm92aG9rYW04bGFDUEhmZVdUZkgyemYzR3dYalVueDQ3UmFJMGU1QUo3ZW52Z19ZUGtjOGhtSzJoQTRkMEI4SGVvX3FqYmNSbVYxVDhsVDhydUh5WWVER1pCOE1td0RIUllRTzc5UFFJSWRFdU1Nb2dJdEhEMnp3emk4WFVsdThkR0lpVlN3RF9KMS1hLTBjLWV4N0xRTkE?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 11:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Quantum Reservoir Computing Could Give Drug Discovery a Boost -- Especially When Data Is Scarce - The Quantum Insider",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzZvUlhuOElmWk84c0tmVDV3U0p1dlBYX2tuSnlOSnN5SjI2akJHdVVvbmVZWUpOSmx6dW5VUkJiZXlyc01jazNVSHFzSXFxcWpOdlo1SFd4cmJNaHBuTFZqZVFqQUJMVnJ1ejRvM1hEVFliOGMzVVlfZEhhalpIUDQ3RTNLaXlJLUpDcmxjTTZDMDhhalFhQ2sxNU9wMzFPYklmTTR4V2FNaTdYb0NaT0lCcnZxaUxKUExzc0lIUkJtWTBfWGFCMklHUGZqZkU?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 12:45:46 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "Mysterious Chinese stealth jet a fresh test for US air dominance - Asia Times",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkdUNFpiYldLeXc1NGdyRHhRamhMRGZ0b1ZBUlFBNGsyeFBMbG9NeEpJT1hZZVVJclE1WkNhNm9oLXlLTllLT3EyNmNGSFNkLTJvZ3VhS2l0VHV1aU1YNXg3LXJBZEUwa0JPMGhidWxZa1I1TkpwT2NKdHN5TzFNV3BxMktCdzdqMjZoUnRDX3hPa25YaWtJTFdvTQ?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 03:05:59 GMT"
+        "title": "China to create Central Asia plant database to boost biodiversity conservation - qazinform.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnR4N0NMWWRkaWs2UWRQbnhpOFVPZGt6OWVnNlpEU2ZuelJNSEFXQkd6RVhwWXpteDg0Ymc0WlFsdW1LODBEV2wxc3ZUaDFlUURqSk5QcjRCQnlMbWF0SWZpbmNOMjNNUTZEcTNXM1VDQWE3ZGJ6dXE4c3Eya0xkVDZLbkVCMFJUc1h2bGJUN282MG1lc2ZRa1E0Mm9aZXp0QWc1amZxLXlNem9VWkhGeGRB0gGyAUFVX3lxTE9wemwwVEJueDUteUdjTmhUT3VmOG1TN09NUlNZSjVBUmwyRXdmcVRzZHoxempVeHd4RExOUWtySXBvLXdoZ1BMd3VHckl3dnNFY2Y2REt5Ym1vcklURVRER2V4YUFyN0dYc3FlbnJJTDRtOXpIYzJwYXNCdzNONTJSZ05fZ0dUSW92NVNUUjR6WU55dF9SOGo5dUd6OE1PUENVTUJJUldGeEhTZ2VyQUNZY0E?oc=5",
+        "pubDate": "Sat, 09 Aug 2025 06:13:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Netanyahu\u2019s Gaza takeover plan satisfies no one but himself - CNN",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVU5yS1hSdFV5bTFVUnhJTDRQN01ZRW9uN05WazZRdUJydG1ubXhUcVIzaFJOdk45V2ZsSURjWnlKMkhuN0FpNV8zYWJWeUp1NHdEZUdQUXoxMGpvbmhFVWhQV1FzdmMwVUUySWJqLVJmVFRvTzFzbVRwLW1ZTDF6LWtrVFrSAYoBQVVfeXFMUFgxcU96QlZpeXcyVHl5VVdNV0lHVjdxNXZUeHktWlZuZmFrczd4T3BaMG9ub2JmZWlETzV6eV9PN2ZiUm1YdkpnbTR4cHRhb0dPZXBjRlRVV2xnblV3RkVPTnQ5YTYyV2tYODhSQ09pUW5xY2xmZnI2bDB2VXFWazAwNHFnTllOWVFR?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 13:03:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
-  },
-  "Global Health": {
-    "articles": [
-      {
-        "title": "Eleven more die from malnutrition in Gaza, Hamas-run health ministry says - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBc1J3Y0FlaDd4eFNPei05Q0dKek5pb1JhWnJTWHFZNWFDX0JhT250MWlMcFJXSnpETUpwMkIxblZwMHRQVklkNE9zRFI0SzlOVWJEd1dHNW1mUdIBX0FVX3lxTE8zRkktM3N2ZXJFUmExblZOWlA4bDQ2REVpYVlidkVmOEFNX3YydHNueUowUDhGSmpTZS1rUm9SNTQ0MUhqQTlBUE9Gb0JEWXB6Y0QwTHduamYxUDFDMXVj?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 13:42:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
-  },
-  "Drones": {
-    "articles": [
-      {
-        "title": "Russia Showcases New Interceptor Drones, Mirroring Designs Used in Ukraine\u2019s Defense - UNITED24 Media",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamlXWExkZGlFak8xQ1hSdkp0a3Ezbng5UGU4Y29fQlFrMDJIT0pjVzhfc1BjRHEtemNLQnl0Z1RzSmxQQ1QxR2ZEa0hTZXF5NVhSQW1udWMxRFBCY0Vid3Z0Q21DQmFscTdmdExKVjVOTzVjaDdVcWNvSVpKYlltVUx1QmxoTzVYYXlfZWpVMjBlZm5DNndCS3BUa2d4S1pMbE5ST0RWY0IwMHNSUm8wcW5pTk5NOVBaRVBkUjhFcTZXcW45?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 11:46:43 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
-  },
-  "Climate": {
-    "articles": [
-      {
-        "title": "Trump\u2019s Energy Chief, a Former Fracking CEO, Aims to Tinker With Key Climate Reports - Mother Jones",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaElPWkgxa1doV0pUZThTQjF1Rk42Q2V3UTV2YUVfbXpNajRYclFMNVc1OXB5NGU1R2dacWVEbnNIMFF6eVMwMjZIdFkzSENTbFRXTDlVOGV1VmZCcWVMQmlaS01YWHJLN041Q1RTOG5MOWtFUmRrX2toc01mb1hxM254M1Bnc1dtcGhoMkgxY18zZlppbkt5VER2X2hKUFB2d3pNTjVQZXRYUkN5bFZQZHhGRGVsRGs?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 10:34:24 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
-  },
-  "Public Health": {
-    "articles": [
-      {
-        "title": "Authorities ID suspect in CDC shooting as a 30-year-old man from suburban Atlanta - NPR",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWdGVC1NR3hYNUxaZHo4bHhmR1d0c0oxck04SlBVXzNCaTNwSUF6cTd3b0RBYkRrcUp3R1dlOFJGd0FmcF83bHp3RFhYSjhDakxpMFpZbHhTN0hsX1UtLXNMRWlVX0ZBR0JMLUloTnJTREJiSzdIbkF5QV9JblR4S3I0ZUVJbVd0TnRBMU9B?oc=5",
-        "pubDate": "Sat, 09 Aug 2025 13:50:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-09T14:58:00.324500+00:00"
+    "last_updated_ts": "2025-08-09T15:57:49.091891+00:00"
   }
 }
