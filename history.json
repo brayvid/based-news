@@ -93,10 +93,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump Disapproval Rating Hits New 2025 High - Newsweek",
-      "pubDate": "Sat, 02 Aug 2025 12:29:45 GMT"
-    },
-    {
       "title": "Office of Special Counsel Opens Investigation Into Jack Smith Over Trump Prosecution - The New York Times",
       "pubDate": "Sat, 02 Aug 2025 18:38:43 GMT"
     },
@@ -468,10 +464,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine drone attacks kill three in Russia, cause fire at oil refinery - Al Jazeera",
-      "pubDate": "Sat, 02 Aug 2025 12:24:59 GMT"
-    },
     {
       "title": "Ukraine says it uncovers major drone procurement corruption scheme - Reuters",
       "pubDate": "Sat, 02 Aug 2025 16:03:24 GMT"
@@ -999,6 +991,10 @@
     {
       "title": "CISA officials say agency is moving ahead despite workforce purge - Cybersecurity Dive",
       "pubDate": "Fri, 08 Aug 2025 09:25:50 GMT"
+    },
+    {
+      "title": "Inside Palo Alto's massive $25b. deal for Israeli CyberArk - The Jerusalem Post",
+      "pubDate": "Sat, 09 Aug 2025 05:27:16 GMT"
     }
   ],
   "recession": [
@@ -1070,10 +1066,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Unexpected jobs report resets September interest rate bets - TheStreet",
-      "pubDate": "Sat, 02 Aug 2025 12:17:00 GMT"
-    },
     {
       "title": "Trump says he'll name people to 2 jobs closely watched by Wall Street - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 05:00:00 GMT"
@@ -1191,6 +1183,10 @@
     {
       "title": "Satellite Image Shows Tsunami Triggered by Massive Russian Earthquake - Newsweek",
       "pubDate": "Fri, 08 Aug 2025 15:00:39 GMT"
+    },
+    {
+      "title": "A massive earthquake could be brewing beneath North America, study suggests - BBC Science Focus Magazine",
+      "pubDate": "Sat, 09 Aug 2025 12:00:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1345,6 +1341,10 @@
     {
       "title": "US Farm Trade Deficit Hits Record as Historic Shift Deepens - Bloomberg.com",
       "pubDate": "Thu, 07 Aug 2025 18:24:58 GMT"
+    },
+    {
+      "title": "Trump's economic policy is big on headlines, lacking in details - MSNBC News",
+      "pubDate": "Sat, 09 Aug 2025 04:11:01 GMT"
     }
   ],
   "renewable_energy": [
@@ -1842,10 +1842,6 @@
     }
   ],
   "ethereum": [
-    {
-      "title": "Ethereum Price Crash: What\u2019s Happening And Where ETH Is Headed Next - Mitrade",
-      "pubDate": "Sat, 02 Aug 2025 12:15:22 GMT"
-    },
     {
       "title": "Ethereum turns 10: From scrappy experiment to Wall Street\u2019s invisible backbone - CNBC",
       "pubDate": "Sat, 02 Aug 2025 18:42:41 GMT"
@@ -2475,10 +2471,6 @@
   ],
   "amazon": [
     {
-      "title": "Amazon Recall Update: Fatal Warning Issued Nationwide - Newsweek",
-      "pubDate": "Sat, 02 Aug 2025 12:13:09 GMT"
-    },
-    {
       "title": "Amazon Online Retail Sales Surged 11% In Second Quarter, Ahead Of Amazon Prime Day - Forbes",
       "pubDate": "Sat, 02 Aug 2025 19:31:10 GMT"
     },
@@ -2500,10 +2492,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "Ukraine Allocates $232 Million to Drones, Logistics After 22,700 Successful Strikes in July - UNITED24 Media",
-      "pubDate": "Sat, 02 Aug 2025 12:46:09 GMT"
-    },
     {
       "title": "U.S. Approves $4.67 Billion Missile Sale to Egypt - Overt Defense -",
       "pubDate": "Sat, 02 Aug 2025 14:00:01 GMT"
@@ -2699,10 +2687,6 @@
   ],
   "asia": [
     {
-      "title": "Central Asia Gas Pipeline Supplying Russian Military Shuts Down After Blasts - Kyiv Post",
-      "pubDate": "Sat, 02 Aug 2025 12:27:47 GMT"
-    },
-    {
       "title": "As tsunami waves swept the Pacific, some in Asia saw signs of a manga prophecy come true - CNN",
       "pubDate": "Sun, 03 Aug 2025 04:00:00 GMT"
     },
@@ -2851,12 +2835,6 @@
       "pubDate": "Fri, 08 Aug 2025 06:54:02 GMT"
     }
   ],
-  "ancient_history": [
-    {
-      "title": "First volume of \u201cThe History of Kazakhstan from Ancient Times to Present Day\u201d approved for publication - qazinform.com",
-      "pubDate": "Sat, 02 Aug 2025 12:30:29 GMT"
-    }
-  ],
   "public_health": [
     {
       "title": "Overwhelmed and stressed: Mothers open up about worrying decline in mental health - PBS",
@@ -2869,6 +2847,10 @@
     {
       "title": "A gunman opened fire on the CDC headquarters - Bulletin of the Atomic Scientists",
       "pubDate": "Sat, 09 Aug 2025 04:59:51 GMT"
+    },
+    {
+      "title": "How Canadian Wildfire Smoke Is Jeopardizing Health Across North America - Bloomberg",
+      "pubDate": "Sat, 09 Aug 2025 12:00:32 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2921,12 +2903,6 @@
     {
       "title": "US sanctions Mexican cartel figures, including popular rapper El Makabelico - Reuters",
       "pubDate": "Wed, 06 Aug 2025 18:16:34 GMT"
-    }
-  ],
-  "gpus": [
-    {
-      "title": "Nvidia Secures $2.36B GPU Deal for Asian AI Data Centers Amid Surge - WebProNews",
-      "pubDate": "Sat, 02 Aug 2025 12:46:00 GMT"
     }
   ],
   "big_data": [
@@ -3134,10 +3110,6 @@
     }
   ],
   "quantum": [
-    {
-      "title": "First Quantum Bit Made of Antimatter Captured in Physics Breakthrough - ScienceAlert",
-      "pubDate": "Sat, 02 Aug 2025 12:01:38 GMT"
-    },
     {
       "title": "Scientists Just Admitted Nobody Really Gets Quantum Physics - ScienceAlert",
       "pubDate": "Sat, 02 Aug 2025 15:01:38 GMT"
