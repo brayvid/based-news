@@ -1,52 +1,72 @@
 {
+  "Earthquakes": {
+    "articles": [
+      {
+        "title": "Earthquake of magnitude 6.1 strikes western Turkey, disaster authority says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3FJYndfWUl4T0FqNVkyWjZTWnY1ejlhTmZIQjNNUndWME1pZVFBeGM5Z3A4VnpjeXhnQnRtQklVRXZQcndZcmdkOUhmdWNYTWlfckU4X3dFd0pncDhRdEw5eURpVGdmUVpCbzVoZFBSMlBiTmNRVnVnMHhVQ1ZmZ0h0RGNtV0NvbXdWLXlVOWs1dDR5dlFBZlNaRHVnNmY2NTFBeHZHS3JVckpLR3Njejh6SzNCQTM4M012aDRkTGhOWXFYLVE?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 17:16:29 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
+  },
+  "Public Health": {
+    "articles": [
+      {
+        "title": "Friday\u2019s attack on the CDC offices was targeted and deliberate, CDC leaders tell staffers - CNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8ybTR0Q1Z3QjVMa3k3MTNZUmdmdW9YR1haTGVBc3NUVTB2NTAwbFY4UmJKaTh2Wjg0N0dQUEk2NHJZSnpyRlJqTEhnZnFiekZuMHZ1UlAtZTFHb2hJOHRJd2lLZVFCVmEtVFBaRDE4eXZyVVhYLWZsRl9FSlLSAYIBQVVfeXFMT0hMUUVVUHZOZFNDMDRGNktQR0ZfcVQ1N0JZV09Yb3lWMlhLNmFWdVdZcTVOc1Q1ZG15eDdfdHZkaHkwOVByUnhrR3VkQmVUUUhpT2hCUzNLWk9LVWRIMUctOXlZWXN4NmZTUTZXdWMwM1Vzd1RTQUNrZXZ3UVRUN0hlZw?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 09:18:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
+  },
   "Donald Trump": {
     "articles": [
       {
-        "title": "Donald Trump exposes US retirees to new world of risk with 401k order - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ1VSSk5PRkRRRlJfWmRnN0N2TUE1Ti1XZmtyWVdvT3pjZmpMc0lzNUxYOW1zc2psSVlqRG9BOHZ3QkI3V1FYbnBEUFpkYWJqZ3ZCaDZFenBYRUJUTHpuVGpSeU5CUW9UREM0Z0pzQ1E?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 10:00:04 GMT"
+        "title": "Trump warns homeless to leave Washington, D.C., \u2018immediately\u2019 - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tVnB6dlFIdHN0cHVCd3A4NktJeDBqTE1ZTFhUMTR5ZHp3enhsdGxkQ2RxMmluV0d6ZUZVV0l0clhHU2Vab3N1Tk0xNnFpXzE5NUR2MWN6d2QwejJWV0Rqd0VQXzlSMjhCaUdhZ3NURzJOdk9sUWxxR0lR0gF_QVVfeXFMTnk2SlNBNi1oSWJFTHlhTnVxWWNTT1g5Ums4amRyUkRLVTdVMmxFV2g0NmlyNi1va2w1bE8xZHpxSTM0V19PbVZtTkZubU9xc191ZUpwc19xZl9UTllrNlg4ai1tTVN3UFlZWjRtcmtMU004bzhMQUxBMWFVc0tXYw?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 16:24:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T16:58:06.041614+00:00"
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "Netanyahu defends new Gaza military push amid growing opposition - France 24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc19pWEtvZnpUZGRZeVBoVXZQNzBFTUI5bjNCanZ4LVVMdjBVX3lOXzVaMlNNbjQ1SjdpX2NoRzlPRFRVY1hZWW4waG5Ib25zeVJFS0t3U2hJWUZfWTJJU25oY3dDYmN4ZUxoTnZMamFKSVNGc0EzYmV5LVgzc0QxZkkydmFQQmdjZVZPRUxNR0wyRDFxT083QTF0YVUtNVJYMWFwdXVjN2Y0SWVkYmlVVXBPRQ?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 14:39:58 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjF3NFk2VzdGMUh3WWlTZzczV2VkSWI3VDhGS1hMa2lNZktZNkQ5M0o4dU9lVFNHOWpNVG9jRGRUbzFWVDVNNG5kVmdqazdXQ2xlNFRRWl9FWkdPN0ZOYUJiLUxBZHdlRjJYX0wzMDhOU21WU1BrOV92MVVFY1dpS3RwTlIzZUs4OWxMcVVwRWc5RW9rTlI5SEo0QjhRcVNWTXNF0gGoAUFVX3lxTFBEblpKdDdmN25xSWVzWVVzcWlsRnBJUDRPUnpxbUlRMGxSbXRLa0JIRGVkQ2I4T21WNW1kdG1feHVvUmdkekoxVDFjYUNDWU1kM3BKY3pVRmtBb1JELS0zUzlnZXJfSVdpb0h5dVpOaG1DdFpHNHJNbm9LMzlSMXpnT0hzSkJhRGJReENvcEdQZkNETnNlazB0TnotYU4yUnVvOUlJMHBXZg?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
   },
   "Ethereum": {
     "articles": [
       {
-        "title": "Ethereum Transaction Activity Rockets to Historic Highs - Bitcoin.com News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTgtdFVkM3N1d09lYWJiZHFqSm4xZTRtWGUydDJ3SnZTY3h2S0xoVHJXRXBJZVpnRVZ5UmJLV1VYWnVtV1NSYnRibDd6d1JoRWZqcXZMM1NRZ3k0RUpJTHpmQXNOczdYRFhYVUxSVmdBOTZIcUZxbVFNdFFnS0xfVjRDSTRyUXBR?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 05:49:01 GMT"
+        "title": "Ethereum (ETH) Breaks Above $4,200 as Whale Accumulation Fuels 6% Rally - Blockchain News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlpOOVBjNUZfbnR6TUpFMGNJQ3VPMkxwSGVSTE9rUkdxNUxrRVRDTjlEeW9lR0FCYVlBY3dHc3lad1pHanVpTkRzeEQzLVBGQk1wZVRneDBHVkNLblFKVFBYUmdwdmNFb2hKbkNzeDN4RW9HQXRIbE9qWmJHX1BlbEFncGE3SXVyMnE1VVpQMDN1NXkyOW1hY1VYTkdPOEk?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 07:01:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T16:58:06.041614+00:00"
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
   },
-  "Climate Change": {
+  "Recession": {
     "articles": [
       {
-        "title": "Public input sought for state climate action plan - Maui Now",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0NZRVVERW1zUTNWMTA5NWdHS1hKNkRmeXl2WUNYRFlPaUs1QkZRUkFTMTlVdk1KZUNzUENEV0JlejBfcVB4Uk1Id3hscjBkRTZHLWdfajFidWpHcTQ3bWJUMUpJRkUweHVoUFBqOWlWSUFEVVg2MlR6NFhwRlF1Z0E2bG92azJS?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 16:00:00 GMT"
+        "title": "More than half of industries are already shedding workers, a 'telling' sign that's accompanied past recessions, top economist says - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGwzUF9acDJiVkJFUHBFYlplQ1laalNLSkFrTXEtUVZkVHdxNlJqUXk5eFl5dld6NHloMU5ab0lqTEljSlRPQk5TVHdXWTk5bXAzZjM3SjBXVUNUSm1PT2ViRTlKVXhGNXhYY3hsMGl0V2FVejhQYjgxM3Z2MVJrZmFsdHRpeDZOTE81NUhWem5KMWtDUkVjdll3d2VKckZTNzNtekgzVTZJQQ?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 17:18:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T16:58:06.041614+00:00"
-  },
-  "Earthquakes": {
-    "articles": [
-      {
-        "title": "A national park shook with earthquakes \u2014 then a professor got creative - SFGATE",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkJhWW9taHJkeWpTRVJSelRkTmEwbDloeTZWaENEam5TaUMtNVNTaC1uNDFlc1E2aDBVWDVHRlJrcENpRVEyM3pWZ1hiMDVYX0NKVER6OFFaR2hDVjhLX2h0LVp0S20wbGVIMHgwRkxzZjRtQkVqenZRQWZFSXAxeHlfMjYxYWtZVHNza2tQdC1XX1YtSFp4aG43VGxLX19aVlItTVlB?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 11:10:43 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-10T16:58:06.041614+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Israel\u2019s UN envoy accuses UK of hypocrisy over Gaza war - JNS.org",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVpoa3JORk55cTJIX1E3SVduU2pCME90blJ6T1dFMFJyampFSFZIOFlma2JNQkNMT2RuSlZmUm1OQzZUMmlWSUZ6MkdHanJkd0ljaGhSNUhCVWVXdGs3WmVpT0tSeEdlRXJLX1Z6ZktaeFdyWFh6ajBqTG9xRFBUZg?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 06:35:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-10T16:58:06.041614+00:00"
+    "last_updated_ts": "2025-08-10T17:58:06.293491+00:00"
   }
 }
