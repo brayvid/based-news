@@ -275,6 +275,87 @@ p.timestamp {
     text-decoration: none;
   }
 }
+
+/* =================================================================== */
+/* Dark Mode Styles (auto-adapts to user's system preference)      */
+/* =================================================================== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  .subheading {
+    color: #bbb;
+  }
+
+  main {
+    background: #1e1e1e;
+    box-shadow: none;
+    border: 1px solid #333;
+  }
+
+  .arrow-btn {
+    color: #aaa;
+  }
+
+  .arrow-btn:hover:not(:disabled) {
+    color: #fff;
+  }
+
+  .dot {
+    background-color: #555;
+  }
+
+  .dot:hover {
+    background-color: #777;
+  }
+
+  .dot.active {
+    background-color: #4a90e2; /* A brighter blue for active state */
+  }
+
+  .digest-timestamp {
+      color: #ccc;
+      border-bottom: 1px solid #444;
+  }
+
+  section h3, .summary-heading {
+    border-bottom-color: #555;
+  }
+  
+  /* General link color for footer, etc. */
+  a {
+    color: #8ab4f8; /* Light blue for links, good contrast */
+  }
+  
+  /* THIS RULE IS NEW */
+  /* More specific rule to override the dark blue article link color from the light theme */
+  section a {
+      color: #8ab4f8;
+  }
+
+  a:hover, a:focus {
+    color: #a8c7fa; /* Lighter blue on hover */
+  }
+
+  footer {
+    color: #999;
+  }
+  
+  p.timestamp {
+     color: #9e9e9e;
+  }
+
+  /* Override inline style from JS for the summary timestamp */
+  #world-summary .timestamp {
+      color: #9e9e9e !important;
+  }
+}
   </style> 
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap"></noscript>
@@ -302,7 +383,9 @@ p.timestamp {
         <div id="digest-slider">
           <!-- Slides will be injected here by JS in reverse chronological order -->
            <div class="digest-slide" id="digest-slide-0">
-              <!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->
+              <h3>China</h3>
+<p><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDJFUlRCaWtQbGtVSHhlYThhdFlva29xd2sxLVdhM0RLY01DV1Y5blhYWUV0LWJwemwyc3VrNHc3Q0NWNXJvSm9yZDRQdV8wWkx0R3luN2Vnc2VxM0ZPV2NuLWZQaXlwTERpS0pHYVByNmtxdWlNRlloYjZQeTNCUVM2T21vMUw3UXFjTFFZVDVNUmpLRk85b0gxeXNZLVVNTW4wZXY5VkdnSWxPQ0cxZnVESFo?oc=5" target="_blank">China wants US to relax AI chip-export controls for trade deal, FT reports - Reuters</a><br><small>Sun, 10 Aug 2025 12:54 AM EDT</small></p>
+
           </div>
         </div>
       </div>
