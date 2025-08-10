@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <!-- Title set to your preference -->
-  <title>Based News | Blake Rayvid</title>
+  <title>Based News Reader</title>
 
   <!-- Your existing description -->
   <meta name="description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you.">
@@ -21,7 +21,7 @@
   <!-- =================================================================== -->
   <!-- SEO: Open Graph / Social Sharing Tags (Facebook, LinkedIn, etc.)    -->
   <!-- =================================================================== -->
-  <meta property="og:title" content="Based News | Blake Rayvid" />
+  <meta property="og:title" content="Based News Reader" />
   <meta property="og:description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://news.blakerayvid.com" />
@@ -35,7 +35,7 @@
   <!-- SEO: Twitter Card Tags                                              -->
   <!-- =================================================================== -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Based News | Blake Rayvid" />
+  <meta name="twitter:title" content="Based News Reader" />
   <meta name="twitter:description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you." />
   <!-- Twitter uses the same image as Open Graph. -->
   <meta name="twitter:image" content="https://news.blakerayvid.com/images/example.png" />
@@ -61,305 +61,246 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
+    :root {
+      color-scheme: dark;
+    }
+    
     body {
-  margin: 0;
-  font-family: 'Open Sans', sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  line-height: 1.6;
-}
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+      line-height: 1.6;
+    }
 
-.container {
-  width: 90%;
-  max-width: 800px;
-  margin: 0 auto;
-  padding-top: 4px;
-}
+    .container {
+      width: 90%;
+      max-width: 800px;
+      margin: 0 auto;
+      padding-top: 4px;
+    }
 
 
-header {
-  background-color: #f4f4f4;
-  color: #fff;
-  padding: 1.5em 0;
-  text-align: center;
-}
+    header {
+      background-color: #121212;
+      padding: 1.5em 0;
+      text-align: center;
+    }
 
-header h1 {
-  margin: 0;
-  font-family: 'Merriweather', serif;
-  font-size: 2.5em;
-}
+    header h1 {
+      margin: 0;
+      font-family: 'Merriweather', serif;
+      font-size: 2.5em;
+      color: #e0e0e0;
+    }
 
-.subheading {
-  margin-top: 0.5em;
-  font-size: 1.1em;
-  color: #ccc;
-}
+    .subheading {
+      margin-top: 0.5em;
+      font-size: 1.1em;
+      color: #bbb;
+    }
 
-main {
-  background: #fff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-top: 2em;
-  padding: 2em 1.6em;
-}
+    main {
+      background: #1e1e1e;
+      box-shadow: none;
+      border: 1px solid #333;
+      margin-top: 2em;
+      padding: 2em 1.6em;
+    }
 
-/* --- Digest Pagination Styles --- */
-.digest-pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 8px; /* Gap between arrows and dots container */
-  margin-bottom: 1em;
-  margin-top: 0.8em;
-  user-select: none;
-}
+    /* --- Digest Pagination Styles --- */
+    .digest-pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px; /* Gap between arrows and dots container */
+      margin-bottom: 1em;
+      margin-top: 0.8em;
+      user-select: none;
+    }
 
-.arrow-btn {
-  background-color: transparent;
-  border: none;
-  color: #555;
-  font-size: 18px;
-  cursor: pointer;
-  padding: 5px;
-  line-height: 1;
-  transition: color 0.2s;
-}
+    .arrow-btn {
+      background-color: transparent;
+      border: none;
+      color: #aaa;
+      font-size: 18px;
+      cursor: pointer;
+      padding: 5px;
+      line-height: 1;
+      transition: color 0.2s;
+    }
 
-.arrow-btn:hover:not(:disabled) {
-  color: #000;
-}
+    .arrow-btn:hover:not(:disabled) {
+      color: #fff;
+    }
 
-.arrow-btn:disabled {
-  opacity: 0.3;
-  cursor: not-allowed;
-}
+    .arrow-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
 
-#dots-container {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
+    #dots-container {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
 
-.dot {
-  width: 10px;
-  height: 10px;
-  background-color: #ccc;
-  border-radius: 50%;
-  cursor: pointer;
-  transition: background-color 0.2s, transform 0.2s;
-  flex-shrink: 0;
-}
+    .dot {
+      width: 10px;
+      height: 10px;
+      background-color: #555;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: background-color 0.2s, transform 0.2s;
+      flex-shrink: 0;
+    }
 
-.dot:hover {
-  background-color: #aaa;
-}
+    .dot:hover {
+      background-color: #777;
+    }
 
-.dot.active {
-  background-color: #003366;
-  transform: scale(1.2);
-}
+    .dot.active {
+      background-color: #4a90e2;
+      transform: scale(1.2);
+    }
 
-.digest-timestamp {
-    font-family: 'Merriweather', serif;
-    font-size: 1.1em;
-    text-align: center;
-    color: #444;
-    margin-bottom: 1em;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.5em;
-}
-
-/* --- Slider Styles --- */
-#digest-slider-wrapper {
-  overflow: hidden;
-  position: relative;
-  width: 100%;
-  transition: height 0.25s ease-in-out; /* Smooth height transition */
-  min-height: 80px; /*  ADD THIS LINE */
-}
-
-#digest-slider {
-  display: flex;
-  transition: transform 0.4s ease-in-out;
-  align-items: flex-start; 
-}
-
-.digest-slide {
-  width: 100%;
-  flex-shrink: 0;
-  box-sizing: border-box;
-}
-
-/* ADD THIS ENTIRE RULE */
-#world-summary {
-  min-height: 300px; /* Or a height that reflects your typical summary length */
-}
-
-/* General Section Styles */
-section h3 {
-  font-family: 'Merriweather', serif;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 0.3em;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-}
-
-section p {
-  margin: 0.5em 0 1em 0;
-  /* KEY FIX: This will wrap long words/URLs correctly without breaking normal words. */
-  word-break: break-word;
-}
-
-section a {
-  color: #003366;
-  text-decoration: none;
-  font-weight: 600;
-  /* KEY FIX: Applying the same wrapping rule to links. */
-  word-break: break-word; 
-}
-
-section a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  text-align: center;
-  font-size: 0.9em;
-  color: #666;
-  padding: 2em 0;
-}
-
-a {
-  color: #003366;
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.2s ease, text-decoration 0.2s ease;
-}
-
-a:hover,
-a:focus {
-  color: #d33c2d;
-  text-decoration: underline;
-}
-
-.summary-heading {
-  font-family: 'Merriweather', serif;
-  font-size: 1.3em;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 0.3em;
-  margin-top: 2em;
-  margin-bottom: 1em;
-}
-
-p.timestamp {
-  font-size: 0.85em !important;
-  color: #888;
-}
-
-@media (max-width: 600px) {
-  header h1 { font-size: 1.8em; }
-  .subheading { font-size: 0.95em; }
-  main { padding: 1em; }
-  section h3 { font-size: 1.0em; }
-  a { font-size: 0.95em; }
-  .digest-timestamp { font-size: 1em; }
-  .arrow-btn { font-size: 32px; }
-  #dots-container { gap: 10px; }
-  .dot { width: 9px; height: 9px; }
-}
-
-@media (hover: none) and (pointer: coarse) {
-  a:hover,
-  a:focus {
-    color: #003366;
-    text-decoration: none;
-  }
-}
-
-/* =================================================================== */
-/* Dark Mode Styles (auto-adapts to user's system preference)      */
-/* =================================================================== */
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-  }
-
-  body {
-    background-color: #121212;
-    color: #e0e0e0;
-  }
-
-  header {
-    background-color: #121212;
-  }
-
-  .subheading {
-    color: #bbb;
-  }
-
-  main {
-    background: #1e1e1e;
-    box-shadow: none;
-    border: 1px solid #333;
-  }
-
-  .arrow-btn {
-    color: #aaa;
-  }
-
-  .arrow-btn:hover:not(:disabled) {
-    color: #fff;
-  }
-
-  .dot {
-    background-color: #555;
-  }
-
-  .dot:hover {
-    background-color: #777;
-  }
-
-  .dot.active {
-    background-color: #4a90e2; /* A brighter blue for active state */
-  }
-
-  .digest-timestamp {
+    .digest-timestamp {
+      font-family: 'Merriweather', serif;
+      font-size: 1.1em;
+      text-align: center;
       color: #ccc;
+      margin-bottom: 1em;
       border-bottom: 1px solid #444;
-  }
+      padding-bottom: 0.5em;
+    }
 
-  section h3, .summary-heading {
-    border-bottom-color: #555;
-  }
-  
-  /* General link color for footer, etc. */
-  a {
-    color: #8ab4f8; /* Light blue for links, good contrast */
-  }
-  
-  /* THIS RULE IS NEW */
-  /* More specific rule to override the dark blue article link color from the light theme */
-  section a {
+    /* --- Slider Styles --- */
+    #digest-slider-wrapper {
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+      transition: height 0.25s ease-in-out; /* Smooth height transition */
+      min-height: 80px; 
+    }
+
+    #digest-slider {
+      display: flex;
+      transition: transform 0.4s ease-in-out;
+      align-items: flex-start;
+    }
+
+    .digest-slide {
+      width: 100%;
+      flex-shrink: 0;
+      box-sizing: border-box;
+    }
+
+    #world-summary {
+      min-height: 300px; 
+    }
+
+    /* General Section Styles */
+    section h3 {
+      font-family: 'Merriweather', serif;
+      border-bottom: 2px solid #555;
+      padding-bottom: 0.3em;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    section p {
+      margin: 0.5em 0 1em 0;
+      word-break: break-word;
+    }
+
+    section a {
       color: #8ab4f8;
-  }
+      text-decoration: none;
+      font-weight: 600;
+      word-break: break-word;
+    }
 
-  a:hover, a:focus {
-    color: #a8c7fa; /* Lighter blue on hover */
-  }
+    section a:hover {
+      text-decoration: underline;
+    }
 
-  footer {
-    color: #999;
-  }
-  
-  p.timestamp {
-     color: #9e9e9e;
-  }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #999;
+      padding: 2em 0;
+    }
 
-  /* Override inline style from JS for the summary timestamp */
-  #world-summary .timestamp {
+    a {
+      color: #8ab4f8;
+      text-decoration: none;
+      font-weight: 600;
+      transition: color 0.2s ease, text-decoration 0.2s ease;
+    }
+
+    a:hover,
+    a:focus {
+      color: #a8c7fa;
+      text-decoration: underline;
+    }
+
+    .summary-heading {
+      font-family: 'Merriweather', serif;
+      font-size: 1.3em;
+      border-bottom: 2px solid #555;
+      padding-bottom: 0.3em;
+      margin-top: 2em;
+      margin-bottom: 1em;
+    }
+
+    p.timestamp {
+      font-size: 0.85em !important;
+      color: #9e9e9e;
+    }
+
+    #world-summary .timestamp {
       color: #9e9e9e !important;
-  }
-}
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.8em;
+      }
+      .subheading {
+        font-size: 0.95em;
+      }
+      main {
+        padding: 1em;
+      }
+      section h3 {
+        font-size: 1.0em;
+      }
+      a {
+        font-size: 0.95em;
+      }
+      .digest-timestamp {
+        font-size: 1em;
+      }
+      .arrow-btn {
+        font-size: 32px;
+      }
+      #dots-container {
+        gap: 10px;
+      }
+      .dot {
+        width: 9px;
+        height: 9px;
+      }
+    }
+
+    @media (hover: none) and (pointer: coarse) {
+      a:hover,
+      a:focus {
+        color: #8ab4f8;
+        text-decoration: none;
+      }
+    }
+
   </style> 
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap"></noscript>
@@ -585,9 +526,6 @@ p.timestamp {
               if (lastUpdated) {
                 const stamp = document.createElement("p");
                 stamp.className = "timestamp";
-                stamp.style.fontSize = "0.9em";
-                stamp.style.color = "#666";
-                stamp.style.marginTop = "0.5em";
                 stamp.textContent = lastUpdated.textContent;
                 stamp.style.textAlign = "center";
                 document.getElementById("world-summary").appendChild(stamp);
