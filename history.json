@@ -211,6 +211,10 @@
     {
       "title": "Trump warns homeless to leave Washington, D.C., \u2018immediately\u2019 - CNBC",
       "pubDate": "Sun, 10 Aug 2025 16:24:33 GMT"
+    },
+    {
+      "title": "Trump pledges to move homeless people in Washington, DC \u2018far\u2019 from the city - Al Jazeera",
+      "pubDate": "Sun, 10 Aug 2025 21:47:51 GMT"
     }
   ],
   "russia": [
@@ -253,6 +257,10 @@
     {
       "title": "Instead of sanctions, Donald Trump announces a summit with Russia - The Economist",
       "pubDate": "Sat, 09 Aug 2025 14:54:53 GMT"
+    },
+    {
+      "title": "Russia Says Nations Plotting To Derail Trump-Putin Alaska Talks - Newsweek",
+      "pubDate": "Sun, 10 Aug 2025 16:34:25 GMT"
     }
   ],
   "ai_safety": [
@@ -388,10 +396,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "What's next for AI at DeepMind, Google's artificial intelligence lab | 60 Minutes - CBS News",
-      "pubDate": "Sun, 03 Aug 2025 22:50:00 GMT"
-    },
     {
       "title": "Big Tech\u2019s hefty AI spending is reshaping the slowing economy - The Washington Post",
       "pubDate": "Mon, 04 Aug 2025 09:02:23 GMT"
@@ -625,10 +629,6 @@
   ],
   "china": [
     {
-      "title": "Exclusive | US sabre-rattling at China can be self-fulfilling prophecy of war: Jeffrey Sachs - South China Morning Post",
-      "pubDate": "Sun, 03 Aug 2025 22:00:10 GMT"
-    },
-    {
       "title": "China May Need to Trim Record Copper Output on Shortage of Ore - Bloomberg.com",
       "pubDate": "Sun, 03 Aug 2025 23:35:18 GMT"
     },
@@ -783,10 +783,6 @@
   ],
   "us_politics": [
     {
-      "title": "Texas House Democrats flee to Chicago to derail congressional redistricting bill - Dallas News",
-      "pubDate": "Sun, 03 Aug 2025 22:23:56 GMT"
-    },
-    {
       "title": "Trump says Republicans are 'entitled' to more Texas seats - USA Today",
       "pubDate": "Tue, 05 Aug 2025 14:01:46 GMT"
     },
@@ -877,6 +873,10 @@
     {
       "title": "North Korea dismantles propaganda speakers at border - BBC",
       "pubDate": "Sat, 09 Aug 2025 12:34:26 GMT"
+    },
+    {
+      "title": "North Korea warns of 'self-defense' measures against planned South Korea-US military exercise - The Korea Times",
+      "pubDate": "Sun, 10 Aug 2025 22:43:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1019,10 +1019,6 @@
   ],
   "recession": [
     {
-      "title": "Dow futures drop as recession alarm bells jolt Wall Street awake from dreams of a gravity-defying economy - Fortune",
-      "pubDate": "Sun, 03 Aug 2025 22:34:00 GMT"
-    },
-    {
       "title": "Why changing monetary and immigration policies may be edging U.S. closer to a recession: Carmen Reinhart - CNBC",
       "pubDate": "Mon, 04 Aug 2025 16:50:26 GMT"
     },
@@ -1049,6 +1045,10 @@
     {
       "title": "More than half of industries are already shedding workers, a 'telling' sign that's accompanied past recessions, top economist says - Fortune",
       "pubDate": "Sun, 10 Aug 2025 17:18:00 GMT"
+    },
+    {
+      "title": "Everyone\u2019s worried about the economy, but executives have been talking less about a recession - MarketWatch",
+      "pubDate": "Sun, 10 Aug 2025 14:00:00 GMT"
     }
   ],
   "drones": [
@@ -2111,6 +2111,10 @@
     {
       "title": "Netanyahu defends new Gaza military push amid growing opposition - France 24",
       "pubDate": "Sun, 10 Aug 2025 14:39:58 GMT"
+    },
+    {
+      "title": "IDF assessing how many troops needed for new Gaza offensive as Security Council convenes - The Times of Israel",
+      "pubDate": "Sun, 10 Aug 2025 21:00:00 GMT"
     }
   ],
   "battery_technology": [
@@ -3303,6 +3307,10 @@
     {
       "title": "New research using mRNA vaccines targets rare cancers - MSNBC News",
       "pubDate": "Thu, 07 Aug 2025 20:18:56 GMT"
+    },
+    {
+      "title": "Florida\u2019s universities face research overhaul courtesy of Trump and DeSantis - Politico",
+      "pubDate": "Sun, 10 Aug 2025 14:00:00 GMT"
     }
   ],
   "abiogenesis": [
@@ -3343,6 +3351,12 @@
     {
       "title": "New electrolyte highway enables low-temperature hydrogen fuel cells - Interesting Engineering",
       "pubDate": "Sun, 10 Aug 2025 11:36:00 GMT"
+    }
+  ],
+  "military_intelligence": [
+    {
+      "title": "Leaked French Document Exposes Algerian-Spanish Military Deal Against Morocco - Morocco World News",
+      "pubDate": "Sun, 10 Aug 2025 17:12:04 GMT"
     }
   ]
 }
