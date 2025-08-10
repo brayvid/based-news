@@ -1,62 +1,62 @@
 {
-  "Geopolitics": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "European allies rally behind Ukraine ahead of Trump-Putin summit - politico.eu",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHMtRGxIVUo3TGMwSmRHQ3ZKR3lyMTF4M1RKdGVTY2I5a1N5Ulc4aFBTZTFQaEhSc0VnTlY5WUw2aHFQWlQyLXhWWFowZ1NkNE9JaUFKdEVXcG4xRDNnb3pxRGx2ZUZPa25DaEdDUWVzVlhWVHlVWEduM1lPRUgydm9Cb3JJMnBPT0xMQmkxTk10Q0pOY09OaUIwdXFIQQ?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 08:05:34 GMT"
+        "title": "White House is considering inviting Zelenskyy to Alaska - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0ZFRUNxZTZMUkUwNlJRZjZ0aWZ4N1R0RWZwdDZaTkZYNlZ0V2VSRFkzeE8zMV9YYnhLRTFrZHdObXRrb2pjUElWd3hNLXI3WEhRNXY0bl92d0NtNmsxNXBkcW9WR3ctejdwOHdMM1drMGgzWUdpd3Q2Qm5KZlgzUHplMjdDRDg4QTlSVUNzcmVXTUJUd2lFR1Vaa214NVdDTVNYU0Z3QUZKa2Y3UTE5QXEtUDjSAVZBVV95cUxNaE5ob2xZSDVKdk45NGZUeGxmajhoQmtqQnJpWE82MURTXzV4QWhQOGRMdFFjaGVVVzR5NTNzdXJha0lqSno0eTQzTGxLSzgzTWt3b3h4UQ?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 09:13:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Ham and bacon sold in Tesco and M&S found to contain cancer-causing chemicals - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDFqTFdJMERKbXJxaDN0eGpOYlk0enY1YjVBbWR6a01qYjhPMW9wYm90Q09WYUxsS1lKeHp0YmZMa2w0WUhhU3NKeEZzV1hxNlpDYnNEQmZNMDEzN19WRWdkbFZ3dHhicld2VnpyTGZIUFZYLTdlUmJ0Y0RzWFNTTmJtUGk4N3oyWHBkMEdGZXh4S1dheE9jcTFvN1dpRmwxQ1lNck1na3BtY01OMUZnX3l1MG4?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 07:01:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "After $400M exit, Medigate\u2019s founders launch new cybersecurity startup - CTech",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EeGpxQXByek9FaU1mbl8zbkNoQ0o0VEVlaWdqSWJ6ZThKeGZEaWRyYWpLWTh5R3A5Vng5dlJQZHlJemVZTExLUFpOekFNUU54ZXBDUHVzbWFISDVxN2gyMnVUM0FLTXFU?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 07:35:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Frequent disasters expose climate risks to infrastructure in South Asia - Pittsburgh Post-Gazette",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZFptSFdoUVVNcnR0MGJzdFNSeU1TUnhGOThZYmh4WEhaVXRIS1JYT0VYakliV3BacEtvczBYWlJvN0JWT0ltQl9fNjhQeVd0S0h2QUJkU09iZV9CcXZpR3VhWnJxc09iYWx3cUY4dGtybXBSanVEbmNISXVNZ2J3ZERoRllrNExvLXFSTkc2RlllMEF3R2xiZGlaWmxWRGtMSm1ObllsaTFMMVpXY3pHcG5tdGhZeGQ5ekZiY3hKY3ViblM2ZXJkX2NQNDgwOE5mMDd6Q3BWTjdjdHc?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 08:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
   },
   "Bitcoin": {
     "articles": [
       {
-        "title": "Bitcoin Miner Cleanspark Posts Record $257M Profit, Faces $185M Tariff Dispute - Bitcoin.com News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFhyVDhOaS0yS01iVnZiZ1BDQXBiRlg2RE9SQV82ZFVBcXBVZWh2eHJpTEJrUWVBR1NnVWhxQTZQcFM3LVc4Wm5SdWpqbVVqTUo3dFMzZUZfU1k2WTM1WjE4QjY2NmEzb3k2Y0FLcXhpd1N1b0owZGJodDNSc2FDOGZaa2VqM1FuTnFqVHBXYVN1bUxqN0hZdVBPUDdIckJuNkdN?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 06:31:59 GMT"
+        "title": "Bitcoin News Today: Bitcoin Maintains Dominance as Altcoin Season Speculation Fizzles - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGM0Zmk0N2hDOURaQ2toV3hOYnFfYWxEUjB5c2kyMkppM0liX1J1dFU2Znc1UktGQzhTdHlJTmZsUXhSVVpDZnJyOGJxd2Z2a3VVTjlUd09ZMzVCNW5xOGxDTm1NbWhfWWVLbEV1SVRZY0Niay1KZHB6T2xNQnE5alRXUVBueTRjd2dNdS1wR0VoV1J6aWk5WVlCNlJaNGFyZFBkaUxhTGc5UVFvdnotWlJnZHJfZGc?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 08:08:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
   },
-  "Battery Technology": {
+  "Infrastructure": {
     "articles": [
       {
-        "title": "GM (GM) Plans Chinese Battery Use Amid Tariffs, Preps U.S. Production - Insider Monkey",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjJHcWdickZZWjhPTXd3OXFmSHk0Q0gzYVBueFpzNXZRazRnSzVQZFVyRDRGa3ZkakhWOVBnRmUtdnpBbGF5WWtQWHNlckx0dDIxb3hUazNPWlktT2RLbTZKeHo1T2NpOTR4Nll4cENhakVMdUhBbXhnZFJhQzIxUTk4cTJzQUx4M3h6RUNZZlZNWlBRMUVmcFJzUWI3NjNxN01xWmpYSF95UzlmT1HSAbYBQVVfeXFMTjZldzEtVllSa2tZZWF2QW9FOHVxT0hZSjdYY3FyYUJzVFg2NXBwZGNMUnkwWWVFeXB2YlVPWEdnVzV4QW5PSWpIOHBUbzk0MlVmNUNKWGE0X3JiLUI5MEJ3aVpGclFZQW1PSWVtNE1RTmUxVDJ5eGJDN2RNbk9nb241TnZINkxlMTlnUDI5ZkgzdWZPWkFFUEFqQWFkSHY3bHJtWHBTQ3BGV0tIc1VHMmVqWkVtd2c?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 04:09:39 GMT"
+        "title": "The Utilities Sector's Growth Catalysts in 2025: AI, EVs, and Infrastructure Modernization - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDNXN2ItZGlkS3N0aU1kT2ZHbGVBWGNxUlRqSGkwYWM3ZGNSY3FDUmFuOHZPMEhxQ01DYTZfMDkzaXBYbWprTzBIWndkeTg3bV9IVVZXTzA1V05LVEE1V3htalA5ak5aczBlRkhZQm0tT0VIbWgzVTZVODRpMU04SHlIai1oQmNmQkw0dmMxTkpRNmJhUkhCUmFjUm9mZTlRZjROTm52YnBnczNRakE?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 07:43:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Staff at UK\u2019s top AI institute complain to watchdog about its internal culture - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1lPaEEtS1NCYWozU2dIMDk5LWNYTFo5dGM0OFh4Yl9lQV94WlUxMlI4X19YY3EtUE9IbE5Xb0NzalptcW95T19Kc0hjVmJ4aXRvZUtSQmtvZFhwTGFsa0lnblBZUGkxNEJ2NTNKdnJyRUZubG10TEZDZUVoa3JJc1JPNnJXRlJyaVhVd2l0eGo1NnJfQV94bFVjVkoxR1Q0?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 07:01:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "US Fed official says jobs report confirms 'signs of fragility' in market - The New Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFRHRC03OTZUM2toeVpiZzZfeTR6NnpkVmNPOXdIZjJOcFBBWjAtb1FqNWczbnRTaHFnODhlVG5STGF1Wm1KMUFvdHdPc1A4bks0UFhSbExmTTQwb01Dbk9UdGM3UDRFRks5a0oxVVQ5amc4VER6cmxvYTRtam5GdmJ3NkJ3d0tQUmh0ZWVIRlZZNnBkcENWY3JXdjVFUXU3MFB3WmFuVGVLeng3MmV5dVFEQXBqQmxta1FQOV9wSWFUUdIBzwFBVV95cUxPVEZjY1N1MXEyT1FUX0JYbklTUE1IamxRTkE3NjB2c2hsblhoUERLbUVQeTFkNk42cFZJX29tQkJ2THlJLS1xd0lDaWVMdHpTZkNoVnk0M04ydldRTlVfSzQ1TTQtM3RoY2psRWlPakJJbWlSbG43V2FDajAxNmlPVjRZNXcwX0FKb3IxV1F0a0ljSlIwdzlvdkxYYU15dy0xNzIyd1BnV2szMVQyZHMxekhDbUNSS3prZThNOGE0YmtrZnM2R2VkTC0zam9jd1k?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 07:34:33 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China\u2019s chromosome editing tool could unlock new wave of genetic advances - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3hMOHFQRGJKTGVmZUs2blpYQU5CTXljeVV6OEdiR0hFYWY1Z05ndWtNS092UTBtV0xWSFZJcmxES0xtazA0U01GS05MS0UwUXZINjlKbGFCZ3FMSGRhU1JGM3BxUEd0TlNOcHJCb3FLMGxPVlNqakhXbEEzblpObFRTaUlGWm9FZm4yZnRoMTF0UWtiZ2lPams2OHJoRlNCUWMyNGpwRlNScXQ0M3UwUDV1b1d5YzliOXhpcktoNTBVUnRFQ3lr?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 08:31:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-10T08:56:17.217671+00:00"
+    "last_updated_ts": "2025-08-10T09:56:54.881247+00:00"
   }
 }
