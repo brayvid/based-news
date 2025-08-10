@@ -55,13 +55,13 @@
     {
       "title": "Israel\u2019s UN envoy accuses UK of hypocrisy over Gaza war - JNS.org",
       "pubDate": "Sun, 10 Aug 2025 06:35:15 GMT"
+    },
+    {
+      "title": "Palestinian Awdah Hathaleen, shot by an Israeli settler, captured his own killing on video - Haaretz",
+      "pubDate": "Sun, 10 Aug 2025 17:52:00 GMT"
     }
   ],
   "iran": [
-    {
-      "title": "Iran's currency has plunged so much in value that Tehran plans to chop off four zeros from the rial - Fortune",
-      "pubDate": "Sun, 03 Aug 2025 20:32:00 GMT"
-    },
     {
       "title": "Iran proposes slashing zeros from currency after decades of decline - Financial Times",
       "pubDate": "Mon, 04 Aug 2025 11:57:55 GMT"
@@ -475,6 +475,10 @@
     {
       "title": "OpenAI Just Announced GPT-5, Its Best Model Yet, and People Are Very Mad - Inc.com",
       "pubDate": "Sun, 10 Aug 2025 08:19:41 GMT"
+    },
+    {
+      "title": "AI is changing the lucrative search business. Here's how to pick the winners \u2014 and avoid the losers - CNBC",
+      "pubDate": "Sun, 10 Aug 2025 11:56:06 GMT"
     }
   ],
   "climate": [
@@ -779,6 +783,10 @@
     {
       "title": "China launches \u2018world\u2019s first\u2019 humanoid robot mall that operates like a car dealership - Interesting Engineering",
       "pubDate": "Sun, 10 Aug 2025 12:28:00 GMT"
+    },
+    {
+      "title": "China: rescue and relief efforts continue after flash floods - BBC",
+      "pubDate": "Sun, 10 Aug 2025 11:39:52 GMT"
     }
   ],
   "us_politics": [
@@ -1211,6 +1219,10 @@
     {
       "title": "Earthquake of magnitude 6.1 strikes western Turkey, disaster authority says - Reuters",
       "pubDate": "Sun, 10 Aug 2025 17:16:29 GMT"
+    },
+    {
+      "title": "Buildings collapse after shallow M6.1 earthquake hits Balikesir, western Turkey - The Watchers - Watching the world evolve and transform",
+      "pubDate": "Sun, 10 Aug 2025 17:37:36 GMT"
     }
   ],
   "elon_musk": [
@@ -1512,14 +1524,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Higher Bitcoin ETF Options Limits May Cut Volatility, but Boost Spot Demand: NYDIG - CoinDesk",
-      "pubDate": "Sun, 03 Aug 2025 20:01:39 GMT"
-    },
-    {
-      "title": "Canadian Teen Convicted in $37M Bitcoin Heist and 2020 X Hacking Spree - CryptoPotato",
-      "pubDate": "Sun, 03 Aug 2025 19:58:11 GMT"
-    },
     {
       "title": "BlackRock Bitcoin ETF set for \u2018monstrous lead\u2019 with SEC options boost - Cointelegraph",
       "pubDate": "Mon, 04 Aug 2025 06:09:53 GMT"
@@ -1957,10 +1961,6 @@
   ],
   "gaza": [
     {
-      "title": "Israeli forces kill at least 27 at food site while minister\u2019s al-Aqsa visit causes outrage - The Guardian",
-      "pubDate": "Sun, 03 Aug 2025 20:34:00 GMT"
-    },
-    {
       "title": "Israel\u2019s support for clans in Gaza puts tribal strongman in spotlight - The Washington Post",
       "pubDate": "Sun, 03 Aug 2025 21:47:57 GMT"
     },
@@ -2243,6 +2243,10 @@
     {
       "title": "Oddly viscous stars could be impersonating black holes - New Scientist",
       "pubDate": "Fri, 08 Aug 2025 21:00:33 GMT"
+    },
+    {
+      "title": "Scientists May Have Found the Ultimate Dark Matter Detector - SciTechDaily",
+      "pubDate": "Sun, 10 Aug 2025 18:14:56 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2263,10 +2267,6 @@
     {
       "title": "Can population decline help address climate change? - NPR",
       "pubDate": "Sun, 03 Aug 2025 21:09:18 GMT"
-    },
-    {
-      "title": "We\u2019re not minimising the cost of the net zero transition. These reforms will help - The Conversation",
-      "pubDate": "Sun, 03 Aug 2025 20:10:21 GMT"
     },
     {
       "title": "The E.P.A.\u2019s Disastrous Plan to End the Regulation of Greenhouse Gases - The New Yorker",
@@ -2427,6 +2427,10 @@
     {
       "title": "Resolution supporting \u2018Climate Change Superfund\u2019 introduced by Greenfield city councilor - Greenfield Recorder",
       "pubDate": "Sun, 10 Aug 2025 17:01:32 GMT"
+    },
+    {
+      "title": "Weather experts predict shattering of records as extreme heatwave hits Israel - The Times of Israel",
+      "pubDate": "Sun, 10 Aug 2025 20:11:48 GMT"
     }
   ],
   "volcanoes": [
@@ -3373,6 +3377,12 @@
     {
       "title": "After Technology Overpowered Retail Traders, Huatradia Aims to Give Individual Investors a Fair Chance with AI Trading Tools | FinancialContent - FinancialContent",
       "pubDate": "Sat, 09 Aug 2025 06:01:00 GMT"
+    }
+  ],
+  "hydrogen_fuel": [
+    {
+      "title": "New electrolyte highway enables low-temperature hydrogen fuel cells - Interesting Engineering",
+      "pubDate": "Sun, 10 Aug 2025 11:36:00 GMT"
     }
   ]
 }

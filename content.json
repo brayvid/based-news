@@ -1,12 +1,72 @@
 {
-  "Ukraine": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTko2czIyOWIyVFpnUlNsVWphR01GYS1Zd1B2ekVZREFIa2hUOFR4WEhscEVNWnAzbkxqZERDcjhjc2hFanZDMXl2SnItOC1OYkozbHRIV0dxMUttN3hNbXZzRlRMWmZtTEwyZXRSbm5UVnhmRkZRdjRBdlBmSWhFaHJURGdmYU81UFFKRnRuMXk0Y1FRRjB2NHY5T3NjUGN6T0xxT3ZpRFQ4RElzc0sxcTVENNIBuAFBVV95cUxOeExyUUNuRjJHRm5TdUtiQ2NNWmE4Y3F3ck02MGMyMDdKQXFzQ1dIcEk1UjQzeXFReXhIWTBCUWllQm5TcGFHYjhEeHRJNUpteEw4LV9KN1YzUG92VlhpSE1kTENtdkFzS3duT2d0Tk9wQzhHMHZMbmJEOTVvNWdKOU85S0xSUnJaWGJKM2tlYWk2MHc5bDU3eWh3cEg5c3dQNUxjZ20zZElOVnNCVkhhSExRWmN5N3VL?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 14:48:45 GMT"
+        "title": "Weather experts predict shattering of records as extreme heatwave hits Israel - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1hiTzVxYm9saEROTXBBR1N5WnZDR3I3ZjZOczVzOVFldDRNZHgzU29RRFNuMGw4Rm45bVJvTEZoa0pEWDFzUER4LTJFVWhWNGl2RkFJcVV6cFhjTUJVWjUxV29QSkRma3FYYldsaEU1SGI0N1J2YlF3azRycFNBQzMtVldGSjNlUzhXb1U4ejVic0JXakRyWExUNS1UR2N1bEx4R2w2YzYtN2VW0gGyAUFVX3lxTFBSYVFZQ0h4Mkh3cGpvSjlQZklDSy1hNFFjNDZFVWk2RGNja1JXNlo1bTVjdC10UlBYeFZRM1hmQ0NMZXQ5X25GanhLcHJTbnlYNEhpdHNUWGZfUU82T1kyV3QxOXJXU2lfck5ETDBXVk9oZ0N5WEZSTWYzN0dUOVdkQWJIUHBaZUFkbWtuZ0FyQV9vQTZnUEJUV1l0WlI3RFlGRGRpcEVZcjhBUHZTX1lmeGc?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 20:11:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-10T19:58:06.988288+00:00"
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China: rescue and relief efforts continue after flash floods - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OSW1RLXFSMkQwQm5RYVBIaFdBNEM4cWVpRktodEtUUU9CODFjTWRseS1sS2xrT1o2bTgweFMtSFJORVBUYmNMVElSMXc1cmYyRTBycmhGRQ?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 11:39:52 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Palestinian Awdah Hathaleen, shot by an Israeli settler, captured his own killing on video - Haaretz",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOc2pmMXhCay1IZDZwdmlpUGJLTGMwZF95dG1zT1UzSzNJS1NzclhEbUtNUUt5UWpIM29FZnFqWFBXelZaTWJXLUlCVm5hN2ZMTjQwWmxNc3ZwYS1rUVNmMWhwQVlmd25OME1SOWlzRzZHeE1PbXgyRDVtdGlnOVBLRjJQZE5HbDNnR1A4UGJHb3dVQ2cwa3RKd1hhU19lSXJMdlFPTXgyVDNOalJLQTBpT0tudXhJRE84V3FsNXdJTnI3Qi1hN0lMZ2pZZjJaTDhFVFdxS3cwRDlnLWxFYnZtdGJocVlWdGp0TDY2alJ6UVJ6Z3E0QjNBLUU1NnVfaDdlSjhCemN2YWlvRGhjeDlmTHZTVFQtdkNmUE93NmZJYw?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 17:52:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "Earthquakes": {
+    "articles": [
+      {
+        "title": "Buildings collapse after shallow M6.1 earthquake hits Balikesir, western Turkey - The Watchers - Watching the world evolve and transform",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2NiQUU5enBsQ3ZHUkRZSldDLUV2R0FCRWh0SUU0M3Q3Zm5jcDF0d1hpYUJDS3l1SXdDNElYaFVqQWctdEJweHgxeGVRQTVPVl82dl9ja1FUUXd2eVhNOGVwV3NzVW16UVNKVmEzOVZiVXIwU1pyNXFUM0pLdThfUWd0MlBOblhxOFBnY3p4UUozYjg?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 17:37:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "AI is changing the lucrative search business. Here's how to pick the winners \u2014 and avoid the losers - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGFzekNHWmRxUDhEalQyTG15SmUyb01TamZUd0o1ZFlkNWdQcHo1S0lXem40TlU3SkRERjBCbnR6UlJCU0NFQUw3TmdxSjRuZWRYQS0zdkhwcU9lR050b05UWFhkQl9JTDhXR0N3WmR4N083Zk9qSlBNUFYzZlVZSHdoeEs3Ylp2SFo4c1pJM3V2ZFBWM1plQ0NWX0Nrbm5qcjlLbXp6bE5xZGVPWFpwbER3STlybU5kVHU5dmxlUlVoSElORjJLckZBOE4?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 11:56:06 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "Hydrogen Fuel": {
+    "articles": [
+      {
+        "title": "New electrolyte highway enables low-temperature hydrogen fuel cells - Interesting Engineering",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FpX3JWc1ZtaDR1QWpTZ0YxZ0lBUHJQalc2SDR2SG94RjlqTEEyeGtqYXpCQVhKcVMwTlh6UDV5S2puT0tiZmRCVHlsblhqVUFJMGR3dDVvdWxaUTNlbDRGYktrV0tKRm0zQ2VGM0dwczUzSDBkYWR3ZXlaQ3ZEZXdyU0ZXQVd2RXZlUER5WFpGclk?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 11:36:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
+  },
+  "Physics": {
+    "articles": [
+      {
+        "title": "Scientists May Have Found the Ultimate Dark Matter Detector - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM18xeWVMYUhjNnZaTnhER3d4b1paLXBxMy1zZ2t3Ql92ak1UU0htOGhGclBsOFQ4NlhuNzlQWWFjVGlBLUpKdklTSWtQRXZkcDlXNlVzOUExbUgwNHlaV0ZoeEo1YlFpdW1tVjNlUzJoel8zekRIUDNQc2VaSjBQM2N5MzlzbUdpa3Q3VEFR?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 18:14:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-10T20:57:57.702864+00:00"
   }
 }
