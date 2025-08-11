@@ -1,72 +1,62 @@
 {
-  "US Economy": {
+  "FBI": {
     "articles": [
       {
-        "title": "US economy flirts with recession - The Express Tribune",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QTFrdGZfUmItMmQ0OHNfZzVKQ1N0TDdzWWZRVjh4VFpRc3ZJcXppLW5CcVhEQXdsX1ltcjFtZFU0NHFva0x6VFhXaEZxTFJ6OXByU05ER2hybzBySjZqbGZUMW56dmxYQTZ4MXVXZW9Tb0k2aFZuQdIBgAFBVV95cUxOYlpDV2dQNmt2Y05LTEhuSXZhVkRkRmJZeFZDY1IzNHZrQTFkQkxUZDdUaHNVMUloZ1l4ZG1pclg4Y3R6MEMxaHVCSmZkYTZZVDVhWGQ4eWllUmNNRHU2aWREbW5OUDJqUVRzSk14UHNLWHUyR2NZZDc5N0YwdmltaQ?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 01:27:57 GMT"
+        "title": "Trump Sends 120 FBI Agents to DC Amid Crime Crackdown Threat: Report - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUNta0hHSzNwM0hPVlJRbHBVS2h6UVNRc3J2eXV2RDJQR0NlaG5fcmEwWXllMUtrWFJ2eVNNMHVRZ19EaE40cmxwTnd0Z3pMQ0pwZlh6QzdZbHhwdXVaZXlXT01ERlU1UzJPZmFrQm9kdVZ3cHhTa1dXSGVHZVg4ZHF5Wml6dGREN0thTlJ2MVhUYWJ0YW9B?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 21:34:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   },
-  "US Politics": {
+  "Asia": {
     "articles": [
       {
-        "title": "Trump DOJ Sues New York City Mayor Eric Adams Over Sanctuary Policies - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sLVJiZlkxNUNwSHU2clBaQk9QTVlENlJvXzd4bFJrc1JHZlRsUE8xbGUzekh1V2FjaUNIQmZkS1JPazYwaV8xNEl3NmkwakVHb2FORENDbDROYXdYazB5Q3dMWkt1bmFiSTZhYlV1WnJWUQ?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 23:21:50 GMT"
+        "title": "South Asia Tensions: Munir Issues Nuclear Threat, US Defends Pakistan Military Ties - Deccan Herald",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHlpaEJqYUpyMXFsc1ZNWTVGeEtsc1N5dmc2alQxY2VJSHR4WnljT2lhNzhuY3o3amxRSXU0dG43dkJ6M3JQMWRGQlg0bGk4Q3RldWF1Q3VDMXo2cXdWekVIUEcyVnI3ZGVIZVBKdm14bGFNTDZfdFV0NUJkQlhTREs1Wk5OcFU4NUdZRE02RXFGeHlpSGd4RFBLZFFVeEhxTU9mb01DUndBZWg2QzhBb09DSDlsLTFGMlFfalhuQ1pJUWMyQVZMLTlidFo4c1YyVF9LMVkxaVc?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 19:46:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   },
-  "Geopolitics": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Shaheds For What? Russia Drone Deal May Have Given Iran Seller\u2019s Remorse - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzdWT01ZSElfdmVSa1doVWxYUy1KU3l1WmttQzJfRTlwalJWZTYxNWE5S2ZKMlRmdHE5R3hjTkNsdTRPQnlFTm9rR0toNFpZTkk3OFRSYVN4LTJmTVE3cE1ac05ncXd2bkxTajg5bU5MTkh5VGJELVVuTnAzLW4tNU91YmZuYzBYdFRPTUdTTjdZUHRra2Jjcy0zZ0JCX1lQeTY0NW9xcE5zelpvUnBRTGpIdkRub3ZpNHFkald3?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 16:05:00 GMT"
+        "title": "Bitcoin nears $122,000, ether hits 2021 high following Trump's crypto 401k announcement - The Block",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQlpNSURSWksyRDFGVHVlck1uYnhGUGZLcWdpa1g3RFVCV1VnOENabnAwQlFXeU1CR0hudUtrNXljR1RvZ1NiM2FtS3p5dVh4SWRwd1AyY29tVDFGVjRZUVNveUdLLXdQS21NVEI0d29FWXE4VTEyMFRPWVpRWGlHZnlVRlJ0em9sQU5yaTFrTmpkVDlJenJ4RnlKRUxHRWxPWlk3SmFsYnB2TzDSAYgBQVVfeXFMTlFrak91RnRMM0M0aE9jQV9vS3J5YjBtNTc3YmZJWk9HT2RkTE1pbERyVlJzdkJobldDSVNkSFpzeHk4ZjNFck5qQkl3VndNQVUxZDBjekxtNHRMekRrZkxxaDBobHRXb3p1Y0VQMWF3ZTN4RC04bm51LThILU54ZkRuZHFnYXFGeQ?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 03:26:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   },
-  "Astronomy": {
+  "Google": {
     "articles": [
       {
-        "title": "Giant planet found orbiting tiny star \u2018should not exist\u2019, astronomers say - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUlZY0tWcmhpZ3RVMFZMZXdreEV6WlhKeDdKaGJvaWFJbUhOcTd2Ri10MlhNQWtySWN5d1dOYjBXaUxNQUJHb3JWaHFaY3BfSFRWdXQxTVNqNG9HLUFsWHhmczNtZ3liNERzaVFNdVdqSDh4MU9oRjB5WW5BVzNQbmpJOVY1NUNvYzFWaEV3NjVkYk1IUnowdEtIMjRzX2NuTkFMREZfMDNIaVNnRWhhWkZTZ21JRkZCRzlQYlN0RGdQM1RDSi1haWdwVDYydkVzQm4yTHhFSdIB3AFBVV95cUxPcFZyWDYyMmI4eC1FWXlLUk14SHpJNmdzSFNGM0Fjc0dJYjAtLS1oZzhoS05XT3JoVjFSaU5DclRSdS1tVk8yUzVVLV9KUnlvNjhDZTNTbVJZU0pLS2k0X09kZVhpRU9SVmRmS3RzMnRJNkxJVFh1RWtfeDYzcUlsVnh3YWJxM2dLd3JISDgza0E2aWlIMTh1NVlsRGVHazBPYnVQZnhlc0FVaDVpYUktYmpCOUlLeXJOQnRGMVlkUHd3NnFyblBHNmxYSlhDWTBBT1hKN204YnBHNFhC?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 01:30:00 GMT"
+        "title": "Google Confirms Major Security Breach After Hackers Linked To ShinyHunters Steal Sensitive Corporate Data, Including Business Contact Information, In Coordinated Cyberattack - Wccftech",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenpjUnJ0QlVpSUJqVnpraEVvTElsZVNXNFNDV0UwdEZVSXF0NUNaTmtyWmtsUFIyLTZDb2VLbG5RRG02cEJqallLUmN2OVllcS1ZS1g5dkxrdUR2bHc2a3VGZTNDbGl3QzR4UVl1RzYyUU1vWlZRNEZTVlZVY3dUY3RBVE1tZUNiUVBMa3k1X0FtNktJd01WY3FLZVRtVWF1MUgtUTBMNmRNSWVRTWVCM1Rid2MzcHdXNldqY3p1YWQ1SGx5cVpkMW5RcEFKUdIB0wFBVV95cUxPdEVTSnlIQzBna0ltaXZnYVFlZWNGbW5JZmRZNnVYNldMdUlTMTlFOEpicFhFU3BDcThtaFZVdHY2V18tekdzMDV5U2JjQWtEUmI0aTI2WkJQOVI4QS13dzRlb21kanFuM2FNRG5CVFNLZTY0NFRBRENoQkxqYm9NSWZuTUJOQ09Va2ZwZUFYZk9pWnRiOFZmazZCdDhVQXVZNTBIazJWVHFlSjFkUXFiM1VCM2xIUHA1VnVqVWdvLVc1N1N5R0llSjZfWlMzT2JwTmRN?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 19:39:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   },
-  "Quantum Mechanics": {
+  "National Security": {
     "articles": [
       {
-        "title": "Researchers have discovered how to rewind time in massive scientific breakthrough - Dexerto",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWRPeWtoYThIdlNaOFQ4V0trLWZmLWNPUlRVbENBQ1dsRS1SVmozMjhHNUhCOWZKNTdjSWM0bU9hb0w1YXJkSk9uT0loR05WVHRiVHI3MUxmX01FZGI3ZDhUWjhWWlRSWlA5N1hBYWdEX2ctT3d1N3lNVUVSN3hGQ3ctMldodzVPNWRBRzJLQm9OM2l1NXZtMldNWl9CR3YyOHZSTUM5X2ZQbmlnTGJRb2o0cnJueWVWUTYyWnRKU3NjNGR0TFNR?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 17:26:15 GMT"
+        "title": "National Guard Mobilizations and Geopolitical Risk Investing: How Civil Unrest Drives Defense and Cybersecurity Sectors - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbEJEYjRlOGMtYTUyRV9Oa2ZPSVlReF9vbnQwT1Zmbkphc1BDc3BFNl9EOHFIVWVkWDF0NVdidW52d1IyRWY5TTNNZ3lWTTg3c3RFRzhPQi1TdGZ2R3R2TjJmc2tsRlZZWmk1VXVaSGRuU19ORXRib3dmMy12dEVSQ3pJdnlkNWJIUTdYRjJoc3FCeU54RC1NOXVrNFh3Z1ZfclBDM0VISENYWUUtSmRsWGpLcGI0UkFYTlBMZHh3MXdGYTZ3bzJyb2tVY0x6R0duQnJTWk1LNDA?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 01:32:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   },
-  "Global Health": {
+  "United States": {
     "articles": [
       {
-        "title": "Global health alarm as China reports outbreak of over 7,000 chikungunya cases - Mundo Deportivo",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZGZNNlA1WTdWSFQ0bXBJeU9lR2RpeTFpRmd5Qnlsd2F2Z3NUekx4ZkRWQnVJMmgxQkVJMmpMWWFKeHdBb1IxcXZyVDdIS2UzMGRHNDVkVnNXMk5US3ZwZzJTSjltamdfZ09kRTlJZjZhcFJmRWNYRTBLWmhud2VWMXNzeDlOVHVBUHVxcDh0QzJOQ0NuaGQ2MERJeG8tT2lsOGdaQmNEajZZMDlfdkM2Y3FKR2JBVFQteTFnNWl4a0VnU3JFY1dVZXF1OWFuNWlB0gHeAUFVX3lxTE03SzZUVzZxaXhaQlQ3clFhOVpIak9VdlRZLXF1ZW1pX3dyWEtWbFg2dGd1aTE4dEU4UF9fOWh4cFN3M2ZrVEd2QkwzcHcxd3ZKd2pfZ0xLVnlvVlVzSDNla2JEZmM3aXR2U2tvWUNVOUFEdmNyUW5YZEtLaUtRZlZ4MFBwYTJKd3k0YmNzYXhUZE80bC1za0x3Wks5WEYzb3FxaXk2U1VuSHRjQllxbFl5YWJwRGhJWG5iNGluMlJqRTQyWHRzaXBWOG9sMmswWVlkOEFIUzYxZUJxdUgtQQ?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 20:45:42 GMT"
+        "title": "US is auctioning a seized $325M Russian yacht with 8 state rooms, a helipad, a gym and a spa - WDBJ7",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2FQU1V0OGFfTjBoRE9DTXdidC03RFhuTjZ4Y1BBOXVRVFctR0dVeGFjSDE3dHlqSHd3NGkxSkdMcWJVeUdiMndHaUJteHNvWW1MangwV2RLZW51OFdCVHh3bnYySnU3Z1J4SzB4dlVqVzhHZUg1WktBdTgzY1ZVcG5YR01BenphRnRQanAyX0tXTFpla2hzem1kVk9XNWlPTHk5T1RkZWVwZG9tTU10Z9IBxAFBVV95cUxPOXFPMHJkNGY4Y3JjVHFRbjNKckphNm8zZEdvZG44V2tTWHEzd1dUaWlzamJqY1g1YzFIZjhWSDlLSTFXY0puQ2VCbDBoeGRtUmtMZDZVY1JIcFFwT3owWHVLczEyQXljWkd6TUYzZk9rMmM1c3VubWpOcVNmbzk0UzJiSFZiWUljNFJGSXNVZ2UtczF4VEpkcGw0MklmMXA0azRJT25wNHZfcXNaUXI5QUdYbEpjU2xmUXU1dGFiWGpLbVZ6?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 23:08:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI Spurs Job Losses: Pentagon\u2019s DTIC To Cut Nearly 80% Of Workforce In Tech Overhaul - Dallas Express",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnlEc0k2OGNVQzRQX2tWdl9DQ1JmbF9Sa1VzRDNVUEVVNEQwdTNYSWduVDhEbWk5SnNNM3VqRHUzYV9QUjUtZHJrUjlRS0c4QlVTT093MEF6UGVFTVVHZFVTNU4wdEE1N3l1S3dXdVViUk9Kc3Y2TVk4V2lTRmtsUElDZFJsWDBSMW85VC1GRV9iMGltVTVETDU5UVlPQ2ZhNm9DS245ZUd2ZWd2YnoyYy02LXlTYzY4?oc=5",
-        "pubDate": "Sun, 10 Aug 2025 15:04:11 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-11T01:57:39.404579+00:00"
+    "last_updated_ts": "2025-08-11T03:57:19.851447+00:00"
   }
 }

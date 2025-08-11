@@ -821,10 +821,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Texas Republicans say 'hunt down' Democrats who are leaving state over redistricting - ABC News",
-      "pubDate": "Mon, 04 Aug 2025 03:33:45 GMT"
-    },
-    {
       "title": "Texas Democrats walked out to block the GOP. How well has the tactic worked before? - NPR",
       "pubDate": "Mon, 04 Aug 2025 19:18:39 GMT"
     },
@@ -1413,10 +1409,6 @@
   ],
   "tesla": [
     {
-      "title": "The Tesla whistleblower and the cost of taking on Elon Musk - podcast - The Guardian",
-      "pubDate": "Mon, 04 Aug 2025 03:40:03 GMT"
-    },
-    {
       "title": "Tesla withheld data, lied, and misdirected police and plaintiffs to avoid blame in Autopilot crash - Electrek",
       "pubDate": "Mon, 04 Aug 2025 15:54:00 GMT"
     },
@@ -1555,6 +1547,10 @@
     {
       "title": "Bitcoin News Today: Bitcoin Maintains Dominance as Altcoin Season Speculation Fizzles - AInvest",
       "pubDate": "Sun, 10 Aug 2025 08:08:28 GMT"
+    },
+    {
+      "title": "Bitcoin nears $122,000, ether hits 2021 high following Trump's crypto 401k announcement - The Block",
+      "pubDate": "Mon, 11 Aug 2025 03:26:34 GMT"
     }
   ],
   "fusion_power": [
@@ -1831,6 +1827,10 @@
     {
       "title": "Years late, but ULA\u2019s Vulcan set for 1st national security launch - Orlando Sentinel",
       "pubDate": "Sun, 10 Aug 2025 11:01:03 GMT"
+    },
+    {
+      "title": "National Guard Mobilizations and Geopolitical Risk Investing: How Civil Unrest Drives Defense and Cybersecurity Sectors - AInvest",
+      "pubDate": "Mon, 11 Aug 2025 01:32:37 GMT"
     }
   ],
   "ethereum": [
@@ -2461,10 +2461,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "Thousands of Boeing workers who make the F-15 and F/A-18 fighter jets are about to go on strike - Business Insider",
-      "pubDate": "Mon, 04 Aug 2025 03:35:00 GMT"
-    },
-    {
       "title": "US Military Holds Arctic Defense Drills With Eye on Russia Threat - Newsweek",
       "pubDate": "Tue, 05 Aug 2025 16:02:54 GMT"
     },
@@ -2556,10 +2552,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "How BRICS could become the Global South\u2019s climate voice - Lowy Institute",
-      "pubDate": "Mon, 04 Aug 2025 03:25:56 GMT"
-    },
     {
       "title": "BRICS \u2018KILL DOLLAR\u2019 Move \u2018SHOCKS\u2019 Trump; Russia Ally China Leads Currency Revolt | Watch - The Times of India",
       "pubDate": "Mon, 04 Aug 2025 16:13:30 GMT"
@@ -2653,6 +2645,10 @@
     {
       "title": "Japan stocks soar but rest of Asia uneven as Miran gets Fed nod - Reuters",
       "pubDate": "Fri, 08 Aug 2025 05:52:00 GMT"
+    },
+    {
+      "title": "South Asia Tensions: Munir Issues Nuclear Threat, US Defends Pakistan Military Ties - Deccan Herald",
+      "pubDate": "Sun, 10 Aug 2025 19:46:37 GMT"
     }
   ],
   "spacex": [
@@ -2923,6 +2919,10 @@
     {
       "title": "FBI fires former acting head, two other officials at odds with Trump administration - The Washington Post",
       "pubDate": "Fri, 08 Aug 2025 03:06:44 GMT"
+    },
+    {
+      "title": "Trump Sends 120 FBI Agents to DC Amid Crime Crackdown Threat: Report - Newsweek",
+      "pubDate": "Sun, 10 Aug 2025 21:34:14 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -3361,6 +3361,18 @@
     {
       "title": "Leaked French Document Exposes Algerian-Spanish Military Deal Against Morocco - Morocco World News",
       "pubDate": "Sun, 10 Aug 2025 17:12:04 GMT"
+    }
+  ],
+  "google": [
+    {
+      "title": "Google Confirms Major Security Breach After Hackers Linked To ShinyHunters Steal Sensitive Corporate Data, Including Business Contact Information, In Coordinated Cyberattack - Wccftech",
+      "pubDate": "Sun, 10 Aug 2025 19:39:00 GMT"
+    }
+  ],
+  "united_states": [
+    {
+      "title": "US is auctioning a seized $325M Russian yacht with 8 state rooms, a helipad, a gym and a spa - WDBJ7",
+      "pubDate": "Sun, 10 Aug 2025 23:08:00 GMT"
     }
   ]
 }
