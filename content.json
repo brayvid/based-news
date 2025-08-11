@@ -1,32 +1,52 @@
 {
-  "Data Breach": {
+  "World News": {
     "articles": [
       {
-        "title": "Kidnappings of Bitcoin Holders Surge Amid Data Leaks - Bitbo",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IZDM4M0cteVFkWlYzdGZwZWVvTkRIVUZzNGVpRTVWMHNCRng2cUlQSXFqU0ZZTklKWC0tLVNWNGlRM3dCX3Jra1NwcTlsb2c1bDUtSTVfZmJjcnlhdTd1NUp3Zw?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 03:00:37 GMT"
+        "title": "Russia downs seven drones targeting capital, Moscow Mayor says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDNObGNaX0R5cll0d2dMWlE0XzBzbDFsdkhSOXNxNVR0UDB1WlA3LWVreTBlOGRRTXlyT0NoOFhrS0NBREduN3lBMDUzRjBfQWRBTGlYQlZVQk1TVnhZUWNKNy03TWotZmFvRmt1Tll4M2ExeDBsckFjcDlYbnFkTTYwUDZfV0dYR3I5VjJaV25uQjgzV2JONXZrNldKLXAxLVJIODg3TGs3OHhnd1Zn?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 07:28:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T06:57:38.547737+00:00"
+    "last_updated_ts": "2025-08-11T07:57:56.566442+00:00"
   },
-  "FBI": {
+  "Cancer": {
     "articles": [
       {
-        "title": "FBI intercepts 84 pounds of fentanyl near Dayton in massive drug bust - WLWT",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZktKb3lfMjFuWU1mWE8xVlB2NjF3VEZEVUtLSEhMMGdNY2hvTE8tbEJEYnc5WlBuMFEzQlZna0M4anFtMkZKSnRIajFsMnJrX2NCdWlTTXQtbWh4MUtlbmNCZ1ZLOHJzcllXN3RWT1Znd2plMWdDanAtaVE0MUNVRy1zbEhIVTZZNHBJdjRENFRTaTNpaGozS2hpRQ?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 04:57:00 GMT"
+        "title": "Pioneering new drug could replace aggressive cancer therapies - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2d0VVJVZUQ3ZWQyOXBtUTg2ZV9la01yeFlMYlE5NVVZOUQ0RVdOQzZ5cWFmWHJJUTMzV3duZGFweU5Zd21QNTMwWVZLOElJUWVPajVBMm93QzNkX0U4R2ZNcmZQUk1xWlBPWkg0S3NyS2N2Y0RXYnZnakhJWFFPSXVNYkt0TDRuZjAtSUs2WmdFb2hKQ3cxUjNYM0o1S2s?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 06:04:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T06:57:38.547737+00:00"
+    "last_updated_ts": "2025-08-11T07:57:56.566442+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Invasion of the fire ants: Invasive species fueled by state\u2019s growth, global warming - Marco Eagle",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2h2WS1DbWJ1V1RRbl9DMTZwUVQ5ZDJEQllXOXMxbzVNRWhBVnhCSUxGOHcwS240TnpKWGpJZEVLNG5XbE5XTk5fZDB0dVo4SUFLdjlNeGZqRzJuckZaSjU0MWxlWlJGcGZsWV9YdjBEcVdMWWFWelh3UHRlUmdIRnd0alFpQnNYeXAtajRYVTJONTVuRXo0M0FBNS1zUUhka004a1c0Y0phaVJZVFNxZS1HQ2VLdkZlZlBOZGltOUQ3cVlVWlZqeUVRX1Y?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 00:27:08 GMT"
+        "title": "Can an AI chatbot of Dr Karl change climate sceptics\u2019 minds? He\u2019s willing to give it a try - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONTVBb1dyZV95dEJqTm1veHZSU1UxSjlvVTlGMEg5Zmx3WlNjemFjX0FXby1wVkxGWmlZeGhUYi1OWl9mZ2E3cjVYMkZLRmVBdTdqSlkwM01kTTJZWGlzXzJ4Ml9hLTA4QThnQzNiX0VHNjRPMy1nTUs5TkNWYnVQN1ZGOVNsdGlfckp4ZmJzVlMyNmZrMHc?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 05:43:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T06:57:38.547737+00:00"
+    "last_updated_ts": "2025-08-11T07:57:56.566442+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Iran says UN nuclear watchdog official will visit country for talks, but no inspections planned - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjJLTWtRdkl2UTlKT1E4c2c4RVdnM096dDBNUWpucllGX2sxQnV0a1NyVlZ1WW9yOU5Jc1NsZDdXTDZoT1BDYV9QWFN1cTJicWJod09oaWhFRDJpRy14U2lXUUEyNVM5WDRjVGxlOU9FRUFfMVh4MGtfRXFaTGhTeE0tY9IBiAFBVV95cUxQSEx4WHZjZm93LUZqZHh1U0pNd2ExMHBTOHdGdXh3aU1ZVHNUTl9sYmFhUE1mYlBMYTZVVVRhcEFsLXJOeFVQY1NrWWxBOVNGQnFDb2tkWVZaZ3daUGM5am51bnAtaU95MXVVdGVvODZGbHJoZ3Y1dW0zYXk5NTBfTXlhTE9PRHJ1?oc=5",
+        "pubDate": "Sun, 10 Aug 2025 22:02:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-11T07:57:56.566442+00:00"
+  },
+  "Oceans": {
+    "articles": [
+      {
+        "title": "Scientists urge caution on ocean carbon capture expansion - The Fish Site",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXNJVXYxa3B2Z1I1Uld4LWNBVHJlSmtTeGFMV2lKVzVXWXhod0lOT21iVk5jTUQ3RmZRYVlDeHN6cDN5NXNkMzNFSERxQ3FJaEhnSWV1b1JqR2dfdEJLQnhreHgxTHVieE1yQ1hRVjNkMTUwTnlKOHJDMlVmODlUMUZoYXpyUzVrWXFGTjJ0bElGVzYw?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 06:47:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-11T07:57:56.566442+00:00"
   }
 }
