@@ -273,10 +273,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Why Testing AI Models in Isolation Misses the Real Security Risk - SC Media UK",
-      "pubDate": "Mon, 04 Aug 2025 10:55:34 GMT"
-    },
-    {
       "title": "Six-figure AI investment drives safety innovation at Pallet-Track - NationalWorld",
       "pubDate": "Mon, 04 Aug 2025 20:52:34 GMT"
     },
@@ -603,6 +599,10 @@
     {
       "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom - Al Jazeera",
       "pubDate": "Sun, 10 Aug 2025 14:48:45 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Three killed in Russia as Ukrainian drones shot down 'en route to Moscow' - Sky News",
+      "pubDate": "Mon, 11 Aug 2025 08:41:20 GMT"
     }
   ],
   "us_economy": [
@@ -624,10 +624,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China eyes bigger global role for yuan as US dollar stability questioned - South China Morning Post",
-      "pubDate": "Mon, 04 Aug 2025 10:30:08 GMT"
-    },
     {
       "title": "China\u2019s fertility crisis is so dire, rates are falling below \u2018replacement levels\u2019 and GDP could slow by more than half in the next 30 years, study says - Fortune",
       "pubDate": "Mon, 04 Aug 2025 15:19:00 GMT"
@@ -759,6 +755,10 @@
     {
       "title": "China: rescue and relief efforts continue after flash floods - BBC",
       "pubDate": "Sun, 10 Aug 2025 11:39:52 GMT"
+    },
+    {
+      "title": "Assessing footage said to show collision between Chinese ships in South China Sea - BBC",
+      "pubDate": "Mon, 11 Aug 2025 09:10:06 GMT"
     }
   ],
   "us_politics": [
@@ -1355,6 +1355,10 @@
     {
       "title": "Trump pulls $156 million for solar panels in Florida - Axios",
       "pubDate": "Fri, 08 Aug 2025 19:04:52 GMT"
+    },
+    {
+      "title": "The story behind Spain\u2019s solar power meltdown - Financial Times",
+      "pubDate": "Mon, 11 Aug 2025 04:00:24 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1893,12 +1897,6 @@
       "pubDate": "Sun, 10 Aug 2025 20:45:42 GMT"
     }
   ],
-  "earth": [
-    {
-      "title": "Mysterious boost to Earth's spin will make Aug. 5 one of the shortest days on record - Space",
-      "pubDate": "Mon, 04 Aug 2025 10:00:00 GMT"
-    }
-  ],
   "gaza": [
     {
       "title": "Israel considers expanding Gaza war as ceasefire talks reach an impasse - CNN",
@@ -2165,10 +2163,6 @@
   ],
   "physics": [
     {
-      "title": "Scientists made AI search for new laws of physics and correct incorrect assumptions \u2014 it works - ITC.ua",
-      "pubDate": "Mon, 04 Aug 2025 10:16:56 GMT"
-    },
-    {
       "title": "Scientists Discovered a Way to Reverse Time\u2014and Possibly Erase Mistakes - Popular Mechanics",
       "pubDate": "Mon, 04 Aug 2025 17:17:00 GMT"
     },
@@ -2204,10 +2198,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "The E.P.A.\u2019s Disastrous Plan to End the Regulation of Greenhouse Gases - The New Yorker",
-      "pubDate": "Mon, 04 Aug 2025 10:00:00 GMT"
-    },
     {
       "title": "Countries have a legal duty to fight climate change, says the UN\u2019s World Court - The World Economic Forum",
       "pubDate": "Mon, 04 Aug 2025 13:29:32 GMT"
@@ -2379,6 +2369,10 @@
     {
       "title": "Can an AI chatbot of Dr Karl change climate sceptics\u2019 minds? He\u2019s willing to give it a try - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 05:43:00 GMT"
+    },
+    {
+      "title": "Outcomes of the Fifth Global Conference on Climate and Health - World Health Organization (WHO)",
+      "pubDate": "Mon, 11 Aug 2025 10:14:16 GMT"
     }
   ],
   "volcanoes": [
@@ -3054,10 +3048,6 @@
     }
   ],
   "cosmology": [
-    {
-      "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
-      "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
-    },
     {
       "title": "Scientists Reveal Universe\u2019s Lifespan Is Shorter Than Thought - The Romania Journal",
       "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
