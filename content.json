@@ -1,82 +1,72 @@
 {
-  "AI Safety": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "U.S. expert: Countries should come together to ensure AI safety - news.cgtn.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUJ3UUpiejAwM0FiN3JPVk9uM2xQa2hGYTNCZVpPanFuUFltUWdCSTkwVVJyQWY2RXhCTTZmbVVUWm12UGJDUTBYNXFBZFoyRW5LY01OZEwzaGpiMlo5akxaM2dudHVGN05qWHBQa1RaMTY4ejFDaG1LUnV2c2g4M25mcFA4QmZ3ZHpNSnJaSGpsN043clU0UXJkdWV5T2tOMFhNQ3pQcGRWTzdrZEJhU3JocXEtWTdfTnc?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 09:36:17 GMT"
+        "title": "Trump says Washington DC will be \u2018liberated\u2019 as city mayor disputes claims of violent crime \u2013 live updates - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMU1GNkJ2VVpEQ1RvZlNlQlJPVEJGSXhrbnU5XzhpenA0RENYaENlTkNwVU5NeWJ1aG5SOVpnSzNVdG1fUjdHeXpNNDFWaFVVZWpPanJRaEgxaUtMdDhMUGZjazZKc0szbHAzWGFtaUtfVllzd1VmWTZHZ3VXRVRxVm41aC1sQm9CTWhYeVZvYjRwS1ZlbW9ILXdQNGtxWTdoeDlRUzdBWmZsTEVmNFBHTUZ1ZnBCX2dWRTBWLVpBQ2pRbjNUbVlTM3E5ZlI0VmJjOGFHb3dGOWV2ZDZoUVlCZw?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 13:11:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
   },
-  "Algorithmic Trading": {
+  "Cancer": {
     "articles": [
       {
-        "title": "Wall Street's New Brain: How AI Is Rewriting the Rules of Finance - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmk0UDFzOEJOcGdBTUlFaFNfUW4ySmt6VjFvZ204N2haVF9fa250NmVrcV9kdnAzNWw5Q0xLWDBuTlU0eTZTNk1hdF8xLWdjc2VjT3d5T1FFd09IRUFMb3JJV0FlZGQxVXhScDV5dFBuMnk5SDE1VFhuVUY3aFpkTzZMejBrWlF4TkZ6SWx4dGhZdVR5Si1CTVJqY1ZVa2d3bG9RMHNQaTRkY0JFSElZY3VHbnAxdTVxT29KRWV6UTBkNzg5M19Qd3FlaU7SAdIBQVVfeXFMT19UNmJ2b3pmOURsOW81N3puSllKcnk4T2ZlSEJ0MXhEVk5zWTZ1TF9fUGd2SkxTY3BLVWwyY0w0TFhSZlZSclZReGx5X2kzS2lhNXN3QmhQcnJqQk9jY2lJNmtlUndYbTJTeWZiMXZhZFRXaXZFd3hQeVZvUlhOa0JaS3puX29oMmM2SUkwdFJjdTJqbkpfZWkyZDRBMEgzS0JlbEN6UGRNX0x4d0ZpMmVpbjBIOTlCN1RnTDE0VmhLa1J6WmY1bjZWUG80b1ZfQTdB?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 04:36:38 GMT"
+        "title": "IO Biotech's cancer vaccine shows improvement in late-stage study goal - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUFFIUUp3R3NZUGlmZzA3WkVveVVkdFRGVnpjR2JNWlQzX3piakF0SUJlYW9VWTR4QjBEWl8tb1BRNmxYd183UkZBTzdpTHdYLVJOYjBZWUNDT21iYTA3MXJZX3JjY2MzYk4xSkQ4WGdWV0tWREdOd0w1bDh4Q1B1RkVia1FRYXF3TWQxNjQ3OXdmT3RnV2JOWnVBbkc4akZHZUFTN2k2Zi1RS09qT0RMNEZuOE5TZ2RFTTFjNk5ldmRDdmROS0JldVZ2RHBZVWZsNm1JcA?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 12:24:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
-  },
-  "Alternative Energy": {
-    "articles": [
-      {
-        "title": "CT solar firms report surge in activity as end of federal tax credits looms - Hartford Business Journal",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2paVG5WVTZDUkkyU1lZWXBQY0p5VDZmZWZjc1RrSFBqNmw1TTI4Y09OQ3VXVjVwTWRyZW1OMm9SZEIzZ1F3cTk4VV94RFhVS0YtaFlPYmJrUlR2eEFzLUJuZ1FvNDJqQ2ZFcEVCTVhnN3k2SWZ3TV9ObDRic0RNdi1UdS1VR2dNVjdmQURrZkpCajVjUnF4aFgyV1VRTERpQXdDR0dYbkxwOHZGOGU4U2dsYw?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 08:00:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "China says Thai art show 'distorts' its policies on Tibet, Xinjiang, Hong Kong - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1QwaVV1Nk0wWV8tc01EczZHT1FLSzdKbUhxV2ZpVnZ2SGFNNTZ2c2RIUUk2cm94LU5iR3pqeE5yYTBUZldXRW1NbWM4TjhiTGk4eEVrUWhHMDduaGkzOHRqcGtjLWFaSXRuVDhEQ3BQbHJYS0szTW9TVE9YbWtZeVlmREEzeUJ1WXg4elg1aE1fZC1QdlFLZk03eS1lRjNKS3BLVHlGQXpITGlLRkJLblpwUjNpdDN0OTRz?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 12:23:30 GMT"
+        "title": "China diplomat tipped as next foreign minister detained by authorities \u2013 report - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnFHd095bmdJUmF0dGpWU2lmcFBJZEc5QjJzQlo3NmFMRXktRG5WeGtqUXhUOFZkMWtQOFY4Zl93VS1uNG5hckRaWmdOWkIyMXhtR2ZGQTVIczlyTEdpc2tHQkZRbmRHeExYM3NjcEdaalZ4YWg4VWJEU2JGRW9IUll5WWxRd19WSC0tUzRZemJoMVdW?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 05:53:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Trump plan to deregulate climate pollution could make Arizona hotter, drier and more fiery - azcentral.com and The Arizona Republic",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXllT0xQb2VzdEdLRDRPVkZJb05wTWs3WEg3UkNBWGFpdEUwdHpBcmpsSlliajlYcmZfZkZRVGVMbjVRQWI2SFhRZXNiOGVwZFlSVTRKdHB0OGhGN2Z4RUF1Z3BXdmZGUmlLOVp5MlZsRkkxZzlLbGlPX0JHTjkxZUc0V0V6bUh0MndkeVhGUWNzVDVON2ZiYTl3WTB2QTJEX0tYYVBsYVlpOFBoRUItOGU5WUs5QWxxNTNHUUtTUXJLMjVRNnlaWjJSTDhpWWs?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 12:12:19 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
-  },
-  "Computer Science": {
-    "articles": [
-      {
-        "title": "Indian-American coder\u2019s only job offer comes from Chipotle as AI reshapes tech hiring - Hindustan Times - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVZFNHltaF9kNHUwcUNpMk9ULU1ycHpYVVUzSlo1WExLTDZXRTVCbHVLY2pfTlp1aVYzbWt4M1pzaXY1cnBaOHo0NEFJd0RaVmpEc1BXS3dGVGRZZFBRY05xS1FVQktjS0JQZW1tOGNHRTFBZk5RNE9VSkhESTRkRHpCSnJFWnNIc2xxaXRJalZKRGJWTGV5SWc2ZXZNNXhkRXVXbnplLTFPdDVCNXd4cnZTSWRTY2ppeGI5akdvMFptVUkyUEcwWk8yZHFWSlBIV1lCOHBvMzI1SWhyeXgzbFl30gHnAUFVX3lxTFBudldwbl83eXlWazBBc3pDeHdQRGVZT3JJOGVzY0JJSzAtcWRNUGQ3emhqRWVfZ0FWLV9keDZ2cjNxRzQ2d2NfSXNxSnlYalF1cER6UHZjQXFtYzRjQ1lqSmI2SkZleXo0TXZkcHN3UURLWnZwQlpBMnB2dHRncmttSVMteTV3WjEyR2dTY3gyV2NBNm9ZbkJjZkJYTkVCakpXMXVoODRnYkhqQUF1U1dVX21Ea1FmT0NrMmpTMHRRSk05bXcwelViaG1PZElzLVFTUTI0QURYRXRpYVR1b2lTMW9ObC1acw?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 04:27:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
   },
   "Bitcoin": {
     "articles": [
       {
-        "title": "Bitcoin price nears another record, helped by treasuries, executive order (BTC-USD:Cryptocurrency) - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVlOZF8wZzVxcTB1QTRpYk5PS0N6OGRTc1YwUG1YVGRtWHQ5UmN2ckI2RTZaeWRpTC0yRlFfaWtiWVpzOTI3Rm1fLVpnV1pILVFzV0gtdDhmU3AxQ1RZaEs3eHF2alBncUNhS3hvcU53VnpFd1ZWc3pNTEdKZWRlYTJ4bWJySF9BQTBFSXpRNk9oR09GT0RRRi1GTjZ2Z25HY1VEMzFaM2Q4SzNXb2c?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 12:03:40 GMT"
+        "title": "Bitcoin price today: surges to $122k, near record high on US regulatory cheer - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGRqcW1DSEx3ZUhOZU9pajBhNWNVSjd2MW1UajFOdzJXTW5wTkE3ZmtBdWJKdzBfLWdHQ3loQ3FIcTBEYnRPUzBFSzAzcHJHaDRkUmJBZ1ZtUHp6Rl84c1dEX3piSy12eFhMbjVSS1V4TXNLZmNJeVV0cWpKQUVNbjFyRGppQ01xbmc1QnYtVnRFeTNERXJ2SnN0U3F0QTFzNWdoSHVEc3YtSWNwem5aaE94VVpqOU96djRNN2NzdUY0dVktaE1hTE84eDQ4UQ?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 05:32:07 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
   },
-  "Cybersecurity": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "Federal cybersecurity agency issues 10 advisories for industrial control systems - SC Media",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaG83N3hXdTNCaXJmLVl1RkRlcWtON3QxOTZpWEJxeDZ3OElhTVhiSThjNFAyUXdpcVRNRUc3WkRuQmI4VmlfOE1lMU9OdkZZWEFpdHFLOUpZVVZ0OC1HTE9oQ1hDYzJuTVNkS0ZlRkg1TGRPSzk2ZDI0bS1BM1Q4QjR4S1h4Z2VPdWFvYWxhXzZIQjNPSHFmeEMyWGVvZHpJeXJoSkZNcXNXYWt1RVQ2ejJB?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 11:00:00 GMT"
+        "title": "Flaws in Major Automaker\u2019s Dealership Systems Allowed Car Hacking, Personal Data Theft - SecurityWeek",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXMwSHZmTmRfbkZsS083QU1ZT1hOY01ULTRLZDVCNFg0NTM1bXh2WmNiUVNod2hCZnNqMEpQdHpJWk1RT3BNUkpVeUQ0ZlZud05hQ3JXV240bTcxSXNBU0Faa2gyc1p1eGpVcEY2bmRSMVVjOGt0SmRZY0kzZm94V2F1UzFITjZkNUNxQlI5bUxRU3ItSGc2aU9FTGNTRUF3eDQtSUNpMXV0bEE3YlUwX2tIWWLSAboBQVVfeXFMTXhMdW1OUUZ5N0x3ZndLaE1ITjZuMWdSeUNSTGJ6eU4zSThPUTdpNk1SNW1zenRIdkNPTENSY3p6UU93LXVxbFV0N1RTVXJ1dU5CSXd0aFJkNkZRU2otRG1DQzV0N0x5MFhZSGZ5WEswcEtoN3Q3Y3c2WWhTTGtrU25HdjJLVEV4cWdSdXJqSGpHZ0RmUV9WZnpYQ25OdnFNbmlCdGdjSzdkYXhpUWhfbjkwQ2NtdmYtU2ln?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 11:26:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-11T12:59:07.438603+00:00"
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
+  },
+  "Atlantic Ocean": {
+    "articles": [
+      {
+        "title": "Hurricane Erin may form in Atlantic Ocean by end of week: NWS - PIX11",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGJ3bXlGRzRMNjljTHlkaFRUYmM4QnlzSHBfMjFVQmtkci1CWkpHeXUyaEY3MWoxclFBWG82aDg5OTVneTFRXy12Yks3QWV6UWVPNlRQeWhtR3JQR1FuZEFyYTlVWjRYS2pRZDdWbTB5QldYXzVqX2RlWG5BRUNubnZyVksxUHRGZlZJNTRmbVNLa01DOXRiSFJqSdIBoAFBVV95cUxQWGRaazJrWHhoT0R0QzI3UGg5SkhtZkdFazhLWVRMck5fZWRDX1ZmUUVkM0JhNzM5VjJLSU9yQ1RhdjZZbkExOE5VaDBmSEUzWE9ORm1PWkxaMWNDYUxiNi1Jc3EzVmdXYzlhbEpQZE1WODdqZjBWbzdTZE45MWVEbFhqU3NzY29LbVV0SzZTVTIzb0VFcFJyejdIanN4QmFH?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 12:06:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
+  },
+  "BRICS": {
+    "articles": [
+      {
+        "title": "Russia to discuss creation of technology alliances - TV BRICS",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnZHUmJHTVNOdzZVUnRHbzdzWEpRQnc5QXdWQXE2QmROcFI0dFZzWnR3dlQ5WU1La2RDZENMajAzZGZtcU40bWptSHpqZUo0aVRjLWt1ZlBZbkxMTktuOWFJV1RCUlFpZUhsaFp1bk52dS1kWVQ0cFlsZ3BZNkt4NHNFWC1qdw?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 13:13:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-11T13:59:21.445569+00:00"
   }
 }
