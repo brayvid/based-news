@@ -109,10 +109,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump stokes conspiracies about jobs data, as White House defends firing BLS chief - CNBC",
-      "pubDate": "Mon, 04 Aug 2025 14:29:35 GMT"
-    },
-    {
       "title": "US Attorney General orders grand jury hearings on Trump-Russia probe - BBC",
       "pubDate": "Tue, 05 Aug 2025 06:54:29 GMT"
     },
@@ -223,6 +219,10 @@
     {
       "title": "Trump says Washington DC will be \u2018liberated\u2019 as city mayor disputes claims of violent crime \u2013 live updates - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 13:11:03 GMT"
+    },
+    {
+      "title": "Trump Says He'll Take Control of D.C. Police Department and Deploy National Guard: Live Updates - The New York Times",
+      "pubDate": "Mon, 11 Aug 2025 14:49:03 GMT"
     }
   ],
   "russia": [
@@ -512,10 +512,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - Business Insider",
-      "pubDate": "Mon, 04 Aug 2025 14:02:00 GMT"
-    },
     {
       "title": "Ukraine says foreign \u2018mercenaries\u2019 from various countries aiding Russia - Al Jazeera",
       "pubDate": "Mon, 04 Aug 2025 17:43:02 GMT"
@@ -1179,10 +1175,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Tesla awards Musk $29 billion in shares with prior pay package in limbo - CNBC",
-      "pubDate": "Mon, 04 Aug 2025 14:08:57 GMT"
-    },
-    {
       "title": "Tesla\u2019s poor stock performance has slashed Elon Musk\u2019s wealth by $80 billion\u2014another tumble like that could dethrone the world\u2019s richest man - Fortune",
       "pubDate": "Mon, 04 Aug 2025 15:49:00 GMT"
     },
@@ -1481,6 +1473,10 @@
     {
       "title": "Flaws in Major Automaker\u2019s Dealership Systems Allowed Car Hacking, Personal Data Theft - SecurityWeek",
       "pubDate": "Mon, 11 Aug 2025 11:26:08 GMT"
+    },
+    {
+      "title": "Hackers breach cancer screening data of almost 500,000 women - DutchNews.nl",
+      "pubDate": "Mon, 11 Aug 2025 12:48:15 GMT"
     }
   ],
   "bitcoin": [
@@ -1543,6 +1539,10 @@
     {
       "title": "Bitcoin price today: surges to $122k, near record high on US regulatory cheer - Investing.com",
       "pubDate": "Mon, 11 Aug 2025 05:32:07 GMT"
+    },
+    {
+      "title": "Bitcoin Nears Record, Cryptos Rally On 401(k) Approval, SEC Rulings - Investor's Business Daily",
+      "pubDate": "Mon, 11 Aug 2025 13:39:00 GMT"
     }
   ],
   "fusion_power": [
@@ -1679,6 +1679,10 @@
     {
       "title": "The 1,800-mile EV battery which charges in 5 minutes could crush Tesla, and it\u2019s not from the US - The Economic Times",
       "pubDate": "Sat, 09 Aug 2025 12:21:22 GMT"
+    },
+    {
+      "title": "China: EV sales rise while PHEV demand declines - electrive.com",
+      "pubDate": "Mon, 11 Aug 2025 13:32:46 GMT"
     }
   ],
   "hacking": [
@@ -2065,6 +2069,10 @@
     {
       "title": "Israel kills Al Jazeera journalist it says was Hamas leader - Reuters",
       "pubDate": "Sun, 10 Aug 2025 22:59:54 GMT"
+    },
+    {
+      "title": "Israel steps up Gaza City bombing after Netanyahu vow to expand offensive - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 12:27:48 GMT"
     }
   ],
   "battery_technology": [
@@ -2373,6 +2381,10 @@
     {
       "title": "Trump plan to deregulate climate pollution could make Arizona hotter, drier and more fiery - azcentral.com and The Arizona Republic",
       "pubDate": "Mon, 11 Aug 2025 12:12:19 GMT"
+    },
+    {
+      "title": "Why 'best time to visit' no longer applies - BBC",
+      "pubDate": "Mon, 11 Aug 2025 12:00:54 GMT"
     }
   ],
   "volcanoes": [
@@ -2483,6 +2495,10 @@
     {
       "title": "Trump removing IRS commissioner Billy Long after serving just two months in role - Fox Business",
       "pubDate": "Fri, 08 Aug 2025 19:45:00 GMT"
+    },
+    {
+      "title": "America's Biggest Employers Are Facing the Great Shrinking - Business Insider",
+      "pubDate": "Mon, 11 Aug 2025 08:09:00 GMT"
     }
   ],
   "pollution": [
@@ -2855,10 +2871,6 @@
   ],
   "energy_storage": [
     {
-      "title": "Australia Activates Blackrock\u2019s A$1B Super Battery Which Will Be World\u2019s Most Powerful - Bloomberg",
-      "pubDate": "Mon, 04 Aug 2025 14:01:00 GMT"
-    },
-    {
       "title": "Global energy storage funding falls 41% to $9.1 bn in H1 2025: Report - ET EnergyWorld",
       "pubDate": "Sat, 09 Aug 2025 03:07:52 GMT"
     }
@@ -3038,10 +3050,6 @@
     }
   ],
   "atlantic_ocean": [
-    {
-      "title": "We\u2019re entering primetime for hurricane season. Here\u2019s what\u2019s going on in the Atlantic - CNN",
-      "pubDate": "Mon, 04 Aug 2025 14:53:00 GMT"
-    },
     {
       "title": "Active Atlantic! Low developing near North Carolina coast may become tropical - WXII",
       "pubDate": "Tue, 05 Aug 2025 15:25:00 GMT"
