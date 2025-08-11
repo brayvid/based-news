@@ -621,10 +621,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s fertility crisis is so dire, rates are falling below \u2018replacement levels\u2019 and GDP could slow by more than half in the next 30 years, study says - Fortune",
-      "pubDate": "Mon, 04 Aug 2025 15:19:00 GMT"
-    },
-    {
       "title": "US defence firms scrambling for rare earth minerals after China blocks exports - The Telegraph",
       "pubDate": "Mon, 04 Aug 2025 20:38:00 GMT"
     },
@@ -763,6 +759,10 @@
     {
       "title": "China diplomat tipped as next foreign minister detained by authorities \u2013 report - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 05:53:00 GMT"
+    },
+    {
+      "title": "Tariffs on China Set to Rise Sharply Tuesday if No Deal Is Reached - The New York Times",
+      "pubDate": "Mon, 11 Aug 2025 14:45:29 GMT"
     }
   ],
   "us_politics": [
@@ -909,10 +909,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "AI is helping hackers automate and customize cyberattacks - Cybersecurity Dive",
-      "pubDate": "Mon, 04 Aug 2025 15:32:36 GMT"
-    },
-    {
       "title": "CISA Adds 3 D-Link Router Flaws to KEV Catalog After Active Exploitation Reports - The Hacker News",
       "pubDate": "Wed, 06 Aug 2025 04:49:00 GMT"
     },
@@ -983,6 +979,10 @@
     {
       "title": "Federal cybersecurity agency issues 10 advisories for industrial control systems - SC Media",
       "pubDate": "Mon, 11 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Teenage Hacker Stole $243M In Bitcoin. How It Happened. - Cybercrime Magazine",
+      "pubDate": "Mon, 11 Aug 2025 13:12:14 GMT"
     }
   ],
   "recession": [
@@ -1175,10 +1175,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Tesla\u2019s poor stock performance has slashed Elon Musk\u2019s wealth by $80 billion\u2014another tumble like that could dethrone the world\u2019s richest man - Fortune",
-      "pubDate": "Mon, 04 Aug 2025 15:49:00 GMT"
-    },
-    {
       "title": "Elon Musk and X notch court win against California deepfake law - Politico",
       "pubDate": "Wed, 06 Aug 2025 00:32:00 GMT"
     },
@@ -1267,6 +1263,10 @@
     {
       "title": "IO Biotech's cancer vaccine shows improvement in late-stage study goal - Reuters",
       "pubDate": "Mon, 11 Aug 2025 12:24:12 GMT"
+    },
+    {
+      "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
+      "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
     }
   ],
   "space_exploration": [
@@ -1381,13 +1381,13 @@
     {
       "title": "The crypto craze sweeping Washington and Wall Street - CBS News",
       "pubDate": "Sun, 10 Aug 2025 13:30:00 GMT"
+    },
+    {
+      "title": "Exclusive: Paxos joins spate of crypto companies applying for US trust bank licenses - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 14:42:09 GMT"
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla withheld data, lied, and misdirected police and plaintiffs to avoid blame in Autopilot crash - Electrek",
-      "pubDate": "Mon, 04 Aug 2025 15:54:00 GMT"
-    },
     {
       "title": "Exclusive: Tesla's brand loyalty collapsed after Musk backed Trump, data shows - Reuters",
       "pubDate": "Mon, 04 Aug 2025 20:46:52 GMT"
@@ -1643,10 +1643,6 @@
   ],
   "science": [
     {
-      "title": "Scientists Finally Identify Killer Microbe Behind \u2018Terrifying\u2019 Sea Star Disease - The New York Times",
-      "pubDate": "Mon, 04 Aug 2025 15:00:09 GMT"
-    },
-    {
       "title": "Scientists say they've found out what killed over 5 billion sea stars - NBC News",
       "pubDate": "Mon, 04 Aug 2025 23:23:47 GMT"
     },
@@ -1683,6 +1679,10 @@
     {
       "title": "China: EV sales rise while PHEV demand declines - electrive.com",
       "pubDate": "Mon, 11 Aug 2025 13:32:46 GMT"
+    },
+    {
+      "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
+      "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
     }
   ],
   "hacking": [
@@ -1755,6 +1755,10 @@
     {
       "title": "Most of the GPT-5 Updates Are a Snooze. Wake Me When Artificial General Intelligence Arrives - PCMag",
       "pubDate": "Fri, 08 Aug 2025 13:28:18 GMT"
+    },
+    {
+      "title": "Sam Altman now says AGI, or human-level AI, is 'not a super useful term\u2019 \u2014 and he's not alone - CNBC",
+      "pubDate": "Mon, 11 Aug 2025 11:11:59 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2077,10 +2081,6 @@
   ],
   "battery_technology": [
     {
-      "title": "AI discovers new material that could transform batteries - Yahoo.co",
-      "pubDate": "Mon, 04 Aug 2025 15:52:29 GMT"
-    },
-    {
       "title": "Used EV batteries could upend the race for long-duration storage - Canary Media",
       "pubDate": "Wed, 06 Aug 2025 07:30:00 GMT"
     },
@@ -2385,6 +2385,10 @@
     {
       "title": "Why 'best time to visit' no longer applies - BBC",
       "pubDate": "Mon, 11 Aug 2025 12:00:54 GMT"
+    },
+    {
+      "title": "Trump's shadow sparks new and unique climate moves - Axios",
+      "pubDate": "Mon, 11 Aug 2025 12:27:53 GMT"
     }
   ],
   "volcanoes": [
@@ -2565,12 +2569,6 @@
     {
       "title": "Russia to discuss creation of technology alliances - TV BRICS",
       "pubDate": "Mon, 11 Aug 2025 13:13:25 GMT"
-    }
-  ],
-  "political_corruption": [
-    {
-      "title": "Netanyahu moves to fire attorney general prosecuting him for corruption - Axios",
-      "pubDate": "Mon, 04 Aug 2025 15:35:53 GMT"
     }
   ],
   "terrorism": [
@@ -2894,10 +2892,6 @@
     }
   ],
   "quantum_mechanics": [
-    {
-      "title": "Scientists produce quantum entanglement-like results without entangled particles in new experiment - Phys.org",
-      "pubDate": "Mon, 04 Aug 2025 15:30:05 GMT"
-    },
     {
       "title": "Scientists created a black hole in a lab to test a theory\u2014then it unexpectedly began glowing - good.is",
       "pubDate": "Tue, 05 Aug 2025 21:47:43 GMT"
