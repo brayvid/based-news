@@ -359,10 +359,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stock Market Today: Dow jumps over 500 points, S&P 500 and Nasdaq rise, bouncing after Friday's tariff and jobs-fueled selloff - MarketWatch",
-      "pubDate": "Mon, 04 Aug 2025 19:08:00 GMT"
-    },
-    {
       "title": "Israel\u2019s Financial Markets Are Soaring Despite 22 Months of Brutal War - Bloomberg.com",
       "pubDate": "Tue, 05 Aug 2025 10:03:26 GMT"
     },
@@ -812,10 +808,6 @@
     }
   ],
   "democratic_party": [
-    {
-      "title": "Texas Democrats walked out to block the GOP. How well has the tactic worked before? - NPR",
-      "pubDate": "Mon, 04 Aug 2025 19:18:39 GMT"
-    },
     {
       "title": "Hundreds cheer Arizona Sen. Ruben Gallego as Democrats take offensive against Trump's tax bill - WKMG",
       "pubDate": "Sat, 09 Aug 2025 21:36:50 GMT"
@@ -1355,6 +1347,10 @@
     {
       "title": "The story behind Spain\u2019s solar power meltdown - Financial Times",
       "pubDate": "Mon, 11 Aug 2025 04:00:24 GMT"
+    },
+    {
+      "title": "Orsted plunges as it seeks $9.4 billion to cope with Trump's hostility to wind power - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 15:28:51 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1546,10 +1542,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "A Fusion Startup Claims It Can Transform Mercury Into Gold\u2014Meaning Alchemy Could Be Very Real - Popular Mechanics",
-      "pubDate": "Mon, 04 Aug 2025 19:26:00 GMT"
-    },
     {
       "title": "Scientists Developed \u2018Super Steel\u2019 That Could Take Fusion to the Next Level - Popular Mechanics",
       "pubDate": "Wed, 06 Aug 2025 12:00:00 GMT"
@@ -1926,10 +1918,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Netanyahu reportedly pushing for major expansion of war in Gaza - Jewish Insider",
-      "pubDate": "Mon, 04 Aug 2025 19:33:05 GMT"
-    },
     {
       "title": "More than 40 arrested at protest against Gaza war at Trump hotel in New York - The Guardian",
       "pubDate": "Tue, 05 Aug 2025 02:50:00 GMT"
@@ -2781,6 +2769,10 @@
     {
       "title": "DOJ tells judge it will ask Supreme Court to quickly rule on constitutionality of Trump\u2019s birthright citizenship order - CNN",
       "pubDate": "Wed, 06 Aug 2025 21:02:00 GMT"
+    },
+    {
+      "title": "Supreme Court Faces Decision on Case Urging Overturn of Same-Sex Marriage - Newsweek",
+      "pubDate": "Mon, 11 Aug 2025 15:54:02 GMT"
     }
   ],
   "technology": [
@@ -2843,12 +2835,6 @@
     {
       "title": "Why is Microsoft soaring while Amazon sinks? AI growing pains - Tech Xplore",
       "pubDate": "Tue, 05 Aug 2025 11:11:29 GMT"
-    }
-  ],
-  "department_of_homeland_security": [
-    {
-      "title": "DHS to require some foreign travelers to pay cash bond for US visa - USA Today",
-      "pubDate": "Mon, 04 Aug 2025 19:51:36 GMT"
     }
   ],
   "atmospheric_science": [
