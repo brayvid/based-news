@@ -63,10 +63,6 @@
   ],
   "iran": [
     {
-      "title": "Iran proposes slashing zeros from currency after decades of decline - Financial Times",
-      "pubDate": "Mon, 04 Aug 2025 11:57:55 GMT"
-    },
-    {
       "title": "Iran appoints veteran leader to revamp security after war with Israel - Financial Times",
       "pubDate": "Tue, 05 Aug 2025 17:44:01 GMT"
     },
@@ -227,10 +223,6 @@
   ],
   "russia": [
     {
-      "title": "Kremlin plays down Trump's nuclear rhetoric as US envoy set to visit Moscow - BBC",
-      "pubDate": "Mon, 04 Aug 2025 11:40:46 GMT"
-    },
-    {
       "title": "Russia Says It Will Stop Abiding By INF Treaty - The New York Times",
       "pubDate": "Mon, 04 Aug 2025 21:10:29 GMT"
     },
@@ -358,10 +350,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Morning Bid: Payrolls soft, messenger fired - Reuters",
-      "pubDate": "Mon, 04 Aug 2025 11:03:03 GMT"
-    },
     {
       "title": "Stock Market Today: Dow jumps over 500 points, S&P 500 and Nasdaq rise, bouncing after Friday's tariff and jobs-fueled selloff - MarketWatch",
       "pubDate": "Mon, 04 Aug 2025 19:08:00 GMT"
@@ -509,13 +497,13 @@
     {
       "title": "Overheated homes: why UK housing is dangerously unprepared for impact of climate crisis - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Why legally mandated U.S. national climate reports were removed from the federal websites - Milwaukee Independent",
+      "pubDate": "Mon, 11 Aug 2025 10:01:27 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine claims it destroyed Russian fighter jets in Crimea | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Mon, 04 Aug 2025 10:59:20 GMT"
-    },
     {
       "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - Business Insider",
       "pubDate": "Mon, 04 Aug 2025 14:02:00 GMT"
@@ -621,6 +609,10 @@
     {
       "title": "US economy flirts with recession - The Express Tribune",
       "pubDate": "Mon, 11 Aug 2025 01:27:57 GMT"
+    },
+    {
+      "title": "Trump's tariffs weakened the economy, so he's lying about the data | Opinion - IndyStar",
+      "pubDate": "Mon, 11 Aug 2025 09:31:14 GMT"
     }
   ],
   "china": [
@@ -1535,10 +1527,6 @@
       "pubDate": "Mon, 04 Aug 2025 19:26:00 GMT"
     },
     {
-      "title": "China takes bold step forward in global race for limitless energy device: 'We have fully mastered the core technologies' - The Cool Down",
-      "pubDate": "Mon, 04 Aug 2025 11:45:31 GMT"
-    },
-    {
       "title": "Scientists Developed \u2018Super Steel\u2019 That Could Take Fusion to the Next Level - Popular Mechanics",
       "pubDate": "Wed, 06 Aug 2025 12:00:00 GMT"
     },
@@ -1575,6 +1563,10 @@
     {
       "title": "Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump - Gizmodo",
       "pubDate": "Sun, 10 Aug 2025 13:18:16 GMT"
+    },
+    {
+      "title": "Nvidia will jump another 20% after report of China export license agreement, Wells Fargo says - CNBC",
+      "pubDate": "Mon, 11 Aug 2025 10:50:13 GMT"
     }
   ],
   "openai": [
@@ -1825,10 +1817,6 @@
   ],
   "nasa": [
     {
-      "title": "After 178 Days in Orbit, NASA Astronaut\u2019s \u2018Lightbulb Moment\u2019 Exposes Humanity\u2019s Biggest Lie - The Daily Galaxy",
-      "pubDate": "Mon, 04 Aug 2025 11:30:00 GMT"
-    },
-    {
       "title": "NASA declares troubled Lunar Trailblazer moon orbiter dead - Space",
       "pubDate": "Tue, 05 Aug 2025 19:00:00 GMT"
     },
@@ -1872,10 +1860,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "Plastic causing \"disease and death from infancy to old age\" that costs $1.5 trillion a year, report warns - CBS News",
-      "pubDate": "Mon, 04 Aug 2025 11:05:00 GMT"
-    },
     {
       "title": "Former X CEO Linda Yaccarino Appointed as Chief Executive Officer for eMed Population Health - PharmExec",
       "pubDate": "Tue, 05 Aug 2025 19:26:30 GMT"
@@ -2451,6 +2435,10 @@
     {
       "title": "Russia downs seven drones targeting capital, Moscow Mayor says - Reuters",
       "pubDate": "Mon, 11 Aug 2025 07:28:39 GMT"
+    },
+    {
+      "title": "Australia to recognise Palestinian state at United Nations in September - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 07:45:01 GMT"
     }
   ],
   "blockchain": [
