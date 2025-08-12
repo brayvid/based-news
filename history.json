@@ -273,10 +273,6 @@
       "pubDate": "Tue, 05 Aug 2025 18:51:56 GMT"
     },
     {
-      "title": "Anthropic Pitches New Safety Framework as a Reckoning for Unruly AI Agents - WinBuzzer",
-      "pubDate": "Tue, 05 Aug 2025 16:12:51 GMT"
-    },
-    {
       "title": "Polluted data poses risk to AI safety, ministry says - China Daily",
       "pubDate": "Wed, 06 Aug 2025 01:07:00 GMT"
     },
@@ -355,6 +351,10 @@
     {
       "title": "Illinois Researchers Create AI Safety Testing Methods - Mirage News",
       "pubDate": "Tue, 12 Aug 2025 14:32:00 GMT"
+    },
+    {
+      "title": "Filtered data stops openly-available AI models from performing dangerous tasks, study finds - Tech Xplore",
+      "pubDate": "Tue, 12 Aug 2025 16:07:04 GMT"
     }
   ],
   "financial_markets": [
@@ -763,6 +763,10 @@
     {
       "title": "Trump\u2019s major China gamble has paid off so far. But Xi still holds trump cards - CNN",
       "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "title": "China cautions tech firms over Nvidia H20 AI chip purchases, sources say - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 16:03:42 GMT"
     }
   ],
   "us_politics": [
@@ -846,10 +850,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump warns EU: 35% tariffs if $600bn investment pledge unfulfilled - Euronews.com",
-      "pubDate": "Tue, 05 Aug 2025 16:22:36 GMT"
-    },
     {
       "title": "US-India relations at their \u2018worst\u2019 as Trump slaps 50 percent tariff - Al Jazeera",
       "pubDate": "Thu, 07 Aug 2025 02:12:13 GMT"
@@ -1485,6 +1485,10 @@
     {
       "title": "North Korean Kimsuky hackers exposed in alleged data breach - BleepingComputer",
       "pubDate": "Mon, 11 Aug 2025 20:42:46 GMT"
+    },
+    {
+      "title": "Major data breach at US credit union sees 172,000 customers at risk - here's how to stay safe - TechRadar",
+      "pubDate": "Tue, 12 Aug 2025 13:04:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1662,10 +1666,6 @@
     }
   ],
   "science": [
-    {
-      "title": "Scientists heat gold to 14 times its melting point \u2014 without turning it into a liquid - Live Science",
-      "pubDate": "Tue, 05 Aug 2025 16:10:00 GMT"
-    },
     {
       "title": "Nuclear Science Center begins expansion to \u2018supercharge\u2019 nuclear science capabilities - WSU Insider",
       "pubDate": "Wed, 06 Aug 2025 13:06:55 GMT"
@@ -1969,10 +1969,6 @@
     {
       "title": "A wasteland of rubble, dust and graves: how Gaza looks from the sky - The Guardian",
       "pubDate": "Tue, 05 Aug 2025 19:05:00 GMT"
-    },
-    {
-      "title": "Israel Blames Hamas for Malnourishment of Israeli Captives as It Deliberately Starves Gaza - Drop Site News",
-      "pubDate": "Tue, 05 Aug 2025 16:08:08 GMT"
     },
     {
       "title": "UN official says Israel expanding Gaza operations would risk 'catastrophic consequences' - BBC",
@@ -2457,6 +2453,10 @@
     {
       "title": "Sheboygan Receiving Federal Funding to Curb Effects of Climate Change - Seehafer News",
       "pubDate": "Tue, 12 Aug 2025 13:33:16 GMT"
+    },
+    {
+      "title": "Exxon asks Supreme Court \u2014 again \u2014 to take up climate-damages case - E&E News by POLITICO",
+      "pubDate": "Tue, 12 Aug 2025 10:14:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2503,14 +2503,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "US Military Holds Arctic Defense Drills With Eye on Russia Threat - Newsweek",
-      "pubDate": "Tue, 05 Aug 2025 16:02:54 GMT"
-    },
-    {
-      "title": "US Army to boost Patriot air defense battalions - MSN",
-      "pubDate": "Tue, 05 Aug 2025 16:02:43 GMT"
-    },
-    {
       "title": "Russia Strikes Ukrainian Defense Infrastructure in 142 Areas - \u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0434\u0435\u043b\u043e",
       "pubDate": "Wed, 06 Aug 2025 08:32:57 GMT"
     },
@@ -2525,6 +2517,10 @@
     {
       "title": "Trump\u2019s Defense Secretary Seems to Admire Men Who Want to Stop Women From Voting - Mother Jones",
       "pubDate": "Sat, 09 Aug 2025 20:05:50 GMT"
+    },
+    {
+      "title": "Ukrainian intel sources say Russia and India will meet in St. Petersburg on Sept. 15-18 to plan 2025-2026 defense cooperation, including joint training and military exercises. - finchannel",
+      "pubDate": "Tue, 12 Aug 2025 07:32:26 GMT"
     }
   ],
   "world_news": [
@@ -2961,6 +2957,10 @@
     {
       "title": "Oops! FBI Chief Undermines Trump\u2019s Main Reason for Taking Over D.C. - yahoo.com",
       "pubDate": "Mon, 11 Aug 2025 15:57:13 GMT"
+    },
+    {
+      "title": "US crime rates fell nationwide in 2024, FBI report says - Ohio Capital Journal",
+      "pubDate": "Tue, 12 Aug 2025 08:31:06 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -3193,6 +3193,10 @@
     {
       "title": "Tropical Storm Erin expected to become Cat 3 hurricane. What to expect in North Carolina - The Asheville Citizen Times",
       "pubDate": "Tue, 12 Aug 2025 13:04:39 GMT"
+    },
+    {
+      "title": "Tropical Storm Erin likely to be 1st hurricane of season, not forecast to hit US - ABC News",
+      "pubDate": "Tue, 12 Aug 2025 15:22:03 GMT"
     }
   ],
   "earth's_magnetic_field": [
