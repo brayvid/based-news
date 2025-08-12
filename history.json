@@ -1469,10 +1469,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Trump Bitcoin adviser David Bailey wants to create a $200M PAC - Cointelegraph",
-      "pubDate": "Tue, 05 Aug 2025 02:53:03 GMT"
-    },
-    {
       "title": "Bitcoin jumps as Trump is set to sign an order that allows cryptocurrencies in 401(k)s - CNBC",
       "pubDate": "Thu, 07 Aug 2025 12:11:46 GMT"
     },
@@ -1785,6 +1781,10 @@
     {
       "title": "Former AOC Campaign Worker Charged Over Threat Targeting Jewish Students - VINnews",
       "pubDate": "Sun, 10 Aug 2025 01:55:18 GMT"
+    },
+    {
+      "title": "Ocasio-Cortez Campaign Denies Ties to Alleged Ex-Staffer Who Urged Attack on Jewish Students at New York School - Algemeiner.com",
+      "pubDate": "Mon, 11 Aug 2025 20:07:00 GMT"
     }
   ],
   "national_security": [
@@ -1901,6 +1901,10 @@
     {
       "title": "CT solar firms report surge in activity as end of federal tax credits looms - Hartford Business Journal",
       "pubDate": "Mon, 11 Aug 2025 08:00:16 GMT"
+    },
+    {
+      "title": "The Clean-Energy Equation No One Can Solve Yet - The Atlantic",
+      "pubDate": "Mon, 11 Aug 2025 19:52:52 GMT"
     }
   ],
   "global_health": [
@@ -1930,10 +1934,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "More than 40 arrested at protest against Gaza war at Trump hotel in New York - The Guardian",
-      "pubDate": "Tue, 05 Aug 2025 02:50:00 GMT"
-    },
     {
       "title": "\u2018Very heavy fire\u2019: Israel escalates deadly ground and air attacks on Gaza - Al Jazeera",
       "pubDate": "Tue, 05 Aug 2025 08:21:45 GMT"
@@ -2141,6 +2141,10 @@
     {
       "title": "New York Enacts Legislation Regulating Algorithmic Pricing and AI Companions - The National Law Review",
       "pubDate": "Thu, 07 Aug 2025 17:01:54 GMT"
+    },
+    {
+      "title": "DOJ Touts Merger, Rental Algorithm Deals, Eyeing More - Law360",
+      "pubDate": "Mon, 11 Aug 2025 23:53:00 GMT"
     }
   ],
   "astronomy": [
@@ -2439,6 +2443,10 @@
     {
       "title": "Amazon, Walmart, Target Halt Orders From India After Trump Doubles Tariff: Sources - NDTV",
       "pubDate": "Fri, 08 Aug 2025 03:55:18 GMT"
+    },
+    {
+      "title": "Amazon's Starlink Competitor Tops 100 Satellites. What Project Kuiper Means For Amazon Stock. - Investor's Business Daily",
+      "pubDate": "Mon, 11 Aug 2025 16:50:00 GMT"
     }
   ],
   "military_and_defense": [
@@ -2971,6 +2979,10 @@
     {
       "title": "Migrants at Lower Manhattan facility held in 'crowded, squalid' conditions, suit claims - Gothamist",
       "pubDate": "Sun, 10 Aug 2025 00:45:00 GMT"
+    },
+    {
+      "title": "America\u2019s Most Famous Court Trial - American Civil Liberties Union",
+      "pubDate": "Mon, 11 Aug 2025 19:10:16 GMT"
     }
   ],
   "oceans": [
@@ -3129,6 +3141,10 @@
     {
       "title": "US Federal Trade Commission Gets $14.6 mn to Boost Data Analytics with AI - CDO Magazine",
       "pubDate": "Sun, 10 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Google Analytics Real Time Reporting Not Working Again - Search Engine Roundtable",
+      "pubDate": "Mon, 11 Aug 2025 14:55:00 GMT"
     }
   ],
   "hurricanes": [
@@ -3345,6 +3361,12 @@
     {
       "title": "Musk accuses Apple of antitrust violation, says xAI will take legal action - Reuters",
       "pubDate": "Tue, 12 Aug 2025 01:20:00 GMT"
+    }
+  ],
+  "animals": [
+    {
+      "title": "Bones in Norway Cave Reveal Chilling Fate of Ice Age Animals - ScienceAlert",
+      "pubDate": "Mon, 11 Aug 2025 19:01:30 GMT"
     }
   ]
 }
