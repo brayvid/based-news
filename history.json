@@ -351,6 +351,10 @@
     {
       "title": "AI Fleet Safety Breakthrough: Teletrac Navman Rolls Out 500 Smart Dashcams for Canal & River Trust - Stock Titan",
       "pubDate": "Tue, 12 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Illinois Researchers Create AI Safety Testing Methods - Mirage News",
+      "pubDate": "Tue, 12 Aug 2025 14:32:00 GMT"
     }
   ],
   "financial_markets": [
@@ -763,16 +767,8 @@
   ],
   "us_politics": [
     {
-      "title": "Trump says Republicans are 'entitled' to more Texas seats - USA Today",
-      "pubDate": "Tue, 05 Aug 2025 14:01:46 GMT"
-    },
-    {
       "title": "Trump administration live updates: Texas Republicans blocked again from moving forward with redistricting plan - NBC News",
       "pubDate": "Tue, 05 Aug 2025 21:33:38 GMT"
-    },
-    {
-      "title": "Trump says he \u2018probably\u2019 won\u2019t run for president again - The Times",
-      "pubDate": "Tue, 05 Aug 2025 14:30:25 GMT"
     },
     {
       "title": "Trump threatens to take over DC police, might bring in National Guard - NBC News",
@@ -1109,6 +1105,10 @@
     {
       "title": "US Fed official says jobs report confirms 'signs of fragility' in market - The New Indian Express",
       "pubDate": "Sun, 10 Aug 2025 07:34:33 GMT"
+    },
+    {
+      "title": "Trump threatens Fed chair Powell with 'major lawsuit' over HQ renovation cost - CNBC",
+      "pubDate": "Tue, 12 Aug 2025 13:58:12 GMT"
     }
   ],
   "earthquakes": [
@@ -1761,14 +1761,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "Google outlines latest step towards creating artificial general intelligence - The Guardian",
-      "pubDate": "Tue, 05 Aug 2025 14:14:00 GMT"
-    },
-    {
-      "title": "DeepMind Unveils Genie 3 AI Model Advancing AGI Development - AInvest",
-      "pubDate": "Tue, 05 Aug 2025 14:53:03 GMT"
-    },
-    {
       "title": "Fear Of Super Intelligent AI Is Driving Harvard And MIT Students To Drop Out - Forbes",
       "pubDate": "Wed, 06 Aug 2025 19:07:31 GMT"
     },
@@ -1832,10 +1824,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Is the U.S. Navy Aircraft Carrier Obsolete? The F/A-XX Fighter Fight Might Decide - National Security Journal",
-      "pubDate": "Tue, 05 Aug 2025 14:35:32 GMT"
-    },
     {
       "title": "China warns Worldcoin-style iris data collection for crypto poses national security threat - The Block",
       "pubDate": "Wed, 06 Aug 2025 07:41:25 GMT"
@@ -2235,6 +2223,10 @@
     {
       "title": "Giant planet found orbiting tiny star \u2018should not exist\u2019, astronomers say - The Times of India",
       "pubDate": "Mon, 11 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Scientists may have found a powerful new space object: 'It doesn't fit comfortably into any known category' - Space",
+      "pubDate": "Tue, 12 Aug 2025 11:45:01 GMT"
     }
   ],
   "physics": [
@@ -2285,10 +2277,6 @@
     {
       "title": "New report: Climate change is causing a home insurance crisis. Big Oil should pay. - Center for Climate Integrity",
       "pubDate": "Tue, 05 Aug 2025 20:09:14 GMT"
-    },
-    {
-      "title": "Video How beaches are affected by climate change - ABC News",
-      "pubDate": "Tue, 05 Aug 2025 14:55:03 GMT"
     },
     {
       "title": "Australia\u2019s Great Barrier Reef hit by record bleaching as oceans warm - Al Jazeera",
@@ -2606,10 +2594,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Global Plastic Pollution Found Responsible for $1.5 Trillion in Damages Annually - Democracy Now!",
-      "pubDate": "Tue, 05 Aug 2025 14:26:46 GMT"
-    },
     {
       "title": "World leaders haggle over treaty aimed at tackling plastic pollution - CBS News",
       "pubDate": "Tue, 05 Aug 2025 21:47:00 GMT"
@@ -3119,10 +3103,6 @@
   ],
   "us_congress": [
     {
-      "title": "House Oversight Committee subpoenas Justice Department for Epstein files, high-profile former officials for depositions - CNN",
-      "pubDate": "Tue, 05 Aug 2025 14:11:00 GMT"
-    },
-    {
       "title": "Appeals court rules Trump clamp-down on spending data defies Congress\u2019 authority - Politico",
       "pubDate": "Sun, 10 Aug 2025 01:19:23 GMT"
     }
@@ -3229,6 +3209,10 @@
     {
       "title": "National Hurricane Center tracks Invest 97L, now with high chance of development. What to know - Naples Daily News",
       "pubDate": "Sun, 10 Aug 2025 09:46:38 GMT"
+    },
+    {
+      "title": "Tropical Storm Erin expected to become Cat 3 hurricane. What to expect in North Carolina - The Asheville Citizen Times",
+      "pubDate": "Tue, 12 Aug 2025 13:04:39 GMT"
     }
   ],
   "earth's_magnetic_field": [
@@ -3467,6 +3451,12 @@
     {
       "title": "Researchers develop machine learning models to identify biomarkers for chronic fatigue syndrome - News-Medical",
       "pubDate": "Tue, 12 Aug 2025 03:01:00 GMT"
+    }
+  ],
+  "outer_space": [
+    {
+      "title": "China unveils space-debris catcher with possible military use - Interesting Engineering",
+      "pubDate": "Tue, 12 Aug 2025 11:17:00 GMT"
     }
   ]
 }
