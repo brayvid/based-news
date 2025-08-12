@@ -393,10 +393,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AMD Under Pressure to Show AI Gains With Stock Beating Nvidia - Bloomberg.com",
-      "pubDate": "Tue, 05 Aug 2025 09:45:08 GMT"
-    },
-    {
       "title": "OpenAI releases two open-weight AI reasoning models optimized for personal computers - The Tech Portal",
       "pubDate": "Tue, 05 Aug 2025 18:32:09 GMT"
     },
@@ -509,10 +505,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine-Russia war latest: Mercenaries from China, Pakistan and Africa fighting for Moscow, claims Zelensky - The Independent",
-      "pubDate": "Tue, 05 Aug 2025 09:38:29 GMT"
-    },
-    {
       "title": "Ukraine\u2019s anti-corruption reforms are more vital than ever during wartime - Atlantic Council",
       "pubDate": "Tue, 05 Aug 2025 20:13:00 GMT"
     },
@@ -612,10 +604,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Protests in China over viral school bullying case - BBC",
-      "pubDate": "Tue, 05 Aug 2025 09:33:05 GMT"
-    },
     {
       "title": "Six months after DeepSeek\u2019s breakthrough, China speeds on with AI - The Economist",
       "pubDate": "Tue, 05 Aug 2025 18:19:36 GMT"
@@ -983,6 +971,10 @@
     {
       "title": "DOJ announces disruption of BlackSuit ransomware group - American Hospital Association",
       "pubDate": "Mon, 11 Aug 2025 19:49:02 GMT"
+    },
+    {
+      "title": "Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors - The Hacker News",
+      "pubDate": "Tue, 12 Aug 2025 08:36:00 GMT"
     }
   ],
   "recession": [
@@ -1175,6 +1167,10 @@
     {
       "title": "The next 'Big One' on the San Andreas fault might not be the earthquake we expect, researchers say - Los Angeles Times",
       "pubDate": "Mon, 11 Aug 2025 20:19:35 GMT"
+    },
+    {
+      "title": "6.4-magnitude earthquake hits Indonesia's Papua - Latest news from Azerbaijan",
+      "pubDate": "Tue, 12 Aug 2025 09:43:33 GMT"
     }
   ],
   "elon_musk": [
@@ -1263,6 +1259,10 @@
     {
       "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
       "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
+    },
+    {
+      "title": "Pfizer\u2019s Padcev Plus Keytruda Extends Bladder Cancer Survival - Bloomberg.com",
+      "pubDate": "Tue, 12 Aug 2025 09:30:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1392,10 +1392,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla\u2019s UK sales plummet 60% as Elon Musk receives $30bn stock award - Financial Times",
-      "pubDate": "Tue, 05 Aug 2025 09:58:58 GMT"
-    },
     {
       "title": "Tesla Issues Voluntary Recall Due to Brake Fluid in Select Model 3 and Model Y Vehicles - Not a Tesla App",
       "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
@@ -2453,6 +2449,10 @@
     {
       "title": "70 years of data show extreme heat is already wiping out tropical bird populations - The Conversation",
       "pubDate": "Mon, 11 Aug 2025 20:05:53 GMT"
+    },
+    {
+      "title": "As Climate Change Makes Hail More Destructive, Illinois Residents Pay the Price - Inside Climate News",
+      "pubDate": "Tue, 12 Aug 2025 08:55:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2524,10 +2524,6 @@
     }
   ],
   "world_news": [
-    {
-      "title": "Russia slams Trump's threat against India: 'Can't force countries to choose trade partners' | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Tue, 05 Aug 2025 09:39:35 GMT"
-    },
     {
       "title": "Russia downs seven drones targeting capital, Moscow Mayor says - Reuters",
       "pubDate": "Mon, 11 Aug 2025 07:28:39 GMT"
@@ -3135,6 +3131,10 @@
     {
       "title": "Trump could meet in person with Putin as soon as next week, White House official says - AP News",
       "pubDate": "Wed, 06 Aug 2025 20:54:00 GMT"
+    },
+    {
+      "title": "Trump/Putin Alaska summit: Former Secret Service agent adds perspective on location, security measures - Alaska's News Source",
+      "pubDate": "Mon, 11 Aug 2025 23:56:00 GMT"
     }
   ],
   "violence": [
@@ -3433,6 +3433,12 @@
     {
       "title": "Room-Temperature Quantum Breakthrough Stuns Physicists - SciTechDaily",
       "pubDate": "Tue, 12 Aug 2025 05:01:15 GMT"
+    }
+  ],
+  "machine_learning": [
+    {
+      "title": "Researchers develop machine learning models to identify biomarkers for chronic fatigue syndrome - News-Medical",
+      "pubDate": "Tue, 12 Aug 2025 03:01:00 GMT"
     }
   ]
 }
