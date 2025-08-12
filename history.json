@@ -393,10 +393,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "SEC Creates Artificial Intelligence Task Force - Traders Magazine",
-      "pubDate": "Tue, 05 Aug 2025 04:30:00 GMT"
-    },
-    {
       "title": "AMD Under Pressure to Show AI Gains With Stock Beating Nvidia - Bloomberg.com",
       "pubDate": "Tue, 05 Aug 2025 09:45:08 GMT"
     },
@@ -587,13 +583,13 @@
     {
       "title": "Ukraine war latest: Three killed in Russia as Ukrainian drones shot down 'en route to Moscow' - Sky News",
       "pubDate": "Mon, 11 Aug 2025 08:41:20 GMT"
+    },
+    {
+      "title": "Foreign Recruits in Ukraine Military Are Killed in Russian Missile Strike - The New York Times",
+      "pubDate": "Tue, 12 Aug 2025 04:01:04 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Most U.S. adults stressed by grocery costs: poll - Axios",
-      "pubDate": "Tue, 05 Aug 2025 04:29:06 GMT"
-    },
     {
       "title": "Trump's broad tariffs go into effect, just as economic pain is surfacing - NPR",
       "pubDate": "Thu, 07 Aug 2025 05:01:39 GMT"
@@ -755,6 +751,10 @@
     {
       "title": "Chinese warship crashes into own coast guard vessel while chasing Philippines boat in South China Sea - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 00:57:00 GMT"
+    },
+    {
+      "title": "Trump extends China trade truce, setting stage for more ambitious talks - Politico",
+      "pubDate": "Tue, 12 Aug 2025 01:03:34 GMT"
     }
   ],
   "us_politics": [
@@ -1043,6 +1043,10 @@
     {
       "title": "Russia\u2019s Shahed Long-Range Drones Are Now Dropping Anti-Tank Mines - The War Zone",
       "pubDate": "Mon, 11 Aug 2025 23:17:59 GMT"
+    },
+    {
+      "title": "A $2,500 interceptor drone built to destroy Iranian Shaheds was recorded flying at the speed of a bullet train - Business Insider",
+      "pubDate": "Tue, 12 Aug 2025 03:41:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2213,6 +2217,10 @@
     {
       "title": "Scientists Announce a Physical Warp Drive Is Now Possible. Seriously. - Popular Mechanics",
       "pubDate": "Mon, 11 Aug 2025 14:17:00 GMT"
+    },
+    {
+      "title": "Gold Survives 33,740\u00b0F, Overturning a 40-Year Physics Theory - SciTechDaily",
+      "pubDate": "Tue, 12 Aug 2025 04:47:43 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2513,10 +2521,6 @@
   ],
   "business": [
     {
-      "title": "Weak business investment threatens global growth, warns OECD - Financial Times",
-      "pubDate": "Tue, 05 Aug 2025 04:00:08 GMT"
-    },
-    {
       "title": "Trump, Apple to Announce Fresh $100 Billion US Investment - Bloomberg",
       "pubDate": "Wed, 06 Aug 2025 14:09:16 GMT"
     },
@@ -2716,10 +2720,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "China warns EV makers to stop price-cutting to protect the economy - The Guardian",
-      "pubDate": "Tue, 05 Aug 2025 04:00:00 GMT"
-    },
     {
       "title": "China EV insurance registrations for week ending Aug 3: Nio 3,450, Tesla 11,020, Xiaomi 7,580 - CnEVPost",
       "pubDate": "Tue, 05 Aug 2025 05:35:00 GMT"
@@ -2979,10 +2979,6 @@
   ],
   "energy_transition": [
     {
-      "title": "OPEC+ Unwinds Output Cuts as the Energy Transition and Capital Discipline Reshape the Oil Landscape - AInvest",
-      "pubDate": "Tue, 05 Aug 2025 04:58:20 GMT"
-    },
-    {
       "title": "Military diverting critical materials from renewables - The Ecologist",
       "pubDate": "Thu, 07 Aug 2025 06:00:00 GMT"
     }
@@ -3205,6 +3201,10 @@
     {
       "title": "New Tesla owners get refund after Bosplus salesman Bojia Liu misleads them about self-driving capability - RNZ",
       "pubDate": "Sat, 09 Aug 2025 00:44:32 GMT"
+    },
+    {
+      "title": "GM plans renewed push into driverless personal vehicles - Bloomberg - MSN",
+      "pubDate": "Mon, 11 Aug 2025 18:44:37 GMT"
     }
   ],
   "asteroids": [
@@ -3387,6 +3387,12 @@
     {
       "title": "Bones in Norway Cave Reveal Chilling Fate of Ice Age Animals - ScienceAlert",
       "pubDate": "Mon, 11 Aug 2025 19:01:30 GMT"
+    }
+  ],
+  "internet": [
+    {
+      "title": "AOL ends dial-up internet service after more than 30 years - BBC",
+      "pubDate": "Mon, 11 Aug 2025 20:26:24 GMT"
     }
   ]
 }
