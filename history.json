@@ -837,6 +837,10 @@
     {
       "title": "North Korea warns of 'self-defense' measures against planned South Korea-US military exercise - The Korea Times",
       "pubDate": "Sun, 10 Aug 2025 22:43:00 GMT"
+    },
+    {
+      "title": "North Koreans tell BBC they are sent to work 'like slaves' in Russia - BBC",
+      "pubDate": "Tue, 12 Aug 2025 05:10:26 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1587,10 +1591,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI chairman to students: 'Studying computer science is\u2026' - The Times of India",
-      "pubDate": "Tue, 05 Aug 2025 05:40:00 GMT"
-    },
-    {
       "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
       "pubDate": "Wed, 06 Aug 2025 04:55:00 GMT"
     },
@@ -1639,6 +1639,10 @@
     {
       "title": "Brazil's Lula vetoes parts of environment bill pushed by the opposition that could harm the Amazon - AP News",
       "pubDate": "Fri, 08 Aug 2025 20:42:00 GMT"
+    },
+    {
+      "title": "Scientists set out to map the world\u2019s traditional food environments and their health impacts - News-Medical",
+      "pubDate": "Tue, 12 Aug 2025 01:06:00 GMT"
     }
   ],
   "science": [
@@ -1767,6 +1771,10 @@
     {
       "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
       "pubDate": "Mon, 11 Aug 2025 14:06:47 GMT"
+    },
+    {
+      "title": "Google DeepMind CEO says one flaw is holding AI back from reaching full AGI - Business Insider",
+      "pubDate": "Tue, 12 Aug 2025 03:56:00 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2517,6 +2525,10 @@
     {
       "title": "Stripe Is Building A Blockchain: Can Openness Survive Branded Rails? - Forbes",
       "pubDate": "Tue, 12 Aug 2025 00:20:00 GMT"
+    },
+    {
+      "title": "Exclusive: Fintech giant Stripe building \u2018Tempo\u2019 blockchain with crypto VC Paradigm - Fortune",
+      "pubDate": "Mon, 11 Aug 2025 20:43:00 GMT"
     }
   ],
   "business": [
@@ -2570,10 +2582,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "Russia Stares Back At Donald Trump, Stands By BRICS Partner India - Republic World",
-      "pubDate": "Tue, 05 Aug 2025 05:43:01 GMT"
-    },
     {
       "title": "Trump Says Lula Can Call Him. \"I Will Call PM Modi,\" Replies Brazil Leader - NDTV",
       "pubDate": "Wed, 06 Aug 2025 03:08:27 GMT"
@@ -2721,10 +2729,6 @@
   ],
   "electric_vehicle": [
     {
-      "title": "China EV insurance registrations for week ending Aug 3: Nio 3,450, Tesla 11,020, Xiaomi 7,580 - CnEVPost",
-      "pubDate": "Tue, 05 Aug 2025 05:35:00 GMT"
-    },
-    {
       "title": "Rivian, Lucid warn of bumpy road ahead as policy changes hurt - Reuters",
       "pubDate": "Wed, 06 Aug 2025 00:13:00 GMT"
     },
@@ -2747,6 +2751,10 @@
     {
       "title": "Used Electric Vehicle Sales Surge as Demand Accelerates by 40 Percent - Sustainable Times",
       "pubDate": "Sat, 09 Aug 2025 23:24:38 GMT"
+    },
+    {
+      "title": "Ford says it will roll out a cheaper electric pickup truck - NPR",
+      "pubDate": "Mon, 11 Aug 2025 20:50:48 GMT"
     }
   ],
   "india": [
@@ -3103,10 +3111,6 @@
   ],
   "vladimir_putin": [
     {
-      "title": "Vladimir Putin's 'daughter' resurfaces with cryptic post: \u2018The man who destroyed my life' | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Tue, 05 Aug 2025 05:29:10 GMT"
-    },
-    {
       "title": "Trump could meet in person with Putin as soon as next week, White House official says - AP News",
       "pubDate": "Wed, 06 Aug 2025 20:54:00 GMT"
     }
@@ -3229,6 +3233,10 @@
     {
       "title": "Scientists Just Found a Mysterious Substance on Mars That Could Be Unlike Anything on Earth - The Daily Galaxy",
       "pubDate": "Sat, 09 Aug 2025 15:44:09 GMT"
+    },
+    {
+      "title": "Why Niger is investigating the $5 million sale of the largest Mars rock found on Earth - NBC News",
+      "pubDate": "Mon, 11 Aug 2025 21:19:01 GMT"
     }
   ],
   "fixed-income_investing": [
@@ -3393,6 +3401,12 @@
     {
       "title": "AOL ends dial-up internet service after more than 30 years - BBC",
       "pubDate": "Mon, 11 Aug 2025 20:26:24 GMT"
+    }
+  ],
+  "quantum": [
+    {
+      "title": "Room-Temperature Quantum Breakthrough Stuns Physicists - SciTechDaily",
+      "pubDate": "Tue, 12 Aug 2025 05:01:15 GMT"
     }
   ]
 }
