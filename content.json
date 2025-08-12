@@ -1,52 +1,72 @@
 {
-  "Donald Trump": {
+  "NVIDIA": {
     "articles": [
       {
-        "title": "Trump taps conservative economist to lead statistics agency - NPR",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81NmxScG1GNUF6QmtJODFybUlUWWJuS1J1ZGR4LW93TlRNZnl5SDVUVURnTjFiZUIwWHlqT0hpSlh1WWNsZmt0YWJldTFBcTl0RmJMWDNZNThlR1RreEdQTTNCbndPOXltOUlZM19DMDlWdw?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 23:50:34 GMT"
+        "title": "Trump draws backlash over deal to sell Nvidia export control license - Politico",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkFyVXI0MlY3WG5FWWFVcXpIR3VtLU9JWlo5cGpIUTNMVWlfbzJWYU5PLUxZc2tuVEdPQklnSmZodjJ5ZWNTcmlaTk1zbml4RERUVGIxVlRqOE4xYkdnQ2hFNkpuaF9kdjhUSzFqVTZ1dmVfV01wVklEZHc0dXBzc0xCbmV0dDl4aUg3RTZ0NXpTOU4tcXdTSGRvUmdRdTVFV0h6M0VFd1ZLZw?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 19:19:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-12T00:59:36.830383+00:00"
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
   },
-  "Global Health": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Global Virus Network Strengthens Commitment to mRNA Vaccines and Collaborative Vaccine Research - BIOENGINEER.ORG",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUhHX1RpTHIxUXR6X1hsMmZrekNBQ1BJSTYzbmFpbGFTekY3MGpnNU1oRXUxTHJZQWpIR09PajhwTnV6R2Q5ZVZ4emcxUzNnSFphbGZ6MlRSb3hBaWMyMDVybTdwdmVJRS1hY0d2VmlQLWhZNXlTTEJyRzROd0x5OWNKd29nUHdBRXMyLWZOZVRDbGFzOHdlbkxVY3JXS1kxdFNCYmVfcjZZcDNhWFdVS1FMbzVKdkJtV20xWg?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 20:09:09 GMT"
+        "title": "LIVE: Israel pounds Gaza; 5-year-old Palestinian child dies from hunger - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXBPbW1oU3h6UDV4cHF3S1ppN1pmRDlFcVRxNVZfdFctTXFSRmROZ05PVUhCZUxaYXN6dllsOExDQl9XeXF4ZWR5UWxzVFdTOVZKd2N3U29aV2xDWDA4SE96ajRrdWdLa3pySm9PcWpUT3pGZEcyekxpTUdweTdRbnJNNFlMRzZWdFVfWF9FbkJvcFAydVBIVnJBaHZRVjYya0p3QnU5UUQ3MGpwcDlBU3dYZmlLRGE1SVRB0gHAAUFVX3lxTE9LaWtMLWxQelpBaENDTGJfaXdRb1hxbDUzNGc4YjIzOF8yTGZ6Rjgwak5MMzhmcmZLLWZxNERKNDFoS0steGZIUzJZX0dNVHVrWHdLcGJ4Smtob2hUeG5nSmVXTk03bE1Yb2pBNHZsY0h3Q2otUEtjVGVHZ2F3VUR4ZzJ0RlJXM0hPSTByRTluUm5NTTRyOEdUS1laZWtrYmlNWl95X3pkdndCa0lJeFF5MTk4WlljLVJQZnBBUnFGdQ?oc=5",
+        "pubDate": "Tue, 12 Aug 2025 00:24:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-12T00:59:36.830383+00:00"
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "Chinese warship crashes into own coast guard vessel while chasing Philippines boat in South China Sea - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFI0NmZ6QU45WkJLSkp1cFc0UUtscE8zLWZVeUFIRU5qUkN1ckpTemxVdlhfeGFuMjVCazh6NV93MHI4cW82dlloYUZidjlFYnRaYXEyQWlHWnJDMUlldHJpcFB4U0RrVDMwaVJFeW04UVNQd19mOHpwdUtWZEJJQzB4bWNXVldtYTM0SWxaQTNITkNWZ1U1UjNVSHJ4SW90a0JR?oc=5",
+        "pubDate": "Tue, 12 Aug 2025 00:57:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
   },
   "Recession": {
     "articles": [
       {
-        "title": "Why the Stock Market May Ignore Recession Risks Until It Sees \u2018the Whites of Its Eyes\u2019 - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zT3hJV0JKN0JkS2NwMGxMOWFBdzlLZmNfZVE1aHdxTmNCNmJnUld4WUpqS3A1ajNidlM2aW50c0w3a2ZjdUtuTDJQQk9tOVQ5eVAzQXdDNG1QRXp6UjF2ZzBBcEZJaWV4aGtKWmQzMFkzSngweXNOUVl0Tnk?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 16:27:00 GMT"
+        "title": "Recession is Still Coming, Warns Reagan Economic Adviser - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsT1FnM0E1V240ZWxKdTR4bXZoWS1tR0hqWXpiTVRSRGNkWGIzNlhESGdYZ1AtaVpsQmppX2U5RU1WQ0NRQlhvOThZTm9mTEJEOEM2WWZ6cWo4Vm55eTBCUEJZaW1OaDJtazZGVW9ORUVEZXpxUW1NcUhvZnM?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 17:16:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-12T00:59:36.830383+00:00"
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
   },
-  "Asia": {
+  "Apple": {
     "articles": [
       {
-        "title": "China presses ahead with Southeast Asia port expansion as US tensions simmer - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHVoTmwxRVRUcFBvdmh6cWxxLWRMYmxKb25jRTJSS3VwZUZxMGYyOUJxcUNsRldyaXluX3V5VDZ1cjFDNy1UR1lXNVhuLVFOVmpDek0yQ1hCejFGZnBTZnFKbVI3dmFvLVZ3amR4QWh4UU8tbS0zVEtHakxwQWxrdXpDaW9qNEMxN1lCblNqSjU4Q1NNWGNCZmpuQzVmOUpsNnVyOXEzaXFwV1BEOV9oSVA3RWJTWDJXdzViLUFUNjNPMGhVTmc?oc=5",
-        "pubDate": "Tue, 12 Aug 2025 00:00:14 GMT"
+        "title": "Musk accuses Apple of antitrust violation, says xAI will take legal action - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEkzZmZCNmxybFJ1QTA3aU1DemZqZFl3cG1lRS1jemtWUkp1ejYwNm5oams2bU92cDRZTTlFYmxrX0VsWkhpWThyZG1hcE1VRW9oRjVScHZKb1JXRktLYnBObWo2WjY1dEcxYTNpR04zRmFZcnMzX0Y5NFpDUG9ucGljZC1OdU5iTDdMQWhmSmNzeFFydXA3T2ZKRnlKd1E4LUlSM2ZKUXNCU2NrX0J5SjFHaEhnZFprX0VBRlFicWNyTEd6d1E3Zm1mSE9jbWJWaHllcG4xLVBlUmE3MjBZ?oc=5",
+        "pubDate": "Tue, 12 Aug 2025 01:20:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-12T00:59:36.830383+00:00"
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
   },
-  "FBI": {
+  "Hydrogen Fuel": {
     "articles": [
       {
-        "title": "Oops! FBI Chief Undermines Trump\u2019s Main Reason for Taking Over D.C. - yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzNpekhKX3Z1U1M3ZGJiVjVpRGpTUXdEX1AzcVR3bjVTN1JqQWpSNnFmdkI2cVJlZUNFYlpVTXhKSmJlcERYcGhzNThYaElNM1VvajVRbUVLVDVBTTlBbmVDRTN6SkZUS1U5dlFFZG5aNmF5WElEMkFMVHVsdXgxWnVIZXRoTHdKU2c?oc=5",
-        "pubDate": "Mon, 11 Aug 2025 15:57:13 GMT"
+        "title": "Engineering Breakthrough Opens Door to Cheap Hydrogen Power - Gizmodo",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUZNVU5PbTdPZ1Y2cEZVcnRWdVhaM3NYbDR5VXExN0xQWUNFRU04dWdpYXhIY0ZBWFZHclFoY0I5VTNPVVd4RlVoX0s3TDhPdWZJNzlFeUZ2T3RLSnZleVBHSVVTRE51UjlwU0VzUEg4VGdhNnBaMDlzWTVTbUhmSzVPRWFwWnFLN0xUcWp0LWRxb25N?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 19:45:37 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-12T00:59:36.830383+00:00"
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
+  },
+  "Biology": {
+    "articles": [
+      {
+        "title": "Researchers discover previously unknown \u201cfolding factories\u201d for proteins - EurekAlert!",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdjRMVHloUG5lRmR3WjNySXp4b0ZOU0J6SWRSVW9SZUVHcTdTX1ZNWm1URjhoSTJVYXVnUFU4bUdYU05rU0RkSndjZVlWaDVwb0JSd1Z5VnVscFFh?oc=5",
+        "pubDate": "Mon, 11 Aug 2025 16:10:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-12T01:59:35.844415+00:00"
   }
 }
