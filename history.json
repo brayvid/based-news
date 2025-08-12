@@ -265,10 +265,6 @@
   ],
   "ai_safety": [
     {
-      "title": "The Clock Is Ticking On AI Security In A Quantum World - Forbes",
-      "pubDate": "Tue, 05 Aug 2025 20:48:56 GMT"
-    },
-    {
       "title": "Polluted data poses risk to AI safety, ministry says - China Daily",
       "pubDate": "Wed, 06 Aug 2025 01:07:00 GMT"
     },
@@ -377,6 +373,10 @@
     {
       "title": "Dow falls 200 points to start the week as traders look ahead to CPI data: Live updates - CNBC",
       "pubDate": "Mon, 11 Aug 2025 18:47:00 GMT"
+    },
+    {
+      "title": "US stocks rally to records on hopes for cuts to interest rates - AP News",
+      "pubDate": "Tue, 12 Aug 2025 20:16:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -475,6 +475,10 @@
     {
       "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots - The Washington Post",
       "pubDate": "Tue, 12 Aug 2025 18:18:02 GMT"
+    },
+    {
+      "title": "Companies embrace in-person interviews to dodge the chatbots - Axios",
+      "pubDate": "Tue, 12 Aug 2025 20:23:58 GMT"
     }
   ],
   "climate": [
@@ -504,10 +508,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine\u2019s anti-corruption reforms are more vital than ever during wartime - Atlantic Council",
-      "pubDate": "Tue, 05 Aug 2025 20:13:00 GMT"
-    },
     {
       "title": "Russia ramps up grinding summer offensive as Ukraine seeks US battlefield aid - ABC News",
       "pubDate": "Tue, 05 Aug 2025 21:45:58 GMT"
@@ -1185,10 +1185,6 @@
   ],
   "cancer": [
     {
-      "title": "Colorado Coach Deion Sanders Says He Beat Bladder Cancer: What to Know - Healthline",
-      "pubDate": "Tue, 05 Aug 2025 20:08:42 GMT"
-    },
-    {
       "title": "Cancer care is in crisis \u2014 but I\u2019ve seen what hope can do - statnews.com",
       "pubDate": "Wed, 06 Aug 2025 08:34:12 GMT"
     },
@@ -1859,6 +1855,10 @@
     {
       "title": "Pentagon plan would create military \u2018reaction force\u2019 for civil unrest - The Washington Post",
       "pubDate": "Tue, 12 Aug 2025 11:32:17 GMT"
+    },
+    {
+      "title": "Secret document leaker moved to high security prison - WJAR",
+      "pubDate": "Tue, 12 Aug 2025 19:10:43 GMT"
     }
   ],
   "ethereum": [
@@ -1890,10 +1890,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Global Energy Demand Outpaces Renewable Expansion - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Tue, 05 Aug 2025 21:00:00 GMT"
-    },
     {
       "title": "Could California prevent more blackouts by joining a Western power market? - CalMatters",
       "pubDate": "Wed, 06 Aug 2025 12:30:00 GMT"
@@ -2247,10 +2243,6 @@
   ],
   "climate_change": [
     {
-      "title": "New report: Climate change is causing a home insurance crisis. Big Oil should pay. - Center for Climate Integrity",
-      "pubDate": "Tue, 05 Aug 2025 20:09:14 GMT"
-    },
-    {
       "title": "Australia\u2019s Great Barrier Reef hit by record bleaching as oceans warm - Al Jazeera",
       "pubDate": "Wed, 06 Aug 2025 04:21:51 GMT"
     },
@@ -2453,6 +2445,10 @@
     {
       "title": "Only 38% of Employees Believe Companies are Doing Enough on Climate Change, Sustainability: Deloitte Survey - ESG Today",
       "pubDate": "Tue, 12 Aug 2025 12:24:33 GMT"
+    },
+    {
+      "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
+      "pubDate": "Tue, 12 Aug 2025 20:08:47 GMT"
     }
   ],
   "volcanoes": [
@@ -2644,10 +2640,6 @@
     }
   ],
   "terrorism": [
-    {
-      "title": "Trump administration cuts New York City\u2019s anti-terrorism funding days after skyscraper attack - The Guardian",
-      "pubDate": "Tue, 05 Aug 2025 20:42:00 GMT"
-    },
     {
       "title": "Iran Executes Two Men on Espionage, Terrorism Charges - IranWire",
       "pubDate": "Wed, 06 Aug 2025 10:26:16 GMT"
@@ -3117,10 +3109,6 @@
     {
       "title": "Rivian Sees Wider Loss After Trump Tax Bill Hits Mileage Credits - Bloomberg.com",
       "pubDate": "Tue, 05 Aug 2025 22:58:50 GMT"
-    },
-    {
-      "title": "Rivian loss bigger than expected on higher costs, lower credit income - CNBC",
-      "pubDate": "Tue, 05 Aug 2025 20:25:09 GMT"
     }
   ],
   "vladimir_putin": [
@@ -3451,6 +3439,12 @@
     {
       "title": "US to retaliate against IMO members that back net zero emissions plan - Reuters",
       "pubDate": "Tue, 12 Aug 2025 17:56:05 GMT"
+    }
+  ],
+  "biochemistry": [
+    {
+      "title": "Powerful optical technique can analyze the biochemical fingerprints of vaginal fluid - News-Medical",
+      "pubDate": "Tue, 12 Aug 2025 19:07:00 GMT"
     }
   ]
 }
