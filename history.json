@@ -265,14 +265,6 @@
       "pubDate": "Tue, 05 Aug 2025 20:48:56 GMT"
     },
     {
-      "title": "AI Safety Urgent: Risks, Black Boxes, and Mitigation Strategies - WebProNews",
-      "pubDate": "Tue, 05 Aug 2025 18:51:56 GMT"
-    },
-    {
-      "title": "Anthropic Releases Claude Opus 4.1: Tops Coding Benchmarks with AI Safety Focus - WebProNews",
-      "pubDate": "Tue, 05 Aug 2025 18:51:56 GMT"
-    },
-    {
       "title": "Polluted data poses risk to AI safety, ministry says - China Daily",
       "pubDate": "Wed, 06 Aug 2025 01:07:00 GMT"
     },
@@ -385,10 +377,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI releases two open-weight AI reasoning models optimized for personal computers - The Tech Portal",
-      "pubDate": "Tue, 05 Aug 2025 18:32:09 GMT"
-    },
-    {
       "title": "The AI Showdown: How the US and China Stack Up - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 04:00:00 GMT"
     },
@@ -479,6 +467,10 @@
     {
       "title": "A.I. Start-Up Perplexity Offers to Buy Google\u2019s Chrome Browser for $34.5 Billion - The New York Times",
       "pubDate": "Tue, 12 Aug 2025 17:11:14 GMT"
+    },
+    {
+      "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots - The Washington Post",
+      "pubDate": "Tue, 12 Aug 2025 18:18:02 GMT"
     }
   ],
   "climate": [
@@ -595,6 +587,10 @@
     {
       "title": "Ukraine successfully tests Starlink's direct-to-cell technology - Reuters",
       "pubDate": "Tue, 12 Aug 2025 13:10:34 GMT"
+    },
+    {
+      "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
+      "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
     }
   ],
   "us_economy": [
@@ -616,10 +612,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Six months after DeepSeek\u2019s breakthrough, China speeds on with AI - The Economist",
-      "pubDate": "Tue, 05 Aug 2025 18:19:36 GMT"
-    },
     {
       "title": "Zero Day Attack: Taiwanese TV show imagines Chinese invasion and stokes debate - BBC",
       "pubDate": "Tue, 05 Aug 2025 22:42:28 GMT"
@@ -1101,13 +1093,13 @@
     {
       "title": "Trump threatens Fed chair Powell with 'major lawsuit' over HQ renovation cost - CNBC",
       "pubDate": "Tue, 12 Aug 2025 13:58:12 GMT"
+    },
+    {
+      "title": "Trump officials cast a wider net for Powell replacement at Fed - Politico",
+      "pubDate": "Tue, 12 Aug 2025 14:31:03 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "Scientists believe Kansas earthquakes are winding down - KSN-TV",
-      "pubDate": "Tue, 05 Aug 2025 18:34:21 GMT"
-    },
     {
       "title": "Global quakes and eruptions revive West Coast seismic concerns - Axios",
       "pubDate": "Wed, 06 Aug 2025 13:35:59 GMT"
@@ -1266,10 +1258,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "Is NASA Wallops Going GOCO? - NASA Watch",
-      "pubDate": "Tue, 05 Aug 2025 18:24:38 GMT"
-    },
     {
       "title": "China wants to return samples from Mars. Will there be any international cooperation? - Space",
       "pubDate": "Wed, 06 Aug 2025 14:00:00 GMT"
@@ -1576,10 +1564,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia says its AI chips don't have a 'kill switch' after Chinese accusation - CNBC",
-      "pubDate": "Tue, 05 Aug 2025 18:05:39 GMT"
-    },
     {
       "title": "Nvidia continues expansion in South Bay after new deal - The Mercury News",
       "pubDate": "Wed, 06 Aug 2025 16:11:46 GMT"
@@ -1889,10 +1873,6 @@
   ],
   "nasa": [
     {
-      "title": "NASA declares troubled Lunar Trailblazer moon orbiter dead - Space",
-      "pubDate": "Tue, 05 Aug 2025 19:00:00 GMT"
-    },
-    {
       "title": "Trump orders NASA to kill 2 satellites that can function for many more years - the reason will shock all - The Economic Times",
       "pubDate": "Thu, 07 Aug 2025 06:32:50 GMT"
     }
@@ -2143,6 +2123,10 @@
     {
       "title": "Scientists make key breakthrough that could solve major issue with EV batteries: 'The idea is to keep it simple' - The Cool Down",
       "pubDate": "Mon, 11 Aug 2025 13:15:00 GMT"
+    },
+    {
+      "title": "Major EV Battery Deal: CATL Partners With Kandi Tech to Deploy 10,000 Battery Swap Stations Across China - Stock Titan",
+      "pubDate": "Tue, 12 Aug 2025 12:38:00 GMT"
     }
   ],
   "algorithms": [
@@ -2545,6 +2529,10 @@
     {
       "title": "Exclusive: Fintech giant Stripe building \u2018Tempo\u2019 blockchain with crypto VC Paradigm - Fortune",
       "pubDate": "Mon, 11 Aug 2025 20:43:00 GMT"
+    },
+    {
+      "title": "Circle to launch Layer 1 blockchain Arc using USDC stablecoin as native gas token - The Block",
+      "pubDate": "Tue, 12 Aug 2025 11:07:53 GMT"
     }
   ],
   "business": [
@@ -3441,6 +3429,12 @@
     {
       "title": "China unveils space-debris catcher with possible military use - Interesting Engineering",
       "pubDate": "Tue, 12 Aug 2025 11:17:00 GMT"
+    }
+  ],
+  "net_zero_emissions": [
+    {
+      "title": "US to retaliate against IMO members that back net zero emissions plan - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 17:56:05 GMT"
     }
   ]
 }
