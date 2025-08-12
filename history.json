@@ -231,10 +231,6 @@
       "pubDate": "Tue, 05 Aug 2025 17:48:39 GMT"
     },
     {
-      "title": "Ex-Russian president warns enemies of 'new reality' as Kremlin ditches nuclear treaty - NBC News",
-      "pubDate": "Tue, 05 Aug 2025 11:48:24 GMT"
-    },
-    {
       "title": "Trump imposes first penalties on Russia as Witkoff meets Putin - Axios",
       "pubDate": "Wed, 06 Aug 2025 15:34:29 GMT"
     },
@@ -467,13 +463,13 @@
     {
       "title": "America\u2019s New AI Plan Is Great. There\u2019s Just One Problem. - Bloomberg.com",
       "pubDate": "Tue, 12 Aug 2025 10:00:30 GMT"
+    },
+    {
+      "title": "Meta AI takes first step to superintelligence \u2014 and Zuckerberg will no longer release the most powerful systems to the public - Live Science",
+      "pubDate": "Tue, 12 Aug 2025 11:00:00 GMT"
     }
   ],
   "climate": [
-    {
-      "title": "First-of-a-kind US class-action lawsuit would force EPA to reinstate $3bn climate program - The Guardian",
-      "pubDate": "Tue, 05 Aug 2025 11:30:00 GMT"
-    },
     {
       "title": "Why insurers worry the world could soon become uninsurable - CNBC",
       "pubDate": "Fri, 08 Aug 2025 05:22:47 GMT"
@@ -747,6 +743,10 @@
     {
       "title": "Trump extends China trade truce, setting stage for more ambitious talks - Politico",
       "pubDate": "Tue, 12 Aug 2025 01:03:34 GMT"
+    },
+    {
+      "title": "Chinese \u2018overkill\u2019 in dispute with Philippines damaged two Chinese ships. Why it could have been much worse - CNN",
+      "pubDate": "Tue, 12 Aug 2025 02:56:00 GMT"
     }
   ],
   "us_politics": [
@@ -1315,6 +1315,10 @@
     {
       "title": "US veterans agency lost thousands of \u2018core\u2019 medical staff under Trump, records show - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 16:58:00 GMT"
+    },
+    {
+      "title": "Republicans are quietly rolling back Obamacare. Here\u2019s how - CNN",
+      "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
     }
   ],
   "world_economy": [
@@ -1867,6 +1871,10 @@
     {
       "title": "China research ships are ramping up activity in U.S. Arctic, Coast Guard says - CBS News",
       "pubDate": "Mon, 11 Aug 2025 13:06:12 GMT"
+    },
+    {
+      "title": "Pentagon plan would create military \u2018reaction force\u2019 for civil unrest - The Washington Post",
+      "pubDate": "Tue, 12 Aug 2025 11:32:17 GMT"
     }
   ],
   "ethereum": [
@@ -2113,6 +2121,10 @@
     {
       "title": "For Gaza students, big ambitions replaced by desperate search for food - Reuters",
       "pubDate": "Tue, 12 Aug 2025 07:48:42 GMT"
+    },
+    {
+      "title": "Norway sovereign fund expects to sell more Israeli stocks over Gaza, West Bank - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 10:01:21 GMT"
     }
   ],
   "battery_technology": [
@@ -2262,10 +2274,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "4 billion people experienced a whole extra month of extreme heat in the past year - Yale Climate Connections",
-      "pubDate": "Tue, 05 Aug 2025 11:00:00 GMT"
-    },
     {
       "title": "Extreme heat across the Southwest and Mexico strongly linked to climate change - Climate Central",
       "pubDate": "Tue, 05 Aug 2025 17:10:52 GMT"
@@ -2461,6 +2469,10 @@
     {
       "title": "As Climate Change Makes Hail More Destructive, Illinois Residents Pay the Price - Inside Climate News",
       "pubDate": "Tue, 12 Aug 2025 08:55:00 GMT"
+    },
+    {
+      "title": "Trees may be getting more flammable because of climate change - New Scientist",
+      "pubDate": "Tue, 12 Aug 2025 10:00:48 GMT"
     }
   ],
   "volcanoes": [
@@ -2753,6 +2765,10 @@
     {
       "title": "Nvidia and AMD will give US 15% of China sales. But Chinese state media warns about their chips - CNN",
       "pubDate": "Mon, 11 Aug 2025 09:01:00 GMT"
+    },
+    {
+      "title": "Putin wants a photo op with Trump and a sanctions delay, says EU foreign policy chief - CNBC",
+      "pubDate": "Tue, 12 Aug 2025 10:59:07 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2905,12 +2921,6 @@
     {
       "title": "Why Some 80-Year-Olds Have the Memory of 50-Year-Olds - Neuroscience News",
       "pubDate": "Sat, 09 Aug 2025 13:03:00 GMT"
-    }
-  ],
-  "cloud_computing": [
-    {
-      "title": "Why is Microsoft soaring while Amazon sinks? AI growing pains - Tech Xplore",
-      "pubDate": "Tue, 05 Aug 2025 11:11:29 GMT"
     }
   ],
   "atmospheric_science": [
