@@ -105,10 +105,6 @@
   ],
   "donald_trump": [
     {
-      "title": "US Attorney General orders grand jury hearings on Trump-Russia probe - BBC",
-      "pubDate": "Tue, 05 Aug 2025 06:54:29 GMT"
-    },
-    {
       "title": "Trump says JPMorgan Chase, Bank of America rejected him as a customer - CNBC",
       "pubDate": "Tue, 05 Aug 2025 12:37:08 GMT"
     },
@@ -975,6 +971,10 @@
     {
       "title": "Teenage Hacker Stole $243M In Bitcoin. How It Happened. - Cybercrime Magazine",
       "pubDate": "Mon, 11 Aug 2025 13:12:14 GMT"
+    },
+    {
+      "title": "DOJ announces disruption of BlackSuit ransomware group - American Hospital Association",
+      "pubDate": "Mon, 11 Aug 2025 19:49:02 GMT"
     }
   ],
   "recession": [
@@ -1407,10 +1407,6 @@
   ],
   "data_breach": [
     {
-      "title": "TSMC investigates major data breach involving 2-nanometer technology - Techzine Global",
-      "pubDate": "Tue, 05 Aug 2025 06:59:00 GMT"
-    },
-    {
       "title": "WestJet cybersecurity breach to be investigated by privacy commissioner - CBC",
       "pubDate": "Tue, 05 Aug 2025 21:23:30 GMT"
     },
@@ -1687,6 +1683,10 @@
     {
       "title": "Ford hits the pedal on EV production with $2 billion overhaul of Kentucky plant - ABC News",
       "pubDate": "Mon, 11 Aug 2025 18:23:17 GMT"
+    },
+    {
+      "title": "Ford's $30K Electric Pickup: Revolutionary Manufacturing for Affordable EVs - Design News",
+      "pubDate": "Mon, 11 Aug 2025 21:28:35 GMT"
     }
   ],
   "hacking": [
@@ -1801,6 +1801,10 @@
     {
       "title": "Ocasio-Cortez Campaign Denies Ties to Alleged Ex-Staffer Who Urged Attack on Jewish Students at New York School - Algemeiner.com",
       "pubDate": "Mon, 11 Aug 2025 20:07:00 GMT"
+    },
+    {
+      "title": "Trump doubles down on blistering nickname for AOC, entire 'Squad' with cognitive test demand - MSN",
+      "pubDate": "Tue, 12 Aug 2025 04:14:40 GMT"
     }
   ],
   "national_security": [
@@ -1882,14 +1886,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "ACER proposes cost-sharing for hydrogen networks to avoid high initial tariffs - Strategic Energy Europe",
-      "pubDate": "Tue, 05 Aug 2025 06:36:59 GMT"
-    },
-    {
-      "title": "US Residential Solar Faces 46% Drop By 2030 Under OBBBA, But Long-Term Market Poised For 1,500 GW Growth - Wood Mackenzie - SolarQuarter",
-      "pubDate": "Tue, 05 Aug 2025 06:26:10 GMT"
-    },
     {
       "title": "States scramble to complete renewable energy projects before tax credits expire - Tucson Sentinel",
       "pubDate": "Tue, 05 Aug 2025 15:24:05 GMT"
@@ -2169,6 +2165,10 @@
     {
       "title": "Nation\u2019s biggest landlord agrees to stop using anticompetitive algorithm to set rents - Minnesota Reformer",
       "pubDate": "Mon, 11 Aug 2025 17:41:13 GMT"
+    },
+    {
+      "title": "New Research Reveals Brain Cells Learn Faster Than Machine Learning Algorithms - BIOENGINEER.ORG",
+      "pubDate": "Tue, 12 Aug 2025 02:55:46 GMT"
     }
   ],
   "astronomy": [
@@ -2246,10 +2246,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump\u2019s EPA Wants to Undo Major Climate Decision - NewsForKids.net",
-      "pubDate": "Tue, 05 Aug 2025 06:32:44 GMT"
-    },
     {
       "title": "4 billion people experienced a whole extra month of extreme heat in the past year - Yale Climate Connections",
       "pubDate": "Tue, 05 Aug 2025 11:00:00 GMT"
@@ -2437,6 +2433,10 @@
     {
       "title": "Southeast Asia\u2019s cities at \u2018high risk\u2019 of flooding and heatwaves, thanks to climate change - Fortune",
       "pubDate": "Tue, 12 Aug 2025 00:30:00 GMT"
+    },
+    {
+      "title": "Coal Company Sues UK After Environmentalists Win Major Climate Case in British Court - Inside Climate News",
+      "pubDate": "Mon, 11 Aug 2025 20:38:56 GMT"
     }
   ],
   "volcanoes": [
@@ -3091,12 +3091,6 @@
     {
       "title": "Hurricane Erin may form in Atlantic Ocean by end of week: NWS - PIX11",
       "pubDate": "Mon, 11 Aug 2025 12:06:36 GMT"
-    }
-  ],
-  "cosmology": [
-    {
-      "title": "Scientists Reveal Universe\u2019s Lifespan Is Shorter Than Thought - The Romania Journal",
-      "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     }
   ],
   "rivian": [
