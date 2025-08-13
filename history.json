@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump threatens federal takeover of DC after attack on former DOGE worker - PBS",
-      "pubDate": "Wed, 06 Aug 2025 14:03:42 GMT"
-    },
-    {
       "title": "Trump plans 100% tariff on semiconductors, with big exemption - Axios",
       "pubDate": "Wed, 06 Aug 2025 21:52:45 GMT"
     },
@@ -256,10 +252,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Chatbots Often Spread Medical Falsehoods, Study Finds - scienceblog.com",
-      "pubDate": "Wed, 06 Aug 2025 14:03:58 GMT"
-    },
     {
       "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
       "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
@@ -509,6 +501,10 @@
     {
       "title": "UN plastics treaty is being hampered by climate obstruction tactics - Financial Times",
       "pubDate": "Wed, 13 Aug 2025 04:00:20 GMT"
+    },
+    {
+      "title": "The perfectly fine, already-paid-for satellites Trump wants to destroy in a fiery atmospheric reentry - CNN",
+      "pubDate": "Wed, 13 Aug 2025 11:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1061,6 +1057,10 @@
     {
       "title": "Cops, cartels and the new drone wars on the border - Axios",
       "pubDate": "Wed, 13 Aug 2025 08:51:18 GMT"
+    },
+    {
+      "title": "Drones laden with explosives kills three Colombian soldiers - BBC",
+      "pubDate": "Wed, 13 Aug 2025 13:00:48 GMT"
     }
   ],
   "federal_reserve": [
@@ -1123,6 +1123,10 @@
     {
       "title": "Trump considering 11 candidates for Fed chair, including David Zervos and Rick Rieder, sources say - CNBC",
       "pubDate": "Wed, 13 Aug 2025 12:06:19 GMT"
+    },
+    {
+      "title": "US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting \u2013 as it happened - The Guardian",
+      "pubDate": "Wed, 13 Aug 2025 14:04:44 GMT"
     }
   ],
   "earthquakes": [
@@ -1207,6 +1211,10 @@
     {
       "title": "Musk-Altman rivalry devolves into lawsuit threats, insults in social media brawl - Axios",
       "pubDate": "Wed, 13 Aug 2025 07:54:30 GMT"
+    },
+    {
+      "title": "Elon Musk loses court bid to dismiss OpenAI\u2019s harassment claim - The Mercury News",
+      "pubDate": "Wed, 13 Aug 2025 14:23:42 GMT"
     }
   ],
   "cancer": [
@@ -1281,13 +1289,13 @@
     {
       "title": "Using AI Made Doctors Worse at Spotting Cancer Without Assistance - Time Magazine",
       "pubDate": "Wed, 13 Aug 2025 09:48:21 GMT"
+    },
+    {
+      "title": "Cowboys owner Jerry Jones reveals he overcame stage 4 cancer - Dallas News",
+      "pubDate": "Wed, 13 Aug 2025 11:00:39 GMT"
     }
   ],
   "space_exploration": [
-    {
-      "title": "China wants to return samples from Mars. Will there be any international cooperation? - Space",
-      "pubDate": "Wed, 06 Aug 2025 14:00:00 GMT"
-    },
     {
       "title": "SpaceX To Launch Italian Payloads On First Starship Flights Bound For Mars - Mashable India",
       "pubDate": "Fri, 08 Aug 2025 06:07:22 GMT"
@@ -1346,10 +1354,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
-      "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
-    },
     {
       "title": "Federal Rooftop Solar Grants Are on the Chopping Block. Here\u2019s Who Would Get Hurt - Inside Climate News",
       "pubDate": "Wed, 06 Aug 2025 19:44:51 GMT"
@@ -2099,6 +2103,10 @@
     {
       "title": "At least 25 killed by Israeli gunfire as Netanyahu says he will \u2018allow\u2019 Palestinians to leave - AP News",
       "pubDate": "Wed, 13 Aug 2025 12:33:00 GMT"
+    },
+    {
+      "title": "Netanyahu \u2018in talks\u2019 to relocate Palestinians from Gaza to South Sudan - The Independent",
+      "pubDate": "Wed, 13 Aug 2025 13:41:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2140,10 +2148,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "New Method Is the Fastest Way To Find the Best Routes - Quanta Magazine",
-      "pubDate": "Wed, 06 Aug 2025 14:24:58 GMT"
-    },
     {
       "title": "New York Enacts Legislation Regulating Algorithmic Pricing and AI Companions - The National Law Review",
       "pubDate": "Thu, 07 Aug 2025 17:01:54 GMT"
@@ -2582,10 +2586,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Trump, Apple to Announce Fresh $100 Billion US Investment - Bloomberg",
-      "pubDate": "Wed, 06 Aug 2025 14:09:16 GMT"
-    },
     {
       "title": "Trump moves to protect American bank accounts from politically based closures - Fox Business",
       "pubDate": "Thu, 07 Aug 2025 11:22:00 GMT"
@@ -3162,10 +3162,6 @@
     }
   ],
   "analytics": [
-    {
-      "title": "Blackstone Acquires Energy Data Analytics Platform Enverus - ESG Today",
-      "pubDate": "Wed, 06 Aug 2025 14:09:21 GMT"
-    },
     {
       "title": "US Federal Trade Commission Gets $14.6 mn to Boost Data Analytics with AI - CDO Magazine",
       "pubDate": "Sun, 10 Aug 2025 11:00:00 GMT"
