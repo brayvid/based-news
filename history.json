@@ -223,10 +223,6 @@
   ],
   "russia": [
     {
-      "title": "Trump imposes first penalties on Russia as Witkoff meets Putin - Axios",
-      "pubDate": "Wed, 06 Aug 2025 15:34:29 GMT"
-    },
-    {
       "title": "Russia\u2019s oil exports shift toward Asia amid ongoing sanctions, EIA says - World Oil",
       "pubDate": "Thu, 07 Aug 2025 15:52:10 GMT"
     },
@@ -252,10 +248,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
-      "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
-    },
     {
       "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
       "pubDate": "Thu, 07 Aug 2025 09:00:00 GMT"
@@ -587,6 +579,10 @@
     {
       "title": "Russia makes biggest Ukraine advance in over a year: Analysis - Al Arabiya English",
       "pubDate": "Wed, 13 Aug 2025 10:45:00 GMT"
+    },
+    {
+      "title": "Trump-Putin summit latest: US president wants Ukraine ceasefire at Putin meeting after crunch talks with Zelensky - The Independent",
+      "pubDate": "Wed, 13 Aug 2025 15:26:40 GMT"
     }
   ],
   "us_economy": [
@@ -1193,6 +1189,10 @@
     {
       "title": "Moderate 4.9 magnitude quake jolts New Zealand's lower North Island - ABC News",
       "pubDate": "Wed, 13 Aug 2025 07:49:17 GMT"
+    },
+    {
+      "title": "Years after an earthquake, rivers still carry the mountains downstream - UC Santa Barbara",
+      "pubDate": "Wed, 13 Aug 2025 15:00:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1415,10 +1415,6 @@
   ],
   "tesla": [
     {
-      "title": "Tesla Issues Voluntary Recall Due to Brake Fluid in Select Model 3 and Model Y Vehicles - Not a Tesla App",
-      "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
-    },
-    {
       "title": "Tesla shuts down Dojo supercomputer team, reassigns workers amid strategic AI shift, Bloomberg News reports - Reuters",
       "pubDate": "Thu, 07 Aug 2025 23:31:35 GMT"
     },
@@ -1585,6 +1581,10 @@
     {
       "title": "Record $37T US debt and M2 money growth set stage for $132K Bitcoin - Cointelegraph",
       "pubDate": "Wed, 13 Aug 2025 10:50:38 GMT"
+    },
+    {
+      "title": "House Dem Kept His Bitcoin-Linked Stock Position Secret While Helping to Pass Key Crypto Bills - readsludge.com",
+      "pubDate": "Wed, 13 Aug 2025 15:04:57 GMT"
     }
   ],
   "fusion_power": [
@@ -1633,6 +1633,10 @@
     {
       "title": "Trump draws backlash over deal to sell Nvidia export control license - Politico",
       "pubDate": "Mon, 11 Aug 2025 19:19:56 GMT"
+    },
+    {
+      "title": "Nvidia-backed CoreWeave is plummeting after earnings. Here\u2019s what analysts have to say - CNBC",
+      "pubDate": "Wed, 13 Aug 2025 14:18:55 GMT"
     }
   ],
   "openai": [
@@ -1724,10 +1728,6 @@
     }
   ],
   "hacking": [
-    {
-      "title": "US Authorities Extradite Nigerian Man Accused of Hacking and Fraud - Infosecurity Magazine",
-      "pubDate": "Wed, 06 Aug 2025 15:30:00 GMT"
-    },
     {
       "title": "Federal court filing system hit in sweeping hack - Politico",
       "pubDate": "Thu, 07 Aug 2025 01:32:32 GMT"
@@ -2107,6 +2107,10 @@
     {
       "title": "Netanyahu \u2018in talks\u2019 to relocate Palestinians from Gaza to South Sudan - The Independent",
       "pubDate": "Wed, 13 Aug 2025 13:41:00 GMT"
+    },
+    {
+      "title": "Israel is wiping out Gaza\u2019s journalists \u2013 and it\u2019s no longer even hiding it | Jodie Ginsberg - The Guardian",
+      "pubDate": "Wed, 13 Aug 2025 10:02:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2495,6 +2499,10 @@
     {
       "title": "The EPA wants to rollback climate regulations. Here\u2019s how Hoosiers can have a say. - IndyStar",
       "pubDate": "Wed, 13 Aug 2025 13:32:18 GMT"
+    },
+    {
+      "title": "Which choices contribute most to climate change? Most people miss the mark, one study found - ABC News",
+      "pubDate": "Wed, 13 Aug 2025 13:17:13 GMT"
     }
   ],
   "volcanoes": [
@@ -2941,6 +2949,10 @@
     {
       "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
       "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
+    },
+    {
+      "title": "Scientists Unveil Wild New Way to Explore the Edge of Space - Gizmodo",
+      "pubDate": "Wed, 13 Aug 2025 15:01:28 GMT"
     }
   ],
   "democracy": [
@@ -2990,10 +3002,6 @@
     }
   ],
   "quantum_mechanics": [
-    {
-      "title": "Scientists levitate 300 million atoms at room temperature for pure quantum state - Interesting Engineering",
-      "pubDate": "Wed, 06 Aug 2025 15:29:00 GMT"
-    },
     {
       "title": "Scientists show a way to speed or slow reactions using tiny mirror gaps - Interesting Engineering",
       "pubDate": "Sun, 10 Aug 2025 12:43:00 GMT"
