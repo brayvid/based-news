@@ -1,12 +1,72 @@
 {
-  "Renewable Energy": {
+  "Earthquakes": {
     "articles": [
       {
-        "title": "US clean energy capacity growth gets slower but wider in 2025 - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWdnUE5jT3ZZdHItRm5RT25vaVhlcFZGaWJlWWk4S0FmOHh3Mkpjc3dpdW5QUjJwN3o0MlMwb0Q0YkFVaWp2WjlzS1N3Z1Z4OVViX0Z1YXRBQnAxRk9WY2pNX2xfbE5NQk1FY1BueWFGZHpDcnhiczY0dUdWODdNZHVMb0E1X3Q5NXpCZmdyZHZVbWRvcG1jSDVPc0o2N3BwUzRDSkFZLXVPNlJTbGZz?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 11:00:00 GMT"
+        "title": "AI Just Discovered Thousands Of Undetected Earthquakes Under Yellowstone - yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUpzN1hQaGRyMEFFMFFVVHhpWjVNVHlxaWVES1cwb3JNQ29QR05VTDcxeXlqLWhDczdwRUhhczhDYzlCam1nc1UyYzRFRzhHNjdZWGk1al94UWVJZjNmY0dJckR3WVhDUENyV1lrcTBNQVJTQzBZOFluQ2drQXVTYnNIVUJTRnRkZ24wUkJkY3pwQTFE?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 14:17:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-13T22:00:26.706974+00:00"
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "Ethereum": {
+    "articles": [
+      {
+        "title": "Standard Chartered lifts year-end ether forecast to $7,500 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2wxMGNLYWlkYml6cndwMjd3b2hlTnppVEJaMVBGNnU4aGg0blBOZm1JdmdFSUpJaHJkc0pOSEhYUVRKTS0xeE5qVTZxcmp6NGJUNnk4eG1YUWlucWFuaWVudjhTMF9kRzVDOWdlMTdmWkFUdTQyUjdHXzdTNE9wd2JsdHQzSFNGS1luSHFJbERmQzdWSnJhcXpxMWhlWU0?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 11:07:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "US appeals court lifts injunction on Trump effort to slash foreign aid - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUdNMzZHaG41MktmYlFUWFlENWhJNWhfaERLRmpKSVhBSUpLNUpXdE82T0Zpbk5BUzhoQXpHQkd2QmhNVzdGeVVvOTQ2c1BzYnJnTUFrZVB6QWJSM2JjeTRqcTZWMnJnODBZdHA3Ykh3Y01FZnVubXp5MXh2ZzF3VWtlSXJOQmxBOUtyYUdLaGtxZDh3X2NQcG50NFZoSlFrOWM3SWNlcmRNUkJ6MlRDcNIBtgFBVV95cUxOcVNTc0N6WWk5UE40RU5ncy1YaFFGWnZWekQyUF9kaFpqNW5TcGlCazZZRmNHMk52U19WZGtoc1R6MXNiYUg3TE1lQ2RyUks1eDdHLWh5UXVlRlVCOHBCSUNoZjZqcGllU1doMWdQcUVKeVNCY0wxTzBUR0Y2RE1hMk4xa1JRYjlkYVZ3MU5lb25uX09aX2pDaktrbmd6OXBMRGxhM0pERXliRVZScmZnVzl4MWptdw?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 20:34:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "Pollution": {
+    "articles": [
+      {
+        "title": "Talks stall on world\u2019s first plastic pollution treaty one day before deadline - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnl5QUhZeThoUXRQY25Nb2VrcWp3eEJCMjAzVHVSYmlzNy0tTHItamt5Z3RUeTVPa0laa09LektnVHllaG1wb205el9fM3JKVXlGTjhzTGQzQnFTcWwyYWNJdzRCWUdUcWx3eXlCS1l0N0RSMHpURnp2T013cWloczBQd0IyM1B5VUlqT0hsNndzdWxZSlY3MkdOOGhYQ19oRjBvVDQ0djROdnpMNlplcElR?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 22:11:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "GPUs": {
+    "articles": [
+      {
+        "title": "Nvidia\u2019s (NVDA) Rubin GPUs May Face Production Delays due to a Redesign - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFk3NWtRTTdEZ0ZBOTdkYnhlTDlXZER4TFFfbDFUQmphWnRsRWtiakFBemJlSWQ1blExWWg0a0lHQnMtRWZZcEk3WldpdkduMDQzY3YwZDFnR09TaHdyZHdCRGZJOHJBdjg1WTZyQzR3c0ZXSWIzYzcwZjZKSmNZSDF0SVc0TWFWN056SzRQcExveldRVU1hd1lnR3dRLWM?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 20:56:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "IDF chief approves new Gaza attack plan, spokesperson says - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZkRnYkFIa1NKTWYtTWRuSUJ4VXR3VnZlY2NsTGxTeGd2SUw5alFfTEI5aVd1WXhIV2xRMVE3UjZzQmR5ZjdIdEZiQWF6clBac1VIaGk2ZnE2Ql9pbGJsNjlpVm5oNzhvZXp2NVMweXZwbzQ1cXg2d1NTMHBQeWNWanJaTF9VdDFLWjFWc01uWUltcXFPbkxvc3FPd1hPNW1VVG1ULVZXemlxUjU20gGyAUFVX3lxTE5Jajd4YVlrTnpyUVR5ZF9UdVl5eklJc2dQdGltbkx1N18zWmpYSWx6Vk5vMUFPaThtS1ZyVTJJaDZ3b0RuSUhaYnhkb1RHdmdCQ1VTcTRtRDAzcUlIZUtPRlJ4ck5FU29MME5kMXQ5d0ltcWNzcjkxRFF3RnN1emZxYWxOTVNOV0U0MDBmTk1uUDh5UnJYVzVVQW55N3RyYktkUjRFcGU4LWt1R2dmVWNsZUE?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 12:22:32 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China\u2019s military wants to target US undersea sensor network: Analysis - Defense News",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnZoU3NOdEhrR2Zzd3FGY3hVSE9NRzcwTlQ4N3JIdjBjcWZBMEZ6ZEQ0MTNwYzVsREh2Q1BUX292aXNud2xldnZYQWppX1pZUGx6ZEFWdGRxOUFoVVBJVDhiVHRlOHM3QVRpWWtmVHBSa2NndHBRVnV2Ym5rb05QVGhWSzRqVXFaNXFUWGdJUUhMdjV3Z2RtTHJ2NGFvRXJXSEY5V25WMk9DczFvVjFWV0lUTUNYb2RKbXJ0MjJ0NDE1eGF0OHc?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 21:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-13T23:01:37.638933+00:00"
   }
 }
