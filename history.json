@@ -995,10 +995,6 @@
   ],
   "recession": [
     {
-      "title": "Goldman Trader Says Buoyant Stocks Are Ignoring Recession Risks - Bloomberg.com",
-      "pubDate": "Wed, 06 Aug 2025 09:07:42 GMT"
-    },
-    {
       "title": "Recession Watch Metrics - Calculated Risk",
       "pubDate": "Wed, 06 Aug 2025 17:21:00 GMT"
     },
@@ -1029,6 +1025,10 @@
     {
       "title": "Recession is Still Coming, Warns Reagan Economic Adviser - Newsweek",
       "pubDate": "Mon, 11 Aug 2025 17:16:04 GMT"
+    },
+    {
+      "title": "Russia Set to Sidestep Recession for Now, Even as Growth Fades - Bloomberg.com",
+      "pubDate": "Wed, 13 Aug 2025 05:00:00 GMT"
     }
   ],
   "drones": [
@@ -1201,6 +1201,10 @@
     {
       "title": "Elon Musk threatens Apple with lawsuit over OpenAI, sparking Sam Altman feud - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 18:59:00 GMT"
+    },
+    {
+      "title": "Musk-Altman rivalry devolves into lawsuit threats, insults in social media brawl - Axios",
+      "pubDate": "Wed, 13 Aug 2025 07:54:30 GMT"
     }
   ],
   "cancer": [
@@ -1489,6 +1493,10 @@
     {
       "title": "Hackers leak 2.8M sensitive records from Allianz Life in Salesforce data breach - Security Affairs",
       "pubDate": "Wed, 13 Aug 2025 07:33:42 GMT"
+    },
+    {
+      "title": "Site Behind Major SSN Leak Returns With Detailed Data on Millions: How to Opt Out - PCMag",
+      "pubDate": "Wed, 13 Aug 2025 04:31:11 GMT"
     }
   ],
   "bitcoin": [
@@ -1795,10 +1803,6 @@
   ],
   "alexandria_ocasio-cortez": [
     {
-      "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - AOL.com",
-      "pubDate": "Wed, 06 Aug 2025 09:12:05 GMT"
-    },
-    {
       "title": "Trump\u2019s New Census Could Spell Trouble for Democrats, Like Ocasio-Cortez and Jeffries, in Districts With Many Non-Citizens - The New York Sun",
       "pubDate": "Fri, 08 Aug 2025 21:07:53 GMT"
     },
@@ -1967,10 +1971,6 @@
       "pubDate": "Wed, 06 Aug 2025 12:39:36 GMT"
     },
     {
-      "title": "Photos of hunger and despair from Gaza were staged in collaboration with Hamas, German newspaper reveals - Ynetnews",
-      "pubDate": "Wed, 06 Aug 2025 09:14:18 GMT"
-    },
-    {
       "title": "Israeli military chief warns against takeover of Gaza as Netanyahu considers \u2018full conquest\u2019 of besieged territory - CNN",
       "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
     },
@@ -2101,6 +2101,10 @@
     {
       "title": "EU and 24 nations including UK, Japan urge action against \u2018famine unfolding\u2019 in Gaza - The Times of Israel",
       "pubDate": "Tue, 12 Aug 2025 15:15:20 GMT"
+    },
+    {
+      "title": "Netanyahu allies turn on army chief as Gaza rift deepens - Financial Times",
+      "pubDate": "Wed, 13 Aug 2025 09:02:02 GMT"
     }
   ],
   "battery_technology": [
@@ -2139,6 +2143,10 @@
     {
       "title": "Major EV Battery Deal: CATL Partners With Kandi Tech to Deploy 10,000 Battery Swap Stations Across China - Stock Titan",
       "pubDate": "Tue, 12 Aug 2025 12:38:00 GMT"
+    },
+    {
+      "title": "Researchers announce continent-wide project to revolutionize EV batteries: 'Goes beyond technology advances' - The Cool Down",
+      "pubDate": "Wed, 13 Aug 2025 09:15:00 GMT"
     }
   ],
   "algorithms": [
@@ -2485,6 +2493,10 @@
     {
       "title": "The health risks from climate change that almost no one talks about - vox.com",
       "pubDate": "Wed, 13 Aug 2025 08:30:00 GMT"
+    },
+    {
+      "title": "Temperature records smashed as extreme heat, wildfires grip parts of Europe - CNBC",
+      "pubDate": "Wed, 13 Aug 2025 08:18:06 GMT"
     }
   ],
   "volcanoes": [
@@ -3509,6 +3521,12 @@
     {
       "title": "Study: Merchant GPUs and Custom Accelerators to Reach $446B, HBM to Exceed $130B by 2029 - insidehpc.com",
       "pubDate": "Tue, 12 Aug 2025 15:56:15 GMT"
+    }
+  ],
+  "kim_jong_un": [
+    {
+      "title": "Kim Jong-Un Pledges \u201cFull Support\u201d to Putin Ahead of Alaska Summit - UNITED24 Media",
+      "pubDate": "Wed, 13 Aug 2025 07:25:47 GMT"
     }
   ]
 }
