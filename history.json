@@ -231,6 +231,10 @@
     {
       "title": "Trump makes Kennedy Center Honors announcement. It caught the staff off guard - NPR",
       "pubDate": "Tue, 12 Aug 2025 16:20:47 GMT"
+    },
+    {
+      "title": "Trump is bringing in enough revenue from tariffs to have a serious impact on the $37 trillion national debt, budget watchdog says - Fortune",
+      "pubDate": "Tue, 12 Aug 2025 20:20:59 GMT"
     }
   ],
   "russia": [
@@ -475,6 +479,10 @@
     {
       "title": "Companies embrace in-person interviews to dodge the chatbots - Axios",
       "pubDate": "Tue, 12 Aug 2025 20:23:58 GMT"
+    },
+    {
+      "title": "Nuclear-powered AI could make Rolls Royce UK's biggest firm, says boss - BBC",
+      "pubDate": "Tue, 12 Aug 2025 23:01:03 GMT"
     }
   ],
   "climate": [
@@ -967,6 +975,10 @@
     {
       "title": "From Panic to Precision: Securonix Gives SecOps Its Power Back - Dark Reading | Security",
       "pubDate": "Tue, 12 Aug 2025 20:46:56 GMT"
+    },
+    {
+      "title": "Citrix NetScaler flaws lead to critical infrastructure breaches - Cybersecurity Dive",
+      "pubDate": "Tue, 12 Aug 2025 15:11:11 GMT"
     }
   ],
   "recession": [
@@ -1166,10 +1178,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk and X notch court win against California deepfake law - Politico",
-      "pubDate": "Wed, 06 Aug 2025 00:32:00 GMT"
-    },
     {
       "title": "Trump Calls Elon Musk 'A Good Person', Says He Had A Really Bad moment After 'Unpopular' Poll Rating - NDTV",
       "pubDate": "Thu, 07 Aug 2025 06:22:25 GMT"
@@ -1616,10 +1624,6 @@
     }
   ],
   "environment": [
-    {
-      "title": "New Jersey reaches historic $2 billion environmental settlement with DuPont over 'forever chemicals' - ABC News",
-      "pubDate": "Wed, 06 Aug 2025 00:01:36 GMT"
-    },
     {
       "title": "Helicopter crash in Ghana kills defense and environment ministers and 6 other people - NBC News",
       "pubDate": "Thu, 07 Aug 2025 00:16:00 GMT"
@@ -2081,6 +2085,10 @@
     {
       "title": "\u2018It\u2019s a horrible picture\u2019: Gaza faces new threat from antibiotic-resistant disease - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 22:30:00 GMT"
+    },
+    {
+      "title": "EU and 24 nations including UK, Japan urge action against \u2018famine unfolding\u2019 in Gaza - The Times of Israel",
+      "pubDate": "Tue, 12 Aug 2025 15:15:20 GMT"
     }
   ],
   "battery_technology": [
@@ -2453,6 +2461,10 @@
     {
       "title": "Will Endangerment Finding Repeal Trigger New State Actions on Climate? - Inside Climate News",
       "pubDate": "Tue, 12 Aug 2025 23:29:08 GMT"
+    },
+    {
+      "title": "California peach harvests are down after warmer winter disrupted trees' sleep cycles - CBS News",
+      "pubDate": "Wed, 13 Aug 2025 00:04:33 GMT"
     }
   ],
   "volcanoes": [
@@ -2744,10 +2756,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Rivian, Lucid warn of bumpy road ahead as policy changes hurt - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 00:13:00 GMT"
-    },
     {
       "title": "Tesla Rivals Lucid, Rivian Post Downbeat Earnings. What It Means for EV Stocks. - Barron's",
       "pubDate": "Wed, 06 Aug 2025 11:30:00 GMT"
@@ -3427,6 +3435,12 @@
     {
       "title": "Powerful optical technique can analyze the biochemical fingerprints of vaginal fluid - News-Medical",
       "pubDate": "Tue, 12 Aug 2025 19:07:00 GMT"
+    }
+  ],
+  "software": [
+    {
+      "title": "Billions Wiped Out as Software Sinks on AI Disruption Fear - Bloomberg.com",
+      "pubDate": "Tue, 12 Aug 2025 17:17:30 GMT"
     }
   ]
 }
