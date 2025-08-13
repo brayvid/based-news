@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Netanyahu hints at expanded war in Gaza but former Israeli military and spy chiefs object - AP News",
-      "pubDate": "Wed, 06 Aug 2025 03:20:00 GMT"
-    },
-    {
       "title": "A Defiant Israel Eyes a Full Gaza Takeover Despite Global Isolation - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 21:00:30 GMT"
     },
@@ -587,6 +583,10 @@
     {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
+    },
+    {
+      "title": "Ukraine's borders must not be changed by force, EU leaders say - BBC",
+      "pubDate": "Tue, 12 Aug 2025 16:57:04 GMT"
     }
   ],
   "us_economy": [
@@ -1097,6 +1097,10 @@
     {
       "title": "Trump officials cast a wider net for Powell replacement at Fed - Politico",
       "pubDate": "Tue, 12 Aug 2025 14:31:03 GMT"
+    },
+    {
+      "title": "Investors double down on September Fed cut after CPI - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 19:58:17 GMT"
     }
   ],
   "earthquakes": [
@@ -2241,6 +2245,10 @@
     {
       "title": "Gold Survives 33,740\u00b0F, Overturning a 40-Year Physics Theory - SciTechDaily",
       "pubDate": "Tue, 12 Aug 2025 04:47:43 GMT"
+    },
+    {
+      "title": "Researchers uncover the physics behind inaccuracies of cuff-based blood pressure readings - News-Medical",
+      "pubDate": "Tue, 12 Aug 2025 16:11:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2639,10 +2647,6 @@
   ],
   "brics": [
     {
-      "title": "Trump Says Lula Can Call Him. \"I Will Call PM Modi,\" Replies Brazil Leader - NDTV",
-      "pubDate": "Wed, 06 Aug 2025 03:08:27 GMT"
-    },
-    {
       "title": "Modi Speaks With Lula, Plans Xi Meeting as Ties With US Sour - Bloomberg.com",
       "pubDate": "Fri, 08 Aug 2025 01:31:00 GMT"
     },
@@ -2977,6 +2981,10 @@
     {
       "title": "US crime rates fell nationwide in 2024, FBI report says - Ohio Capital Journal",
       "pubDate": "Tue, 12 Aug 2025 08:31:06 GMT"
+    },
+    {
+      "title": "U.S. indicts Haiti gang leader \u2018Barbecue,\u2019 offers $5 million reward for capture - Miami Herald",
+      "pubDate": "Tue, 12 Aug 2025 19:30:00 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -3479,6 +3487,18 @@
     {
       "title": "Ancient 'Rising Sun' Coins Reveal Vast Trade Networks Across Southeast Asia - Ancient Origins",
       "pubDate": "Tue, 12 Aug 2025 21:30:57 GMT"
+    }
+  ],
+  "department_of_homeland_security": [
+    {
+      "title": "Trump Admin DHS Account Accused of Referencing Avowed White Supremacist - Newsweek",
+      "pubDate": "Tue, 12 Aug 2025 21:39:03 GMT"
+    }
+  ],
+  "gpus": [
+    {
+      "title": "Study: Merchant GPUs and Custom Accelerators to Reach $446B, HBM to Exceed $130B by 2029 - insidehpc.com",
+      "pubDate": "Tue, 12 Aug 2025 15:56:15 GMT"
     }
   ]
 }
