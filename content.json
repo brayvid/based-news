@@ -1,52 +1,12 @@
 {
-  "Earthquakes": {
+  "Renewable Energy": {
     "articles": [
       {
-        "title": "Massive landslide in Alaska triggers damaging tsunami with 10-15 foot waves - FOX Weather",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0d3eFBzeUZCSUFfRHhGMEwtLUZEektuNTdVVVlHS1hjeFlPYzY5X3IyYjFJdmExXzlJZV9ZdEpWbEJ3V0RCMWNvRDVjNV9nNTVZOXVkbGFMWVdKbldvV0lDb05tVjdrNEVsdXZQczJCVHJFX0FIZ3NCaEZ4OTV2SEFfU0dRQmtpZ0lvcC1TSdIBlAFBVV95cUxQTHZMZGIxbUs2NjU5QXBFQS1Gc2xWSGdwWXVLWmlOVE44MzRNWHZkLXJIY0NtWDBJNld1Vko5S1RZUkJ0N21QemFsOTZsRDJqdkFJbThFMTFzNkpBMEJ6SC1iTUVmTlVNRHBYSWUtWTU1dUdtbWVWR0xWdFY5bGJWWnJOVXFVZlFxREEzaTRTY0RKNjBf?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 15:27:47 GMT"
+        "title": "US clean energy capacity growth gets slower but wider in 2025 - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWdnUE5jT3ZZdHItRm5RT25vaVhlcFZGaWJlWWk4S0FmOHh3Mkpjc3dpdW5QUjJwN3o0MlMwb0Q0YkFVaWp2WjlzS1N3Z1Z4OVViX0Z1YXRBQnAxRk9WY2pNX2xfbE5NQk1FY1BueWFGZHpDcnhiczY0dUdWODdNZHVMb0E1X3Q5NXpCZmdyZHZVbWRvcG1jSDVPc0o2N3BwUzRDSkFZLXVPNlJTbGZz?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 11:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-13T20:00:46.076109+00:00"
-  },
-  "Energy Transition": {
-    "articles": [
-      {
-        "title": "Germany Risks Falling Behind on Energy Transition, EON Warns - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakhLWUZ6R2hYRTVqYTRNUXVoSGVoUjBhbVJYaHJSZWt4NVpwV0ZfZ1pRcDU3M0pPZVZxWVZneDRPTVN1cTA5b0s3Q2tGZk1ILVRtcTN0bEhFQTQ0R3VhMFozOWo5MURCTmRTMF9wNk13ZUZ1QWdld3FCRmM5dWpOQ2pISm91ZGRqY0pjOHZuTjhrNEk5V3ZXelA3bVk2dmZlMjh5Yk41Qm55R21FeXlz?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 08:08:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-13T20:00:46.076109+00:00"
-  },
-  "North Korea": {
-    "articles": [
-      {
-        "title": "Researchers identify Chinese cybercriminal working for North Korean threat group - NK News",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzSzAwTTlxR1VaNzJUM2NvczJhbUJRWEZCT1A4SndtQTZxNWtZazNpbzJMNUJKXzdrbElodHg0Uk1tQU5kdUpz?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 08:58:24 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-13T20:00:46.076109+00:00"
-  },
-  "Department of Homeland Security": {
-    "articles": [
-      {
-        "title": "On social media, the Department of Homeland Security appeals to nostalgia \u2014 with motifs of White identity - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGF4WmQtNS1QcTc4OHlrT2htblNMUTQ1ZGRfSzdNajBDcFFKQjNINmVyU1Bsc3Q2azl3SGtMMHdIcm14VFNJMUVmMEh4b1RibmZvX1lyS0tyTVNUVTRRY3pYZmhFZXA3RW5TdEt5RENaQkdJcU5mcnJJWnI1TnE2ZDRUa3RhWDJX0gGOAUFVX3lxTE1SSUJPWXB5TGppMVpaby1HeEdBT09zaFUteVRtRXFrQ3pucVoxWFk4ZDlITGd0UWVESXVNaHk2Nlc5cEZTdU0zOXlYMjhpTmdOUUdhZkNCQllyQ1Z5WDFCRUd1TXpfWU1EeVR3TmVFQ0Vfa21SMEw0QnFiVmN5SXl1WEVvYzR2NmpGVXFyM0E?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 08:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-13T20:00:46.076109+00:00"
-  },
-  "US Treasury": {
-    "articles": [
-      {
-        "title": "US sanctions Mexican drug cartel associates accused of scamming elderly Americans - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMk5jMDJjemJOSVNhVUhnYjNkUVVTOVpOd2xHbTZWLVIxUTVkYWVvSkE0YnRNczh2VTg2MUZhYmw3cEw1WVVhd1pJeF9yM1prd3hBdHpXMHVOanViVE1uWjhHTExoYThuYVJZTmZnVE5CUXN5U0J6X2RtVWMtZTc2SkJ3MWNlMTI0S3RSZUYwdlI4ejE4enVfd0NtZTZEd0ptWGZSZGVXTC03NVNVSmlnQVlzbXkwZENsbG42VnZ6Q3I4cHlCOHNpUlpjV3lHUGNTT0Q4UGd5RXliVVdlX3FRd004ZlVMRmlqTHpHNnJn?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 19:39:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-13T20:00:46.076109+00:00"
+    "last_updated_ts": "2025-08-13T22:00:26.706974+00:00"
   }
 }
