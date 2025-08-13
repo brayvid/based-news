@@ -101,10 +101,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump views foreign investment pledges as gifts. Trade partners say that's way off the mark - CNBC",
-      "pubDate": "Wed, 06 Aug 2025 13:19:23 GMT"
-    },
-    {
       "title": "Trump threatens federal takeover of DC after attack on former DOGE worker - PBS",
       "pubDate": "Wed, 06 Aug 2025 14:03:42 GMT"
     },
@@ -267,10 +263,6 @@
     {
       "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
       "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
-    },
-    {
-      "title": "Voxel Expands Global Reach and Leadership Bench to Power the Next Era of AI Safety - PR Newswire",
-      "pubDate": "Wed, 06 Aug 2025 13:00:00 GMT"
     },
     {
       "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
@@ -521,10 +513,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine is Using $1,000 Drones to Destroy Russia's Shaheds (Instead of $4 Million Missiles) - National Security Journal",
-      "pubDate": "Wed, 06 Aug 2025 13:23:17 GMT"
-    },
-    {
       "title": "Russian drones hunt civilians as Putin zeroes in on Ukraine\u2019s Kherson - CNN",
       "pubDate": "Thu, 07 Aug 2025 00:00:00 GMT"
     },
@@ -599,6 +587,10 @@
     {
       "title": "Ukraine studied drug cartels to learn how to sneak drones into Russia for its 'Operation Spiderweb' attack - Business Insider",
       "pubDate": "Wed, 13 Aug 2025 04:43:00 GMT"
+    },
+    {
+      "title": "Russia makes biggest Ukraine advance in over a year: Analysis - Al Arabiya English",
+      "pubDate": "Wed, 13 Aug 2025 10:45:00 GMT"
     }
   ],
   "us_economy": [
@@ -857,12 +849,6 @@
     {
       "title": "With new weapons, cash and battleground experience from Ukraine, North Korea has become much more formidable - The Conversation",
       "pubDate": "Wed, 13 Aug 2025 01:46:00 GMT"
-    }
-  ],
-  "us_foreign_policy": [
-    {
-      "title": "Missed signals, lost deal: How India-US trade talks collapsed - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 13:45:53 GMT"
     }
   ],
   "trade_war": [
@@ -1133,13 +1119,13 @@
     {
       "title": "Investors double down on September Fed cut after CPI - Reuters",
       "pubDate": "Tue, 12 Aug 2025 19:58:17 GMT"
+    },
+    {
+      "title": "Trump considering 11 candidates for Fed chair, including David Zervos and Rick Rieder, sources say - CNBC",
+      "pubDate": "Wed, 13 Aug 2025 12:06:19 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "Global quakes and eruptions revive West Coast seismic concerns - Axios",
-      "pubDate": "Wed, 06 Aug 2025 13:35:59 GMT"
-    },
     {
       "title": "Major Earthquake Shifts and Sinks Huge Russian Peninsula - Newsweek",
       "pubDate": "Wed, 06 Aug 2025 16:17:02 GMT"
@@ -1291,6 +1277,10 @@
     {
       "title": "Cancer survival rates rise substantially but 'longer waits' hit progress for more deadly types of the disease, say researchers - Sky News",
       "pubDate": "Wed, 13 Aug 2025 08:58:46 GMT"
+    },
+    {
+      "title": "Using AI Made Doctors Worse at Spotting Cancer Without Assistance - Time Magazine",
+      "pubDate": "Wed, 13 Aug 2025 09:48:21 GMT"
     }
   ],
   "space_exploration": [
@@ -1691,10 +1681,6 @@
   ],
   "science": [
     {
-      "title": "Nuclear Science Center begins expansion to \u2018supercharge\u2019 nuclear science capabilities - WSU Insider",
-      "pubDate": "Wed, 06 Aug 2025 13:06:55 GMT"
-    },
-    {
       "title": "Scientists develop technology that brings new precision to genome editing - Phys.org",
       "pubDate": "Thu, 07 Aug 2025 11:50:04 GMT"
     }
@@ -1787,10 +1773,6 @@
     {
       "title": "Fear Of Super Intelligent AI Is Driving Harvard And MIT Students To Drop Out - Forbes",
       "pubDate": "Wed, 06 Aug 2025 19:07:31 GMT"
-    },
-    {
-      "title": "The jobs most at risk from AI - The Week",
-      "pubDate": "Wed, 06 Aug 2025 13:33:11 GMT"
     },
     {
       "title": "OpenAI releases hotly anticipated GPT-5 update - PBS",
@@ -1987,10 +1969,6 @@
       "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
     },
     {
-      "title": "Updates: Israeli blockade on fuel endangering 100 premature babies in Gaza - Al Jazeera",
-      "pubDate": "Wed, 06 Aug 2025 13:43:03 GMT"
-    },
-    {
       "title": "Israel is using US munitions to \u2018illegally and indiscriminately\u2019 attack Gaza school shelters, Human Rights Watch says - CNN",
       "pubDate": "Thu, 07 Aug 2025 04:01:00 GMT"
     },
@@ -2117,13 +2095,13 @@
     {
       "title": "Netanyahu allies turn on army chief as Gaza rift deepens - Financial Times",
       "pubDate": "Wed, 13 Aug 2025 09:02:02 GMT"
+    },
+    {
+      "title": "At least 25 killed by Israeli gunfire as Netanyahu says he will \u2018allow\u2019 Palestinians to leave - AP News",
+      "pubDate": "Wed, 13 Aug 2025 12:33:00 GMT"
     }
   ],
   "battery_technology": [
-    {
-      "title": "China Issues New Rules on Exports of EV Batteries and Materials - The Institute for Energy Research",
-      "pubDate": "Wed, 06 Aug 2025 13:05:23 GMT"
-    },
     {
       "title": "Samsung SDI batteries power world\u2019s longest journey by EV on single charge - The Korea Times",
       "pubDate": "Thu, 07 Aug 2025 02:32:00 GMT"
@@ -2509,6 +2487,10 @@
     {
       "title": "Spain wildfires are \u2018clear warning\u2019 of climate emergency, minister says - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 12:14:00 GMT"
+    },
+    {
+      "title": "The EPA wants to rollback climate regulations. Here\u2019s how Hoosiers can have a say. - IndyStar",
+      "pubDate": "Wed, 13 Aug 2025 13:32:18 GMT"
     }
   ],
   "volcanoes": [
@@ -2710,10 +2692,6 @@
     }
   ],
   "asia": [
-    {
-      "title": "Assessing North Korea-Southeast Asia\u2019s Diplomatic Renewal - 38 North",
-      "pubDate": "Wed, 06 Aug 2025 13:06:01 GMT"
-    },
     {
       "title": "Extreme weather sweeps across Asia - BBC",
       "pubDate": "Thu, 07 Aug 2025 03:04:54 GMT"
@@ -3013,10 +2991,6 @@
   ],
   "quantum_mechanics": [
     {
-      "title": "Scientists Crack Code Behind Quantum Entanglement, At Least In Theory - Study Finds",
-      "pubDate": "Wed, 06 Aug 2025 13:38:15 GMT"
-    },
-    {
       "title": "Scientists levitate 300 million atoms at room temperature for pure quantum state - Interesting Engineering",
       "pubDate": "Wed, 06 Aug 2025 15:29:00 GMT"
     },
@@ -3283,6 +3257,10 @@
     {
       "title": "Why Niger is investigating the $5 million sale of the largest Mars rock found on Earth - NBC News",
       "pubDate": "Mon, 11 Aug 2025 21:19:01 GMT"
+    },
+    {
+      "title": "Twice a day, Mars may briefly host water that could support life - ScienceDaily",
+      "pubDate": "Wed, 13 Aug 2025 12:29:26 GMT"
     }
   ],
   "fixed-income_investing": [
