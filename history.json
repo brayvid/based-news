@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Netanyahu hints at expanded war in Gaza but former Israeli military and spy chiefs object - AP News",
-      "pubDate": "Wed, 06 Aug 2025 03:20:00 GMT"
-    },
-    {
       "title": "A Defiant Israel Eyes a Full Gaza Takeover Despite Global Isolation - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 21:00:30 GMT"
     },
@@ -100,10 +96,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump administration staffer known as \u2018Big Balls\u2019 assaulted in DC - Politico",
-      "pubDate": "Wed, 06 Aug 2025 01:31:00 GMT"
-    },
     {
       "title": "Trump\u2019s transshipment crackdown spells danger for Southeast Asian economies - Al Jazeera",
       "pubDate": "Wed, 06 Aug 2025 08:56:01 GMT"
@@ -231,6 +223,10 @@
     {
       "title": "Trump makes Kennedy Center Honors announcement. It caught the staff off guard - NPR",
       "pubDate": "Tue, 12 Aug 2025 16:20:47 GMT"
+    },
+    {
+      "title": "Trump is bringing in enough revenue from tariffs to have a serious impact on the $37 trillion national debt, budget watchdog says - Fortune",
+      "pubDate": "Tue, 12 Aug 2025 20:20:59 GMT"
     }
   ],
   "russia": [
@@ -264,14 +260,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Polluted data poses risk to AI safety, ministry says - China Daily",
-      "pubDate": "Wed, 06 Aug 2025 01:07:00 GMT"
-    },
-    {
-      "title": "NHS Health App Saves $789M, But AI Transcription Raises Safety Alarms - eWEEK",
-      "pubDate": "Tue, 05 Aug 2025 23:11:39 GMT"
-    },
     {
       "title": "AI Chatbots Often Spread Medical Falsehoods, Study Finds - scienceblog.com",
       "pubDate": "Wed, 06 Aug 2025 14:03:58 GMT"
@@ -347,13 +335,17 @@
     {
       "title": "Filtered data stops openly-available AI models from performing dangerous tasks, study finds - Tech Xplore",
       "pubDate": "Tue, 12 Aug 2025 16:07:04 GMT"
+    },
+    {
+      "title": "GPT-5 hit with 'echo chamber' jailbreak shortly after release - Substack",
+      "pubDate": "Tue, 12 Aug 2025 12:59:55 GMT"
+    },
+    {
+      "title": "Asean AI Safety Network targets for adoption by leaders at Asean summit in October - The Edge Malaysia",
+      "pubDate": "Tue, 12 Aug 2025 16:17:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "SEC: $66bn liquid staking market doesn\u2019t involve sale of securities - dlnews.com",
-      "pubDate": "Tue, 05 Aug 2025 22:55:22 GMT"
-    },
     {
       "title": "Oil set for steepest weekly losses since June on tariffs, Trump-Putin talks - Reuters",
       "pubDate": "Fri, 08 Aug 2025 07:12:24 GMT"
@@ -377,13 +369,13 @@
     {
       "title": "US stocks rally to records on hopes for cuts to interest rates - AP News",
       "pubDate": "Tue, 12 Aug 2025 20:16:00 GMT"
+    },
+    {
+      "title": "Trump's tariffs keep coming. Stock markets don't seem to care. - NBC News",
+      "pubDate": "Wed, 13 Aug 2025 00:46:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The AI Showdown: How the US and China Stack Up - Bloomberg.com",
-      "pubDate": "Wed, 06 Aug 2025 04:00:00 GMT"
-    },
     {
       "title": "Parents of Parkland shooting victim use AI to \"bring him back\" - Axios",
       "pubDate": "Wed, 06 Aug 2025 19:57:59 GMT"
@@ -479,6 +471,10 @@
     {
       "title": "Companies embrace in-person interviews to dodge the chatbots - Axios",
       "pubDate": "Tue, 12 Aug 2025 20:23:58 GMT"
+    },
+    {
+      "title": "Nuclear-powered AI could make Rolls Royce UK's biggest firm, says boss - BBC",
+      "pubDate": "Tue, 12 Aug 2025 23:01:03 GMT"
     }
   ],
   "climate": [
@@ -508,10 +504,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Call for Nato action after Russian drone intrudes on Lithuania - The Guardian",
-      "pubDate": "Wed, 06 Aug 2025 01:15:00 GMT"
-    },
     {
       "title": "Trump envoy Steve Witkoff in Moscow to press Putin on Ukraine war - Financial Times",
       "pubDate": "Wed, 06 Aug 2025 07:13:12 GMT"
@@ -591,6 +583,14 @@
     {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
+    },
+    {
+      "title": "Ukraine's borders must not be changed by force, EU leaders say - BBC",
+      "pubDate": "Tue, 12 Aug 2025 16:57:04 GMT"
+    },
+    {
+      "title": "Ukraine studied drug cartels to learn how to sneak drones into Russia for its 'Operation Spiderweb' attack - Business Insider",
+      "pubDate": "Wed, 13 Aug 2025 04:43:00 GMT"
     }
   ],
   "us_economy": [
@@ -612,14 +612,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Zero Day Attack: Taiwanese TV show imagines Chinese invasion and stokes debate - BBC",
-      "pubDate": "Tue, 05 Aug 2025 22:42:28 GMT"
-    },
-    {
-      "title": "US charges Chinese nationals with illegally shipping Nvidia chips to China - Al Jazeera",
-      "pubDate": "Wed, 06 Aug 2025 02:15:00 GMT"
-    },
     {
       "title": "Trump's threatened 40% tariff on 'transshipped' goods tries to target China and its manufacturing strength - Fortune",
       "pubDate": "Wed, 06 Aug 2025 07:21:00 GMT"
@@ -763,6 +755,18 @@
     {
       "title": "China cautions tech firms over Nvidia H20 AI chip purchases, sources say - Reuters",
       "pubDate": "Tue, 12 Aug 2025 16:03:42 GMT"
+    },
+    {
+      "title": "Rare earths: Australia bid to take on China dominance - BBC",
+      "pubDate": "Tue, 12 Aug 2025 22:05:03 GMT"
+    },
+    {
+      "title": "China\u2019s crackdown on lavish civil servant perks will \u2018harm\u2019 the economy, experts warn - The Guardian",
+      "pubDate": "Wed, 13 Aug 2025 00:42:00 GMT"
+    },
+    {
+      "title": "China Evergrande liquidators say $255 million of assets have been sold - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 23:41:40 GMT"
     }
   ],
   "us_politics": [
@@ -833,6 +837,10 @@
     {
       "title": "North Koreans tell BBC they are sent to work 'like slaves' in Russia - BBC",
       "pubDate": "Tue, 12 Aug 2025 05:10:26 GMT"
+    },
+    {
+      "title": "With new weapons, cash and battleground experience from Ukraine, North Korea has become much more formidable - The Conversation",
+      "pubDate": "Wed, 13 Aug 2025 01:46:00 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -880,10 +888,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "CISA Adds 3 D-Link Router Flaws to KEV Catalog After Active Exploitation Reports - The Hacker News",
-      "pubDate": "Wed, 06 Aug 2025 04:49:00 GMT"
-    },
     {
       "title": "Hackers Steal Passwords From UK\u2019s NHS With Sneaky Malware Tool - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 19:50:48 GMT"
@@ -963,6 +967,22 @@
     {
       "title": "Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors - The Hacker News",
       "pubDate": "Tue, 12 Aug 2025 08:36:00 GMT"
+    },
+    {
+      "title": "Will SDV tech improve or worsen vehicle cybersecurity? - Automotive News",
+      "pubDate": "Tue, 12 Aug 2025 14:16:00 GMT"
+    },
+    {
+      "title": "From Panic to Precision: Securonix Gives SecOps Its Power Back - Dark Reading | Security",
+      "pubDate": "Tue, 12 Aug 2025 20:46:56 GMT"
+    },
+    {
+      "title": "Citrix NetScaler flaws lead to critical infrastructure breaches - Cybersecurity Dive",
+      "pubDate": "Tue, 12 Aug 2025 15:11:11 GMT"
+    },
+    {
+      "title": "Global OT cyber risk could top $329 billion, new report warns - Help Net Security",
+      "pubDate": "Wed, 13 Aug 2025 04:30:10 GMT"
     }
   ],
   "recession": [
@@ -1039,10 +1059,6 @@
       "pubDate": "Wed, 06 Aug 2025 08:18:45 GMT"
     },
     {
-      "title": "Federal Reserve 2025 Jackson Hole Economic Policy Symposium will be held August 21-23 - investingLive",
-      "pubDate": "Wed, 06 Aug 2025 01:23:48 GMT"
-    },
-    {
       "title": "Federal Reserve Vacancy Opens Door for Trump to Shape the Central Bank's Future - Investopedia",
       "pubDate": "Wed, 06 Aug 2025 16:07:17 GMT"
     },
@@ -1093,6 +1109,10 @@
     {
       "title": "Trump officials cast a wider net for Powell replacement at Fed - Politico",
       "pubDate": "Tue, 12 Aug 2025 14:31:03 GMT"
+    },
+    {
+      "title": "Investors double down on September Fed cut after CPI - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 19:58:17 GMT"
     }
   ],
   "earthquakes": [
@@ -1159,13 +1179,13 @@
     {
       "title": "Major Landslide in Southeast Alaska Fjord - Alaska Earthquake Center",
       "pubDate": "Tue, 12 Aug 2025 20:33:22 GMT"
+    },
+    {
+      "title": "Earthquakes and Volcanoes Surge: Are We Entering the Beginning of Sorrows? - Charisma Magazine Online",
+      "pubDate": "Tue, 12 Aug 2025 19:33:22 GMT"
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk and X notch court win against California deepfake law - Politico",
-      "pubDate": "Wed, 06 Aug 2025 00:32:00 GMT"
-    },
     {
       "title": "Trump Calls Elon Musk 'A Good Person', Says He Had A Really Bad moment After 'Unpopular' Poll Rating - NDTV",
       "pubDate": "Thu, 07 Aug 2025 06:22:25 GMT"
@@ -1293,10 +1313,6 @@
   ],
   "health_care": [
     {
-      "title": "Health secretary RFK Jr. shuts door on U.S. investment in mRNA vaccine research - statnews.com",
-      "pubDate": "Tue, 05 Aug 2025 22:58:39 GMT"
-    },
-    {
       "title": "Pennsylvania home health care agencies call for $370M in the state budget to avoid a looming care crisis - WHYY",
       "pubDate": "Wed, 06 Aug 2025 10:05:02 GMT"
     },
@@ -1307,6 +1323,10 @@
     {
       "title": "Republicans are quietly rolling back Obamacare. Here\u2019s how - CNN",
       "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Appeals court upholds Arkansas' ban on transgender minors' health care after SCOTUS ruling - Arkansas Advocate",
+      "pubDate": "Tue, 12 Aug 2025 23:08:14 GMT"
     }
   ],
   "world_economy": [
@@ -1324,10 +1344,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Trump slams brakes on Md. offshore wind, feds grant emergency order to prevent blackouts - WJLA",
-      "pubDate": "Wed, 06 Aug 2025 04:50:02 GMT"
-    },
     {
       "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
@@ -1469,6 +1485,10 @@
     {
       "title": "Major data breach at US credit union sees 172,000 customers at risk - here's how to stay safe - TechRadar",
       "pubDate": "Tue, 12 Aug 2025 13:04:00 GMT"
+    },
+    {
+      "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
+      "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1535,6 +1555,10 @@
     {
       "title": "Bitcoin (BTC) Price News: Pullback to $119K as CPI, PPI Data Could Bring Volatility - CoinDesk",
       "pubDate": "Mon, 11 Aug 2025 22:17:10 GMT"
+    },
+    {
+      "title": "Bitcoin Nears $123K As Whale Addresses Hit All-Time High - Bitcoin Magazine",
+      "pubDate": "Tue, 12 Aug 2025 20:20:26 GMT"
     }
   ],
   "fusion_power": [
@@ -1553,6 +1577,10 @@
     {
       "title": "Russia warns US fusion reactor\u2019s 350 MW target could become an energy superweapon - dixiesunnews.com",
       "pubDate": "Mon, 11 Aug 2025 13:00:19 GMT"
+    },
+    {
+      "title": "Nuclear fusion firms pledge 1,000 jobs at old Berkeley nuclear site - BBC",
+      "pubDate": "Wed, 13 Aug 2025 05:11:38 GMT"
     }
   ],
   "nvidia": [
@@ -1587,10 +1615,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 04:55:00 GMT"
-    },
-    {
       "title": "OpenAI Releases 'Significantly Advanced' ChatGPT-5 As AI Race Accelerates - NDTV",
       "pubDate": "Thu, 07 Aug 2025 17:37:33 GMT"
     },
@@ -1616,10 +1640,6 @@
     }
   ],
   "environment": [
-    {
-      "title": "New Jersey reaches historic $2 billion environmental settlement with DuPont over 'forever chemicals' - ABC News",
-      "pubDate": "Wed, 06 Aug 2025 00:01:36 GMT"
-    },
     {
       "title": "Helicopter crash in Ghana kills defense and environment ministers and 6 other people - NBC News",
       "pubDate": "Thu, 07 Aug 2025 00:16:00 GMT"
@@ -1797,6 +1817,10 @@
     {
       "title": "Trump doubles down on blistering nickname for AOC, entire 'Squad' with cognitive test demand - MSN",
       "pubDate": "Tue, 12 Aug 2025 04:14:40 GMT"
+    },
+    {
+      "title": "AOC slams progressive critics for 'lying' about her Iron Dome stance in defense bill fight - AOL.com",
+      "pubDate": "Wed, 13 Aug 2025 02:04:03 GMT"
     }
   ],
   "national_security": [
@@ -1909,13 +1933,21 @@
     {
       "title": "India unveils plans to use cow dung as fuel for vehicles. But is it really a green alternative? - The Independent",
       "pubDate": "Tue, 12 Aug 2025 07:05:00 GMT"
+    },
+    {
+      "title": "Renewable Energy Innovation Seen as Key to Slowing Ocean Warming and Acidification - eponline.com",
+      "pubDate": "Tue, 12 Aug 2025 16:19:49 GMT"
+    },
+    {
+      "title": "CenterPoint Energy to invest in RNG created from Twin Cities\u2019 metro food and yard waste - Biomass Magazine",
+      "pubDate": "Wed, 13 Aug 2025 00:10:28 GMT"
+    },
+    {
+      "title": "PowerBank Embraces Bitcoin and Tokenized Energy in Bold Treasury Shift to Digital Finance - CarbonCredits.com",
+      "pubDate": "Tue, 12 Aug 2025 17:15:12 GMT"
     }
   ],
   "global_health": [
-    {
-      "title": "US health agency to wind down mRNA vaccine development - Reuters",
-      "pubDate": "Tue, 05 Aug 2025 22:57:27 GMT"
-    },
     {
       "title": "China deploys \u2018cannibal\u2019 mosquitoes and killer fish to fight chikungunya - The Telegraph",
       "pubDate": "Fri, 08 Aug 2025 08:40:00 GMT"
@@ -1938,10 +1970,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "UN official says Israel expanding Gaza operations would risk 'catastrophic consequences' - BBC",
-      "pubDate": "Wed, 06 Aug 2025 04:22:48 GMT"
-    },
     {
       "title": "Middle East crisis live: 20 killed as aid truck overturns in Gaza, civil defence agency says - The Guardian",
       "pubDate": "Wed, 06 Aug 2025 07:03:00 GMT"
@@ -2077,6 +2105,14 @@
     {
       "title": "Gaza health system \u2018catastrophic\u2019 with hospitals overwhelmed and medicines running out, WHO warns - UN News",
       "pubDate": "Tue, 12 Aug 2025 14:13:58 GMT"
+    },
+    {
+      "title": "\u2018It\u2019s a horrible picture\u2019: Gaza faces new threat from antibiotic-resistant disease - The Guardian",
+      "pubDate": "Tue, 12 Aug 2025 22:30:00 GMT"
+    },
+    {
+      "title": "EU and 24 nations including UK, Japan urge action against \u2018famine unfolding\u2019 in Gaza - The Times of Israel",
+      "pubDate": "Tue, 12 Aug 2025 15:15:20 GMT"
     }
   ],
   "battery_technology": [
@@ -2149,6 +2185,18 @@
     {
       "title": "How algorithmic bias keeps renters out and puts fair housing to the test - Daily Journal",
       "pubDate": "Mon, 11 Aug 2025 20:11:17 GMT"
+    },
+    {
+      "title": "Social media toxicity can't be fixed by changing the algorithms - New Scientist",
+      "pubDate": "Tue, 12 Aug 2025 14:01:53 GMT"
+    },
+    {
+      "title": "Robots gain new function: Algorithm automatically recognizes sensors and their mathematical modeling - Tech Xplore",
+      "pubDate": "Tue, 12 Aug 2025 19:12:03 GMT"
+    },
+    {
+      "title": "Revolutionary Quantum Physics Algorithm Improves Medical Imaging Quality - ScienceBlog.com",
+      "pubDate": "Tue, 12 Aug 2025 22:48:58 GMT"
     }
   ],
   "astronomy": [
@@ -2213,6 +2261,10 @@
     {
       "title": "Gold Survives 33,740\u00b0F, Overturning a 40-Year Physics Theory - SciTechDaily",
       "pubDate": "Tue, 12 Aug 2025 04:47:43 GMT"
+    },
+    {
+      "title": "Researchers uncover the physics behind inaccuracies of cuff-based blood pressure readings - News-Medical",
+      "pubDate": "Tue, 12 Aug 2025 16:11:00 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2230,10 +2282,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Australia\u2019s Great Barrier Reef hit by record bleaching as oceans warm - Al Jazeera",
-      "pubDate": "Wed, 06 Aug 2025 04:21:51 GMT"
-    },
     {
       "title": "Scientists confirm that climate change is behind California\u2019s earlier wildfire seasons - San Francisco Chronicle",
       "pubDate": "Wed, 06 Aug 2025 18:10:31 GMT"
@@ -2437,6 +2485,18 @@
     {
       "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
       "pubDate": "Tue, 12 Aug 2025 20:08:47 GMT"
+    },
+    {
+      "title": "China\u2019s rural communities are adapting to climate change - Dialogue Earth",
+      "pubDate": "Tue, 12 Aug 2025 17:57:45 GMT"
+    },
+    {
+      "title": "Will Endangerment Finding Repeal Trigger New State Actions on Climate? - Inside Climate News",
+      "pubDate": "Tue, 12 Aug 2025 23:29:08 GMT"
+    },
+    {
+      "title": "California peach harvests are down after warmer winter disrupted trees' sleep cycles - CBS News",
+      "pubDate": "Wed, 13 Aug 2025 00:04:33 GMT"
     }
   ],
   "volcanoes": [
@@ -2457,13 +2517,13 @@
     {
       "title": "EU approves reduced $3.7 billion in Ukraine Facility aid amid reform delays - The Kyiv Independent",
       "pubDate": "Fri, 08 Aug 2025 20:22:30 GMT"
+    },
+    {
+      "title": "Germany to Keep Border Controls Beyond September in Migration Crackdown - ETIAS.com",
+      "pubDate": "Wed, 13 Aug 2025 02:00:18 GMT"
     }
   ],
   "amazon": [
-    {
-      "title": "Colombia\u2019s President Petro accuses Peru of annexing disputed Amazon island - Al Jazeera",
-      "pubDate": "Tue, 05 Aug 2025 23:54:18 GMT"
-    },
     {
       "title": "Amazon, Walmart, Target Halt Orders From India After Trump Doubles Tariff: Sources - NDTV",
       "pubDate": "Fri, 08 Aug 2025 03:55:18 GMT"
@@ -2475,6 +2535,10 @@
     {
       "title": "Skipping Nvidia Left Amazon, Apple And Tesla Behind In AI - Forbes",
       "pubDate": "Mon, 11 Aug 2025 22:28:03 GMT"
+    },
+    {
+      "title": "Amazon exits key Google deal that made finding low prices easier - TheStreet",
+      "pubDate": "Tue, 12 Aug 2025 21:34:32 GMT"
     }
   ],
   "military_and_defense": [
@@ -2555,6 +2619,10 @@
     {
       "title": "Spirit Airlines raises doubts about its ability to stay in business, months after exiting bankruptcy - CNN",
       "pubDate": "Tue, 12 Aug 2025 10:50:00 GMT"
+    },
+    {
+      "title": "133-year old Kodak says it might have to cease operations - CNN",
+      "pubDate": "Tue, 12 Aug 2025 11:27:00 GMT"
     }
   ],
   "pollution": [
@@ -2590,10 +2658,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "Trump Says Lula Can Call Him. \"I Will Call PM Modi,\" Replies Brazil Leader - NDTV",
-      "pubDate": "Wed, 06 Aug 2025 03:08:27 GMT"
-    },
     {
       "title": "Modi Speaks With Lula, Plans Xi Meeting as Ties With US Sour - Bloomberg.com",
       "pubDate": "Fri, 08 Aug 2025 01:31:00 GMT"
@@ -2643,10 +2707,6 @@
   ],
   "asia": [
     {
-      "title": "South Korea, Japan set heat records as deadly weather roils Asia - Semafor",
-      "pubDate": "Tue, 05 Aug 2025 22:33:00 GMT"
-    },
-    {
       "title": "Assessing North Korea-Southeast Asia\u2019s Diplomatic Renewal - 38 North",
       "pubDate": "Wed, 06 Aug 2025 13:06:01 GMT"
     },
@@ -2673,6 +2733,10 @@
     {
       "title": "China presses ahead with Southeast Asia port expansion as US tensions simmer - South China Morning Post",
       "pubDate": "Tue, 12 Aug 2025 00:00:14 GMT"
+    },
+    {
+      "title": "Asia markets open higher, tracking Wall Street gains amid Fed rate cut hopes - CNBC",
+      "pubDate": "Wed, 13 Aug 2025 00:10:00 GMT"
     }
   ],
   "spacex": [
@@ -2682,10 +2746,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Oil futures fall again as bearish fundamentals outweigh geopolitical risk for now - MSN",
-      "pubDate": "Tue, 05 Aug 2025 23:53:18 GMT"
-    },
     {
       "title": "India's Modi to visit China for first time in 7 years as tensions with US rise - Reuters",
       "pubDate": "Wed, 06 Aug 2025 12:47:18 GMT"
@@ -2729,17 +2789,13 @@
     {
       "title": "Putin wants a photo op with Trump and a sanctions delay, says EU foreign policy chief - CNBC",
       "pubDate": "Tue, 12 Aug 2025 10:59:07 GMT"
+    },
+    {
+      "title": "China says it 'drove away' U.S. destroyer near the disputed Scarborough Shoal - CNBC",
+      "pubDate": "Wed, 13 Aug 2025 04:39:34 GMT"
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Rivian, Lucid warn of bumpy road ahead as policy changes hurt - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 00:13:00 GMT"
-    },
-    {
-      "title": "Trump may have to pay for EV charging after all - Politico",
-      "pubDate": "Tue, 05 Aug 2025 22:12:00 GMT"
-    },
     {
       "title": "Tesla Rivals Lucid, Rivian Post Downbeat Earnings. What It Means for EV Stocks. - Barron's",
       "pubDate": "Wed, 06 Aug 2025 11:30:00 GMT"
@@ -2763,17 +2819,13 @@
     {
       "title": "Tesla leads price cuts as US EV sales post 2nd-best month ever - Electrek",
       "pubDate": "Mon, 11 Aug 2025 22:25:00 GMT"
+    },
+    {
+      "title": "Electric vehicle sales growth eases to 21% in July, research firm says - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 23:08:11 GMT"
     }
   ],
   "india": [
-    {
-      "title": "A wall of water carved through a Himalayan village, leaving at least 4 dead and many missing - CNN",
-      "pubDate": "Tue, 05 Aug 2025 23:48:00 GMT"
-    },
-    {
-      "title": "Musk vs. Modi: Inside the battle over India's internet censorship - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 04:05:00 GMT"
-    },
     {
       "title": "India tech giant TCS layoffs herald AI shakeup of $283 billion outsourcing sector - Reuters",
       "pubDate": "Fri, 08 Aug 2025 06:54:02 GMT"
@@ -2784,10 +2836,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "Overwhelmed and stressed: Mothers open up about worrying decline in mental health - PBS",
-      "pubDate": "Tue, 05 Aug 2025 22:35:35 GMT"
-    },
     {
       "title": "Federal mRNA funding cut is \u2018most dangerous public health decision\u2019 ever, expert says - PBS",
       "pubDate": "Wed, 06 Aug 2025 22:55:38 GMT"
@@ -2815,6 +2863,10 @@
     {
       "title": "Public health officials face grim new reality after CDC shooting - CIDRAP",
       "pubDate": "Mon, 11 Aug 2025 21:10:27 GMT"
+    },
+    {
+      "title": "Scientists issue warning on overlooked factor behind widespread public health threat: 'An inadvertent driver' - yahoo.com",
+      "pubDate": "Wed, 13 Aug 2025 03:00:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2853,6 +2905,10 @@
     {
       "title": "US sanctions Mexican cartel figures, including popular rapper El Makabelico - Reuters",
       "pubDate": "Wed, 06 Aug 2025 18:16:34 GMT"
+    },
+    {
+      "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - AP News",
+      "pubDate": "Tue, 12 Aug 2025 20:29:00 GMT"
     }
   ],
   "big_data": [
@@ -2941,6 +2997,10 @@
     {
       "title": "US crime rates fell nationwide in 2024, FBI report says - Ohio Capital Journal",
       "pubDate": "Tue, 12 Aug 2025 08:31:06 GMT"
+    },
+    {
+      "title": "U.S. indicts Haiti gang leader \u2018Barbecue,\u2019 offers $5 million reward for capture - Miami Herald",
+      "pubDate": "Tue, 12 Aug 2025 19:30:00 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -2994,10 +3054,6 @@
     }
   ],
   "american_civil_liberties_union": [
-    {
-      "title": "Judge hears lawsuit challenging Trump administration\u2019s changes to Head Start - KING5.com",
-      "pubDate": "Wed, 06 Aug 2025 05:22:00 GMT"
-    },
     {
       "title": "Migrants at Lower Manhattan facility held in 'crowded, squalid' conditions, suit claims - Gothamist",
       "pubDate": "Sun, 10 Aug 2025 00:45:00 GMT"
@@ -3079,12 +3135,10 @@
     {
       "title": "Hurricane Erin may form in Atlantic Ocean by end of week: NWS - PIX11",
       "pubDate": "Mon, 11 Aug 2025 12:06:36 GMT"
-    }
-  ],
-  "rivian": [
+    },
     {
-      "title": "Rivian Sees Wider Loss After Trump Tax Bill Hits Mileage Credits - Bloomberg.com",
-      "pubDate": "Tue, 05 Aug 2025 22:58:50 GMT"
+      "title": "Tropical Storm Erin could develop into hurricane in Atlantic. Will it hit N.Y.? - SILive.com",
+      "pubDate": "Tue, 12 Aug 2025 18:22:00 GMT"
     }
   ],
   "vladimir_putin": [
@@ -3119,12 +3173,6 @@
     {
       "title": "AI, layoffs leave computer science graduates struggling to find work - Ynetnews",
       "pubDate": "Tue, 12 Aug 2025 05:57:02 GMT"
-    }
-  ],
-  "venture_capital": [
-    {
-      "title": "Global Venture Capital Flows Into Agentic AI Startups Reach USD 2.8 Bn in Early 2025: Report - Entrepreneur",
-      "pubDate": "Wed, 06 Aug 2025 05:28:00 GMT"
     }
   ],
   "analytics": [
@@ -3379,6 +3427,14 @@
     {
       "title": "Apple\u2019s AI Ambitions Leave Big Questions Over Its Climate Goals - WIRED",
       "pubDate": "Tue, 12 Aug 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Australian Court Rules Apple, Google Broke Competition Rules - ca.finance.yahoo.com",
+      "pubDate": "Wed, 13 Aug 2025 00:49:00 GMT"
+    },
+    {
+      "title": "Elon Musk says he\u2019s suing Apple for rigging App Store rankings - The Verge",
+      "pubDate": "Wed, 13 Aug 2025 00:04:00 GMT"
     }
   ],
   "animals": [
@@ -3425,6 +3481,34 @@
     {
       "title": "Powerful optical technique can analyze the biochemical fingerprints of vaginal fluid - News-Medical",
       "pubDate": "Tue, 12 Aug 2025 19:07:00 GMT"
+    }
+  ],
+  "software": [
+    {
+      "title": "Billions Wiped Out as Software Sinks on AI Disruption Fear - Bloomberg.com",
+      "pubDate": "Tue, 12 Aug 2025 17:17:30 GMT"
+    }
+  ],
+  "ancient_history": [
+    {
+      "title": "Ancient 'Rising Sun' Coins Reveal Vast Trade Networks Across Southeast Asia - Ancient Origins",
+      "pubDate": "Tue, 12 Aug 2025 21:30:57 GMT"
+    }
+  ],
+  "department_of_homeland_security": [
+    {
+      "title": "Trump Admin DHS Account Accused of Referencing Avowed White Supremacist - Newsweek",
+      "pubDate": "Tue, 12 Aug 2025 21:39:03 GMT"
+    },
+    {
+      "title": "Judge orders DHS to improve conditions at New York City facility holding detained migrants - ABC News",
+      "pubDate": "Wed, 13 Aug 2025 00:00:37 GMT"
+    }
+  ],
+  "gpus": [
+    {
+      "title": "Study: Merchant GPUs and Custom Accelerators to Reach $446B, HBM to Exceed $130B by 2029 - insidehpc.com",
+      "pubDate": "Tue, 12 Aug 2025 15:56:15 GMT"
     }
   ]
 }
