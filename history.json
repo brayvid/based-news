@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Accused of Censoring Battle Damage During 12-Day War By Iran - National Security Journal",
-      "pubDate": "Thu, 07 Aug 2025 12:24:26 GMT"
-    },
-    {
       "title": "Israel to proceed with plan to occupy entire Gaza Strip, Netanyahu says - Axios",
       "pubDate": "Thu, 07 Aug 2025 15:49:59 GMT"
     },
@@ -835,10 +831,6 @@
   ],
   "north_korea": [
     {
-      "title": "Russia Lends Nuclear Support to New Combat Ally - Newsweek",
-      "pubDate": "Thu, 07 Aug 2025 12:55:05 GMT"
-    },
-    {
       "title": "Inside North Korea's 'Benidorm' where tourists are forced to be happy for Kim Jong-un - Daily Express",
       "pubDate": "Fri, 08 Aug 2025 09:43:00 GMT"
     },
@@ -1001,6 +993,10 @@
     {
       "title": "Wall Street is changing its tune on downbeat cybersecurity stock Palo Alto Networks - CNBC",
       "pubDate": "Wed, 13 Aug 2025 17:57:02 GMT"
+    },
+    {
+      "title": "The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived - WIRED",
+      "pubDate": "Thu, 14 Aug 2025 10:20:00 GMT"
     }
   ],
   "recession": [
@@ -1225,10 +1221,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Elon Musk\u2019s Latest AI Frontier: \u201cSpicy\u201d Deepfakes Of Stars Like Scarlett Johansson & Taylor Swift - Deadline",
-      "pubDate": "Thu, 07 Aug 2025 12:20:00 GMT"
-    },
-    {
       "title": "Elon Musk threatens Apple with lawsuit over OpenAI, sparking Sam Altman feud - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 18:59:00 GMT"
     },
@@ -1246,10 +1238,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Scientists Discover a Viral Cause of One of The World's Most Common Cancers - ScienceAlert",
-      "pubDate": "Thu, 07 Aug 2025 12:49:42 GMT"
-    },
     {
       "title": "\u2018Game-changing\u2019 cancer vaccine trial to begin on NHS - The Independent",
       "pubDate": "Fri, 08 Aug 2025 08:47:00 GMT"
@@ -1329,6 +1317,10 @@
     {
       "title": "Off-the-shelf vaccine shows success against deadly cancers - Axios",
       "pubDate": "Thu, 14 Aug 2025 09:31:51 GMT"
+    },
+    {
+      "title": "AI detects breast cancer earlier and more accurately in Dutch screening program - News-Medical",
+      "pubDate": "Thu, 14 Aug 2025 12:21:00 GMT"
     }
   ],
   "space_exploration": [
@@ -1534,10 +1526,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin jumps as Trump is set to sign an order that allows cryptocurrencies in 401(k)s - CNBC",
-      "pubDate": "Thu, 07 Aug 2025 12:11:46 GMT"
-    },
     {
       "title": "Why struggling companies are loading up on bitcoin - Financial Times",
       "pubDate": "Fri, 08 Aug 2025 04:00:51 GMT"
@@ -1989,6 +1977,10 @@
     {
       "title": "Why a tropical paradise has the world\u2019s fastest growing HIV epidemic - The Telegraph",
       "pubDate": "Tue, 12 Aug 2025 10:25:00 GMT"
+    },
+    {
+      "title": "How India can become a global health care leader by 2047 - Hindustan Times",
+      "pubDate": "Thu, 14 Aug 2025 12:24:05 GMT"
     }
   ],
   "gaza": [
@@ -3115,6 +3107,10 @@
     {
       "title": "US Core CPI Picks Up to Fastest Pace Since January on Services - Bloomberg.com",
       "pubDate": "Tue, 12 Aug 2025 13:02:17 GMT"
+    },
+    {
+      "title": "Wholesale prices rose 0.9% in July, much more than expected - CNBC",
+      "pubDate": "Thu, 14 Aug 2025 12:31:45 GMT"
     }
   ],
   "protest": [
@@ -3259,6 +3255,10 @@
     {
       "title": "Scientists reveal chances of unusual ways to die \u2013 from rabies to asteroid strikes - MSN",
       "pubDate": "Wed, 13 Aug 2025 06:52:30 GMT"
+    },
+    {
+      "title": "Small Asteroid Captured Hours Prior To Earth Impact - MSN",
+      "pubDate": "Thu, 14 Aug 2025 03:31:40 GMT"
     }
   ],
   "mars": [
@@ -3294,10 +3294,6 @@
     }
   ],
   "taxes": [
-    {
-      "title": "New tariffs snap into effect, raising import taxes to highest level since Great Depression - NBC News",
-      "pubDate": "Thu, 07 Aug 2025 12:18:00 GMT"
-    },
     {
       "title": "US import taxes hit levels not seen in nearly 100 years. Follow live updates. - The Boston Globe",
       "pubDate": "Thu, 07 Aug 2025 16:21:02 GMT"
@@ -3573,6 +3569,12 @@
     {
       "title": "Ukrainian Drone Attacks Across Southern Russia Injure At Least 16 People - The Moscow Times",
       "pubDate": "Thu, 14 Aug 2025 07:55:00 GMT"
+    }
+  ],
+  "computing": [
+    {
+      "title": "US scientists unveil \u2018microwave brain\u2019 chip for ultrafast, wireless computing - Interesting Engineering",
+      "pubDate": "Thu, 14 Aug 2025 09:21:00 GMT"
     }
   ]
 }
