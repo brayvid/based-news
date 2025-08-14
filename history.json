@@ -467,6 +467,10 @@
     {
       "title": "AI cuts monthly financial close time by 7.5 days: MIT/Stanford study - CFO Dive",
       "pubDate": "Wed, 13 Aug 2025 19:53:14 GMT"
+    },
+    {
+      "title": "Elon Musk says Google has the best shot at being the leader in AI - Business Insider",
+      "pubDate": "Thu, 14 Aug 2025 04:05:00 GMT"
     }
   ],
   "climate": [
@@ -616,10 +620,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump vows more secondary sanctions for Russia oil buyers are coming, including potentially on China - CNN",
-      "pubDate": "Thu, 07 Aug 2025 04:32:00 GMT"
-    },
     {
       "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
       "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
@@ -779,6 +779,10 @@
     {
       "title": "China Stocks Turnover Tops 2 Trillion Yuan as Bulls Take Charge - Bloomberg.com",
       "pubDate": "Thu, 14 Aug 2025 00:33:00 GMT"
+    },
+    {
+      "title": "China, India in talks to resume border trade after five-year gap, Bloomberg News says - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 04:25:00 GMT"
     }
   ],
   "us_politics": [
@@ -856,10 +860,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "European earnings lag behind US as trade war throttles market revival - Financial Times",
-      "pubDate": "Thu, 07 Aug 2025 04:00:51 GMT"
-    },
     {
       "title": "The trade war isn't over. It's just beginning - Axios",
       "pubDate": "Thu, 07 Aug 2025 15:52:31 GMT"
@@ -1111,6 +1111,10 @@
     {
       "title": "US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting \u2013 as it happened - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 14:04:44 GMT"
+    },
+    {
+      "title": "Trump says Fed chair search down to \u2018three or four\u2019 candidates, with announcement coming \u2018a little bit early' - Fox Business",
+      "pubDate": "Wed, 13 Aug 2025 19:02:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1424,10 +1428,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Judge Allows Key Claims In Mr. Cooper Data Breach Case to Proceed - National Mortgage Professional",
-      "pubDate": "Thu, 07 Aug 2025 04:53:35 GMT"
-    },
     {
       "title": "Google Confirms It Has Been Hacked \u2014 Warns User Data Stolen - Forbes",
       "pubDate": "Thu, 07 Aug 2025 07:33:54 GMT"
@@ -1969,10 +1969,6 @@
   ],
   "gaza": [
     {
-      "title": "Israel is using US munitions to \u2018illegally and indiscriminately\u2019 attack Gaza school shelters, Human Rights Watch says - CNN",
-      "pubDate": "Thu, 07 Aug 2025 04:01:00 GMT"
-    },
-    {
       "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
       "pubDate": "Thu, 07 Aug 2025 05:26:46 GMT"
     },
@@ -2115,6 +2111,10 @@
     {
       "title": "IDF chief approves new Gaza attack plan, spokesperson says - ABC News",
       "pubDate": "Wed, 13 Aug 2025 12:22:32 GMT"
+    },
+    {
+      "title": "Why Arab rulers aren't more vocal about Gaza as global outcry grows - NBC News",
+      "pubDate": "Wed, 13 Aug 2025 19:16:12 GMT"
     }
   ],
   "battery_technology": [
@@ -2527,6 +2527,10 @@
     {
       "title": "Climate Change Made \u2018Highly Concerning\u2019 Nordic Heatwave At Least 10 Times More Likely - Earth.Org",
       "pubDate": "Thu, 14 Aug 2025 00:03:45 GMT"
+    },
+    {
+      "title": "Intense two-week heatwave in Fennoscandia hotter and more likely due to climate change - World Weather Attribution",
+      "pubDate": "Thu, 14 Aug 2025 00:03:32 GMT"
     }
   ],
   "volcanoes": [
@@ -3231,10 +3235,6 @@
   ],
   "mars": [
     {
-      "title": "A Rock On Mars Last Week As Seen By Mars Perseverance On Sol 1580 - astrobiology.com",
-      "pubDate": "Thu, 07 Aug 2025 04:55:40 GMT"
-    },
-    {
       "title": "Scientists Just Found a Mysterious Substance on Mars That Could Be Unlike Anything on Earth - The Daily Galaxy",
       "pubDate": "Sat, 09 Aug 2025 15:44:09 GMT"
     },
@@ -3521,6 +3521,16 @@
     {
       "title": "More Oracle Layoffs Amid Billions in AI, Cloud Investment - Channel Futures",
       "pubDate": "Wed, 13 Aug 2025 18:38:30 GMT"
+    },
+    {
+      "title": "AI is changing Kubernetes faster than most teams can keep up - Help Net Security",
+      "pubDate": "Thu, 14 Aug 2025 04:00:53 GMT"
+    }
+  ],
+  "earth's_magnetic_field": [
+    {
+      "title": "NASA launches TRACERS mission to study Earth\u2019s \u2018magnetic shield\u2019 - Physics World",
+      "pubDate": "Wed, 13 Aug 2025 23:06:38 GMT"
     }
   ]
 }
