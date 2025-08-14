@@ -319,6 +319,10 @@
     {
       "title": "Salesforce Ventures-backed Datumo raises $15.5m for AI trust and safety - Silicon Republic",
       "pubDate": "Wed, 13 Aug 2025 08:35:21 GMT"
+    },
+    {
+      "title": "XAI co-founder Babuschkin departs to launch AI safety investment firm - Reuters",
+      "pubDate": "Wed, 13 Aug 2025 22:51:43 GMT"
     }
   ],
   "financial_markets": [
@@ -493,10 +497,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russian drones hunt civilians as Putin zeroes in on Ukraine\u2019s Kherson - CNN",
-      "pubDate": "Thu, 07 Aug 2025 00:00:00 GMT"
-    },
-    {
       "title": "Ukraine war latest: Putin reveals one possible location for Trump talks - and reacts to idea of meeting Zelenskyy - Sky News",
       "pubDate": "Thu, 07 Aug 2025 06:07:39 GMT"
     },
@@ -600,10 +600,6 @@
     }
   ],
   "china": [
-    {
-      "title": "New Chinese Stealth Tactical Jet Breaks Cover - The War Zone",
-      "pubDate": "Wed, 06 Aug 2025 23:36:22 GMT"
-    },
     {
       "title": "Trump vows more secondary sanctions for Russia oil buyers are coming, including potentially on China - CNN",
       "pubDate": "Thu, 07 Aug 2025 04:32:00 GMT"
@@ -759,6 +755,10 @@
     {
       "title": "China\u2019s military wants to target US undersea sensor network: Analysis - Defense News",
       "pubDate": "Wed, 13 Aug 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Breakingviews - Evergrande delisting is awkward moment for China - Reuters",
+      "pubDate": "Wed, 13 Aug 2025 12:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1273,6 +1273,10 @@
     {
       "title": "New treatment eliminates bladder cancer in 82% of patients - Keck Medicine of USC",
       "pubDate": "Wed, 13 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Vegetarian Diets Can Slash Cancer Risk by Up to 45%, Large Study Finds - ScienceAlert",
+      "pubDate": "Wed, 13 Aug 2025 12:02:31 GMT"
     }
   ],
   "space_exploration": [
@@ -1903,6 +1907,10 @@
     {
       "title": "Bangladesh struggles to keep energy transition on track - Context News",
       "pubDate": "Wed, 13 Aug 2025 05:31:58 GMT"
+    },
+    {
+      "title": "Rooftop solar, battery storage could offer a lifeline in energy insecurity - pv magazine USA",
+      "pubDate": "Wed, 13 Aug 2025 17:27:56 GMT"
     }
   ],
   "global_health": [
@@ -2147,6 +2155,10 @@
     {
       "title": "Revolutionary Quantum Physics Algorithm Improves Medical Imaging Quality - ScienceBlog.com",
       "pubDate": "Tue, 12 Aug 2025 22:48:58 GMT"
+    },
+    {
+      "title": "Justice Department, Greystar reach proposed settlement on algorithmic pricing for rental housing - Smart Cities Dive",
+      "pubDate": "Wed, 13 Aug 2025 15:19:02 GMT"
     }
   ],
   "astronomy": [
@@ -2471,6 +2483,10 @@
     {
       "title": "Experts push to uphold credible climate science findings as Trump administration spreads doubt - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Groups sue Trump agencies for using 'secret' report to reverse core of US climate rules - Reuters",
+      "pubDate": "Wed, 13 Aug 2025 14:13:56 GMT"
     }
   ],
   "volcanoes": [
@@ -2700,10 +2716,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Trump\u2019s tariffs are giving Lula a boost and shifting Brazil\u2019s geopolitics - Atlantic Council",
-      "pubDate": "Wed, 06 Aug 2025 23:20:00 GMT"
-    },
     {
       "title": "US losing ground to China in competition over Central Asia\u2019s critical minerals - Eurasianet",
       "pubDate": "Thu, 07 Aug 2025 16:20:11 GMT"
@@ -3149,12 +3161,6 @@
       "pubDate": "Tue, 12 Aug 2025 15:22:03 GMT"
     }
   ],
-  "quantum_information": [
-    {
-      "title": "Scientists achieve first direct measurement of quantum distance in solid material - R&D World",
-      "pubDate": "Wed, 06 Aug 2025 23:30:31 GMT"
-    }
-  ],
   "self-driving_cars": [
     {
       "title": "New law affecting millions of cars will take effect in one US state in September - The Mirror US",
@@ -3475,6 +3481,12 @@
     {
       "title": "Kim Jong-un and Putin discuss alliance and war efforts against Ukraine - Euronews.com",
       "pubDate": "Wed, 13 Aug 2025 04:22:58 GMT"
+    }
+  ],
+  "cloud_computing": [
+    {
+      "title": "More Oracle Layoffs Amid Billions in AI, Cloud Investment - Channel Futures",
+      "pubDate": "Wed, 13 Aug 2025 18:38:30 GMT"
     }
   ]
 }
