@@ -1,72 +1,62 @@
 {
-  "Earthquakes": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Scientists issue chilling warning about 'The Big One' earthquake predicted to be one of the most devastating in history - LADbible",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdW1HQjQtaE9zaGJoZU9IcWZoZDNJNkRUQnpIcThQRlg0dXR4OEgwbkl4ejB3YnE4MDBwMk5LRUk5QUxrUUhfV0kwUnVrenNPb3doOTBuaGIwZm8wZVVtLTBVRVhaUjNmMl91T2JTUXBybHQ2bGZQX09oSHhWeHlFVm00V2ZvblhQdkZuYzVPdHhxcm11RWM5bE4xMlR4VXlnN1JR?oc=5",
-        "pubDate": "Thu, 14 Aug 2025 07:04:10 GMT"
+        "title": "Anti-aircraft systems shoot down 24 out of 45 Russian drones - Ukrinform",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmNQeUgwN2NPd0ZuNmE0aFRrSGE1RVZ0Y1E4MjdLN05ZMnNrc3pOdmVHVmp3cmZrQmhndFJGY1ZEYWpjTjlnUk5xQ0ZqZTZYNURjZVFfUEFfcktpeXE4bVdXZVotczgzdHhuWU1tTG95aGdfaDBVemhrNVhjcU9YalpUNEtNR24yVFQ4V2k1dEhtUl9BMGI1Q1B0eUM4WGMxdVNnVTNuZXV0QWQzb2fSAbMBQVVfeXFMT0doT1ItdXFDc0wwQ1ZGaUFjalZHR0lScUxtdjQwcU5aazk2Z1o4WERteTItbW9TZWN6LTkzX2w0MG00Z2RuUUNJamZ0MXNsbnZfcTZ0S2h0SHp6Q1FCY2FlNE9Bclg5eUdoYjE5T3EzNXpOVVZyaXpDUmw0TGVadW1rblpOR2NTUVVKNGJGY3R5WF9IbTZ6Y2lRUmc5MkViR1V6a3lROXFVSTE1UnpST3llVGc?oc=5",
+        "pubDate": "Thu, 14 Aug 2025 07:09:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
   },
-  "Atlantic Ocean": {
+  "Quantum Computing": {
     "articles": [
       {
-        "title": "Atlantic churned by multiple hurricanes at once raises global concerns - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXIxa295eXYtbmNJY0RRa0VVLV9IUHViMDlBS2JYQlhtRzhmWWxlbnRiWjFKZ2RfMDdzYURFY3VCSVA4eHB1UXRhVnF0LTdHNDdKRmFQUkx6UGhDN252cVA4akhkZDFVUzV4NE1nMW9EbTF0RmJzMFZySTRqNEYtVGZ2dzlOYVdVMUpScHQtZHpPcUpFSjh0SnQ3eV9uaXRDVEVaVnprVEhmdEl1TUNlcllRQlpXVDgwU0R1TThkUUlLdFA4T0lpWGNxbDBYMXJ5TFNhalhn0gHbAUFVX3lxTE4wVzZVOVI2amFHU3lYX3NQaEg5VkYwdHd6Z3RuUnpFOU1NSUduMEVYT2hWUkVuR1JYbHZVc2hoUnZsSFg0YmJKbnZrbGVHU0twRl9oZ2ZXN1BMMHFZT1F2cjZ5dVh0eUFXTU5WaUJTcEFnYlRlWHZvR0hTYm13Z1A3VG9Kcnd2OVNhaTMzeFdJQjUzRkc2cGREaC13Mk1TUU9XX01WX1FWNFl4QXZubjJsZVFraW82NDZ0REJiZ3Brb0ZidEFFMmNEM1ItUXp3TVlqQ25ab2cxME1kRQ?oc=5",
-        "pubDate": "Thu, 14 Aug 2025 06:42:31 GMT"
+        "title": "Scientists Discover Mysterious \u201cQuantum Echo\u201d in Superconductors - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWV85aDhNSDRNNmFZYzByWE90ZkdYaHZ1RzVfVnN3V1FoTzlIaDZiWl9TZGN4Y2gtUUVmVnBxV2FONHVqNVV1VS1qVzZWOURBdDB6OEpSRkFfZThRekdhYUFvbXpleUN6Z0VzOVRMR3o5dUZ2UzJIbm03SUt3WnR0NldiMm80R25zdmVyLXVObU9MUQ?oc=5",
+        "pubDate": "Wed, 13 Aug 2025 23:01:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlFTN0UzZnRyb2JZMWh6NGJaVlhUcmhhc0lsWDVNejBwZWxyQXBtVjQ2Ylg5aFFOQ3V1UXhWcHV1ZXR6a2xZM0Z1V0VtWS1raG1QUElDWWZ5Y21Db2JwVU1JLXlVb0NfXy1FZHRMMFRlcE9BakhucUVCbzNWVllNMkdmWQ?oc=5",
+        "pubDate": "Thu, 14 Aug 2025 06:46:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Trump admin gives voices to scholars once silenced on climate change, COVID - The College Fix",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1JaVFdlby00TEw4a1E3Z1hNcG16b1Bqc1JVU3pvVTNaZ2tsZkdyZklBc2pySUo3RWhHbVM4dHNwM25EcTFCUmFUdkdGSDhVY2xmeWQyQ3VSeThDanhEU2EtSi00c091RE1zR2txQnA3Y2tGVU9iQzE4UDlCZnJyT1M5VmZBLUJpRUJDTGxwQ09ISDFVaDJSWkFIVlVaVEE4Ri1wSVV5b1I?oc=5",
-        "pubDate": "Thu, 14 Aug 2025 04:04:31 GMT"
+        "title": "Climate Change in the Indian Mind, Spring 2025 - Yale Program on Climate Change Communication",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1pHajdxcjZFZHNQSTVZeTJoU0EtWVhoZXQ2c1ozM0puNlVkY1RGSlB1eHNRQ0JLcW5QT2pyX1l4a3diNUVubUVHa3ZXSV9jVXRRX3ZnM0dtNlU1REFXZmJkT3BnemhIMnNPODVxdXE1LXNRTmEtVWQzMFJ3MDhPam9SWXAtMUZ5NXExQVQzaEcwWkVjOTdOc2xUZVRPQQ?oc=5",
+        "pubDate": "Thu, 14 Aug 2025 06:04:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
   },
-  "Google": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Google adds memories to the Gemini chatbot, staying a step ahead of Anthropic - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVJJT3l0WGtUTTRDOXZYT2tMdVVDUHJjTFhmWHpFUGlEWmZCMGFHampZOGhrN0NKM1FoZ09SZGhjSTJadnBXZ3ZwZDZJd0NtVnJpR19GR0hoMmlYajBuMG9oVjlZVjlUWXRpdkRhVGw4Wk5UU0syWC1BaGtSSXVyMl9FNnVMdEJENklXdVU1S3dCUWRkMFZPRDZ3?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 20:32:40 GMT"
+        "title": "Trump Scraps Two Nearly Completed $800M 12-Year Software Projects at Pentagon - Technology Org",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFV3bHJCS3ZwQm1SUFVyV0hGUHdycTNRZm9kVXVHRmNLSTRibjByMld2VHVrYzlHcXk2QmRxNHpadVBva3NuXzBBSzdNMHVESU83X0l3STJOWUhLOERENHlSdU1ma3NTdGJNWjZCeWFVMVg2TktfTnNBV21fdUhsQktRdHdqT1RPdGlkbWxHYWZRNHFWWVI0NGdnYUZPWU1CUnh6YzUzYzlGZmZ3ZGNMRTR1TjBXdw?oc=5",
+        "pubDate": "Thu, 14 Aug 2025 08:22:59 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
   },
-  "OpenAI": {
+  "Russia": {
     "articles": [
       {
-        "title": "OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs - WIRED",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTzh4NTg4aGlkbGpGZV84dGtfeU1FeTBkYV93UUlvWlpMQVEyMkF3Q0U0azZuR1dnaGpubzdOUUFlNUN3T3pCdjBMZWJ0ZVVvMlpJeHhoMVRDd3c?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 23:06:00 GMT"
+        "title": "Oil climbs on Russia supply risks, ahead of summit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWw3RVhQMmhHbC1MQU1iMXlsWS1ValBuOXVHMzUtQldHTEZJajAybWc0LUJzdnBFUEJGNWZNZTBtX0pPcUJwdWtadlRsQlVaX0NQMVZCUU1ibW1YS1JQX1RhM3pVanRUc2lnWUpYb1pkU1p6RFFzT1hjWGNlOWg3T3ltVU1ENEprSUtlTnJfLXdlS1VtMWY1cEVtVQ?oc=5",
+        "pubDate": "Thu, 14 Aug 2025 07:01:39 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
-  },
-  "Blockchain": {
-    "articles": [
-      {
-        "title": "Brazil Abandons Blockchain For Its Drex CBDC Project - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemFacjZSV2tTSXlHeHBFeldGdWdONXVuUndIbkN0ekFpV3JBYnhDLUxtUjBSeWhjSzdXUGxtdEVpckpuR2hBaDdsa0hsa3RNVXYwcFFLcG5hUkkxWHRjc2J2S0RGVERuRktPRzJ4VWt2LU52S2x4cVFhVnlBRjBIX00xS0tFdEN2RnpKR0NNMlhrSDc0Tm1mdEEzLWo3aE5Ra19vc0doZU94ZFNO?oc=5",
-        "pubDate": "Wed, 13 Aug 2025 20:59:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
-  },
-  "Military and Defense": {
-    "articles": [
-      {
-        "title": "US military holds multiple Arctic defense drills in region - The Nome Nugget",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1Znd0pOZ3o0UkJQRGhaZWUzVURPdTcwOWtlMkFsRDRQUE4yLWtIazlleFRIMG02Y0tUel9iaEtpZWxQUVFiOVlWblFuUk5Cd05uSHFPV21PSXQxcEYxaGJGVXB6TlcwNm4zLUNFRzFHd1NXdzg0UXZ6bFp5TU9Rck10Ti01V1ZDQUQ5TTU0LTc?oc=5",
-        "pubDate": "Thu, 14 Aug 2025 03:39:54 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-14T07:59:05.629661+00:00"
+    "last_updated_ts": "2025-08-14T08:59:02.756821+00:00"
   }
 }
