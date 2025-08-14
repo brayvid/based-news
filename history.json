@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel to proceed with plan to occupy entire Gaza Strip, Netanyahu says - Axios",
-      "pubDate": "Thu, 07 Aug 2025 15:49:59 GMT"
-    },
-    {
       "title": "Smotrich: Israel will \u2018erase the Palestinian state,\u2019 rebuild long-gone West Bank settlements - The Times of Israel",
       "pubDate": "Fri, 08 Aug 2025 08:16:24 GMT"
     },
@@ -219,10 +215,6 @@
   ],
   "russia": [
     {
-      "title": "Russia\u2019s oil exports shift toward Asia amid ongoing sanctions, EIA says - World Oil",
-      "pubDate": "Thu, 07 Aug 2025 15:52:10 GMT"
-    },
-    {
       "title": "Putin needles U.S. by giving Trump envoy an award meant for CIA official whose son died fighting for Russia - CBS News",
       "pubDate": "Fri, 08 Aug 2025 18:36:00 GMT"
     },
@@ -248,10 +240,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "What OpenAI's Latest Red-Teaming Challenge Reveals About the Evolution of AI 'Safety' Practices - Tech Policy Press",
-      "pubDate": "Thu, 07 Aug 2025 15:33:45 GMT"
-    },
     {
       "title": "GPT-5 is alive - Platformer",
       "pubDate": "Fri, 08 Aug 2025 00:46:56 GMT"
@@ -637,6 +625,10 @@
     {
       "title": "US wholesale prices jump 3.3% as Trump tariffs hit economy - Financial Times",
       "pubDate": "Thu, 14 Aug 2025 12:50:07 GMT"
+    },
+    {
+      "title": "Morning Business Report: US economy shows strength despite rising corporate bankruptcies - 41NBC News",
+      "pubDate": "Thu, 14 Aug 2025 11:29:06 GMT"
     }
   ],
   "china": [
@@ -880,10 +872,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "The trade war isn't over. It's just beginning - Axios",
-      "pubDate": "Thu, 07 Aug 2025 15:52:31 GMT"
-    },
     {
       "title": "Trump warns courts against knocking down tariffs, says duties are 'huge positive' for stock market - CNBC",
       "pubDate": "Fri, 08 Aug 2025 15:10:24 GMT"
@@ -2753,10 +2741,6 @@
   ],
   "asia": [
     {
-      "title": "China Watching in Chinese - Asia Society",
-      "pubDate": "Thu, 07 Aug 2025 15:36:52 GMT"
-    },
-    {
       "title": "Japan stocks soar but rest of Asia uneven as Miran gets Fed nod - Reuters",
       "pubDate": "Fri, 08 Aug 2025 05:52:00 GMT"
     },
@@ -3071,12 +3055,6 @@
       "pubDate": "Sat, 09 Aug 2025 16:34:31 GMT"
     }
   ],
-  "world_politics": [
-    {
-      "title": "Donald Trump and Vladimir Putin to meet in coming days, Kremlin aide says - BBC",
-      "pubDate": "Thu, 07 Aug 2025 15:06:33 GMT"
-    }
-  ],
   "energy_transition": [
     {
       "title": "Trump slows clean energy manufacturing projects worth $27.6 billion in US, report finds - Down To Earth",
@@ -3296,10 +3274,6 @@
     }
   ],
   "large_language_models": [
-    {
-      "title": "OpenAI ChatGPT-5 launch LIVE: All the big news as it happens - Tom's Guide",
-      "pubDate": "Thu, 07 Aug 2025 15:34:06 GMT"
-    },
     {
       "title": "How scientists caught AI writing their colleagues\u2019 papers - Fast Company",
       "pubDate": "Fri, 08 Aug 2025 20:21:31 GMT"
@@ -3581,6 +3555,12 @@
     {
       "title": "US scientists unveil \u2018microwave brain\u2019 chip for ultrafast, wireless computing - Interesting Engineering",
       "pubDate": "Thu, 14 Aug 2025 09:21:00 GMT"
+    }
+  ],
+  "syria": [
+    {
+      "title": "War crimes likely committed in Syria's coastal massacres, UN commission says - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 12:11:14 GMT"
     }
   ]
 }
