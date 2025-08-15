@@ -471,10 +471,6 @@
   ],
   "climate": [
     {
-      "title": "Why insurers worry the world could soon become uninsurable - CNBC",
-      "pubDate": "Fri, 08 Aug 2025 05:22:47 GMT"
-    },
-    {
       "title": "Record Krill Catch Prompts Early End to Fishing Season in Antarctica and Growing Calls to Protect its Fragile Ecosystems - Inside Climate News",
       "pubDate": "Fri, 08 Aug 2025 17:08:35 GMT"
     },
@@ -623,10 +619,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economic data quality is declining - Financial Times",
-      "pubDate": "Fri, 08 Aug 2025 05:30:25 GMT"
-    },
-    {
       "title": "US economy flirts with recession - The Express Tribune",
       "pubDate": "Mon, 11 Aug 2025 01:27:57 GMT"
     },
@@ -648,10 +640,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Alarm in China that efforts to control Chikungunya virus are infringing on rights - The Guardian",
-      "pubDate": "Fri, 08 Aug 2025 05:51:00 GMT"
-    },
     {
       "title": "China warns Philippines over Taiwan remarks amid rising tensions - Al Jazeera",
       "pubDate": "Fri, 08 Aug 2025 07:33:51 GMT"
@@ -889,6 +877,10 @@
     {
       "title": "Powerful sister of North Korean leader denies removal of front-line speakers - AP News",
       "pubDate": "Thu, 14 Aug 2025 06:33:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un welcomes Russian Duma chief at 80th Liberation Day celebration - NK News",
+      "pubDate": "Thu, 14 Aug 2025 23:21:29 GMT"
     }
   ],
   "trade_war": [
@@ -1088,10 +1080,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Trump picks Stephen Miran to fill open spot on Fed Board - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 05:53:00 GMT"
-    },
     {
       "title": "Trump makes surprise decision on Federal Reserve - TheStreet",
       "pubDate": "Fri, 08 Aug 2025 12:07:00 GMT"
@@ -1645,6 +1633,10 @@
     {
       "title": "Trump-backed American Bitcoin orders 16K Bitmain ASICs amid ongoing trade war - Cointelegraph",
       "pubDate": "Thu, 14 Aug 2025 22:10:00 GMT"
+    },
+    {
+      "title": "Treasury secretary clarifies Trump administration's crypto plans - Axios",
+      "pubDate": "Thu, 14 Aug 2025 22:46:44 GMT"
     }
   ],
   "fusion_power": [
@@ -1753,6 +1745,10 @@
     {
       "title": "South Africa court sets aside TotalEnergies' environmental permit - Reuters",
       "pubDate": "Thu, 14 Aug 2025 07:15:12 GMT"
+    },
+    {
+      "title": "Scientists hack microbes to identify environmental sources of methane - Berkeley News",
+      "pubDate": "Thu, 14 Aug 2025 18:42:52 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -1814,10 +1810,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "How Quantum Computing Could Upend Bitcoin - Barron's",
-      "pubDate": "Fri, 08 Aug 2025 05:30:00 GMT"
-    },
     {
       "title": "Japan Activates Fully Domestic Quantum Computer, Open to Public at Expo 2025 - HPCwire",
       "pubDate": "Fri, 08 Aug 2025 18:56:24 GMT"
@@ -2041,10 +2033,6 @@
   ],
   "gaza": [
     {
-      "title": "Israel announces plan to retake Gaza City in another escalation of the war - NPR",
-      "pubDate": "Fri, 08 Aug 2025 05:02:12 GMT"
-    },
-    {
       "title": "Israel's security cabinet approves Gaza City takeover as Starmer calls plan 'wrong' - live updates - BBC",
       "pubDate": "Fri, 08 Aug 2025 08:00:54 GMT"
     },
@@ -2194,10 +2182,6 @@
     }
   ],
   "battery_technology": [
-    {
-      "title": "US startup seeks to recharge Europe's fallen battery icon Northvolt - ET Auto",
-      "pubDate": "Fri, 08 Aug 2025 05:38:37 GMT"
-    },
     {
       "title": "Battery company makes key breakthrough that could revolutionize electric vehicles: 'A powerful path forward' - Yahoo! Tech",
       "pubDate": "Sat, 09 Aug 2025 11:00:00 GMT"
@@ -2725,6 +2709,10 @@
     {
       "title": "Businesses have been eating Trump\u2019s tariffs. That\u2019s starting to change - CNN",
       "pubDate": "Thu, 14 Aug 2025 12:36:00 GMT"
+    },
+    {
+      "title": "Japan posts unexpectedly strong GDP, helped by resilient exports - Reuters",
+      "pubDate": "Fri, 15 Aug 2025 03:33:11 GMT"
     }
   ],
   "pollution": [
@@ -2824,10 +2812,6 @@
     }
   ],
   "asia": [
-    {
-      "title": "Japan stocks soar but rest of Asia uneven as Miran gets Fed nod - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 05:52:00 GMT"
-    },
     {
       "title": "South Asia Tensions: Munir Issues Nuclear Threat, US Defends Pakistan Military Ties - Deccan Herald",
       "pubDate": "Sun, 10 Aug 2025 19:46:37 GMT"
@@ -3149,6 +3133,10 @@
     {
       "title": "America\u2019s Most Famous Court Trial - American Civil Liberties Union",
       "pubDate": "Mon, 11 Aug 2025 19:10:16 GMT"
+    },
+    {
+      "title": "Many Are Focused on the Wrong Questions When it Comes to AI - American Civil Liberties Union",
+      "pubDate": "Thu, 14 Aug 2025 17:59:31 GMT"
     }
   ],
   "oceans": [
@@ -3255,6 +3243,10 @@
     {
       "title": "Haiti declares three-month state of emergency as gang violence spikes - Al Jazeera",
       "pubDate": "Sat, 09 Aug 2025 21:23:51 GMT"
+    },
+    {
+      "title": "Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - AP News",
+      "pubDate": "Thu, 14 Aug 2025 23:43:00 GMT"
     }
   ],
   "computer_science": [
