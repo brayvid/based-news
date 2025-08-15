@@ -229,10 +229,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Let AI Dangle: Why the sketch.dev Integrity Breach Demands Human Accountability, Not Technical Cages - flyingpenguin",
-      "pubDate": "Fri, 08 Aug 2025 09:06:36 GMT"
-    },
-    {
       "title": "Elon Musk Issues Stark AI Safety Warning to Microsoft CEO After GPT-5 Launch - Zoom Bangla News",
       "pubDate": "Fri, 08 Aug 2025 16:08:48 GMT"
     },
@@ -504,10 +500,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Map Shows How Russia and Ukraine Could Swap Land to End War - Newsweek",
-      "pubDate": "Fri, 08 Aug 2025 09:12:41 GMT"
-    },
     {
       "title": "US and Russia Plan Truce Deal to Cement Putin\u2019s Gains in Ukraine - Bloomberg.com",
       "pubDate": "Fri, 08 Aug 2025 14:08:47 GMT"
@@ -799,6 +791,10 @@
     {
       "title": "China's Mounting Debt Could Spell Trouble for Economy - Newsweek",
       "pubDate": "Fri, 15 Aug 2025 08:00:01 GMT"
+    },
+    {
+      "title": "China\u2019s Economy Shows Signs of Buckling Under Tariff Pressure - Bloomberg",
+      "pubDate": "Fri, 15 Aug 2025 09:00:33 GMT"
     }
   ],
   "us_politics": [
@@ -834,10 +830,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "Inside North Korea's 'Benidorm' where tourists are forced to be happy for Kim Jong-un - Daily Express",
-      "pubDate": "Fri, 08 Aug 2025 09:43:00 GMT"
-    },
     {
       "title": "North Korea exploits job market in latest cyberattacks: report - CoinGeek",
       "pubDate": "Fri, 08 Aug 2025 15:00:38 GMT"
@@ -898,10 +890,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "CISA officials say agency is moving ahead despite workforce purge - Cybersecurity Dive",
-      "pubDate": "Fri, 08 Aug 2025 09:25:50 GMT"
-    },
     {
       "title": "Inside Palo Alto's massive $25b. deal for Israeli CyberArk - The Jerusalem Post",
       "pubDate": "Sat, 09 Aug 2025 05:27:16 GMT"
@@ -1143,6 +1131,10 @@
     {
       "title": "Federal Court Vacates Federal Reserve\u2019s Interchange Fee Rule - The National Law Review",
       "pubDate": "Thu, 14 Aug 2025 22:09:45 GMT"
+    },
+    {
+      "title": "Federal Reserve's RRP Balance Drops 86% in Four Years, Liquidity Concerns Rise - AInvest",
+      "pubDate": "Fri, 15 Aug 2025 01:33:08 GMT"
     }
   ],
   "earthquakes": [
@@ -2025,10 +2017,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza latest: Israel to \u2018begin siege of Gaza on October 7\u2019 after Netanyahu given green light to take full military control - The Independent",
-      "pubDate": "Fri, 08 Aug 2025 09:34:00 GMT"
-    },
-    {
       "title": "Germany halts military exports that could be used in Gaza, Merz says - Reuters",
       "pubDate": "Fri, 08 Aug 2025 10:39:48 GMT"
     },
@@ -2327,6 +2315,10 @@
     {
       "title": "Researchers uncover the physics behind inaccuracies of cuff-based blood pressure readings - News-Medical",
       "pubDate": "Tue, 12 Aug 2025 16:11:00 GMT"
+    },
+    {
+      "title": "A Glimpse of New Physics? ATLAS Edges Closer to Unlocking Higgs Boson Secrets - SciTechDaily",
+      "pubDate": "Fri, 15 Aug 2025 03:55:56 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2739,6 +2731,10 @@
     {
       "title": "Scientists use modeling track where metro Phoenix ozone pollution actually comes from - KJZZ",
       "pubDate": "Thu, 14 Aug 2025 20:53:00 GMT"
+    },
+    {
+      "title": "UN majority rejects draft of treaty to end plastic pollution - JURIST Legal News",
+      "pubDate": "Fri, 15 Aug 2025 00:09:51 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -2841,6 +2837,10 @@
     {
       "title": "SpaceX goes back to drawing board over its ambitious rocket for Mars - The Independent",
       "pubDate": "Fri, 15 Aug 2025 08:08:00 GMT"
+    },
+    {
+      "title": "SpaceX Starship Flight 5 Splashdown And Explosion Captured By Buoy Camera - MSN",
+      "pubDate": "Fri, 15 Aug 2025 07:01:19 GMT"
     }
   ],
   "geopolitics": [
@@ -3671,6 +3671,12 @@
     {
       "title": "Texas House Democrats lay out conditions to end quorum break, return to state for second special session - KVUE",
       "pubDate": "Thu, 14 Aug 2025 22:52:00 GMT"
+    }
+  ],
+  "fixed-income_investing": [
+    {
+      "title": "Global Credit Market Opportunities in Q2 2025: Strategic Positioning in a Shifting Fixed Income Landscape - AInvest",
+      "pubDate": "Fri, 15 Aug 2025 04:14:07 GMT"
     }
   ]
 }
