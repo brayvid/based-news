@@ -353,10 +353,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Op-ed: Silicon Valley is dictating U.S. AI policy. It's a mistake that will benefit China - CNBC",
-      "pubDate": "Fri, 08 Aug 2025 11:30:01 GMT"
-    },
-    {
       "title": "Not today, AI: Despite corporate hype, few signs that the tech is taking jobs \u2014 yet - NBC News",
       "pubDate": "Fri, 08 Aug 2025 20:00:40 GMT"
     },
@@ -637,10 +633,6 @@
       "pubDate": "Fri, 08 Aug 2025 16:07:40 GMT"
     },
     {
-      "title": "At least 10 dead, 33 missing in flash floods in China\u2019s Gansu province - Al Jazeera",
-      "pubDate": "Fri, 08 Aug 2025 11:15:00 GMT"
-    },
-    {
       "title": "China has declared war on the chikungunya virus. How much of a threat is it? : Goats and Soda - NPR",
       "pubDate": "Fri, 08 Aug 2025 20:16:01 GMT"
     },
@@ -895,6 +887,10 @@
     {
       "title": "US losing out on China soybean sales as Brazil fills key supply period - Reuters",
       "pubDate": "Thu, 14 Aug 2025 01:34:00 GMT"
+    },
+    {
+      "title": "China Escalates Canada Trade Spat With WTO Suit Over Steel - Bloomberg.com",
+      "pubDate": "Fri, 15 Aug 2025 10:26:30 GMT"
     }
   ],
   "cybersecurity": [
@@ -1465,12 +1461,6 @@
       "pubDate": "Thu, 14 Aug 2025 16:23:32 GMT"
     }
   ],
-  "tesla": [
-    {
-      "title": "Elon Musk explains why Tesla stepped back from Project Dojo - Teslarati",
-      "pubDate": "Fri, 08 Aug 2025 11:32:44 GMT"
-    }
-  ],
   "data_breach": [
     {
       "title": "In letter, U.S. senators admonish UnitedHealth after second major cyberattack in a year - Star Tribune",
@@ -1539,13 +1529,13 @@
     {
       "title": "Afghan whose details were in UK data breach at risk from Taliban if deported, son tells BBC - BBC",
       "pubDate": "Fri, 15 Aug 2025 08:22:31 GMT"
+    },
+    {
+      "title": "Hackers exploit Microsoft flaw to breach Canada \u2019s House of Commons - Security Affairs",
+      "pubDate": "Fri, 15 Aug 2025 00:08:16 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "A major historical bitcoin cycle that dictates its price might be breaking - CNBC",
-      "pubDate": "Fri, 08 Aug 2025 11:39:13 GMT"
-    },
     {
       "title": "Harvard had more money in BlackRock's Bitcoin ETF than Google shares at end of last quarter - The Block",
       "pubDate": "Fri, 08 Aug 2025 21:00:33 GMT"
@@ -1629,13 +1619,13 @@
     {
       "title": "Treasury secretary clarifies Trump administration's crypto plans - Axios",
       "pubDate": "Thu, 14 Aug 2025 22:46:44 GMT"
+    },
+    {
+      "title": "Bitcoin falls after Treasury Secretary rules out buying it for strategic reserve - Quartz",
+      "pubDate": "Fri, 15 Aug 2025 06:00:33 GMT"
     }
   ],
   "fusion_power": [
-    {
-      "title": "China's Next-Gen Fusion Reactor Could Achieve First Plasma in Just 2 Years - MSN",
-      "pubDate": "Fri, 08 Aug 2025 11:19:55 GMT"
-    },
     {
       "title": "Officials launch game-changing program to fast-track virtually limitless power generation: 'Accelerate our shared ambition' - The Cool Down",
       "pubDate": "Fri, 08 Aug 2025 21:15:00 GMT"
@@ -1696,10 +1686,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI beats Elon Musk's Grok in AI chess tournament - BBC",
-      "pubDate": "Fri, 08 Aug 2025 11:37:19 GMT"
-    },
     {
       "title": "OpenAI's Sam Altman touts GPT-5 capabilities: Gives entrepreneurs 'superpowers' - Fox Business",
       "pubDate": "Fri, 08 Aug 2025 13:37:47 GMT"
@@ -2611,6 +2597,10 @@
     {
       "title": "Greece, Spain and Portugal race to contain wildfires as EU steps up cross-border help - AP News",
       "pubDate": "Thu, 14 Aug 2025 16:45:00 GMT"
+    },
+    {
+      "title": "Why EU\u2019s 2035 combustion car ban faces rising pressure - Automotive News",
+      "pubDate": "Fri, 15 Aug 2025 01:00:00 GMT"
     }
   ],
   "amazon": [
@@ -2647,6 +2637,10 @@
     {
       "title": "US military holds multiple Arctic defense drills in region - The Nome Nugget",
       "pubDate": "Thu, 14 Aug 2025 03:39:54 GMT"
+    },
+    {
+      "title": "Russia's long-range bombers kept up attack tempo, showing fleet's 'resilience' despite Ukraine's Spiderweb attack: UK MOD - Business Insider Africa",
+      "pubDate": "Fri, 15 Aug 2025 03:34:15 GMT"
     }
   ],
   "world_news": [
@@ -2795,6 +2789,10 @@
     {
       "title": "India says de-dollarisation not on it's agenda as Brazil plans BRICS meet - The Economic Times",
       "pubDate": "Thu, 14 Aug 2025 18:42:13 GMT"
+    },
+    {
+      "title": "Trump is attacking Brazil to weaken BRICS \u2013 but his plan might backfire - Chatham House",
+      "pubDate": "Fri, 15 Aug 2025 10:05:02 GMT"
     }
   ],
   "terrorism": [
@@ -3683,6 +3681,12 @@
     {
       "title": "Global Credit Market Opportunities in Q2 2025: Strategic Positioning in a Shifting Fixed Income Landscape - AInvest",
       "pubDate": "Fri, 15 Aug 2025 04:14:07 GMT"
+    }
+  ],
+  "defense_intelligence_agency": [
+    {
+      "title": "US intel warns of new challenge for Ukraine\u2019s Patriot systems, media reports - RBC-Ukraine",
+      "pubDate": "Fri, 15 Aug 2025 11:06:48 GMT"
     }
   ]
 }
