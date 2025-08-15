@@ -47,10 +47,6 @@
   ],
   "iran": [
     {
-      "title": "British couple detained in Iran without clean water, says son - BBC",
-      "pubDate": "Fri, 08 Aug 2025 18:01:41 GMT"
-    },
-    {
       "title": "Russia Builds Shahed-136 Drones Independently, Tensions With Iran Rise - NDTV",
       "pubDate": "Sat, 09 Aug 2025 07:35:41 GMT"
     },
@@ -88,10 +84,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump signs order authorising military action against cartels: Reports - Al Jazeera",
-      "pubDate": "Fri, 08 Aug 2025 18:11:05 GMT"
-    },
     {
       "title": "Trump announces August 15 meet-up with Putin in Alaska, warns of land swap - Al Jazeera",
       "pubDate": "Fri, 08 Aug 2025 22:35:12 GMT"
@@ -206,10 +198,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Putin needles U.S. by giving Trump envoy an award meant for CIA official whose son died fighting for Russia - CBS News",
-      "pubDate": "Fri, 08 Aug 2025 18:36:00 GMT"
-    },
     {
       "title": "Instead of sanctions, Donald Trump announces a summit with Russia - The Economist",
       "pubDate": "Sat, 09 Aug 2025 14:54:53 GMT"
@@ -1243,10 +1231,6 @@
       "pubDate": "Fri, 08 Aug 2025 19:04:26 GMT"
     },
     {
-      "title": "US FDA approves Boehringer Ingelheim's lung cancer treatment - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 18:50:40 GMT"
-    },
-    {
       "title": "Scientists uncover new way in which cells tolerate anticancer drugs - EurekAlert!",
       "pubDate": "Sat, 09 Aug 2025 04:12:42 GMT"
     },
@@ -1779,19 +1763,11 @@
   ],
   "biology": [
     {
-      "title": "Scientists discover an organism that defies the definition of life - Earth.com",
-      "pubDate": "Fri, 08 Aug 2025 18:28:30 GMT"
-    },
-    {
       "title": "Researchers discover previously unknown \u201cfolding factories\u201d for proteins - EurekAlert!",
       "pubDate": "Mon, 11 Aug 2025 16:10:57 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Japan Activates Fully Domestic Quantum Computer, Open to Public at Expo 2025 - HPCwire",
-      "pubDate": "Fri, 08 Aug 2025 18:56:24 GMT"
-    },
     {
       "title": "IBM and Moderna have simulated the longest mRNA pattern without AI \u2014 they used a quantum computer instead - Live Science",
       "pubDate": "Sat, 09 Aug 2025 12:00:00 GMT"
@@ -1862,10 +1838,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "US intel agency reviewing Grok video filmed during man\u2019s commute to secure NSA facility - CNN",
-      "pubDate": "Fri, 08 Aug 2025 18:26:00 GMT"
-    },
     {
       "title": "Years late, but ULA\u2019s Vulcan set for 1st national security launch - Orlando Sentinel",
       "pubDate": "Sun, 10 Aug 2025 11:01:03 GMT"
@@ -2323,10 +2295,6 @@
       "pubDate": "Fri, 08 Aug 2025 22:48:35 GMT"
     },
     {
-      "title": "A Comet Could\u2019ve Caused Rapid Climate Shift Around 12,800 Years Ago - Discover Magazine",
-      "pubDate": "Fri, 08 Aug 2025 18:48:03 GMT"
-    },
-    {
       "title": "Faced with rising seas and falling aid, Fijian villages move uphill - The Washington Post",
       "pubDate": "Sat, 09 Aug 2025 09:01:55 GMT"
     },
@@ -2541,6 +2509,10 @@
     {
       "title": "Climate Change Is Supercharging the Case for More Seasonal Work - Inc.com",
       "pubDate": "Fri, 15 Aug 2025 10:38:47 GMT"
+    },
+    {
+      "title": "After historic flood and devastating losses, Milwaukee begins a new path forward - Milwaukee Journal Sentinel",
+      "pubDate": "Fri, 15 Aug 2025 10:05:07 GMT"
     }
   ],
   "volcanoes": [
@@ -2876,10 +2848,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Historic Ruling: Tesla Partly Responsible For Deadly Autopilot Car Crash - yahoo.com",
-      "pubDate": "Fri, 08 Aug 2025 18:37:26 GMT"
-    },
     {
       "title": "Used Electric Vehicle Sales Surge as Demand Accelerates by 40 Percent - Sustainable Times",
       "pubDate": "Sat, 09 Aug 2025 23:24:38 GMT"
@@ -3311,10 +3279,6 @@
   ],
   "asteroids": [
     {
-      "title": "Spacecraft headed to DART asteroid crash site images 2 faint space rocks to boost planetary defense tactics - Space",
-      "pubDate": "Fri, 08 Aug 2025 19:00:00 GMT"
-    },
-    {
       "title": "A fiery meteor that punched through a Georgia home's roof is older than Earth, a scientist says - ABC News",
       "pubDate": "Sat, 09 Aug 2025 00:34:20 GMT"
     },
@@ -3431,6 +3395,10 @@
     {
       "title": "Ukraine war has transformed North Korean military: Kyiv\u2019s military intel chief - The Japan Times",
       "pubDate": "Wed, 13 Aug 2025 01:11:00 GMT"
+    },
+    {
+      "title": "Russia readying nuclear-powered cruise missile test, Ukrainian military intelligence says By Reuters - Investing.com",
+      "pubDate": "Fri, 15 Aug 2025 18:18:49 GMT"
     }
   ],
   "google": [
