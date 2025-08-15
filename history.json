@@ -489,10 +489,6 @@
   ],
   "ukraine": [
     {
-      "title": "Trump gauges Europe's reaction to Putin's ceasefire offer - Politico",
-      "pubDate": "Fri, 08 Aug 2025 21:13:17 GMT"
-    },
-    {
       "title": "Zelenskyy rejects Trump's proposal that Ukraine could swap territories with Russia - NBC News",
       "pubDate": "Sat, 09 Aug 2025 07:24:00 GMT"
     },
@@ -779,10 +775,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump executive order gives politicians control over all federal grants, alarming researchers - The Detroit News",
-      "pubDate": "Fri, 08 Aug 2025 21:21:09 GMT"
-    },
-    {
       "title": "Union Leaders Get Tough With Democrats as Members Drift Toward Trump - The New York Times",
       "pubDate": "Sat, 09 Aug 2025 09:00:59 GMT"
     },
@@ -809,6 +801,10 @@
     {
       "title": "Trump is targeting sanctuary cities to settle political scores and potentially arrest his opponents - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 16:28:00 GMT"
+    },
+    {
+      "title": "New Poll Shows Top 2028 Democratic, Republican Candidates By Texas Voters - Newsweek",
+      "pubDate": "Fri, 15 Aug 2025 20:50:54 GMT"
     }
   ],
   "democratic_party": [
@@ -1423,10 +1419,6 @@
   ],
   "data_breach": [
     {
-      "title": "In letter, U.S. senators admonish UnitedHealth after second major cyberattack in a year - Star Tribune",
-      "pubDate": "Fri, 08 Aug 2025 21:48:55 GMT"
-    },
-    {
       "title": "Tea App Slammed With Ten Lawsuits After Data Breach Leaks Women\u2019s Private Photos And Messages To 4chan, Triggering Outrage, Scandal, And Fierce Demands For Stronger Privacy Protections - Wccftech",
       "pubDate": "Sat, 09 Aug 2025 07:54:00 GMT"
     },
@@ -1497,6 +1489,10 @@
     {
       "title": "Over 190 million hit in UnitedHealth data breach \u2014 confirmed largest in history - Tom's Guide",
       "pubDate": "Fri, 15 Aug 2025 14:56:16 GMT"
+    },
+    {
+      "title": "Data of former UK ministers and Afghan refugees leaked after cyber attack - Financial Times",
+      "pubDate": "Fri, 15 Aug 2025 20:18:43 GMT"
     }
   ],
   "bitcoin": [
@@ -1590,10 +1586,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Officials launch game-changing program to fast-track virtually limitless power generation: 'Accelerate our shared ambition' - The Cool Down",
-      "pubDate": "Fri, 08 Aug 2025 21:15:00 GMT"
-    },
     {
       "title": "Russia warns US fusion reactor\u2019s 350 MW target could become an energy superweapon - dixiesunnews.com",
       "pubDate": "Mon, 11 Aug 2025 13:00:19 GMT"
@@ -1793,13 +1785,13 @@
     {
       "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
       "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
+    },
+    {
+      "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
+      "pubDate": "Fri, 15 Aug 2025 20:22:00 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
-    {
-      "title": "Trump\u2019s New Census Could Spell Trouble for Democrats, Like Ocasio-Cortez and Jeffries, in Districts With Many Non-Citizens - The New York Sun",
-      "pubDate": "Fri, 08 Aug 2025 21:07:53 GMT"
-    },
     {
       "title": "Former AOC Campaign Worker Charged Over Threat Targeting Jewish Students - VINnews",
       "pubDate": "Sun, 10 Aug 2025 01:55:18 GMT"
@@ -2185,10 +2177,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists capture bridge of stray stars being sucked from one galaxy to another - Space",
-      "pubDate": "Fri, 08 Aug 2025 22:00:00 GMT"
-    },
-    {
       "title": "Astronomers Spot the Earliest Confirmed Black Hole at Cosmic Dawn - Universe Today",
       "pubDate": "Sat, 09 Aug 2025 18:55:00 GMT"
     },
@@ -2227,6 +2215,10 @@
     {
       "title": "Astronomers Just Used AI To Spot A Major Space Event 730 Million Light-Years Away For First Time Ever - Benzinga",
       "pubDate": "Thu, 14 Aug 2025 12:05:21 GMT"
+    },
+    {
+      "title": "The oldest known black hole formed more than 13.3 billion years ago - Science News",
+      "pubDate": "Fri, 15 Aug 2025 13:00:00 GMT"
     }
   ],
   "physics": [
@@ -2775,10 +2767,6 @@
   ],
   "geopolitics": [
     {
-      "title": "Trump announces peace deal between Azerbaijan and Armenia at White House - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 21:59:24 GMT"
-    },
-    {
       "title": "The New Geopolitical Order: How U.S. Policy Shifts Are Reshaping Global Investment Strategies - AInvest",
       "pubDate": "Sun, 10 Aug 2025 04:12:42 GMT"
     },
@@ -2948,10 +2936,6 @@
     }
   ],
   "atmospheric_science": [
-    {
-      "title": "Exploring the Connection: How Wildfire Smoke Intensifies Ozone Pollution - BIOENGINEER.ORG",
-      "pubDate": "Fri, 08 Aug 2025 21:45:22 GMT"
-    },
     {
       "title": "Scientists investigate wildfire smoke's long reach above Idaho - KTVB",
       "pubDate": "Sat, 09 Aug 2025 04:42:00 GMT"
@@ -3607,6 +3591,18 @@
     {
       "title": "Scientists capture first footage of human embryo implanting in a uterus - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 18:01:00 GMT"
+    }
+  ],
+  "wind_power": [
+    {
+      "title": "China builds record-breaking floating wind turbine \u2014 it could change the face of renewable energy - Live Science",
+      "pubDate": "Fri, 15 Aug 2025 14:00:00 GMT"
+    }
+  ],
+  "us_foreign_policy": [
+    {
+      "title": "Trump Rolls Out the Red Carpet for Putin in Alaska - Foreign Policy",
+      "pubDate": "Fri, 15 Aug 2025 21:57:36 GMT"
     }
   ]
 }
