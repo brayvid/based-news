@@ -615,6 +615,10 @@
     {
       "title": "August 14, 2025: Trump says Putin will make deal on Ukraine as leaders prepare for Alaska meeting - CNN",
       "pubDate": "Fri, 15 Aug 2025 02:36:54 GMT"
+    },
+    {
+      "title": "Ukraine brings back 84 POWs including dozens of civilians - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 16:32:01 GMT"
     }
   ],
   "us_economy": [
@@ -644,10 +648,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China accuses Philippines of 'playing with fire' on Taiwan - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 03:45:21 GMT"
-    },
     {
       "title": "Alarm in China that efforts to control Chikungunya virus are infringing on rights - The Guardian",
       "pubDate": "Fri, 08 Aug 2025 05:51:00 GMT"
@@ -1705,6 +1705,10 @@
     {
       "title": "Nvidia-backed CoreWeave is plummeting after earnings. Here\u2019s what analysts have to say - CNBC",
       "pubDate": "Wed, 13 Aug 2025 14:18:55 GMT"
+    },
+    {
+      "title": "Nvidia-Backed Lambda Eyes Funding at Over $4 Billion Valuation - Bloomberg.com",
+      "pubDate": "Thu, 14 Aug 2025 19:35:46 GMT"
     }
   ],
   "openai": [
@@ -2635,10 +2639,6 @@
   ],
   "amazon": [
     {
-      "title": "Amazon, Walmart, Target Halt Orders From India After Trump Doubles Tariff: Sources - NDTV",
-      "pubDate": "Fri, 08 Aug 2025 03:55:18 GMT"
-    },
-    {
       "title": "Amazon's Starlink Competitor Tops 100 Satellites. What Project Kuiper Means For Amazon Stock. - Investor's Business Daily",
       "pubDate": "Mon, 11 Aug 2025 16:50:00 GMT"
     },
@@ -3069,10 +3069,6 @@
   ],
   "fbi": [
     {
-      "title": "FBI fires former acting head, two other officials at odds with Trump administration - The Washington Post",
-      "pubDate": "Fri, 08 Aug 2025 03:06:44 GMT"
-    },
-    {
       "title": "Trump Sends 120 FBI Agents to DC Amid Crime Crackdown Threat: Report - Newsweek",
       "pubDate": "Sun, 10 Aug 2025 21:34:14 GMT"
     },
@@ -3387,12 +3383,6 @@
       "pubDate": "Sun, 10 Aug 2025 14:00:00 GMT"
     }
   ],
-  "abiogenesis": [
-    {
-      "title": "Darwin declared dead again: a paper in a supposedly reputable journal concludes that life could not have originated by evolutionary processes - Why Evolution Is True",
-      "pubDate": "Fri, 08 Aug 2025 03:11:15 GMT"
-    }
-  ],
   "the_pentagon": [
     {
       "title": "New Pentagon policy could divert weapons built for Ukraine back into US stockpiles - CNN",
@@ -3655,6 +3645,22 @@
     {
       "title": "New blood pressure guidelines recommend an earlier start to treatment and skipping alcohol - CNN",
       "pubDate": "Thu, 14 Aug 2025 18:00:00 GMT"
+    },
+    {
+      "title": "US medical journal rejects call from RFK Jr to retract vaccine study - The Guardian",
+      "pubDate": "Fri, 15 Aug 2025 01:31:00 GMT"
+    }
+  ],
+  "investment": [
+    {
+      "title": "Warren Buffett's company reveals new investments in Nucor, homebuilders Lennar and DR Horton - ABC News",
+      "pubDate": "Thu, 14 Aug 2025 21:13:28 GMT"
+    }
+  ],
+  "tidal_power": [
+    {
+      "title": "Japan connects first 1.1 MW tidal turbine - Transformers Magazine",
+      "pubDate": "Fri, 15 Aug 2025 03:03:43 GMT"
     }
   ]
 }
