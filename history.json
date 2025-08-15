@@ -93,10 +93,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump calls for major changes to census amid GOP redistricting effort - The Washington Post",
-      "pubDate": "Fri, 08 Aug 2025 04:40:38 GMT"
-    },
-    {
       "title": "Donald Trump Orders Crackdown on Politically-Motivated \u2018Debanking\u2019 - WIRED",
       "pubDate": "Fri, 08 Aug 2025 07:02:49 GMT"
     },
@@ -467,6 +463,10 @@
     {
       "title": "DeepSeek reverts to Nvidia for R2 model after Huawei AI chip fails - AI News",
       "pubDate": "Thu, 14 Aug 2025 16:06:55 GMT"
+    },
+    {
+      "title": "Powerful new AI models knock the wind out of European adopter stocks - Reuters",
+      "pubDate": "Fri, 15 Aug 2025 04:33:00 GMT"
     }
   ],
   "climate": [
@@ -1563,10 +1563,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Why struggling companies are loading up on bitcoin - Financial Times",
-      "pubDate": "Fri, 08 Aug 2025 04:00:51 GMT"
-    },
-    {
       "title": "A major historical bitcoin cycle that dictates its price might be breaking - CNBC",
       "pubDate": "Fri, 08 Aug 2025 11:39:13 GMT"
     },
@@ -1900,10 +1896,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "US Adopts Submarine Cable Rules to Address China Security Risk - Bloomberg",
-      "pubDate": "Fri, 08 Aug 2025 04:06:00 GMT"
-    },
     {
       "title": "US intel agency reviewing Grok video filmed during man\u2019s commute to secure NSA facility - CNN",
       "pubDate": "Fri, 08 Aug 2025 18:26:00 GMT"
@@ -2361,6 +2353,10 @@
     {
       "title": "CISA Releases a Malware and Forensic Analysis Platform - Security Magazine",
       "pubDate": "Fri, 08 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "CISA begs operational technology admins to lock down - theregister.com",
+      "pubDate": "Thu, 14 Aug 2025 17:16:00 GMT"
     }
   ],
   "climate_change": [
@@ -2803,6 +2799,10 @@
     {
       "title": "No backing down: Brazil President pushes for new BRICS currency amid tariff tensions with US - GujaratSamachar English",
       "pubDate": "Thu, 14 Aug 2025 14:11:39 GMT"
+    },
+    {
+      "title": "India says de-dollarisation not on it's agenda as Brazil plans BRICS meet - The Economic Times",
+      "pubDate": "Thu, 14 Aug 2025 18:42:13 GMT"
     }
   ],
   "terrorism": [
@@ -2853,6 +2853,10 @@
     {
       "title": "Trump orders space regulations eased in win for Musk - KTEN",
       "pubDate": "Thu, 14 Aug 2025 01:52:08 GMT"
+    },
+    {
+      "title": "SpaceX challenges Virginia\u2019s rural broadband funding awards - SpaceNews",
+      "pubDate": "Thu, 14 Aug 2025 22:17:27 GMT"
     }
   ],
   "geopolitics": [
@@ -3661,6 +3665,12 @@
     {
       "title": "Japan connects first 1.1 MW tidal turbine - Transformers Magazine",
       "pubDate": "Fri, 15 Aug 2025 03:03:43 GMT"
+    }
+  ],
+  "us_house_of_representatives": [
+    {
+      "title": "Texas House Democrats lay out conditions to end quorum break, return to state for second special session - KVUE",
+      "pubDate": "Thu, 14 Aug 2025 22:52:00 GMT"
     }
   ]
 }
