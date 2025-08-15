@@ -51,10 +51,6 @@
       "pubDate": "Fri, 08 Aug 2025 18:01:41 GMT"
     },
     {
-      "title": "Israel's covert attack teams destroyed Iran's air defenses - ProPublica - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-      "pubDate": "Fri, 08 Aug 2025 16:12:00 GMT"
-    },
-    {
       "title": "Russia Builds Shahed-136 Drones Independently, Tensions With Iran Rise - NDTV",
       "pubDate": "Sat, 09 Aug 2025 07:35:41 GMT"
     },
@@ -92,10 +88,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump doubles reward to $50 million for arrest of Venezuela\u2019s president to face US drug charges - CNN",
-      "pubDate": "Fri, 08 Aug 2025 16:53:00 GMT"
-    },
     {
       "title": "Trump signs order authorising military action against cartels: Reports - Al Jazeera",
       "pubDate": "Fri, 08 Aug 2025 18:11:05 GMT"
@@ -244,10 +236,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Elon Musk Issues Stark AI Safety Warning to Microsoft CEO After GPT-5 Launch - Zoom Bangla News",
-      "pubDate": "Fri, 08 Aug 2025 16:08:48 GMT"
-    },
     {
       "title": "Samsung Electronics defeats competitors to win US AI Cyber Challenge - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sat, 09 Aug 2025 05:08:00 GMT"
@@ -633,10 +621,6 @@
   ],
   "china": [
     {
-      "title": "Chinese Patrol Ships Surround Islands of US Treaty Ally - Newsweek",
-      "pubDate": "Fri, 08 Aug 2025 16:07:40 GMT"
-    },
-    {
       "title": "China has declared war on the chikungunya virus. How much of a threat is it? : Goats and Soda - NPR",
       "pubDate": "Fri, 08 Aug 2025 20:16:01 GMT"
     },
@@ -803,13 +787,13 @@
     {
       "title": "Photos Show US Sea Drone's Encounter With Chinese Aircraft Carrier Group - Newsweek",
       "pubDate": "Fri, 15 Aug 2025 13:24:08 GMT"
+    },
+    {
+      "title": "Applied Materials sinks 13% on weak guidance due to China demand - CNBC",
+      "pubDate": "Fri, 15 Aug 2025 15:06:34 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump administration seeking $1 billion settlement from UCLA - CNN",
-      "pubDate": "Fri, 08 Aug 2025 16:36:00 GMT"
-    },
     {
       "title": "Trump executive order gives politicians control over all federal grants, alarming researchers - The Detroit News",
       "pubDate": "Fri, 08 Aug 2025 21:21:09 GMT"
@@ -829,6 +813,10 @@
     {
       "title": "Trump Scraps Two Nearly Completed $800M 12-Year Software Projects at Pentagon - Technology Org",
       "pubDate": "Thu, 14 Aug 2025 08:22:59 GMT"
+    },
+    {
+      "title": "The Senate map suddenly looks a lot better for Democrats. But still not a slam dunk. - Politico",
+      "pubDate": "Fri, 15 Aug 2025 08:45:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1253,10 +1241,6 @@
     {
       "title": "US FDA approves Boehringer Ingelheim's lung cancer treatment - Reuters",
       "pubDate": "Fri, 08 Aug 2025 18:50:40 GMT"
-    },
-    {
-      "title": "The cancer patient who inspired French movement to block reintroduction of pesticide - The Guardian",
-      "pubDate": "Fri, 08 Aug 2025 16:42:00 GMT"
     },
     {
       "title": "Scientists uncover new way in which cells tolerate anticancer drugs - EurekAlert!",
@@ -2161,6 +2145,10 @@
     {
       "title": "Agonising heat wave hits Gaza amid widescale dehydration and famine - Middle East Eye",
       "pubDate": "Fri, 15 Aug 2025 14:33:40 GMT"
+    },
+    {
+      "title": "IDF Expands Troop Deployment in Outskirts of Gaza City - Haaretz",
+      "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2326,10 +2314,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "A new global ruling shows states are legally responsible for tackling climate change - The Conversation",
-      "pubDate": "Fri, 08 Aug 2025 16:10:14 GMT"
-    },
     {
       "title": "Canyon Wildfire in Los Angeles Forces Thousands to Evacuate - Inside Climate News",
       "pubDate": "Fri, 08 Aug 2025 22:48:35 GMT"
@@ -2729,6 +2713,10 @@
     {
       "title": "UN majority rejects draft of treaty to end plastic pollution - JURIST Legal News",
       "pubDate": "Fri, 15 Aug 2025 00:09:51 GMT"
+    },
+    {
+      "title": "A humanmade \u2018volcano\u2019 ignites every summer and sends choking pollution into nearby neighborhoods - CNN",
+      "pubDate": "Fri, 15 Aug 2025 10:00:00 GMT"
     }
   ],
   "central_intelligence_agency": [
@@ -2907,6 +2895,10 @@
     {
       "title": "A Biden EV charger project is reinvented for the Trump era - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 14:37:42 GMT"
+    },
+    {
+      "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
+      "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
     }
   ],
   "india": [
@@ -3005,6 +2997,10 @@
     {
       "title": "Jocasta Neuroscience Lands $35 Million Series A to Advance Longevity Protein Program for Managing Cognitive Impairment - PR Newswire",
       "pubDate": "Tue, 12 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Scientists reveal how senses work together in the brain - Medical Xpress",
+      "pubDate": "Fri, 15 Aug 2025 09:00:04 GMT"
     }
   ],
   "atmospheric_science": [
@@ -3387,18 +3383,6 @@
     {
       "title": "Cutting mRNA Research Could Be Our Deadliest Mistake Yet - Time Magazine",
       "pubDate": "Fri, 15 Aug 2025 12:09:42 GMT"
-    }
-  ],
-  "the_pentagon": [
-    {
-      "title": "Trump Orders Pentagon to Prepare to Target Latin American Drug Cartels - MSN",
-      "pubDate": "Fri, 08 Aug 2025 16:31:10 GMT"
-    }
-  ],
-  "intelligence_agencies": [
-    {
-      "title": "Assessing the Role of Mossad Leading up to the 7 October Attack by Hamas - Modern Ghana",
-      "pubDate": "Fri, 08 Aug 2025 16:30:51 GMT"
     }
   ],
   "algorithmic_trading": [

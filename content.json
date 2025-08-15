@@ -1,72 +1,62 @@
 {
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Donald Trump's Move to Seize DC Metro Police Control Triggers Lawsuit - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRkNKSFAyTlZFTndBcFl6ZTBrNzZWUkljbmRPVmIzMkdSdUhKbzZveGhqNmNpcEpIUXJzanlteEJiNG9QLUN1WGVpQS1FakRtTkQ5RWY4aEIySUc3cWFoSnhHM01uUUdLREZLM1lib3MwZTlDUUhtTmx0SURuYkhzd3l3?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 15:03:50 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
-  },
   "Gaza": {
     "articles": [
       {
-        "title": "Agonising heat wave hits Gaza amid widescale dehydration and famine - Middle East Eye",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVE5TXZtd2dFeml2aVpnYjF5NE1QdVlCeDMyczU1dnVCdDBfOUFZNmxtbGQ2d2dCa0ZnVHRESEFOT21Xb0Jtc1pUSUVzaWhCa19fbDNjY19DdnQ5Q1MtSGVLNUdmR3ItS2pJMDVMRjhaUVExYkZKTkNWaHo5UXFBVFJjM1VfWDlxN2VQUkI2ZzdHalF6alV1UWJISmItZmM?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 14:33:40 GMT"
+        "title": "IDF Expands Troop Deployment in Outskirts of Gaza City - Haaretz",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPczlndy16aXJvRmN0S1NlSWpkYXBqUk9HcTFXZmVMZVRBYUJoWVd4dHhPa055YzZheFQ4TmdYaERHM3hFdExJb0FYMUxrVGJwX1hOSEYyR3F5TGw1WWx4V1plMGV2WGlwaTRlLVpNUmJqdFJCanpyXzJZOWVZcFpOWHBEVXNNR3VTY3R0WTc1ZU5LRTdWZmFjMVNNelh3NTROVFNNdVFRdGl4LTBvTnNscS11UzlEdF8zT2drMG9faDRPcjhQSXNCT1R1ZUlLQTFkZVdrb3Z0M1F2TFNpNlprLTR2blU3YjR4NU4yQjFaSTlXQ2hyUGdhb2h2cGlsbjdNazl6VGh3VXI2YzNiY2ow?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   },
-  "NVIDIA": {
+  "China": {
     "articles": [
       {
-        "title": "Nvidia Stock (NVDA) Weakens as Trump Says \u201914 Days\u2019 Until Chips Tariffs Hit - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGYtMHQ2Zml6MTduZFgzVnBLYmhlZlJLOEExUVFxSmxUZjdTTTJpano0U2ZTRzd1T2psOE9tVThpSkJEXzdmRzJmU0NYblZ3ZGo1MXNKYUlETUhFem9zNV9wVko0LUlzb0hiLUR1Z2dfTmt0bHJGNTNsQXo0SlFYMEdyMmYzQWJHX3UzNHJ6SXhxMTNwczhBX3dfTHVPRE5FN1ZB?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 14:58:06 GMT"
+        "title": "Applied Materials sinks 13% on weak guidance due to China demand - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFdOOXJfeUtxVWdhUkRxN29oa01XWkF0SXhNZ2xsbDAzd2tlMm9uSTBGR0dEa3dsdDhPVXZTNFBiOUxXRnhINUNWWWZaa21EOVhEUzBfNlA1UXBxT3Y1aDFPNzc2dlZkNVRONThuR3pTbHowUkR1akI3bzRVRkZVZGMxV0ZGeTR4MlHSAY8BQVVfeXFMT2JtZjFQNTYyTC1rSU42bGZGdDJnekNjX0d2LUp1Y0dHMzRXOVdXYy1jZnRQS2dmY2RVVDl4cDBiM1RQN01YcVltelhwbERSU0dTazRrMFNyeGNONmJPV3BRdVlyUEFIdVZzcm5CeE45SVdmVEtqNG9oNHpXdlNhWkwweEluYUtlU3o5Nkhub28?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 15:06:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   },
-  "Cryptocurrency": {
+  "US Politics": {
     "articles": [
       {
-        "title": "New SEC initiative aims to modernize cryptocurrency regulations - Fox Business",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbjNrLW1hZElfQ3N4djB2dXRmTlRIZU1hcFNReklpa1VrR29GYjhIOF9CTk9ZY2NHNFFoUk9ZVEZocGw1WEhpWXQ3TjF4VFduUnBsMWtoRExTbkU?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 14:49:37 GMT"
+        "title": "The Senate map suddenly looks a lot better for Democrats. But still not a slam dunk. - Politico",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXJpMlZwZGptVEdRWEVrX3lRR09ZOF8zVjNTbkh2MDNySnNJT3BTQ01RdFpKUWNjYkpRVHVrbmNpUlEtMHo3QXdjcnBiWlhsR25LOWxnTGtzdmZ2bURJcm5oY2dqVHl2RzlOcElrSGFheDQzSTd0YVYybUdDWXFURVAyNzJocEFGYl9mT0RqYlNhTnc?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 08:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   },
-  "India": {
+  "Electric Vehicle": {
     "articles": [
       {
-        "title": "Sudden, heavy rain in Indian Kashmir leaves dozens dead, more than 200 missing - CNN",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWdiVzBPRV9BOXFRd3BUS0dod0RfdzlibzJodm9ETjQ2QUo0UnhvR2labFZwTjI4SnQtVlk0emZnMDJpakt1a2Y5a3hZREliYzhyeGkzLW9rY2JNNW1sUXBhQm1zcVhleXFTaWNwb1NoVjh3Tld5M1Zoa2FGR0FjVVNiRlk1dVdpbmNKVlFxTdIBlAFBVV95cUxOcTAwUWpHd2RnNkxPNHVXdVJZNWN3VWIyTEF4X0xBNEszNG8zU1FoZ0JVQ3R4dXNSNS02M2R6dng4Z2ZDSlNXTzlmemFDWS1KdjhJRjlLNnE5OUc1T0dsZl9VdFU5dE9XYzhRbWNDWkxXeS12UGVIMF9JUWZ2ZUV1Z0hpRnQ2VmdrRldicVlTbUw1T2lJ?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 04:48:00 GMT"
+        "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzMtMUY4WUJodzJoN2lla3JUOUJXcnhOemhRajhTN3hSTlQ2aHg2X3VQMFhfTFZFWWg2bXVwUm1oUWJlc0VNaHRzRGlBcV9jeHpQeHZWOWFpaVVSbUN5VS1lT2Jnd2wtVHp4Z1QyQ29qTHl5bU11bmNEeWtBRFRBcEZUTVBFWDE1UzJib3BnN052YzlUVTFwOERXdkJKMG9CblpsOEw0RXpWTmI3bWc?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   },
-  "Military and Defense": {
+  "Neuroscience": {
     "articles": [
       {
-        "title": "Russia improved its missiles. Now, Ukraine's Patriots are struggling to consistently shoot them down, defense intel says. - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2cyZjZjaVlGdlNYcFpVNUlJNlNtYzZfamNCYTlYZXNuaXg3eTQ0Yk1IX2lPTzU4QTNWeGV5SGFaN1A2UDZnenJwN2ZBa2hnRTZIVFl5a243eTNxZGJqWmxSZ3BTM0JRYnFKbFNwVzVzQjJrdkpjTFhwZG9IbkxFUU10Ym00WXQtYk1hZUFZcDVUZ2hmdGxCczJKZmhaSDZQMUFucmtPa0VXX3h1?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 14:46:00 GMT"
+        "title": "Scientists reveal how senses work together in the brain - Medical Xpress",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96Q0liNEVDV2tDOVdsY2gyQjRrb25jRjdFN2p6VmJUYUJiMFJNd2dpMU1zYzQ4M19VZ0JKV0VMVHozUTV4Tjhzck9WQ1gyVXczd0tBVUZMb0Rib3hneDdGNndPSUVtRm93dmtyc0tqMzdCNHNkZHc?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 09:00:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   },
-  "Earth": {
+  "Pollution": {
     "articles": [
       {
-        "title": "60% of Earth's Land at Risk, Map Shows - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenBSWDlDb2MzY1dWTDUzdlI2VTZlVUQ4ZFotNldlVWlLLTR3WW1OaXJjTnp0Ymk0bjcxbi1sT1pGVXRhcGFuSk9IdnNaMjRtNTduem1xckpoN2RweDJIZi0zZ2xYQ0RhMnh0LW5PdXotT3JDMmVEMnh4VVJGcnFJaUplYWg?oc=5",
-        "pubDate": "Fri, 15 Aug 2025 15:00:01 GMT"
+        "title": "A humanmade \u2018volcano\u2019 ignites every summer and sends choking pollution into nearby neighborhoods - CNN",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkY0YV95V3VSbllSMTlIUVhBQnVXRkdsME1QcXVYb29KNFpTZ0ZlQ29wQTVpSkMxSWxyOGtxYXJQWnhQZTJleG13ZVpRUDM1ajFFa3l1WXFiVFpkQXF4MWFDaUxrQnU3NDJCZy1YNGJtdTFTZTNlZFpaaDluREpoLXNYd9IBiAFBVV95cUxOZW4zWEF2VEdxMmRfQ3BKNkR2LXhydFhWY1hGdmlNLTVHMnJtNU5walI0eHI1SUJLZHVQMkk1MHpyQklIZE9YempuNnlfdXlzdXJhMjFxVEdPdjh5dzhfMHhzZkwyMlNLNUdpWmFrakFqZnY0amxBTFl2b25qS3g0N2tGZEdCSm9Z?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-15T16:00:37.274992+00:00"
+    "last_updated_ts": "2025-08-15T17:00:59.161271+00:00"
   }
 }
