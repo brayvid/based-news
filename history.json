@@ -101,10 +101,6 @@
       "pubDate": "Fri, 08 Aug 2025 02:33:36 GMT"
     },
     {
-      "title": "Trump Turns the Screws on the Fortune 500 - Politico",
-      "pubDate": "Fri, 08 Aug 2025 00:23:18 GMT"
-    },
-    {
       "title": "Trump calls for major changes to census amid GOP redistricting effort - The Washington Post",
       "pubDate": "Fri, 08 Aug 2025 04:40:38 GMT"
     },
@@ -241,13 +237,13 @@
     {
       "title": "The US and Europe are still doing billions of dollars\u2019 worth of business with Russia despite years of war - CNN",
       "pubDate": "Thu, 14 Aug 2025 12:03:00 GMT"
+    },
+    {
+      "title": "More than half of Americans lack faith in Trump on Russia-Ukraine war, poll finds - Politico",
+      "pubDate": "Thu, 14 Aug 2025 20:02:29 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "GPT-5 is alive - Platformer",
-      "pubDate": "Fri, 08 Aug 2025 00:46:56 GMT"
-    },
     {
       "title": "Let AI Dangle: Why the sketch.dev Integrity Breach Demands Human Accountability, Not Technical Cages - flyingpenguin",
       "pubDate": "Fri, 08 Aug 2025 09:06:36 GMT"
@@ -819,6 +815,10 @@
     {
       "title": "China debuts first e-beam lithography tool for commercial use in chip milestone - South China Morning Post",
       "pubDate": "Thu, 14 Aug 2025 13:00:15 GMT"
+    },
+    {
+      "title": "Applied Materials' forecast hit by China pause, export\u2011license woes; shares down 13% - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 23:16:57 GMT"
     }
   ],
   "us_politics": [
@@ -922,10 +922,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "NSA partnering with cyber firms to support under-resourced defense contractors - Cybersecurity Dive",
-      "pubDate": "Fri, 08 Aug 2025 00:02:11 GMT"
-    },
     {
       "title": "CISA officials say agency is moving ahead despite workforce purge - Cybersecurity Dive",
       "pubDate": "Fri, 08 Aug 2025 09:25:50 GMT"
@@ -1559,6 +1555,10 @@
     {
       "title": "New York man cyberstalked UnitedHealthcare CEO's family member after deadly shooting, prosecutors say - CBS News",
       "pubDate": "Thu, 14 Aug 2025 00:52:16 GMT"
+    },
+    {
+      "title": "Hack at UnitedHealth's tech unit impacted 192.7 million people, US health dept website shows - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 18:31:21 GMT"
     }
   ],
   "bitcoin": [
@@ -2187,6 +2187,10 @@
     {
       "title": "Video Doctor in Gaza details worsening humanitarian crisis - ABC News",
       "pubDate": "Thu, 14 Aug 2025 17:49:29 GMT"
+    },
+    {
+      "title": "Trump: Journalists should be allowed into Gaza - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 18:31:49 GMT"
     }
   ],
   "battery_technology": [
@@ -2623,6 +2627,10 @@
     {
       "title": "Germany to Keep Border Controls Beyond September in Migration Crackdown - ETIAS.com",
       "pubDate": "Wed, 13 Aug 2025 02:00:18 GMT"
+    },
+    {
+      "title": "Greece, Spain and Portugal race to contain wildfires as EU steps up cross-border help - AP News",
+      "pubDate": "Thu, 14 Aug 2025 16:45:00 GMT"
     }
   ],
   "amazon": [
@@ -2699,10 +2707,6 @@
   ],
   "business": [
     {
-      "title": "Trump Is Making CEOs\u2019 Business His Business - The Wall Street Journal",
-      "pubDate": "Fri, 08 Aug 2025 01:00:00 GMT"
-    },
-    {
       "title": "Trump removing IRS commissioner Billy Long after serving just two months in role - Fox Business",
       "pubDate": "Fri, 08 Aug 2025 19:45:00 GMT"
     },
@@ -2755,6 +2759,10 @@
     {
       "title": "Countries race for late breakthrough in deadlocked plastic pollution talks - Reuters",
       "pubDate": "Thu, 14 Aug 2025 09:42:20 GMT"
+    },
+    {
+      "title": "Scientists use modeling track where metro Phoenix ozone pollution actually comes from - KJZZ",
+      "pubDate": "Thu, 14 Aug 2025 20:53:00 GMT"
     }
   ],
   "central_intelligence_agency": [
