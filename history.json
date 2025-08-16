@@ -323,10 +323,6 @@
   ],
   "financial_markets": [
     {
-      "title": "These are the most overbought stocks in the market, including Apple and Alphabet - CNBC",
-      "pubDate": "Sat, 09 Aug 2025 11:51:38 GMT"
-    },
-    {
       "title": "High-Yield Dividend Investing in Volatile Markets: Leveraging BDCs for 8% Returns with Risk Management - AInvest",
       "pubDate": "Sun, 10 Aug 2025 03:14:04 GMT"
     },
@@ -348,14 +344,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Tesla Shutting Down Its AI Supercomputer As Staff Leaves in Droves to Join Competitor - Futurism",
-      "pubDate": "Sat, 09 Aug 2025 11:30:50 GMT"
-    },
-    {
-      "title": "OpenAI\u2019s GPT-5 draws mixed reviews in China amid heightened AI competition - South China Morning Post",
-      "pubDate": "Sat, 09 Aug 2025 11:06:06 GMT"
-    },
     {
       "title": "OpenAI\u2019s New GPT-5 Can Write Software on Demand - PYMNTS.com",
       "pubDate": "Sat, 09 Aug 2025 19:35:45 GMT"
@@ -771,6 +759,10 @@
     {
       "title": "Trump says Xi told him China will not invade Taiwan while he is in office - The Guardian",
       "pubDate": "Sat, 16 Aug 2025 00:10:48 GMT"
+    },
+    {
+      "title": "Box, run, crash: China\u2019s humanoid robot games show advances and limitations - The Guardian",
+      "pubDate": "Sat, 16 Aug 2025 01:30:00 GMT"
     }
   ],
   "us_politics": [
@@ -1003,13 +995,13 @@
     {
       "title": "Half of Gen Z spends $0 a month on dating thanks to a \u2018romance recession\u2019 - MarketWatch",
       "pubDate": "Fri, 15 Aug 2025 18:11:00 GMT"
+    },
+    {
+      "title": "US will dodge recession, but Trump's policies will slow economic growth: Report - USA Today",
+      "pubDate": "Sat, 16 Aug 2025 09:07:13 GMT"
     }
   ],
   "drones": [
-    {
-      "title": "Russia Showcases New Interceptor Drones, Mirroring Designs Used in Ukraine\u2019s Defense - UNITED24 Media",
-      "pubDate": "Sat, 09 Aug 2025 11:46:43 GMT"
-    },
     {
       "title": "Saudi Arabia And The UAE Are Acquiring Lots Of High-Tech Drones - Forbes",
       "pubDate": "Sat, 09 Aug 2025 16:57:53 GMT"
@@ -1389,10 +1381,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Trump Just Dropped A $12.2 Trillion Crypto Price Bombshell\u2014Sending Bitcoin, Ethereum And XRP Sharply Higher - Forbes",
-      "pubDate": "Sat, 09 Aug 2025 11:15:23 GMT"
-    },
-    {
       "title": "The crypto craze sweeping Washington and Wall Street - CBS News",
       "pubDate": "Sun, 10 Aug 2025 13:30:00 GMT"
     },
@@ -1501,6 +1489,10 @@
     {
       "title": "Data of former UK ministers and Afghan refugees leaked after cyber attack - Financial Times",
       "pubDate": "Fri, 15 Aug 2025 20:18:43 GMT"
+    },
+    {
+      "title": "A data breach exposes thousands of Afghans who have settled in the UK and British troops - Ottumwa Courier",
+      "pubDate": "Sat, 16 Aug 2025 09:24:45 GMT"
     }
   ],
   "bitcoin": [
@@ -2125,13 +2117,13 @@
     {
       "title": "Clark becomes highest-ranking Democrat to accuse Israel of \u2018genocide\u2019 in Gaza - The Hill",
       "pubDate": "Fri, 15 Aug 2025 21:46:00 GMT"
+    },
+    {
+      "title": "IDF drone crashes in Gaza, crowd swarms and steals wreckage - Ynetnews",
+      "pubDate": "Sat, 16 Aug 2025 09:05:04 GMT"
     }
   ],
   "battery_technology": [
-    {
-      "title": "Battery company makes key breakthrough that could revolutionize electric vehicles: 'A powerful path forward' - Yahoo! Tech",
-      "pubDate": "Sat, 09 Aug 2025 11:00:00 GMT"
-    },
     {
       "title": "Needham Doubles Solid Power (SLDP) Price Target, Cites EV Battery Progress - Insider Monkey",
       "pubDate": "Sun, 10 Aug 2025 04:09:39 GMT"
@@ -3023,6 +3015,10 @@
     {
       "title": "Obama praises Texas Democrats and calls state redistricting effort \u2018a systematic assault on democracy\u2019 - CNN",
       "pubDate": "Fri, 15 Aug 2025 04:56:00 GMT"
+    },
+    {
+      "title": "Australia grants asylum to former Hong Kong lawmaker and pro-democracy activist - yahoo.com",
+      "pubDate": "Sat, 16 Aug 2025 10:41:55 GMT"
     }
   ],
   "fbi": [
@@ -3249,6 +3245,10 @@
     {
       "title": "Tropical Storm Erin likely to be 1st hurricane of season, not forecast to hit US - ABC News",
       "pubDate": "Tue, 12 Aug 2025 15:22:03 GMT"
+    },
+    {
+      "title": "Hurricane Erin strengthens into a Category 2 storm as it approaches the northeast Caribbean - AP News",
+      "pubDate": "Sat, 16 Aug 2025 03:28:00 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3673,6 +3673,12 @@
     {
       "title": "UN court issues ruling that paves way for massive lawsuits between nations: 'A watershed legal moment' - yahoo.com",
       "pubDate": "Sat, 16 Aug 2025 02:30:00 GMT"
+    }
+  ],
+  "mark_zuckerberg": [
+    {
+      "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - Fortune",
+      "pubDate": "Sat, 16 Aug 2025 10:03:00 GMT"
     }
   ]
 }
