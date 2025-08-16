@@ -43,10 +43,6 @@
   ],
   "iran": [
     {
-      "title": "Iran says it arrested 20 alleged Israeli spies, \u2018will make an example of them all\u2019 - The Times of Israel",
-      "pubDate": "Sat, 09 Aug 2025 14:49:00 GMT"
-    },
-    {
       "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact - Al Jazeera",
       "pubDate": "Sat, 09 Aug 2025 18:18:06 GMT"
     },
@@ -190,10 +186,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Instead of sanctions, Donald Trump announces a summit with Russia - The Economist",
-      "pubDate": "Sat, 09 Aug 2025 14:54:53 GMT"
-    },
     {
       "title": "Russia Says Nations Plotting To Derail Trump-Putin Alaska Talks - Newsweek",
       "pubDate": "Sun, 10 Aug 2025 16:34:25 GMT"
@@ -1785,6 +1777,10 @@
     {
       "title": "Meta's AI Ambitions: A High-Stakes Bet on Superintelligence in a Risky Landscape - AInvest",
       "pubDate": "Fri, 15 Aug 2025 23:03:06 GMT"
+    },
+    {
+      "title": "Analysts temper user expectations for future AI models, but not investors\u2019 commitments - Cryptopolitan",
+      "pubDate": "Sat, 16 Aug 2025 14:38:00 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -1971,10 +1967,6 @@
   ],
   "gaza": [
     {
-      "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises - Al Jazeera",
-      "pubDate": "Sat, 09 Aug 2025 14:20:52 GMT"
-    },
-    {
       "title": "Israel faces growing global condemnation over military expansion in Gaza - Politico",
       "pubDate": "Sat, 09 Aug 2025 16:38:27 GMT"
     },
@@ -2113,6 +2105,10 @@
     {
       "title": "Middle East crisis live: 25 reported killed in Gaza as UN warns one in five Gaza City children malnourished \u2013 updates - The Guardian",
       "pubDate": "Sat, 16 Aug 2025 08:05:00 GMT"
+    },
+    {
+      "title": "IDF Skylark drone malfunctions during Gaza City operation, seized by Palestinians - yahoo.com",
+      "pubDate": "Sat, 16 Aug 2025 10:25:36 GMT"
     }
   ],
   "battery_technology": [
@@ -3125,6 +3121,10 @@
     {
       "title": "Palestine Action protesters arrested by police at London demo - BBC",
       "pubDate": "Sat, 09 Aug 2025 17:50:15 GMT"
+    },
+    {
+      "title": "Over 200 events expected across the country today to protest Trump-backed redistricting plans - CNN",
+      "pubDate": "Sat, 16 Aug 2025 05:00:00 GMT"
     }
   ],
   "infrastructure": [
@@ -3305,6 +3305,10 @@
     {
       "title": "Accidental lab discovery reveals gold\u2019s secret chemistry - ScienceDaily",
       "pubDate": "Mon, 11 Aug 2025 12:21:51 GMT"
+    },
+    {
+      "title": "Scientists have finally made an elusive meteorite diamond, predicted to be 50% harder than Earth diamonds - Live Science",
+      "pubDate": "Sat, 16 Aug 2025 13:00:00 GMT"
     }
   ],
   "research": [
@@ -3611,6 +3615,10 @@
     {
       "title": "US intel warns of new challenge for Ukraine\u2019s Patriot systems, media reports - RBC-Ukraine",
       "pubDate": "Fri, 15 Aug 2025 11:06:48 GMT"
+    },
+    {
+      "title": "Russian invaders filming staged videos of capture of settlements - Defense Ministry's Defense Intelligence - ukranews.com",
+      "pubDate": "Sat, 16 Aug 2025 12:00:00 GMT"
     }
   ],
   "earth": [
@@ -3671,6 +3679,18 @@
     {
       "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - Fortune",
       "pubDate": "Sat, 16 Aug 2025 10:03:00 GMT"
+    }
+  ],
+  "wireless_technology": [
+    {
+      "title": "More than 30K wireless power banks recalled after reports of fires, explosions - Fox Business",
+      "pubDate": "Sat, 16 Aug 2025 07:57:00 GMT"
+    }
+  ],
+  "political_power": [
+    {
+      "title": "Federal Overreach and the Fragile Balance of Power: Implications for Political Risk and Institutional Stability - AInvest",
+      "pubDate": "Sat, 16 Aug 2025 12:41:56 GMT"
     }
   ]
 }
