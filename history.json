@@ -43,10 +43,6 @@
   ],
   "iran": [
     {
-      "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact - Al Jazeera",
-      "pubDate": "Sat, 09 Aug 2025 18:18:06 GMT"
-    },
-    {
       "title": "Iran vows to turn Trump-backed Azerbaijan-Armenia peace corridor into 'graveyard' - Ynetnews",
       "pubDate": "Sat, 09 Aug 2025 20:04:28 GMT"
     },
@@ -80,10 +76,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump reportedly considers reclassifying marijuana as less dangerous drug - The Guardian",
-      "pubDate": "Sat, 09 Aug 2025 18:12:00 GMT"
-    },
     {
       "title": "Trump accepts plaque with 24k gold base amid surge of lavish gifts - Axios",
       "pubDate": "Sat, 09 Aug 2025 20:09:14 GMT"
@@ -187,6 +179,10 @@
     {
       "title": "Live updates: Trump voices hope that \u2018something\u2019s going to come of\u2019 high-stakes meeting with Putin - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 17:17:28 GMT"
+    },
+    {
+      "title": "Schumer to Trump: No Nobel Peace Prize for \u2018selling out Ukraine\u2019 - The Hill",
+      "pubDate": "Sat, 16 Aug 2025 17:46:00 GMT"
     }
   ],
   "russia": [
@@ -827,6 +823,10 @@
     {
       "title": "Hundreds cheer Arizona Sen. Ruben Gallego as Democrats take offensive against Trump's tax bill - WKMG",
       "pubDate": "Sat, 09 Aug 2025 21:36:50 GMT"
+    },
+    {
+      "title": "Texas Democrats are coming home \u2014 after using Trump's playbook against him - MSNBC News",
+      "pubDate": "Sat, 16 Aug 2025 10:00:39 GMT"
     }
   ],
   "north_korea": [
@@ -973,6 +973,10 @@
     {
       "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure - The Hacker News",
       "pubDate": "Sat, 16 Aug 2025 10:41:00 GMT"
+    },
+    {
+      "title": "Top Israeli Cybersecurity Official Arrested in US Child Exploitation Sting - Hack Read",
+      "pubDate": "Sat, 16 Aug 2025 18:34:25 GMT"
     }
   ],
   "recession": [
@@ -1056,10 +1060,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "A top Federal Reserve official says dour jobs data backs the case for 3 rate cuts - mypanhandle.com",
-      "pubDate": "Sat, 09 Aug 2025 18:30:41 GMT"
-    },
     {
       "title": "US Fed official says jobs report confirms 'signs of fragility' in market - The New Indian Express",
       "pubDate": "Sun, 10 Aug 2025 07:34:33 GMT"
@@ -1213,6 +1213,10 @@
     {
       "title": "Mega Tsunami Warning: Virginia Tech Predicts Cascadia Earthquake Threat to Pacific Coast - AInvest",
       "pubDate": "Sat, 16 Aug 2025 16:31:33 GMT"
+    },
+    {
+      "title": "Mega Tsunami warning issued as Cascadia earthquake could impact millions in US, urgent evacuation plans needed - Hindustan Times - Hindustan Times",
+      "pubDate": "Sat, 16 Aug 2025 17:36:50 GMT"
     }
   ],
   "elon_musk": [
@@ -1324,10 +1328,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "NASA\u2019s James Webb Space Telescope spots a potential gas giant - FOX Weather",
-      "pubDate": "Sat, 09 Aug 2025 18:43:00 GMT"
-    },
     {
       "title": "What Made NASA a World Reference Is Disappearing: 4,000 of Them Have Left, Erasing Decades of Spaceflight Know-How - The Daily Galaxy",
       "pubDate": "Sun, 10 Aug 2025 10:30:00 GMT"
@@ -1591,6 +1591,10 @@
     {
       "title": "Adam Back\u2019s $2.1B Bitcoin Treasury Play Set to Challenge MARA in BTC Holdings - CoinDesk",
       "pubDate": "Sat, 16 Aug 2025 14:01:46 GMT"
+    },
+    {
+      "title": "Mysterious 2012 Bitcoin Holder Moves 1,600 BTC in Several Waves - Bitcoin.com News",
+      "pubDate": "Sat, 16 Aug 2025 17:12:14 GMT"
     }
   ],
   "fusion_power": [
@@ -1752,10 +1756,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor - WIRED",
-      "pubDate": "Sat, 09 Aug 2025 18:40:47 GMT"
-    },
     {
       "title": "Google and IBM believe first workable quantum computer is in sight - Financial Times",
       "pubDate": "Tue, 12 Aug 2025 04:00:36 GMT"
@@ -2204,10 +2204,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Astronomers Spot the Earliest Confirmed Black Hole at Cosmic Dawn - Universe Today",
-      "pubDate": "Sat, 09 Aug 2025 18:55:00 GMT"
-    },
     {
       "title": "Astronomers detect the largest black hole ever observed \u2013 Mass equal to 36 billion suns - The Brighter Side of News",
       "pubDate": "Sat, 09 Aug 2025 22:07:00 GMT"
@@ -3077,12 +3073,6 @@
       "pubDate": "Thu, 14 Aug 2025 14:03:54 GMT"
     }
   ],
-  "microsoft": [
-    {
-      "title": "Microsoft investigates Israeli military\u2019s use of Azure cloud storage - The Guardian",
-      "pubDate": "Sat, 09 Aug 2025 18:55:00 GMT"
-    }
-  ],
   "energy_transition": [
     {
       "title": "Trump slows clean energy manufacturing projects worth $27.6 billion in US, report finds - Down To Earth",
@@ -3146,10 +3136,6 @@
     }
   ],
   "infrastructure": [
-    {
-      "title": "New Report Reveals Construction's Digital Gap Could Derail $4T AI Infrastructure Market - For Construction Pros",
-      "pubDate": "Sat, 09 Aug 2025 18:01:26 GMT"
-    },
     {
       "title": "The Utilities Sector's Growth Catalysts in 2025: AI, EVs, and Infrastructure Modernization - AInvest",
       "pubDate": "Sun, 10 Aug 2025 07:43:48 GMT"
@@ -3263,6 +3249,10 @@
     {
       "title": "Hurricane Erin strengthens to Category 4 and could reach Category 5: Advisory - Axios",
       "pubDate": "Sat, 16 Aug 2025 15:45:27 GMT"
+    },
+    {
+      "title": "Hurricane Erin now catastrophic Category 5 storm, winds at 160 mph. Florida impact? - Naples Daily News",
+      "pubDate": "Sat, 16 Aug 2025 15:45:00 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3327,6 +3317,10 @@
     {
       "title": "Scientists have finally made an elusive meteorite diamond, predicted to be 50% harder than Earth diamonds - Live Science",
       "pubDate": "Sat, 16 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Scientists transform 'forever chemicals' in water into fluoride with new process - Live Science",
+      "pubDate": "Sat, 16 Aug 2025 18:02:00 GMT"
     }
   ],
   "research": [
