@@ -319,6 +319,10 @@
     {
       "title": "Anthropic has new rules for a more dangerous AI landscape - The Verge",
       "pubDate": "Fri, 15 Aug 2025 17:05:16 GMT"
+    },
+    {
+      "title": "Geoffrey Hinton suggests giving AI \u2018maternal instincts\u2019 to keep humans safe - EdexLive",
+      "pubDate": "Sat, 16 Aug 2025 11:02:30 GMT"
     }
   ],
   "financial_markets": [
@@ -763,13 +767,13 @@
     {
       "title": "Box, run, crash: China\u2019s humanoid robot games show advances and limitations - The Guardian",
       "pubDate": "Sat, 16 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "China's catastrophic South China Sea crash shows how dangerous high-risk moves at sea can be - Business Insider",
+      "pubDate": "Sat, 16 Aug 2025 12:39:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump wants demilitarized Gaza, disarmed Hamas in new proposal, officials say - Ynetnews",
-      "pubDate": "Sat, 09 Aug 2025 12:53:03 GMT"
-    },
     {
       "title": "Trump DOJ Sues New York City Mayor Eric Adams Over Sanctuary Policies - AOL.com",
       "pubDate": "Sun, 10 Aug 2025 23:21:50 GMT"
@@ -814,10 +818,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea dismantles propaganda speakers at border - BBC",
-      "pubDate": "Sat, 09 Aug 2025 12:34:26 GMT"
-    },
     {
       "title": "North Korea warns of 'self-defense' measures against planned South Korea-US military exercise - The Korea Times",
       "pubDate": "Sun, 10 Aug 2025 22:43:00 GMT"
@@ -1114,10 +1114,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "A massive earthquake could be brewing beneath North America, study suggests - BBC Science Focus Magazine",
-      "pubDate": "Sat, 09 Aug 2025 12:00:00 GMT"
-    },
     {
       "title": "Guatemala Rattled by 5.9 Magnitude Earthquake: What to Know - Newsweek",
       "pubDate": "Sat, 09 Aug 2025 21:46:59 GMT"
@@ -1691,10 +1687,6 @@
       "pubDate": "Sat, 09 Aug 2025 13:50:43 GMT"
     },
     {
-      "title": "The 1,800-mile EV battery which charges in 5 minutes could crush Tesla, and it\u2019s not from the US - The Economic Times",
-      "pubDate": "Sat, 09 Aug 2025 12:21:22 GMT"
-    },
-    {
       "title": "China: EV sales rise while PHEV demand declines - electrive.com",
       "pubDate": "Mon, 11 Aug 2025 13:32:46 GMT"
     },
@@ -1748,14 +1740,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "IBM and Moderna have simulated the longest mRNA pattern without AI \u2014 they used a quantum computer instead - Live Science",
-      "pubDate": "Sat, 09 Aug 2025 12:00:00 GMT"
-    },
-    {
-      "title": "Quantum Reservoir Computing Could Give Drug Discovery a Boost -- Especially When Data Is Scarce - The Quantum Insider",
-      "pubDate": "Sat, 09 Aug 2025 12:45:46 GMT"
-    },
     {
       "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor - WIRED",
       "pubDate": "Sat, 09 Aug 2025 18:40:47 GMT"
@@ -1975,6 +1959,10 @@
     {
       "title": "Sudan cholera outbreak kills 40 in a week as health centres overwhelmed - The Guardian",
       "pubDate": "Thu, 14 Aug 2025 12:35:00 GMT"
+    },
+    {
+      "title": "US, Russia Summit Shock: Visible Struggles Of Trump & Putin Ignite Global Health Fears - Times of India",
+      "pubDate": "Sat, 16 Aug 2025 04:35:02 GMT"
     }
   ],
   "gaza": [
@@ -2121,6 +2109,10 @@
     {
       "title": "IDF drone crashes in Gaza, crowd swarms and steals wreckage - Ynetnews",
       "pubDate": "Sat, 16 Aug 2025 09:05:04 GMT"
+    },
+    {
+      "title": "Middle East crisis live: 25 reported killed in Gaza as UN warns one in five Gaza City children malnourished \u2013 updates - The Guardian",
+      "pubDate": "Sat, 16 Aug 2025 08:05:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2725,6 +2717,10 @@
     {
       "title": "Trump is attacking Brazil to weaken BRICS \u2013 but his plan might backfire - Chatham House",
       "pubDate": "Fri, 15 Aug 2025 10:05:02 GMT"
+    },
+    {
+      "title": "BRICS countries on alert after Trump's threats, US president gives big statement on dollar; what will India do? - MSN",
+      "pubDate": "Sat, 16 Aug 2025 04:27:06 GMT"
     }
   ],
   "terrorism": [
@@ -2765,6 +2761,10 @@
     {
       "title": "Deadly flooding caused by heavy rain in Asia - CBS News",
       "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
+    },
+    {
+      "title": "As arms race in Asia intensifies, a-bomb survivors make final plea for peace - NPR",
+      "pubDate": "Sat, 16 Aug 2025 12:00:00 GMT"
     }
   ],
   "spacex": [
@@ -2912,10 +2912,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "How Canadian Wildfire Smoke Is Jeopardizing Health Across North America - Bloomberg",
-      "pubDate": "Sat, 09 Aug 2025 12:00:32 GMT"
-    },
     {
       "title": "Authorities ID suspect in CDC shooting as a 30-year-old man from suburban Atlanta - NPR",
       "pubDate": "Sat, 09 Aug 2025 13:50:46 GMT"
@@ -3249,6 +3245,10 @@
     {
       "title": "Hurricane Erin strengthens into a Category 2 storm as it approaches the northeast Caribbean - AP News",
       "pubDate": "Sat, 16 Aug 2025 03:28:00 GMT"
+    },
+    {
+      "title": "Hurricane Erin Intensifies - WYFF",
+      "pubDate": "Sat, 16 Aug 2025 12:27:00 GMT"
     }
   ],
   "self-driving_cars": [
