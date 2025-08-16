@@ -1655,6 +1655,10 @@
     {
       "title": "The Nvidia chip deal that has Trump officials threatening to quit - vox.com",
       "pubDate": "Fri, 15 Aug 2025 10:45:00 GMT"
+    },
+    {
+      "title": "Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock. - Barron's",
+      "pubDate": "Fri, 15 Aug 2025 14:59:00 GMT"
     }
   ],
   "openai": [
@@ -1805,6 +1809,10 @@
     {
       "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
       "pubDate": "Fri, 15 Aug 2025 20:22:00 GMT"
+    },
+    {
+      "title": "Meta's AI Ambitions: A High-Stakes Bet on Superintelligence in a Risky Landscape - AInvest",
+      "pubDate": "Fri, 15 Aug 2025 23:03:06 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -2113,6 +2121,10 @@
     {
       "title": "House No. 2 Democrat Katherine Clark calls Gaza war a \"genocide\" - Axios",
       "pubDate": "Fri, 15 Aug 2025 17:16:42 GMT"
+    },
+    {
+      "title": "Clark becomes highest-ranking Democrat to accuse Israel of \u2018genocide\u2019 in Gaza - The Hill",
+      "pubDate": "Fri, 15 Aug 2025 21:46:00 GMT"
     }
   ],
   "battery_technology": [
@@ -3039,10 +3051,6 @@
   ],
   "microsoft": [
     {
-      "title": "New report lays out Israeli military use of Microsoft services that prompted employee protests and a boycott of Xbox and Game Pass - PC Gamer",
-      "pubDate": "Sat, 09 Aug 2025 00:03:10 GMT"
-    },
-    {
       "title": "Microsoft investigates Israeli military\u2019s use of Azure cloud storage - The Guardian",
       "pubDate": "Sat, 09 Aug 2025 18:55:00 GMT"
     }
@@ -3221,10 +3229,6 @@
   ],
   "self-driving_cars": [
     {
-      "title": "New Tesla owners get refund after Bosplus salesman Bojia Liu misleads them about self-driving capability - RNZ",
-      "pubDate": "Sat, 09 Aug 2025 00:44:32 GMT"
-    },
-    {
       "title": "GM plans renewed push into driverless personal vehicles - Bloomberg - MSN",
       "pubDate": "Mon, 11 Aug 2025 18:44:37 GMT"
     },
@@ -3234,10 +3238,6 @@
     }
   ],
   "asteroids": [
-    {
-      "title": "A fiery meteor that punched through a Georgia home's roof is older than Earth, a scientist says - ABC News",
-      "pubDate": "Sat, 09 Aug 2025 00:34:20 GMT"
-    },
     {
       "title": "Scientists reveal chances of unusual ways to die \u2013 from rabies to asteroid strikes - MSN",
       "pubDate": "Wed, 13 Aug 2025 06:52:30 GMT"
@@ -3625,6 +3625,18 @@
     {
       "title": "Four dead in New York City outbreak of Legionnaires' disease - BBC",
       "pubDate": "Fri, 15 Aug 2025 16:43:38 GMT"
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Trump-Putin summit ends without concrete deal - CNN",
+      "pubDate": "Sat, 16 Aug 2025 00:48:00 GMT"
+    }
+  ],
+  "sustainable_energy": [
+    {
+      "title": "Data center owners urge US Treasury to keep renewable energy subsidy rules - Reuters",
+      "pubDate": "Fri, 15 Aug 2025 18:27:05 GMT"
     }
   ]
 }
