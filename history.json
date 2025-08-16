@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Jerusalem protesters converge on PM Netanyahu's residence - BBC",
-      "pubDate": "Sat, 09 Aug 2025 22:04:14 GMT"
-    },
-    {
       "title": "Israeli National Security Advisor Warns Gaza City Operation Risks Hostages as Far-Right Ministers Threaten Elections Over Netanyahu's Strategy - The Media Line",
       "pubDate": "Sun, 10 Aug 2025 11:32:18 GMT"
     },
@@ -72,10 +68,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump nominates ex-Fox commentator Tammy Bruce for deputy UN ambassador - The Guardian",
-      "pubDate": "Sat, 09 Aug 2025 22:22:00 GMT"
-    },
     {
       "title": "Trump promised to be a dictator on day one. We\u2019re now past day 200 - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 10:01:00 GMT"
@@ -799,6 +791,10 @@
     {
       "title": "China\u2019s Latest Data Sound Alarm for Xi on Consumer Fragility - Bloomberg",
       "pubDate": "Sat, 16 Aug 2025 10:45:30 GMT"
+    },
+    {
+      "title": "EU-China trade: deficits, disputes and de-risking - South China Morning Post",
+      "pubDate": "Sat, 16 Aug 2025 22:00:09 GMT"
     }
   ],
   "us_politics": [
@@ -989,6 +985,10 @@
     {
       "title": "Microsoft Probing Whether Israel Used Its Cloud to Build Palestinian Surveillance System - Gizmodo",
       "pubDate": "Sat, 16 Aug 2025 13:46:17 GMT"
+    },
+    {
+      "title": "Telecom Giants and the Cybersecurity Crucible: Lessons from AT&T's $177 Million Settlement - AInvest",
+      "pubDate": "Sat, 16 Aug 2025 20:12:41 GMT"
     }
   ],
   "recession": [
@@ -1857,10 +1857,6 @@
   ],
   "ethereum": [
     {
-      "title": "Ethereum Price Prediction: ETH Soars 26% as Bulls Target $5,000 Next - CryptoDnes.bg",
-      "pubDate": "Sat, 09 Aug 2025 22:44:28 GMT"
-    },
-    {
       "title": "Ethereum Transaction Activity Rockets to Historic Highs - Bitcoin.com News",
       "pubDate": "Sun, 10 Aug 2025 05:49:01 GMT"
     },
@@ -1965,6 +1961,10 @@
     {
       "title": "No alternative to clean energy transition, but what stands in its way? - The Business Standard",
       "pubDate": "Sat, 16 Aug 2025 13:42:13 GMT"
+    },
+    {
+      "title": "Azerbaijan Begins Construction of Largest Domestic Solar Power Plant - Caspian News",
+      "pubDate": "Sat, 16 Aug 2025 18:47:10 GMT"
     }
   ],
   "global_health": [
@@ -1994,10 +1994,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Thousands rally in Tel Aviv against Netanyahu\u2019s new Gaza plan, demand release of hostages - Reuters",
-      "pubDate": "Sat, 09 Aug 2025 22:01:04 GMT"
-    },
     {
       "title": "Gaza 'injured his soul': Israeli soldier died by suicide two days before he was due to return to duty - Sky News",
       "pubDate": "Sun, 10 Aug 2025 01:40:42 GMT"
@@ -2149,6 +2145,10 @@
     {
       "title": "Malnourished Gazan woman flown to Italy dies in hospital - BBC",
       "pubDate": "Sat, 16 Aug 2025 21:07:56 GMT"
+    },
+    {
+      "title": "Former IDF official calls for Oct.7 revenge deaths in Gaza - The Jerusalem Post",
+      "pubDate": "Sat, 16 Aug 2025 18:25:54 GMT"
     }
   ],
   "battery_technology": [
@@ -2228,10 +2228,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Astronomers detect the largest black hole ever observed \u2013 Mass equal to 36 billion suns - The Brighter Side of News",
-      "pubDate": "Sat, 09 Aug 2025 22:07:00 GMT"
-    },
     {
       "title": "Giant Einstein ring reveals one of the Universe\u2019s biggest black holes - ScienceDaily",
       "pubDate": "Sun, 10 Aug 2025 14:27:48 GMT"
@@ -2529,6 +2525,10 @@
     {
       "title": "Climate change: Southern Europe scorched by flames and extreme heat - Le Monde.fr",
       "pubDate": "Sat, 16 Aug 2025 17:30:07 GMT"
+    },
+    {
+      "title": "In covering Paris, climate change is becoming an ever-present story - NPR",
+      "pubDate": "Sat, 16 Aug 2025 21:03:45 GMT"
     }
   ],
   "volcanoes": [
@@ -2945,6 +2945,10 @@
     {
       "title": "Flash floods kill more than 280 people in India and Pakistan as thousands flee - NBC News",
       "pubDate": "Sat, 16 Aug 2025 02:34:00 GMT"
+    },
+    {
+      "title": "India-US trade deal: US team may cancel August visit, says report; 50% Trump tariffs to take effect from - Times of India",
+      "pubDate": "Sat, 16 Aug 2025 17:42:00 GMT"
     }
   ],
   "public_health": [
