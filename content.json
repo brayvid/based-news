@@ -1,12 +1,62 @@
 {
-  "US Politics": {
+  "Geopolitics": {
     "articles": [
       {
-        "title": "California releases first draft of redrawn congressional district maps - ABC7 Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0YwSGVEWVdoVTB0R1hyYWZ0cTFMeXBGdXo1NkRnajdBYUpMNmpPS1ljWXUwRE90NGFGUjgwMUd5Nm4wTzBuWmMyTDZDTERjbFB2aEdYY3U0VS0xd0d0dEdZeVNRVHA5MmhNR0dCNlM1UHRuN01nbHgtc2RFQy1wWVdhbnVrOFpRcjZaMFZsMVp2UU9hOV9HYTBELTZlTkJ10gGmAUFVX3lxTE1UWExyc0dGVHozRG5ISVc0ZU9MRktSQXpRSWlUVTdzejhBM010dnJXUW9NMkVwM0NSSGJHZUdGY0RLQkhZLUhHckw2UG1UcDRLWmdLRHVZYnNCczItM1RSSGpDQzZDRU5MUkFSNlhNdWV6VW5aT21NV3NnZVpTeU9LQ21NNWNxVUV6azhfRUdvNnlUQkVZYkRjOE83TVVucllGSzAyTnc?oc=5",
-        "pubDate": "Sat, 16 Aug 2025 02:26:15 GMT"
+        "title": "Ukraine-Russia land swap \u2018largely agreed\u2019, Trump says after Putin summit - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2xJa09uQnNVejJaY19NWGw0Q1dLY204WFc3ckIxUDJxTVlsRGVWT3h2MVE5dmQ3WTNxTWpTVFpkQkdOUFAyWl85SUtVSUdvd2Z4NUlvaDhwSzVZVkN3ZG53cUxYZnREZk5FRVQxZ0dydFlFa1BaaG9uaDl5aXZHU250NFBiWGhpV0x6NXBhY1liYzhndnlpSHVJNWtHMnNpa1JHVE5xdGJXTGtDZmY5RDVpN2RmbXFhNlJUR1hmY2YyREd3ZFpNNjIyNWUxWDNMQXhTSHNJUDZxOUpNU0ZNaA?oc=5",
+        "pubDate": "Sat, 16 Aug 2025 04:27:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-16T04:59:03.550573+00:00"
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "Bitcoin and Ether ETFs post $40B volume in \u2018biggest week ever\u2019 - Cointelegraph",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SU05pVm1Wc0dQT3EyYzJVdHk1eFYxRndZSk1wYzk5Wk0yMElGdmVkQmRFYTJ5bW5NVXhuSDItYUZfSWVFZm12dGdNa1FmYVI3ZzAzUFJfaDBqaF9Rb3lBVTg2YlZzQ1BjUjl0Z2g5QmNxUUgtMnRVbFFlaGR5WHM?oc=5",
+        "pubDate": "Sat, 16 Aug 2025 02:57:51 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
+  },
+  "Battery Technology": {
+    "articles": [
+      {
+        "title": "Solid-state battery tech reaches production car, and it's crazy cheap - New Atlas",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83dFNvdDZIWGRzc2sxbDZ2b2szZ0xZV2JGUTJBbFFuUzNyV0N6aVNSVWFLaUNveTQxRzJkcEgwb0gzMmhqNjdxanVScTFmQTlCa0ctNFhkNWc1cGdaRXptOFJsRlBiejBpZG5qOFJ3?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 20:48:31 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Faster fusion with AI? - American Nuclear Society",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZHZFTjZBUHB5aU9ERVlJN0JrUU14Z2JwM2ZjNDFtTGdMckFXLVVGdlAxOGdjZHlnSFJLR3YtQ3JMRkFEQjc4VTlqaWlnc3kteHVVZUQzY1lkUkJwcFAySHVaTkxUVlhuakFCbQ?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 18:03:53 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
+  },
+  "Electric Vehicle": {
+    "articles": [
+      {
+        "title": "California to end EV carpool lane stickers in September - NBC Bay Area",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0twS2tDQWpZTXBlVjRtbDM3eER6UzlqbTdockppSmM5Zkc2ank3UkI5ZzhhVy1ibUZTR3MwUFhrSGV0d1pya3VJWjN0TFN5X21tcS0wVmxObzZzcnl6NVg4Vl9SRU42eVVfXzBPaDNMc1BodUcxX25Hb21IYVdiYkh30gGKAUFVX3lxTE9iZU1hX1o1V20xR3FqLUY0ak85bjR3UDZTNW1Pa0dlazBqTkVNOVZNREc3dFdOckI5TlhPeWlwZkpOc0FXaExLb2x5MjN2a2JBUTNBQkM2SEQ3eXdfZlY0NEs2d2tiSExXdW9jYnlVREgtTFpiWXl6SnVpUlVxTEdCS0twNHB1S3dOQQ?oc=5",
+        "pubDate": "Sat, 16 Aug 2025 03:17:53 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
+  },
+  "Ethereum": {
+    "articles": [
+      {
+        "title": "SharpLink Stock Dives After Q2 Loss as Ethereum Price Surge Cools - Decrypt",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTFXdk5INkxlTEEyUHJoTk5BY2hJSmZmWDdTYU1TTXROY2J1a2RCX3VEUTQyU201V1dNdXFZR1ZpMnlSakpYc1ZWWHFYTno2WTZGaFhmZHRZaGxoMHZlZ3JWN191LTdNMnV0QkNHcWJKYnVRT3ZyakVSWGdObUM2d1J30gGKAUFVX3lxTE96ZnpXdk1icG1mMGxtNGVTMkdWYnEwRmpSUlZyTkI2VG9ETWhoMmNHbUlBMzZXMXlpZUl3M05IdFQ4NFlCRHJEMl9KTGRfeU50ektvZER4UjF0NWMyQXdDWHJDaGhmbjN1WFJhcE1SUEZNRzBZUlMzT2hyUW9tclV2OENzSVhUTTQ5UQ?oc=5",
+        "pubDate": "Fri, 15 Aug 2025 18:17:55 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-16T05:58:58.450743+00:00"
   }
 }
