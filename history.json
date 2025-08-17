@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Netanyahu to hold news conference ahead of UN emergency meeting on Israeli plan to take over Gaza City- follow live - BBC",
-      "pubDate": "Sun, 10 Aug 2025 12:18:21 GMT"
-    },
-    {
       "title": "Palestinian Awdah Hathaleen, shot by an Israeli settler, captured his own killing on video - Haaretz",
       "pubDate": "Sun, 10 Aug 2025 17:52:00 GMT"
     },
@@ -295,6 +291,10 @@
     {
       "title": "Can AI Really Blackmail Humans? Claude 4 Opus Test - CEO Today",
       "pubDate": "Sat, 16 Aug 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Alternate Approaches To AI Safeguards: Meta Versus Anthropic - Forbes",
+      "pubDate": "Sun, 17 Aug 2025 12:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -328,10 +328,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI is creating new billionaires at a record pace - CNBC",
-      "pubDate": "Sun, 10 Aug 2025 12:00:01 GMT"
-    },
     {
       "title": "AI Spurs Job Losses: Pentagon\u2019s DTIC To Cut Nearly 80% Of Workforce In Tech Overhaul - Dallas Express",
       "pubDate": "Sun, 10 Aug 2025 15:04:11 GMT"
@@ -450,10 +446,6 @@
     }
   ],
   "climate": [
-    {
-      "title": "Wildfires are inevitable, but we can learn to control them - Al Jazeera",
-      "pubDate": "Sun, 10 Aug 2025 12:33:53 GMT"
-    },
     {
       "title": "Overheated homes: why UK housing is dangerously unprepared for impact of climate crisis - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 18:00:00 GMT"
@@ -619,10 +611,6 @@
     {
       "title": "China insists Nvidia\u2019s H20 chips are unsafe, not advanced, and environmentally unfriendly - Cryptopolitan",
       "pubDate": "Sun, 10 Aug 2025 13:18:00 GMT"
-    },
-    {
-      "title": "China launches \u2018world\u2019s first\u2019 humanoid robot mall that operates like a car dealership - Interesting Engineering",
-      "pubDate": "Sun, 10 Aug 2025 12:28:00 GMT"
     },
     {
       "title": "Assessing footage said to show collision between Chinese ships in South China Sea - BBC",
@@ -795,6 +783,10 @@
     {
       "title": "China doctors remove 2kg hairball from girl\u2019s stomach \u2013 caused by 6-year habit - South China Morning Post",
       "pubDate": "Sun, 17 Aug 2025 06:00:10 GMT"
+    },
+    {
+      "title": "US seeks shipbuilding expertise from South Korea and Japan to counter China - The Hill",
+      "pubDate": "Sun, 17 Aug 2025 12:17:00 GMT"
     }
   ],
   "us_politics": [
@@ -906,10 +898,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation - The Hacker News",
-      "pubDate": "Sun, 10 Aug 2025 12:31:00 GMT"
-    },
     {
       "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
       "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
@@ -1623,6 +1611,10 @@
     {
       "title": "Bitcoin has \u2018greater than 50% chance\u2019 of $150K before bear hits: Exec - Cointelegraph",
       "pubDate": "Sun, 17 Aug 2025 06:07:07 GMT"
+    },
+    {
+      "title": "Trump Media\u2019s $2 Billion Bitcoin Purchase Creates Stock Surge - Nasdaq",
+      "pubDate": "Sun, 17 Aug 2025 11:05:00 GMT"
     }
   ],
   "fusion_power": [
@@ -2201,6 +2193,10 @@
     {
       "title": "Hamas rejects Israel's Gaza relocation plan - Reuters",
       "pubDate": "Sun, 17 Aug 2025 11:26:04 GMT"
+    },
+    {
+      "title": "Israelis hold nationwide protest to end Gaza war, \u2018bring back the hostages\u2019 - Al Jazeera",
+      "pubDate": "Sun, 17 Aug 2025 12:20:10 GMT"
     }
   ],
   "battery_technology": [
@@ -2569,6 +2565,10 @@
     {
       "title": "Why is Maine experiencing more wildfire smoke recently? - newscentermaine.com",
       "pubDate": "Sat, 16 Aug 2025 21:31:00 GMT"
+    },
+    {
+      "title": "Global warming is not about to cool | Opinion - Naples Daily News",
+      "pubDate": "Sun, 17 Aug 2025 10:11:23 GMT"
     }
   ],
   "volcanoes": [
@@ -3129,10 +3129,6 @@
   ],
   "quantum_mechanics": [
     {
-      "title": "Scientists show a way to speed or slow reactions using tiny mirror gaps - Interesting Engineering",
-      "pubDate": "Sun, 10 Aug 2025 12:43:00 GMT"
-    },
-    {
       "title": "Researchers have discovered how to rewind time in massive scientific breakthrough - Dexerto",
       "pubDate": "Sun, 10 Aug 2025 17:26:15 GMT"
     },
@@ -3249,6 +3245,10 @@
     {
       "title": "US East Coast to experience deadly rip currents and massive waves as Hurricane Erin moves through Atlantic - AOL.com",
       "pubDate": "Sat, 16 Aug 2025 20:30:54 GMT"
+    },
+    {
+      "title": "Monster Hurricane Erin continues to barrel across Atlantic bringing life-threatening impacts to Caribbean - FOX Weather",
+      "pubDate": "Sun, 17 Aug 2025 09:33:00 GMT"
     }
   ],
   "vladimir_putin": [
@@ -3739,6 +3739,10 @@
     {
       "title": "Four dead in New York City outbreak of Legionnaires' disease - BBC",
       "pubDate": "Fri, 15 Aug 2025 16:43:38 GMT"
+    },
+    {
+      "title": "Three killed, eight injured in shooting in crowded New York club amid record low gun violence year - Newsday",
+      "pubDate": "Sun, 17 Aug 2025 11:37:36 GMT"
     }
   ],
   "world_politics": [
