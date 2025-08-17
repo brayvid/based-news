@@ -1,32 +1,72 @@
 {
-  "Russia": {
+  "Earthquakes": {
     "articles": [
       {
-        "title": "Russia is quietly churning out fake content posing as US news - Politico",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnBaWjZkOU5pUHhVQUlwcGpFdDhXV1ZBVXhQcjBVUnhCNFkySWptcFlKV1VVanQ4ell5X3pfZWRFeTAxUUNBbktzZjdMVVRuYXg0czZMNy1fYnNILXQ0QW1nU3dxbmpOOGdaRzdfQWx4OTQ2cHR0NTROZlJfTmpmREVKSk01d3lDYldYa2p1WnFLdnhfbEhFZnlR?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 11:00:00 GMT"
+        "title": "A Mega-Quake Shocked Myanmar. Could California Be Next? - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HbEdNTTFfdjZWOUk5cjFDdXM5RXVxSmFpa3ZIRXJyNFVUWnFOMmtDb1RFbzYtbFBuaGhxNl84b01OdC1EZnktMl9B?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 10:28:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T14:57:57.683349+00:00"
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
   },
-  "Military Intelligence": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Israel formed special unit to discredit journalists as Hamas operatives - Daijiworld",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMWQ4NGhaa2FfelV1MnBRNDRqLW9keGZFc052NnVtUXBGN184dXE3TXE1dWpWNzRKdkVPM0JSNVNKamh1aGZva3BuRjNZWUcwNkJkRWtmcmlXai05cWtvcmRQZC1kdVMweEt2Nm52aG9TTXM0WHdB?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 03:48:59 GMT"
+        "title": "Netanyahu Slams Anti-War Protests as Gaza City Conquest Looms - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmJRLXJGVXB5VzV1X21SdkVnZnFDd3lnQWktY203dkxVbE9WLUx1cHd6bmVkcXhGdHF3czRKNHhDZVV4UHZ1YTJrYmxZTWczdF8wclJaSlJlcXh4ajVCdkppUDRtc25GenM0MW5RN0tfTjhXNHZiS0M3aXVkN2JCS3F4dWtwcUVLY0t4NDgwaTN4Y0JaR1AxSllhWVRHcUl0NWl0V0NXZklVRnVCNzdrMzBB?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 13:04:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T14:57:57.683349+00:00"
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
   },
-  "Universal Basic Income": {
+  "Artificial General Intelligence": {
     "articles": [
       {
-        "title": "Analyst: Sovereign wealth funds will become the largest holders of Bitcoin, and staking income may evolve into universal basic income - PANews",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ncnd6My1CYWt0azZ1REM2WXlUSFpuUUZOSTMxRjUwck1WdFNEUGM4S1I2SUNvWmhzZ3paN2dLUGVFeW5vN0lKYXFGLTVyUmRiaW5hc3hkUUNqZXo4Mm1wUUpaX1ZUUGs4aGdMVUFJbUFCbWJjcEIxMm1pUXZWUkk?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 06:35:46 GMT"
+        "title": "OpenAI\u2019s AGI Pursuit: From Prediction to World Interaction - StartupHub.ai",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDBhNGc2VnNTbjYwZEg4OURXV2FGd3BQUkk1VUtfS0s5LWh6ZDFMZ2pqYVdqWkdCY3ROMkRSOEVpaFNmaURQVkUwM2lDc19xYVZGck1EUHJfM2U0ZVJSNWtBVlE3d3JDVlJjZXlTNjJpeHNzOXdOcGpLS0xrVXR6bzE4ZW1CU3RxZUZZcW1seThLdl9qUkVjVHRaYkRwbWFkN01pcHBFSm0?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 09:40:27 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T14:57:57.683349+00:00"
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
+  },
+  "Wind Power": {
+    "articles": [
+      {
+        "title": "China tests world\u2019s largest floating wind turbine, a 17 MW giant that could power 6,300 homes a year - WION",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMTdubzFrQk5jZ2k0cWx0UUFlZElMV295eUJyYWFnRXpjSmFiYl8zdGhlNF9wTlBzNWlMOW5kb28wNlhwRjIzeE1iM1JSVWNfaUR0UlR3Nk9hbFA4TU4yd1VIcWVYc1JYTnJwdnR3Z3o0X3N2TmpkWmdySkNQalRqUzQ4aWgwRW5NWWJucmhIb1BCSFcwLUV1TGZQRWp1eVZlVTZuSUhIeE1mUmZEbTc4X3lHd3N3UGF0THVNLWhycWt6b3dOZWZCZ1I1LWVacVlpV25tLXdIS2PSAd4BQVVfeXFMUDJIVWtiaHkxTVlmRG5Ha2pDYWhWUVIzMzZZWFZCMWM1dmVGdHpCWWwwQUE1eGVkMHFnaXZrSGc5djQ4TGZMbERRNEtMR2lheEJfNXdIZzl3OGVyN1ZmQWIyd1loa3JzdklNNEhDZWYyakVvV1BZVUdvN0RDQWNjYkt3QTM3SFNFTFA0N2hFbV9nRFhKYXd1SURLVFpoQ1dXVGl4dlRoMEoxQl9BMTlGTFZEV1gyVVU3SEFWZy1BMXlYWXUyTHhxOFoyM3p3WEVPNWFRdHFNTnRSQ1BMOXpR?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 12:25:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "The EPA\u2019s know-nothing assault on climate science - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajduYmMxMmVmd3djMkVDSFVkaTVNd2psbVFmdW45RGJ3dUlNdWhraWFqX1kyQkFVZ0VWRjRsUXlMYk5BWXlBOW5WUXdEWExYSzJEblU1cF9IZExobWJVTWJyQkU2a2VCV1NNVWFTeWR1czhVLVgxV2dyS25CaUFoZDdGbmlkcHpUeDNPcXU0QTg2RWRFS3NlZTg4OWplQnVPNU1EV00yb9IBrAFBVV95cUxOU2hzeE5ZdEhKbzRYNVo2a2lYdUozMXkxZmFYdzFnTmxtaHhWaHhRdVBfakZlTXJPYm10ZXR1THF3RkxDWTJrWHZMeWxZUDZDUEtlSEJpTVV5Z1Q3Tm9ndlZycjgzSjNLcFlLQXAwMzI1YmFUNVBuM1VVNEd5dnJlaS03eC1aYkctX2plM1kyVEI1a2llbHFiR19UWVBHSWFFc0NfX2Q1RWZxU2hX?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 13:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
+  },
+  "Blockchain": {
+    "articles": [
+      {
+        "title": "Kraken Halts Monero Deposits Amid 51% Attack on Blockchain - Cryptonews",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVTA4OGIxTEhaN3VKVEpKV3NON2haVVpRSGhXNUwxbExKMFRGXzIyeUZQa19OaFN6OUpMVFM4QWxFZVlGUXFGWlItYi1qVHQ1SkcxZTN6VGhvVVZzdHkyTko5OWpEY2lVNlFrSGoxMXBqa2tLOHRSd2xUYUloV014MW1RaXV6cGYxS2YxaExKVQ?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 09:53:45 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
+  },
+  "Ethereum": {
+    "articles": [
+      {
+        "title": "Why Circle chose an L1 \u2014 and what it means for Ethereum - Blockworks",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BLTdzMkItVG5jblVqaGowY2hTaWZaeENnbzc1VmxnNl9ORjhPTTNYNzdXRE5fQzNMMllzRlJXU1ZqN0JMT2lOZWFRWVEyR2g3MEhodFRIU1I2UnJCOWNtRmRR?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 15:12:51 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-17T15:57:47.154936+00:00"
   }
 }
