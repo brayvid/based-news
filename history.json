@@ -69,10 +69,6 @@
       "pubDate": "Sun, 10 Aug 2025 21:47:51 GMT"
     },
     {
-      "title": "Trump moves Obama, Bush portraits to hidden stairwell - CNN",
-      "pubDate": "Sun, 10 Aug 2025 14:07:00 GMT"
-    },
-    {
       "title": "Trump says Washington DC will be \u2018liberated\u2019 as city mayor disputes claims of violent crime \u2013 live updates - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 13:11:03 GMT"
     },
@@ -189,6 +185,10 @@
     {
       "title": "Investors react to US-Russia summit reaching no agreement - Reuters",
       "pubDate": "Sat, 16 Aug 2025 07:07:38 GMT"
+    },
+    {
+      "title": "Russia is quietly churning out fake content posing as US news - Politico",
+      "pubDate": "Sun, 17 Aug 2025 11:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -476,10 +476,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom - Al Jazeera",
-      "pubDate": "Sun, 10 Aug 2025 14:48:45 GMT"
-    },
     {
       "title": "Ukraine war latest: Three killed in Russia as Ukrainian drones shot down 'en route to Moscow' - Sky News",
       "pubDate": "Mon, 11 Aug 2025 08:41:20 GMT"
@@ -991,10 +987,6 @@
     {
       "title": "More than half of industries are already shedding workers, a 'telling' sign that's accompanied past recessions, top economist says - Fortune",
       "pubDate": "Sun, 10 Aug 2025 17:18:00 GMT"
-    },
-    {
-      "title": "Everyone\u2019s worried about the economy, but executives have been talking less about a recession - MarketWatch",
-      "pubDate": "Sun, 10 Aug 2025 14:00:00 GMT"
     },
     {
       "title": "Over 53% of US Industries Shed Jobs as Recession Fears Rise - AInvest",
@@ -2019,14 +2011,6 @@
   ],
   "gaza": [
     {
-      "title": "Hostage families call for nationwide strike as Israel prepares to escalate war - CNN",
-      "pubDate": "Sun, 10 Aug 2025 14:20:00 GMT"
-    },
-    {
-      "title": "Netanyahu defends new Gaza military push amid growing opposition - France 24",
-      "pubDate": "Sun, 10 Aug 2025 14:39:58 GMT"
-    },
-    {
       "title": "IDF assessing how many troops needed for new Gaza offensive as Security Council convenes - The Times of Israel",
       "pubDate": "Sun, 10 Aug 2025 21:00:00 GMT"
     },
@@ -2264,10 +2248,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Giant Einstein ring reveals one of the Universe\u2019s biggest black holes - ScienceDaily",
-      "pubDate": "Sun, 10 Aug 2025 14:27:48 GMT"
-    },
     {
       "title": "Giant planet found orbiting tiny star \u2018should not exist\u2019, astronomers say - The Times of India",
       "pubDate": "Mon, 11 Aug 2025 01:30:00 GMT"
@@ -3383,10 +3363,6 @@
   ],
   "research": [
     {
-      "title": "Florida\u2019s universities face research overhaul courtesy of Trump and DeSantis - Politico",
-      "pubDate": "Sun, 10 Aug 2025 14:00:00 GMT"
-    },
-    {
       "title": "Experts condemn NIH director\u2019s defense of cut to vaccine research - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 10:02:00 GMT"
     },
@@ -3435,6 +3411,10 @@
     {
       "title": "Russia readying nuclear-powered cruise missile test, Ukrainian military intelligence says By Reuters - Investing.com",
       "pubDate": "Fri, 15 Aug 2025 18:18:49 GMT"
+    },
+    {
+      "title": "Israel formed special unit to discredit journalists as Hamas operatives - Daijiworld",
+      "pubDate": "Sun, 17 Aug 2025 03:48:59 GMT"
     }
   ],
   "google": [
@@ -3793,6 +3773,12 @@
     {
       "title": "Why NASA Is Racing to Build a Nuclear Reactor on the Moon - National Review",
       "pubDate": "Sun, 17 Aug 2025 10:30:19 GMT"
+    }
+  ],
+  "universal_basic_income": [
+    {
+      "title": "Analyst: Sovereign wealth funds will become the largest holders of Bitcoin, and staking income may evolve into universal basic income - PANews",
+      "pubDate": "Sun, 17 Aug 2025 06:35:46 GMT"
     }
   ]
 }
