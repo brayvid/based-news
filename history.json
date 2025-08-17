@@ -73,14 +73,6 @@
       "pubDate": "Sun, 10 Aug 2025 10:01:00 GMT"
     },
     {
-      "title": "Trump says Qatari jet could be ready for use as Air Force One in 6 months. Experts are deeply skeptical - CNN",
-      "pubDate": "Sun, 10 Aug 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Trump may move closer toward a DC takeover during Monday news conference - WTOP",
-      "pubDate": "Sun, 10 Aug 2025 09:35:31 GMT"
-    },
-    {
       "title": "Donald Trump exposes US retirees to new world of risk with 401k order - Financial Times",
       "pubDate": "Sun, 10 Aug 2025 10:00:04 GMT"
     },
@@ -501,10 +493,6 @@
   ],
   "ukraine": [
     {
-      "title": "White House is considering inviting Zelenskyy to Alaska - NBC News",
-      "pubDate": "Sun, 10 Aug 2025 09:13:00 GMT"
-    },
-    {
       "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom - Al Jazeera",
       "pubDate": "Sun, 10 Aug 2025 14:48:45 GMT"
     },
@@ -603,6 +591,10 @@
     {
       "title": "Ukraine war briefing: Zelenskyy says Russia refusing ceasefire \u2018complicates the situation\u2019 for ending war - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 01:47:00 GMT"
+    },
+    {
+      "title": "Russia launched 60 drones and a missile overnight\u2014Ukraine downed 40, but 12 locations still hit - Euromaidan Press",
+      "pubDate": "Sun, 17 Aug 2025 09:30:43 GMT"
     }
   ],
   "us_economy": [
@@ -1737,6 +1729,10 @@
     {
       "title": "OpenAI CEO sparks controversy after refusing to disclose information about latest AI model: 'It's more critical than ever to address' - yahoo.com",
       "pubDate": "Sun, 17 Aug 2025 00:35:00 GMT"
+    },
+    {
+      "title": "OpenAI's chief research scientist shares the book that inspired him when he was unsure about his career path - MSN",
+      "pubDate": "Sun, 17 Aug 2025 06:54:05 GMT"
     }
   ],
   "environment": [
@@ -2201,6 +2197,10 @@
     {
       "title": "Netanyahu rejects partial Gaza deal, demands release of all hostages in single agreement - Ynetnews",
       "pubDate": "Sat, 16 Aug 2025 21:29:47 GMT"
+    },
+    {
+      "title": "US Suspends Visas For Gazans Seeking Medical Aid After Far-Right Campaign - NDTV",
+      "pubDate": "Sun, 17 Aug 2025 09:23:29 GMT"
     }
   ],
   "battery_technology": [
@@ -2783,10 +2783,6 @@
   ],
   "brics": [
     {
-      "title": "'Death of dollar has begun': American forecaster warns BRICS revolt will end US hegemony - Business Today",
-      "pubDate": "Sun, 10 Aug 2025 09:49:03 GMT"
-    },
-    {
       "title": "Russia to discuss creation of technology alliances - TV BRICS",
       "pubDate": "Mon, 11 Aug 2025 13:13:25 GMT"
     },
@@ -3009,13 +3005,13 @@
     {
       "title": "U.S. delegation's India visit reportedly called off as trade tensions simmer - CNBC",
       "pubDate": "Sun, 17 Aug 2025 02:43:00 GMT"
+    },
+    {
+      "title": "Modi's tax overhaul to strain finances but boost image amid US trade tensions - Reuters",
+      "pubDate": "Sun, 17 Aug 2025 09:06:57 GMT"
     }
   ],
   "public_health": [
-    {
-      "title": "Friday\u2019s attack on the CDC offices was targeted and deliberate, CDC leaders tell staffers - CNN",
-      "pubDate": "Sun, 10 Aug 2025 09:18:00 GMT"
-    },
     {
       "title": "Public health officials face grim new reality after CDC shooting - CIDRAP",
       "pubDate": "Mon, 11 Aug 2025 21:10:27 GMT"
@@ -3189,6 +3185,10 @@
     {
       "title": "Ocean heat and global sea level hit new records last year, report finds - CBS News",
       "pubDate": "Thu, 14 Aug 2025 20:37:00 GMT"
+    },
+    {
+      "title": "Giant virus discovered in Pacific Ocean with the longest tail ever recorded - MSN",
+      "pubDate": "Sun, 17 Aug 2025 05:06:46 GMT"
     }
   ],
   "inflation": [
@@ -3293,10 +3293,6 @@
   ],
   "hurricanes": [
     {
-      "title": "National Hurricane Center tracks Invest 97L, now with high chance of development. What to know - Naples Daily News",
-      "pubDate": "Sun, 10 Aug 2025 09:46:38 GMT"
-    },
-    {
       "title": "Tropical Storm Erin expected to become Cat 3 hurricane. What to expect in North Carolina - The Asheville Citizen Times",
       "pubDate": "Tue, 12 Aug 2025 13:04:39 GMT"
     },
@@ -3323,6 +3319,10 @@
     {
       "title": "Hurricane Erin strengthens significantly, will impact on Maryland's rip current - WBAL-TV",
       "pubDate": "Sun, 17 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Hurricane Erin weakens but maintains major hurricane status - Gulf Coast News and Weather",
+      "pubDate": "Sun, 17 Aug 2025 03:35:00 GMT"
     }
   ],
   "self-driving_cars": [
