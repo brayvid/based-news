@@ -1,72 +1,72 @@
 {
-  "World News": {
+  "Earthquakes": {
     "articles": [
       {
-        "title": "Ukraine war latest: Major shift as Trump backs peace deal over ceasefire; PM says president should be 'commended' - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFN5VEJoTndwQ0NZTDdaR29aUkpPX0RDVTl4cjY0VXJIUFBwUWpQZ25HOFliTHp1SmhFSENoOXNGOENLa0hQb2pwUUZVMEZvZUI2N1JvN0p5UEtqZW4tX0sxb2MyRWlYaGxsOGFGd1dKODYzaktEbjVTWkdlcm9ab01VWVNlSS1pSHc2SGk1eUphQzBRWTM0ZVJiZnlnRWFmaFp6Wm81djIyNlRTSGhsWXJtdWNnX2hJbkNqemotRjY?oc=5",
-        "pubDate": "Sat, 16 Aug 2025 17:06:07 GMT"
+        "title": "Powerful earthquake strikes Indonesia leaving dozens injured and two critical - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkRQUUhDM3ZxVXNPN1pfZkNEdFlKODZ5UEVRYUhrRzJoUG5WSmNicnBmaHdjcllJQVZwcHBzVXBFTEJNMTlpRDZ1NkFYSXVaYktqbmlHQkhWenBnVDNDb19WMjRvMjV3Vm5iV3hObDJ2Tjc5elQwQ2lyYXBvNzE4TkpLdkhKZ29FMDJ0Q2pGUlpoNDc0cjh6Y0VWcmhraFUxN3VlaE04UkVwQQ?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 05:36:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
-  "World Economy": {
+  "China": {
     "articles": [
       {
-        "title": "China steps up tax crackdown on overseas investments - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQ2lTYXJYMTlMallhRlRUSUZ0ZWlsdk5NZUdlT2tDbU9oRm5rdUhWaHFhSGdMVEJ3cmtlVW04VW1obE1wdERnMkNCSUNsdFgwTVJsQ3RuekQtSHZjMGVsbjJyT05OS0N3dHhJdzZTUkk?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 04:00:21 GMT"
+        "title": "China\u2019s entrepreneurial spirit is under immense strain - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbS1jNXVRdU96MlVxcDR1M0ExUlF6UW5NcVA4Z1lPbENycXRReFhBbWktQTNkbEVNMkp2RGtZWi03dGVIaktpLUlTaWE1QWxQSUkwZWpCWnZuYlNvczU0ZkxFZUJmOG1Ma1QtZ1l4VFY?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 04:00:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
   "Atlantic Ocean": {
     "articles": [
       {
-        "title": "Hurricane Erin rapidly grows to category five strength near Caribbean - Australian Broadcasting Corporation",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnZxQXZCSDFNZy04UVp3a21xZ2RPNmdnYmlsbERMMUVaWTkxcUFOSUN0eEd1WWdDOUktX2lId1ZGQVlocnduS1VuNVEtZ1NwTTJTU3E2alFfaDg1dTJERllnc2t5OHBJYU54OUFPY3hQNFJ2ckMzVG5DVEcxS1hQeXNYOVhzNnJvb1V2MUdwdzBUT21lZFpqV1pBbGZfZ3VC?oc=5",
-        "pubDate": "Sat, 16 Aug 2025 22:51:48 GMT"
+        "title": "US East Coast to experience deadly rip currents and massive waves as Hurricane Erin moves through Atlantic - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4Y2phYVhCVGplcHVfcDRJVmVQWmpWV1BTTUhvdVVCUVRSbW8zdUNhWGxvTEZBNmN4emxPS1M0Mk1tRjJ4bVE2b0E5V0R1bFNZUVNVX0VWWVBwVEJjLXZrNTNXclFiZGxhVVRLcHN3NUtrMEVM?oc=5",
+        "pubDate": "Sat, 16 Aug 2025 20:30:54 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
-  "Cybersecurity": {
+  "National Security": {
     "articles": [
       {
-        "title": "Palo Alto Networks' Earnings Beat: A Catalyst for Cybersecurity Sector Momentum - AInvest",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXgtRUhQRzhqV2hoVEE4SGRBSkZZODhjdjloV2RCUjV4UmFFckJtc2dudnBCRnluanZiQlhLRlc4MHVELV9fa3VnUkcyZXN1MjhiRjRLMjMySjJhQXl6RFRJSUIxVnhEX05HS1NiRkJ0S2k5U2gwdEdSNE81dFhPNVBsakZjNGlBYktFa2Q4U3pzVFE1S0ZHczJKWm1nc0NOMG1PRlZSUnJYdw?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 04:18:00 GMT"
+        "title": "Nigeria says it has arrested 2 militant leaders on its most wanted list - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQai1tSXJjcTI5dUZRSk5lU2N6YnJyOXpSMk9MZnVlX3lFemhoMGRPSWpFWTdmYnZCVDR3UEpBNzFsQjhHNzhVUGFpaGNpNjliVEFuRkNKUjJsRHdVUVlrQTI1RDhEMmJRbTJnaGRWaGlEV1c0YVhpeUU5RVRNX3BMRTJQWHV1eXNxRHU4TFEzQnZkd1Y3MnZQRWNKZmFXQVFtQUtZZlRlRdIBrAFBVV95cUxOQklZRUxTSlF5dUJqZ094ZnNua19seGFoOGxsYmx1QlNjZHlsdDdVS2VrR2pXeG4yVVRPWjBwQXZmUVdxR2tRSFVfT1VyN2xLeUFaNW9VdjJuSmFETGVWbDZULWRIdlBQdVJSU1hNSXpOV25fR0lGclBCNC15UUF6VEhhcmNBbW51aFdZbXI5Nm5uRDl1ZXZfQ29CUy1mc05GYkpZMFpJLXVlWnhS?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 01:30:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
-  "Artificial Intelligence": {
+  "Ethereum": {
     "articles": [
       {
-        "title": "Why AI Could Transform \u2013 or Threaten \u2013 the Future of Human Creativity - Vocal",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1kyOVkyS29QWVFMd3NOdm00Y0xXaVZWZlhfNUd4ME1jU0V5S1NYNzdSemlVMU43VVdJMHZxcUtucGhhU0o1SThpekZCRmRvU2VVU3B0TWR1S0lHdlRtR2t6NlJ1eGUzakNRRjU2NFZuNGtJeHpMMEZEV1d5Q2REdkF3R3lTY0JreUM3Q2tSWXNsSmdNNERHdm93?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 04:08:06 GMT"
+        "title": "Ethereum News Today: BlockDAG BNB ETH DOGE Lead Crypto Gains on Fundamentals Institutional Interest - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHRSeFFHaGlURHkyZ29sZ09MWDllWXViRVM0V3J0ZHFOOXZDUWdoVGFLa3IwZ2tiUzE4NHhVSGNuRTlHU2Izc0xTVGtxaDB5YnNnT1N0RW53eXVuVk16eWwwakZFeTlqQy1iV1k3b3oxZ1c1Q0ZqVVJSVjd1QTQ1ZXJtdEtKWTZtdmdnaEh3VUtxQW5wSmt3UjdBQ0t2WlJ3OHB6V3c0OVBMM3BJRWl4RW1GRUNLam1SZS1yUHZHX21tQkJJTzI0OW9B?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 02:41:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
-  "Science": {
+  "Physics": {
     "articles": [
       {
-        "title": "Scientists stunned by record-breaking, watermelon-shaped nucleus - ScienceDaily",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yNUhIeG9fcm9WMG54YVNMcW9ubkZ2UXZscDBFY09kTmdDQ09TazM2dkRsUlREeVpuTWZhMlBzQlJBcC1wcjE1WmNDaTdvcGNtRzFuRzRXeTd3RjJkYXBFOU5pOERfMW83dzN6aWFNaw?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 03:59:07 GMT"
+        "title": "Scientists Create New Magnetic State: The Magneto-Ionic Vortex (\u201cVortion\u201d) - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHhRREdjZUlfZy1GaWNvVkFvRVozLTNlb3RmWEp0dHptRTVLelhXQlRXSHVRbWhzaFJfNGhmd3RoczJPbVAzQUlqVWJEZVB0UVVyR1E5RkVVaXB5OHQ3a21KbHpLV3ducF8zSm5xWmxXZWVkbWl3SXVQNlFwbFN4RkdmM05JZEVsQWtMWDhPSVBQbTFXNm1wRm5jYw?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 04:51:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   },
-  "Department of Homeland Security": {
+  "Health Care": {
     "articles": [
       {
-        "title": "Federal agents open fire during targeted enforcement operation, DHS confirms - NBC Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmdjdDV4ejg0dUNzVDl0U0plSWlmektzcGZXOHZRSjNMQ0tzZHRzb0Z3clBTWWl6RGtDbTFmeXFHSU9XUzJGZWlmekMxMTd4aHpRQnVadVdEd1RldTlma1ZGU3VzY2EzYUlCd1huZ1BUSUhvMDd3dldUVEVXMnRyMkI3cDUtaUczWmdtNmYzM3dpU01VR1RvQkhtTGlkZXh1UWRiMGNhczlKNWlnVzZ1SnRBZk1iWklsUy0td3dDLVdySFHSAcsBQVVfeXFMTVVVTjlGUW1zQWJVeDNOR1g5ZWcwQ0RZLV9kVFRQTGN0cWNDeEVXNXJnRkNULThSejFwMG85c3BPRTFUSWtCRWhKZklpeEFiNVJLN3lucm5wSGlOdVJBTTN1RFVCeVRxM01wZ1Njb0JpbGl2Y2pLdkxHTm9DMGhvTExJTGRXcDNJTHZ1dE5NRjhKVGZydG9paXVJWng3SHFlZ0hkY1NUZVg3NVMzRE9lQlVQeUFsbnNfWXhuMnZ0eldkM3U5bERDZXEtaDA?oc=5",
-        "pubDate": "Sun, 17 Aug 2025 00:08:47 GMT"
+        "title": "Covered California health insurance will cost more in 2026. Here's what's behind the increase - NBC Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRnMtbWlITDM0dlhmWC1PZGl1U3pEQ0dBQWpnSHl3X2dGN2oyMnAwY2hacXU5Nk0zWEkwcUhvNTRVeUFmYm1pbWUzMDQtemtYSlBiSWFfU2xtTU5WVFlTMDhzSTJEUEZjbXVoLVVjci1nZnRYMDhCZXFaTVp2YUtnVk9rblN3Tnd4RnNxMnFHZXd5aWdmU2NkZWdQSEl3andzSTZneXdTcG5ObUJqQ2xBRmJYNmVKb2JFa0VKdG1IcXNpOXphel93RC1iRlJtT2psZGtlLWhiMNIB3wFBVV95cUxPN1VKM1NrNlRxamwxMm9IY0VlWnFFTmFsQVBvaXZmQVlSaVlZQWFRbk1nLWpDb3JUV3pzY3A1am5OWkVNd045Tm5RbC1neG1DRE80X1B4OFBwVDVjZTRMaVhVeU9ZTVNPc3QxUU50QnB0eVZlY3VhYmlUTktFeURoWjV2d1hlMTZ2ak5XRFBadV9IU1VsblRQZ2hLVjR5cjg3Ry1uOUJwN1RJNnFOSVhPd2NaRG9ybkhBUjJSRTlvYXN0ekJObFZRbXNhaWd6OGxTOWNFSG5kRDR1TS1hTzhB?oc=5",
+        "pubDate": "Sun, 17 Aug 2025 01:24:50 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-17T04:57:02.875137+00:00"
+    "last_updated_ts": "2025-08-17T05:56:53.507738+00:00"
   }
 }
