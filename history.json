@@ -185,10 +185,6 @@
   ],
   "ai_safety": [
     {
-      "title": "U.S. expert: Countries should come together to ensure AI safety - news.cgtn.com",
-      "pubDate": "Mon, 11 Aug 2025 09:36:17 GMT"
-    },
-    {
       "title": "GPT-5 \u2018Nearly Unusable\u2019 for Enterprise, Warn Security Pros - digit.fyi",
       "pubDate": "Mon, 11 Aug 2025 15:19:03 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "The Stock Market's Summer Shock: Unpacking the Drivers Behind Recent Volatility - AInvest",
       "pubDate": "Sun, 17 Aug 2025 14:52:31 GMT"
+    },
+    {
+      "title": "Markets are running the rate cuts show now - Axios",
+      "pubDate": "Mon, 18 Aug 2025 09:00:54 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -583,13 +583,13 @@
     {
       "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
       "pubDate": "Mon, 18 Aug 2025 05:49:00 GMT"
+    },
+    {
+      "title": "Whirlwind day of White House talks could reshape Ukraine's future - BBC",
+      "pubDate": "Mon, 18 Aug 2025 00:15:39 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Trump's tariffs weakened the economy, so he's lying about the data | Opinion - IndyStar",
-      "pubDate": "Mon, 11 Aug 2025 09:31:14 GMT"
-    },
     {
       "title": "Trump revokes Biden-era order on promoting US economic competition - The Indian Express",
       "pubDate": "Thu, 14 Aug 2025 04:35:15 GMT"
@@ -604,10 +604,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Assessing footage said to show collision between Chinese ships in South China Sea - BBC",
-      "pubDate": "Mon, 11 Aug 2025 09:10:06 GMT"
-    },
     {
       "title": "China says Thai art show 'distorts' its policies on Tibet, Xinjiang, Hong Kong - Reuters",
       "pubDate": "Mon, 11 Aug 2025 12:23:30 GMT"
@@ -807,6 +803,10 @@
     {
       "title": "China extends probe into EU dairy products to February 2026 - Reuters",
       "pubDate": "Mon, 18 Aug 2025 07:32:11 GMT"
+    },
+    {
+      "title": "China Stock Rally Sends Shanghai Benchmark to Decade High - The Wall Street Journal",
+      "pubDate": "Mon, 18 Aug 2025 09:21:00 GMT"
     }
   ],
   "us_politics": [
@@ -1561,6 +1561,10 @@
     {
       "title": "Dutch lab paid off cybercriminals, but full-scale data leak looms - Techzine Global",
       "pubDate": "Mon, 18 Aug 2025 06:38:00 GMT"
+    },
+    {
+      "title": "HR giant Workday discloses data breach amid Salesforce attacks - BleepingComputer",
+      "pubDate": "Mon, 18 Aug 2025 07:53:49 GMT"
     }
   ],
   "bitcoin": [
@@ -1831,6 +1835,10 @@
     {
       "title": "Over 9,200 cyberattacks hit South Korean military in 6 months - The Korea Herald",
       "pubDate": "Sun, 17 Aug 2025 04:26:51 GMT"
+    },
+    {
+      "title": "Google\u2019s Gmail Warning\u2014Hackers Gain Access To User Accounts - Forbes",
+      "pubDate": "Sun, 17 Aug 2025 22:01:32 GMT"
     }
   ],
   "biology": [
@@ -2261,6 +2269,10 @@
     {
       "title": "Protests explode across Israel amid growing frustration over the war in Gaza - PBS",
       "pubDate": "Sun, 17 Aug 2025 17:42:38 GMT"
+    },
+    {
+      "title": "New testimonies reveal Israel\u2019s starvation of Palestinians in Gaza is deliberate policy - Amnesty International",
+      "pubDate": "Sun, 17 Aug 2025 23:01:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2617,6 +2629,10 @@
     {
       "title": "Earth's Continents Are Drying Out at an Unprecedented Rate, Study Warns - ScienceAlert",
       "pubDate": "Sun, 17 Aug 2025 19:04:07 GMT"
+    },
+    {
+      "title": "Sen. Sheldon Whitehouse on Democrats\u2019 Failures\u2014and Opportunities for a Climate Comeback - Inside Climate News",
+      "pubDate": "Mon, 18 Aug 2025 08:55:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2946,10 +2962,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Nvidia and AMD will give US 15% of China sales. But Chinese state media warns about their chips - CNN",
-      "pubDate": "Mon, 11 Aug 2025 09:01:00 GMT"
-    },
     {
       "title": "Putin wants a photo op with Trump and a sanctions delay, says EU foreign policy chief - CNBC",
       "pubDate": "Tue, 12 Aug 2025 10:59:07 GMT"
