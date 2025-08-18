@@ -1435,10 +1435,6 @@
   ],
   "renewable_energy": [
     {
-      "title": "The story behind Spain\u2019s solar power meltdown - Financial Times",
-      "pubDate": "Mon, 11 Aug 2025 04:00:24 GMT"
-    },
-    {
       "title": "Orsted plunges as it seeks $9.4 billion to cope with Trump's hostility to wind power - Reuters",
       "pubDate": "Mon, 11 Aug 2025 15:28:51 GMT"
     },
@@ -1635,6 +1631,10 @@
     {
       "title": "Bitcoin risks new 2025 correction as BTC price uptrend starts 7th week - Cointelegraph",
       "pubDate": "Sun, 17 Aug 2025 17:14:47 GMT"
+    },
+    {
+      "title": "Bitcoin Slides As Whales Take Profits; Ethereum, Dogecoin Also Slip: Analyst Rules Out Major ETH Correction Before It Hits $5,000 - Benzinga",
+      "pubDate": "Mon, 18 Aug 2025 02:55:05 GMT"
     }
   ],
   "fusion_power": [
@@ -2751,6 +2751,10 @@
     {
       "title": "Fatal explosion at U.S. Steel's plant raises questions about its future - NBC10 Philadelphia",
       "pubDate": "Mon, 18 Aug 2025 01:24:41 GMT"
+    },
+    {
+      "title": "Hawaii auto dealers brace for steep tariffs' impacts on sales - KITV",
+      "pubDate": "Mon, 18 Aug 2025 04:40:06 GMT"
     }
   ],
   "pollution": [
@@ -3143,10 +3147,6 @@
   ],
   "fbi": [
     {
-      "title": "FBI intercepts 84 pounds of fentanyl near Dayton in massive drug bust - WLWT",
-      "pubDate": "Mon, 11 Aug 2025 04:57:00 GMT"
-    },
-    {
       "title": "Oops! FBI Chief Undermines Trump\u2019s Main Reason for Taking Over D.C. - yahoo.com",
       "pubDate": "Mon, 11 Aug 2025 15:57:13 GMT"
     },
@@ -3301,10 +3301,6 @@
   ],
   "computer_science": [
     {
-      "title": "Indian-American coder\u2019s only job offer comes from Chipotle as AI reshapes tech hiring - Hindustan Times - Hindustan Times",
-      "pubDate": "Mon, 11 Aug 2025 04:27:04 GMT"
-    },
-    {
       "title": "AI, layoffs leave computer science graduates struggling to find work - Ynetnews",
       "pubDate": "Tue, 12 Aug 2025 05:57:02 GMT"
     },
@@ -3456,10 +3452,6 @@
     }
   ],
   "algorithmic_trading": [
-    {
-      "title": "Wall Street's New Brain: How AI Is Rewriting the Rules of Finance - The Economic Times",
-      "pubDate": "Mon, 11 Aug 2025 04:36:38 GMT"
-    },
     {
       "title": "India markets regulator proposes to add algo trading into stock broker regulations - Reuters",
       "pubDate": "Wed, 13 Aug 2025 08:20:10 GMT"
@@ -3833,6 +3825,10 @@
     {
       "title": "Indonesia\u2019s president vows to fight corruption - The Manila Times",
       "pubDate": "Sat, 16 Aug 2025 16:10:00 GMT"
+    },
+    {
+      "title": "Anti-corruption protesters burn political offices in Valjevo, Serbia - MSN",
+      "pubDate": "Sun, 17 Aug 2025 21:21:14 GMT"
     }
   ],
   "united_nations": [
@@ -3881,12 +3877,22 @@
     {
       "title": "Australia's Energy Storage Surge and Grid Modernization: A New Era of Energy Independence and Investment Returns - AInvest",
       "pubDate": "Sun, 17 Aug 2025 21:23:45 GMT"
+    },
+    {
+      "title": "New Yorkers fighting against massive battery storage plants find new ally in EPA chief Lee Zeldin - AOL.com",
+      "pubDate": "Mon, 18 Aug 2025 02:16:57 GMT"
     }
   ],
   "earth_science": [
     {
       "title": "Planetary warning! Something \u2018big\u2019 is moving inside Earth; here\u2019s what scientists just found - msn.com",
       "pubDate": "Mon, 18 Aug 2025 02:03:19 GMT"
+    }
+  ],
+  "tesla": [
+    {
+      "title": "Tesla almost halves UK monthly lease fee as sales slump, The Times reports - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 00:01:00 GMT"
     }
   ]
 }
