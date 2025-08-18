@@ -911,10 +911,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Federal cybersecurity agency issues 10 advisories for industrial control systems - SC Media",
-      "pubDate": "Mon, 11 Aug 2025 11:00:00 GMT"
-    },
-    {
       "title": "Teenage Hacker Stole $243M In Bitcoin. How It Happened. - Cybercrime Magazine",
       "pubDate": "Mon, 11 Aug 2025 13:12:14 GMT"
     },
@@ -1001,6 +997,10 @@
     {
       "title": "Online Gaming Provider Bragg Gaming Confirms Limited Internal Data Breach with No Impact on Operations - Stock Titan",
       "pubDate": "Mon, 18 Aug 2025 02:08:12 GMT"
+    },
+    {
+      "title": "Agentic AI promises a cybersecurity revolution \u2014 with asterisks - csoonline.com",
+      "pubDate": "Mon, 18 Aug 2025 07:02:46 GMT"
     }
   ],
   "recession": [
@@ -1365,6 +1365,10 @@
     {
       "title": "A New Reality for Terminal Cancer: Longer Lives, With Chronic Uncertainty - The Wall Street Journal",
       "pubDate": "Sun, 17 Aug 2025 15:46:16 GMT"
+    },
+    {
+      "title": "Researchers uncover potential mechanism driving treatment resistance in common breast cancer - Medical Xpress",
+      "pubDate": "Mon, 18 Aug 2025 11:38:46 GMT"
     }
   ],
   "space_exploration": [
@@ -1491,10 +1495,6 @@
   ],
   "data_breach": [
     {
-      "title": "Flaws in Major Automaker\u2019s Dealership Systems Allowed Car Hacking, Personal Data Theft - SecurityWeek",
-      "pubDate": "Mon, 11 Aug 2025 11:26:08 GMT"
-    },
-    {
       "title": "Hackers breach cancer screening data of almost 500,000 women - DutchNews.nl",
       "pubDate": "Mon, 11 Aug 2025 12:48:15 GMT"
     },
@@ -1565,6 +1565,10 @@
     {
       "title": "HR giant Workday discloses data breach amid Salesforce attacks - BleepingComputer",
       "pubDate": "Mon, 18 Aug 2025 07:53:49 GMT"
+    },
+    {
+      "title": "Hundreds of TeslaMate Servers Expose Real-Time Vehicle Data - GBHackers News",
+      "pubDate": "Mon, 18 Aug 2025 07:30:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1862,10 +1866,6 @@
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "Sam Altman now says AGI, or human-level AI, is 'not a super useful term\u2019 \u2014 and he's not alone - CNBC",
-      "pubDate": "Mon, 11 Aug 2025 11:11:59 GMT"
-    },
     {
       "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
       "pubDate": "Mon, 11 Aug 2025 14:06:47 GMT"
@@ -3069,6 +3069,10 @@
     {
       "title": "Modi's tax overhaul to strain finances but boost image amid US trade tensions - Reuters",
       "pubDate": "Sun, 17 Aug 2025 09:06:57 GMT"
+    },
+    {
+      "title": "India proposes slashing taxes on small cars under Modi reforms, sending shares higher - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 09:30:36 GMT"
     }
   ],
   "public_health": [
@@ -3205,6 +3209,10 @@
     {
       "title": "Germany Risks Falling Behind on Energy Transition, EON Warns - Bloomberg.com",
       "pubDate": "Wed, 13 Aug 2025 08:08:56 GMT"
+    },
+    {
+      "title": "Global Energy Transition Needs US$1.2 Trillion Battery Storage Investment by 2034 to Support 5,900 GW of Renewable Energy Projects, Says Wood Mackenzie - SolarQuarter",
+      "pubDate": "Mon, 18 Aug 2025 09:59:02 GMT"
     }
   ],
   "american_civil_liberties_union": [
@@ -3535,12 +3543,6 @@
     {
       "title": "Trump wants census to exclude immigrants in US illegally. How could that affect Nevada? - The Nevada Independent",
       "pubDate": "Sat, 16 Aug 2025 09:00:00 GMT"
-    }
-  ],
-  "mathematics": [
-    {
-      "title": "How an Unsolved Math Problem Could Train AI to Predict Crises Years in Advance - Scientific American",
-      "pubDate": "Mon, 11 Aug 2025 11:00:00 GMT"
     }
   ],
   "oceanography": [
