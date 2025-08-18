@@ -139,6 +139,10 @@
     {
       "title": "Trump vows to target mail-in ballots ahead of midterm election - Reuters",
       "pubDate": "Mon, 18 Aug 2025 12:10:05 GMT"
+    },
+    {
+      "title": "Trump-Zelensky: Key takeaways from Ukraine talks in Washington - BBC",
+      "pubDate": "Mon, 18 Aug 2025 20:37:02 GMT"
     }
   ],
   "russia": [
@@ -811,6 +815,10 @@
     {
       "title": "Swatch pulls \u2018slanted eye\u2019 ad after backlash in China - The Guardian",
       "pubDate": "Mon, 18 Aug 2025 17:48:00 GMT"
+    },
+    {
+      "title": "China To Reveal New Weapons To Sink US Ships - Newsweek",
+      "pubDate": "Mon, 18 Aug 2025 12:07:33 GMT"
     }
   ],
   "us_politics": [
@@ -1449,6 +1457,10 @@
     {
       "title": "Minnesota approves first stand-alone battery system, a key step toward a clean energy future - MPR News",
       "pubDate": "Sat, 16 Aug 2025 12:00:00 GMT"
+    },
+    {
+      "title": "New IRS rule makes it harder for wind and solar farms to qualify for tax credits - The Daily Climate",
+      "pubDate": "Mon, 18 Aug 2025 18:15:50 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1770,10 +1782,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "Ford's $30K Electric Pickup: Revolutionary Manufacturing for Affordable EVs - Design News",
-      "pubDate": "Mon, 11 Aug 2025 21:28:35 GMT"
-    },
     {
       "title": "U.S EVs Are At A Crossroads With Trump's Budget Cutting Incentives While China Remains All In - Investor's Business Daily",
       "pubDate": "Tue, 12 Aug 2025 12:17:00 GMT"
@@ -2227,6 +2235,10 @@
     {
       "title": "Hamas accepts latest Gaza ceasefire and hostage deal proposal - Axios",
       "pubDate": "Mon, 18 Aug 2025 15:36:14 GMT"
+    },
+    {
+      "title": "Israel issues evacuation order for Holy Family Parish\u2019s Gaza City neighborhood - Catholic News Agency",
+      "pubDate": "Mon, 18 Aug 2025 19:04:00 GMT"
     }
   ],
   "battery_technology": [
@@ -2368,10 +2380,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Weekend storms were rare, but they reflect the new rainfall extremes in Wisconsin - Milwaukee Journal Sentinel",
-      "pubDate": "Mon, 11 Aug 2025 21:13:04 GMT"
-    },
     {
       "title": "Southeast Asia\u2019s cities at \u2018high risk\u2019 of flooding and heatwaves, thanks to climate change - Fortune",
       "pubDate": "Tue, 12 Aug 2025 00:30:00 GMT"
@@ -2671,6 +2679,10 @@
     {
       "title": "Kraken Halts Monero Deposits Amid 51% Attack on Blockchain - Cryptonews",
       "pubDate": "Sun, 17 Aug 2025 09:53:45 GMT"
+    },
+    {
+      "title": "Circle buys Informal Systems' consensus engine to power new Arc blockchain (CRCL:NYSE) - Seeking Alpha",
+      "pubDate": "Mon, 18 Aug 2025 15:20:32 GMT"
     }
   ],
   "business": [
@@ -2990,10 +3002,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "Public health officials face grim new reality after CDC shooting - CIDRAP",
-      "pubDate": "Mon, 11 Aug 2025 21:10:27 GMT"
-    },
     {
       "title": "Scientists issue warning on overlooked factor behind widespread public health threat: 'An inadvertent driver' - yahoo.com",
       "pubDate": "Wed, 13 Aug 2025 03:00:00 GMT"
@@ -3340,10 +3348,6 @@
     }
   ],
   "mars": [
-    {
-      "title": "Why Niger is investigating the $5 million sale of the largest Mars rock found on Earth - NBC News",
-      "pubDate": "Mon, 11 Aug 2025 21:19:01 GMT"
-    },
     {
       "title": "Twice a day, Mars may briefly host water that could support life - ScienceDaily",
       "pubDate": "Wed, 13 Aug 2025 12:29:26 GMT"
@@ -3853,6 +3857,12 @@
     {
       "title": "Scientists Discovered Air Sealed in an Australian Rock for 815 Million Years. Then, They Released It - Green Matters",
       "pubDate": "Mon, 18 Aug 2025 12:46:10 GMT"
+    }
+  ],
+  "large_language_models": [
+    {
+      "title": "Researchers glimpse the inner workings of protein language models - MIT News",
+      "pubDate": "Mon, 18 Aug 2025 19:00:00 GMT"
     }
   ]
 }
