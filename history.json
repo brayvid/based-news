@@ -271,10 +271,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Dow falls 200 points to start the week as traders look ahead to CPI data: Live updates - CNBC",
-      "pubDate": "Mon, 11 Aug 2025 18:47:00 GMT"
-    },
-    {
       "title": "US stocks rally to records on hopes for cuts to interest rates - AP News",
       "pubDate": "Tue, 12 Aug 2025 20:16:00 GMT"
     },
@@ -571,6 +567,10 @@
     {
       "title": "Trump-Zelensky meeting live updates: Leaders meet in Oval Office - The Hill",
       "pubDate": "Mon, 18 Aug 2025 17:20:00 GMT"
+    },
+    {
+      "title": "Trump-Zelenskyy meeting live: US president suggests no need for ceasefire - Al Jazeera",
+      "pubDate": "Mon, 18 Aug 2025 18:06:28 GMT"
     }
   ],
   "us_economy": [
@@ -596,10 +596,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Why Peak China may finally have arrived | George Magnus - The Guardian",
-      "pubDate": "Mon, 11 Aug 2025 18:23:00 GMT"
-    },
     {
       "title": "Chinese warship crashes into own coast guard vessel while chasing Philippines boat in South China Sea - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 00:57:00 GMT"
@@ -896,10 +892,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump extends China tariff deadline by 90 days - CNBC",
-      "pubDate": "Mon, 11 Aug 2025 18:31:20 GMT"
-    },
     {
       "title": "US losing out on China soybean sales as Brazil fills key supply period - Reuters",
       "pubDate": "Thu, 14 Aug 2025 01:34:00 GMT"
@@ -1635,6 +1627,10 @@
     {
       "title": "Bitcoin price today: drops below $116k as macro worries weigh - Investing.com",
       "pubDate": "Mon, 18 Aug 2025 06:13:30 GMT"
+    },
+    {
+      "title": "Bitcoin Price Slides Below $115,000 As Strategy And Metaplanet Buys Additional Bitcoin - Bitcoin Magazine",
+      "pubDate": "Mon, 18 Aug 2025 13:42:57 GMT"
     }
   ],
   "fusion_power": [
@@ -1766,10 +1762,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "Ford hits the pedal on EV production with $2 billion overhaul of Kentucky plant - ABC News",
-      "pubDate": "Mon, 11 Aug 2025 18:23:17 GMT"
-    },
     {
       "title": "Ford's $30K Electric Pickup: Revolutionary Manufacturing for Affordable EVs - Design News",
       "pubDate": "Mon, 11 Aug 2025 21:28:35 GMT"
@@ -3061,6 +3053,10 @@
     {
       "title": "Scientists reveal how senses work together in the brain - Medical Xpress",
       "pubDate": "Fri, 15 Aug 2025 09:00:04 GMT"
+    },
+    {
+      "title": "New Neuron Type Controls How Accurately We Recall Memories - Neuroscience News",
+      "pubDate": "Mon, 18 Aug 2025 17:53:58 GMT"
     }
   ],
   "atmospheric_science": [
@@ -3317,10 +3313,6 @@
   ],
   "self-driving_cars": [
     {
-      "title": "GM plans renewed push into driverless personal vehicles - Bloomberg - MSN",
-      "pubDate": "Mon, 11 Aug 2025 18:44:37 GMT"
-    },
-    {
       "title": "With more self-driving cars on the road, states put more rules in place - yahoo.com",
       "pubDate": "Thu, 14 Aug 2025 17:54:57 GMT"
     },
@@ -3449,6 +3441,10 @@
     {
       "title": "Ex-Israel Military Intel Chief: Palestinians \u201cNeed a Nakba Every Now and Then to Feel the Price\u201d - Democracy Now!",
       "pubDate": "Mon, 18 Aug 2025 14:24:01 GMT"
+    },
+    {
+      "title": "Ex-chief of Israeli military intelligence in leaked video: \"Necessarily 50.000 dead in Gaza, it doesn't matter if they are children\" - KoSSev",
+      "pubDate": "Mon, 18 Aug 2025 12:02:55 GMT"
     }
   ],
   "google": [
@@ -3513,6 +3509,10 @@
     {
       "title": "Room-Temperature Quantum Breakthrough Stuns Physicists - SciTechDaily",
       "pubDate": "Tue, 12 Aug 2025 05:01:15 GMT"
+    },
+    {
+      "title": "Quantum device detects all units of electricity at once - New Scientist",
+      "pubDate": "Mon, 18 Aug 2025 12:00:14 GMT"
     }
   ],
   "machine_learning": [
