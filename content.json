@@ -1,52 +1,62 @@
 {
-  "Cancer": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Researchers uncover potential mechanism driving treatment resistance in common breast cancer - Medical Xpress",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXd4di0zZmRDZWtPcllHOHpMWU4zRmRkNVRia2haUkpBdGxVZUdyUzR5MThXOEFvVllNUUFzaWI5TjVYQk1ITTJfamstQjVLaER5ZVhYS3dQM1BacGpOR2NUQzNiNVRXZUVpMnl3eTkyclpESDFsQ21mWDZaY18ycFJ5a2xTdUplRTFNNjBsZXpER2h5UE9B?oc=5",
-        "pubDate": "Mon, 18 Aug 2025 11:38:46 GMT"
+        "title": "Trump prompted a battle over voting maps. Here's how redistricting affects voters - NPR",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3QydFZqcEl5TnJRSHE4T2NiVWh2eXo3bUxMbEw0T21KLUo3TEdldl82ekxPUjU3d1ZSMmQyZnJkZnJ2ei1MYUlVU3BqSndaYTBubVo1enoyQkdESFJHZ1J5dF9IaFFiellnZFIzWjZhcmpYb0o1eVZ2VVYxMXlSY0N6X09Ycm9qdXg4cFhSYzA4ck9m?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 09:42:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-18T12:00:05.113448+00:00"
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
   },
-  "Energy Transition": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Global Energy Transition Needs US$1.2 Trillion Battery Storage Investment by 2034 to Support 5,900 GW of Renewable Energy Projects, Says Wood Mackenzie - SolarQuarter",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZ0M5N3FvTVBDMENEeGswMklmSDBBczA5bUtFd0E2U1BRd1B1NEFHWXU2aEpXclFMTERzQWFwQW5nZmZacnUzTmtJbEQ2Q3RGVFJWdjF6QXFpdnVKSmIzZkcyNlpPVjZpUkxpblBDVGxPZG9PQ0M2N19xd19tbEZvV0RkQ0c2dHhZa1gxX0Z1dXJtNXdhTWNhQXhSclhtTFFFR0F2eUlucUwyZk12MVZHOTdkd2dyMUt1bkJaQ2dwU0M4ZTlBaFgwSy1uSWhob01MOUk1ajVORllPN0hteWQ3YnN1UnlkV2hQNWcyVWFBTElaT05pd3dDN0x3TG1XZExuUEU1cVl1YWZVa2NwM2hoclN5Yw?oc=5",
-        "pubDate": "Mon, 18 Aug 2025 09:59:02 GMT"
+        "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0tIMlZNc0twZWlYS3hROWlycENNU0FFWE4tcXAwNDdsVGZ5SGRLbVZOUGM4WlhHSFVIblQ5ejVRbHpFRG44dzRfd012SVRfbUdTbkRHdkN3ZldpekVULUx3X094ajRrVEtPM083RUl5MndqU1JrWlNhOGV3b1lJbzZDTkR6WlVOU2tBeFJR0gGTAUFVX3lxTE9uaTFFQVFYeElZa3hCUmVnUGc3Q1FXelkyNjdCSWlCZ211eHo3Tl9MUGdMNi0yMGNwY0xPMlRjbkc4MkZMUnhQTHB1UHY2MUNHS0htblNPYllVVGRQRFNiRGYzU3UzNFZwRWx1OVlpeWJOZFFtZzNSNmptcUxnLVpfdjZ4RVpzMWJxLTAwdUQ1MlRXWQ?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 07:51:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-18T12:00:05.113448+00:00"
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
+  },
+  "Battery Electric Vehicle": {
+    "articles": [
+      {
+        "title": "Scientists make surprising finding that all electric vehicle drivers should hear: 'Has been largely overlooked until now' - Yahoo! Tech",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlBEUXdRYkRkMzNyR092WEpVMG1xcEJwSjFJUmNYNzhUejN5aktVUGtOSmhDa05CWnZpSmtUb3lVY1Z2clZ4WFNRaFVYb2FqMDZxWjhabjVJemNFXzdYYlBqRnlLWFpzaHI2a0VLYlNJa0xvaU16azdVWFJyWC15dlJTb3d4ZmF6amltTDloNm1fMzM2MEZ5dVJYcjRZc0JWUnRn?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 11:45:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "China approves sale of Fibrogen China to Astrazeneca - Eurasia Business News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hZYVlkczJocjBMWTdZU01Sak1XSzgtX2VnYkJDNWJXWTFWWjQ4V0V3TnYyRzNvYTkwenV2SFF4MzVaU0ZvMlhOTGlmTWg0dTN3SXQ1TkxNRjJUOUdEM0NrNFdBWUpFUGZHMjVZOGlTMEpGQ213NzJ4NkxHMUpFRWRBSGZrVTFPR2ctb0NtRGdIalpWWkx1YlRvbDk?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 12:00:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
+  },
+  "Net Zero Emissions": {
+    "articles": [
+      {
+        "title": "Global net-zero frameworks tested in U.S. courts: What it means for African finance and energy - Africa Sustainability Matters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUHNRQ2ZBdkREa1NIczhiTVlTa3pHVzEwbFR1NDMxRG5tOURpRTBMTWJjLTE2SDk5S3JlQVZvX2l4dHh1dFR4ZFhHcUluQkFhYzB4cElXV1ZhVHBRYVJfcUM4QkxhOC16NS1vMmNWTHRRd3FqTnpINnAwZnV4aExTMkV0ZGxtdUVQbUowaWhhaWltUHJaMEpPY003M1ZuNDB5dHM3ZWkyVkZMTXVNdnJpY2xPMTlmWWRjZmVQdXJ3YnNnVHZtNERSVXpOU2g4dw?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 06:45:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
   },
   "Cybersecurity": {
     "articles": [
       {
-        "title": "Agentic AI promises a cybersecurity revolution \u2014 with asterisks - csoonline.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDNVaDNjODJrSS1VQ1J6bXBHd1hxNnBweUtlQjV3R0MxY19QbV92bG5OWXlfNGVhOC1abkM1ZDkxaFNjb1FmQjZOTlJ6SXFlTGhfaVV4Sm03bzBOdVhSNmZ3V1NCY003VDB1OUVMbUJXeXgxeHdwamxKckpmYWVoQWJJcWNyOVgtSE91S3FwSVlrQUZhTVJZSGZsY2tDMW1UQXZ4cWZuMWlyZXpN?oc=5",
-        "pubDate": "Mon, 18 Aug 2025 07:02:46 GMT"
+        "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xM1FpNFpZZWtaOW5VR1pfOFhyamlTZXFNQkhjWTdTQ3BwTTJ6Zk02STJqQlJINzNpb2N1TkJia2JFNy11bDFGRkowT0JWenBtakRqVHlrRXMyYXVpbmRLc1pVMmx4ZXpmaGtTT0lDNFZLTEUzZFhEZkRB?oc=5",
+        "pubDate": "Mon, 18 Aug 2025 10:56:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-18T12:00:05.113448+00:00"
-  },
-  "India": {
-    "articles": [
-      {
-        "title": "India proposes slashing taxes on small cars under Modi reforms, sending shares higher - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDRDcjlSLXU3RHN0Q1hRNFBZSU9oYXBpOU5KS3VHQmQ2bHVWYmZTTlFuTEluZ0lNWHRRQ1RQUFVNTEN0WS1mRENMX3JfQnY4TF85S05NQjZDcDBWUlYwUDZiLXd6UWFMUmN4Y3NFalY2emI3WGt5VV8wLWczeVZvOTRGdkxvVTdEU0lZZ0tIcHN6bG9tYkxSaWoyR3lkaUVuYm1kZ2ZPT2xMbDFueHBVQlloRnExQjM0YlF6ZmhaTQ?oc=5",
-        "pubDate": "Mon, 18 Aug 2025 09:30:36 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-18T12:00:05.113448+00:00"
-  },
-  "Data Breach": {
-    "articles": [
-      {
-        "title": "Hundreds of TeslaMate Servers Expose Real-Time Vehicle Data - GBHackers News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05MXlVclRuT0NPSFVnY0VuaFAzeWtjX1JQU09jU0t2V1VNaHJhdUtmdzI5OE1KV1RNcUVRbklENXJPMVhjR3BLVDNGcVBKaWRaZ0xDSTJWV2VzUVZGaXRadlBYU0FpMXFiVTl30gFwQVVfeXFMTmNPU2V6djI1cDMxenAwY292Y29iZUNNMmxJUXkzNDgzTXhFVWMzdXMwN2ZEWG5QeU9hdkk5cWlJRnl4bEkyX1pNemlnZUdhLVA3b3ptdGVHaEpvdk4wdkxYZWNNLXgtREFwdWdUU1o3eg?oc=5",
-        "pubDate": "Mon, 18 Aug 2025 07:30:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-18T12:00:05.113448+00:00"
+    "last_updated_ts": "2025-08-18T13:00:42.630978+00:00"
   }
 }
