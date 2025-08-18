@@ -593,10 +593,6 @@
   ],
   "china": [
     {
-      "title": "US-China trade truce deadline looms threatening escalation of economic tensions - The Guardian",
-      "pubDate": "Mon, 11 Aug 2025 16:04:00 GMT"
-    },
-    {
       "title": "Why Peak China may finally have arrived | George Magnus - The Guardian",
       "pubDate": "Mon, 11 Aug 2025 18:23:00 GMT"
     },
@@ -799,6 +795,10 @@
     {
       "title": "China's EV industry is spending more on factories abroad than at home for the first time - CNBC",
       "pubDate": "Mon, 18 Aug 2025 13:01:01 GMT"
+    },
+    {
+      "title": "China\u2019s clean energy patent surge reshapes global tech landscape - The Daily Climate",
+      "pubDate": "Mon, 18 Aug 2025 12:08:11 GMT"
     }
   ],
   "us_politics": [
@@ -997,13 +997,13 @@
     {
       "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks - The Hacker News",
       "pubDate": "Mon, 18 Aug 2025 10:56:00 GMT"
+    },
+    {
+      "title": "Oracle\u2019s Longtime Security Chief Leaves in Reorganization - Bloomberg",
+      "pubDate": "Mon, 18 Aug 2025 16:26:04 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Why the Stock Market May Ignore Recession Risks Until It Sees \u2018the Whites of Its Eyes\u2019 - Barron's",
-      "pubDate": "Mon, 11 Aug 2025 16:27:00 GMT"
-    },
     {
       "title": "Recession is Still Coming, Warns Reagan Economic Adviser - Newsweek",
       "pubDate": "Mon, 11 Aug 2025 17:16:04 GMT"
@@ -1031,6 +1031,10 @@
     {
       "title": "Altseason\u2019s next step depends on China stimulus, investors\u2019 response to recession fears - Cointelegraph",
       "pubDate": "Sun, 17 Aug 2025 22:46:57 GMT"
+    },
+    {
+      "title": "Recession risks are really high, says Moody's Mark Zandi - MSN",
+      "pubDate": "Mon, 18 Aug 2025 16:23:36 GMT"
     }
   ],
   "drones": [
@@ -1383,10 +1387,6 @@
   ],
   "health_care": [
     {
-      "title": "US veterans agency lost thousands of \u2018core\u2019 medical staff under Trump, records show - The Guardian",
-      "pubDate": "Mon, 11 Aug 2025 16:58:00 GMT"
-    },
-    {
       "title": "Republicans are quietly rolling back Obamacare. Here\u2019s how - CNN",
       "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
     },
@@ -1703,10 +1703,6 @@
   ],
   "openai": [
     {
-      "title": "Why some OpenAI investors are buying shares at a much higher price - Axios",
-      "pubDate": "Mon, 11 Aug 2025 16:12:04 GMT"
-    },
-    {
       "title": "OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs - WIRED",
       "pubDate": "Wed, 13 Aug 2025 23:06:00 GMT"
     },
@@ -1813,12 +1809,6 @@
       "pubDate": "Sun, 17 Aug 2025 22:01:32 GMT"
     }
   ],
-  "biology": [
-    {
-      "title": "Researchers discover previously unknown \u201cfolding factories\u201d for proteins - EurekAlert!",
-      "pubDate": "Mon, 11 Aug 2025 16:10:57 GMT"
-    }
-  ],
   "quantum_computing": [
     {
       "title": "Google and IBM believe first workable quantum computer is in sight - Financial Times",
@@ -1873,6 +1863,10 @@
     {
       "title": "OpenAI chief Sam Altman says future AI could help people have more kids - India Today",
       "pubDate": "Sun, 17 Aug 2025 07:28:33 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Is Working Toward AI Superintelligence. Does Anyone Actually Want It? - Popular Mechanics",
+      "pubDate": "Mon, 18 Aug 2025 13:30:00 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -1904,10 +1898,6 @@
     }
   ],
   "ethereum": [
-    {
-      "title": "Ethereum surges past $4,000 as crypto market soars to all-time high over $4 trillion - Fortune",
-      "pubDate": "Mon, 11 Aug 2025 16:34:00 GMT"
-    },
     {
       "title": "Standard Chartered lifts year-end ether forecast to $7,500 - Reuters",
       "pubDate": "Wed, 13 Aug 2025 11:07:32 GMT"
@@ -2225,6 +2215,10 @@
     {
       "title": "More than 62,000 people have been killed in Gaza war, says Palestinian Health Ministry - PBS",
       "pubDate": "Mon, 18 Aug 2025 13:33:06 GMT"
+    },
+    {
+      "title": "Thousands of Palestinians leave Gaza City fearing Israeli offensive - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 16:18:06 GMT"
     }
   ],
   "battery_technology": [
@@ -2370,10 +2364,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "States have an obligation to curb emission and protect climate, world court rules - Welcome to the United Nations",
-      "pubDate": "Mon, 11 Aug 2025 16:20:50 GMT"
-    },
     {
       "title": "Weekend storms were rare, but they reflect the new rainfall extremes in Wisconsin - Milwaukee Journal Sentinel",
       "pubDate": "Mon, 11 Aug 2025 21:13:04 GMT"
@@ -2601,10 +2591,6 @@
   ],
   "amazon": [
     {
-      "title": "Amazon's Starlink Competitor Tops 100 Satellites. What Project Kuiper Means For Amazon Stock. - Investor's Business Daily",
-      "pubDate": "Mon, 11 Aug 2025 16:50:00 GMT"
-    },
-    {
       "title": "Skipping Nvidia Left Amazon, Apple And Tesla Behind In AI - Forbes",
       "pubDate": "Mon, 11 Aug 2025 22:28:03 GMT"
     },
@@ -2692,10 +2678,6 @@
     }
   ],
   "business": [
-    {
-      "title": "At least 1 dead in Pennsylvania US Steel plant explosion, with others trapped under rubble - Fox Business",
-      "pubDate": "Mon, 11 Aug 2025 16:41:50 GMT"
-    },
     {
       "title": "Spirit Airlines raises doubts about its ability to stay in business, months after exiting bankruptcy - CNN",
       "pubDate": "Tue, 12 Aug 2025 10:50:00 GMT"
@@ -3739,6 +3721,10 @@
     {
       "title": "Scientists stunned by record-breaking, watermelon-shaped nucleus - ScienceDaily",
       "pubDate": "Sun, 17 Aug 2025 03:59:07 GMT"
+    },
+    {
+      "title": "Scientists claim to have unlocked \u2018secret sauce\u2019 needed for fine chocolate - The Guardian",
+      "pubDate": "Mon, 18 Aug 2025 15:02:00 GMT"
     }
   ],
   "wind_power": [
