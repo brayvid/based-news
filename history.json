@@ -65,10 +65,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says Washington DC will be \u2018liberated\u2019 as city mayor disputes claims of violent crime \u2013 live updates - The Guardian",
-      "pubDate": "Mon, 11 Aug 2025 13:11:03 GMT"
-    },
-    {
       "title": "Trump Says He'll Take Control of D.C. Police Department and Deploy National Guard: Live Updates - The New York Times",
       "pubDate": "Mon, 11 Aug 2025 14:49:03 GMT"
     },
@@ -147,6 +143,10 @@
     {
       "title": "Zelenskyy set to visit Trump in Washington on Monday - NBC News",
       "pubDate": "Sun, 17 Aug 2025 00:23:00 GMT"
+    },
+    {
+      "title": "Trump vows to target mail-in ballots ahead of midterm election - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 12:10:05 GMT"
     }
   ],
   "russia": [
@@ -601,6 +601,10 @@
     {
       "title": "Morning Business Report: US economy shows strength despite rising corporate bankruptcies - 41NBC News",
       "pubDate": "Thu, 14 Aug 2025 11:29:06 GMT"
+    },
+    {
+      "title": "US economy faces rising risks as analysts split on recession outlook - MPA Mag",
+      "pubDate": "Mon, 18 Aug 2025 12:53:37 GMT"
     }
   ],
   "china": [
@@ -811,6 +815,10 @@
     {
       "title": "China approves sale of Fibrogen China to Astrazeneca - Eurasia Business News",
       "pubDate": "Mon, 18 Aug 2025 12:00:57 GMT"
+    },
+    {
+      "title": "China's EV industry is spending more on factories abroad than at home for the first time - CNBC",
+      "pubDate": "Mon, 18 Aug 2025 13:01:01 GMT"
     }
   ],
   "us_politics": [
@@ -918,10 +926,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Teenage Hacker Stole $243M In Bitcoin. How It Happened. - Cybercrime Magazine",
-      "pubDate": "Mon, 11 Aug 2025 13:12:14 GMT"
-    },
     {
       "title": "DOJ announces disruption of BlackSuit ransomware group - American Hospital Association",
       "pubDate": "Mon, 11 Aug 2025 19:49:02 GMT"
@@ -1159,6 +1163,10 @@
     {
       "title": "Federal Reserve Officials Are Divided Over Competing Concerns - WBAP",
       "pubDate": "Sun, 17 Aug 2025 18:14:42 GMT"
+    },
+    {
+      "title": "Federal Reserve Interest Rate Predictions for the Next 2 Years - Norada Real Estate Investments",
+      "pubDate": "Mon, 18 Aug 2025 12:22:53 GMT"
     }
   ],
   "earthquakes": [
@@ -1577,10 +1585,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin Nears Record, Cryptos Rally On 401(k) Approval, SEC Rulings - Investor's Business Daily",
-      "pubDate": "Mon, 11 Aug 2025 13:39:00 GMT"
-    },
-    {
       "title": "Bitcoin (BTC) Price News: Pullback to $119K as CPI, PPI Data Could Bring Volatility - CoinDesk",
       "pubDate": "Mon, 11 Aug 2025 22:17:10 GMT"
     },
@@ -1783,10 +1787,6 @@
   ],
   "battery_electric_vehicle": [
     {
-      "title": "China: EV sales rise while PHEV demand declines - electrive.com",
-      "pubDate": "Mon, 11 Aug 2025 13:32:46 GMT"
-    },
-    {
       "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
       "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
     },
@@ -1922,10 +1922,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "China research ships are ramping up activity in U.S. Arctic, Coast Guard says - CBS News",
-      "pubDate": "Mon, 11 Aug 2025 13:06:12 GMT"
-    },
     {
       "title": "Pentagon plan would create military \u2018reaction force\u2019 for civil unrest - The Washington Post",
       "pubDate": "Tue, 12 Aug 2025 11:32:17 GMT"
@@ -2261,13 +2257,13 @@
     {
       "title": "New testimonies reveal Israel\u2019s starvation of Palestinians in Gaza is deliberate policy - Amnesty International",
       "pubDate": "Sun, 17 Aug 2025 23:01:00 GMT"
+    },
+    {
+      "title": "More than 62,000 people have been killed in Gaza war, says Palestinian Health Ministry - PBS",
+      "pubDate": "Mon, 18 Aug 2025 13:33:06 GMT"
     }
   ],
   "battery_technology": [
-    {
-      "title": "Scientists make key breakthrough that could solve major issue with EV batteries: 'The idea is to keep it simple' - The Cool Down",
-      "pubDate": "Mon, 11 Aug 2025 13:15:00 GMT"
-    },
     {
       "title": "Major EV Battery Deal: CATL Partners With Kandi Tech to Deploy 10,000 Battery Swap Stations Across China - Stock Titan",
       "pubDate": "Tue, 12 Aug 2025 12:38:00 GMT"
@@ -2815,10 +2811,6 @@
   ],
   "brics": [
     {
-      "title": "Russia to discuss creation of technology alliances - TV BRICS",
-      "pubDate": "Mon, 11 Aug 2025 13:13:25 GMT"
-    },
-    {
       "title": "BRICS tightens alliance, defying Trump's claim group is 'dead' - yahoo.com",
       "pubDate": "Tue, 12 Aug 2025 11:14:13 GMT"
     },
@@ -3081,6 +3073,10 @@
     {
       "title": "Supreme Court Faces Decision on Case Urging Overturn of Same-Sex Marriage - Newsweek",
       "pubDate": "Mon, 11 Aug 2025 15:54:02 GMT"
+    },
+    {
+      "title": "What happens if gay marriage is overturned? The question alone is horrifying. | Opinion - USA Today",
+      "pubDate": "Mon, 18 Aug 2025 13:31:13 GMT"
     }
   ],
   "technology": [
@@ -3903,6 +3899,12 @@
     {
       "title": "Tesla almost halves UK monthly lease fee as sales slump, The Times reports - Reuters",
       "pubDate": "Mon, 18 Aug 2025 00:01:00 GMT"
+    }
+  ],
+  "thunderstorms": [
+    {
+      "title": "High-pressure brings hot temperatures followed by chance of thunderstorms - KUTV",
+      "pubDate": "Mon, 18 Aug 2025 10:00:00 GMT"
     }
   ]
 }
