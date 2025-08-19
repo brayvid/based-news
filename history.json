@@ -177,10 +177,6 @@
       "pubDate": "Tue, 12 Aug 2025 16:07:04 GMT"
     },
     {
-      "title": "GPT-5 hit with 'echo chamber' jailbreak shortly after release - Substack",
-      "pubDate": "Tue, 12 Aug 2025 12:59:55 GMT"
-    },
-    {
       "title": "Asean AI Safety Network targets for adoption by leaders at Asean summit in October - The Edge Malaysia",
       "pubDate": "Tue, 12 Aug 2025 16:17:00 GMT"
     },
@@ -807,6 +803,10 @@
     {
       "title": "Exclusive: China buys first Australian canola cargo since 2020, traders say - Reuters",
       "pubDate": "Tue, 19 Aug 2025 01:13:59 GMT"
+    },
+    {
+      "title": "India\u2019s Modi to meet China\u2019s top diplomat as Asian powers rebuild ties - AP News",
+      "pubDate": "Tue, 19 Aug 2025 07:54:00 GMT"
     }
   ],
   "us_politics": [
@@ -1170,10 +1170,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Over 115 earthquakes hit Iran in a week - Tehran Times",
-      "pubDate": "Tue, 12 Aug 2025 12:06:02 GMT"
-    },
     {
       "title": "Major Landslide in Southeast Alaska Fjord - Alaska Earthquake Center",
       "pubDate": "Tue, 12 Aug 2025 20:33:22 GMT"
@@ -1787,10 +1783,6 @@
   ],
   "battery_electric_vehicle": [
     {
-      "title": "U.S EVs Are At A Crossroads With Trump's Budget Cutting Incentives While China Remains All In - Investor's Business Daily",
-      "pubDate": "Tue, 12 Aug 2025 12:17:00 GMT"
-    },
-    {
       "title": "Global EV sales up 21% year-on-year - Electric Cars Report",
       "pubDate": "Wed, 13 Aug 2025 08:57:52 GMT"
     },
@@ -2011,6 +2003,10 @@
     {
       "title": "Oregon, 18 states sue federal energy agency over new funding caps on sustainable energy projects - Oregon Capital Chronicle",
       "pubDate": "Mon, 18 Aug 2025 23:16:28 GMT"
+    },
+    {
+      "title": "Here Comes the Sun: Bill McKibben on Solar\u2019s Breakout Moment - douglewin.com",
+      "pubDate": "Tue, 19 Aug 2025 10:02:22 GMT"
     }
   ],
   "global_health": [
@@ -2235,10 +2231,6 @@
   ],
   "battery_technology": [
     {
-      "title": "Major EV Battery Deal: CATL Partners With Kandi Tech to Deploy 10,000 Battery Swap Stations Across China - Stock Titan",
-      "pubDate": "Tue, 12 Aug 2025 12:38:00 GMT"
-    },
-    {
       "title": "Researchers announce continent-wide project to revolutionize EV batteries: 'Goes beyond technology advances' - The Cool Down",
       "pubDate": "Wed, 13 Aug 2025 09:15:00 GMT"
     },
@@ -2295,6 +2287,10 @@
     {
       "title": "Elon Musk hails new X algorithm as an improvement, highlights upcoming AI features - AzerNews",
       "pubDate": "Tue, 19 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "How algorithms are changing the way we speak : The Indicator from Planet Money - NPR",
+      "pubDate": "Tue, 19 Aug 2025 07:00:02 GMT"
     }
   ],
   "astronomy": [
@@ -2367,14 +2363,6 @@
     {
       "title": "Sheboygan Receiving Federal Funding to Curb Effects of Climate Change - Seehafer News",
       "pubDate": "Tue, 12 Aug 2025 13:33:16 GMT"
-    },
-    {
-      "title": "Unsettling photos show the effects of climate change projected onto our everyday lives - CNN",
-      "pubDate": "Tue, 12 Aug 2025 12:50:00 GMT"
-    },
-    {
-      "title": "Only 38% of Employees Believe Companies are Doing Enough on Climate Change, Sustainability: Deloitte Survey - ESG Today",
-      "pubDate": "Tue, 12 Aug 2025 12:24:33 GMT"
     },
     {
       "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
@@ -2997,6 +2985,10 @@
     {
       "title": "Why insomnia is becoming seen as a public health emergency in the U.S. - PBS",
       "pubDate": "Sun, 17 Aug 2025 21:40:49 GMT"
+    },
+    {
+      "title": "Urgent Boost to Kirkuk\u2019s Public Health: KSC Delivers Critical Medical Equipment to Maternity and Pediatric Hospital - ReliefWeb",
+      "pubDate": "Tue, 19 Aug 2025 12:22:08 GMT"
     }
   ],
   "us_supreme_court": [
@@ -3065,6 +3057,10 @@
     {
       "title": "Australia grants asylum to former Hong Kong lawmaker and pro-democracy activist - yahoo.com",
       "pubDate": "Sat, 16 Aug 2025 10:41:55 GMT"
+    },
+    {
+      "title": "They\u2019re Not Just Coming for DEI. They\u2019re Coming for Democracy. - The Nation",
+      "pubDate": "Tue, 19 Aug 2025 09:04:35 GMT"
     }
   ],
   "fbi": [
@@ -3673,6 +3669,10 @@
     {
       "title": "Scientists claim to have unlocked \u2018secret sauce\u2019 needed for fine chocolate - The Guardian",
       "pubDate": "Mon, 18 Aug 2025 15:02:00 GMT"
+    },
+    {
+      "title": "Scientists reveal how just two human decisions rewired the Great Salt Lake forever - ScienceDaily",
+      "pubDate": "Tue, 19 Aug 2025 08:16:56 GMT"
     }
   ],
   "wind_power": [
@@ -3817,6 +3817,12 @@
     {
       "title": "Researchers glimpse the inner workings of protein language models - MIT News",
       "pubDate": "Mon, 18 Aug 2025 19:00:00 GMT"
+    }
+  ],
+  "financial_data": [
+    {
+      "title": "Economic Data Has Taken a Dark Turn. That Doesn\u2019t Mean a Crash Is Near. - The New York Times",
+      "pubDate": "Tue, 19 Aug 2025 09:01:50 GMT"
     }
   ]
 }
