@@ -50,6 +50,23 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
+    /* Fallback for Merriweather */
+    @font-face {
+      font-family: 'Merriweather Fallback';
+      size-adjust: 103%;
+      ascent-override: 91%;
+      src: local('Times New Roman');
+    }
+
+    /* Fallback for Open Sans */
+    @font-face {
+      font-family: 'Open Sans Fallback';
+      size-adjust: 100%;
+      ascent-override: 105%;
+      src: local('Arial');
+    }
+    /* --- End of new block --- */
+
     :root {
       color-scheme: dark;
     }
@@ -78,7 +95,8 @@
 
     header h1 {
       margin: 0;
-      font-family: 'Merriweather', serif;
+      /* Use the fallback font first, then the real one */
+      font-family: 'Merriweather', 'Merriweather Fallback', serif;
       font-size: 2.5em;
       color: #e0e0e0;
     }
@@ -168,8 +186,9 @@
       overflow: hidden;
       position: relative;
       width: 100%;
-      transition: height 0.25s ease-in-out; /* Smooth height transition */
-      min-height: 80px; 
+      transition: height 0.25s ease-in-out; 
+      /* Reasonable minimum height to reserve space on load. */
+      min-height: 400px; 
     }
 
     #digest-slider {
