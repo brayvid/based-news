@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump's 401(k) expansion order: What new investment options will be available? - Fox Business",
-      "pubDate": "Tue, 12 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "Trump BLS pick suggests suspending monthly jobs report over data concerns - The Hill",
       "pubDate": "Tue, 12 Aug 2025 17:10:00 GMT"
     },
@@ -305,10 +301,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Anthropic offers Claude chatbot to US lawmakers for $1 - Financial Times",
-      "pubDate": "Tue, 12 Aug 2025 12:00:03 GMT"
-    },
-    {
       "title": "A.I. Start-Up Perplexity Offers to Buy Google\u2019s Chrome Browser for $34.5 Billion - The New York Times",
       "pubDate": "Tue, 12 Aug 2025 17:11:14 GMT"
     },
@@ -427,6 +419,10 @@
     {
       "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds - Reuters",
       "pubDate": "Tue, 19 Aug 2025 10:03:11 GMT"
+    },
+    {
+      "title": "Research suggests doctors might quickly become dependent on AI - NPR",
+      "pubDate": "Tue, 19 Aug 2025 10:57:42 GMT"
     }
   ],
   "climate": [
@@ -1893,10 +1889,6 @@
   ],
   "national_security": [
     {
-      "title": "Pentagon plan would create military \u2018reaction force\u2019 for civil unrest - The Washington Post",
-      "pubDate": "Tue, 12 Aug 2025 11:32:17 GMT"
-    },
-    {
       "title": "Secret document leaker moved to high security prison - WJAR",
       "pubDate": "Tue, 12 Aug 2025 19:10:43 GMT"
     },
@@ -2307,10 +2299,6 @@
   ],
   "astronomy": [
     {
-      "title": "Scientists may have found a powerful new space object: 'It doesn't fit comfortably into any known category' - Space",
-      "pubDate": "Tue, 12 Aug 2025 11:45:01 GMT"
-    },
-    {
       "title": "AI helps astronomers make a potentially major find \u2014 an exploding star being attacked by a black hole - Space",
       "pubDate": "Wed, 13 Aug 2025 17:00:00 GMT"
     },
@@ -2669,10 +2657,6 @@
   ],
   "blockchain": [
     {
-      "title": "Circle to launch Layer 1 blockchain Arc using USDC stablecoin as native gas token - The Block",
-      "pubDate": "Tue, 12 Aug 2025 11:07:53 GMT"
-    },
-    {
       "title": "Why Blockchain Is Needed Now That AI Is Predicted To Kill The Internet - Forbes",
       "pubDate": "Wed, 13 Aug 2025 23:46:49 GMT"
     },
@@ -2690,10 +2674,6 @@
     }
   ],
   "business": [
-    {
-      "title": "133-year old Kodak says it might have to cease operations - CNN",
-      "pubDate": "Tue, 12 Aug 2025 11:27:00 GMT"
-    },
     {
       "title": "Businesses have been eating Trump\u2019s tariffs. That\u2019s starting to change - CNN",
       "pubDate": "Thu, 14 Aug 2025 12:36:00 GMT"
@@ -2716,10 +2696,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Millions Told To Monitor Unusual Fatigue, Palpitations - Newsweek",
-      "pubDate": "Tue, 12 Aug 2025 11:31:31 GMT"
-    },
     {
       "title": "Talks stall on world\u2019s first plastic pollution treaty one day before deadline - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 22:11:00 GMT"
@@ -2765,10 +2741,6 @@
   ],
   "brics": [
     {
-      "title": "BRICS tightens alliance, defying Trump's claim group is 'dead' - yahoo.com",
-      "pubDate": "Tue, 12 Aug 2025 11:14:13 GMT"
-    },
-    {
       "title": "No backing down: Brazil President pushes for new BRICS currency amid tariff tensions with US - GujaratSamachar English",
       "pubDate": "Thu, 14 Aug 2025 14:11:39 GMT"
     },
@@ -2795,6 +2767,10 @@
     {
       "title": "India Ditches USD, Sends Circular To BRICS Granting Full Rupee Access - CryptoRank",
       "pubDate": "Mon, 18 Aug 2025 00:19:06 GMT"
+    },
+    {
+      "title": "Putin calls Brics allies to debrief them on his Trump summit - The Independent",
+      "pubDate": "Tue, 19 Aug 2025 09:36:00 GMT"
     }
   ],
   "terrorism": [
@@ -3065,10 +3041,6 @@
   ],
   "atmospheric_science": [
     {
-      "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
-      "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
-    },
-    {
       "title": "Scientists Unveil Wild New Way to Explore the Edge of Space - Gizmodo",
       "pubDate": "Wed, 13 Aug 2025 15:01:28 GMT"
     }
@@ -3311,6 +3283,10 @@
     {
       "title": "Hurricane Erin: No direct hit forecast on U.S., but flood risks prompt evacuations - NPR",
       "pubDate": "Mon, 18 Aug 2025 18:04:50 GMT"
+    },
+    {
+      "title": "Hurricane Erin prompts evacuations across the NC coast as residents brace for impact - WRAL.com",
+      "pubDate": "Tue, 19 Aug 2025 08:20:33 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3483,12 +3459,6 @@
     {
       "title": "Quantum device detects all units of electricity at once - New Scientist",
       "pubDate": "Mon, 18 Aug 2025 12:00:14 GMT"
-    }
-  ],
-  "outer_space": [
-    {
-      "title": "China unveils space-debris catcher with possible military use - Interesting Engineering",
-      "pubDate": "Tue, 12 Aug 2025 11:17:00 GMT"
     }
   ],
   "net_zero_emissions": [

@@ -1,62 +1,32 @@
 {
-  "Climate Change": {
+  "Hurricanes": {
     "articles": [
       {
-        "title": "Italy's Ventina glacier has melted so much geologists now can only monitor it remotely - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmZJa2NSLUZyNm9zVFlTMl9ubF9aUzlEVndvaEU5QThTUjdoU0F2RC1qVWRCOFNLai1sY2Y1ZXNMWmsyaUVnQnU3LWhzR0JEV2FDR004NnhhMmtSajA3VTlsX24zYVI5YU5GQTF3cjdPeWZ6MXYzbHF2dlRiY3pSR2ZjWDE5Rjg1WGc?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 05:18:00 GMT"
+        "title": "Hurricane Erin prompts evacuations across the NC coast as residents brace for impact - WRAL.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOG5hcGhFMEJnanBIQ210N0VYa0hPU25Wenc1U0FVMWdhZ1h3OVplbUhiejF6X29BNThqUm81VkhTTi1NWDMwYk5DbjNqTmdhbzVYcVQtZ0ItN2RZNy1PdldrVk8yWWk2bTdtaEdaSVA1N1huRnF1XzZQeHhSN0lPejNfYw?oc=5",
+        "pubDate": "Tue, 19 Aug 2025 08:20:33 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
+    "last_updated_ts": "2025-08-19T12:00:58.545638+00:00"
   },
-  "Military and Defense": {
+  "BRICS": {
     "articles": [
       {
-        "title": "Ukraine's electronic warfare fight against Russian drones is so chaotic that its own are getting caught in the crossfire - Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnBlclZNd1FjbVFzaTJkcENQYVYzdmc1NnNzY25ETnMwdC1ma0U5UG9qS2l6NFZiNkdQdUUzVWFPMnhfbU45SkVFLUliWmdLQjBDM21iVDRrdGlET1FNcEU0cHdUal9JTEdBUTAzNnRfd1Z2RndBSnJGUVVaZ1FVVmFmZGxzaUhyaTBGMFNMLXh2WU9SNldaMFVjeDJfQQ?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 09:30:00 GMT"
+        "title": "Putin calls Brics allies to debrief them on his Trump summit - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzlqeWEybG9TSkxDMFM4MkVnejdnb3pYVDZWd3VJLVFGU2hzanJUaVl1TV9NQjZXTkxGMi1nSzFWWjNSak0zTVBhMS1TVmg0cFhDZnBSbHc5TWtfYjBjOGtqdmJkcG9hc1FhTUNGWGJoY0RmcFVzeExYaGxyUVdSclJ5LUF3SXBqQ3JybExfaDYzX1A1MXZXYVVTeWtIZXRBMWZ5ZzBR?oc=5",
+        "pubDate": "Tue, 19 Aug 2025 09:36:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Amid Protests and Talk of Invading Gaza, Netanyahu Flip-flops Over Limited Cease-fire Deal - Haaretz",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRGZwWXl6MnJIYzFpa0oyRWxBcjZxbi12OFhieXU2SV9JNGh3SEVCek1zeFVXZmQyRmtlbng1bVVLQ2s2M1Nha1gxLXlqbGQ3anVfOVViYi01a3Q1dXBUdWtNS3FQRVUxQXgwSmtsUVVaUHhrSnhvMm0wdy1hczhVMXZmWExWdE1NY3V6T3BLMGhaUWNOdmJLZjY1a1ROblRZU0VIM3ZfaUp3d2txdEg2OVNicVhtMTZXXzkxRmowUVVpLXFNeVBhU2J3TUstZlRaejZyNm5pUlNHOG9rQmZwNzBQb3ZabFgyb0FNd09RbHVOZHFOZFVJLTRDN0x0Vkd6dGh2YVdsSjhCdDZTSGRVcVFkMTZCbGNLVlE1dmJR?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 03:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
+    "last_updated_ts": "2025-08-19T12:00:58.545638+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTl6d1RZYzRZT1FDZXRkRWpLUGpwdWR2VGtmVU56V285cnFZUWdCc1NSMkN0WmRyRnZmNm8yOGdNVENlQTk5TFhXVXVUUGVzWlJQODlyMWlvem1fLXNza0FhS3ItTTdyYzBhcG95T29tUXkxS0EyX1ZNekhEWW1MVS1ETVFUUnozVUxmOUdUQVlfUGViNk5BTFVOUmVaT0tuZ3Uwb1ZpR25oV0RMT2xBbzg3a3VzbjZt?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 10:03:11 GMT"
+        "title": "Research suggests doctors might quickly become dependent on AI - NPR",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUpxejZydEswZjhpcXhsQWpGZDBSOHZtVzNxZnJJUTB6dTJKOVFMa0Q2YVlqUlpHeHF1dFMtdVlhUGdQWjM1RmtyOVJ1cFRoWXNjY1lZVE5fcGVEZV9tTWlJVW9BUnFJUDFIU0hjVDNEdUxlSGN2cGdFN0RPcjBSSkVWaTJqQ2QwR2xnMTZURXhJaTl0eWdkTTJPVzRtQ1FUazdoWFl3cnRuY2RuVUxTc2VqNGJwLTc5WndwV0xoNkhpX2NGM2Y0?oc=5",
+        "pubDate": "Tue, 19 Aug 2025 10:57:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
-  },
-  "Environment": {
-    "articles": [
-      {
-        "title": "Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution - NPR",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUdXd2RCbllfcjRacVhJaHA5a25JX1ZWemI4RHBPaHBiUkhQbVJtS2toTUdwQk1ZWjdHS0prRTRsNE1jWGRTX1RYU0JpT0pqbENjV005YU1hYWFuel9TeDhBQ0ZvLTU4NjJmb3ZpOWx5MnlDZS1qbzN5bEo3bU82bVN6OUQ4RHlJckZsN0tIdFJVd1ZjRFhJNGlyV25USlE?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 09:39:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Trump's interest rate demands put 'fiscal dominance' in market spotlight - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1FfTFgwWEE4Tk90UDM0b2lHOTZiNHE3VUdxTlpIYkRNT0pvdThER1pXRGk3NktGbTRycEdyc2xsUVJYUXg5ODBMTldDandyby1WWWhNYXo2akNNVmJTVVp6ZE9zdG5EZkJ6b0cxR3ltY3BrMXVXcml0el9Rb3VCYnZlNmRielhabTJBRUdzd2k5WjJKT0w4WkF2OFVrMC1aUlBGeTFCTkd4YXNJbjYwTA?oc=5",
-        "pubDate": "Tue, 19 Aug 2025 10:20:03 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-19T11:00:42.984829+00:00"
+    "last_updated_ts": "2025-08-19T12:00:58.545638+00:00"
   }
 }
