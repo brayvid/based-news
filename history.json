@@ -143,10 +143,6 @@
   ],
   "russia": [
     {
-      "title": "Zelenskyy says Putin not preparing to end war as Russian forces make breakthrough - ABC News",
-      "pubDate": "Tue, 12 Aug 2025 08:21:52 GMT"
-    },
-    {
       "title": "Russia restricts calls on WhatsApp, Telegram as internet control tightens - Al Jazeera",
       "pubDate": "Thu, 14 Aug 2025 04:09:28 GMT"
     },
@@ -267,6 +263,10 @@
     {
       "title": "Should a Central Authority Regulate AI in the UK? - Bank Info Security",
       "pubDate": "Mon, 18 Aug 2025 20:25:01 GMT"
+    },
+    {
+      "title": "AI Under Siege : How Hackers Are Exploiting Vulnerable AI Systems - Geeky Gadgets",
+      "pubDate": "Tue, 19 Aug 2025 07:10:10 GMT"
     }
   ],
   "financial_markets": [
@@ -427,6 +427,10 @@
     {
       "title": "AI will replace most humans, but then what? - Reuters",
       "pubDate": "Tue, 19 Aug 2025 06:08:00 GMT"
+    },
+    {
+      "title": "OpenAI rolls out cheapest ChatGPT plan at $4.6 in India to chase growth - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 06:22:00 GMT"
     }
   ],
   "climate": [
@@ -608,10 +612,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump\u2019s major China gamble has paid off so far. But Xi still holds trump cards - CNN",
-      "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
-    },
     {
       "title": "China cautions tech firms over Nvidia H20 AI chip purchases, sources say - Reuters",
       "pubDate": "Tue, 12 Aug 2025 16:03:42 GMT"
@@ -865,6 +865,10 @@
     {
       "title": "Trump prompted a battle over voting maps. Here's how redistricting affects voters - NPR",
       "pubDate": "Mon, 18 Aug 2025 09:42:41 GMT"
+    },
+    {
+      "title": "Democrats return to Texas, clearing way for GOP to draw new map - The Washington Post",
+      "pubDate": "Tue, 19 Aug 2025 03:07:00 GMT"
     }
   ],
   "democratic_party": [
@@ -922,10 +926,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors - The Hacker News",
-      "pubDate": "Tue, 12 Aug 2025 08:36:00 GMT"
-    },
     {
       "title": "Will SDV tech improve or worsen vehicle cybersecurity? - Automotive News",
       "pubDate": "Tue, 12 Aug 2025 14:16:00 GMT"
@@ -1407,10 +1407,6 @@
   ],
   "health_care": [
     {
-      "title": "Republicans are quietly rolling back Obamacare. Here\u2019s how - CNN",
-      "pubDate": "Tue, 12 Aug 2025 08:00:00 GMT"
-    },
-    {
       "title": "Appeals court upholds Arkansas' ban on transgender minors' health care after SCOTUS ruling - Arkansas Advocate",
       "pubDate": "Tue, 12 Aug 2025 23:08:14 GMT"
     },
@@ -1581,6 +1577,10 @@
     {
       "title": "PayPal breach exposed nearly 16M login credentials, hackers claim - Cybernews",
       "pubDate": "Tue, 19 Aug 2025 07:03:52 GMT"
+    },
+    {
+      "title": "Massive Allianz Life data breach impacts 1.1 million people - BleepingComputer",
+      "pubDate": "Tue, 19 Aug 2025 07:17:57 GMT"
     }
   ],
   "bitcoin": [
@@ -2377,10 +2377,6 @@
   ],
   "climate_change": [
     {
-      "title": "As Climate Change Makes Hail More Destructive, Illinois Residents Pay the Price - Inside Climate News",
-      "pubDate": "Tue, 12 Aug 2025 08:55:00 GMT"
-    },
-    {
       "title": "Trees may be getting more flammable because of climate change - New Scientist",
       "pubDate": "Tue, 12 Aug 2025 10:00:48 GMT"
     },
@@ -2559,6 +2555,10 @@
     {
       "title": "Wildfires fueled by climate change devastate Spain - World Socialist Web Site",
       "pubDate": "Mon, 18 Aug 2025 23:12:38 GMT"
+    },
+    {
+      "title": "ICJ ruling sets precedent for suing over climate change emissions - Nation Thailand",
+      "pubDate": "Tue, 19 Aug 2025 08:07:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2647,6 +2647,10 @@
     {
       "title": "Russia is experimenting in Ukraine's robot war with uncrewed rocket launchers, hoverboards, and a box on wheels - Business Insider",
       "pubDate": "Mon, 18 Aug 2025 06:25:00 GMT"
+    },
+    {
+      "title": "Japan\u2019s defence minister visits Turkey for talks on defence cooperation, drones - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 08:28:00 GMT"
     }
   ],
   "world_news": [
@@ -2961,6 +2965,10 @@
     {
       "title": "Record number of EVs registered in western Europe across last quarter - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 16:19:00 GMT"
+    },
+    {
+      "title": "Tesla officially launches Model YL with 6 seats, starting at ~$47,000 - Electrek",
+      "pubDate": "Tue, 19 Aug 2025 01:33:00 GMT"
     }
   ],
   "india": [
@@ -3092,10 +3100,6 @@
     }
   ],
   "fbi": [
-    {
-      "title": "US crime rates fell nationwide in 2024, FBI report says - Ohio Capital Journal",
-      "pubDate": "Tue, 12 Aug 2025 08:31:06 GMT"
-    },
     {
       "title": "U.S. indicts Haiti gang leader \u2018Barbecue,\u2019 offers $5 million reward for capture - Miami Herald",
       "pubDate": "Tue, 12 Aug 2025 19:30:00 GMT"
