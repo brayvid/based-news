@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump BLS pick suggests suspending monthly jobs report over data concerns - The Hill",
-      "pubDate": "Tue, 12 Aug 2025 17:10:00 GMT"
-    },
-    {
       "title": "Trump tells Goldman Sachs CEO David Solomon to replace economist over tariff predictions - CNBC",
       "pubDate": "Tue, 12 Aug 2025 19:29:11 GMT"
     },
@@ -296,10 +292,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A.I. Start-Up Perplexity Offers to Buy Google\u2019s Chrome Browser for $34.5 Billion - The New York Times",
-      "pubDate": "Tue, 12 Aug 2025 17:11:14 GMT"
-    },
     {
       "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots - The Washington Post",
       "pubDate": "Tue, 12 Aug 2025 18:18:02 GMT"
@@ -1163,6 +1155,10 @@
     {
       "title": "Trump's interest rate demands put 'fiscal dominance' in market spotlight - Reuters",
       "pubDate": "Tue, 19 Aug 2025 10:20:03 GMT"
+    },
+    {
+      "title": "Fed chief under pressure ahead of Jackson Hole meeting - Quartz",
+      "pubDate": "Tue, 19 Aug 2025 15:49:41 GMT"
     }
   ],
   "earthquakes": [
@@ -1457,10 +1453,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Do Kwon pleads guilty to US fraud charges in $40 billion crypto collapse - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 17:16:14 GMT"
-    },
-    {
       "title": "Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses - The Hacker News",
       "pubDate": "Thu, 14 Aug 2025 06:46:00 GMT"
     },
@@ -1719,6 +1711,10 @@
     {
       "title": "Nvidia\u2019s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games - The Verge",
       "pubDate": "Mon, 18 Aug 2025 19:30:00 GMT"
+    },
+    {
+      "title": "Exclusive: Nvidia working on new AI chip for China that outperforms the H20, sources say - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 11:08:55 GMT"
     }
   ],
   "openai": [
@@ -1931,10 +1927,6 @@
     {
       "title": "CenterPoint Energy to invest in RNG created from Twin Cities\u2019 metro food and yard waste - Biomass Magazine",
       "pubDate": "Wed, 13 Aug 2025 00:10:28 GMT"
-    },
-    {
-      "title": "PowerBank Embraces Bitcoin and Tokenized Energy in Bold Treasury Shift to Digital Finance - CarbonCredits.com",
-      "pubDate": "Tue, 12 Aug 2025 17:15:12 GMT"
     },
     {
       "title": "Bangladesh struggles to keep energy transition on track - Context News",
@@ -2349,16 +2341,16 @@
     {
       "title": "Washington limits states\u2019 access to critical cyber resources - Washington Examiner",
       "pubDate": "Sun, 17 Aug 2025 13:20:00 GMT"
+    },
+    {
+      "title": "Public Exploit Released for Critical SAP NetWeaver Flaw - Infosecurity Magazine",
+      "pubDate": "Tue, 19 Aug 2025 15:45:00 GMT"
     }
   ],
   "climate_change": [
     {
       "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
       "pubDate": "Tue, 12 Aug 2025 20:08:47 GMT"
-    },
-    {
-      "title": "China\u2019s rural communities are adapting to climate change - Dialogue Earth",
-      "pubDate": "Tue, 12 Aug 2025 17:57:45 GMT"
     },
     {
       "title": "Will Endangerment Finding Repeal Trigger New State Actions on Climate? - Inside Climate News",
@@ -2523,6 +2515,10 @@
     {
       "title": "Italy's Ventina glacier has melted so much geologists now can only monitor it remotely - The Independent",
       "pubDate": "Tue, 19 Aug 2025 05:18:00 GMT"
+    },
+    {
+      "title": "The strange divide in how Americans experience summer temperatures - CNN",
+      "pubDate": "Tue, 19 Aug 2025 11:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2623,6 +2619,10 @@
     {
       "title": "Ukraine's electronic warfare fight against Russian drones is so chaotic that its own are getting caught in the crossfire - Business Insider",
       "pubDate": "Tue, 19 Aug 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Germany unveils $409B defense procurement plan - Defence Blog",
+      "pubDate": "Tue, 19 Aug 2025 11:30:01 GMT"
     }
   ],
   "world_news": [
@@ -2710,10 +2710,6 @@
     }
   ],
   "central_intelligence_agency": [
-    {
-      "title": "Congress Must Hold the CIA Accountable in the Wake of Recent JFK Assassination Revelations - The Daily Signal",
-      "pubDate": "Tue, 12 Aug 2025 17:01:20 GMT"
-    },
     {
       "title": "Dodgy agents and gung-ho missions \u2014 the truth about the CIA - The Times",
       "pubDate": "Thu, 14 Aug 2025 05:00:00 GMT"
@@ -3445,10 +3441,6 @@
   ],
   "net_zero_emissions": [
     {
-      "title": "US to retaliate against IMO members that back net zero emissions plan - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 17:56:05 GMT"
-    },
-    {
       "title": "Is AI a Help or Hindrance For Companies' Net Zero Ambitions? - AI Magazine",
       "pubDate": "Sat, 16 Aug 2025 08:10:37 GMT"
     },
@@ -3461,12 +3453,6 @@
     {
       "title": "Powerful optical technique can analyze the biochemical fingerprints of vaginal fluid - News-Medical",
       "pubDate": "Tue, 12 Aug 2025 19:07:00 GMT"
-    }
-  ],
-  "software": [
-    {
-      "title": "Billions Wiped Out as Software Sinks on AI Disruption Fear - Bloomberg.com",
-      "pubDate": "Tue, 12 Aug 2025 17:17:30 GMT"
     }
   ],
   "ancient_history": [
@@ -3659,6 +3645,10 @@
     {
       "title": "Scientists reveal how just two human decisions rewired the Great Salt Lake forever - ScienceDaily",
       "pubDate": "Tue, 19 Aug 2025 08:16:56 GMT"
+    },
+    {
+      "title": "Why Some Smells Are Pleasant and Others Are Off-Putting, according to Science - Scientific American",
+      "pubDate": "Tue, 19 Aug 2025 10:00:00 GMT"
     }
   ],
   "wind_power": [
@@ -3675,6 +3665,10 @@
     {
       "title": "Trump Rolls Out the Red Carpet for Putin in Alaska - Foreign Policy",
       "pubDate": "Fri, 15 Aug 2025 21:57:36 GMT"
+    },
+    {
+      "title": "Trump Targets Corporate America to Achieve Economic and Foreign Policy Goals - Bloomberg.com",
+      "pubDate": "Tue, 19 Aug 2025 13:53:03 GMT"
     }
   ],
   "new_york_city": [
