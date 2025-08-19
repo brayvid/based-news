@@ -135,6 +135,10 @@
     {
       "title": "Trump-Zelensky: Key takeaways from Ukraine talks in Washington - BBC",
       "pubDate": "Mon, 18 Aug 2025 20:37:02 GMT"
+    },
+    {
+      "title": "Trump approval TANKING with the American public, new poll shows - MSNBC News",
+      "pubDate": "Tue, 19 Aug 2025 03:49:35 GMT"
     }
   ],
   "russia": [
@@ -165,13 +169,13 @@
     {
       "title": "Russia is quietly churning out fake content posing as US news - Politico",
       "pubDate": "Sun, 17 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Russia bombards Ukrainian city hours after Washington summit - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 11:05:39 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Illinois Researchers Create AI Safety Testing Methods - Mirage News",
-      "pubDate": "Tue, 12 Aug 2025 14:32:00 GMT"
-    },
     {
       "title": "Filtered data stops openly-available AI models from performing dangerous tasks, study finds - Tech Xplore",
       "pubDate": "Tue, 12 Aug 2025 16:07:04 GMT"
@@ -259,6 +263,10 @@
     {
       "title": "AI Under Siege : How Hackers Are Exploiting Vulnerable AI Systems - Geeky Gadgets",
       "pubDate": "Tue, 19 Aug 2025 07:10:10 GMT"
+    },
+    {
+      "title": "Comply365 buys Beams to strengthen AI safety and risk management - AviTrader Aviation News",
+      "pubDate": "Tue, 19 Aug 2025 09:03:47 GMT"
     }
   ],
   "financial_markets": [
@@ -927,10 +935,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Will SDV tech improve or worsen vehicle cybersecurity? - Automotive News",
-      "pubDate": "Tue, 12 Aug 2025 14:16:00 GMT"
-    },
-    {
       "title": "From Panic to Precision: Securonix Gives SecOps Its Power Back - Dark Reading | Security",
       "pubDate": "Tue, 12 Aug 2025 20:46:56 GMT"
     },
@@ -1088,10 +1092,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Trump officials cast a wider net for Powell replacement at Fed - Politico",
-      "pubDate": "Tue, 12 Aug 2025 14:31:03 GMT"
-    },
     {
       "title": "Investors double down on September Fed cut after CPI - Reuters",
       "pubDate": "Tue, 12 Aug 2025 19:58:17 GMT"
@@ -2037,10 +2037,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza health system \u2018catastrophic\u2019 with hospitals overwhelmed and medicines running out, WHO warns - UN News",
-      "pubDate": "Tue, 12 Aug 2025 14:13:58 GMT"
-    },
-    {
       "title": "\u2018It\u2019s a horrible picture\u2019: Gaza faces new threat from antibiotic-resistant disease - The Guardian",
       "pubDate": "Tue, 12 Aug 2025 22:30:00 GMT"
     },
@@ -2248,10 +2244,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "Social media toxicity can't be fixed by changing the algorithms - New Scientist",
-      "pubDate": "Tue, 12 Aug 2025 14:01:53 GMT"
-    },
     {
       "title": "Robots gain new function: Algorithm automatically recognizes sensors and their mathematical modeling - Tech Xplore",
       "pubDate": "Tue, 12 Aug 2025 19:12:03 GMT"
@@ -2575,6 +2567,10 @@
     {
       "title": "Trump, EU's Von Der Leyen Discuss Plight of Children in War - U.S. News & World Report",
       "pubDate": "Tue, 19 Aug 2025 01:59:00 GMT"
+    },
+    {
+      "title": "How US Officials Are Pressuring Europe Over Its Platform Regulations - Tech Policy Press",
+      "pubDate": "Tue, 19 Aug 2025 13:51:45 GMT"
     }
   ],
   "amazon": [
@@ -3785,6 +3781,10 @@
     {
       "title": "Tesla almost halves UK monthly lease fee as sales slump, The Times reports - Reuters",
       "pubDate": "Mon, 18 Aug 2025 00:01:00 GMT"
+    },
+    {
+      "title": "Why Tesla Cybertruck sales are falling short of expectations - CNBC",
+      "pubDate": "Tue, 19 Aug 2025 14:27:56 GMT"
     }
   ],
   "thunderstorms": [
@@ -3821,6 +3821,12 @@
     {
       "title": "Microsoft launches formal review into Gaza surveillance claims - The Seattle Times",
       "pubDate": "Tue, 19 Aug 2025 13:00:00 GMT"
+    }
+  ],
+  "finance": [
+    {
+      "title": "In Argentina\u2019s finance sector, devs use AI to boost innovation - Microsoft Source",
+      "pubDate": "Tue, 19 Aug 2025 13:56:33 GMT"
     }
   ]
 }
