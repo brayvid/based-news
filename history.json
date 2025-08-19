@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump taps conservative economist to lead statistics agency - NPR",
-      "pubDate": "Mon, 11 Aug 2025 23:50:34 GMT"
-    },
-    {
       "title": "Trump's 401(k) expansion order: What new investment options will be available? - Fox Business",
       "pubDate": "Tue, 12 Aug 2025 12:00:00 GMT"
     },
@@ -453,6 +449,10 @@
     {
       "title": "State of Climate: Earth Hottest on Record again, as CO2 still Climbs and Glaciers Wilt - Informed Comment",
       "pubDate": "Sun, 17 Aug 2025 04:15:37 GMT"
+    },
+    {
+      "title": "Trump\u2019s new use for tariffs: Thwarting climate policy - Politico",
+      "pubDate": "Mon, 18 Aug 2025 22:01:03 GMT"
     }
   ],
   "ukraine": [
@@ -1047,10 +1047,6 @@
   ],
   "drones": [
     {
-      "title": "Russia\u2019s Shahed Long-Range Drones Are Now Dropping Anti-Tank Mines - The War Zone",
-      "pubDate": "Mon, 11 Aug 2025 23:17:59 GMT"
-    },
-    {
       "title": "A $2,500 interceptor drone built to destroy Iranian Shaheds was recorded flying at the speed of a bullet train - Business Insider",
       "pubDate": "Tue, 12 Aug 2025 03:41:00 GMT"
     },
@@ -1081,6 +1077,10 @@
     {
       "title": "High-tech drones turn Ukraine\u2019s front line into a deadly kill zone, complicating evacuations - AP News",
       "pubDate": "Sun, 17 Aug 2025 09:06:00 GMT"
+    },
+    {
+      "title": "Rogue drones are a ticking time bomb \u2014 let police intervene - The Hill",
+      "pubDate": "Mon, 18 Aug 2025 17:00:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -1297,10 +1297,6 @@
     {
       "title": "Pfizer\u2019s Padcev Plus Keytruda Extends Bladder Cancer Survival - Bloomberg.com",
       "pubDate": "Tue, 12 Aug 2025 09:30:00 GMT"
-    },
-    {
-      "title": "Thousands of men with prostate cancer facing unnecessary overtreatment, experts warn - The Independent",
-      "pubDate": "Mon, 11 Aug 2025 23:01:00 GMT"
     },
     {
       "title": "Cancer survival rates rise substantially but 'longer waits' hit progress for more deadly types of the disease, say researchers - Sky News",
@@ -1685,10 +1681,6 @@
   ],
   "nvidia": [
     {
-      "title": "Trump's unusual Nvidia deal raises new corporate and national security risks, lawmakers and experts say - Reuters",
-      "pubDate": "Mon, 11 Aug 2025 23:25:57 GMT"
-    },
-    {
       "title": "Nvidia-backed CoreWeave is plummeting after earnings. Here\u2019s what analysts have to say - CNBC",
       "pubDate": "Wed, 13 Aug 2025 14:18:55 GMT"
     },
@@ -1879,6 +1871,10 @@
     {
       "title": "The looming crisis of AI speed without guardrails - VentureBeat",
       "pubDate": "Mon, 18 Aug 2025 18:24:27 GMT"
+    },
+    {
+      "title": "No American grads on Meta\u2019s top AI team, all 11 hires are immigrants - MSN",
+      "pubDate": "Mon, 18 Aug 2025 20:10:13 GMT"
     }
   ],
   "alexandria_ocasio-cortez": [
@@ -1933,6 +1929,10 @@
     {
       "title": "Why Circle chose an L1 \u2014 and what it means for Ethereum - Blockworks",
       "pubDate": "Sun, 17 Aug 2025 15:12:51 GMT"
+    },
+    {
+      "title": "How Ethereum Treasury Companies are Following the BTC Playbook - TradingView",
+      "pubDate": "Mon, 18 Aug 2025 18:09:00 GMT"
     }
   ],
   "alternative_energy": [
@@ -2231,6 +2231,10 @@
     {
       "title": "Israel issues evacuation order for Holy Family Parish\u2019s Gaza City neighborhood - Catholic News Agency",
       "pubDate": "Mon, 18 Aug 2025 19:04:00 GMT"
+    },
+    {
+      "title": "Updates: Hamas says it approved Gaza truce deal as Israel steps up attacks - Al Jazeera",
+      "pubDate": "Mon, 18 Aug 2025 15:59:45 GMT"
     }
   ],
   "battery_technology": [
@@ -2256,10 +2260,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "DOJ Touts Merger, Rental Algorithm Deals, Eyeing More - Law360",
-      "pubDate": "Mon, 11 Aug 2025 23:53:00 GMT"
-    },
     {
       "title": "New Research Reveals Brain Cells Learn Faster Than Machine Learning Algorithms - BIOENGINEER.ORG",
       "pubDate": "Tue, 12 Aug 2025 02:55:46 GMT"
@@ -2797,10 +2797,6 @@
   ],
   "asia": [
     {
-      "title": "China presses ahead with Southeast Asia port expansion as US tensions simmer - South China Morning Post",
-      "pubDate": "Tue, 12 Aug 2025 00:00:14 GMT"
-    },
-    {
       "title": "Asia markets open higher, tracking Wall Street gains amid Fed rate cut hopes - CNBC",
       "pubDate": "Wed, 13 Aug 2025 00:10:00 GMT"
     },
@@ -2831,6 +2827,10 @@
     {
       "title": "Heavy rainfall across South Asia claims hundreds of lives - NPR",
       "pubDate": "Sun, 17 Aug 2025 21:06:02 GMT"
+    },
+    {
+      "title": "Peru Expects Asia to Replace the US as Top Buyer of Its Blueberries - Bloomberg",
+      "pubDate": "Mon, 18 Aug 2025 17:15:40 GMT"
     }
   ],
   "spacex": [
@@ -3199,12 +3199,10 @@
     {
       "title": "Monster Hurricane Erin continues to barrel across Atlantic bringing life-threatening impacts to Caribbean - FOX Weather",
       "pubDate": "Sun, 17 Aug 2025 09:33:00 GMT"
-    }
-  ],
-  "vladimir_putin": [
+    },
     {
-      "title": "Trump/Putin Alaska summit: Former Secret Service agent adds perspective on location, security measures - Alaska's News Source",
-      "pubDate": "Mon, 11 Aug 2025 23:56:00 GMT"
+      "title": "Scientists stunned after discovering gigantic missing blob of water in the Atlantic Ocean - good.is",
+      "pubDate": "Mon, 18 Aug 2025 22:06:31 GMT"
     }
   ],
   "violence": [
