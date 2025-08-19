@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump tells Goldman Sachs CEO David Solomon to replace economist over tariff predictions - CNBC",
-      "pubDate": "Tue, 12 Aug 2025 19:29:11 GMT"
-    },
-    {
       "title": "Trump is bringing in enough revenue from tariffs to have a serious impact on the $37 trillion national debt, budget watchdog says - Fortune",
       "pubDate": "Tue, 12 Aug 2025 20:20:59 GMT"
     },
@@ -563,6 +559,10 @@
     {
       "title": "Trump warns Putin of \u2018rough situation\u2019 if he does not move towards peace in Ukraine but tells Zelenskyy to \u2018show flexibility\u2019 \u2013 live - The Guardian",
       "pubDate": "Tue, 19 Aug 2025 12:56:00 GMT"
+    },
+    {
+      "title": "Trump Is Asking Ukraine to Pay an Impossible Price - Slate",
+      "pubDate": "Tue, 19 Aug 2025 18:53:00 GMT"
     }
   ],
   "us_economy": [
@@ -1035,6 +1035,10 @@
     {
       "title": "Recession risks are really high, says Moody's Mark Zandi - MSN",
       "pubDate": "Mon, 18 Aug 2025 16:23:36 GMT"
+    },
+    {
+      "title": "Moody\u2019s chief who nailed 2007 housing bust revives recession fears with new warning - TheStreet",
+      "pubDate": "Tue, 19 Aug 2025 17:07:00 GMT"
     }
   ],
   "drones": [
@@ -1072,10 +1076,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Investors double down on September Fed cut after CPI - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 19:58:17 GMT"
-    },
     {
       "title": "Trump considering 11 candidates for Fed chair, including David Zervos and Rick Rieder, sources say - CNBC",
       "pubDate": "Wed, 13 Aug 2025 12:06:19 GMT"
@@ -1157,10 +1157,6 @@
     {
       "title": "Major Landslide in Southeast Alaska Fjord - Alaska Earthquake Center",
       "pubDate": "Tue, 12 Aug 2025 20:33:22 GMT"
-    },
-    {
-      "title": "Earthquakes and Volcanoes Surge: Are We Entering the Beginning of Sorrows? - Charisma Magazine Online",
-      "pubDate": "Tue, 12 Aug 2025 19:33:22 GMT"
     },
     {
       "title": "7 volcanoes erupt in rare phenomenon after massive Russia earthquake - Nation Thailand",
@@ -1869,10 +1865,6 @@
   ],
   "national_security": [
     {
-      "title": "Secret document leaker moved to high security prison - WJAR",
-      "pubDate": "Tue, 12 Aug 2025 19:10:43 GMT"
-    },
-    {
       "title": "Nigeria says it has arrested 2 militant leaders on its most wanted list - ABC News",
       "pubDate": "Sun, 17 Aug 2025 01:30:46 GMT"
     }
@@ -2207,6 +2199,10 @@
     {
       "title": "Senior mediator spells out Gaza ceasefire proposal agreed to by Hamas; Israel is yet to respond - NBC News",
       "pubDate": "Tue, 19 Aug 2025 14:18:28 GMT"
+    },
+    {
+      "title": "Gaza: Aid insufficient to avert \u2018widespread starvation\u2019 as Israeli military ramp-up forces more people to flee - UN News",
+      "pubDate": "Tue, 19 Aug 2025 14:35:35 GMT"
     }
   ],
   "battery_technology": [
@@ -2228,10 +2224,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "Robots gain new function: Algorithm automatically recognizes sensors and their mathematical modeling - Tech Xplore",
-      "pubDate": "Tue, 12 Aug 2025 19:12:03 GMT"
-    },
     {
       "title": "Revolutionary Quantum Physics Algorithm Improves Medical Imaging Quality - ScienceBlog.com",
       "pubDate": "Tue, 12 Aug 2025 22:48:58 GMT"
@@ -3045,10 +3037,6 @@
   ],
   "fbi": [
     {
-      "title": "U.S. indicts Haiti gang leader \u2018Barbecue,\u2019 offers $5 million reward for capture - Miami Herald",
-      "pubDate": "Tue, 12 Aug 2025 19:30:00 GMT"
-    },
-    {
       "title": "Multiple FBI searches in Omaha part of multi-agency investigation cracking down on trafficking - KETV",
       "pubDate": "Wed, 13 Aug 2025 00:05:00 GMT"
     },
@@ -3433,12 +3421,6 @@
       "pubDate": "Mon, 18 Aug 2025 06:45:04 GMT"
     }
   ],
-  "biochemistry": [
-    {
-      "title": "Powerful optical technique can analyze the biochemical fingerprints of vaginal fluid - News-Medical",
-      "pubDate": "Tue, 12 Aug 2025 19:07:00 GMT"
-    }
-  ],
   "ancient_history": [
     {
       "title": "Ancient 'Rising Sun' Coins Reveal Vast Trade Networks Across Southeast Asia - Ancient Origins",
@@ -3803,6 +3785,12 @@
     {
       "title": "In Argentina\u2019s finance sector, devs use AI to boost innovation - Microsoft Source",
       "pubDate": "Tue, 19 Aug 2025 13:56:33 GMT"
+    }
+  ],
+  "quantum_information": [
+    {
+      "title": "Quantum States Shatter Precision Limits, Boosting Sensors - Quantum Zeitgeist",
+      "pubDate": "Tue, 19 Aug 2025 10:35:10 GMT"
     }
   ]
 }
