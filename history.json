@@ -453,10 +453,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine successfully tests Starlink's direct-to-cell technology - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 13:10:34 GMT"
-    },
-    {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
     },
@@ -575,6 +571,10 @@
     {
       "title": "Ukraine live updates: Starmer and Macron to co-chair \u2018coalition of the willing\u2019 debrief after White House talks - The Guardian",
       "pubDate": "Tue, 19 Aug 2025 08:52:00 GMT"
+    },
+    {
+      "title": "Trump warns Putin of \u2018rough situation\u2019 if he does not move towards peace in Ukraine but tells Zelenskyy to \u2018show flexibility\u2019 \u2013 live - The Guardian",
+      "pubDate": "Tue, 19 Aug 2025 12:56:00 GMT"
     }
   ],
   "us_economy": [
@@ -909,6 +909,10 @@
     {
       "title": "North Korea's Kim Calls for Rapid Nuclear Buildup Amid U.S.-South Korea Exercises - U.S. News & World Report",
       "pubDate": "Mon, 18 Aug 2025 21:21:00 GMT"
+    },
+    {
+      "title": "North Korea must \u2018rapidly expand\u2019 its nuclear arsenal, says Kim Jong-un - yahoo.com",
+      "pubDate": "Tue, 19 Aug 2025 11:31:50 GMT"
     }
   ],
   "trade_war": [
@@ -1084,10 +1088,6 @@
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Trump threatens Fed chair Powell with 'major lawsuit' over HQ renovation cost - CNBC",
-      "pubDate": "Tue, 12 Aug 2025 13:58:12 GMT"
-    },
     {
       "title": "Trump officials cast a wider net for Powell replacement at Fed - Politico",
       "pubDate": "Tue, 12 Aug 2025 14:31:03 GMT"
@@ -1498,10 +1498,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Major data breach at US credit union sees 172,000 customers at risk - here's how to stay safe - TechRadar",
-      "pubDate": "Tue, 12 Aug 2025 13:04:00 GMT"
-    },
     {
       "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
       "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
@@ -2227,6 +2223,10 @@
     {
       "title": "Amid Protests and Talk of Invading Gaza, Netanyahu Flip-flops Over Limited Cease-fire Deal - Haaretz",
       "pubDate": "Tue, 19 Aug 2025 03:00:00 GMT"
+    },
+    {
+      "title": "Killing of aid workers surges to record high during Gaza war, UN says - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 12:56:19 GMT"
     }
   ],
   "battery_technology": [
@@ -2360,10 +2360,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Sheboygan Receiving Federal Funding to Curb Effects of Climate Change - Seehafer News",
-      "pubDate": "Tue, 12 Aug 2025 13:33:16 GMT"
-    },
     {
       "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
       "pubDate": "Tue, 12 Aug 2025 20:08:47 GMT"
@@ -3019,10 +3015,6 @@
   ],
   "neuroscience": [
     {
-      "title": "Jocasta Neuroscience Lands $35 Million Series A to Advance Longevity Protein Program for Managing Cognitive Impairment - PR Newswire",
-      "pubDate": "Tue, 12 Aug 2025 14:00:00 GMT"
-    },
-    {
       "title": "Scientists reveal how senses work together in the brain - Medical Xpress",
       "pubDate": "Fri, 15 Aug 2025 09:00:04 GMT"
     },
@@ -3135,10 +3127,6 @@
   ],
   "inflation": [
     {
-      "title": "US Core CPI Picks Up to Fastest Pace Since January on Services - Bloomberg.com",
-      "pubDate": "Tue, 12 Aug 2025 13:02:17 GMT"
-    },
-    {
       "title": "Wholesale prices rose 0.9% in July, much more than expected - CNBC",
       "pubDate": "Thu, 14 Aug 2025 12:31:45 GMT"
     }
@@ -3195,6 +3183,10 @@
     {
       "title": "Scientists stunned after discovering gigantic missing blob of water in the Atlantic Ocean - good.is",
       "pubDate": "Mon, 18 Aug 2025 22:06:31 GMT"
+    },
+    {
+      "title": "Hurricane Erin Brings Rip Currents Closing Jersey Shore and Rehoboth Beaches - The New York Times",
+      "pubDate": "Tue, 19 Aug 2025 05:00:26 GMT"
     }
   ],
   "violence": [
@@ -3225,13 +3217,13 @@
     {
       "title": "US tariffs threaten to derail India\u2019s growth ambitions, Moody\u2019s Analytics warns - Mint",
       "pubDate": "Mon, 18 Aug 2025 13:30:22 GMT"
+    },
+    {
+      "title": "SAP Named a Leader in Business Intelligence and Analytics Platforms - SAP News Center",
+      "pubDate": "Tue, 19 Aug 2025 11:23:00 GMT"
     }
   ],
   "hurricanes": [
-    {
-      "title": "Tropical Storm Erin expected to become Cat 3 hurricane. What to expect in North Carolina - The Asheville Citizen Times",
-      "pubDate": "Tue, 12 Aug 2025 13:04:39 GMT"
-    },
     {
       "title": "Tropical Storm Erin likely to be 1st hurricane of season, not forecast to hit US - ABC News",
       "pubDate": "Tue, 12 Aug 2025 15:22:03 GMT"
@@ -3823,6 +3815,12 @@
     {
       "title": "Economic Data Has Taken a Dark Turn. That Doesn\u2019t Mean a Crash Is Near. - The New York Times",
       "pubDate": "Tue, 19 Aug 2025 09:01:50 GMT"
+    }
+  ],
+  "microsoft": [
+    {
+      "title": "Microsoft launches formal review into Gaza surveillance claims - The Seattle Times",
+      "pubDate": "Tue, 19 Aug 2025 13:00:00 GMT"
     }
   ]
 }
