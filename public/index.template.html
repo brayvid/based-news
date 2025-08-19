@@ -2,6 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LC9EF8GSD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8LC9EF8GSD');
+  </script>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <title>Based News | Blake Rayvid</title>
@@ -22,7 +33,6 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://news.blakerayvid.com" />
   <meta property="og:site_name" content="Based News Reader" />
-  <!-- IMPORTANT: For this to work, create a 1200x630px image named "social-share-image.png" and place it in your site's root directory. -->
   <meta property="og:image" content="https://news.blakerayvid.com/images/example.png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -36,7 +46,7 @@
   <!-- Twitter uses the same image as Open Graph. -->
   <meta name="twitter:image" content="https://news.blakerayvid.com/images/example.png" />
 
-  <!-- Your existing styles and font links are unchanged -->
+  <!-- Styles and font links -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
@@ -326,7 +336,7 @@
     </div>
   </footer>
 
-  <!-- Your scripts are unchanged -->
+  <!-- Scripts -->
   <script defer>
     document.addEventListener("DOMContentLoaded", function () {
       const digestSliderWrapper = document.getElementById("digest-slider-wrapper");
@@ -518,26 +528,5 @@
       initializeSite();
     });
   </script>
-<!-- At the end of your index.html <body> -->
-<script>
-    function loadGtag() {
-        const script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-8LC9EF8GSD';
-        document.head.appendChild(script);
-
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-8LC9EF8GSD');
-    }
-
-    // Load gtag after 3 seconds or on first scroll, whichever comes first
-    const timer = setTimeout(loadGtag, 3000);
-    window.addEventListener('scroll', () => {
-        clearTimeout(timer);
-        loadGtag();
-    }, { once: true });
-</script>
 </body>
 </html>
