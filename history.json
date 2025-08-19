@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Conducts Deadly Strike Against 'Fake' Aid Workers in Gaza - Newsweek",
-      "pubDate": "Tue, 12 Aug 2025 16:27:16 GMT"
-    },
-    {
       "title": "Israel's targeting of terrorist shouldn't be condemned - The Jerusalem Post",
       "pubDate": "Wed, 13 Aug 2025 03:00:32 GMT"
     },
@@ -83,10 +79,6 @@
     {
       "title": "Trump tells Goldman Sachs CEO David Solomon to replace economist over tariff predictions - CNBC",
       "pubDate": "Tue, 12 Aug 2025 19:29:11 GMT"
-    },
-    {
-      "title": "Trump makes Kennedy Center Honors announcement. It caught the staff off guard - NPR",
-      "pubDate": "Tue, 12 Aug 2025 16:20:47 GMT"
     },
     {
       "title": "Trump is bringing in enough revenue from tariffs to have a serious impact on the $37 trillion national debt, budget watchdog says - Fortune",
@@ -184,14 +176,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Filtered data stops openly-available AI models from performing dangerous tasks, study finds - Tech Xplore",
-      "pubDate": "Tue, 12 Aug 2025 16:07:04 GMT"
-    },
-    {
-      "title": "Asean AI Safety Network targets for adoption by leaders at Asean summit in October - The Edge Malaysia",
-      "pubDate": "Tue, 12 Aug 2025 16:17:00 GMT"
-    },
     {
       "title": "AI Safety, The Human Line Project: LLMs Sycophancy or They Know Too Much? - WorldHealth.net",
       "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT"
@@ -439,6 +423,10 @@
     {
       "title": "Why our values will determine humanity\u2019s future. - Psychology Today",
       "pubDate": "Tue, 19 Aug 2025 15:09:52 GMT"
+    },
+    {
+      "title": "The AI revolution will cut nearly $1 trillion a year out of S&P 500 budgets, Morgan Stanley says\u2014largely from agents and robots doing human jobs - Fortune",
+      "pubDate": "Tue, 19 Aug 2025 16:30:53 GMT"
     }
   ],
   "climate": [
@@ -475,10 +463,6 @@
     {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
-    },
-    {
-      "title": "Ukraine's borders must not be changed by force, EU leaders say - BBC",
-      "pubDate": "Tue, 12 Aug 2025 16:57:04 GMT"
     },
     {
       "title": "Ukraine studied drug cartels to learn how to sneak drones into Russia for its 'Operation Spiderweb' attack - Business Insider",
@@ -620,10 +604,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China cautions tech firms over Nvidia H20 AI chip purchases, sources say - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 16:03:42 GMT"
-    },
     {
       "title": "Rare earths: Australia bid to take on China dominance - BBC",
       "pubDate": "Tue, 12 Aug 2025 22:05:03 GMT"
@@ -1037,6 +1017,10 @@
     {
       "title": "Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise - Reuters",
       "pubDate": "Mon, 18 Aug 2025 22:07:42 GMT"
+    },
+    {
+      "title": "Russian hackers take control of Polish hydropower plant, turbines disrupted - Cybernews",
+      "pubDate": "Tue, 19 Aug 2025 13:42:41 GMT"
     }
   ],
   "recession": [
@@ -1697,6 +1681,10 @@
     {
       "title": "Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel - Gizmodo",
       "pubDate": "Mon, 18 Aug 2025 09:01:05 GMT"
+    },
+    {
+      "title": "\"Blinding Heat Unleashed\": China Fusion Reactor Hits 100 Million Degrees and Sparks Global Shock Over Artificial Sun Energy Breakthrough - Energy Reporters",
+      "pubDate": "Tue, 19 Aug 2025 14:00:30 GMT"
     }
   ],
   "nvidia": [
@@ -1787,6 +1775,10 @@
     {
       "title": "Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution - NPR",
       "pubDate": "Tue, 19 Aug 2025 09:39:04 GMT"
+    },
+    {
+      "title": "UK falling behind EU on environmental rules amid post-Brexit rollback - The Guardian",
+      "pubDate": "Tue, 19 Aug 2025 15:18:00 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -1805,6 +1797,10 @@
     {
       "title": "Scientists make surprising finding that all electric vehicle drivers should hear: 'Has been largely overlooked until now' - Yahoo! Tech",
       "pubDate": "Mon, 18 Aug 2025 11:45:00 GMT"
+    },
+    {
+      "title": "First battery produced at Glendale BlueOval SK plant rolls off assembly line - WAVE News",
+      "pubDate": "Tue, 19 Aug 2025 16:07:00 GMT"
     }
   ],
   "hacking": [
@@ -1932,10 +1928,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Renewable Energy Innovation Seen as Key to Slowing Ocean Warming and Acidification - eponline.com",
-      "pubDate": "Tue, 12 Aug 2025 16:19:49 GMT"
-    },
     {
       "title": "CenterPoint Energy to invest in RNG created from Twin Cities\u2019 metro food and yard waste - Biomass Magazine",
       "pubDate": "Wed, 13 Aug 2025 00:10:28 GMT"
@@ -2231,6 +2223,10 @@
     {
       "title": "Killing of aid workers surges to record high during Gaza war, UN says - Reuters",
       "pubDate": "Tue, 19 Aug 2025 12:56:19 GMT"
+    },
+    {
+      "title": "Senior mediator spells out Gaza ceasefire proposal agreed to by Hamas; Israel is yet to respond - NBC News",
+      "pubDate": "Tue, 19 Aug 2025 14:18:28 GMT"
     }
   ],
   "battery_technology": [
@@ -2328,10 +2324,6 @@
     }
   ],
   "physics": [
-    {
-      "title": "Researchers uncover the physics behind inaccuracies of cuff-based blood pressure readings - News-Medical",
-      "pubDate": "Tue, 12 Aug 2025 16:11:00 GMT"
-    },
     {
       "title": "A Glimpse of New Physics? ATLAS Edges Closer to Unlocking Higgs Boson Secrets - SciTechDaily",
       "pubDate": "Fri, 15 Aug 2025 03:55:56 GMT"
@@ -2929,6 +2921,10 @@
     {
       "title": "Tesla officially launches Model YL with 6 seats, starting at ~$47,000 - Electrek",
       "pubDate": "Tue, 19 Aug 2025 01:33:00 GMT"
+    },
+    {
+      "title": "Public EV fast charging poised for \u2018robust\u2019 growth: WoodMac - Utility Dive",
+      "pubDate": "Tue, 19 Aug 2025 16:20:44 GMT"
     }
   ],
   "india": [
@@ -3439,12 +3435,6 @@
     {
       "title": "Experts raise red flags on overlooked crisis impacting millions of animals around globe: 'They are suffering' - The Cool Down",
       "pubDate": "Sun, 17 Aug 2025 20:30:00 GMT"
-    }
-  ],
-  "internet": [
-    {
-      "title": "Russia Turns Off Mobile Internet in Crimea in Latest Shutdown - Kyiv Post",
-      "pubDate": "Tue, 12 Aug 2025 16:46:18 GMT"
     }
   ],
   "quantum": [
