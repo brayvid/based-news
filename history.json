@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump is bringing in enough revenue from tariffs to have a serious impact on the $37 trillion national debt, budget watchdog says - Fortune",
-      "pubDate": "Tue, 12 Aug 2025 20:20:59 GMT"
-    },
-    {
       "title": "US appeals court lifts injunction on Trump effort to slash foreign aid - Al Jazeera",
       "pubDate": "Wed, 13 Aug 2025 20:34:18 GMT"
     },
@@ -255,10 +251,6 @@
   ],
   "financial_markets": [
     {
-      "title": "US stocks rally to records on hopes for cuts to interest rates - AP News",
-      "pubDate": "Tue, 12 Aug 2025 20:16:00 GMT"
-    },
-    {
       "title": "Trump's tariffs keep coming. Stock markets don't seem to care. - NBC News",
       "pubDate": "Wed, 13 Aug 2025 00:46:00 GMT"
     },
@@ -288,10 +280,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Companies embrace in-person interviews to dodge the chatbots - Axios",
-      "pubDate": "Tue, 12 Aug 2025 20:23:58 GMT"
-    },
     {
       "title": "Nuclear-powered AI could make Rolls Royce UK's biggest firm, says boss - BBC",
       "pubDate": "Tue, 12 Aug 2025 23:01:03 GMT"
@@ -915,10 +903,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "From Panic to Precision: Securonix Gives SecOps Its Power Back - Dark Reading | Security",
-      "pubDate": "Tue, 12 Aug 2025 20:46:56 GMT"
-    },
-    {
       "title": "Global OT cyber risk could top $329 billion, new report warns - Help Net Security",
       "pubDate": "Wed, 13 Aug 2025 04:30:10 GMT"
     },
@@ -1151,13 +1135,13 @@
     {
       "title": "Fed chief under pressure ahead of Jackson Hole meeting - Quartz",
       "pubDate": "Tue, 19 Aug 2025 15:49:41 GMT"
+    },
+    {
+      "title": "White House aims to fast-track key Federal Reserve pick - yahoo.com",
+      "pubDate": "Tue, 19 Aug 2025 20:00:00 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "Major Landslide in Southeast Alaska Fjord - Alaska Earthquake Center",
-      "pubDate": "Tue, 12 Aug 2025 20:33:22 GMT"
-    },
     {
       "title": "7 volcanoes erupt in rare phenomenon after massive Russia earthquake - Nation Thailand",
       "pubDate": "Wed, 13 Aug 2025 05:41:00 GMT"
@@ -1249,6 +1233,10 @@
     {
       "title": "Exascale Simulations Underpin Quake-Resistant Infrastructure Designs | Newswise - Newswise",
       "pubDate": "Mon, 18 Aug 2025 23:20:00 GMT"
+    },
+    {
+      "title": "California\u2019s Next \u2018Big One\u2019 Might Not Follow the Script - Gizmodo",
+      "pubDate": "Tue, 19 Aug 2025 14:20:46 GMT"
     }
   ],
   "elon_musk": [
@@ -1544,10 +1532,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin Nears $123K As Whale Addresses Hit All-Time High - Bitcoin Magazine",
-      "pubDate": "Tue, 12 Aug 2025 20:20:26 GMT"
-    },
     {
       "title": "Bitcoin-based memecoin launchpad Odin.fun exploited for over $7 million - The Block",
       "pubDate": "Wed, 13 Aug 2025 06:37:46 GMT"
@@ -2293,6 +2277,10 @@
     {
       "title": "Oops! Earendel, most distant star ever discovered, may not actually be a star, James Webb Telescope reveals - Live Science",
       "pubDate": "Sun, 17 Aug 2025 16:54:00 GMT"
+    },
+    {
+      "title": "Scientists find tiny new moon around Uranus with the James Webb Space Telescope (photos, video) - Space",
+      "pubDate": "Tue, 19 Aug 2025 16:58:11 GMT"
     }
   ],
   "physics": [
@@ -2328,10 +2316,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Canadian cities are unprepared for climate-driven migration \u2014 here\u2019s what they can do - The Conversation",
-      "pubDate": "Tue, 12 Aug 2025 20:08:47 GMT"
-    },
     {
       "title": "Will Endangerment Finding Repeal Trigger New State Actions on Climate? - Inside Climate News",
       "pubDate": "Tue, 12 Aug 2025 23:29:08 GMT"
@@ -2613,6 +2597,10 @@
     {
       "title": "Ukraine war latest: Major shift as Trump backs peace deal over ceasefire; PM says president should be 'commended' - Sky News",
       "pubDate": "Sat, 16 Aug 2025 17:06:07 GMT"
+    },
+    {
+      "title": "Trump Says Putin 'Tired' Of War, But Possible He Doesn't Want To Make Deal - NDTV",
+      "pubDate": "Tue, 19 Aug 2025 19:03:08 GMT"
     }
   ],
   "blockchain": [
@@ -2981,10 +2969,6 @@
   ],
   "us_treasury": [
     {
-      "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - AP News",
-      "pubDate": "Tue, 12 Aug 2025 20:29:00 GMT"
-    },
-    {
       "title": "US sanctions Mexican drug cartel associates accused of scamming elderly Americans - The Washington Post",
       "pubDate": "Wed, 13 Aug 2025 19:39:16 GMT"
     },
@@ -3159,6 +3143,10 @@
     {
       "title": "Hurricane Erin Brings Rip Currents Closing Jersey Shore and Rehoboth Beaches - The New York Times",
       "pubDate": "Tue, 19 Aug 2025 05:00:26 GMT"
+    },
+    {
+      "title": "Hurricane Erin impacts Florida beach, surf conditions. See beach cams Fort Pierce, Stuart - Treasure Coast News",
+      "pubDate": "Tue, 19 Aug 2025 15:44:24 GMT"
     }
   ],
   "violence": [
@@ -3559,6 +3547,10 @@
     {
       "title": "Intel receives $2B investment from Japan's SoftBank - upi.com",
       "pubDate": "Tue, 19 Aug 2025 05:26:20 GMT"
+    },
+    {
+      "title": "Intel gets $2 billion lifeline in the form of SoftBank equity investment - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 14:40:54 GMT"
     }
   ],
   "tidal_power": [
@@ -3791,6 +3783,12 @@
     {
       "title": "Quantum States Shatter Precision Limits, Boosting Sensors - Quantum Zeitgeist",
       "pubDate": "Tue, 19 Aug 2025 10:35:10 GMT"
+    }
+  ],
+  "english_language": [
+    {
+      "title": "USDOT says driver in Florida Turnpike crash failed English Language Proficiency assessment, other FMCSA findings released - CDLLife",
+      "pubDate": "Tue, 19 Aug 2025 18:42:24 GMT"
     }
   ]
 }
