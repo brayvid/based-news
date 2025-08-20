@@ -1,52 +1,32 @@
 {
-  "Climate Change": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Rapid loss of Antarctic ice may be climate tipping point, scientists say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRFhiUXZ1Y0JEQ1pyVXhlNEMxcVExS29RWk5WY3FHRFVWekc1NjNJejRXa21BS3RVV1BrMGNnQ2dyV3BOREJYa2ZpS2REWW9PZlJMX3NOdnFYMl9VbjdLWkw2TVdsOWhIQklVMnZEb3F2UkxmMVM0QWFQU0czZ213OTJRdTkxUHBQNTdqeE5LaHZaZnZUdWs2REp2SVY3aU1VSlFKNEJ4cl9PcjhQSkxQTGgyUWdpWHZGRHN6M3pROS0?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 15:13:18 GMT"
+        "title": "Israel enters first stages of its assault on Gaza City - MSNBC News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGUyUVJsNkJkSkpYVFdCQ3VSTFg2T1oxTnIyQmZ4WEtCUDBPUzJITzJBQ0lKTEJKRFNOR09kOF95X1o2QkQ0SFpIX1J0c0o4UnFtZEFkblgtT1YtY2dNeXVUVjN2bUphMmdQRGJPWVoxczVmU2N4MFFUN1lDVlVWd05zRjhCN3VMQzRicTdSQjdNbjlneHl4anFfLVFJcFczQTZyUURDZ9IBZEFVX3lxTE9RdlNSb0N4eU8zV01RVFRYU0NrdVM1X1pLS1dkUkZaR1BfWC1xZEdLbXhPakxPRjBkUDRKZ2FUSHVMeFdQQms3V2JkVTJRQlNhUlp0cEE0ZGRIV1pzTmQ3UjhwV3o?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 18:45:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T18:01:39.483707+00:00"
+    "last_updated_ts": "2025-08-20T19:00:59.598412+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Nuclear fusion gets a boost from a controversial debunked experiment - New Scientist",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFQ3TW1mRDROcXV2YVlaYmhya2JVSkREaVZJSW5kc0Ryd01lRWV0U1JlSGdoaWlydjV0ZktQRTlGMGQzTkxNSkZfb25QQkd4aWNQZ0ZzNTNOSWliN1Y1dkN6ODg4ci1SRnJMOUR6TVlqY2t0WUFpSUNMNDA2dDhlak1Tam9uVUZ0M09OcG45c00tamNKVXFwaTJfczdzV1Z2cjhyUTVkaFE5cng3aHJDTWhZOXQ?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 15:00:42 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-20T19:00:59.598412+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "China-U.S. Rivalry Will Split the World into Competing AI Camps - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHI2dW1yRnVNa1o5LWNXUk85elo5WU9xNGxQcjVuSUpEdnZqRVBaWGFYUFFnMGRBQVozeDNJS094RHVpSFNHZUVNTGx2Z19zbENRSExvV0JyZjhaQVFVbVJNM0laRFZsajdkVkZQX3FOajRRWnQydTZpLWpIaWdsS0FadFowM1JDYXFRYmJ0REhBbTlEdmlXbV84N3dMSXVDV1ZmalpHMA?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 16:47:00 GMT"
+        "title": "Microsoft boss troubled by rise in reports of 'AI psychosis' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wa2JuVzgxMTJCeVZGVHhYeS1ObENzOExVSkxyTXNQUmhZdzExcFd2cFpIQ1Q0ZjA1SGRRRVhwRVItZmQ2T2lpbVNmdTBhb3dvZWFjWVF5UFRNZ9IBX0FVX3lxTE5tekxlZmZlZDRTNFBrbjRjcElVV21pZ1dubi1HeEF4WS1fYXVGbUtZeUdISVgwUDY0Tm55aXZPZEpYWGZoNWk5RWJSc1I2akVrODhzc2NzbkVHV2J0eU1B?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 16:36:03 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T18:01:39.483707+00:00"
-  },
-  "Drones": {
-    "articles": [
-      {
-        "title": "US Navy Drones: Pentagon Struggles With Autonomous Fleet to Counter China - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczJvYk9NVkREVnlrMHE4aUFiYU41M3JaZ2RKdWJvVWxDTDdYTU1SamJjeFpnOEFEYlNUeTFUUUU4V1lEa2J5WDBEbzU5NUN1d3QxY0VUdm9ZTmNpczZUSjJUcGY1NHpPd0RMODZCSmd4ajQ3QVhlc28ybVRaZGpFSXk4RE5CMWs1bWN3ekhtT2VUWm5jU1dSM1VCOW5CTzJ1WF8xa0IwV0R4TC00ajBFQjlSZWJ2U2s?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 10:48:17 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-20T18:01:39.483707+00:00"
-  },
-  "Iran": {
-    "articles": [
-      {
-        "title": "At least 79 dead after bus crashes carrying Afghans deported from Iran - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0ZqeGhMNnJzUGFJX190RTRrQ0pnZVN4MWJjamh5bkJOQzhoR1BZZkQta3hTcU5hSXMwRlNZZDMwdVloSnhzNGpjaWgydG1YMG5mVW5wMzdfTjlBVXFuVDFUN21DUnF2b1F3SGQ3cW9tcmFBNDRQMDBwNVRQSEhkVA?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 17:40:09 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-20T18:01:39.483707+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Study Reveals How Machine Learning Improves Quantum Systems - AZoRobotics",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZDlPUjNMZ2MzNUM3Sy1OeDZHYUZGNFRTWjluQ0lxN3NtZEpPTzZXQ2MtQTNGVGsxaXVXai1HSVhkN0VVemRGVXNwZTUwV05Tc2hwRkVQR3NfVmdpeUdF?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 14:59:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-20T18:01:39.483707+00:00"
+    "last_updated_ts": "2025-08-20T19:00:59.598412+00:00"
   }
 }
