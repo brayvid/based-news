@@ -31,10 +31,6 @@
   ],
   "iran": [
     {
-      "title": "European powers tell UN they are ready to reimpose Iran sanctions - France 24",
-      "pubDate": "Wed, 13 Aug 2025 06:37:21 GMT"
-    },
-    {
       "title": "Iran: Israeli Attack on Evin Prison an Apparent War Crime - Human Rights Watch",
       "pubDate": "Thu, 14 Aug 2025 04:00:00 GMT"
     },
@@ -423,6 +419,10 @@
     {
       "title": "US tech stocks hit by concerns over future of AI boom - Financial Times",
       "pubDate": "Tue, 19 Aug 2025 19:56:11 GMT"
+    },
+    {
+      "title": "Meta splits AI division into 4 teams, job cuts loom after Mark Zuckerberg's big hiring spree - India Today",
+      "pubDate": "Wed, 20 Aug 2025 04:12:44 GMT"
     }
   ],
   "climate": [
@@ -589,6 +589,10 @@
     {
       "title": "Trump Returns From Meeting Putin to a Wobbly Economy | Personal Finance - US News Money",
       "pubDate": "Mon, 18 Aug 2025 13:55:00 GMT"
+    },
+    {
+      "title": "US gas-heavy power pipeline set to stoke LNG exporter tensions - Reuters",
+      "pubDate": "Wed, 20 Aug 2025 06:22:02 GMT"
     }
   ],
   "china": [
@@ -795,6 +799,10 @@
     {
       "title": "China to unveil advanced weapons at huge military parade to mark WWII end - Al Jazeera",
       "pubDate": "Wed, 20 Aug 2025 04:13:08 GMT"
+    },
+    {
+      "title": "China Set to Tackle Petrochemicals Overcapacity With Overhaul - Bloomberg",
+      "pubDate": "Wed, 20 Aug 2025 02:37:00 GMT"
     }
   ],
   "us_politics": [
@@ -1017,6 +1025,10 @@
     {
       "title": "New AI-powered cybersecurity training headquarters to create more than 200 jobs in Maryland - CBS News",
       "pubDate": "Wed, 20 Aug 2025 00:55:00 GMT"
+    },
+    {
+      "title": "NIST Proposes New Cybersecurity Guidelines for AI Systems - Campus Technology",
+      "pubDate": "Tue, 19 Aug 2025 23:48:39 GMT"
     }
   ],
   "recession": [
@@ -1047,6 +1059,10 @@
     {
       "title": "Moody\u2019s chief who nailed 2007 housing bust revives recession fears with new warning - TheStreet",
       "pubDate": "Tue, 19 Aug 2025 17:07:00 GMT"
+    },
+    {
+      "title": "Goldman Sachs Warns of Recession Risks as Fed Rate Cuts Loom - AInvest",
+      "pubDate": "Wed, 20 Aug 2025 04:06:02 GMT"
     }
   ],
   "drones": [
@@ -1552,10 +1568,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin-based memecoin launchpad Odin.fun exploited for over $7 million - The Block",
-      "pubDate": "Wed, 13 Aug 2025 06:37:46 GMT"
-    },
     {
       "title": "Record $37T US debt and M2 money growth set stage for $132K Bitcoin - Cointelegraph",
       "pubDate": "Wed, 13 Aug 2025 10:50:38 GMT"
@@ -2219,6 +2231,10 @@
     {
       "title": "IDF says it killed Hamas terrorist who took part in kidnapping of Yarden Bibas - The Times of Israel",
       "pubDate": "Tue, 19 Aug 2025 19:42:37 GMT"
+    },
+    {
+      "title": "Israel said reviewing truce deal okayed by Hamas despite PM\u2019s seeming dismissal of offer - The Times of Israel",
+      "pubDate": "Tue, 19 Aug 2025 22:22:59 GMT"
     }
   ],
   "battery_technology": [
@@ -3281,10 +3297,6 @@
   ],
   "asteroids": [
     {
-      "title": "Scientists reveal chances of unusual ways to die \u2013 from rabies to asteroid strikes - MSN",
-      "pubDate": "Wed, 13 Aug 2025 06:52:30 GMT"
-    },
-    {
       "title": "Small Asteroid Captured Hours Prior To Earth Impact - MSN",
       "pubDate": "Thu, 14 Aug 2025 03:31:40 GMT"
     },
@@ -3829,6 +3841,12 @@
     {
       "title": "House Homeland plans CISA 2015 markup with expiration looming - Federal News Network",
       "pubDate": "Tue, 19 Aug 2025 20:50:52 GMT"
+    }
+  ],
+  "solar_power": [
+    {
+      "title": "Scientists make stunning breakthrough that could make solar panels drastically more efficient: 'Provides critical technical solutions' - The Cool Down",
+      "pubDate": "Wed, 20 Aug 2025 05:45:00 GMT"
     }
   ]
 }
