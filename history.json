@@ -177,10 +177,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Reading the Mind of the Machine: Why GPT-5\u2019s Chain-of-Thought Monitoring Matters for AI Safety - American Enterprise Institute",
-      "pubDate": "Wed, 13 Aug 2025 09:37:30 GMT"
-    },
-    {
       "title": "XAI co-founder Babuschkin departs to launch AI safety investment firm - Reuters",
       "pubDate": "Wed, 13 Aug 2025 22:51:43 GMT"
     },
@@ -255,6 +251,10 @@
     {
       "title": "University of Oxford researchers make AI safety breakthrough - Oxford Mail",
       "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Study finds filtered data stops openly-available AI models from performing dangerous tasks - Technology Org",
+      "pubDate": "Wed, 20 Aug 2025 05:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -295,10 +295,6 @@
     {
       "title": "Layoffs hitting white-collar workers from AI could spark 'jobless recovery': JPMorgan - Business Insider",
       "pubDate": "Wed, 13 Aug 2025 12:43:00 GMT"
-    },
-    {
-      "title": "OpenAI\u2019s Rocky GPT-5 Rollout Shows Struggle to Remain Undisputed AI Leader - WSJ - The Wall Street Journal",
-      "pubDate": "Wed, 13 Aug 2025 09:30:00 GMT"
     },
     {
       "title": "AI cuts monthly financial close time by 7.5 days: MIT/Stanford study - CFO Dive",
@@ -592,10 +588,6 @@
     }
   ],
   "china": [
-    {
-      "title": "The US-China Fight Over Panama\u2019s Canal Has an Unexpected Winner - Bloomberg.com",
-      "pubDate": "Wed, 13 Aug 2025 09:00:30 GMT"
-    },
     {
       "title": "China\u2019s military wants to target US undersea sensor network: Analysis - Defense News",
       "pubDate": "Wed, 13 Aug 2025 21:00:00 GMT"
@@ -1279,10 +1271,6 @@
   ],
   "cancer": [
     {
-      "title": "Using AI Made Doctors Worse at Spotting Cancer Without Assistance - Time Magazine",
-      "pubDate": "Wed, 13 Aug 2025 09:48:21 GMT"
-    },
-    {
       "title": "Cowboys owner Jerry Jones reveals he overcame stage 4 cancer - Dallas News",
       "pubDate": "Wed, 13 Aug 2025 11:00:39 GMT"
     },
@@ -1386,10 +1374,6 @@
     }
   ],
   "health_care": [
-    {
-      "title": "High prices and healthcare costs may turn Latino voters away from Republicans in 2026 - NPR",
-      "pubDate": "Wed, 13 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "Millions of Floridians could lose Affordable Care Act coverage as federal tax credits set to expire - CBS News",
       "pubDate": "Thu, 14 Aug 2025 22:43:56 GMT"
@@ -1537,6 +1521,10 @@
     {
       "title": "Massive Allianz Life data breach impacts 1.1 million people - BleepingComputer",
       "pubDate": "Tue, 19 Aug 2025 07:17:57 GMT"
+    },
+    {
+      "title": "Pharmaceutical firm Inotiv discloses ransomware attack. Qilin group claims responsibility for the hack - Security Affairs",
+      "pubDate": "Wed, 20 Aug 2025 08:10:49 GMT"
     }
   ],
   "bitcoin": [
@@ -1979,6 +1967,10 @@
     {
       "title": "LA adds 1.3M solar panels to grid, pushing clean power past 60% - Spectrum News",
       "pubDate": "Tue, 19 Aug 2025 21:00:00 GMT"
+    },
+    {
+      "title": "State AGs demand DOE fix its flawed grid-reliability report - Canary Media",
+      "pubDate": "Wed, 20 Aug 2025 07:30:00 GMT"
     }
   ],
   "global_health": [
@@ -2012,10 +2004,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Netanyahu allies turn on army chief as Gaza rift deepens - Financial Times",
-      "pubDate": "Wed, 13 Aug 2025 09:02:02 GMT"
-    },
     {
       "title": "At least 25 killed by Israeli gunfire as Netanyahu says he will \u2018allow\u2019 Palestinians to leave - AP News",
       "pubDate": "Wed, 13 Aug 2025 12:33:00 GMT"
@@ -2215,10 +2203,6 @@
   ],
   "battery_technology": [
     {
-      "title": "Researchers announce continent-wide project to revolutionize EV batteries: 'Goes beyond technology advances' - The Cool Down",
-      "pubDate": "Wed, 13 Aug 2025 09:15:00 GMT"
-    },
-    {
       "title": "Solid Power Highlights Earnings Announcement for Revolutionary Battery Technology - StocksToTrade",
       "pubDate": "Thu, 14 Aug 2025 16:04:00 GMT"
     },
@@ -2271,6 +2255,10 @@
     {
       "title": "Ponzi schemer claimed to use AI algorithms sentenced for fraud - Brooklyn Eagle",
       "pubDate": "Tue, 19 Aug 2025 16:54:00 GMT"
+    },
+    {
+      "title": "Minnesota State sues TikTok over addictive algorithms harming users - CNBC TV18",
+      "pubDate": "Wed, 20 Aug 2025 07:07:44 GMT"
     }
   ],
   "astronomy": [
@@ -2507,6 +2495,10 @@
     {
       "title": "Hotter Summers and Overcrowding Threaten Europe's Tourist Economies - Bloomberg",
       "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "To close the climate finance gap, let vulnerable nations use carbon markets - Al Jazeera",
+      "pubDate": "Wed, 20 Aug 2025 08:27:10 GMT"
     }
   ],
   "volcanoes": [
@@ -3311,6 +3303,10 @@
     {
       "title": "Scientists finally tame the impossible 48-atom carbon ring - ScienceDaily",
       "pubDate": "Sun, 17 Aug 2025 13:57:32 GMT"
+    },
+    {
+      "title": "India introduces new rules to tackle chemical contamination sites - Chemistry World",
+      "pubDate": "Wed, 20 Aug 2025 08:07:44 GMT"
     }
   ],
   "research": [
@@ -3447,6 +3443,10 @@
     {
       "title": "AI is changing Kubernetes faster than most teams can keep up - Help Net Security",
       "pubDate": "Thu, 14 Aug 2025 04:00:53 GMT"
+    },
+    {
+      "title": "Microsoft Failed to Disclose Key Details About Use of China-Based Engineers in U.S. Defense Work, Record Shows - ProPublica",
+      "pubDate": "Wed, 20 Aug 2025 09:00:00 GMT"
     }
   ],
   "earth's_magnetic_field": [
