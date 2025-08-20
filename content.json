@@ -1,72 +1,62 @@
 {
-  "Artificial Intelligence": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "US tech stocks slide after Altman warns on AI future and MIT study casts doubt on the hype - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDllaXZhYzNzcHBldTNwOFJheFhtdURHQjh3SDVrbEFSUGNleU1mRUV3TzNMZlVSVDcwQjdfb1cxQ0YtcU5EaVRBUTlpa2xTYm1qdTR6VEwxNzZQWllYTjFTUGtJMVE1cFNNTnRLdTlLcmNRbVBTbHBJa3hMN2hBVzFFdi1PUQ?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 13:20:00 GMT"
+        "title": "ActiveFence Releases AI Security Benchmark: Industry-Leading Precision and F1 in Detecting Prompt Injections - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYUY4UkVVVHJxYmxwVTJ2MU5KUzcwMTc0WXc5VHR6VVMzbnoxeFRSUVRtaF9YMzIzaTQwQWI3OW1RRFBRQm1hMkk2ZjlTeUV6eTd3NmprcncwQU5IZmtWNEdEV2hxUmdoZkZEakxBSzgyZTBTQ2ZuMkpQNHB4ankzRTVyMTBWemF4MXpSM0tldEw4dnVNVFN5NFhVdXY4SGVTMDM1cnlnSEJzMU1YNTdQVVZQemEwQndiVlNmdkZLZGJJSUhGQ2VoSlJ0QXdIWlRiRVF5c3ZhaUFWMmVyUmxlcDVvR1I4cC1KQkdlWlZYYnkyb083ZUJ0UWQ5RVk?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 14:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
   },
-  "Gaza": {
+  "Algorithmic Trading": {
     "articles": [
       {
-        "title": "Aid groups say shelter materials are still not entering Gaza - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDh1QXhpWUlpMHVaWVVDdlpHYktkQUV2bm1lR0JhQk5CM1MwMWMwVjFkb3dfWWlTUUpPbWx6V1BhOWVVTWxRZWx3bzNJN0VVZHFUTWFHMlZNREFYOVFjSkZKOE1iMGVNQmJGaHVhanV3OWx5aGNoNGhnb3BDSE1qR1pmenNRR1NrX0J6Qno0LXI1NlJ0MEs5dE9uNXNMUmNHZGdRQmNDcjFzVmNMSERSQ05wbzg?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 13:22:54 GMT"
+        "title": "India markets regulator proposes to add algo trading into stock broker regulations - MSN",
+        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQdjdmRTRyWE11Ym85ZnhqcW85ZnRQaVJKZzZLSEZTaEhrNjM2S2pPX19yTHZMWkU5V1hrYVladEhjMTZOd0FreUNxd3V3MnAwY2lmZVVtbVVaRmxRVVFtdFNLM1kxZ2ZZd19yNEtvalgxa2hLODg5WEVMMlNmQmVoOFJHWmd1dDlReGlpVlliXy10MHFRcGdhdEhOd1dGVHlMaERHVzBHdEhRblhxOHZTYWNBMnZfYjZHdmFDLUhwYTVLMGpxLU1TRHRVTnkyYWV0dE9OSzVOSGdPNE1reEExQUk1SHN0eUhWOThGY3MyNkVoNzRnZ0tldHVJZldtR1hRbWVCbF91OGhVYzcyLVRUcFdMVEdnVDc0TEFYZnVMNkNLc3ZnbXB0ZlE4clRybWlGWlBuNHJuVTlQUU1GT01aZ2pjT3J0NzdqMExYUzJQbE9NdDZtelJLZ0ZGUDBJZ3E1YmhqWmtmNG9DLXFwMG9NWS12SG1nXzJOcHpwWlhTLTdsMVVEMUpQNVhpcw?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 06:48:02 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China turns up oil tap from Russia as purchases of US crude remain suspended - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjRNUUtzTC1iVDcyNmhmRThvaHgxM2RuLTF6OFZlaDV6WkpxYnd2dnlodnJBdGIybnlNMEpQVHA2eG1raE1TVm1TTUFZdG1sRW01Ukc4S1llWURBdW5IcWJmOXF2bW94RGNLN21nTHJuaWhPZlV1QzhIUFQzQ2hpTm1BZVZsSkpfZUxuUkpsbThPU20ybjlOMk1NbDREOHAtY0wwNzZOeGlmM0czeUZOQmRNQ2lNYmdBTjdEejhCYW1oT0RMQ0HSAcYBQVVfeXFMTWNLZGROWjZzazZfNnBOMHd1cm5VN0VFZGVvLTl5bGhRaDZuLTBhSWFMSU5Xd1F5YVNiQW4xeEVQOE1hc0tpQVJtTEEycGd6N3pWM3lXQ2FxUkZRdjBSNFRnSVIyRF9vclhMSHdIUDYzYkJMVzM1RTBuVmFkVVpHbUR2aHRjalNRS0NybW9uMkRTRFZrc0lYdkk2Z3ZHVzBlQkpJb2FsN2dBdVlQMTBJWWJSSEp0RUNuM0JPUmx4MVZBcHd2b0VB?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 13:00:18 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "No evening cooldown: Climate change is making even nights hotter in summer - The Desert Sun",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR2dEV2kya3J3VnRqMTJvOEk5MVY2MW1Id3JFeW5HS01IRFprLV9QVlp5bkJ4UDNsVFdVVGpyZHdsSGZtV2xjUHF2Um12MGZRXy1YWHI4bnp1eGdkNHR0Z2d6UkNsb0ZrQTJxZ2VBMjNwRVJJSUhvTVpKczFjRDMtWjVPU3lTM0JyZExzTk9xUllzVkVtYVhYQV83eEsyRHdaeUdKWUhZZm55VXp1aGZxVDREVEs1WGVlVlZya2ZZZ01RYVVtRzZTRWJB?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 13:01:51 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
   },
   "Alternative Energy": {
     "articles": [
       {
-        "title": "Federal solar funding canceled as Kentuckians feel burden of summer energy costs - WUKY",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkxqQUtlb0s3bklmZGJCdFNPazl3MzIxNzVwR0JCMi1yeXVsUmVrVmFudDVvSlc1Mi1qc2V1ei0zVWRUbVBCZzNkZ09tWU9pN2FLdkktVnhTSXlzR29HY2pySGVOLWI3eDRfSXlybmJRTE1pSVc3R0xxZU5qZV9hZzNTMVF4YTUtSW9qYy1iWURGRHlPTTFhWnN0Mm9WMGxyaE44c2VnV1JIN1pzUGlKenFJT0xNRUgtUS1kdnhLWQ?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 10:32:00 GMT"
+        "title": "How hydrogen-powered drilling can reshape clean geotechnical construction - Innovation News Network",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlZidHo3VV9Fc3Bxc1VqczZzZEU0UmRaMXY1ZGJPc1daMkc5QWpsT1Rjc28xU3duLXNSUEJnWXp1bF8zRjV5MjFDY1NwSTYxR2xZb0VUbGl6T2tFOEZQSk5udHZKYU0tdDlSNXNaY2cyYk5hUGwyd3VGOUZkUTd5VGR6d3VBcENONjVUZFNSV1VHbUpaZFROd2NDcGtYa0RkR2JicjlCeVhXbHNyb1JhZXktWjVtTmQzTFE?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 08:51:58 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
   },
-  "Electric Vehicle": {
+  "Amazon": {
     "articles": [
       {
-        "title": "Constrained at Home, China\u2019s EV Champs Are Now Going Global - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUIwby1HS0g1cE13MVdtRmJ0dlBDMDRLZ3l6WHM2aG00Y0ZmZzFHQ280TEZaeFJpVS1QRlpRZlk4REMtVDVMRWZlaHhfS0pHTjdNZlgxaFFsRjk1SkRvcXJ6bVdtUE8zVlBfQUFzbFBiWUE1elI4NFJ0NVFOYXp2aTJPaWVrQktPTkpYN1Y1MnBWLUVTTHpfMFlyVmU4R0pFeFU0VDJYMXJ2OGpLYnp2ZEFn?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 11:00:31 GMT"
+        "title": "Amazon Joins AMD to Back South Korean AI Startup Upstage - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDFmeUZrZnJUMktEZ3FBdEg4YllhSmVKNjlteUJORmdLQXhjYWN2THBEd2k2N1ZiLWhWdVNhQ3A5Wm96UHRSQTVWa0JKdlFQc0pvRFFYTWRxdE51S0NzTm5yQnI1QjhoTkN2SU9FRmZncThfX3Y5VTE1MEl5aG5LZmQxY2hoTDBqejhzNHRxRFc5MWN5STU4cHJVTXFaZFlIM3lhcGtDd0Qyb2M?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 11:45:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
   },
-  "Cybersecurity": {
+  "Apple": {
     "articles": [
       {
-        "title": "Myanmar's cybersecurity law comes into force, putting businesses on alert - Nikkei Asia",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkNGWUZndDhHNzRzekVwanpNa1BsOEwwbE96eGRnMXNvcGozcGUzRUlzQUt2WnZZSDZXenlDeGNZdG9XNzBvck1HMnRVbG1OUnV2T3Q1OGRpNzhBc0p6TnMzRnhGY0tHYTVvUDhVcGpWXzZWeDNSVTVyYzdwYXFRekNqRFZQSWdDbURiZ3oyanpNcF9zVzh5SVcxMW9KUTVMNmFIWTE1czBObzQyY3VUMDMxVDZ0eWpLQ0FHdGNR?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 04:25:00 GMT"
+        "title": "Apple Is Making All Four iPhone 17 Models in India in a 'Watershed' Pivot From China, Report Says - CNET",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3BvcFZ3TDFCeG9wc1IxU2l6Umh3WkdLR2czWXVqS2JpenFhbmFWWUhGeENFc3VxbjZUSVN2SWVYNjJ0UXd0T0hrU0RjSy0yN1ZXSUIzX0pfd1BtbnZDVEl4MkNQblJxb25YVEctSWE5SUsyQzBjOGJWS2hBSTFzOGVPbWx2WUhfWms3cGMxMDNxdDVULU00aFg1OWtRVUM5VlNTRDNvclBGeHpQWFNwbVZUV1JoV3drVGtycGlB?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 12:25:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-20T14:00:48.172441+00:00"
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Colorado\u2019s AI regulations split lawmakers as they pitch reforms for special session: \u2018It\u2019s a mess\u2019 - The Denver Post",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUdWM2FuRnlFU1RPRWZSOUQyOGdzbU04eFBiZ21PUmdzNlEtV1I4dVJ6c3JsSHNhLWVZQmtjRzRSOXE1c3ZySzVZOVQwRVBoaHRLYjJoUk5oRFk5dE1VaTRRa0VRT0Q5QXpNSS03TmIwLXJyLUhFNktUUkhNLTJYRGExVlDSAYoBQVVfeXFMT01neUhWQUhJQW1hNVlFVTFVTy13YWZRZWRvbks2R1JzejZSR3g0a2Mzb2NHTzNDeFg3VEN6QmcwalpBYi13dWxoUXU5U1Q2STRlWUgtWTV3MHZaeThfZVJWVDRpRVRHU2NSS3hPbXBtT3BYd1NEVlBCa3h6SVJ0T2pENjNlUGZSRWNR?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 12:00:38 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-20T15:00:59.593598+00:00"
   }
 }
