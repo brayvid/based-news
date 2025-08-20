@@ -185,14 +185,6 @@
   ],
   "ai_safety": [
     {
-      "title": "XAI co-founder Babuschkin departs to launch AI safety investment firm - Reuters",
-      "pubDate": "Wed, 13 Aug 2025 22:51:43 GMT"
-    },
-    {
-      "title": "Anthropic Acqui-Hires Humanloop Team to Advance AI Safety Amid Talent Race - WebProNews",
-      "pubDate": "Wed, 13 Aug 2025 22:16:10 GMT"
-    },
-    {
       "title": "2025 AI Tests Reveal Self-Preservation Tactics Amid Autonomy Fears - WebProNews",
       "pubDate": "Thu, 14 Aug 2025 03:35:00 GMT"
     },
@@ -465,6 +457,10 @@
     {
       "title": "Businesses urge California to extend climate program immediately - E&E News by POLITICO",
       "pubDate": "Wed, 20 Aug 2025 10:16:00 GMT"
+    },
+    {
+      "title": "Americans Speak Out as the Trump Administration Abandons Its Climate Responsibility - Earthjustice",
+      "pubDate": "Wed, 20 Aug 2025 20:13:04 GMT"
     }
   ],
   "ukraine": [
@@ -1255,10 +1251,6 @@
   ],
   "cancer": [
     {
-      "title": "Pilot raising money for cancer research stuck in Antarctica - NBC News",
-      "pubDate": "Wed, 13 Aug 2025 22:55:41 GMT"
-    },
-    {
       "title": "Off-the-shelf vaccine shows success against deadly cancers - Axios",
       "pubDate": "Thu, 14 Aug 2025 09:31:51 GMT"
     },
@@ -1747,10 +1739,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Scientists Discover Mysterious \u201cQuantum Echo\u201d in Superconductors - SciTechDaily",
-      "pubDate": "Wed, 13 Aug 2025 23:01:08 GMT"
-    },
-    {
       "title": "Quantum Computing Reports Q2 2025 Earnings: Deep Losses Amid Mixed Market Reactions - AInvest",
       "pubDate": "Sun, 17 Aug 2025 14:23:32 GMT"
     },
@@ -2155,6 +2143,10 @@
     {
       "title": "Israel enters first stages of its assault on Gaza City - MSNBC News",
       "pubDate": "Wed, 20 Aug 2025 18:45:32 GMT"
+    },
+    {
+      "title": "State Dept. fires official after internal debates over Israel-Gaza - The Washington Post",
+      "pubDate": "Wed, 20 Aug 2025 22:20:46 GMT"
     }
   ],
   "battery_technology": [
@@ -2589,10 +2581,6 @@
   ],
   "pollution": [
     {
-      "title": "Talks stall on world\u2019s first plastic pollution treaty one day before deadline - The Guardian",
-      "pubDate": "Wed, 13 Aug 2025 22:11:00 GMT"
-    },
-    {
       "title": "Countries race for late breakthrough in deadlocked plastic pollution talks - Reuters",
       "pubDate": "Thu, 14 Aug 2025 09:42:20 GMT"
     },
@@ -2871,6 +2859,10 @@
     {
       "title": "India plans to ban online games played with money, citing addiction risks - Reuters",
       "pubDate": "Tue, 19 Aug 2025 23:29:52 GMT"
+    },
+    {
+      "title": "India \u2018successfully tests\u2019 nuclear-capable missile able to reach deep into China - The Guardian",
+      "pubDate": "Wed, 20 Aug 2025 20:26:00 GMT"
     }
   ],
   "public_health": [
@@ -2985,6 +2977,10 @@
     {
       "title": "Global Energy Transition Needs US$1.2 Trillion Battery Storage Investment by 2034 to Support 5,900 GW of Renewable Energy Projects, Says Wood Mackenzie - SolarQuarter",
       "pubDate": "Mon, 18 Aug 2025 09:59:02 GMT"
+    },
+    {
+      "title": "Global Study Warns of Growing Engineering Talent Gap in Energy Transition - T&D World",
+      "pubDate": "Wed, 20 Aug 2025 21:07:18 GMT"
     }
   ],
   "american_civil_liberties_union": [
@@ -3073,6 +3069,10 @@
     {
       "title": "Hurricane Erin impacts Florida beach, surf conditions. See beach cams Fort Pierce, Stuart - Treasure Coast News",
       "pubDate": "Tue, 19 Aug 2025 15:44:24 GMT"
+    },
+    {
+      "title": "Hurricane Erin skirts past the US East Coast without landfall. It's still threatening lives and property. - WUSA9",
+      "pubDate": "Wed, 20 Aug 2025 14:44:00 GMT"
     }
   ],
   "violence": [
@@ -3358,10 +3358,6 @@
     }
   ],
   "republican_party": [
-    {
-      "title": "Trump Claims He\u2019s The Highest Polling Republican President In History\u2014Here\u2019s Where He Actually Stands - Forbes",
-      "pubDate": "Wed, 13 Aug 2025 22:38:59 GMT"
-    },
     {
       "title": "Republican Party of Texas wants to expand redistricting to Texas House - WFAA",
       "pubDate": "Fri, 15 Aug 2025 21:08:00 GMT"
@@ -3731,6 +3727,18 @@
     {
       "title": "Intel Integrates XeVM MLIR Dialect into Upstream LLVM for Xe GPUs - WebProNews",
       "pubDate": "Wed, 20 Aug 2025 18:14:50 GMT"
+    }
+  ],
+  "intelligence_agencies": [
+    {
+      "title": "ODNI to slash costs by 40% as part of big intelligence agency overhaul - USA Today",
+      "pubDate": "Wed, 20 Aug 2025 22:02:13 GMT"
+    }
+  ],
+  "natural_history": [
+    {
+      "title": "Trump administration\u2019s anti-woke campaign targets seven flagship museums - The Guardian",
+      "pubDate": "Wed, 20 Aug 2025 21:31:00 GMT"
     }
   ]
 }
