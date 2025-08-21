@@ -147,10 +147,6 @@
   ],
   "russia": [
     {
-      "title": "Russia restricts calls on WhatsApp, Telegram as internet control tightens - Al Jazeera",
-      "pubDate": "Thu, 14 Aug 2025 04:09:28 GMT"
-    },
-    {
       "title": "Oil climbs on Russia supply risks, ahead of summit - Reuters",
       "pubDate": "Thu, 14 Aug 2025 07:01:39 GMT"
     },
@@ -297,10 +293,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Elon Musk says Google has the best shot at being the leader in AI - Business Insider",
-      "pubDate": "Thu, 14 Aug 2025 04:05:00 GMT"
-    },
-    {
       "title": "Meta\u2019s AI rules have let bots hold \u2018sensual\u2019 chats with children - Reuters",
       "pubDate": "Thu, 14 Aug 2025 06:00:00 GMT"
     },
@@ -435,6 +427,10 @@
     {
       "title": "Google's Pixel 10 phones raises the ante on artificial intelligence - ABC News",
       "pubDate": "Wed, 20 Aug 2025 16:18:52 GMT"
+    },
+    {
+      "title": "OpenAI could sell infrastructure services to boost sales: CFO (MSFT:NASDAQ) - Seeking Alpha",
+      "pubDate": "Wed, 20 Aug 2025 18:21:12 GMT"
     }
   ],
   "climate": [
@@ -571,10 +567,6 @@
   ],
   "us_economy": [
     {
-      "title": "Trump revokes Biden-era order on promoting US economic competition - The Indian Express",
-      "pubDate": "Thu, 14 Aug 2025 04:35:15 GMT"
-    },
-    {
       "title": "US wholesale prices jump 3.3% as Trump tariffs hit economy - Financial Times",
       "pubDate": "Thu, 14 Aug 2025 12:50:07 GMT"
     },
@@ -600,10 +592,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China, India in talks to resume border trade after five-year gap, Bloomberg News says - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 04:25:00 GMT"
-    },
     {
       "title": "China targets 2 Lithuanian banks in response to new EU sanctions - AP News",
       "pubDate": "Thu, 14 Aug 2025 09:08:00 GMT"
@@ -923,6 +911,10 @@
     {
       "title": "China Escalates Canada Trade Spat With WTO Suit Over Steel - Bloomberg.com",
       "pubDate": "Fri, 15 Aug 2025 10:26:30 GMT"
+    },
+    {
+      "title": "China scrutiny of Nvidia chips sparked by \u2019insulting\u2019 remarks from US official- FT - Investing.com",
+      "pubDate": "Thu, 21 Aug 2025 01:06:24 GMT"
     }
   ],
   "cybersecurity": [
@@ -2253,10 +2245,6 @@
   ],
   "climate_change": [
     {
-      "title": "Trump admin gives voices to scholars once silenced on climate change, COVID - The College Fix",
-      "pubDate": "Thu, 14 Aug 2025 04:04:31 GMT"
-    },
-    {
       "title": "Climate Change in the Indian Mind, Spring 2025 - Yale Program on Climate Change Communication",
       "pubDate": "Thu, 14 Aug 2025 06:04:17 GMT"
     },
@@ -2407,6 +2395,10 @@
     {
       "title": "America\u2019s fragile drug supply chain is extremely vulnerable to climate change - Ars Technica",
       "pubDate": "Wed, 20 Aug 2025 21:32:35 GMT"
+    },
+    {
+      "title": "California Provides a Welcoming Environment for the Evolution of International Climate Disclosures - The CPA Journal",
+      "pubDate": "Wed, 20 Aug 2025 19:07:30 GMT"
     }
   ],
   "volcanoes": [
@@ -2755,6 +2747,10 @@
     {
       "title": "Modi Hails \u2018Friend\u2019 Putin and Boosts China Ties in Tilt From US - Bloomberg.com",
       "pubDate": "Tue, 19 Aug 2025 06:14:00 GMT"
+    },
+    {
+      "title": "Analysis | Putin had a good hand in Alaska, but the D.C. summit shows he overplayed it - The Washington Post",
+      "pubDate": "Wed, 20 Aug 2025 19:56:30 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2869,6 +2865,10 @@
     {
       "title": "US health department staff urge Kennedy to protect workers after CDC attack - Reuters",
       "pubDate": "Wed, 20 Aug 2025 20:24:44 GMT"
+    },
+    {
+      "title": "Hundreds of federal health workers say RFK Jr has put Americans in danger - BBC",
+      "pubDate": "Wed, 20 Aug 2025 21:43:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -3314,10 +3314,6 @@
     }
   ],
   "cloud_computing": [
-    {
-      "title": "AI is changing Kubernetes faster than most teams can keep up - Help Net Security",
-      "pubDate": "Thu, 14 Aug 2025 04:00:53 GMT"
-    },
     {
       "title": "Microsoft Failed to Disclose Key Details About Use of China-Based Engineers in U.S. Defense Work, Record Shows - ProPublica",
       "pubDate": "Wed, 20 Aug 2025 09:00:00 GMT"
