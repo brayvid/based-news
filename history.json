@@ -419,10 +419,6 @@
   ],
   "climate": [
     {
-      "title": "Why our broken food system remains a climate disaster: \u2018broiling the planet to stuff our faces\u2019 - The Guardian",
-      "pubDate": "Thu, 14 Aug 2025 10:02:00 GMT"
-    },
-    {
       "title": "State of Climate: Earth Hottest on Record again, as CO2 still Climbs and Glaciers Wilt - Informed Comment",
       "pubDate": "Sun, 17 Aug 2025 04:15:37 GMT"
     },
@@ -444,10 +440,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia pounds Ukraine, boosts army as world braces for Putin-Trump talks - Al Jazeera",
-      "pubDate": "Thu, 14 Aug 2025 10:45:34 GMT"
-    },
     {
       "title": "Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues - ABC News",
       "pubDate": "Thu, 14 Aug 2025 12:25:34 GMT"
@@ -779,6 +771,10 @@
     {
       "title": "Xi Jinping makes rare visit to Tibet as 60 years of Chinese rule celebrated - Al Jazeera",
       "pubDate": "Thu, 21 Aug 2025 05:49:15 GMT"
+    },
+    {
+      "title": "China\u2019s North Korea Problem - Foreign Affairs",
+      "pubDate": "Thu, 21 Aug 2025 04:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -910,14 +906,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived - WIRED",
-      "pubDate": "Thu, 14 Aug 2025 10:20:00 GMT"
-    },
-    {
-      "title": "Regulator rebukes N.S. Power's request for secrecy in cybersecurity inquiry - CBC",
-      "pubDate": "Thu, 14 Aug 2025 10:57:37 GMT"
-    },
     {
       "title": "Trump administration cyber cuts eroding private sector\u2019s trust, confidence - Cybersecurity Dive",
       "pubDate": "Thu, 14 Aug 2025 15:57:28 GMT"
@@ -1147,10 +1135,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Hidden fault beneath Canada could trigger massive earthquake after 12,000 years of silence - Space",
-      "pubDate": "Thu, 14 Aug 2025 10:00:00 GMT"
-    },
-    {
       "title": "New CalTech sheds light on behavior of Sagaing Fault, which shares similarities to San Andreas Fault - ABC7 Los Angeles",
       "pubDate": "Fri, 15 Aug 2025 01:18:45 GMT"
     },
@@ -1305,6 +1289,10 @@
     {
       "title": "New prostate cancer exam could lead to targeted screening - The Independent",
       "pubDate": "Thu, 21 Aug 2025 08:48:00 GMT"
+    },
+    {
+      "title": "FDA \u2018uncertainty\u2019 forces Krystal Biotech to shutter cancer drug trial - statnews.com",
+      "pubDate": "Thu, 21 Aug 2025 10:31:12 GMT"
     }
   ],
   "space_exploration": [
@@ -1377,6 +1365,10 @@
     {
       "title": "Trump policy prompts NV Energy to seek escape hatch for would-be clean energy transmitters - Nevada Current",
       "pubDate": "Wed, 20 Aug 2025 20:15:19 GMT"
+    },
+    {
+      "title": "Poland\u2019s President Uses Veto to Block Key Green Energy Bill - Bloomberg.com",
+      "pubDate": "Thu, 21 Aug 2025 10:38:33 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2553,6 +2545,10 @@
     {
       "title": "Hawaii auto dealers brace for steep tariffs' impacts on sales - KITV",
       "pubDate": "Mon, 18 Aug 2025 04:40:06 GMT"
+    },
+    {
+      "title": "Euro zone business activity accelerates in August as new orders grow, PMI shows - Reuters",
+      "pubDate": "Thu, 21 Aug 2025 09:30:54 GMT"
     }
   ],
   "pollution": [
@@ -2699,6 +2695,10 @@
     {
       "title": "FAA proposal could limit beach access for Starship launches - WESH",
       "pubDate": "Wed, 20 Aug 2025 20:45:00 GMT"
+    },
+    {
+      "title": "SpaceX's Starship faces 10th test after previous flights end in explosions - ABC News",
+      "pubDate": "Thu, 21 Aug 2025 09:11:15 GMT"
     }
   ],
   "geopolitics": [
@@ -3233,6 +3233,10 @@
     {
       "title": "Ex-chief of Israeli military intelligence in leaked video: \"Necessarily 50.000 dead in Gaza, it doesn't matter if they are children\" - KoSSev",
       "pubDate": "Mon, 18 Aug 2025 12:02:55 GMT"
+    },
+    {
+      "title": "Ukraine destroys Russian patrol boat in Black Sea using drone-guided laser, intelligence says - The Kyiv Independent",
+      "pubDate": "Thu, 21 Aug 2025 06:30:22 GMT"
     }
   ],
   "google": [
