@@ -1,52 +1,72 @@
 {
-  "Climate Change": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbU1WN1RlOTd4WVBoajY4UEZ3WXlkc25mVEl5d1lmSFY2SG1XX0V4LUJvSW5IaGJyYk5zUDRsQTFZQzZQS3VoRUUzZ3N2U2RRQXZsWWx3TkhvYnlSMy1Ec0o3NW1DNjdDQ0Vzb052SEN4SjdYR19DNHJERnkyN1QtbmRIajRVaVFZYXlUdkhjQWFLRlAya19xVEVXWkQ3VzQ1NXJpZWV1UQ?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
+        "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yT2NuTVYwaHV1b2E3SF9xdnptNGlpN0JnLXhTMC0wNk1vNllOTHJ3TnR6TmNLUGxhM19ISy1ybnFMWklTRHM2cF80emJjcVM0QzAyT0FndTNkb2JIbDdSX3lnV3Z0MzdCdDl1VEdfWQ?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T00:00:50.777946+00:00"
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
   },
-  "Gaza": {
+  "Algorithms": {
     "articles": [
       {
-        "title": "As Israel begins offensive on Gaza City, an exhausted military may face a manpower problem - CNN",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWdjUnc3MDVLQk9vT05rTWJvVlJPT09ybHFwcXl4MWdPUlVjM05xZ1dqcVJ4N1pTZ2h1MUY4U1dyMGhWVEdPQTl2MjVoWHBnenNnUG9vbkd1ZkVIRGtwTUNLVTR5YWlFOFREZTdEdTdKLXFkbllnQTAtRlNOX2Vmamh5S2ZKRXhYVUlIV2FCZENSd9IBlwFBVV95cUxQRDRYWW9DNXZ1NFRxa3BCcGp0ZWxacTJrbWFjSC0weWkwQmZBWjBNampGUDJpNGxZamdjRnJHTDlENUREcFM0YWRDbUQ5WUxfRUhPeWk1cnVhR3lkUmd4WlN0NWtwNGNON01oQUNCZEZzNWhXUEtvcmVPNmIxWHhzQVlXWHExWllWREd5N3ZEeXdBemE1Yng0?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 21:36:00 GMT"
+        "title": "Securing private data at scale with differentially private partition selection - Google Research",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlBDTHFoQmtqQmczdWxSNEhOVDR2RXBkb3dzMnVJNzh1bHN1cEpuZnBxYXVUVXAybHB3NmZZQmZYa2Vnc3RLWkdGX3RWSjhuUFZpUTRBeC1xTXkxbUM0Z1dSTGEwRl81RDA3RW1TQ0k4b1hWekVuU1B4YjBzWHhMVmhLT21jbXNKSVZTamZtOTVGRXo3bWY5dVJFNFljS29JZUw1S2J3ZlhZdElp?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 19:27:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T00:00:50.777946+00:00"
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
   },
-  "Cybersecurity": {
+  "Renewable Energy": {
     "articles": [
       {
-        "title": "FBI warns of Russian hacks targeting US critical infrastructure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenhYdU9yamV5Zk1hSVdnblFXUTY2bTlEd0xzbHkyOVZkM0xUeVctRURUWFFsYmlXZVh6eG1DQ3hVUHo2NHdDQTZWc2ZmeW9PXzFwaDJXcnBmOGtTNGZydkNOc2E1R0FKekZDTjktbjRpdTlvNWl1dXFmZFhmQXRYWTBCdlFvc2JERDFnQTV2U2syQ3BsLVJrbHFyd0dKQWh4Z2xFUV9LSWg?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 21:25:54 GMT"
+        "title": "Trump says U.S. will not approve solar or wind power projects - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUlnOUU4cjJULXpvVTFkQ0hPLUd5YVgtZjA0WVNYZjhpLUlSMm55QXhMZVRMcW9faEo0bUM2TUFXLWZlWVhCRFlZOTZQN3A5ckpsVTRCUlVGTkJWT3d2clFHOTVTVGt2bklGTklsX25OUUNTUG12X0tCemdMSHdTdEJLWGJwRnpXQlUtOS1CR21ZeC1xN2RCSTZXRGzSAaIBQVVfeXFMUHhyNkpjcG1mS0R5RzNOZ3pDaXNsd0hqY3N3S3dIem1BRXJqYjN5UjFxZVdrSlh2a0tSbWpKaENqMXJrSWxHTlZvQUJXTUtlUmhDLTdac05sMFRRSVk5bnd0MVBkRFhkZ1R3UWZiOGpTQ1VtYVZrelBWSFJSNGc1Q2U2SVNubV9WQ05hT0l3cTQzNjNBbzhUc19mU1hieVA1SjB3?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 20:11:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T00:00:50.777946+00:00"
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
   },
-  "Artificial Intelligence": {
+  "Polling": {
     "articles": [
       {
-        "title": "Google's Pixel 10 phones raises the ante on artificial intelligence - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEdmelV5ZGltNndockJraTE3dEc5Y0tpaWhsSFREUVAxNGZLWXJHeS1IV0J3UVg1NGxiVmhhdnpuWHVfX3dzV3pIdXdiWUJSWjFoV0FJREVZNTV5M2V2NkJ2TXlWUks1N1F2LUFwVHFXcGEyM0dQaTdqQ2NuM2QyYl9FYk1ZcXZBOFdMWndkVG52WDVNUlVxSGwwZEtEWEZOVjVnM0VyZEtzM19XdVdlVDZuMNIBuAFBVV95cUxOdGlNQVNONEs5UkhPZ3VaUV9USTVwa0xNRy1mWEFwdnRvVUdteENSdVlVeHFKN2VXSkRfTXM4R2M1ZEtUVUtOM0pOUkFjQkF1T0d3bmdsLVl3eFVYLUE0c3lVdUFJOWxNVDBJV3I5ZTZ3aV9hYzRIUW16MEpRcXZDcUljQTRTQWxEREhHZHJZX0I5aS1XMHdxMHcwcXZILUNJaGxQZERmck8yMDB4ZUE0YmtLUWg3STFQ?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 16:18:52 GMT"
+        "title": "We asked 604 D.C. residents about Trump\u2019s takeover. Here\u2019s what they said. - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazVqcVhDcW8xWmF4eURMYUtEZUlJelY5c05WcU50cDBtSkxvRDh5U2M5TGRZNmlVZ1lacXNEbnZxUV9mb0JVcW5rWjU2SEM4bXpEdS1NOE1yZnRnUWU5YzNhTS1GcVRWcFcyZWJLanctbzd6VTNGVXNkSkRnZUJTeUQ5QWs?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 17:00:44 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T00:00:50.777946+00:00"
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
   },
-  "US Politics": {
+  "National Security": {
     "articles": [
       {
-        "title": "Trump administration live updates: Texas Republicans pass GOP redistricting maps - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFlLUkdhWkZRVklLc1poZEJEak1JVUk0b1hlUExRUV9HTWNHRXpSazR3SHVxalpNTWZLNjgyMEE4dVdGc0twcWFPbGFySzBrSW04dFVvOUFfZTlkSE5BNDJQdFkzazUxTE0wNTZJZ0VrMTBwNHVUVW5TZVNIUC0tdHEzY1RfYTZueGNOcmhranNsNmtiTXdiOWNoTk5tTnlYTzNod1JIZ3JEdzdfai1UN1B2amdxZ3l0SThuX0dWdjJiNGZyVkYwN1VIYlhxa003Y3AtMUswRnA2LTjSAWNBVV95cUxPSjRjZUpmTTQ2Y1JNcmswTEFwMkY3MmNyY0NvNjd1UW9kQk5CRVdjV1FlUTRZWUdybnpRTVBrMTkwdEt6TF9tX2xpTUlVNmNvMTVOb2JVY3kwTndCSHRaZm5EX3c?oc=5",
-        "pubDate": "Wed, 20 Aug 2025 23:23:53 GMT"
+        "title": "N.S.A.\u2019s Acting Director Tried to Save Top Scientist From Purge - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUJ5TWJHTlpWR2ZUWXg1eDRkcUxRRk13bkhvaE9xWE9zZXh2Rkx1RHJRVC1GSW5UMzRtaGxjS3hhVTJlVVdoQVlvZTNVRExXWVhScHVwd3FIYURheXlXT2daMWprNlhUbkQ5VjJ2bEFPdm5SZUZ2ejZWVkk1VU0xRTZUdDdOVUJOcTJIVGNKUDY?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 14:11:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T00:00:50.777946+00:00"
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
+  },
+  "United Nations": {
+    "articles": [
+      {
+        "title": "Almost 6 in 10 say UN members should recognize Palestinian state: Survey - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1hZSjg2dFRhcVhDbGx4bFVVbXVlWUZJaE04SjZrdm9wWWdrMkZreVI4NHRIbWRQZjM2YmRZNEdiR0Z5eVVTd3FHc2RFVmg2bkVwVFBPZ1ByNXpmMm1fYXpLa0QxZ1A4Vk1QUmZGLVZDdGZJVHh4ay0tX1ZGeVpMcTNaektNei1teWJ6ZTZEONIBlAFBVV95cUxQdnZrcFFSUllNeUd3bUV4UjJySmhlYUdpTjVkSjcyZ1RmZ1hwTXBsX1FOOXgyY0N0cFFXTEFlVWVDOTkwNGtZSXR2N01obTRrWldmSl9weU50R3NTYXl5eGFPcG81M1hISG1JTlJuajE0cXBSdDhwZ0pGSzFYQ0Nib1IxeDR2UFVFYk9EWUhOQUhVMXZL?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 13:11:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
+  },
+  "Quantum Mechanics": {
+    "articles": [
+      {
+        "title": "Researchers just made precise quantum vibrations that can detect individual molecules - The Brighter Side of News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVIZ0N5MWpGdjNoS2NCdVpVNkZqelZSMlJBVmpTMjRCRXdjT2dDT3l2ZzZheDNOeEU0V2szNXcxT0NDSlhsYkZRWTRsVmpEQkhSM3VPVlFoRmQtSlpSY1NKTGdYQ183YVFGVm0yYUVMOWoxLXk5SjVSWDZWdnhBRWFpaDNQZUgtVW9PeHFhZWE3bXVxTUNvbFhHUUJ1em9VVTdid1RmQlZxb1ZEVnBJek9GOEM5b1I0cUVnc2RhRlRxUQ?oc=5",
+        "pubDate": "Wed, 20 Aug 2025 18:07:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-21T01:00:46.162433+00:00"
   }
 }

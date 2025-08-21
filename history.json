@@ -259,6 +259,10 @@
     {
       "title": "ActiveFence Releases AI Security Benchmark: Industry-Leading Precision and F1 in Detecting Prompt Injections - Morningstar",
       "pubDate": "Wed, 20 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
+      "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
     }
   ],
   "financial_markets": [
@@ -600,10 +604,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Stocks Turnover Tops 2 Trillion Yuan as Bulls Take Charge - Bloomberg.com",
-      "pubDate": "Thu, 14 Aug 2025 00:33:00 GMT"
-    },
     {
       "title": "China, India in talks to resume border trade after five-year gap, Bloomberg News says - Reuters",
       "pubDate": "Thu, 14 Aug 2025 04:25:00 GMT"
@@ -1253,10 +1253,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Trump orders relaxed rules for rocket launches, appearing to benefit Musk and Bezos - The Guardian",
-      "pubDate": "Thu, 14 Aug 2025 00:50:00 GMT"
-    },
-    {
       "title": "California rejects Elon Musk\u2019s rocket-launch proposal - Politico",
       "pubDate": "Thu, 14 Aug 2025 22:38:17 GMT"
     }
@@ -1401,6 +1397,10 @@
     {
       "title": "New IRS rule makes it harder for wind and solar farms to qualify for tax credits - The Daily Climate",
       "pubDate": "Mon, 18 Aug 2025 18:15:50 GMT"
+    },
+    {
+      "title": "Trump says U.S. will not approve solar or wind power projects - CNBC",
+      "pubDate": "Wed, 20 Aug 2025 20:11:22 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1438,10 +1438,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "New York man cyberstalked UnitedHealthcare CEO's family member after deadly shooting, prosecutors say - CBS News",
-      "pubDate": "Thu, 14 Aug 2025 00:52:16 GMT"
-    },
     {
       "title": "Hack at UnitedHealth's tech unit impacted 192.7 million people, US health dept website shows - Reuters",
       "pubDate": "Thu, 14 Aug 2025 18:31:21 GMT"
@@ -1500,10 +1496,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin hits fresh record as Fed easing bets add to tailwinds - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 00:29:00 GMT"
-    },
     {
       "title": "Bitcoin extends rally, hits record high above $124,000 - MarketWatch",
       "pubDate": "Thu, 14 Aug 2025 01:08:00 GMT"
@@ -1815,6 +1807,10 @@
     {
       "title": "Tulsi Gabbard revokes security clearances of 37 current and former national security officials - CNN",
       "pubDate": "Tue, 19 Aug 2025 20:51:00 GMT"
+    },
+    {
+      "title": "N.S.A.\u2019s Acting Director Tried to Save Top Scientist From Purge - The New York Times",
+      "pubDate": "Wed, 20 Aug 2025 14:11:26 GMT"
     }
   ],
   "ethereum": [
@@ -2207,6 +2203,10 @@
     {
       "title": "Minnesota State sues TikTok over addictive algorithms harming users - CNBC TV18",
       "pubDate": "Wed, 20 Aug 2025 07:07:44 GMT"
+    },
+    {
+      "title": "Securing private data at scale with differentially private partition selection - Google Research",
+      "pubDate": "Wed, 20 Aug 2025 19:27:32 GMT"
     }
   ],
   "astronomy": [
@@ -2268,18 +2268,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Climate Change Made \u2018Highly Concerning\u2019 Nordic Heatwave At Least 10 Times More Likely - Earth.Org",
-      "pubDate": "Thu, 14 Aug 2025 00:03:45 GMT"
-    },
-    {
-      "title": "Intense two-week heatwave in Fennoscandia hotter and more likely due to climate change - World Weather Attribution",
-      "pubDate": "Thu, 14 Aug 2025 00:03:32 GMT"
-    },
-    {
-      "title": "Climate change made Nordic heat wave 2 degrees warmer - politico.eu",
-      "pubDate": "Thu, 14 Aug 2025 01:00:00 GMT"
-    },
     {
       "title": "Trump admin gives voices to scholars once silenced on climate change, COVID - The College Fix",
       "pubDate": "Thu, 14 Aug 2025 04:04:31 GMT"
@@ -2925,10 +2913,6 @@
   ],
   "democracy": [
     {
-      "title": "Rep. Dan Goldman: Republicans are rolling over democracy and allowing Trump to act as a 'fascist dictator' - MSNBC News",
-      "pubDate": "Thu, 14 Aug 2025 00:41:51 GMT"
-    },
-    {
       "title": "Opinion | Abolish the Senate. End the Electoral College. Pack the Court. - The New York Times",
       "pubDate": "Thu, 14 Aug 2025 09:02:17 GMT"
     },
@@ -2975,6 +2959,10 @@
     {
       "title": "Evidence of 'negative time' observed in quantum physics experiments - Earth.com",
       "pubDate": "Tue, 19 Aug 2025 01:42:25 GMT"
+    },
+    {
+      "title": "Researchers just made precise quantum vibrations that can detect individual molecules - The Brighter Side of News",
+      "pubDate": "Wed, 20 Aug 2025 18:07:00 GMT"
     }
   ],
   "energy_transition": [
@@ -3565,6 +3553,10 @@
     {
       "title": "UN court issues ruling that paves way for massive lawsuits between nations: 'A watershed legal moment' - yahoo.com",
       "pubDate": "Sat, 16 Aug 2025 02:30:00 GMT"
+    },
+    {
+      "title": "Almost 6 in 10 say UN members should recognize Palestinian state: Survey - The Hill",
+      "pubDate": "Wed, 20 Aug 2025 13:11:00 GMT"
     }
   ],
   "mark_zuckerberg": [
@@ -3739,6 +3731,12 @@
     {
       "title": "Trump administration\u2019s anti-woke campaign targets seven flagship museums - The Guardian",
       "pubDate": "Wed, 20 Aug 2025 21:31:00 GMT"
+    }
+  ],
+  "polling": [
+    {
+      "title": "We asked 604 D.C. residents about Trump\u2019s takeover. Here\u2019s what they said. - The Washington Post",
+      "pubDate": "Wed, 20 Aug 2025 17:00:44 GMT"
     }
   ]
 }
