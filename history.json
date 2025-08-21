@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli minister announces settlement plans 'to thwart Palestinian state' - BBC",
-      "pubDate": "Thu, 14 Aug 2025 09:25:35 GMT"
-    },
-    {
-      "title": "With Arson and Land Grabs, Israeli Settler Attacks in West Bank Hit Record High - The New York Times",
-      "pubDate": "Thu, 14 Aug 2025 09:40:24 GMT"
-    },
-    {
       "title": "Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News",
       "pubDate": "Fri, 15 Aug 2025 00:37:00 GMT"
     },
@@ -68,10 +60,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "How Trump gets what he wants from companies - NBC News",
-      "pubDate": "Thu, 14 Aug 2025 09:02:42 GMT"
-    },
     {
       "title": "Intel stock climbs 7% on report Trump administration is considering stake in chipmaker - CNBC",
       "pubDate": "Thu, 14 Aug 2025 19:47:55 GMT"
@@ -559,6 +547,10 @@
     {
       "title": "As Russia continues to wage war, NATO meets to plan Ukraine\u2019s future defense - PBS",
       "pubDate": "Wed, 20 Aug 2025 22:55:30 GMT"
+    },
+    {
+      "title": "Russian missiles target Ukrainian cities in largest attack for weeks - Financial Times",
+      "pubDate": "Thu, 21 Aug 2025 08:30:10 GMT"
     }
   ],
   "us_economy": [
@@ -588,10 +580,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China targets 2 Lithuanian banks in response to new EU sanctions - AP News",
-      "pubDate": "Thu, 14 Aug 2025 09:08:00 GMT"
-    },
     {
       "title": "China Makes Major Social Security Change - Newsweek",
       "pubDate": "Thu, 14 Aug 2025 17:24:47 GMT"
@@ -905,6 +893,10 @@
     {
       "title": "Kim Jong-un's 'suicide drones' get deadly AI boost amid Russia tech 'spying' mission - Daily Express",
       "pubDate": "Wed, 20 Aug 2025 21:54:00 GMT"
+    },
+    {
+      "title": "North Korea has a secret missile base that poses a \u2018potential nuclear threat\u2019 to the US, new report says - CNN",
+      "pubDate": "Thu, 21 Aug 2025 07:10:00 GMT"
     }
   ],
   "trade_war": [
@@ -1089,14 +1081,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Fed Faces High Bar for Big Cuts Despite White House Pressure - The New York Times",
-      "pubDate": "Thu, 14 Aug 2025 09:03:46 GMT"
-    },
-    {
-      "title": "Fed's Daly says 50 basis point rate cut next month doesn't seem warranted, WSJ reports - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 09:48:29 GMT"
-    },
-    {
       "title": "Federal Reserve's Cuts May Not Lower Mortgage Rates, Analysts Warn - Investopedia",
       "pubDate": "Thu, 14 Aug 2025 20:25:41 GMT"
     },
@@ -1246,10 +1230,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Off-the-shelf vaccine shows success against deadly cancers - Axios",
-      "pubDate": "Thu, 14 Aug 2025 09:31:51 GMT"
-    },
     {
       "title": "AI detects breast cancer earlier and more accurately in Dutch screening program - News-Medical",
       "pubDate": "Thu, 14 Aug 2025 12:21:00 GMT"
@@ -1653,6 +1633,10 @@
     {
       "title": "OpenAI logged its first $1 billion month but is still 'constantly under compute,' CFO says - CNBC",
       "pubDate": "Wed, 20 Aug 2025 14:57:19 GMT"
+    },
+    {
+      "title": "OpenAI sees firm selling AI data centre services to offset ChatGPT costs - South China Morning Post",
+      "pubDate": "Thu, 21 Aug 2025 04:00:08 GMT"
     }
   ],
   "environment": [
@@ -2403,6 +2387,10 @@
     {
       "title": "California Provides a Welcoming Environment for the Evolution of International Climate Disclosures - The CPA Journal",
       "pubDate": "Wed, 20 Aug 2025 19:07:30 GMT"
+    },
+    {
+      "title": "Climate change will cost these states tens of billions by 2050 - Axios",
+      "pubDate": "Thu, 21 Aug 2025 09:00:38 GMT"
     }
   ],
   "volcanoes": [
@@ -2568,10 +2556,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Countries race for late breakthrough in deadlocked plastic pollution talks - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 09:42:20 GMT"
-    },
     {
       "title": "Scientists use modeling track where metro Phoenix ozone pollution actually comes from - KJZZ",
       "pubDate": "Thu, 14 Aug 2025 20:53:00 GMT"
@@ -2871,6 +2855,10 @@
     {
       "title": "Hundreds of federal health workers say RFK Jr has put Americans in danger - BBC",
       "pubDate": "Wed, 20 Aug 2025 21:43:00 GMT"
+    },
+    {
+      "title": "US health workers implore RFK Jr to \u2018stop spreading inaccurate\u2019 information - Al Jazeera",
+      "pubDate": "Thu, 21 Aug 2025 04:21:14 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2902,10 +2890,6 @@
     }
   ],
   "democracy": [
-    {
-      "title": "Opinion | Abolish the Senate. End the Electoral College. Pack the Court. - The New York Times",
-      "pubDate": "Thu, 14 Aug 2025 09:02:17 GMT"
-    },
     {
       "title": "Obama praises Texas Democrats and calls state redistricting effort \u2018a systematic assault on democracy\u2019 - CNN",
       "pubDate": "Fri, 15 Aug 2025 04:56:00 GMT"
@@ -3345,12 +3329,6 @@
     {
       "title": "Russia comes under drone attack: fire rages at refinery, energy facility damaged \u2013 videos - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Thu, 21 Aug 2025 05:38:46 GMT"
-    }
-  ],
-  "computing": [
-    {
-      "title": "US scientists unveil \u2018microwave brain\u2019 chip for ultrafast, wireless computing - Interesting Engineering",
-      "pubDate": "Thu, 14 Aug 2025 09:21:00 GMT"
     }
   ],
   "syria": [
