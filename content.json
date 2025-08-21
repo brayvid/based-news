@@ -1,72 +1,62 @@
 {
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump half-billion-dollar civil fraud penalty thrown out by appeals court - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OMnVOWHdnQjhZMUh3dUN5RVctNDZtY3l2Zy1TUFUtMmYzUm1QY0VGZ2Q4YlA2VW9BU29IckY3V3N3eXd3MVZ0NVNtYW9CSWNtb19EcndFNVdOTHU2aEVncnBUYUZPdXJYRHBCM0tlOFFBaUHSAXhBVV95cUxQTjY0YVN2bjVrdERRRG5yNkMxX1R5UE1oaGxOb1ptV2VhMmVMYlUzOFFfQm1fUjQzYVRWQllpTzR1WE95RWhFS3VkRUlIQmVIa2NETzJqTzcwaGxUTzJ5ZFpKcjR1Ukx6b2lEQmgyTHptdjYyZVhLQnA?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 14:57:36 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
-  },
-  "Hurricanes": {
-    "articles": [
-      {
-        "title": "Hurricane forecasters now tracking triangle of tropical trouble as Atlantic Basin bubbles with activity - FOX Weather",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVNEckZoVmd6cEIwNWVRWjJ6X2xET3VTak9XXzB4NnVCdzNhZW5QdVB2cWQ0bndYYktyay05eXJjNEdjSHlmSjYza01FWlV6VllxRUEydzV0d2pQTmtYY1dUM0E3WGt2TTJmVUJRM1I1NEluRG5KMVRrakNOcTBhZDd1T3pCeEFscWpTSnZJUmFYVFREMzBaZTJzRnhGVW_SAaQBQVVfeXFMUDJqNzhFV0lLYnpoRkhBNnh5SUtzaE1CbE43ZnFuTWt6T21XV2ZJZ0Z3cUFhbXJRaHpPZ3J3VlBITktkbS1YQ2FjeVdaVFFBT3Vxel9TWXlWeG4yYlE4M01URW5wdm9VOUZ0QjZEM2J5Z1dydVVPeE9EaFlGM2VFUTQyamhWS0kxdUxtQ1lwYWlRazUzeUljWnRXTTlhc2YxSnZaZ2Q?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 13:04:03 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
-  },
-  "National Security": {
-    "articles": [
-      {
-        "title": "US opens national security probe into imported wind turbines, components - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdm8xVmJxU1p4OXRrOTdSa3pVeldCc09BTVNMVmtsNE1qN2pGOURYMU8xaDFQY1cyM1N2WUJlQzlETHpucHM4TW11bGlrZGNwSmcwTzl3RzlTVC10QVBhOGR2eWhmNEFLVVNQMEhVSGIwNEZoa1cxcmt3SEw4c2RYZlZSclgzcFhZTVcza2o4cFBiNDJSUkxzU0I4TnJ2OUZMMFRHU0N3TVVISlFvU2ZmeXhlWU9sbUxuQlZ4MG1FUlA?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 15:30:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "Can China make Pakistan and the Taliban friends again? - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVFLT1hfOUhWdDFtdF81ODgxeUhKdDFucUhPYXd4Q0V3R1Q2REhuZ0JxRnZUR2dmcHpJRHg5MGdhaTdmR28zTno2SWlTazVzY29tUzRiZTNPZVlRRWNoZHNGSG9DZzZXa0g5VjNCUGh0bURMdkpCYl9nQWNyUVZ6UU54YnNWNlJkWUlTMmlSNlJ2ME12cnZ2T29B0gGfAUFVX3lxTE1yRkhIcDBZNkk0NjJJcTVkVDFNYlZuUi1uTFJsX19OUG9ldXhRajcyWXphRllySlBVZXVWT2lkODIyN0NneF9IOW12aUw2TS05V2hvSWVlRjlvX1hiOTU5SDZvd2dIRWxMTmxUcFRmWXhUZlFqX2Q4ZVJQVzE3aDdCQ0ctZ25mUTRqZkVhaTIxSFUwbk1vMERCV1RPd0NzZw?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 07:41:51 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
-  },
   "Iran": {
     "articles": [
       {
-        "title": "Russia and China Give Iran Nuclear Deal Boost - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MeFZ4enlIbUg3OWZfdlVKOTR1Tl9ySlVRdHZMUnVPOEdybE1kRThISDVRd0dVd1NwVW5ManlRVWdibHliMDNTQzlveFAwODJYclV6cnMzeWZZdHN1ekR0M2MyRURMZFpsR0xpLTFZVmlodFIzdGZYeVJLNTlMUFE?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 14:40:51 GMT"
+        "title": "Iran says Europeans have no right to reimpose sanctions for nuclear programme - RFI",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWZHMmd3MDBKdUd2eFdmQ3gwdmY1Z0xpQm9UZUZEOUYyazNhU1ZHTWpiTzd4ODRCVDd5MHdxNkctREJaSTBrLXB5TWNIUmszRFY0Qm84U290aXQxaUNITTYyMlhPdnhGOUhwZUk2NVJ1YTlXNWRCWGlTZGJ2dlhraXJoRjNuSmZ6MU1TcjVXeXNUUlJCWnhGc0hBZE1VdVBURWVnSnhPVEVNOF9MVEo2Qm8tTnVFNVpfMHota1lLUEhsdm80SFRYZGZBUQ?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 09:07:30 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
   },
-  "Animals": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Investigation into CT home where more than 100 dead animals were found nets multiple arrests - Hartford Courant",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGlKb2FPYmh2eDBaVnRhdzRoUVBHLVhWOTJyWlNnM19fb2hGWndBMm5lSF9IN1V1S3Z2ei1RSlVxdUFLenUtXzBOSDJPOHRaYzY2NXMyQlZPWlk1N0JfQkY3enRyRWxad3JtbGRWcXVHQkR5eXZzYkdQNDBiclEtRWNCZGdGeTlVXy1acUFWWGhmVFpIM0pWRWkyVngyVjAzSlF1aFRvT2lEWUNqWVBBMGliellzOWFMTk9MbWt4S0lCVks2TEFn?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 14:15:15 GMT"
+        "title": "DOJ Urges Fed\u2019s Powell to Remove Cook as Probe Gets Underway - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUtfQXFScjAyZVF2ZGx2RHB5bUtKcFFQWm5wRUdFTmFxZ2E1LUs1ZUJiZDkyd1ozNUt2enROZUpEMEcwQ0JzTUtmQ0ZkSDhlblRUclFzTWJGYlhTUTB5V3BJRUtJUDMzNHh1RGw1U1doM29ucTNybUxvYk4xYXROLTc5YkNXanJwZXY5TnJwZzloSkJaNTZZZEpMYUpwT0FKX0Z1Q3lKN1JUNjg?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 15:52:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
   },
-  "Data Breach": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Dozens more Afghan relocation data breaches uncovered by BBC - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sa2ZwTHJYNG5Fd0VWb29lWHozQW51dWNtYjJrWUF2MVhWdnJvQTVpajJVQ3IzQ2dMUVhQUkt4dXV4b0ZGWmJ4WXREZjV4Uk5uV25TZDJOc3pvb2VO0gFiQVVfeXFMT3hFLXEyUEZ2Z1dJTXR0X1RJZlBYQWpKWEFuWDVwcTF3aU9UUjVTSGpRZXh5SE1wSGI1bHEtdVUtTlBGdGl5VS1pM1ZsNEFES2hDeXIydlBQRkNjZndPUG4wc1E?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 05:00:01 GMT"
+        "title": "Nato leaders must \u2018not be naive\u2019 about any potential Ukraine deployment, says head of German soldiers\u2019 union \u2013 Ukraine war live - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemQ5QVdKS1ZqMXlkd1lUaG1wMVE1dkFpZTF5UkxVZUtrbUR4MzNXdTVhaXE2aWJzWTN1bEo3NVBUaW9tdWZfYUh2WkFVbXFkNUx0cHRTYUtNQ2JQc2hMNmJOTk1GXzAtZ3dTZ1ZPS0ZYSHlGeXJOT0x1aHR6SXZ6U2xqZWc4ZlU1V2lKa2ZxRzhjc0VzaU9zNWhUUTBhdVcyNDdBUGx1LXFMVUsyU2ZYb081NG9NOXN2ZjNQOTV1Sm8xNjRfaXIweXhFMFk4UQ?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 07:56:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-21T16:01:49.687723+00:00"
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
+  },
+  "Democracy": {
+    "articles": [
+      {
+        "title": "Texas' new redistricting map tests the strength of U.S. democracy - MSNBC News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWVOTzZ2ZXk0QUJqSTRqWGtxR0x2M3RRQjFybTJHTWIxeW9yU05uaU5kbjQwWlJzSzdDQUE4eEtySTNoTVBNN2NseFU0ZEJrWFhfU0ZibVE4UGltbHFfR01zZHNBWktkUlNUM1dRTFBha2R3LWdNVzRkM3djOEh1TE05MWowRXpkNXZBY3A5elI3bkRsejNXS3dtbTBBa2ZJdzhMUzZqZURGRXPSAVRBVV95cUxNazV5b0ZhZHoxbk1ZZFUwZlotWkVKc2V5Q2szU0tpejROU3p6cGpnSzNJTGpXZmxwWWFYeWowSndJR3NPYWpFc0VQV1phN0pBUkZpN1Y?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 10:00:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
+  },
+  "Science": {
+    "articles": [
+      {
+        "title": "Scientists solve 30-year mystery of a hidden nutrient that shields the brain and fights cancer - ScienceDaily",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1idVlmN1FyR1RhQXNTY3IxTElkX19FOFJWdWxhSzVWRDd5NjVQYWpSVDZjNDhQdGlhTGs5d2YxcGF0RW9EdDJMVDRQVERsNVJ1MS1obk1XT0NzcnNENWRvNm9ZYmV0QnZNZnRvYXdXZw?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 13:22:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
+  },
+  "Political Corruption": {
+    "articles": [
+      {
+        "title": "Why corruption cases against politicians collapse every time power shifts - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNzZjeEVXQnRkU2NPeHdLZnRhSVQ4dERobXIzTGpzYk40WmF2TVN1ZWpKMm9OR0xNZXprS2pzX25COEk0WDVYQUhwMnF2Nm1rZTNKTGEwRGlOLW9lTnNnZDhFSmVzTEs2bXFFZU9uLXlPNUU2WWJqT25wcndYbzZ1Z2JTMW1sVFZ3MUZqam0tbWpEbkJhZ093enZ6RGpMOWx3SWloOExSS2NzRUNQa056Ym9JUWRZNW1KQ0lsWmdvbVM0TS1TU0Ixd0VvQU1LRndFdjdXVjR4VkE0akV0OWRYbEFRMmw1YjE40gHuAUFVX3lxTFBVYUt0dVQyQ2lZUjZyT3kyOXdEV29pYmxsVjlNYnM3WWZOQzRCa3ZyVGRrbVEtcjA5a25GLUt3aGQxUDZhdGd2d044UVh4bEhidFcyMnNUamVrZ19BQzVmci1iYmhJY1pSOF9kN0M2WFpYcU9tUHVkLXUwcXc2blh3OEc3MnF4eEZ4VEl3OE5fYWJCRTdRS3BVWEpCeW1DTnItNjkwMDc1ck53cXlxS0JVQ3JoTHFySUZsaWp5dkJwdmtoRDU5U25jbUwzYzk4N2RZX2lXLUZGRWdoX1IxTTU5Q3ROYlBiY0dNTVdhSUE?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 13:09:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-21T17:01:00.061343+00:00"
   }
 }
