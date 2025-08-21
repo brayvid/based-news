@@ -147,10 +147,6 @@
   ],
   "russia": [
     {
-      "title": "More than half of Americans lack faith in Trump on Russia-Ukraine war, poll finds - Politico",
-      "pubDate": "Thu, 14 Aug 2025 20:02:29 GMT"
-    },
-    {
       "title": "Trump-Putin meeting live updates: Trump stops short of announcing ceasefire deal but 'great progress' was made - ABC News",
       "pubDate": "Fri, 15 Aug 2025 23:46:00 GMT"
     },
@@ -783,6 +779,10 @@
     {
       "title": "Can China make Pakistan and the Taliban friends again? - Al Jazeera",
       "pubDate": "Thu, 21 Aug 2025 07:41:51 GMT"
+    },
+    {
+      "title": "Boeing in talks to sell up to 500 jets to China, Bloomberg News reports - Reuters",
+      "pubDate": "Thu, 21 Aug 2025 11:56:57 GMT"
     }
   ],
   "us_politics": [
@@ -1013,6 +1013,10 @@
     {
       "title": "CISA Issues Four ICS Advisories on Critical Vulnerabilities and Exploits - cyberpress.org",
       "pubDate": "Thu, 21 Aug 2025 07:35:17 GMT"
+    },
+    {
+      "title": "US charges Oregon man in vast botnet-for-hire operation - Cybersecurity Dive",
+      "pubDate": "Thu, 21 Aug 2025 16:06:35 GMT"
     }
   ],
   "recession": [
@@ -1085,10 +1089,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Federal Reserve's Cuts May Not Lower Mortgage Rates, Analysts Warn - Investopedia",
-      "pubDate": "Thu, 14 Aug 2025 20:25:41 GMT"
-    },
-    {
       "title": "Federal Court Vacates Federal Reserve\u2019s Interchange Fee Rule - The National Law Review",
       "pubDate": "Thu, 14 Aug 2025 22:09:45 GMT"
     },
@@ -1151,6 +1151,10 @@
     {
       "title": "DOJ Urges Fed\u2019s Powell to Remove Cook as Probe Gets Underway - Bloomberg",
       "pubDate": "Thu, 21 Aug 2025 15:52:56 GMT"
+    },
+    {
+      "title": "With Fed under pressure, Jerome Powell prepares for a high-stakes speech - NPR",
+      "pubDate": "Thu, 21 Aug 2025 17:27:32 GMT"
     }
   ],
   "earthquakes": [
@@ -1293,6 +1297,10 @@
     {
       "title": "FDA \u2018uncertainty\u2019 forces Krystal Biotech to shutter cancer drug trial - statnews.com",
       "pubDate": "Thu, 21 Aug 2025 10:31:12 GMT"
+    },
+    {
+      "title": "Genetic study suggests ways to catch blood cancer earlier - Medical Xpress",
+      "pubDate": "Thu, 21 Aug 2025 19:56:29 GMT"
     }
   ],
   "space_exploration": [
@@ -1709,10 +1717,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
-      "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
-    },
-    {
       "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
       "pubDate": "Fri, 15 Aug 2025 20:22:00 GMT"
     },
@@ -2091,6 +2095,10 @@
     {
       "title": "Israeli army database suggests at least 83% of Gaza dead were civilians - +972 Magazine",
       "pubDate": "Thu, 21 Aug 2025 13:58:02 GMT"
+    },
+    {
+      "title": "Hamas has one top strategy: End the war and survive - NPR",
+      "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
     }
   ],
   "battery_technology": [
@@ -2343,13 +2351,13 @@
     {
       "title": "Climate change will cost these states tens of billions by 2050 - Axios",
       "pubDate": "Thu, 21 Aug 2025 09:00:38 GMT"
+    },
+    {
+      "title": "Hurricane science has come leaps and bounds since Katrina. The progress is now at risk - NPR",
+      "pubDate": "Thu, 21 Aug 2025 20:20:06 GMT"
     }
   ],
   "volcanoes": [
-    {
-      "title": "New rupture on the side of Mt. Etna creates spectacular orange lava flow down Europe's largest active volcano - AP News",
-      "pubDate": "Thu, 14 Aug 2025 21:00:00 GMT"
-    },
     {
       "title": "Scientists Uncovered 400 Miles Of Fossilized Volcanoes Beneath China - yahoo.com",
       "pubDate": "Sat, 16 Aug 2025 17:17:00 GMT"
@@ -2508,10 +2516,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Scientists use modeling track where metro Phoenix ozone pollution actually comes from - KJZZ",
-      "pubDate": "Thu, 14 Aug 2025 20:53:00 GMT"
-    },
     {
       "title": "UN majority rejects draft of treaty to end plastic pollution - JURIST Legal News",
       "pubDate": "Fri, 15 Aug 2025 00:09:51 GMT"
@@ -2898,10 +2902,6 @@
     }
   ],
   "oceans": [
-    {
-      "title": "Ocean heat and global sea level hit new records last year, report finds - CBS News",
-      "pubDate": "Thu, 14 Aug 2025 20:37:00 GMT"
-    },
     {
       "title": "Giant virus discovered in Pacific Ocean with the longest tail ever recorded - MSN",
       "pubDate": "Sun, 17 Aug 2025 05:06:46 GMT"
@@ -3611,6 +3611,10 @@
     {
       "title": "India markets regulator proposes to add algo trading into stock broker regulations - MSN",
       "pubDate": "Wed, 20 Aug 2025 06:48:02 GMT"
+    },
+    {
+      "title": "FCA warns algorithmic trading firms over compliance failures - Financial News London",
+      "pubDate": "Thu, 21 Aug 2025 16:14:05 GMT"
     }
   ],
   "apple": [
