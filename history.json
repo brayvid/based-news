@@ -23,6 +23,10 @@
     {
       "title": "Israel launches diplomatic attacks on its Western allies ahead of Palestinian statehood recognition - CNN",
       "pubDate": "Wed, 20 Aug 2025 15:27:00 GMT"
+    },
+    {
+      "title": "Analysis: Israel E1 settlement plan makes Palestinian state further away - Al Jazeera",
+      "pubDate": "Thu, 21 Aug 2025 16:02:37 GMT"
     }
   ],
   "iran": [
@@ -419,6 +423,10 @@
     {
       "title": "Microsoft AI CEO Mustafa Suleyman: Chatbots are causing psychosis - The Times",
       "pubDate": "Thu, 21 Aug 2025 13:20:46 GMT"
+    },
+    {
+      "title": "Pause new law on artificial intelligence, Colorado mayors urge lawmakers - Colorado Politics",
+      "pubDate": "Thu, 21 Aug 2025 15:59:49 GMT"
     }
   ],
   "climate": [
@@ -551,6 +559,10 @@
     {
       "title": "Russia rules out European troops in Ukraine as Trump makes veiled threats - The Guardian",
       "pubDate": "Thu, 21 Aug 2025 14:42:00 GMT"
+    },
+    {
+      "title": "Russian airstrikes hit a U.S. factory in western Ukraine - NPR",
+      "pubDate": "Thu, 21 Aug 2025 16:06:33 GMT"
     }
   ],
   "us_economy": [
@@ -1031,6 +1043,10 @@
     {
       "title": "Goldman Sachs Warns of Recession Risks as Fed Rate Cuts Loom - AInvest",
       "pubDate": "Wed, 20 Aug 2025 04:06:02 GMT"
+    },
+    {
+      "title": "The next recession will likely be 'triggered by a political act,' says former Deutsche Bank chair and Allianz CFO - Fortune",
+      "pubDate": "Thu, 21 Aug 2025 18:43:00 GMT"
     }
   ],
   "drones": [
@@ -1219,10 +1235,6 @@
   ],
   "cancer": [
     {
-      "title": "Nike Founder Knight Donates $2 Billion to Oregon Cancer Center - Bloomberg.com",
-      "pubDate": "Thu, 14 Aug 2025 18:35:39 GMT"
-    },
-    {
       "title": "The Time-Sensitive World of Fertility Preservation for Patients With Cancer - Targeted Oncology",
       "pubDate": "Sat, 16 Aug 2025 15:00:00 GMT"
     },
@@ -1386,10 +1398,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Hack at UnitedHealth's tech unit impacted 192.7 million people, US health dept website shows - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 18:31:21 GMT"
-    },
     {
       "title": "Victims of AT&T data breaches could claim up to $7,500 in new $177M settlement - KDFW",
       "pubDate": "Thu, 14 Aug 2025 22:34:34 GMT"
@@ -1628,10 +1636,6 @@
     }
   ],
   "environment": [
-    {
-      "title": "Scientists hack microbes to identify environmental sources of methane - Berkeley News",
-      "pubDate": "Thu, 14 Aug 2025 18:42:52 GMT"
-    },
     {
       "title": "Army chief vows to respect Hawaii culture and environment, but 60-day timeline is questioned - Honolulu Star-Advertiser",
       "pubDate": "Sun, 17 Aug 2025 10:06:05 GMT"
@@ -1892,10 +1896,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Trump: Journalists should be allowed into Gaza - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 18:31:49 GMT"
-    },
     {
       "title": "Trump says he\u2019d like to see journalists granted Gaza access - The Hill",
       "pubDate": "Fri, 15 Aug 2025 02:20:00 GMT"
@@ -2196,10 +2196,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Countries show what works for a heat-resilient future - Welcome to the United Nations",
-      "pubDate": "Thu, 14 Aug 2025 18:18:45 GMT"
-    },
     {
       "title": "US Guts Criticism of Indigenous Rights Abuses, Mentions of Climate Change From Annual Human Rights Reports - Inside Climate News",
       "pubDate": "Thu, 14 Aug 2025 21:56:11 GMT"
@@ -2538,10 +2534,6 @@
     }
   ],
   "brics": [
-    {
-      "title": "India says de-dollarisation not on it's agenda as Brazil plans BRICS meet - The Economic Times",
-      "pubDate": "Thu, 14 Aug 2025 18:42:13 GMT"
-    },
     {
       "title": "Trump is attacking Brazil to weaken BRICS \u2013 but his plan might backfire - Chatham House",
       "pubDate": "Fri, 15 Aug 2025 10:05:02 GMT"
@@ -3229,6 +3221,10 @@
     {
       "title": "N. Korea\u2019s Kim Jong Un orders workplace safety reforms after steel mill accident - DailyNK",
       "pubDate": "Fri, 15 Aug 2025 20:32:48 GMT"
+    },
+    {
+      "title": "Kim Jong Un praises his soldiers who helped Russia in the war against Ukraine - Gazeta Express",
+      "pubDate": "Thu, 21 Aug 2025 11:11:00 GMT"
     }
   ],
   "cloud_computing": [
@@ -3659,6 +3655,12 @@
     {
       "title": "We asked 604 D.C. residents about Trump\u2019s takeover. Here\u2019s what they said. - The Washington Post",
       "pubDate": "Wed, 20 Aug 2025 17:00:44 GMT"
+    }
+  ],
+  "mathematics": [
+    {
+      "title": "Scientists use new mathematical approach to protect aircraft from 5G interference - Tech Xplore",
+      "pubDate": "Thu, 21 Aug 2025 15:06:03 GMT"
     }
   ]
 }
