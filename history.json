@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Intel stock climbs 7% on report Trump administration is considering stake in chipmaker - CNBC",
-      "pubDate": "Thu, 14 Aug 2025 19:47:55 GMT"
-    },
-    {
       "title": "Trump admin live updates: Bondi says DEA head is DC 'emergency police commissioner' - ABC News",
       "pubDate": "Fri, 15 Aug 2025 04:36:00 GMT"
     },
@@ -849,6 +845,10 @@
     {
       "title": "Trump administration live updates: Texas Republicans pass GOP redistricting maps - NBC News",
       "pubDate": "Wed, 20 Aug 2025 23:23:53 GMT"
+    },
+    {
+      "title": "Trump falsely claims \u2018total victory\u2019 in civil fraud appeal ruling despite splintered court \u2013 US politics live - The Guardian",
+      "pubDate": "Thu, 21 Aug 2025 19:03:47 GMT"
     }
   ],
   "democratic_party": [
@@ -1311,6 +1311,10 @@
     {
       "title": "Abandon Earth, focus Mars: NASA\u2019s new chief announces shift from climate programs to full-scale deep spac - The Times of India",
       "pubDate": "Thu, 21 Aug 2025 11:55:00 GMT"
+    },
+    {
+      "title": "Could Starship help humanity establish a city on Mars? Inside SpaceX, Elon Musk's plan - USA Today",
+      "pubDate": "Thu, 21 Aug 2025 16:42:37 GMT"
     }
   ],
   "health_care": [
@@ -1337,6 +1341,10 @@
     {
       "title": "Covered California health insurance will cost more in 2026. Here's what's behind the increase - NBC Los Angeles",
       "pubDate": "Sun, 17 Aug 2025 01:24:50 GMT"
+    },
+    {
+      "title": "Higher than expected use of health care services impacts Highmark's bottom line - Pittsburgh Post-Gazette",
+      "pubDate": "Thu, 21 Aug 2025 18:40:00 GMT"
     }
   ],
   "world_economy": [
@@ -1556,10 +1564,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia-Backed Lambda Eyes Funding at Over $4 Billion Valuation - Bloomberg.com",
-      "pubDate": "Thu, 14 Aug 2025 19:35:46 GMT"
-    },
     {
       "title": "China isn't welcoming Nvidia back with open arms after Trump clears way for H20 exports - CNBC",
       "pubDate": "Fri, 15 Aug 2025 09:33:25 GMT"
@@ -1803,10 +1807,6 @@
     {
       "title": "Homeowners rush to install solar ahead of expiring tax credits - Utility Dive",
       "pubDate": "Thu, 14 Aug 2025 21:33:35 GMT"
-    },
-    {
-      "title": "Bay Area homes getting jolt of clean energy with largest geothermal power generator in US from nonprofit Calpine - ABC7 San Francisco",
-      "pubDate": "Thu, 14 Aug 2025 19:07:56 GMT"
     },
     {
       "title": "Arizona votes to kill green energy rules blamed for soaring power bills - Havasu News",
@@ -3261,12 +3261,6 @@
     {
       "title": "Russia comes under drone attack: fire rages at refinery, energy facility damaged \u2013 videos - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Thu, 21 Aug 2025 05:38:46 GMT"
-    }
-  ],
-  "social_media": [
-    {
-      "title": "Supreme Court allows Mississippi to require age verification on social media like Facebook and X - AP News",
-      "pubDate": "Thu, 14 Aug 2025 19:15:00 GMT"
     }
   ],
   "privacy": [
