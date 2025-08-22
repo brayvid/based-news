@@ -147,6 +147,10 @@
     {
       "title": "Trump joins law enforcement at Park Police facility in Washington, DC - CNN",
       "pubDate": "Thu, 21 Aug 2025 16:47:00 GMT"
+    },
+    {
+      "title": "Federal judge orders closure of Trump\u2019s \u2018Alligator Alcatraz\u2019 immigration jail - The Guardian",
+      "pubDate": "Fri, 22 Aug 2025 02:14:00 GMT"
     }
   ],
   "russia": [
@@ -172,10 +176,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Musk's AI Empire Loses Key General: xAI Co - founder Who Built Supercomputer Cluster in 120 Days Departs, Like \"Driving Away After Sending Child to College\" - 36Kr",
-      "pubDate": "Fri, 15 Aug 2025 02:53:14 GMT"
-    },
     {
       "title": "How Anthropic trains and tests Claude for safe use - Digital Watch Observatory",
       "pubDate": "Fri, 15 Aug 2025 06:22:00 GMT"
@@ -448,10 +448,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "August 14, 2025: Trump says Putin will make deal on Ukraine as leaders prepare for Alaska meeting - CNN",
-      "pubDate": "Fri, 15 Aug 2025 02:36:54 GMT"
-    },
     {
       "title": "Trump and Putin meet for 2 1/2 hours at Alaska summit to discuss possible end to Russia-Ukraine war - AP News",
       "pubDate": "Fri, 15 Aug 2025 22:42:00 GMT"
@@ -783,6 +779,10 @@
     {
       "title": "Boeing in talks to sell up to 500 jets to China, Bloomberg News reports - Reuters",
       "pubDate": "Thu, 21 Aug 2025 11:56:57 GMT"
+    },
+    {
+      "title": "China Deploys Armed Small Boats to Second Thomas Shoal - USNI News",
+      "pubDate": "Thu, 21 Aug 2025 17:51:00 GMT"
     }
   ],
   "us_politics": [
@@ -1217,6 +1217,10 @@
     {
       "title": "California\u2019s Next \u2018Big One\u2019 Might Not Follow the Script - Gizmodo",
       "pubDate": "Tue, 19 Aug 2025 14:20:46 GMT"
+    },
+    {
+      "title": "Another earthquake reported in Upstate area - WYFF",
+      "pubDate": "Thu, 21 Aug 2025 21:40:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1499,6 +1503,10 @@
     {
       "title": "Bitcoin (BTC) Treasury News: NAKA Raises $200M, Sinks 11% - CoinDesk",
       "pubDate": "Mon, 18 Aug 2025 19:39:22 GMT"
+    },
+    {
+      "title": "Opinion: Here\u2019s the $863 billion secret Powell, Trump and Bessent aren\u2019t telling us about gold and bitcoin - MarketWatch",
+      "pubDate": "Thu, 21 Aug 2025 19:01:00 GMT"
     }
   ],
   "fusion_power": [
@@ -1865,10 +1873,6 @@
   ],
   "gaza": [
     {
-      "title": "Trump says he\u2019d like to see journalists granted Gaza access - The Hill",
-      "pubDate": "Fri, 15 Aug 2025 02:20:00 GMT"
-    },
-    {
       "title": "Gaza Medics Say 16 Palestinians Killed by IDF in Past Day, Including Five While Waiting for Aid - Haaretz",
       "pubDate": "Fri, 15 Aug 2025 14:20:00 GMT"
     },
@@ -2067,6 +2071,10 @@
     {
       "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks - Al Jazeera",
       "pubDate": "Thu, 21 Aug 2025 21:15:23 GMT"
+    },
+    {
+      "title": "UK backs joint call for Israel to allow foreign media into Gaza - BBC",
+      "pubDate": "Thu, 21 Aug 2025 15:55:33 GMT"
     }
   ],
   "battery_technology": [
@@ -2516,10 +2524,6 @@
     }
   ],
   "asia": [
-    {
-      "title": "Russia and Central Asia are quietly embracing the Taliban - Lowy Institute",
-      "pubDate": "Fri, 15 Aug 2025 02:03:55 GMT"
-    },
     {
       "title": "Deadly flooding caused by heavy rain in Asia - CBS News",
       "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
@@ -3551,6 +3555,10 @@
     {
       "title": "Masimo sues U.S Customs over approval of Apple Watch imports - CNBC",
       "pubDate": "Thu, 21 Aug 2025 02:44:00 GMT"
+    },
+    {
+      "title": "Apple denies its Fitness chief is bullying his team as an employee sues - AppleInsider",
+      "pubDate": "Thu, 21 Aug 2025 17:26:46 GMT"
     }
   ],
   "gpus": [
@@ -3591,6 +3599,12 @@
     {
       "title": "Can AI produce reliable and consistent data analysis? - Stockholm Environment Institute",
       "pubDate": "Thu, 21 Aug 2025 13:57:23 GMT"
+    }
+  ],
+  "jupiter": [
+    {
+      "title": "Scientists uncover clues to the mystery of Jupiter\u2019s core - Courthouse News Service",
+      "pubDate": "Fri, 22 Aug 2025 00:01:43 GMT"
     }
   ]
 }

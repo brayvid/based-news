@@ -1,22 +1,72 @@
 {
-  "Ukraine": {
+  "Donald Trump": {
     "articles": [
       {
-        "title": "Ukraine's leader says huge Russian attack shows Putin isn't \"really going to engage\" in peace effort - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXF2NzlKSDYwN0xfX2N1TGk2NXZLXzc2blFPbGgtM2YtMnpDSkR3ampFdEZTSWRsem5xOVJ3bnJwWmRseU8zU1p3YzNpNDlqcmNIbjBYd3JwYXl3bDlWX0hCcG4wOUIyTWhCMzNjU01idl9VN0pfZ29xSjY2S0RmRWtmRk1jS1BoMGfSAY8BQVVfeXFMUFE0M3BscU42VVBCbThleHR6dnloa2VrY1VPRVdoRTVRd2Fxc1RjQnU5WXNaUTJyaHU4dTh2bXN1UkFnbko4ek5tT2hocFhPWUstYWJzU2FUWG5lSVl1X1FIcmV1RHhYQWM1N0M0TmswOG5pMWxWYlRDc05xSWx2d2lic3VfR2drY3dBU1NLcGs?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 15:38:19 GMT"
+        "title": "Federal judge orders closure of Trump\u2019s \u2018Alligator Alcatraz\u2019 immigration jail - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUC1sXzgwZk5FU1B0LUZ5X0xhVlREM0V6MTMzSDdnN1JFTHc0cVR2c0hnZDFEUXNtbEVrWkc5YlZWbkExOWxmVHNTbWJaeXZMVnh5VE96bTdabUppcUF0RkNrU0ROT2hjUko5VF9TSnBiMVI0ckVDVkE5TThhZ1dFV2tsUEhUTFZlWm9sOTlR?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 02:14:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T02:00:08.054213+00:00"
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
   },
-  "US Politics": {
+  "China": {
     "articles": [
       {
-        "title": "Oregon could become first state to adopt universal healthcare - People's World",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmlqVGprcXdXRHYybXd4NmkzcnluSEpRVUFNYXFYZHVLcmxMblpOSlZWalpzbEJMYU5GS3BmT1B3aHQwMVhINVBPQ2ZrbnJfdDIyWFBmZGs1X3VHTjl5emYxR3IwUU9aUkU2ZGNMUi14dFFSb2xfV2ZRaG1vUmE0RzV2bktyUWRjSEpyTUpCNExJVEt6UGVMUjgxZWlDZEVu?oc=5",
-        "pubDate": "Thu, 21 Aug 2025 16:13:26 GMT"
+        "title": "China Deploys Armed Small Boats to Second Thomas Shoal - USNI News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkZYTGhMd1BxUUtpdEVraFRBR2NkWUdlQjFuQ2FyMnRSY1NBNjk2OURidm40YU5aeF9oVkVIOEI2TkgtbWJNYnZsZ3NTb1hnam5IMGJKV1BnRXRCaGhfZVNUaW01QkRGQTU0azRBdjlQR0dVazNsYVFLTkJzdDUzRGNJUmlyMmpBcV9YTzU5WQ?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 17:51:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T02:00:08.054213+00:00"
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "UK backs joint call for Israel to allow foreign media into Gaza - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JdjFyMGxDbWxFZUhCbVYzcE0yRmt4c2lBNVN3U3paNUhlcnlYcGxKMzI5Y0hpdGdvYXFrRmJQalVneThxRzZlZzRzZ3ByeHFHUVFJSFFLVm5hZ9IBX0FVX3lxTE1DMUxzWkVpekJTZGZnd0hHTkx6ZlRSNFlYSU1DYVRFZXZIYnhJQU1FS21IQkt1ZUdxbkwtWGRFZHhvcWRPMkFsWnhuRnlteDdlWTQxMUVLdUFodDRUanI4?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 15:55:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
+  },
+  "Earthquakes": {
+    "articles": [
+      {
+        "title": "Another earthquake reported in Upstate area - WYFF",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnVxN0d3MFdkSmlUaGw1VF96MHFDOG5Sam5MNXd0YVRSVXM1eklzcnNHR01lc25haEQ0X29UWEl5Mkh2eENmemFWUlR6R0taVFdTWEFOLW04aXY4YmtYMzJxTWFnNlphNlVMR1NsQmhiOVpRTlQwbDRxUGpSWVpXbnZtOG9yRF9IbUJBM05pMElCaGNkaXI5cQ?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 21:40:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
+  },
+  "Apple": {
+    "articles": [
+      {
+        "title": "Apple denies its Fitness chief is bullying his team as an employee sues - AppleInsider",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3ZKcDROQVJZT0xxWXR5Unl4OVZScEVQSkpNMV95R1RmTGlKVndsemhfTldROTMxSFlzaDhRc1FIeHk4YmN5NkVnSGFtVGxDdGlUNlc4NmFiNFo1UklhMkh5WnNvZ2c1TWM0UUIxeXFXNzZ5MEZSNWpXY2VTVHFVdEV0dGM1eGNZN3J5cDBibkJ1a3VJblRFZHZkQjR1ZnBiR0RQX284UTAtTVJYaTkya1J3QjY?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 17:26:46 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
+  },
+  "Bitcoin": {
+    "articles": [
+      {
+        "title": "Opinion: Here\u2019s the $863 billion secret Powell, Trump and Bessent aren\u2019t telling us about gold and bitcoin - MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVU2aGNHUmhNMjdTX3RhR1RTZHJXUmt5UUtMcGlwVlF2WmtIMVhHWnlzV2twaFpYenAxTG5GbHhKdHhQVGQ0Y2VoLXl1b0U2Ni1EeG8wbndiajRjbkRTM041czdScUFKZ2d2aHlsaEpIMEZQQ29qZHNwY1E5M0F1R0R3RW0wYXZKX1NUaWN2Z2xuc0h5T3JwYmcxQWxXVy1TQ0hKRjVCXzVfM1FSbWZoRUttX25JLU9rNWZTYlJzOU9KUQ?oc=5",
+        "pubDate": "Thu, 21 Aug 2025 19:01:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
+  },
+  "Jupiter": {
+    "articles": [
+      {
+        "title": "Scientists uncover clues to the mystery of Jupiter\u2019s core - Courthouse News Service",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTRXSUJ0Ulp1cE9GSThCUWlfcDQtcmdqR3J6TnpTeUhxU1NiTTNSenk4UHFnZGxvZXdKV2psZ1N0RTFTSUJXaWlsZ2k5YVVwRFMydkZDVm8yTDdCeHo2bnlJeWI1N1YwZmdiZ0VmQzZlVUZIRm1Cd3NOVlBveUpmYzFvMGtMQVRvUWRQbTZucDhsUQ?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 00:01:43 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T02:59:49.136146+00:00"
   }
 }
