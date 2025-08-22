@@ -77,10 +77,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Donald Trump's Move to Seize DC Metro Police Control Triggers Lawsuit - Newsweek",
-      "pubDate": "Fri, 15 Aug 2025 15:03:50 GMT"
-    },
-    {
       "title": "Live updates: Trump voices hope that \u2018something\u2019s going to come of\u2019 high-stakes meeting with Putin - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 17:17:28 GMT"
     },
@@ -605,10 +601,6 @@
   ],
   "china": [
     {
-      "title": "Applied Materials sinks 13% on weak guidance due to China demand - CNBC",
-      "pubDate": "Fri, 15 Aug 2025 15:06:34 GMT"
-    },
-    {
       "title": "Trump says Xi told him China will not invade Taiwan while he is in office - The Guardian",
       "pubDate": "Sat, 16 Aug 2025 00:10:48 GMT"
     },
@@ -799,6 +791,10 @@
     {
       "title": "China Tightens Rare Earth Controls With New Interim Rules Covering 407 Product Categories - Quiver Quantitative",
       "pubDate": "Fri, 22 Aug 2025 12:46:00 GMT"
+    },
+    {
+      "title": "Bridge under construction in China collapses into Yellow River, killing at least 12 people, state media say - CBS News",
+      "pubDate": "Fri, 22 Aug 2025 09:14:00 GMT"
     }
   ],
   "us_politics": [
@@ -1163,6 +1159,10 @@
     {
       "title": "Fed officials lukewarm on September rate cut as markets await Powell speech - Reuters",
       "pubDate": "Thu, 21 Aug 2025 18:17:59 GMT"
+    },
+    {
+      "title": "Federal Reserve could lower rates as job market loses steam, Powell says - Scripps News",
+      "pubDate": "Fri, 22 Aug 2025 15:12:36 GMT"
     }
   ],
   "earthquakes": [
@@ -1905,10 +1905,6 @@
   ],
   "gaza": [
     {
-      "title": "IDF Expands Troop Deployment in Outskirts of Gaza City - Haaretz",
-      "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
-    },
-    {
       "title": "House No. 2 Democrat Katherine Clark calls Gaza war a \"genocide\" - Axios",
       "pubDate": "Fri, 15 Aug 2025 17:16:42 GMT"
     },
@@ -2565,10 +2561,6 @@
   ],
   "asia": [
     {
-      "title": "Deadly flooding caused by heavy rain in Asia - CBS News",
-      "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
-    },
-    {
       "title": "As arms race in Asia intensifies, a-bomb survivors make final plea for peace - NPR",
       "pubDate": "Sat, 16 Aug 2025 12:00:00 GMT"
     },
@@ -2670,10 +2662,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
-      "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
-    },
     {
       "title": "California to end EV carpool lane stickers in September - NBC Bay Area",
       "pubDate": "Sat, 16 Aug 2025 03:17:53 GMT"
@@ -3161,6 +3149,10 @@
     {
       "title": "Investigation into CT home where more than 100 dead animals were found nets multiple arrests - Hartford Courant",
       "pubDate": "Thu, 21 Aug 2025 14:15:15 GMT"
+    },
+    {
+      "title": "Wyoming Man Accused of Torturing Wolf Is Charged With Animal Cruelty - The New York Times",
+      "pubDate": "Fri, 22 Aug 2025 14:26:26 GMT"
     }
   ],
   "quantum": [
@@ -3669,6 +3661,18 @@
     {
       "title": "Trump fires senior CIA analyst on Russia \u2013 The Economist - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Fri, 22 Aug 2025 02:57:49 GMT"
+    }
+  ],
+  "machine_learning": [
+    {
+      "title": "Scientists train deep-learning models to scrutinize biopsies like a human pathologist - Medical Xpress",
+      "pubDate": "Fri, 22 Aug 2025 14:20:10 GMT"
+    }
+  ],
+  "biology": [
+    {
+      "title": "New method enables comprehensive analysis of metabolites in biological samples - News-Medical",
+      "pubDate": "Fri, 22 Aug 2025 13:14:00 GMT"
     }
   ]
 }
