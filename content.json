@@ -1,52 +1,72 @@
 {
-  "AI Safety": {
+  "Gaza": {
     "articles": [
       {
-        "title": "AI experts not saving for retirement because they expect the machines to kill us - KRON4",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uaXJnSUJ3ekVqNHM1eFp6bVdFbWxib1VLZVVjcEN0RlZNWVBuMVp2RHZFcnpvZWlCME1qQW1YYXdPeXA3VS13STI0WWdiUnhRQnhDdk1rOXpPLUFzVVZ0bkVtSG5hMXdOLUpUNkE3aXVrbGdhTmfSAXtBVV95cUxNenNRYktrd1l2djhPV1EtM1VrVFhkOE1GNFJIYUZsdUstLWdTMnRFQmUwc05HbjhSX05TWXN2WXFWeGd6NFpoZFhUWXdWSEc0OTdoZFBTSlhBRjB4aFJiMk02UUN3X2JlcUlnQWlIalFBczVIM3p3Zk5NXzQ?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 21:22:11 GMT"
+        "title": "Israeli defense minister warns of Gaza City\u2019s destruction unless Hamas yields to his country\u2019s terms - PBS",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVlOTjR6c3pneEhBMmNUajlOLVNJN2JyQU16M1cxRkdTcGt5N2Z0YjZhVDRmdWkzWEVfVjZFTzI0TGxGTk50cmZxS3hWRUdnVDUzR2MzZzJjeHk0U1VYdTB1eEJ0d3pqT2V2QnJUckhsZTFSZm5XZEhsdjVPZERORFVScVRTWE9Ub2FqbV81M2tPN0pIWlFRNmFPdzRVcUNCN2lleThQdDJ5dG1HbjJhTzFZQ3JaTDZndGdlU1VYQnphWkZOc3JSSnZyV191UdIB0wFBVV95cUxPMm9ES2stN2V6dTlRUm1zOGtyeldDdmE0aTluVVNvUlBPZE41Z2Y1SDFRNWZXZl8tVlhZNjBuWm1fNEdrMnVaRmJVVE9aZDhUT01xOFREZ0tyNU4xSnpLTndabWMtYkc0a1h4UGowNXd2VFp0VVUwcVRSQjcwNVpuejRfYng0Qlg2cU9ESHB1UGpnVm45WmVUTnpTeTBRZk4yTmVMN3pkUlVURjk5X1BxVUh2dV9HeC16Q0FFd2UwSVZIbUtXcWt5R00xWjF1bjc2ZlVF?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 16:00:42 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T22:00:28.469581+00:00"
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
   },
-  "China": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Vietnam island building in Spratlys may soon surpass China's, report says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDlMZm1OSUZrQjRqV1dxV2xmQWluLVZZMmlPVjgtWDlING5nRjhTaFRERm9EVzdJeU5OZk40MDJjLXYwY2NSYVdYZ0FLbGF4a1piR0FZcms3eEVyaU5qa253OWg3eF8xZG11MVVNUTBway1oWk9RdjVja1lmMG1jSGVGOVRkVlA4WEVueXljZHl2a2RDaFJhbW1LYUV3XzRrLUZZYnc5djg1ZHVwajZCUy1SQ1JQaUk?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 20:45:50 GMT"
+        "title": "Trump threatens to put \u2018regular military\u2019 in Chicago to \u2018straighten it out\u2019 \u2014 and says New York City is after that - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDBsYkJZYXN4NWVpaDdSVTh3cHNJTnVHV0prV2Y3a0JRNFB4ZXFDcDM3VVFwZ0FUejBNWU1fMlZjOUZYX29tSE5uQnNFVHJGZ2drTWpvUEF5OUQ4d2tTbHg3aURvMXdjaWlORHJmUWFYaUJfMjdPMDF6VDlac1ZGc0ZTQklvX2tmRVI3MFU5V0pELTFoemlsbmxIbWc2WU9lWmEyalJaYS1aNVk?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 18:43:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T22:00:28.469581+00:00"
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
   },
   "Cancer": {
     "articles": [
       {
-        "title": "Health Rounds: GLP-1 drugs linked to lower cancer risks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemwzVkx1cU54dnVrdVlXN0J2c3hmSTJOd3NoQWphVUxtRUFpTFVXVldkck1ZMW51MW4wTkQ5X083Wjd5cUIzYWRHNVYxNWFqVkFuLVdLWjRLcDlfdlg3YkxXQnZGdkdXYVJiNXBIeU95dlRCeXoyWHNJVGxEMUMzdlkzOGl3eTVzS1ZMWE9QSUdJbTBKdTFYYk40NjlEZjZiNkRJbHlxbFIwZ0lpTlFLTW9LbThWSjdMRkJQTXVXUkY?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 11:17:37 GMT"
+        "title": "Workers who have cancer from building nuclear weapons struggle to make medical claims - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTB4S1U1WHNYQ2hVT0pBc0N6VjJWeUdRUkhZX2kxTmhZeUExSVVra0dUTXktMHlleWYyOXl5d2dlRXNZNEk3QUxJUy1qWG1ENnN3c2FRSFNDdElBSmVHT1duYmV1QnBjYzhoYzVwTDFXRkh5azRTWnBuYnVoa2E0bC10NTNPbnlzYmZQZklNQVV1OXNOWmdMektPbk5uamFDc1NycnItczFPOG95TFllWndSbDdDRUFaQWRBd0JtQzJqYkxlZVdlVA?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 21:50:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T22:00:28.469581+00:00"
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
   },
-  "Financial Markets": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Morning Bid: Treasuries tighten as Fed hawks re-emerge - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdEtVSjRUalFYeWJYOWlDX2lxa1lnWjl5QmRVcUF2RFNOeGE1QlVPZ05HZWVJZl9aRklEaUhhUnNtY2E4YnM1TEhRVlp5VFpRd2pnSjlzQWJRMHR3SUdvUnM3cjZPVXV0UWxQTGpEa0o4ZUJjYjJ4Sl9fM2hKYi03ZFVn?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 10:35:48 GMT"
+        "title": "Why the Federal Reserve has historically been independent of the White House - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWtrbkVHOEZ1LXpPMU9HN00tdWF3RHd6eFVTVm5jWFNlZGNxb09ldjJhSm1veHg4LUNqQVFacWpPUkZGNk8zd3YtUTBHTHNpU0xjVHlsdUtJSlVtclVyWndDRk9Pb09CaGdXZW42OXFCN0JaVDQ1dDdJcDVvOHBoNkZyQ1VCNWZiWVN3SUhPMUVmRDhFYXpSNXJMUHhMbWN6aXpQaS1QUGVDdndUVGVTUW41Qm5EcEVkV1dlQUZHM1VYOFlU?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 16:28:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T22:00:28.469581+00:00"
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
   },
-  "Pollution": {
+  "Blockchain": {
     "articles": [
       {
-        "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGVsNHduMGtkSXVJQXZlc0JUU3lYTmNXNk1yUHdQTnpjX1Fhb2Y3Zmg2Q1hHVnRESU9HV0MwM2QxWHd3M1h6Y2JjMFRQUTFOX3BFR0tEU1FnYnpRRTljcFQwSXE2Ry00N3RCU3QxNnpETGphT2ItTUs4V09JeE5PYWdLRE9ZUEpRdEJhczN3QVpjRU9vbGwtadIBngFBVV95cUxOTkEwU1V3Z3lFVm55MGw1cXppSVU1YkhDcm9DZmNmR2M5ZTJrZmdreDUxSHV0Tm1CX3lwWnhKdW9MS3BEWEdwaF9LRk9ZQTR2OFpPZnpVVHpjaTI0RW5wZG8yWE9kSmZnY3pkSVM3UmVVNDhPZkpJRXlaNG1kUmZPSExLa0ZBZ0NPMHdDTTFScHFBeThBY1Ytb0wyNHF1dw?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
+        "title": "EU Accelerates Digital Euro Plans, Considering Ethereum and Solana for Public Blockchain Implementation - Bitcoin.com News",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDlzcUhWV0x3MmNWQ1FnOVVDYm5PazdRbmRNd29hVnNqWFlscTBoR0lZRHl6WGtUVkFJdHl4ZkFtcE9jRFdrMVZuc0VlNlhFc2hpS2xmZjZWZDJSb2dLVXQ1dURlS04tQWJ1Y1c1cmRfbjFETXhWcnNhOUR6QzVZc2pibDdvR0JNM1FTbzFUUGNnX2R4eTFWN2tyejFscWQxbTV2WmVyaUVRTkJDcGJ0bzRoV3c4dWJJbjBxQXc4QjVnRXRhQnpz?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 19:23:30 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T22:00:28.469581+00:00"
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+  },
+  "Asteroids": {
+    "articles": [
+      {
+        "title": "Scientists observed a cloud of debris after the DART impact - Universe Space Tech",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5mNzA1UmVJcktKUWYyTEdmWTVpRWJneUpHci1sS1hwd0ZyVWVrcktPM2VnYkxBWVJ0WEQ5RVQ2RUdDRXhYeElPbnF6M3hmT1NYdFU2VUFkTHlwb1JieW1fV0lNSHI3aEdHczh1UUhTX3g1dHd3T2pjUV9neUJCUF9RbE9pTWh2N2txY1VJYVNXd0hzVFdr?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 11:52:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Opinion | HHS is using AI effectively? Someone\u2019s hallucinating. - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU1NV1JwejhyZGgxTHJ5MlptLU1KQjQ1NDBPZEVUd01HeTdkMkQ4N1V5VF9HelQ0V3dmOXJONTExdHJFcGljN1R3MDlBbGsycTBNU1JCczJ5RVNpN3p0dGQ5N1djQ3pDbnN0S3pFVDFuZGc3Y1hReGFEdmZiNldZT0xsZ3BlM090OEZQN0ZEVGI1QWltNWc?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 17:00:12 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
   }
 }
