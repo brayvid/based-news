@@ -585,10 +585,6 @@
   ],
   "china": [
     {
-      "title": "Applied Materials' forecast hit by China pause, export\u2011license woes; shares down 13% - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 23:16:57 GMT"
-    },
-    {
       "title": "Price War Hits to China Corporate Profits Confirm Investor Fears - Bloomberg.com",
       "pubDate": "Fri, 15 Aug 2025 06:53:00 GMT"
     },
@@ -870,10 +866,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "Kim Jong Un welcomes Russian Duma chief at 80th Liberation Day celebration - NK News",
-      "pubDate": "Thu, 14 Aug 2025 23:21:29 GMT"
-    },
     {
       "title": "North Korean broadcast cuts leave Christians isolated - Premier Christian News",
       "pubDate": "Fri, 15 Aug 2025 09:00:00 GMT"
@@ -1159,16 +1151,16 @@
     {
       "title": "Federal Reserve's Jackson Hole Symposium Kicks Off Today: What to Know - Investopedia",
       "pubDate": "Thu, 21 Aug 2025 13:49:00 GMT"
+    },
+    {
+      "title": "Fed officials lukewarm on September rate cut as markets await Powell speech - Reuters",
+      "pubDate": "Thu, 21 Aug 2025 18:17:59 GMT"
     }
   ],
   "earthquakes": [
     {
       "title": "New CalTech sheds light on behavior of Sagaing Fault, which shares similarities to San Andreas Fault - ABC7 Los Angeles",
       "pubDate": "Fri, 15 Aug 2025 01:18:45 GMT"
-    },
-    {
-      "title": "More than 100 earthquakes shake Northern Calif. in overnight swarm - MSN",
-      "pubDate": "Thu, 14 Aug 2025 23:51:52 GMT"
     },
     {
       "title": "San Andreas fault could unleash an earthquake unlike any seen before, study of deadly Myanmar quake suggests - Live Science",
@@ -1377,6 +1369,10 @@
     {
       "title": "Poland\u2019s President Uses Veto to Block Key Green Energy Bill - Bloomberg.com",
       "pubDate": "Thu, 21 Aug 2025 10:38:33 GMT"
+    },
+    {
+      "title": "Trump blames renewable energy for rising electricity prices. Experts point elsewhere - The Independent",
+      "pubDate": "Thu, 21 Aug 2025 20:09:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1549,6 +1545,10 @@
     {
       "title": "General Fusion escapes funding crunch with $22-million financing to achieve key scientific milestone - The Globe and Mail",
       "pubDate": "Thu, 21 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Struggling fusion power company General Fusion gets $22M lifeline from investors - TechCrunch",
+      "pubDate": "Thu, 21 Aug 2025 18:12:29 GMT"
     }
   ],
   "nvidia": [
@@ -1660,10 +1660,6 @@
     }
   ],
   "hacking": [
-    {
-      "title": "Investigators believe Russia at least partially responsible for US court records hack - The Jerusalem Post",
-      "pubDate": "Thu, 14 Aug 2025 23:53:05 GMT"
-    },
     {
       "title": "Over 9,200 cyberattacks hit South Korean military in 6 months - The Korea Herald",
       "pubDate": "Sun, 17 Aug 2025 04:26:51 GMT"
@@ -2071,6 +2067,10 @@
     {
       "title": "Israel will begin ceasefire negotiations, Netanyahu says - BBC",
       "pubDate": "Thu, 21 Aug 2025 20:05:24 GMT"
+    },
+    {
+      "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks - Al Jazeera",
+      "pubDate": "Thu, 21 Aug 2025 21:15:23 GMT"
     }
   ],
   "battery_technology": [
@@ -2378,10 +2378,6 @@
     }
   ],
   "amazon": [
-    {
-      "title": "Jackie Bezos, mother of Amazon founder, dies at 78 - GeekWire",
-      "pubDate": "Thu, 14 Aug 2025 23:09:55 GMT"
-    },
     {
       "title": "Shein and Temu Face Tougher Times in the U.S. That\u2019s Good News for Amazon. - Barron's",
       "pubDate": "Sun, 17 Aug 2025 05:00:00 GMT"
@@ -2930,10 +2926,6 @@
     }
   ],
   "violence": [
-    {
-      "title": "Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - AP News",
-      "pubDate": "Thu, 14 Aug 2025 23:43:00 GMT"
-    },
     {
       "title": "12 shot, 3 fatally, as multiple shooters open fire in NYC nightclub: NYPD - ABC News",
       "pubDate": "Sun, 17 Aug 2025 16:42:59 GMT"
@@ -3501,6 +3493,10 @@
     {
       "title": "US Air Force F-16 fighter jet pilots to train against augmented reality threats in flight - Aerospace Global News",
       "pubDate": "Tue, 19 Aug 2025 14:28:34 GMT"
+    },
+    {
+      "title": "Meta\u2019s New 2mm Laser Display Could Enable True AR Glasses - extremetech.com",
+      "pubDate": "Thu, 21 Aug 2025 19:45:38 GMT"
     }
   ],
   "earth's_atmosphere": [
@@ -3613,6 +3609,12 @@
     {
       "title": "Scientists use new mathematical approach to protect aircraft from 5G interference - Tech Xplore",
       "pubDate": "Thu, 21 Aug 2025 15:06:03 GMT"
+    }
+  ],
+  "data_analysis": [
+    {
+      "title": "Can AI produce reliable and consistent data analysis? - Stockholm Environment Institute",
+      "pubDate": "Thu, 21 Aug 2025 13:57:23 GMT"
     }
   ]
 }
