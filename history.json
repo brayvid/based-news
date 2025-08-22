@@ -1221,6 +1221,10 @@
     {
       "title": "Another earthquake reported in Upstate area - WYFF",
       "pubDate": "Thu, 21 Aug 2025 21:40:00 GMT"
+    },
+    {
+      "title": "Map: 7.5-Magnitude Earthquake Strikes the South Atlantic Ocean - The New York Times",
+      "pubDate": "Fri, 22 Aug 2025 03:45:33 GMT"
     }
   ],
   "elon_musk": [
@@ -1583,6 +1587,10 @@
     {
       "title": "Exclusive: Nvidia working on new AI chip for China that outperforms the H20, sources say - Reuters",
       "pubDate": "Tue, 19 Aug 2025 11:08:55 GMT"
+    },
+    {
+      "title": "Nvidia Orders Halt to H20 Production After China Directive Against Purchases - The Information",
+      "pubDate": "Thu, 21 Aug 2025 23:59:00 GMT"
     }
   ],
   "openai": [
@@ -1629,6 +1637,10 @@
     {
       "title": "OpenAI may soon be the world\u2019s most valuable private company\u2014but CEO Sam Altman won\u2019t profit much, with no equity and just a $76,001 salary - Fortune",
       "pubDate": "Thu, 21 Aug 2025 15:42:00 GMT"
+    },
+    {
+      "title": "Elon Musk asked Meta CEO Mark Zuckerberg to join xAI bid to buy OpenAI, filing shows - CNBC",
+      "pubDate": "Fri, 22 Aug 2025 03:05:00 GMT"
     }
   ],
   "environment": [
@@ -2149,10 +2161,6 @@
   ],
   "physics": [
     {
-      "title": "A Glimpse of New Physics? ATLAS Edges Closer to Unlocking Higgs Boson Secrets - SciTechDaily",
-      "pubDate": "Fri, 15 Aug 2025 03:55:56 GMT"
-    },
-    {
       "title": "Scientists find new quantum behavior in unusual superconducting material - Phys.org",
       "pubDate": "Sat, 16 Aug 2025 07:16:23 GMT"
     },
@@ -2323,6 +2331,10 @@
     {
       "title": "Hurricane science has come leaps and bounds since Katrina. The progress is now at risk - NPR",
       "pubDate": "Thu, 21 Aug 2025 20:20:06 GMT"
+    },
+    {
+      "title": "Global rules shaping the treeline under climate change revealed - Phys.org",
+      "pubDate": "Thu, 21 Aug 2025 19:44:03 GMT"
     }
   ],
   "volcanoes": [
@@ -2389,10 +2401,6 @@
   ],
   "military_and_defense": [
     {
-      "title": "Russia's long-range bombers kept up attack tempo, showing fleet's 'resilience' despite Ukraine's Spiderweb attack: UK MOD - Business Insider Africa",
-      "pubDate": "Fri, 15 Aug 2025 03:34:15 GMT"
-    },
-    {
       "title": "Russia improved its missiles. Now, Ukraine's Patriots are struggling to consistently shoot them down, defense intel says. - Business Insider",
       "pubDate": "Fri, 15 Aug 2025 14:46:00 GMT"
     },
@@ -2454,10 +2462,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Japan posts unexpectedly strong GDP, helped by resilient exports - Reuters",
-      "pubDate": "Fri, 15 Aug 2025 03:33:11 GMT"
-    },
     {
       "title": "Blackwater\u2019s Erik Prince Muscles Back into the Mercenary Business, Touting Trump Allies - The Wall Street Journal",
       "pubDate": "Sun, 17 Aug 2025 01:00:00 GMT"
@@ -3003,6 +3007,10 @@
     {
       "title": "Erin batters NC coastline, parts of NC12 shutdown, tropical storm warning and watch in effect - ABC11",
       "pubDate": "Thu, 21 Aug 2025 21:32:00 GMT"
+    },
+    {
+      "title": "New Jersey declares State of Emergency for Hurricane Erin | LIVE RADAR - 6abc Philadelphia",
+      "pubDate": "Fri, 22 Aug 2025 00:27:03 GMT"
     }
   ],
   "self-driving_cars": [
@@ -3235,12 +3243,6 @@
     {
       "title": "Intel gets $2 billion lifeline in the form of SoftBank equity investment - Reuters",
       "pubDate": "Tue, 19 Aug 2025 14:40:54 GMT"
-    }
-  ],
-  "tidal_power": [
-    {
-      "title": "Japan connects first 1.1 MW tidal turbine - Transformers Magazine",
-      "pubDate": "Fri, 15 Aug 2025 03:03:43 GMT"
     }
   ],
   "fixed-income_investing": [
@@ -3605,6 +3607,12 @@
     {
       "title": "Scientists uncover clues to the mystery of Jupiter\u2019s core - Courthouse News Service",
       "pubDate": "Fri, 22 Aug 2025 00:01:43 GMT"
+    }
+  ],
+  "jamie_raskin": [
+    {
+      "title": "House Democrats probe Paramount, Skydance merger, CNBC says - TipRanks",
+      "pubDate": "Thu, 21 Aug 2025 19:02:03 GMT"
     }
   ]
 }
