@@ -177,10 +177,6 @@
   ],
   "ai_safety": [
     {
-      "title": "How Anthropic trains and tests Claude for safe use - Digital Watch Observatory",
-      "pubDate": "Fri, 15 Aug 2025 06:22:00 GMT"
-    },
-    {
       "title": "Anthropic has new rules for a more dangerous AI landscape - The Verge",
       "pubDate": "Fri, 15 Aug 2025 17:05:16 GMT"
     },
@@ -585,10 +581,6 @@
   ],
   "china": [
     {
-      "title": "Price War Hits to China Corporate Profits Confirm Investor Fears - Bloomberg.com",
-      "pubDate": "Fri, 15 Aug 2025 06:53:00 GMT"
-    },
-    {
       "title": "China's Mounting Debt Could Spell Trouble for Economy - Newsweek",
       "pubDate": "Fri, 15 Aug 2025 08:00:01 GMT"
     },
@@ -927,10 +919,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Accenture to acquire CyberCX in largest cybersecurity deal to date - Investing.com",
-      "pubDate": "Fri, 15 Aug 2025 06:16:01 GMT"
-    },
-    {
       "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure - The Hacker News",
       "pubDate": "Sat, 16 Aug 2025 10:41:00 GMT"
     },
@@ -1025,6 +1013,10 @@
     {
       "title": "US charges Oregon man in vast botnet-for-hire operation - Cybersecurity Dive",
       "pubDate": "Thu, 21 Aug 2025 16:06:35 GMT"
+    },
+    {
+      "title": "House lawmakers take aim at education requirements for federal cyber jobs - CyberScoop",
+      "pubDate": "Thu, 21 Aug 2025 20:09:23 GMT"
     }
   ],
   "recession": [
@@ -1225,12 +1217,20 @@
     {
       "title": "Map: 7.5-Magnitude Earthquake Strikes the South Atlantic Ocean - The New York Times",
       "pubDate": "Fri, 22 Aug 2025 03:45:33 GMT"
+    },
+    {
+      "title": "Major earthquake rocks South Atlantic, prompting tsunami advisory for parts of Antarctica - MSN",
+      "pubDate": "Fri, 22 Aug 2025 06:30:08 GMT"
     }
   ],
   "elon_musk": [
     {
       "title": "Elon Musk must face lawsuit claiming he ran illegal $1 million election lottery - Reuters",
       "pubDate": "Wed, 20 Aug 2025 23:48:19 GMT"
+    },
+    {
+      "title": "Elon Musk and X reach settlement with axed Twitter workers - BBC",
+      "pubDate": "Fri, 22 Aug 2025 02:51:40 GMT"
     }
   ],
   "cancer": [
@@ -1457,13 +1457,13 @@
     {
       "title": "Dozens more Afghan relocation data breaches uncovered by BBC - BBC",
       "pubDate": "Thu, 21 Aug 2025 05:00:01 GMT"
+    },
+    {
+      "title": "Data breach of over 500 customers reported by regional service provider - Modesto Bee",
+      "pubDate": "Thu, 21 Aug 2025 19:25:57 GMT"
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin falls after Treasury Secretary rules out buying it for strategic reserve - Quartz",
-      "pubDate": "Fri, 15 Aug 2025 06:00:33 GMT"
-    },
     {
       "title": "Treasury Secretary Reveals U.S. Bitcoin Surprise, Triggering Price Shockwaves - Forbes",
       "pubDate": "Fri, 15 Aug 2025 11:31:05 GMT"
@@ -1797,6 +1797,10 @@
     {
       "title": "SharpLink Gaming Expands Ethereum Treasury With Massive $667M Purchase - Bitcoinsensus",
       "pubDate": "Wed, 20 Aug 2025 15:56:15 GMT"
+    },
+    {
+      "title": "Singapore Bank DBS Debuts Tokenized Structured Notes on Ethereum - Decrypt",
+      "pubDate": "Thu, 21 Aug 2025 21:01:34 GMT"
     }
   ],
   "alternative_energy": [
@@ -2339,6 +2343,10 @@
     {
       "title": "Global rules shaping the treeline under climate change revealed - Phys.org",
       "pubDate": "Thu, 21 Aug 2025 19:44:03 GMT"
+    },
+    {
+      "title": "WHO warns of risks of extreme heat in the workplace - BBC",
+      "pubDate": "Fri, 22 Aug 2025 06:08:54 GMT"
     }
   ],
   "volcanoes": [
@@ -2639,6 +2647,10 @@
     {
       "title": "Analysis | Putin had a good hand in Alaska, but the D.C. summit shows he overplayed it - The Washington Post",
       "pubDate": "Wed, 20 Aug 2025 19:56:30 GMT"
+    },
+    {
+      "title": "Trump's Geopolitical Realignment and the Reshaping of Global Alliances: High-Conviction Investment Opportunities in Emerging Multipolar Power Blocs - AInvest",
+      "pubDate": "Fri, 22 Aug 2025 04:28:05 GMT"
     }
   ],
   "electric_vehicle": [
