@@ -77,10 +77,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump, an active intervenor in tech, reported holdings in Nvidia, Apple - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 14:37:43 GMT"
-    },
-    {
       "title": "Donald Trump's Move to Seize DC Metro Police Control Triggers Lawsuit - Newsweek",
       "pubDate": "Fri, 15 Aug 2025 15:03:50 GMT"
     },
@@ -583,6 +579,10 @@
     {
       "title": "A week after Trump embraced Putin, the Ukraine peace effort is going nowhere - CNN",
       "pubDate": "Fri, 22 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "No Putin-Zelenskyy meeting planned until agenda is agreed, Russia\u2019s foreign minister says \u2013 Europe live - The Guardian",
+      "pubDate": "Fri, 22 Aug 2025 07:35:00 GMT"
     }
   ],
   "us_economy": [
@@ -1025,6 +1025,10 @@
     {
       "title": "House lawmakers take aim at education requirements for federal cyber jobs - CyberScoop",
       "pubDate": "Thu, 21 Aug 2025 20:09:23 GMT"
+    },
+    {
+      "title": "CISA warns of Apple zero-day used in targeted cyberattacks - The Record from Recorded Future News",
+      "pubDate": "Fri, 22 Aug 2025 13:14:51 GMT"
     }
   ],
   "recession": [
@@ -1405,10 +1409,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "New SEC initiative aims to modernize cryptocurrency regulations - Fox Business",
-      "pubDate": "Fri, 15 Aug 2025 14:49:37 GMT"
-    },
-    {
       "title": "Bitcoin and Ether ETFs post $40B volume in \u2018biggest week ever\u2019 - Cointelegraph",
       "pubDate": "Sat, 16 Aug 2025 02:57:51 GMT"
     },
@@ -1430,10 +1430,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Over 190 million hit in UnitedHealth data breach \u2014 confirmed largest in history - Tom's Guide",
-      "pubDate": "Fri, 15 Aug 2025 14:56:16 GMT"
-    },
     {
       "title": "Data of former UK ministers and Afghan refugees leaked after cyber attack - Financial Times",
       "pubDate": "Fri, 15 Aug 2025 20:18:43 GMT"
@@ -1584,14 +1580,6 @@
     }
   ],
   "nvidia": [
-    {
-      "title": "Nvidia Stock (NVDA) Weakens as Trump Says \u201914 Days\u2019 Until Chips Tariffs Hit - TipRanks",
-      "pubDate": "Fri, 15 Aug 2025 14:58:06 GMT"
-    },
-    {
-      "title": "Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock. - Barron's",
-      "pubDate": "Fri, 15 Aug 2025 14:59:00 GMT"
-    },
     {
       "title": "Is Nvidia a Republican or a Democrat? These political ETFs have voted. - MarketWatch",
       "pubDate": "Mon, 18 Aug 2025 11:35:00 GMT"
@@ -1917,14 +1905,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza Medics Say 16 Palestinians Killed by IDF in Past Day, Including Five While Waiting for Aid - Haaretz",
-      "pubDate": "Fri, 15 Aug 2025 14:20:00 GMT"
-    },
-    {
-      "title": "Agonising heat wave hits Gaza amid widescale dehydration and famine - Middle East Eye",
-      "pubDate": "Fri, 15 Aug 2025 14:33:40 GMT"
-    },
-    {
       "title": "IDF Expands Troop Deployment in Outskirts of Gaza City - Haaretz",
       "pubDate": "Fri, 15 Aug 2025 15:52:00 GMT"
     },
@@ -2135,6 +2115,10 @@
     {
       "title": "Gaza City suffering a \u2018man-made\u2019 famine that\u2019s likely to spread, UN-backed initiative says - CNN",
       "pubDate": "Fri, 22 Aug 2025 09:07:00 GMT"
+    },
+    {
+      "title": "Famine in Gaza confirmed by hunger monitor for first time since war started - Axios",
+      "pubDate": "Fri, 22 Aug 2025 11:13:51 GMT"
     }
   ],
   "battery_technology": [
@@ -2387,6 +2371,10 @@
     {
       "title": "Public Commenters Overwhelmingly Oppose EPA\u2019s Plan to Curtail Key Climate Protections - Mother Jones",
       "pubDate": "Fri, 22 Aug 2025 09:59:53 GMT"
+    },
+    {
+      "title": "As AI becomes part of everyday life, it brings a hidden climate cost - The Hill",
+      "pubDate": "Fri, 22 Aug 2025 13:01:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2460,10 +2448,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "Russia improved its missiles. Now, Ukraine's Patriots are struggling to consistently shoot them down, defense intel says. - Business Insider",
-      "pubDate": "Fri, 15 Aug 2025 14:46:00 GMT"
-    },
     {
       "title": "1,000 drones given to Ukrainian frontlines in two weeks - The Jerusalem Post",
       "pubDate": "Sat, 16 Aug 2025 02:18:58 GMT"
@@ -2686,10 +2670,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "A Biden EV charger project is reinvented for the Trump era - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 14:37:42 GMT"
-    },
     {
       "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
       "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
@@ -3081,6 +3061,10 @@
     {
       "title": "It's Official: Asteroids Ryugu and Bennu Are Siblings - Universe Today",
       "pubDate": "Tue, 19 Aug 2025 20:27:00 GMT"
+    },
+    {
+      "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
+      "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
     }
   ],
   "mars": [
@@ -3313,12 +3297,6 @@
       "pubDate": "Wed, 20 Aug 2025 11:09:00 GMT"
     }
   ],
-  "earth": [
-    {
-      "title": "60% of Earth's Land at Risk, Map Shows - Newsweek",
-      "pubDate": "Fri, 15 Aug 2025 15:00:01 GMT"
-    }
-  ],
   "science": [
     {
       "title": "Scientists capture first footage of human embryo implanting in a uterus - The Guardian",
@@ -3354,10 +3332,6 @@
     }
   ],
   "wind_power": [
-    {
-      "title": "China builds record-breaking floating wind turbine \u2014 it could change the face of renewable energy - Live Science",
-      "pubDate": "Fri, 15 Aug 2025 14:00:00 GMT"
-    },
     {
       "title": "China tests world\u2019s largest floating wind turbine, a 17 MW giant that could power 6,300 homes a year - WION",
       "pubDate": "Sun, 17 Aug 2025 12:25:00 GMT"
@@ -3683,6 +3657,18 @@
     {
       "title": "US halts sharing of Ukraine peace talk intelligence with Five Eyes allies - Harici",
       "pubDate": "Fri, 22 Aug 2025 13:04:51 GMT"
+    }
+  ],
+  "inflation": [
+    {
+      "title": "Fed's Powell announces policy framework tweaks for changed economic landscape - Reuters",
+      "pubDate": "Fri, 22 Aug 2025 14:02:59 GMT"
+    }
+  ],
+  "central_intelligence_agency": [
+    {
+      "title": "Trump fires senior CIA analyst on Russia \u2013 The Economist - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Fri, 22 Aug 2025 02:57:49 GMT"
     }
   ]
 }
