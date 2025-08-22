@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump admin live updates: Bondi says DEA head is DC 'emergency police commissioner' - ABC News",
-      "pubDate": "Fri, 15 Aug 2025 04:36:00 GMT"
-    },
-    {
       "title": "Trump, an active intervenor in tech, reported holdings in Nvidia, Apple - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 14:37:43 GMT"
     },
@@ -247,6 +243,10 @@
     {
       "title": "Biden-era AI safety promises aren\u2019t holding up, and Apple\u2019s the weakest link - Fast Company",
       "pubDate": "Thu, 21 Aug 2025 09:12:40 GMT"
+    },
+    {
+      "title": "How Architectural Controls Help Can Fill the AI Security Gap - Dark Reading | Security",
+      "pubDate": "Thu, 21 Aug 2025 19:12:44 GMT"
     }
   ],
   "financial_markets": [
@@ -284,10 +284,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Powerful new AI models knock the wind out of European adopter stocks - Reuters",
-      "pubDate": "Fri, 15 Aug 2025 04:33:00 GMT"
-    },
     {
       "title": "Australian lawyer apologizes for AI-generated errors in murder case - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 07:12:34 GMT"
@@ -1511,6 +1507,10 @@
     {
       "title": "Opinion: Here\u2019s the $863 billion secret Powell, Trump and Bessent aren\u2019t telling us about gold and bitcoin - MarketWatch",
       "pubDate": "Thu, 21 Aug 2025 19:01:00 GMT"
+    },
+    {
+      "title": "Bitcoin\u2019s $13.8B options expiry puts bulls on edge ahead of key test - Cointelegraph",
+      "pubDate": "Thu, 21 Aug 2025 20:28:31 GMT"
     }
   ],
   "fusion_power": [
@@ -1859,6 +1859,10 @@
     {
       "title": "UBS Asserts Ormat Technologies (ORA) \u2018Buy\u2019 Stance on Geothermal Portfolio Growth - ca.finance.yahoo.com",
       "pubDate": "Thu, 21 Aug 2025 04:21:00 GMT"
+    },
+    {
+      "title": "We could get most metals for clean energy without opening new mines - New Scientist",
+      "pubDate": "Thu, 21 Aug 2025 18:00:43 GMT"
     }
   ],
   "global_health": [
@@ -2397,6 +2401,10 @@
     {
       "title": "Amazon Joins AMD to Back South Korean AI Startup Upstage - Bloomberg.com",
       "pubDate": "Wed, 20 Aug 2025 11:45:00 GMT"
+    },
+    {
+      "title": "Amazon Cloud Boss Calls Replacing Junior Workers With AI 'Dumbest' Idea - NDTV",
+      "pubDate": "Fri, 22 Aug 2025 03:03:54 GMT"
     }
   ],
   "military_and_defense": [
@@ -2681,10 +2689,6 @@
   ],
   "india": [
     {
-      "title": "Sudden, heavy rain in Indian Kashmir leaves dozens dead, more than 200 missing - CNN",
-      "pubDate": "Fri, 15 Aug 2025 04:48:00 GMT"
-    },
-    {
       "title": "Trump Claims Russia Lost \"Oil Client\" India, Then Another Tariff Message - NDTV",
       "pubDate": "Sat, 16 Aug 2025 04:38:14 GMT"
     },
@@ -2780,10 +2784,6 @@
     }
   ],
   "democracy": [
-    {
-      "title": "Obama praises Texas Democrats and calls state redistricting effort \u2018a systematic assault on democracy\u2019 - CNN",
-      "pubDate": "Fri, 15 Aug 2025 04:56:00 GMT"
-    },
     {
       "title": "Australia grants asylum to former Hong Kong lawmaker and pro-democracy activist - yahoo.com",
       "pubDate": "Sat, 16 Aug 2025 10:41:55 GMT"
@@ -3153,6 +3153,10 @@
     {
       "title": "How Rome\u2019s Rulers Tried to Stamp Out the Right to Protest - Jacobin",
       "pubDate": "Sun, 17 Aug 2025 16:07:30 GMT"
+    },
+    {
+      "title": "Victory Celebration Pits Reveal 6,300-Year-Old War Horrors - Ancient Origins",
+      "pubDate": "Thu, 21 Aug 2025 20:00:13 GMT"
     }
   ],
   "department_of_homeland_security": [
@@ -3219,10 +3223,6 @@
   ],
   "health": [
     {
-      "title": "HHS revives child vaccine safety panel sought by anti-vaccine activists - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 04:43:50 GMT"
-    },
-    {
       "title": "Wildfire smoke far more dangerous to health than thought, say scientists - The Guardian",
       "pubDate": "Wed, 20 Aug 2025 01:30:00 GMT"
     },
@@ -3243,12 +3243,6 @@
     {
       "title": "Intel gets $2 billion lifeline in the form of SoftBank equity investment - Reuters",
       "pubDate": "Tue, 19 Aug 2025 14:40:54 GMT"
-    }
-  ],
-  "fixed-income_investing": [
-    {
-      "title": "Global Credit Market Opportunities in Q2 2025: Strategic Positioning in a Shifting Fixed Income Landscape - AInvest",
-      "pubDate": "Fri, 15 Aug 2025 04:14:07 GMT"
     }
   ],
   "defense_intelligence_agency": [
@@ -3547,6 +3541,10 @@
     {
       "title": "FCA warns algorithmic trading firms over compliance failures - Financial News London",
       "pubDate": "Thu, 21 Aug 2025 16:14:05 GMT"
+    },
+    {
+      "title": "UK Watchdog Puts Algo Trading Firms\u2019 Risk Controls Under the Microscope - Finance Magnates",
+      "pubDate": "Thu, 21 Aug 2025 17:09:32 GMT"
     }
   ],
   "apple": [
@@ -3561,6 +3559,10 @@
     {
       "title": "Apple denies its Fitness chief is bullying his team as an employee sues - AppleInsider",
       "pubDate": "Thu, 21 Aug 2025 17:26:46 GMT"
+    },
+    {
+      "title": "Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown - Bloomberg.com",
+      "pubDate": "Fri, 22 Aug 2025 01:00:00 GMT"
     }
   ],
   "gpus": [
