@@ -1,52 +1,62 @@
 {
-  "Animals": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Wyoming Man Accused of Torturing Wolf Is Charged With Animal Cruelty - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUdLeTBCUUJyQi0xYzAzekFldmkxelpZT3drTy1Mci1HdjcwZ2ZEM2tiSE9wWkJHNGU0djZnSlY5RU1YTGhrcE0tOU15RlprZVhndEtscGljNlBKUWxtOFhnTjhuM1htSUNvN3RWQmU1Q0ppUEFLMlZST1Y0d3NMeGNQclViNmdSdTA2dVJTRnhfUQ?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 14:26:26 GMT"
+        "title": "Keeping humans in the AI loop - cio.com",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hcGF3WXdZN0gwVm1OSHFzQWZCVUZJd2pXX2hnc19YX3hrNGVKX2tHaU1GQXhsbFV5OWo3RUxHcHAyRzVJN1BjeTZOM3kxT0Q5YWh2cUVNOGpScG4yRHRfazU5bmk1Q1BLMU1IdEk5Yk9uR1VabkZrdGRn?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 10:03:57 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T16:00:15.027665+00:00"
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "Bridge under construction in China collapses into Yellow River, killing at least 12 people, state media say - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmZlcTZYbHQ2d2pwWmgwTmRjRmx6SE1YbW44ZnJMTUFsMDRkdUx4WEdVTkktMlJCWU0yVEZKT290Uy1LVVJodkN2eGp5R2VFaU92ZlR5XzdrbWltcE01a0VJdE1vVU5FN0xxSFBzNTBrNFZzbE8tU0RkY3NXbXJ4OS1Vc1I0R1A3ZnJQSnhmWWtPTTBTR3dyT3BLMNIBoAFBVV95cUxOUEJVZFo1WWVWYTRBc0NnRzJvQ21xT0ltZU90NzJEUDI0elN2Z1pOUU5pMjhIS3JIa19oVXRrbjBpVzFoelBPOGgwaWV3cEhPcXhqd3pJZ01rWVJaYTFaeFVJd0luRUQyNVVSR1BCRHVybmt1d2ZldkJ2NUh5RjRycXplQ2JUYXdRX0Q4a01sLWlQa0JNTEhfUTVyeUdXcld2?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 09:14:00 GMT"
+        "title": "Beijing Responds as Ukraine Rejects China Peacekeeping Role - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUJmaElzcmVhMXppUFVoWExUT1RWM0UwS1RtN0tDcDc0d0lLZXdERk0xc1VTQ3NmcWhaQmJGWjFzR05OYm14b3d3OEd0ZmFiMEN2aVB1YmdUSkk5ZXp6cjVnOGtrN25pMjl5SkNKWmg4cDl1Nm1EaHhPYUdCVi13UUhB?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 09:58:05 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T16:00:15.027665+00:00"
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
   },
-  "Machine Learning": {
+  "Cancer": {
     "articles": [
       {
-        "title": "Scientists train deep-learning models to scrutinize biopsies like a human pathologist - Medical Xpress",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWpVeHA4X0xLVkZ3b2czcmJEWmVsazJpcWNKV19Bekd0VGpkMFg4bUNRUFdFVWVjeElUMm5FQl9najQzM1dTUjhELWY2RFhIMHItMkh2eUxKTUNwX2VEVEFiTlJENkhva01ySUtfMXctSHEzZnBnY2tleFlTUVFoX0k0SEM4RGNoeEFKMHNR?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 14:20:10 GMT"
+        "title": "mRNA Vaccine For Pancreatic Cancer Continues To Show Promise - Science Friday",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmdzVGxaZDBnejF1YldSN3Nhc2NUZS1sR2ZxbkFKbUllcmtKVElWU1NRX2V2ajA2VVFmcUhXZWZmQ2otRldidURINVpva1R4ZXFaQlUyV1Vjc1Jkd3NDcDU2NFRfZmJCZU5Lbi1GUFh2QlJQNUhzTXUyNmNBUFRJMnhPd1Fudw?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 10:02:50 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T16:00:15.027665+00:00"
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
   },
-  "Biology": {
+  "Earth": {
     "articles": [
       {
-        "title": "New method enables comprehensive analysis of metabolites in biological samples - News-Medical",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWp4RnkxNnVuREQxaV9tUDVoRklxWTRrQmxSdkFOVUdkTUI1bE1xX2Zxb3F4bmVmNHNQQnAtR1A2Mk5qaUdURno1SG9EbGlOaUNtM1AwT1hqNHNucHBDXy14MW9yYVo5U2VYdU11WDd1Q0M4MnY2bFpFZzdsNkM0UDg1ck5DMExJZWxNZGkzS1g5bjhwRW1TVVZldUIxbEZuU0k3UnBsWWtxSThfM2U0S2lLWFMtemhZc1hmWjFhckloeXF5?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 13:14:00 GMT"
+        "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkhUZjFMVjItV0x6WkpQRl9nRWRVNncwWVpmN0hTYzBSbEFHSWxyb1JkS08xZ3FuQS1NdjVFck5NdnM0UnRoemNVcDE3TTdkaVhIUVFsZDJ0eEtLUnl4NjU2XzdEc0ZsZWxtYW9aa1I3RFBNbW9vZjQ5c2djT1dLdFRabTdOdFlBM3d1WlI5NXloOVdINk1j?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T16:00:15.027665+00:00"
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
   },
   "Federal Reserve": {
     "articles": [
       {
-        "title": "Federal Reserve could lower rates as job market loses steam, Powell says - Scripps News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk9jQnRKNTZLakZWQ2I5WVVpRm9fV2RRMXVBYmRTYWRtWS0yMFgtV0FpZ3VhSENfVWsxMFNhN0J4TDRfYkVxYlM5RkVJQXNJeWhWMFdIbnFfVmptbTdIY1AzTkM0OEctQnVyZ2FZRlBYRU1ra1BNdUh0RXFSdHdyNE1HdWw5eXhZYVRUdHNMRzg3dnY2LTdGeFBZaFJvZ01NODEzUUt1d2ZTU1RISE1kcnkwNl9fT0U?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 15:12:36 GMT"
+        "title": "Federal Reserve\u2019s Lisa Cook faces Trump firing threat over mortgage fraud claims - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUI4WTVWT3pEUWt4X1NrbC1OTFd5UkpRSVppUTY2SlcyU3Z4dE4wQjkxZ1NnWnAzNnBONjNKeXFoeW1SWmNnVHZHVHRlVlB1SkdJdHNLTFBUS21ock5qdW92ejR6ZmkxZGpNSVpQVEtQcU42dVdheGZ0TVkyQmVWTXlZbzNxMEVjQ1hxR3FJTG9jRXBkZWxqOU92aldnMlBmQ09aejNiNjJud3JRSy00Q253?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 16:20:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T16:00:15.027665+00:00"
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia trying to stop meeting on peace and prolong war, says Zelensky - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Q3RuV2ZqSWdXQkpBMTVYS2ZsYTFKaEJLQjhiTjJvSkJGd1FmWUdGYTBtMEg0SGFtQ0VRbmEzSHRrQ01NbWdWS3NEZ0F2M1lQTjNTZjVMMFJyd9IBX0FVX3lxTE1raVlRUkhmV3k0aDlUcjFOU0xPUWV0QkpmSnhRZEZSNFFRbXkwRFJhVEFmYUIyOC01b3FnX09VdnRGUXg5ZG9iOHJNNThfd1Q4ZDExR1QtV1hyaEs1YmFj?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 15:46:22 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-22T17:00:15.076443+00:00"
   }
 }

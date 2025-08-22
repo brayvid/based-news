@@ -181,6 +181,10 @@
     {
       "title": "Putin is facing a fuel crisis as Ukraine escalates attacks on Russian refineries - Atlantic Council",
       "pubDate": "Thu, 21 Aug 2025 21:06:00 GMT"
+    },
+    {
+      "title": "Russia trying to stop meeting on peace and prolong war, says Zelensky - BBC",
+      "pubDate": "Fri, 22 Aug 2025 15:46:22 GMT"
     }
   ],
   "ai_safety": [
@@ -259,6 +263,10 @@
     {
       "title": "Hackers Exploit ChatGPT-5 Downgrade Trick to Evade AI Safeguards - cyberpress.org",
       "pubDate": "Fri, 22 Aug 2025 05:01:45 GMT"
+    },
+    {
+      "title": "Keeping humans in the AI loop - cio.com",
+      "pubDate": "Fri, 22 Aug 2025 10:03:57 GMT"
     }
   ],
   "financial_markets": [
@@ -795,16 +803,16 @@
     {
       "title": "Bridge under construction in China collapses into Yellow River, killing at least 12 people, state media say - CBS News",
       "pubDate": "Fri, 22 Aug 2025 09:14:00 GMT"
+    },
+    {
+      "title": "Beijing Responds as Ukraine Rejects China Peacekeeping Role - Newsweek",
+      "pubDate": "Fri, 22 Aug 2025 09:58:05 GMT"
     }
   ],
   "us_politics": [
     {
       "title": "Trump\u2019s Latest Attack on Wind and Solar Squeezes Tax Breaks - Bloomberg.com",
       "pubDate": "Fri, 15 Aug 2025 17:24:43 GMT"
-    },
-    {
-      "title": "Trump is targeting sanctuary cities to settle political scores and potentially arrest his opponents - The Guardian",
-      "pubDate": "Fri, 15 Aug 2025 16:28:00 GMT"
     },
     {
       "title": "New Poll Shows Top 2028 Democratic, Republican Candidates By Texas Voters - Newsweek",
@@ -1093,10 +1101,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Federal Reserve removes massive hurdle for crypto bankers - TheStreet",
-      "pubDate": "Fri, 15 Aug 2025 16:46:06 GMT"
-    },
-    {
       "title": "Fed Rates: Central Bankers Flock to Jackson Hole at Pivotal Moment - Bloomberg.com",
       "pubDate": "Sat, 16 Aug 2025 20:00:00 GMT"
     },
@@ -1163,13 +1167,13 @@
     {
       "title": "Federal Reserve could lower rates as job market loses steam, Powell says - Scripps News",
       "pubDate": "Fri, 22 Aug 2025 15:12:36 GMT"
+    },
+    {
+      "title": "Federal Reserve\u2019s Lisa Cook faces Trump firing threat over mortgage fraud claims - USA Today",
+      "pubDate": "Fri, 22 Aug 2025 16:20:47 GMT"
     }
   ],
   "earthquakes": [
-    {
-      "title": "San Andreas fault could unleash an earthquake unlike any seen before, study of deadly Myanmar quake suggests - Live Science",
-      "pubDate": "Fri, 15 Aug 2025 16:28:53 GMT"
-    },
     {
       "title": "Warning after largest quake in 50 years - Yahoo News Australia",
       "pubDate": "Sat, 16 Aug 2025 03:58:00 GMT"
@@ -1321,6 +1325,10 @@
     {
       "title": "Genetic study suggests ways to catch blood cancer earlier - Medical Xpress",
       "pubDate": "Thu, 21 Aug 2025 19:56:29 GMT"
+    },
+    {
+      "title": "mRNA Vaccine For Pancreatic Cancer Continues To Show Promise - Science Friday",
+      "pubDate": "Fri, 22 Aug 2025 10:02:50 GMT"
     }
   ],
   "space_exploration": [
@@ -1820,10 +1828,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Study identifies best times to consume electricity and cut carbon emissions - Tech Xplore",
-      "pubDate": "Fri, 15 Aug 2025 16:14:03 GMT"
-    },
     {
       "title": "No alternative to clean energy transition, but what stands in its way? - The Business Standard",
       "pubDate": "Sat, 16 Aug 2025 13:42:13 GMT"
@@ -2471,10 +2475,6 @@
   ],
   "world_news": [
     {
-      "title": "Ukraine says its forces bombed a Russian ship carrying Iranian ammo as it ramps up deep-strike operations - Business Insider",
-      "pubDate": "Fri, 15 Aug 2025 16:28:00 GMT"
-    },
-    {
       "title": "Ukraine war latest: Major shift as Trump backs peace deal over ceasefire; PM says president should be 'commended' - Sky News",
       "pubDate": "Sat, 16 Aug 2025 17:06:07 GMT"
     },
@@ -2524,10 +2524,6 @@
     }
   ],
   "pollution": [
-    {
-      "title": "Landmark plastic talks collapse with the U.S. opposing key production limits - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 16:17:02 GMT"
-    },
     {
       "title": "Most of Windermere polluted with sewage bacteria, finds biggest survey of its kind - The Guardian",
       "pubDate": "Tue, 19 Aug 2025 08:52:00 GMT"
@@ -2888,10 +2884,6 @@
     }
   ],
   "infrastructure": [
-    {
-      "title": "More outages, aging infrastructure, and a bicoastal dysfunction: BofA warns America\u2019s grid is 30%-46% \u2018beyond its useful life\u2019 - Fortune",
-      "pubDate": "Fri, 15 Aug 2025 16:26:03 GMT"
-    },
     {
       "title": "Is ATCOL a play on infrastructure spending - Market Weekly Review & Verified Momentum Stock Watchlist - thegnnews.com",
       "pubDate": "Fri, 15 Aug 2025 23:39:28 GMT"
@@ -3341,10 +3333,6 @@
   ],
   "new_york_city": [
     {
-      "title": "Four dead in New York City outbreak of Legionnaires' disease - BBC",
-      "pubDate": "Fri, 15 Aug 2025 16:43:38 GMT"
-    },
-    {
       "title": "Three killed, eight injured in shooting in crowded New York club amid record low gun violence year - Newsday",
       "pubDate": "Sun, 17 Aug 2025 11:37:36 GMT"
     },
@@ -3673,6 +3661,12 @@
     {
       "title": "New method enables comprehensive analysis of metabolites in biological samples - News-Medical",
       "pubDate": "Fri, 22 Aug 2025 13:14:00 GMT"
+    }
+  ],
+  "earth": [
+    {
+      "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
+      "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
     }
   ]
 }
