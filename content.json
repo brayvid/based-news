@@ -1,42 +1,72 @@
 {
-  "Gaza": {
+  "India": {
     "articles": [
       {
-        "title": "Airdropped Aid Is Crushing Starving People in Gaza - The Intercept",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhSlduQ1RTMy02eE9oTm5KWlFmSVpaU3UyZnBqTzBIZXUzQlZEcldQaDdXbVBPVGZ5clBkbGxLbW9TTENiNWRnWmQ2bEpzWkVhVkF0SXd6dVpxVEFMbDQ3SVU4YXE?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 21:54:39 GMT"
+        "title": "US envoy to India: Donald Trump picks Sergio Gor. Why did Elon Musk call him \u2018a snake\u2019 once? - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUlZadkV5c3VpSF9ZYUpFYzFJbmtyQmE0emxCMmhaUDdVYzBkOEhkaTNCQUJwQWF0Z1dpcjNrdHhmUVJOa3M4Z3lKX2kwN3VWczNNWEJTZ2dseTg3RWtlcUYyRmllaDJ2MXBCbVoxbFB4c1A1QmFVR01YMl83eFRoWElIYlBwLWVNdVBvTTNIZFpqLUVnUWhpNzcwWDhDYmtuNDFxa2U0OEFYU2tXRTBzcF9ocjY1V1lidWUyR1BEb2JQQl9yUEw4NXNJOUZ1UEVSU29lNEJjU3Zwd3FEMzI1YjdWMEwtclUzRGVaQWtDZ9IB9AFBVV95cUxNQ2ZCZWhfaUlkaHdMamk5bHpaRUR2N2tleGZUNlBIdS1TejVhZ1BabmdxNzVtTWdwbmtkS3J2NGRvMDJEcUZwaFQ3UkFHcFV0ZVQ2a2dRUEtkTkQxdUhtdkJteVRZWXZjczl3Zm1FeXR3R0JrQWtPZXptdVRJUEtiV01WdXd2amtKNzdjSmNzMS1NWXgzY3I3WVlmTmppa2xRS3RUQXhyQ1Q3R3FadEFuYnBGLWFPbFVQbnFvVE5qZ2VNQTFwNG84S0hSMVExbXppVkxyUFZNV1R6cExweFRhQTRvamc2N0YwcTY2bzRiSWdZeVlq?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 07:20:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-23T07:58:18.698718+00:00"
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "Ether hits record high as rate-cut expectations drive crypto rally - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFlielhTU2wzVjEtS1ZJS3I0QW5xWlI0Y3pndzdFUW1RcEJWN21DX01XLWNtNS1PY0V0dHM5Q3AxRldIWkdMc1N5cjlaWmViNW0wZTBQcmYxUnlfZWhBaExhRjRfbHJiSWZQbGNrVFBmZnItNDI3aG8xUWdTWTBPTVZPbXpmNUpNX1NOYU50akhpdGZqNUJOenUxSG83WC1Mb0ZEWUxLX3FDOWJkcGlnY2JUcnZ2cEXSAbcBQVVfeXFMT0lNTTJSdnZwWWRnX0tvUXZPRFAzb3BZbWFSVjNsLTZ4VXd2ZHJMLVZRamtFTWN6eFBCa0lxZlhoZFByU2dvRXU5YXc2QXJOME5sNms4S1BONktHMXEwUUw2Vk5EdDFuRWxtYXA5MkJvMmxzLVZxbVlfY2ZFMmlyb2tzRkJDaWVGVWkzMWRKQlhPdnRCOXNFejEzLTFGZjluS3hZb2RVaHVGMUVacFZ3NnQxMTVndVM4?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 05:00:13 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Orange suffers major data breach - Digital Watch Observatory",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05dVlkMFVCdmN2WkhwT1I2d1hwcXQ4SXZ0TVFUTVNiZDlydzNTbDUyd3Q4OGYyQ2w1MFBNM1kyNDRaZjRVOUt4UGV4ZE5DcTNEeGs1cllUTzhHSVdXMTh0elNvZ21SQWFlekE?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 08:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "As Trump touts D.C. arrests, experts caution they're not the best indicator of public safety - NPR",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2h1ckQ0SVZ5ZmpUS0dWY2dXaFBsc3l5eWZ2OUV2X2NHMjA3OW5kVFJUb3o0V1ZSRGxmUC1tNkVaMHlsZ2o1R2FYd011ZGVST3NrMUVkM1lPYzdUWDdMQkN4MFl3bElkMkY5RXp3WUVIMmJYYVJRV3VSUUJLU3ZRRkNZZU1aT1dSdXZEeENvcDBtS0ZCdlE?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 23:32:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
+  },
+  "Drones": {
+    "articles": [
+      {
+        "title": "Cheap drones, costly damage: Ukraine\u2019s strike on Russia sparks fears for America - KDNL",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOMHh3TDNzVzVBSjluVmNpZVYzZVZhUTFMREdPVmdla3BkVzZ5R0lQZWszQWkzRXhuT0o0WXBrYW9IWDk4UkstbGlBZVFJSXFJRXZKSzAzWXZuOTJoOVhLblM0TmlOWDJRQmlZLXF1RWtSU3BGa0k4c0pSbUtiUUJSQV92eG9jNGM4YXp5OUJPbWFVcm4xaHozMjM3bjNJOHhHQXJiU1QtbTNWanNCYTN4dlQ4UmZpeVlNem5LM0xXeHZiay15MnJZZElLTUZGT1kxUjFfUGl5Z25lcENsQl9DMVJuRkZHNkdsQXd2WUdYT2dtenV3Qzh6emN6Y1doYmRUU0V6N0k5ZmRPTlF0VTdfZlVoWDZydm90WkpnWkFJa3dheVltTnJn?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 22:28:58 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Escalation in tourism, climate change leaves Nepal\u2019s Mustang in fragile state - Mongabay",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmVFS1BuM2VDNHpnXzVlcVptMGVhTUs2eGZtRnQzMy1VVEQyRmVxc2w5TmUyNFhuUWlVYUZ1NklwZTJPSGM1c0dyc0NfT094OUFCUExDSHl3X0laN2JLdVR2UGEyS2oyNHFYNU5sbFBmQzZWR1lhQTVseEk5cTBMa2lOZllxTzFOOHNCR19wT2VoeV9xRk10em1ROHhSekxpN3dOYUtXM3JNNWVhdmo0?oc=5",
-        "pubDate": "Sat, 23 Aug 2025 00:22:30 GMT"
+        "title": "Study finds wide variation in Amazon's response to degradation and climate change - Phys.org",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTdfVFlTV2xLZTQtY0FHRHg4WC1wZ28xQ1l0RVN5eWdPNGh3NXI4WHY2dTItLWFGcW1pRlNkRU5FT1pFZnc0SjQweUV1Y1REZjRHQmhYQVR5bzFmdk05Tl9Sd0I1NTJIRXJZVnBYVTRDOGRVbmpGeFJDNGVjcHI2Zndpbw?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 07:00:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-23T07:58:18.698718+00:00"
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
   },
-  "Electric Vehicle": {
+  "Military Intelligence": {
     "articles": [
       {
-        "title": "Rivian CEO Sees Opening as Rivals Slow EV Plans - News Ghana",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGVtemZtMmVQY0t6TWNlWk9HcDlhQ2U2OC0zQmhKdGFtVUdEZWQtWXVUTmlQVG1JZVBDQ2RaOFA4NWlyM3phQV9vUzJwbjdRY19UQjE5MnUwdGNKTWdfSDFVR1VOX0lUOXdHc3FUcUstZGdLQXpOQnR1bTVIakVmWDdtQdIBgwFBVV95cUxQTGVtemZtMmVQY0t6TWNlWk9HcDlhQ2U2OC0zQmhKdGFtVUdEZWQtWXVUTmlQVG1JZVBDQ2RaOFA4NWlyM3phQV9vUzJwbjdRY19UQjE5MnUwdGNKTWdfSDFVR1VOX0lUOXdHc3FUcUstZGdLQXpOQnR1bTVIakVmWDdtQQ?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 21:00:04 GMT"
+        "title": "Hegseth fires Pentagon\u2019s top intel chief - AL-Monitor",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVhLdG5VWllVRUJpY0QxYjFUeW5ZbEQ3M0t2N3BuaHppQnQ0YTZiVHlPNkhzUFhNdHZqaS1jWk9iakJFc3BwazhCcndrUVNiMHVmbnZFMnY5Q19IS1UxMVhYMWhpY2FUZEwzTU1qNmFmLTUyME1abUtOMmNmTTFGaDBpdFh6VVBNRTdDNA?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 22:36:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-23T07:58:18.698718+00:00"
-  },
-  "Federal Reserve": {
-    "articles": [
-      {
-        "title": "Federal Reserve Chair Hints at Possible Upcoming Rate Cuts - Live 5 News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRV9wUTlldGkwOEg0b2JZSDQ2dnNUUHprV0dlUDlJdjc2R3htb0xoWU1JTGN2STJBQTRpcTRWSDdqQnpNLUxPeGRvRkdPN2ZwRUIzSVNnVENoQ3RxOEZqdlRuQ0plY3BrUmkxVGlLN01qRUxHTHBuWnpzNHh3RndwYmxfZGwtN3NvTmZuWEF2eXZqWHVZQzU3ZkF6NXhRZEwx?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 23:20:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-23T07:58:18.698718+00:00"
+    "last_updated_ts": "2025-08-23T08:58:01.241774+00:00"
   }
 }
