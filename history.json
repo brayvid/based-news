@@ -1083,6 +1083,10 @@
     {
       "title": "Some experts claim recessions are ancient history. What will they say after the next one? - MarketWatch",
       "pubDate": "Fri, 22 Aug 2025 12:32:00 GMT"
+    },
+    {
+      "title": "Businesses bringing back recession specials could be the latest sign of deteriorating consumer sentiment - CNBC",
+      "pubDate": "Sat, 23 Aug 2025 11:50:20 GMT"
     }
   ],
   "drones": [
@@ -1198,10 +1202,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "More than 130 quakes have hit Northern California. What\u2019s causing them? - Las Vegas Review-Journal",
-      "pubDate": "Sat, 16 Aug 2025 14:00:00 GMT"
-    },
     {
       "title": "Series of earthquakes strike near Russia's Kamchatka Peninsula - AzerNews",
       "pubDate": "Sat, 16 Aug 2025 15:40:00 GMT"
@@ -1529,10 +1529,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Adam Back\u2019s $2.1B Bitcoin Treasury Play Set to Challenge MARA in BTC Holdings - CoinDesk",
-      "pubDate": "Sat, 16 Aug 2025 14:01:46 GMT"
-    },
-    {
       "title": "Mysterious 2012 Bitcoin Holder Moves 1,600 BTC in Several Waves - Bitcoin.com News",
       "pubDate": "Sat, 16 Aug 2025 17:12:14 GMT"
     },
@@ -1633,6 +1629,10 @@
     {
       "title": "Fusion breakthrough uses inverted D plasma to solve key energy challenge - Interesting Engineering",
       "pubDate": "Sat, 23 Aug 2025 11:39:00 GMT"
+    },
+    {
+      "title": "Tiny reactor boosts fusion with a sponge-like trick - ScienceDaily",
+      "pubDate": "Sat, 23 Aug 2025 13:44:36 GMT"
     }
   ],
   "nvidia": [
@@ -1715,6 +1715,10 @@
     {
       "title": "UK falling behind EU on environmental rules amid post-Brexit rollback - The Guardian",
       "pubDate": "Tue, 19 Aug 2025 15:18:00 GMT"
+    },
+    {
+      "title": "Healey unveils 'nation-leading' plan on Cape Cod to save what's wild in MA. 'Quiet crisis' - Cape Cod Times",
+      "pubDate": "Sat, 23 Aug 2025 09:11:12 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -1780,10 +1784,6 @@
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "Analysts temper user expectations for future AI models, but not investors\u2019 commitments - Cryptopolitan",
-      "pubDate": "Sat, 16 Aug 2025 14:38:00 GMT"
-    },
     {
       "title": "OpenAI\u2019s AGI Pursuit: From Prediction to World Interaction - StartupHub.ai",
       "pubDate": "Sun, 17 Aug 2025 09:40:27 GMT"
@@ -1923,6 +1923,10 @@
     {
       "title": "Renewable Energy: Opportunities in a Growing Sector - worth.com",
       "pubDate": "Fri, 22 Aug 2025 16:51:55 GMT"
+    },
+    {
+      "title": "Scientists Discover a Cheaper, More Powerful Catalyst for Clean Hydrogen Energy - SciTechDaily",
+      "pubDate": "Sat, 23 Aug 2025 14:27:55 GMT"
     }
   ],
   "global_health": [
@@ -2508,10 +2512,6 @@
     }
   ],
   "military_and_defense": [
-    {
-      "title": "Inside the US military\u2019s quest for \u2018drone dominance\u2019 - The Hill",
-      "pubDate": "Sat, 16 Aug 2025 14:53:00 GMT"
-    },
     {
       "title": "Russia is experimenting in Ukraine's robot war with uncrewed rocket launchers, hoverboards, and a box on wheels - Business Insider",
       "pubDate": "Mon, 18 Aug 2025 06:25:00 GMT"
@@ -3657,12 +3657,28 @@
     {
       "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
       "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
+    },
+    {
+      "title": "Most of Earth\u2019s species came from explosive bursts of evolution - ScienceDaily",
+      "pubDate": "Sat, 23 Aug 2025 09:35:38 GMT"
     }
   ],
   "new_york_politics": [
     {
       "title": "NYC Mayor Eric Adams asserts he's not involved in latest corruption scandal as opponents pile on - CBS News",
       "pubDate": "Sat, 23 Aug 2025 00:39:40 GMT"
+    }
+  ],
+  "big_data": [
+    {
+      "title": "China Proposes Crackdown on Big Data Price Gouging to Promote Fair Competition - AInvest",
+      "pubDate": "Sat, 23 Aug 2025 11:38:56 GMT"
+    }
+  ],
+  "data_science": [
+    {
+      "title": "Applying big data sentiment scoring on PMGC Holdings Inc. - 2025 Risk Factors & Technical Buy Zone Confirmations - Newser",
+      "pubDate": "Sat, 23 Aug 2025 13:10:13 GMT"
     }
   ]
 }
