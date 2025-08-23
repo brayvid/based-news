@@ -1,72 +1,42 @@
 {
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Israeli defense minister warns of Gaza City\u2019s destruction unless Hamas yields to his country\u2019s terms - PBS",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVlOTjR6c3pneEhBMmNUajlOLVNJN2JyQU16M1cxRkdTcGt5N2Z0YjZhVDRmdWkzWEVfVjZFTzI0TGxGTk50cmZxS3hWRUdnVDUzR2MzZzJjeHk0U1VYdTB1eEJ0d3pqT2V2QnJUckhsZTFSZm5XZEhsdjVPZERORFVScVRTWE9Ub2FqbV81M2tPN0pIWlFRNmFPdzRVcUNCN2lleThQdDJ5dG1HbjJhTzFZQ3JaTDZndGdlU1VYQnphWkZOc3JSSnZyV191UdIB0wFBVV95cUxPMm9ES2stN2V6dTlRUm1zOGtyeldDdmE0aTluVVNvUlBPZE41Z2Y1SDFRNWZXZl8tVlhZNjBuWm1fNEdrMnVaRmJVVE9aZDhUT01xOFREZ0tyNU4xSnpLTndabWMtYkc0a1h4UGowNXd2VFp0VVUwcVRSQjcwNVpuejRfYng0Qlg2cU9ESHB1UGpnVm45WmVUTnpTeTBRZk4yTmVMN3pkUlVURjk5X1BxVUh2dV9HeC16Q0FFd2UwSVZIbUtXcWt5R00xWjF1bjc2ZlVF?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 16:00:42 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Trump threatens to put \u2018regular military\u2019 in Chicago to \u2018straighten it out\u2019 \u2014 and says New York City is after that - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDBsYkJZYXN4NWVpaDdSVTh3cHNJTnVHV0prV2Y3a0JRNFB4ZXFDcDM3VVFwZ0FUejBNWU1fMlZjOUZYX29tSE5uQnNFVHJGZ2drTWpvUEF5OUQ4d2tTbHg3aURvMXdjaWlORHJmUWFYaUJfMjdPMDF6VDlac1ZGc0ZTQklvX2tmRVI3MFU5V0pELTFoemlsbmxIbWc2WU9lWmEyalJaYS1aNVk?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 18:43:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
-  },
-  "Cancer": {
-    "articles": [
-      {
-        "title": "Workers who have cancer from building nuclear weapons struggle to make medical claims - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTB4S1U1WHNYQ2hVT0pBc0N6VjJWeUdRUkhZX2kxTmhZeUExSVVra0dUTXktMHlleWYyOXl5d2dlRXNZNEk3QUxJUy1qWG1ENnN3c2FRSFNDdElBSmVHT1duYmV1QnBjYzhoYzVwTDFXRkh5azRTWnBuYnVoa2E0bC10NTNPbnlzYmZQZklNQVV1OXNOWmdMektPbk5uamFDc1NycnItczFPOG95TFllWndSbDdDRUFaQWRBd0JtQzJqYkxlZVdlVA?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 21:50:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
-  },
   "Federal Reserve": {
     "articles": [
       {
-        "title": "Why the Federal Reserve has historically been independent of the White House - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWtrbkVHOEZ1LXpPMU9HN00tdWF3RHd6eFVTVm5jWFNlZGNxb09ldjJhSm1veHg4LUNqQVFacWpPUkZGNk8zd3YtUTBHTHNpU0xjVHlsdUtJSlVtclVyWndDRk9Pb09CaGdXZW42OXFCN0JaVDQ1dDdJcDVvOHBoNkZyQ1VCNWZiWVN3SUhPMUVmRDhFYXpSNXJMUHhMbWN6aXpQaS1QUGVDdndUVGVTUW41Qm5EcEVkV1dlQUZHM1VYOFlU?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 16:28:00 GMT"
+        "title": "Federal Reserve considers interest rate cuts amid economic challenges from tariffs - WBAL-TV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamVIZVAyMEV6d3JjeGpWOV9fbHBaZUZqbno2cTRMVVJDWk9aSzJELWpkNWZrRmMwN0NLOUw2bG1GZHJWNEVweXl5WUwyWjRvX2JMLVRpU2ZZY09vVFJrWjZueFJvenFFcWN0cGxCRnlwWWNsTW9YNlNHaUxray1iVHJtSExqNFlWSXcybWJwaHIwdTFfaThIVkNoaV83TEtiQ3Brd0RIQXlIbUlQcnlYT1h6MXZPUGNCNjRKUFNrSQ?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 23:04:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+    "last_updated_ts": "2025-08-23T00:00:21.415351+00:00"
   },
-  "Blockchain": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "EU Accelerates Digital Euro Plans, Considering Ethereum and Solana for Public Blockchain Implementation - Bitcoin.com News",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDlzcUhWV0x3MmNWQ1FnOVVDYm5PazdRbmRNd29hVnNqWFlscTBoR0lZRHl6WGtUVkFJdHl4ZkFtcE9jRFdrMVZuc0VlNlhFc2hpS2xmZjZWZDJSb2dLVXQ1dURlS04tQWJ1Y1c1cmRfbjFETXhWcnNhOUR6QzVZc2pibDdvR0JNM1FTbzFUUGNnX2R4eTFWN2tyejFscWQxbTV2WmVyaUVRTkJDcGJ0bzRoV3c4dWJJbjBxQXc4QjVnRXRhQnpz?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 19:23:30 GMT"
+        "title": "Massive data breach sees 16 million PayPal accounts leaked online - here's what we know, and how to stay safe - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblYwUTZqcHVCa1l2YkJhcllUQVhnNk45WkU4eHBiNVdidEtyUVFJZlRQSWJkanUwelR0ZHcxWkhLMDRRZjlFaDN1V29FckkyejZaSDJMYUZ0SzVUNEFzbzB1ZFNKMHRLX0tKbS13Ri10NXV0NHhlYktZX0o0bHBzWk90LS1Dc0VUc2FKMWYyd3FvRl9QV2VsM2dXMndLTFBZNkotd3BKZTVHeHRjQjBzbUEzdnVwRW9VdUp6RF9tQUhSQ0NKeTV1TFZSQmtaMkFZ?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 20:25:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+    "last_updated_ts": "2025-08-23T00:00:21.415351+00:00"
   },
-  "Asteroids": {
+  "North Korea": {
     "articles": [
       {
-        "title": "Scientists observed a cloud of debris after the DART impact - Universe Space Tech",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5mNzA1UmVJcktKUWYyTEdmWTVpRWJneUpHci1sS1hwd0ZyVWVrcktPM2VnYkxBWVJ0WEQ5RVQ2RUdDRXhYeElPbnF6M3hmT1NYdFU2VUFkTHlwb1JieW1fV0lNSHI3aEdHczh1UUhTX3g1dHd3T2pjUV9neUJCUF9RbE9pTWh2N2txY1VJYVNXd0hzVFdr?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 11:52:03 GMT"
+        "title": "North Korea Accuses South Korean Army Of Firing Warning Shots Near Border - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDZDOHRPekl4RU5Lb2tTS1BZSlpqZGpuU1FzeS1tc3RMV0Y3TEJFd2FnbEp0WkpISk9aTUVyVEZ6ZWYzLXJEVW1pbWJreHZ5QmRWbEdXX0E1SnNNVVVjY3hOU2JmTDRiWUlkczdRWXZKZ3ZlVktteVNTa3JnWEpvVUNaTWpjU2hyUDJWLUdwcGhqbDZlbzE2SS0yTG5hT2dGanhzaG53SzZHQdIBsgFBVV95cUxOU1BpTjZuWU90M013TGVJOXhnRk9IM0FsVlA2Ym8wRWl4S2h2TWFvWVRHNXNxQTNodXBpdm44YmlET3pRbjF4NkpoZzMxQlJzRDRlLVdrMzRIdHRFWk5HZlhBdGZaQUFVejRUVk5kVnhCYVIwTGF3QXNPdHFtbGJrZmtJTTJ0SzdXVXpNenNpdktqUnhoQmVVdC1XaEJ3bFZIaUxrTE9TSGJUV1pCUUtCY013?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 23:08:05 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+    "last_updated_ts": "2025-08-23T00:00:21.415351+00:00"
   },
-  "Artificial Intelligence": {
+  "SpaceX": {
     "articles": [
       {
-        "title": "Opinion | HHS is using AI effectively? Someone\u2019s hallucinating. - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU1NV1JwejhyZGgxTHJ5MlptLU1KQjQ1NDBPZEVUd01HeTdkMkQ4N1V5VF9HelQ0V3dmOXJONTExdHJFcGljN1R3MDlBbGsycTBNU1JCczJ5RVNpN3p0dGQ5N1djQ3pDbnN0S3pFVDFuZGc3Y1hReGFEdmZiNldZT0xsZ3BlM090OEZQN0ZEVGI1QWltNWc?oc=5",
-        "pubDate": "Fri, 22 Aug 2025 17:00:12 GMT"
+        "title": "Another SpaceX land deal has South Texans on edge - Chron",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0k4YVVfWDF4UmloblFPangyNmFpUGtEM1cwb2hmckRyNGUtWllkVFc4czZleWQ0emxZeWVWNnNXWFpQMVR0VjZDMjhfQ19QdkdBSlZjNVphOW1KNzdxcmdnTnZkdzhpSzZTZFFmLVBfanFXcHMtZVNMWXFGUWJLUkY4S2x0UU1Ea0pwdg?oc=5",
+        "pubDate": "Fri, 22 Aug 2025 12:33:24 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-22T23:00:22.263086+00:00"
+    "last_updated_ts": "2025-08-23T00:00:21.415351+00:00"
   }
 }
