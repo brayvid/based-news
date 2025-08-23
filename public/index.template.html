@@ -101,6 +101,11 @@
       color: #e0e0e0;
     }
 
+    header h1:hover {
+      cursor: pointer;
+      text-decoration: underline;
+    }
+
     .subheading {
       margin-top: 0.5em;
       font-size: 1.1em;
@@ -188,7 +193,7 @@
       width: 100%;
       transition: height 0.25s ease-in-out; 
       /* Reasonable minimum height to reserve space on load. */
-      min-height: 400px; 
+      min-height: 200px; 
     }
 
     #digest-slider {
@@ -365,6 +370,7 @@
       const dotsContainer = document.getElementById("dots-container");
       const timestampHeader = document.getElementById("digest-timestamp-header");
       const summarySection = document.getElementById("world-summary");
+      const headerTitle = document.querySelector("header h1");
 
       let manifest = [];
       // currentIndex is the LOGICAL index: 0 is newest, 1 is next newest, etc.
@@ -468,6 +474,7 @@
       }
 
       // --- EVENT LISTENERS ---
+      headerTitle.addEventListener('click', () => showDigest(0));
       digestSlider.addEventListener('transitionend', () => {
           adjustWrapperHeight(document.getElementById(`digest-slide-${currentIndex}`));
       });
