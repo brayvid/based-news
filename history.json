@@ -291,10 +291,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Tech Expert: AI Boom Could Have Greater Financial Impact Than Dot-Com Crash - Benzinga",
-      "pubDate": "Sat, 16 Aug 2025 19:31:21 GMT"
-    },
-    {
       "title": "The Stock Market's Summer Shock: Unpacking the Drivers Behind Recent Volatility - AInvest",
       "pubDate": "Sun, 17 Aug 2025 14:52:31 GMT"
     },
@@ -476,10 +472,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war live: Kyiv \u2018pushes Russia forces back\u2019 hours after Putin surrender demand - The Independent",
-      "pubDate": "Sat, 16 Aug 2025 19:09:00 GMT"
-    },
     {
       "title": "Ukraine war briefing: Zelenskyy says Russia refusing ceasefire \u2018complicates the situation\u2019 for ending war - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 01:47:00 GMT"
@@ -2629,6 +2621,10 @@
     {
       "title": "An \u2018existential gamble\u2019: Why some experts are worried as SpaceX gears up for next Starship test - CNN",
       "pubDate": "Sat, 23 Aug 2025 13:45:00 GMT"
+    },
+    {
+      "title": "SpaceX Is Losing a Staggering Amount of Money Every Time One of Its Starships Explodes - Futurism",
+      "pubDate": "Sat, 23 Aug 2025 13:45:24 GMT"
     }
   ],
   "geopolitics": [
@@ -2734,10 +2730,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "Flesh-eating bacteria case in Cape Cod prompts public health alert: What to know - USA Today",
-      "pubDate": "Sat, 16 Aug 2025 19:41:24 GMT"
-    },
     {
       "title": "Why insomnia is becoming seen as a public health emergency in the U.S. - PBS",
       "pubDate": "Sun, 17 Aug 2025 21:40:49 GMT"
@@ -2867,12 +2859,6 @@
     {
       "title": "Scientists use robot to observe strange ocean phenomenon: 'Would have been nearly impossible with conventional methods' - The Cool Down",
       "pubDate": "Fri, 22 Aug 2025 02:15:00 GMT"
-    }
-  ],
-  "protest": [
-    {
-      "title": "Police arrest 13 people at Palestine Action protest in Norwich - The Guardian",
-      "pubDate": "Sat, 16 Aug 2025 19:34:00 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -3093,6 +3079,10 @@
     {
       "title": "Purge continues in US military as defence intelligence head shown the door - Malay Mail",
       "pubDate": "Sat, 23 Aug 2025 01:04:52 GMT"
+    },
+    {
+      "title": "Trump Dismisses His Military Intelligence Chief for Refusing to Promote the Destruction of Iran\u2019s Capabilities | Netanyahu Pushes to Accelerate Gaza Invasion With His Faltering Army as the Resistance Remains Open to Negotiations - Al-binaa Newspaper",
+      "pubDate": "Sat, 23 Aug 2025 17:20:58 GMT"
     }
   ],
   "google": [
@@ -3637,6 +3627,18 @@
     {
       "title": "Assessing the Credit-Fueled AI Infrastructure Boom: Bubble or Sustainable Growth? - AInvest",
       "pubDate": "Sat, 23 Aug 2025 16:06:04 GMT"
+    }
+  ],
+  "political_power": [
+    {
+      "title": "Cities led by Black women are the first targets of Trump\u2019s political power grab - Salon.com",
+      "pubDate": "Sat, 23 Aug 2025 10:00:39 GMT"
+    }
+  ],
+  "pacific_ocean": [
+    {
+      "title": "Something deep in the Pacific is reshaping California\u2019s weather. It may not stop anytime soon - San Francisco Chronicle",
+      "pubDate": "Sat, 23 Aug 2025 11:01:26 GMT"
     }
   ]
 }
