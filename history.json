@@ -185,10 +185,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Alternate Approaches To AI Safeguards: Meta Versus Anthropic - Forbes",
-      "pubDate": "Sun, 17 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "Meta faces investigation over AI bots talking to kids inappropriately - PPC Land",
       "pubDate": "Mon, 18 Aug 2025 04:47:56 GMT"
     },
@@ -411,6 +407,10 @@
     {
       "title": "How AI Echo Chambers May Be Fueling Psychotic Episodes - Scientific American",
       "pubDate": "Sun, 24 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "China unveils first AI chatbot aboard space station to support taikonauts in missions - The Indian Express",
+      "pubDate": "Sun, 24 Aug 2025 11:06:00 GMT"
     }
   ],
   "climate": [
@@ -551,6 +551,10 @@
     {
       "title": "Ukraine drone hits Russian nuclear plant, sparks huge fire at Novatek's Ust-Luga terminal - Reuters",
       "pubDate": "Sun, 24 Aug 2025 09:03:34 GMT"
+    },
+    {
+      "title": "Russia accuses Ukraine of attacking nuclear plant, causing a fire - Al Jazeera",
+      "pubDate": "Sun, 24 Aug 2025 12:49:37 GMT"
     }
   ],
   "us_economy": [
@@ -577,16 +581,8 @@
   ],
   "china": [
     {
-      "title": "US seeks shipbuilding expertise from South Korea and Japan to counter China - The Hill",
-      "pubDate": "Sun, 17 Aug 2025 12:17:00 GMT"
-    },
-    {
       "title": "China to upgrade 300,000 km of rural roads by 2027 to boost economic growth - TV BRICS",
       "pubDate": "Sun, 17 Aug 2025 13:03:27 GMT"
-    },
-    {
-      "title": "China\u2019s giant unmanned boat spotted in Beijing - Defence Blog",
-      "pubDate": "Sun, 17 Aug 2025 12:19:40 GMT"
     },
     {
       "title": "Glimpses Of China\u2019s New Air Combat Drones Emerge Ahead Of Massive Military Parade - The War Zone",
@@ -825,6 +821,10 @@
     {
       "title": "The Uncertain Future of the Separation of Powers - The Regulatory Review",
       "pubDate": "Sun, 24 Aug 2025 04:18:52 GMT"
+    },
+    {
+      "title": "Can Trump and the GOP keep a grip on power? A fully MAGA party prepares for 2026 - USA Today",
+      "pubDate": "Sun, 24 Aug 2025 12:12:18 GMT"
     }
   ],
   "democratic_party": [
@@ -1391,6 +1391,10 @@
     {
       "title": "Federal Reserve Dovish Pivot Fuels Crypto Rally: Bitcoin and Ethereum as Macro-Driven Assets - AInvest",
       "pubDate": "Sun, 24 Aug 2025 00:38:00 GMT"
+    },
+    {
+      "title": "Rising Fed rate chatter may be a red flag for crypto: Santiment - Cointelegraph",
+      "pubDate": "Sun, 24 Aug 2025 01:51:47 GMT"
     }
   ],
   "data_breach": [
@@ -1805,10 +1809,6 @@
   ],
   "gaza": [
     {
-      "title": "Israelis hold nationwide protest to end Gaza war, \u2018bring back the hostages\u2019 - Al Jazeera",
-      "pubDate": "Sun, 17 Aug 2025 12:20:10 GMT"
-    },
-    {
       "title": "Israeli media \u2018completely ignored\u2019 Gaza starvation \u2013 is that finally changing? - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 13:28:00 GMT"
     },
@@ -2003,6 +2003,10 @@
     {
       "title": "Did Israel know over 80 percent of those it killed in Gaza were civilians? - Al Jazeera",
       "pubDate": "Sun, 24 Aug 2025 10:11:14 GMT"
+    },
+    {
+      "title": "IDF soldier KIA in Gaza, bringing wartime toll to 899 - JNS.org",
+      "pubDate": "Sun, 24 Aug 2025 06:06:06 GMT"
     }
   ],
   "battery_technology": [
@@ -2395,6 +2399,10 @@
     {
       "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
       "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
+    },
+    {
+      "title": "Millions in Texas Urged to Avoid Drive-Through Lanes - Newsweek",
+      "pubDate": "Sun, 24 Aug 2025 09:11:00 GMT"
     }
   ],
   "brics": [
@@ -2506,10 +2514,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Republicans look to make a U-turn on federal commitment to electric vehicles for the Postal Service - ABC News",
-      "pubDate": "Sun, 17 Aug 2025 12:09:27 GMT"
-    },
     {
       "title": "Record number of EVs registered in western Europe across last quarter - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 16:19:00 GMT"
@@ -2825,10 +2829,6 @@
   ],
   "mars": [
     {
-      "title": "Samples before space suits: America must be smart about its mission to Mars - The Hill",
-      "pubDate": "Sun, 17 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "NASA's Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples - SciTechDaily",
       "pubDate": "Fri, 22 Aug 2025 13:29:48 GMT"
     }
@@ -3075,22 +3075,10 @@
       "pubDate": "Sat, 23 Aug 2025 09:56:05 GMT"
     }
   ],
-  "wind_power": [
-    {
-      "title": "China tests world\u2019s largest floating wind turbine, a 17 MW giant that could power 6,300 homes a year - WION",
-      "pubDate": "Sun, 17 Aug 2025 12:25:00 GMT"
-    }
-  ],
   "us_foreign_policy": [
     {
       "title": "Trump Targets Corporate America to Achieve Economic and Foreign Policy Goals - Bloomberg.com",
       "pubDate": "Tue, 19 Aug 2025 13:53:03 GMT"
-    }
-  ],
-  "new_york_city": [
-    {
-      "title": "Multiple people dead after shooting breaks out at Brooklyn club - NBC News",
-      "pubDate": "Sun, 17 Aug 2025 12:05:07 GMT"
     }
   ],
   "political_corruption": [
