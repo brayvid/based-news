@@ -1,12 +1,72 @@
 {
-  "US Politics": {
+  "National Security": {
     "articles": [
       {
-        "title": "Marjorie Taylor Greene issues passionate plea in support of Gaza, setting off MAGA \u2014 including Laura Loomer - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTNPaXZ2YjNfc0FlZU1xVDREMjF2bGltRjJFYVMxT2JNYkF1Q0VQaVFKbzlMZ2cxOEY2bllrcXc0Ym1qX2gzb1JBS0psN09UT2NoMXZlNktqdkpfQ0hqX2RSUU81T1JkWFVmRmhVakpway1Cb1d6X2Fobk0tRlFYQTFNZ3JQak43SU9XbUIzc3ppSGhXZzdWTi1UYXpFSFRzRE9NeGdUbmxLSjhneC1WRFF3WkZDTTdU?oc=5",
-        "pubDate": "Sat, 23 Aug 2025 22:13:00 GMT"
+        "title": "Pentagon plans military deployment in Chicago as Trump eyes crackdown - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW5fNEk1QlNxYU5rOF9yMDYyTTY5a3YySElOQVZsR0dCTXhDakFhdVVMeDcwOGt1T2xGZnMwN00zRVdZeGdPaGpoT3FoOUlZeWJKMmVWckFka2hnd2Jpel80a1VpNlhsR2UyV0l4ZktIaVBSN2h0cFo0blVTQmdXNzhlZUNEell1blE3UF9JM01mN1FWTC1qM1FDNGk1a00?oc=5",
+        "pubDate": "Sun, 24 Aug 2025 02:14:36 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-23T22:58:41.070911+00:00"
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Trade War": {
+    "articles": [
+      {
+        "title": "India Halts US Postal Services After Trump\u2019s Tariff Shock Sparks New Trade War Escalation - Arizona Daily Star",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2tIVVZtOWhJazlUV1dlN21NZHFOV2t6aFA2eFF1c0ZGN3liWl82eFIwR2w3MndGNU80OVZ0UFpOY241eDROUXI5eDlWTWZ4UldQZzZadmpweVVGMUZtQVFnZzd3WjZBdHA0WmxSVmNpVTdIX3ZVbVQ4dXRPb2FIcnVzRmJZMnFPTzRhTHRNdG9KOS11Y2g2eQ?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 15:54:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Quantum": {
+    "articles": [
+      {
+        "title": "Scientists build first quantum device to measure volts, ohms, and amps together - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWXlTcmR0THl2WkJDeU0yVURBQmtuZDJ0V1ZkYnhHU3Y5djFtVjV4UkN0S1hmbGM2NnQyQlg2ak5TTWtUdjItZ0FDMzZMcHFPQXJ6SEFTSTdDUVItNWJWODR5Mk5JOWdNX2YtcXRQS2pydWtELTUzeEVEYk0?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 22:17:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Surprising Study Finds Meat May Protect Against Cancer Risk - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0xVLU16S1lwQkVEa1BEVVR0Q1RtUElXZHVxaFQ4X2MwcVZ3bktBT2J4aHNYenVWdXNkdkpiVGRZeFFwVXpBWm51ZVlnWllaNThNaXBFUXhkZlJ4TzYzOE5MaTRrNUxzZklUaUhxdnlkbjR3NFFwdHJfaDk1VTJfd0ZoQzA3SkdEbEVDUGFn?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 22:55:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Cryptocurrency": {
+    "articles": [
+      {
+        "title": "Is Ethereum Positioned to Overtake Bitcoin at Last? - OneSafe",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanZUNmYweTBNTUdEbmdGRENTNThXNlBVTnNCNjdYWjRGMTV4VDVJb3ZfT1NUSEJ3c2prdjdUM2ZXTzBpMWRsMW5TQXp4eWowaUY4bGJiUUJqTnIwa3FudEhWYzZYRklRUTREVUxpTl9XeHpoeU5ZZGtiRHBQa2Z4T0x3?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 20:57:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Astronomy": {
+    "articles": [
+      {
+        "title": "Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave - WIRED",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWNMUFBTMUtuSko5YTdsYnZpWmNERE95OWs3QlB3MEI3clpXV0ZmUGhFZk1jZEFOTXVGaEcxMnZycW9CLTNVRzdDd09pY05WaURjTHduVFphd1dPRUYwa1djWkp0ZWZ4V3lFU0pHMEg4aHI4UDhVUGd4LTlKeS1UYzQ0aGhMeExNWURFVDdPZTE0NEFlNmJnTmtyd3pUQnFjZWlkSWlJbkc1d0FWNGZtcm1mNTBSQQ?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 22:49:17 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
+  },
+  "Department of Homeland Security": {
+    "articles": [
+      {
+        "title": "Former DHS official signals he could be next after Bolton FBI raid: \u2018We expect it\u2019 - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWliWWd1WVhfN0NZUVhRdVBOLU9GMUlmSVVaS1BZUFNzb1hBNmZwT0FEVnJ1XzBScndycWVTQk1tMmJZaXlma3RDVzY3Vy1odlZZMkxPN3VvY2xiaVFJQnlmeTIxQmVNRWJvdk55OHRRUko3Sk9xOHJpeXplcG1nV2hmbkE4a3NLN3RCb0dNRnVRQnBIc3NCSVNMVlRtYVRFWld2dk1SM1ZrSFUtSnFKQtIBtgFBVV95cUxPUnR3NWQ2U1NfRUdHSGxHeTgtZ3ltYkV3cmx4dzc0TEhEck92LXdrdWY2dlBGeFFGb19mWC1wYVg3WkQ4dDNReldrdVVfdXlSdG9OX3g5Ynd6Ym0wTDUyWEF2RFFXb3pnWGtDUUxCVmRuRkFRRVZjVlZnZkVyNGpVNUJrY2JXaHF3cFR2N195WGhZazNGZlAyX2x5b0c0bFRORUtvOXp0Qm9DeHFibVRVbFF6bEw5QQ?oc=5",
+        "pubDate": "Sat, 23 Aug 2025 18:12:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-24T02:57:55.270994+00:00"
   }
 }
