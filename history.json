@@ -457,10 +457,6 @@
   ],
   "ukraine": [
     {
-      "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
-      "pubDate": "Mon, 18 Aug 2025 05:49:00 GMT"
-    },
-    {
       "title": "Trump-Zelensky meeting live updates: Leaders meet in Oval Office - The Hill",
       "pubDate": "Mon, 18 Aug 2025 17:20:00 GMT"
     },
@@ -843,6 +839,10 @@
     {
       "title": "The DNC Will Have No Choice But to Restore New Hampshire\u2019s First-In-the-Nation Role - Politico",
       "pubDate": "Sun, 24 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "The Democrats are in deep trouble in the US \u2013 and Labour is on the way to joining them | Nesrine Malik - The Guardian",
+      "pubDate": "Mon, 25 Aug 2025 05:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -1049,6 +1049,10 @@
     {
       "title": "Drones Are Doing the Work of Landmines in Ukraine - Technology Org",
       "pubDate": "Sat, 23 Aug 2025 14:44:00 GMT"
+    },
+    {
+      "title": "Why cities must adopt drone as first responder (DFR) programs - Police1",
+      "pubDate": "Sun, 24 Aug 2025 20:55:46 GMT"
     }
   ],
   "federal_reserve": [
@@ -1457,10 +1461,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin slides to $115,500 as macro data continues to dampen market sentiment - The Block",
-      "pubDate": "Mon, 18 Aug 2025 05:04:20 GMT"
-    },
-    {
       "title": "Bitcoin price today: drops below $116k as macro worries weigh - Investing.com",
       "pubDate": "Mon, 18 Aug 2025 06:13:30 GMT"
     },
@@ -1514,10 +1514,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "China Delivers 15-Meter Colossus to France as Essential Component for World\u2019s Biggest Fusion Reactor Sparks Global Energy Ambitions - visegradpost.com",
-      "pubDate": "Mon, 18 Aug 2025 05:56:40 GMT"
-    },
     {
       "title": "Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel - Gizmodo",
       "pubDate": "Mon, 18 Aug 2025 09:01:05 GMT"
@@ -1745,10 +1741,6 @@
   ],
   "alternative_energy": [
     {
-      "title": "Australia Advances National Stewardship Scheme for Solar Panel Recycling - SolarQuarter",
-      "pubDate": "Mon, 18 Aug 2025 05:47:51 GMT"
-    },
-    {
       "title": "Green hydrogen development threatens wildlife in Chile - Mongabay",
       "pubDate": "Mon, 18 Aug 2025 09:03:23 GMT"
     },
@@ -1803,13 +1795,13 @@
     {
       "title": "Ukraine\u2019s parliament is introducing new conditions for supporting investors in alternative energy. - ubn.news",
       "pubDate": "Sun, 24 Aug 2025 21:50:48 GMT"
+    },
+    {
+      "title": "The Earth takes 1 billion years, China only one week \u2014 More than 20,000,000 produced - ecoportal.net",
+      "pubDate": "Sun, 24 Aug 2025 17:50:37 GMT"
     }
   ],
   "global_health": [
-    {
-      "title": "Hundreds of thousands of children \u2018facing starvation\u2019 as last Nigeria aid points set to close - The Telegraph",
-      "pubDate": "Mon, 18 Aug 2025 05:00:00 GMT"
-    },
     {
       "title": "Cases of Mosquito-Borne Chikungunya Virus Are Surging Globally: What to Know - The New York Times",
       "pubDate": "Tue, 19 Aug 2025 04:01:06 GMT"
@@ -2531,6 +2523,10 @@
     {
       "title": "Kremlin casts doubt on Trump's push for Ukraine peace as rifts remain unresolved - NBC News",
       "pubDate": "Sun, 24 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Oil prices hold gains on geopolitical uncertainty, Fed rate cut hopes - Investing.com",
+      "pubDate": "Mon, 25 Aug 2025 01:32:58 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2583,6 +2579,10 @@
     {
       "title": "US envoy to India: Donald Trump picks Sergio Gor. Why did Elon Musk call him \u2018a snake\u2019 once? - The Times of India",
       "pubDate": "Sat, 23 Aug 2025 07:20:00 GMT"
+    },
+    {
+      "title": "Heat Kills When Sweat Can\u2019t Evaporate. In India, It\u2019s a Deadly Reality - Bloomberg.com",
+      "pubDate": "Sun, 24 Aug 2025 22:00:00 GMT"
     }
   ],
   "public_health": [
@@ -2883,6 +2883,10 @@
     {
       "title": "Meta Signs $10 Billion-Plus Cloud Deal With Google - The Information",
       "pubDate": "Thu, 21 Aug 2025 22:48:00 GMT"
+    },
+    {
+      "title": "Publishers race to counter \u2018Google Zero\u2019 threat as AI changes search engines - Financial Times",
+      "pubDate": "Mon, 25 Aug 2025 04:00:35 GMT"
     }
   ],
   "animals": [
@@ -3413,6 +3417,12 @@
     {
       "title": "Private Equity's AI-Driven Software Acquisition Wave: Thoma Bravo's Dual Plays in Workforce and Cybersecurity Automation - AInvest",
       "pubDate": "Mon, 25 Aug 2025 01:06:06 GMT"
+    }
+  ],
+  "wind_power": [
+    {
+      "title": "US Halts Revolution Wind Project - Marine Link",
+      "pubDate": "Sun, 24 Aug 2025 21:39:16 GMT"
     }
   ]
 }
