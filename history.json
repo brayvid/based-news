@@ -293,10 +293,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Google CEO Sundar Pichai on how AI has changed hiring for engineering and programming jobs: We are making - Times of India",
-      "pubDate": "Mon, 18 Aug 2025 01:57:00 GMT"
-    },
-    {
       "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges - CNBC",
       "pubDate": "Mon, 18 Aug 2025 07:51:41 GMT"
     },
@@ -419,6 +415,10 @@
     {
       "title": "Senate committee gives green (well, maybe yellow) light to artificial intelligence bill - Denver Gazette",
       "pubDate": "Sun, 24 Aug 2025 22:37:00 GMT"
+    },
+    {
+      "title": "AI Skepticism Grows as Market Loses $1 Trillion Amid Bubble Fears - AInvest",
+      "pubDate": "Sun, 24 Aug 2025 18:41:00 GMT"
     }
   ],
   "climate": [
@@ -441,6 +441,10 @@
     {
       "title": "Antarctica is in extreme peril - Grist.org",
       "pubDate": "Fri, 22 Aug 2025 17:18:38 GMT"
+    },
+    {
+      "title": "NASA, the UN, and WMO Break Down the Science: What Exactly Is Climate Change? - Sustainable Times",
+      "pubDate": "Sun, 24 Aug 2025 19:26:54 GMT"
     }
   ],
   "ukraine": [
@@ -559,6 +563,10 @@
     {
       "title": "How Ukraine\u2019s naval drones hold Russia\u2019s warships at bay - The Economist",
       "pubDate": "Sun, 24 Aug 2025 18:40:34 GMT"
+    },
+    {
+      "title": "Ukraine Regains Novomykhailivka With Defense Intelligence and 3rd Corps Operation - \u041c\u0456\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439",
+      "pubDate": "Sun, 24 Aug 2025 18:57:47 GMT"
     }
   ],
   "us_economy": [
@@ -817,6 +825,10 @@
     {
       "title": "Can Trump and the GOP keep a grip on power? A fully MAGA party prepares for 2026 - USA Today",
       "pubDate": "Sun, 24 Aug 2025 12:12:18 GMT"
+    },
+    {
+      "title": "Trump expands targets for possible military deployment to more Democratic-led cities - PBS",
+      "pubDate": "Sun, 24 Aug 2025 22:20:14 GMT"
     }
   ],
   "democratic_party": [
@@ -1367,6 +1379,10 @@
     {
       "title": "South Korean Man Arrested in $50 Million Crypto Scam - Gizmodo",
       "pubDate": "Sun, 24 Aug 2025 14:48:32 GMT"
+    },
+    {
+      "title": "Ether rises to a fresh record, bitcoin erases gains from Jackson Hole rally - CNBC",
+      "pubDate": "Sun, 24 Aug 2025 22:20:25 GMT"
     }
   ],
   "data_breach": [
@@ -2231,6 +2247,10 @@
     {
       "title": "Climate change and prey could be driving great white sharks north - AP News",
       "pubDate": "Sun, 24 Aug 2025 11:07:00 GMT"
+    },
+    {
+      "title": "Spain\u2019s August heatwave was \u2018most intense on record\u2019, weather agency says - Al Jazeera",
+      "pubDate": "Sun, 24 Aug 2025 22:17:25 GMT"
     }
   ],
   "volcanoes": [
@@ -2358,10 +2378,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Fatal explosion at U.S. Steel's plant raises questions about its future - NBC10 Philadelphia",
-      "pubDate": "Mon, 18 Aug 2025 01:24:41 GMT"
-    },
     {
       "title": "Hawaii auto dealers brace for steep tariffs' impacts on sales - KITV",
       "pubDate": "Mon, 18 Aug 2025 04:40:06 GMT"
@@ -3363,6 +3379,12 @@
     {
       "title": "Scientists Detect Precise Origin of Mysterious Signal From Deep Space - Yahoo News Canada",
       "pubDate": "Sun, 24 Aug 2025 14:30:20 GMT"
+    }
+  ],
+  "technology": [
+    {
+      "title": "Private Equity's AI-Driven Software Acquisition Wave: Thoma Bravo's Dual Plays in Workforce and Cybersecurity Automation - AInvest",
+      "pubDate": "Mon, 25 Aug 2025 01:06:06 GMT"
     }
   ]
 }
