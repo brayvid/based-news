@@ -1,62 +1,72 @@
 {
+  "Alternative Energy": {
+    "articles": [
+      {
+        "title": "Clean energy is getting its own national day of action. It\u2019s about time. - Canary Media",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjFLMzVKVUUyNm56NERFMTkwdFItV2xXQnllT1dDa1RwYkNGLUNla01pZHctUFpiQWk2SUI5bzZ4TmpLbTMwaUhfY3ZBdEVhblRaanUzRWUxd0lEekl4YXdESVFfSkVEaVRyUjJLckFrZXgwRzItbTFLNUJWemwwX3YxWFEtU0FP?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 07:30:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
+  },
+  "Amazon": {
+    "articles": [
+      {
+        "title": "The Take: How did Lula da Silva cut Amazon deforestation in half? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZ2cjNYeDhjVXh5Z1hRcWRNbFFhQmRuaUZIZkx6amVPb1U0N28yY1VRb2RoX0l5YUllNzJBSjFVYmlQdC1lOVJRdEd3SFpSZUVKUTFRMVBETWlBTDFkSHlqRkpSaTZQUHRsSi1mRDkxV3pEQjRrQUJ6aEhkT3VvTjAyTl8wc3d2RTZJVkpEQmVwTGFyNDVRZi1mVk84Zk95NjJfTmdYWEZiUElr?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 04:15:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
+  },
   "Asia": {
     "articles": [
       {
-        "title": "China surge leads Asia stocks higher, Nvidia a hurdle - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqTjNHajRfX0tMZ1RxMnVQUTdkeHdHRVJ2eV85Z2FUSi1LUU5ZUWNob0J4YVMxSVpCMzBIR3lmazlrRFRhdm1fTnFxQkdNVDJJdy1OSlNmbklBVWVTdGdjcV9pNjhhVWJDMGt0LUFfVWtUX3M4UklpdmxHRQ?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 05:57:00 GMT"
+        "title": "Asia Bond Talks Pick Up as Issuers Eye Tight Spreads, Fed Cues - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFBSb0VMQXloLXhsaXVvU1U3bXBiRjJiNjh0TWM1blAwdm81ZnExU09OMXo2X09nUVBmWkpaaUlzMGdpWU0tMVU1WHVNcWRKc0lpS0N5LXVfcmxJUkVkRUZzNDRyeHpWcXhua0djZElVUUJCc2xELVBjTXk1clZGSEZtaEVBZEZyUHlkeVNleUs2YlJ2a3VaUFlFeWhTNzZBamZhYXFzcllSTVRqTzRrQUx3?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 07:01:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
   },
-  "China": {
+  "Astronomy": {
     "articles": [
       {
-        "title": "Evergrande delisting marks end of era for China\u2019s property sector - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fMTB0SXd6Y3kyWkFuT3ZuZ20yZ1pTZVFkZnhlbWlBU0lFeXV2UzdRakI2d0VKTWxmYnNYUlVycXJwdFdtQ29WRzBrTVNVSmdURW5YTEV5QXBtVThuVGVEZGY3akhxRmkyY2hzQkdIXzc?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 05:49:54 GMT"
+        "title": "Astronomers have glimpsed the core of a dying star\u2014confirming theories of how atoms are made - Phys.org",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjSjBxd1FROEFEdklQWkNrNTZyWG1qaUUzeXZfU3FaOG95RC1US2VXRVRqRzRtb3g4YmlDNmxUY3Z0eDEwQ3p5cHJxa1VYYThYUXRDUlVqdERNUjFlcWFPUkszTnlWVGxWN1JucERaWERSdVY1dC10aXF4SQ?oc=5",
+        "pubDate": "Sun, 24 Aug 2025 23:18:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
   },
-  "Federal Reserve": {
+  "Battery Electric Vehicle": {
     "articles": [
       {
-        "title": "Labour market wobble will push Federal Reserve to cut in September - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDVKLWxTRk03VDhtVHV1S0FEc2h3X3BfdF81RGl0bjBXQmFfaC1LYXZya2JEX0p5amExMXVrcjBLZnRFdDNKZElGdTUxMFR4eFFZcGI2UGFNZGhqMVFEVHg5SWFfeW9FWFdUam1odDg?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 04:00:16 GMT"
+        "title": "China Holds The Keys To The Global EV Battery Race - Finimize",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMklOTDJYaXZKWVp4bEVqdkIxNlZ6R2JLRWl3SVFVX1ZuNFpsSmVZR3lfOTdpVXVoMlBVS3RSckkydEpnYkRMUEJYM21UdUJuNDBjZDNnU2ptdGJiR21lQWJCU3NCb0RsQ1pKMFFqWVlVSFJRSGNwN2drNG5VUll4ODlqT3AxQQ?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 05:51:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
   },
-  "Gaza": {
+  "Bitcoin": {
     "articles": [
       {
-        "title": "Making it Official: Famine Strikes Gaza City - CounterPunch.org",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2tKbnZmU3hpalFvM0RTN244a253cHdSQ3JrbzNQWm5hNHRDcHBpWVBUQWJ0MG1WXzRwVU56Uk4yOU9xX2VwdWEzRFJrdFlMaFV2V1ZjS3NuOW5uRm1ZN3Q0U0I0eGZpUXAwcTdDWWRVd2p6SmpweHdYNWJudGd3WHhPdVBzS3ZWTVVUUQ?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 06:32:11 GMT"
+        "title": "Why bitcoin treasury companies are a fool\u2019s paradise - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XZGI4QXNXN1U2N2VIblN0aW01TlJfWnFJVlVUbDFnRW10Z01RRUtqRkJaZHdhUE5GbF9MaUZfZUVsMlIzdzdjYklmUjFVUl9YSE9SWEkxdWNJMkNucUkzWElRVFZpQ0dybUlsU0REM2g?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 04:00:26 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
   },
-  "Ukraine": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Putin is 'obstacle to peace,' retired US General Petraeus says - The Kyiv Independent",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVQ1V2hxZ1pON1c4bXBVaW5yZ0NIZ3ZMdDg4Q0pkWHhkSUdXMkpQOWloS0xnRnVCTjNtV3Y3SVhfN3FwaHd5MjhFazB1SU5pOTBpUGdQNkNvMGRMRzJKWVI3dlA2Y3czS1RIR0c1N00zTTJYekh6Yll3TWJYRld5SjJBa2ZCTWpzdUZMeWs4OE52dw?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 03:51:44 GMT"
+        "title": "Meta's AI-Driven Ad Revolution: Balancing Short-Term Gains with Long-Term Vision - AInvest",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZS1vajlQUnQtMTJYMzNhYXQzYVo0TUtKSjY0bHM3SHhaUjZuVF9yMFo0TXhpT25UeU0yZlVsUzk0X1FXMWRGNnhGemh3MmxZQnBCcUZTZ0VfOFBoUnRmMTdzWUlfLTVNYUNJUV96cXd1enluZG14b2UwZVBzRGdEVXpfQnpkbnBQUzUySWQwRC1fN0dyZ0UzaGR4cEp5YUhNM0F6TmdCbjhqZlk?oc=5",
+        "pubDate": "Sun, 24 Aug 2025 23:13:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
-  },
-  "Global Health": {
-    "articles": [
-      {
-        "title": "Flesh-eating screwworm case detected in person in U.S. for 1st time in years - Axios",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1lBOFdPdWphZ041M3BqTkZVR0dUV0YyUC1ybXFuOFVBdXhiVXB2NlVFZGtsbnZrZGxfVjVRcUFQQWpHd2lWMGlQbGpDS2d3dTQ2SGVJZGVUMldHX3plYmY4S2VhaVpJbWlRa212VjlTM3hQNkxUanZJZEpFdTlPNUFFdEVlblh0Q1NCTkZ6OA?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 02:52:58 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-25T06:57:50.556694+00:00"
+    "last_updated_ts": "2025-08-25T07:57:58.333628+00:00"
   }
 }

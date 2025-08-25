@@ -297,10 +297,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges - CNBC",
-      "pubDate": "Mon, 18 Aug 2025 07:51:41 GMT"
-    },
-    {
       "title": "These AI Stocks Face 'Show Me' Moment: Palantir, CoreWeave, Nvidia, Snowflake - Investor's Business Daily",
       "pubDate": "Mon, 18 Aug 2025 12:15:00 GMT"
     },
@@ -427,6 +423,10 @@
     {
       "title": "Analog vs. artificial: Custom car artists at Utah's Rat Fink Reunion debate AI's impact on the culture - FOX 13 News Utah",
       "pubDate": "Mon, 25 Aug 2025 00:13:51 GMT"
+    },
+    {
+      "title": "Meta's AI-Driven Ad Revolution: Balancing Short-Term Gains with Long-Term Vision - AInvest",
+      "pubDate": "Sun, 24 Aug 2025 23:13:06 GMT"
     }
   ],
   "climate": [
@@ -600,10 +600,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China extends probe into EU dairy products to February 2026 - Reuters",
-      "pubDate": "Mon, 18 Aug 2025 07:32:11 GMT"
-    },
     {
       "title": "China Stock Rally Sends Shanghai Benchmark to Decade High - The Wall Street Journal",
       "pubDate": "Mon, 18 Aug 2025 09:21:00 GMT"
@@ -914,10 +910,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Agentic AI promises a cybersecurity revolution \u2014 with asterisks - csoonline.com",
-      "pubDate": "Mon, 18 Aug 2025 07:02:46 GMT"
-    },
     {
       "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks - The Hacker News",
       "pubDate": "Mon, 18 Aug 2025 10:56:00 GMT"
@@ -1407,14 +1399,6 @@
   ],
   "data_breach": [
     {
-      "title": "HR giant Workday discloses data breach amid Salesforce attacks - BleepingComputer",
-      "pubDate": "Mon, 18 Aug 2025 07:53:49 GMT"
-    },
-    {
-      "title": "Hundreds of TeslaMate Servers Expose Real-Time Vehicle Data - GBHackers News",
-      "pubDate": "Mon, 18 Aug 2025 07:30:00 GMT"
-    },
-    {
       "title": "PayPal breach exposed nearly 16M login credentials, hackers claim - Cybernews",
       "pubDate": "Tue, 19 Aug 2025 07:03:52 GMT"
     },
@@ -1511,6 +1495,10 @@
     {
       "title": "Bitcoin surpasses $100,000\u2026 \"Cryptocurrency adoption remains in its early stages\" - bloomingbit",
       "pubDate": "Sun, 24 Aug 2025 23:38:04 GMT"
+    },
+    {
+      "title": "Why bitcoin treasury companies are a fool\u2019s paradise - Financial Times",
+      "pubDate": "Mon, 25 Aug 2025 04:00:26 GMT"
     }
   ],
   "fusion_power": [
@@ -1629,6 +1617,10 @@
     {
       "title": "BlueOval SK delays EV battery production in West Tennessee until 2027 - The Commercial Appeal",
       "pubDate": "Tue, 19 Aug 2025 19:21:34 GMT"
+    },
+    {
+      "title": "China Holds The Keys To The Global EV Battery Race - Finimize",
+      "pubDate": "Mon, 25 Aug 2025 05:51:15 GMT"
     }
   ],
   "hacking": [
@@ -1799,6 +1791,10 @@
     {
       "title": "The Earth takes 1 billion years, China only one week \u2014 More than 20,000,000 produced - ecoportal.net",
       "pubDate": "Sun, 24 Aug 2025 17:50:37 GMT"
+    },
+    {
+      "title": "Clean energy is getting its own national day of action. It\u2019s about time. - Canary Media",
+      "pubDate": "Mon, 25 Aug 2025 07:30:00 GMT"
     }
   ],
   "global_health": [
@@ -2085,6 +2081,10 @@
     {
       "title": "Scientists Are Using Earth's Shadow to Hunt For Alien Probes - ScienceAlert",
       "pubDate": "Sun, 24 Aug 2025 15:01:15 GMT"
+    },
+    {
+      "title": "Astronomers have glimpsed the core of a dying star\u2014confirming theories of how atoms are made - Phys.org",
+      "pubDate": "Sun, 24 Aug 2025 23:18:48 GMT"
     }
   ],
   "physics": [
@@ -2333,6 +2333,10 @@
     {
       "title": "Brazil suspends Amazon Soy Moratorium, raising fears of deforestation spike - Mongabay",
       "pubDate": "Sat, 23 Aug 2025 00:09:20 GMT"
+    },
+    {
+      "title": "The Take: How did Lula da Silva cut Amazon deforestation in half? - Al Jazeera",
+      "pubDate": "Mon, 25 Aug 2025 04:15:56 GMT"
     }
   ],
   "military_and_defense": [
@@ -2443,6 +2447,10 @@
     {
       "title": "China surge leads Asia stocks higher, Nvidia a hurdle - Reuters",
       "pubDate": "Mon, 25 Aug 2025 05:57:00 GMT"
+    },
+    {
+      "title": "Asia Bond Talks Pick Up as Issuers Eye Tight Spreads, Fed Cues - Bloomberg.com",
+      "pubDate": "Mon, 25 Aug 2025 07:01:18 GMT"
     }
   ],
   "spacex": [
@@ -2767,10 +2775,6 @@
   ],
   "hurricanes": [
     {
-      "title": "Hurricane Erin regains Cat 4 strength as it pounds Puerto Rico - upi.com",
-      "pubDate": "Mon, 18 Aug 2025 07:26:38 GMT"
-    },
-    {
       "title": "Hurricane Erin: No direct hit forecast on U.S., but flood risks prompt evacuations - NPR",
       "pubDate": "Mon, 18 Aug 2025 18:04:50 GMT"
     },
@@ -2848,10 +2852,6 @@
     }
   ],
   "research": [
-    {
-      "title": "Assessing the end of mRNA research: \u2018We just shot ourselves in both feet and both hands\u2019 - Chief Healthcare Executive",
-      "pubDate": "Mon, 18 Aug 2025 07:06:46 GMT"
-    },
     {
       "title": "How federal cuts are impacting University of Minnesota research - MinnPost",
       "pubDate": "Tue, 19 Aug 2025 17:07:00 GMT"
