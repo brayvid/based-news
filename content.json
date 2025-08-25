@@ -1,62 +1,52 @@
 {
-  "Cybersecurity": {
+  "National Security": {
     "articles": [
       {
-        "title": "China-Linked Hackers Hit Southeast Asia Diplomats, Google Says - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEJWcGVtak5JakJBOTVpaURvSkV5N1dzNl9EcUFuZldadWc4Z1k0TlRjMVlWQ010cVEyQjJkWXVURU9WUDNCR3NLc1p5cjJKYTBuWEZ2SExyQ29nYkV2N2swNEhLaFNic3pLdkNFU21xQ3B5eE5paUxDU09VVFdJRm5DSGR5V3FyZF9RNjlUcU1WM2xqUjMtbUtaTi1OSEVrY0gwc3BjV3hlNTJsMEM1WDZR?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 16:11:23 GMT"
+        "title": "Pentagon Document: U.S. Wants to \u201cSuppress Dissenting Arguments\u201d Using AI Propaganda - The Intercept",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUURCZ3hvVEZWNzhnMGxhdlZQdUJocmZfSGhjb0paQWVsNllMQU9QeDVNRGVFVVAzcU0wWFVneVBMY1VYMlhGaWVKQ0pfeC00OXYtQW13UURFaS1ldXFrdUlTb2ZJMUdlN29oaUg4RW1OSG93MlcyQjAwMjVrYzNRaGIzOTg?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 16:08:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
+    "last_updated_ts": "2025-08-25T19:00:23.619415+00:00"
   },
-  "Artificial Intelligence": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Elon Musk\u2019s xAI sues Apple, OpenAI over artificial intelligence competition, app store rankings - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU2phWDNzd0NJSWhRaUNqTGp4aXFjcG9oMXRhLXJZcnhnaVJ5YjN1YklGY3AybUo3cDRjT3E3S1hNZE15YlUxdDhQWmJzTlI1STRtYTlCNlZBZTlDSmhoSjExaWlBU3g2YjNYRDg5ODRONGptRXZpXzdlc2JhNmluQlhYUk1pel9oVTlJQUE2N19YU05Qam11d2xnMXVQdWg0VzM4elBIV19UOWt1MWFLZjI2MjVLOGRZblhOZ3NKZ2xkNHBwLTdpNHFiOVhNUHFOSzNBZzEwNXUzUdIB4AFBVV95cUxOOUdrUXV6WjJ1RlhKX21sdXBudE5VZTBRMnZYeG52ZUYtQURIVVlvWXVfOEp2VkhjMFBjeWphRWxkd0NQSW1fWHd2QzdNVUpvd3h5SVc4ZmxpUnRtZERubGRxNXBVODl4RmpEclh2X0xzMlZ4Y2JDbkc5V3JQbWhoTm9qZmg3dWtsb0dWR0MzTUgxcXNuMV9PamZXNUdESHpqVHg0Z0Jic21WYUdKQV9MUkJ6b0lsZ1MtaWZ2NUFIaUxuN1pVWFJJODNEUDRUdTRIak8tQnFTclZvaGVfVFNqVg?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 15:58:00 GMT"
+        "title": "Trump signs executive orders aimed at ending cashless bail in D.C. and across the nation - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUnE0RGVZSndJc2pLT2tHQ3Z0MWhOYUViYVVqTXFsMXJpT3Z3S3BFMUpjNzZUakxteGJ3Yy1TMmxMWS1SWUZtN3RPdWNQanJjWXpXZnMybzhOSGhGUlViZXNfc25yTEhRMzZGN21URDVJeTRlbzF4YzhzdV9pSm1SZVVZQVJqVVN1X1VlclF5dXNNN19ybDlUOWh2MUFLYkRiUFRIZEhB0gFWQVVfeXFMTlRWdmtWa1RaSkZuVnFPdDN3cXdLMFQ1NHZiMlRDb2RBaF9DZmFWWEZpak5UZnlEc1NJbklvR3JoLWk2Y01XWXFYTVNSSUZ4VWJwZDlXNVE?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 15:04:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
+    "last_updated_ts": "2025-08-25T19:00:23.619415+00:00"
   },
-  "Bitcoin": {
+  "Hurricanes": {
     "articles": [
       {
-        "title": "Strategy buys $357M in Bitcoin as price drops to $112K - Cointelegraph",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUhGNWdrb0piQmN3QkVETi11N014RVRFUFMydF80X2VUUFRweHgtVW5id3daM1YwbGJuV1VaS09HS014S25jY25ndUZQekh6Nm1PeVY3U2ZCNG9OYzFiTFdjSHlfZGs1TVZXZlVDRnpueTBOQnZhTFpJdEs0MGQ1UUxobFVmMUQtRHBOb2R3?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 12:07:59 GMT"
+        "title": "Hurricane Erin leaves rough seas with 2 swimmers dead and a search underway for a missing boater - The Morning Call",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPLWwwcWgyM2FBNnJiRVg1TTVOLVVKRFlRWVhYdF81b1lPcXEyeHQxcFdkZEl1WFVIam80MWxVZGhPZlMzcjZfTGh0eFluLWJDRGVKTXIweXh1TEZNbEtteTBHcnZudFlsbGsxM2VQVjRZeUtqMGQtbGNWSUs?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 12:30:08 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
+    "last_updated_ts": "2025-08-25T19:00:23.619415+00:00"
   },
-  "Defense Intelligence Agency": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Trump\u2019s intelligence \u2018reforms\u2019 guarantee failure - The Contrarian",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DT1kyNDNtSDlwNkExM2lLVXFQR09DUG84Mm1ORkwtNnhxWUZQdDZxV2RaMm05c1VtWU5zS0xtSXJIdW1Kd1FhaEQ0UlMxVmk0X205U3l0dm5ka0k1VGZpQUo5aUxZM2FjOTZzYk1LX0h0YnlEX3NxeTFMYw?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 13:45:27 GMT"
+        "title": "For Environmental Scientists, Climate Change Means Coping With Death - Honolulu Civil Beat",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVV6NldvSm81RGcxd2prVTV6NTVyTGZ2aEVzcmtRT0ZDZmFrYWV2TmZObzhKdG1pWGVtVlZOQ1ZkTXIxcU9TMk1HaVRZM0pBMHZDcG1GTUlXSGg3NXhhZnBtYUExUFRGMnItTWN6TUVoaEkzRXBtdkVpdGVSVm5EWmNCTUM2Qi1lZXBwMkxDN29XSnZUN3J1VDJ5SEVKd3hvZHp3NQ?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 10:01:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
+    "last_updated_ts": "2025-08-25T19:00:23.619415+00:00"
   },
-  "Earthquakes": {
+  "Chemistry": {
     "articles": [
       {
-        "title": "6.1 Magnitude Earthquake Reported - iHeart",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGZRTHptTEZwWjFwOE52Zy16U3ZZM2EzN29ybW53RHpoQW4ybGxKSXdja2dnYlE1aGRKUk1wUTVXSUtHZVFnMm9idTBLVndhLWVSNTF4THZ6d0FrX3JTMEdvTm9vaUoxQllXbVB1bnhsdF9YWU5xR0pjRkFUWEJ6UtIBiAFBVV95cUxNS3g0eEdoSEhRTW9rc0s2QzB2cjVtdVRwYXFZdzhmQzJiOEFPb0NtcnhWNk1fOHVZY3ZuTU1IbGVqc1lTVmJKNDg3Nm9VeFEwSlhVQjNtNGRnLVZ4cGI3M3ZteTBraG9qMU5QLUdxMkxMS2dmS2ZoeDBPSURqYnZOdjYzYzhuV2k2?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 15:37:14 GMT"
+        "title": "The Sarin shortcut: How AI lowers the bar for chemical weapons - Bulletin of the Atomic Scientists",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTZRajBpWUhDWTZ5clNCVDluM2xOZXYtNk8xS2phaGxDc25JbE56MzJTUGFuRWVjLVRJcG9EMzZZZndvRUo0WjZ0V0MyLVp5LXV1R1ZIVzh6anRLSTMwaEVQYk5ITXRwalczMldvNGlqR3hNbjdGaUFiYUp2Vlg4UE5sQUdMcUJWRWpZOXNBQXVhbFJWeVQtQVJB?oc=5",
+        "pubDate": "Mon, 25 Aug 2025 10:51:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
-  },
-  "Oceans": {
-    "articles": [
-      {
-        "title": "Scientists make unbelievable discovery nearly 9,000 feet below surface of Pacific Ocean: 'A new piece of the puzzle' - yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWV3S0RiM0lkUmsxUk5kcHk3WTAxbzFMeDl3UVRTRnAwdG50V1JmWlNhZVRoWmtvZFlNNGd5ZzBjUUdWS1BSX25wZVVfaWxhOWxkYVI2WUlsaFhWcmRBeFk4NzNTUk04U1VuMGFUV1pQQzZlbU85dkJKYUpRZlFNb2dKeUY5MjZIWUNpUnFrb3F5eE8xMzJ6eQ?oc=5",
-        "pubDate": "Mon, 25 Aug 2025 11:35:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-25T18:00:04.143027+00:00"
+    "last_updated_ts": "2025-08-25T19:00:23.619415+00:00"
   }
 }
