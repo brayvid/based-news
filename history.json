@@ -65,14 +65,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump says Smithsonian should portray America's 'Brightness,' not 'how bad Slavery was' - ABC News",
-      "pubDate": "Tue, 19 Aug 2025 20:52:48 GMT"
-    },
-    {
-      "title": "Trump vows to target 'woke' museums with same playbook used on Columbia, Harvard - CNBC",
-      "pubDate": "Tue, 19 Aug 2025 20:36:27 GMT"
-    },
-    {
       "title": "Trump threatens Smithsonian museums in escalating attacks on social media - CBC",
       "pubDate": "Tue, 19 Aug 2025 22:45:54 GMT"
     },
@@ -166,10 +158,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Finland president: Ukraine ceding land to Russia would be like U.S. giving up multiple states - NBC News",
-      "pubDate": "Tue, 19 Aug 2025 20:12:32 GMT"
-    },
     {
       "title": "Putin is facing a fuel crisis as Ukraine escalates attacks on Russian refineries - Atlantic Council",
       "pubDate": "Thu, 21 Aug 2025 21:06:00 GMT"
@@ -941,10 +929,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "White House aims to fast-track key Federal Reserve pick - yahoo.com",
-      "pubDate": "Tue, 19 Aug 2025 20:00:00 GMT"
-    },
-    {
       "title": "Federal Reserve says US banks should serve crypto without fear of penalties - CryptoSlate",
       "pubDate": "Tue, 19 Aug 2025 22:45:00 GMT"
     },
@@ -1007,6 +991,10 @@
     {
       "title": "Fed Chair Jerome Powell is worried about the job market. Here are 3 red flags for workers. - CBS News",
       "pubDate": "Mon, 25 Aug 2025 09:00:17 GMT"
+    },
+    {
+      "title": "Trump says he'll have a Fed 'majority' soon to push rates lower after firing Cook - CNBC",
+      "pubDate": "Tue, 26 Aug 2025 18:54:52 GMT"
     }
   ],
   "earthquakes": [
@@ -1299,6 +1287,10 @@
     {
       "title": "Farmers Insurance harvests bad news: 1.1M customers snared in data breach - theregister.com",
       "pubDate": "Tue, 26 Aug 2025 11:26:00 GMT"
+    },
+    {
+      "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
+      "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1439,6 +1431,10 @@
     {
       "title": "China Holds The Keys To The Global EV Battery Race - Finimize",
       "pubDate": "Mon, 25 Aug 2025 05:51:15 GMT"
+    },
+    {
+      "title": "Porsche axes plans to build electric car batteries as demand collapses - The Telegraph",
+      "pubDate": "Tue, 26 Aug 2025 13:43:00 GMT"
     }
   ],
   "hacking": [
@@ -1503,10 +1499,6 @@
   ],
   "national_security": [
     {
-      "title": "Tulsi Gabbard revokes security clearances of 37 current and former national security officials - CNN",
-      "pubDate": "Tue, 19 Aug 2025 20:51:00 GMT"
-    },
-    {
       "title": "N.S.A.\u2019s Acting Director Tried to Save Top Scientist From Purge - The New York Times",
       "pubDate": "Wed, 20 Aug 2025 14:11:26 GMT"
     },
@@ -1529,6 +1521,10 @@
     {
       "title": "Pentagon Document: U.S. Wants to \u201cSuppress Dissenting Arguments\u201d Using AI Propaganda - The Intercept",
       "pubDate": "Mon, 25 Aug 2025 16:08:28 GMT"
+    },
+    {
+      "title": "She Pushed to Overturn Trump\u2019s Loss in the 2020 Election. Now She\u2019ll Help Oversee U.S. Election Security. - ProPublica",
+      "pubDate": "Tue, 26 Aug 2025 18:00:00 GMT"
     }
   ],
   "ethereum": [
@@ -1821,6 +1817,10 @@
     {
       "title": "Urgent need for explainable AI - Hindustan Times",
       "pubDate": "Mon, 25 Aug 2025 11:31:01 GMT"
+    },
+    {
+      "title": "Social media algorithms exposing children to violent pornographic content, report shows - Computer Weekly",
+      "pubDate": "Tue, 26 Aug 2025 09:01:18 GMT"
     }
   ],
   "astronomy": [
@@ -2475,10 +2475,6 @@
   ],
   "asteroids": [
     {
-      "title": "It's Official: Asteroids Ryugu and Bennu Are Siblings - Universe Today",
-      "pubDate": "Tue, 19 Aug 2025 20:27:00 GMT"
-    },
-    {
       "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
       "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
     },
@@ -2608,10 +2604,6 @@
     }
   ],
   "republican_party": [
-    {
-      "title": "Republicans sue to block Newsom\u2019s gerrymandering, point to legislative gamesmanship - CalMatters",
-      "pubDate": "Tue, 19 Aug 2025 20:13:54 GMT"
-    },
     {
       "title": "RNC poised to elect long-time Trump-loyalist, FL state Sen. Joe Gruters, as new chair - ABC News",
       "pubDate": "Fri, 22 Aug 2025 12:11:15 GMT"
@@ -2783,12 +2775,6 @@
     {
       "title": "Why banks should leverage AI to serve more than the affluent\u2014and build a financial system for everyone - Fortune",
       "pubDate": "Sun, 24 Aug 2025 00:00:00 GMT"
-    }
-  ],
-  "information_security": [
-    {
-      "title": "House Homeland plans CISA 2015 markup with expiration looming - Federal News Network",
-      "pubDate": "Tue, 19 Aug 2025 20:50:52 GMT"
     }
   ],
   "solar_power": [
