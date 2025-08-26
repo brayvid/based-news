@@ -281,10 +281,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "The AI revolution will cut nearly $1 trillion a year out of S&P 500 budgets, Morgan Stanley says\u2014largely from agents and robots doing human jobs - Fortune",
-      "pubDate": "Tue, 19 Aug 2025 16:30:53 GMT"
-    },
-    {
       "title": "US tech stocks hit by concerns over future of AI boom - Financial Times",
       "pubDate": "Tue, 19 Aug 2025 19:56:11 GMT"
     },
@@ -399,6 +395,10 @@
     {
       "title": "Nvidia's new $3,500 AI 'brain' could give rise to what Jensen Huang calls the final phase of AI - Fortune",
       "pubDate": "Tue, 26 Aug 2025 14:35:40 GMT"
+    },
+    {
+      "title": "Can Nvidia results dispel creeping AI doubts? - Reuters",
+      "pubDate": "Tue, 26 Aug 2025 13:05:31 GMT"
     }
   ],
   "climate": [
@@ -695,6 +695,10 @@
     {
       "title": "Nvidia earnings preview: China sales and AI hype tested - Quartz",
       "pubDate": "Mon, 25 Aug 2025 15:47:23 GMT"
+    },
+    {
+      "title": "China lodges complaint over Japan urging countries not to attend parade - Reuters",
+      "pubDate": "Tue, 26 Aug 2025 07:22:34 GMT"
     }
   ],
   "us_politics": [
@@ -1145,6 +1149,10 @@
     {
       "title": "Former University of Texas MD Anderson Cancer Center employee arrested, accused of stealing research to take back to China - ABC13 Houston",
       "pubDate": "Tue, 26 Aug 2025 11:38:34 GMT"
+    },
+    {
+      "title": "Inside the revolutionary idea that we can negotiate with cancer - New Scientist",
+      "pubDate": "Tue, 26 Aug 2025 15:00:01 GMT"
     }
   ],
   "space_exploration": [
@@ -1444,10 +1452,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "First battery produced at Glendale BlueOval SK plant rolls off assembly line - WAVE News",
-      "pubDate": "Tue, 19 Aug 2025 16:07:00 GMT"
-    },
     {
       "title": "BlueOval SK delays EV battery production in West Tennessee until 2027 - The Commercial Appeal",
       "pubDate": "Tue, 19 Aug 2025 19:21:34 GMT"
@@ -1835,10 +1839,6 @@
       "pubDate": "Tue, 19 Aug 2025 21:37:00 GMT"
     },
     {
-      "title": "Ponzi schemer claimed to use AI algorithms sentenced for fraud - Brooklyn Eagle",
-      "pubDate": "Tue, 19 Aug 2025 16:54:00 GMT"
-    },
-    {
       "title": "Minnesota State sues TikTok over addictive algorithms harming users - CNBC TV18",
       "pubDate": "Wed, 20 Aug 2025 07:07:44 GMT"
     },
@@ -1852,10 +1852,6 @@
     }
   ],
   "astronomy": [
-    {
-      "title": "Scientists find tiny new moon around Uranus with the James Webb Space Telescope (photos, video) - Space",
-      "pubDate": "Tue, 19 Aug 2025 16:58:11 GMT"
-    },
     {
       "title": "Rare Black Moon coming August 22-23! Why so special? - EarthSky",
       "pubDate": "Tue, 19 Aug 2025 23:49:00 GMT"
@@ -2287,13 +2283,13 @@
     {
       "title": "Geopolitical Tensions in the Middle East: A Game-Changer for Oil Market Dynamics - AInvest",
       "pubDate": "Mon, 25 Aug 2025 05:35:02 GMT"
+    },
+    {
+      "title": "Russia Lacks an Economic Exit Strategy in Ukraine - Geopolitical Futures",
+      "pubDate": "Tue, 26 Aug 2025 10:00:47 GMT"
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Public EV fast charging poised for \u2018robust\u2019 growth: WoodMac - Utility Dive",
-      "pubDate": "Tue, 19 Aug 2025 16:20:44 GMT"
-    },
     {
       "title": "Why Tesla, GM, and Rivian will be hurt most by China's critical minerals export ban [Video] - AOL.com",
       "pubDate": "Wed, 20 Aug 2025 01:54:36 GMT"
@@ -2353,6 +2349,10 @@
     {
       "title": "Mississippi declares public health emergency over infant mortality rate - ABC News",
       "pubDate": "Fri, 22 Aug 2025 19:37:13 GMT"
+    },
+    {
+      "title": "The quit\u2011smoking ads that helped millions are ending. A former smoker and experts fear what comes next. - CBS News",
+      "pubDate": "Tue, 26 Aug 2025 15:36:21 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2409,6 +2409,10 @@
     {
       "title": "US judge in Hawaii considers legality of restrictions on access to abortion medication - ABC News",
       "pubDate": "Sat, 23 Aug 2025 00:25:03 GMT"
+    },
+    {
+      "title": "Trump Targets D.C. Bail Reform, Sparking Backlash from Civil Rights Groups - Davis Vanguard",
+      "pubDate": "Tue, 26 Aug 2025 10:05:00 GMT"
     }
   ],
   "oceans": [
@@ -2867,6 +2871,10 @@
     {
       "title": "Apple Plans 3-Year iPhone Revamp - PYMNTS.com",
       "pubDate": "Mon, 25 Aug 2025 06:50:13 GMT"
+    },
+    {
+      "title": "Apple announces launch event on Sept. 9, iPhone 17 expected - CNBC",
+      "pubDate": "Tue, 26 Aug 2025 16:06:11 GMT"
     }
   ],
   "gpus": [
