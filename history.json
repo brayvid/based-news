@@ -767,6 +767,10 @@
     {
       "title": "The Democrats are in deep trouble in the US \u2013 and Labour is on the way to joining them | Nesrine Malik - The Guardian",
       "pubDate": "Mon, 25 Aug 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Democrat wins Iowa Senate race, upending Republican supermajority - The Washington Post",
+      "pubDate": "Wed, 27 Aug 2025 06:55:41 GMT"
     }
   ],
   "north_korea": [
@@ -822,10 +826,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Russia-linked European attacks renew concerns over water cybersecurity - csoonline.com",
-      "pubDate": "Wed, 20 Aug 2025 07:01:45 GMT"
-    },
     {
       "title": "Microsoft Curbs Early Access for Chinese Firms to Notifications About Cybersecurity Flaws - Bloomberg.com",
       "pubDate": "Wed, 20 Aug 2025 15:00:09 GMT"
@@ -1577,10 +1577,6 @@
   ],
   "alternative_energy": [
     {
-      "title": "State AGs demand DOE fix its flawed grid-reliability report - Canary Media",
-      "pubDate": "Wed, 20 Aug 2025 07:30:00 GMT"
-    },
-    {
       "title": "Federal solar funding canceled as Kentuckians feel burden of summer energy costs - WUKY",
       "pubDate": "Wed, 20 Aug 2025 10:32:00 GMT"
     },
@@ -1828,10 +1824,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "Minnesota State sues TikTok over addictive algorithms harming users - CNBC TV18",
-      "pubDate": "Wed, 20 Aug 2025 07:07:44 GMT"
-    },
     {
       "title": "Securing private data at scale with differentially private partition selection - Google Research",
       "pubDate": "Wed, 20 Aug 2025 19:27:32 GMT"
@@ -2585,6 +2577,10 @@
     {
       "title": "Former DHS official signals he could be next after Bolton FBI raid: \u2018We expect it\u2019 - The Hill",
       "pubDate": "Sat, 23 Aug 2025 18:12:00 GMT"
+    },
+    {
+      "title": "Researcher who has distorted voter data appointed to Homeland Security election integrity role - Politico",
+      "pubDate": "Tue, 26 Aug 2025 20:59:36 GMT"
     }
   ],
   "kim_jong_un": [
@@ -2851,6 +2847,10 @@
     {
       "title": "US defense intelligence chief ousted after Iran strike assessment: Report - Anadolu Ajans\u0131",
       "pubDate": "Sat, 23 Aug 2025 09:15:20 GMT"
+    },
+    {
+      "title": "Iran link to Australian synagogue attack uncovered via funding trail, spy agency says - Reuters",
+      "pubDate": "Wed, 27 Aug 2025 07:16:16 GMT"
     }
   ],
   "natural_history": [
@@ -3017,6 +3017,12 @@
     {
       "title": "Trump Asked If Putin Is 'Back On The Clock' Amid Ceasefire Stalemate - Newsweek",
       "pubDate": "Tue, 26 Aug 2025 21:11:02 GMT"
+    }
+  ],
+  "microsoft": [
+    {
+      "title": "Protesters occupy Microsoft office as company reviews its work with Israel's military - NPR",
+      "pubDate": "Wed, 27 Aug 2025 05:05:42 GMT"
     }
   ]
 }
