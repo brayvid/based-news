@@ -193,10 +193,6 @@
   ],
   "ai_safety": [
     {
-      "title": "University of Oxford researchers make AI safety breakthrough - Oxford Mail",
-      "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
-    },
-    {
       "title": "Study finds filtered data stops openly-available AI models from performing dangerous tasks - Technology Org",
       "pubDate": "Wed, 20 Aug 2025 05:00:00 GMT"
     },
@@ -284,10 +280,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Meta splits AI division into 4 teams, job cuts loom after Mark Zuckerberg's big hiring spree - India Today",
-      "pubDate": "Wed, 20 Aug 2025 04:12:44 GMT"
-    },
     {
       "title": "Commentary: Say farewell to the AI bubble, and get ready for the crash - Los Angeles Times",
       "pubDate": "Wed, 20 Aug 2025 10:00:00 GMT"
@@ -403,6 +395,10 @@
     {
       "title": "Researchers Are Already Leaving Meta\u2019s New Superintelligence Lab - WIRED",
       "pubDate": "Tue, 26 Aug 2025 18:00:37 GMT"
+    },
+    {
+      "title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy's death - AP News",
+      "pubDate": "Tue, 26 Aug 2025 18:24:00 GMT"
     }
   ],
   "climate": [
@@ -557,20 +553,12 @@
   ],
   "china": [
     {
-      "title": "China to unveil advanced weapons at huge military parade to mark WWII end - Al Jazeera",
-      "pubDate": "Wed, 20 Aug 2025 04:13:08 GMT"
-    },
-    {
       "title": "China, Afghanistan hold talks on mining, belt and road participation - Reuters",
       "pubDate": "Wed, 20 Aug 2025 10:16:23 GMT"
     },
     {
       "title": "China turns up oil tap from Russia as purchases of US crude remain suspended - South China Morning Post",
       "pubDate": "Wed, 20 Aug 2025 13:00:18 GMT"
-    },
-    {
-      "title": "China's rare earth magnet exports hit six-month high in July - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
     },
     {
       "title": "US Navy sailor convicted of spying for China - BBC",
@@ -815,16 +803,16 @@
     {
       "title": "Trade war deepens decline in China\u2019s economic powerhouse province - Financial Times",
       "pubDate": "Mon, 25 Aug 2025 04:00:06 GMT"
+    },
+    {
+      "title": "Trump imposes 50% tariff on India as punishment for buying Russian oil - The Guardian",
+      "pubDate": "Wed, 27 Aug 2025 04:00:00 GMT"
     }
   ],
   "cybersecurity": [
     {
       "title": "Russia-linked European attacks renew concerns over water cybersecurity - csoonline.com",
       "pubDate": "Wed, 20 Aug 2025 07:01:45 GMT"
-    },
-    {
-      "title": "Myanmar's cybersecurity law comes into force, putting businesses on alert - Nikkei Asia",
-      "pubDate": "Wed, 20 Aug 2025 04:25:00 GMT"
     },
     {
       "title": "Microsoft Curbs Early Access for Chinese Firms to Notifications About Cybersecurity Flaws - Bloomberg.com",
@@ -888,10 +876,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Goldman Sachs Warns of Recession Risks as Fed Rate Cuts Loom - AInvest",
-      "pubDate": "Wed, 20 Aug 2025 04:06:02 GMT"
-    },
     {
       "title": "The next recession will likely be 'triggered by a political act,' says former Deutsche Bank chair and Allianz CFO - Fortune",
       "pubDate": "Thu, 21 Aug 2025 18:43:00 GMT"
@@ -1129,6 +1113,10 @@
     {
       "title": "Inside the revolutionary idea that we can negotiate with cancer - New Scientist",
       "pubDate": "Tue, 26 Aug 2025 15:00:01 GMT"
+    },
+    {
+      "title": "Surprise Discovery of Elevated Cancer Risk in Elite Runners Can Be Explained - ScienceAlert",
+      "pubDate": "Wed, 27 Aug 2025 02:51:53 GMT"
     }
   ],
   "space_exploration": [
@@ -1803,6 +1791,10 @@
     {
       "title": "DNC panel fails to advance dueling resolutions on Israel\u2019s war in Gaza - CNN",
       "pubDate": "Tue, 26 Aug 2025 16:08:00 GMT"
+    },
+    {
+      "title": "Microsoft Investigating Employees After Gaza Protest Locks Down Building - The Wall Street Journal",
+      "pubDate": "Wed, 27 Aug 2025 02:02:00 GMT"
     }
   ],
   "battery_technology": [
@@ -1877,13 +1869,13 @@
     {
       "title": "CISA warns of actively exploited Git code execution flaw - BleepingComputer",
       "pubDate": "Tue, 26 Aug 2025 14:57:33 GMT"
+    },
+    {
+      "title": "Nevada state offices close after wide-ranging 'network security incident' - Reuters",
+      "pubDate": "Tue, 26 Aug 2025 22:32:41 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Hotter Summers and Overcrowding Threaten Europe's Tourist Economies - Bloomberg",
-      "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
-    },
     {
       "title": "To close the climate finance gap, let vulnerable nations use carbon markets - Al Jazeera",
       "pubDate": "Wed, 20 Aug 2025 08:27:10 GMT"
@@ -2419,6 +2411,10 @@
     {
       "title": "Tropical Storm Fernand forms over Atlantic Ocean, expected to remain far out to sea - NJ.com",
       "pubDate": "Sun, 24 Aug 2025 12:53:00 GMT"
+    },
+    {
+      "title": "Powerful Tropical Storms Juliette And Fernand Cause Oceanic Disruptions And Travel Delays - Travel And Tour World",
+      "pubDate": "Wed, 27 Aug 2025 01:14:19 GMT"
     }
   ],
   "violence": [
@@ -2538,10 +2534,6 @@
     }
   ],
   "animals": [
-    {
-      "title": "Monkeys falling from trees and baking barnacles: how heat is driving animals to extinction - The Guardian",
-      "pubDate": "Wed, 20 Aug 2025 04:00:00 GMT"
-    },
     {
       "title": "Investigation into CT home where more than 100 dead animals were found nets multiple arrests - Hartford Courant",
       "pubDate": "Thu, 21 Aug 2025 14:15:15 GMT"
@@ -3009,6 +3001,12 @@
     {
       "title": "Utah ordered to redraw congressional map, seat for Democrats possible - CBS News",
       "pubDate": "Tue, 26 Aug 2025 21:35:01 GMT"
+    }
+  ],
+  "vladimir_putin": [
+    {
+      "title": "Trump Asked If Putin Is 'Back On The Clock' Amid Ceasefire Stalemate - Newsweek",
+      "pubDate": "Tue, 26 Aug 2025 21:11:02 GMT"
     }
   ]
 }
