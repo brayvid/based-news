@@ -289,13 +289,13 @@
     {
       "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg",
       "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
+    },
+    {
+      "title": "Nvidia, MongoDB, Cracker Barrel, Kohl\u2019s, Canada Goose, Okta, and More Market Movers - Barron's",
+      "pubDate": "Wed, 27 Aug 2025 11:59:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "US tech stocks slide after Altman warns on AI future and MIT study casts doubt on the hype - Fortune",
-      "pubDate": "Wed, 20 Aug 2025 13:20:00 GMT"
-    },
     {
       "title": "China-U.S. Rivalry Will Split the World into Competing AI Camps - Barron's",
       "pubDate": "Wed, 20 Aug 2025 16:47:00 GMT"
@@ -547,6 +547,10 @@
     {
       "title": "After a summer of submission to Trump, Europe knows it must defend Ukraine \u2013 and itself \u2013 alone - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 07:14:00 GMT"
+    },
+    {
+      "title": "Russia hits Ukrainian energy facilities across six regions, officials say - Reuters",
+      "pubDate": "Wed, 27 Aug 2025 09:59:55 GMT"
     }
   ],
   "us_economy": [
@@ -564,10 +568,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China turns up oil tap from Russia as purchases of US crude remain suspended - South China Morning Post",
-      "pubDate": "Wed, 20 Aug 2025 13:00:18 GMT"
-    },
     {
       "title": "US Navy sailor convicted of spying for China - BBC",
       "pubDate": "Thu, 21 Aug 2025 01:00:45 GMT"
@@ -909,6 +909,10 @@
     {
       "title": "CISA Unveils Tool to Boost Procurement of Software Supply Chain Security - Homeland Security Today",
       "pubDate": "Wed, 27 Aug 2025 09:02:45 GMT"
+    },
+    {
+      "title": "A hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says - NBC News",
+      "pubDate": "Wed, 27 Aug 2025 12:18:25 GMT"
     }
   ],
   "recession": [
@@ -1655,6 +1659,10 @@
     {
       "title": "Coin-sized generator harvests energy from waste walnut shells - Interesting Engineering",
       "pubDate": "Tue, 26 Aug 2025 23:28:00 GMT"
+    },
+    {
+      "title": "Trump Hands the Biofuels Business Another Win by Boosting Mandates - Bloomberg",
+      "pubDate": "Wed, 27 Aug 2025 11:49:37 GMT"
     }
   ],
   "global_health": [
@@ -1664,14 +1672,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Aid groups say shelter materials are still not entering Gaza - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 13:22:54 GMT"
-    },
-    {
-      "title": "Israel to mobilize tens of thousands of reservists for expanded Gaza operation - AP News",
-      "pubDate": "Wed, 20 Aug 2025 13:14:00 GMT"
-    },
     {
       "title": "Israel enters first stages of its assault on Gaza City - MSNBC News",
       "pubDate": "Wed, 20 Aug 2025 18:45:32 GMT"
@@ -1901,6 +1901,10 @@
     {
       "title": "Brightest fast radio burst ever detected could help solve an enduring cosmic mystery - CNN",
       "pubDate": "Tue, 26 Aug 2025 22:26:00 GMT"
+    },
+    {
+      "title": "Scientists finally pinpoint Jupiter\u2019s birth using \u201cmolten rock raindrops\u201d - ScienceDaily",
+      "pubDate": "Wed, 27 Aug 2025 03:38:06 GMT"
     }
   ],
   "physics": [
@@ -1924,10 +1928,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "No evening cooldown: Climate change is making even nights hotter in summer - The Desert Sun",
-      "pubDate": "Wed, 20 Aug 2025 13:01:51 GMT"
-    },
     {
       "title": "How Hurricanes, Fires and Floods Put Drugs and Medical Supplies at Risk - Bloomberg.com",
       "pubDate": "Wed, 20 Aug 2025 15:00:19 GMT"
@@ -2735,12 +2735,6 @@
       "pubDate": "Thu, 21 Aug 2025 17:28:00 GMT"
     }
   ],
-  "united_nations": [
-    {
-      "title": "Almost 6 in 10 say UN members should recognize Palestinian state: Survey - The Hill",
-      "pubDate": "Wed, 20 Aug 2025 13:11:00 GMT"
-    }
-  ],
   "mark_zuckerberg": [
     {
       "title": "Meta Platforms, Inc. (META) CEO Mark Zuckerberg Is \u201cUnbelievable,\u201d Says Jim Cramer - ca.finance.yahoo.com",
@@ -2855,6 +2849,10 @@
     {
       "title": "Apple announces launch event on Sept. 9, iPhone 17 expected - CNBC",
       "pubDate": "Tue, 26 Aug 2025 16:06:11 GMT"
+    },
+    {
+      "title": "Apple sets official date for next iPhone event - Axios",
+      "pubDate": "Wed, 27 Aug 2025 05:05:57 GMT"
     }
   ],
   "gpus": [
@@ -2933,6 +2931,10 @@
     {
       "title": "Trump fires senior CIA analyst on Russia \u2013 The Economist - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Fri, 22 Aug 2025 02:57:49 GMT"
+    },
+    {
+      "title": "Federal hiring diversity pushback ignores that outsiders help protect America - AJC.com",
+      "pubDate": "Wed, 27 Aug 2025 10:02:34 GMT"
     }
   ],
   "machine_learning": [
