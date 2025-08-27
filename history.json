@@ -297,10 +297,6 @@
       "pubDate": "Wed, 20 Aug 2025 13:20:00 GMT"
     },
     {
-      "title": "Colorado\u2019s AI regulations split lawmakers as they pitch reforms for special session: \u2018It\u2019s a mess\u2019 - The Denver Post",
-      "pubDate": "Wed, 20 Aug 2025 12:00:38 GMT"
-    },
-    {
       "title": "China-U.S. Rivalry Will Split the World into Competing AI Camps - Barron's",
       "pubDate": "Wed, 20 Aug 2025 16:47:00 GMT"
     },
@@ -715,6 +711,10 @@
     {
       "title": "China aims to triple AI chip output, reducing Nvidia's dependency, FT says - Reuters",
       "pubDate": "Wed, 27 Aug 2025 11:18:34 GMT"
+    },
+    {
+      "title": "Japan Announces Plan to Counter China's Armed Coast Guard Fleet - Newsweek",
+      "pubDate": "Wed, 27 Aug 2025 12:32:01 GMT"
     }
   ],
   "us_politics": [
@@ -1019,6 +1019,10 @@
     {
       "title": "Trump says he'll have a Fed 'majority' soon to push rates lower after firing Cook - CNBC",
       "pubDate": "Tue, 26 Aug 2025 18:54:52 GMT"
+    },
+    {
+      "title": "Trump's unprecedented attack on the Fed : The Indicator from Planet Money - NPR",
+      "pubDate": "Wed, 27 Aug 2025 01:54:32 GMT"
     }
   ],
   "earthquakes": [
@@ -1167,6 +1171,10 @@
     {
       "title": "SpaceX's Starship lifts off on key test to overcome past setbacks - Reuters",
       "pubDate": "Tue, 26 Aug 2025 23:36:19 GMT"
+    },
+    {
+      "title": "NASA\u2019s Largest Satellite Antenna Ever Has Just Unfurled in Space - WIRED",
+      "pubDate": "Wed, 27 Aug 2025 11:13:36 GMT"
     }
   ],
   "health_care": [
@@ -1549,6 +1557,10 @@
     {
       "title": "The Race for Artificial General Intelligence Poses New Risks to an Unstable World - Time Magazine",
       "pubDate": "Wed, 27 Aug 2025 11:05:47 GMT"
+    },
+    {
+      "title": "Scientists just developed a new AI modeled on the human brain \u2014 it's outperforming LLMs like ChatGPT at reasoning tasks - Live Science",
+      "pubDate": "Wed, 27 Aug 2025 12:00:00 GMT"
     }
   ],
   "national_security": [
@@ -1652,10 +1664,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "LIVE: Israel starves 3 Palestinians to death; Gaza City assault intensifies - Al Jazeera",
-      "pubDate": "Wed, 20 Aug 2025 12:11:15 GMT"
-    },
     {
       "title": "Aid groups say shelter materials are still not entering Gaza - Reuters",
       "pubDate": "Wed, 20 Aug 2025 13:22:54 GMT"
@@ -2139,10 +2147,6 @@
   ],
   "blockchain": [
     {
-      "title": "Fed warns banks could become irrelevant if they ignore blockchain adoption now - CryptoSlate",
-      "pubDate": "Wed, 20 Aug 2025 12:52:00 GMT"
-    },
-    {
       "title": "Public Blockchains Aren't Ready for Real-World Assets\u2014Here's Why - Newsweek",
       "pubDate": "Wed, 20 Aug 2025 21:32:23 GMT"
     },
@@ -2214,10 +2218,6 @@
     }
   ],
   "spacex": [
-    {
-      "title": "SpaceX\u2019s Expensive Starship Explosions Are Starting to Add Up - Bloomberg.com",
-      "pubDate": "Wed, 20 Aug 2025 12:15:11 GMT"
-    },
     {
       "title": "FAA proposal could limit beach access for Starship launches - WESH",
       "pubDate": "Wed, 20 Aug 2025 20:45:00 GMT"
@@ -2427,6 +2427,10 @@
     {
       "title": "Scientists make unbelievable discovery nearly 9,000 feet below surface of Pacific Ocean: 'A new piece of the puzzle' - yahoo.com",
       "pubDate": "Mon, 25 Aug 2025 11:35:00 GMT"
+    },
+    {
+      "title": "Ocean acidification is leading to more damage in shark teeth - cosmosmagazine.com",
+      "pubDate": "Wed, 27 Aug 2025 08:48:00 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -2833,10 +2837,6 @@
   ],
   "apple": [
     {
-      "title": "Apple Is Making All Four iPhone 17 Models in India in a 'Watershed' Pivot From China, Report Says - CNET",
-      "pubDate": "Wed, 20 Aug 2025 12:25:00 GMT"
-    },
-    {
       "title": "Masimo sues U.S Customs over approval of Apple Watch imports - CNBC",
       "pubDate": "Thu, 21 Aug 2025 02:44:00 GMT"
     },
@@ -3027,6 +3027,10 @@
     {
       "title": "Protesters Clash With Police in Jakarta Over Lawmakers\u2019 Perks - Bloomberg.com",
       "pubDate": "Mon, 25 Aug 2025 08:20:49 GMT"
+    },
+    {
+      "title": "Protests erupt in Indonesia over privileges for parliament members and \u2018corrupt elites\u2019 - The Guardian",
+      "pubDate": "Wed, 27 Aug 2025 03:19:00 GMT"
     }
   ],
   "social_media": [
@@ -3061,6 +3065,12 @@
     {
       "title": "Turbulent flights to continue as warming world shakes skies - University of Reading",
       "pubDate": "Wed, 27 Aug 2025 09:25:44 GMT"
+    }
+  ],
+  "military_and_defense": [
+    {
+      "title": "The Pentagon Admits It: America Has a Serious Drone Deficiency - Politico",
+      "pubDate": "Wed, 27 Aug 2025 09:00:00 GMT"
     }
   ]
 }
