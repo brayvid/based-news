@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump vows to expand his review of U.S. museums. Can he do that? - NPR",
-      "pubDate": "Wed, 20 Aug 2025 20:02:06 GMT"
-    },
-    {
       "title": "Trump backs off higher tariffs for E.U. pharma and chips - NBC News",
       "pubDate": "Thu, 21 Aug 2025 11:00:41 GMT"
     },
@@ -407,10 +403,6 @@
   ],
   "climate": [
     {
-      "title": "Americans Speak Out as the Trump Administration Abandons Its Climate Responsibility - Earthjustice",
-      "pubDate": "Wed, 20 Aug 2025 20:13:04 GMT"
-    },
-    {
       "title": "Antarctica is in extreme peril - Grist.org",
       "pubDate": "Fri, 22 Aug 2025 17:18:38 GMT"
     },
@@ -711,6 +703,10 @@
     {
       "title": "Japan Announces Plan to Counter China's Armed Coast Guard Fleet - Newsweek",
       "pubDate": "Wed, 27 Aug 2025 12:32:01 GMT"
+    },
+    {
+      "title": "China Gets Closer to Finding Its Own Nvidia - Bloomberg.com",
+      "pubDate": "Wed, 27 Aug 2025 19:00:19 GMT"
     }
   ],
   "us_politics": [
@@ -1141,6 +1137,10 @@
     {
       "title": "Surprise Discovery of Elevated Cancer Risk in Elite Runners Can Be Explained - ScienceAlert",
       "pubDate": "Wed, 27 Aug 2025 02:51:53 GMT"
+    },
+    {
+      "title": "New Strategy Doubles Chemo Effectiveness in Treatment-Resistant Cancer - Northwestern University",
+      "pubDate": "Wed, 27 Aug 2025 16:26:23 GMT"
     }
   ],
   "space_exploration": [
@@ -1188,14 +1188,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Trump says U.S. will not approve solar or wind power projects - CNBC",
-      "pubDate": "Wed, 20 Aug 2025 20:11:22 GMT"
-    },
-    {
-      "title": "Trump policy prompts NV Energy to seek escape hatch for would-be clean energy transmitters - Nevada Current",
-      "pubDate": "Wed, 20 Aug 2025 20:15:19 GMT"
-    },
     {
       "title": "Poland\u2019s President Uses Veto to Block Key Green Energy Bill - Bloomberg.com",
       "pubDate": "Thu, 21 Aug 2025 10:38:33 GMT"
@@ -1423,6 +1415,10 @@
     {
       "title": "Russia Issues Warning After US Fusion Leap Toward 350 MW Raises Dire Questions About Energy Supremacy And Fragile World Balance - Sustainability Times",
       "pubDate": "Sun, 24 Aug 2025 20:52:04 GMT"
+    },
+    {
+      "title": "Fusion Reactors Are Melting Diamonds, and It Could Hold Back Fusion Power - extremetech.com",
+      "pubDate": "Wed, 27 Aug 2025 15:00:17 GMT"
     }
   ],
   "nvidia": [
@@ -2203,10 +2199,6 @@
   ],
   "spacex": [
     {
-      "title": "FAA proposal could limit beach access for Starship launches - WESH",
-      "pubDate": "Wed, 20 Aug 2025 20:45:00 GMT"
-    },
-    {
       "title": "SpaceX's Starship faces 10th test after previous flights end in explosions - ABC News",
       "pubDate": "Thu, 21 Aug 2025 09:11:15 GMT"
     },
@@ -2275,6 +2267,10 @@
     {
       "title": "Russia Lacks an Economic Exit Strategy in Ukraine - Geopolitical Futures",
       "pubDate": "Tue, 26 Aug 2025 10:00:47 GMT"
+    },
+    {
+      "title": "Why India Should Not Walk Into the China-Russia Trap - Foreign Policy",
+      "pubDate": "Wed, 27 Aug 2025 15:13:34 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2297,10 +2293,6 @@
   ],
   "india": [
     {
-      "title": "India \u2018successfully tests\u2019 nuclear-capable missile able to reach deep into China - The Guardian",
-      "pubDate": "Wed, 20 Aug 2025 20:26:00 GMT"
-    },
-    {
       "title": "US envoy to India: Donald Trump picks Sergio Gor. Why did Elon Musk call him \u2018a snake\u2019 once? - The Times of India",
       "pubDate": "Sat, 23 Aug 2025 07:20:00 GMT"
     },
@@ -2314,10 +2306,6 @@
     }
   ],
   "public_health": [
-    {
-      "title": "US health department staff urge Kennedy to protect workers after CDC attack - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 20:24:44 GMT"
-    },
     {
       "title": "Hundreds of federal health workers say RFK Jr has put Americans in danger - BBC",
       "pubDate": "Wed, 20 Aug 2025 21:43:00 GMT"
@@ -2349,6 +2337,10 @@
     {
       "title": "Texas' new redistricting map tests the strength of U.S. democracy - MSNBC News",
       "pubDate": "Thu, 21 Aug 2025 10:00:40 GMT"
+    },
+    {
+      "title": "Do liberals need to choose between defending democracy and the Fed? - vox.com",
+      "pubDate": "Wed, 27 Aug 2025 20:05:41 GMT"
     }
   ],
   "fbi": [
