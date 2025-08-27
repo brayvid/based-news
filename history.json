@@ -73,13 +73,13 @@
     {
       "title": "Evin prison: Inside Israel\u2019s deadliest strike on Iran - BBC",
       "pubDate": "Tue, 26 Aug 2025 23:17:20 GMT"
+    },
+    {
+      "title": "Security forces agents kill 13 militants in southeast Iran - The Washington Post",
+      "pubDate": "Wed, 27 Aug 2025 08:35:54 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump slams 'anti-American' pushback after fresh delay to Arizona copper mine - CNBC",
-      "pubDate": "Wed, 20 Aug 2025 08:28:18 GMT"
-    },
     {
       "title": "Trump vows to expand his review of U.S. museums. Can he do that? - NPR",
       "pubDate": "Wed, 20 Aug 2025 20:02:06 GMT"
@@ -1261,10 +1261,6 @@
   ],
   "data_breach": [
     {
-      "title": "Pharmaceutical firm Inotiv discloses ransomware attack. Qilin group claims responsibility for the hack - Security Affairs",
-      "pubDate": "Wed, 20 Aug 2025 08:10:49 GMT"
-    },
-    {
       "title": "Millions at risk after Turkey\u2019s top finance apps spill sensitive data - Cybernews",
       "pubDate": "Wed, 20 Aug 2025 10:00:38 GMT"
     },
@@ -1455,6 +1451,10 @@
     {
       "title": "Parents sue OpenAI over teen's suicide - Axios",
       "pubDate": "Tue, 26 Aug 2025 19:16:52 GMT"
+    },
+    {
+      "title": "Parents of teenager who took his own life sue OpenAI - BBC",
+      "pubDate": "Wed, 27 Aug 2025 03:28:48 GMT"
     }
   ],
   "environment": [
@@ -1484,10 +1484,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Scientists May Have Just Cracked Quantum Computing\u2019s Biggest Problem - SciTechDaily",
-      "pubDate": "Wed, 20 Aug 2025 08:27:31 GMT"
-    },
     {
       "title": "Study Reveals How Machine Learning Improves Quantum Systems - AZoRobotics",
       "pubDate": "Wed, 20 Aug 2025 14:59:00 GMT"
@@ -1579,10 +1575,6 @@
     {
       "title": "Federal solar funding canceled as Kentuckians feel burden of summer energy costs - WUKY",
       "pubDate": "Wed, 20 Aug 2025 10:32:00 GMT"
-    },
-    {
-      "title": "How hydrogen-powered drilling can reshape clean geotechnical construction - Innovation News Network",
-      "pubDate": "Wed, 20 Aug 2025 08:51:58 GMT"
     },
     {
       "title": "UBS Asserts Ormat Technologies (ORA) \u2018Buy\u2019 Stance on Geothermal Portfolio Growth - ca.finance.yahoo.com",
@@ -1889,10 +1881,6 @@
   ],
   "climate_change": [
     {
-      "title": "To close the climate finance gap, let vulnerable nations use carbon markets - Al Jazeera",
-      "pubDate": "Wed, 20 Aug 2025 08:27:10 GMT"
-    },
-    {
       "title": "In Colorado, \u2018students are ready to take action around climate, and it's the rest of us that need to follow along\u2019 - Colorado Public Radio",
       "pubDate": "Wed, 20 Aug 2025 10:07:50 GMT"
     },
@@ -2047,6 +2035,10 @@
     {
       "title": "Scientists Find 130-Year-Old Sign That Climate Change Has Been Happening All Along - Green Matters",
       "pubDate": "Tue, 26 Aug 2025 16:10:13 GMT"
+    },
+    {
+      "title": "Flesh-eating bacteria cases are rising. Climate change is to blame, say scientists - CNN",
+      "pubDate": "Wed, 27 Aug 2025 08:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -2056,10 +2048,6 @@
     }
   ],
   "european_union": [
-    {
-      "title": "US-EU trade deal not far from ECB's baseline forecast, Lagarde says - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 08:07:35 GMT"
-    },
     {
       "title": "US and EU issue written framework for their trade deal, still a work in progress - The Hill",
       "pubDate": "Thu, 21 Aug 2025 13:02:00 GMT"
@@ -2499,10 +2487,6 @@
   ],
   "chemistry": [
     {
-      "title": "India introduces new rules to tackle chemical contamination sites - Chemistry World",
-      "pubDate": "Wed, 20 Aug 2025 08:07:44 GMT"
-    },
-    {
       "title": "100-year-old chemistry rule proven false, textbook updates needed - Earth.com",
       "pubDate": "Sun, 24 Aug 2025 23:16:33 GMT"
     },
@@ -2639,10 +2623,6 @@
   ],
   "health": [
     {
-      "title": "AI should come with green, yellow, and red lights for mental health - statnews.com",
-      "pubDate": "Wed, 20 Aug 2025 08:33:40 GMT"
-    },
-    {
       "title": "Supreme Court lets Trump admin cut off health grants it says advance DEI or \u2018gender ideology extremism\u2019 - Politico",
       "pubDate": "Thu, 21 Aug 2025 21:54:50 GMT"
     },
@@ -2665,6 +2645,10 @@
     {
       "title": "Trump\u2019s intelligence \u2018reforms\u2019 guarantee failure - The Contrarian",
       "pubDate": "Mon, 25 Aug 2025 13:45:27 GMT"
+    },
+    {
+      "title": "China may unveil enhanced \u2018Guam Killer\u2019 ballistic missile during military parade - Stars and Stripes",
+      "pubDate": "Wed, 27 Aug 2025 02:29:55 GMT"
     }
   ],
   "science": [
@@ -3023,6 +3007,10 @@
     {
       "title": "Protesters occupy Microsoft office as company reviews its work with Israel's military - NPR",
       "pubDate": "Wed, 27 Aug 2025 05:05:42 GMT"
+    },
+    {
+      "title": "Microsoft headquarters go into lockdown after activists take over Brad Smith\u2019s office - TechCrunch",
+      "pubDate": "Tue, 26 Aug 2025 23:32:17 GMT"
     }
   ]
 }
