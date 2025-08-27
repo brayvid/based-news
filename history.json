@@ -159,6 +159,10 @@
     {
       "title": "Trump\u2019s hand bruise renews attention to his health \u2014 and his heart - statnews.com",
       "pubDate": "Wed, 27 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Trump threatens charges for George Soros, frequent target of far-right ire - Al Jazeera",
+      "pubDate": "Wed, 27 Aug 2025 15:00:00 GMT"
     }
   ],
   "russia": [
@@ -292,10 +296,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI could sell infrastructure services to boost sales: CFO (MSFT:NASDAQ) - Seeking Alpha",
-      "pubDate": "Wed, 20 Aug 2025 18:21:12 GMT"
-    },
     {
       "title": "Microsoft AI CEO says AI models that seem conscious are coming. Here's why he's worried. - MSN",
       "pubDate": "Wed, 20 Aug 2025 23:20:24 GMT"
@@ -539,6 +539,10 @@
     {
       "title": "EU Considers Secondary Sanctions to Hit Russia\u2019s War Effort - Bloomberg.com",
       "pubDate": "Wed, 27 Aug 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Russia convicts more than 300 Ukrainian soldiers of terrorism following Kursk Oblast Incursion - The Kyiv Independent",
+      "pubDate": "Wed, 27 Aug 2025 14:01:06 GMT"
     }
   ],
   "us_economy": [
@@ -834,10 +838,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Hacker Finds Flaws in McDonald\u2019s Staff, Partner Hubs - Dark Reading | Security",
-      "pubDate": "Wed, 20 Aug 2025 18:19:33 GMT"
-    },
     {
       "title": "FBI warns of Russian hacks targeting US critical infrastructure - Reuters",
       "pubDate": "Wed, 20 Aug 2025 21:25:54 GMT"
@@ -1437,6 +1437,10 @@
     {
       "title": "Nvidia's quarterly report will gauge the temperature of the AI craze - ABC News",
       "pubDate": "Wed, 27 Aug 2025 05:58:34 GMT"
+    },
+    {
+      "title": "Nvidia earnings are just hours away. Here's what to know. - MarketWatch",
+      "pubDate": "Wed, 27 Aug 2025 17:56:00 GMT"
     }
   ],
   "openai": [
@@ -1471,6 +1475,10 @@
     {
       "title": "Parents of teenager who took his own life sue OpenAI - BBC",
       "pubDate": "Wed, 27 Aug 2025 03:28:48 GMT"
+    },
+    {
+      "title": "OpenAI encouraged California teen to carry out suicide, lawsuit claims - KTVU",
+      "pubDate": "Wed, 27 Aug 2025 13:13:24 GMT"
     }
   ],
   "environment": [
@@ -1648,10 +1656,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel enters first stages of its assault on Gaza City - MSNBC News",
-      "pubDate": "Wed, 20 Aug 2025 18:45:32 GMT"
-    },
     {
       "title": "State Dept. fires official after internal debates over Israel-Gaza - The Washington Post",
       "pubDate": "Wed, 20 Aug 2025 22:20:46 GMT"
@@ -2363,10 +2367,6 @@
   ],
   "quantum_mechanics": [
     {
-      "title": "Researchers just made precise quantum vibrations that can detect individual molecules - The Brighter Side of News",
-      "pubDate": "Wed, 20 Aug 2025 18:07:00 GMT"
-    },
-    {
       "title": "Scientists Discover Strange New Quantum Behavior in Superconducting Material - SciTechDaily",
       "pubDate": "Sat, 23 Aug 2025 15:17:57 GMT"
     }
@@ -2378,10 +2378,6 @@
     }
   ],
   "american_civil_liberties_union": [
-    {
-      "title": "Congress Cuts Medicaid to Fund ICE: How H.R. 1 Harms Communities - American Civil Liberties Union",
-      "pubDate": "Wed, 20 Aug 2025 18:21:31 GMT"
-    },
     {
       "title": "US judge in Hawaii considers legality of restrictions on access to abortion medication - ABC News",
       "pubDate": "Sat, 23 Aug 2025 00:25:03 GMT"
@@ -2821,12 +2817,6 @@
     {
       "title": "Apple sets official date for next iPhone event - Axios",
       "pubDate": "Wed, 27 Aug 2025 05:05:57 GMT"
-    }
-  ],
-  "gpus": [
-    {
-      "title": "Intel Integrates XeVM MLIR Dialect into Upstream LLVM for Xe GPUs - WebProNews",
-      "pubDate": "Wed, 20 Aug 2025 18:14:50 GMT"
     }
   ],
   "intelligence_agencies": [
