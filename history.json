@@ -197,10 +197,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
-      "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
-    },
-    {
       "title": "Anthropic's Claude AI can now end abusive conversations - Storyboard18",
       "pubDate": "Thu, 21 Aug 2025 03:00:03 GMT"
     },
@@ -271,6 +267,10 @@
     {
       "title": "Concerns over AI safety grow after lawsuit against OpenAI - 10tv.com",
       "pubDate": "Wed, 27 Aug 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Introducing the Anthropic National Security and Public Sector Advisory Council - Anthropic",
+      "pubDate": "Wed, 27 Aug 2025 13:08:21 GMT"
     }
   ],
   "financial_markets": [
@@ -300,10 +300,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft AI CEO says AI models that seem conscious are coming. Here's why he's worried. - MSN",
-      "pubDate": "Wed, 20 Aug 2025 23:20:24 GMT"
-    },
     {
       "title": "Microsoft AI CEO Mustafa Suleyman: Chatbots are causing psychosis - The Times",
       "pubDate": "Thu, 21 Aug 2025 13:20:46 GMT"
@@ -543,6 +539,10 @@
     {
       "title": "Russian drone attacks cause massive power cuts, Ukraine says - BBC",
       "pubDate": "Wed, 27 Aug 2025 16:38:17 GMT"
+    },
+    {
+      "title": "Ukraine shows off a deadly new cruise missile - The Economist",
+      "pubDate": "Wed, 27 Aug 2025 12:32:41 GMT"
     }
   ],
   "us_economy": [
@@ -710,10 +710,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump administration live updates: Texas Republicans pass GOP redistricting maps - NBC News",
-      "pubDate": "Wed, 20 Aug 2025 23:23:53 GMT"
-    },
     {
       "title": "Trump falsely claims \u2018total victory\u2019 in civil fraud appeal ruling despite splintered court \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 21 Aug 2025 19:03:47 GMT"
@@ -893,6 +889,10 @@
     {
       "title": "FBI warns Chinese hacking campaign has expanded, reaching 80 countries - The Washington Post",
       "pubDate": "Wed, 27 Aug 2025 14:41:27 GMT"
+    },
+    {
+      "title": "US, allies warn China-linked actors still targeting critical infrastructure - Cybersecurity Dive",
+      "pubDate": "Wed, 27 Aug 2025 17:57:52 GMT"
     }
   ],
   "recession": [
@@ -1040,10 +1040,6 @@
     }
   ],
   "elon_musk": [
-    {
-      "title": "Elon Musk must face lawsuit claiming he ran illegal $1 million election lottery - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 23:48:19 GMT"
-    },
     {
       "title": "Elon Musk and X reach settlement with axed Twitter workers - BBC",
       "pubDate": "Fri, 22 Aug 2025 02:51:40 GMT"
@@ -1495,6 +1491,10 @@
     {
       "title": "US study confirms that electric cars produce less emissions than combustion engines - Notebookcheck",
       "pubDate": "Wed, 27 Aug 2025 13:18:00 GMT"
+    },
+    {
+      "title": "Pivotal union vote looms at Kentucky plant that produces EV batteries - Fortune",
+      "pubDate": "Wed, 27 Aug 2025 13:31:00 GMT"
     }
   ],
   "hacking": [
@@ -1901,10 +1901,6 @@
   ],
   "climate_change": [
     {
-      "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
-      "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
-    },
-    {
       "title": "Climate change will cost these states tens of billions by 2050 - Axios",
       "pubDate": "Thu, 21 Aug 2025 09:00:38 GMT"
     },
@@ -2051,6 +2047,10 @@
     {
       "title": "Scientists warn ocean-based climate fixes lack rules and oversight - Mongabay",
       "pubDate": "Wed, 27 Aug 2025 19:39:34 GMT"
+    },
+    {
+      "title": "Himalayan flash floods: Climate change worsens them, but poor planning makes them deadly - Phys.org",
+      "pubDate": "Wed, 27 Aug 2025 17:09:04 GMT"
     }
   ],
   "volcanoes": [
@@ -3007,6 +3007,12 @@
     {
       "title": "Minneapolis school shooting updates: FBI investigating attack as domestic terrorism and hate crime against Catholics - latest - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 15:56:00 GMT"
+    }
+  ],
+  "rain_forests": [
+    {
+      "title": "Scientists discover how elephant extinction threatens everything from rainforests to musical instruments - UCLA",
+      "pubDate": "Wed, 27 Aug 2025 20:57:01 GMT"
     }
   ]
 }
