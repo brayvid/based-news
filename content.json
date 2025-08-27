@@ -1,62 +1,42 @@
 {
-  "China": {
-    "articles": [
-      {
-        "title": "Alibaba results likely to show limited AI payoff for China tech - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVpSdTNXX2M4b213WnhvblpPZWtzSlBFekZONkJOdV91MldBcEZ5Q0ktQkMwUEE5RnNoemZjWExuT2plUW9aa0dzd25hcDFFbTJCWkgxZGdCX3J6NWh6bTkzd2Vrb0pKaHpCRjFwZTQzazlIMFdsRW5IWGxuWXFXakFVVFFsWHFfRnVwbUpJLU80LXN1Z0ZHX2NGekRpVWFvZlNNU0dPaTBRdEtwUWZ4eTNjNkpJdw?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 01:34:05 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Trump still weighing 'very serious' economic sanctions on Russia - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzYwWDExVUEteDc0ZXdZdDZrMF9PRHQ5a0tjZ2NrMHBlZEluWmRhQVlzZ09VemthbUVFQ01FVGZodGZocXBLZnRQcFdyR0o2eDdOSkk4SDhHQXdMOXVfNkhUOGV4aWtWd3NJVjc3b1lyUlcxZ2dvS0ZMOUctNVhYdVk1Q2pjc1VrajN1bHF3ZGY0RC1FYnA1M2ZNVVFlSHFQYTVj?oc=5",
-        "pubDate": "Tue, 26 Aug 2025 21:06:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "DNC panel fails to advance dueling resolutions on Israel\u2019s war in Gaza - CNN",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TcUpKSy1SWmhNOVpaZU5PV1A2TURIa1F0ZXJrdTZJcUdVblBQaFFRRWxIQV96ODREd0FRQ3JQTkNic190UWc2bzdIRlBtUjBDTElONVA3VEtoaWlnS1IwNXdXbjBBRWtCZnpUUGxFUnZzc2FtVUJib3pCUQ?oc=5",
-        "pubDate": "Tue, 26 Aug 2025 16:08:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
-  },
-  "Animals": {
-    "articles": [
-      {
-        "title": "Oregon zoo owner indicted on more than 300 animal neglect charges - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHQ2OThua2VESFpGYVVadGZyN09leDJZQzM2RmFDTXJQcDhnM0s3OUd0ZHNkdF9XdFRuSnBVS2FiWVpQNHVnOFhzLTdPUGk5TXNXcTV3eVlwNW9yWkNzeDQyOV9pOEpyRTVYUkJUTXpZeFowLVM0U1VVYW9CSFF4M1NrZ1F3R29nRy00UjI3OXRtY29FWlRYMUREaUVhb0HSAaQBQVVfeXFMUGc0QWRORUVBdFB2azZWT2MtRnR5Y3ppQ3FHejVBTkgyQnd0bjM1ZjdxZDA3dTl2LWNQaWl2LXFqTHBvTExVeHBUaThSWEp6bnVfeG9iYnQwTVY4V0Fuc3FwQ0xRMnc2RG5tSmlnMVRxdkZhaEY1WUJNZG92TTdGQ0ZQS0EwTVdLaEhnUDdSb0lpNjBCcmJ0dHNXVGVhd1ZsVGtUSGI?oc=5",
-        "pubDate": "Tue, 26 Aug 2025 18:10:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
-  },
   "AI Safety": {
     "articles": [
       {
-        "title": "Meta\u2019s AI scandal shows the system is working as designed - Interesting Engineering",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsUUJVUURQQjZUaDVNWlQwTzBnS0dsc0FOdU9mcDdHMFJ0aWZyRW9Wa01fUjUxU0kwWmNFaDJnMTdiM0tSckZoaUdFMmVMcEZhRG14S2ZQSDFuaXd3RlpUV2VZQm5Dazl2Rno2SEg5V1lwcW8?oc=5",
-        "pubDate": "Tue, 26 Aug 2025 15:59:00 GMT"
+        "title": "Attorney General Jackley Part of AG Coalition Demanding Companies End Predatory AI Interactions with Children - Mitchell Now",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORm9ZUTNvQml1RjZ4VUs3dTV2YUttTV9fWE9NZGZsZldhNVBvUUZUTXZfOGU3UjRIOW1MbXdITHlOcVFGVkFvWjVRVVB2Y2t2V1l1SGJIMFF5akZkTWQ3S3U5NEZ6dUYtbUxfUGYyR2FWXy1vbmFnOXdfZXV4RllOREk3ZUhPU20zNC11Y1RBYlBRMUJ2b29Ma1h2aGs0Y0oyY2Y2ZjB4ZFJCQ09BLVFHaGFrY3VHSHkzTnc3X1B1OE5xLWhKN2EwVDB4SDJucEFRWlpTVUN5S0FJRVBQRDlF?oc=5",
+        "pubDate": "Tue, 26 Aug 2025 17:31:52 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
+    "last_updated_ts": "2025-08-27T03:58:57.447287+00:00"
   },
-  "Quantum Computing": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Researchers enhance Parametric Quantum Circuits with Clifford Initialization for improved optimisation opportunities - Quantum Zeitgeist",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3NMWEhFZkItUkNINU1XRnpfSFYzdWEwVGZSQS12dFBkRDVZanlBellZN1RPTmFqazgwM3g0ZzJvcURIR19kc2Rzazg2M3Y2N0IyZ2JoRkJ1N1NQQ21qcTVYREF6TllTRFM3cTh4UzcxbmJqM2N6ZDA1dlI2UXZ4VWh2S0lJN3JoT1JYYkd5R1NydUkydzNiaGozUTQ4Wk0yYklFblN6aXZrbFBJbHc3ZEE2UkdrQlR5Zm93NENTX09qY3Z4cEU4YXctV09Tc0lCNnJCZVdjVmRFNURXYWVn?oc=5",
-        "pubDate": "Tue, 26 Aug 2025 23:39:01 GMT"
+        "title": "Scientists Find 130-Year-Old Sign That Climate Change Has Been Happening All Along - Green Matters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGEwR1pMUHBPWG9BSElWNmtseXFNeWpyM0xIRHVFUVpjYnJXcVV4ekZ1bXdUZGh5Zk1XRVlMTnh3bUVvemYwa3VMUHV5NTUyRDJ2Rl9UNHJXMjNpUDFtbkFTc1E4U1BFbTNVd3ZYYmhSdDlXYlVLRzV5Ul80dUpmMHY1TlRYdE1VWHdRRlNJdUpVdnBqTEpaWExQRWhWMVJucXJqcmhIYkEwNk0yWmJMcjRocFU?oc=5",
+        "pubDate": "Tue, 26 Aug 2025 16:10:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T02:58:59.733204+00:00"
+    "last_updated_ts": "2025-08-27T03:58:57.447287+00:00"
+  },
+  "Iran": {
+    "articles": [
+      {
+        "title": "Evin prison: Inside Israel\u2019s deadliest strike on Iran - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FSi0wN1RvdkxyMnFfTmhqWG9yb2FwRnVrSU9IaVZBU1dZUGlBbEYyWjdWYkhVcGhxeUtGcktuajVRU3BCaFVkbTAtMnVVZHl2N1BHYjNkQ1JoZ9IBX0FVX3lxTE9kc2hkWmVaMzFkWjJnWVhySW1RV0pLWGc2Zk82ZkFtZ2FGOHBKa1pUaFFhOVh4QUtmLWFkbFRvZTNDbTFyZmI5SFJTNDEySm1acUNzRDdlSXJUOG1BSTR3?oc=5",
+        "pubDate": "Tue, 26 Aug 2025 23:17:20 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-27T03:58:57.447287+00:00"
+  },
+  "NVIDIA": {
+    "articles": [
+      {
+        "title": "Nvidia Earnings: Live Updates and Commentary August 2025 - Kiplinger",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnZFTHg0VmU3N2g2bGg2SzNUd2JvQ3RQcnpzOFdkYnhGems1UE5Xanc0Z28zNl83R3NlSWFiXzVsazdMUnFGclIxRnNJLWdhMHJfYVkzaURRaFVZdnlSYmdGcXlMVHZkUVNVTWNNZFk3WDVRSFBEb21pT1VuYUJYYkpnS1Q2VWhmRmh0Tm9PZ3NRNGNUTW5pSzQwYlk?oc=5",
+        "pubDate": "Tue, 26 Aug 2025 21:14:08 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-27T03:58:57.447287+00:00"
   }
 }
