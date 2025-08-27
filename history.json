@@ -35,10 +35,6 @@
   ],
   "iran": [
     {
-      "title": "At least 79 dead after bus crashes carrying Afghans deported from Iran - The Washington Post",
-      "pubDate": "Wed, 20 Aug 2025 17:40:09 GMT"
-    },
-    {
       "title": "Russia and China Give Iran Nuclear Deal Boost - Newsweek",
       "pubDate": "Thu, 21 Aug 2025 14:40:51 GMT"
     },
@@ -399,6 +395,10 @@
     {
       "title": "New Michigan laws ban AI-generated pornography - CBS News",
       "pubDate": "Wed, 27 Aug 2025 14:28:47 GMT"
+    },
+    {
+      "title": "OpenAI Restructuring Delayed by Negotiations With Microsoft - PYMNTS.com",
+      "pubDate": "Wed, 27 Aug 2025 15:06:52 GMT"
     }
   ],
   "climate": [
@@ -420,10 +420,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Why Donetsk matters so much for Ukraine's defences against Russia - BBC",
-      "pubDate": "Wed, 20 Aug 2025 17:12:10 GMT"
-    },
     {
       "title": "As Russia continues to wage war, NATO meets to plan Ukraine\u2019s future defense - PBS",
       "pubDate": "Wed, 20 Aug 2025 22:55:30 GMT"
@@ -539,6 +535,10 @@
     {
       "title": "Why Ukraine Remains the World\u2019s Most Innovative War Machine - Politico",
       "pubDate": "Wed, 27 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "EU Considers Secondary Sanctions to Hit Russia\u2019s War Effort - Bloomberg.com",
+      "pubDate": "Wed, 27 Aug 2025 17:00:00 GMT"
     }
   ],
   "us_economy": [
@@ -1141,10 +1141,6 @@
   ],
   "space_exploration": [
     {
-      "title": "Russia launches mice, microbes and more on monthlong mission to Earth orbit (video) - Space",
-      "pubDate": "Wed, 20 Aug 2025 17:26:51 GMT"
-    },
-    {
       "title": "Abandon Earth, focus Mars: NASA\u2019s new chief announces shift from climate programs to full-scale deep spac - The Times of India",
       "pubDate": "Thu, 21 Aug 2025 11:55:00 GMT"
     },
@@ -1277,6 +1273,10 @@
     {
       "title": "Trump Media joins $6.4 billion deal in latest crypto move - Quartz",
       "pubDate": "Wed, 27 Aug 2025 10:40:07 GMT"
+    },
+    {
+      "title": "Bitcoin at risk of further decline amid leverage peak and 'huge' Ethereum rotation: analyst - The Block",
+      "pubDate": "Wed, 27 Aug 2025 12:18:46 GMT"
     }
   ],
   "data_breach": [
@@ -1659,10 +1659,6 @@
     {
       "title": "As Israel begins offensive on Gaza City, an exhausted military may face a manpower problem - CNN",
       "pubDate": "Wed, 20 Aug 2025 21:36:00 GMT"
-    },
-    {
-      "title": "Most Americans support international recognition of Palestine: Poll - Al Jazeera",
-      "pubDate": "Wed, 20 Aug 2025 17:26:15 GMT"
     },
     {
       "title": "Israeli army database suggests at least 83% of Gaza dead were civilians - +972 Magazine",
@@ -2063,6 +2059,10 @@
     {
       "title": "Bank climate coalition to vote on ditching 'alliance' - Reuters",
       "pubDate": "Wed, 27 Aug 2025 09:47:15 GMT"
+    },
+    {
+      "title": "Trump, With Tariffs and Threats, Tries to Strong-Arm Nations to Retreat on Climate Goals - The New York Times",
+      "pubDate": "Wed, 27 Aug 2025 16:40:56 GMT"
     }
   ],
   "volcanoes": [
@@ -2593,6 +2593,10 @@
     {
       "title": "Researcher who has distorted voter data appointed to Homeland Security election integrity role - Politico",
       "pubDate": "Tue, 26 Aug 2025 20:59:36 GMT"
+    },
+    {
+      "title": "Lewandowski\u2019s veto power over DHS contracts frustrates admin officials: \u2018Corey is part of the problem\u2019 - Politico",
+      "pubDate": "Wed, 27 Aug 2025 09:55:00 GMT"
     }
   ],
   "kim_jong_un": [
@@ -2709,12 +2713,6 @@
     {
       "title": "Former top aide to NYC mayor among 7 facing new charges in City Hall corruption probe - AP News",
       "pubDate": "Thu, 21 Aug 2025 17:28:00 GMT"
-    }
-  ],
-  "mark_zuckerberg": [
-    {
-      "title": "Meta Platforms, Inc. (META) CEO Mark Zuckerberg Is \u201cUnbelievable,\u201d Says Jim Cramer - ca.finance.yahoo.com",
-      "pubDate": "Wed, 20 Aug 2025 17:16:57 GMT"
     }
   ],
   "tesla": [
@@ -2855,12 +2853,6 @@
       "pubDate": "Wed, 20 Aug 2025 21:31:00 GMT"
     }
   ],
-  "polling": [
-    {
-      "title": "We asked 604 D.C. residents about Trump\u2019s takeover. Here\u2019s what they said. - The Washington Post",
-      "pubDate": "Wed, 20 Aug 2025 17:00:44 GMT"
-    }
-  ],
   "mathematics": [
     {
       "title": "Scientists use new mathematical approach to protect aircraft from 5G interference - Tech Xplore",
@@ -2921,6 +2913,10 @@
     {
       "title": "Scientists Discover a Hidden Switch That Makes Fat Burn Calories - ScienceAlert",
       "pubDate": "Fri, 22 Aug 2025 22:01:27 GMT"
+    },
+    {
+      "title": "Scientists Warn of Mirror Life Risks, Urge Global Halt to Development - WebProNews",
+      "pubDate": "Wed, 27 Aug 2025 16:12:01 GMT"
     }
   ],
   "earth": [
@@ -3049,6 +3045,12 @@
     {
       "title": "Skip the Computer Science Degree\u2014Why Some Software Engineers Aren\u2019t in High Demand Anymore - Investopedia",
       "pubDate": "Wed, 27 Aug 2025 11:00:00 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "Russia recruits women from low-income countries via BRICS to produce drones \u2013 intelligence - Ukrinform",
+      "pubDate": "Wed, 27 Aug 2025 13:20:00 GMT"
     }
   ]
 }
