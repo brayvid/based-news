@@ -1,52 +1,72 @@
 {
+  "European Union": {
+    "articles": [
+      {
+        "title": "European leaders outraged after Russian strikes kill 17 and damage EU's HQ - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Nd0gzWWc0cE5CNjV4SjRJSGRtWUpBRU5xSU16QkM1QTZOY3J0aW5rM01oVzVZN0FEeG1BSkVQcXNfTmJPY0JieVVHOVU4Q195bUE1dTZBck43QdIBX0FVX3lxTFAzeTJ2RUhTcUZZYVJsQ3VWeVBZUTZ5QVVyY2NKOF8yMmFoSEFyZjY4UkRVSUJwNXJWbHBBQ1ZIY0VwbHBYTTVHNmxPb3pRMlNURVp0ODNTNHB2X3BxUGI0?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 12:28:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40OF94eFhmOTJQUjd1dHdtMU52a0xIMWotbDkyY3FmYnZtQlBGQlh6eFJxMFl1RFdJYzV0Z2U0dDRhSFJxSWZOWWp5T3hwdmZBLXl4Y3VCZEcyNUJabzZKa2xqZUlPMHFyOHRhWUpRMTRvU184OFY0SS1RZkNLdw?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
+        "title": "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzQxcUJrUkhua01SREdGci04dEZ5TURabUV4ZGNfNkdZSGdvNmg1cjVua0wwOFVsZ3ltTFdVbURKaTBrTWxseVkwWmlDT0hlM1pOX2JxTlc1NGlOeUZmZm5ScklMczhNWm1fZDBmNjhLYWJldmVaYlQ3ZWZsdFltR3pKZ3EwUFAwX3piZDNEcm1iUkFfcWNQeEFsbURrYmRxWkkyM20yemVhSm1FT01ubtIBtgFBVV95cUxNWl9KdjYtdjcwcGYxV3NYR3JHYU53b0hEeXNjVldkTDFYN2pVdkthS1JpN0o0T255XzNpVjZ0UGxFanhQS1BXYWlxX0o5RFBDZjE2TEJPaklYTzQwVVBkS3NPNnQ3dEppek9lbmlaUFhOWjJyMXgxRUQ5WTBaQkZpX2lrMHhQbkZhUDNER0RhazA3SG9MU2lpSWFSQXk5S1h3NHpMa3QyZy1yVnEyZXZTXzFkbkd6dw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 11:26:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
   },
-  "China": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Treasury Warns Banks About China-Mexico Money Laundering Risks - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmJCRXpQSHlnUHZwNU5CcDdLV2hkZGZaV2s4bnZNYkgzalY1LXZXM0JVNU1HY3J3cTVaVWhkVWJ0TGhsUkNVWnV1dUdzdFlST1ZXUzZWallzMFd1YkRjSU1zVVRDZVdqMFNXVTU1NWR1MV9Id2lISnJYeEZjXzM1b3lsZ181WVhZRGp4VXo3TUtQVEYxdWUtSUVqZXpEMlVTY05XNk9nLXBZeGJnZ0NrQndmWQ?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 12:47:34 GMT"
+        "title": "Fed Defends Independence as Board Member Plans Challenge to \u2018Illegal\u2019 Firing - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxUGxnLU1qWkgxekZPVW1VT3JZUVBzSk9udWdISTJqWV9ZdjNjazEta0tyM05TdnFJNUZMYm1OWFN0WEdZYmNvRWQ4d2hCMnRBRDZYYkJpNmJJbVRQSnJNR1M1cw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 03:31:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
   },
-  "US Economy": {
+  "Biology": {
     "articles": [
       {
-        "title": "US economy grew more than first reported in Q2, new data shows - NewsNation",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUtOaFdkcDFVYlFabHkzYlhjLUp2bHpGQUFXajlfM1k0dlRPSkVmTVVKN2cyQno0SnhkeTZFenYzc0dGM2pjdlFmMFFYWEw4THNXMEtRMUxpbUpEV2hSTmlxSjBySEdxSkl2WnRmYTVxS2o4Nk5vdXE5NjVwb3RHSXEzRzBNRUZuSV91dlBmTGrSAZYBQVVfeXFMUC1yZm5xaDNqTngyZEpRUDBpV1JRelpqek9VRTZIMXZHV21uQlNyRHNoNmdvaW45WGkzQ1daOXg5RmRkRW1yWHloUG1TRVRmQTBJOUhnT1hFVlBaQlNZZ0x6cWxvTTJYRXlZYldwR0VLY3JLbGU5Vjg0cU5jSkl1cEZpaVpORzhTdG1ncG1Wc01wNk5nOFp3?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 10:57:16 GMT"
+        "title": "Scientists recreate life\u2019s first step: Linking amino acids to RNA - ScienceDaily",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RUGZnS1dabl9zNzg1R0huYm01WW10eVUtMndnaV8tc2NSUkVRTkFTeEVoQVdTcEpkdUZpSk5UZHBoTjNkOGNTbFpFZDJ1Z3E4VnpsRjNDa2VXcUNqRGJFSndWVlB6bUowZFlHVWNSWQ?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 14:42:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
   },
-  "Alternative Energy": {
+  "Fusion Power": {
     "articles": [
       {
-        "title": "A tiny chip may have solved one of clean energy\u2019s biggest problems - ScienceDaily",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBILU5JZ0E0U0xrWXRDQldIT2dyNTlPLVM5ZUdxUHJKUFF3T0VfWndpbmF6cXExVkswWTduc0JCdTFZRGh1MWxrOHhOY0RCckZlUXRLY0hjZTE0ZHFSRzBZQ1o3RkpEeWY2WlA0VzRfRQ?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 13:43:41 GMT"
+        "title": "MIT fusion spinoff raises $863 million in race to prove new technology works - The Boston Globe",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWxjeEpyVjlIV3VERmpmbHM5SjhZTHdza0pDWmNiajBFQnNyNDctLWh1eTd4d25CZVJ3clZ5a3BhQ2YtcmpCbzgyaVJlSGpSblhLRENLQlJiaUUydXJMT3ZHSjB2NFQ2NUdLLUMxN0dqYkR0VjdITHlOQXFnYXJsWl9XcTlzaXpqSWhLX01mZ1o3Zw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 13:07:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
   },
-  "Battery Technology": {
+  "Apple": {
     "articles": [
       {
-        "title": "Europe Needs a Reset to Retain Electric Vehicle Battery Relevance - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVZHYm1zWDNPNWx1dVRQRnlpaE9YQ2JGRDZTNlZ2c2JscElGMDhEVHM5a0N0eldwdzJuS0R4R0QyVTl0b0QyUmJ0MnAzQlBMUjB0OHhXbUtnVHpSTVYxYWhXemRxX1hqVnFtTzdlY3JTSFUzS1JoN3RMMnlHSWJiOEszZlVwZFNCN3JuX0ZuUnY2ek51a0hZMHlvN2RnZVM0cnhQdkhtWmtRLVRidWFPbEJnZEFBTTJ1LVA0?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 08:51:41 GMT"
+        "title": "Apple says UK mobile market shake-up could harm users and developers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1dsSGRRUUlJU2NQN216bmNKREdGRGhhWG9VbXJxbXd3dThNaktaV3U1cmsxZG5lcUlxNXBNYUJGMnBBN1R2TFYxS19MQmg5RDZRQnY3eUZlQzBxWkxrRzRWaDdyZ2owYktXeGRjaEVVaU1sRjlIMWhIT1ZNeElBcVlaNEZUU3RIVTZLN2dFYl9BbHpuVmZPLTVKeXdjb2M3d0dmZ1BtQldOUDFyem8tSVFMZFV3Mlg5?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 11:39:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
+  },
+  "Cybersecurity and Infrastructure Security Agency": {
+    "articles": [
+      {
+        "title": "CISA warns about another China-linked cyber espionage campaign - Federal News Network",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMmVLU2lXM1hwcURwa2ozcVhmWWpMbnZxLVVPeEMwZVRiUnFDSUF5dV9Xek8yblBHM2tnZnV4cXVsc0paWXNyQkJoMkpUTjVsR2RjVEd1Mmd1cFV2dEdmUU8wc2lFN21DWDdhVHdoRnFqSlYycWd5MGFoeGt1RHNpZlhkaThCRzNYTzhWNHdLSzlBRFI4SkdOakZpV3lYd0xVVVB1cVR1aXVySDE4VHFYUmg0TXNGdE51NDNr?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 14:48:06 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T14:59:53.032088+00:00"
   }
 }
