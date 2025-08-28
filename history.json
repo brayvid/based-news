@@ -73,10 +73,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump backs off higher tariffs for E.U. pharma and chips - NBC News",
-      "pubDate": "Thu, 21 Aug 2025 11:00:41 GMT"
-    },
-    {
       "title": "Trump half-billion-dollar civil fraud penalty thrown out by appeals court - CNBC",
       "pubDate": "Thu, 21 Aug 2025 14:57:36 GMT"
     },
@@ -565,14 +561,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s mid-year economic wobble - The Economist",
-      "pubDate": "Thu, 21 Aug 2025 11:06:48 GMT"
-    },
-    {
-      "title": "Boeing in talks to sell up to 500 jets to China, Bloomberg News reports - Reuters",
-      "pubDate": "Thu, 21 Aug 2025 11:56:57 GMT"
-    },
-    {
       "title": "China Deploys Armed Small Boats to Second Thomas Shoal - USNI News",
       "pubDate": "Thu, 21 Aug 2025 17:51:00 GMT"
     },
@@ -881,6 +869,10 @@
     {
       "title": "Officials give update on cyberattack attack response - KTVN",
       "pubDate": "Wed, 27 Aug 2025 23:19:00 GMT"
+    },
+    {
+      "title": "Over 28,000 Citrix Servers at Risk from Active 0-Day RCE Exploit - gbhackers.com",
+      "pubDate": "Thu, 28 Aug 2025 06:33:45 GMT"
     }
   ],
   "recession": [
@@ -1116,10 +1108,6 @@
     }
   ],
   "space_exploration": [
-    {
-      "title": "Abandon Earth, focus Mars: NASA\u2019s new chief announces shift from climate programs to full-scale deep spac - The Times of India",
-      "pubDate": "Thu, 21 Aug 2025 11:55:00 GMT"
-    },
     {
       "title": "Could Starship help humanity establish a city on Mars? Inside SpaceX, Elon Musk's plan - USA Today",
       "pubDate": "Thu, 21 Aug 2025 16:42:37 GMT"
@@ -2071,6 +2059,10 @@
     {
       "title": "Deadly wildfires in Southern Europe linked to climate crisis - Euronews.com",
       "pubDate": "Thu, 28 Aug 2025 05:00:57 GMT"
+    },
+    {
+      "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
+      "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
     }
   ],
   "european_union": [
@@ -2315,6 +2307,10 @@
     {
       "title": "BYD\u2019s Ferrari-slaying electric supercar shatters the EV speed record at nearly 300 mph - Electrek",
       "pubDate": "Tue, 26 Aug 2025 15:56:00 GMT"
+    },
+    {
+      "title": "Tesla sales plunge 40% in Europe as Chinese EV rival BYD's triple - CNBC",
+      "pubDate": "Thu, 28 Aug 2025 07:06:21 GMT"
     }
   ],
   "india": [
@@ -2426,10 +2422,6 @@
     }
   ],
   "atlantic_ocean": [
-    {
-      "title": "Massive Hydrogen-Rich Hydrothermal System Discovered In Pacific 100 Times Larger Than Atlantic's \"Lost City\" - IFLScience",
-      "pubDate": "Thu, 21 Aug 2025 11:36:09 GMT"
-    },
     {
       "title": "Hurricane Erin to soon become post-tropical, NHC says - WESH",
       "pubDate": "Sat, 23 Aug 2025 02:24:00 GMT"
@@ -2620,10 +2612,6 @@
     }
   ],
   "kim_jong_un": [
-    {
-      "title": "Kim Jong Un praises his soldiers who helped Russia in the war against Ukraine - Gazeta Express",
-      "pubDate": "Thu, 21 Aug 2025 11:11:00 GMT"
-    },
     {
       "title": "Kim Jong-un to award troops returning from Russia with national commendations - Korea JoongAng Daily",
       "pubDate": "Fri, 22 Aug 2025 01:11:37 GMT"
@@ -3089,6 +3077,12 @@
     {
       "title": "China Is Building a Brain-Computer Interface Industry - WIRED",
       "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
+    }
+  ],
+  "volcanoes": [
+    {
+      "title": "Japan Volcano Erupts, Firing Ash Plume 3 Miles Into Sky - Newsweek",
+      "pubDate": "Thu, 28 Aug 2025 07:41:18 GMT"
     }
   ]
 }
