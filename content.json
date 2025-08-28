@@ -1,22 +1,72 @@
 {
-  "Ukraine": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Russia strikes EU delegation building in Kyiv - politico.eu",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmZMdWNKaVdqU1gwODZXQlVBLUk4dzBFMGRDS3hLbktnem1XWmdUSVpfeWlEZ3ZDSVhZNTRiMUZTalByQmx4TlNmR2hhOEFBZzJpQ3NVRUNzanltR1VoZ2pvWWlpOUU1ZTJVdF9MdXRkSjE3Y21xV2FyZ2RDRVJ2ZmlyRnE?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:58:07 GMT"
+        "title": "Exclusive: Crowdstrike CEO George Kurtz on $290 million acquisition of startup Onum and security in the AI age - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTVLOU5NUkszbW85Ui1xampUNVVhVW10d3lSQXQ3X0xZSmpPNGYxSWo4TEV4RzFDU21tNHZ4c01TczBDWUNSSDVGZndfNjIxbTk0ZXpZMm1sMHNDTzZvQWJTTUtjVHE5LUIwdktEQzNHNHM0VHRYTHZNNHI1UWw4OHpDTjRHTzYxUHFJd1huSUExSXBBVDRIV0Jqa1h2MHBOTUdzNl95Yw?oc=5",
+        "pubDate": "Wed, 27 Aug 2025 23:53:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T08:58:38.397466+00:00"
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "New study sheds light on what kinds of workers are losing jobs to AI - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14TUNIXzg4X1hhMElLUndHVk1qbDlORUJLRmtqNDdZS1NfQ25jN29qOGpRMnpvNUhfUjJkcTRDODBDVjM3OVpRRVFzbGp5QzJ2RUllQmd4VGkwR0tpc3RpVHp4ZEE5VTJXOXluMFJwR21Kd0pGTVJBWdIBfkFVX3lxTFA3VnkyUDRsQ3FFQzEydjR6allSNHdJV3JINUU3SDgwc0xMNmJLNTVydWJRaW5YUzJSTDZicnNJODlueUtWeTd1WXdNZG9COGNLVkV1WGFKWGstVGVWT2liMmVBQ01Pc2JkcG9EMEs1S3ZBOEpqbmJKRGtNbXlLQQ?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 09:00:11 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
+  },
+  "Geopolitics": {
+    "articles": [
+      {
+        "title": "Russia eyes China trade revival as Putin prepares for Xi summit, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnFWdXZVVnZCaUFrMnl3NnpKTmFyX21mdUh6U2F6TEFsMExWaENfTlhfLUFqSmh6OUNPNmhDNUF0LUFWWjV5bkYySUsyTUFsOHBDQ3plZ3BuUFIzNDhGVGt2X2Rlak82eXdGQVhTbktIOUtaNzNCclB2TlhxcWJMa1hoVzNXUU9mQldraDh2cnRDenlYVHVMYVdwZEFpUVVITWpYTVQtNGVrZHBNYmJ2VGF2UU9ZWVE?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 10:38:20 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
   },
   "Public Health": {
     "articles": [
       {
-        "title": "CDC Director Susan Monarez refuses to step down, arguing only President Trump can fire her - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVk5tY3ZQNEt2anpaaEtyZGE5cXBYU1VnUTRRcDFubnRBS2FfN3FSNFZXNmtVd0Z2eWlCazhIYWRaNUpsazViVnhtTHQzVGFZdFhsakNuNVFJM1J0TjZEVEs4a0hOM01iQ0pwQjFMSG7SAXZBVV95cUxQZmM5VGE0M2dyVklWUzRRTXdnMHAwYThEaGR4TG91OGxzQkNBUXhLQWs2OGx4M3ExSldpTEV1MGgzV1BMWmVqSWlaOS12d0ZJTkR6cUNFZ25CUDlyanloSjhhNTVKLUdvdUtyX25NQjhqMFU4alN3?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 04:20:24 GMT"
+        "title": "US CDC chief fired after weeks in role as other top officials quit agency - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3huelhsb0xRWnZSZlhROURWa1pPaURsdndnSUhkVHFqSloxelNSNzVVaXNHVUVtMFk2Q2hGc0pJWG1WYXBFNWJxVGlXSGhfeVl2WXVDSUt6SXpObzl2UjhlT3RIa0JzNmhablN1aURBQkxpNG9tdFc1WkJuR0pMc3NTRFlYWTVUVjJHdG04M2dYNmhMaGhxSTVjd2hHenNIRGszajVoUDNpRU9OZzdiRDE3ZHQ?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 10:21:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T08:58:38.397466+00:00"
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Nevada targeted in ransomware attack; some data taken out of state, officials say - The Nevada Independent",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGVvUlhscTdZX1hSbUpKYzJGbXREdzdDTnB1U3lHTU9zRHhVRE9mQXVTZVlfTm9VZ0E5alo3R085aVFsRjZ4dVk3Z2U1VVNSblZVWGJ4MjRvYTYtdUphMmVuWXc5ZnBvbnlXR3Rpek9GbjlvajhqbG1SSkhCcjUzWkp3NVJEczdZX1RlR1pYbGh0V0JWdlV6ck9WR0g0T2ZCaEpwT05nQnUwVzltMWh1TFRscGs1UnUwZGNPNw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 01:55:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
+  },
+  "Computers": {
+    "articles": [
+      {
+        "title": "China Is Building a Brain-Computer Interface Industry - WIRED",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU3gzSkl3QWtPUlZ5bEphTDhZc09IMW01aF9MXy1RcEtOcnJ6UEVucFM1b3BVU2M0S3RFZ3ZYaFR0dE5VaE02cWpGMnBUNUhGUl8xWjlaYzlleXdQd1RJcE5KUkdDMmx6NU5uSlhnbU1NS3hDNzNfM2VPcXdBdjVKSW1JMjhXZURKeHV1blNn?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
+  },
+  "European Union": {
+    "articles": [
+      {
+        "title": "European Commission summons Russian envoy after attack damaged European Union building in Kyiv - 95.5 WSB",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFVpZnk1SzY2MjJDNDJEb1pIVkVZUnRPclZ1NXlWMTFtLXlsOE9RZXZyRVVST19aSmFsSnY3ZV9qdnVVWE1NYzVIMXhRbkJVbk5WdG5nY0wyUWVidElJX1duRE5PdDJLa1dUeXRyVU1LeFBENlZLbGpGWVJ3cDlzbnV30gGWAUFVX3lxTE1NTm5wWUhIOWRDazgzc1l3Rk9TYkY1Q3h0djZsX3BaME1kTWlicDRUOEZKclBEVldia21Mdm03TkN4dENWR3BVeG1VTVk2RkpNRmF5cnJ2YmRrLUpXRXNZZlpHODdXZlB5d0ZKUnJjM2dldUZqc2pKUnNxWTFnVV9PYzBUSjdTN0JkVGphTThOc19TXzJ0Zw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 10:41:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T10:58:45.790360+00:00"
   }
 }

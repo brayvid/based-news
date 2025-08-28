@@ -263,6 +263,10 @@
     {
       "title": "OpenAI and Anthropic Partner on Rare Joint Safety Tests Amid Fierce AI Competition - iAfrica.com",
       "pubDate": "Wed, 27 Aug 2025 19:40:36 GMT"
+    },
+    {
+      "title": "Exclusive: Crowdstrike CEO George Kurtz on $290 million acquisition of startup Onum and security in the AI age - Fortune",
+      "pubDate": "Wed, 27 Aug 2025 23:53:00 GMT"
     }
   ],
   "financial_markets": [
@@ -391,6 +395,10 @@
     {
       "title": "OpenAI Restructuring Delayed by Negotiations With Microsoft - PYMNTS.com",
       "pubDate": "Wed, 27 Aug 2025 15:06:52 GMT"
+    },
+    {
+      "title": "New study sheds light on what kinds of workers are losing jobs to AI - CBS News",
+      "pubDate": "Thu, 28 Aug 2025 09:00:11 GMT"
     }
   ],
   "climate": [
@@ -1035,10 +1043,6 @@
   ],
   "cancer": [
     {
-      "title": "FDA \u2018uncertainty\u2019 forces Krystal Biotech to shutter cancer drug trial - statnews.com",
-      "pubDate": "Thu, 21 Aug 2025 10:31:12 GMT"
-    },
-    {
       "title": "Genetic study suggests ways to catch blood cancer earlier - Medical Xpress",
       "pubDate": "Thu, 21 Aug 2025 19:56:29 GMT"
     },
@@ -1156,10 +1160,6 @@
     }
   ],
   "renewable_energy": [
-    {
-      "title": "Poland\u2019s President Uses Veto to Block Key Green Energy Bill - Bloomberg.com",
-      "pubDate": "Thu, 21 Aug 2025 10:38:33 GMT"
-    },
     {
       "title": "Trump blames renewable energy for rising electricity prices. Experts point elsewhere - The Independent",
       "pubDate": "Thu, 21 Aug 2025 20:09:00 GMT"
@@ -1295,6 +1295,10 @@
     {
       "title": "Over Half a Million Hit in Major Healthcare Data Breach With SSNs, Financial Info and More Exposed \u2014 What to Do Now - MSN",
       "pubDate": "Thu, 28 Aug 2025 06:14:47 GMT"
+    },
+    {
+      "title": "Nevada targeted in ransomware attack; some data taken out of state, officials say - The Nevada Independent",
+      "pubDate": "Thu, 28 Aug 2025 01:55:00 GMT"
     }
   ],
   "bitcoin": [
@@ -1360,10 +1364,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "General Fusion escapes funding crunch with $22-million financing to achieve key scientific milestone - The Globe and Mail",
-      "pubDate": "Thu, 21 Aug 2025 10:00:00 GMT"
-    },
     {
       "title": "Struggling fusion power company General Fusion gets $22M lifeline from investors - TechCrunch",
       "pubDate": "Thu, 21 Aug 2025 18:12:29 GMT"
@@ -2093,6 +2093,10 @@
     {
       "title": "European Union tells Trump to step off in spat over social media rules - MSNBC News",
       "pubDate": "Wed, 27 Aug 2025 20:42:45 GMT"
+    },
+    {
+      "title": "European Commission summons Russian envoy after attack damaged European Union building in Kyiv - 95.5 WSB",
+      "pubDate": "Thu, 28 Aug 2025 10:41:10 GMT"
     }
   ],
   "amazon": [
@@ -2289,6 +2293,10 @@
     {
       "title": "Kim Jong Un to join Putin and other leaders at China military parade - BBC",
       "pubDate": "Thu, 28 Aug 2025 03:04:54 GMT"
+    },
+    {
+      "title": "Russia eyes China trade revival as Putin prepares for Xi summit, sources say - Reuters",
+      "pubDate": "Thu, 28 Aug 2025 10:38:20 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2347,6 +2355,10 @@
     {
       "title": "CDC Director Susan Monarez refuses to step down, arguing only President Trump can fire her - CBS News",
       "pubDate": "Thu, 28 Aug 2025 04:20:24 GMT"
+    },
+    {
+      "title": "US CDC chief fired after weeks in role as other top officials quit agency - Al Jazeera",
+      "pubDate": "Thu, 28 Aug 2025 10:21:31 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2360,10 +2372,6 @@
     }
   ],
   "democracy": [
-    {
-      "title": "Texas' new redistricting map tests the strength of U.S. democracy - MSNBC News",
-      "pubDate": "Thu, 21 Aug 2025 10:00:40 GMT"
-    },
     {
       "title": "Do liberals need to choose between defending democracy and the Fed? - vox.com",
       "pubDate": "Wed, 27 Aug 2025 20:05:41 GMT"
@@ -3075,6 +3083,12 @@
     {
       "title": "Scientists reveal 2-billion-year oxygen rise in Earth\u2019s atmosphere - Latest news from Azerbaijan",
       "pubDate": "Thu, 28 Aug 2025 07:37:21 GMT"
+    }
+  ],
+  "computers": [
+    {
+      "title": "China Is Building a Brain-Computer Interface Industry - WIRED",
+      "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
     }
   ]
 }
