@@ -429,10 +429,6 @@
       "pubDate": "Thu, 21 Aug 2025 14:05:03 GMT"
     },
     {
-      "title": "Nato leaders must \u2018not be naive\u2019 about any potential Ukraine deployment, says head of German soldiers\u2019 union \u2013 Ukraine war live - The Guardian",
-      "pubDate": "Thu, 21 Aug 2025 07:56:00 GMT"
-    },
-    {
       "title": "Russia rules out European troops in Ukraine as Trump makes veiled threats - The Guardian",
       "pubDate": "Thu, 21 Aug 2025 14:42:00 GMT"
     },
@@ -571,10 +567,6 @@
     {
       "title": "China\u2019s mid-year economic wobble - The Economist",
       "pubDate": "Thu, 21 Aug 2025 11:06:48 GMT"
-    },
-    {
-      "title": "Can China make Pakistan and the Taliban friends again? - Al Jazeera",
-      "pubDate": "Thu, 21 Aug 2025 07:41:51 GMT"
     },
     {
       "title": "Boeing in talks to sell up to 500 jets to China, Bloomberg News reports - Reuters",
@@ -783,10 +775,6 @@
   ],
   "north_korea": [
     {
-      "title": "North Korea has a secret missile base that poses a \u2018potential nuclear threat\u2019 to the US, new report says - CNN",
-      "pubDate": "Thu, 21 Aug 2025 07:10:00 GMT"
-    },
-    {
       "title": "North Korea Accuses South Korean Army Of Firing Warning Shots Near Border - NDTV",
       "pubDate": "Fri, 22 Aug 2025 23:08:05 GMT"
     },
@@ -826,10 +814,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "CISA Issues Four ICS Advisories on Critical Vulnerabilities and Exploits - cyberpress.org",
-      "pubDate": "Thu, 21 Aug 2025 07:35:17 GMT"
-    },
     {
       "title": "US charges Oregon man in vast botnet-for-hire operation - Cybersecurity Dive",
       "pubDate": "Thu, 21 Aug 2025 16:06:35 GMT"
@@ -919,10 +903,6 @@
   ],
   "drones": [
     {
-      "title": "A Ukrainian startup develops long-range drones and missiles to take the battle to Russia - AP News",
-      "pubDate": "Thu, 21 Aug 2025 07:36:00 GMT"
-    },
-    {
       "title": "Drone Explosion in Haiti Kills 2 SWAT Members and Injures 6 Others - The New York Times",
       "pubDate": "Fri, 22 Aug 2025 01:28:00 GMT"
     },
@@ -1007,6 +987,10 @@
     {
       "title": "Trump fires MSU professor from Federal Reserve Board in first of its kind removal - The State News",
       "pubDate": "Wed, 27 Aug 2025 18:59:51 GMT"
+    },
+    {
+      "title": "Trump's push to oust Fed's Lisa Cook unites anti-DEI effort, bid to control independent institutions - AP News",
+      "pubDate": "Wed, 27 Aug 2025 22:25:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1453,6 +1437,10 @@
     {
       "title": "Nvidia CEO Huang Bets Full Stack Beats Open Source - PYMNTS.com",
       "pubDate": "Wed, 27 Aug 2025 23:36:57 GMT"
+    },
+    {
+      "title": "Nvidia posts robust growth despite uncertain China outlook - Financial Times",
+      "pubDate": "Wed, 27 Aug 2025 20:32:23 GMT"
     }
   ],
   "openai": [
@@ -1487,6 +1475,10 @@
     {
       "title": "OpenAI encouraged California teen to carry out suicide, lawsuit claims - KTVU",
       "pubDate": "Wed, 27 Aug 2025 13:13:24 GMT"
+    },
+    {
+      "title": "OpenAI Says It's Scanning Users' ChatGPT Conversations and Reporting Content to the Police - Futurism",
+      "pubDate": "Wed, 27 Aug 2025 21:05:11 GMT"
     }
   ],
   "environment": [
@@ -1835,6 +1827,10 @@
     {
       "title": "Here\u2019s a look at why it is so hard to end the war in Gaza - PBS",
       "pubDate": "Wed, 27 Aug 2025 14:38:04 GMT"
+    },
+    {
+      "title": "Rabbis Emerge as Growing Voice of Criticism of Israel\u2019s Tactics in Gaza - The New York Times",
+      "pubDate": "Thu, 28 Aug 2025 07:47:43 GMT"
     }
   ],
   "battery_technology": [
@@ -2367,6 +2363,10 @@
     {
       "title": "US health chief sacked after less than a month amid backlash to RFK Jr's vaccine cuts - Sky News",
       "pubDate": "Thu, 28 Aug 2025 02:52:11 GMT"
+    },
+    {
+      "title": "CDC Bosses Quit With Doomsday Warning About \u2018Deadly\u2019 RFK Jr. - The Daily Beast",
+      "pubDate": "Thu, 28 Aug 2025 07:01:00 GMT"
     }
   ],
   "us_supreme_court": [
@@ -3089,6 +3089,12 @@
     {
       "title": "Former AOC Staffer Arrested For Trying To Incite Attack On Jewish School - AOL.com",
       "pubDate": "Thu, 28 Aug 2025 06:07:43 GMT"
+    }
+  ],
+  "earth's_atmosphere": [
+    {
+      "title": "Scientists reveal 2-billion-year oxygen rise in Earth\u2019s atmosphere - Latest news from Azerbaijan",
+      "pubDate": "Thu, 28 Aug 2025 07:37:21 GMT"
     }
   ]
 }
