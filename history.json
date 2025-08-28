@@ -2441,10 +2441,6 @@
   ],
   "self-driving_cars": [
     {
-      "title": "Tesla\u2019s been slow to report self-driving car crashes. Federal investigators want to know why - OregonLive.com",
-      "pubDate": "Thu, 21 Aug 2025 22:18:00 GMT"
-    },
-    {
       "title": "Waymo gets first NYC permit to test self-driving vehicles - StateScoop",
       "pubDate": "Fri, 22 Aug 2025 23:41:28 GMT"
     }
@@ -2510,10 +2506,6 @@
     }
   ],
   "google": [
-    {
-      "title": "Meta Signs $10 Billion-Plus Cloud Deal With Google - The Information",
-      "pubDate": "Thu, 21 Aug 2025 22:48:00 GMT"
-    },
     {
       "title": "Publishers race to counter \u2018Google Zero\u2019 threat as AI changes search engines - Financial Times",
       "pubDate": "Mon, 25 Aug 2025 04:00:35 GMT"
@@ -2999,6 +2991,12 @@
     {
       "title": "Japan Volcano Erupts, Firing Ash Plume 3 Miles Into Sky - Newsweek",
       "pubDate": "Thu, 28 Aug 2025 07:41:18 GMT"
+    }
+  ],
+  "united_nations_security_council": [
+    {
+      "title": "UN Security Council votes unanimously to renew UNIFIL one last time - JNS.org",
+      "pubDate": "Thu, 28 Aug 2025 19:39:00 GMT"
     }
   ]
 }
