@@ -69,6 +69,10 @@
     {
       "title": "Security forces agents kill 13 militants in southeast Iran - The Washington Post",
       "pubDate": "Wed, 27 Aug 2025 08:35:54 GMT"
+    },
+    {
+      "title": "Return of UN nuclear inspectors to Iran met with protests by MPs - The Guardian",
+      "pubDate": "Wed, 27 Aug 2025 16:27:00 GMT"
     }
   ],
   "donald_trump": [
@@ -539,6 +543,10 @@
     {
       "title": "Ukraine shows off a deadly new cruise missile - The Economist",
       "pubDate": "Wed, 27 Aug 2025 12:32:41 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy picks Olha Stefanishyna as ambassador to US - The Guardian",
+      "pubDate": "Thu, 28 Aug 2025 00:23:00 GMT"
     }
   ],
   "us_economy": [
@@ -552,10 +560,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US Navy sailor convicted of spying for China - BBC",
-      "pubDate": "Thu, 21 Aug 2025 01:00:45 GMT"
-    },
     {
       "title": "China's Xi touts unity and development in rare Tibet visit - BBC",
       "pubDate": "Thu, 21 Aug 2025 04:27:35 GMT"
@@ -796,10 +800,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "China scrutiny of Nvidia chips sparked by \u2019insulting\u2019 remarks from US official- FT - Investing.com",
-      "pubDate": "Thu, 21 Aug 2025 01:06:24 GMT"
-    },
     {
       "title": "India Halts US Postal Services After Trump\u2019s Tariff Shock Sparks New Trade War Escalation - Arizona Daily Star",
       "pubDate": "Sat, 23 Aug 2025 15:54:00 GMT"
@@ -1433,6 +1433,10 @@
     {
       "title": "Nvidia still growing, but China uncertainty clouds outlook - Reuters",
       "pubDate": "Thu, 28 Aug 2025 00:09:00 GMT"
+    },
+    {
+      "title": "Nvidia Forecasts Decelerating Growth After Two-Year AI Boom - Bloomberg.com",
+      "pubDate": "Wed, 27 Aug 2025 23:34:10 GMT"
     }
   ],
   "openai": [
@@ -1909,6 +1913,10 @@
     {
       "title": "Nevada state offices close after wide-ranging 'network security incident' - Reuters",
       "pubDate": "Tue, 26 Aug 2025 22:32:41 GMT"
+    },
+    {
+      "title": "CISA: China-Backed Hackers Targeting Global Infrastructure - MeriTalk",
+      "pubDate": "Wed, 27 Aug 2025 20:04:34 GMT"
     }
   ],
   "climate_change": [
@@ -2321,6 +2329,10 @@
     {
       "title": "The quit\u2011smoking ads that helped millions are ending. A former smoker and experts fear what comes next. - CBS News",
       "pubDate": "Tue, 26 Aug 2025 15:36:21 GMT"
+    },
+    {
+      "title": "White House fires CDC director who says RFK Jr. is \u2018weaponizing public health\u2019 - The Washington Post",
+      "pubDate": "Thu, 28 Aug 2025 01:52:36 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2599,12 +2611,6 @@
       "pubDate": "Mon, 25 Aug 2025 17:44:00 GMT"
     }
   ],
-  "cloud_computing": [
-    {
-      "title": "Oracle Rides Major Deals With OpenAI, Nvidia to Turn Around Cloud Business - Bloomberg",
-      "pubDate": "Thu, 21 Aug 2025 01:51:00 GMT"
-    }
-  ],
   "republican_party": [
     {
       "title": "RNC poised to elect long-time Trump-loyalist, FL state Sen. Joe Gruters, as new chair - ABC News",
@@ -2706,10 +2712,6 @@
     }
   ],
   "tesla": [
-    {
-      "title": "Tesla road test shows off major upgrades to iconic model \u2014 here's what's happening - The Cool Down",
-      "pubDate": "Thu, 21 Aug 2025 01:45:00 GMT"
-    },
     {
       "title": "US probes delays in Tesla crash reports involving driver-assistance systems - Reuters",
       "pubDate": "Thu, 21 Aug 2025 14:22:56 GMT"
@@ -3037,6 +3039,12 @@
     {
       "title": "Scientists discover how elephant extinction threatens everything from rainforests to musical instruments - UCLA",
       "pubDate": "Wed, 27 Aug 2025 20:57:01 GMT"
+    }
+  ],
+  "us_treasury": [
+    {
+      "title": "US-India relationship \u2018complicated\u2019, but \u2018at the end of the day we will come together\u2019, says US Treasury Secretary Scott Bessent - The Indian Express",
+      "pubDate": "Wed, 27 Aug 2025 23:45:00 GMT"
     }
   ]
 }
