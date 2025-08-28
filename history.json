@@ -69,10 +69,6 @@
       "pubDate": "Fri, 22 Aug 2025 02:14:00 GMT"
     },
     {
-      "title": "Trump delivers pizza to National Guard working on his DC crackdown - NPR",
-      "pubDate": "Thu, 21 Aug 2025 19:47:55 GMT"
-    },
-    {
       "title": "Trump Claims a Legal \u2018Victory.\u2019 Here\u2019s Where His Other Cases Stand - Time Magazine",
       "pubDate": "Fri, 22 Aug 2025 09:45:00 GMT"
     },
@@ -177,10 +173,6 @@
   ],
   "ai_safety": [
     {
-      "title": "How Architectural Controls Help Can Fill the AI Security Gap - Dark Reading | Security",
-      "pubDate": "Thu, 21 Aug 2025 19:12:44 GMT"
-    },
-    {
       "title": "Hackers Exploit ChatGPT-5 Downgrade Trick to Evade AI Safeguards - cyberpress.org",
       "pubDate": "Fri, 22 Aug 2025 05:01:45 GMT"
     },
@@ -255,6 +247,10 @@
     {
       "title": "Instagram\u2019s chatbot helped teen accounts plan suicide \u2014 and parents can\u2019t disable it - The Washington Post",
       "pubDate": "Thu, 28 Aug 2025 17:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT offered bomb recipes and hacking tips during safety tests - The Guardian",
+      "pubDate": "Thu, 28 Aug 2025 19:26:00 GMT"
     }
   ],
   "financial_markets": [
@@ -683,10 +679,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump falsely claims \u2018total victory\u2019 in civil fraud appeal ruling despite splintered court \u2013 US politics live - The Guardian",
-      "pubDate": "Thu, 21 Aug 2025 19:03:47 GMT"
-    },
-    {
       "title": "Judge rules Trump lawyer Alina Habba is unlawfully serving as US attorney - Al Jazeera",
       "pubDate": "Thu, 21 Aug 2025 23:39:44 GMT"
     },
@@ -1015,10 +1007,6 @@
   ],
   "cancer": [
     {
-      "title": "Genetic study suggests ways to catch blood cancer earlier - Medical Xpress",
-      "pubDate": "Thu, 21 Aug 2025 19:56:29 GMT"
-    },
-    {
       "title": "mRNA Vaccine For Pancreatic Cancer Continues To Show Promise - Science Friday",
       "pubDate": "Fri, 22 Aug 2025 10:02:50 GMT"
     },
@@ -1205,10 +1193,6 @@
   ],
   "data_breach": [
     {
-      "title": "Data breach of over 500 customers reported by regional service provider - Modesto Bee",
-      "pubDate": "Thu, 21 Aug 2025 19:25:57 GMT"
-    },
-    {
       "title": "Massive data breach sees 16 million PayPal accounts leaked online - here's what we know, and how to stay safe - TechRadar",
       "pubDate": "Fri, 22 Aug 2025 20:25:00 GMT"
     },
@@ -1262,10 +1246,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Opinion: Here\u2019s the $863 billion secret Powell, Trump and Bessent aren\u2019t telling us about gold and bitcoin - MarketWatch",
-      "pubDate": "Thu, 21 Aug 2025 19:01:00 GMT"
-    },
     {
       "title": "Bitcoin\u2019s $13.8B options expiry puts bulls on edge ahead of key test - Cointelegraph",
       "pubDate": "Thu, 21 Aug 2025 20:28:31 GMT"
@@ -1783,6 +1763,10 @@
     {
       "title": "Hundreds of UN staff pressure rights chief to call Gaza a genocide, letter shows - Reuters",
       "pubDate": "Thu, 28 Aug 2025 12:52:32 GMT"
+    },
+    {
+      "title": "Gaza latest: US chooses not to condemn 'manmade crisis' - as Israel 'flattens 1,500 homes' - Sky News",
+      "pubDate": "Thu, 28 Aug 2025 19:30:06 GMT"
     }
   ],
   "battery_technology": [
@@ -1895,10 +1879,6 @@
     {
       "title": "Hurricane science has come leaps and bounds since Katrina. The progress is now at risk - NPR",
       "pubDate": "Thu, 21 Aug 2025 20:20:06 GMT"
-    },
-    {
-      "title": "Global rules shaping the treeline under climate change revealed - Phys.org",
-      "pubDate": "Thu, 21 Aug 2025 19:44:03 GMT"
     },
     {
       "title": "WHO warns of risks of extreme heat in the workplace - BBC",
@@ -2062,10 +2042,6 @@
     }
   ],
   "european_union": [
-    {
-      "title": "Record EU wildfires burned over million hectares in 2025: analysis - Phys.org",
-      "pubDate": "Thu, 21 Aug 2025 19:03:56 GMT"
-    },
     {
       "title": "Germany should look for new trade partners, Chancellor Merz says - Reuters",
       "pubDate": "Sun, 24 Aug 2025 17:05:24 GMT"
@@ -2727,10 +2703,6 @@
   ],
   "augmented_reality": [
     {
-      "title": "Meta\u2019s New 2mm Laser Display Could Enable True AR Glasses - extremetech.com",
-      "pubDate": "Thu, 21 Aug 2025 19:45:38 GMT"
-    },
-    {
       "title": "Army Testing AR Goggles, Anti-Drone Guns on US-Mexico Border - The Defense Post",
       "pubDate": "Fri, 22 Aug 2025 13:18:55 GMT"
     },
@@ -2811,12 +2783,6 @@
     {
       "title": "Scientists uncover clues to the mystery of Jupiter\u2019s core - Courthouse News Service",
       "pubDate": "Fri, 22 Aug 2025 00:01:43 GMT"
-    }
-  ],
-  "jamie_raskin": [
-    {
-      "title": "House Democrats probe Paramount, Skydance merger, CNBC says - TipRanks",
-      "pubDate": "Thu, 21 Aug 2025 19:02:03 GMT"
     }
   ],
   "five_eyes": [
@@ -2989,6 +2955,10 @@
     {
       "title": "The Pentagon Admits It: America Has a Serious Drone Deficiency - Politico",
       "pubDate": "Wed, 27 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Germany wants to double its defense spending. Where should the money go? - Atlantic Council",
+      "pubDate": "Thu, 28 Aug 2025 17:58:00 GMT"
     }
   ],
   "computer_science": [
