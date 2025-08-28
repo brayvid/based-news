@@ -1,62 +1,72 @@
 {
+  "Alternative Energy": {
+    "articles": [
+      {
+        "title": "Trump halts big offshore wind project, killing 1,000 jobs - People's World",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekVCaDhyUERia2NUczdSWnJoNXF0WUZ6YVV5S2d4VHBvMzlVWVBiTnZHOHoyY1Vib2Y4SzVpRGRMb0hsLU4tdFlUeFEzOFZNWnNUWFp6dTdjQWVON05iMG90ZGlxaVA1bEtJa095c0JuSGFqUnAwbWduSjJ1a1BaWHc4V0daTDRpSmdrTDYyWTRlVWJESGJYdA?oc=5",
+        "pubDate": "Wed, 27 Aug 2025 18:23:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
+  },
+  "Algorithmic Trading": {
+    "articles": [
+      {
+        "title": "Australian watchdog reviews rule book amid fears of market meltdown caused by AI - Finextra Research",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXpEQzFkOXBiSXpnemZ4SXpMc2VLYnU3cjBqZ2lKSEpUR2RMYnBST3BtTXE4bVVUamNUOXpES2c3Zk5wUFhpaTZWYVZ4N3JVVHg3dmhEREthQ1JLMXJsNTU1VUVIcWYzMktZLUZsRl9fdkxZQjIycmlrSF9oZ2hVd09ZOHdyZ2ZDRWNURWktNkRXb0NkYnhUVEtBSlZHZ3l0UFBPdGZ1MS02MzRFNVdTUWZkLTJvUERnTXgzeGUybDY?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
+  },
   "Cybersecurity": {
     "articles": [
       {
-        "title": "US, allies warn China-linked actors still targeting critical infrastructure - Cybersecurity Dive",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnZpOFFKa0RUTi16S2NiR0FjM19JY3BCd0h0X0lWSU1tNC16R09JNHNwQXI2c1AwclAwTDBWak5JTkVRSzV5Z1hxb2tNQ1JITVVDeHNnczhmN0RuOE1MOW8xSnVOLWRsRUEtcUxIMFZ6b09Na1ZZUC1CRkpIeDA4RmlEcWJOcmlFekRGcGxjTG5KeDA2djZhZA?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 17:57:52 GMT"
+        "title": "Officials give update on cyberattack attack response - KTVN",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUU4YXRuVnVnWXMyVTNHaC13QnNOTzc4Ujh5bmNWaWVadk15QWdIZDU0aURnUGZZVUV1RTUzNzN3NkFTajVqbVNPVjJmLTd1QlkyNVQ2TksxNC1FclRXQTRhcmVIOERSNXRKNTYzRm5XcUM1clMzRUM1cHNaTml2MVJxYmxaT2J1RnlKU2hEZDk5UF9LSGRMcWJUWUFHVGYyMGU4QU1NS193Y3lZSWJtd0NkT2ZqS3A1bzNTcHNSM1d0c2hraTZXRFpsMVhyY2Jw?oc=5",
+        "pubDate": "Wed, 27 Aug 2025 23:19:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Himalayan flash floods: Climate change worsens them, but poor planning makes them deadly - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GSmhmUURtZGZPa2VwajVwek45SG9ReTQ2VFFvQU5Pd2E5UzVXcXZCQ1pCdFF2ZHJmdHZNS09FZWF3NmZHN3pSRllRaXA4a2NXUUlUeWFqWlVhRjRFQWJUOWRNSEowSnp0LUQ1TFpjSXc2RWFJM1VYUWxfUkw?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 17:09:04 GMT"
+        "title": "More haboob dust storms are coming to California thanks to climate change - Los Angeles Times",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlNLc09WNHhMTXVRY2VlWWpYaEp0ay04UFZkWV90VkM0LVEtUVcwdmUzaUU0UC11dEZhRU1zVW1rUHc1Wjd3Skdla284ZFRMbTdwb0NEYjBBRUt5T0VhWkoxN2VHZTNCMXNGckx4aTJzcFhWOUFjZVpaOFUzUThVRmpyVTlyNS1MN2d5cGVDYVp5b2ozd1BLMW5aTGduMWM?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
   },
-  "AI Safety": {
+  "NVIDIA": {
     "articles": [
       {
-        "title": "Introducing the Anthropic National Security and Public Sector Advisory Council - Anthropic",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFZfSVJWSmhBaDBwMldieGlmVGUtbnNFV2U1UW1VOGdKS01fWDlkMkM3Z2dkWlVuaEZLb1hTdElkcTNRRllHWHFMc3RyMmdMUmJ5MjlWNW9WdVJEaU9XUWI1TVFTcDVveFVsdk56SlZlY0gwZEx1RTlWRDFFSHZMMFJkTXRYUEZGMFRQUVJFZUF4Njh0UEFzakxhN25xVUdYY2l1YlNGNUtJbnBUeWc?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 13:08:21 GMT"
+        "title": "Nvidia still growing, but China uncertainty clouds outlook - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmxHNWVvbXh6MmVzbW93MkgxYnB6T1cwWUlQbG1CVlVCZFNMNXJ0djhnX2RjeF9rSUhxVkdORUsxZGoxdTdocGI5RkdXOFNKeGgxNTdMM0FNNFJSSkI0dXphaWEwWnEwMXdmdDd3SVJYdEFLaGZUd00zLTROMzJCRDUwUE5rR0xld1h2d1p5clNrUU5NbXhJeGdfaEE5bzRXYTB3?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 00:09:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
   },
-  "Battery Electric Vehicle": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Pivotal union vote looms at Kentucky plant that produces EV batteries - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOU1LQmRrY08wTmR6SjNLX3MtcmFNSTgxeU8ydzE3ay1ZcXY5cElQU3F1ZmJOamZ5MmFyck5YZmJMdTRvMnFLYTJzNnNFY2ZoU1RRT1BjRWRJblB6ZVhTRFVqcV9HanpMT2x0eFlFM2E2RC1WSVdLU2hLaVhMVDVSR21n?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 13:31:00 GMT"
+        "title": "Here\u2019s a look at why it is so hard to end the war in Gaza - PBS",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0hMTXBfd2ZnS1NuM3U5QkFHSzlfSllWaHlhOGdXYk9zSFM1dUN1NGJXa3R4NFpMakFFbF9tRFJLT2hUOFFZU2FkSHh6ZUl4bW42cGUzbHNuWmV0NWozcmlOb0p6RzRBWTgta1pDOHNYOTNoZDZQNFRuRWpyaEdwTHlPMmE3am9UN1Z2X3dXb1F3V0dPVkHSAZsBQVVfeXFMUEtUVWRCSXF0THhZZHZHcmx1bzRVR2dSbUZpVXo4d0dmV0RXUHRLbGZQdHYzOEN1WS1ldGlSNWtfbEZqRXlsTDFWMGdaTldYZWZZZjZDbzQ4YlpZS0dxMUtVdW04S1UtdFdDRS1VNXpBLUhQYUVIekRaNk94TzUtZjlOTktUNndnYlAzNDBnY1VQLThkbG96eWlaX28?oc=5",
+        "pubDate": "Wed, 27 Aug 2025 14:38:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
   },
-  "Rain Forests": {
+  "World News": {
     "articles": [
       {
-        "title": "Scientists discover how elephant extinction threatens everything from rainforests to musical instruments - UCLA",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbW1Jc3QyUFN2SWhPekxwYmRBc0FQcE5iQVJSYVR6NVBmdkhRQ2t6bHBXTkNrbndRNmRmblNSY2loUE0zb2l6QV9XUE1sZ0NCMnVNQmhnV1NrQ1BNaFRRS3Exd1V5ZmhwMmdQT0tBX0ZaZ2QyXzlYbEd4LUl1R1pKSWtkTjRldWRvWU5qRVdITEh6bl9QV3RhQVRNVVZyQQ?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 20:57:01 GMT"
+        "title": "Two children killed when gunman fires into US Catholic school - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmlTaEZ0OFVCZXVSQkcwTUd2UTVHanJ5amtudFVLd3NZQkIxZjBTZ2FiUkliZXdkYVhISzBXSDdMQ3dLSVY2LXA3OEY4U2pmZWxlbjEzcjNua2NZR0FlZjJCN0t0Q3lVcm83QnBYMW5SQ1dQTEZ4eGxTT1JlelNQc0tMUWFRd2FVS2NoYVJMaWxadG5EOXZJOUpEYnZMeHRGS2tGbUdScDhEaXdTc1MzN9IBtgFBVV95cUxQX2NGUzlTT1VzQjhsQ0ZKTjM5WEtZU1JMWWM1emNYSEtaLUt1aWFfSkNQbVd4YXA4SlRIYUVfOGtORU95a2dwWmxJd205WGUtaTdmME9qVWJuVkJWem1kV1YxTjJiU3lMZDFTMXM1UnhiRmdXNlppQU5pbWg1dVRuQlE2U1dXTnpXX0J4MGk5eTZBaHEzSXhBNEpkRTU3b19ma2tsOHNPZlF3amdHMU5VV0lLMmVEdw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 00:15:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Ukraine shows off a deadly new cruise missile - The Economist",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlltWWczZWhQX0g5TDFGNUdUUEQ0RUpINEVoWkJUNUFCRklhZDUyNTlvZ2hmWl81S2tybmxMMG53cFViSHYxSFUxclUybHJjZHBwcE1aemdCOV8wWGlPY0xCSFpnYTNDTl9yR0JLcWJGTmp3eVhReTZIckNpRVVRZS1nUWR1Zm9XWm9NYkY4eFlkQ3M?oc=5",
-        "pubDate": "Wed, 27 Aug 2025 12:32:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-27T23:59:07.250659+00:00"
+    "last_updated_ts": "2025-08-28T00:58:57.900469+00:00"
   }
 }
