@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Analysis: Israel E1 settlement plan makes Palestinian state further away - Al Jazeera",
-      "pubDate": "Thu, 21 Aug 2025 16:02:37 GMT"
-    },
-    {
       "title": "Israel's defense minister says Gaza City could be destroyed - The Killeen Daily Herald",
       "pubDate": "Fri, 22 Aug 2025 06:43:10 GMT"
     },
@@ -72,10 +68,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump joins law enforcement at Park Police facility in Washington, DC - CNN",
-      "pubDate": "Thu, 21 Aug 2025 16:47:00 GMT"
-    },
     {
       "title": "Federal judge orders closure of Trump\u2019s \u2018Alligator Alcatraz\u2019 immigration jail - The Guardian",
       "pubDate": "Fri, 22 Aug 2025 02:14:00 GMT"
@@ -289,10 +281,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Pause new law on artificial intelligence, Colorado mayors urge lawmakers - Colorado Politics",
-      "pubDate": "Thu, 21 Aug 2025 15:59:49 GMT"
-    },
-    {
       "title": "Microsoft quietly launched an AI agent that can detect and reverse engineer malware - IT Pro",
       "pubDate": "Fri, 22 Aug 2025 11:52:08 GMT"
     },
@@ -412,10 +400,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian airstrikes hit a U.S. factory in western Ukraine - NPR",
-      "pubDate": "Thu, 21 Aug 2025 16:06:33 GMT"
-    },
     {
       "title": "Proposed Ukraine land concessions are Putin's trap, EU top diplomat tells BBC - BBC",
       "pubDate": "Fri, 22 Aug 2025 05:00:15 GMT"
@@ -539,6 +523,10 @@
     {
       "title": "Russia advances in Kupiansk, rejects US push for Zelenskyy-Putin summit - Al Jazeera",
       "pubDate": "Thu, 28 Aug 2025 11:26:15 GMT"
+    },
+    {
+      "title": "Ukraine Says It Hit Two Russian Oil Refineries Overnight - Bloomberg",
+      "pubDate": "Thu, 28 Aug 2025 07:16:31 GMT"
     }
   ],
   "us_economy": [
@@ -699,10 +687,6 @@
       "pubDate": "Thu, 21 Aug 2025 23:39:44 GMT"
     },
     {
-      "title": "Oregon could become first state to adopt universal healthcare - People's World",
-      "pubDate": "Thu, 21 Aug 2025 16:13:26 GMT"
-    },
-    {
       "title": "Trump suggests Chicago is next for federal crime crackdown, followed by New York City - CBS News",
       "pubDate": "Fri, 22 Aug 2025 18:29:59 GMT"
     },
@@ -806,10 +790,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "US charges Oregon man in vast botnet-for-hire operation - Cybersecurity Dive",
-      "pubDate": "Thu, 21 Aug 2025 16:06:35 GMT"
-    },
     {
       "title": "House lawmakers take aim at education requirements for federal cyber jobs - CyberScoop",
       "pubDate": "Thu, 21 Aug 2025 20:09:23 GMT"
@@ -1109,10 +1089,6 @@
   ],
   "space_exploration": [
     {
-      "title": "Could Starship help humanity establish a city on Mars? Inside SpaceX, Elon Musk's plan - USA Today",
-      "pubDate": "Thu, 21 Aug 2025 16:42:37 GMT"
-    },
-    {
       "title": "NASA's Psyche asteroid probe beams home haunting view of distant Earth (photo) - Space",
       "pubDate": "Mon, 25 Aug 2025 10:00:00 GMT"
     },
@@ -1345,6 +1321,10 @@
     {
       "title": "Bitcoin reclaims $112,000 level as cryptocurrencies rebound: CNBC Crypto World - CNBC",
       "pubDate": "Wed, 27 Aug 2025 19:00:46 GMT"
+    },
+    {
+      "title": "American Bitcoin, backed by Trump sons, aims to start trading in September - CNN",
+      "pubDate": "Thu, 28 Aug 2025 11:13:00 GMT"
     }
   ],
   "fusion_power": [
@@ -1375,6 +1355,10 @@
     {
       "title": "MIT fusion spinoff raises $863 million in race to prove new technology works - The Boston Globe",
       "pubDate": "Thu, 28 Aug 2025 13:07:45 GMT"
+    },
+    {
+      "title": "Nuclear fusion developer raises almost $900mn in new funding - Financial Times",
+      "pubDate": "Thu, 28 Aug 2025 16:28:59 GMT"
     }
   ],
   "nvidia": [
@@ -2063,6 +2047,10 @@
     {
       "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
       "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Exxon escalates attacks on EU\u2019s \u2018high-regulation\u2019 climate policies - Financial Times",
+      "pubDate": "Thu, 28 Aug 2025 13:01:37 GMT"
     }
   ],
   "european_union": [
@@ -2455,10 +2443,6 @@
   ],
   "hurricanes": [
     {
-      "title": "Hurricane Erin whips up strong winds and some flooding as it slowly moves further out to sea - PBS",
-      "pubDate": "Thu, 21 Aug 2025 16:03:20 GMT"
-    },
-    {
       "title": "Erin batters NC coastline, parts of NC12 shutdown, tropical storm warning and watch in effect - ABC11",
       "pubDate": "Thu, 21 Aug 2025 21:32:00 GMT"
     },
@@ -2629,6 +2613,10 @@
     {
       "title": "Trump says he may recommend a Republican national convention before 2026 midterm elections - Reuters",
       "pubDate": "Thu, 28 Aug 2025 14:29:24 GMT"
+    },
+    {
+      "title": "Trump suggests hosting pre-midterm GOP convention - Politico",
+      "pubDate": "Thu, 28 Aug 2025 15:54:43 GMT"
     }
   ],
   "privacy": [
@@ -2756,10 +2744,6 @@
     }
   ],
   "algorithmic_trading": [
-    {
-      "title": "FCA warns algorithmic trading firms over compliance failures - Financial News London",
-      "pubDate": "Thu, 21 Aug 2025 16:14:05 GMT"
-    },
     {
       "title": "UK Watchdog Puts Algo Trading Firms\u2019 Risk Controls Under the Microscope - Finance Magnates",
       "pubDate": "Thu, 21 Aug 2025 17:09:32 GMT"
