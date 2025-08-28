@@ -293,10 +293,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Microsoft AI CEO Mustafa Suleyman: Chatbots are causing psychosis - The Times",
-      "pubDate": "Thu, 21 Aug 2025 13:20:46 GMT"
-    },
-    {
       "title": "Pause new law on artificial intelligence, Colorado mayors urge lawmakers - Colorado Politics",
       "pubDate": "Thu, 21 Aug 2025 15:59:49 GMT"
     },
@@ -547,6 +543,10 @@
     {
       "title": "Russia strikes EU delegation building in Kyiv - politico.eu",
       "pubDate": "Thu, 28 Aug 2025 07:58:07 GMT"
+    },
+    {
+      "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
+      "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
     }
   ],
   "us_economy": [
@@ -557,6 +557,10 @@
     {
       "title": "Is the US-Japan Tariff Agreement Really \u201cGood Enough\u201d? - nippon.com",
       "pubDate": "Tue, 26 Aug 2025 15:00:07 GMT"
+    },
+    {
+      "title": "US economy grew more than first reported in Q2, new data shows - NewsNation",
+      "pubDate": "Thu, 28 Aug 2025 10:57:16 GMT"
     }
   ],
   "china": [
@@ -683,6 +687,10 @@
     {
       "title": "China Gets Closer to Finding Its Own Nvidia - Bloomberg.com",
       "pubDate": "Wed, 27 Aug 2025 19:00:19 GMT"
+    },
+    {
+      "title": "Treasury Warns Banks About China-Mexico Money Laundering Risks - Bloomberg.com",
+      "pubDate": "Thu, 28 Aug 2025 12:47:34 GMT"
     }
   ],
   "us_politics": [
@@ -923,10 +931,6 @@
     {
       "title": "With Fed under pressure, Jerome Powell prepares for a high-stakes speech - NPR",
       "pubDate": "Thu, 21 Aug 2025 17:27:32 GMT"
-    },
-    {
-      "title": "Federal Reserve's Jackson Hole Symposium Kicks Off Today: What to Know - Investopedia",
-      "pubDate": "Thu, 21 Aug 2025 13:49:00 GMT"
     },
     {
       "title": "Fed officials lukewarm on September rate cut as markets await Powell speech - Reuters",
@@ -1635,6 +1639,10 @@
     {
       "title": "Trump halts big offshore wind project, killing 1,000 jobs - People's World",
       "pubDate": "Wed, 27 Aug 2025 18:23:54 GMT"
+    },
+    {
+      "title": "A tiny chip may have solved one of clean energy\u2019s biggest problems - ScienceDaily",
+      "pubDate": "Thu, 28 Aug 2025 13:43:41 GMT"
     }
   ],
   "global_health": [
@@ -1644,10 +1652,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israeli army database suggests at least 83% of Gaza dead were civilians - +972 Magazine",
-      "pubDate": "Thu, 21 Aug 2025 13:58:02 GMT"
-    },
     {
       "title": "Hamas has one top strategy: End the war and survive - NPR",
       "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
@@ -1825,6 +1829,10 @@
     {
       "title": "AI prescribes new electrolyte additive combinations for enhanced battery performance - Tech Xplore",
       "pubDate": "Wed, 27 Aug 2025 13:28:05 GMT"
+    },
+    {
+      "title": "Europe Needs a Reset to Retain Electric Vehicle Battery Relevance - Bloomberg.com",
+      "pubDate": "Thu, 28 Aug 2025 08:51:41 GMT"
     }
   ],
   "algorithms": [
@@ -2066,10 +2074,6 @@
     }
   ],
   "european_union": [
-    {
-      "title": "US and EU issue written framework for their trade deal, still a work in progress - The Hill",
-      "pubDate": "Thu, 21 Aug 2025 13:02:00 GMT"
-    },
     {
       "title": "Record EU wildfires burned over million hectares in 2025: analysis - Phys.org",
       "pubDate": "Thu, 21 Aug 2025 19:03:56 GMT"
@@ -2455,10 +2459,6 @@
   ],
   "hurricanes": [
     {
-      "title": "Hurricane forecasters now tracking triangle of tropical trouble as Atlantic Basin bubbles with activity - FOX Weather",
-      "pubDate": "Thu, 21 Aug 2025 13:04:03 GMT"
-    },
-    {
       "title": "Hurricane Erin whips up strong winds and some flooding as it slowly moves further out to sea - PBS",
       "pubDate": "Thu, 21 Aug 2025 16:03:20 GMT"
     },
@@ -2673,10 +2673,6 @@
   ],
   "science": [
     {
-      "title": "Scientists solve 30-year mystery of a hidden nutrient that shields the brain and fights cancer - ScienceDaily",
-      "pubDate": "Thu, 21 Aug 2025 13:22:03 GMT"
-    },
-    {
       "title": "Scientists discover crystal that breathes oxygen like lungs - ScienceDaily",
       "pubDate": "Fri, 22 Aug 2025 08:04:54 GMT"
     },
@@ -2702,10 +2698,6 @@
     }
   ],
   "political_corruption": [
-    {
-      "title": "Why corruption cases against politicians collapse every time power shifts - The Times of India",
-      "pubDate": "Thu, 21 Aug 2025 13:09:00 GMT"
-    },
     {
       "title": "Former top aide to NYC mayor among 7 facing new charges in City Hall corruption probe - AP News",
       "pubDate": "Thu, 21 Aug 2025 17:28:00 GMT"
@@ -2833,12 +2825,6 @@
     {
       "title": "Scientists use new mathematical approach to protect aircraft from 5G interference - Tech Xplore",
       "pubDate": "Thu, 21 Aug 2025 15:06:03 GMT"
-    }
-  ],
-  "data_analysis": [
-    {
-      "title": "Can AI produce reliable and consistent data analysis? - Stockholm Environment Institute",
-      "pubDate": "Thu, 21 Aug 2025 13:57:23 GMT"
     }
   ],
   "jupiter": [

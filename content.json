@@ -1,42 +1,52 @@
 {
-  "Volcanoes": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Japan Volcano Erupts, Firing Ash Plume 3 Miles Into Sky - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM2lzRC1QeWpzblFLUnIzQWtHZ016OGpQVGZYQUJJTzUteVBJYzZSX3p3N2toQk82eVo4X19VRE9ZZjhBaU5vcUl2SmwzbllVZDFTcGJDMG5EUWdMWjU1OUZtTGQ1UTVtTlVFaXktSWtxcENzbmc?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:41:18 GMT"
+        "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40OF94eFhmOTJQUjd1dHdtMU52a0xIMWotbDkyY3FmYnZtQlBGQlh6eFJxMFl1RFdJYzV0Z2U0dDRhSFJxSWZOWWp5T3hwdmZBLXl4Y3VCZEcyNUJabzZKa2xqZUlPMHFyOHRhWUpRMTRvU184OFY0SS1RZkNLdw?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T11:58:53.571170+00:00"
+    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
   },
-  "Cybersecurity": {
+  "China": {
     "articles": [
       {
-        "title": "Over 28,000 Citrix Servers at Risk from Active 0-Day RCE Exploit - gbhackers.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmNGNkdmt5UzdENHJvTDh3ZWk2aG5SVkFfUGN2aEx4T0Z3Tkl0UnVrRl90WmxuTDlYRWtFcmJaRzJFanh6c2otRVdGUFVYbGRxWGFrZ2NjcWlUSlBRYWRQdkNNZVVPcjTSAWxBVV95cUxNSG12N3BHTkE5dTVEbDBubnZIYXE5cDVqZDFEQk9LcENPOFBnU05LaVlrYkNJRFdYZU1IbmxJX3IzenZsNHdhRDNUSlNXYWN0SkZ1T3JOZEhlcFc3T3NueGRYby14S1RvcEt3akQ?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 06:33:45 GMT"
+        "title": "Treasury Warns Banks About China-Mexico Money Laundering Risks - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmJCRXpQSHlnUHZwNU5CcDdLV2hkZGZaV2s4bnZNYkgzalY1LXZXM0JVNU1HY3J3cTVaVWhkVWJ0TGhsUkNVWnV1dUdzdFlST1ZXUzZWallzMFd1YkRjSU1zVVRDZVdqMFNXVTU1NWR1MV9Id2lISnJYeEZjXzM1b3lsZ181WVhZRGp4VXo3TUtQVEYxdWUtSUVqZXpEMlVTY05XNk9nLXBZeGJnZ0NrQndmWQ?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 12:47:34 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T11:58:53.571170+00:00"
+    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
   },
-  "Electric Vehicle": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Tesla sales plunge 40% in Europe as Chinese EV rival BYD's triple - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaE5xTVV0U213NGJjNDBZZnl1ZUYzd2Q4aWVIZllMZGJMUlFsb0ZYcHVHUk9oeHVNeWZOd1VYclppdUl1NkFjRVBJQnZ5T184blJack56TUJFZGlEeXljSTkwZll3aF9Fdk9uSklEd3hBakdWY09pc085dmlQbUVNZnFtcDNHWUx0SzNZdWpvRkU1bzJXWFNJX3kzYTdjRzJXams0MF8tMTVOS2PSAbABQVVfeXFMTlV1Z2lVcmRqUHpJT21tVmJ0WXdkdHViUzZ1SmhKRV85a1FQNDNKY1dNM29sUEpXYkJYekxtVk52Z245aDlHUlJvc0xLUUdrRFpWa0drMHV0Wi1LQ093NmRsamxBWE9YM2JnNUVtY2MwNVNOcGZBRG9vNTlRU3pMZXVrQkk5RmRVX1hVWjRDaFFuYmlSay0zOUZ4UXcyMEhtcVlCYzJ1VzZrU2NHMlMwanc?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:06:21 GMT"
+        "title": "US economy grew more than first reported in Q2, new data shows - NewsNation",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUtOaFdkcDFVYlFabHkzYlhjLUp2bHpGQUFXajlfM1k0dlRPSkVmTVVKN2cyQno0SnhkeTZFenYzc0dGM2pjdlFmMFFYWEw4THNXMEtRMUxpbUpEV2hSTmlxSjBySEdxSkl2WnRmYTVxS2o4Nk5vdXE5NjVwb3RHSXEzRzBNRUZuSV91dlBmTGrSAZYBQVVfeXFMUC1yZm5xaDNqTngyZEpRUDBpV1JRelpqek9VRTZIMXZHV21uQlNyRHNoNmdvaW45WGkzQ1daOXg5RmRkRW1yWHloUG1TRVRmQTBJOUhnT1hFVlBaQlNZZ0x6cWxvTTJYRXlZYldwR0VLY3JLbGU5Vjg0cU5jSkl1cEZpaVpORzhTdG1ncG1Wc01wNk5nOFp3?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 10:57:16 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T11:58:53.571170+00:00"
+    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
   },
-  "Climate Change": {
+  "Alternative Energy": {
     "articles": [
       {
-        "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm5nNkRkQ1NqR21tMXgyM1dJelppRGp2M1llMzlLWmtIQzdoSVBzMklLeWdEWDB4bklESTFRbVBaU3VIdklUR1lZQ00wbkdmc3pjcVVwMlIySHlHM2ZDS1RuTEc2Tk8ybzB6MHl6T2dQMmM0RzNnS21WVG52NDI0OTRB?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
+        "title": "A tiny chip may have solved one of clean energy\u2019s biggest problems - ScienceDaily",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBILU5JZ0E0U0xrWXRDQldIT2dyNTlPLVM5ZUdxUHJKUFF3T0VfWndpbmF6cXExVkswWTduc0JCdTFZRGh1MWxrOHhOY0RCckZlUXRLY0hjZTE0ZHFSRzBZQ1o3RkpEeWY2WlA0VzRfRQ?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 13:43:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-28T11:58:53.571170+00:00"
+    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
+  },
+  "Battery Technology": {
+    "articles": [
+      {
+        "title": "Europe Needs a Reset to Retain Electric Vehicle Battery Relevance - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVZHYm1zWDNPNWx1dVRQRnlpaE9YQ2JGRDZTNlZ2c2JscElGMDhEVHM5a0N0eldwdzJuS0R4R0QyVTl0b0QyUmJ0MnAzQlBMUjB0OHhXbUtnVHpSTVYxYWhXemRxX1hqVnFtTzdlY3JTSFUzS1JoN3RMMnlHSWJiOEszZlVwZFNCN3JuX0ZuUnY2ek51a0hZMHlvN2RnZVM0cnhQdkhtWmtRLVRidWFPbEJnZEFBTTJ1LVA0?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 08:51:41 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-28T13:59:21.219821+00:00"
   }
 }
