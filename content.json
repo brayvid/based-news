@@ -1,22 +1,62 @@
 {
-  "Ukraine": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Trump administration approves sale of 3,350 extended range missiles to Ukraine - CNN",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUG9VQkl6aU9wQUF6QkY3Tzg0ZEdubXNUSjNxbVNVVnB6MHR4c1NydzJEVVMtVDlvZ2dXeXgtTm1PbWNVeDJSWUhOZGowaC1lQTZub3FfTldVSXdtNjVrSGZMWVNNeVlGWDNLQWxwZFhFR05h?oc=5",
+        "title": "GPT vs Claude: OpenAI Didn't Win Every Match, AI Security \"Ultimate Test\" Truth Unveiled - 36Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6aTV5ZGxxQ2s4WmVRd08xZ21YU1ExRUk5Q1BobE1KWFVYN2dNQTJ4TWJCQ29QVnFORmVabUdBVlVhYWViV1VwdEdoclMxNHdHZHdn?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 03:10:48 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
+  },
+  "Cancer": {
+    "articles": [
+      {
+        "title": "Breakthrough Breast Cancer Pill Extends Survival in 7-Year Trial - ScienceAlert",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXBfSFh6RXBIOS1aSDNuQ0VuWkR0bWo2OTJ4OUhwT2h4U2VXcTB3RnR4V2YybERwMzBWQkJLeFBsbTlLeUFZNFRvWEFZQ3JTZHJ0SjB6ajBlWVZCSGYwTF9hazZrYXIwRkI5RHc0dVVmS1RhQTlLOEJzb0c2aDNUbzFab2Q0ZVBKM0huOXVaNG1FSjYtU1cyXw?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 03:38:39 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
+  },
+  "BRICS": {
+    "articles": [
+      {
+        "title": "China looks to strengthen coordination with Brazil, work with BRICS - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEs2ckRCY1RLX1lXOXA0cU9fUUhmTWxNS05qTHpmMmd5aU5fTFNhcmpmVE9jbnNyUzJCVzZaZlUtWEVXczVkSUh0S2FQYzNPVm5mckwtVzIyb25BYnJnR3ZMWjd4d0FpMlFodFpINHB2QWNmbXFJTHdRNjBoWnl3cTcyYjhWLWVJanl2WG5LYjNZQ3dJWk5obzdKYkxWdG56Slc2Zg?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 00:06:17 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Climate-Fueled Wildfires Are Reversing Clean Air Progress - Time Magazine",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Calc0dGRZaFZZa1NMVG1FUzdSdk9MTnVkYzY5NEczWFRFSkh0dS13Q0VlcURxSTBlMXZYcjg0Q2RndkRFOWZTbmpyRzNhRjNXZ1VLdXFDamx6anRjN2c2YkNPSDdFc0JHYVYwMENXbHFFU0E?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 21:13:09 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
+  },
+  "Data Breach": {
+    "articles": [
+      {
+        "title": "Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People - CNET",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUhpd1VIeWg1YVZQcnpSM2dYVjBoTkhOYVBJTkFHRngxV0t5TTVKakF2NEdTSlpvNXlRRWxGbGRVdTdZUDVMXzFIMGxjTl9zR0dwejladUZFSklGeTQ1OXd4Z0ZrWDladU53UFdaWjhORXliZTZJUUhUbl8tVnliOG9XdDFNMVNPVTMzV2EzYnp5RWdVSG95VXNkTkR1RlRpWFZoQi1QcWZDRXRoS1NnclhKaDI1cXJ6Z1ZkRVk5SUw?oc=5",
         "pubDate": "Thu, 28 Aug 2025 21:29:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-29T02:59:07.283057+00:00"
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
   },
-  "NVIDIA": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Nvidia's top two mystery customers made up 39% of the chipmaker's Q2 revenue - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDdDMzRIbjV3aEktM3VhTkxvSWpDX0RkaVB0U2Nsdnl6X3hrZXJYOE5sTy0zZkxzN2lOR21VTGNkaV9VSTBBZWhZZGpzRFpfcUhITWZ6ZG01LUhlMV96U3huWmhHUnJ1ZElPY1ppNzQ3aTRyX2xhTzgyS25JN2RqWUI1X0M1UkMzbmNMNkVDSmFFdXZEa3A1bUVCSTV1dGhqdjJKckExQXFRS03SAbABQVVfeXFMTmM1QTRxZ3FIOW0yb0FoNkpsWTh2VmVXeENhVF82bzhrdXEycFpySWtjZGJOU1d6ZWhRNTA2SUZtREhrRU9LYlhTZl9LLW5jeXFldk1lU21BdmlXQ3ZUa1g5SmpYYkI2cFVZUTJLUW5WX3E0amdFY2JkR3ZDakxya1g2emJLcmEwMXM3REtLdW5EOEtVTGg1T3psREFqdnNxVWR3SnZDaEZPQ1ZFVTlmc0Y?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 18:49:11 GMT"
+        "title": "Israel\u2019s Smotrich calls for phased Gaza annexation if Hamas does not disarm - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzVxQjMwenR6VDctUEVudWJrUUp2Y3BCMUpvQ1hFWW55UWZKMWRERjNvT3FrRzFsZThfVl9OV1Fkd1ZzTEc3LW44WVFWOThrOU9DRjZUdEhmdEE3bGNCN0xwRGZsNEVVNmFsYlVWSTc2TVA2c3dQb3dweW1ITWRLYUZPdHJGNlZTOXZ3bnZoWHU4R2ZMaDJzd3lDQVFHRF9aVnFPRC02UFI3UDJYMnRPMFFoYklKd9IBuwFBVV95cUxPTDh5Rm9GbUZ5ellXdkZaM2ZwdmVUdEd4R3B0T2h0Q0pfZ2Z1eUNYWld3b3N2Sk1IRUxMQ2hoTUlVX3VmcFFaaUZCUmV3V3ZSOUtiaHpHQWdsbm44OVVJTkNkVHd2SXdrS2V5dkMyaDV0bzVYTWszVEh4SGZLdEhHRks4VlB4d1NoeGRsb245akNBNW55VU9rX2NjaVVmc2RvU0JUWFd2Q0wxeUpYNC0ySlVPVXlCWjJnYy1R?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 22:17:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-29T02:59:07.283057+00:00"
+    "last_updated_ts": "2025-08-29T03:59:02.304069+00:00"
   }
 }
