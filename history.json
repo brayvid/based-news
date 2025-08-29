@@ -177,10 +177,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Hackers Exploit ChatGPT-5 Downgrade Trick to Evade AI Safeguards - cyberpress.org",
-      "pubDate": "Fri, 22 Aug 2025 05:01:45 GMT"
-    },
-    {
       "title": "Keeping humans in the AI loop - cio.com",
       "pubDate": "Fri, 22 Aug 2025 10:03:57 GMT"
     },
@@ -259,6 +255,10 @@
     {
       "title": "GPT vs Claude: OpenAI Didn't Win Every Match, AI Security \"Ultimate Test\" Truth Unveiled - 36Kr",
       "pubDate": "Fri, 29 Aug 2025 03:10:48 GMT"
+    },
+    {
+      "title": "Observability, Prevention and Remediation for AI Security - BankInfoSecurity",
+      "pubDate": "Fri, 29 Aug 2025 04:04:44 GMT"
     }
   ],
   "financial_markets": [
@@ -412,10 +412,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Proposed Ukraine land concessions are Putin's trap, EU top diplomat tells BBC - BBC",
-      "pubDate": "Fri, 22 Aug 2025 05:00:15 GMT"
-    },
     {
       "title": "No Putin-Zelenskyy meeting planned until agenda is agreed, Russia\u2019s foreign minister says \u2013 Europe live - The Guardian",
       "pubDate": "Fri, 22 Aug 2025 07:35:00 GMT"
@@ -683,6 +679,10 @@
     {
       "title": "Treasury Warns Banks About China-Mexico Money Laundering Risks - Bloomberg.com",
       "pubDate": "Thu, 28 Aug 2025 12:47:34 GMT"
+    },
+    {
+      "title": "Elephant-dragon tango: Modi's visit to China signals improving ties \u2014 will the bonhomie last? - CNBC",
+      "pubDate": "Fri, 29 Aug 2025 01:41:00 GMT"
     }
   ],
   "us_politics": [
@@ -1105,6 +1105,10 @@
     {
       "title": "University of Michigan medical center halts gender-affirming care for patients under 19 - The Hill",
       "pubDate": "Tue, 26 Aug 2025 15:03:00 GMT"
+    },
+    {
+      "title": "NY State Comptroller Warns of $10 Billion Budget Shortfall From Health-Care Cuts - Bloomberg.com",
+      "pubDate": "Thu, 28 Aug 2025 19:07:59 GMT"
     }
   ],
   "renewable_energy": [
@@ -1254,10 +1258,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin holds near $113,000 ahead of Jackson Hole as analysts expect hawkish Powell - The Block",
-      "pubDate": "Fri, 22 Aug 2025 05:55:39 GMT"
-    },
     {
       "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg",
       "pubDate": "Fri, 22 Aug 2025 11:20:08 GMT"
@@ -1446,10 +1446,6 @@
     }
   ],
   "hacking": [
-    {
-      "title": "Mastermind behind 38 billion hacking scam targeting BTS star Jungkook, extradited to South Korea; awaits - Times of India",
-      "pubDate": "Fri, 22 Aug 2025 05:25:00 GMT"
-    },
     {
       "title": "Murky Panda hackers exploit cloud trust to hack downstream customers - BleepingComputer",
       "pubDate": "Fri, 22 Aug 2025 21:56:16 GMT"
@@ -2201,10 +2197,6 @@
   ],
   "spacex": [
     {
-      "title": "SpaceX launches unpiloted X-37B rocket plane on classified Space Force mission - CBS News",
-      "pubDate": "Fri, 22 Aug 2025 05:01:58 GMT"
-    },
-    {
       "title": "Another SpaceX land deal has South Texans on edge - Chron",
       "pubDate": "Fri, 22 Aug 2025 12:33:24 GMT"
     },
@@ -2231,6 +2223,10 @@
     {
       "title": "SpaceX scrubs critical Starship launch due to 'ground systems' issue - USA Today",
       "pubDate": "Mon, 25 Aug 2025 00:25:59 GMT"
+    },
+    {
+      "title": "Starship brings the heat in fiery Flight 10 launch video from SpaceX - Space",
+      "pubDate": "Thu, 28 Aug 2025 22:00:00 GMT"
     }
   ],
   "geopolitics": [
@@ -2341,6 +2337,10 @@
     {
       "title": "Trump administration asks US Supreme Court to halt foreign aid payments - Reuters",
       "pubDate": "Tue, 26 Aug 2025 22:44:02 GMT"
+    },
+    {
+      "title": "South Carolina asks Supreme Court to let it enforce trans bathroom ban - CNN",
+      "pubDate": "Thu, 28 Aug 2025 20:05:00 GMT"
     }
   ],
   "democracy": [
@@ -2417,6 +2417,10 @@
     {
       "title": "A ticking time bomb \u2014 200,000 barrels of nuclear waste 13,000 feet under Atlantic Ocean trigger panic - WION",
       "pubDate": "Thu, 28 Aug 2025 07:45:00 GMT"
+    },
+    {
+      "title": "Imminent Risk of Atlantic Ocean Circulation Collapse Demands Urgent Emission Cuts - mezha.net",
+      "pubDate": "Fri, 29 Aug 2025 05:19:39 GMT"
     }
   ],
   "violence": [
