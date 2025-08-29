@@ -31,10 +31,6 @@
   ],
   "iran": [
     {
-      "title": "Iran to hold call with European nations over nuclear program as sanctions deadline draws closer - The Washington Post",
-      "pubDate": "Fri, 22 Aug 2025 07:36:23 GMT"
-    },
-    {
       "title": "Hegseth fires general whose agency's intel assessment of damage from Iran strikes angered Trump - AP News",
       "pubDate": "Fri, 22 Aug 2025 22:43:00 GMT"
     },
@@ -255,6 +251,10 @@
     {
       "title": "Observability, Prevention and Remediation for AI Security - BankInfoSecurity",
       "pubDate": "Fri, 29 Aug 2025 04:04:44 GMT"
+    },
+    {
+      "title": "OpenAI, Anthropic Swap Safety Reviews - BankInfoSecurity",
+      "pubDate": "Thu, 28 Aug 2025 23:27:46 GMT"
     }
   ],
   "financial_markets": [
@@ -408,10 +408,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "No Putin-Zelenskyy meeting planned until agenda is agreed, Russia\u2019s foreign minister says \u2013 Europe live - The Guardian",
-      "pubDate": "Fri, 22 Aug 2025 07:35:00 GMT"
-    },
     {
       "title": "Ukrainian attack suspends Russian oil flows to Hungary, Slovakia - Reuters",
       "pubDate": "Fri, 22 Aug 2025 17:12:44 GMT"
@@ -679,6 +675,10 @@
     {
       "title": "Elephant-dragon tango: Modi's visit to China signals improving ties \u2014 will the bonhomie last? - CNBC",
       "pubDate": "Fri, 29 Aug 2025 01:41:00 GMT"
+    },
+    {
+      "title": "Remember China's Belt and Road mega project? Here's what happened to it - CNBC",
+      "pubDate": "Fri, 29 Aug 2025 05:06:33 GMT"
     }
   ],
   "us_politics": [
@@ -729,6 +729,10 @@
     {
       "title": "Trump Approval Rating Tracker: Improves In 2 Polls, Drops In Another - Forbes",
       "pubDate": "Wed, 27 Aug 2025 20:20:00 GMT"
+    },
+    {
+      "title": "Texas was on the right trajectory until \u2018bad political actors\u2019 got in the way - Austin American-Statesman",
+      "pubDate": "Fri, 29 Aug 2025 03:07:43 GMT"
     }
   ],
   "democratic_party": [
@@ -1380,10 +1384,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI's chief people officer is leaving the company - Business Insider",
-      "pubDate": "Fri, 22 Aug 2025 07:35:00 GMT"
-    },
     {
       "title": "OpenAI taps Instagram and Doximity execs to lead its next AI healthcare push - Business Insider",
       "pubDate": "Tue, 26 Aug 2025 09:00:00 GMT"
@@ -2979,6 +2979,12 @@
     {
       "title": "UN Security Council votes unanimously to renew UNIFIL one last time - JNS.org",
       "pubDate": "Thu, 28 Aug 2025 19:39:00 GMT"
+    }
+  ],
+  "united_states": [
+    {
+      "title": "US withdraws from key UN human rights report, draws criticism from rights advocates - Reuters",
+      "pubDate": "Thu, 28 Aug 2025 21:33:06 GMT"
     }
   ]
 }
