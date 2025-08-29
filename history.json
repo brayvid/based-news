@@ -31,6 +31,10 @@
     {
       "title": "Lebanon says 2 troops killed by Israeli drone that exploded after crashing; IDF voices regret - The Times of Israel",
       "pubDate": "Thu, 28 Aug 2025 23:15:00 GMT"
+    },
+    {
+      "title": "Israel says bodies of 2 hostages returned as military begins Gaza City offensive - Channel 3000",
+      "pubDate": "Fri, 29 Aug 2025 11:16:38 GMT"
     }
   ],
   "iran": [
@@ -259,6 +263,10 @@
     {
       "title": "Cloudflare Launches Application Confidence Score to Tackle Shadow IT and Shadow AI Risks - TechAfrica News",
       "pubDate": "Fri, 29 Aug 2025 08:21:49 GMT"
+    },
+    {
+      "title": "AI Prophets - The Herald Journal",
+      "pubDate": "Fri, 29 Aug 2025 11:31:23 GMT"
     }
   ],
   "financial_markets": [
@@ -281,13 +289,13 @@
     {
       "title": "Nvidia Earnings: Stock Slips As Investors Hold Their Breath (Live Coverage) - Investor's Business Daily",
       "pubDate": "Wed, 27 Aug 2025 13:49:00 GMT"
+    },
+    {
+      "title": "Stock Markets Hit Records Amid Fed Attacks, Nvidia Concerns, Tariff Fears. 3 Reasons Why. - Barron's",
+      "pubDate": "Fri, 29 Aug 2025 10:23:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft quietly launched an AI agent that can detect and reverse engineer malware - IT Pro",
-      "pubDate": "Fri, 22 Aug 2025 11:52:08 GMT"
-    },
     {
       "title": "Opinion | HHS is using AI effectively? Someone\u2019s hallucinating. - The Washington Post",
       "pubDate": "Fri, 22 Aug 2025 17:00:12 GMT"
@@ -543,6 +551,10 @@
     {
       "title": "Russia hits Ukrainian vessel, killing 2 crew members, injuring others, Navy says - The Kyiv Independent",
       "pubDate": "Fri, 29 Aug 2025 08:03:45 GMT"
+    },
+    {
+      "title": "Congress Already Knows How to Help Ukraine - Bloomberg.com",
+      "pubDate": "Fri, 29 Aug 2025 04:30:00 GMT"
     }
   ],
   "us_economy": [
@@ -560,10 +572,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Puts On Show of Force in Disputed Waters Amid High Tensions - Newsweek",
-      "pubDate": "Fri, 22 Aug 2025 11:15:47 GMT"
-    },
     {
       "title": "China Tightens Rare Earth Controls With New Interim Rules Covering 407 Product Categories - Quiver Quantitative",
       "pubDate": "Fri, 22 Aug 2025 12:46:00 GMT"
@@ -679,6 +687,10 @@
     {
       "title": "Remember China's Belt and Road mega project? Here's what happened to it - CNBC",
       "pubDate": "Fri, 29 Aug 2025 05:06:33 GMT"
+    },
+    {
+      "title": "Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China - NPR",
+      "pubDate": "Fri, 29 Aug 2025 09:03:00 GMT"
     }
   ],
   "us_politics": [
@@ -967,10 +979,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Another Minor Earthquake Shakes Parts of New York State - 101.5 WPDH",
-      "pubDate": "Fri, 22 Aug 2025 11:43:45 GMT"
-    },
-    {
       "title": "Magnitude 6.0 earthquake strikes off the coast of El Salvador - ABC News",
       "pubDate": "Sat, 23 Aug 2025 13:17:29 GMT"
     },
@@ -998,10 +1006,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Health Rounds: GLP-1 drugs linked to lower cancer risks - Reuters",
-      "pubDate": "Fri, 22 Aug 2025 11:17:37 GMT"
-    },
     {
       "title": "Workers who have cancer from building nuclear weapons struggle to make medical claims - The Independent",
       "pubDate": "Fri, 22 Aug 2025 21:50:00 GMT"
@@ -1251,10 +1255,6 @@
   ],
   "bitcoin": [
     {
-      "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg",
-      "pubDate": "Fri, 22 Aug 2025 11:20:08 GMT"
-    },
-    {
       "title": "Bitcoin price breakout to $117K liquidates bears, opening door to fresh all-time highs - Cointelegraph",
       "pubDate": "Sat, 23 Aug 2025 00:15:38 GMT"
     },
@@ -1437,10 +1437,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Another quantum computer reached quantum advantage \u2013 does it matter? - New Scientist",
-      "pubDate": "Fri, 22 Aug 2025 11:00:44 GMT"
-    },
-    {
       "title": "Two quantum computers with 20 qubits manage to simulate information scrambling - Phys.org",
       "pubDate": "Fri, 22 Aug 2025 15:20:01 GMT"
     },
@@ -1451,6 +1447,10 @@
     {
       "title": "Researchers enhance Parametric Quantum Circuits with Clifford Initialization for improved optimisation opportunities - Quantum Zeitgeist",
       "pubDate": "Tue, 26 Aug 2025 23:39:01 GMT"
+    },
+    {
+      "title": "Vitalik Buterin Warns: Quantum Computers Could Break Cryptography by 2030 - ICOBench.com",
+      "pubDate": "Fri, 29 Aug 2025 10:43:54 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1584,10 +1584,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Famine in Gaza confirmed by hunger monitor for first time since war started - Axios",
-      "pubDate": "Fri, 22 Aug 2025 11:13:51 GMT"
-    },
     {
       "title": "U.N. calls Gaza famine preventable and blames Israel's obstruction of aid - NBC News",
       "pubDate": "Fri, 22 Aug 2025 12:21:20 GMT"
@@ -1999,6 +1995,10 @@
     {
       "title": "Our best shot to save Florida reefs? An industrial factory making heat-hardy babies - Miami Herald",
       "pubDate": "Fri, 29 Aug 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Republicans vent outrage over Canada wildfires choking U.S. cities while denying climate change - Milwaukee Independent",
+      "pubDate": "Fri, 29 Aug 2025 10:00:03 GMT"
     }
   ],
   "european_union": [
@@ -2311,10 +2311,6 @@
   ],
   "fbi": [
     {
-      "title": "FBI raids home of former Trump national security advisor John Bolton - CNBC",
-      "pubDate": "Fri, 22 Aug 2025 11:48:16 GMT"
-    },
-    {
       "title": "Trump's DOJ investigating whether ex-FBI officials mishandled Russia investigation docs, source says - CBS News",
       "pubDate": "Wed, 27 Aug 2025 00:46:00 GMT"
     }
@@ -2417,10 +2413,6 @@
     {
       "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
       "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
-    },
-    {
-      "title": "Scientists observed a cloud of debris after the DART impact - Universe Space Tech",
-      "pubDate": "Fri, 22 Aug 2025 11:52:03 GMT"
     },
     {
       "title": "A giant 71-foot asteroid is on a path towards Earth today at a speed of 7,537 mph, NASA confirms - Moneycontrol",
