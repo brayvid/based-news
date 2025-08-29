@@ -69,10 +69,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Claims a Legal \u2018Victory.\u2019 Here\u2019s Where His Other Cases Stand - Time Magazine",
-      "pubDate": "Fri, 22 Aug 2025 09:45:00 GMT"
-    },
-    {
       "title": "Trump says 'We want to be very good to Canada,' as its leader drops some tariffs - NPR",
       "pubDate": "Fri, 22 Aug 2025 18:08:47 GMT"
     },
@@ -399,6 +395,10 @@
     {
       "title": "China warns against \u2018disorderly competition\u2019 in booming AI race - Fortune",
       "pubDate": "Fri, 29 Aug 2025 08:13:24 GMT"
+    },
+    {
+      "title": "GSA\u2019s $1 awards for AI tools come under protest - Federal News Network",
+      "pubDate": "Thu, 28 Aug 2025 22:51:10 GMT"
     }
   ],
   "climate": [
@@ -551,10 +551,6 @@
   ],
   "us_economy": [
     {
-      "title": "US Economy: Recent Data Suggests Risk To Earnings - Real Investment Advice",
-      "pubDate": "Fri, 22 Aug 2025 09:44:37 GMT"
-    },
-    {
       "title": "Is the US-Japan Tariff Agreement Really \u201cGood Enough\u201d? - nippon.com",
       "pubDate": "Tue, 26 Aug 2025 15:00:07 GMT"
     },
@@ -575,14 +571,6 @@
     {
       "title": "China Tightens Rare Earth Controls With New Interim Rules Covering 407 Product Categories - Quiver Quantitative",
       "pubDate": "Fri, 22 Aug 2025 12:46:00 GMT"
-    },
-    {
-      "title": "Bridge under construction in China collapses into Yellow River, killing at least 12 people, state media say - CBS News",
-      "pubDate": "Fri, 22 Aug 2025 09:14:00 GMT"
-    },
-    {
-      "title": "Beijing Responds as Ukraine Rejects China Peacekeeping Role - Newsweek",
-      "pubDate": "Fri, 22 Aug 2025 09:58:05 GMT"
     },
     {
       "title": "Nvidia Halts China Chip Production as Beijing Warns Over Security, Reports Say - Investopedia",
@@ -785,6 +773,10 @@
     {
       "title": "Kim Jong Un oversees launch of two new air defense missiles: state media - NK News",
       "pubDate": "Sat, 23 Aug 2025 22:41:15 GMT"
+    },
+    {
+      "title": "North Korea posts fastest growth in 8 years in 2024, driven by Russia ties, Seoul says - Reuters",
+      "pubDate": "Fri, 29 Aug 2025 08:27:38 GMT"
     }
   ],
   "trade_war": [
@@ -1605,16 +1597,8 @@
   ],
   "gaza": [
     {
-      "title": "Gaza City and Surrounding Areas Officially Hit by Famine, Global Group Says - The New York Times",
-      "pubDate": "Fri, 22 Aug 2025 09:41:54 GMT"
-    },
-    {
       "title": "U.N.-backed panel confirms famine in Gaza. And, DOJ to send Congress some Epstein docs - NPR",
       "pubDate": "Fri, 22 Aug 2025 10:32:18 GMT"
-    },
-    {
-      "title": "Gaza City suffering a \u2018man-made\u2019 famine that\u2019s likely to spread, UN-backed initiative says - CNN",
-      "pubDate": "Fri, 22 Aug 2025 09:07:00 GMT"
     },
     {
       "title": "Famine in Gaza confirmed by hunger monitor for first time since war started - Axios",
@@ -1795,10 +1779,6 @@
   ],
   "astronomy": [
     {
-      "title": "Findings from asteroid dust discovered 200 million miles from Earth revealed - Sky News",
-      "pubDate": "Fri, 22 Aug 2025 09:33:45 GMT"
-    },
-    {
       "title": "Astronomers discover first-ever \"stripped to the bone\" supernova - TechSpot",
       "pubDate": "Fri, 22 Aug 2025 20:13:00 GMT"
     },
@@ -1868,10 +1848,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Scientists are \u2018most trusted\u2019 source of climate information in global-south survey - Carbon Brief",
-      "pubDate": "Fri, 22 Aug 2025 09:22:52 GMT"
-    },
     {
       "title": "Public Commenters Overwhelmingly Oppose EPA\u2019s Plan to Curtail Key Climate Protections - Mother Jones",
       "pubDate": "Fri, 22 Aug 2025 09:59:53 GMT"
@@ -2181,6 +2157,10 @@
     {
       "title": "Japan Just Switched on Asia\u2019s First Osmotic Power Plant, Which Runs 24/7 on Nothing But Fresh Water and Seawater - ZME Science",
       "pubDate": "Thu, 28 Aug 2025 14:28:50 GMT"
+    },
+    {
+      "title": "India's Modi meets Japan's Ishiba as he begins Asia tour - yahoo.com",
+      "pubDate": "Fri, 29 Aug 2025 08:45:01 GMT"
     }
   ],
   "spacex": [
@@ -2219,10 +2199,6 @@
   ],
   "geopolitics": [
     {
-      "title": "Oil markets cling to stability while geopolitics rips it apart - AzerNews",
-      "pubDate": "Fri, 22 Aug 2025 09:58:00 GMT"
-    },
-    {
       "title": "Pentagon restricts Ukraine's use of US missiles against Russia, WSJ reports - Reuters",
       "pubDate": "Sat, 23 Aug 2025 21:13:24 GMT"
     },
@@ -2253,6 +2229,10 @@
     {
       "title": "Russia eyes China trade revival as Putin prepares for Xi summit, sources say - Reuters",
       "pubDate": "Thu, 28 Aug 2025 10:38:20 GMT"
+    },
+    {
+      "title": "Oil Set for Monthly Loss as Glut Concerns, Geopolitics Dominate - Bloomberg.com",
+      "pubDate": "Fri, 29 Aug 2025 05:35:00 GMT"
     }
   ],
   "electric_vehicle": [
@@ -2275,6 +2255,10 @@
     {
       "title": "Tesla sales plunge 40% in Europe as Chinese EV rival BYD's triple - CNBC",
       "pubDate": "Thu, 28 Aug 2025 07:06:21 GMT"
+    },
+    {
+      "title": "Trump's EV tax credit cut is driving a battery surplus threatening the growth of U.S. manufacturing - Fortune",
+      "pubDate": "Fri, 29 Aug 2025 09:14:21 GMT"
     }
   ],
   "india": [
@@ -2561,6 +2545,10 @@
     {
       "title": "Trump preparing major immigration enforcement operations in Chicago next week similar to LA, DHS sources say - CBS News",
       "pubDate": "Thu, 28 Aug 2025 21:16:00 GMT"
+    },
+    {
+      "title": "Experts say Department of Homeland Security undermines credibility in hiring Pa. elections activist - WITF",
+      "pubDate": "Thu, 28 Aug 2025 22:02:38 GMT"
     }
   ],
   "kim_jong_un": [
