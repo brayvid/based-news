@@ -1,32 +1,72 @@
 {
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "EU accuses Putin of undermining peace talks after deadly strikes on Kyiv - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1JHZzdxLVY3OVV1VlB4aG1FZWJrNGlNWkFVbFNPS0E2aHJNUTNHVWlBV3hFb2NZUm1HUHVELTdFeHhpYmtqcEtuaWlXNzNGY3o3M3VIalM3UXl5a0RGTmJwcTE2RVRuZ1RkZUxuVEV0RFJYZUVYdm5lYlZaREhuYktqN2tJN294VlV6b1JiUWd5eUdiU2s4MlBXcEtOdV9tWjJ6cUZ4Y1BiNGpJN0xWbXByUWwwVXdoV2c?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 20:08:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
+  },
   "AI Safety": {
     "articles": [
       {
-        "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1hRMGVSRDhpUTlaMjNBWkYtVDlIZUxrUHVOTWtnQlRzeG1Fb1dBb2JFSUVUMHFnWHUxUUs3dzVjYl9GcWdyVHU0NkxSazdHa19ldmhIQzhCTWhWT1l4MkRmNm1OVVlyRk5HLVpkbG5OSnFabnVTM3pCUFIwMmlMbUVDa1hLMTN0LXdzTmZXQU85VVZQSnc?oc=5",
-        "pubDate": "Fri, 29 Aug 2025 20:58:51 GMT"
+        "title": "AI chatbots raise safety concerns for children - AZFamily",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3ROTGtqNFgtMXdCc1Z2QlFEVHNFeXB6Nkg1cVM0MWMzVjFnSjN5eHl2TUV5SUNRb0hISjRQRmktaWR6N0t3VWFpaGlIWm4yNEJZWEtldmYxVEdQLUpfZWgyb0tpZFhJNjg0Wk1sY1BsekRiZUNyVUk2VWhvdFdKM2Y2djJxX2VRV2poeVdn?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 21:52:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-29T21:58:49.448446+00:00"
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
   },
-  "US Politics": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Most Donald Trump tariffs are not legal, court rules - The Jerusalem Post",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uTVJOX3NLd3UydGN0XzZ3eDU0RjFsZUNKaVRxM1JISkd4M2hSdDVtcnhEcjBfOVJycExNRFhNa2hoRkdqUzEtMGhpX2pkUG9IclBoWDY3Mno2ZklFMWcyVVJHem8?oc=5",
-        "pubDate": "Fri, 29 Aug 2025 21:48:46 GMT"
+        "title": "Toad sculpture in Peru reveals climate-driven collapse of ancient city - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGVQX3hxOXlIRTZCS3dJTS1rT0k0elRLTXBUMmJ4MktEbjF6ZGxVN1g5LUpxVS1XaUNTZ3JfeEIxVHY1Zk54eFpXUVlXNXVDY0phUzIwTFhRUXRjOXo4ZVMwcFA1YklVeDRzMm9vLVVmSWdvVGRETklvaHpaa01mQ1dFTEFSQ1R4NGN5a1VWaG9EN0V0TUVZZGdVZVJYSEtzYURJNGYtN0lET21Vc1pYZlZmb1lFMmxrcXVieWdHZlBWSkZFWFdzNkxn?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 19:07:41 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-29T21:58:49.448446+00:00"
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
+  },
+  "National Security": {
+    "articles": [
+      {
+        "title": "DHS Sec. Noem fires 2 dozen FEMA employees for cybersecurity failures - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjdkQ3dRSEt1X1BBa2EwMjRKSG83LWVwSVZjUzVrb2p2R24za29OTGVINWRteFlLMW9JalVVcHU1djI2WXpSMk9NSHJsbHBoNUJrOTV0Z0owV1ktb280WlNjdEdZN3BRczluSkVYTkpFU1JtWFFzeU9lQlRPNTlXTUtuSlNkMW1KR1JXVHBSLVVJbkRieGRFdHppMVNKcDliXzhYVXFQS2I5OUR1UXFhQnVEeU5uTXRPZExCcXYxN1hCbTdwTUludTlOdnU5dw?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 21:55:03 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
   },
   "Quantum Computing": {
     "articles": [
       {
-        "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQVJvTC1jaDdDcHFCXzMyQmNwZ2hCZUY5anVZVVdDZC1FVVNXaWZ5MG0wY1AxNHpVdEZsdHVldmFIS3o5Yk4xSmxOOWNvTFFMRUV2ajdval95RnZ3ektheW5QdnhjOW15ZllsUkgzR05wOXhIUU9kbVJvR1ZSYUo0dkowNEhSd3l2azlvcEJ1dEVEaWVWYUVnRHJFQ3JGQ19xQVBhWmtpSmIwMUlYRnFLVHFkVi1DazZHZTVVaXltOEl6QURYcmRBU2p0YUoycFZ4LVBZTHFIbHdpQklER2Q2RGE2QTU?oc=5",
-        "pubDate": "Fri, 29 Aug 2025 21:13:07 GMT"
+        "title": "Scientists create scalable quantum node linking light and matter - ScienceDaily",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwTDBxZEE1bkpqLUt2Qnp5OXNIQW92ZjVvX2RibV9ReTk3RzdHaWpnVlZ3REZkY1BPdUlxMEhvaEgwdXhMMHdqVjE2bURYWGZRUjV3eDdpSmJ5OVd1UG1oTHdfZzJ3dzUzdE83amYwdw?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 14:03:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-29T21:58:49.448446+00:00"
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
+  },
+  "US Economy": {
+    "articles": [
+      {
+        "title": "Consumer Headlines: U.S. economy growing faster than expected - news8000.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGcyZ09LZkR0NHpfb1RFT2x1RzgxOWZPeWtuSU0yN3BWTmNRQ2ZDUFVLVVdpOU5BMWxMWW5ITDc5bThWRThuNEtuNk9zbHh3dzRUZi1RWlFRUGE4eG0wZ1hhZHhyeG92VWUxcU93SHNtWTJvWGZXczZIVnhHamVPU1ZRYThuOWJqSWt2T2Y5bVcxRUxNYThBZzczTUVNM09PVmFtNktzMWNwcmdRR1lMQ2JTRVJYTjVTd1NRNHgtbmxreWJkcXBnaEdwSk52eldBU0lz?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 17:35:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
+  },
+  "Space Exploration": {
+    "articles": [
+      {
+        "title": "NASA Makes Major Discovery Inside Mars - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lNHNSSnVkV1lodUNGbktZcVRsLVd4YmVJQVVYWlFVeGdWVXJNb3NiZlJuemlCNVRnSURMM3phY19ZRnpfdElkVHdOZWdLVXBlWm9UQjd6REVuZlZfSzliSXpzdngwMlVFLXc?oc=5",
+        "pubDate": "Fri, 29 Aug 2025 15:16:50 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-29T22:58:41.932942+00:00"
   }
 }
