@@ -307,13 +307,13 @@
     {
       "title": "Virginia attorney general joins coalition pressing Big Tech over AI chatbot risks - 13newsnow.com",
       "pubDate": "Fri, 29 Aug 2025 18:29:00 GMT"
+    },
+    {
+      "title": "Veea and Genesys Impact launch edge-only AI platform for construction site safety and asset tracking - Edge Industry Review",
+      "pubDate": "Fri, 29 Aug 2025 10:00:07 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks and Bonds Rise After Powell Suggests Rate Cuts Could Be Imminent - The New York Times",
-      "pubDate": "Fri, 22 Aug 2025 20:05:32 GMT"
-    },
     {
       "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg",
       "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
@@ -455,6 +455,10 @@
     {
       "title": "Nvidia and Other AI Stocks Are Falling. Why Investors Are Souring on Artificial Intelligence. - Barron's",
       "pubDate": "Fri, 29 Aug 2025 18:19:00 GMT"
+    },
+    {
+      "title": "AI is ummasking ICE officers. Can Washington do anything about it? - Politico",
+      "pubDate": "Fri, 29 Aug 2025 18:00:00 GMT"
     }
   ],
   "climate": [
@@ -619,6 +623,10 @@
     {
       "title": "Ukraine war: Volodymyr Zelensky rejects proposals for buffer zone to end fighting - BBC",
       "pubDate": "Fri, 29 Aug 2025 17:49:18 GMT"
+    },
+    {
+      "title": "Russia hits out at Macron for calling Putin an 'ogre' - Le Monde.fr",
+      "pubDate": "Fri, 29 Aug 2025 13:00:32 GMT"
     }
   ],
   "us_economy": [
@@ -636,14 +644,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Vietnam island building in Spratlys may soon surpass China's, report says - Reuters",
-      "pubDate": "Fri, 22 Aug 2025 20:45:50 GMT"
-    },
-    {
-      "title": "Trump tariffs live updates: Trump says US to tariff furniture imports following investigation - uk.finance.yahoo.com",
-      "pubDate": "Fri, 22 Aug 2025 20:49:46 GMT"
-    },
     {
       "title": "Brace for a Second China Shock. Advanced Manufacturing Is at Risk. - Barron's",
       "pubDate": "Sat, 23 Aug 2025 06:30:00 GMT"
@@ -821,6 +821,10 @@
     {
       "title": "Trump move to cancel $4.9bn in Congress-approved foreign funding prompts condemnation \u2013 US politics live - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 09:46:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s approval rating plummets to record second term low, new poll says - The Independent",
+      "pubDate": "Fri, 29 Aug 2025 16:48:00 GMT"
     }
   ],
   "democratic_party": [
@@ -883,10 +887,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Cybersecurity firm Netskope reveals 31% revenue surge in US IPO filing - Reuters",
-      "pubDate": "Fri, 22 Aug 2025 20:53:12 GMT"
-    },
-    {
       "title": "MTA investigating 'cybersecurity incident' that may impact back to school travel - WBFF",
       "pubDate": "Mon, 25 Aug 2025 00:17:41 GMT"
     },
@@ -945,6 +945,10 @@
     {
       "title": "AI poses new difficulties to compliance, cybersecurity - SiliconANGLE",
       "pubDate": "Thu, 28 Aug 2025 20:38:26 GMT"
+    },
+    {
+      "title": "Texas Firm Introduces Adaptive AI Engine for Defense-Ready Cybersecurity - The Defense Post",
+      "pubDate": "Fri, 29 Aug 2025 20:00:14 GMT"
     }
   ],
   "recession": [
@@ -1236,14 +1240,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Massive data breach sees 16 million PayPal accounts leaked online - here's what we know, and how to stay safe - TechRadar",
-      "pubDate": "Fri, 22 Aug 2025 20:25:00 GMT"
-    },
-    {
-      "title": "The Computer Merchant Data Breach Exposes SSNs; Attorneys Investigate - ClassAction.org",
-      "pubDate": "Fri, 22 Aug 2025 19:59:13 GMT"
-    },
     {
       "title": "Orange suffers major data breach - Digital Watch Observatory",
       "pubDate": "Sat, 23 Aug 2025 08:00:00 GMT"
@@ -1553,10 +1549,6 @@
   ],
   "national_security": [
     {
-      "title": "Hegseth fires head of Defense Intelligence Agency, Lt. Gen. Jeffrey Kruse - The Washington Post",
-      "pubDate": "Fri, 22 Aug 2025 20:47:28 GMT"
-    },
-    {
       "title": "Pentagon plans military deployment in Chicago as Trump eyes crackdown - The Washington Post",
       "pubDate": "Sun, 24 Aug 2025 02:14:36 GMT"
     },
@@ -1579,6 +1571,10 @@
     {
       "title": "Former Trump officials: Strong intellectual property protections are crucial to America's national security - Fortune",
       "pubDate": "Fri, 29 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Retired Williamson Co. sheriff: Illicit weight loss drugs are a national security threat - The Tennessean",
+      "pubDate": "Fri, 29 Aug 2025 14:03:13 GMT"
     }
   ],
   "ethereum": [
@@ -1827,10 +1823,6 @@
   ],
   "astronomy": [
     {
-      "title": "Astronomers discover first-ever \"stripped to the bone\" supernova - TechSpot",
-      "pubDate": "Fri, 22 Aug 2025 20:13:00 GMT"
-    },
-    {
       "title": "Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave - WIRED",
       "pubDate": "Sat, 23 Aug 2025 22:49:17 GMT"
     },
@@ -1896,10 +1888,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump rolls back rules meant to keep politics out of climate research - The Washington Post",
-      "pubDate": "Fri, 22 Aug 2025 20:36:21 GMT"
-    },
     {
       "title": "Hurricane Katrina could be even worse if it hit today because of hotter oceans - NBC 7 San Diego",
       "pubDate": "Sat, 23 Aug 2025 03:13:27 GMT"
@@ -2087,6 +2075,10 @@
     {
       "title": "\u2018Strong contrast\u2019 between Mountain West states in viewing climate change\u2019s impact on severe weather events - Aspen Public Radio",
       "pubDate": "Fri, 29 Aug 2025 19:13:00 GMT"
+    },
+    {
+      "title": "High Mountain Asia\u2019s shrinking glaciers linked to monsoon changes - The University of Utah",
+      "pubDate": "Fri, 29 Aug 2025 20:46:37 GMT"
     }
   ],
   "european_union": [
