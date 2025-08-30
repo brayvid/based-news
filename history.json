@@ -117,10 +117,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump signals he \u2018couldn\u2019t care less\u2019 if Epstein files released to Congress - The Hill",
-      "pubDate": "Sat, 23 Aug 2025 14:27:00 GMT"
-    },
-    {
       "title": "Trump established two new holidays: When is the next one? - The Hill",
       "pubDate": "Sat, 23 Aug 2025 15:00:00 GMT"
     },
@@ -331,6 +327,10 @@
     {
       "title": "Global movement to protect kids online fuels a wave of AI safety tech - CNBC",
       "pubDate": "Sat, 30 Aug 2025 07:35:45 GMT"
+    },
+    {
+      "title": "Meta introduces new AI safeguards to protect teens from harmful conversations - Tech Edition",
+      "pubDate": "Sat, 30 Aug 2025 13:55:28 GMT"
     }
   ],
   "financial_markets": [
@@ -743,6 +743,10 @@
     {
       "title": "Scoop: White House accuses Europe of prolonging Ukraine war - Axios",
       "pubDate": "Sat, 30 Aug 2025 13:16:25 GMT"
+    },
+    {
+      "title": "Trump Giving Ukraine Capability to Strike Deeper Into Russia: NATO Ambassador - Newsweek",
+      "pubDate": "Sat, 30 Aug 2025 12:05:11 GMT"
     }
   ],
   "us_economy": [
@@ -764,10 +768,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Why China\u2019s DF-31 missiles are still effective deterrents, decades after debut - South China Morning Post",
-      "pubDate": "Sat, 23 Aug 2025 14:00:09 GMT"
-    },
     {
       "title": "Vietnam plans mass evacuation, China's Sanya shuts as Typhoon Kajiki intensifies - CNBC",
       "pubDate": "Sun, 24 Aug 2025 09:26:06 GMT"
@@ -957,6 +957,10 @@
     {
       "title": "New Redistricting Map Revealed For Missouri, As Texas Signs Redraw Into Law - Newsweek",
       "pubDate": "Fri, 29 Aug 2025 21:50:12 GMT"
+    },
+    {
+      "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat - NPR",
+      "pubDate": "Sat, 30 Aug 2025 09:15:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1114,10 +1118,6 @@
     }
   ],
   "drones": [
-    {
-      "title": "Drones Are Doing the Work of Landmines in Ukraine - Technology Org",
-      "pubDate": "Sat, 23 Aug 2025 14:44:00 GMT"
-    },
     {
       "title": "Why cities must adopt drone as first responder (DFR) programs - Police1",
       "pubDate": "Sun, 24 Aug 2025 20:55:46 GMT"
@@ -1683,6 +1683,10 @@
     {
       "title": "Scientists Report Heavy Electrons Could Open a Path to a New Type of Quantum Computer - The Quantum Insider",
       "pubDate": "Sat, 30 Aug 2025 12:43:57 GMT"
+    },
+    {
+      "title": "Researchers reveal quantum threats to cryptocurrencies, including vulnerabilities to fifty one percent attacks - Quantum Zeitgeist",
+      "pubDate": "Sat, 30 Aug 2025 10:47:57 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1743,13 +1747,13 @@
     {
       "title": "'A national security issue': James Uthmeier subpoenas video surveillance company over data privacy, ties to China - Florida Politics",
       "pubDate": "Fri, 29 Aug 2025 21:45:00 GMT"
+    },
+    {
+      "title": "Alarm as US far-right extremists eye drones for use in domestic attacks - The Guardian",
+      "pubDate": "Sat, 30 Aug 2025 12:00:00 GMT"
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Scientists Discover a Cheaper, More Powerful Catalyst for Clean Hydrogen Energy - SciTechDaily",
-      "pubDate": "Sat, 23 Aug 2025 14:27:55 GMT"
-    },
     {
       "title": "Not China, not Japan \u2014 Asia\u2019s breakthrough green fuel is about to kill hydrogen - ECOticias.com El Peri\u00f3dico Verde",
       "pubDate": "Sun, 24 Aug 2025 15:50:16 GMT"
@@ -1814,10 +1818,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Doctors in Gaza say patients\u2019 protruding ribs and bony limbs offer evidence of malnutrition - AP News",
-      "pubDate": "Sat, 23 Aug 2025 14:00:00 GMT"
-    },
     {
       "title": "\u2018Purely in survival mode\u2019: Aid worker shares conditions in Gaza City after famine declared - PBS",
       "pubDate": "Sat, 23 Aug 2025 21:50:47 GMT"
@@ -2038,10 +2038,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Impact of Moderate Warming on Soil Microbial Decomposition - BIOENGINEER.ORG",
-      "pubDate": "Sat, 23 Aug 2025 14:56:43 GMT"
-    },
     {
       "title": "We have been warned about impact of climate change for decades | Letters - Milwaukee Journal Sentinel",
       "pubDate": "Sun, 24 Aug 2025 10:02:59 GMT"
@@ -2269,6 +2265,10 @@
     {
       "title": "In Far Northeastern Maine, a Native Community Fights to Adapt to Climate Change - Inside Climate News",
       "pubDate": "Sat, 30 Aug 2025 09:05:00 GMT"
+    },
+    {
+      "title": "Extreme Heat Waves Are Pushing Animals To Extinction - The Weather Channel",
+      "pubDate": "Sat, 30 Aug 2025 03:35:22 GMT"
     }
   ],
   "european_union": [
@@ -2585,10 +2585,6 @@
   ],
   "atlantic_ocean": [
     {
-      "title": "Tropical Storm Fernand may soon form in the Atlantic; one of two areas to watch - Gulf Coast News and Weather - Southwest Florida News",
-      "pubDate": "Sat, 23 Aug 2025 14:40:00 GMT"
-    },
-    {
       "title": "Tropical Storm Fernand forms over Atlantic Ocean, expected to remain far out to sea - NJ.com",
       "pubDate": "Sun, 24 Aug 2025 12:53:00 GMT"
     },
@@ -2744,10 +2740,6 @@
     }
   ],
   "investment": [
-    {
-      "title": "Norway's giant fund in election crosshairs over Israel investments - Reuters",
-      "pubDate": "Sat, 23 Aug 2025 14:13:56 GMT"
-    },
     {
       "title": "Nvidia beats revenue expectations in boost to AI investment and US stock markets - Sky News",
       "pubDate": "Wed, 27 Aug 2025 22:37:46 GMT"

@@ -1,72 +1,62 @@
 {
-  "Ukraine": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Scoop: White House accuses Europe of prolonging Ukraine war - Axios",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVlVveEF6bVpnS0hGVk1DbkhVTFlSd3NNNTRZNUVpcjhmWHdDTUhmeGZVdC14UldlaEU4bW9xa0xrZk44WUVGMi1OemY0YlhiYU4tUG0tTjRuWnMtWUhpSXpadEpVekxxcEpRMmRBTmFOc3pXSkV3VElnQ18zeFZBaEg5RjJ3bkFqNVE?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 13:16:25 GMT"
+        "title": "Meta introduces new AI safeguards to protect teens from harmful conversations - Tech Edition",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFYydkMzeUh6aHRCV0o5UjVUZlVpUlRiMTZWVllWSFM3MEJiUkJPUWgtMUIwVHpvM29Wd2pfNmJvc2M2eGJzZFlmdjNsU1NvbWJyZVlzUk5BU01DMTU2WkRhTlBvaTZCejRKdWJXN0VicGFKNVJUUkpyYVpTeWh4dWRiUlhaeFlLRzF4cmNVbXdpb2owMFAxT2pRd1ZXaUx3UGlr?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 13:55:28 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Israel will soon slow or halt aid into parts of northern Gaza, as some residents begin evacuating - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OazFheUlvOThVQ0pRbHBNakRBLU1hVHlMYlFxRFRvV2IwSFUxQjVybmtQNzBDeFZNVENBOXNXRXdlMkxPUHFtT2pha213SDFvUVZ1R05HZXlxRjdrdnQzQ2tIVVNUYXdmRXdGRWRSQ19YY3FlTW9FQ3FB0gF_QVVfeXFMTjY0aFphdXc1RXVWdHNNTXROakdRblJ2TXZhNkc1OW83NWZkempJejRDRmJka0U2eTlRb0k2WmNIRENOc0hxeURndmN6Y19FVE96bjh0THJEdGVqMkE5R3EtQ3FaY3U2X1FvUjloRVR2TWo0VHgwajBJaW5jbmFSbw?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 12:51:18 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Accenture CEO Julie Sweet says Fortune 500s can survive AI\u2014but they have to be willing to reinvent themselves top to bottom - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzlWWFFnMmNtcXViblVvc1RjQXVLT0taaUROYXlXLUV1cHFsRVpIWnN4QVFnbkNQSjBTWTNQcml5TGJrSkdJeUFjWks4LXNnbTI5SDE0QzlPTW5UVW5zc002eFJ3M21ZckhlVWVZMmNVUFc4MWR4ZTJpR2JZaVNTTU5fTUxTc0xITnIxZ0lsT3FZYkhmYURBYVg3cU5uOWtndHc?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Scientists Report Heavy Electrons Could Open a Path to a New Type of Quantum Computer - The Quantum Insider",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTFkQXo4eFVZWFBmX2FVTnJwVUlLQXUxQWpGdDNsVVBZZ2syUmplbUFPdktLU09tRTd6bS1IYWJkd2FzZVN1M25ZRjltcGkxdVI4Tzd6LWh0SExVb2hsVHdlQzhTLTl5a0FyazE0dG4zb010azNDVFdLSUYxWFB2UVVqV1ppMHV3enVWQUpER2xrYUV3cG0xbVFDbGFBUmVwcnpONkktYzZ2c1lERmloaEFkcDRmd0xRa2Q0NTJoU0lwaTRDN2c?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 12:43:57 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "In Far Northeastern Maine, a Native Community Fights to Adapt to Climate Change - Inside Climate News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkVBb01aQk9BQ0ZiandzLTBmNVY3M3NXVEhIMVl1dmNEZDRBVVV6Mmt5NnhPSFdYdElTMVFYMHk3N3k5OGh3QThSNG03TENFQWhwWGRTVUt2QkktNFQwQzVnWlhWLW44S2NrVEFLWWs3QVJzUU15R1F2M0x3Y1RRZjBDUGZ6aG9YQ0hGXzBEYVlSWHc?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 09:05:00 GMT"
+        "title": "Extreme Heat Waves Are Pushing Animals To Extinction - The Weather Channel",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVBCMUxLVnQ1Z3l4UUk2aXYzRS1jZkl4WlBYRnpqVFpkazNqWnQwcXBGOXZLT1Y1LXdVZHg1Vld2dU1wWUtDYVRXTHhrSGN3SUQ1cThVdG83Q21UXzVZcmdiS0x3aGVReGFPQzJFNlJBajdhU1d4V3FZN2ttM0lMajFjZkJORW1Jc1U0STVPbFZiSG1l?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 03:35:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
   },
-  "Donald Trump": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "When was US President last seen? Concerns loom as \u2018Trump dead\u2019 rumours float on social media | World News - Hindustan Times - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXlCcXZJOXZVY0trTHFGLTVkR0UwVF9GbG5XR1R0VW1uemQ0MVRCdzlyeGhUMUREVVgyZmoxei1zcWxyaG9HT0F2T1ZNcUpDR0FMUDF3TE1zT3g0OEVLTnRoSHNLYUx3Y2tndG0yNjUxRGhpS0F4d3FPN01lNTJseEt3aXJ3bWZIVlFkTThyZ2xqLThOUl9iOFlpLXVkTTAyMDRXV1lFZkpFRGJFQU5pSnR0eHpRX0w5XzAzaWVjOGd6dVBvWFBpV3N4RDhQZ3FiOThMVml4U1VUZjlmTFpQUFpLRmI1WG_SAewBQVVfeXFMT1Frb200SzBfSzBlbktEcjJQY2VsUkFVMk1tYmNLZXFQeW1ZQ2l2bWZySThzdmV0U0pKOUh0amt2NGhKNmRfWXBkanRUV2Y3TktEUUhwNWVkaGRhVWF4ZTRfNHNIMmEzeHZXQ0d2YWZYRGxvOTZMX3hBN29BSUFpaG5lT1gtRVJvRktXTklJX0VSelo5bE9RMzRCaEhiZlg3MkMwVWs2WlQwZk00dFphTjBSd2JocGNoTWNPNHlfMTRvc3FpdG1yRXVTNkh6WS0wUGhYUVkxRDR1cGlsUk1kZDJqYVpuemRDMzlCakY?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 12:20:54 GMT"
+        "title": "Trump Giving Ukraine Capability to Strike Deeper Into Russia: NATO Ambassador - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9wZGQyQmZKTnJKa2ZVcGFRMWRibWFXX3dTMVJJdGw3bE9BTnlIMi1PdnRUSV82RU5lSEluNjhUM0gwR3pMUkVfanFtay1Pc3ltSWpzSDVFYTJlQjJwbkU0YWZHNEc5WTRQejZPb2I3TmxCUlQwLXp4eW9CMjkzVWFtVlA3VUZuSkFjbFVWY0tCZmRDWERyU1dnbllVSVlnLVJV?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:05:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
   },
-  "Fusion Power": {
+  "Quantum Computing": {
     "articles": [
       {
-        "title": "General Fusion secures US$22M for its LM26 reactor - Inspenet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTc4ZnEtbmxRQ0dxSDZXb3QtUHhhazJOMEE1eUxhaHhpRjl0c3ZNejcxaXNPUE1OeU96V0owTWozQk5iSS0xSDlCYWZnVzd3TlRwcmRsamRCdVNTdDZscVRocnhWUUlkSDZlMjJhc0NyOHZlbV9LMVlRYjZsaERPd3pEMGg4Y1JDSTl6UnhKLTJhOFd6OWRVNVc0QWx4UQ?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 12:10:00 GMT"
+        "title": "Researchers reveal quantum threats to cryptocurrencies, including vulnerabilities to fifty one percent attacks - Quantum Zeitgeist",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXVGcUh6Wjc1dG41R1Fyc3g0V294S0dUbk9xWjdTaEx5UnoybHpLb1dEbzZWV0ctRzI5MjZBZmdoS1ZDOGlobnBESWNQQnFqNHdEbEE5OXBMQm5zLVBXU1gxWXN6dE9DdXAtZldncjNFQUFybVhVWS1BZ254QVdwSzVtMTl2YlNQdnp0VWpKbTlFRTNNUVlES3hLQzNCV3d1NVZmWG1aUzZramtmRG1RZnRoOWx5QVRFY3dJRF8wenh3TzVRdVQ5T0lWQmpEV1QybnhfY0JB?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 10:47:57 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
+  },
+  "National Security": {
+    "articles": [
+      {
+        "title": "Alarm as US far-right extremists eye drones for use in domestic attacks - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVZSblJPdV9VdVk0S3Jja1psaTNsVndkemRWOWktaUdaT0NXdjdQajM5dFlTNGg2MHctY2JrVVJZeVV4NGMyZmJPeUpqZU51ekxROVRfZlRQanhyTXVPajQ3WjJmZWlDODNieldHMlZkU3pUVW1hVGhXVVBrTGZ4YW9nRmU?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat - NPR",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xZnV2TDJneWpVanhBNzhrZE1XeEJxZlFrQUUzSy0xNkJ3a19IQ1B3WmpKVlN2dndkQ1FKV3lkTlRlaDZFQ3pkelljYlNoQnVGdTB2YUZNU3Q4UmpJMDZLR3JKOWdsQVBCd1NBQkg1ZnpweWQ3Njg2U1BRbDQ?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 09:15:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T14:57:45.419319+00:00"
   }
 }
