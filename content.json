@@ -2,11 +2,71 @@
   "Ukraine": {
     "articles": [
       {
-        "title": "Amid Stalled Bid for Peace Talks, Russia Pounds Ukraine - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWQycDVndnM2TF9nOThkZkJoZlJGSnFhdVBUb0cxc19yamVTUWltSTQwRjM4RnJxSmM2NERiSGcxT1pHM0JMaVNudWxxaGczYnFFTEVuZThsMzBZQUFzYXdqWTJMZGM0V2ROTDg5RE90emNpQlFhbDNKZ0ZwaEg1bEhNcm5xNlFnNTVHMlloTTA?oc=5",
-        "pubDate": "Sat, 30 Aug 2025 11:11:50 GMT"
+        "title": "Scoop: White House accuses Europe of prolonging Ukraine war - Axios",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVlVveEF6bVpnS0hGVk1DbkhVTFlSd3NNNTRZNUVpcjhmWHdDTUhmeGZVdC14UldlaEU4bW9xa0xrZk44WUVGMi1OemY0YlhiYU4tUG0tTjRuWnMtWUhpSXpadEpVekxxcEpRMmRBTmFOc3pXSkV3VElnQ18zeFZBaEg5RjJ3bkFqNVE?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 13:16:25 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-30T12:57:34.787319+00:00"
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Israel will soon slow or halt aid into parts of northern Gaza, as some residents begin evacuating - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OazFheUlvOThVQ0pRbHBNakRBLU1hVHlMYlFxRFRvV2IwSFUxQjVybmtQNzBDeFZNVENBOXNXRXdlMkxPUHFtT2pha213SDFvUVZ1R05HZXlxRjdrdnQzQ2tIVVNUYXdmRXdGRWRSQ19YY3FlTW9FQ3FB0gF_QVVfeXFMTjY0aFphdXc1RXVWdHNNTXROakdRblJ2TXZhNkc1OW83NWZkempJejRDRmJka0U2eTlRb0k2WmNIRENOc0hxeURndmN6Y19FVE96bjh0THJEdGVqMkE5R3EtQ3FaY3U2X1FvUjloRVR2TWo0VHgwajBJaW5jbmFSbw?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:51:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Accenture CEO Julie Sweet says Fortune 500s can survive AI\u2014but they have to be willing to reinvent themselves top to bottom - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzlWWFFnMmNtcXViblVvc1RjQXVLT0taaUROYXlXLUV1cHFsRVpIWnN4QVFnbkNQSjBTWTNQcml5TGJrSkdJeUFjWks4LXNnbTI5SDE0QzlPTW5UVW5zc002eFJ3M21ZckhlVWVZMmNVUFc4MWR4ZTJpR2JZaVNTTU5fTUxTc0xITnIxZ0lsT3FZYkhmYURBYVg3cU5uOWtndHc?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Scientists Report Heavy Electrons Could Open a Path to a New Type of Quantum Computer - The Quantum Insider",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTFkQXo4eFVZWFBmX2FVTnJwVUlLQXUxQWpGdDNsVVBZZ2syUmplbUFPdktLU09tRTd6bS1IYWJkd2FzZVN1M25ZRjltcGkxdVI4Tzd6LWh0SExVb2hsVHdlQzhTLTl5a0FyazE0dG4zb010azNDVFdLSUYxWFB2UVVqV1ppMHV3enVWQUpER2xrYUV3cG0xbVFDbGFBUmVwcnpONkktYzZ2c1lERmloaEFkcDRmd0xRa2Q0NTJoU0lwaTRDN2c?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:43:57 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "In Far Northeastern Maine, a Native Community Fights to Adapt to Climate Change - Inside Climate News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkVBb01aQk9BQ0ZiandzLTBmNVY3M3NXVEhIMVl1dmNEZDRBVVV6Mmt5NnhPSFdYdElTMVFYMHk3N3k5OGh3QThSNG03TENFQWhwWGRTVUt2QkktNFQwQzVnWlhWLW44S2NrVEFLWWs3QVJzUU15R1F2M0x3Y1RRZjBDUGZ6aG9YQ0hGXzBEYVlSWHc?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 09:05:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "When was US President last seen? Concerns loom as \u2018Trump dead\u2019 rumours float on social media | World News - Hindustan Times - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXlCcXZJOXZVY0trTHFGLTVkR0UwVF9GbG5XR1R0VW1uemQ0MVRCdzlyeGhUMUREVVgyZmoxei1zcWxyaG9HT0F2T1ZNcUpDR0FMUDF3TE1zT3g0OEVLTnRoSHNLYUx3Y2tndG0yNjUxRGhpS0F4d3FPN01lNTJseEt3aXJ3bWZIVlFkTThyZ2xqLThOUl9iOFlpLXVkTTAyMDRXV1lFZkpFRGJFQU5pSnR0eHpRX0w5XzAzaWVjOGd6dVBvWFBpV3N4RDhQZ3FiOThMVml4U1VUZjlmTFpQUFpLRmI1WG_SAewBQVVfeXFMT1Frb200SzBfSzBlbktEcjJQY2VsUkFVMk1tYmNLZXFQeW1ZQ2l2bWZySThzdmV0U0pKOUh0amt2NGhKNmRfWXBkanRUV2Y3TktEUUhwNWVkaGRhVWF4ZTRfNHNIMmEzeHZXQ0d2YWZYRGxvOTZMX3hBN29BSUFpaG5lT1gtRVJvRktXTklJX0VSelo5bE9RMzRCaEhiZlg3MkMwVWs2WlQwZk00dFphTjBSd2JocGNoTWNPNHlfMTRvc3FpdG1yRXVTNkh6WS0wUGhYUVkxRDR1cGlsUk1kZDJqYVpuemRDMzlCakY?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:20:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "General Fusion secures US$22M for its LM26 reactor - Inspenet",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTc4ZnEtbmxRQ0dxSDZXb3QtUHhhazJOMEE1eUxhaHhpRjl0c3ZNejcxaXNPUE1OeU96V0owTWozQk5iSS0xSDlCYWZnVzd3TlRwcmRsamRCdVNTdDZscVRocnhWUUlkSDZlMjJhc0NyOHZlbV9LMVlRYjZsaERPd3pEMGg4Y1JDSTl6UnhKLTJhOFd6OWRVNVc0QWx4UQ?oc=5",
+        "pubDate": "Sat, 30 Aug 2025 12:10:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-30T13:57:45.213128+00:00"
   }
 }
