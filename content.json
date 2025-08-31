@@ -1,42 +1,32 @@
 {
-  "Artificial Intelligence": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "How is artificial intelligence affecting job searches? - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0VDZlBRSEFzaWNvOHNfbjJVNnVNV1c1enJ1enZVeVFEVWtpbXlFdW1wV1JhakxDMGQyU2RGeFpnM1VCRkZESWlEQi12MVgwTDNsUk1NSVluMlgwLWxONEE1NGlZeW9mYWU3NlBIWU9abHVjeEtOYWNfNkV2ZER3YUg2Z0d1cUk0Q2oyLQ?oc=5",
-        "pubDate": "Sun, 31 Aug 2025 13:14:00 GMT"
+        "title": "How we tricked AI chatbots into creating misinformation, despite \u2018safety\u2019 measures - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXd5bjJkMHkzY2RBVHl6UkNpRnlBcHplR2FCdlBlcHVZM1hrRjFZX2FCaWp1bjMyX0RBMEs3UDlEVFlUVDE3MVBsYXM1Ylk0QWpub3RIYl9MUWY3ODcxXzF6Z0Y3OU9NQlV6NTZlbTNVMXBqdXlrMEl6R0Q3MlhQZFB2TVlNTnBRal9MU21CUEpXSHRfZDZFRGtLSGlOQmhhd1QzZFBxSy1ESXplQzZhVDhja0U?oc=5",
+        "pubDate": "Sun, 31 Aug 2025 20:09:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-31T19:58:13.845765+00:00"
+    "last_updated_ts": "2025-08-31T20:57:59.065297+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Global warming: the situation is worse than generally believed - The Express Tribune",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVVaY3gwdjZmZldDbXdJeHVSbzBzYi1yQlJ0OE9ISEdnTHhpZy1FZEJfZkpCdno4MWJfbk9XQnhTdzZTdkxJOUFqNHpwZXFuNGdLcjIzQXNLQ3FLTlFhanpsdTViMlJPVHJmaHhuNG1NcEFieHdzN29IMEFaQ3NqWW1RTXE4R2N2OWE1ODRFa3JkVWhiTFBqNUNFcEZBN1HSAacBQVVfeXFMUGtsMHdjYzVFUVNzcG5ReGx6SDEtZFprVXUzR2dPOUl4V25jektrRGU1OXNhNkc4VTZ3S0FCZTNycGotREVMTXBDT1ptRE9NdnZiaVctRlBZdnRBeVJRWmFyaDNuZWVmdzFjWkFpZ3NPdGdQb0xGMmJ5RVVpYlpfMEtoWlpwTk4zUk9mcHlnUUV0NkpGeVM5OUx0ZXB3NnRtLUtmLUVhMkU?oc=5",
+        "pubDate": "Sun, 31 Aug 2025 20:02:56 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-08-31T20:57:59.065297+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "China launches tiny Mexican satellites in rare North American rocket contract - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUE5cDM2czBVOEFoNHFhMnZTZTh1ckNEXzZ2Z29lcEo5ODNqcUg1RzdqWU1zeldsaFZSaDJWRU9RczB1WFBYenRsWlNFT2dQaW81d0k3WWtoWjRWbDVWZ2xNaEVzTHlKYW5RWkplemdTRkh0UGhFd21aNnRwVDFFRUtYMFZOSmxTclFnbi1RUUJUaV9kTEdoRUVYbTdRZmJ2VnlhRkRXdmQtdEJZVk8yQ1d4RGNwNjFreTJiRUVqS0pCWklMWXgtdVJn0gHKAUFVX3lxTFA2X3gxbVBLYVc2TVRsSW1tRU10YXowbHBqd1Q4ZnlMTTN5ZjRCS0tZeVJoNHlRUV9fcWNFdk5xN0YzeVlQdmR2XzVnaGVVS0tMVTgtYm9yLVdzTUVhUzRCMjBtSzJqMzRqbTdFZUQtTi05Q1AwQlJzbURKM2xmUGs2bXRRWV9jamN5UFJjQUFNU0g1MjRodHA3OXVCa0U1MDgwQnBtZ0pxb1N5RE9IOUFERjZoaVNheG16dFJMdkRMV2w4TzExdW9LMWc?oc=5",
-        "pubDate": "Sun, 31 Aug 2025 10:00:12 GMT"
+        "title": "China\u2019s Xi says SCO bears \u2018greater responsibility\u2019 for keeping peace - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzhBRWxvazNxYjdHcFJqWmxwOHA3R3V6czlRd093a3o2ZEhHR3JrSEV0cXBleUV5ZGVfQnFlY1l3dXBMT2ZKVFdHOVVBVXVOUlVfQ0Q0bnFrRGZQTlY3blJWMEdEOXE5b19XMzdSVVdtSEVtSi0yVWxoYkFmbVFlMnpYTF96SEd3WW1YUHdYRHlUMG1hRGpYOERsWGFhNVl0S0NJMDRaVS1pd9IBrwFBVV95cUxQVWNmOTdRYndzenkxMTBXSjJkVThKdlZMNV9iS1pOQ1ZhMDYxeDFhaDhLZVVXRXllNzFxR2xxbWhydDVZMVQxM3htWG9rV2l4cVBwb1pMM2hzMlR3QXE3aTRRd284NEhxTHZMdlVOcDVEYlp2UFFtdndvY2h6VV9tWmRaMlBqVHYzTlFjZTdUeUQxbmVFUmFlS2NCY3RVd1RJSlFrSzBiNmVKbV9OcmFz?oc=5",
+        "pubDate": "Sun, 31 Aug 2025 15:00:51 GMT"
       }
     ],
-    "last_updated_ts": "2025-08-31T19:58:13.845765+00:00"
-  },
-  "Cryptocurrency": {
-    "articles": [
-      {
-        "title": "Bitcoin or Gold: Which Is the Better Hedging Asset in 2025? - CoinDesk",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFVCTENhaDRTRjdZSUVNN201XzJJU0daekJKU1ZFZ0J4SDl3NjJqMEhwUWlfLXFlanhkSk45d0l4aTV4QUl6VTlQMkE4LUdja1o0UmdQTF9BMlJpTkl4Y3BiajQ1STZVYzY5V2pjeHY3bm52VmplME5icnlxYjlwMWxzMTZmMmVJaENtbl9vTTAtUEtNS1RQcm91cjRSaGpRbWRvV2pzOVczX2h4Um9taTd6RDBBbW9BTEJCS3BTMXYteDNa?oc=5",
-        "pubDate": "Sun, 31 Aug 2025 18:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-31T19:58:13.845765+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "Post-war plan sees US administering Gaza for at least a decade: Washington Post - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjM5NnV5TlI1ZVdvMzltbUNfYWtsbEtERWlGRXE2Q3FCNmR4MVk2V3pXWFU0NUUwWThXbDE3c2doQTZZY2ZzeUtjenBNSVFkcU1ucUJhZEgtVVJlamx5Vk5Ccnp2RU1XSVc5cVRYVlhjRGg3bGs5eVo2SVRDU1VYSlN0LVk1UG9YcmZmZFQ4RnZuVlAtdzVQMHpKMnJqUUpWd2JlWXVHSEFwaXBvYXhrLXRuNkgzU3pwVTk0UHY2Yms?oc=5",
-        "pubDate": "Sun, 31 Aug 2025 17:52:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-08-31T19:58:13.845765+00:00"
+    "last_updated_ts": "2025-08-31T20:57:59.065297+00:00"
   }
 }
