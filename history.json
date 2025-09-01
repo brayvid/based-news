@@ -443,6 +443,10 @@
     {
       "title": "How we tricked AI chatbots into creating misinformation, despite \u2018safety\u2019 measures - The Conversation",
       "pubDate": "Sun, 31 Aug 2025 20:09:14 GMT"
+    },
+    {
+      "title": "Diving Further Into What Makes ChatGPT And Other AI Spiral Out Of Human Safety Guardrails During Long Conversations - Forbes",
+      "pubDate": "Mon, 01 Sep 2025 07:15:00 GMT"
     }
   ],
   "financial_markets": [
@@ -971,6 +975,10 @@
     {
       "title": "Ukraine-Russia war latest: Putin says he and Trump came to \u2018understanding\u2019 about how to end war at Alaska summit - The Independent",
       "pubDate": "Mon, 01 Sep 2025 07:49:37 GMT"
+    },
+    {
+      "title": "Ukraine strikes Russian Project 21631 Buyan-M class corvette with drones - navalnews.com",
+      "pubDate": "Mon, 01 Sep 2025 08:30:29 GMT"
     }
   ],
   "us_economy": [
@@ -1241,6 +1249,10 @@
     {
       "title": "\"Never Felt Better In My Life\": Donald Trump Amid He Is 'Dead' Viral Trend - NDTV",
       "pubDate": "Mon, 01 Sep 2025 02:01:57 GMT"
+    },
+    {
+      "title": "What Maine Democrats beleaguered by Donald Trump want from their party - Bangor Daily News",
+      "pubDate": "Mon, 01 Sep 2025 05:00:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1585,6 +1597,10 @@
     {
       "title": "Couple arrested for money laundering, \u20ac2.6 million in crypto and luxury goods seized - NL Times",
       "pubDate": "Mon, 01 Sep 2025 04:30:00 GMT"
+    },
+    {
+      "title": "Bitcoin at risk of Labor Day crash to $105K as sellers capitalize on OG BTC whale threat - Cointelegraph",
+      "pubDate": "Mon, 01 Sep 2025 02:03:56 GMT"
     }
   ],
   "data_breach": [
@@ -1927,10 +1943,6 @@
       "pubDate": "Mon, 25 Aug 2025 09:00:00 GMT"
     },
     {
-      "title": "The AI Doomers Are Having Their Moment - Business Insider",
-      "pubDate": "Mon, 25 Aug 2025 08:01:00 GMT"
-    },
-    {
       "title": "The Race for Artificial General Intelligence Poses New Risks to an Unstable World - Time Magazine",
       "pubDate": "Wed, 27 Aug 2025 11:05:47 GMT"
     },
@@ -2016,10 +2028,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israel hits Gaza hospital, killing at least 15 people, including journalists - Reuters",
-      "pubDate": "Mon, 25 Aug 2025 08:30:28 GMT"
-    },
     {
       "title": "Four journalists among 15 dead in Israeli strike on hospital, Gaza officials say - BBC",
       "pubDate": "Mon, 25 Aug 2025 09:18:17 GMT"
@@ -2127,6 +2135,10 @@
     {
       "title": "\u2018Fields of rubble\u2019: Israel, destroying Gaza City, kills 78 across enclave - Al Jazeera",
       "pubDate": "Sun, 31 Aug 2025 20:37:30 GMT"
+    },
+    {
+      "title": "Families search for loved ones after overnight strikes in Gaza - Al Jazeera",
+      "pubDate": "Mon, 01 Sep 2025 07:40:41 GMT"
     }
   ],
   "battery_technology": [
@@ -2180,10 +2192,6 @@
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "CISA releases 2025 SBOM Minimum Elements outlining minimum requirements for software transparency - Industrial Cyber",
-      "pubDate": "Mon, 25 Aug 2025 08:04:35 GMT"
-    },
     {
       "title": "CISA warns of actively exploited Git code execution flaw - BleepingComputer",
       "pubDate": "Tue, 26 Aug 2025 14:57:33 GMT"
@@ -2525,6 +2533,10 @@
     {
       "title": "Rising temperatures, rising duties: legal obligations of states on climate change - - iari.site",
       "pubDate": "Mon, 01 Sep 2025 06:56:00 GMT"
+    },
+    {
+      "title": "New study highlights increased turbulence risk as climate change fuels atmospheric instability - FlightGlobal",
+      "pubDate": "Mon, 01 Sep 2025 08:05:48 GMT"
     }
   ],
   "european_union": [
@@ -2584,10 +2596,6 @@
     }
   ],
   "business": [
-    {
-      "title": "German business sentiment rises to highest level in more than a year - Reuters",
-      "pubDate": "Mon, 25 Aug 2025 08:56:17 GMT"
-    },
     {
       "title": "Trump wants more deals like Intel's, worrying business community - Reuters",
       "pubDate": "Mon, 25 Aug 2025 15:31:04 GMT"
@@ -3011,10 +3019,6 @@
   ],
   "protest": [
     {
-      "title": "Protesters Clash With Police in Jakarta Over Lawmakers\u2019 Perks - Bloomberg.com",
-      "pubDate": "Mon, 25 Aug 2025 08:20:49 GMT"
-    },
-    {
       "title": "Protests erupt in Indonesia over privileges for parliament members and \u2018corrupt elites\u2019 - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 03:19:00 GMT"
     }
@@ -3171,6 +3175,12 @@
     {
       "title": "The UK's Energy Transition Paradox: High Costs, Struggling Industry, and Investment Opportunities in Alternatives - AInvest",
       "pubDate": "Sun, 31 Aug 2025 22:39:42 GMT"
+    }
+  ],
+  "world_economy": [
+    {
+      "title": "ECB's Lagarde warns of risk to world economy via Trump interference on Fed - Reuters",
+      "pubDate": "Mon, 01 Sep 2025 07:17:05 GMT"
     }
   ]
 }
