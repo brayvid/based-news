@@ -245,10 +245,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Plays Reality Television Host at Cabinet Meeting That Lasts Hours - The New York Times",
-      "pubDate": "Tue, 26 Aug 2025 22:34:06 GMT"
-    },
-    {
       "title": "Trump\u2019s hand bruise renews attention to his health \u2014 and his heart - statnews.com",
       "pubDate": "Wed, 27 Aug 2025 01:30:00 GMT"
     },
@@ -595,6 +591,10 @@
     {
       "title": "Cities test AI vision sensors for traffic and pedestrian safety - Smart Cities Dive",
       "pubDate": "Tue, 02 Sep 2025 15:43:52 GMT"
+    },
+    {
+      "title": "Anthropic Increases Valuation to $183B With $13B Series F Round - Built In",
+      "pubDate": "Tue, 02 Sep 2025 19:24:49 GMT"
     }
   ],
   "financial_markets": [
@@ -909,10 +909,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine war latest: Trump says Putin 'doesn't like' Zelenskyy; Ukraine warned it could lose Starlink access - Sky News",
-      "pubDate": "Tue, 26 Aug 2025 22:40:19 GMT"
-    },
-    {
       "title": "After a summer of submission to Trump, Europe knows it must defend Ukraine \u2013 and itself \u2013 alone - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 07:14:00 GMT"
     },
@@ -1223,6 +1219,10 @@
     {
       "title": "Thousands of Israeli reservists report for duty, as military chief clashes with ministers - NBC News",
       "pubDate": "Tue, 02 Sep 2025 11:22:20 GMT"
+    },
+    {
+      "title": "Andriy Parubiy: Suspect admits killing Ukrainian lawmaker, says it was \u2018revenge\u2019 against authorities - CNN",
+      "pubDate": "Tue, 02 Sep 2025 14:50:00 GMT"
     }
   ],
   "us_economy": [
@@ -1545,6 +1545,10 @@
     {
       "title": "Live updates: Donald Trump announces Space Command move, addresses social media rumors he was dead - The Hill",
       "pubDate": "Tue, 02 Sep 2025 19:31:00 GMT"
+    },
+    {
+      "title": "Trump canceling elections? Democrats increasingly sound alarm bells. - CNN",
+      "pubDate": "Tue, 02 Sep 2025 17:25:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1574,10 +1578,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Okta raises annual forecasts on surging cybersecurity tools demand - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 22:01:32 GMT"
-    },
     {
       "title": "CISA Unveils Tool to Boost Procurement of Software Supply Chain Security - Homeland Security Today",
       "pubDate": "Wed, 27 Aug 2025 09:02:45 GMT"
@@ -1669,6 +1669,10 @@
     {
       "title": "Jaguar Land Rover hit by cybersecurity incident, disrupting production, sales - Automotive News",
       "pubDate": "Tue, 02 Sep 2025 09:25:00 GMT"
+    },
+    {
+      "title": "Nevada DMV restores some in-person services amid statewide cyberattack - KTVN",
+      "pubDate": "Tue, 02 Sep 2025 21:40:53 GMT"
     }
   ],
   "federal_reserve": [
@@ -2027,6 +2031,10 @@
     {
       "title": "MOL invests in US firm developing commercial-scale fusion reactor - Offshore Energy",
       "pubDate": "Tue, 02 Sep 2025 10:07:30 GMT"
+    },
+    {
+      "title": "\"China's Artificial Sun Burns 17 Minutes\": EAST Reactor Sustains 180 Million Degree Plasma for 1,066 Seconds Breaking Fusion Records - Energy Reporters",
+      "pubDate": "Tue, 02 Sep 2025 12:07:37 GMT"
     }
   ],
   "nvidia": [
@@ -2471,10 +2479,6 @@
   ],
   "astronomy": [
     {
-      "title": "Brightest fast radio burst ever detected could help solve an enduring cosmic mystery - CNN",
-      "pubDate": "Tue, 26 Aug 2025 22:26:00 GMT"
-    },
-    {
       "title": "Scientists finally pinpoint Jupiter\u2019s birth using \u201cmolten rock raindrops\u201d - ScienceDaily",
       "pubDate": "Wed, 27 Aug 2025 03:38:06 GMT"
     },
@@ -2488,10 +2492,6 @@
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "Nevada state offices close after wide-ranging 'network security incident' - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 22:32:41 GMT"
-    },
     {
       "title": "CISA: China-Backed Hackers Targeting Global Infrastructure - MeriTalk",
       "pubDate": "Wed, 27 Aug 2025 20:04:34 GMT"
@@ -2901,6 +2901,10 @@
     {
       "title": "France says EU leaders, not ministers, should decide 2040 climate target - politico.eu",
       "pubDate": "Tue, 02 Sep 2025 16:22:00 GMT"
+    },
+    {
+      "title": "Illinois Climate Education Hub gives teachers head start on climate curriculum - CBS News",
+      "pubDate": "Tue, 02 Sep 2025 22:13:00 GMT"
     }
   ],
   "european_union": [
@@ -3092,10 +3096,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "Trump administration asks US Supreme Court to halt foreign aid payments - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 22:44:02 GMT"
-    },
     {
       "title": "South Carolina asks Supreme Court to let it enforce trans bathroom ban - CNN",
       "pubDate": "Thu, 28 Aug 2025 20:05:00 GMT"
@@ -3465,6 +3465,10 @@
     {
       "title": "China, Russia pledge new global order at Shanghai Cooperation summit - Al Jazeera",
       "pubDate": "Tue, 02 Sep 2025 06:50:36 GMT"
+    },
+    {
+      "title": "China Looks to Fill a Regional Leadership Vacuum - World Politics Review",
+      "pubDate": "Tue, 02 Sep 2025 19:29:15 GMT"
     }
   ]
 }
