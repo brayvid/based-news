@@ -199,6 +199,10 @@
     {
       "title": "The Neighbor From Hell - The Atlantic",
       "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Germany blocks EU sanctions against Israel, Europe divided over Gaza war - The Jerusalem Post",
+      "pubDate": "Tue, 02 Sep 2025 09:17:03 GMT"
     }
   ],
   "iran": [
@@ -613,10 +617,6 @@
       "pubDate": "Tue, 26 Aug 2025 14:35:40 GMT"
     },
     {
-      "title": "Can Nvidia results dispel creeping AI doubts? - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 13:05:31 GMT"
-    },
-    {
       "title": "Researchers Are Already Leaving Meta\u2019s New Superintelligence Lab - WIRED",
       "pubDate": "Tue, 26 Aug 2025 18:00:37 GMT"
     },
@@ -887,10 +887,6 @@
     {
       "title": "Ukraine admits Russia has entered key region of Dnipropetrovsk - BBC",
       "pubDate": "Tue, 26 Aug 2025 18:08:25 GMT"
-    },
-    {
-      "title": "Ukraine knocks out nearly one-fifth of Russia's oil refining capacity - Euronews.com",
-      "pubDate": "Tue, 26 Aug 2025 13:06:59 GMT"
     },
     {
       "title": "Ukraine war latest: Trump says Putin 'doesn't like' Zelenskyy; Ukraine warned it could lose Starlink access - Sky News",
@@ -1203,6 +1199,10 @@
     {
       "title": "Putin Says Consensus on Security Guarantees for Ukraine Possible - Bloomberg.com",
       "pubDate": "Tue, 02 Sep 2025 11:21:29 GMT"
+    },
+    {
+      "title": "Ukraine Unveils New 'JET MAX' Bomber Drone: What To Know - Newsweek",
+      "pubDate": "Tue, 02 Sep 2025 13:36:42 GMT"
     }
   ],
   "us_economy": [
@@ -1629,6 +1629,10 @@
     {
       "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware - The Hacker News",
       "pubDate": "Tue, 02 Sep 2025 08:39:00 GMT"
+    },
+    {
+      "title": "US: CISA 2015 Safe Harbor at Risk as September 2025 Deadline Nears - Infosecurity Magazine",
+      "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -1697,6 +1701,10 @@
     {
       "title": "Rescuers in \u2018race against time\u2019 to reach Afghan quake survivors as death toll passes 1,400 - AP News",
       "pubDate": "Tue, 02 Sep 2025 11:03:00 GMT"
+    },
+    {
+      "title": "Rescuers focus on remote Afghan regions after earthquake kills over 1,400 - Al Jazeera",
+      "pubDate": "Tue, 02 Sep 2025 10:41:15 GMT"
     }
   ],
   "elon_musk": [
@@ -1835,10 +1843,6 @@
     {
       "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
       "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
-    },
-    {
-      "title": "Nissan confirms design studio data breach claimed by Qilin ransomware - BleepingComputer",
-      "pubDate": "Tue, 26 Aug 2025 13:48:25 GMT"
     },
     {
       "title": "Hackers steal data from Salesforce instances in widespread campaign - Cybersecurity Dive",
@@ -1983,6 +1987,10 @@
     {
       "title": "\"They Built a Miniature Sun\": Infinity Two Fusion Reactor Generates 350 Megawatts Using Stellarator Technology Running 2 Years Straight - Energy Reporters",
       "pubDate": "Tue, 02 Sep 2025 11:01:12 GMT"
+    },
+    {
+      "title": "MOL invests in US firm developing commercial-scale fusion reactor - Offshore Energy",
+      "pubDate": "Tue, 02 Sep 2025 10:07:30 GMT"
     }
   ],
   "nvidia": [
@@ -2042,10 +2050,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "Porsche axes plans to build electric car batteries as demand collapses - The Telegraph",
-      "pubDate": "Tue, 26 Aug 2025 13:43:00 GMT"
-    },
     {
       "title": "PM Modi flags off Maruti Suzuki\u2019s electric car, inaugurates battery manufacturing plant in Ahmedabad - DD News",
       "pubDate": "Wed, 27 Aug 2025 07:27:17 GMT"
@@ -2225,6 +2229,10 @@
     {
       "title": "Google DeepMind Chief Scientist says AI already surpasses humans in most tasks: \u2018Most people are not that good at\u2026\u2019 - Mint",
       "pubDate": "Mon, 01 Sep 2025 16:56:06 GMT"
+    },
+    {
+      "title": "\u2018World Models,\u2019 an Old Idea in AI, Mount a Comeback - Quanta Magazine",
+      "pubDate": "Tue, 02 Sep 2025 13:19:43 GMT"
     }
   ],
   "national_security": [
@@ -2300,10 +2308,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israeli protesters hold \u2018day of disruption\u2019 to demand Gaza hostage deal: Live updates - CNN",
-      "pubDate": "Tue, 26 Aug 2025 13:45:00 GMT"
-    },
     {
       "title": "DNC panel fails to advance dueling resolutions on Israel\u2019s war in Gaza - CNN",
       "pubDate": "Tue, 26 Aug 2025 16:08:00 GMT"
@@ -2470,10 +2474,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Scientists give harsh grades to Trump administration work aimed at undoing a key climate finding - AP News",
-      "pubDate": "Tue, 26 Aug 2025 13:02:00 GMT"
-    },
     {
       "title": "Huge dam shows ancient Jerusalem adapted to climate change with advanced engineering - The Times of Israel",
       "pubDate": "Tue, 26 Aug 2025 20:48:45 GMT"
@@ -2845,6 +2845,10 @@
     {
       "title": "UK saw hottest summer since record began in 2025, Met Office says - Euronews.com",
       "pubDate": "Tue, 02 Sep 2025 12:17:32 GMT"
+    },
+    {
+      "title": "More than 85 climate experts call Energy Department report on greenhouse gases \"not scientifically credible\" - CBS News",
+      "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
     }
   ],
   "european_union": [
