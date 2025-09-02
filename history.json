@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "DNC Votes Down \u201cOverwhelming Popular Position\u201d Calling for Arms Ban to Israel - The Intercept",
-      "pubDate": "Tue, 26 Aug 2025 21:22:53 GMT"
-    },
-    {
       "title": "Israel says Gaza hospital strike targeted alleged Hamas camera without providing evidence - CNN",
       "pubDate": "Tue, 26 Aug 2025 23:15:00 GMT"
     },
@@ -211,6 +207,10 @@
     {
       "title": "Video Israel begins ground operation in Gaza City - ABC News",
       "pubDate": "Tue, 02 Sep 2025 20:20:56 GMT"
+    },
+    {
+      "title": "Pope Leo to host Israel's Herzog at Vatican with invitation origin at issue - Reuters",
+      "pubDate": "Tue, 02 Sep 2025 19:37:55 GMT"
     }
   ],
   "iran": [
@@ -315,17 +315,13 @@
     {
       "title": "Trump takes questions at White House, countering theories about his absence - CNN",
       "pubDate": "Tue, 02 Sep 2025 20:24:00 GMT"
+    },
+    {
+      "title": "LIVE: Trump says he will send the National Guard to \u2018hellhole\u2019 Chicago - Al Jazeera",
+      "pubDate": "Tue, 02 Sep 2025 19:47:29 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Exxon Held Talks With Rosneft Over Russia Re-Entry, WSJ Says - Bloomberg",
-      "pubDate": "Tue, 26 Aug 2025 21:07:41 GMT"
-    },
-    {
-      "title": "Trump still weighing 'very serious' economic sanctions on Russia - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 21:06:41 GMT"
-    },
     {
       "title": "Trump admin offers subdued response to Russia\u2019s assault on Kyiv, and Europe\u2019s outrage - Politico",
       "pubDate": "Thu, 28 Aug 2025 20:13:33 GMT"
@@ -393,6 +389,10 @@
     {
       "title": "Trump pushes India closer to China and Russia, adding to his diplomatic failures - MSNBC News",
       "pubDate": "Tue, 02 Sep 2025 14:40:10 GMT"
+    },
+    {
+      "title": "GPS went dark on a flight over Bulgaria. Is Russia to blame? - NPR",
+      "pubDate": "Tue, 02 Sep 2025 21:08:30 GMT"
     }
   ],
   "ai_safety": [
@@ -591,6 +591,10 @@
     {
       "title": "AI Models Fall for Human Persuasion Tactics\u2014Just Like We Do - AInvest",
       "pubDate": "Tue, 02 Sep 2025 18:04:29 GMT"
+    },
+    {
+      "title": "Cities test AI vision sensors for traffic and pedestrian safety - Smart Cities Dive",
+      "pubDate": "Tue, 02 Sep 2025 15:43:52 GMT"
     }
   ],
   "financial_markets": [
@@ -1241,6 +1245,10 @@
     {
       "title": "Moody\u2019s chief economist predicts US recession amid American pessimism - Straight Arrow News",
       "pubDate": "Tue, 02 Sep 2025 14:33:36 GMT"
+    },
+    {
+      "title": "UBS gives America a recession check-up and sees a 93% probability from the hard data, with a 'soggy' economy ahead - Fortune",
+      "pubDate": "Tue, 02 Sep 2025 18:22:30 GMT"
     }
   ],
   "china": [
@@ -2023,10 +2031,6 @@
   ],
   "nvidia": [
     {
-      "title": "Nvidia Earnings: Live Updates and Commentary August 2025 - Kiplinger",
-      "pubDate": "Tue, 26 Aug 2025 21:14:08 GMT"
-    },
-    {
       "title": "Nvidia's quarterly report will gauge the temperature of the AI craze - ABC News",
       "pubDate": "Wed, 27 Aug 2025 05:58:34 GMT"
     },
@@ -2239,6 +2243,10 @@
     {
       "title": "World's Largest Multi-Chip Quantum Leader Rigetti Teams with India's Tech Giant for Next-Gen Computing - Stock Titan",
       "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Quantum Brilliance, ORNL Pioneer Quantum-Classical Hybrid Computing - HPCwire",
+      "pubDate": "Tue, 02 Sep 2025 17:44:44 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2889,6 +2897,10 @@
     {
       "title": "Amazon forest loss is drying and heating the rainforest fast - ScienceBlog.com",
       "pubDate": "Tue, 02 Sep 2025 15:43:56 GMT"
+    },
+    {
+      "title": "France says EU leaders, not ministers, should decide 2040 climate target - politico.eu",
+      "pubDate": "Tue, 02 Sep 2025 16:22:00 GMT"
     }
   ],
   "european_union": [
@@ -3225,18 +3237,6 @@
       "pubDate": "Wed, 27 Aug 2025 18:30:54 GMT"
     }
   ],
-  "thunderstorms": [
-    {
-      "title": "Burning Man attendees face more weather woes as thunderstorms loom - The Guardian",
-      "pubDate": "Tue, 26 Aug 2025 21:05:00 GMT"
-    }
-  ],
-  "augmented_reality": [
-    {
-      "title": "Xreal's futuristic AR glasses are finally available at Amazon and Best Buy - Mashable",
-      "pubDate": "Tue, 26 Aug 2025 22:00:00 GMT"
-    }
-  ],
   "algorithmic_trading": [
     {
       "title": "Australia to Modernise Trading System Rules - Markets Media",
@@ -3305,18 +3305,6 @@
     {
       "title": "Protests erupt in Indonesia over privileges for parliament members and \u2018corrupt elites\u2019 - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 03:19:00 GMT"
-    }
-  ],
-  "us_house_of_representatives": [
-    {
-      "title": "Utah ordered to redraw congressional map, seat for Democrats possible - CBS News",
-      "pubDate": "Tue, 26 Aug 2025 21:35:01 GMT"
-    }
-  ],
-  "vladimir_putin": [
-    {
-      "title": "Trump Asked If Putin Is 'Back On The Clock' Amid Ceasefire Stalemate - Newsweek",
-      "pubDate": "Tue, 26 Aug 2025 21:11:02 GMT"
     }
   ],
   "microsoft": [
