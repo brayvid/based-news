@@ -563,6 +563,10 @@
     {
       "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
       "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "How does basic psychology make AI chatbots say \u2018yes\u2019 to danger? | Tap to know more | Inshorts - Inshorts",
+      "pubDate": "Tue, 02 Sep 2025 13:53:24 GMT"
     }
   ],
   "financial_markets": [
@@ -609,13 +613,13 @@
     {
       "title": "Three powerful forces that could destabilize financial markets - ca.finance.yahoo.com",
       "pubDate": "Mon, 01 Sep 2025 10:00:12 GMT"
+    },
+    {
+      "title": "Morning Bid: Dollar, gold and long yields surge - Reuters",
+      "pubDate": "Tue, 02 Sep 2025 10:48:09 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Nvidia's new $3,500 AI 'brain' could give rise to what Jensen Huang calls the final phase of AI - Fortune",
-      "pubDate": "Tue, 26 Aug 2025 14:35:40 GMT"
-    },
     {
       "title": "Researchers Are Already Leaving Meta\u2019s New Superintelligence Lab - WIRED",
       "pubDate": "Tue, 26 Aug 2025 18:00:37 GMT"
@@ -1203,13 +1207,13 @@
     {
       "title": "Ukraine Unveils New 'JET MAX' Bomber Drone: What To Know - Newsweek",
       "pubDate": "Tue, 02 Sep 2025 13:36:42 GMT"
+    },
+    {
+      "title": "Thousands of Israeli reservists report for duty, as military chief clashes with ministers - NBC News",
+      "pubDate": "Tue, 02 Sep 2025 11:22:20 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Is the US-Japan Tariff Agreement Really \u201cGood Enough\u201d? - nippon.com",
-      "pubDate": "Tue, 26 Aug 2025 15:00:07 GMT"
-    },
     {
       "title": "US economy grew more than first reported in Q2, new data shows - NewsNation",
       "pubDate": "Thu, 28 Aug 2025 10:57:16 GMT"
@@ -1350,10 +1354,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump Orders \u201cVigorous Prosecution\u201d of People Who Burn U.S. Flag - Democracy Now!",
-      "pubDate": "Tue, 26 Aug 2025 14:16:11 GMT"
-    },
     {
       "title": "Trump says administration will seek death penalty in all DC murder cases. That could be difficult in practice. - CNN",
       "pubDate": "Tue, 26 Aug 2025 18:36:00 GMT"
@@ -1513,6 +1513,10 @@
     {
       "title": "Wild theories erupt as US President \u2018announcement\u2019 confirmed - The Nightly",
       "pubDate": "Tue, 02 Sep 2025 05:06:19 GMT"
+    },
+    {
+      "title": "Trump to make Oval Office announcement as Congress returns after recess - CNN",
+      "pubDate": "Tue, 02 Sep 2025 13:31:00 GMT"
     }
   ],
   "democratic_party": [
@@ -1633,6 +1637,10 @@
     {
       "title": "US: CISA 2015 Safe Harbor at Risk as September 2025 Deadline Nears - Infosecurity Magazine",
       "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Jaguar Land Rover hit by cybersecurity incident, disrupting production, sales - Automotive News",
+      "pubDate": "Tue, 02 Sep 2025 09:25:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -1714,10 +1722,6 @@
     }
   ],
   "cancer": [
-    {
-      "title": "Inside the revolutionary idea that we can negotiate with cancer - New Scientist",
-      "pubDate": "Tue, 26 Aug 2025 15:00:01 GMT"
-    },
     {
       "title": "Surprise Discovery of Elevated Cancer Risk in Elite Runners Can Be Explained - ScienceAlert",
       "pubDate": "Wed, 27 Aug 2025 02:51:53 GMT"
@@ -1840,10 +1844,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
-      "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
-    },
     {
       "title": "Hackers steal data from Salesforce instances in widespread campaign - Cybersecurity Dive",
       "pubDate": "Tue, 26 Aug 2025 20:53:05 GMT"
@@ -2453,10 +2453,6 @@
   ],
   "cybersecurity_and_infrastructure_security_agency": [
     {
-      "title": "CISA warns of actively exploited Git code execution flaw - BleepingComputer",
-      "pubDate": "Tue, 26 Aug 2025 14:57:33 GMT"
-    },
-    {
       "title": "Nevada state offices close after wide-ranging 'network security incident' - Reuters",
       "pubDate": "Tue, 26 Aug 2025 22:32:41 GMT"
     },
@@ -2849,6 +2845,10 @@
     {
       "title": "More than 85 climate experts call Energy Department report on greenhouse gases \"not scientifically credible\" - CBS News",
       "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "The real crisis isn\u2019t climate change, ecologist Sandra Diaz says - Al Jazeera",
+      "pubDate": "Tue, 02 Sep 2025 13:49:46 GMT"
     }
   ],
   "european_union": [
@@ -3467,6 +3467,12 @@
     {
       "title": "ECB's Lagarde warns of risk to world economy via Trump interference on Fed - Reuters",
       "pubDate": "Mon, 01 Sep 2025 07:17:05 GMT"
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Xi hails China-Russia ties withstanding the test of geopolitical uncertainty - South China Morning Post",
+      "pubDate": "Tue, 02 Sep 2025 03:31:09 GMT"
     }
   ]
 }
