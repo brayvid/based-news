@@ -1,62 +1,12 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "House Republicans form new subcommittee to probe Jan. 6 - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlhHUmdjSlg2MEpCMGkyNnFDd2tPWEN2bWVzNDNmVjl1ZWdXaWZNUGNPWFFvNWZqclVEUXNudnJCUkh4QnAzc01YU2pfaW1HVU5lclhBZzVCMXJiSmtEcWs5NGpRNlBrYjdmWU1hRmZ1Zi1pV1ZhZk1KY3FRY0huWUlrR0toNkhhcUd3d0IyUHd2X29kTm9jZmFB?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 20:00:31 GMT"
+        "title": "Can AI chatbots harm kids? One mom says yes \u2014 and she's fighting back - NBC 5 Chicago",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWZwSjZPTElrOEpPU0RLcnljc2tudzJ4ajd2aE1EbTV0eUIxNEsxejQxbGpZeUxZSHpKUW9DODdOVnBnSWZwazJRVXdrZFpIMHI4a01rQjdndEo0OFJGcXNxQXM2a1c4VzZyM013RU9Wb2pEUkY3bTBoOWQ1dWVuWjctRFVoaEpjYkhiVk8wZzV6bl9PSkVYWGpub19UT2tVVjhHMlRiYm1qaV9waU1Z0gG3AUFVX3lxTE9BTlRJVFcxMExmUnJ0SFhTTVUwcFFQWm51ZVFRZEMwTjhnZFpvLUljN2RMdUNEby1taFZHaEN6dXJSQjNsTTJFaTVWcEZQZWhhWnJiTXFwMURDbXhCZ1hzSzhRQ014Qll4UVN3QkJRR01QZFlwOGxFT2IxU1YxamowemJmQUMzRjNMbE1BYmRoSFhEZGpfemc3WHlkb0FFS2hvUDgtNEV1M25RTFNrc3I5d0x3S3hHNA?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 20:58:51 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Russia launches over 500 drones in deadly attack targeting Ukraine's energy grid - Daily Express US",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa19sTk9DTXVjVXhHLW5NSU9XRGdrLVh3a3U3T1RsWVlQczdJYmpqbUJQeTljdjNSQXNGTFd3VUZuSlM5RTNnWElMUDVXcTRYRno2LVBfTnVkckFIbHVENndlcnFxYmM4enFoakRROGtjaEZwTVNwenNxckE3eThYaXpmdkpkRmtDSEJQZVphWHdhdlFEOFVMMdIBngFBVV95cUxQTnJ4MmRnMTcyR3RDQ0lkQU5YTkxNYjZnSklVb2JQTk5XYVlldFhVc1Vib1h0amd5eWNaNl9jUEcySVNjYnExcnJNWHVkUzVGWDBEeWRvN3dCWm9nZFNFX1Z3TTU4NDNhXy1uSnl3MVlqV3VyS3Q5THpXQUlnZEQ1RDVPTDRubUY2VkQ4OFBhZDVsSnJ6R2o2a0RDRWEtQQ?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 12:17:54 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "The Tech Industry Has a Dirty Secret: The More People Learn About AI, the Less They Trust It - Futurism",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PWTZWZXBEc1h2QUlEZkp6bjdXbG1LRHNZZll1YzA5RWdiZG4tNTI5TmI4UTlqNWtqOVNoSTdxRXhZRnFxSTg2Rm1mcGVFTG5RV1hvYWFBM0k0YTg?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 17:04:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Dozens of scientists cite errors in Energy Department climate change report - LiveNOW from FOX",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEdkcV83TmVTVmxxdmpZS3hZSlRZRnFHUjdpVjh0SjVPRlA4WGE4alVpenVaZWMtN1V6ZUxKSWJtNUFvM3hEeWR4NHFmVVNxRG5OVDlPa1Q0aW96MDRrVi1Tbk5PTnM2TjZ0RTRsVEdySU81b0t6ZUNBYVcwOEpDc0pxSllnMmVYc0HSAY8BQVVfeXFMT1VEZk9tVmJDYWdieEJXYUJkdTBGY3JxbWNha0c3REhCYW9pcDhCX1lqRWYxY2Z2NmdtUjkzV1kzZ0U0eF9JSEtib1pvQW1kSm1oY0hqbzUwUExKUm12azlFVWNHYzVMemJ5VEpvT1BnNXkydG1DRXdvY0xUaDJsV0IzeVM0dG1ObEpSeTVFM2M?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 17:47:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "UK Budget Troubles Are Back Rocking the Bond Market Again - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaU5Bc2V1LWNMQ0dxSURLbWp5aDctZ01DemFfOE9Ic3IxcVhBQnJLVzFFdHE4UnphWlltdHo5TnRkNmpaVnY0ZWxkWVBwclBUXzF6MXcwWVptVlJvWld0VnlKWUVqUF9rcVpEY1Vod0FaS0RsbE5CMkNvU25ZVzFqVUR2MGo3Y1pLTzlKcGM1bWRWT3VOSlZFLVo1OXRPa0hLclZ3OWktSExvZlloOUloM1VsTGlrUQ?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 10:23:18 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Northwestern accelerates quantum research with NVIDIA technology - Northwestern Now News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWxKODdfOGpkREhOWFY2Z21KMzBjbmpTN0hPQjNsSEZRQVBHQVUySG5FTzNxQ3VKV2l3WkE1X21nVEdSSDhaV3NXWlAtOEFvVWl1QUtpdG8wZmJEbU1NT3BSaWItMWM2R3VVT3NrbFZXdGRBRzVhUDhwWFhUNE56ZGdKa1RwVHo0Z0JFMU5HQU1rVXhmcW9HYklCN2tVUHJJV20tYmhQNHpWWEpHZUdnRg?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 19:42:02 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
+    "last_updated_ts": "2025-09-03T22:01:15.423849+00:00"
   }
 }

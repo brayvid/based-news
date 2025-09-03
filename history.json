@@ -433,10 +433,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Concerns over AI safety grow after lawsuit against OpenAI - 10tv.com",
-      "pubDate": "Wed, 27 Aug 2025 22:00:00 GMT"
-    },
-    {
       "title": "Exclusive: Crowdstrike CEO George Kurtz on $290 million acquisition of startup Onum and security in the AI age - Fortune",
       "pubDate": "Wed, 27 Aug 2025 23:53:00 GMT"
     },
@@ -631,6 +627,10 @@
     {
       "title": "INL initiative tests limits of AI on power grid - Idaho Business Review",
       "pubDate": "Wed, 03 Sep 2025 15:48:49 GMT"
+    },
+    {
+      "title": "Can AI chatbots harm kids? One mom says yes \u2014 and she's fighting back - NBC 5 Chicago",
+      "pubDate": "Wed, 03 Sep 2025 20:58:51 GMT"
     }
   ],
   "financial_markets": [
@@ -2187,12 +2187,6 @@
       "pubDate": "Thu, 28 Aug 2025 18:49:11 GMT"
     }
   ],
-  "openai": [
-    {
-      "title": "OpenAI Says It's Scanning Users' ChatGPT Conversations and Reporting Content to the Police - Futurism",
-      "pubDate": "Wed, 27 Aug 2025 21:05:11 GMT"
-    }
-  ],
   "quantum_computing": [
     {
       "title": "Vitalik Buterin Warns: Quantum Computers Could Break Cryptography by 2030 - ICOBench.com",
@@ -3089,18 +3083,6 @@
     {
       "title": "About 2,000 North Korean Troops Killed In Russia Deployment: Seoul - NDTV",
       "pubDate": "Tue, 02 Sep 2025 06:05:37 GMT"
-    }
-  ],
-  "blockchain": [
-    {
-      "title": "Google outlines plans for \u2018Universal Ledger\u2019 amid race for institutional blockchains - Cointelegraph",
-      "pubDate": "Wed, 27 Aug 2025 21:44:45 GMT"
-    }
-  ],
-  "business": [
-    {
-      "title": "French political crisis carries steep economic risk, business leaders say - Reuters",
-      "pubDate": "Wed, 27 Aug 2025 21:12:12 GMT"
     }
   ],
   "asia": [
