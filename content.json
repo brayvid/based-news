@@ -1,72 +1,62 @@
 {
-  "Climate Change": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Childhood Heat Risk is Rising - Climate Central",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVndsa0ZkS19rWGk4N0dXN3dkTVR3SUlzTVE1SjhENlZDbEt2MFFPT3BqODZ5WHNrVHlPYlRwZG5kbUxHMjV4bFoxTFE3QXIxTS1kajcyczJVclZJUDlodTNUZ3Mtb0pKZnNKak5oSmw3QVlEazBramZOWlpTTUVfMkwwbFo?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 16:06:11 GMT"
+        "title": "House Republicans form new subcommittee to probe Jan. 6 - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlhHUmdjSlg2MEpCMGkyNnFDd2tPWEN2bWVzNDNmVjl1ZWdXaWZNUGNPWFFvNWZqclVEUXNudnJCUkh4QnAzc01YU2pfaW1HVU5lclhBZzVCMXJiSmtEcWs5NGpRNlBrYjdmWU1hRmZ1Zi1pV1ZhZk1KY3FRY0huWUlrR0toNkhhcUd3d0IyUHd2X29kTm9jZmFB?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 20:00:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Why AI Overregulation Could Kill the World\u2019s Next Tech Revolution - Cato Institute",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDhDZ19TTHRTekM5ZFB4bC11bGFsc3l1VWxOVy01UlExUVpkbHFtazZIa3lvNjdjYy1XOGpJWDk5R0NKb3pGeWJNTGtTa3E4MjBZVEVIdmFrb0QyZXFpUjNTVlMwc1FnVUxjamFNbjhPa0hUekp6MXVuS25LSHBhejFtemNlQ3pxSXZzQmY5UGt4eUFVMXpB?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 18:11:54 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Ukraine, US hold first meeting of joint investment fund board, PM says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYk9RaHVoUFZUbnFzbTJ1RHdvOEtSQ2M5SjJvYmo4UXFUQWhIS3VtWjdsYjhrblEwWlpGQTJBejFVSFBhT3l1dTZnYnoyUUZNQVQ0Ylg0aTBuYUxVcXYwWmdKZzJ0RnZMVEswdnZrQkNBMzQ4YVZwdG04VUdYa25hVE0wbFpnRHBrQ2Nnay1vNDAyR3phbTRqTnQ0emcwTGpFVVo5dkdZSks2a0doRmZadkcyWG8?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 15:34:47 GMT"
+        "title": "Russia launches over 500 drones in deadly attack targeting Ukraine's energy grid - Daily Express US",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa19sTk9DTXVjVXhHLW5NSU9XRGdrLVh3a3U3T1RsWVlQczdJYmpqbUJQeTljdjNSQXNGTFd3VUZuSlM5RTNnWElMUDVXcTRYRno2LVBfTnVkckFIbHVENndlcnFxYmM4enFoakRROGtjaEZwTVNwenNxckE3eThYaXpmdkpkRmtDSEJQZVphWHdhdlFEOFVMMdIBngFBVV95cUxQTnJ4MmRnMTcyR3RDQ0lkQU5YTkxNYjZnSklVb2JQTk5XYVlldFhVc1Vib1h0amd5eWNaNl9jUEcySVNjYnExcnJNWHVkUzVGWDBEeWRvN3dCWm9nZFNFX1Z3TTU4NDNhXy1uSnl3MVlqV3VyS3Q5THpXQUlnZEQ1RDVPTDRubUY2VkQ4OFBhZDVsSnJ6R2o2a0RDRWEtQQ?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 12:17:54 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   },
-  "Israel": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Hamas Plot To Assassinate Israeli National Security Minister Ben Gvir Foiled - i24NEWS",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFkyNDh0bjY5NWlQSXFkcHJEVDhDdDFtbldhYnhRcGE1a0hKOHZRVTduU3dQVmt6Vk5GNnRaTnI4T3BmdF9Zb1hFX29oV3RJa0NyRG5HengySTRRcjZ5bFA5SldPaUZ5RFY1Zm1nU1lDRGVQZ0hWajhiOWlkaVJfTjdkeVhRVDVidmFpWkMtSVFEcUk2LTc2MXhVekJDazFSUGdvRG4tZTNnd3JvUnRsSXJDMXBRdE5icWx2MDF2enQwTzhQdVE?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 14:00:12 GMT"
+        "title": "The Tech Industry Has a Dirty Secret: The More People Learn About AI, the Less They Trust It - Futurism",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PWTZWZXBEc1h2QUlEZkp6bjdXbG1LRHNZZll1YzA5RWdiZG4tNTI5TmI4UTlqNWtqOVNoSTdxRXhZRnFxSTg2Rm1mcGVFTG5RV1hvYWFBM0k0YTg?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 17:04:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   },
-  "US Politics": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Epstein survivors urge action on Capitol Hill as GOP leadership faces pressure - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzNlQTc1bmlBa3drQlc1aEpWYmthMGhyQWFzQU8yZHBTNldQbVVYRFN4T21OTW5acjhpWVVpa1dkVFc2LXZ1WGR2Q2puUVgyaXZ6b0R4S3BHbDNaUzVmWXZQV0kydFRSeW5zbHhWQ25uTEZPT29XSDg3QTdBX05Ud3NUdjNXendtMWc?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 18:55:00 GMT"
+        "title": "Dozens of scientists cite errors in Energy Department climate change report - LiveNOW from FOX",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEdkcV83TmVTVmxxdmpZS3hZSlRZRnFHUjdpVjh0SjVPRlA4WGE4alVpenVaZWMtN1V6ZUxKSWJtNUFvM3hEeWR4NHFmVVNxRG5OVDlPa1Q0aW96MDRrVi1Tbk5PTnM2TjZ0RTRsVEdySU81b0t6ZUNBYVcwOEpDc0pxSllnMmVYc0HSAY8BQVVfeXFMT1VEZk9tVmJDYWdieEJXYUJkdTBGY3JxbWNha0c3REhCYW9pcDhCX1lqRWYxY2Z2NmdtUjkzV1kzZ0U0eF9JSEtib1pvQW1kSm1oY0hqbzUwUExKUm12azlFVWNHYzVMemJ5VEpvT1BnNXkydG1DRXdvY0xUaDJsV0IzeVM0dG1ObEpSeTVFM2M?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 17:47:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   },
   "Financial Markets": {
     "articles": [
       {
-        "title": "Stocks, Bonds Rise as Weak Jobs Bolster Fed Bets: Markets Wrap - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHl1LXY1ZUxxSkFVaWFVb2lvMVZCazdUc3NNNGFQWnJfM2V4dGNJSWJ3eXU0YURmX2N2VTZyT3BVSF84VF94eEFPbzNCbm5hSWNNMTRqeGVpeW42Mk5zNXpHNHROYzJxRkdLSHFJaGVfTmFnLWNJd0x3OF95VllFQmdud2ZYdElaWEhSVzZ6b0U4WG5Q?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 19:36:07 GMT"
+        "title": "UK Budget Troubles Are Back Rocking the Bond Market Again - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaU5Bc2V1LWNMQ0dxSURLbWp5aDctZ01DemFfOE9Ic3IxcVhBQnJLVzFFdHE4UnphWlltdHo5TnRkNmpaVnY0ZWxkWVBwclBUXzF6MXcwWVptVlJvWld0VnlKWUVqUF9rcVpEY1Vod0FaS0RsbE5CMkNvU25ZVzFqVUR2MGo3Y1pLTzlKcGM1bWRWT3VOSlZFLVo1OXRPa0hLclZ3OWktSExvZlloOUloM1VsTGlrUQ?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 10:23:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   },
-  "Technology": {
+  "Quantum Computing": {
     "articles": [
       {
-        "title": "Google Ramps Up AI Chip Competition with Nvidia - The Information",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkVRWU5JYURGMm9VeFY2VzBreEdnVTFhZzVQR0FFeFBpSDdxWjBWLUU5TjdYMEhRNGlRNElwZmk3anJ1RFFCZ3YwZi15cGZpQTZwUi1ROXUzclBNcnN5dUZPaWhJcDVweUFrUkNEMDI0WjNCUWctN0ZVWWlfaGNQV21jQm1Mdw?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 13:00:00 GMT"
+        "title": "Northwestern accelerates quantum research with NVIDIA technology - Northwestern Now News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWxKODdfOGpkREhOWFY2Z21KMzBjbmpTN0hPQjNsSEZRQVBHQVUySG5FTzNxQ3VKV2l3WkE1X21nVEdSSDhaV3NXWlAtOEFvVWl1QUtpdG8wZmJEbU1NT3BSaWItMWM2R3VVT3NrbFZXdGRBRzVhUDhwWFhUNE56ZGdKa1RwVHo0Z0JFMU5HQU1rVXhmcW9HYklCN2tVUHJJV20tYmhQNHpWWEpHZUdnRg?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 19:42:02 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T20:01:05.374872+00:00"
+    "last_updated_ts": "2025-09-03T21:01:00.403640+00:00"
   }
 }
