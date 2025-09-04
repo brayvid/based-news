@@ -1,62 +1,72 @@
 {
-  "AI Safety": {
+  "Artificial General Intelligence": {
     "articles": [
       {
-        "title": "Shipping heavyweights invest in AI safety firm Captain\u2019s Eye - Splash247",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlJtaG0zMGc1M0FlUllEemJkd3pxaXpMN3RvUmNIQ2dEWXNsdmFiemhjOGJMUVE2ZjUycmFLOC11aDFlOUpkbVJIV3NwY3BFVi01LTlFNHdNMmlyM3lfQmFMS2FtT004MzJJZFlsOV9rVEJrbjVicDJkS2pRLUotdnA5MDJRUXEyV1E?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 13:49:15 GMT"
+        "title": "What If There\u2019s No AGI? - The American Prospect",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oYnpiaERqX0ItYjBHSlZkaUZMNjZ2anVhTVhxbzU4RnNyUHdTWW9uVjZCM0lSbTJ0R1JPWEg4Z25Kei1kQ2xYdHV1TkVVcEtSLVdoUVZmdzE4cUxVbTMxV1R5ekFtdkxNaGFrZS1TWQ?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 09:40:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
   },
-  "Ukraine": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "South Korea could be a model for postwar Ukraine, Zelenskyy says - politico.eu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzdtNmZqRE5XSnNpT0dEUmNWSXY0dzJZNTVXQk1IUTRuTW40T01HblBqRkRkWmdhTUNRczh3N3ZEVldfYjY1MFJnMFQ1S1JFX1RiSzVfbDFFaW1XcGttUzFyZGUtb2pkeWVoejJVTFV4TUFyWThtbF8taDVHRjd1MnhKemRydldBZFd1dQ?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 13:07:36 GMT"
+        "title": "Why wild venison is a climate-friendly swap for beef - BBC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlpNWWozT3RnSzFrajR0SHVtRDdMQ0V2ZFhtYlU0TkoteWtWMWdHSGxwTHBWNl9fRFJLUjBSbmxxOWZMVWIxbFhHWDljWi1QMHFBVF9hZ2Y4NmJfQUdaZW9QYVpZNS1BelRWaUkxajd2eGNpLWhsNGV4LU9XaUktVUxERFZrdy1jUlJYczYtNU4xd0ZLV3NTSEFoZi0?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 09:00:53 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "How the newest ISAC aims to help food and agriculture firms thwart cyberattacks - Cybersecurity Dive",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUh5bGpEVFRXSTkwZlk0VWpraEFqWnJSTHdPSTJtZDdlSjZoTmljdVQ4enpqQUlxTzlsYm1tOURNbDExcV9JTTJ1OXMtSGlvZ0c0eWtKMTk0dWVmWVBxZkN2VXNlNzNMcWQ1QlNHT2t1TEVxM1oxSXdERVFNYUR1cDJ3?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 13:34:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMktlM3R6T05rQWFKWTdNaTIwdXZhNTYwbDRjMWRORU9fOTlGc2dGempfRTRHVkdKaF95Q0VJSm1jbHNLYlI4dFptY2IxY3R6TFluZ2FNSjBmU1FHYndIaXhIOU9nODN5cm1zcDAzRVNBMzZDLTBFVFBzN3d3NmZ1VkZZMEt5dGJZTjN0ZmUybkxBSWNKbHo1TTZiTlVreWRWbVlwS0l4TzdiS0VlSUZjcVJMZXljRGpteFV1MEs4akRhOU5lTmcwU3BUTHh3bUkz?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+  },
+  "Earthquakes": {
+    "articles": [
+      {
+        "title": "Update: 2.3 magnitude earthquake struck near San Vicente, Mexico on Sept. 4 - Sacramento Bee",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dmpBTmR4MjZKOHI4QXpXcFJhdENWLV9JbERPZWw5WVhwTHNPeTU2czdFa0VQaG00cDlIYUtoQm0wNlVzT2ZickpHc29zd2tLQ0dBODV0cTZ0a0JnbHJaaXY3aVZITXhpTlBoTDlvdnpzTEJ5UmZnUFVEYy0?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 14:21:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+  },
+  "Energy Transition": {
+    "articles": [
+      {
+        "title": "Consumers can drive energy innovation by being power players - The World Economic Forum",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTFDVFQ2NDhaQWtyUUp5dXVJdUpRQUZLcTAxWGh6V2VDVXREODBJTkxKQ2g3ZWFPWmtvemY0VTN2OGE4a0FmSEtjV3FKaEpDMzNVbU9CYV9mMlpnTUZTLXZkdE5NelJxdHdiMVdPWG1MQ2FfMW1LWjdJbVFvRENpZ3JFRW54UVc1YTJwUVNlNWxJb2s0MUtKZFZKQkl6ZTdxdGIzOQ?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 12:10:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
   },
   "Israel": {
     "articles": [
       {
-        "title": "Israeli intelligence data: Militants account for only 1 in 4 Gaza detainees - +972 Magazine",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVNTcUxNOFZfaktWcTJRWm4xNjNmS2dsajlWeFJZejlBN2w0Z1hyZVRRWmpHYU1BOEp3RE81QTJsZmk0SkVhckkyWlMzcGxneC13RUI0aFJtYUFvaFVEa1BTV203VjNKakMzUzk3QVI1SUFYc0JNLXNXTXBTeUxvSl9Hc2hFNDZQbEN4SmFnX3FpUQ?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 06:11:15 GMT"
+        "title": "Opinion | The Nuclear Bomb That Israel Fears Might Not Come From Iran At All - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFkTGEtSEo3clpHenAwc0hubUZZVlBSUFZ1VlUzLS1mdU9YWG40UXRXRE9weEFFNG0yREh5NnBhajh1dEJURWlYT0VjMnFrOEsxNUJKRXMxWXhKV3VRYVdMNTZ0YVZWbl9jWHBIRTVFUVJvWFhoNXhqajdPZG1HZHAwZWdlSWxGa0ZSdXA2dFRUZlUxUUFwSWhBR1J1bkgyU1JyMmJJMm5IejjSAbMBQVVfeXFMTmx1WjFncThPXzA5aXlmZk8xZ2NrQWt2VGZDTHp5MFdMX1pGVHhibHpIbjYtLXktS3lCUm9pNGVlUjZ1Y1M5N1BHRUU4blFSaXpuU1pKRlg1S0t1RHJUY1RfcTdrQTgzbGExRnhUbFBDN3FMdmFlRjdoUGQ4a18yVTZJazY3MnFQU1RnM2ZZWHBGZTdrOV90c0VURDZ6X0xBUlg4ZTdSMnpPbnpCbWtXSS0yZUU?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 11:44:49 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Nvidia Investment In Honeywell's Quantinuum Sends Quantum Computing Stocks Up - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhVclVkSml2Uk5UQzh2S1VBS1hkSUtyRGNWY0ZGd1RQN0plQkZZallTWnRRN1Y2aFZZb2RBa1AyMkpjTTBaQmlJRThfT3dpa1RpVTdqbENKOXlNOGZteEJXa1JWWGpOVU8zQ1RlWVlSYjV6Y3JOMDR3cHdVYkdSbmRNd3dkTS1kTURJQV9mNE5wZ2RPQjVHZnNsRG55ZnNsc05Yb2ttODdnTjlCbEhMMVFBb3BoQQ?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 13:25:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Watch New Assault Fears | 100,000 Solders On Russia's Front Line - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMENrWVhLQmRrMVMtYzhHWjg2S09JcUlWeVNkdU9xdHJqSllJVkh0SUlMX3Bnd1BGdHp0ZTYtRmtUU1V3bl9NR2ROVlMzeDFZdzlXb05Mb2JMS0JMUlo1YVEtMG5ObXdKVFZ1M3U1ZjNNYkFSYmMxTi1mSmYxRkNNNWlaLXhmX0V4bFN0bXMxcm8yLW5renRyV2FEUUNIV2JTWHVnVWtDWTN0SHh1?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 12:22:16 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "Gold Price Hits Record High\u2014What It Says About US Economy - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84YVhBMjQxdnpwNExfLTd1bnN3VG5WVkY3Sk9Qd3hKVDQzV3lRNWNpSmdRYXN3UXl5ZnVYd2dxQzhIYXlLR3lVWFJCX2J2YUxkMUxuYzNIZF9nVGpVT1NrMHNlNmotTGd1TjFsaWVIY1BESjc4cnc?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 10:48:17 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T14:01:10.749164+00:00"
+    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
   }
 }
