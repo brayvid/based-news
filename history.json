@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli forces raid former air defence base near Syrian capital - The Guardian",
-      "pubDate": "Thu, 28 Aug 2025 15:02:00 GMT"
-    },
-    {
       "title": "Lebanon says 2 troops killed by Israeli drone that exploded after crashing; IDF voices regret - The Times of Israel",
       "pubDate": "Thu, 28 Aug 2025 23:15:00 GMT"
     },
@@ -391,10 +387,6 @@
       "pubDate": "Thu, 28 Aug 2025 20:13:33 GMT"
     },
     {
-      "title": "Russia starts exporting containerised goods from occupied Sevastopol - Lloyd's List",
-      "pubDate": "Thu, 28 Aug 2025 15:44:57 GMT"
-    },
-    {
       "title": "North Korea\u2019s Kim consoles families of soldiers killed fighting for Russia - Al Jazeera",
       "pubDate": "Sat, 30 Aug 2025 01:43:02 GMT"
     },
@@ -476,10 +468,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "TIME100 AI 2025: Stuart Russell - Time Magazine",
-      "pubDate": "Thu, 28 Aug 2025 15:46:00 GMT"
-    },
     {
       "title": "Instagram\u2019s chatbot helped teen accounts plan suicide \u2014 and parents can\u2019t disable it - The Washington Post",
       "pubDate": "Thu, 28 Aug 2025 17:00:00 GMT"
@@ -711,6 +699,10 @@
     {
       "title": "Shipping heavyweights invest in AI safety firm Captain\u2019s Eye - Splash247",
       "pubDate": "Thu, 04 Sep 2025 13:49:15 GMT"
+    },
+    {
+      "title": "Inside Anthropic's 'Red Team'\u2014ensuring Claude is safe, and that Anthropic is heard in the corridors of power - Fortune",
+      "pubDate": "Thu, 04 Sep 2025 15:14:00 GMT"
     }
   ],
   "financial_markets": [
@@ -781,6 +773,10 @@
     {
       "title": "Global bonds rally after poor US economic data - Financial Times",
       "pubDate": "Wed, 03 Sep 2025 20:32:44 GMT"
+    },
+    {
+      "title": "Stock Market Today: Dow Edges Up; Stephen Miran Hearing Begins \u2014 Live Updates - The Wall Street Journal",
+      "pubDate": "Thu, 04 Sep 2025 14:52:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1397,6 +1393,10 @@
     {
       "title": "South Korea could be a model for postwar Ukraine, Zelenskyy says - politico.eu",
       "pubDate": "Thu, 04 Sep 2025 13:07:36 GMT"
+    },
+    {
+      "title": "26 nations ready to take part in postwar Ukraine force, Macron says - Reuters",
+      "pubDate": "Thu, 04 Sep 2025 15:25:55 GMT"
     }
   ],
   "us_economy": [
@@ -1799,6 +1799,10 @@
     {
       "title": "10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News",
       "pubDate": "Thu, 04 Sep 2025 09:00:42 GMT"
+    },
+    {
+      "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
+      "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
     }
   ],
   "north_korea": [
@@ -1816,10 +1820,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cyberattack keeps Nevada State offices closed: Latest updates from DPS, DMV, and NV Supreme Court - KTVN",
-      "pubDate": "Thu, 28 Aug 2025 15:22:30 GMT"
-    },
     {
       "title": "CISA Issues Advisory on Chinese State-Sponsored Actors Targeting Critical Infrastructure - The National Law Review",
       "pubDate": "Thu, 28 Aug 2025 23:06:21 GMT"
@@ -1915,6 +1915,10 @@
     {
       "title": "How the newest ISAC aims to help food and agriculture firms thwart cyberattacks - Cybersecurity Dive",
       "pubDate": "Thu, 04 Sep 2025 13:34:10 GMT"
+    },
+    {
+      "title": "SentinelOne Stock: Ignored AI Cybersecurity Play (NYSE:S) - Seeking Alpha",
+      "pubDate": "Thu, 04 Sep 2025 12:30:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2653,6 +2657,10 @@
     {
       "title": "Live: Israel rejects Hamas truce offer as thousands forced to flee Gaza City - Middle East Eye",
       "pubDate": "Thu, 04 Sep 2025 05:50:10 GMT"
+    },
+    {
+      "title": "Children killed by Israeli strike while getting water in area Palestinians were told to go - NBC News",
+      "pubDate": "Thu, 04 Sep 2025 09:30:00 GMT"
     }
   ],
   "algorithms": [
@@ -2665,12 +2673,6 @@
     {
       "title": "Astronomers detect baby planet bigger than Jupiter. How University of Arizona helped - azcentral.com and The Arizona Republic",
       "pubDate": "Thu, 28 Aug 2025 16:46:55 GMT"
-    }
-  ],
-  "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "CISA's New SBOM Guidelines Get Mixed Reviews - Dark Reading",
-      "pubDate": "Thu, 28 Aug 2025 15:37:07 GMT"
     }
   ],
   "climate_change": [
@@ -3129,6 +3131,10 @@
     {
       "title": "Why wild venison is a climate-friendly swap for beef - BBC",
       "pubDate": "Thu, 04 Sep 2025 09:00:53 GMT"
+    },
+    {
+      "title": "Full of crap: Climate change could cause more sewage pollution for rivers, lakes, and beaches - CommonWealth Beacon",
+      "pubDate": "Thu, 04 Sep 2025 14:06:50 GMT"
     }
   ],
   "amazon": [
@@ -3279,12 +3285,6 @@
     {
       "title": "Experts say Department of Homeland Security undermines credibility in hiring Pa. elections activist - WITF",
       "pubDate": "Thu, 28 Aug 2025 22:02:38 GMT"
-    }
-  ],
-  "republican_party": [
-    {
-      "title": "Trump suggests hosting pre-midterm GOP convention - Politico",
-      "pubDate": "Thu, 28 Aug 2025 15:54:43 GMT"
     }
   ],
   "algorithmic_trading": [

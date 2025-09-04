@@ -1,72 +1,72 @@
 {
-  "Artificial General Intelligence": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "What If There\u2019s No AGI? - The American Prospect",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oYnpiaERqX0ItYjBHSlZkaUZMNjZ2anVhTVhxbzU4RnNyUHdTWW9uVjZCM0lSbTJ0R1JPWEg4Z25Kei1kQ2xYdHV1TkVVcEtSLVdoUVZmdzE4cUxVbTMxV1R5ekFtdkxNaGFrZS1TWQ?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 09:40:04 GMT"
+        "title": "Inside Anthropic's 'Red Team'\u2014ensuring Claude is safe, and that Anthropic is heard in the corridors of power - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejMxdEdyVFhtNHd4VzNMbXpRZXA3UWRUOGNnUVJpalNoX0hTdURQb3lLSHRTQ2plTWVoWVdySUJkOC1tcVNVLUs2aVZtdHhhZzEzd0ZPVU1BX082bmp6dG5jajdfUFh0S0VUZlBXQkpxaVBzeXZWdkUtU09fWERWa0RrTHpVLTQyeUk2aVNvLXFjUFhObnRZNnVoY0l0YXJtWnRueGE1TmFzTEp4ZEpVRGkwVWV5S192ZHVoUVFKNmJ3OEx1OU5LdDBNTHJaZw?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 15:14:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
+  },
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "26 nations ready to take part in postwar Ukraine force, Macron says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0tzZGcxd1oxOW1jTmJCYXpuNWFxRTlWTDVfNXZvd1lCODNuVV8xYnlORUhYSldNRmRYcGVFOTU0a0Yxb2FNbjNUTnVGYXc1UzFsb3BnaWRxRC10TUxpeDZvbWU4WVZZeDBJRVVpNlZqRlV0a0NPWFFHMlAzQVpQZVZUMnJwcDBmaGhVU1J2T1NsUnZmSV9jMXpKQXdnRjJwSkNjOHhzRWl6T21xRHc?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 15:25:55 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
+  },
+  "Gaza": {
+    "articles": [
+      {
+        "title": "Children killed by Israeli strike while getting water in area Palestinians were told to go - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3pWVGV3N19RamdZaV9tRThabC15M25IV3JlcFZlR25mdmJTeDBjc3lHQWM0dWtobmdIM04xRUtoaGVmNU5rR3dMREhjREJCUHA2VXRUd3RzNnNaNko5VVRPZGJPV1V5NzA4c0R0OWRVTEJLbmxJSnlzeFgzV0VXX3RUQ05vWDVuSmlMVVBwb2J2ODduWXBTTS1PcWJGb01JdXJFc1JlX2lXeEVKdFFuRHNpc9IBVkFVX3lxTE9VTWpkM3NIVnJKeFJwbnhEaTRNX0JSX1FCaG1veVVDbW9INm43REQ0b044VS1HZm5FY3ZFMDdKTElNcXpVSFNONE53anV0SktDRnQ2MDhn?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 09:30:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVdqeHVfc2J0aEtRN1dIckJnX0piRWFNcnpaSTVsbEthQy1rSDNuRXhaaTlkUEhNeVNuckt5OWx3MkdIT29JOGxRRVBONlZfVjhHR21jZlk1VlpaTkhZbmtTa1FsNHNjWjBCaGEyMWhUaDlsdUI2QXU1UTdFS2NYQ04zaExwSXZzNS1WTW5YUTRid09OdEpuVjZVazZEdG5ubDRVcUNoSUtHYXV3LWIyYTlfRWY2WkNlUlA4d3ZDQzZyQ0U0QkFPTk9FMW5CTmc?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "Stock Market Today: Dow Edges Up; Stephen Miran Hearing Begins \u2014 Live Updates - The Wall Street Journal",
+        "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeXlXZEFybGstc1IzeHZBeVNub25US3VPdjBhcDhYdlc3V1ZlVXVLMnJObHBIX18zRkROUWpzVzRYbnpNbkRlRFBFM0l2SzJCbFRqR0dLYUZBVlRwd3pmakZyYkg0ZUhLNVZfd0NYWTF4eUpkdG5wUG0zb0dSeDk4Nm42TEF4MXU2V25DODlfSF9kekNoWFU5cTUyQncxeWRudEp3MzRqSnNLTnQtcVB1QW9CdVVmTU9rYzhCbGY1N0ZOVFl5OUp4MlZmVkRJeE9XaFN2TlpUbHhYcnFrSWNnS2ZfaGxFc2phaU1PTDFUZzQ3UmhEMnRBcHVWWkpkd0VNYVg0bDMtaE5HdC01NHdJTEoxb1NHdzNITDR4UThCZTNqUGhJTGhQeUJVY0U2REtlNVpNZUdIeW9Mb0RCbWpXMHFoUE1ZMkp5NXBiMjc2Wm9UeVJHYjNoYTJqVExXOF93LVMzSkdkSnVISVhsc2tRRVlVa05YeUhxckIxbGxEUWhmcE9BeWxLVDJBbHA?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 14:52:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Why wild venison is a climate-friendly swap for beef - BBC",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlpNWWozT3RnSzFrajR0SHVtRDdMQ0V2ZFhtYlU0TkoteWtWMWdHSGxwTHBWNl9fRFJLUjBSbmxxOWZMVWIxbFhHWDljWi1QMHFBVF9hZ2Y4NmJfQUdaZW9QYVpZNS1BelRWaUkxajd2eGNpLWhsNGV4LU9XaUktVUxERFZrdy1jUlJYczYtNU4xd0ZLV3NTSEFoZi0?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 09:00:53 GMT"
+        "title": "Full of crap: Climate change could cause more sewage pollution for rivers, lakes, and beaches - CommonWealth Beacon",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWk1lNXlxSlZ4Ymg4SE5PQnFKTDNjNkw0c19WNXkwMFJhbFRxME41bEFscFZMTUYwQy1BTjNCeFBQZ090aTJBTmlRczNnZ3RCcGVqd1E0WDBmY1BUWWtLNE9oMnRSVlFibXIxQzUwcXJzb2ZnY2pSckoydTdjWXU4UzUyLXJRQ3Z2UXdYMzJYVUY2Z250THpGMDhMS3FrbjFjT2JYWW8tNjdEYVhZSVYyRjhfOE5VbDY3MUJyNmNGNkxUMF9VczN0Z0N0LU1Wb2c?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 14:06:50 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
   },
   "Cybersecurity": {
     "articles": [
       {
-        "title": "How the newest ISAC aims to help food and agriculture firms thwart cyberattacks - Cybersecurity Dive",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUh5bGpEVFRXSTkwZlk0VWpraEFqWnJSTHdPSTJtZDdlSjZoTmljdVQ4enpqQUlxTzlsYm1tOURNbDExcV9JTTJ1OXMtSGlvZ0c0eWtKMTk0dWVmWVBxZkN2VXNlNzNMcWQ1QlNHT2t1TEVxM1oxSXdERVFNYUR1cDJ3?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 13:34:10 GMT"
+        "title": "SentinelOne Stock: Ignored AI Cybersecurity Play (NYSE:S) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGNnenN5MlN1eVF5WEp4dHBWTjFpd3ZWcDhXeU81QkNIVG5GQVZUQWhQOXkzaUM5NEREWnljZjBva051Rjd5WkJ6V1dBMy1qakFXcXVnQk5QVkRQQnptNzdRTllrM0FBSzUzUXBreTFoQXhqWmZGMmFLNEV5WVhJeWNFaFpXY0ZPbXc?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 12:30:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMktlM3R6T05rQWFKWTdNaTIwdXZhNTYwbDRjMWRORU9fOTlGc2dGempfRTRHVkdKaF95Q0VJSm1jbHNLYlI4dFptY2IxY3R6TFluZ2FNSjBmU1FHYndIaXhIOU9nODN5cm1zcDAzRVNBMzZDLTBFVFBzN3d3NmZ1VkZZMEt5dGJZTjN0ZmUybkxBSWNKbHo1TTZiTlVreWRWbVlwS0l4TzdiS0VlSUZjcVJMZXljRGpteFV1MEs4akRhOU5lTmcwU3BUTHh3bUkz?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
-  },
-  "Earthquakes": {
-    "articles": [
-      {
-        "title": "Update: 2.3 magnitude earthquake struck near San Vicente, Mexico on Sept. 4 - Sacramento Bee",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dmpBTmR4MjZKOHI4QXpXcFJhdENWLV9JbERPZWw5WVhwTHNPeTU2czdFa0VQaG00cDlIYUtoQm0wNlVzT2ZickpHc29zd2tLQ0dBODV0cTZ0a0JnbHJaaXY3aVZITXhpTlBoTDlvdnpzTEJ5UmZnUFVEYy0?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 14:21:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
-  },
-  "Energy Transition": {
-    "articles": [
-      {
-        "title": "Consumers can drive energy innovation by being power players - The World Economic Forum",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTFDVFQ2NDhaQWtyUUp5dXVJdUpRQUZLcTAxWGh6V2VDVXREODBJTkxKQ2g3ZWFPWmtvemY0VTN2OGE4a0FmSEtjV3FKaEpDMzNVbU9CYV9mMlpnTUZTLXZkdE5NelJxdHdiMVdPWG1MQ2FfMW1LWjdJbVFvRENpZ3JFRW54UVc1YTJwUVNlNWxJb2s0MUtKZFZKQkl6ZTdxdGIzOQ?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 12:10:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Opinion | The Nuclear Bomb That Israel Fears Might Not Come From Iran At All - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFkTGEtSEo3clpHenAwc0hubUZZVlBSUFZ1VlUzLS1mdU9YWG40UXRXRE9weEFFNG0yREh5NnBhajh1dEJURWlYT0VjMnFrOEsxNUJKRXMxWXhKV3VRYVdMNTZ0YVZWbl9jWHBIRTVFUVJvWFhoNXhqajdPZG1HZHAwZWdlSWxGa0ZSdXA2dFRUZlUxUUFwSWhBR1J1bkgyU1JyMmJJMm5IejjSAbMBQVVfeXFMTmx1WjFncThPXzA5aXlmZk8xZ2NrQWt2VGZDTHp5MFdMX1pGVHhibHpIbjYtLXktS3lCUm9pNGVlUjZ1Y1M5N1BHRUU4blFSaXpuU1pKRlg1S0t1RHJUY1RfcTdrQTgzbGExRnhUbFBDN3FMdmFlRjdoUGQ4a18yVTZJazY3MnFQU1RnM2ZZWHBGZTdrOV90c0VURDZ6X0xBUlg4ZTdSMnpPbnpCbWtXSS0yZUU?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 11:44:49 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-04T15:00:48.651950+00:00"
+    "last_updated_ts": "2025-09-04T16:01:25.656197+00:00"
   }
 }
