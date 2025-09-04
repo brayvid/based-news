@@ -1,62 +1,12 @@
 {
-  "AI Safety": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Ionic to expand Orca AI\u2019s safety platform across its entire fleet - Ship Technology",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWZtdURGUDBfUWVVMmhfSlA0MWQydk5lSkt1R2d4dTVyNDNLNlVLcjRNNkFnUzlfZTlTcXgtdjFDMHd0SWZ3UkFldWI3VUVWUk05ekN3TmdzX2JMcXBuaEd4RWx0MmRUM0ZjWlJjcWdTZXZzWTVNRjZtbERVWVY4SDJuclVTT3Y5a3pOQjlzYWdRcjR2NzRhNmY0QQ?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 15:22:37 GMT"
+        "title": "Judge says Trump administration unlawfully blocked $2 billion from Harvard - CNN",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFFaYzFwWW84NFdmMktQOWZ6OUc3WDg5ZDcydWlHREZ6OU1aRUFTOW5fM1pNX1cxUThBSFVnSTlwaUJuYzRTWFUxOGRDbFJfcjdaR1phQTJmVlJTTTlvdHBYQ1JvQlI3amVWME1OakpLa3hxaEo3akpFRkdvZ3A4MnB5UVBDWXdlVXc?oc=5",
+        "pubDate": "Wed, 03 Sep 2025 20:48:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "Right On Crime Releases New Study on Artificial Intelligence in Law Enforcement, Emphasizing Public Safety - Right On Crime",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlFJbFFzeEp1ZzllbnZjX21wbDRjdFozTTBVR1lSV0FoaDJLaXZDM1Q4ZnV5WVZwSWVVLVpXYmtlSzgzdlJBaHpFN3dTSHhleDg5Y2xNdHZudGtfNDN1TVhZYlh6SnVTWDQxdl9VbXgtUEpWUk5rZW0yQW12R0lEQXU5WUNySm1HTENvemxWVHBrc0ZvbjFDcFZsTVlEUEczck9aRU1YS0pXNzI1c0ttVTNxcUdaMWgxdzU0OTA1VnI4VTVCTFBhZ1ViWFBKMy1jaWh6OHI5WQ?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 15:20:25 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Hot oceans weaken Earth\u2019s carbon sink - Earth.com",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWGVlV09FazF0dGFxcjBlU25DSG9sZ3MxNENTZ0RjZjN2Y29feUdXS18zUmVYaUVKdVMzejlzSldPcFMwaXZ4ZHE0MEpfMXAtYjBTUzhqZGFkZ2paZ1I4eGhGT1NPaGpJZHUzSTduT0tDdw?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 16:45:32 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
-  },
-  "Donald Trump": {
-    "articles": [
-      {
-        "title": "Harvard: Judge overturns Trump's research funding cuts at school - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFX1hhZU5yaThCUkFuRE9nTFNaNDhjVUt1NEpwN19LZVQ2NnhSRlN1dUdoSGdfTlRTQTVYMnpCYzRqblpLMVMwU1B1OXdsekJxSXkyVWVQcTFsZ9IBX0FVX3lxTE9LUWxXSzMtNnJzTlExMnUtOEhVTEhZUjJBVGpoS2s3NnYta3pyZHNUYm0yb21fV0RfRzA5UERpcDdBVzc4MGNWRWJ1dzRUT2otQl9NcXF0NEd1Zld2b2hR?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 22:40:56 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "UAE warns White House that Israeli annexations could unravel Abraham Accords - Axios",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbW5iT19QSHpyUXJDeHdTNUtmTllpNWwzTlZRRGJpQU5TWWdMVGJGS3hKM0RYR3VnOG4tQWx3TzNvaElxX0N1Nlc2TmFOejVnWDFNb0ljUHVuWEhoeEFNbUViaDZpbmpMRWREUFJnemRfbm5VOEp1VW1EOXV5dFYwZ1Y2UHFoMGJf?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 17:42:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "E4 Computer Engineering Presents New Approach to HPC-Quantum Computing Integration at IEEE Quantum Week 2025 - HPCwire",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMEZTUFc5aUFrM1JWMVVCemFwZE85bFktZU4wcFQ3LXh4clJiZmtLb1o0R3UxZkhybkZXcjR3UUdUVnZ1b2FJaTVBT3A2S2FlOUtuYjRJQ1ZCZU9ObEpsdElkWkpkMVcxcDA1WWhVQ0M1SGFFRnhTMUN0VmZJUHRYUkJoS1RlRGVOLU5DOE1VaHpBc21NOG1pTnJTSmV4SXVYZWYzaW9LWDVSY1NHQVNhUmFHOWdNNXVFNUItcDlidF9MT0VGaFFLUWhmMFA2T3FKY0J6UUhYYmxUVjh1a3Jr?oc=5",
-        "pubDate": "Wed, 03 Sep 2025 21:50:12 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-03T23:00:58.702471+00:00"
+    "last_updated_ts": "2025-09-04T00:01:02.128329+00:00"
   }
 }
