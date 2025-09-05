@@ -21,10 +21,6 @@
       "pubDate": "Fri, 29 Aug 2025 16:21:00 GMT"
     },
     {
-      "title": "Security official: Hostages could\u2019ve been home already had Israel accepted offer on table - The Times of Israel",
-      "pubDate": "Fri, 29 Aug 2025 10:51:05 GMT"
-    },
-    {
       "title": "UN to end Lebanon peacekeeping mission next year after Israeli and US pressure - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 14:13:00 GMT"
     },
@@ -383,6 +379,10 @@
     {
       "title": "Trump warns \u2018fairly substantial\u2019 chip tariffs are coming; signals Apple, others will be safe - CNBC",
       "pubDate": "Fri, 05 Sep 2025 03:11:00 GMT"
+    },
+    {
+      "title": "Hats on hats: How the Trump administration is loading officials with jobs - NPR",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
     }
   ],
   "russia": [
@@ -485,6 +485,10 @@
     {
       "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
       "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
+    },
+    {
+      "title": "Kremlin says Putin and Trump could meet again soon - Reuters",
+      "pubDate": "Fri, 05 Sep 2025 09:07:33 GMT"
     }
   ],
   "ai_safety": [
@@ -507,10 +511,6 @@
     {
       "title": "Virginia attorney general joins coalition pressing Big Tech over AI chatbot risks - 13newsnow.com",
       "pubDate": "Fri, 29 Aug 2025 18:29:00 GMT"
-    },
-    {
-      "title": "Veea and Genesys Impact launch edge-only AI platform for construction site safety and asset tracking - Edge Industry Review",
-      "pubDate": "Fri, 29 Aug 2025 10:00:07 GMT"
     },
     {
       "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
@@ -739,10 +739,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stock Markets Hit Records Amid Fed Attacks, Nvidia Concerns, Tariff Fears. 3 Reasons Why. - Barron's",
-      "pubDate": "Fri, 29 Aug 2025 10:23:00 GMT"
-    },
-    {
       "title": "Stock Market News, Aug. 29, 2025: Appeals Court Strikes Down Trump's Global Tariffs; AI Worries Hit Nasdaq - The Wall Street Journal",
       "pubDate": "Sat, 30 Aug 2025 00:36:00 GMT"
     },
@@ -820,10 +816,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
-      "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
-    },
     {
       "title": "Artificial Intelligence Boom Lures Kazakhstan\u2019s Oil Wealth - Bloomberg.com",
       "pubDate": "Fri, 29 Aug 2025 15:12:04 GMT"
@@ -1461,6 +1453,10 @@
     {
       "title": "U.S. could take lead watching Ukraine buffer zone if peace deal with Russia comes together - NBC News",
       "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "How Ukraine is responding to support from European leaders - NPR",
+      "pubDate": "Fri, 05 Sep 2025 09:09:27 GMT"
     }
   ],
   "us_economy": [
@@ -1605,6 +1601,10 @@
     {
       "title": "China Imposes Temporary Duties on EU Pork Following Probe - Bloomberg",
       "pubDate": "Fri, 05 Sep 2025 08:59:21 GMT"
+    },
+    {
+      "title": "Diplomatic tour de force: China's Xi shows he's 'totally in charge' - Reuters",
+      "pubDate": "Fri, 05 Sep 2025 06:16:00 GMT"
     }
   ],
   "us_politics": [
@@ -2371,16 +2371,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Vitalik Buterin Warns: Quantum Computers Could Break Cryptography by 2030 - ICOBench.com",
-      "pubDate": "Fri, 29 Aug 2025 10:43:54 GMT"
-    },
-    {
       "title": "New algorithm solves quantum computer's speed-of-light problem - Interesting Engineering",
       "pubDate": "Fri, 29 Aug 2025 12:11:00 GMT"
-    },
-    {
-      "title": "Quantum computing production expands with Shenzhen\u2019s factory project in China - Digital Watch Observatory",
-      "pubDate": "Fri, 29 Aug 2025 10:43:21 GMT"
     },
     {
       "title": "114-year-old tech Goliath bets big on quantum computing - TheStreet",
@@ -2631,6 +2623,10 @@
     {
       "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
       "pubDate": "Fri, 05 Sep 2025 08:10:56 GMT"
+    },
+    {
+      "title": "AGI talk is out in Silicon Valley\u2019s latest vibe shift, but worries remain about superpowered AI - AOL.com",
+      "pubDate": "Fri, 05 Sep 2025 01:56:24 GMT"
     }
   ],
   "national_security": [
@@ -2686,10 +2682,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "As Israel seeks to empty Gaza City, its residents weigh whether to leave - The Washington Post",
-      "pubDate": "Fri, 29 Aug 2025 10:31:44 GMT"
-    },
     {
       "title": "Gaza toll surpasses 63,000 killed, with 322 people starved to death - Al Jazeera",
       "pubDate": "Fri, 29 Aug 2025 14:15:00 GMT"
@@ -2793,10 +2785,6 @@
   ],
   "climate_change": [
     {
-      "title": "There\u2019s a new world order for Atlantic storms. Hurricane Erin was a preview - CNN",
-      "pubDate": "Fri, 29 Aug 2025 11:00:00 GMT"
-    },
-    {
       "title": "Florida's Once-Pristine Springs Threatened by Pollution, Development and Climate Change - U.S. News & World Report",
       "pubDate": "Fri, 29 Aug 2025 13:05:00 GMT"
     },
@@ -2807,10 +2795,6 @@
     {
       "title": "56 million years ago, Earth underwent rapid global warming. Here\u2019s what it did to pollinators - Space",
       "pubDate": "Fri, 29 Aug 2025 15:00:00 GMT"
-    },
-    {
-      "title": "Solastalgia: Climate Change\u2019s Hidden Mental Health Crisis? - Medscape",
-      "pubDate": "Fri, 29 Aug 2025 10:11:47 GMT"
     },
     {
       "title": "Can genetically modified crops help us adapt to climate change? - Labiotech.eu",
@@ -3295,6 +3279,10 @@
     {
       "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 09:01:54 GMT"
+    },
+    {
+      "title": "Climate change turns Pakistan\u2019s summer oases into deadly flood zones - The Washington Post",
+      "pubDate": "Fri, 05 Sep 2025 10:31:53 GMT"
     }
   ],
   "world_news": [
