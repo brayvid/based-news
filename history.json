@@ -715,6 +715,10 @@
     {
       "title": "Transcript: AI Safety Expert Dr. Roman Yampolskiy on The Diary Of A CEO Podcast - The Singju Post",
       "pubDate": "Fri, 05 Sep 2025 06:26:09 GMT"
+    },
+    {
+      "title": "AI\u2019s double threat: 99% job loss and doom to humanity - Windows Central",
+      "pubDate": "Fri, 05 Sep 2025 11:21:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1095,10 +1099,6 @@
       "pubDate": "Fri, 29 Aug 2025 17:49:18 GMT"
     },
     {
-      "title": "Russia hits out at Macron for calling Putin an 'ogre' - Le Monde.fr",
-      "pubDate": "Fri, 29 Aug 2025 13:00:32 GMT"
-    },
-    {
       "title": "EU accuses Putin of undermining peace talks after deadly strikes on Kyiv - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 20:08:00 GMT"
     },
@@ -1421,6 +1421,10 @@
     {
       "title": "How Ukraine is responding to support from European leaders - NPR",
       "pubDate": "Fri, 05 Sep 2025 09:09:27 GMT"
+    },
+    {
+      "title": "Zelensky Locks Horns With Putin\u2019s Friend Xi? Ukrainian Firm To Help Taiwan Build Combat Drones - Times of India",
+      "pubDate": "Fri, 05 Sep 2025 12:16:16 GMT"
     }
   ],
   "us_economy": [
@@ -1871,6 +1875,10 @@
     {
       "title": "Venezuelan Jets Fly Over U.S. Navy Ship in Show of Force - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 02:59:47 GMT"
+    },
+    {
+      "title": "Democrats return to Trump's Washington after getting an earful of 'do something' at home - NBC News",
+      "pubDate": "Fri, 05 Sep 2025 09:00:42 GMT"
     }
   ],
   "north_korea": [
@@ -2081,6 +2089,10 @@
     {
       "title": "Musk looks past Tesla sales slump, says 80% of value will come from Optimus - CNBC",
       "pubDate": "Tue, 02 Sep 2025 14:00:35 GMT"
+    },
+    {
+      "title": "Tesla offers Elon Musk a trillion-dollar pay package - The Guardian",
+      "pubDate": "Fri, 05 Sep 2025 12:14:00 GMT"
     }
   ],
   "cancer": [
@@ -2189,6 +2201,10 @@
     {
       "title": "Cryptocurrency Sector Dives 12% as Trump-Tied Assets Plummet Amid Regulatory Fears - AInvest",
       "pubDate": "Fri, 05 Sep 2025 00:15:37 GMT"
+    },
+    {
+      "title": "Bitcoin analysts see a \u2018massive\u2019 move as BTC price regains $112K - Cointelegraph",
+      "pubDate": "Fri, 05 Sep 2025 09:50:04 GMT"
     }
   ],
   "data_breach": [
@@ -2330,10 +2346,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "New algorithm solves quantum computer's speed-of-light problem - Interesting Engineering",
-      "pubDate": "Fri, 29 Aug 2025 12:11:00 GMT"
-    },
     {
       "title": "114-year-old tech Goliath bets big on quantum computing - TheStreet",
       "pubDate": "Fri, 29 Aug 2025 13:26:54 GMT"
@@ -2590,10 +2602,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Former Trump officials: Strong intellectual property protections are crucial to America's national security - Fortune",
-      "pubDate": "Fri, 29 Aug 2025 13:00:00 GMT"
-    },
     {
       "title": "Retired Williamson Co. sheriff: Illicit weight loss drugs are a national security threat - The Tennessean",
       "pubDate": "Fri, 29 Aug 2025 14:03:13 GMT"
@@ -3243,6 +3251,10 @@
     {
       "title": "Climate change turns Pakistan\u2019s summer oases into deadly flood zones - The Washington Post",
       "pubDate": "Fri, 05 Sep 2025 10:31:53 GMT"
+    },
+    {
+      "title": "Carbon storage challenged as climate change silver bullet by massive underground study - Fortune",
+      "pubDate": "Fri, 05 Sep 2025 11:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3477,6 +3489,12 @@
     {
       "title": "UBS Warns 93% Recession Risk for U.S. Economy in 2025 - AInvest",
       "pubDate": "Thu, 04 Sep 2025 08:07:00 GMT"
+    }
+  ],
+  "economic_news": [
+    {
+      "title": "US economy adds just 22,000 jobs in August as labour market cools - Financial Times",
+      "pubDate": "Fri, 05 Sep 2025 12:32:44 GMT"
     }
   ]
 }
