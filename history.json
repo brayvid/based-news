@@ -283,10 +283,6 @@
   ],
   "iran": [
     {
-      "title": "Germany tells nationals to leave Iran, fearing retaliation over sanctions - Reuters",
-      "pubDate": "Fri, 29 Aug 2025 08:35:31 GMT"
-    },
-    {
       "title": "Iran on the edge? Report warns Ayatollah\u2019s regime on brink of collapse triggering civil war - Mint",
       "pubDate": "Sun, 31 Aug 2025 00:15:16 GMT"
     },
@@ -481,13 +477,13 @@
     {
       "title": "South Africa Seeks Delay of Russia-China War Games During G-20 - Bloomberg.com",
       "pubDate": "Fri, 05 Sep 2025 06:07:00 GMT"
+    },
+    {
+      "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
+      "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Cloudflare Launches Application Confidence Score to Tackle Shadow IT and Shadow AI Risks - TechAfrica News",
-      "pubDate": "Fri, 29 Aug 2025 08:21:49 GMT"
-    },
     {
       "title": "AI Prophets - The Herald Journal",
       "pubDate": "Fri, 29 Aug 2025 11:31:23 GMT"
@@ -821,10 +817,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "China warns against \u2018disorderly competition\u2019 in booming AI race - Fortune",
-      "pubDate": "Fri, 29 Aug 2025 08:13:24 GMT"
-    },
-    {
       "title": "China doubles down on AI \u2013 but calls for rational, not \u2018blind\u2019, growth - South China Morning Post",
       "pubDate": "Fri, 29 Aug 2025 09:02:36 GMT"
     },
@@ -1126,10 +1118,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia hits Ukrainian vessel, killing 2 crew members, injuring others, Navy says - The Kyiv Independent",
-      "pubDate": "Fri, 29 Aug 2025 08:03:45 GMT"
-    },
     {
       "title": "US is \u2018losing the economics of war\u2019 in Ukraine, Rep. Pat Harrigan warns - Fox Business",
       "pubDate": "Fri, 29 Aug 2025 11:53:13 GMT"
@@ -1495,10 +1483,6 @@
       "pubDate": "Fri, 29 Aug 2025 09:03:00 GMT"
     },
     {
-      "title": "SCO, Tianjin: Trump casts a long shadow over China\u2019s gathering of global leaders - CNN",
-      "pubDate": "Fri, 29 Aug 2025 08:24:00 GMT"
-    },
-    {
       "title": "US to make it harder for Intel, SK Hynix and Samsung to make chips in China - Reuters",
       "pubDate": "Fri, 29 Aug 2025 13:09:59 GMT"
     },
@@ -1609,6 +1593,10 @@
     {
       "title": "How China\u2019s New Naval and Air Sites Would Aid an Attack on Taiwan - The Wall Street Journal",
       "pubDate": "Fri, 05 Sep 2025 03:00:00 GMT"
+    },
+    {
+      "title": "'Salt Typhoon' attack: How China hackers may have accessed sensitive US data; tapped into power grids - Times of India",
+      "pubDate": "Fri, 05 Sep 2025 06:25:00 GMT"
     }
   ],
   "us_politics": [
@@ -1911,13 +1899,13 @@
     {
       "title": "Eric Adams may leave NYC mayoral race for Trump-linked role - The Jerusalem Post",
       "pubDate": "Fri, 05 Sep 2025 02:01:17 GMT"
+    },
+    {
+      "title": "Venezuelan Jets Fly Over U.S. Navy Ship in Show of Force - The New York Times",
+      "pubDate": "Fri, 05 Sep 2025 02:59:47 GMT"
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea posts fastest growth in 8 years in 2024, driven by Russia ties, Seoul says - Reuters",
-      "pubDate": "Fri, 29 Aug 2025 08:27:38 GMT"
-    },
     {
       "title": "North Korea's Kim inspects new missile production line, KCNA says - Reuters",
       "pubDate": "Sun, 31 Aug 2025 21:39:17 GMT"
@@ -2229,6 +2217,10 @@
     {
       "title": "SEC Says Regulatory Clarity for Crypto Assets Is \u2018Key Priority\u2019 - PYMNTS.com",
       "pubDate": "Fri, 05 Sep 2025 01:41:15 GMT"
+    },
+    {
+      "title": "Cryptocurrency Sector Dives 12% as Trump-Tied Assets Plummet Amid Regulatory Fears - AInvest",
+      "pubDate": "Fri, 05 Sep 2025 00:15:37 GMT"
     }
   ],
   "data_breach": [
@@ -2631,6 +2623,10 @@
     {
       "title": "What If There\u2019s No AGI? - The American Prospect",
       "pubDate": "Thu, 04 Sep 2025 09:40:04 GMT"
+    },
+    {
+      "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
+      "pubDate": "Fri, 05 Sep 2025 08:10:56 GMT"
     }
   ],
   "national_security": [
@@ -3295,12 +3291,10 @@
     {
       "title": "Climate-change-driven wildfires increasing air pollution across globe: UN - Al Jazeera",
       "pubDate": "Fri, 05 Sep 2025 06:57:07 GMT"
-    }
-  ],
-  "amazon": [
+    },
     {
-      "title": "Dozens of Colombian soldiers released after three-day captivity in Amazon - Al Jazeera",
-      "pubDate": "Fri, 29 Aug 2025 08:10:50 GMT"
+      "title": "Bay Area scientists helping restore coral reefs damaged by climate change - CBS News",
+      "pubDate": "Fri, 05 Sep 2025 03:51:33 GMT"
     }
   ],
   "world_news": [
@@ -3311,12 +3305,6 @@
     {
       "title": "Fancy footwork amid ruins: teaching Gaza's children to breakdance - Reuters",
       "pubDate": "Fri, 05 Sep 2025 01:52:39 GMT"
-    }
-  ],
-  "asia": [
-    {
-      "title": "India's Modi meets Japan's Ishiba as he begins Asia tour - yahoo.com",
-      "pubDate": "Fri, 29 Aug 2025 08:45:01 GMT"
     }
   ],
   "spacex": [
