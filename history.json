@@ -1,20 +1,12 @@
 {
   "israel": [
     {
-      "title": "Turkey closes its airspace to Israeli planes and curbs Israel-bound trade over the Gaza war - AP News",
-      "pubDate": "Fri, 29 Aug 2025 16:21:00 GMT"
-    },
-    {
       "title": "Israel releases clip of October 7 attack as it faces international condemnation over Gaza City assault - CNN",
       "pubDate": "Fri, 29 Aug 2025 19:38:00 GMT"
     },
     {
       "title": "Netanyahu Shares Footage Exclusively Abroad Showing Hamas' October 7 Murder of Israeli - Haaretz",
       "pubDate": "Fri, 29 Aug 2025 18:49:00 GMT"
-    },
-    {
-      "title": "Iran launched cyberattack on Gaza ceasefire talks, Israeli firm reports - Ynetnews",
-      "pubDate": "Fri, 29 Aug 2025 16:55:23 GMT"
     },
     {
       "title": "Israel declares Gaza\u2019s largest city a combat zone and halts humanitarian pauses - NewsNation",
@@ -251,6 +243,10 @@
     {
       "title": "US sanctions Palestinian rights groups who asked top court for Israel war crimes investigation - CNN",
       "pubDate": "Fri, 05 Sep 2025 03:52:00 GMT"
+    },
+    {
+      "title": "Hamas releases hostage video, Israel bombs Gaza high-rise - Reuters",
+      "pubDate": "Fri, 05 Sep 2025 15:38:58 GMT"
     }
   ],
   "iran": [
@@ -1067,6 +1063,10 @@
     {
       "title": "Large Language Models Can Execute Complete Ransomware Attacks Autonomously, NYU Tandon Research Shows | Newswise - Newswise",
       "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Chair\u2019s Conversational AI Startup Raises $350 Million - PYMNTS.com",
+      "pubDate": "Fri, 05 Sep 2025 16:24:01 GMT"
     }
   ],
   "ukraine": [
@@ -1423,10 +1423,6 @@
   ],
   "china": [
     {
-      "title": "Trump Admin Deals Blow To China, Samsung - Newsweek",
-      "pubDate": "Fri, 29 Aug 2025 16:18:42 GMT"
-    },
-    {
       "title": "Xi Jinping to host Vladimir Putin and Narendra Modi as China presents rival front to US - Financial Times",
       "pubDate": "Sat, 30 Aug 2025 00:00:05 GMT"
     },
@@ -1547,10 +1543,6 @@
     {
       "title": "Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - 10tv.com",
       "pubDate": "Fri, 29 Aug 2025 18:33:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s approval rating plummets to record second term low, new poll says - The Independent",
-      "pubDate": "Fri, 29 Aug 2025 16:48:00 GMT"
     },
     {
       "title": "Most Donald Trump tariffs are not legal, court rules - The Jerusalem Post",
@@ -1847,6 +1839,10 @@
     {
       "title": "Chicago gears up for Trump\u2019s federal law enforcement deployment: \u2018We aren\u2019t helpless\u2019 - The Guardian",
       "pubDate": "Fri, 05 Sep 2025 13:41:00 GMT"
+    },
+    {
+      "title": "Weak August payrolls confirm Federal Reserve\u2019s September cut - Financial Times",
+      "pubDate": "Fri, 05 Sep 2025 14:00:59 GMT"
     }
   ],
   "north_korea": [
@@ -1967,6 +1963,10 @@
     {
       "title": "New Cybersecurity Threats to Watch For - Seton Hall University",
       "pubDate": "Thu, 04 Sep 2025 20:15:00 GMT"
+    },
+    {
+      "title": "CISA orders federal agencies to patch Sitecore zero-day following hacking reports - The Record from Recorded Future News",
+      "pubDate": "Fri, 05 Sep 2025 13:35:23 GMT"
     }
   ],
   "federal_reserve": [
@@ -2243,10 +2243,6 @@
       "pubDate": "Fri, 29 Aug 2025 20:14:00 GMT"
     },
     {
-      "title": "General Atomics Fuels UNITY-2 Fusion Project in Canada as Global Fusion Investment Hits $2.64 Billion - CarbonCredits.com",
-      "pubDate": "Fri, 29 Aug 2025 16:14:32 GMT"
-    },
-    {
       "title": "'80s science scandal may lead to more efficient fusion - New Atlas",
       "pubDate": "Sat, 30 Aug 2025 04:06:49 GMT"
     },
@@ -2309,24 +2305,12 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Computing (QUBT) and Its Accelerating Market Breakthrough: Short-to-Mid-Term Investment Catalysts and Sector Momentum - AInvest",
-      "pubDate": "Fri, 29 Aug 2025 16:52:29 GMT"
-    },
-    {
       "title": "Quantum Computing Inc. $QUBT Shares Purchased by Vanguard Group Inc. - MarketBeat",
       "pubDate": "Fri, 29 Aug 2025 18:49:42 GMT"
     },
     {
       "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
       "pubDate": "Fri, 29 Aug 2025 21:13:07 GMT"
-    },
-    {
-      "title": "Dog Named Scribble Replicates Quantum Factorization Records \u2013 So We Tried It Too - IFLScience",
-      "pubDate": "Fri, 29 Aug 2025 16:07:30 GMT"
-    },
-    {
-      "title": "Rigetti vs IonQ: Which Quantum Computing Stock Is the Smarter Buy? - Nasdaq",
-      "pubDate": "Fri, 29 Aug 2025 16:26:00 GMT"
     },
     {
       "title": "A Simple Shift in Light Control Could Revolutionize Quantum Computing - SciTechDaily",
@@ -2503,6 +2487,10 @@
     {
       "title": "Decentralized Protocols as Strategic Investments in National Resilience: The Post-Quantum Cybersecurity Imperative - AInvest",
       "pubDate": "Fri, 05 Sep 2025 07:51:20 GMT"
+    },
+    {
+      "title": "Qubic Secures Nearly $1 Million Grant to Develop Advanced Quantum Amplifier Technology - The Quantum Insider",
+      "pubDate": "Fri, 05 Sep 2025 11:06:57 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2707,16 +2695,8 @@
       "pubDate": "Fri, 29 Aug 2025 19:07:41 GMT"
     },
     {
-      "title": "Atlantic current at risk of COLLAPSE plunging UK into never-ending winter - Daily Express",
-      "pubDate": "Fri, 29 Aug 2025 16:14:00 GMT"
-    },
-    {
       "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
       "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
-    },
-    {
-      "title": "More turbulence on planes lately? Climate change could be to blame, according to experts - Diario AS",
-      "pubDate": "Fri, 29 Aug 2025 16:02:22 GMT"
     },
     {
       "title": "Climate change is driving fish stocks from countries\u2019 waters to the high seas: Study - Mongabay",
@@ -3185,6 +3165,10 @@
     {
       "title": "At Burning Man, the Weather Can Feel Biblical. Will Climate Change Make It Even Worse? - KQED",
       "pubDate": "Fri, 05 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Hannah Ritchie has a new book about tackling climate change coming out on September 18th - Our World in Data",
+      "pubDate": "Fri, 05 Sep 2025 09:51:10 GMT"
     }
   ],
   "world_news": [
