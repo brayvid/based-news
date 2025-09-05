@@ -5,10 +5,6 @@
       "pubDate": "Fri, 29 Aug 2025 19:38:00 GMT"
     },
     {
-      "title": "Netanyahu Shares Footage Exclusively Abroad Showing Hamas' October 7 Murder of Israeli - Haaretz",
-      "pubDate": "Fri, 29 Aug 2025 18:49:00 GMT"
-    },
-    {
       "title": "Israel declares Gaza\u2019s largest city a combat zone and halts humanitarian pauses - NewsNation",
       "pubDate": "Sat, 30 Aug 2025 04:22:43 GMT"
     },
@@ -469,10 +465,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Virginia attorney general joins coalition pressing Big Tech over AI chatbot risks - 13newsnow.com",
-      "pubDate": "Fri, 29 Aug 2025 18:29:00 GMT"
-    },
-    {
       "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
       "pubDate": "Fri, 29 Aug 2025 20:58:51 GMT"
     },
@@ -785,10 +777,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Nvidia and Other AI Stocks Are Falling. Why Investors Are Souring on Artificial Intelligence. - Barron's",
-      "pubDate": "Fri, 29 Aug 2025 18:19:00 GMT"
-    },
-    {
       "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says - Reuters",
       "pubDate": "Sat, 30 Aug 2025 00:03:00 GMT"
     },
@@ -1067,6 +1055,10 @@
     {
       "title": "AI firm plans to reconstruct 'lost' footage from Orson Welles' 'The Magnificent Ambersons' - NBC News",
       "pubDate": "Fri, 05 Sep 2025 17:23:22 GMT"
+    },
+    {
+      "title": "AI Learns Like Us, but With the Same Flaws - ScienceBlog.com",
+      "pubDate": "Fri, 05 Sep 2025 16:15:19 GMT"
     }
   ],
   "ukraine": [
@@ -1077,10 +1069,6 @@
     {
       "title": "Putin lambasts trade sanctions on eve of visit to China - Reuters",
       "pubDate": "Fri, 29 Aug 2025 23:51:23 GMT"
-    },
-    {
-      "title": "SECURITY COUNCIL LIVE: Push for peace in Ukraine could rapidly fade if large-scale Russian attacks continue - UN News",
-      "pubDate": "Fri, 29 Aug 2025 18:44:56 GMT"
     },
     {
       "title": "Europe considering post-war buffer zone - report - Sky News",
@@ -1389,6 +1377,10 @@
     {
       "title": "Zelensky Locks Horns With Putin\u2019s Friend Xi? Ukrainian Firm To Help Taiwan Build Combat Drones - Times of India",
       "pubDate": "Fri, 05 Sep 2025 12:16:16 GMT"
+    },
+    {
+      "title": "Head of Moldovan military intelligence: Ukraine may repeat the situation that arose in Georgia - RBC-Ukraine",
+      "pubDate": "Fri, 05 Sep 2025 12:15:22 GMT"
     }
   ],
   "us_economy": [
@@ -1536,10 +1528,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - 10tv.com",
-      "pubDate": "Fri, 29 Aug 2025 18:33:00 GMT"
-    },
     {
       "title": "Most Donald Trump tariffs are not legal, court rules - The Jerusalem Post",
       "pubDate": "Fri, 29 Aug 2025 21:48:46 GMT"
@@ -1835,6 +1823,10 @@
     {
       "title": "Weak August payrolls confirm Federal Reserve\u2019s September cut - Financial Times",
       "pubDate": "Fri, 05 Sep 2025 14:00:59 GMT"
+    },
+    {
+      "title": "Revamped congressional stock ban draws even larger House coalition - The Center Square",
+      "pubDate": "Fri, 05 Sep 2025 16:35:00 GMT"
     }
   ],
   "north_korea": [
@@ -2289,10 +2281,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Computing Inc. $QUBT Shares Purchased by Vanguard Group Inc. - MarketBeat",
-      "pubDate": "Fri, 29 Aug 2025 18:49:42 GMT"
-    },
-    {
       "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
       "pubDate": "Fri, 29 Aug 2025 21:13:07 GMT"
     },
@@ -2475,6 +2463,10 @@
     {
       "title": "Qubic Secures Nearly $1 Million Grant to Develop Advanced Quantum Amplifier Technology - The Quantum Insider",
       "pubDate": "Fri, 05 Sep 2025 11:06:57 GMT"
+    },
+    {
+      "title": "NYU team develops breakthrough method to boost quantum computing reliability - Brooklyn Eagle",
+      "pubDate": "Fri, 05 Sep 2025 18:19:01 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2685,10 +2677,6 @@
     {
       "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
       "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
-    },
-    {
-      "title": "Climate change is driving fish stocks from countries\u2019 waters to the high seas: Study - Mongabay",
-      "pubDate": "Fri, 29 Aug 2025 18:14:12 GMT"
     },
     {
       "title": "Climate Change Regulations Issued Under New York Climate Leadership and Community Protection Act - New York State Bar Association",
@@ -3161,6 +3149,10 @@
     {
       "title": "Powerful rain and floods devastate northern India as experts blame climate change - NBC News",
       "pubDate": "Fri, 05 Sep 2025 06:54:00 GMT"
+    },
+    {
+      "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
+      "pubDate": "Fri, 05 Sep 2025 15:45:40 GMT"
     }
   ],
   "world_news": [
@@ -3395,6 +3387,12 @@
     {
       "title": "US economy adds just 22,000 jobs in August as labour market cools - Financial Times",
       "pubDate": "Fri, 05 Sep 2025 12:32:44 GMT"
+    }
+  ],
+  "space_exploration": [
+    {
+      "title": "Spaceflight activates \u2018dark genome\u2019 in human cells, researcher says - CNN",
+      "pubDate": "Fri, 05 Sep 2025 15:05:00 GMT"
     }
   ]
 }
