@@ -469,6 +469,10 @@
     {
       "title": "Hot mic picks up Putin and Xi discussing organ transplants and immortality - Reuters",
       "pubDate": "Fri, 05 Sep 2025 14:59:00 GMT"
+    },
+    {
+      "title": "Why China and Russia are unlikely to move the Power of Siberia-2 pipeline forward - Atlantic Council",
+      "pubDate": "Fri, 05 Sep 2025 14:44:00 GMT"
     }
   ],
   "ai_safety": [
@@ -781,6 +785,10 @@
     {
       "title": "Stocks slip as Wall Street questions whether the US job market has slowed by enough or too much - AP News",
       "pubDate": "Fri, 05 Sep 2025 17:13:00 GMT"
+    },
+    {
+      "title": "SEC, CFTC Propose Making US Financial Markets 24/7 to Keep Up with Crypto - Decrypt",
+      "pubDate": "Fri, 05 Sep 2025 15:12:03 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1063,6 +1071,10 @@
     {
       "title": "A tournament tried to test how well experts could forecast AI progress. They were all wrong. - vox.com",
       "pubDate": "Fri, 05 Sep 2025 11:15:00 GMT"
+    },
+    {
+      "title": "Melania Trump Says Children Must Be Prepared For Artificial Intelligence: 'The Robots Are Here' - HuffPost",
+      "pubDate": "Fri, 05 Sep 2025 20:34:59 GMT"
     }
   ],
   "ukraine": [
@@ -1533,10 +1545,6 @@
       "pubDate": "Fri, 29 Aug 2025 23:59:51 GMT"
     },
     {
-      "title": "Appeals court finds Trump had no right to impose tariffs, but leaves them in place for now - PBS",
-      "pubDate": "Fri, 29 Aug 2025 22:41:57 GMT"
-    },
-    {
       "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat - NPR",
       "pubDate": "Sat, 30 Aug 2025 09:15:00 GMT"
     },
@@ -1819,6 +1827,10 @@
     {
       "title": "Oregon state Rep. Cyrus Javadi switches political teams, registers as a Democrat - Oregon Public Broadcasting - OPB",
       "pubDate": "Fri, 05 Sep 2025 19:13:02 GMT"
+    },
+    {
+      "title": "Trump expresses reservations over Florida eliminating vaccine mandates: \u2018We have to be very careful\u2019 - The Hill",
+      "pubDate": "Fri, 05 Sep 2025 22:06:00 GMT"
     }
   ],
   "north_korea": [
@@ -1841,16 +1853,8 @@
       "pubDate": "Sat, 30 Aug 2025 01:06:00 GMT"
     },
     {
-      "title": "WhatsApp finds new hacking campaign targeting fewer than 200 people - Reuters",
-      "pubDate": "Fri, 29 Aug 2025 22:35:53 GMT"
-    },
-    {
       "title": "Messaging service WhatsApp discovers advanced cyberespionage campaign - The Jerusalem Post",
       "pubDate": "Sat, 30 Aug 2025 04:43:11 GMT"
-    },
-    {
-      "title": "US Homeland Security chief reports breach at FEMA, fires 23 employees - Reuters",
-      "pubDate": "Fri, 29 Aug 2025 22:36:42 GMT"
     },
     {
       "title": "Fake on-chain sleuths prey on hack victims, an AI \u2018journalist\u2019 dupes the press, and other cybersecurity stories - ForkLog",
@@ -1931,6 +1935,10 @@
     {
       "title": "CISA orders federal agencies to patch Sitecore zero-day following hacking reports - The Record from Recorded Future News",
       "pubDate": "Fri, 05 Sep 2025 13:35:23 GMT"
+    },
+    {
+      "title": "Swiss Re warns of rate deterioration in cyber insurance - Cybersecurity Dive",
+      "pubDate": "Fri, 05 Sep 2025 15:36:42 GMT"
     }
   ],
   "federal_reserve": [
@@ -2044,10 +2052,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "California-based crypto lender Cred LLC execs sentenced to federal prison for fraud - CBS News",
-      "pubDate": "Fri, 29 Aug 2025 22:27:28 GMT"
-    },
     {
       "title": "Bitcoin Is Braced For A Massive September Shock After Sudden Plunge Sparked Ethereum, XRP And Crypto Crash Fears - Forbes",
       "pubDate": "Sat, 30 Aug 2025 11:07:20 GMT"
@@ -3113,6 +3117,10 @@
     {
       "title": "Washington Department of Ecology releases 'rebuke' of federal climate change study - KNDU",
       "pubDate": "Fri, 05 Sep 2025 17:43:39 GMT"
+    },
+    {
+      "title": "Discovery of North America's role in Asia's monsoons offers new insights into climate change - Phys.org",
+      "pubDate": "Fri, 05 Sep 2025 18:00:01 GMT"
     }
   ],
   "world_news": [
@@ -3249,10 +3257,6 @@
   ],
   "united_states": [
     {
-      "title": "US appeals court rules Trump\u2019s foreign tariff campaign is largely illegal - Al Jazeera",
-      "pubDate": "Fri, 29 Aug 2025 22:33:11 GMT"
-    },
-    {
       "title": "Trump wants to ax an affordable housing grant that\u2019s a lifeline for many rural communities - Newspressnow.com",
       "pubDate": "Sun, 31 Aug 2025 08:26:10 GMT"
     },
@@ -3371,6 +3375,12 @@
     {
       "title": "Google Fined $3.5 Billion by EU Over Ad-Tech Business - WSJ - The Wall Street Journal",
       "pubDate": "Fri, 05 Sep 2025 21:32:00 GMT"
+    }
+  ],
+  "global_health": [
+    {
+      "title": "WHO declares end of global emergency over mpox outbreak - statnews.com",
+      "pubDate": "Fri, 05 Sep 2025 14:25:20 GMT"
     }
   ]
 }
