@@ -9,10 +9,6 @@
       "pubDate": "Fri, 29 Aug 2025 11:30:55 GMT"
     },
     {
-      "title": "UK bans Israeli officials from major arms exhibition - Al Jazeera",
-      "pubDate": "Fri, 29 Aug 2025 09:33:45 GMT"
-    },
-    {
       "title": "Turkey says it bars Israeli ships from its ports, restricting airspace - Reuters",
       "pubDate": "Fri, 29 Aug 2025 15:04:51 GMT"
     },
@@ -279,6 +275,10 @@
     {
       "title": "Denying famine, Israel threatens more curbs on Gaza aid - NPR",
       "pubDate": "Thu, 04 Sep 2025 17:17:55 GMT"
+    },
+    {
+      "title": "US sanctions Palestinian rights groups who asked top court for Israel war crimes investigation - CNN",
+      "pubDate": "Fri, 05 Sep 2025 03:52:00 GMT"
     }
   ],
   "iran": [
@@ -379,6 +379,10 @@
     {
       "title": "Trump will host top tech CEOs except Musk at a White House dinner - PBS",
       "pubDate": "Thu, 04 Sep 2025 13:08:16 GMT"
+    },
+    {
+      "title": "Trump warns \u2018fairly substantial\u2019 chip tariffs are coming; signals Apple, others will be safe - CNBC",
+      "pubDate": "Fri, 05 Sep 2025 03:11:00 GMT"
     }
   ],
   "russia": [
@@ -817,10 +821,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "China doubles down on AI \u2013 but calls for rational, not \u2018blind\u2019, growth - South China Morning Post",
-      "pubDate": "Fri, 29 Aug 2025 09:02:36 GMT"
-    },
-    {
       "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
       "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
     },
@@ -1115,6 +1115,10 @@
     {
       "title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps - Reuters",
       "pubDate": "Fri, 05 Sep 2025 01:05:01 GMT"
+    },
+    {
+      "title": "Large Language Models Can Execute Complete Ransomware Attacks Autonomously, NYU Tandon Research Shows | Newswise - Newswise",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1453,6 +1457,10 @@
     {
       "title": "Ukraine moves to ban an Orthodox church it says is linked with pro-war Moscow church - WRAL.com",
       "pubDate": "Fri, 05 Sep 2025 05:12:29 GMT"
+    },
+    {
+      "title": "U.S. could take lead watching Ukraine buffer zone if peace deal with Russia comes together - NBC News",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
     }
   ],
   "us_economy": [
@@ -1478,10 +1486,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China - NPR",
-      "pubDate": "Fri, 29 Aug 2025 09:03:00 GMT"
-    },
     {
       "title": "US to make it harder for Intel, SK Hynix and Samsung to make chips in China - Reuters",
       "pubDate": "Fri, 29 Aug 2025 13:09:59 GMT"
@@ -1597,6 +1601,10 @@
     {
       "title": "'Salt Typhoon' attack: How China hackers may have accessed sensitive US data; tapped into power grids - Times of India",
       "pubDate": "Fri, 05 Sep 2025 06:25:00 GMT"
+    },
+    {
+      "title": "China Imposes Temporary Duties on EU Pork Following Probe - Bloomberg",
+      "pubDate": "Fri, 05 Sep 2025 08:59:21 GMT"
     }
   ],
   "us_politics": [
@@ -1607,10 +1615,6 @@
     {
       "title": "Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - 10tv.com",
       "pubDate": "Fri, 29 Aug 2025 18:33:00 GMT"
-    },
-    {
-      "title": "Trump move to cancel $4.9bn in Congress-approved foreign funding prompts condemnation \u2013 US politics live - The Guardian",
-      "pubDate": "Fri, 29 Aug 2025 09:46:00 GMT"
     },
     {
       "title": "Trump\u2019s approval rating plummets to record second term low, new poll says - The Independent",
@@ -2789,14 +2793,6 @@
   ],
   "climate_change": [
     {
-      "title": "Our best shot to save Florida reefs? An industrial factory making heat-hardy babies - Miami Herald",
-      "pubDate": "Fri, 29 Aug 2025 09:30:00 GMT"
-    },
-    {
-      "title": "Republicans vent outrage over Canada wildfires choking U.S. cities while denying climate change - Milwaukee Independent",
-      "pubDate": "Fri, 29 Aug 2025 10:00:03 GMT"
-    },
-    {
       "title": "There\u2019s a new world order for Atlantic storms. Hurricane Erin was a preview - CNN",
       "pubDate": "Fri, 29 Aug 2025 11:00:00 GMT"
     },
@@ -3295,6 +3291,10 @@
     {
       "title": "Bay Area scientists helping restore coral reefs damaged by climate change - CBS News",
       "pubDate": "Fri, 05 Sep 2025 03:51:33 GMT"
+    },
+    {
+      "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
+      "pubDate": "Fri, 05 Sep 2025 09:01:54 GMT"
     }
   ],
   "world_news": [
@@ -3315,6 +3315,10 @@
     {
       "title": "SpaceX's 30th Falcon 9 Reuse: A Tipping Point for Space Commercialization - AInvest",
       "pubDate": "Sun, 31 Aug 2025 01:58:02 GMT"
+    },
+    {
+      "title": "FAA: Starship launches, landings from KSC could delay Florida airline flights up to 2 hours - Florida Today",
+      "pubDate": "Fri, 05 Sep 2025 09:06:45 GMT"
     }
   ],
   "geopolitics": [
@@ -3336,10 +3340,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Trump's EV tax credit cut is driving a battery surplus threatening the growth of U.S. manufacturing - Fortune",
-      "pubDate": "Fri, 29 Aug 2025 09:14:21 GMT"
-    },
     {
       "title": "New data uncover another hidden cost of EV ownership: high insurance premiums - Los Angeles Times",
       "pubDate": "Fri, 29 Aug 2025 21:39:58 GMT"
