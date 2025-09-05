@@ -473,10 +473,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Observability, Prevention and Remediation for AI Security - BankInfoSecurity",
-      "pubDate": "Fri, 29 Aug 2025 04:04:44 GMT"
-    },
-    {
       "title": "Cloudflare Launches Application Confidence Score to Tackle Shadow IT and Shadow AI Risks - TechAfrica News",
       "pubDate": "Fri, 29 Aug 2025 08:21:49 GMT"
     },
@@ -805,6 +801,10 @@
     {
       "title": "S&P 500 rises as traders brace for Friday's jobs report after weak ADP hiring data: Live updates - CNBC",
       "pubDate": "Thu, 04 Sep 2025 19:11:00 GMT"
+    },
+    {
+      "title": "Markets News, Sep. 4, 2025: S&P 500 Closes at New High as Stocks Surge Ahead of August Jobs Report Release - Investopedia",
+      "pubDate": "Thu, 04 Sep 2025 22:52:36 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1103,16 +1103,16 @@
     {
       "title": "OpenAI teams up with Walmart to train millions of workers in artificial intelligence - Fox Business",
       "pubDate": "Thu, 04 Sep 2025 23:46:00 GMT"
+    },
+    {
+      "title": "AI helps astronomers better explore the universe - Google DeepMind",
+      "pubDate": "Thu, 04 Sep 2025 18:11:15 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Russia hits Ukrainian vessel, killing 2 crew members, injuring others, Navy says - The Kyiv Independent",
       "pubDate": "Fri, 29 Aug 2025 08:03:45 GMT"
-    },
-    {
-      "title": "Congress Already Knows How to Help Ukraine - Bloomberg.com",
-      "pubDate": "Fri, 29 Aug 2025 04:30:00 GMT"
     },
     {
       "title": "US is \u2018losing the economics of war\u2019 in Ukraine, Rep. Pat Harrigan warns - Fox Business",
@@ -1887,6 +1887,10 @@
     {
       "title": "US designates two Ecuadorian criminal groups as foreign terrorist organizations - CNN",
       "pubDate": "Thu, 04 Sep 2025 17:21:00 GMT"
+    },
+    {
+      "title": "Trump Is Accusing Foes With Multiple Mortgages of Fraud. Records Show 3 of His Cabinet Members Have Them. - ProPublica",
+      "pubDate": "Thu, 04 Sep 2025 19:15:00 GMT"
     }
   ],
   "north_korea": [
@@ -2003,6 +2007,10 @@
     {
       "title": "Agencies release guidance on software for widespread cybersecurity improvement - American Hospital Association",
       "pubDate": "Thu, 04 Sep 2025 20:12:40 GMT"
+    },
+    {
+      "title": "GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module - The Hacker News",
+      "pubDate": "Thu, 04 Sep 2025 17:58:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2319,6 +2327,10 @@
     {
       "title": "\"FBI Raids 12-Year-Old's Nuclear Lab\": Memphis Boy Achieves Fusion in Bedroom While Federal Agents Check Radiation Levels With Geiger Counters - Energy Reporters",
       "pubDate": "Tue, 02 Sep 2025 21:47:31 GMT"
+    },
+    {
+      "title": "\"The Country That Gets Fusion First Will Shape The Future\": US Company Completes World's Most Powerful Superconducting Fusion Magnet - Sustainability Times",
+      "pubDate": "Thu, 04 Sep 2025 20:12:01 GMT"
     }
   ],
   "quantum_computing": [
@@ -3223,6 +3235,10 @@
     {
       "title": "Climate Change Sparks Red Cross Disaster Action Team - Civic Media",
       "pubDate": "Thu, 04 Sep 2025 18:45:00 GMT"
+    },
+    {
+      "title": "WMO Air Quality and Climate Bulletin highlights vicious cycle - World Meteorological Organization WMO",
+      "pubDate": "Fri, 05 Sep 2025 04:05:50 GMT"
     }
   ],
   "amazon": [
