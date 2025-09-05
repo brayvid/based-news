@@ -1,62 +1,72 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Trump Is Accusing Foes With Multiple Mortgages of Fraud. Records Show 3 of His Cabinet Members Have Them. - ProPublica",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acG1PbkRqV2YwOHVNT1JyeFZtVG1icGNzSFFlbjI2MDhFNmRJNkFvZXI5NG43bERValNITk1rNWpvVmF4UlBOV3JVQzR4bUlXTmp6T1lXbnJOR1lmZk5ZeHhNMnpTU1Bwel9VYjk0WEc?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 19:15:00 GMT"
+        "title": "US AI giant Anthropic bars Chinese-owned entities - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVTJlT1Njbl82VjdMV0NacU9IaXlXeWtaV2lCai1YclB4NEFFYkxZOUw4dzk5c09KOXd2Qk1lOXo3dnRfREhmQWM0MUctOTNOeDBDVVlDcUNfV3FMQ2Jzd2RnaDJyYl8tMEpYbFdYTUJEMWFMVWtZQ21oWlZheWh5VFpiTHpIdGxsT0tQaTVNTXdEeFNVUzAzaS0tdVgxSDQ?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 05:47:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI helps astronomers better explore the universe - Google DeepMind",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYm9NQklpQkttUXJPeEw0a01Db1VVemdmdGNXU1dhZk8yQ25VWVlhd3JKSVptb2pfT1d0ck9VOTd0ZHNJVVZRaEtJTlE0Mk8wLWlPb3lnME90eVA1Y0VLLTBRQ1dCZGFtdVQwNUpGN09JY0VxSmVmVEVmdVZDLU5EdTZPdXJ6Q0VJMU8zd0c1UnlDdGM?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 18:11:15 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "WMO Air Quality and Climate Bulletin highlights vicious cycle - World Meteorological Organization WMO",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTNPYm5ETmdTenZjTkkwa2k4VGtxeGxJRUxQV0tzTE83TExMakszUUlQUTVUZDNOSnY1SzN2bS0xMkFLMm1aanBYU1BRb05fWlVkNV9aRC1uOVVneXNDUVFEUmJtQ1ppTi1iT0haV3RqV3N0T2xTTmpaX0hkOWF0N3RPWURHclBFU2J3VlZFWUN6cVhKMElUZlctUQ?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 04:05:50 GMT"
+        "title": "How cutting US air pollution could save 6,000 lives a year by 2030 - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVDVQbElpU0s2SmZDcjNaemx1VkppMDVnWDQ4OEw0VnIwVDE4NlpoUjkzOUxsYzZxQmstb09WOHRxUlkxMktOdFFVSEdab3ZFQWo5R29WVENBaDdBWWZhTmJLN0lxUTF1Y195UmlmQWoyWEFTV21ZaDh2SGZVRng1WWN0TDdSZGZWZ3FjOVZGNFhSdw?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 05:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
   },
-  "Cybersecurity": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module - The Hacker News",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdTQzRGVsWGdvc1N3SkFsUS1QbVJ6dHJlMWdrYzFpVDRfVTh3bkpsQXoyMnNjRnQxOVZtc2VCbGRPVExBSXAyTmdBTjVPbnJPTFJMVDVYVDlDcTJrZmhuYWVQSmVZLWQ3Znl6bEdGeW9OWC1XVDF4a25EZw?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 17:58:00 GMT"
+        "title": "Ukraine moves to ban an Orthodox church it says is linked with pro-war Moscow church - WRAL.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenNoMlZFWlVSRnFIQVR1aURmcHh5bWotbWhQZmVPUXZROWJzYWo4ckNIZnRPd3MtVXBveFNrS0k3a2ZfU3RLaFotN2NzNi13WGdaOVFKVlZlbDFVdXRQSUJBb1VyRHlReDRBQVZWa2d4eEQ4bDAwejY0RlJwY1B1S0I4bmtnS2RqYmVGX1BfdkpDNWNCNFYtVEVJekJ1ajVCenBLT3hoNnJ2SnZtS24xRkVQbUpJVXF0U056ZlFn0gFKQVVfeXFMTzR4eDFMWHk5REpqeGVnS1ZBdkRETTZ2SHEtNmxyWW81bnpma1VCQXVZcVVSTlE4dG9YMUIzcnBXUER5V2JWc1lqa2c?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 05:12:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
   },
-  "Financial Markets": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Markets News, Sep. 4, 2025: S&P 500 Closes at New High as Stocks Surge Ahead of August Jobs Report Release - Investopedia",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OHlRZ3V5d01YQzN0VVRwUHVNOTc2dk5yNWVtcUM0VThsbzIwTXREdkFEQVZDblRobFNxMC1zYTRkUXM5aFV4TzFMMU1XcjVhTDJWZjQwLXhIc1ZRdFM0MmZCS2JfaElWUDh0NUd6Zw?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 22:52:36 GMT"
+        "title": "Trump expected to nominate Lt. Gen. William Hartman to lead NSA, Cyber Command - Politico",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVlyQkxyTm13MVQ1eEh6WHBRLXVadDB4VmdmaHYxeGlmVV9ibDVleFlTOHlZaTBDWURyb2dJdXJiM2NZUk5qZjJTMnp4Q0dGZVZncVFfZk9Kb2trTi1teWhKU3pDQUZCa09CNWJSYjVWelRZZnVlTE9vSjhfcm05VDdBM2xPRXB1MXNESFM0VzU0Mm1HZkt1RUNGN1ZtaGs?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 21:29:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
   },
-  "Fusion Power": {
+  "Cryptocurrency": {
     "articles": [
       {
-        "title": "\"The Country That Gets Fusion First Will Shape The Future\": US Company Completes World's Most Powerful Superconducting Fusion Magnet - Sustainability Times",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQckxhR1dlbExHREVKQUU1Qi0zR1l2M3dzaUpfYnVrS2cxTkZLRy1NSjE2VUVNQVRleWEzb0Z4cEF5aU5xdE1lSzRkLWZtQ0d3RFB2bWNVSEJxVnBZMDNrLWVHZGIzTTVnTFd1NWRTVzJJX3hnY25JYV91X1F0WXNVY0htdWVyTlNybkhWZHNkREVyTDF1Rkg5TWMyRS1Ea0gyU0IzSC1hQkEyaDhGYkFyeV9kcnNHdllzeFNySWE2dXBhWllKZy1kaTVmVURiSW9FaGJhM0VPQ3lpUUVMTHVhVVREaTB2UHRQd25TYS00eEZSMkx3N3pQRlBxNllyWjdMaHlr?oc=5",
-        "pubDate": "Thu, 04 Sep 2025 20:12:01 GMT"
+        "title": "SEC Says Regulatory Clarity for Crypto Assets Is \u2018Key Priority\u2019 - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENUb0w5XzcwOWtBMTZPQmE4OXI3cTYwTkppRW9GdjVpb2hGUmNUQmd4UU5UcTR4T093ZzFNY3R1eHpWLXZ3S05odTZoTThJQm5IaVM1elNpV1hJV2VDYURRYXhtakJ2WjRSZjh2RDBkWVNiUml0QU1ZempuQU5lZFQ1RUwtTlJDWUhjaGdQaTcwX3FIMDlxYnNXbUdON2VsU0N3?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 01:41:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-05T05:00:32.800053+00:00"
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
+  },
+  "Electric Vehicle": {
+    "articles": [
+      {
+        "title": "Rivian lays off 200 workers, joins GM and VW in EV pullback from tax credit repeal - Automotive News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlo0UC1yV2YzQnBIQkdJZkRqV3JFdzN2aVc4NktpYm8yWkljdDNMY2JmUG1xSHdETkZwaTd2TjJFdFV6SUZjOVNOYUIxdVFDOTA2Xzl3d1Z4NTR1OXo2TTc1YXAyMkowRzBJRGJmNk9oNE9RQkRwejFudlRUSEVrTHF4bGk3LTI0NjZ3?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 20:35:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Russia\u2019s Economy Is Getting Crushed By Sanctions and Ukraine War Costs - National Security Journal",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBvOEVTSGxLc2xMOUVpaXZEQ3VhYk9kZUU5MkdkN3Bjd1REOGV0bW0wNnA0SVhkTHJWZ2NqUWh4UjRrZV9OSGEtaS1LOURfSTBIVmsyR2pFWHBvb3pNSVpHSmdXYU9CSXVBSmw0RnlCX1Zxa1p1REhYWWpoR3YyMW9yWmZLUFp5STVqcGFlTnY4RTFNWEVFXzNHSElIZTh1OVRqRDlBNDVSZw?oc=5",
+        "pubDate": "Thu, 04 Sep 2025 19:38:01 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-05T06:00:27.664124+00:00"
   }
 }

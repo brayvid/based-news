@@ -469,6 +469,10 @@
     {
       "title": "US to cut some security funds for countries bordering Russia, sources say - Reuters",
       "pubDate": "Thu, 04 Sep 2025 19:47:51 GMT"
+    },
+    {
+      "title": "Russia\u2019s Economy Is Getting Crushed By Sanctions and Ukraine War Costs - National Security Journal",
+      "pubDate": "Thu, 04 Sep 2025 19:38:01 GMT"
     }
   ],
   "ai_safety": [
@@ -479,10 +483,6 @@
     {
       "title": "AI Prophets - The Herald Journal",
       "pubDate": "Fri, 29 Aug 2025 11:31:23 GMT"
-    },
-    {
-      "title": "Lawsuit filed against OpenAI and Sam Altman as company responds with new safety measures - EdTech Innovation Hub",
-      "pubDate": "Fri, 29 Aug 2025 06:00:00 GMT"
     },
     {
       "title": "Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine",
@@ -719,16 +719,16 @@
     {
       "title": "Roblox dials up safety measures with Persona age estimation, AI voice screening - Biometric Update",
       "pubDate": "Thu, 04 Sep 2025 17:29:00 GMT"
+    },
+    {
+      "title": "US AI giant Anthropic bars Chinese-owned entities - The Straits Times",
+      "pubDate": "Fri, 05 Sep 2025 05:47:00 GMT"
     }
   ],
   "financial_markets": [
     {
       "title": "Stock Markets Hit Records Amid Fed Attacks, Nvidia Concerns, Tariff Fears. 3 Reasons Why. - Barron's",
       "pubDate": "Fri, 29 Aug 2025 10:23:00 GMT"
-    },
-    {
-      "title": "Asian shares are mixed after stocks add a bit to their records on Wall Street - The Independent",
-      "pubDate": "Fri, 29 Aug 2025 05:39:00 GMT"
     },
     {
       "title": "Stock Market News, Aug. 29, 2025: Appeals Court Strikes Down Trump's Global Tariffs; AI Worries Hit Nasdaq - The Wall Street Journal",
@@ -1453,6 +1453,10 @@
     {
       "title": "Ukraine Supported By Broad Coalition; Trump Urges Economic Pressure On Russia - The Hill",
       "pubDate": "Thu, 04 Sep 2025 23:16:00 GMT"
+    },
+    {
+      "title": "Ukraine moves to ban an Orthodox church it says is linked with pro-war Moscow church - WRAL.com",
+      "pubDate": "Fri, 05 Sep 2025 05:12:29 GMT"
     }
   ],
   "us_economy": [
@@ -1478,10 +1482,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Remember China's Belt and Road mega project? Here's what happened to it - CNBC",
-      "pubDate": "Fri, 29 Aug 2025 05:06:33 GMT"
-    },
     {
       "title": "Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China - NPR",
       "pubDate": "Fri, 29 Aug 2025 09:03:00 GMT"
@@ -1891,6 +1891,10 @@
     {
       "title": "Trump Is Accusing Foes With Multiple Mortgages of Fraud. Records Show 3 of His Cabinet Members Have Them. - ProPublica",
       "pubDate": "Thu, 04 Sep 2025 19:15:00 GMT"
+    },
+    {
+      "title": "Trump expected to nominate Lt. Gen. William Hartman to lead NSA, Cyber Command - Politico",
+      "pubDate": "Thu, 04 Sep 2025 21:29:00 GMT"
     }
   ],
   "north_korea": [
@@ -2197,6 +2201,10 @@
     {
       "title": "France detains seven over new cryptocurrency kidnapping - KTBS 3",
       "pubDate": "Thu, 04 Sep 2025 15:51:42 GMT"
+    },
+    {
+      "title": "SEC Says Regulatory Clarity for Crypto Assets Is \u2018Key Priority\u2019 - PYMNTS.com",
+      "pubDate": "Fri, 05 Sep 2025 01:41:15 GMT"
     }
   ],
   "data_breach": [
@@ -3239,6 +3247,10 @@
     {
       "title": "WMO Air Quality and Climate Bulletin highlights vicious cycle - World Meteorological Organization WMO",
       "pubDate": "Fri, 05 Sep 2025 04:05:50 GMT"
+    },
+    {
+      "title": "How cutting US air pollution could save 6,000 lives a year by 2030 - The Guardian",
+      "pubDate": "Fri, 05 Sep 2025 05:00:00 GMT"
     }
   ],
   "amazon": [
@@ -3274,10 +3286,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Oil Set for Monthly Loss as Glut Concerns, Geopolitics Dominate - Bloomberg.com",
-      "pubDate": "Fri, 29 Aug 2025 05:35:00 GMT"
-    },
     {
       "title": "China hosts show of economic force with fellow Brics nations India and Russia - thenationalnews.com",
       "pubDate": "Mon, 01 Sep 2025 07:16:27 GMT"
@@ -3343,6 +3351,10 @@
     {
       "title": "US immigration officers raid Georgia site where Hyundai makes electric vehicles - AP News",
       "pubDate": "Thu, 04 Sep 2025 21:24:00 GMT"
+    },
+    {
+      "title": "Rivian lays off 200 workers, joins GM and VW in EV pullback from tax credit repeal - Automotive News",
+      "pubDate": "Thu, 04 Sep 2025 20:35:00 GMT"
     }
   ],
   "public_health": [
@@ -3359,12 +3371,6 @@
     {
       "title": "Researchers Resolve Schwarzschild Singularity Using Unimodular Time and Discover Theories Allowing Only One Mass Sign - Quantum Zeitgeist",
       "pubDate": "Sat, 30 Aug 2025 20:06:04 GMT"
-    }
-  ],
-  "atlantic_ocean": [
-    {
-      "title": "Imminent Risk of Atlantic Ocean Circulation Collapse Demands Urgent Emission Cuts - mezha.net",
-      "pubDate": "Fri, 29 Aug 2025 05:19:39 GMT"
     }
   ],
   "algorithmic_trading": [
