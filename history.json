@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Evacuation of Gaza City would be unsafe and unfeasible, says head of Red Cross - Reuters",
-      "pubDate": "Sat, 30 Aug 2025 10:55:27 GMT"
-    },
-    {
       "title": "Israel will soon slow or halt aid into parts of northern Gaza, as some residents begin evacuating - CBS News",
       "pubDate": "Sat, 30 Aug 2025 12:51:18 GMT"
     },
@@ -261,10 +257,6 @@
       "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
     },
     {
-      "title": "Tracking Trump\u2019s retaliation - CNN",
-      "pubDate": "Sat, 30 Aug 2025 10:00:00 GMT"
-    },
-    {
       "title": "Why the internet exploded with speculation about Trump's whereabouts Saturday. - Houston Chronicle",
       "pubDate": "Sat, 30 Aug 2025 15:23:16 GMT"
     },
@@ -359,6 +351,10 @@
     {
       "title": "Trump rebrands Defense with 'Department of War'; Jobs data shows weakness - NBC News",
       "pubDate": "Sat, 06 Sep 2025 02:59:00 GMT"
+    },
+    {
+      "title": "What the \u2018is Trump dead?\u2019 rumours reveal about our current moment - The Guardian",
+      "pubDate": "Sat, 06 Sep 2025 10:00:00 GMT"
     }
   ],
   "russia": [
@@ -1095,6 +1091,10 @@
     {
       "title": "\u2018Existential crisis\u2019: how Google\u2019s shift to AI has upended the online news model - The Guardian",
       "pubDate": "Sat, 06 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Google AI Model Uses Virtual Satellite to Map Earth - PYMNTS.com",
+      "pubDate": "Sat, 06 Sep 2025 08:00:44 GMT"
     }
   ],
   "ukraine": [
@@ -1417,6 +1417,10 @@
     {
       "title": "The world wants Ukraine\u2019s cutting-edge drones, but they aren\u2019t yet for sale - The Washington Post",
       "pubDate": "Sat, 06 Sep 2025 08:31:41 GMT"
+    },
+    {
+      "title": "Pence warns Russia will strike a Nato country if it wins Ukraine war - The Independent",
+      "pubDate": "Sat, 06 Sep 2025 09:55:00 GMT"
     }
   ],
   "us_economy": [
@@ -1585,6 +1589,10 @@
     {
       "title": "Xi Jinping asks the world to choose \u2018war or peace.\u2019 Which direction is China headed? - CNN",
       "pubDate": "Sat, 06 Sep 2025 04:03:00 GMT"
+    },
+    {
+      "title": "China battles mosquito-borne virus with Covid-era methods as U.S. issues travel warning - NBC News",
+      "pubDate": "Sat, 06 Sep 2025 09:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1999,10 +2007,6 @@
   ],
   "federal_reserve": [
     {
-      "title": "Fed official sends bold 5-word message on September interest rate cuts - TheStreet",
-      "pubDate": "Sat, 30 Aug 2025 10:33:00 GMT"
-    },
-    {
       "title": "Fed Upheaval Sows New Uncertainty About Path of Rates - The Wall Street Journal",
       "pubDate": "Sun, 31 Aug 2025 01:00:00 GMT"
     },
@@ -2325,20 +2329,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Researchers develop web-tool to estimate when quantum computers outperform classical systems - Quantum Zeitgeist",
-      "pubDate": "Sat, 30 Aug 2025 10:22:56 GMT"
-    },
-    {
-      "title": "Researchers leverage noise for differential privacy in federated quantum machine learning models - Quantum Zeitgeist",
-      "pubDate": "Sat, 30 Aug 2025 10:02:04 GMT"
-    },
-    {
       "title": "Scientists Report Heavy Electrons Could Open a Path to a New Type of Quantum Computer - The Quantum Insider",
       "pubDate": "Sat, 30 Aug 2025 12:43:57 GMT"
-    },
-    {
-      "title": "Researchers reveal quantum threats to cryptocurrencies, including vulnerabilities to fifty one percent attacks - Quantum Zeitgeist",
-      "pubDate": "Sat, 30 Aug 2025 10:47:57 GMT"
     },
     {
       "title": "ORNL Unveils Quantum Computing Breakthrough, Propelling Integration with High-Performance Systems - Hoodline",
@@ -2695,13 +2687,13 @@
     {
       "title": "Israel calls on famine-stricken Gaza City residents to move to safe zone as it expands operations - WTOP",
       "pubDate": "Sat, 06 Sep 2025 09:51:11 GMT"
+    },
+    {
+      "title": "Tel Aviv protesters unveil huge SOS sign demanding ceasefire in Gaza - Al Jazeera",
+      "pubDate": "Sat, 06 Sep 2025 04:54:08 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Scientists breathe new life into climate website after shutdown under Trump - The Guardian",
-      "pubDate": "Sat, 30 Aug 2025 10:00:00 GMT"
-    },
     {
       "title": "Ministry of Education and UNICEF Introduced Climate Change Topics in Preschool Curriculum of Turkmenistan - Unicef",
       "pubDate": "Sat, 30 Aug 2025 15:35:06 GMT"
@@ -3181,6 +3173,10 @@
     {
       "title": "Emissions are Sparking Increases in African Heat Waves in Unexpected Ways, New Study Finds - Inside Climate News",
       "pubDate": "Sat, 06 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Wisconsin adapting to climate change should be common sense | Letter - Milwaukee Journal Sentinel",
+      "pubDate": "Sat, 06 Sep 2025 10:05:58 GMT"
     }
   ],
   "world_news": [
@@ -3445,6 +3441,12 @@
     {
       "title": "WHO declares end of global emergency over mpox outbreak - statnews.com",
       "pubDate": "Fri, 05 Sep 2025 14:25:20 GMT"
+    }
+  ],
+  "nuclear_power": [
+    {
+      "title": "As Iran reels from strikes on its nuclear programme, how will the fall-out affect its clean energy ambitions? - thenationalnews.com",
+      "pubDate": "Sat, 06 Sep 2025 04:10:37 GMT"
     }
   ]
 }
