@@ -727,10 +727,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Rising Treasury Yields Could Spell Start of Decades-Long Bond Bear Market - TheStreet",
-      "pubDate": "Sat, 30 Aug 2025 20:30:11 GMT"
-    },
-    {
       "title": "Three powerful forces that could destabilize financial markets - ca.finance.yahoo.com",
       "pubDate": "Mon, 01 Sep 2025 10:00:12 GMT"
     },
@@ -801,6 +797,10 @@
     {
       "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
       "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
+    },
+    {
+      "title": "Spot Ether ETFs Shed $952M Over 5 Days as Recession Fears Grow - CoinDesk",
+      "pubDate": "Sat, 06 Sep 2025 19:35:45 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1095,6 +1095,10 @@
     {
       "title": "AI could one day replace tutors, but its reliability still lags - Phys.org",
       "pubDate": "Sat, 06 Sep 2025 16:30:01 GMT"
+    },
+    {
+      "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring \u2014 'that is the capitalist system' - Fortune",
+      "pubDate": "Sat, 06 Sep 2025 19:27:00 GMT"
     }
   ],
   "ukraine": [
@@ -1409,6 +1413,10 @@
     {
       "title": "A World War II Dispute Between Ukraine and Poland Is Put to Rest - The New York Times",
       "pubDate": "Sat, 06 Sep 2025 18:00:39 GMT"
+    },
+    {
+      "title": "Zelenskiy says nearly 60% of Ukrainian arms home-produced - Reuters",
+      "pubDate": "Sat, 06 Sep 2025 20:24:31 GMT"
     }
   ],
   "us_economy": [
@@ -1596,14 +1604,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump Proves He\u2019s Alive by Complaining About \u2018Stupid\u2019 White House Contractors - Rolling Stone",
-      "pubDate": "Sat, 30 Aug 2025 19:59:43 GMT"
-    },
-    {
-      "title": "Trump solves White House whodunit in the Rose Garden - USA Today",
-      "pubDate": "Sat, 30 Aug 2025 20:41:14 GMT"
-    },
     {
       "title": "Bernie Sanders endorses popular oyster farmer and ex Marine for U.S. Senate - The Independent",
       "pubDate": "Sun, 31 Aug 2025 03:13:00 GMT"
@@ -1891,6 +1891,10 @@
     {
       "title": "Will Trump\u2019s brand of politics crash America\u2019s 250th birthday party? - CNN",
       "pubDate": "Sat, 06 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Trump backs Kennedy on vaccines despite health, political risks - Reuters",
+      "pubDate": "Sat, 06 Sep 2025 11:56:29 GMT"
     }
   ],
   "north_korea": [
@@ -2012,10 +2016,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "5.3 magnitude earthquake shakes Nevada, adding to recent surge in area's seismic activity - The National Desk",
-      "pubDate": "Sat, 30 Aug 2025 20:20:35 GMT"
-    },
     {
       "title": "Afghanistan shaken by 6.0 magnitude earthquake near the Pakistan border - CBS News",
       "pubDate": "Sun, 31 Aug 2025 20:56:05 GMT"
@@ -2315,10 +2315,6 @@
     {
       "title": "Quantum Computing Inc. stock trendline breakdown - Quarterly Profit Report & Daily Entry Point Trade Alerts - Newser",
       "pubDate": "Sat, 30 Aug 2025 22:05:26 GMT"
-    },
-    {
-      "title": "Researchers Reveal Torsion\u2019s Structural Insights, Overcoming NP-hard Challenges In Data Analysis - Quantum Zeitgeist",
-      "pubDate": "Sat, 30 Aug 2025 20:11:09 GMT"
     },
     {
       "title": "Quantum-Resistant Bitcoin Custody: Sovereign Strategies for a Post-Quantum Future - AInvest",
@@ -3241,12 +3237,6 @@
     {
       "title": "Ford EV sales surge as buyers race to beat expiring $7,500 tax credit - USA Today",
       "pubDate": "Sat, 06 Sep 2025 18:22:30 GMT"
-    }
-  ],
-  "quantum_mechanics": [
-    {
-      "title": "Researchers Resolve Schwarzschild Singularity Using Unimodular Time and Discover Theories Allowing Only One Mass Sign - Quantum Zeitgeist",
-      "pubDate": "Sat, 30 Aug 2025 20:06:04 GMT"
     }
   ],
   "algorithmic_trading": [

@@ -1,72 +1,42 @@
 {
-  "AI Safety": {
-    "articles": [
-      {
-        "title": "How Nauto\u2019s AI Dashcam Reduces Driver Risk and Accidents - IEEE Spectrum",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3OXM0eEhIa21SMjEzcWNDYjdxV2ZKWHg4RUIxVFNkbnNuMk9CblFSQTZhaDRQWWg3WW0xUHdfLUZUZWEzRkNEaU1zVU5VS3NxRjBCbnJCVmd0YVdmVnRwT1g4a3pPZ1HSAXtBVV95cUxQTVZGQ2RTVWZWUktuU3QzVG5LMzRMQWRLTnZYRWFCRExVZ0I2UFhUTHprNnBsSEtYTXF1dnhSekloemR1NXBlbWEtUGtmdW9WV09OZkx5Z0VkU21NSHVRaGFZSmVkMXRlTkI1NkFSSXVhOXBCa2kzNkpWaVE?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 13:12:41 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Recent study finds 'garbage lasagnas' forming in open landfills across US release staggering amount of air pollution: 'Something has gone awry' - yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2sxYlZ1Q0FMbGM5RUdsZm9RQ096U282RU5EMEpNZERJRmZYRlRzTENEM1dFVnFwMUFITUlrdGFRN1N3VDVuSEZrMHNweU0wQy05LVJKaDhBQWtCTExFVWRRbUxBQktISF9SYUhuSjBqTHIwblgwVThHX1VDcTR1ODk1NE5JMWpBdGlNS1ptaw?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 10:10:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
-  },
-  "China": {
-    "articles": [
-      {
-        "title": "China to cut fees on $4.9 trillion mutual fund industry to promote investment - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampaODhFLUg3clZ5QjBKdUY4VENTWk5ibVFTVHNwYzJzUWNrTVZVR3VNU2daWlZZZnpDeDF5dGFGTWNHNE1DODl6aDI4aEZwQmIyY0Q2RF9yN2ZfOFVVOHhUaEtwamloUGFyaXI5aU5PRGdNeFJZOGpsVUdTeXVuc2hsQ1dYVGFIVTZVNktQSUIxQnRkSnVKckd3ZWZYdWE5X1B6dGdsQWUtbEFuSFFEdFUzSm5rek5UZVpOdHdIdEs4NkNha083RFdlY2diV2JKSmxBNg?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 08:13:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
-  },
   "Ukraine": {
     "articles": [
       {
-        "title": "A World War II Dispute Between Ukraine and Poland Is Put to Rest - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnpBSkx1MVpwV0tkdXpSWlF6dGlrbWotNFNBbHlhTUNXZExqNDRZRjUwY00yTVliTVpna1JLb2dhT0pKeG54bktoQ3kyQzc2NkxEeFVBaXY5S2JuTDhrV1pSR0ExNmdvUDZrZ1RVWmJ6ZUVXS2hQM3VsNXAzSmt5M3JMcngzcFNYQlVJYVlB?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 18:00:39 GMT"
+        "title": "Zelenskiy says nearly 60% of Ukrainian arms home-produced - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSE1MdjkwWklrbExSS3hBeERwVmlHU0stSWZCbndWXzhKdVVMYW56akVXUDM3MWlEUHd3WTV0dHRNT3UxcTF2dkVPX3ljUVlRR0hlX1czc09yTlVSS2pFRi1NY1p5NjBvdDNqeFRrRm43ai1EMWFfaTJ3S0MyRDBvV3pxVFpBa0dvRW5YUm9MeU1Bbi1hbGVPS2dEd0liR3ZEdDNQVVBBdnRmVHlfZ0otb2VrN1hXNEU?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 20:24:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Spatial Structure-based Hypercube Reduction Enhances Quantum Circuit Synthesis, Accessing Broader Optimization for Complex Boolean Functions - Quantum Zeitgeist",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnBZeEJBTWxYMXFBNy1aSXFoWlhicVFHZ3liZ0h5aUoxaWk2V3hLbWpOSS1IbG5DY09HcUM2QlF4YWdRcUZCUkttZ2VOQlp2NEtQU1JOcEt2akdJT2pib0QzT2ZESGYwY2JURjVvemVRNHd0akZ1VnQzbDJtTExLNjkyWTZOVkhwUmQtY0R0R2pqYi1MVjJLZVNCZVdvZG1BYVY4UGhiaWFYLUdTV0d5ODNGWV9odXJianhvRHlR?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 15:37:32 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
+    "last_updated_ts": "2025-09-06T20:58:54.456429+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "AI could one day replace tutors, but its reliability still lags - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PN1VwaVFUWjE5aFE1MmllZk5ibE40bmJfR0NNbF9Zdm1QaVZnR2p4Yk9VbExMNWJNUlJ2cXdvMXJrdGNvMV9qellKOE84WHlFMVVyOTgtWmRBdml6Y1UzdHctb0FBVjcwTUE?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 16:30:01 GMT"
+        "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring \u2014 'that is the capitalist system' - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmM4dlZMR2FGOE5xTmZmVW81dl9NdXJJbm5Ndnl4MWgzS3E0SzhaaE51UjJEVWNxT1dhRTVhUldvZTlnd0ZWdGRHSFVqRWtjZHJCMHExczlHTW9WUmZBbERTbmlJN19ZYWxsZ0VZdUxFcmhnOXJpRlVESkJiMEJZVEFOUFdOanZ1VG5MQ2RmdXhtZ0xHM0gzRXlQN0dOZGtJLVhNSGFHektFaUxNQkpaNzhNRVo1T0RGaXc?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 19:27:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
+    "last_updated_ts": "2025-09-06T20:58:54.456429+00:00"
   },
-  "Electric Vehicle": {
+  "Financial Markets": {
     "articles": [
       {
-        "title": "Ford EV sales surge as buyers race to beat expiring $7,500 tax credit - USA Today",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnBITkdyb2tvT21PMW91VDgtTXdJR2dZU3R3VFlFMDJvM3JXRHNUbFA3bTBLUjVkZjFKc3dUSGwyNFFPT2NiMlpmUlFEeEttYjd0eERpODg5cTdYbmNfNWxDd1pCenFjdENyNFU5WVdXZkhzV1pHR00xdU1nLUxTVFl2ajh6bklVNV9EWW5UdzNyQ2RTZG9NaklZXzI?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 18:22:30 GMT"
+        "title": "Spot Ether ETFs Shed $952M Over 5 Days as Recession Fears Grow - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2loTkRXdFR0ZVQyc0FIT3BPemNSVk1sQy1lWGsxTXA4Uk1TaER6ZjZqU1p5RVcxZ0tFdHdycjFBZXJCSVdfbjJGYlVNSmQ5WUhZSEN3d2pNM041akdUa0RsT25NNGVJZHc4MjVnNXQ1X0hHeFJTbFdCZnFIUVBaSjd0WnU2cmxUQU9PZ24wQmhuX0lLTXhwVWdvQjFITENxQ1lFQklqdlRaTzVD?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 19:35:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T19:58:56.105655+00:00"
+    "last_updated_ts": "2025-09-06T20:58:54.456429+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Trump backs Kennedy on vaccines despite health, political risks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDlvM1VpYnVfUmdkdEpDNkNLU284amFqUk9IaEZRTUJvZ19KMWxCMVZxM1lwUkJDUHJjYWE1Q09nZnd6QzEzQUVndUt6V0o3ZWlXZEs0MzZ3MWtNVHlZXzd3OE9ZTVVvYTJfb2FzQWtlVVZVWERfWUFlWDRxb2tfV3p1ZlVkbnQ3VGx5NXM1Mm9OeVVjWjBfMGJFMWp5Y09PN2Y4X3B1UlBUenZWdTRyN1JuTGstdUpRbkNUV3lNTVhwM1RUNjlaMFdJNA?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 11:56:29 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-06T20:58:54.456429+00:00"
   }
 }
