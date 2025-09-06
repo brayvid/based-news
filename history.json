@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel will soon slow or halt aid into parts of northern Gaza, as some residents begin evacuating - CBS News",
-      "pubDate": "Sat, 30 Aug 2025 12:51:18 GMT"
-    },
-    {
       "title": "Israel targeted top Iranian leaders by hacking, tracing their bodyguards\u2019 phones \u2014 report - The Times of Israel",
       "pubDate": "Sat, 30 Aug 2025 14:26:15 GMT"
     },
@@ -235,6 +231,10 @@
     {
       "title": "Pair of Senate Democrats charge Israel with \u2018ethnic cleansing\u2019 of Palestinians - The Hill",
       "pubDate": "Fri, 05 Sep 2025 13:44:00 GMT"
+    },
+    {
+      "title": "There are only two ways to get a breakthrough in Israel - and stop Netanyahu destroying Gaza - The Independent",
+      "pubDate": "Sat, 06 Sep 2025 09:46:00 GMT"
     }
   ],
   "iran": [
@@ -248,10 +248,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "When was US President last seen? Concerns loom as \u2018Trump dead\u2019 rumours float on social media | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Sat, 30 Aug 2025 12:20:54 GMT"
-    },
     {
       "title": "Why the internet exploded with speculation about Trump's whereabouts Saturday. - Houston Chronicle",
       "pubDate": "Sat, 30 Aug 2025 15:23:16 GMT"
@@ -350,6 +346,10 @@
     },
     {
       "title": "What the \u2018is Trump dead?\u2019 rumours reveal about our current moment - The Guardian",
+      "pubDate": "Sat, 06 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Donald Trump, Architecture Critic - The New Yorker",
       "pubDate": "Sat, 06 Sep 2025 10:00:00 GMT"
     }
   ],
@@ -793,6 +793,10 @@
     {
       "title": "Stock Market Today: Stocks dip after massive August payrolls miss - TheStreet",
       "pubDate": "Fri, 05 Sep 2025 23:45:53 GMT"
+    },
+    {
+      "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
+      "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1087,6 +1091,10 @@
     {
       "title": "Google AI Model Uses Virtual Satellite to Map Earth - PYMNTS.com",
       "pubDate": "Sat, 06 Sep 2025 08:00:44 GMT"
+    },
+    {
+      "title": "How AI Got A New And Improved Personality - USC Viterbi School of Engineering",
+      "pubDate": "Sat, 06 Sep 2025 03:33:45 GMT"
     }
   ],
   "ukraine": [
@@ -1095,20 +1103,12 @@
       "pubDate": "Sat, 30 Aug 2025 13:16:25 GMT"
     },
     {
-      "title": "Trump Giving Ukraine Capability to Strike Deeper Into Russia: NATO Ambassador - Newsweek",
-      "pubDate": "Sat, 30 Aug 2025 12:05:11 GMT"
-    },
-    {
       "title": "Russia wages non-stop offensive along Ukraine front line, says military chief - Reuters",
       "pubDate": "Sat, 30 Aug 2025 14:06:42 GMT"
     },
     {
       "title": "EU to work on using frozen Russian assets to aid Ukraine after war - Reuters",
       "pubDate": "Sat, 30 Aug 2025 16:16:26 GMT"
-    },
-    {
-      "title": "Ukraine destroys underground explosives depot in western Russia, intelligence source claims - The Kyiv Independent",
-      "pubDate": "Sat, 30 Aug 2025 12:23:27 GMT"
     },
     {
       "title": "Russia Will Continue Strikes Against Ukraine, Says Russian Top General - UNITED24 Media",
@@ -1405,6 +1405,10 @@
     {
       "title": "Pence warns Russia will strike a Nato country if it wins Ukraine war - The Independent",
       "pubDate": "Sat, 06 Sep 2025 09:55:00 GMT"
+    },
+    {
+      "title": "Ukraine's weapons makers want to sell arms abroad and argue it will help, not hurt, the fight against Russia - Business Insider",
+      "pubDate": "Sat, 06 Sep 2025 11:40:00 GMT"
     }
   ],
   "us_economy": [
@@ -1577,6 +1581,10 @@
     {
       "title": "China battles mosquito-borne virus with Covid-era methods as U.S. issues travel warning - NBC News",
       "pubDate": "Sat, 06 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Oil Traders Zero In on China\u2019s Crude Buying as Glut Gets Closer - Bloomberg.com",
+      "pubDate": "Sat, 06 Sep 2025 07:30:00 GMT"
     }
   ],
   "us_politics": [
@@ -1901,10 +1909,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "FBI, cybersecurity experts warn of 3-phase scam that is draining bank accounts - Yahoo News Malaysia",
-      "pubDate": "Sat, 30 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "FBI: Chinese Hackers Salt Typhoon Infiltrate US Telecoms, Spy on Millions - WebProNews",
       "pubDate": "Sun, 31 Aug 2025 21:59:46 GMT"
     },
@@ -2183,10 +2187,6 @@
   ],
   "data_breach": [
     {
-      "title": "Google warns Gmail users after major data breach exposes accounts - Business Standard",
-      "pubDate": "Sat, 30 Aug 2025 12:10:46 GMT"
-    },
-    {
       "title": "Clinical Diagnostics admits massive data breach: 850,000 patients exposed - Cybernews",
       "pubDate": "Mon, 01 Sep 2025 06:35:49 GMT"
     },
@@ -2259,10 +2259,6 @@
   ],
   "fusion_power": [
     {
-      "title": "General Fusion secures US$22M for its LM26 reactor - Inspenet",
-      "pubDate": "Sat, 30 Aug 2025 12:10:00 GMT"
-    },
-    {
       "title": "Officials fast-track development of limitless energy tech: 'The future of fusion energy starts now' - yahoo.com",
       "pubDate": "Sat, 30 Aug 2025 21:15:00 GMT"
     },
@@ -2308,10 +2304,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Scientists Report Heavy Electrons Could Open a Path to a New Type of Quantum Computer - The Quantum Insider",
-      "pubDate": "Sat, 30 Aug 2025 12:43:57 GMT"
-    },
     {
       "title": "ORNL Unveils Quantum Computing Breakthrough, Propelling Integration with High-Performance Systems - Hoodline",
       "pubDate": "Sat, 30 Aug 2025 13:26:04 GMT"
@@ -2520,10 +2512,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Alarm as US far-right extremists eye drones for use in domestic attacks - The Guardian",
-      "pubDate": "Sat, 30 Aug 2025 12:00:00 GMT"
-    },
     {
       "title": "Salt Typhoon hacks declared national security crisis - inkl",
       "pubDate": "Mon, 01 Sep 2025 15:53:50 GMT"
@@ -3153,6 +3141,10 @@
     {
       "title": "Wisconsin adapting to climate change should be common sense | Letter - Milwaukee Journal Sentinel",
       "pubDate": "Sat, 06 Sep 2025 10:05:58 GMT"
+    },
+    {
+      "title": "AI Revolutionizes Weather Forecasting to Boost Farm Yields Amid Climate Change - WebProNews",
+      "pubDate": "Sat, 06 Sep 2025 11:50:51 GMT"
     }
   ],
   "world_news": [
