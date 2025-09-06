@@ -1,72 +1,32 @@
 {
-  "AI Safety": {
+  "US Politics": {
     "articles": [
       {
-        "title": "AI Companion App Dot Shuts Down Amid Safety Concerns - Startup Ecosystem Canada",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQTZyV3VHRU5KbjZZbHNTTGJfWlJUY3JMdkQ1MFpmS0ZsdUM4bk83M3hWLWV0Z2ZHMWNLN25uVTJDY211RDlQeTNmaXNWVF8wOVFpRkRrYXB3YjVMdUF0RWxkVFdoVEJvanp1cHJOMDVOZW1EUDRhXzVtQTdEV21RUWVBR004SnlOQTRfcUxjcHFuMmpW?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 02:08:37 GMT"
+        "title": "Trump Gives DoD \u2018Secondary\u2019 Name as Department of War, Circumventing Congress - Military.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkQxR0EtSFdsQVlhQjAxU21PYVBJcnhLQUd4cjNFc193eThCd3BFRldqd1QyUy0tWWpJNDhWZ0VEMFNhd2V1YVM2Zko2NjJrbGZLaHBDV1NOUlhBcGc1QTBEZUZLSklvdFN2RHZFcHBZVktDc2prTlZwX25XTlNONGRYWDc5aEJoTHBTNmxBUGgtUHpuQS1WdDlIZ2taSU5PUkF0NXpfWUM2NUMxRFdCU3hVVlBheGdGeWlPcFZZcG_SAcYBQVVfeXFMUEZmRlY2VXZ2ZjV6TERlbTFvNEtOd0E3dVpoeVNfc0RkbHpTbTNSXzl0dk9SWWI3RTFnZWJYWTk0QmNoOFBiSXpEQ0dyMzRHTE03R3NoaUZEM3l0UlplakxENDVQSHpIMXFNOUgxbmc1bEVyWG4wUk8tVEhyN2xCU0phdjIwbk0tUDVQRUVxclRGS3htUkZOdHRnTnlYNTRDX3h3Y1pDNmRVUFN3LUh6VVZfSDVFaEJHVEdkVl84TUNvTW5uakRn?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 22:13:29 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Even the toughest corals are shrinking in warming seas - ScienceDaily",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5meWpVVVFRT0xha0RaWXdON09YQ3g0Q2U0MlRiemNKUmVlMEEzeXJ1cVNzRnFPeklUd2pZY2FZeHVSSFJOd19SR2pNMmxlbDRWYlEyeVF2S2xGTTE0NXdoN2xLZnVoUk9MWTR3T1pXaw?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 20:19:29 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Putin dismisses the idea of peacekeeping forces in Ukraine after a final peace deal - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0h6SVktZHlhbU9vTzc3WThDc1MxWUpkUlVqdG13T3RiQ0oybXBhbmtJR0w5RTV4VWRxek9hdjdDckJycENYc2ljUTc1MGRCalhvc2F4bGZXbUFQdWdONFlaVXhjOVBSUVlTMUcyakpuWWdGRm5ha000cV82QnZ0RVFkcXdSd0FBZnpqWENqOU82UTBYWnNvaQ?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 00:42:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
-  },
-  "US Economy": {
-    "articles": [
-      {
-        "title": "U.S. hiring stalls, with employers reluctant to expand in an increasingly erratic economy - Los Angeles Times",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFFZbTJvNWpRUXJJcTlJcVhNNUpRU0pxWlhrOTdnZkhQbkVyT3B4bGJEYi1lWHNrQm1LdE82cUk3RHozdlI5QUhObGMwbzJWWDNwUUFmZHZwTDlzTVg2N2ZBNHo4bnhlb2Z3bmIzUjU3TVM2bW9FY3ZJd0hXUnBWQm94Zk5iVGhqdG1XdFhMYUEtbFF0ZDBUQkZnLVI2RFRxbk5vTnNJMA?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 19:09:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
-  },
-  "Cybersecurity": {
-    "articles": [
-      {
-        "title": "CISA Delays Cyber Incident Reporting Rule for Critical Infrastructure - Inside Privacy",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZjVVQTBNYzREODhBX1lyODRWV3cyU0VnRV93aW5NZDJ0dkNMSm9qYl9POGk1OFNLbUdSdHlERmtPeUx1QUVkc2FiSm5sQmxpTHhaWlM0bnFWV1VadmhJcUdMX0x3ZTFBd0VhUXdKVzM2Ui11MmozazQ4dms1b1BFSXlMbDloa0Nra3JvbFRPU1QtYlprXzdGYmMyYi1tRDVlSGtxZ2pGSHVOWWdSOHVwVWtoVmlBUGZLeHRLcHNPMmN1UQ?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 19:36:29 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Quantum Computers Mimic Black Holes To Probe Cosmic Secrets - SciTechDaily",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlJ5SktXM3NzdkQ3Qlp4SFRtbGx0X2NKUnRJYVJpb0ZnTHF6RjMzeWEyYVRzS2FNc2NNU3FZSzdFU1lrLXA2OGx3SHFaNG5tX3Y1MVRTRjBlUDNoRmdiWVAtN1h2c0tvQ0FWZ2dhd0lfdl9iRmM3V3htbFdvZ2xoWkhIRUNOd3d3cmN4Mk53?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 15:41:25 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
+    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Duke University pilot project examining pros and cons of using artificial intelligence in college - WRAL.com",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVdMdmJuNXMwbnI5MHRGMEFHWGZlRDlaTUxTbGw0MUVWWmpwcHE5MnhwYWcxMmRqSlc1dlZ3VVI0aWgyZGszdk5BSHAyTnRnMHpnLTFWRXdSZkFiajFRZm9tWEU4eU1obVZaWXd0Y25rb2wxQmNwczl5TWlhUzAxb2dKVWlDaG1DWlZ2VjRteU5MQW93YWpGbjZ0d19Pakk3NXpWLV9velVxT0RQeHhXTjlWQWJEYXN1dXFKM25fdGtld0hUdjgyT1pWVWsxMlXSAUpBVV95cUxOdXpBT0lxTFdrY3hGaVdRY1VQajR4R0tocjZhV2RSOExBVVZjYUdIdDNQdl9kS2dHV3A3MUxCcmRGbTNnS2Jwcmozdw?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 18:59:00 GMT"
+        "title": "OpenAI Says Spending to Rise to $115B Through 2029: Information - Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1dyVmU5X1oxaE52TkZzZ0gzbFVLX0NlRUxSdFg4QWRHbWF1NXZ6NENGMFgzVkMxMGR4azlCRUhsQnFOZmltVEp5cGxlTWNhNHA5YTRGZ1FxRVhhano2TXBIa1JqYmhoTnhnTzBxbTE5ZU1wWUV0SHNaaHpLQWNjRnVMRjZkZ2k5bXBzWE5xY0wzY0ZjY1Izd1kzYzZqemFfaUV1MXdybEY4TFlNdl8zTC1R?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 02:34:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T03:00:29.767329+00:00"
+    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
+  },
+  "Economic News": {
+    "articles": [
+      {
+        "title": "America is getting the economy we voted for - Noah Smith | Substack",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yWFoyRFBZQ20zTTRFbEJxVnY4RmlURmdRUkphSHhFSVhCdFNXRndLSGhIYmhjazBHNzNjTDhUT1NhckxhZWhXZE9oZS11cjhYc09KcVZDYXhIOUxHekpLVGoyeURlNkZOZTVNVlVkd3c?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 01:21:10 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
   }
 }
