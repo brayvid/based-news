@@ -1,32 +1,22 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Trump Gives DoD \u2018Secondary\u2019 Name as Department of War, Circumventing Congress - Military.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkQxR0EtSFdsQVlhQjAxU21PYVBJcnhLQUd4cjNFc193eThCd3BFRldqd1QyUy0tWWpJNDhWZ0VEMFNhd2V1YVM2Zko2NjJrbGZLaHBDV1NOUlhBcGc1QTBEZUZLSklvdFN2RHZFcHBZVktDc2prTlZwX25XTlNONGRYWDc5aEJoTHBTNmxBUGgtUHpuQS1WdDlIZ2taSU5PUkF0NXpfWUM2NUMxRFdCU3hVVlBheGdGeWlPcFZZcG_SAcYBQVVfeXFMUEZmRlY2VXZ2ZjV6TERlbTFvNEtOd0E3dVpoeVNfc0RkbHpTbTNSXzl0dk9SWWI3RTFnZWJYWTk0QmNoOFBiSXpEQ0dyMzRHTE03R3NoaUZEM3l0UlplakxENDVQSHpIMXFNOUgxbmc1bEVyWG4wUk8tVEhyN2xCU0phdjIwbk0tUDVQRUVxclRGS3htUkZOdHRnTnlYNTRDX3h3Y1pDNmRVUFN3LUh6VVZfSDVFaEJHVEdkVl84TUNvTW5uakRn?oc=5",
-        "pubDate": "Fri, 05 Sep 2025 22:13:29 GMT"
+        "title": "The Amazon executive overseeing its upcoming AI agent service is stepping down - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjdtUnBvNDZTdUw5LS04cE9iRk50a1VzTWNTaDh6RWswWGpZdzdEeXNsNnAzLU0yWHVhZWl4NDRvb2xlV1hJZzFYSWQ2MGsyTDhVRWhUeGU2dnVFYWJXTmFPR2FXaGNQb0pwSEs4RUpwMUVOckRKUkhXbDlnZlpBTi12VzBTMVAxcUg3RVN4UzkwdGpiT3E4UGhSNlVEcGNELVo4?oc=5",
+        "pubDate": "Fri, 05 Sep 2025 19:49:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
+    "last_updated_ts": "2025-09-06T04:59:54.883223+00:00"
   },
-  "Artificial Intelligence": {
+  "North Korea": {
     "articles": [
       {
-        "title": "OpenAI Says Spending to Rise to $115B Through 2029: Information - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1dyVmU5X1oxaE52TkZzZ0gzbFVLX0NlRUxSdFg4QWRHbWF1NXZ6NENGMFgzVkMxMGR4azlCRUhsQnFOZmltVEp5cGxlTWNhNHA5YTRGZ1FxRVhhano2TXBIa1JqYmhoTnhnTzBxbTE5ZU1wWUV0SHNaaHpLQWNjRnVMRjZkZ2k5bXBzWE5xY0wzY0ZjY1Izd1kzYzZqemFfaUV1MXdybEY4TFlNdl8zTC1R?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 02:34:00 GMT"
+        "title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVU4zenZwTkFGdENiQjhDM09SWjBVR0REM3QyNmhvNVVDN1BsS2tqRWl0MzNJaHhrdEpxQ2xLcVVpV2NfRExHT2pncUVTQTlReng5OGIwRGY0a09meEpVS3RpNzVGaDd1ejdqbXQ1REtYLUZSUEFLbXlWOVFEcE9qV0tLaGRsS0J1cFViOUQwbElkZnVJQVNqRVFHWlRfTWNtX2pnck9ibUd0M0Y4V3RqNktGZ9IBuAFBVV95cUxOQ0MtbG9BSDR2MDRpdmp4NktUVjV4am55b0NkODhIXzRnTUZFb1NCcEpCV3FJaGh3cE9LSnhDQ3U2OTdpb012aHhnOWhZY3BiYWlaS3kyY2lrcUhPYURmczRNenJSZDVyeDRmUUZCQ1pXNjN0Nk44ZzJnNm5WSXotQkZIQVhzUUZINHFLMVBHWkZpS0xUNE5CRVM5cDBXOHhoTm43QUdZWlp1TUxSdXo5Ukludnlaekdj?oc=5",
+        "pubDate": "Sat, 06 Sep 2025 02:42:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
-  },
-  "Economic News": {
-    "articles": [
-      {
-        "title": "America is getting the economy we voted for - Noah Smith | Substack",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yWFoyRFBZQ20zTTRFbEJxVnY4RmlURmdRUkphSHhFSVhCdFNXRndLSGhIYmhjazBHNzNjTDhUT1NhckxhZWhXZE9oZS11cjhYc09KcVZDYXhIOUxHekpLVGoyeURlNkZOZTVNVlVkd3c?oc=5",
-        "pubDate": "Sat, 06 Sep 2025 01:21:10 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-06T04:00:10.093831+00:00"
+    "last_updated_ts": "2025-09-06T04:59:54.883223+00:00"
   }
 }
