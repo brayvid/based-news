@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "EU countries divided on Israel sanctions as foreign ministers meet - Al Jazeera",
-      "pubDate": "Sat, 30 Aug 2025 17:37:09 GMT"
-    },
-    {
       "title": "Israeli reservist Ariel Lubliner killed in friendly fire incident in Gaza, IDF announces - Haaretz",
       "pubDate": "Sat, 30 Aug 2025 18:51:00 GMT"
     },
@@ -351,16 +347,16 @@
     {
       "title": "'I wasn\u2019t sure \u2026 ': Mark Zuckerberg's hot mic moment with Donald Trump goes viral \u2013 watch - Times of India",
       "pubDate": "Sat, 06 Sep 2025 16:20:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s former surgeon general calls for RFK Jr. to be fired - CNN",
+      "pubDate": "Sat, 06 Sep 2025 15:40:00 GMT"
     }
   ],
   "russia": [
     {
       "title": "Trump expresses some doubt over one-on-one meeting between Putin, Zelenskyy - CBS News",
       "pubDate": "Sun, 31 Aug 2025 00:18:43 GMT"
-    },
-    {
-      "title": "Left behind: How one Russian family survived the Kursk occupation - The Washington Post",
-      "pubDate": "Sat, 30 Aug 2025 17:00:22 GMT"
     },
     {
       "title": "Ukraine war latest: Putin arrives in China for rare visit - alongside leaders of North Korea and Iran - Sky News",
@@ -473,6 +469,10 @@
     {
       "title": "Putin Ramps Up Military Fortifications on NATO Border - Newsweek",
       "pubDate": "Sat, 06 Sep 2025 10:45:35 GMT"
+    },
+    {
+      "title": "Russia preparing 'decisive breakthrough' near Pokrovsk, Ukrainian military says - The Kyiv Independent",
+      "pubDate": "Sat, 06 Sep 2025 16:29:29 GMT"
     }
   ],
   "ai_safety": [
@@ -805,10 +805,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI chatbots are creating more hateful online content: Researchers - ABC News",
-      "pubDate": "Sat, 30 Aug 2025 17:35:03 GMT"
-    },
-    {
       "title": "SFU prof debuts 3D artificial intelligence teaching sidekick - CBC",
       "pubDate": "Sat, 30 Aug 2025 18:48:28 GMT"
     },
@@ -1095,6 +1091,10 @@
     {
       "title": "U.S. Navy Begins Search for Machine Learning Combat Assistants on Submarines - navalnews.com",
       "pubDate": "Sat, 06 Sep 2025 14:08:41 GMT"
+    },
+    {
+      "title": "AI is making it easier for bad actors to create biosecurity threats - Tucson Sentinel",
+      "pubDate": "Sat, 06 Sep 2025 15:41:01 GMT"
     }
   ],
   "ukraine": [
@@ -1401,6 +1401,10 @@
     {
       "title": "We cannot abandon Ukraine\u2019s stolen children - The Telegraph",
       "pubDate": "Sat, 06 Sep 2025 15:34:00 GMT"
+    },
+    {
+      "title": "To repel Putin, Britain and Europe must be ready to punch back hard - The Times",
+      "pubDate": "Sat, 06 Sep 2025 17:00:00 GMT"
     }
   ],
   "us_economy": [
@@ -1997,6 +2001,10 @@
     {
       "title": "Fed independence \u2018hangs by a thread.\u2019 How that could affect Americans\u2019 everyday lives - Los Angeles Times",
       "pubDate": "Sun, 31 Aug 2025 16:54:34 GMT"
+    },
+    {
+      "title": "The Fed got it wrong and is late again, top economist says, as job gains collapse - Fortune",
+      "pubDate": "Sat, 06 Sep 2025 17:35:00 GMT"
     }
   ],
   "earthquakes": [
@@ -2100,10 +2108,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Who Holds Bitcoin in 2025? Crypto Firm Maps Global BTC Ownership Distribution - CoinDesk",
-      "pubDate": "Sat, 30 Aug 2025 17:12:55 GMT"
-    },
     {
       "title": "Bitcoin Proxy\u2019s Chief Seeks Funding Fix as \u2018Flywheel\u2019 Falters - Bloomberg.com",
       "pubDate": "Sat, 30 Aug 2025 23:00:00 GMT"
@@ -2549,14 +2553,6 @@
   ],
   "gaza": [
     {
-      "title": "Venice: Mass Protest Against Gaza War Hits Festival - The Hollywood Reporter",
-      "pubDate": "Sat, 30 Aug 2025 17:12:40 GMT"
-    },
-    {
-      "title": "EU Member States divided over Gaza at their Copenhagen meeting - Euronews.com",
-      "pubDate": "Sat, 30 Aug 2025 17:02:04 GMT"
-    },
-    {
       "title": "'The drones are always there... like some sort of punishment': Woman's diary of daily life in Gaza - Sky News",
       "pubDate": "Sun, 31 Aug 2025 03:45:42 GMT"
     },
@@ -2659,6 +2655,10 @@
     {
       "title": "More than 7,000 under-fives in Gaza put in malnutrition recovery in two-week period - The Guardian",
       "pubDate": "Sat, 06 Sep 2025 14:01:00 GMT"
+    },
+    {
+      "title": "First footage in 700 days: Family of hostage Alon Ohel issues still from Hamas video - The Times of Israel",
+      "pubDate": "Sat, 06 Sep 2025 11:03:39 GMT"
     }
   ],
   "climate_change": [
@@ -3145,6 +3145,10 @@
     {
       "title": "Climate change increasing chance of crop failure, UBC researchers say - Vancouver Sun",
       "pubDate": "Sat, 06 Sep 2025 15:07:07 GMT"
+    },
+    {
+      "title": "Boykoff: Time to declare a climate (or energy) emergency? - Boulder Daily Camera",
+      "pubDate": "Sat, 06 Sep 2025 11:03:53 GMT"
     }
   ],
   "world_news": [
