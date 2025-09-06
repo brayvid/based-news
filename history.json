@@ -363,10 +363,6 @@
   ],
   "russia": [
     {
-      "title": "North Korea\u2019s Kim consoles families of soldiers killed fighting for Russia - Al Jazeera",
-      "pubDate": "Sat, 30 Aug 2025 01:43:02 GMT"
-    },
-    {
       "title": "Iceland Issues Russia Arctic Warning - Newsweek",
       "pubDate": "Sat, 30 Aug 2025 09:00:01 GMT"
     },
@@ -715,6 +711,10 @@
     {
       "title": "Attorneys general warn OpenAI and other tech companies to improve chatbot safety - WHYY",
       "pubDate": "Fri, 05 Sep 2025 20:31:17 GMT"
+    },
+    {
+      "title": "Google Gemini dubbed \u2018high risk\u2019 for kids and teens in new safety assessment - TechCrunch",
+      "pubDate": "Fri, 05 Sep 2025 19:09:12 GMT"
     }
   ],
   "financial_markets": [
@@ -1075,13 +1075,13 @@
     {
       "title": "Melania Trump Says Children Must Be Prepared For Artificial Intelligence: 'The Robots Are Here' - HuffPost",
       "pubDate": "Fri, 05 Sep 2025 20:34:59 GMT"
+    },
+    {
+      "title": "91% of Jensen Huang's $4.3 Billion Stock Portfolio at Nvidia Is Invested in Just 1 Artificial Intelligence (AI) Infrastructure Stock - Nasdaq",
+      "pubDate": "Fri, 05 Sep 2025 21:15:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Europe considering post-war buffer zone - report - Sky News",
-      "pubDate": "Sat, 30 Aug 2025 01:51:32 GMT"
-    },
     {
       "title": "Russia's 'massive strike' on Ukraine overnight kills 1, injures 24, Ukrainian authorities say - ABC News",
       "pubDate": "Sat, 30 Aug 2025 08:38:06 GMT"
@@ -1397,6 +1397,10 @@
     {
       "title": "Analysis: Putin doubles down on Ukraine war stance after Beijing meeting - BBC",
       "pubDate": "Sat, 06 Sep 2025 00:42:54 GMT"
+    },
+    {
+      "title": "Update: Ukrainian, Slovak leaders disagree over Russian pipeline attacks at top-level meeting - The Kyiv Independent",
+      "pubDate": "Fri, 05 Sep 2025 14:46:12 GMT"
     }
   ],
   "us_economy": [
@@ -1427,6 +1431,10 @@
     {
       "title": "'Edge of the cliff': A top economist says the US is in a full-blown labor recession that risks spilling into the rest of the economy - Business Insider",
       "pubDate": "Fri, 05 Sep 2025 17:17:00 GMT"
+    },
+    {
+      "title": "August Job Report Triggers Recession Warning - Seeking Alpha",
+      "pubDate": "Fri, 05 Sep 2025 17:38:49 GMT"
     }
   ],
   "china": [
@@ -1860,10 +1868,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds - VentureBeat",
-      "pubDate": "Sat, 30 Aug 2025 01:06:00 GMT"
-    },
     {
       "title": "Messaging service WhatsApp discovers advanced cyberespionage campaign - The Jerusalem Post",
       "pubDate": "Sat, 30 Aug 2025 04:43:11 GMT"
@@ -3137,6 +3141,10 @@
     {
       "title": "\"Earth's Oxygen Will Start Disappearing In 10,000 Years\": Scientists Warn Sun's Increasing Heat Will Trigger Irreversible Atmospheric Collapse That Ends Complex Life - Energy Reporters",
       "pubDate": "Fri, 05 Sep 2025 15:01:58 GMT"
+    },
+    {
+      "title": "\"The Atlantic Ocean Is Turning Brown\": Record 37.5 Million Tons Of Toxic Seaweed Suffocates Caribbean Beaches While Releasing Deadly Hydrogen Sulfide Gas - Rude Baguette",
+      "pubDate": "Fri, 05 Sep 2025 15:10:31 GMT"
     }
   ],
   "world_news": [
@@ -3229,6 +3237,10 @@
     {
       "title": "South Koreans Are Among Hundreds Detained in Immigration Raid at Hyundai E.V. Plant - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 12:46:50 GMT"
+    },
+    {
+      "title": "$210M EV battery plant in Detroit scrapped due to 'current policy' in U.S. - Crain's Detroit Business",
+      "pubDate": "Fri, 05 Sep 2025 18:18:49 GMT"
     }
   ],
   "quantum_mechanics": [
