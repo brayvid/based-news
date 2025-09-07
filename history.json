@@ -239,10 +239,6 @@
   ],
   "iran": [
     {
-      "title": "Iran on the edge? Report warns Ayatollah\u2019s regime on brink of collapse triggering civil war - Mint",
-      "pubDate": "Sun, 31 Aug 2025 00:15:16 GMT"
-    },
-    {
       "title": "'Too complex and not lethal enough': Gallant reveals original Iran attack plan - The Jerusalem Post",
       "pubDate": "Sun, 31 Aug 2025 04:24:27 GMT"
     }
@@ -367,10 +363,6 @@
   ],
   "russia": [
     {
-      "title": "Trump expresses some doubt over one-on-one meeting between Putin, Zelenskyy - CBS News",
-      "pubDate": "Sun, 31 Aug 2025 00:18:43 GMT"
-    },
-    {
       "title": "Ukraine war latest: Putin arrives in China for rare visit - alongside leaders of North Korea and Iran - Sky News",
       "pubDate": "Sun, 31 Aug 2025 08:07:23 GMT"
     },
@@ -489,6 +481,10 @@
     {
       "title": "Putin dismisses fears of recession as Russian economy slows down - MarketScreener",
       "pubDate": "Sat, 06 Sep 2025 19:01:07 GMT"
+    },
+    {
+      "title": "ANALYSIS: Russian Spy Drones Stalk NATO Supply Lines in Germany - Kyiv Post",
+      "pubDate": "Sat, 06 Sep 2025 17:18:44 GMT"
     }
   ],
   "ai_safety": [
@@ -821,6 +817,10 @@
     {
       "title": "Spot Ether ETFs Shed $952M Over 5 Days as Recession Fears Grow - CoinDesk",
       "pubDate": "Sat, 06 Sep 2025 19:35:45 GMT"
+    },
+    {
+      "title": "Despite Job Market Anxiety, Wall Street's Wealth Engine Keeps Going - TradeAlgo",
+      "pubDate": "Sat, 06 Sep 2025 16:50:07 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1127,13 +1127,13 @@
     {
       "title": "Why is an Amazon-backed AI startup making Orson Welles fan fiction? - TechCrunch",
       "pubDate": "Sat, 06 Sep 2025 21:30:22 GMT"
+    },
+    {
+      "title": "Why Do Language Models Hallucinate? OpenAI Scientists Say LLMs Rewarded For Being Too Cocky - AI Insider",
+      "pubDate": "Sat, 06 Sep 2025 19:07:04 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian airstrike kills 1, injures 29 in Ukraine - upi.com",
-      "pubDate": "Sun, 31 Aug 2025 00:28:50 GMT"
-    },
     {
       "title": "Russia's seasonal offensive campaign ends with no results, Ukraine's General Staff says - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Sun, 31 Aug 2025 06:43:02 GMT"
@@ -1649,6 +1649,10 @@
     {
       "title": "China criticises Canadian and Australian warships transiting Taiwan Strait - Reuters",
       "pubDate": "Sat, 06 Sep 2025 21:56:58 GMT"
+    },
+    {
+      "title": "Chinese scientists unveil blueprint for asteroid defense and resource utilization, call for intl collaboration - China Daily",
+      "pubDate": "Sat, 06 Sep 2025 23:30:00 GMT"
     }
   ],
   "us_politics": [
@@ -1943,6 +1947,10 @@
     {
       "title": "Trump quietly preparing to travel next month to South Korea, where he could sit down with China\u2019s president - CNN",
       "pubDate": "Sat, 06 Sep 2025 22:40:00 GMT"
+    },
+    {
+      "title": "Trump wants control of 9/11 Memorial; Hochul says it belongs to New Yorkers - New York Daily News",
+      "pubDate": "Sat, 06 Sep 2025 16:39:38 GMT"
     }
   ],
   "north_korea": [
@@ -2349,10 +2357,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum-Resistant Bitcoin Custody: Sovereign Strategies for a Post-Quantum Future - AInvest",
-      "pubDate": "Sun, 31 Aug 2025 00:45:19 GMT"
-    },
-    {
       "title": "University Of Osaka Launches Domestic Quantum Computer At Expo 2025 - Quantum Zeitgeist",
       "pubDate": "Sun, 31 Aug 2025 09:28:54 GMT"
     },
@@ -2707,6 +2711,10 @@
     {
       "title": "Gaza is city of \u201cfear, flight and funerals,\u201d says UN official - Vatican News",
       "pubDate": "Sat, 06 Sep 2025 14:56:16 GMT"
+    },
+    {
+      "title": "Gaza Crisis Dominates Venice Awards Ceremony As Winners Call For An End To Israeli Military Action - Deadline",
+      "pubDate": "Sat, 06 Sep 2025 20:12:00 GMT"
     }
   ],
   "climate_change": [
@@ -3205,6 +3213,10 @@
     {
       "title": "B.C. climate news: Wildfire smoke in B.C. prompts health warnings | Carney pauses EV mandates | Scientists tap fresh water under the ocean - Vancouver Sun",
       "pubDate": "Sat, 06 Sep 2025 16:23:09 GMT"
+    },
+    {
+      "title": "Gas storage levels in Italy and Europe are good, Italian minister says - Reuters",
+      "pubDate": "Sat, 06 Sep 2025 17:53:38 GMT"
     }
   ],
   "world_news": [
@@ -3246,10 +3258,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Tesla under investigation for actions after vehicle crashes: 'The key to market adoption is consumer trust' - The Cool Down",
-      "pubDate": "Sun, 31 Aug 2025 00:25:00 GMT"
-    },
     {
       "title": "BYD shares slide as China's EV price war hits profits - BBC",
       "pubDate": "Mon, 01 Sep 2025 06:27:22 GMT"
