@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "In Israel, \u2018animals in human form\u2019 may be killed - Mondoweiss",
-      "pubDate": "Sun, 31 Aug 2025 20:15:00 GMT"
-    },
-    {
       "title": "Report: Internal IDF Document Concludes Months-long Gaza Offensive Failed - Haaretz",
       "pubDate": "Sun, 31 Aug 2025 23:24:00 GMT"
     },
@@ -353,10 +349,6 @@
   ],
   "russia": [
     {
-      "title": "Russia downed 112 Ukrainian drones in past 24 hours, Interfax says - Global Banking | Finance | Review",
-      "pubDate": "Sun, 31 Aug 2025 20:40:26 GMT"
-    },
-    {
       "title": "Modi says Russia and India stand together even in difficult times - Reuters",
       "pubDate": "Mon, 01 Sep 2025 09:44:52 GMT"
     },
@@ -478,10 +470,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "How we tricked AI chatbots into creating misinformation, despite \u2018safety\u2019 measures - The Conversation",
-      "pubDate": "Sun, 31 Aug 2025 20:09:14 GMT"
-    },
     {
       "title": "Diving Further Into What Makes ChatGPT And Other AI Spiral Out Of Human Safety Guardrails During Long Conversations - Forbes",
       "pubDate": "Mon, 01 Sep 2025 07:15:00 GMT"
@@ -1089,16 +1077,16 @@
     {
       "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. BigBear.ai - Nasdaq",
       "pubDate": "Sun, 07 Sep 2025 08:10:00 GMT"
+    },
+    {
+      "title": "The negative social and environmental long-term effects of artificial intelligence make it not worth using - North Texas Daily",
+      "pubDate": "Sun, 07 Sep 2025 20:00:00 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Suspect arrested over murder of former Ukrainian politician, Zelenskyy says - The Guardian",
       "pubDate": "Sun, 31 Aug 2025 22:44:00 GMT"
-    },
-    {
-      "title": "Hungary continues to veto Ukraine\u2019s accession to EU - Euromaidan Press",
-      "pubDate": "Sun, 31 Aug 2025 20:50:16 GMT"
     },
     {
       "title": "Powerful earthquake rocks Afghanistan\u2019s Kunar, at least 10 killed - Al Jazeera",
@@ -1415,6 +1403,10 @@
     {
       "title": "Vadym Skibitskyi, Deputy Chief of Ukraine\u2019s Defense Intelligence - Ukrinform",
       "pubDate": "Sun, 07 Sep 2025 16:30:00 GMT"
+    },
+    {
+      "title": "Russia launched its largest aerial attack on Ukraine - CNN",
+      "pubDate": "Sun, 07 Sep 2025 15:15:00 GMT"
     }
   ],
   "us_economy": [
@@ -1611,13 +1603,13 @@
     {
       "title": "U.S. probes malware email targeting trade talks with China, WSJ reports - Reuters",
       "pubDate": "Sun, 07 Sep 2025 15:27:59 GMT"
+    },
+    {
+      "title": "China paves way for renminbi fundraising by Russian energy giants - Financial Times",
+      "pubDate": "Sun, 07 Sep 2025 17:00:09 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Democrats should focus on the economy, but \"the brand is a mess,\" Congressman Tom Suozzi says - CBS News",
-      "pubDate": "Sun, 31 Aug 2025 20:44:52 GMT"
-    },
     {
       "title": "\"Never Felt Better In My Life\": Donald Trump Amid He Is 'Dead' Viral Trend - NDTV",
       "pubDate": "Mon, 01 Sep 2025 02:01:57 GMT"
@@ -1909,6 +1901,10 @@
     {
       "title": "Conservatives have a message for Trump: We want more babies - Politico",
       "pubDate": "Sun, 07 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs - CNBC",
+      "pubDate": "Sun, 07 Sep 2025 19:28:44 GMT"
     }
   ],
   "north_korea": [
@@ -2022,10 +2018,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Afghanistan shaken by 6.0 magnitude earthquake near the Pakistan border - CBS News",
-      "pubDate": "Sun, 31 Aug 2025 20:56:05 GMT"
-    },
     {
       "title": "Earthquake devastates eastern Afghanistan, killing hundreds and destroying villages - NPR",
       "pubDate": "Mon, 01 Sep 2025 06:52:38 GMT"
@@ -2197,6 +2189,10 @@
     {
       "title": "U.S. Bank resumes crypto custody for institutional money managers, including bitcoin ETFs - Pensions & Investments",
       "pubDate": "Fri, 05 Sep 2025 19:52:30 GMT"
+    },
+    {
+      "title": "Sell Everything Before October: The Crypto Market Crash Is Imminent - Cointribune",
+      "pubDate": "Sun, 07 Sep 2025 17:05:00 GMT"
     }
   ],
   "data_breach": [
@@ -2551,10 +2547,6 @@
   ],
   "gaza": [
     {
-      "title": "\u2018Fields of rubble\u2019: Israel, destroying Gaza City, kills 78 across enclave - Al Jazeera",
-      "pubDate": "Sun, 31 Aug 2025 20:37:30 GMT"
-    },
-    {
       "title": "Families search for loved ones after overnight strikes in Gaza - Al Jazeera",
       "pubDate": "Mon, 01 Sep 2025 07:40:41 GMT"
     },
@@ -2664,14 +2656,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Global warming: the situation is worse than generally believed - The Express Tribune",
-      "pubDate": "Sun, 31 Aug 2025 20:02:56 GMT"
-    },
-    {
-      "title": "The Pacific\u2019s united front on climate action is splintering over deep-sea mining - The Conversation",
-      "pubDate": "Sun, 31 Aug 2025 20:09:52 GMT"
-    },
     {
       "title": "All or Nothing: Why We Need Both Climate Adaptation and Mitigation - Earth.Org",
       "pubDate": "Mon, 01 Sep 2025 00:01:33 GMT"
@@ -3143,6 +3127,10 @@
     {
       "title": "There\u2019s an unexpected climate upside to Trump\u2019s tariff regime - Financial Times",
       "pubDate": "Sun, 07 Sep 2025 15:00:07 GMT"
+    },
+    {
+      "title": "Trump's Clean Energy Law Sends Insurance Costs Soaring - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Sun, 07 Sep 2025 17:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3223,6 +3211,10 @@
     {
       "title": "UK faces mounting stockpile of used EV batteries - Financial Times",
       "pubDate": "Sun, 07 Sep 2025 04:00:09 GMT"
+    },
+    {
+      "title": "Another major Tesla EV rival faces Chapter 11 bankruptcy - TheStreet",
+      "pubDate": "Sun, 07 Sep 2025 15:28:53 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -3260,10 +3252,6 @@
     }
   ],
   "united_states": [
-    {
-      "title": "Economists worry Trump could overhaul Federal Reserve - KTVU",
-      "pubDate": "Sun, 31 Aug 2025 20:27:00 GMT"
-    },
     {
       "title": "Medicaid cuts threaten rural hospitals \u2014 and access to maternity care - The Washington Post",
       "pubDate": "Mon, 01 Sep 2025 10:31:43 GMT"
