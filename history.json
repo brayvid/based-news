@@ -223,6 +223,10 @@
     {
       "title": "IDF intercepts one of two rockets fired from central Gaza toward border communities - The Jerusalem Post",
       "pubDate": "Sun, 07 Sep 2025 10:29:43 GMT"
+    },
+    {
+      "title": "'Blood Moon': Total Lunar Eclipse Was Visible Across Israel, Middle East - Haaretz",
+      "pubDate": "Sun, 07 Sep 2025 19:13:00 GMT"
     }
   ],
   "donald_trump": [
@@ -471,6 +475,10 @@
     {
       "title": "Treasury secretary says U.S. and EU must partner to 'collapse' Russian economy - NBC News",
       "pubDate": "Sun, 07 Sep 2025 14:19:47 GMT"
+    },
+    {
+      "title": "Trump to Sanction Russia After Large-Scale Attack on Kyiv - Time Magazine",
+      "pubDate": "Sun, 07 Sep 2025 15:55:34 GMT"
     }
   ],
   "ai_safety": [
@@ -795,10 +803,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta implements new rules for its AI after disturbing child safety report: 'We\u2019re adding more guardrails as an extra precaution' - PC Gamer",
-      "pubDate": "Sun, 31 Aug 2025 22:40:15 GMT"
-    },
-    {
       "title": "Alphabet Lands $10 Billion Meta Cloud Deal, a Win for Google's Artificial Intelligence Ambitions and Investors - Nasdaq",
       "pubDate": "Mon, 01 Sep 2025 01:00:00 GMT"
     },
@@ -1085,13 +1089,13 @@
     {
       "title": "AI claims another job: robot choreographer - Laboratory News",
       "pubDate": "Sun, 07 Sep 2025 11:35:19 GMT"
+    },
+    {
+      "title": "Google AI Mode may become the default Google Search experience \"soon.\" - Search Engine Land",
+      "pubDate": "Sun, 07 Sep 2025 14:30:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Suspect arrested over murder of former Ukrainian politician, Zelenskyy says - The Guardian",
-      "pubDate": "Sun, 31 Aug 2025 22:44:00 GMT"
-    },
     {
       "title": "Powerful earthquake rocks Afghanistan\u2019s Kunar, at least 10 killed - Al Jazeera",
       "pubDate": "Mon, 01 Sep 2025 03:22:30 GMT"
@@ -1415,6 +1419,10 @@
     {
       "title": "Russia says it struck Ukrainian military targets with drones, missiles and aircraft - Reuters",
       "pubDate": "Sun, 07 Sep 2025 11:59:39 GMT"
+    },
+    {
+      "title": "Trump signals readiness for second phase of sanctions against Russia and proposes new terms for Middle East ceasefire - CNN",
+      "pubDate": "Sun, 07 Sep 2025 22:09:00 GMT"
     }
   ],
   "us_economy": [
@@ -1461,16 +1469,8 @@
   ],
   "china": [
     {
-      "title": "China's huge navy is expanding at breakneck speed - will it rule the waves? - BBC",
-      "pubDate": "Sun, 31 Aug 2025 22:09:28 GMT"
-    },
-    {
       "title": "China hosts high-stakes summit with world leaders - NBC News",
       "pubDate": "Sun, 31 Aug 2025 23:00:57 GMT"
-    },
-    {
-      "title": "China manufacturing activity shrinks for fifth straight month in August - Reuters",
-      "pubDate": "Sun, 31 Aug 2025 22:50:33 GMT"
     },
     {
       "title": "What China's spies are doing in the U.S., and what happens when they're caught - CBS News",
@@ -1619,6 +1619,10 @@
     {
       "title": "New South Korea law seen shielding China, targeting US tech, risking trade clash - Fox Business",
       "pubDate": "Sun, 07 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "\u201cDalifornication\u201d grips China - The Economist",
+      "pubDate": "Sun, 07 Sep 2025 15:49:06 GMT"
     }
   ],
   "us_politics": [
@@ -1934,10 +1938,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "FBI: Chinese Hackers Salt Typhoon Infiltrate US Telecoms, Spy on Millions - WebProNews",
-      "pubDate": "Sun, 31 Aug 2025 21:59:46 GMT"
-    },
     {
       "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware - The Hacker News",
       "pubDate": "Tue, 02 Sep 2025 08:39:00 GMT"
@@ -3139,6 +3139,10 @@
     {
       "title": "Marin Voice: Sea-level rise data shows the water is coming - Marin Independent Journal",
       "pubDate": "Sun, 07 Sep 2025 20:15:00 GMT"
+    },
+    {
+      "title": "The climate solution both the right and the left can get behind | Bill McKibben - The Guardian",
+      "pubDate": "Sun, 07 Sep 2025 21:55:00 GMT"
     }
   ],
   "world_news": [
@@ -3233,10 +3237,6 @@
   ],
   "technology": [
     {
-      "title": "AI generated videos are fooling internet users, Oklahoma professors offer tips - News 9",
-      "pubDate": "Sun, 31 Aug 2025 22:57:22 GMT"
-    },
-    {
       "title": "Google Ramps Up AI Chip Competition with Nvidia - The Information",
       "pubDate": "Wed, 03 Sep 2025 13:00:00 GMT"
     },
@@ -3274,10 +3274,6 @@
     }
   ],
   "energy_transition": [
-    {
-      "title": "The UK's Energy Transition Paradox: High Costs, Struggling Industry, and Investment Opportunities in Alternatives - AInvest",
-      "pubDate": "Sun, 31 Aug 2025 22:39:42 GMT"
-    },
     {
       "title": "Net-zero 'not a platitude' for oil and gas sector - regulator - BBC",
       "pubDate": "Mon, 01 Sep 2025 22:14:17 GMT"
@@ -3409,6 +3405,12 @@
     {
       "title": "Finland Launches World\u2019s Largest Sand Battery for Heat Storage - WebProNews",
       "pubDate": "Sun, 07 Sep 2025 13:00:50 GMT"
+    }
+  ],
+  "terrorism": [
+    {
+      "title": "Over 800 Arrested at Protest After Pro-Palestinian Group Banned as Terrorist - The New York Times",
+      "pubDate": "Sun, 07 Sep 2025 13:14:00 GMT"
     }
   ]
 }
