@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel weighs West Bank annexations in response to Palestine recognition push - Axios",
-      "pubDate": "Sun, 31 Aug 2025 12:02:30 GMT"
-    },
-    {
-      "title": "Two months after its war with Israel, Iran braces for another showdown - The Independent",
-      "pubDate": "Sun, 31 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "Israeli defense minister claims Hamas military spokesman killed in Gaza - Anadolu Ajans\u0131",
       "pubDate": "Sun, 31 Aug 2025 14:33:20 GMT"
     },
@@ -231,6 +223,10 @@
     {
       "title": "Keir Starmer has \u2018legal duty to stop Gaza genocide\u2019, says Greta Thunberg - The Guardian",
       "pubDate": "Sun, 07 Sep 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Gaza City Offensive Risks Hostages' Lives With Little Chance of Military Gains - Haaretz",
+      "pubDate": "Sun, 07 Sep 2025 03:21:00 GMT"
     }
   ],
   "donald_trump": [
@@ -475,10 +471,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Leading Edge | The race for OH-9, school safety, tech and more - wtol.com",
-      "pubDate": "Sun, 31 Aug 2025 12:30:00 GMT"
-    },
-    {
       "title": "Hackers exploit hidden malware in images processed by AI chatbots - Tech Edition",
       "pubDate": "Sun, 31 Aug 2025 14:09:19 GMT"
     },
@@ -713,6 +705,10 @@
     {
       "title": "How Nauto\u2019s AI Dashcam Reduces Driver Risk and Accidents - IEEE Spectrum",
       "pubDate": "Sat, 06 Sep 2025 13:12:41 GMT"
+    },
+    {
+      "title": "Trump's Artificial Intelligence Policy: The Dangerous Gamble of Unregulated AI - Tolerance.ca",
+      "pubDate": "Sun, 07 Sep 2025 10:09:20 GMT"
     }
   ],
   "financial_markets": [
@@ -813,10 +809,6 @@
     {
       "title": "How is artificial intelligence affecting job searches? - CBS News",
       "pubDate": "Sun, 31 Aug 2025 13:14:00 GMT"
-    },
-    {
-      "title": "How AI Credit Algorithms Penalize Solo Women in Finance Markets - inkl",
-      "pubDate": "Sun, 31 Aug 2025 12:30:57 GMT"
     },
     {
       "title": "AI Job Erosion for Tech Grads: Overstated Claims Debated - WebProNews",
@@ -1104,10 +1096,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Civilian infrastructure damaged as Russians shell central Kherson - Ukrinform",
-      "pubDate": "Sun, 31 Aug 2025 12:23:00 GMT"
-    },
     {
       "title": "3,350 ERAM missiles are heading to Ukraine \u2014 here's how they can be used against Russia - The Kyiv Independent",
       "pubDate": "Sun, 31 Aug 2025 12:59:56 GMT"
@@ -1431,6 +1419,10 @@
     {
       "title": "Ukraine drones hit training centre at Zaporizhzhia nuclear plant, Russian management says - Reuters",
       "pubDate": "Sat, 06 Sep 2025 23:05:27 GMT"
+    },
+    {
+      "title": "Ukraine Hits Russian Fuel and Military Infrastructure in Coordinated Overnight Assault - Kyiv Post",
+      "pubDate": "Sun, 07 Sep 2025 08:21:35 GMT"
     }
   ],
   "us_economy": [
@@ -1623,13 +1615,13 @@
     {
       "title": "China Probes Former Chair of Securities Regulator Yi, CCTV Says - Bloomberg",
       "pubDate": "Sun, 07 Sep 2025 02:01:00 GMT"
+    },
+    {
+      "title": "China sends Y-20s on quake aid mission to Afghanistan - South China Morning Post",
+      "pubDate": "Sun, 07 Sep 2025 09:00:08 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Removal of Guatemalan children in US custody expected to begin Sunday - CNN",
-      "pubDate": "Sun, 31 Aug 2025 12:23:00 GMT"
-    },
     {
       "title": "\u2018How far can he go?\u2019 Trump\u2019s ominous move - News.com.au",
       "pubDate": "Sun, 31 Aug 2025 16:07:30 GMT"
@@ -1917,6 +1909,10 @@
     {
       "title": "Protesters call for end of federal law enforcement takeover of DC - News Channel 3-12",
       "pubDate": "Sat, 06 Sep 2025 23:37:01 GMT"
+    },
+    {
+      "title": "GOP leaders won\u2019t help Massie\u2019s bid for reelection as Trump plots his ouster - CNN",
+      "pubDate": "Sun, 07 Sep 2025 11:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -3151,6 +3147,10 @@
     {
       "title": "Commentary: When climate change comes for childhood summers - Times Union",
       "pubDate": "Sun, 07 Sep 2025 09:56:07 GMT"
+    },
+    {
+      "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
+      "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
     }
   ],
   "world_news": [
@@ -3255,6 +3255,10 @@
     {
       "title": "OpenAI has teamed up with Broadcom to make its own AI processors, according to a report, possibly as part of a long-term plan to move away from Nvidia's GPUs - PC Gamer",
       "pubDate": "Fri, 05 Sep 2025 14:23:39 GMT"
+    },
+    {
+      "title": "New \u2018benevolent hacking\u2019 method could prevent AI models from giving rogue prompts - Interesting Engineering",
+      "pubDate": "Sun, 07 Sep 2025 10:34:00 GMT"
     }
   ],
   "volcanoes": [
