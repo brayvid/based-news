@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Strikes maim children as Israel says Qassam spokesman Abu Obeida targeted - Al Jazeera",
-      "pubDate": "Sun, 31 Aug 2025 09:33:22 GMT"
-    },
-    {
       "title": "Deadly Israeli strikes rain down as IDF advances push to take Gaza City - NBC News",
       "pubDate": "Sun, 31 Aug 2025 10:40:21 GMT"
     },
@@ -238,10 +234,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump faces a hurdle in banning mail-in voting: His own Republican Party - NBC News",
-      "pubDate": "Sun, 31 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "Trump trade adviser blasts tariff ruling, calling it 'weaponized partisan injustice' - CNBC",
       "pubDate": "Sun, 31 Aug 2025 15:55:59 GMT"
@@ -1109,6 +1101,10 @@
     {
       "title": "Amazon-backed AI firm is trying to recreate a lost Hollywood masterpiece - Mashable",
       "pubDate": "Sat, 06 Sep 2025 21:56:15 GMT"
+    },
+    {
+      "title": "\"Oracle is developing artificial intelligence that is reshaping medicine and helping save lives\" - CTech",
+      "pubDate": "Sun, 07 Sep 2025 09:24:00 GMT"
     }
   ],
   "ukraine": [
@@ -1431,6 +1427,10 @@
     {
       "title": "Chilling Video Shows Ukrainian Refugee Stabbed To Death On American Train - NDTV",
       "pubDate": "Sun, 07 Sep 2025 04:17:49 GMT"
+    },
+    {
+      "title": "Border guards destroy Russian Uragan in Pokrovsk direction with drones - Ukrinform",
+      "pubDate": "Sun, 07 Sep 2025 05:46:00 GMT"
     }
   ],
   "us_economy": [
@@ -1623,6 +1623,10 @@
     {
       "title": "Opinion | In a summit full of symbolism, China lays out vision for multipolar order - South China Morning Post",
       "pubDate": "Sun, 07 Sep 2025 01:30:08 GMT"
+    },
+    {
+      "title": "China Probes Former Chair of Securities Regulator Yi, CCTV Says - Bloomberg",
+      "pubDate": "Sun, 07 Sep 2025 02:01:00 GMT"
     }
   ],
   "us_politics": [
@@ -2323,14 +2327,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "University Of Osaka Launches Domestic Quantum Computer At Expo 2025 - Quantum Zeitgeist",
-      "pubDate": "Sun, 31 Aug 2025 09:28:54 GMT"
-    },
-    {
-      "title": "AQT-Led QCDC Project Grants Europe Cloud Access To Quantum Computers - Quantum Zeitgeist",
-      "pubDate": "Sun, 31 Aug 2025 09:11:15 GMT"
-    },
-    {
       "title": "Quantum networks shown to work on existing internet cables - cosmosmagazine.com",
       "pubDate": "Sun, 31 Aug 2025 13:30:00 GMT"
     },
@@ -2481,6 +2477,10 @@
     {
       "title": "Decades-Old Quantum Puzzle Solved: Graphene Electrons Violate Fundamental Law of Physics - SciTechDaily",
       "pubDate": "Sat, 06 Sep 2025 21:28:56 GMT"
+    },
+    {
+      "title": "3D-printed ion traps could accelerate quantum computer scaling - Digital Watch Observatory",
+      "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2681,6 +2681,10 @@
     {
       "title": "France claps back at Rubio over Gaza criticism - The Hill",
       "pubDate": "Sun, 07 Sep 2025 01:59:00 GMT"
+    },
+    {
+      "title": "Israel destroys second Gaza high-rise as military kills another 56 Palestinians, including aid-seekers - The Guardian",
+      "pubDate": "Sun, 07 Sep 2025 05:10:00 GMT"
     }
   ],
   "climate_change": [
@@ -3163,6 +3167,10 @@
     {
       "title": "Earth\u2019s safe zones are vanishing fast - ScienceDaily",
       "pubDate": "Sun, 07 Sep 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Charting Whale \u2018Superhighways\u2019 for Conservation - Inside Climate News",
+      "pubDate": "Sun, 07 Sep 2025 09:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3239,6 +3247,10 @@
     {
       "title": "Ford EV sales surge as buyers race to beat expiring $7,500 tax credit - USA Today",
       "pubDate": "Sat, 06 Sep 2025 18:22:30 GMT"
+    },
+    {
+      "title": "UK faces mounting stockpile of used EV batteries - Financial Times",
+      "pubDate": "Sun, 07 Sep 2025 04:00:09 GMT"
     }
   ],
   "algorithmic_trading": [
