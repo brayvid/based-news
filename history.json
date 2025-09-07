@@ -227,6 +227,10 @@
     {
       "title": "Gaza City Offensive Risks Hostages' Lives With Little Chance of Military Gains - Haaretz",
       "pubDate": "Sun, 07 Sep 2025 03:21:00 GMT"
+    },
+    {
+      "title": "Israel says drone launched from Yemen struck arrivals hall at Ramon airport - Reuters",
+      "pubDate": "Sun, 07 Sep 2025 12:34:55 GMT"
     }
   ],
   "donald_trump": [
@@ -345,6 +349,10 @@
     {
       "title": "US Open asks broadcasters to avoid crowd reactions to Trump during men\u2019s finals match - CNN",
       "pubDate": "Sun, 07 Sep 2025 02:08:00 GMT"
+    },
+    {
+      "title": "Newsom won\u2019t stop mocking Trump \u2014 and Trump keeps taking the bait - The Washington Post",
+      "pubDate": "Sun, 07 Sep 2025 13:34:33 GMT"
     }
   ],
   "russia": [
@@ -799,16 +807,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI chatbot users beware - hackers are now hiding malware in the images served up by LLMs - TechRadar",
-      "pubDate": "Sun, 31 Aug 2025 13:04:00 GMT"
-    },
-    {
       "title": "Researchers identify exactly how AI models like ChatGPT gain word comprehension. - Psychology Today",
       "pubDate": "Sun, 31 Aug 2025 14:55:49 GMT"
-    },
-    {
-      "title": "How is artificial intelligence affecting job searches? - CBS News",
-      "pubDate": "Sun, 31 Aug 2025 13:14:00 GMT"
     },
     {
       "title": "AI Job Erosion for Tech Grads: Overstated Claims Debated - WebProNews",
@@ -1093,13 +1093,13 @@
     {
       "title": "Why AI Chatbots Still Hallucinate: Researchers Trace Errors to Training Data Gaps and Misaligned Benchmarks - Digital Information World",
       "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "People Want AI To Help Artists, Not Be The Artist - Scientific American",
+      "pubDate": "Sun, 07 Sep 2025 11:04:19 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "3,350 ERAM missiles are heading to Ukraine \u2014 here's how they can be used against Russia - The Kyiv Independent",
-      "pubDate": "Sun, 31 Aug 2025 12:59:56 GMT"
-    },
     {
       "title": "Europe has \u2018pretty precise\u2019 plan to send troops to Ukraine, von der Leyen says - Financial Times",
       "pubDate": "Sun, 31 Aug 2025 17:00:06 GMT"
@@ -1423,6 +1423,10 @@
     {
       "title": "Ukraine Hits Russian Fuel and Military Infrastructure in Coordinated Overnight Assault - Kyiv Post",
       "pubDate": "Sun, 07 Sep 2025 08:21:35 GMT"
+    },
+    {
+      "title": "Ukrainian Strikes on Russian Refineries Causing Crisis for Putin - Kyiv Post",
+      "pubDate": "Sun, 07 Sep 2025 08:44:21 GMT"
     }
   ],
   "us_economy": [
@@ -1468,10 +1472,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Stunning! France knock out mighty China in Thailand - Volleyball World",
-      "pubDate": "Sun, 31 Aug 2025 13:07:04 GMT"
-    },
     {
       "title": "China\u2019s Xi says SCO bears \u2018greater responsibility\u2019 for keeping peace - Al Jazeera",
       "pubDate": "Sun, 31 Aug 2025 15:00:51 GMT"
@@ -2319,10 +2319,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum networks shown to work on existing internet cables - cosmosmagazine.com",
-      "pubDate": "Sun, 31 Aug 2025 13:30:00 GMT"
-    },
-    {
       "title": "IBM and AMD Create New Architectures Between Quantum Computing and High-Performance Computing (HPC) - Red Hot Cyber",
       "pubDate": "Mon, 01 Sep 2025 06:24:43 GMT"
     },
@@ -2555,10 +2551,6 @@
   ],
   "gaza": [
     {
-      "title": "LIVE: Children, aid seekers shot dead by Israeli forces in Gaza - Al Jazeera",
-      "pubDate": "Sun, 31 Aug 2025 13:50:39 GMT"
-    },
-    {
       "title": "Flotilla leaves Barcelona in biggest attempt yet to break Israeli blockade of Gaza - AP News",
       "pubDate": "Sun, 31 Aug 2025 15:59:00 GMT"
     },
@@ -2672,10 +2664,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "12 images we've fact-checked about climate change - Snopes",
-      "pubDate": "Sun, 31 Aug 2025 13:03:11 GMT"
-    },
     {
       "title": "Is climate change making hurricanes stronger? - France 24",
       "pubDate": "Sun, 31 Aug 2025 15:17:53 GMT"
@@ -3151,6 +3139,10 @@
     {
       "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
       "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
+    },
+    {
+      "title": "Hazel Chandler has lived climate change. She won't stop fighting it until the bitter end - The Arizona Republic",
+      "pubDate": "Sun, 07 Sep 2025 12:07:26 GMT"
     }
   ],
   "world_news": [
@@ -3413,6 +3405,12 @@
     {
       "title": "\"It's Like A Spring Storing Energy\": Scientists Create Rocket Fuel That's 150% More Powerful Than Aluminum, Revolutionizing Space Travel - Energy Reporters",
       "pubDate": "Sat, 06 Sep 2025 20:10:41 GMT"
+    }
+  ],
+  "battery_technology": [
+    {
+      "title": "Researchers unveil game-changing new technology that could revolutionize batteries: 'It can be used in everything from electric cars to storage' - The Cool Down",
+      "pubDate": "Sun, 07 Sep 2025 13:15:00 GMT"
     }
   ]
 }
