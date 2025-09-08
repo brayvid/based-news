@@ -1,72 +1,62 @@
 {
-  "Ukraine": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Video Ukraine hit by biggest Russian drone attack since start of war - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWtra0duUTFZdnMyWUFNUkRRWG9aSGtzODhuSkU3ZnBHTzRNRG9WX3RtZDJrM25sSzJLYzdDTElwMDZRMGduaC1laHRWektvOW1oOVNoT2VYV3c0ZWk1eldJdWNCRVVFY2kwMzhiVmJnclpncFZyendDNGtLR3ZGU0RvcTNIU3EyYzJmbk5odjZOX1pKVTJoZXNiNW5vWTg?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 11:27:46 GMT"
+        "title": "Anthropic backs California bill that could test Newsom on AI - Politico",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZkIxZVRfWlh6MWlLaVJCMjJFSXU3QTR3b1lPczFTVW5aMGJvQXh0YTZXWFZhTnhOeWZqdXV4VUNwWjhxSzEyQktBMFZkWEpjTlJIMUFyZHN5RGpWYzNWcVNBbW5WY1FDQm1sZ1VJOGxDTjV5cm9qMnRxMTMzNHd0WThsdXZlODh4bkNDNTBZcG9wa3F3?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 12:15:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "Six murdered in Jerusalem terror shooting - JNS.org",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmtBWVdQM2ZOUjUxTFpWREJSdGpFOHp3OVg0WEpBeXN1N2Z5Xy1XV1FXc3dqZTdyUm9MYzJOTG9GaHZwY1phcGFuUE9XTWk1dmVTNGFvcC1GR2RyWVJoaUotdHFRZnZDU1YwVEs4MVFpXzN0YWwwU3RKdXVQSmJIcXplMHZ1TE1J?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkJNMTZiUTQxWjNtRDFzdmdhZG5oUzJwX0JQbnhheWFWenFBTDhqakF5WmRkQ0RvZXNsX0p4UEtMN1ZPdTIyakRqQ1pSN3BiVzRxSGlWTkczV3RJbnk2YlVHMnFjdmdzTFo5WVNmdm45dHlpSGkyUVdMWkMxVm5KUjctOUNzT2lEZUY0cURzbDBKNW9HZ1FaSC1xMXBUX2xyQy1tVVJfeWRXREZiU1ZfQlR2RjlHWWdSXzJnQVBKZDM?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 11:44:48 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI's impact in the workforce is \u2018small,' but it\u2019s not \u2018zero,\u2019 labor economist says - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclJCamozT0pSckk4U1lzdHlkLTdBNkNsdTNjYXAtek85YWN1YklnMUh3dGwyZzVyN1lGSnJyMFRuTVNEa2dQR2VvWEp6dEc1TVRmUmVibC1wQmJyLTcxSGlFTFNOX0tjNlN6a1FfUU1JMVVHSnpQR1hKWFVzN3FfbW1EbV9Sbm_SAYwBQVVfeXFMTkgwQkVWSHRVcEkzcDVpZDFFRURmMjR4ZXZoVjF6UHBxUzRReFNBNVh3Sk9PVWh1SGRDdTRZZ1NzZkVqMzJBUWZ3Q2dhLWJtZGdLNWlvMS1kWXpWNW9oRG54cVRFa2g0T01fSy1BalRybXJvZ3FhQUhCaDQtV01obXAxdlMtLTZRLTdvSWc?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 11:00:01 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Satellites demonstrate that cities can clean up the air and cut climate pollution at the same time - Yale Climate Connections",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOUpRb2RQZ1dGNmJFZTZ6MTRqeERoZndQVVpnako3clBZcjRwN3dMQ0U0NnNsdmRYNDdXemtFX25OM0F5UkRfU00tNUNzcktBNUtwRXdUM0E2Wlp1bURna2Nwbzd5ZWZmRkRGdkh0bV9ZTTBHX2FGSFVBUFpvZDhMQ1o4WWljOFBFTTlLNjU3YjAtY1Etai1nLXZZd1l6bFdBWG1qb29zQkZqRm0wcTJqWjBxZm1vQmQ0VGpvNUlyM2RmZ2NtRGFRUzNQeTZzd3J3R3RhTm11MzZkQQ?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 11:00:00 GMT"
+        "title": "Can America thrive in an economy without fossil fuels? Of course! - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2JTWlBiekk1YWZ3eVN5bTB5d0dFVzNFZlZWTzBRbG93RVFVR2ZFNVpkamhpTUUweU1ZM2VLcjRhM1JJY1AwNEhPRjZyeUpBaXFtWkNIUE1fcjZHNlNzWktUVG04dEVOV1Y3OXljWVBFRWl5Z21pZE14YkQxZlZQb2M3R3ZlRnNWb0prLXN2eHFjZXN2dXNYOdIBngFBVV95cUxOdlF0bDZtQUNyUEp6dHhNLTVJcHl6U2thX051VkdmdWVadi1SRlVscUY3amJVMElGQlM4TnpYWTZ5Yk5aYTltZ25LdUZNSm9kbGYwYnBKeU5FNVhxdEZBclZXMGpySGs2WXNXNlNkOVJtTl9DR0VOUHFzYUVnbjNYRU9aQnlMRzl6SHdpWGF1MTRKN2VJcU9XVWlhU0tPQQ?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 12:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
   },
-  "Financial Markets": {
+  "Cryptocurrency": {
     "articles": [
       {
-        "title": "These are the stock-market trades to make going into the end of the year, according to Goldman Sachs - MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekhRUmFZbGh2YjZsMlB3Mnh1LUJ4VW85bWZTNnp4cnpvWUpJR3licUFxMUtWM1ZRWXJWWlBNdkNjb1FiRXhxd0tKSXNFSzBHZUpZbDk5eDNPbnJfdjhRTXVLX2JXYjN1SmQyb29Dd3hlZ21LR1pIVUxtMmhvWDRHRWFwSmktX2p3LTZtNGJ5dF9FN0JKMFlHLXZEcFJDZGNQQmZDOXhuQ3o0MzVHLUd1dktUR0g3TV9GcVpDTi1DWDBQbkJyUU96NjUzNkNpcmRhMTVhVXJuVHdQZw?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 10:43:00 GMT"
+        "title": "Bitcoin stalls around $110,000; Fed rate cut may not spark rally, analyst says - The Block",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCa3NzTnRVQTdab3hBMEg1Qm1xQmg5ZjFHaXJjdFNabjg3NGZheDJxb3lMbE5KUUxxY2NzbWJncFdfMm8xMUlpeTBOMk9XTFQ0ZmVicV90YXczMWhtcTFwelliQWhLR2lhcVM1NzFhTmZGSkFjZlZHaWJ0YXHSAYIBQVVfeXFMTk91LWxiVU1DZmlzSjAwNGRnNWtoUjM0WVZEUEFKZGJISXdqQ0JFOWpVQjVMenlqWTUzRndHYnZjakxwNGc1TXNrc3RtZ3ZBaXR3aUgyMmc1ajJfREl1SnpiR21VVkVKNDRoS1VVUmxhNTd1cmFMZDhFMUtzOWNmclJyZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 04:26:44 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
   },
-  "Quantum Computing": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "What is a quantum computer's speed limit? Entanglement can provide an answer - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTUpOWjYtMTNQUnlIaVF4QW8zQzdBOGF1Y0ZVcTZUQUY5Um1YQkRSZXh0RHZyMjB2bnVYT2FuQmxnZUFYWV9KdmZiYmZuLUdmMWN6UC1iLUZ6cTg2ZkMyU1F4MHpJVjlBOERBeWpn?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 11:21:04 GMT"
+        "title": "Cybersecurity firm Netskope eyes up to $6.5 billion valuation in US IPO - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx4cDJ4cWhMUExZQi1YSmhpYkhSaUNxTkFrODdYSnN5NlFxc3J5R0ZFLVY2eXhJM3huYklfb1NuRkc0SDBrYnpmeTBfYWxjZzRJaFVLOTUxSmpTcFI3a2JTbHlpamRqM0JGdW9KemF1WlgxSUpmbWh0U25ZQUtkTHRGbUZrMVNCYlBnT01oaFNYaDBodWRaVXFTd0k1S1g0TGVqLVI2NFlLczNn?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 11:29:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-08T11:59:55.147673+00:00"
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Live updates: Trump's approval is underwater, but Gen Z's divided, poll finds - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFpaZndYb1JMNS1UUnNDS0N4azZZN0pxQ3YtWmtSQXhtaHotLUJIZnR4NXljLUhERW95Tk1SenltaUsyRnMwRml0NE5MWkRLZHBsbks2Y0ZxT0dyaENBU21rNmhpeDhmRWJGSkEwSHdQTWJOam5fZUYxd0tvdVZYekVqMDJBNTJ0ZDU5TzhXSGZJdHBqMU03aFJuMDFBYjRLdlVudTZzb2twVXIzSVRleVFrVmdqLTMtVUlPY0FtbnQydDExLVoxSXJ3UldObG5wcEczVmhLUHjSAWNBVV95cUxOZURvd2h2RmI5WVpEU0xBTzVJQVlZRjlPTEJfZGtFTmxnMXlManFqWDNIUjN0b0wxdXl4Sml2Tnk2d3AzVVR5OGdSTEV6OGhoWEhMclQzY19Mb0tvSnhPUEM3VFE?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 11:55:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
+  },
+  "World Politics": {
+    "articles": [
+      {
+        "title": "Xi and Putin to Take Part in BRICS Trade Summit Without Modi - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGxLQkktZDU2bWVDanJ5R0Rna3VmbC1kRGM0TjJ1elBReTViV0dEUlc5ajIwTzFYMkpsSVlEY3NVREtZR3VyN2hfdS0yd0EtdktwSGdvM3lPcTdIbTh2WUVVYzFRMmNVaDAydUtDeWUtczJWTVltU2M1Z1h6Qm4yUWdKaWFNTU5HMmtlUmRpa1UwdVlCYXVoaE9GWVZwS0hfUmY0aDJNcElxOGJkWms4LQ?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 02:28:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-08T13:00:15.844139+00:00"
   }
 }
