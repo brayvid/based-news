@@ -819,10 +819,6 @@
       "pubDate": "Mon, 01 Sep 2025 19:46:41 GMT"
     },
     {
-      "title": "The good and bad of machine learning | Letters - The Guardian",
-      "pubDate": "Mon, 01 Sep 2025 16:12:00 GMT"
-    },
-    {
       "title": "Artificial intelligence offers individualized anticoagulation decisions for atrial fibrillation - News-Medical",
       "pubDate": "Tue, 02 Sep 2025 03:12:00 GMT"
     },
@@ -1109,13 +1105,13 @@
     {
       "title": "AI chatbots can fuel dependence and blur boundaries. Here are the red flags. - Psychology Today",
       "pubDate": "Mon, 08 Sep 2025 13:22:14 GMT"
+    },
+    {
+      "title": "80% of ransomware attacks now use artificial intelligence - MIT Sloan",
+      "pubDate": "Mon, 08 Sep 2025 16:41:36 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Disguised gunman who assassinated prominent Ukraine politician is linked to Russia, Kyiv says - CBS News",
-      "pubDate": "Mon, 01 Sep 2025 16:15:00 GMT"
-    },
     {
       "title": "Ukraine bids farewell to ex-parliamentary speaker shot in \u2018assassination\u2019 - TVP World",
       "pubDate": "Mon, 01 Sep 2025 20:34:00 GMT"
@@ -1423,6 +1419,10 @@
     {
       "title": "Russia hits Kyiv power facility as Trump says he's 'not happy' with Ukraine attacks - ABC News",
       "pubDate": "Mon, 08 Sep 2025 08:37:30 GMT"
+    },
+    {
+      "title": "Russia would kill civilians in Czechia just like it does in Ukraine, warns spy chief - politico.eu",
+      "pubDate": "Mon, 08 Sep 2025 16:45:01 GMT"
     }
   ],
   "us_economy": [
@@ -2043,6 +2043,10 @@
     {
       "title": "The Fed got it wrong and is late again, top economist says, as job gains collapse - Fortune",
       "pubDate": "Sat, 06 Sep 2025 17:35:00 GMT"
+    },
+    {
+      "title": "Slower job growth likely solidifies September rate cut - invesco.com",
+      "pubDate": "Mon, 08 Sep 2025 13:50:49 GMT"
     }
   ],
   "earthquakes": [
@@ -2150,10 +2154,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Trump family\u2019s cryptocurrency is now available for public buying and selling - Times of India",
-      "pubDate": "Mon, 01 Sep 2025 16:26:00 GMT"
-    },
     {
       "title": "Bitcoin Price Surges Above $111,000 As Strategy Buys $449 Million Worth Of BTC - Bitcoin Magazine",
       "pubDate": "Tue, 02 Sep 2025 15:56:44 GMT"
@@ -2466,10 +2466,6 @@
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "Google DeepMind Chief Scientist says AI already surpasses humans in most tasks: \u2018Most people are not that good at\u2026\u2019 - Mint",
-      "pubDate": "Mon, 01 Sep 2025 16:56:06 GMT"
-    },
     {
       "title": "\u2018World Models,\u2019 an Old Idea in AI, Mount a Comeback - Quanta Magazine",
       "pubDate": "Tue, 02 Sep 2025 13:19:43 GMT"
@@ -3119,6 +3115,10 @@
     {
       "title": "Scientists find a surprising reason why people are eating more sugar - CNN",
       "pubDate": "Mon, 08 Sep 2025 15:32:00 GMT"
+    },
+    {
+      "title": "Climate change is making Americans crave soda to the tune of 100 million pounds of added sugar a year, new study finds - Fortune",
+      "pubDate": "Mon, 08 Sep 2025 16:25:00 GMT"
     }
   ],
   "world_news": [
@@ -3275,6 +3275,10 @@
     {
       "title": "Exclusive Interview\uff5cBNEF CEO on Taiwan\u2019s Net-Zero Path: Nuclear Power Cannot Be Left Out - \u5929\u4e0b\u96dc\u8a8c",
       "pubDate": "Mon, 08 Sep 2025 00:45:33 GMT"
+    },
+    {
+      "title": "Alone we fail: the culture change needed to deliver the energy transition - Utility Dive",
+      "pubDate": "Mon, 08 Sep 2025 14:21:20 GMT"
     }
   ],
   "world_politics": [
