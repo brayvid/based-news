@@ -9,10 +9,6 @@
       "pubDate": "Mon, 01 Sep 2025 13:34:30 GMT"
     },
     {
-      "title": "More than 250 media outlets protest over Israel murdering Gaza journalists - Al Jazeera",
-      "pubDate": "Mon, 01 Sep 2025 11:37:30 GMT"
-    },
-    {
       "title": "Trump Says Israel Losing Public Relations Battle, Warns of Declining Support in Congress - VINnews",
       "pubDate": "Tue, 02 Sep 2025 00:20:20 GMT"
     },
@@ -219,6 +215,10 @@
     {
       "title": "Gunmen kill five people at Jerusalem bus stop - The Guardian",
       "pubDate": "Mon, 08 Sep 2025 09:13:00 GMT"
+    },
+    {
+      "title": "Six murdered in Jerusalem terror shooting - JNS.org",
+      "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
     }
   ],
   "donald_trump": [
@@ -486,10 +486,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Meta subject of scathing report: Will it change its AI chatbot policies? - Cybernews",
-      "pubDate": "Mon, 01 Sep 2025 11:10:44 GMT"
-    },
     {
       "title": "Korea must lead in setting global AI norms - Korea JoongAng Daily",
       "pubDate": "Mon, 01 Sep 2025 15:04:00 GMT"
@@ -803,13 +799,13 @@
     {
       "title": "Gold breaches record $3,600 as Fed rate cut bets intensify - uk.finance.yahoo.com",
       "pubDate": "Mon, 08 Sep 2025 08:18:46 GMT"
+    },
+    {
+      "title": "These are the stock-market trades to make going into the end of the year, according to Goldman Sachs - MarketWatch",
+      "pubDate": "Mon, 08 Sep 2025 10:43:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Our AI Fears Run Long and Deep - The Atlantic",
-      "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "LLMs don\u2019t have light-bulb moments, they just reorganize like water to ice. - Psychology Today",
       "pubDate": "Mon, 01 Sep 2025 19:46:41 GMT"
@@ -1097,13 +1093,13 @@
     {
       "title": "Despite Improvements, GPT-5 Continues to Hallucinate, OpenAI Says - Analytics India Magazine",
       "pubDate": "Mon, 08 Sep 2025 08:46:43 GMT"
+    },
+    {
+      "title": "AI's impact in the workforce is \u2018small,' but it\u2019s not \u2018zero,\u2019 labor economist says - CNBC",
+      "pubDate": "Mon, 08 Sep 2025 11:00:01 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine is keeping soldiers in Western training longer \u2014 betting on skill over mass against Russia - Business Insider",
-      "pubDate": "Mon, 01 Sep 2025 11:05:00 GMT"
-    },
     {
       "title": "Ukraine war live: EU leader\u2019s plane \u2018suffers Russian GPS jamming\u2019 mid-flight - The Independent",
       "pubDate": "Mon, 01 Sep 2025 13:49:41 GMT"
@@ -1419,6 +1415,10 @@
     {
       "title": "Putin has never been so shameless. The West should be terrified - The Telegraph",
       "pubDate": "Mon, 08 Sep 2025 10:29:00 GMT"
+    },
+    {
+      "title": "Video Ukraine hit by biggest Russian drone attack since start of war - ABC News",
+      "pubDate": "Mon, 08 Sep 2025 11:27:46 GMT"
     }
   ],
   "us_economy": [
@@ -1625,10 +1625,6 @@
     {
       "title": "Trump defends U-turn on Chinese student visas amid Maga backlash - BBC",
       "pubDate": "Mon, 01 Sep 2025 14:26:33 GMT"
-    },
-    {
-      "title": "\u2018What else needs to be improved?\u2019: Inside Trump\u2019s relentless quest to leave his mark on Washington - Politico",
-      "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     },
     {
       "title": "Donald Trump's and Gavin Newsom's Very Different Labor Day Messages - Newsweek",
@@ -1925,6 +1921,10 @@
     {
       "title": "September 7, 2025: Donald Trump presidency news - CNN",
       "pubDate": "Mon, 08 Sep 2025 01:38:00 GMT"
+    },
+    {
+      "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
+      "pubDate": "Mon, 08 Sep 2025 11:44:48 GMT"
     }
   ],
   "north_korea": [
@@ -2305,10 +2305,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Researchers Achieve 90% Fidelity in Measurement-based Quantum Computation with 4-qubit Clusters - Quantum Zeitgeist",
-      "pubDate": "Mon, 01 Sep 2025 11:07:02 GMT"
-    },
-    {
       "title": "Researchers Unlock Efficient Block Encoding of Sparse Matrices, Overcoming Key Obstacles to Quantum Algorithms - Quantum Zeitgeist",
       "pubDate": "Mon, 01 Sep 2025 21:33:45 GMT"
     },
@@ -2455,6 +2451,10 @@
     {
       "title": "US quantum computing firm Strangeworks acquires Quantagonia - Evertiq",
       "pubDate": "Mon, 08 Sep 2025 04:05:30 GMT"
+    },
+    {
+      "title": "What is a quantum computer's speed limit? Entanglement can provide an answer - Phys.org",
+      "pubDate": "Mon, 08 Sep 2025 11:21:04 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2649,14 +2649,6 @@
   ],
   "climate_change": [
     {
-      "title": "Climate Change and Pediatric Skin Health: Emerging Threats, Innovations, and Equity Gaps - Cureus",
-      "pubDate": "Mon, 01 Sep 2025 11:52:33 GMT"
-    },
-    {
-      "title": "Zimbabwe Publishes Draft Regulations to Establish Climate Fund - Bloomberg.com",
-      "pubDate": "Mon, 01 Sep 2025 11:35:36 GMT"
-    },
-    {
       "title": "When does autumn begin? - The Week",
       "pubDate": "Mon, 01 Sep 2025 12:28:15 GMT"
     },
@@ -2667,10 +2659,6 @@
     {
       "title": "Trump is cutting climate satellites. That could affect weather prediction. - The Washington Post",
       "pubDate": "Mon, 01 Sep 2025 16:00:10 GMT"
-    },
-    {
-      "title": "Why a group of Catholics urged Congress to take climate action - Yale Climate Connections",
-      "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     },
     {
       "title": "Wars and tariffs have deflected focus, not made climate change go away: COP30 chief - The Indian Express",
@@ -3123,6 +3111,10 @@
     {
       "title": "\u2018I feel let down by my state\u2019: Kids sue Wisconsin over climate change - Wisconsin Examiner",
       "pubDate": "Mon, 08 Sep 2025 10:49:26 GMT"
+    },
+    {
+      "title": "Satellites demonstrate that cities can clean up the air and cut climate pollution at the same time - Yale Climate Connections",
+      "pubDate": "Mon, 08 Sep 2025 11:00:00 GMT"
     }
   ],
   "world_news": [
