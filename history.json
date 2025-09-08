@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "'Stop killing journalists in Gaza': Media groups unite against Israeli attacks - Sky News",
-      "pubDate": "Mon, 01 Sep 2025 13:34:30 GMT"
-    },
-    {
       "title": "Trump Says Israel Losing Public Relations Battle, Warns of Declining Support in Congress - VINnews",
       "pubDate": "Tue, 02 Sep 2025 00:20:20 GMT"
     },
@@ -215,13 +211,13 @@
     {
       "title": "Six murdered in Jerusalem terror shooting - JNS.org",
       "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Spain to ban Israel-bound shipping, aircraft carrying weapons from its ports, airspace - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 08:00:51 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump admin live updates: Trump urges companies to 'justify' success of COVID drugs - ABC News",
-      "pubDate": "Mon, 01 Sep 2025 13:21:00 GMT"
-    },
     {
       "title": "Trump raises fresh questions about Covid-19 vaccines that he says have \u2018ripped apart\u2019 CDC - CNN",
       "pubDate": "Mon, 01 Sep 2025 21:08:00 GMT"
@@ -479,24 +475,16 @@
     {
       "title": "Oil gains on prospect of more sanctions on Russia; OPEC+ output hike seen modest - Reuters",
       "pubDate": "Mon, 08 Sep 2025 07:14:33 GMT"
+    },
+    {
+      "title": "Russia\u2019s New Fear Factor: How the War Is Driving a Wave of Purges and Suicides Among the Country\u2019s Elites - Foreign Affairs",
+      "pubDate": "Mon, 08 Sep 2025 04:00:00 GMT"
     }
   ],
   "ai_safety": [
     {
       "title": "Korea must lead in setting global AI norms - Korea JoongAng Daily",
       "pubDate": "Mon, 01 Sep 2025 15:04:00 GMT"
-    },
-    {
-      "title": "GPT-4o Mini Is Fooled By Psychology Tactics - Dataconomy",
-      "pubDate": "Mon, 01 Sep 2025 14:00:25 GMT"
-    },
-    {
-      "title": "AI-Powered Age Checks Reshape Online Child Safety Rules - The European Business Review",
-      "pubDate": "Mon, 01 Sep 2025 13:17:26 GMT"
-    },
-    {
-      "title": "Offshore Energy Industry urged to prioritise safety in the era of AI - AltEnergyMag",
-      "pubDate": "Mon, 01 Sep 2025 13:51:33 GMT"
     },
     {
       "title": "Political backlash mounts as Meta revises AI safety policies - Digital Watch Observatory",
@@ -1097,24 +1085,16 @@
     {
       "title": "AI's impact in the workforce is \u2018small,' but it\u2019s not \u2018zero,\u2019 labor economist says - CNBC",
       "pubDate": "Mon, 08 Sep 2025 11:00:01 GMT"
+    },
+    {
+      "title": "AI chatbots can fuel dependence and blur boundaries. Here are the red flags. - Psychology Today",
+      "pubDate": "Mon, 08 Sep 2025 13:22:14 GMT"
     }
   ],
   "ukraine": [
     {
-      "title": "Ukraine war live: EU leader\u2019s plane \u2018suffers Russian GPS jamming\u2019 mid-flight - The Independent",
-      "pubDate": "Mon, 01 Sep 2025 13:49:41 GMT"
-    },
-    {
       "title": "Europeans crafting \"precise plans\" for post-war Ukraine deployments, with Trump's backing, EU leader says - CBS News",
       "pubDate": "Mon, 01 Sep 2025 14:07:52 GMT"
-    },
-    {
-      "title": "Defense Intelligence attacks air base of occupiers in Crimea with drones: two Mi-8 helicopters and towboat hit - ukranews.com",
-      "pubDate": "Mon, 01 Sep 2025 13:30:00 GMT"
-    },
-    {
-      "title": "What Finland could teach Ukraine about war and peace - The Economist",
-      "pubDate": "Mon, 01 Sep 2025 13:47:36 GMT"
     },
     {
       "title": "Disguised gunman who assassinated prominent Ukraine politician is linked to Russia, Kyiv says - CBS News",
@@ -1419,6 +1399,10 @@
     {
       "title": "Video Ukraine hit by biggest Russian drone attack since start of war - ABC News",
       "pubDate": "Mon, 08 Sep 2025 11:27:46 GMT"
+    },
+    {
+      "title": "HUR Cyber Corps blocks fuel cards in Russia, disrupts dozens of online platforms - source - Ukrinform",
+      "pubDate": "Mon, 08 Sep 2025 11:26:00 GMT"
     }
   ],
   "us_economy": [
@@ -1629,10 +1613,6 @@
     {
       "title": "Donald Trump's and Gavin Newsom's Very Different Labor Day Messages - Newsweek",
       "pubDate": "Mon, 01 Sep 2025 18:51:10 GMT"
-    },
-    {
-      "title": "Democrats face an increasingly frustrated base over redistricting - Politico",
-      "pubDate": "Mon, 01 Sep 2025 14:00:00 GMT"
     },
     {
       "title": "New York Congressman Jerrold Nadler won't seek re-election in November, report says - ABC7 New York",
@@ -2043,14 +2023,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Afghanistan earthquake live: More than 800 killed, UN agency says, as rescue efforts continue - BBC",
-      "pubDate": "Mon, 01 Sep 2025 13:52:30 GMT"
-    },
-    {
-      "title": "Afghanistan earthquake kills 800, injures 2,800, Taliban asks world for help - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 13:55:20 GMT"
-    },
-    {
       "title": "Death toll climbs to over 1,100 after Afghanistan earthquake, Taliban official says - 6abc Philadelphia",
       "pubDate": "Tue, 02 Sep 2025 09:50:15 GMT"
     },
@@ -2275,10 +2247,6 @@
   ],
   "fusion_power": [
     {
-      "title": "\"Scientists Achieved Burning Plasma\": Los Alamos Breaks Fusion Ignition With THOR Window System Generating 2.4 Megajoules of Self-Sustaining Energy - Energy Reporters",
-      "pubDate": "Mon, 01 Sep 2025 13:13:48 GMT"
-    },
-    {
       "title": "The largest project in the history of humanity is about to enter a key phase: the final assembly of the reactor core, led by an American giant. - evidencenetwork.ca",
       "pubDate": "Mon, 01 Sep 2025 15:28:00 GMT"
     },
@@ -2467,6 +2435,10 @@
     {
       "title": "What is a quantum computer's speed limit? Entanglement can provide an answer - Phys.org",
       "pubDate": "Mon, 08 Sep 2025 11:21:04 GMT"
+    },
+    {
+      "title": "Maybell Quantum closes $40m funding round for quantum computing fridges - Data Center Dynamics",
+      "pubDate": "Mon, 08 Sep 2025 13:27:05 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2519,10 +2491,6 @@
     {
       "title": "Salt Typhoon hacks declared national security crisis - inkl",
       "pubDate": "Mon, 01 Sep 2025 15:53:50 GMT"
-    },
-    {
-      "title": "Outgoing Agent Slams MAGA FBI as Major Security Risk - The Daily Beast",
-      "pubDate": "Mon, 01 Sep 2025 13:46:00 GMT"
     },
     {
       "title": "El Paso public safety officials featured in videos by Chinese dronemaker under U.S. national security review - El Paso Matters",
@@ -3127,6 +3095,10 @@
     {
       "title": "Can America thrive in an economy without fossil fuels? Of course! - The Hill",
       "pubDate": "Mon, 08 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Critics say Louisville, Lexington and LG&E abandon net-zero climate goals in new plan - Louisville Public Media",
+      "pubDate": "Mon, 08 Sep 2025 10:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3393,6 +3365,10 @@
     {
       "title": "CATL unveils No Propagation 3.0 battery safety technology, Shenxing Pro LFP battery in Munich - Gasgoo",
       "pubDate": "Mon, 08 Sep 2025 00:09:33 GMT"
+    },
+    {
+      "title": "Rimac Technology Unveils New Solid-State Battery Tech and Next-Generation e-Axles at IAA Mobility - Rimac Newsroom",
+      "pubDate": "Mon, 08 Sep 2025 06:20:18 GMT"
     }
   ],
   "energy_storage": [
