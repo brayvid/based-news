@@ -487,13 +487,13 @@
     {
       "title": "EU Weighs New Sanctions on Russia to Hit Banks and Oil Trade - Bloomberg",
       "pubDate": "Mon, 08 Sep 2025 06:11:00 GMT"
+    },
+    {
+      "title": "NATO\u2019s eastern flank braces for Russia\u2019s war games - politico.eu",
+      "pubDate": "Mon, 08 Sep 2025 03:17:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Diving Further Into What Makes ChatGPT And Other AI Spiral Out Of Human Safety Guardrails During Long Conversations - Forbes",
-      "pubDate": "Mon, 01 Sep 2025 07:15:00 GMT"
-    },
     {
       "title": "Meta subject of scathing report: Will it change its AI chatbot policies? - Cybernews",
       "pubDate": "Mon, 01 Sep 2025 11:10:44 GMT"
@@ -815,10 +815,6 @@
       "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
     },
     {
-      "title": "Is artificial intelligence a tool or an agent? - Technology Org",
-      "pubDate": "Mon, 01 Sep 2025 07:30:00 GMT"
-    },
-    {
       "title": "Our AI Fears Run Long and Deep - The Atlantic",
       "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     },
@@ -1105,13 +1101,13 @@
     {
       "title": "A&E Book Club: Speculations on the future of artificial intelligence - The Cavalier Daily",
       "pubDate": "Sun, 07 Sep 2025 22:48:22 GMT"
+    },
+    {
+      "title": "Humans hold one irreplaceable advantage over AI - Devdiscourse",
+      "pubDate": "Mon, 08 Sep 2025 05:05:24 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Putin says he and Trump came to \u2018understanding\u2019 about how to end war at Alaska summit - The Independent",
-      "pubDate": "Mon, 01 Sep 2025 07:49:37 GMT"
-    },
     {
       "title": "Ukraine strikes Russian Project 21631 Buyan-M class corvette with drones - navalnews.com",
       "pubDate": "Mon, 01 Sep 2025 08:30:29 GMT"
@@ -1619,6 +1615,10 @@
     {
       "title": "Mars should not have a solid inner core but it does, China-US study finds - South China Morning Post",
       "pubDate": "Mon, 08 Sep 2025 02:00:09 GMT"
+    },
+    {
+      "title": "Chinese Export Growth Slows More Than Forecast as Demand Weakens - Bloomberg.com",
+      "pubDate": "Mon, 08 Sep 2025 07:07:39 GMT"
     }
   ],
   "us_politics": [
@@ -2135,6 +2135,10 @@
     {
       "title": "Energy company turns on largest-of-its-kind project set to power over 1 million homes: 'Preventing energy blackouts' - yahoo.com",
       "pubDate": "Sun, 07 Sep 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Africa\u2019s solar energy potential makes for a bright future for renewable power - AP News",
+      "pubDate": "Mon, 08 Sep 2025 00:21:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2540,10 +2544,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Families search for loved ones after overnight strikes in Gaza - Al Jazeera",
-      "pubDate": "Mon, 01 Sep 2025 07:40:41 GMT"
-    },
     {
       "title": "Israel is committing genocide in Gaza, scholars' association says - Reuters",
       "pubDate": "Mon, 01 Sep 2025 08:54:31 GMT"
@@ -3133,6 +3133,10 @@
     {
       "title": "Lessons for COP30: 3 Reasons Why Environmental Treaties Consistently Fail - Earth.Org",
       "pubDate": "Mon, 08 Sep 2025 00:00:51 GMT"
+    },
+    {
+      "title": "Climate change helps Spanish coffee lovers grow their own beans - The Times",
+      "pubDate": "Mon, 08 Sep 2025 05:02:33 GMT"
     }
   ],
   "world_news": [
@@ -3152,10 +3156,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "China hosts show of economic force with fellow Brics nations India and Russia - thenationalnews.com",
-      "pubDate": "Mon, 01 Sep 2025 07:16:27 GMT"
-    },
     {
       "title": "China\u2019s economic summit and military parade may signal a geopolitical shift - PBS",
       "pubDate": "Wed, 03 Sep 2025 17:52:45 GMT"
@@ -3213,6 +3213,10 @@
     {
       "title": "Meet the Chinese supercar that just smashed the EV speed record - Live Science",
       "pubDate": "Sun, 07 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "EU electric carmakers urge Brussels to uphold 2035 zero-emission goal - France 24",
+      "pubDate": "Mon, 08 Sep 2025 00:03:52 GMT"
     }
   ],
   "algorithmic_trading": [
@@ -3257,6 +3261,10 @@
     {
       "title": "Trump plays down possible regime change in Venezuela; US deploys stealth fighter jets - Reuters",
       "pubDate": "Sat, 06 Sep 2025 15:19:56 GMT"
+    },
+    {
+      "title": "US stock futures drift higher amid rate cut bets, economic jitters - Investing.com",
+      "pubDate": "Mon, 08 Sep 2025 00:22:30 GMT"
     }
   ],
   "energy_transition": [
@@ -3291,12 +3299,6 @@
     {
       "title": "Exclusive Interview\uff5cBNEF CEO on Taiwan\u2019s Net-Zero Path: Nuclear Power Cannot Be Left Out - \u5929\u4e0b\u96dc\u8a8c",
       "pubDate": "Mon, 08 Sep 2025 00:45:33 GMT"
-    }
-  ],
-  "world_economy": [
-    {
-      "title": "ECB's Lagarde warns of risk to world economy via Trump interference on Fed - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 07:17:05 GMT"
     }
   ],
   "world_politics": [
