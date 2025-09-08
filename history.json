@@ -215,6 +215,10 @@
     {
       "title": "Spain to ban Israel-bound shipping, aircraft carrying weapons from its ports, airspace - Reuters",
       "pubDate": "Mon, 08 Sep 2025 08:00:51 GMT"
+    },
+    {
+      "title": "Israel airstrikes kill 5 in northeastern Lebanon, including 4 Hezbollah members - The Washington Post",
+      "pubDate": "Mon, 08 Sep 2025 14:46:11 GMT"
     }
   ],
   "donald_trump": [
@@ -337,6 +341,10 @@
     {
       "title": "Trump not at war with Chicago but with cartels, Tom Homan says - Politico",
       "pubDate": "Sun, 07 Sep 2025 17:05:30 GMT"
+    },
+    {
+      "title": "Trump loses bid to overturn $83.3 million judgment in E. Jean Carroll defamation case - CNBC",
+      "pubDate": "Mon, 08 Sep 2025 14:16:18 GMT"
     }
   ],
   "russia": [
@@ -479,6 +487,10 @@
     {
       "title": "Russia\u2019s New Fear Factor: How the War Is Driving a Wave of Purges and Suicides Among the Country\u2019s Elites - Foreign Affairs",
       "pubDate": "Mon, 08 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "'War could be over' if certain sanctions against Russia were in place: Analyst - ABC News",
+      "pubDate": "Mon, 08 Sep 2025 14:21:20 GMT"
     }
   ],
   "ai_safety": [
@@ -693,6 +705,10 @@
     {
       "title": "Anthropic backs California bill that could test Newsom on AI - Politico",
       "pubDate": "Mon, 08 Sep 2025 12:15:00 GMT"
+    },
+    {
+      "title": "Anthropic is endorsing SB 53 - Anthropic",
+      "pubDate": "Mon, 08 Sep 2025 12:28:13 GMT"
     }
   ],
   "financial_markets": [
@@ -1092,10 +1108,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Europeans crafting \"precise plans\" for post-war Ukraine deployments, with Trump's backing, EU leader says - CBS News",
-      "pubDate": "Mon, 01 Sep 2025 14:07:52 GMT"
-    },
     {
       "title": "Disguised gunman who assassinated prominent Ukraine politician is linked to Russia, Kyiv says - CBS News",
       "pubDate": "Mon, 01 Sep 2025 16:15:00 GMT"
@@ -1603,13 +1615,13 @@
     {
       "title": "Chinese exports grow at slowest rate in 6 months - Financial Times",
       "pubDate": "Mon, 08 Sep 2025 04:34:46 GMT"
+    },
+    {
+      "title": "China Exports to US Slump 33% But Trade Surplus Heads for Record - Bloomberg",
+      "pubDate": "Mon, 08 Sep 2025 09:27:39 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump defends U-turn on Chinese student visas amid Maga backlash - BBC",
-      "pubDate": "Mon, 01 Sep 2025 14:26:33 GMT"
-    },
     {
       "title": "Donald Trump's and Gavin Newsom's Very Different Labor Day Messages - Newsweek",
       "pubDate": "Mon, 01 Sep 2025 18:51:10 GMT"
@@ -2443,10 +2455,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains - TipRanks",
-      "pubDate": "Mon, 01 Sep 2025 14:38:59 GMT"
-    },
-    {
       "title": "Google DeepMind Chief Scientist says AI already surpasses humans in most tasks: \u2018Most people are not that good at\u2026\u2019 - Mint",
       "pubDate": "Mon, 01 Sep 2025 16:56:06 GMT"
     },
@@ -3099,6 +3107,10 @@
     {
       "title": "Critics say Louisville, Lexington and LG&E abandon net-zero climate goals in new plan - Louisville Public Media",
       "pubDate": "Mon, 08 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Tajikistan\u2019s melting glaciers put water resources under stress - Welcome to the United Nations",
+      "pubDate": "Mon, 08 Sep 2025 14:37:45 GMT"
     }
   ],
   "world_news": [
@@ -3183,12 +3195,6 @@
     {
       "title": "Stellantis to scrap target of 100% EVs by 2030, says Europe chief - Reuters",
       "pubDate": "Mon, 08 Sep 2025 09:19:39 GMT"
-    }
-  ],
-  "algorithmic_trading": [
-    {
-      "title": "FCA Findings Following UK Review of Algorithmic Trading Controls - The National Law Review",
-      "pubDate": "Mon, 01 Sep 2025 14:43:40 GMT"
     }
   ],
   "technology": [
@@ -3381,6 +3387,12 @@
     {
       "title": "Over 800 Arrested at Protest After Pro-Palestinian Group Banned as Terrorist - The New York Times",
       "pubDate": "Sun, 07 Sep 2025 13:14:00 GMT"
+    }
+  ],
+  "algorithms": [
+    {
+      "title": "The Dead Internet: How Algorithms, Bots and AI Hollowed Out Our Digital Commons - The Times of Israel",
+      "pubDate": "Mon, 08 Sep 2025 03:05:00 GMT"
     }
   ]
 }
