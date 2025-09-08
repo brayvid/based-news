@@ -9,14 +9,6 @@
       "pubDate": "Mon, 01 Sep 2025 13:34:30 GMT"
     },
     {
-      "title": "IDF kills dozens of terrorists, destroys 5 miles of tunnels in Khan Yunis - JNS.org",
-      "pubDate": "Mon, 01 Sep 2025 09:53:07 GMT"
-    },
-    {
-      "title": "Gaza reconstruction plan faces backlash over relocation clause - France 24",
-      "pubDate": "Mon, 01 Sep 2025 09:59:23 GMT"
-    },
-    {
       "title": "More than 250 media outlets protest over Israel murdering Gaza journalists - Al Jazeera",
       "pubDate": "Mon, 01 Sep 2025 11:37:30 GMT"
     },
@@ -223,6 +215,10 @@
     {
       "title": "Live: Israeli attacks continue across Gaza City, at least 21 killed - Al Jazeera",
       "pubDate": "Mon, 08 Sep 2025 05:36:22 GMT"
+    },
+    {
+      "title": "Gunmen kill five people at Jerusalem bus stop - The Guardian",
+      "pubDate": "Mon, 08 Sep 2025 09:13:00 GMT"
     }
   ],
   "donald_trump": [
@@ -352,10 +348,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Modi says Russia and India stand together even in difficult times - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 09:44:52 GMT"
-    },
     {
       "title": "Bessent warns 'all options are on the table' for Russia sanctions - Fox Business",
       "pubDate": "Mon, 01 Sep 2025 18:18:23 GMT"
@@ -487,6 +479,10 @@
     {
       "title": "NATO\u2019s eastern flank braces for Russia\u2019s war games - politico.eu",
       "pubDate": "Mon, 08 Sep 2025 03:17:00 GMT"
+    },
+    {
+      "title": "Oil gains on prospect of more sanctions on Russia; OPEC+ output hike seen modest - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 07:14:33 GMT"
     }
   ],
   "ai_safety": [
@@ -815,10 +811,6 @@
       "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     },
     {
-      "title": "Forget data labeling: Tencent\u2019s R-Zero shows how LLMs can train themselves - VentureBeat",
-      "pubDate": "Mon, 01 Sep 2025 09:43:46 GMT"
-    },
-    {
       "title": "LLMs don\u2019t have light-bulb moments, they just reorganize like water to ice. - Psychology Today",
       "pubDate": "Mon, 01 Sep 2025 19:46:41 GMT"
     },
@@ -1101,6 +1093,10 @@
     {
       "title": "Humans hold one irreplaceable advantage over AI - Devdiscourse",
       "pubDate": "Mon, 08 Sep 2025 05:05:24 GMT"
+    },
+    {
+      "title": "Despite Improvements, GPT-5 Continues to Hallucinate, OpenAI Says - Analytics India Magazine",
+      "pubDate": "Mon, 08 Sep 2025 08:46:43 GMT"
     }
   ],
   "ukraine": [
@@ -1619,6 +1615,10 @@
     {
       "title": "Tropical Storm Tapah makes landfall in southern China, forcing evacuations and school closures - AP News",
       "pubDate": "Mon, 08 Sep 2025 07:23:00 GMT"
+    },
+    {
+      "title": "China Sends Navy Ship to America's Doorstep - Newsweek",
+      "pubDate": "Mon, 08 Sep 2025 07:37:32 GMT"
     }
   ],
   "us_politics": [
@@ -1921,6 +1921,10 @@
     {
       "title": "\u2018Betrayal\u2019: Ally torches Trump over grim pics - News.com.au",
       "pubDate": "Sun, 07 Sep 2025 22:42:58 GMT"
+    },
+    {
+      "title": "Trial begins for man charged with attempting to assassinate Trump - NPR",
+      "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -2142,10 +2146,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "$11B Bitcoin whale surpasses SharpLink with $4B Ethereum bet - Cointelegraph",
-      "pubDate": "Mon, 01 Sep 2025 09:38:41 GMT"
-    },
     {
       "title": "Trump family\u2019s cryptocurrency is now available for public buying and selling - Times of India",
       "pubDate": "Mon, 01 Sep 2025 16:26:00 GMT"
@@ -2651,18 +2651,6 @@
   ],
   "climate_change": [
     {
-      "title": "Japan and South Korea record hottest summers in history - Al Jazeera",
-      "pubDate": "Mon, 01 Sep 2025 09:34:21 GMT"
-    },
-    {
-      "title": "Scientists could soon lose a key tool for studying Antarctica's melting ice sheets as climate risks grow - NBC News",
-      "pubDate": "Mon, 01 Sep 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Home owners, buyers face increasing risk from climate disaster. Insurance experts say it's challenging - CBC",
-      "pubDate": "Mon, 01 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Can the ICJ opinion bring climate justice for Indigenous peoples? - Climate Home News",
       "pubDate": "Mon, 01 Sep 2025 10:41:03 GMT"
     },
@@ -3133,6 +3121,10 @@
     {
       "title": "Why humanitarian energy and climate issues are a growing global concern - Stockholm Environment Institute",
       "pubDate": "Mon, 08 Sep 2025 07:35:16 GMT"
+    },
+    {
+      "title": "Island Climate Change Summit Taking Place On Wednesday - Nantucket Current",
+      "pubDate": "Sun, 07 Sep 2025 22:55:00 GMT"
     }
   ],
   "world_news": [
@@ -3213,6 +3205,10 @@
     {
       "title": "EU electric carmakers urge Brussels to uphold 2035 zero-emission goal - France 24",
       "pubDate": "Mon, 08 Sep 2025 00:03:52 GMT"
+    },
+    {
+      "title": "Stellantis to scrap target of 100% EVs by 2030, says Europe chief - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 09:19:39 GMT"
     }
   ],
   "algorithmic_trading": [
