@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli FM Tells Rubio Israel Preparing to Apply Sovereignty Over West Bank Territories - Haaretz",
-      "pubDate": "Mon, 01 Sep 2025 08:51:00 GMT"
-    },
-    {
       "title": "Live Updates: Israeli-owned vessel shot at in Red Sea - The Jerusalem Post",
       "pubDate": "Mon, 01 Sep 2025 13:00:05 GMT"
     },
@@ -807,13 +803,13 @@
     {
       "title": "Jerome Powell and Federal Reserve: 80%+ Chance of Interest Rate Cut in September 2025 - Norada Real Estate Investments",
       "pubDate": "Sun, 07 Sep 2025 16:38:25 GMT"
+    },
+    {
+      "title": "Japan PM hopefuls prepare leadership bids, markets recoil - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 07:22:28 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "CFOs Triple Down on Gen AI ROI, Fueling Chip-to-Server Surge - PYMNTS.com",
-      "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
-    },
     {
       "title": "Our AI Fears Run Long and Deep - The Atlantic",
       "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
@@ -1108,10 +1104,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine strikes Russian Project 21631 Buyan-M class corvette with drones - navalnews.com",
-      "pubDate": "Mon, 01 Sep 2025 08:30:29 GMT"
-    },
     {
       "title": "Ukraine's police suspects Russia involved in killing of former parliamentary speaker - Reuters",
       "pubDate": "Mon, 01 Sep 2025 10:46:36 GMT"
@@ -1427,6 +1419,10 @@
     {
       "title": "Ukraine's new interceptor drones destroyed 150 of Russia's long-range UAVs in a single night, Zelenskyy says - Business Insider",
       "pubDate": "Mon, 08 Sep 2025 04:19:00 GMT"
+    },
+    {
+      "title": "Russia says FSB arrested Azerbaijani over alleged terrorist plot on behalf of Ukraine - OC Media",
+      "pubDate": "Mon, 08 Sep 2025 04:48:38 GMT"
     }
   ],
   "us_economy": [
@@ -1619,16 +1615,16 @@
     {
       "title": "Chinese Export Growth Slows More Than Forecast as Demand Weakens - Bloomberg.com",
       "pubDate": "Mon, 08 Sep 2025 07:07:39 GMT"
+    },
+    {
+      "title": "Tropical Storm Tapah makes landfall in southern China, forcing evacuations and school closures - AP News",
+      "pubDate": "Mon, 08 Sep 2025 07:23:00 GMT"
     }
   ],
   "us_politics": [
     {
       "title": "Democrats Are Itching for Another Shutdown Standoff. It\u2019s Still a Bad Idea. - Politico",
       "pubDate": "Mon, 01 Sep 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Trump plans a hefty tax on imported drugs, risking higher prices and shortages - AP News",
-      "pubDate": "Mon, 01 Sep 2025 08:28:00 GMT"
     },
     {
       "title": "Trump defends U-turn on Chinese student visas amid Maga backlash - BBC",
@@ -1921,6 +1917,10 @@
     {
       "title": "Trump greeted by mix of cheers and boos at US Open - CNN",
       "pubDate": "Sun, 07 Sep 2025 23:54:00 GMT"
+    },
+    {
+      "title": "\u2018Betrayal\u2019: Ally torches Trump over grim pics - News.com.au",
+      "pubDate": "Sun, 07 Sep 2025 22:42:58 GMT"
     }
   ],
   "north_korea": [
@@ -2305,10 +2305,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "15\u2011Qubit Entanglement Shows Feasibility Of Neutral\u2011Atom Processors - Quantum Zeitgeist",
-      "pubDate": "Mon, 01 Sep 2025 08:48:45 GMT"
-    },
-    {
       "title": "Researchers Achieve 90% Fidelity in Measurement-based Quantum Computation with 4-qubit Clusters - Quantum Zeitgeist",
       "pubDate": "Mon, 01 Sep 2025 11:07:02 GMT"
     },
@@ -2545,10 +2541,6 @@
   ],
   "gaza": [
     {
-      "title": "Israel is committing genocide in Gaza, scholars' association says - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 08:54:31 GMT"
-    },
-    {
       "title": "Leaked \u2018Gaza Riviera\u2019 plan dismissed as \u2018insane\u2019 attempt to cover ethnic cleansing - The Guardian",
       "pubDate": "Mon, 01 Sep 2025 18:34:00 GMT"
     },
@@ -2651,13 +2643,13 @@
     {
       "title": "Trump issues \u2018last warning\u2019 to Hamas to accept Gaza ceasefire deal - The Guardian",
       "pubDate": "Mon, 08 Sep 2025 00:06:00 GMT"
+    },
+    {
+      "title": "Updates: Hamas \u2018welcomes\u2019 new ceasefire proposal, Israel pounds Gaza City - Al Jazeera",
+      "pubDate": "Sun, 07 Sep 2025 22:07:30 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "New study highlights increased turbulence risk as climate change fuels atmospheric instability - FlightGlobal",
-      "pubDate": "Mon, 01 Sep 2025 08:05:48 GMT"
-    },
     {
       "title": "Japan and South Korea record hottest summers in history - Al Jazeera",
       "pubDate": "Mon, 01 Sep 2025 09:34:21 GMT"
@@ -3137,6 +3129,10 @@
     {
       "title": "Climate change helps Spanish coffee lovers grow their own beans - The Times",
       "pubDate": "Mon, 08 Sep 2025 05:02:33 GMT"
+    },
+    {
+      "title": "Why humanitarian energy and climate issues are a growing global concern - Stockholm Environment Institute",
+      "pubDate": "Mon, 08 Sep 2025 07:35:16 GMT"
     }
   ],
   "world_news": [
