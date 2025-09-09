@@ -5,20 +5,8 @@
       "pubDate": "Tue, 02 Sep 2025 20:20:56 GMT"
     },
     {
-      "title": "Pope Leo to host Israel's Herzog at Vatican with invitation origin at issue - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 19:37:55 GMT"
-    },
-    {
-      "title": "Macron says Israeli 'annexation' cannot block recognition of Palestinian state - Le Monde.fr",
-      "pubDate": "Tue, 02 Sep 2025 19:03:46 GMT"
-    },
-    {
       "title": "Construction intensifies at site linked to Israel's suspected nuclear program, satellite photos show - AP News",
       "pubDate": "Wed, 03 Sep 2025 04:13:00 GMT"
-    },
-    {
-      "title": "Israel's 'War for Peace' in Syria Tests New Leader's Hold on Power - Newsweek",
-      "pubDate": "Tue, 02 Sep 2025 19:53:37 GMT"
     },
     {
       "title": "Gaza is becoming \u2018graveyard of international humanitarian law\u2019, says Unrwa boss \u2013 Middle East crisis live - The Guardian",
@@ -231,16 +219,16 @@
     {
       "title": "\u2018Get out of there!\u2019 Israel warns Gaza City to evacuate - Los Angeles Times",
       "pubDate": "Tue, 09 Sep 2025 18:28:22 GMT"
+    },
+    {
+      "title": "Netanyahu tells Gaza City residents to leave as he pledges retaliation for Jerusalem attack - NBC News",
+      "pubDate": "Tue, 09 Sep 2025 14:23:21 GMT"
     }
   ],
   "donald_trump": [
     {
       "title": "Trump takes questions at White House, countering theories about his absence - CNN",
       "pubDate": "Tue, 02 Sep 2025 20:24:00 GMT"
-    },
-    {
-      "title": "LIVE: Trump says he will send the National Guard to \u2018hellhole\u2019 Chicago - Al Jazeera",
-      "pubDate": "Tue, 02 Sep 2025 19:47:29 GMT"
     },
     {
       "title": "'I would feel more worried' - Chicagoans on Trump's plan to deploy troops - BBC",
@@ -471,10 +459,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Anthropic Increases Valuation to $183B With $13B Series F Round - Built In",
-      "pubDate": "Tue, 02 Sep 2025 19:24:49 GMT"
-    },
-    {
       "title": "AI: Helping Organizations with Health and Safety - ISM",
       "pubDate": "Tue, 02 Sep 2025 21:56:15 GMT"
     },
@@ -697,6 +681,10 @@
     {
       "title": "Assessing the Capabilities of Artificial Intelligence (AI) Tools in Community Medicine: A Comparative Study of ChatGPT, Gemini, and Bing in Community-Based Clinico-Social Case Interpretation - Cureus",
       "pubDate": "Tue, 09 Sep 2025 16:02:48 GMT"
+    },
+    {
+      "title": "Slowing U.S. job growth turns AI into Wall Street\u2019s new safety play - CryptoRank",
+      "pubDate": "Tue, 09 Sep 2025 09:27:49 GMT"
     }
   ],
   "financial_markets": [
@@ -805,10 +793,6 @@
     {
       "title": "Trump Blames AI for Viral White House Trash Bag Video That Was Confirmed as Real - The New York Times",
       "pubDate": "Tue, 02 Sep 2025 21:24:13 GMT"
-    },
-    {
-      "title": "Apple AI Researcher for Robotics Joins Meta in Latest Exit - Bloomberg.com",
-      "pubDate": "Tue, 02 Sep 2025 19:09:01 GMT"
     },
     {
       "title": "The professions trying to get ahead with AI are those most likely to lose their jobs to it, St Louis Fed says - Fortune",
@@ -1419,6 +1403,10 @@
     {
       "title": "\"Brutally savage\" Russian strike kills over 20 people in east Ukraine as pensions were handed out, Zelenskyy says - CBS News",
       "pubDate": "Tue, 09 Sep 2025 14:27:00 GMT"
+    },
+    {
+      "title": "Heading to Ukraine, French minister says support will continue despite political woes - Reuters",
+      "pubDate": "Tue, 09 Sep 2025 16:43:38 GMT"
     }
   ],
   "us_economy": [
@@ -1642,14 +1630,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Live updates: Donald Trump announces Space Command move, addresses social media rumors he was dead - The Hill",
-      "pubDate": "Tue, 02 Sep 2025 19:31:00 GMT"
-    },
-    {
-      "title": "Trump to move Space Command headquarters to Alabama from Colorado - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 19:46:55 GMT"
-    },
     {
       "title": "Trump gives green light for $2m ICE deal with notorious Israeli spyware company - The Independent",
       "pubDate": "Tue, 02 Sep 2025 23:41:00 GMT"
@@ -1929,6 +1909,10 @@
     {
       "title": "House GOP waiting on Trump for spending cues, Johnson says - Politico",
       "pubDate": "Tue, 09 Sep 2025 14:11:16 GMT"
+    },
+    {
+      "title": "Trump approval rating at 42% - weak on economy, Reuters/Ipsos poll shows - Reuters",
+      "pubDate": "Tue, 09 Sep 2025 19:08:13 GMT"
     }
   ],
   "north_korea": [
@@ -2045,6 +2029,10 @@
     {
       "title": "Dior Fined By China's Cybersecurity Authority For Sending Consumer Data Overseas - WWD",
       "pubDate": "Tue, 09 Sep 2025 09:52:07 GMT"
+    },
+    {
+      "title": "As hackers take up AI, cybersecurity firms invest more in their own AI tools - Axios",
+      "pubDate": "Tue, 09 Sep 2025 18:06:03 GMT"
     }
   ],
   "federal_reserve": [
@@ -2197,10 +2185,6 @@
   ],
   "data_breach": [
     {
-      "title": "Cloudflare hit by data breach in Salesloft Drift supply chain attack - BleepingComputer",
-      "pubDate": "Tue, 02 Sep 2025 19:54:00 GMT"
-    },
-    {
       "title": "Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations - The Hacker News",
       "pubDate": "Wed, 03 Sep 2025 03:53:00 GMT"
     },
@@ -2263,10 +2247,6 @@
     {
       "title": "University of Chicago researchers use biological protein to create quantum sensor - CBS News",
       "pubDate": "Wed, 03 Sep 2025 00:29:27 GMT"
-    },
-    {
-      "title": "Q-CTRL, NVIDIA, and OQC Research Addresses Quantum Compilation Bottleneck with New Graph Algorithm - Quantum Computing Report",
-      "pubDate": "Tue, 02 Sep 2025 19:54:44 GMT"
     },
     {
       "title": "Quantum Circuits Integrates With NVIDIA CUDA-Q to Advance Creation And Testing of First Quantum Applications Based on Dual-Rail Qubits - The Quantum Insider",
@@ -2415,6 +2395,10 @@
     {
       "title": "Can Finland Build Europe\u2019s Leading Quantum Computing Ecosystem? - EE Times Europe",
       "pubDate": "Tue, 09 Sep 2025 08:10:46 GMT"
+    },
+    {
+      "title": "Can Machines Learn Morality? - University of Washington, College of Arts and Sciences",
+      "pubDate": "Tue, 09 Sep 2025 18:07:34 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3055,6 +3039,10 @@
     {
       "title": "EU split over climate target, deal next week in doubt, draft shows - Reuters",
       "pubDate": "Tue, 09 Sep 2025 16:37:43 GMT"
+    },
+    {
+      "title": "Climate change is killing Utah national park's unlikely, lush 'Eden' - SFGATE",
+      "pubDate": "Tue, 09 Sep 2025 17:11:22 GMT"
     }
   ],
   "world_news": [
@@ -3210,10 +3198,6 @@
     }
   ],
   "world_politics": [
-    {
-      "title": "China Looks to Fill a Regional Leadership Vacuum - World Politics Review",
-      "pubDate": "Tue, 02 Sep 2025 19:29:15 GMT"
-    },
     {
       "title": "Kim Jong Un ramps up trade diplomacy with a Beijing appearance - Los Angeles Times",
       "pubDate": "Wed, 03 Sep 2025 16:32:29 GMT"
