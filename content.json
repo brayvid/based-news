@@ -1,72 +1,62 @@
 {
+  "Ukraine": {
+    "articles": [
+      {
+        "title": "A Russian Iskander missile struck Ukraine's Cabinet building, but photos indicate its warhead failed to detonate - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3FwODQ3a0VfUUZPdlpKdFNpbk5OYmdWQ1c2LVVGTnF2bzV1bl9uUXhncFBLUEgzZUhOdEU1WW9vb0ZpcFNXME5SQno0b2M2NVAwSmpZRDVEdmwzRzN0ZGlYZ3hmWHJMMHF0UXg4S0pHVDcxYThBTHYyeXZvdkJQVGEzaFVsdW42Mk4xV3pDRk5mbDBjXy1YTUg0bURUZkxBV0FMWldhaVNWeU1TOTB1Vk5LVlk2Zw?oc=5",
+        "pubDate": "Tue, 09 Sep 2025 06:58:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
+  },
   "AI Safety": {
     "articles": [
       {
-        "title": "Anthropic supports California's AI law - because Washington is too slow - the-decoder.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1N5T25WUnVfMGgwOGQ3dzU3WHNWUU1fUS1nZkNMT21MaGgyN0lobFRDamJ4cU1tWkNIRzVsM3JrOFRFVlpDTlZkYmFDajU3eE1SSlAzVHRJbmpwRjY3SUdCV01fSk1EVmlNaXdCWmEwRUZjbFJTb2xUcWp3ZHlid1R5MXNZc0NHbXQwQmdTQXB4VDdtd2xxRA?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 19:27:12 GMT"
+        "title": "Aligning security and economic interests in the age of AI - United States Studies Centre",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0VlSVBoZi0yNFZCLWt6YWxJN2d1YWhJV09CdXhpMTZnXzN2YWwxVHY2d3lDR25FY1FpUzRkcU12Z2VkX0FfZlE5dW8wZEgwX0lIa2t1ZDVKME50YmszTG9zWXdQTVY5VGh3NHVwOG5EaVpMa3NFYmcwTWVjTHR6RmEzSUNadkZG?oc=5",
+        "pubDate": "Tue, 09 Sep 2025 03:39:55 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "PJM\u2019s coal bias is giving us pollution, high electric bills - Bay Journal",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWlZZaHBjdTB1QXpFMmViaTRmdEJ3QzgtYkp0T1JxbDZJcFloZFFUOTlUVEMyM0tuRXNzMHZlUWZxQ1p1dWZ4UkxwdjFLd01aWllIcUxOd2tndmlJbXg1MGZDVzZQQ3dTRVEwUFVQUzkxU0xGTFh4cEVrTzBxUGppM3dHdVVhLU9sRTUtMGQ4ZVpNTlpORC05WlVyZWpVazBnRWRveG9sdlNHZHVIZ0NVYmFfblRJcmV3NkZKdG8wRXAxeXozbXhZTE5SYTNldXM5VmpYV2VxT016cDRhS05uR3FPWQ?oc=5",
-        "pubDate": "Tue, 09 Sep 2025 05:00:00 GMT"
+        "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQ0tnc3lfNjVuQW40bGdjejVaVlJBWTBLT2pCYkdKNHlSZVJ2MGRXdTJCSzlFMTNia1hhdG5lZVl0Vk03dTlOdERVYUFfdHluT1BZaEk4ZnVsajVKU3JoNHpSTXQwWjNzaHVaenFFLUQ?oc=5",
+        "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
   },
-  "Cryptocurrency": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "NPM Attack: Javascript Library Compromise Goes After Bitcoin Wallets - Bitcoin Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2VONjN5QmVGMW4yLUtGSnExS2VHN2tRYmMwWE5WdDZyaE5ZR2taVDdoNFNZdURJMEdsdWIteG5FeWxaYXBRR3FIMHR2QWFzV24yU3VBaUlzZGZmOXo3RW5IRjdpNmRCeHFfOXE4WVdiSW02NEY0NHA2b2FSVVdSZ0tRb2gydkQxVnZkdU1MSlJYNnphYkIwalFwZHQyM0R5MWc?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 19:51:08 GMT"
+        "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto - Krebs on Security",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazZ3cDVNS1d4QzFSZXZpZjl4cFpJZl9wRlhCcDRQUzFuZDEtSS0tYnhtc0I1Ynd3OEpESG8yRWJmVWhKY2hLQkZnYXJDdkljZXNGbHhvS3VFMWV4c3JKWHdqS3Nab2RrMEtuMlNKNEhVeFJEeGRyRUNkSGhSYVgxU2w5V3JfVFZMWnE0VHp3bUZDczN5b3c?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 23:26:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
   },
-  "Data Breach": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Plex tells users to reset passwords after new data breach - BleepingComputer",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTBTbHZxSTNjcGtDUmhwdTB5WUJMaUJJYVprWHlDU1licXBPWS1YYXkyNy1uQU9sc3R5andtdEJtc1l1RE95T28yU0pWZ1dFX2VpUTRSYlVHWHYtNlFMTDV6QjFOQV9KWDhvTUo4a3BBUFhWcDhBNnJYMEVfZFVnbkdPSHRiZUxwVVBnSGFweFo1SFA2OEpmLTB2dFpZNEg3TG96Yk0yTE7SAa4BQVVfeXFMTzZob1BNMXRrdkdNcTIwTHJkUTM3bVFuTXIxemRuTUhKY29XTGxSZ2pwcnZ1Vnk3bXdVaHRrVGNrWHV6WkxDQXpsYTdWRmpZaGlsclRfR09PRUZWUmx5NHdTTzVqSWFGdEJtQnJYTEdzZWw0ajUxZjlwYjlwMmdJRmYwVUE1Ql9TMWRKT3hSQUl5VUxNYWM4X0Q0Rk0zanFrNUZpYXQ5TU40aF9CdWRR?oc=5",
-        "pubDate": "Tue, 09 Sep 2025 01:03:02 GMT"
+        "title": "Trying To Limit What Artificial General Intelligence Will Know Is A Lot Harder Than It Might Seem - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkdSa1dqWWI0cVhNbFRVQUl6V18zTmJyTlFRRFlZSXMyemJDSzJVd0FIV01yQlhNWXc1WTBibmkwYWxnM0lYdlZVOWExSFRLdEEyeFo5T0ZHVHBlUnhxYzZ5WFg0VGY2Y0ZLejBmUWVxNmRwQnFRbExnTDFWMUtNaC1IQUFhalkxWTBRYWMzd2Z5TUNub1YxRW5heGdiLWlRYkxmZDZwWjNZTlJvWG9vWjVQWURSZjhTc05ucXJFV2pXTEhLcmNMUXRPbldibnJ1SEQ5eUlIbnV1U0ZwWU92VXo0Yw?oc=5",
+        "pubDate": "Tue, 09 Sep 2025 07:15:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
   },
-  "Geopolitics": {
+  "Energy Transition": {
     "articles": [
       {
-        "title": "India urges BRICS to tackle deficits as bloc rallies against U.S. tariffs - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWMwVk52M3ZZM3J1T2RpQktGaFpkYWRNa0Q1Y25lVTZOZVhvU3VOUWtybThDRVIzQklvamt4azZMTnkxTTVQRUpNWmlHTTVBTE1FLVE4YkFvU3lKTzJnNTROTkdhTmYzSTVvQnlUTF8yRTVyRkg1Q0UzaDV0ZkZMaTQyTTdneTBt0gGOAUFVX3lxTE1pNnlNZ19jcVp0anBqd0h5ajV5TThKSXo3UUV1b1Itd2hQUGtFWHVGckFkUVFtYTdOQldvek1NREc3Sm0taHVXSWRYYTVXR2hmMmI2eW5vRHlseFhrTlBvNkdJYXRURnJFMGtGbFpYdThQMm1YenQzTkFKaGE1dUgzUzBIRkdXOUgxX0hzaWc?oc=5",
-        "pubDate": "Tue, 09 Sep 2025 04:33:50 GMT"
+        "title": "China Energy Transition Review 2025 - ember-energy.org",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0NIQzQzMW1lRWZqVm5PM2hMV1lkMVpVT2tBZEYtNDdjY0lsUDBYNEp2ZkhKckRpc0JHN3VOVmpZRXE3VzF4MTZwVmNROF9FS1B4cF94aGpFQkl3MlBTbEtZWDhidmZ4bXNNQVNaRXNxcWNsQ0VvTE5Ia3czeG1seUxFOA?oc=5",
+        "pubDate": "Tue, 09 Sep 2025 00:09:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
-  },
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Gaza aid flotilla says boat struck by drone in Tunisian waters, authorities deny claim - France 24",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUhDRG9uMmktbVNOY0FTYkZQaV9YaFQyM09rVHdHREthdzVuaEh2a3JSM0stMzU3NURTMl95dTRkems4SzJVSGxZd0dGbHNQVzMxQWQyOW1ZWGJzZFUxODlQNU5ael9VaThaQXdFTW4tRXVIR2NuVDdvdzRGeG9TSDRXams1a05YY0pOUHcwQTgzdw?oc=5",
-        "pubDate": "Tue, 09 Sep 2025 03:05:18 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "House Democrats post 2nd Epstein birthday book page referencing Trump - Axios",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHJIWWJzekFWT3BfNWhqTTJUZUVXOE5zbExkeHZoWUdYZHJfanUtektMVFRZbWlHVzgtLURtTkM2T0ppa29oVWNSb1Rkeklka0lyeC1TdElyOXgycVc2WEMyWFBjdXlzSExVZUNZMGdWMlJ1eV8wRWFxRkdYZ2VTQTZGTHFmYTczenFnWHpSZw?oc=5",
-        "pubDate": "Tue, 09 Sep 2025 01:52:30 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-09T06:59:56.910907+00:00"
+    "last_updated_ts": "2025-09-09T07:59:54.440322+00:00"
   }
 }
