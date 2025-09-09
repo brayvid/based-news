@@ -1,16 +1,8 @@
 {
   "israel": [
     {
-      "title": "What if\u2026 the US stopped supporting Israel tomorrow? - Al Jazeera",
-      "pubDate": "Tue, 02 Sep 2025 09:41:46 GMT"
-    },
-    {
       "title": "The Neighbor From Hell - The Atlantic",
       "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Germany blocks EU sanctions against Israel, Europe divided over Gaza war - The Jerusalem Post",
-      "pubDate": "Tue, 02 Sep 2025 09:17:03 GMT"
     },
     {
       "title": "\u2018We are dying for no reason\u2019: Israeli reservists face fresh call-up for a war dividing their nation - The Guardian",
@@ -345,10 +337,6 @@
   ],
   "russia": [
     {
-      "title": "Xi and Putin reaffirm \u2018old friend\u2019 ties in the face of US challenges - AP News",
-      "pubDate": "Tue, 02 Sep 2025 09:21:00 GMT"
-    },
-    {
       "title": "NATO Says It's Working to Counter Russian GPS Jamming - Time Magazine",
       "pubDate": "Tue, 02 Sep 2025 14:33:24 GMT"
     },
@@ -486,10 +474,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Political backlash mounts as Meta revises AI safety policies - Digital Watch Observatory",
-      "pubDate": "Tue, 02 Sep 2025 09:06:03 GMT"
-    },
     {
       "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
       "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
@@ -721,6 +705,10 @@
     {
       "title": "Meta Faces More Questions Over Teen Safety in AI and VR - Social Media Today",
       "pubDate": "Tue, 09 Sep 2025 02:15:09 GMT"
+    },
+    {
+      "title": "Claude Code runs code to test if is safe, which has risks - theregister.com",
+      "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1655,10 +1643,6 @@
       "pubDate": "Tue, 02 Sep 2025 13:31:00 GMT"
     },
     {
-      "title": "The Anti-Trump Strategy That\u2019s Actually Working - The Atlantic",
-      "pubDate": "Tue, 02 Sep 2025 10:00:00 GMT"
-    },
-    {
       "title": "Trump vows to take on crime in Chicago 'fast' after violent Labor Day weekend - ABC News",
       "pubDate": "Tue, 02 Sep 2025 16:09:26 GMT"
     },
@@ -1975,10 +1959,6 @@
       "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
     },
     {
-      "title": "Jaguar Land Rover hit by cybersecurity incident, disrupting production, sales - Automotive News",
-      "pubDate": "Tue, 02 Sep 2025 09:25:00 GMT"
-    },
-    {
       "title": "Nevada DMV restores some in-person services amid statewide cyberattack - KTVN",
       "pubDate": "Tue, 02 Sep 2025 21:40:53 GMT"
     },
@@ -2074,10 +2054,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Death toll climbs to over 1,100 after Afghanistan earthquake, Taliban official says - 6abc Philadelphia",
-      "pubDate": "Tue, 02 Sep 2025 09:50:15 GMT"
-    },
     {
       "title": "Rescuers in \u2018race against time\u2019 to reach Afghan quake survivors as death toll passes 1,400 - AP News",
       "pubDate": "Tue, 02 Sep 2025 11:03:00 GMT"
@@ -3131,6 +3107,10 @@
     {
       "title": "Report: Big businesses are doing carbon dioxide removal all wrong - Grist.org",
       "pubDate": "Tue, 09 Sep 2025 08:46:02 GMT"
+    },
+    {
+      "title": "Geoengineering Won\u2019t Save Us From Global Warming - Inside Climate News",
+      "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
     }
   ],
   "world_news": [
