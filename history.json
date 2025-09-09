@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "The Neighbor From Hell - The Atlantic",
-      "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
-    },
-    {
       "title": "\u2018We are dying for no reason\u2019: Israeli reservists face fresh call-up for a war dividing their nation - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 16:40:00 GMT"
     },
@@ -215,13 +211,13 @@
     {
       "title": "London arms show opens under Israel cloud - France 24",
       "pubDate": "Tue, 09 Sep 2025 03:35:18 GMT"
+    },
+    {
+      "title": "Netanyahu threatens Gaza residents as UN slams Israel over \u2018mass killing\u2019 - Al Jazeera",
+      "pubDate": "Mon, 08 Sep 2025 23:04:55 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "What Donald Trump Photos Show Amid Health Speculation - Newsweek",
-      "pubDate": "Tue, 02 Sep 2025 10:22:36 GMT"
-    },
     {
       "title": "Trump Hit With Fresh Fight Over the Epstein Files as Congressional Recess Ends - The Daily Beast",
       "pubDate": "Tue, 02 Sep 2025 11:48:00 GMT"
@@ -713,10 +709,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Morning Bid: Dollar, gold and long yields surge - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 10:48:09 GMT"
-    },
-    {
       "title": "Fiscal jitters push US stocks down, European bond yields up to multiyear highs - Reuters",
       "pubDate": "Tue, 02 Sep 2025 20:27:46 GMT"
     },
@@ -814,10 +806,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence is being used in schools, but statewide guidance is a work in progress - Maryland Matters",
-      "pubDate": "Tue, 02 Sep 2025 10:41:15 GMT"
-    },
     {
       "title": "Salesforce CEO confirms 4,000 layoffs \u2018because I need less heads' with AI - NBC Bay Area",
       "pubDate": "Tue, 02 Sep 2025 17:38:07 GMT"
@@ -1097,6 +1085,10 @@
     {
       "title": "Trying To Limit What Artificial General Intelligence Will Know Is A Lot Harder Than It Might Seem - Forbes",
       "pubDate": "Tue, 09 Sep 2025 07:15:00 GMT"
+    },
+    {
+      "title": "AI 'Revolution Is Here'\u2014287 S&P 500 Firms Cite Artificial Intelligence On Earnings Calls In Q2 - Benzinga",
+      "pubDate": "Tue, 09 Sep 2025 07:34:53 GMT"
     }
   ],
   "ukraine": [
@@ -1423,6 +1415,10 @@
     {
       "title": "Hundreds of earthquake-hit villages in Afghanistan still not reached: UN - Al Jazeera",
       "pubDate": "Tue, 09 Sep 2025 06:56:15 GMT"
+    },
+    {
+      "title": "Russian glide bomb attack in eastern Ukraine kills at least 21 people in line to receive pensions - yahoo.com",
+      "pubDate": "Tue, 09 Sep 2025 09:51:30 GMT"
     }
   ],
   "us_economy": [
@@ -1465,6 +1461,10 @@
     {
       "title": "Paychecks, not prices, are now the bigger worry - The Boston Globe",
       "pubDate": "Mon, 08 Sep 2025 16:44:16 GMT"
+    },
+    {
+      "title": "Why a near-fistfight at a MAGA nightspot spells danger for the global economy - CNN",
+      "pubDate": "Tue, 09 Sep 2025 04:00:00 GMT"
     }
   ],
   "china": [
@@ -1951,13 +1951,13 @@
     {
       "title": "North Korea conducts its final ground test of a solid-fuel engine for long-range missiles - AP News",
       "pubDate": "Tue, 09 Sep 2025 02:42:00 GMT"
+    },
+    {
+      "title": "North Korea's first female leader: Kim Jong-un's daughter, 12, rumoured to take charge amid father's health concerns - Mint",
+      "pubDate": "Tue, 09 Sep 2025 09:44:25 GMT"
     }
   ],
   "cybersecurity": [
-    {
-      "title": "US: CISA 2015 Safe Harbor at Risk as September 2025 Deadline Nears - Infosecurity Magazine",
-      "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "Nevada DMV restores some in-person services amid statewide cyberattack - KTVN",
       "pubDate": "Tue, 02 Sep 2025 21:40:53 GMT"
@@ -2057,10 +2057,6 @@
     {
       "title": "Rescuers in \u2018race against time\u2019 to reach Afghan quake survivors as death toll passes 1,400 - AP News",
       "pubDate": "Tue, 02 Sep 2025 11:03:00 GMT"
-    },
-    {
-      "title": "Rescuers focus on remote Afghan regions after earthquake kills over 1,400 - Al Jazeera",
-      "pubDate": "Tue, 02 Sep 2025 10:41:15 GMT"
     },
     {
       "title": "Canada Is at Risk: Scientists Uncover Hidden Megathrust That Could Trigger Massive Earthquakes - SciTechDaily",
@@ -2273,10 +2269,6 @@
     {
       "title": "\"They Built a Miniature Sun\": Infinity Two Fusion Reactor Generates 350 Megawatts Using Stellarator Technology Running 2 Years Straight - Energy Reporters",
       "pubDate": "Tue, 02 Sep 2025 11:01:12 GMT"
-    },
-    {
-      "title": "MOL invests in US firm developing commercial-scale fusion reactor - Offshore Energy",
-      "pubDate": "Tue, 02 Sep 2025 10:07:30 GMT"
     },
     {
       "title": "\"China's Artificial Sun Burns 17 Minutes\": EAST Reactor Sustains 180 Million Degree Plasma for 1,066 Seconds Breaking Fusion Records - Energy Reporters",
@@ -3111,6 +3103,10 @@
     {
       "title": "Geoengineering Won\u2019t Save Us From Global Warming - Inside Climate News",
       "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Warmer NC summers mean an increased risk of diseases and viruses. Here's why. - Wilmington Star-News",
+      "pubDate": "Tue, 09 Sep 2025 09:11:17 GMT"
     }
   ],
   "world_news": [
@@ -3395,6 +3391,12 @@
     {
       "title": "BRICS leaders condemn 'tariff blackmail,' sanctions - Anadolu Ajans\u0131",
       "pubDate": "Tue, 09 Sep 2025 05:43:45 GMT"
+    }
+  ],
+  "nepal": [
+    {
+      "title": "Nepal PM Oli resigns as Gen Z protesters set parliament building on fire - Al Jazeera",
+      "pubDate": "Tue, 09 Sep 2025 10:41:15 GMT"
     }
   ]
 }
