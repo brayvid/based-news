@@ -13,10 +13,6 @@
       "pubDate": "Tue, 02 Sep 2025 19:03:46 GMT"
     },
     {
-      "title": "Trump warns Israel is winning war, losing world opinion: What does it mean? - analysis - The Jerusalem Post",
-      "pubDate": "Tue, 02 Sep 2025 17:35:46 GMT"
-    },
-    {
       "title": "Construction intensifies at site linked to Israel's suspected nuclear program, satellite photos show - AP News",
       "pubDate": "Wed, 03 Sep 2025 04:13:00 GMT"
     },
@@ -227,6 +223,10 @@
     {
       "title": "Who is Khalil Al-Hayya, the top Hamas figure targeted by Israel? - Reuters",
       "pubDate": "Tue, 09 Sep 2025 14:56:10 GMT"
+    },
+    {
+      "title": "Live updates: Hamas says top leaders survived Israeli strike on Qatar while five lower-ranking members were killed - AP News",
+      "pubDate": "Tue, 09 Sep 2025 17:53:00 GMT"
     }
   ],
   "donald_trump": [
@@ -340,10 +340,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Oil rises $1 after US imposes sanctions targeting Iranian oil - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 17:23:29 GMT"
-    },
     {
       "title": "GPS went dark on a flight over Bulgaria. Is Russia to blame? - NPR",
       "pubDate": "Tue, 02 Sep 2025 21:08:30 GMT"
@@ -701,6 +697,10 @@
     {
       "title": "First-Ever AI Safety Platform: Lunai Bioworks Launches Transformer Tech to Secure Drug Discovery & Block Biothreat - Stock Titan",
       "pubDate": "Tue, 09 Sep 2025 12:47:00 GMT"
+    },
+    {
+      "title": "OpenAI denies that it's weighing a 'last-ditch' California exit amid regulatory pressure over its restructuring - TechCrunch",
+      "pubDate": "Tue, 09 Sep 2025 06:00:44 GMT"
     }
   ],
   "financial_markets": [
@@ -799,13 +799,13 @@
     {
       "title": "Mortgage rates take a dive on reports of a worsening U.S. economy - MarketWatch",
       "pubDate": "Mon, 08 Sep 2025 17:01:00 GMT"
+    },
+    {
+      "title": "Stocks hang near their records as hopes for rate cuts underpin markets - Castanet",
+      "pubDate": "Tue, 09 Sep 2025 14:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Salesforce CEO confirms 4,000 layoffs \u2018because I need less heads' with AI - NBC Bay Area",
-      "pubDate": "Tue, 02 Sep 2025 17:38:07 GMT"
-    },
     {
       "title": "Trump Blames AI for Viral White House Trash Bag Video That Was Confirmed as Real - The New York Times",
       "pubDate": "Tue, 02 Sep 2025 21:24:13 GMT"
@@ -1415,6 +1415,10 @@
     {
       "title": "Kremlin Uneasy About Return of Ukraine War Veterans \u2013 Reuters - The Moscow Times",
       "pubDate": "Tue, 09 Sep 2025 14:08:39 GMT"
+    },
+    {
+      "title": "\u2018In the process of division\u2019 - Meduza",
+      "pubDate": "Tue, 09 Sep 2025 09:10:00 GMT"
     }
   ],
   "us_economy": [
@@ -1649,10 +1653,6 @@
     {
       "title": "Live updates: Donald Trump announces Space Command move, addresses social media rumors he was dead - The Hill",
       "pubDate": "Tue, 02 Sep 2025 19:31:00 GMT"
-    },
-    {
-      "title": "Trump canceling elections? Democrats increasingly sound alarm bells. - CNN",
-      "pubDate": "Tue, 02 Sep 2025 17:25:00 GMT"
     },
     {
       "title": "Trump to move Space Command headquarters to Alabama from Colorado - Reuters",
@@ -1967,10 +1967,6 @@
       "pubDate": "Tue, 02 Sep 2025 21:40:53 GMT"
     },
     {
-      "title": "Ice obtains access to Israeli-made spyware that can hack phones and encrypted apps - The Guardian",
-      "pubDate": "Tue, 02 Sep 2025 17:57:00 GMT"
-    },
-    {
       "title": "Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack - The Hacker News",
       "pubDate": "Wed, 03 Sep 2025 11:05:00 GMT"
     },
@@ -2281,10 +2277,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Brilliance, ORNL Pioneer Quantum-Classical Hybrid Computing - HPCwire",
-      "pubDate": "Tue, 02 Sep 2025 17:44:44 GMT"
-    },
-    {
       "title": "University of Chicago researchers use biological protein to create quantum sensor - CBS News",
       "pubDate": "Wed, 03 Sep 2025 00:29:27 GMT"
     },
@@ -2435,13 +2427,13 @@
     {
       "title": "QuEra Expands $230M Financing Round, Advancing Quantum-Accelerated Supercomputing - HPCwire",
       "pubDate": "Tue, 09 Sep 2025 14:22:10 GMT"
+    },
+    {
+      "title": "Google Quantum AI has been selected for the DARPA Quantum Benchmarking Initiative. - The Keyword",
+      "pubDate": "Tue, 09 Sep 2025 13:47:21 GMT"
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "AI World Models Resurge to Tackle Deep Learning\u2019s Shortcomings - WebProNews",
-      "pubDate": "Tue, 02 Sep 2025 17:39:14 GMT"
-    },
     {
       "title": "\u201cAcademically disingenuous\u201d: Cohere co-founder calls out Sam Altman for AGI hype - BetaKit",
       "pubDate": "Tue, 02 Sep 2025 20:27:12 GMT"
@@ -2615,10 +2607,6 @@
     {
       "title": "Labor is poised to make a big call on our nation\u2019s carbon emissions target. But who is Albanese going to listen to? - The Guardian",
       "pubDate": "Wed, 03 Sep 2025 02:00:00 GMT"
-    },
-    {
-      "title": "Over 85 scientists say Energy Dept. climate report lacks merit - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 17:16:30 GMT"
     },
     {
       "title": "Pittsburgh\u2019s plan for 2050 is civic engagement, climate justice and equitable change - NEXTpittsburgh",
@@ -3079,6 +3067,10 @@
     {
       "title": "EU Opens Talks on Carbon Credits to Win Deal on Key Climate Goal - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 16:30:19 GMT"
+    },
+    {
+      "title": "Scientists are baffled by a powerful and long-lasting gamma ray explosion outside our galaxy - The Seattle Times",
+      "pubDate": "Tue, 09 Sep 2025 15:35:22 GMT"
     }
   ],
   "world_news": [
