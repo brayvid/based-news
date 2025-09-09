@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Video Israel begins ground operation in Gaza City - ABC News",
-      "pubDate": "Tue, 02 Sep 2025 20:20:56 GMT"
-    },
-    {
       "title": "Construction intensifies at site linked to Israel's suspected nuclear program, satellite photos show - AP News",
       "pubDate": "Wed, 03 Sep 2025 04:13:00 GMT"
     },
@@ -223,13 +219,13 @@
     {
       "title": "Netanyahu tells Gaza City residents to leave as he pledges retaliation for Jerusalem attack - NBC News",
       "pubDate": "Tue, 09 Sep 2025 14:23:21 GMT"
+    },
+    {
+      "title": "Netanyahu says Doha strike targeted Hamas leaders, can lead to peace in Gaza - NBC News",
+      "pubDate": "Tue, 09 Sep 2025 20:21:07 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump takes questions at White House, countering theories about his absence - CNN",
-      "pubDate": "Tue, 02 Sep 2025 20:24:00 GMT"
-    },
     {
       "title": "'I would feel more worried' - Chicagoans on Trump's plan to deploy troops - BBC",
       "pubDate": "Wed, 03 Sep 2025 00:54:52 GMT"
@@ -685,13 +681,13 @@
     {
       "title": "Slowing U.S. job growth turns AI into Wall Street\u2019s new safety play - CryptoRank",
       "pubDate": "Tue, 09 Sep 2025 09:27:49 GMT"
+    },
+    {
+      "title": "Blackline Safety Appoints Siemens and Amazon AI Executive, Vasi Philomin, to Board of Directors - StreetInsider",
+      "pubDate": "Tue, 09 Sep 2025 11:17:50 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Fiscal jitters push US stocks down, European bond yields up to multiyear highs - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 20:27:46 GMT"
-    },
     {
       "title": "Global long-dated bond selloff keeps on going as gold hits records - Reuters",
       "pubDate": "Wed, 03 Sep 2025 09:18:28 GMT"
@@ -1073,10 +1069,6 @@
   ],
   "ukraine": [
     {
-      "title": "These Leaders Once Snubbed Putin. Now They\u2019re Glad-Handing Him. - The New York Times",
-      "pubDate": "Tue, 02 Sep 2025 20:07:00 GMT"
-    },
-    {
       "title": "Sweeping Russian air attack hits Ukraine as Putin attends China parade - Reuters",
       "pubDate": "Wed, 03 Sep 2025 04:52:00 GMT"
     },
@@ -1407,6 +1399,10 @@
     {
       "title": "Heading to Ukraine, French minister says support will continue despite political woes - Reuters",
       "pubDate": "Tue, 09 Sep 2025 16:43:38 GMT"
+    },
+    {
+      "title": "Reconnaissance officers hit 2 russian air defense targets in Crimea. How it happened - ukranews.com",
+      "pubDate": "Tue, 09 Sep 2025 16:00:00 GMT"
     }
   ],
   "us_economy": [
@@ -1913,6 +1909,10 @@
     {
       "title": "Trump approval rating at 42% - weak on economy, Reuters/Ipsos poll shows - Reuters",
       "pubDate": "Tue, 09 Sep 2025 19:08:13 GMT"
+    },
+    {
+      "title": "House Democrats probe Trump official Bill Pulte for targeting Lisa Cook and Adam Schiff - Axios",
+      "pubDate": "Tue, 09 Sep 2025 16:04:58 GMT"
     }
   ],
   "north_korea": [
@@ -2399,13 +2399,13 @@
     {
       "title": "Can Machines Learn Morality? - University of Washington, College of Arts and Sciences",
       "pubDate": "Tue, 09 Sep 2025 18:07:34 GMT"
+    },
+    {
+      "title": "Scientist returns to microbial roots and discovers potential quantum computing advancement - Phys.org",
+      "pubDate": "Tue, 09 Sep 2025 20:27:04 GMT"
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "\u201cAcademically disingenuous\u201d: Cohere co-founder calls out Sam Altman for AGI hype - BetaKit",
-      "pubDate": "Tue, 02 Sep 2025 20:27:12 GMT"
-    },
     {
       "title": "Marc Benioff Isn't Sold On AGI Hype, Says He's 'Extremely Suspect' Despite AI Shaping Salesforce Ahead Of Q2 Earnings - Benzinga",
       "pubDate": "Wed, 03 Sep 2025 05:28:01 GMT"
@@ -2454,10 +2454,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "IDF chief: War \u2018will not stop\u2019 until Hamas is defeated; PM says \u2018decisive stage\u2019 starting - The Times of Israel",
-      "pubDate": "Tue, 02 Sep 2025 20:49:00 GMT"
-    },
     {
       "title": "Protesters in Jerusalem Call for Gaza Hostage Deal, Burn Tires Near Netanyahu's Residence - Haaretz",
       "pubDate": "Wed, 03 Sep 2025 07:27:00 GMT"
@@ -3043,6 +3039,10 @@
     {
       "title": "Climate change is killing Utah national park's unlikely, lush 'Eden' - SFGATE",
       "pubDate": "Tue, 09 Sep 2025 17:11:22 GMT"
+    },
+    {
+      "title": "Researchers reject geo-engineering as a climate-warming response - Geophysical Institute",
+      "pubDate": "Tue, 09 Sep 2025 17:20:08 GMT"
     }
   ],
   "world_news": [
