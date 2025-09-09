@@ -5,10 +5,6 @@
       "pubDate": "Tue, 02 Sep 2025 05:01:00 GMT"
     },
     {
-      "title": "Aid flotilla for Gaza departs Barcelona after stormy weather turnaround - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 03:30:00 GMT"
-    },
-    {
       "title": "Belgium to recognize Palestine, sanction Israel - politico.eu",
       "pubDate": "Tue, 02 Sep 2025 04:08:00 GMT"
     },
@@ -231,6 +227,10 @@
     {
       "title": "Syria accuses Israel of carrying out air strikes - BBC",
       "pubDate": "Tue, 09 Sep 2025 00:58:50 GMT"
+    },
+    {
+      "title": "London arms show opens under Israel cloud - France 24",
+      "pubDate": "Tue, 09 Sep 2025 03:35:18 GMT"
     }
   ],
   "donald_trump": [
@@ -487,6 +487,10 @@
     {
       "title": "'War could be over' if certain sanctions against Russia were in place: Analyst - ABC News",
       "pubDate": "Mon, 08 Sep 2025 14:21:20 GMT"
+    },
+    {
+      "title": "Enteromix, Russia's cancer vaccine achieves 100% efficacy in clinical trials - Times of India",
+      "pubDate": "Tue, 09 Sep 2025 01:25:00 GMT"
     }
   ],
   "ai_safety": [
@@ -819,20 +823,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Artificial intelligence offers individualized anticoagulation decisions for atrial fibrillation - News-Medical",
-      "pubDate": "Tue, 02 Sep 2025 03:12:00 GMT"
-    },
-    {
       "title": "From bench to bot: Why AI-powered writing may not deliver on its promise - The Transmitter",
       "pubDate": "Tue, 02 Sep 2025 04:00:36 GMT"
-    },
-    {
-      "title": "Salesforce CEO Marc Benioff says AI has already replaced 4,000 jobs - San Francisco Chronicle",
-      "pubDate": "Tue, 02 Sep 2025 03:49:44 GMT"
-    },
-    {
-      "title": "Breakingviews - China backseat driving risks sending AI off course - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 03:35:00 GMT"
     },
     {
       "title": "How Causal Reasoning Addresses the Limitations of LLMs in Observability - infoq.com",
@@ -1113,13 +1105,13 @@
     {
       "title": "Artificial intelligence in the office and the factory: Evidence from administrative software registry data - CEPR",
       "pubDate": "Mon, 08 Sep 2025 23:07:06 GMT"
+    },
+    {
+      "title": "Protecting the Grid with Artificial Intelligence | Newswise - Newswise",
+      "pubDate": "Mon, 08 Sep 2025 23:45:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war latest: EU boss told she should 'know better' over comments on post-war troops - Sky News",
-      "pubDate": "Tue, 02 Sep 2025 03:36:12 GMT"
-    },
     {
       "title": "Europe live: US treasury secretary indicates growing frustration with Putin over Ukraine - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 07:54:11 GMT"
@@ -1435,6 +1427,10 @@
     {
       "title": "Ukraine Just Launched a Cruise Missile Barrage at That Russian Tank Army Massing in Donetsk - Trench Art | David Axe",
       "pubDate": "Mon, 08 Sep 2025 23:07:45 GMT"
+    },
+    {
+      "title": "Deadly stabbing of Ukrainian refugee on Charlotte light rail raises questions about public safety - CBS News",
+      "pubDate": "Mon, 08 Sep 2025 23:47:00 GMT"
     }
   ],
   "us_economy": [
@@ -1643,13 +1639,13 @@
     {
       "title": "China\u2019s Green Push May Cut Global Fossil Use by 2030, Says Ember - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 00:00:00 GMT"
+    },
+    {
+      "title": "DuPont secures 10-year US import ban on China's Dawnsens in Tyvek case - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 21:33:04 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump readies crushing autumn power plays as Democrats search for direction - CNN",
-      "pubDate": "Tue, 02 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "Wild theories erupt as US President \u2018announcement\u2019 confirmed - The Nightly",
       "pubDate": "Tue, 02 Sep 2025 05:06:19 GMT"
@@ -2467,6 +2463,10 @@
     {
       "title": "Quantum Computing Could Leave A Shocking $879 Billion Of Bitcoin Up For Grabs \u2013 Here\u2019s How! - Wccftech",
       "pubDate": "Mon, 08 Sep 2025 16:22:00 GMT"
+    },
+    {
+      "title": "New Mexico and DARPA Launch Quantum Frontier Project - Environment+Energy Leader",
+      "pubDate": "Mon, 08 Sep 2025 22:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3115,6 +3115,10 @@
     {
       "title": "Trump Is Dismantling Climate Science at a Dangerous Pace - Bloomberg.com",
       "pubDate": "Mon, 08 Sep 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Higher Temperatures Leading to More Sugar Consumption in the US\u2014Study - Newsweek",
+      "pubDate": "Mon, 08 Sep 2025 20:09:15 GMT"
     }
   ],
   "world_news": [
@@ -3266,10 +3270,6 @@
     }
   ],
   "world_politics": [
-    {
-      "title": "Xi hails China-Russia ties withstanding the test of geopolitical uncertainty - South China Morning Post",
-      "pubDate": "Tue, 02 Sep 2025 03:31:09 GMT"
-    },
     {
       "title": "China, Russia pledge new global order at Shanghai Cooperation summit - Al Jazeera",
       "pubDate": "Tue, 02 Sep 2025 06:50:36 GMT"
