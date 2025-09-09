@@ -227,13 +227,13 @@
     {
       "title": "Israel strikes in vicinity of three Syrian cities, Syrian media say - Reuters",
       "pubDate": "Mon, 08 Sep 2025 22:11:55 GMT"
+    },
+    {
+      "title": "Syria accuses Israel of carrying out air strikes - BBC",
+      "pubDate": "Tue, 09 Sep 2025 00:58:50 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump calls India-U.S. trade relationship 'a totally one sided disaster' after Modi visits China - CNBC",
-      "pubDate": "Tue, 02 Sep 2025 01:19:00 GMT"
-    },
     {
       "title": "What Donald Trump Photos Show Amid Health Speculation - Newsweek",
       "pubDate": "Tue, 02 Sep 2025 10:22:36 GMT"
@@ -352,10 +352,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russia suspected of jamming GPS on plane carrying Ursula von der Leyen - The Guardian",
-      "pubDate": "Tue, 02 Sep 2025 01:38:00 GMT"
-    },
     {
       "title": "Russia and China Sign Major Deal for New Gas Pipeline - Bloomberg.com",
       "pubDate": "Tue, 02 Sep 2025 05:34:00 GMT"
@@ -713,6 +709,10 @@
     {
       "title": "Anthropic supports California's AI safety bill despite pushback from many in tech world (AMZN:NASDAQ) - Seeking Alpha",
       "pubDate": "Mon, 08 Sep 2025 17:21:18 GMT"
+    },
+    {
+      "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
+      "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
     }
   ],
   "financial_markets": [
@@ -833,10 +833,6 @@
     {
       "title": "Breakingviews - China backseat driving risks sending AI off course - Reuters",
       "pubDate": "Tue, 02 Sep 2025 03:35:00 GMT"
-    },
-    {
-      "title": "'AI-generated' Sinner races into US Open quarters - BBC",
-      "pubDate": "Tue, 02 Sep 2025 01:46:16 GMT"
     },
     {
       "title": "How Causal Reasoning Addresses the Limitations of LLMs in Observability - infoq.com",
@@ -1123,14 +1119,6 @@
     {
       "title": "Ukraine war latest: EU boss told she should 'know better' over comments on post-war troops - Sky News",
       "pubDate": "Tue, 02 Sep 2025 03:36:12 GMT"
-    },
-    {
-      "title": "Oil rises as Russia-Ukraine tensions stoke supply concerns - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 02:00:00 GMT"
-    },
-    {
-      "title": "Ground Robots to Proliferate on Ukraine Battlefields Following Success of Drones - National Defense Magazine",
-      "pubDate": "Tue, 02 Sep 2025 01:10:31 GMT"
     },
     {
       "title": "Europe live: US treasury secretary indicates growing frustration with Putin over Ukraine - The Guardian",
@@ -1439,6 +1427,10 @@
     {
       "title": "Ukraine war increasingly likely to go into 2026, military analyst says - CNN",
       "pubDate": "Mon, 08 Sep 2025 17:53:15 GMT"
+    },
+    {
+      "title": "Zelenskyy's chief of staff discusses Russian strikes on Ukrainian targets with Rubio - Deccan Herald",
+      "pubDate": "Mon, 08 Sep 2025 23:10:03 GMT"
     }
   ],
   "us_economy": [
@@ -1643,13 +1635,13 @@
     {
       "title": "China Exports to US Slump 33% But Trade Surplus Heads for Record - Bloomberg",
       "pubDate": "Mon, 08 Sep 2025 09:27:39 GMT"
+    },
+    {
+      "title": "China\u2019s Green Push May Cut Global Fossil Use by 2030, Says Ember - Bloomberg.com",
+      "pubDate": "Tue, 09 Sep 2025 00:00:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "New York Congressman Jerrold Nadler won't seek re-election in November, report says - ABC7 New York",
-      "pubDate": "Tue, 02 Sep 2025 01:13:41 GMT"
-    },
     {
       "title": "Trump readies crushing autumn power plays as Democrats search for direction - CNN",
       "pubDate": "Tue, 02 Sep 2025 04:00:00 GMT"
@@ -1959,6 +1951,10 @@
     {
       "title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
       "pubDate": "Sat, 06 Sep 2025 02:42:20 GMT"
+    },
+    {
+      "title": "Kim Jong Un Oversees Long-Range Missile Engine Test, KCNA Says - Bloomberg.com",
+      "pubDate": "Tue, 09 Sep 2025 01:20:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -3123,6 +3119,10 @@
     {
       "title": "Scientists Just Discovered a Massive Source of Drinking Water Hiding Beneath the Atlantic Ocean - ZME Science",
       "pubDate": "Mon, 08 Sep 2025 16:16:43 GMT"
+    },
+    {
+      "title": "Trump Is Dismantling Climate Science at a Dangerous Pace - Bloomberg.com",
+      "pubDate": "Mon, 08 Sep 2025 21:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3156,10 +3156,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Tesla releases \u2018Master Plan Part 4\u2019, a smorgasbord of vague AI promises - Electrek",
-      "pubDate": "Tue, 02 Sep 2025 01:31:00 GMT"
-    },
     {
       "title": "Exclusive: GM cuts output, delays work at major EV factories, citing weak demand - Reuters",
       "pubDate": "Thu, 04 Sep 2025 14:24:42 GMT"
