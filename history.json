@@ -479,6 +479,10 @@
     {
       "title": "Enteromix, Russia's cancer vaccine achieves 100% efficacy in clinical trials - Times of India",
       "pubDate": "Tue, 09 Sep 2025 01:25:00 GMT"
+    },
+    {
+      "title": "The Wrong Way to Do Diplomacy With Russia - Foreign Affairs",
+      "pubDate": "Tue, 09 Sep 2025 04:00:00 GMT"
     }
   ],
   "ai_safety": [
@@ -713,6 +717,10 @@
     {
       "title": "Aligning security and economic interests in the age of AI - United States Studies Centre",
       "pubDate": "Tue, 09 Sep 2025 03:39:55 GMT"
+    },
+    {
+      "title": "Meta Faces More Questions Over Teen Safety in AI and VR - Social Media Today",
+      "pubDate": "Tue, 09 Sep 2025 02:15:09 GMT"
     }
   ],
   "financial_markets": [
@@ -818,10 +826,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How Causal Reasoning Addresses the Limitations of LLMs in Observability - infoq.com",
-      "pubDate": "Tue, 02 Sep 2025 09:00:32 GMT"
-    },
     {
       "title": "Artificial intelligence is being used in schools, but statewide guidance is a work in progress - Maryland Matters",
       "pubDate": "Tue, 02 Sep 2025 10:41:15 GMT"
@@ -1108,14 +1112,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Trump will never stand up to Putin on Ukraine. It's on Congress to punish Russia. | Opinion - USA Today",
-      "pubDate": "Tue, 02 Sep 2025 08:02:29 GMT"
-    },
-    {
-      "title": "\u2018It\u2019s all theatre\u2019: How are Europe and the US pulling apart on Ukraine? - Al Jazeera",
-      "pubDate": "Tue, 02 Sep 2025 08:26:15 GMT"
-    },
     {
       "title": "Putin Says Consensus on Security Guarantees for Ukraine Possible - Bloomberg.com",
       "pubDate": "Tue, 02 Sep 2025 11:21:29 GMT"
@@ -1435,6 +1431,10 @@
     {
       "title": "A Russian Iskander missile struck Ukraine's Cabinet building, but photos indicate its warhead failed to detonate - Business Insider",
       "pubDate": "Tue, 09 Sep 2025 06:58:00 GMT"
+    },
+    {
+      "title": "Hundreds of earthquake-hit villages in Afghanistan still not reached: UN - Al Jazeera",
+      "pubDate": "Tue, 09 Sep 2025 06:56:15 GMT"
     }
   ],
   "us_economy": [
@@ -1941,6 +1941,10 @@
     {
       "title": "House Democrats post 2nd Epstein birthday book page referencing Trump - Axios",
       "pubDate": "Tue, 09 Sep 2025 01:52:30 GMT"
+    },
+    {
+      "title": "Senate will change rules to push Trump\u2019s nominees past Democratic delays, Thune says - PBS",
+      "pubDate": "Mon, 08 Sep 2025 21:39:36 GMT"
     }
   ],
   "north_korea": [
@@ -1959,13 +1963,13 @@
     {
       "title": "Kim Jong Un Oversees Long-Range Missile Engine Test, KCNA Says - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 01:20:00 GMT"
+    },
+    {
+      "title": "North Korea conducts its final ground test of a solid-fuel engine for long-range missiles - AP News",
+      "pubDate": "Tue, 09 Sep 2025 02:42:00 GMT"
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware - The Hacker News",
-      "pubDate": "Tue, 02 Sep 2025 08:39:00 GMT"
-    },
     {
       "title": "US: CISA 2015 Safe Harbor at Risk as September 2025 Deadline Nears - Infosecurity Magazine",
       "pubDate": "Tue, 02 Sep 2025 11:00:00 GMT"
@@ -2321,10 +2325,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Software becomes the next frontier for building quantum computers - Financial Times",
-      "pubDate": "Tue, 02 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "New Mexico to invest $315 million in quantum computing drive - Mint",
       "pubDate": "Tue, 02 Sep 2025 15:31:39 GMT"
     },
@@ -2644,10 +2644,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Global Weather Office Warns Of La Nina Conditions. What It Means For India - NDTV",
-      "pubDate": "Tue, 02 Sep 2025 08:25:01 GMT"
-    },
     {
       "title": "Underestimating support for climate action limits political decision making, study says - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 11:10:00 GMT"
@@ -3131,6 +3127,10 @@
     {
       "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
       "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
+    },
+    {
+      "title": "Report: Big businesses are doing carbon dioxide removal all wrong - Grist.org",
+      "pubDate": "Tue, 09 Sep 2025 08:46:02 GMT"
     }
   ],
   "world_news": [
@@ -3409,6 +3409,12 @@
     {
       "title": "The Dead Internet: How Algorithms, Bots and AI Hollowed Out Our Digital Commons - The Times of Israel",
       "pubDate": "Mon, 08 Sep 2025 03:05:00 GMT"
+    }
+  ],
+  "world_economy": [
+    {
+      "title": "BRICS leaders condemn 'tariff blackmail,' sanctions - Anadolu Ajans\u0131",
+      "pubDate": "Tue, 09 Sep 2025 05:43:45 GMT"
     }
   ]
 }
