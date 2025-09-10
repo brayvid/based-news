@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Construction intensifies at site linked to Israel's suspected nuclear program, satellite photos show - AP News",
-      "pubDate": "Wed, 03 Sep 2025 04:13:00 GMT"
-    },
-    {
       "title": "Gaza is becoming \u2018graveyard of international humanitarian law\u2019, says Unrwa boss \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Wed, 03 Sep 2025 06:58:00 GMT"
     },
@@ -239,6 +235,10 @@
     {
       "title": "Von der Leyen under growing pressure to take tougher line with Israel - The Guardian",
       "pubDate": "Tue, 09 Sep 2025 17:50:00 GMT"
+    },
+    {
+      "title": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse - The New York Times",
+      "pubDate": "Wed, 10 Sep 2025 04:00:09 GMT"
     }
   ],
   "donald_trump": [
@@ -470,10 +470,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "OpenAI\u2019s Strategic Expansion into AI Application Ecosystems: Why the Statsig Acquisition and Leadership Shake-Up Signal a High-Conviction Play in AI Commercialization - AInvest",
-      "pubDate": "Wed, 03 Sep 2025 04:12:29 GMT"
-    },
     {
       "title": "Parents of deceased teen: AI safety measures are not enough - Zamin.uz",
       "pubDate": "Wed, 03 Sep 2025 14:38:00 GMT"
@@ -717,6 +713,10 @@
     {
       "title": "Globtec Pivots to Functional AI and Blockchain - Bitcoinsensus",
       "pubDate": "Tue, 09 Sep 2025 16:49:04 GMT"
+    },
+    {
+      "title": "Arkansas food safety scientists share latest research on noroviruses, sanitizers, AI - Magnolia Reporter",
+      "pubDate": "Tue, 09 Sep 2025 17:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1097,10 +1097,6 @@
   ],
   "ukraine": [
     {
-      "title": "Sweeping Russian air attack hits Ukraine as Putin attends China parade - Reuters",
-      "pubDate": "Wed, 03 Sep 2025 04:52:00 GMT"
-    },
-    {
       "title": "Ukraine\u2019s milestone shows drones prevent defeat, but don\u2019t secure victory - Defense One",
       "pubDate": "Wed, 03 Sep 2025 07:00:55 GMT"
     },
@@ -1447,6 +1443,10 @@
     {
       "title": "Russia strikes eastern Ukraine village, killing 24, many retirees - The Washington Post",
       "pubDate": "Tue, 09 Sep 2025 22:00:11 GMT"
+    },
+    {
+      "title": "Attacking these targets could cripple Russia\u2019s war machine: Experts - Defense News",
+      "pubDate": "Tue, 09 Sep 2025 21:37:11 GMT"
     }
   ],
   "us_economy": [
@@ -1509,17 +1509,13 @@
     {
       "title": "Revised job numbers raise new concerns about economic slowdown - PBS",
       "pubDate": "Tue, 09 Sep 2025 22:55:52 GMT"
+    },
+    {
+      "title": "Worried About the Economy? Here are 4 Reasons to Be Optimistic - Investopedia",
+      "pubDate": "Tue, 09 Sep 2025 20:11:37 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Trump is furious at China, but he\u2019s making US foes great again - CNN",
-      "pubDate": "Wed, 03 Sep 2025 04:03:00 GMT"
-    },
-    {
-      "title": "US Pulls TSMC\u2019s Waiver for China Shipments of Chip Supplies - Bloomberg.com",
-      "pubDate": "Wed, 03 Sep 2025 04:09:00 GMT"
-    },
     {
       "title": "China parade: What new weapons on show say about Beijing's military strength - BBC",
       "pubDate": "Wed, 03 Sep 2025 09:07:04 GMT"
@@ -1671,13 +1667,13 @@
     {
       "title": "House lawmakers to make official visit to China for the first time since 2019 - NBC News",
       "pubDate": "Tue, 09 Sep 2025 20:24:22 GMT"
+    },
+    {
+      "title": "Record share of U.S. businesses divert China investments. Top choice: Southeast Asia - CNBC",
+      "pubDate": "Wed, 10 Sep 2025 01:32:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Democrats lose ground in new voter registrations - NJ Spotlight News",
-      "pubDate": "Wed, 03 Sep 2025 04:12:10 GMT"
-    },
     {
       "title": "Graham Platner's campaign to unseat Maine Sen. Susan Collins is off to a strong start - MSNBC News",
       "pubDate": "Wed, 03 Sep 2025 10:00:00 GMT"
@@ -2443,6 +2439,10 @@
     {
       "title": "Quantum Stock Tracker: Nvidia Backs Quantinuum; D-Wave, IonQ Announce New Execs - Benzinga",
       "pubDate": "Tue, 09 Sep 2025 19:42:59 GMT"
+    },
+    {
+      "title": "AI Pushes Quantum 'Q Day' Closer to Reality\u2014And to Breaking Encryption: New Study - Decrypt",
+      "pubDate": "Tue, 09 Sep 2025 18:33:45 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2592,14 +2592,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Major banks neglect energy transition risks from mining as demand booms - Climate Home News",
-      "pubDate": "Wed, 03 Sep 2025 04:00:48 GMT"
-    },
-    {
-      "title": "Papua New Guinea's 'bold climate action' earns praise from Guterres - ABC News",
-      "pubDate": "Wed, 03 Sep 2025 04:37:13 GMT"
-    },
     {
       "title": "WWF publishes climate business roadmap in urgent rally to dial up meaningful action at mid-poin - Panda.org",
       "pubDate": "Wed, 03 Sep 2025 09:33:41 GMT"
@@ -3079,6 +3071,10 @@
     {
       "title": "Verisk's Tolwinski-Ward: Modelling nat cat risk in a changing climate - The Insurer",
       "pubDate": "Wed, 10 Sep 2025 00:30:46 GMT"
+    },
+    {
+      "title": "Two hundred fish died in Grizzly Reservoir from toxic metals. Climate change is to blame. - Aspen Public Radio",
+      "pubDate": "Wed, 10 Sep 2025 03:49:00 GMT"
     }
   ],
   "world_news": [
