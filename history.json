@@ -231,6 +231,10 @@
     {
       "title": "Video Retired IDF colonel on Israel\u2019s strike on Qatar - ABC News",
       "pubDate": "Wed, 10 Sep 2025 18:15:08 GMT"
+    },
+    {
+      "title": "Top Qatari official has questioned partnership with US after Israeli strike \u2014 source - The Times of Israel",
+      "pubDate": "Wed, 10 Sep 2025 19:13:10 GMT"
     }
   ],
   "donald_trump": [
@@ -733,13 +737,13 @@
     {
       "title": "Derq Partners with Tacel Ltd. to Expand AI Traffic Safety Solutions Across Canada - Business Wire",
       "pubDate": "Wed, 10 Sep 2025 16:09:00 GMT"
+    },
+    {
+      "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg",
+      "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks, Bonds Rise as Weak Jobs Bolster Fed Bets: Markets Wrap - Bloomberg",
-      "pubDate": "Wed, 03 Sep 2025 19:36:07 GMT"
-    },
     {
       "title": "Global bonds rally after poor US economic data - Financial Times",
       "pubDate": "Wed, 03 Sep 2025 20:32:44 GMT"
@@ -1443,6 +1447,10 @@
     {
       "title": "Movie project aims to tell story of Ukraine soccer club Shakhtar during Russian invasion - The Independent",
       "pubDate": "Wed, 10 Sep 2025 16:55:00 GMT"
+    },
+    {
+      "title": "Bipartisan Push For Russia SANCTIONS Passage As Putin 'ESCALATES' Ukraine Assault | TRENDING - The Hill",
+      "pubDate": "Wed, 10 Sep 2025 18:50:00 GMT"
     }
   ],
   "us_economy": [
@@ -1678,10 +1686,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House Republicans form new subcommittee to probe Jan. 6 - The Washington Post",
-      "pubDate": "Wed, 03 Sep 2025 20:00:31 GMT"
-    },
     {
       "title": "Judge says Trump administration unlawfully blocked $2 billion from Harvard - CNN",
       "pubDate": "Wed, 03 Sep 2025 20:48:00 GMT"
@@ -1957,6 +1961,10 @@
     {
       "title": "Democrat Frost calls GOP\u2019s Higgins \u2018lapdog\u2019 for Trump as DC crime bill meeting erupts - The Hill",
       "pubDate": "Wed, 10 Sep 2025 15:59:00 GMT"
+    },
+    {
+      "title": "Fired FBI officials sue Trump administration for \u2018illegal retribution\u2019 - Al Jazeera",
+      "pubDate": "Wed, 10 Sep 2025 19:07:18 GMT"
     }
   ],
   "north_korea": [
@@ -2256,10 +2264,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Northwestern accelerates quantum research with NVIDIA technology - Northwestern Now News",
-      "pubDate": "Wed, 03 Sep 2025 19:42:02 GMT"
-    },
     {
       "title": "E4 Computer Engineering Presents New Approach to HPC-Quantum Computing Integration at IEEE Quantum Week 2025 - HPCwire",
       "pubDate": "Wed, 03 Sep 2025 21:50:12 GMT"
@@ -3063,6 +3067,10 @@
     {
       "title": "Trump administration dissolves climate contrarian group that authored controversial report - CNN",
       "pubDate": "Wed, 10 Sep 2025 17:39:00 GMT"
+    },
+    {
+      "title": "One in four heatwaves impossible without climate change, study finds - The Independent",
+      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3341,6 +3349,18 @@
     {
       "title": "Nepal in chaos: Videos show finance minister Paudel being chased, kicked, and assaulted on streets; Ex-PM - The Times of India",
       "pubDate": "Tue, 09 Sep 2025 10:44:00 GMT"
+    }
+  ],
+  "quantum_mechanics": [
+    {
+      "title": "An exploding black hole could reveal the foundations of the universe - EurekAlert!",
+      "pubDate": "Wed, 10 Sep 2025 16:12:19 GMT"
+    }
+  ],
+  "openai": [
+    {
+      "title": "OpenAI and Oracle reportedly ink historic cloud computing deal - TechCrunch",
+      "pubDate": "Wed, 10 Sep 2025 19:00:34 GMT"
     }
   ]
 }
