@@ -9,10 +9,6 @@
       "pubDate": "Wed, 03 Sep 2025 06:58:00 GMT"
     },
     {
-      "title": "A Palestinian State Would Be Good for Israel - Foreign Affairs",
-      "pubDate": "Wed, 03 Sep 2025 04:00:00 GMT"
-    },
-    {
       "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon - Al Jazeera",
       "pubDate": "Wed, 03 Sep 2025 10:03:23 GMT"
     },
@@ -239,6 +235,10 @@
     {
       "title": "Israeli strike takes fight with Hamas to Qatar, key intermediary in Gaza talks - The Washington Post",
       "pubDate": "Wed, 10 Sep 2025 00:37:07 GMT"
+    },
+    {
+      "title": "Von der Leyen under growing pressure to take tougher line with Israel - The Guardian",
+      "pubDate": "Tue, 09 Sep 2025 17:50:00 GMT"
     }
   ],
   "donald_trump": [
@@ -725,10 +725,6 @@
       "pubDate": "Wed, 03 Sep 2025 09:18:28 GMT"
     },
     {
-      "title": "Futures Mixed; Google Soars On Antitrust Ruling - Investor's Business Daily",
-      "pubDate": "Wed, 03 Sep 2025 03:13:00 GMT"
-    },
-    {
       "title": "Investors on edge as September reset exposes simmering US market risks - Reuters",
       "pubDate": "Wed, 03 Sep 2025 10:00:04 GMT"
     },
@@ -1093,6 +1089,10 @@
     {
       "title": "A new study shows how AI is reshaping the telco value chain: Two experts decode the story behind the numbers - IBM",
       "pubDate": "Tue, 09 Sep 2025 18:12:23 GMT"
+    },
+    {
+      "title": "AI co-pilot boosts noninvasive brain-computer interface by interpreting user intent, UCLA study finds - Newsroom | UCLA",
+      "pubDate": "Wed, 10 Sep 2025 00:24:56 GMT"
     }
   ],
   "ukraine": [
@@ -1443,6 +1443,10 @@
     {
       "title": "Poland on high alert after Ukraine says Russian drones entered its airspace - BNO News",
       "pubDate": "Tue, 09 Sep 2025 23:39:08 GMT"
+    },
+    {
+      "title": "Russia strikes eastern Ukraine village, killing 24, many retirees - The Washington Post",
+      "pubDate": "Tue, 09 Sep 2025 22:00:11 GMT"
     }
   ],
   "us_economy": [
@@ -1501,13 +1505,13 @@
     {
       "title": "JPMorgan CEO Jamie Dimon warns of a cloudy US economic outlook - Reuters",
       "pubDate": "Tue, 09 Sep 2025 23:02:49 GMT"
+    },
+    {
+      "title": "Revised job numbers raise new concerns about economic slowdown - PBS",
+      "pubDate": "Tue, 09 Sep 2025 22:55:52 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China Services PMI Expands at Fastest Pace in Over a Year - The Wall Street Journal",
-      "pubDate": "Wed, 03 Sep 2025 03:23:00 GMT"
-    },
     {
       "title": "Trump is furious at China, but he\u2019s making US foes great again - CNN",
       "pubDate": "Wed, 03 Sep 2025 04:03:00 GMT"
@@ -1953,6 +1957,10 @@
     {
       "title": "Oliver North marries Fawn Hall, his document-shredding secretary at the center of Iran-Contra scandal - CNN",
       "pubDate": "Tue, 09 Sep 2025 16:31:00 GMT"
+    },
+    {
+      "title": "Trump Taking US \u2018Down a Dark Road,\u2019 Says UChicago Political Violence Expert - WTTW",
+      "pubDate": "Wed, 10 Sep 2025 00:11:15 GMT"
     }
   ],
   "north_korea": [
@@ -2087,10 +2095,6 @@
   ],
   "earthquakes": [
     {
-      "title": "Multiple earthquakes devastate part of Afghanistan - Mission Network News",
-      "pubDate": "Wed, 03 Sep 2025 04:00:33 GMT"
-    },
-    {
       "title": "After a Catastrophic Earthquake in Afghanistan, Direct Relief Commits $50,000, Prepares Emergency Medical Shipment - Direct Relief",
       "pubDate": "Wed, 03 Sep 2025 20:54:33 GMT"
     },
@@ -2212,10 +2216,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations - The Hacker News",
-      "pubDate": "Wed, 03 Sep 2025 03:53:00 GMT"
-    },
     {
       "title": "250 Million Personal Identities Published In \u2018Massive Data Leak\u2019 - Forbes",
       "pubDate": "Thu, 04 Sep 2025 06:10:02 GMT"
@@ -2439,6 +2439,10 @@
     {
       "title": "QuEra: $230 Million Series B Expanded With NVentures Investment - Pulse 2.0",
       "pubDate": "Tue, 09 Sep 2025 23:38:09 GMT"
+    },
+    {
+      "title": "Quantum Stock Tracker: Nvidia Backs Quantinuum; D-Wave, IonQ Announce New Execs - Benzinga",
+      "pubDate": "Tue, 09 Sep 2025 19:42:59 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3071,6 +3075,10 @@
     {
       "title": "California\u2019s \u201841st senator\u2019 is causing climate headaches - Politico",
       "pubDate": "Wed, 10 Sep 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Verisk's Tolwinski-Ward: Modelling nat cat risk in a changing climate - The Insurer",
+      "pubDate": "Wed, 10 Sep 2025 00:30:46 GMT"
     }
   ],
   "world_news": [
@@ -3168,10 +3176,6 @@
     }
   ],
   "united_states": [
-    {
-      "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC",
-      "pubDate": "Wed, 03 Sep 2025 03:26:28 GMT"
-    },
     {
       "title": "Trump plays down possible regime change in Venezuela; US deploys stealth fighter jets - Reuters",
       "pubDate": "Sat, 06 Sep 2025 15:19:56 GMT"
