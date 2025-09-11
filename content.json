@@ -1,62 +1,72 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Chaos erupts on House floor over Charlie Kirk shooting - Axios",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JYUxMVGVONlVpQzR3elIzZWpBeEZVclM0cl95WkNqMDh1TkdhMEptZzFmUENvMjVMenJMaEJialJLS1lEZWIxTVhJblBlYW1GclozV05kX29mTW8zZ2VzZXM3bHcwMEluWGg0WTZhbUUtSGwxN3NHSUF2UjViQQ?oc=5",
-        "pubDate": "Thu, 11 Sep 2025 00:37:58 GMT"
+        "title": "Hollywood\u2019s Latest AI Experiment: Will Critterz Go to Cannes With Help From OpenAI? - eWeek",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6TG9fUHNnMENmSkpPSUJzM25JTlVMVmtrTWlvdnZEdmZzSmpIZGZycE5Xcldnd1k0ZnRCR2VFOTVWUWZzclVOTHN4YlJxam5JYTNUdi1qdi1SR1lrYzhMQkQ3eVp0M05ETnQydWxR?oc=5",
+        "pubDate": "Wed, 10 Sep 2025 17:48:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Drone incidents show Russia is testing NATO\u2019s defenses and reaction times - CNN",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUwzN2FPa25WbElTcjNaUDMzS2pRNHRaN01NWHVjYndvcDVJbzBFc3ZteVUtUmNIelZ6VGNVUHRKcUZ5RnpVZC1IMTdTblp0MFdWd1dEUjgzRkh5UlhRWDFlQkd6N01ZSU8wWGRGN2pWd19uckxWMVRoVEhFZncxTW4wSVJ6aTBTVXc?oc=5",
-        "pubDate": "Wed, 10 Sep 2025 22:03:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
-  },
-  "Artificial Intelligence": {
-    "articles": [
-      {
-        "title": "AI software developer Replit raises $250 million at $3 billion valuation - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckJTcHJqNzI4V0liVmlpbXNwNzk1OUJicUxkRWxuSm9fY204aHRrdzFnSXhaTGVfNWJHdHRtMnhsSTFfVlJuaVV5Y1djX05uSnhCdWtnWWpGbFBENV9pMW9ibW1LZ2s0c1NISzlFX0NPMWNvYXNPYzFwMUpWQm42Zkw0TnB6bW5fZC1rb09JNVUxenViN3B5NExSalFFUzk4M1V2MWVMQWFCS3c2Y3M3bHpn?oc=5",
-        "pubDate": "Thu, 11 Sep 2025 00:46:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
   },
   "Climate Change": {
     "articles": [
       {
-        "title": "Climate change can\u2019t be ignored, UT expert says - Toledo Blade",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlJHMFhSS1NLb2JfR3JGc2ZCbTJsUHMxTGtvb09UY3FBTkRiWEpibjY0RHE4V0xINm1EV0JmcnFuemJhT0dVaHZPemFfZFBkZWc1d2NYMlRyNEFVLTIzc1RiRmxwVjlEeXJmdXBxRjlUdEljVEN1MDNYUTNBXzBuQ25DcVJLUVBjVEFybGd2LXN0NUZhc1hYWkl3M1k4VG1kM0U0dFZqMEtIRnBhZEdIa0g5NXhLWFJibUdBQ3ZVSlY?oc=5",
-        "pubDate": "Wed, 10 Sep 2025 21:20:12 GMT"
+        "title": "France holds the cards in EU climate goal negotiations - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdkdUYTh1Q0M0RnFTaGowZEU1LWpGVWhuMFZLa0RkcEluanVmM1ZTZW9TZERva2U2VWNBUnpLQXRzRFNPeElYOUd5M3RDNC1HUDlIaTRXYmotMnJPaG1TZjNGX0VJajdIbVF3ZHBydU0?oc=5",
+        "pubDate": "Thu, 11 Sep 2025 04:01:01 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
   },
-  "Quantum Mechanics": {
+  "China": {
     "articles": [
       {
-        "title": "PsiQuantum Raises $1B, Collaborates with NVIDIA | Business | Sep 2025 - Photonics Spectra",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjF6V05tbUJCNnNwNEdKSWVBNTR6MzBwUFRvVENNUlAwNXoxLVhhUGQyT1V2am1HcjFXTHRkSWM4TVZhQTBuaklPRUwwdXdfWlBjMmItN3l4Xzd1LTd6NmFVX2VQX3VLcGdkZjU3VlFjdDJtR3h4SC1UX29LOV9ha2dXb1lUZGx6UUZaZ1RRRWtMdktl?oc=5",
-        "pubDate": "Wed, 10 Sep 2025 19:12:10 GMT"
+        "title": "Top Chinese and US Envoys\u2019 Talks Pave Way for Xi, Trump Meeting - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0RjUFEydXh4bTZrR3hwR0FEOWp2dUh6SWlvQkg0ZUhfM1RGWVNfLVVHaVJESUFrY1cxY052NFdqSkJOUzltbThQdU15a1VISk5MU09jaGJNV1FEZDNtWExJbkhQbXctT2czUzVKb1RGa2F2djR5T2Q1STdWS0RubGVQTDVKZzRkVWlMTTJzcTRySW1qaTVZelpyTGx5bExMdDF2d3hzZVM4QXJLRW5HMHY2MUU3dw?oc=5",
+        "pubDate": "Thu, 11 Sep 2025 02:12:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
   },
-  "Fusion Power": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "Livermore Approves Billion-Dollar Nuclear Fusion Research Facility Proposal - Patch",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXV1Q3REUTAwSjh5cE5lMGxhX0dsSzZLVDYtcnlXTWdwZDNCVjBlZUVHcGdncGlCMjJpa3pBYlowSHd6ZkxyUmRGLVRrRHVGNTJEeUZvMWF5NTVsV0UwV2NZM2FjNnZVZEdocDZNRXNzZV82ZDMzX0xkQVZVSGRLc3JidWZRMkRwZHBpcFhfTWNqbXN0VlZCaXgwRlJSVW1GTThiQ0JoendWeGpJb3R6Ri0tcnDSAcYBQVVfeXFMUGlJWURtUW1VU3VKZmljSXBTekV1QWtYcUNBNmVhYmlGZFBoYVZ5aUhaVWVpTExnNlE2bWpXWkhmUWFzZVFGT3VVbnZiQUViTUxrQS1vWG9rTDVYTGFZcmFwWDJNTlpaVXRLNVlUak1FRXVtT2ZBeVNTaG5XUi1GbWw2RnpvMGY5aUh6aWZBdFVXR2tiLS1KRXhtYUpyV3hqYXdSYkhBN2ZWd2tEM09VUXItZkFsS2dDZFUyQTdIOWRmazUwWld3?oc=5",
-        "pubDate": "Wed, 10 Sep 2025 19:10:45 GMT"
+        "title": "PSNI 'cannot afford' to pay staff compensation over data breach - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNXJJLWJnVFktVzJWX0N3QnZwdHhndmg0ZnB6TF9fSmFjNTV6TS1XcXotck1qN25BdUpmblJPQTN2OVVxaG9zVnY2V2VtdlRfazd4WVFrOTZWUdIBX0FVX3lxTE9qdTZQaHY4VFRiZ0huRngxVGh4YUVKRV9POWhhVEs0dU1Xd1NPQWZPSkhfMTh3c0Vib192cGxtU0NKeFJ0OW9CSVhJMUh4dU1uM3lOTU5jdjNjS0RQMXVj?oc=5",
+        "pubDate": "Wed, 10 Sep 2025 16:54:07 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-11T04:00:20.103596+00:00"
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
+  },
+  "National Security": {
+    "articles": [
+      {
+        "title": "USF program trains students for national security careers 24 years after Sept. 11 attacks - FOX 13 Tampa Bay",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjNGakVreXUtYUxzUW5NTGNqMzFoZnY1WFhtSEVKSTczRXVHdUF5NU9namlsYUtoc05iQ0t1Rmt3YkFYdDUyeGFMdTBuNWl1cEp3bWZfa21kdXBMbzBBd0Q1bDVqcm1DbTV2UGRoWWp0M3VPTWFEQ2g2YkdLXzRlVUVIYS1mbVYtMGF2UUNuMlpJOV9uT0ZRZUV6QzVyQ2dpV0lieEhZcExOSVowNG9CNVJFYnI?oc=5",
+        "pubDate": "Thu, 11 Sep 2025 02:53:49 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "\u2018Putin is mocking\u2019 Trump, Polish foreign minister says after Russian drone incursion - PBS",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckNFQ1JaaDVRd2dGa1V1cmxlRUJKNVp5YVBfcUZlTEl2d094b1JpNm9Id3RNMk4zXzJHb2hndXEyOC1qTEZBM2JzLTFwNFdwekhMTmlUYlhBOXVpOEF3RGNGa2NRUVdNMzlsZUloUjl5eGZ6OG1PaFR0YTY1OGRmdXJjRHF5MzFtZlAtMVpOQ1dsWDJZOHVwdFFmNWc3Wk9DcURoQ2h2WFVjZnFvUFMxeTRPTi1YQdIBuwFBVV95cUxQZ2FjOExfcVJ4Zzd2SGdEMHlsMXB0SUtPZXZZbWF3Mk80VWIzNV9FbXhmT21MbHRpSGw2Tm9wQUlieGJ2YTJOLWVCYmFGbUxkeXNyZzdkN2txZ1BHejZ2cWQ2RmhyWkpUQlQ5eTdSUmR3d0JRSG9HRXY1cUlzWUpFb1VQYUpqVTRsX21pcmlpaWw1V1JnLTAwZU1SNWxKZ2FXendfbXhlNTB1am1NZ0NRZWZ3Wko2cnRLZEFv?oc=5",
+        "pubDate": "Wed, 10 Sep 2025 22:50:16 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Live updates: Turning Point USA co-founder Charlie Kirk fatally shot at Utah college event - PBS",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalBPRVd2X19aZVBzUVlINzNkcVlCb3pfUS1yQ1Q0NVlPTzctY2NUVEF3NGF0anVJSEpPbC1YMURSelZmRkF4R2NXb0U4Z1JlRE90cGlOU1l5cmhZYzlEdms3UmdISFg3VVdZUF84S21SOVJtQ0FHTDAtQWZ0MEVKUkhEcDBGdWxDOUlld194Q0hCbzlfS3JjUlJQdUxneGV1R0ZVeTlyQjVveDV0Zko3VWl1UG5MdzdkUnUw0gHAAUFVX3lxTE50bVRQa3E2bnZUckNINWIzZkF3YmZBR1U5SUJuc1pPbFZnNHVxeHBzT1phYkdUWld0WDRTZjNoQXE1cXJ2T0pGQzI0WXVEa1NNNThIdzNlZjFzclRmRjJMLV9Fb0FPRmEtRkJGUkZsV0hCX25QRXEzY1BqNE5WeTRvUy1NOFNpUDFQc2NBTnpyYk04TDRXMkd5SDJTZXNReXE4XzlvMGRmd21xUUEyZ3Bkdm5zRmhKU213UWl3V01VRw?oc=5",
+        "pubDate": "Wed, 10 Sep 2025 23:32:17 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-11T05:00:04.276766+00:00"
   }
 }
