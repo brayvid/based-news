@@ -329,6 +329,10 @@
     {
       "title": "Trump makes a rare D.C. restaurant visit to tout his federal crackdown on crime - NPR",
       "pubDate": "Wed, 10 Sep 2025 16:37:37 GMT"
+    },
+    {
+      "title": "In new lawsuit, fired FBI leaders allege rampant politicization by Trump allies - Politico",
+      "pubDate": "Wed, 10 Sep 2025 18:55:39 GMT"
     }
   ],
   "russia": [
@@ -471,6 +475,10 @@
     {
       "title": "Letter: Russia did interfere in 2016 - The Detroit News",
       "pubDate": "Thu, 11 Sep 2025 00:44:10 GMT"
+    },
+    {
+      "title": "The Russia-Ukraine War Report Card, Sept. 10, 2025 - Russia Matters",
+      "pubDate": "Wed, 10 Sep 2025 20:02:28 GMT"
     }
   ],
   "ai_safety": [
@@ -1077,6 +1085,10 @@
     {
       "title": "US data center build hits record as AI demand surges, Bank of America Institute says - Reuters",
       "pubDate": "Wed, 10 Sep 2025 15:28:56 GMT"
+    },
+    {
+      "title": "When Cybercriminals Weaponize Artificial Intelligence at Scale - Manufacturing Business Technology",
+      "pubDate": "Wed, 10 Sep 2025 23:31:04 GMT"
     }
   ],
   "ukraine": [
@@ -1447,6 +1459,10 @@
     {
       "title": "Trump says \u2018here we go\u2019 in reaction to Russia violating Polish airspace: Ukraine live - The Independent",
       "pubDate": "Wed, 10 Sep 2025 23:14:30 GMT"
+    },
+    {
+      "title": "Are there actually North Korean troops inside Ukraine? - Lowy Institute",
+      "pubDate": "Thu, 11 Sep 2025 01:04:41 GMT"
     }
   ],
   "us_economy": [
@@ -3071,6 +3087,10 @@
     {
       "title": "New climate models to reveal secret life of water - Rice University",
       "pubDate": "Wed, 10 Sep 2025 13:45:12 GMT"
+    },
+    {
+      "title": "Climate Change Solutions - September 9, 2025 - Environmental and Energy Study Institute",
+      "pubDate": "Wed, 10 Sep 2025 19:26:28 GMT"
     }
   ],
   "world_news": [
@@ -3162,10 +3182,6 @@
     }
   ],
   "technology": [
-    {
-      "title": "Google must pay $425 million in class action over privacy, jury rules - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 01:01:00 GMT"
-    },
     {
       "title": "OpenAI has teamed up with Broadcom to make its own AI processors, according to a report, possibly as part of a long-term plan to move away from Nvidia's GPUs - PC Gamer",
       "pubDate": "Fri, 05 Sep 2025 14:23:39 GMT"
@@ -3365,6 +3381,12 @@
     {
       "title": "OpenAI and Oracle reportedly ink historic cloud computing deal - TechCrunch",
       "pubDate": "Wed, 10 Sep 2025 19:00:34 GMT"
+    }
+  ],
+  "mars": [
+    {
+      "title": "NASA rover finds potential sign of ancient life in Martian rocks - Reuters",
+      "pubDate": "Wed, 10 Sep 2025 18:01:52 GMT"
     }
   ]
 }
