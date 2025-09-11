@@ -231,13 +231,13 @@
     {
       "title": "Israeli airstrikes \u2018killed any hope\u2019 for hostages in Gaza, says Qatari prime minister - The Guardian",
       "pubDate": "Wed, 10 Sep 2025 16:59:00 GMT"
+    },
+    {
+      "title": "Israel is forcing us to leave Gaza City. We know they may never let us return - The Guardian",
+      "pubDate": "Wed, 10 Sep 2025 13:57:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump calls Epstein files 'irrelevant' as Massie petition picks up steam - ABC News",
-      "pubDate": "Wed, 03 Sep 2025 23:35:24 GMT"
-    },
     {
       "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
       "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
@@ -470,10 +470,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "OpenAI subpoenas another nonprofit opposed to its restructuring - The San Francisco Standard",
-      "pubDate": "Wed, 03 Sep 2025 23:57:33 GMT"
-    },
     {
       "title": "OpenAI Adds Teen Safety Features to ChatGPT - MediaNama",
       "pubDate": "Thu, 04 Sep 2025 07:22:21 GMT"
@@ -725,6 +721,10 @@
     {
       "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg",
       "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
+    },
+    {
+      "title": "Business groups, watchdogs debate guardrails for AI developers during Michigan House panel - Michigan Advance",
+      "pubDate": "Wed, 10 Sep 2025 23:04:12 GMT"
     }
   ],
   "financial_markets": [
@@ -1435,6 +1435,10 @@
     {
       "title": "House passes NDAA, with $848B topline and protections for Ukraine aide - Breaking Defense",
       "pubDate": "Wed, 10 Sep 2025 22:13:00 GMT"
+    },
+    {
+      "title": "Trump says \u2018here we go\u2019 in reaction to Russia violating Polish airspace: Ukraine live - The Independent",
+      "pubDate": "Wed, 10 Sep 2025 23:14:30 GMT"
     }
   ],
   "us_economy": [
@@ -1673,10 +1677,6 @@
     {
       "title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
       "pubDate": "Thu, 04 Sep 2025 00:35:05 GMT"
-    },
-    {
-      "title": "Trump Responds to Rumors About His Health During Oval Office Press Conference - The New York Times",
-      "pubDate": "Wed, 03 Sep 2025 23:16:00 GMT"
     },
     {
       "title": "Trump Fires Back at Newsom, Pritzker With New Social Media Blitz - Newsweek",
@@ -1945,6 +1945,10 @@
     {
       "title": "Charlie Kirk murder the latest in political violence plaguing Trump, Congress and courts - USA Today",
       "pubDate": "Wed, 10 Sep 2025 22:42:24 GMT"
+    },
+    {
+      "title": "Another summer of political violence in America - Politico",
+      "pubDate": "Wed, 10 Sep 2025 23:02:55 GMT"
     }
   ],
   "north_korea": [
@@ -2181,10 +2185,6 @@
       "pubDate": "Thu, 04 Sep 2025 06:10:02 GMT"
     },
     {
-      "title": "Nevada dental practice data breach exposes 1.2 million individuals' information - KRNV",
-      "pubDate": "Thu, 04 Sep 2025 00:00:26 GMT"
-    },
-    {
       "title": "More Than 4.4 Million Exposed in Credit Bureau TransUnion Breach - CNET",
       "pubDate": "Thu, 04 Sep 2025 18:15:00 GMT"
     },
@@ -2237,13 +2237,13 @@
     {
       "title": "America is Building The World\u2019s First Nuclear Fusion Plant - The B1M",
       "pubDate": "Wed, 10 Sep 2025 14:12:53 GMT"
+    },
+    {
+      "title": "DOE Announces $134M to Advance US Fusion Leadership Through Targeted Research - HPCwire",
+      "pubDate": "Wed, 10 Sep 2025 23:01:03 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "How Majorana particles promise to shield quantum computers from noise - The Hindu",
-      "pubDate": "Thu, 04 Sep 2025 00:00:00 GMT"
-    },
     {
       "title": "Nvidia Investment In Honeywell's Quantinuum Sends Quantum Computing Stocks Up - Investor's Business Daily",
       "pubDate": "Thu, 04 Sep 2025 13:25:00 GMT"
@@ -2572,10 +2572,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "EPA moves to rescind landmark climate rule, threatening net-zero goals - AZPM News",
-      "pubDate": "Thu, 04 Sep 2025 00:00:00 GMT"
-    },
     {
       "title": "Missing Billions in Pakistan Expose Grim Reality of Global Climate Finance Aid - Bloomberg",
       "pubDate": "Thu, 04 Sep 2025 01:00:00 GMT"
@@ -3063,6 +3059,10 @@
     {
       "title": "Professor explores climate change and health disparities at global conference - St. Bonaventure University",
       "pubDate": "Wed, 10 Sep 2025 19:58:32 GMT"
+    },
+    {
+      "title": "ICJ Advisory Opinion on Climate Change: When Law and Politics Meet - SDG Knowledge Hub",
+      "pubDate": "Wed, 10 Sep 2025 23:00:54 GMT"
     }
   ],
   "world_news": [
@@ -3339,6 +3339,10 @@
     {
       "title": "An exploding black hole could reveal the foundations of the universe - EurekAlert!",
       "pubDate": "Wed, 10 Sep 2025 16:12:19 GMT"
+    },
+    {
+      "title": "In quantum sensing, what beats beating noise? Meeting noise halfway - Phys.org",
+      "pubDate": "Wed, 10 Sep 2025 16:59:04 GMT"
     }
   ],
   "openai": [
