@@ -337,10 +337,6 @@
   ],
   "russia": [
     {
-      "title": "Sberbank says Russian economy is stagnating, warns of recession if rates stay high - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 03:51:00 GMT"
-    },
-    {
       "title": "Russia suggests Trump was being 'ironic' with Putin, Xi, Kim 'conspiring' claim - USA Today",
       "pubDate": "Thu, 04 Sep 2025 12:12:25 GMT"
     },
@@ -483,6 +479,10 @@
     {
       "title": "GOP increasingly says Trump has been played by Putin - CNN",
       "pubDate": "Wed, 10 Sep 2025 21:12:00 GMT"
+    },
+    {
+      "title": "Drone incidents show Russia is testing NATO\u2019s defenses and reaction times - CNN",
+      "pubDate": "Wed, 10 Sep 2025 22:03:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1097,13 +1097,13 @@
     {
       "title": "When Cybercriminals Weaponize Artificial Intelligence at Scale - Manufacturing Business Technology",
       "pubDate": "Wed, 10 Sep 2025 23:31:04 GMT"
+    },
+    {
+      "title": "AI software developer Replit raises $250 million at $3 billion valuation - Reuters",
+      "pubDate": "Thu, 11 Sep 2025 00:46:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Kyiv offers retort to Putin for \u2018messing around\u2019 by demanding Moscow talks - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 03:20:00 GMT"
-    },
     {
       "title": "Xi, Putin Seen Readying Fresh Ukraine Offensive as Allies Fear Escalation | The Pulse 9/04/2025 - Bloomberg.com",
       "pubDate": "Thu, 04 Sep 2025 10:53:57 GMT"
@@ -1549,10 +1549,6 @@
   ],
   "china": [
     {
-      "title": "\u2018Unrestrained\u2019 Chinese Cyberattack May Have Stolen Data From Almost Every American - The New York Times",
-      "pubDate": "Thu, 04 Sep 2025 04:00:06 GMT"
-    },
-    {
       "title": "China Eyes Curbs on Stock Speculation to Foster Steady Gains - Bloomberg.com",
       "pubDate": "Thu, 04 Sep 2025 04:01:00 GMT"
     },
@@ -1985,6 +1981,10 @@
     {
       "title": "House passes $892.6 billion defense bill over Democrats\u2019 protests - The Washington Post",
       "pubDate": "Thu, 11 Sep 2025 02:36:25 GMT"
+    },
+    {
+      "title": "Chaos erupts on House floor over Charlie Kirk shooting - Axios",
+      "pubDate": "Thu, 11 Sep 2025 00:37:58 GMT"
     }
   ],
   "north_korea": [
@@ -2281,6 +2281,10 @@
     {
       "title": "DOE Announces $134M to Advance US Fusion Leadership Through Targeted Research - HPCwire",
       "pubDate": "Wed, 10 Sep 2025 23:01:03 GMT"
+    },
+    {
+      "title": "Livermore Approves Billion-Dollar Nuclear Fusion Research Facility Proposal - Patch",
+      "pubDate": "Wed, 10 Sep 2025 19:10:45 GMT"
     }
   ],
   "quantum_computing": [
@@ -2612,10 +2616,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Spain and Portugal wildfire weather made 40 times more likely by climate crisis, study finds - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "Extreme fire weather conditions in Spain and Portugal now common due to climate change - World Weather Attribution",
       "pubDate": "Thu, 04 Sep 2025 04:02:57 GMT"
@@ -3107,6 +3107,10 @@
     {
       "title": "Climate Change Solutions - September 9, 2025 - Environmental and Energy Study Institute",
       "pubDate": "Wed, 10 Sep 2025 19:26:28 GMT"
+    },
+    {
+      "title": "Climate change can\u2019t be ignored, UT expert says - Toledo Blade",
+      "pubDate": "Wed, 10 Sep 2025 21:20:12 GMT"
     }
   ],
   "world_news": [
@@ -3395,6 +3399,10 @@
     {
       "title": "When magnets cannot agree: Quantum mechanics deciphers iron catalyst - Phys.org",
       "pubDate": "Wed, 10 Sep 2025 14:13:04 GMT"
+    },
+    {
+      "title": "PsiQuantum Raises $1B, Collaborates with NVIDIA | Business | Sep 2025 - Photonics Spectra",
+      "pubDate": "Wed, 10 Sep 2025 19:12:10 GMT"
     }
   ],
   "openai": [
