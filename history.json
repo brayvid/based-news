@@ -231,10 +231,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump will host top tech CEOs except Musk at a White House dinner - PBS",
-      "pubDate": "Thu, 04 Sep 2025 13:08:16 GMT"
-    },
-    {
       "title": "Trump warns \u2018fairly substantial\u2019 chip tariffs are coming; signals Apple, others will be safe - CNBC",
       "pubDate": "Fri, 05 Sep 2025 03:11:00 GMT"
     },
@@ -329,6 +325,10 @@
     {
       "title": "'Dark moment for America', says Trump after Kirk killing - BBC",
       "pubDate": "Thu, 11 Sep 2025 06:35:19 GMT"
+    },
+    {
+      "title": "Trump to attend 9/11 observance, staff left shaken by Charlie Kirk's assassination - NBC News",
+      "pubDate": "Thu, 11 Sep 2025 12:00:45 GMT"
     }
   ],
   "russia": [
@@ -483,10 +483,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Shipping heavyweights invest in AI safety firm Captain\u2019s Eye - Splash247",
-      "pubDate": "Thu, 04 Sep 2025 13:49:15 GMT"
-    },
-    {
       "title": "Inside Anthropic's 'Red Team'\u2014ensuring Claude is safe, and that Anthropic is heard in the corridors of power - Fortune",
       "pubDate": "Thu, 04 Sep 2025 15:14:00 GMT"
     },
@@ -497,10 +493,6 @@
     {
       "title": "AI could replace 99% of workers in five years, warns AI researcher - KRON4",
       "pubDate": "Thu, 04 Sep 2025 17:47:36 GMT"
-    },
-    {
-      "title": "Ohio researcher raises red flags on AI use in mental health - Spectrum News 1",
-      "pubDate": "Thu, 04 Sep 2025 13:03:00 GMT"
     },
     {
       "title": "UCR Researchers Strengthen AI Defenses Against Malicious Rewiring - BIOENGINEER.ORG",
@@ -729,6 +721,10 @@
     {
       "title": "How AI Deals with Dark Thoughts - China Media Project",
       "pubDate": "Thu, 11 Sep 2025 04:20:01 GMT"
+    },
+    {
+      "title": "SANS Secure AI Blueprint provides the roadmap leaders need to adopt AI while minimizing risk - ZAWYA",
+      "pubDate": "Thu, 11 Sep 2025 08:21:37 GMT"
     }
   ],
   "financial_markets": [
@@ -1089,13 +1085,13 @@
     {
       "title": "Navy asks Lockheed Martin for artificial intelligence (AI) to double the range of LRASM anti-ship missile - Military Aerospace",
       "pubDate": "Thu, 11 Sep 2025 07:36:08 GMT"
+    },
+    {
+      "title": "Study: AI Agents Shift How Hotels Build Guest Loyalty - Florida Atlantic University",
+      "pubDate": "Thu, 11 Sep 2025 11:50:11 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "South Korea could be a model for postwar Ukraine, Zelenskyy says - politico.eu",
-      "pubDate": "Thu, 04 Sep 2025 13:07:36 GMT"
-    },
     {
       "title": "26 nations ready to take part in postwar Ukraine force, Macron says - Reuters",
       "pubDate": "Thu, 04 Sep 2025 15:25:55 GMT"
@@ -1471,6 +1467,10 @@
     {
       "title": "IMF Sees Up to $20 Billion Hole in Ukraine Funding Through 2027 - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 11:16:42 GMT"
+    },
+    {
+      "title": "Sweden pledges another $7.5 billion military support for Ukraine - Reuters",
+      "pubDate": "Thu, 11 Sep 2025 11:57:05 GMT"
     }
   ],
   "us_economy": [
@@ -2023,10 +2023,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "How the newest ISAC aims to help food and agriculture firms thwart cyberattacks - Cybersecurity Dive",
-      "pubDate": "Thu, 04 Sep 2025 13:34:10 GMT"
-    },
-    {
       "title": "How Effective Is Corporate Cybersecurity Training? Not Very, It Seems - The Wall Street Journal",
       "pubDate": "Thu, 04 Sep 2025 16:00:00 GMT"
     },
@@ -2093,6 +2089,10 @@
     {
       "title": "Pentagon publishes final cybersecurity rules for contractors - theregister.com",
       "pubDate": "Tue, 09 Sep 2025 20:06:00 GMT"
+    },
+    {
+      "title": "SPARTA v3.1 expands space cybersecurity with updated controls, new techniques, and research contributions - Industrial Cyber",
+      "pubDate": "Thu, 11 Sep 2025 09:49:19 GMT"
     }
   ],
   "federal_reserve": [
@@ -2280,10 +2280,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Nvidia Investment In Honeywell's Quantinuum Sends Quantum Computing Stocks Up - Investor's Business Daily",
-      "pubDate": "Thu, 04 Sep 2025 13:25:00 GMT"
-    },
     {
       "title": "Quantum computing firm Quantinuum raises $600M at a $10B pre-money valuation - SiliconANGLE",
       "pubDate": "Thu, 04 Sep 2025 15:45:10 GMT"
