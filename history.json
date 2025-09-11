@@ -321,6 +321,10 @@
     {
       "title": "In new lawsuit, fired FBI leaders allege rampant politicization by Trump allies - Politico",
       "pubDate": "Wed, 10 Sep 2025 18:55:39 GMT"
+    },
+    {
+      "title": "Shooter still at large after Trump ally and activist Charlie Kirk murdered on Utah campus - CNN",
+      "pubDate": "Thu, 11 Sep 2025 09:09:00 GMT"
     }
   ],
   "russia": [
@@ -478,10 +482,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Peter Kyle pushes for AI regulation overhaul to boost UK business - Computing UK",
-      "pubDate": "Thu, 04 Sep 2025 09:33:02 GMT"
-    },
     {
       "title": "Psychological Tricks Bypass AI Safeguards, Elicit Forbidden Responses - WebProNews",
       "pubDate": "Thu, 04 Sep 2025 11:03:45 GMT"
@@ -1093,6 +1093,10 @@
     {
       "title": "AI\u2019s $344 Billion \u2018Language Model\u2019 Bet Looks Fragile - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Oracle\u2019s sudden AI stardom is giving 1999 energy - CNN",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1471,6 +1475,10 @@
     {
       "title": "Ukraine's DTEK invests in major battery storage to bolster energy security - Reuters",
       "pubDate": "Thu, 11 Sep 2025 07:26:18 GMT"
+    },
+    {
+      "title": "Ukrainian drone strike disables rare Russian vessel in Black Sea, intelligence says - VIDEO - Latest news from Azerbaijan",
+      "pubDate": "Thu, 11 Sep 2025 06:52:33 GMT"
     }
   ],
   "us_economy": [
@@ -2451,13 +2459,13 @@
     {
       "title": "PsiQuantum valued at $7 billion in latest funding round, teams up with Nvidia - Reuters",
       "pubDate": "Wed, 10 Sep 2025 11:03:02 GMT"
+    },
+    {
+      "title": "PsiQuantum raises $1bn backed by Nvidia, BlackRock - Silicon Republic",
+      "pubDate": "Thu, 11 Sep 2025 08:12:04 GMT"
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "What If There\u2019s No AGI? - The American Prospect",
-      "pubDate": "Thu, 04 Sep 2025 09:40:04 GMT"
-    },
     {
       "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
       "pubDate": "Fri, 05 Sep 2025 08:10:56 GMT"
@@ -2518,10 +2526,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Children killed by Israeli strike while getting water in area Palestinians were told to go - NBC News",
-      "pubDate": "Thu, 04 Sep 2025 09:30:00 GMT"
-    },
     {
       "title": "Gaza film The Voice of Hind Rajab gets record 23-minute ovation at Venice - BBC",
       "pubDate": "Thu, 04 Sep 2025 15:05:54 GMT"
@@ -2605,13 +2609,13 @@
     {
       "title": "Reports: Controversial Gaza Aid Sites Staffed by American anti-Islam Biker Gangs - Haaretz",
       "pubDate": "Wed, 10 Sep 2025 13:51:00 GMT"
+    },
+    {
+      "title": "Israeli review says UN-backed declaration of Gaza famine biased, 2 panel members praised Oct. 7 - The Times of Israel",
+      "pubDate": "Thu, 11 Sep 2025 07:18:18 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Florida DOGE targets Tampa Bay\u2019s climate change policies. What\u2019s at stake? - Tampa Bay Times",
-      "pubDate": "Thu, 04 Sep 2025 09:13:33 GMT"
-    },
     {
       "title": "Variations in Climate Change Belief Systems Across 110 Geographic Areas - Yale Program on Climate Change Communication",
       "pubDate": "Thu, 04 Sep 2025 12:05:46 GMT"
@@ -3099,6 +3103,10 @@
     {
       "title": "Florida seafood specialty, stone crabs, now show up in Chesapeake because of climate change - Florida Phoenix",
       "pubDate": "Thu, 11 Sep 2025 04:11:31 GMT"
+    },
+    {
+      "title": "Scientists found a 'geological heartbeat' that is forming a new ocean and splitting Africa in half - Earth.com",
+      "pubDate": "Thu, 11 Sep 2025 08:18:46 GMT"
     }
   ],
   "world_news": [
@@ -3405,6 +3413,12 @@
     {
       "title": "UN nuclear chief says agreement provides for access to all of Iran's facilities - Courthouse News",
       "pubDate": "Wed, 10 Sep 2025 17:52:36 GMT"
+    }
+  ],
+  "nuclear_fusion": [
+    {
+      "title": "Tests on superconducting materials for world's largest fusion energy project show reliable measurement protocol - Phys.org",
+      "pubDate": "Thu, 11 Sep 2025 08:00:02 GMT"
     }
   ]
 }
