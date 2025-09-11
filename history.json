@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Opinion | The Nuclear Bomb That Israel Fears Might Not Come From Iran At All - NDTV",
-      "pubDate": "Thu, 04 Sep 2025 11:44:49 GMT"
-    },
-    {
       "title": "Denying famine, Israel threatens more curbs on Gaza aid - NPR",
       "pubDate": "Thu, 04 Sep 2025 17:17:55 GMT"
     },
@@ -329,6 +325,10 @@
     {
       "title": "Shooter still at large after Trump ally and activist Charlie Kirk murdered on Utah campus - CNN",
       "pubDate": "Thu, 11 Sep 2025 09:09:00 GMT"
+    },
+    {
+      "title": "'Dark moment for America', says Trump after Kirk killing - BBC",
+      "pubDate": "Thu, 11 Sep 2025 06:35:19 GMT"
     }
   ],
   "russia": [
@@ -483,17 +483,13 @@
     {
       "title": "\u2018Putin is mocking\u2019 Trump, Polish foreign minister says after Russian drone incursion - PBS",
       "pubDate": "Wed, 10 Sep 2025 22:50:16 GMT"
+    },
+    {
+      "title": "Russia dismisses Polish statements on drones in its airspace as 'nothing new' - Reuters",
+      "pubDate": "Thu, 11 Sep 2025 10:22:21 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Psychological Tricks Bypass AI Safeguards, Elicit Forbidden Responses - WebProNews",
-      "pubDate": "Thu, 04 Sep 2025 11:03:45 GMT"
-    },
-    {
-      "title": "An AI safety pioneer says it could leave 99% of workers unemployed by 2030 \u2014 even coders and prompt engineers - Business Insider",
-      "pubDate": "Thu, 04 Sep 2025 12:00:00 GMT"
-    },
     {
       "title": "Shipping heavyweights invest in AI safety firm Captain\u2019s Eye - Splash247",
       "pubDate": "Thu, 04 Sep 2025 13:49:15 GMT"
@@ -517,10 +513,6 @@
     {
       "title": "UCR Researchers Strengthen AI Defenses Against Malicious Rewiring - BIOENGINEER.ORG",
       "pubDate": "Thu, 04 Sep 2025 20:37:05 GMT"
-    },
-    {
-      "title": "Child Safety Groups Demand Mental Health Guardrails, After California Teen\u2019s Suicide Using ChatGPT - KQED",
-      "pubDate": "Thu, 04 Sep 2025 11:00:11 GMT"
     },
     {
       "title": "[Commentary] OpenAI-Anthropic Tests Spark Alarm Warnings - Korea IT Times",
@@ -1105,6 +1097,10 @@
     {
       "title": "Oracle\u2019s sudden AI stardom is giving 1999 energy - CNN",
       "pubDate": "Thu, 11 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Navy asks Lockheed Martin for artificial intelligence (AI) to double the range of LRASM anti-ship missile - Military Aerospace",
+      "pubDate": "Thu, 11 Sep 2025 07:36:08 GMT"
     }
   ],
   "ukraine": [
@@ -1127,10 +1123,6 @@
     {
       "title": "Paris Summit: Macron, allies push security guarantees for Ukraine, eye US backing; EU prepares new Russia sanctions - Mint",
       "pubDate": "Thu, 04 Sep 2025 21:11:33 GMT"
-    },
-    {
-      "title": "Western allies look to finalise Ukraine security guarantees and win US support - BBC",
-      "pubDate": "Thu, 04 Sep 2025 11:26:07 GMT"
     },
     {
       "title": "Ukraine Supported By Broad Coalition; Trump Urges Economic Pressure On Russia - The Hill",
@@ -1487,6 +1479,10 @@
     {
       "title": "Russia\u2019s Strategy Against the West: Escalate Slowly and See if It Responds - The New York Times",
       "pubDate": "Thu, 11 Sep 2025 09:04:22 GMT"
+    },
+    {
+      "title": "IMF Sees Up to $20 Billion Hole in Ukraine Funding Through 2027 - Bloomberg.com",
+      "pubDate": "Thu, 11 Sep 2025 11:16:42 GMT"
     }
   ],
   "us_economy": [
@@ -1711,6 +1707,10 @@
     {
       "title": "Top Chinese and US Envoys\u2019 Talks Pave Way for Xi, Trump Meeting - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 02:12:00 GMT"
+    },
+    {
+      "title": "Nasa blocks Chinese nationals from working on its space programs - The Guardian",
+      "pubDate": "Thu, 11 Sep 2025 09:30:00 GMT"
     }
   ],
   "us_politics": [
@@ -2027,6 +2027,10 @@
     {
       "title": "North Korea's first female leader: Kim Jong-un's daughter, 12, rumoured to take charge amid father's health concerns - Mint",
       "pubDate": "Tue, 09 Sep 2025 09:44:25 GMT"
+    },
+    {
+      "title": "North Korea's Kim Ju Ae 'likely successor': Seoul - France 24",
+      "pubDate": "Thu, 11 Sep 2025 06:07:10 GMT"
     }
   ],
   "cybersecurity": [
@@ -3115,6 +3119,10 @@
     {
       "title": "'Serious adverse and unintended consequences': Polar geoengineering isn't the answer to climate change - Live Science",
       "pubDate": "Thu, 11 Sep 2025 10:37:40 GMT"
+    },
+    {
+      "title": "\ud83c\udf26\ufe0fIsolated showers and thunderstorms give us a glimmer of hope for rain in an otherwise warm, dry forecast - Kris - KXLY.com",
+      "pubDate": "Thu, 11 Sep 2025 01:57:00 GMT"
     }
   ],
   "world_news": [
@@ -3138,10 +3146,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "The Electric: In a Geopolitics Hack, EV Makers Use Indonesia to Obtain Chinese Batteries - The Information",
-      "pubDate": "Thu, 04 Sep 2025 11:30:00 GMT"
-    },
     {
       "title": "\u2018Empires don\u2019t collapse overnight\u2019: CA flags US decline as BRICS share hits 35% of GDP - Business Today",
       "pubDate": "Thu, 04 Sep 2025 14:52:39 GMT"
