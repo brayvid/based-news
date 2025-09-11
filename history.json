@@ -487,10 +487,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Inside Anthropic's 'Red Team'\u2014ensuring Claude is safe, and that Anthropic is heard in the corridors of power - Fortune",
-      "pubDate": "Thu, 04 Sep 2025 15:14:00 GMT"
-    },
-    {
       "title": "What do the new AI road cameras that have caught 10,000 drivers look like? - Yahoo News UK",
       "pubDate": "Thu, 04 Sep 2025 16:58:32 GMT"
     },
@@ -807,10 +803,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "FTC prepares to grill AI companies over impact on children, WSJ reports - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 15:14:22 GMT"
-    },
-    {
       "title": "Artificial Intelligence Helps Boost LIGO - Caltech",
       "pubDate": "Thu, 04 Sep 2025 18:11:15 GMT"
     },
@@ -1092,10 +1084,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "26 nations ready to take part in postwar Ukraine force, Macron says - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 15:25:55 GMT"
-    },
     {
       "title": "Trump pushes Europe to stop buying Russian oil and up pressure on China in effort to end Ukraine war - CNN",
       "pubDate": "Thu, 04 Sep 2025 18:45:00 GMT"
@@ -1711,16 +1699,8 @@
   ],
   "us_politics": [
     {
-      "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
-    },
-    {
       "title": "Trump DOJ is looking at ways to ban transgender Americans from owning guns, sources say - CNN",
       "pubDate": "Thu, 04 Sep 2025 17:27:00 GMT"
-    },
-    {
-      "title": "Trump sued over 'unconstitutional' National Guard deployment in Washington DC | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Thu, 04 Sep 2025 15:52:58 GMT"
     },
     {
       "title": "G.O.P. Senators Sharply Question Kennedy on Vaccines - The New York Times",
@@ -2031,10 +2011,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "How Effective Is Corporate Cybersecurity Training? Not Very, It Seems - The Wall Street Journal",
-      "pubDate": "Thu, 04 Sep 2025 16:00:00 GMT"
-    },
-    {
       "title": "Agencies release guidance on software for widespread cybersecurity improvement - American Hospital Association",
       "pubDate": "Thu, 04 Sep 2025 20:12:40 GMT"
     },
@@ -2171,10 +2147,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "France detains seven over new cryptocurrency kidnapping - KTBS 3",
-      "pubDate": "Thu, 04 Sep 2025 15:51:42 GMT"
-    },
-    {
       "title": "SEC Says Regulatory Clarity for Crypto Assets Is \u2018Key Priority\u2019 - PYMNTS.com",
       "pubDate": "Fri, 05 Sep 2025 01:41:15 GMT"
     },
@@ -2284,10 +2256,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum computing firm Quantinuum raises $600M at a $10B pre-money valuation - SiliconANGLE",
-      "pubDate": "Thu, 04 Sep 2025 15:45:10 GMT"
-    },
     {
       "title": "Decentralized Protocols as Strategic Investments in National Resilience: The Post-Quantum Cybersecurity Imperative - AInvest",
       "pubDate": "Fri, 05 Sep 2025 07:51:20 GMT"
@@ -2519,14 +2487,6 @@
   ],
   "gaza": [
     {
-      "title": "Gaza film The Voice of Hind Rajab gets record 23-minute ovation at Venice - BBC",
-      "pubDate": "Thu, 04 Sep 2025 15:05:54 GMT"
-    },
-    {
-      "title": "Pope Leo raises 'tragic situation in Gaza' in meeting with Israeli president - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 15:37:11 GMT"
-    },
-    {
       "title": "Pope Leo insists on 2-state solution to end Gaza war as death toll passes 64,000 - KCCI",
       "pubDate": "Thu, 04 Sep 2025 21:45:00 GMT"
     },
@@ -2631,10 +2591,6 @@
     {
       "title": "Charlotte Harbor-based estuary program hosting climate change summit - WGCU",
       "pubDate": "Thu, 04 Sep 2025 22:49:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s clean energy reversal puts Arizona solar projects worth $1.6B at risk - Tucson Sentinel",
-      "pubDate": "Thu, 04 Sep 2025 15:44:14 GMT"
     },
     {
       "title": "Climate Change Sparks Red Cross Disaster Action Team - Civic Media",
@@ -3095,6 +3051,10 @@
     {
       "title": "Researchers Warn That We Can't Engineer Our Way Out of Climate Change - yahoo.com",
       "pubDate": "Thu, 11 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "African countries push for radical change to tackle climate crisis as key summit ends - The Independent",
+      "pubDate": "Thu, 11 Sep 2025 15:31:00 GMT"
     }
   ],
   "world_news": [
@@ -3391,6 +3351,12 @@
     {
       "title": "Tests on superconducting materials for world's largest fusion energy project show reliable measurement protocol - Phys.org",
       "pubDate": "Thu, 11 Sep 2025 08:00:02 GMT"
+    }
+  ],
+  "asteroids": [
+    {
+      "title": "Deflecting a deadly asteroid just got a lot less dangerous - New Scientist",
+      "pubDate": "Thu, 11 Sep 2025 09:00:32 GMT"
     }
   ]
 }
