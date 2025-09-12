@@ -495,10 +495,6 @@
   ],
   "ai_safety": [
     {
-      "title": "US AI giant Anthropic bars Chinese-owned entities - The Straits Times",
-      "pubDate": "Fri, 05 Sep 2025 05:47:00 GMT"
-    },
-    {
       "title": "Transcript: AI Safety Expert Dr. Roman Yampolskiy on The Diary Of A CEO Podcast - The Singju Post",
       "pubDate": "Fri, 05 Sep 2025 06:26:09 GMT"
     },
@@ -737,6 +733,10 @@
     {
       "title": "Ted Cruz AI bill could let firms bribe Trump to avoid safety laws, critics warn - Ars Technica",
       "pubDate": "Thu, 11 Sep 2025 18:21:08 GMT"
+    },
+    {
+      "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others - TechCrunch",
+      "pubDate": "Thu, 11 Sep 2025 18:06:15 GMT"
     }
   ],
   "financial_markets": [
@@ -1100,10 +1100,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine moves to ban an Orthodox church it says is linked with pro-war Moscow church - WRAL.com",
-      "pubDate": "Fri, 05 Sep 2025 05:12:29 GMT"
-    },
     {
       "title": "U.S. could take lead watching Ukraine buffer zone if peace deal with Russia comes together - NBC News",
       "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
@@ -1483,6 +1479,10 @@
     {
       "title": "Russians lose internet access as Ukrainian drones hit close to home - Financial Times",
       "pubDate": "Fri, 12 Sep 2025 04:00:12 GMT"
+    },
+    {
+      "title": "NATO's first drone battle pits million-dollar jets against cheap drones, exposing vulnerabilities - AP News",
+      "pubDate": "Thu, 11 Sep 2025 20:53:00 GMT"
     }
   ],
   "us_economy": [
@@ -2389,6 +2389,10 @@
     {
       "title": "Breakthrough quantum algorithm solves a century-old math problem - Interesting Engineering",
       "pubDate": "Thu, 11 Sep 2025 12:35:00 GMT"
+    },
+    {
+      "title": "Spotlight China TuringQ secretly delivers first quantum computers to Chinese military - Intelligence Online",
+      "pubDate": "Fri, 12 Sep 2025 00:22:30 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2518,10 +2522,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "How cutting US air pollution could save 6,000 lives a year by 2030 - The Guardian",
-      "pubDate": "Fri, 05 Sep 2025 05:00:00 GMT"
-    },
     {
       "title": "Canyons under the Antarctic have deep impacts - The Week",
       "pubDate": "Fri, 05 Sep 2025 06:00:00 GMT"
@@ -3315,6 +3315,12 @@
     {
       "title": "Deflecting a deadly asteroid just got a lot less dangerous - New Scientist",
       "pubDate": "Thu, 11 Sep 2025 09:00:32 GMT"
+    }
+  ],
+  "battery_electric_vehicle": [
+    {
+      "title": "The end of range anxiety? Mercedes' solid-state battery tech just drove 749 miles without a stop - TechRadar",
+      "pubDate": "Thu, 11 Sep 2025 19:00:00 GMT"
     }
   ]
 }
