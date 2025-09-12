@@ -231,6 +231,10 @@
     {
       "title": "Rubio Will Visit Israel to Discuss Gaza War, Fight Against Hamas - Bloomberg.com",
       "pubDate": "Fri, 12 Sep 2025 13:00:01 GMT"
+    },
+    {
+      "title": "Eurovision Crisis Looms as the Netherlands, Ireland, Spain, Iceland and Slovenia Threaten Boycott if Israel Participates - Variety",
+      "pubDate": "Fri, 12 Sep 2025 12:32:00 GMT"
     }
   ],
   "donald_trump": [
@@ -333,17 +337,13 @@
     {
       "title": "Trump says his patience is 'running out' with Putin over Ukraine war - USA Today",
       "pubDate": "Fri, 12 Sep 2025 13:41:37 GMT"
+    },
+    {
+      "title": "'Don't even bother dealing with them,' Trump says of Democrats' shutdown demands - Politico",
+      "pubDate": "Fri, 12 Sep 2025 14:05:48 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Hot mic picks up Putin and Xi discussing organ transplants and immortality - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 14:59:00 GMT"
-    },
-    {
-      "title": "Why China and Russia are unlikely to move the Power of Siberia-2 pipeline forward - Atlantic Council",
-      "pubDate": "Fri, 05 Sep 2025 14:44:00 GMT"
-    },
     {
       "title": "India to continue Russian oil imports despite 50% US tariffs - The Kyiv Independent",
       "pubDate": "Sat, 06 Sep 2025 01:15:04 GMT"
@@ -495,13 +495,13 @@
     {
       "title": "Trump finally wants to put the squeeze on Russia. Now comes the hard part. - politico.eu",
       "pubDate": "Fri, 12 Sep 2025 03:25:00 GMT"
+    },
+    {
+      "title": "Russia unveils monument to Ukraine war dead outside St Petersburg - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 14:26:34 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "FACTBOX Battles over CEO pay across the globe - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 14:34:16 GMT"
-    },
     {
       "title": "Top AI watchdog puts public at risk by resisting facial recognition - AFR",
       "pubDate": "Fri, 05 Sep 2025 19:00:00 GMT"
@@ -1125,6 +1125,10 @@
     {
       "title": "Brown awarded $20 million to lead artificial intelligence research institute aimed at mental health support - The Brown Daily Herald",
       "pubDate": "Fri, 12 Sep 2025 01:45:00 GMT"
+    },
+    {
+      "title": "Tesla said xAI stands for \"eXploratory Artificial Intelligence.\" It's not clear where it got that. - Business Insider",
+      "pubDate": "Fri, 12 Sep 2025 09:10:00 GMT"
     }
   ],
   "ukraine": [
@@ -1139,10 +1143,6 @@
     {
       "title": "Analysis: Putin doubles down on Ukraine war stance after Beijing meeting - BBC",
       "pubDate": "Sat, 06 Sep 2025 00:42:54 GMT"
-    },
-    {
-      "title": "Update: Ukrainian, Slovak leaders disagree over Russian pipeline attacks at top-level meeting - The Kyiv Independent",
-      "pubDate": "Fri, 05 Sep 2025 14:46:12 GMT"
     },
     {
       "title": "Putin dismisses the idea of peacekeeping forces in Ukraine after a final peace deal - The Independent",
@@ -1593,10 +1593,6 @@
       "pubDate": "Fri, 05 Sep 2025 17:39:48 GMT"
     },
     {
-      "title": "China to conduct kinetic impact demonstration mission, testing asteroid defense feasibility: media report - Global Times",
-      "pubDate": "Fri, 05 Sep 2025 14:10:00 GMT"
-    },
-    {
       "title": "Pentagon-funded research at colleges has aided the Chinese military, a House GOP report says - AP News",
       "pubDate": "Fri, 05 Sep 2025 22:05:00 GMT"
     },
@@ -1754,10 +1750,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Weak August payrolls confirm Federal Reserve\u2019s September cut - Financial Times",
-      "pubDate": "Fri, 05 Sep 2025 14:00:59 GMT"
-    },
     {
       "title": "Revamped congressional stock ban draws even larger House coalition - The Center Square",
       "pubDate": "Fri, 05 Sep 2025 16:35:00 GMT"
@@ -2113,6 +2105,10 @@
     {
       "title": "New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit - The Hacker News",
       "pubDate": "Fri, 12 Sep 2025 11:50:00 GMT"
+    },
+    {
+      "title": "CISA official calls on lawmakers to extend cyber info-sharing law - The Record from Recorded Future News",
+      "pubDate": "Fri, 12 Sep 2025 13:52:39 GMT"
     }
   ],
   "federal_reserve": [
@@ -2149,6 +2145,10 @@
     {
       "title": "World Earthquake Report for Friday, 12 September 2025 - Volcano Discovery",
       "pubDate": "Fri, 12 Sep 2025 08:37:30 GMT"
+    },
+    {
+      "title": "2.2 magnitude earthquake registered near Julian, CA on Sept. 12 - Sacramento Bee",
+      "pubDate": "Fri, 12 Sep 2025 14:37:01 GMT"
     }
   ],
   "renewable_energy": [
@@ -3035,6 +3035,10 @@
     {
       "title": "How we made it: carbon removals fall short - Financial Times",
       "pubDate": "Fri, 12 Sep 2025 13:20:26 GMT"
+    },
+    {
+      "title": "Wealth and power shape the climate emergency \u2013 the most important tool we have to defend ourselves is the facts - The Guardian",
+      "pubDate": "Fri, 12 Sep 2025 11:02:00 GMT"
     }
   ],
   "world_news": [
@@ -3104,10 +3108,6 @@
     }
   ],
   "technology": [
-    {
-      "title": "OpenAI has teamed up with Broadcom to make its own AI processors, according to a report, possibly as part of a long-term plan to move away from Nvidia's GPUs - PC Gamer",
-      "pubDate": "Fri, 05 Sep 2025 14:23:39 GMT"
-    },
     {
       "title": "New \u2018benevolent hacking\u2019 method could prevent AI models from giving rogue prompts - Interesting Engineering",
       "pubDate": "Sun, 07 Sep 2025 10:34:00 GMT"
@@ -3200,10 +3200,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "WHO declares end of global emergency over mpox outbreak - statnews.com",
-      "pubDate": "Fri, 05 Sep 2025 14:25:20 GMT"
-    },
     {
       "title": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says - ABC News",
       "pubDate": "Thu, 11 Sep 2025 16:52:04 GMT"
