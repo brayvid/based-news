@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "AP reporting calls into question why and how Israel attacked a Gaza hospital - AP News",
-      "pubDate": "Fri, 05 Sep 2025 20:18:00 GMT"
-    },
-    {
       "title": "There are only two ways to get a breakthrough in Israel - and stop Netanyahu destroying Gaza - The Independent",
       "pubDate": "Sat, 06 Sep 2025 09:46:00 GMT"
     },
@@ -247,6 +243,10 @@
     {
       "title": "UN overwhelmingly endorses two-state solution declaration that condemns Hamas - Reuters",
       "pubDate": "Fri, 12 Sep 2025 18:52:47 GMT"
+    },
+    {
+      "title": "Israel\u2019s Gaza Disengagement Worked Far Too Well - Foreign Policy",
+      "pubDate": "Fri, 12 Sep 2025 11:57:57 GMT"
     }
   ],
   "donald_trump": [
@@ -515,16 +515,16 @@
     {
       "title": "Oil jumps nearly 2% after drones strike Russian terminal - Reuters",
       "pubDate": "Fri, 12 Sep 2025 13:38:58 GMT"
+    },
+    {
+      "title": "Russian drones force Europe to defend itself after Putin \u2018put down a marker\u2019 to NATO - AP News",
+      "pubDate": "Fri, 12 Sep 2025 17:54:00 GMT"
     }
   ],
   "ai_safety": [
     {
       "title": "OpenAI reorg at risk as Attorneys General push AI safety - theregister.com",
       "pubDate": "Fri, 05 Sep 2025 23:18:00 GMT"
-    },
-    {
-      "title": "Attorneys general warn OpenAI and other tech companies to improve chatbot safety - WHYY",
-      "pubDate": "Fri, 05 Sep 2025 20:31:17 GMT"
     },
     {
       "title": "AI Companion App Dot Shuts Down Amid Safety Concerns - Startup Ecosystem Canada",
@@ -765,13 +765,13 @@
     {
       "title": "Between Safe and Secure: What Next for India\u2019s AI Safety Institute? - orfonline.org",
       "pubDate": "Fri, 12 Sep 2025 11:44:52 GMT"
+    },
+    {
+      "title": "Ohio launches new artificial intelligence public safety reporting app - The Center Square",
+      "pubDate": "Fri, 12 Sep 2025 15:20:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock Market on Sept. 5, 2025: Dow, S&P 500 and Nasdaq end lower after U.S. jobs report came in weaker than expected; bond yields tumble, dollar drops - MarketWatch",
-      "pubDate": "Fri, 05 Sep 2025 21:00:00 GMT"
-    },
     {
       "title": "Stock Market Today: Stocks dip after massive August payrolls miss - TheStreet",
       "pubDate": "Fri, 05 Sep 2025 23:45:53 GMT"
@@ -839,13 +839,13 @@
     {
       "title": "Nasdaq hits record, S&P 500 heads for winning week as Fed decision looms: Live updates - CNBC",
       "pubDate": "Fri, 12 Sep 2025 18:40:00 GMT"
+    },
+    {
+      "title": "Stock Market Today: Dow Slips on Weakening Consumer Sentiment Data; Gemini in Focus \u2014 Live Updates - The Wall Street Journal",
+      "pubDate": "Fri, 12 Sep 2025 20:19:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Melania Trump Says Children Must Be Prepared For Artificial Intelligence: 'The Robots Are Here' - HuffPost",
-      "pubDate": "Fri, 05 Sep 2025 20:34:59 GMT"
-    },
     {
       "title": "91% of Jensen Huang's $4.3 Billion Stock Portfolio at Nvidia Is Invested in Just 1 Artificial Intelligence (AI) Infrastructure Stock - Nasdaq",
       "pubDate": "Fri, 05 Sep 2025 21:15:00 GMT"
@@ -1993,6 +1993,10 @@
     {
       "title": "Raskin Says Dems Must Use Funding Fight to Stop Trump\u2019s Lawbreaking - The New Republic",
       "pubDate": "Fri, 12 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "After Charlie Kirk assassination, Wisconsin Rep. Derrick Van Orden fans the flames - Wisconsin Examiner",
+      "pubDate": "Fri, 12 Sep 2025 10:04:25 GMT"
     }
   ],
   "north_korea": [
@@ -2022,10 +2026,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Qantas trims CEO\u2019s bonus following July cybersecurity incident - SC Media",
-      "pubDate": "Fri, 05 Sep 2025 20:36:02 GMT"
-    },
     {
       "title": "iCloud Calendar invites are being abused to send callback phishing emails disguised as purchase notifications directly from Apple's email servers, making them more likely to bypass spam filters to land in targets' inboxes. [...] #Security - LinkedIn",
       "pubDate": "Sun, 07 Sep 2025 17:13:39 GMT"
@@ -2094,10 +2094,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Hidden Ocean Fault Near Portugal May Trigger Earthquakes - Colombia One",
-      "pubDate": "Fri, 05 Sep 2025 20:38:02 GMT"
-    },
     {
       "title": "Afghan medics struggle to cope as three earthquakes hit in six days - MSN",
       "pubDate": "Sat, 06 Sep 2025 09:34:05 GMT"
@@ -2395,6 +2391,10 @@
     {
       "title": "Global Photonic Quantum Computing Market Report 2026-2036: PsiQuantum, Xanadu, ORCA Computing, Quandela Among Leaders in Photonic Quantum Computing Market - ResearchAndMarkets.com - Business Wire",
       "pubDate": "Fri, 12 Sep 2025 14:49:00 GMT"
+    },
+    {
+      "title": "Quantum Computing Stocks: IonQ Touts Acquisition Strategy At Analyst Day - Investor's Business Daily",
+      "pubDate": "Fri, 12 Sep 2025 14:54:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2525,16 +2525,8 @@
   ],
   "climate_change": [
     {
-      "title": "Florida\u2019s fix for its struggling insurance market hurt homeowners, data shows - The Washington Post",
-      "pubDate": "Fri, 05 Sep 2025 20:32:08 GMT"
-    },
-    {
       "title": "Oceans could reach a dangerous tipping point by 2050 - ScienceDaily",
       "pubDate": "Fri, 05 Sep 2025 23:02:12 GMT"
-    },
-    {
-      "title": "Even the toughest corals are shrinking in warming seas - ScienceDaily",
-      "pubDate": "Fri, 05 Sep 2025 20:19:29 GMT"
     },
     {
       "title": "Scientists Discover Mysterious Freshwater Reservoir Beneath the Ocean Floor. How Did It Get There? - SciTechDaily",
@@ -2999,6 +2991,10 @@
     {
       "title": "Vote on 2040 climate target canceled after big EU countries block decision - politico.eu",
       "pubDate": "Fri, 12 Sep 2025 14:55:00 GMT"
+    },
+    {
+      "title": "EPA proposes to ax requirement for companies to report their planet-warming emissions - The Hill",
+      "pubDate": "Fri, 12 Sep 2025 20:21:00 GMT"
     }
   ],
   "world_news": [
