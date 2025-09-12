@@ -243,6 +243,10 @@
     {
       "title": "UN General Assembly backs two-state push for Israel and Palestine - Al Jazeera",
       "pubDate": "Fri, 12 Sep 2025 17:21:50 GMT"
+    },
+    {
+      "title": "UN overwhelmingly endorses two-state solution declaration that condemns Hamas - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 18:52:47 GMT"
     }
   ],
   "donald_trump": [
@@ -523,16 +527,8 @@
       "pubDate": "Fri, 05 Sep 2025 20:31:17 GMT"
     },
     {
-      "title": "Google Gemini dubbed \u2018high risk\u2019 for kids and teens in new safety assessment - TechCrunch",
-      "pubDate": "Fri, 05 Sep 2025 19:09:12 GMT"
-    },
-    {
       "title": "AI Companion App Dot Shuts Down Amid Safety Concerns - Startup Ecosystem Canada",
       "pubDate": "Sat, 06 Sep 2025 02:08:37 GMT"
-    },
-    {
-      "title": "The Amazon executive overseeing its upcoming AI agent service is stepping down - Business Insider",
-      "pubDate": "Fri, 05 Sep 2025 19:49:00 GMT"
     },
     {
       "title": "Will humans survive the AI era? Computer scientist warns superintelligence could be the 'last invention we - The Economic Times",
@@ -1117,13 +1113,13 @@
     {
       "title": "Duke's chief nurse exec sees pros and cons for AI in nursing - Healthcare IT News",
       "pubDate": "Fri, 12 Sep 2025 16:10:00 GMT"
+    },
+    {
+      "title": "VaultGemma: The world's most capable differentially private LLM - Google Research",
+      "pubDate": "Fri, 12 Sep 2025 16:04:27 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine vs France: UEFA World Cup Qualifiers stats & head-to-head - BBC",
-      "pubDate": "Fri, 05 Sep 2025 19:57:28 GMT"
-    },
     {
       "title": "Zelenskyy rejects Putin invitation: 'He can come to Kyiv' - ABC News",
       "pubDate": "Fri, 05 Sep 2025 22:18:45 GMT"
@@ -1507,13 +1503,13 @@
     {
       "title": "Ukrainian Drone Strike Kills Woman in Belgorod as Russia Claims Kyiv Targeted Nuclear Plant - The Moscow Times",
       "pubDate": "Fri, 12 Sep 2025 09:35:00 GMT"
+    },
+    {
+      "title": "Zelenskiy says many details on paper on Ukraine security guarantees - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 19:52:56 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "U.S. hiring stalls, with employers reluctant to expand in an increasingly erratic economy - Los Angeles Times",
-      "pubDate": "Fri, 05 Sep 2025 19:09:00 GMT"
-    },
     {
       "title": "Stocks Fade on Economic Concerns after Weak US Unemployment Report - Nasdaq",
       "pubDate": "Sat, 06 Sep 2025 20:20:00 GMT"
@@ -1726,10 +1722,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Oregon state Rep. Cyrus Javadi switches political teams, registers as a Democrat - Oregon Public Broadcasting - OPB",
-      "pubDate": "Fri, 05 Sep 2025 19:13:02 GMT"
-    },
     {
       "title": "Trump expresses reservations over Florida eliminating vaccine mandates: \u2018We have to be very careful\u2019 - The Hill",
       "pubDate": "Fri, 05 Sep 2025 22:06:00 GMT"
@@ -1997,6 +1989,10 @@
     {
       "title": "Trump doubles down on blaming 'radical left' after vow to go after political violence - ABC News",
       "pubDate": "Fri, 12 Sep 2025 17:48:45 GMT"
+    },
+    {
+      "title": "Raskin Says Dems Must Use Funding Fight to Stop Trump\u2019s Lawbreaking - The New Republic",
+      "pubDate": "Fri, 12 Sep 2025 10:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -2029,10 +2025,6 @@
     {
       "title": "Qantas trims CEO\u2019s bonus following July cybersecurity incident - SC Media",
       "pubDate": "Fri, 05 Sep 2025 20:36:02 GMT"
-    },
-    {
-      "title": "CISA Delays Cyber Incident Reporting Rule for Critical Infrastructure - Inside Privacy",
-      "pubDate": "Fri, 05 Sep 2025 19:36:29 GMT"
     },
     {
       "title": "iCloud Calendar invites are being abused to send callback phishing emails disguised as purchase notifications directly from Apple's email servers, making them more likely to bypass spam filters to land in targets' inboxes. [...] #Security - LinkedIn",
@@ -2085,6 +2077,10 @@
     {
       "title": "CISA official calls on lawmakers to extend cyber info-sharing law - The Record from Recorded Future News",
       "pubDate": "Fri, 12 Sep 2025 13:52:39 GMT"
+    },
+    {
+      "title": "Pentagon to roll out \u2018new RMF\u2019 by end of November - Federal News Network",
+      "pubDate": "Fri, 12 Sep 2025 18:50:51 GMT"
     }
   ],
   "federal_reserve": [
@@ -2154,10 +2150,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "U.S. Bank resumes crypto custody for institutional money managers, including bitcoin ETFs - Pensions & Investments",
-      "pubDate": "Fri, 05 Sep 2025 19:52:30 GMT"
-    },
     {
       "title": "Sell Everything Before October: The Crypto Market Crash Is Imminent - Cointribune",
       "pubDate": "Sun, 07 Sep 2025 17:05:00 GMT"
@@ -2232,10 +2224,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "U.S., Japan, S. Korea officials meet for quantum computing summit - upi.com",
-      "pubDate": "Fri, 05 Sep 2025 19:53:59 GMT"
-    },
     {
       "title": "University of Chicago and Partners Receive $4 Million NSF Grant for Quantum Supercomputer Initiative - Quantum Computing Report",
       "pubDate": "Sat, 06 Sep 2025 04:48:05 GMT"
@@ -3007,6 +2995,10 @@
     {
       "title": "Climate change threatens the ocean\u2019s most vital microbes - Earth.com",
       "pubDate": "Fri, 12 Sep 2025 12:59:28 GMT"
+    },
+    {
+      "title": "Vote on 2040 climate target canceled after big EU countries block decision - politico.eu",
+      "pubDate": "Fri, 12 Sep 2025 14:55:00 GMT"
     }
   ],
   "world_news": [
@@ -3309,6 +3301,12 @@
     {
       "title": "The end of range anxiety? Mercedes' solid-state battery tech just drove 749 miles without a stop - TechRadar",
       "pubDate": "Thu, 11 Sep 2025 19:00:00 GMT"
+    }
+  ],
+  "economic": [
+    {
+      "title": "China caught in policy dilemma as Fed rate cut looms - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 13:52:09 GMT"
     }
   ]
 }
