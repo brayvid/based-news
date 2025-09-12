@@ -231,10 +231,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Hats on hats: How the Trump administration is loading officials with jobs - NPR",
-      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Three ways Epstein scandal could go for Trump - BBC",
       "pubDate": "Fri, 05 Sep 2025 17:27:51 GMT"
     },
@@ -332,10 +328,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Kremlin says Putin and Trump could meet again soon - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 09:07:33 GMT"
-    },
     {
       "title": "Russia's Putin denies economy is stagnating, as evidence suggests otherwise - Reuters",
       "pubDate": "Fri, 05 Sep 2025 12:54:18 GMT"
@@ -737,6 +729,10 @@
     {
       "title": "Top 10 Jobs Safe From Generative AI, According To Microsoft Study - News18",
       "pubDate": "Fri, 12 Sep 2025 07:15:17 GMT"
+    },
+    {
+      "title": "Building a Safer AI Future Through Guardrails and Human Oversight - Hunt Scanlon Media",
+      "pubDate": "Fri, 12 Sep 2025 09:08:23 GMT"
     }
   ],
   "financial_markets": [
@@ -814,10 +810,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Large Language Models Can Execute Complete Ransomware Attacks Autonomously, NYU Tandon Research Shows | Newswise - Newswise",
-      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "OpenAI Chair\u2019s Conversational AI Startup Raises $350 Million - PYMNTS.com",
       "pubDate": "Fri, 05 Sep 2025 16:24:01 GMT"
@@ -1108,14 +1100,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "U.S. could take lead watching Ukraine buffer zone if peace deal with Russia comes together - NBC News",
-      "pubDate": "Fri, 05 Sep 2025 09:00:00 GMT"
-    },
-    {
-      "title": "How Ukraine is responding to support from European leaders - NPR",
-      "pubDate": "Fri, 05 Sep 2025 09:09:27 GMT"
-    },
     {
       "title": "Zelensky Locks Horns With Putin\u2019s Friend Xi? Ukrainian Firm To Help Taiwan Build Combat Drones - Times of India",
       "pubDate": "Fri, 05 Sep 2025 12:16:16 GMT"
@@ -1499,6 +1483,10 @@
     {
       "title": "Ukraine cracks global hacking ring behind billions in damages \u2014 FBI offers USD 10M for leader - Ukrinform",
       "pubDate": "Thu, 11 Sep 2025 23:25:00 GMT"
+    },
+    {
+      "title": "Ukrainian Drones Attack Russia\u2019s Key Oil Port Primorsk Overnight - Bloomberg",
+      "pubDate": "Fri, 12 Sep 2025 06:02:00 GMT"
     }
   ],
   "us_economy": [
@@ -1734,10 +1722,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Democrats return to Trump's Washington after getting an earful of 'do something' at home - NBC News",
-      "pubDate": "Fri, 05 Sep 2025 09:00:42 GMT"
-    },
     {
       "title": "Chicago gears up for Trump\u2019s federal law enforcement deployment: \u2018We aren\u2019t helpless\u2019 - The Guardian",
       "pubDate": "Fri, 05 Sep 2025 13:41:00 GMT"
@@ -2001,13 +1985,13 @@
     {
       "title": "Trump news at a glance: president says his supporters should respond peacefully to Charlie Kirk killing - The Guardian",
       "pubDate": "Fri, 12 Sep 2025 00:39:25 GMT"
+    },
+    {
+      "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
+      "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
     }
   ],
   "north_korea": [
-    {
-      "title": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart - The New York Times",
-      "pubDate": "Fri, 05 Sep 2025 09:00:22 GMT"
-    },
     {
       "title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
       "pubDate": "Sat, 06 Sep 2025 02:42:20 GMT"
@@ -2152,10 +2136,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Bitcoin analysts see a \u2018massive\u2019 move as BTC price regains $112K - Cointelegraph",
-      "pubDate": "Fri, 05 Sep 2025 09:50:04 GMT"
-    },
     {
       "title": "U.S. Bank resumes crypto custody for institutional money managers, including bitcoin ETFs - Pensions & Investments",
       "pubDate": "Fri, 05 Sep 2025 19:52:30 GMT"
@@ -2547,10 +2527,6 @@
   ],
   "climate_change": [
     {
-      "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
-      "pubDate": "Fri, 05 Sep 2025 09:01:54 GMT"
-    },
-    {
       "title": "Climate change turns Pakistan\u2019s summer oases into deadly flood zones - The Washington Post",
       "pubDate": "Fri, 05 Sep 2025 10:31:53 GMT"
     },
@@ -2561,10 +2537,6 @@
     {
       "title": "At Burning Man, the Weather Can Feel Biblical. Will Climate Change Make It Even Worse? - KQED",
       "pubDate": "Fri, 05 Sep 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Hannah Ritchie has a new book about tackling climate change coming out on September 18th - Our World in Data",
-      "pubDate": "Fri, 05 Sep 2025 09:51:10 GMT"
     },
     {
       "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
@@ -3025,6 +2997,10 @@
     {
       "title": "Mega-Dryness Spreads Throughout Northern Hemisphere - CounterPunch.org",
       "pubDate": "Fri, 12 Sep 2025 06:12:10 GMT"
+    },
+    {
+      "title": "Countries split over COP30 response to weak climate plans - Climate Home News",
+      "pubDate": "Fri, 12 Sep 2025 09:26:37 GMT"
     }
   ],
   "world_news": [
@@ -3039,12 +3015,6 @@
     {
       "title": "Americans mark the 24th anniversary of the 9/11 attacks with emotional ceremonies - AP News",
       "pubDate": "Thu, 11 Sep 2025 16:18:00 GMT"
-    }
-  ],
-  "spacex": [
-    {
-      "title": "FAA: Starship launches, landings from KSC could delay Florida airline flights up to 2 hours - Florida Today",
-      "pubDate": "Fri, 05 Sep 2025 09:06:45 GMT"
     }
   ],
   "geopolitics": [
