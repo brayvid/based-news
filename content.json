@@ -2,41 +2,71 @@
   "AI Safety": {
     "articles": [
       {
-        "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzBCSk1GT1J5bVhaYmhydEtjRndZOWJkMnBTNHNQRkVnelAzcVVNdTB2Q2JYblQ4djdhcHJCM21fd3pmUHR2LXZNMlpneHZXM0dpYVk5eTlsSzRmY0w0LXVmNGFjdWxrR3hfSDFIZ1h4bzFHZHMxZEViaHVTZjF6Z3VmX1lMZVBwS2VVdGliR2NieGRQYWk4X2FmdnlEZkxubEluVzdSR3BkVFNrWEhJ?oc=5",
-        "pubDate": "Thu, 11 Sep 2025 18:06:15 GMT"
+        "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0pJeXpZenU5MzJleE5QTC1OeWozd2xIN2lIS3ZldnRfTFBvNGgxRnp6N1VQdElsUThIdzljNF83WExVb2NXeEN1T05aYVRjV2k4RDJqaUtreFNaOXRldnlDSC1hX29ISVRwMG9WOXd6ZFdBcHlBcGJYekc5VzlGeXUzbkJuWEgzLUhkNHpWRXVCREZoYzV5WlV3SWRlOFh6RWZrUFNEcnlnd3YyS2RUd2V2bkJEb0ljeFBNRUFLWF9SaEd1N3ZyWGJ4SHhQajBRaTFMeEs3RXFHaEE?oc=5",
+        "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-12T05:59:47.046108+00:00"
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Clearing the Air by Hannah Ritchie review \u2013 practical climate optimism - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3Fvai0tREhzVWV4YkE0TFhoRmlUOEJrQzdxWENmSndCc283TzFDdHdXaUdCWnVoU1VFdVVFWUhvVHRVb2JBVk5aUnRqZ0xVWUozWE1uQVJsUXZtWW9UV1RLRkxObU0zVUc5OGlRX3FLT19uM1NFV2VUM0xrdnJiZkV2dXI4ZHRjUHhpZVp3YXc3TzQycU5vOGJlNXl6aWhBUi16U05aRVUwdmVXR204YUJUYmo?oc=5",
+        "pubDate": "Fri, 12 Sep 2025 06:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "NATO's first drone battle pits million-dollar jets against cheap drones, exposing vulnerabilities - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzVXcXlZazlFcktyS2J6d05lc0VEZnZoX3BNcXViWl9GVWxrNzE2OFJIa19VSmEzUkh0dEVzcDdka2xLSTg1T2tzQzg5ZEhuNTJNY0hFcHhrbThDdGxuWkdzcVc1WU9oN2s0QThLRHExLW5fQ1JkUXRzY3l0Mjh1TTZvSU5rVGp0MmNOYkVwdDFsTVp2YU03bHNTbmpIV0hXdTVLS1lkTzRhMnJxalg4Qg?oc=5",
-        "pubDate": "Thu, 11 Sep 2025 20:53:00 GMT"
+        "title": "Who is in Nato and what are Article 4 and Article 5? - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aY1RSazNpaHh2R2c1NngtbHgxeXEteDQzQ2dhN2Y3b1lCemdjRnNOV0g1V1NQMExIY19ON2VNakZlV0R5RktPcjB0eUw1ZDRwVUVORlNubV9EZ9IBX0FVX3lxTE1GTWFlN2cwc1JUUE90Y2Y2YTFHSXl5bWRfWklqTllvZWFGQ1pHSURmLW5hWGs3QjhScHh3Q01yX3l4YVFxcFNFNlpYOEIyM0FOa1ZHaGlXVlBabEZqcFEw?oc=5",
+        "pubDate": "Fri, 12 Sep 2025 04:36:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-12T05:59:47.046108+00:00"
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
   },
-  "Quantum Computing": {
+  "Russia": {
     "articles": [
       {
-        "title": "Spotlight China TuringQ secretly delivers first quantum computers to Chinese military - Intelligence Online",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUThhNXZIamNhMHVyVHYtMXNmb25PWldURkMxbldoM2hYZmV4UWZfYS1lT3g5eG9Ud2s3ZW9IME5EYTZJZUdYV0Frb1NkZUdaWGxVUVB2UW5oMUpkMDVlak9LYlhrOW9pM2dFZko0SzM5Z01SNDJQLU96MXR0SGRCMGx6WmxaVjdZVjI0aXdXNTNySV9zNkdNQnRiVHZZR3hGLUFEb2RyMDBNUUprVHc5RGY0ZEtQWUg4ekdscjA1TVhGd2FmT1QzQ0lxS0l6TGpXRnZPaUktYW41b0duOXNkYVBaUHBsa0QwMXRPTg?oc=5",
-        "pubDate": "Fri, 12 Sep 2025 00:22:30 GMT"
+        "title": "Russian booksellers face legal minefield over new 'foreign agent' rules - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUxCNXZiT1ZycEk1U0h4UndMY1hDamFzVTMyamdtYlpYbURNV3JHV3Y4U05zN1hVNVp6blJSVGpIbDd4aFU5Q1JRNU53TGhya1cyRUZ5MmFYMTZWY1F4cDVMbnNfQkZHMFBFdUNWYVJEejBtVF9fcUdjSGYyTkhKN0VTSEp2Y19MVHgxN2lKcUdfUTBwVnAwZzRMZ0NVQ09KTGZpNTY5MUdNNXA4XzdDMElERVZTMnUzV3c?oc=5",
+        "pubDate": "Fri, 12 Sep 2025 06:04:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-12T05:59:47.046108+00:00"
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
   },
-  "Battery Electric Vehicle": {
+  "China": {
     "articles": [
       {
-        "title": "The end of range anxiety? Mercedes' solid-state battery tech just drove 749 miles without a stop - TechRadar",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTFhONEdvNXQtV0gySG1sMXBYaGEwaXdZWmt1ZDBxZWYwd0phV3VUUjFzUGRzU3MwWXR1WjhpVzRXNHl0RE1JMVZwcnRXSUFral9KbWlkS245YTVFSjBqX0hEV3VQSG90RjlabnFIZWEzU01zS2NKMl95ME9nVVFtWWVNcVVYZ0R0Q3p2Tkt3MGNSVkNNZXlFOE5Lb1FHcFFWSmdiVE1qbVlySGhJOHZZU1FKLU5GMVFDTlljR1Jma0poQ1NsWll4UHdvdEFGU0FFLW1SR2ljMEVsVHFoa1ZXaHlmTl9RTGw3OEo4a1lnNA?oc=5",
-        "pubDate": "Thu, 11 Sep 2025 19:00:00 GMT"
+        "title": "China, India, and North Korea back Russia as changing global order takes shape - Atlantic Council",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjFDcENvMWZOUE0zSGJBM0JtUC1pOERyM1RzTmdQWnhneXBncnV0WVM3clp4M0hhWm9YTWFLTnJqWGUyNU9MVk0tRDNoRnRlcks4S3ZZQjFFcXpGTGQxWC1xZTZYblItVDRMZXBMYzlMTm90UFJXemcxVTBHck5WcHdUXzBUOU1xMW90bUZVclIwbW5MR1dPZ1gtd0czSkZ2bXViX29GSmlVLWIzSnZOUE54ZTNMencyMzcxU1FUMzE4VWpHOGlz?oc=5",
+        "pubDate": "Thu, 11 Sep 2025 21:19:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-12T05:59:47.046108+00:00"
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Why the U.S. is experiencing heightened political violence - PBS",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWFJdkhPTzc4eUhXMHVKSDNXdU1qZTdQSDNoYUtSZzFXOGcyeWZlT1dKdm81UWFTX1E3dnUzcVAxQi1oMkRld1hsUGZMcW1UYUc1ak8zLXNoQkpWMHI5by1NeHJVLVpYZ21ObDdVUW1fQ2gzcVhLaGxoS0EyNms2X0hwQTlzakhDZGZjdGFjeHpqVVh4S3fSAZsBQVVfeXFMUDhVNTdSNDVCNWlTZTI0Q0pZUU9rMV9YMEJYbHNIWmhDT2gwQW54R3YzRGR1cGZuY3JnV1ZESXJ1VFRIQ3hhRElJZEdfNGpKbmtRYkFaazRiV09VQkdZUjg2Q2hLN1J3cDlEbi1OY01kdEFXWnZXc1V3bW84QjRRQWtGc2FPWGtiSHluSU9oSXROSHhCeEt3WFpHRVE?oc=5",
+        "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "Asian shares track Wall Street rallies as a US interest rate cut next week looks more certain - KTVN",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeVVfcmYwejR1OEFmRkxXcC1mWHp0TGFyMm1TMEJSZmY2eDhUYV9TN1VZb29URVBycWtWVWtvX3BlcVVsNGtJUFg0X0lMWURzUHBpYkpqMFZ3bzRnWXJMR3N3ODRNS09SNEJ6ZnpIYVFBLW0xbUJaZ1R2UGk5MXhzejJ3bGNDbC00QW9hV2xSdFhSTHhSQ1BNVHlacDg2bDE0Q2ZhcVhOZVRDdDdBQmlZUlhOeG4xR2h5VzlOQnFqWkpUX093d2hFdG9Wa0FVZEhqRGtwQUFVNWUyeWxMbEhqbUVkQWFwOU1sWEZMbUpVVDRRVThYVkpHUk5B?oc=5",
+        "pubDate": "Fri, 12 Sep 2025 05:34:53 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-12T06:59:28.716724+00:00"
   }
 }

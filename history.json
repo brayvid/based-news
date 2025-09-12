@@ -333,14 +333,6 @@
   ],
   "russia": [
     {
-      "title": "Putin says planned gas pipeline to China will be mutually beneficial, use market price formula - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 06:29:00 GMT"
-    },
-    {
-      "title": "South Africa Seeks Delay of Russia-China War Games During G-20 - Bloomberg.com",
-      "pubDate": "Fri, 05 Sep 2025 06:07:00 GMT"
-    },
-    {
       "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
       "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
     },
@@ -491,13 +483,13 @@
     {
       "title": "Russia in recession, rouble crashes \u2013 Kremlin insists situation \"stable\" - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Thu, 11 Sep 2025 16:20:13 GMT"
+    },
+    {
+      "title": "Russian booksellers face legal minefield over new 'foreign agent' rules - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 06:04:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Transcript: AI Safety Expert Dr. Roman Yampolskiy on The Diary Of A CEO Podcast - The Singju Post",
-      "pubDate": "Fri, 05 Sep 2025 06:26:09 GMT"
-    },
     {
       "title": "AI\u2019s double threat: 99% job loss and doom to humanity - Windows Central",
       "pubDate": "Fri, 05 Sep 2025 11:21:00 GMT"
@@ -737,6 +729,10 @@
     {
       "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others - TechCrunch",
       "pubDate": "Thu, 11 Sep 2025 18:06:15 GMT"
+    },
+    {
+      "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
+      "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
     }
   ],
   "financial_markets": [
@@ -807,6 +803,10 @@
     {
       "title": "August in capital markets: Prediction markets, regulator tech upgrades - The Real Economy Blog",
       "pubDate": "Thu, 11 Sep 2025 18:04:04 GMT"
+    },
+    {
+      "title": "Asian shares track Wall Street rallies as a US interest rate cut next week looks more certain - KTVN",
+      "pubDate": "Fri, 12 Sep 2025 05:34:53 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1483,6 +1483,10 @@
     {
       "title": "NATO's first drone battle pits million-dollar jets against cheap drones, exposing vulnerabilities - AP News",
       "pubDate": "Thu, 11 Sep 2025 20:53:00 GMT"
+    },
+    {
+      "title": "Who is in Nato and what are Article 4 and Article 5? - BBC",
+      "pubDate": "Fri, 12 Sep 2025 04:36:32 GMT"
     }
   ],
   "us_economy": [
@@ -1557,16 +1561,8 @@
   ],
   "china": [
     {
-      "title": "'Salt Typhoon' attack: How China hackers may have accessed sensitive US data; tapped into power grids - Times of India",
-      "pubDate": "Fri, 05 Sep 2025 06:25:00 GMT"
-    },
-    {
       "title": "China Imposes Temporary Duties on EU Pork Following Probe - Bloomberg",
       "pubDate": "Fri, 05 Sep 2025 08:59:21 GMT"
-    },
-    {
-      "title": "Diplomatic tour de force: China's Xi shows he's 'totally in charge' - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 06:16:00 GMT"
     },
     {
       "title": "Pentagon plan prioritizes homeland over China threat - Politico",
@@ -1715,6 +1711,10 @@
     {
       "title": "China pilots village surveillance in Solomon Islands, seeks stability - Reuters",
       "pubDate": "Thu, 11 Sep 2025 22:50:38 GMT"
+    },
+    {
+      "title": "China, India, and North Korea back Russia as changing global order takes shape - Atlantic Council",
+      "pubDate": "Thu, 11 Sep 2025 21:19:00 GMT"
     }
   ],
   "us_politics": [
@@ -1973,6 +1973,10 @@
     {
       "title": "'A critical moment to stop the tinderbox from exploding': political violence expert on Charlie Kirk shooting - CNN",
       "pubDate": "Thu, 11 Sep 2025 23:37:31 GMT"
+    },
+    {
+      "title": "Why the U.S. is experiencing heightened political violence - PBS",
+      "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
     }
   ],
   "north_korea": [
@@ -2158,10 +2162,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Chess.com Confirms Data Breach Granting Hackers Internal Access - cyberpress.org",
-      "pubDate": "Fri, 05 Sep 2025 06:08:29 GMT"
-    },
     {
       "title": "Wealthsimple says some SINs accessed in \u2018data security incident\u2019 - Global News",
       "pubDate": "Fri, 05 Sep 2025 17:26:41 GMT"
@@ -2523,14 +2523,6 @@
   ],
   "climate_change": [
     {
-      "title": "Canyons under the Antarctic have deep impacts - The Week",
-      "pubDate": "Fri, 05 Sep 2025 06:00:00 GMT"
-    },
-    {
-      "title": "Climate-change-driven wildfires increasing air pollution across globe: UN - Al Jazeera",
-      "pubDate": "Fri, 05 Sep 2025 06:57:07 GMT"
-    },
-    {
       "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 09:01:54 GMT"
     },
@@ -2549,10 +2541,6 @@
     {
       "title": "Hannah Ritchie has a new book about tackling climate change coming out on September 18th - Our World in Data",
       "pubDate": "Fri, 05 Sep 2025 09:51:10 GMT"
-    },
-    {
-      "title": "Powerful rain and floods devastate northern India as experts blame climate change - NBC News",
-      "pubDate": "Fri, 05 Sep 2025 06:54:00 GMT"
     },
     {
       "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
@@ -3001,6 +2989,10 @@
     {
       "title": "August 2025: Earth\u2019s 3rd-hottest August on record - Yale Climate Connections",
       "pubDate": "Thu, 11 Sep 2025 16:48:32 GMT"
+    },
+    {
+      "title": "Clearing the Air by Hannah Ritchie review \u2013 practical climate optimism - The Guardian",
+      "pubDate": "Fri, 12 Sep 2025 06:00:00 GMT"
     }
   ],
   "world_news": [
