@@ -333,10 +333,6 @@
   ],
   "russia": [
     {
-      "title": "Russia's Putin denies economy is stagnating, as evidence suggests otherwise - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 12:54:18 GMT"
-    },
-    {
       "title": "Hot mic picks up Putin and Xi discussing organ transplants and immortality - Reuters",
       "pubDate": "Fri, 05 Sep 2025 14:59:00 GMT"
     },
@@ -487,6 +483,10 @@
     {
       "title": "Russia Cuts Key Rate to 17% Defying Calls for Quicker Easing - Bloomberg",
       "pubDate": "Fri, 12 Sep 2025 10:35:36 GMT"
+    },
+    {
+      "title": "Investigating reports of mass drone attack against Russia - BBC",
+      "pubDate": "Fri, 12 Sep 2025 12:03:33 GMT"
     }
   ],
   "ai_safety": [
@@ -745,6 +745,10 @@
     {
       "title": "California moves to regulate AI companion chatbots to protect minors - Digital Watch Observatory",
       "pubDate": "Fri, 12 Sep 2025 08:40:00 GMT"
+    },
+    {
+      "title": "Financial Services Firms Racing into AI Risk Leaving Gaps in Safety Controls, EY Finds - BBN Times",
+      "pubDate": "Fri, 12 Sep 2025 11:59:39 GMT"
     }
   ],
   "financial_markets": [
@@ -1112,14 +1116,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Zelensky Locks Horns With Putin\u2019s Friend Xi? Ukrainian Firm To Help Taiwan Build Combat Drones - Times of India",
-      "pubDate": "Fri, 05 Sep 2025 12:16:16 GMT"
-    },
-    {
-      "title": "Head of Moldovan military intelligence: Ukraine may repeat the situation that arose in Georgia - RBC-Ukraine",
-      "pubDate": "Fri, 05 Sep 2025 12:15:22 GMT"
-    },
     {
       "title": "Ukraine vs France: UEFA World Cup Qualifiers stats & head-to-head - BBC",
       "pubDate": "Fri, 05 Sep 2025 19:57:28 GMT"
@@ -1503,6 +1499,10 @@
     {
       "title": "Kremlin Says Russia-Ukraine Negotiations Are on \u2018Pause\u2019 - Bloomberg.com",
       "pubDate": "Fri, 12 Sep 2025 11:07:03 GMT"
+    },
+    {
+      "title": "Supporters of Ukraine Anti-Corruption Investigator Call His Jailing Absurd - The New York Times",
+      "pubDate": "Fri, 12 Sep 2025 12:36:46 GMT"
     }
   ],
   "us_economy": [
@@ -2013,6 +2013,10 @@
     {
       "title": "FBI Director Kash Patel faces scrutiny for inaccurately saying Kirk killer had been caught - Reuters",
       "pubDate": "Fri, 12 Sep 2025 02:57:00 GMT"
+    },
+    {
+      "title": "Manhunt Continues for Killer of Charlie Kirk, Charismatic Right-Wing Activist - The New York Times",
+      "pubDate": "Fri, 12 Sep 2025 12:20:00 GMT"
     }
   ],
   "north_korea": [
@@ -2097,6 +2101,10 @@
     {
       "title": "SPARTA v3.1 expands space cybersecurity with updated controls, new techniques, and research contributions - Industrial Cyber",
       "pubDate": "Thu, 11 Sep 2025 09:49:19 GMT"
+    },
+    {
+      "title": "Vietnam investigates cyberattack on creditors data - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 04:19:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2129,12 +2137,6 @@
     {
       "title": "Satellite images capture destruction from Afghanistan quake - BBC",
       "pubDate": "Thu, 11 Sep 2025 16:30:00 GMT"
-    }
-  ],
-  "elon_musk": [
-    {
-      "title": "Tesla offers Elon Musk a trillion-dollar pay package - The Guardian",
-      "pubDate": "Fri, 05 Sep 2025 12:14:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -3017,6 +3019,10 @@
     {
       "title": "Feeling the Heat? These fossil fuel giants are to blame, new study says - USA Today",
       "pubDate": "Fri, 12 Sep 2025 10:04:48 GMT"
+    },
+    {
+      "title": "How COP30 could deliver an ambitious outcome on global finance flows - Climate Home News",
+      "pubDate": "Fri, 12 Sep 2025 12:37:28 GMT"
     }
   ],
   "world_news": [
@@ -3040,10 +3046,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "South Koreans Are Among Hundreds Detained in Immigration Raid at Hyundai E.V. Plant - The New York Times",
-      "pubDate": "Fri, 05 Sep 2025 12:46:50 GMT"
-    },
     {
       "title": "$210M EV battery plant in Detroit scrapped due to 'current policy' in U.S. - Crain's Detroit Business",
       "pubDate": "Fri, 05 Sep 2025 18:18:49 GMT"
@@ -3168,10 +3170,6 @@
     }
   ],
   "economic_news": [
-    {
-      "title": "US economy adds just 22,000 jobs in August as labour market cools - Financial Times",
-      "pubDate": "Fri, 05 Sep 2025 12:32:44 GMT"
-    },
     {
       "title": "America is getting the economy we voted for - Noah Smith | Substack",
       "pubDate": "Sat, 06 Sep 2025 01:21:10 GMT"
