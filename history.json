@@ -491,10 +491,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI\u2019s double threat: 99% job loss and doom to humanity - Windows Central",
-      "pubDate": "Fri, 05 Sep 2025 11:21:00 GMT"
-    },
-    {
       "title": "FACTBOX Battles over CEO pay across the globe - Reuters",
       "pubDate": "Fri, 05 Sep 2025 14:34:16 GMT"
     },
@@ -745,6 +741,10 @@
     {
       "title": "The AI Doomers Are Losing the Argument - Bloomberg",
       "pubDate": "Fri, 12 Sep 2025 08:00:20 GMT"
+    },
+    {
+      "title": "California moves to regulate AI companion chatbots to protect minors - Digital Watch Observatory",
+      "pubDate": "Fri, 12 Sep 2025 08:40:00 GMT"
     }
   ],
   "financial_markets": [
@@ -819,6 +819,10 @@
     {
       "title": "Asian shares track Wall Street rallies as a US interest rate cut next week looks more certain - KTVN",
       "pubDate": "Fri, 12 Sep 2025 05:34:53 GMT"
+    },
+    {
+      "title": "Stock Markets Surge Amid Jobs Slowdown. Trump Tariffs, Stagflation Could Ruin the Party. - Barron's",
+      "pubDate": "Fri, 12 Sep 2025 10:45:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -837,10 +841,6 @@
     {
       "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 19:00:06 GMT"
-    },
-    {
-      "title": "A tournament tried to test how well experts could forecast AI progress. They were all wrong. - vox.com",
-      "pubDate": "Fri, 05 Sep 2025 11:15:00 GMT"
     },
     {
       "title": "Melania Trump Says Children Must Be Prepared For Artificial Intelligence: 'The Robots Are Here' - HuffPost",
@@ -1499,6 +1499,10 @@
     {
       "title": "Ukrainian Drones Attack Russia\u2019s Key Oil Port Primorsk Overnight - Bloomberg",
       "pubDate": "Fri, 12 Sep 2025 06:02:00 GMT"
+    },
+    {
+      "title": "Kremlin Says Russia-Ukraine Negotiations Are on \u2018Pause\u2019 - Bloomberg.com",
+      "pubDate": "Fri, 12 Sep 2025 11:07:03 GMT"
     }
   ],
   "us_economy": [
@@ -2247,10 +2251,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Qubic Secures Nearly $1 Million Grant to Develop Advanced Quantum Amplifier Technology - The Quantum Insider",
-      "pubDate": "Fri, 05 Sep 2025 11:06:57 GMT"
-    },
-    {
       "title": "NYU team develops breakthrough method to boost quantum computing reliability - Brooklyn Eagle",
       "pubDate": "Fri, 05 Sep 2025 18:19:01 GMT"
     },
@@ -2550,14 +2550,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Carbon storage challenged as climate change silver bullet by massive underground study - Fortune",
-      "pubDate": "Fri, 05 Sep 2025 11:00:00 GMT"
-    },
-    {
-      "title": "At Burning Man, the Weather Can Feel Biblical. Will Climate Change Make It Even Worse? - KQED",
-      "pubDate": "Fri, 05 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
       "pubDate": "Fri, 05 Sep 2025 15:45:40 GMT"
@@ -3309,12 +3301,20 @@
     {
       "title": "OpenAI CEO Sam Altman fears ChatGPT could be used to create a COVID-style pandemic | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 11 Sep 2025 13:00:32 GMT"
+    },
+    {
+      "title": "\"Was Like A Friend\": Sam Altman On OpenAI Whistleblower Suchir Balaji's Death - NDTV",
+      "pubDate": "Fri, 12 Sep 2025 04:21:03 GMT"
     }
   ],
   "mars": [
     {
       "title": "NASA rover finds potential sign of ancient life in Martian rocks - Reuters",
       "pubDate": "Wed, 10 Sep 2025 18:01:52 GMT"
+    },
+    {
+      "title": "Mars rock discovery makes strongest case for past life, scientists reveal - Mashable",
+      "pubDate": "Fri, 12 Sep 2025 03:56:15 GMT"
     }
   ],
   "iran": [
