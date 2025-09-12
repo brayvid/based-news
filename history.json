@@ -243,10 +243,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Three ways Epstein scandal could go for Trump - BBC",
-      "pubDate": "Fri, 05 Sep 2025 17:27:51 GMT"
-    },
-    {
       "title": "Trump says he doesn't know 'anything' about reported violent, failed SEAL Team 6 mission in North Korea - ABC News",
       "pubDate": "Fri, 05 Sep 2025 23:26:15 GMT"
     },
@@ -507,6 +503,10 @@
     {
       "title": "Poland rejects Trump's suggestion that Russia's drone raid \"could have been a mistake\" - CBS News",
       "pubDate": "Fri, 12 Sep 2025 09:49:28 GMT"
+    },
+    {
+      "title": "Oil jumps nearly 2% after drones strike Russian terminal - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 13:38:58 GMT"
     }
   ],
   "ai_safety": [
@@ -773,13 +773,13 @@
     {
       "title": "The new AI policy rulebook - Axios",
       "pubDate": "Fri, 12 Sep 2025 09:01:50 GMT"
+    },
+    {
+      "title": "Between Safe and Secure: What Next for India\u2019s AI Safety Institute? - orfonline.org",
+      "pubDate": "Fri, 12 Sep 2025 11:44:52 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks slip as Wall Street questions whether the US job market has slowed by enough or too much - AP News",
-      "pubDate": "Fri, 05 Sep 2025 17:13:00 GMT"
-    },
     {
       "title": "Stock Market on Sept. 5, 2025: Dow, S&P 500 and Nasdaq end lower after U.S. jobs report came in weaker than expected; bond yields tumble, dollar drops - MarketWatch",
       "pubDate": "Fri, 05 Sep 2025 21:00:00 GMT"
@@ -850,10 +850,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI firm plans to reconstruct 'lost' footage from Orson Welles' 'The Magnificent Ambersons' - NBC News",
-      "pubDate": "Fri, 05 Sep 2025 17:23:22 GMT"
-    },
     {
       "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 19:00:06 GMT"
@@ -1523,20 +1519,8 @@
   ],
   "us_economy": [
     {
-      "title": "America\u2019s job market flashes yet another warning sign about the economy - CNN",
-      "pubDate": "Fri, 05 Sep 2025 17:27:00 GMT"
-    },
-    {
       "title": "US unemployment rate near 4-year high as labor market hits stall speed - Reuters",
       "pubDate": "Fri, 05 Sep 2025 18:58:22 GMT"
-    },
-    {
-      "title": "'Edge of the cliff': A top economist says the US is in a full-blown labor recession that risks spilling into the rest of the economy - Business Insider",
-      "pubDate": "Fri, 05 Sep 2025 17:17:00 GMT"
-    },
-    {
-      "title": "August Job Report Triggers Recession Warning - Seeking Alpha",
-      "pubDate": "Fri, 05 Sep 2025 17:38:49 GMT"
     },
     {
       "title": "U.S. hiring stalls, with employers reluctant to expand in an increasingly erratic economy - Los Angeles Times",
@@ -1592,10 +1576,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Pentagon plan prioritizes homeland over China threat - Politico",
-      "pubDate": "Fri, 05 Sep 2025 17:39:48 GMT"
-    },
     {
       "title": "Pentagon-funded research at colleges has aided the Chinese military, a House GOP report says - AP News",
       "pubDate": "Fri, 05 Sep 2025 22:05:00 GMT"
@@ -1751,6 +1731,10 @@
     {
       "title": "China\u2019s Summer of Economic Weakness Likely Stretched Into August - Bloomberg",
       "pubDate": "Fri, 12 Sep 2025 02:00:00 GMT"
+    },
+    {
+      "title": "How the U.S. Will Break China\u2019s Rare Earth Dominance\u2014and How to Play It - Barron's",
+      "pubDate": "Fri, 12 Sep 2025 15:50:00 GMT"
     }
   ],
   "us_politics": [
@@ -2017,6 +2001,10 @@
     {
       "title": "Manhunt Continues for Killer of Charlie Kirk, Charismatic Right-Wing Activist - The New York Times",
       "pubDate": "Fri, 12 Sep 2025 12:20:00 GMT"
+    },
+    {
+      "title": "Trump says National Guard will deploy to Memphis next, sidestepping Chicago for now - CNBC",
+      "pubDate": "Fri, 12 Sep 2025 12:53:29 GMT"
     }
   ],
   "north_korea": [
@@ -2208,10 +2196,6 @@
     }
   ],
   "data_breach": [
-    {
-      "title": "Wealthsimple says some SINs accessed in \u2018data security incident\u2019 - Global News",
-      "pubDate": "Fri, 05 Sep 2025 17:26:41 GMT"
-    },
     {
       "title": "Hackers expose data of 4.4 million Americans - KUSA.com",
       "pubDate": "Fri, 05 Sep 2025 21:37:00 GMT"
@@ -2479,6 +2463,10 @@
     {
       "title": "Nvidia Is a National Security Risk - compactmag.com",
       "pubDate": "Thu, 11 Sep 2025 11:00:41 GMT"
+    },
+    {
+      "title": "Charlie Kirk's assassination has national security implications: KT McFarland - Fox Business",
+      "pubDate": "Fri, 12 Sep 2025 13:09:45 GMT"
     }
   ],
   "gaza": [
@@ -2553,20 +2541,16 @@
     {
       "title": "US senators denounce Gaza 'ethnic cleansing,' urge end to US 'complicity' - Anadolu Ajans\u0131",
       "pubDate": "Fri, 12 Sep 2025 05:44:01 GMT"
+    },
+    {
+      "title": "\u2018We took the gloves off\u2019: ex-IDF chief confirms Gaza casualties over 200,000 - The Guardian",
+      "pubDate": "Fri, 12 Sep 2025 17:21:00 GMT"
     }
   ],
   "climate_change": [
     {
       "title": "Florida\u2019s fix for its struggling insurance market hurt homeowners, data shows - The Washington Post",
       "pubDate": "Fri, 05 Sep 2025 20:32:08 GMT"
-    },
-    {
-      "title": "Washington Department of Ecology releases 'rebuke' of federal climate change study - KNDU",
-      "pubDate": "Fri, 05 Sep 2025 17:43:39 GMT"
-    },
-    {
-      "title": "Discovery of North America's role in Asia's monsoons offers new insights into climate change - Phys.org",
-      "pubDate": "Fri, 05 Sep 2025 18:00:01 GMT"
     },
     {
       "title": "Oceans could reach a dangerous tipping point by 2050 - ScienceDaily",
@@ -3027,6 +3011,10 @@
     {
       "title": "E&E News: UK rejects plan to deflect sun\u2019s rays to curb climate change - POLITICO Pro",
       "pubDate": "Fri, 12 Sep 2025 10:24:01 GMT"
+    },
+    {
+      "title": "Exclusive: Canada may drop oil emissions cap as part of new climate plan, sources say - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 15:42:09 GMT"
     }
   ],
   "world_news": [
