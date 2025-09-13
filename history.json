@@ -259,6 +259,10 @@
     {
       "title": "IDF locks down homes of terrorists behind lethal Jerusalem attack - JNS.org",
       "pubDate": "Sat, 13 Sep 2025 17:57:29 GMT"
+    },
+    {
+      "title": "Rubio seeks answers from Israel on way forward in Gaza after Qatar strike - WTOP",
+      "pubDate": "Sat, 13 Sep 2025 20:05:33 GMT"
     }
   ],
   "donald_trump": [
@@ -855,16 +859,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Why is an Amazon-backed AI startup making Orson Welles fan fiction? - TechCrunch",
-      "pubDate": "Sat, 06 Sep 2025 21:30:22 GMT"
-    },
-    {
       "title": "Examining the Evolving Landscape of Medical AI - The Regulatory Review",
       "pubDate": "Sun, 07 Sep 2025 04:15:35 GMT"
-    },
-    {
-      "title": "Amazon-backed AI firm is trying to recreate a lost Hollywood masterpiece - Mashable",
-      "pubDate": "Sat, 06 Sep 2025 21:56:15 GMT"
     },
     {
       "title": "\"Oracle is developing artificial intelligence that is reshaping medicine and helping save lives\" - CTech",
@@ -1121,6 +1117,10 @@
     {
       "title": "Apple AI Exec Robby Walker Departs Amid Talent Exodus to Rivals - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 19:41:15 GMT"
+    },
+    {
+      "title": "OpenAI plans to spend $300 billion on cloud computing starting 2027 - Mitrade",
+      "pubDate": "Sat, 13 Sep 2025 16:37:04 GMT"
     }
   ],
   "ukraine": [
@@ -1479,6 +1479,10 @@
     {
       "title": "Poland Scrambles Jets Amid Renewed Drone Threat in Nearby Ukraine Territory - Newsweek",
       "pubDate": "Sat, 13 Sep 2025 18:33:22 GMT"
+    },
+    {
+      "title": "These Charts Show How Putin Is Defying Trump by Escalating Airstrikes on Ukraine - The Wall Street Journal",
+      "pubDate": "Sat, 13 Sep 2025 20:38:28 GMT"
     }
   ],
   "us_economy": [
@@ -1528,10 +1532,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China criticises Canadian and Australian warships transiting Taiwan Strait - Reuters",
-      "pubDate": "Sat, 06 Sep 2025 21:56:58 GMT"
-    },
     {
       "title": "Chinese scientists unveil blueprint for asteroid defense and resource utilization, call for intl collaboration - China Daily",
       "pubDate": "Sat, 06 Sep 2025 23:30:00 GMT"
@@ -2225,10 +2225,6 @@
       "pubDate": "Sat, 06 Sep 2025 23:13:47 GMT"
     },
     {
-      "title": "Decades-Old Quantum Puzzle Solved: Graphene Electrons Violate Fundamental Law of Physics - SciTechDaily",
-      "pubDate": "Sat, 06 Sep 2025 21:28:56 GMT"
-    },
-    {
       "title": "3D-printed ion traps could accelerate quantum computer scaling - Digital Watch Observatory",
       "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
     },
@@ -2552,10 +2548,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "The Intersection of Racism and Climate Change: Our mentors warn us! Denial kills, Action = hope? - Daily Kos",
-      "pubDate": "Sat, 06 Sep 2025 21:12:05 GMT"
-    },
     {
       "title": "Food production faces climate change challenge - cosmosmagazine.com",
       "pubDate": "Sun, 07 Sep 2025 01:53:00 GMT"
@@ -3133,6 +3125,10 @@
     {
       "title": "Millions face skyrocketing health insurance costs unless Congress extends subsidies - MPR News",
       "pubDate": "Sat, 13 Sep 2025 13:35:00 GMT"
+    },
+    {
+      "title": "Venezuela says US marines raided a fishermen's boat in the Caribbean as tensions rise - The Washington Post",
+      "pubDate": "Sat, 13 Sep 2025 21:43:59 GMT"
     }
   ],
   "energy_transition": [
@@ -3351,6 +3347,18 @@
     {
       "title": "Elon Musk eyes next target after cars, rockets and robots - The Washington Post",
       "pubDate": "Sat, 13 Sep 2025 16:41:23 GMT"
+    }
+  ],
+  "republican_party": [
+    {
+      "title": "Montana Republican: Kirk slaying \u2018a watershed moment\u2019 - The Hill",
+      "pubDate": "Sat, 13 Sep 2025 14:09:00 GMT"
+    }
+  ],
+  "economic_news": [
+    {
+      "title": "Russia's central bank reveals GDP is shrinking, in a sign Putin's war economy has slipped into recession - Fortune",
+      "pubDate": "Sat, 13 Sep 2025 16:45:00 GMT"
     }
   ]
 }
