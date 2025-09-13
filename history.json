@@ -259,10 +259,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump rebrands Defense with 'Department of War'; Jobs data shows weakness - NBC News",
-      "pubDate": "Sat, 06 Sep 2025 02:59:00 GMT"
-    },
-    {
       "title": "What the \u2018is Trump dead?\u2019 rumours reveal about our current moment - The Guardian",
       "pubDate": "Sat, 06 Sep 2025 10:00:00 GMT"
     },
@@ -526,10 +522,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI Companion App Dot Shuts Down Amid Safety Concerns - Startup Ecosystem Canada",
-      "pubDate": "Sat, 06 Sep 2025 02:08:37 GMT"
-    },
     {
       "title": "Will humans survive the AI era? Computer scientist warns superintelligence could be the 'last invention we - The Economic Times",
       "pubDate": "Sat, 06 Sep 2025 13:54:47 GMT"
@@ -859,13 +851,13 @@
     {
       "title": "Stock Market on Sept. 12, 2025: Big Tech lifts Nasdaq to fresh record high; Dow and S&P 500 close lower but book weekly gains - MarketWatch",
       "pubDate": "Fri, 12 Sep 2025 20:30:00 GMT"
+    },
+    {
+      "title": "What Fed Chair Powell says next week will be critical for a stock market insistent on cuts - CNBC",
+      "pubDate": "Fri, 12 Sep 2025 18:19:16 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI Says Spending to Rise to $115B Through 2029: Information - Bloomberg",
-      "pubDate": "Sat, 06 Sep 2025 02:34:00 GMT"
-    },
     {
       "title": "Behind the AI talent war: Why tech giants are paying millions to top hires - CNBC",
       "pubDate": "Sat, 06 Sep 2025 05:39:35 GMT"
@@ -1133,6 +1125,10 @@
     {
       "title": "AI algorithm turns mammograms into a 'two-for-one' test for women's heart health - Medical Xpress",
       "pubDate": "Fri, 12 Sep 2025 22:30:01 GMT"
+    },
+    {
+      "title": "The unlikely success story of tech-giant ASML, the biggest backer of France's Mistral AI - France 24",
+      "pubDate": "Fri, 12 Sep 2025 16:29:17 GMT"
     }
   ],
   "ukraine": [
@@ -1519,6 +1515,10 @@
     {
       "title": "Prince Harry lays wreath to Ukrainian war dead on surprise visit to Kyiv - The Guardian",
       "pubDate": "Fri, 12 Sep 2025 20:13:00 GMT"
+    },
+    {
+      "title": "Russia and Belarus launch big military exercise that fueled Western concerns - NBC News",
+      "pubDate": "Fri, 12 Sep 2025 14:55:44 GMT"
     }
   ],
   "us_economy": [
@@ -1731,6 +1731,10 @@
     {
       "title": "China Says It Wants to Kill an Asteroid - The Debrief",
       "pubDate": "Fri, 12 Sep 2025 13:51:54 GMT"
+    },
+    {
+      "title": "Targeted abroad and shunned at home: Chinese overseas students caught in limbo - CNN",
+      "pubDate": "Sat, 13 Sep 2025 01:14:00 GMT"
     }
   ],
   "us_politics": [
@@ -2009,10 +2013,6 @@
   ],
   "north_korea": [
     {
-      "title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
-      "pubDate": "Sat, 06 Sep 2025 02:42:20 GMT"
-    },
-    {
       "title": "Kim Jong Un Oversees Long-Range Missile Engine Test, KCNA Says - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 01:20:00 GMT"
     },
@@ -2206,10 +2206,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "Commonwealth Fusion Systems Raises $863 Million Series B2 Round - Neutron Bytes",
-      "pubDate": "Sat, 06 Sep 2025 02:13:57 GMT"
-    },
     {
       "title": "University of Arizona joins STARFIRE Hub for inertial fusion energy - The University of Arizona",
       "pubDate": "Tue, 09 Sep 2025 12:00:00 GMT"
@@ -2423,6 +2419,10 @@
     {
       "title": "IonQ Skyrocketed Today -- Is the Quantum Computing Stock a Buy Right Now? - Mitrade",
       "pubDate": "Fri, 12 Sep 2025 23:45:15 GMT"
+    },
+    {
+      "title": "Quantum Phases Lack Complexity Advantage, Study Finds - Quantum Zeitgeist",
+      "pubDate": "Fri, 12 Sep 2025 18:47:20 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2553,16 +2553,8 @@
   ],
   "climate_change": [
     {
-      "title": "Scientists Discover Mysterious Freshwater Reservoir Beneath the Ocean Floor. How Did It Get There? - SciTechDaily",
-      "pubDate": "Sat, 06 Sep 2025 02:11:39 GMT"
-    },
-    {
       "title": "Wildfires Were A Major Contributor to Air Pollution in 2025 \u2013 Highlighting \u201cVicious Cycle\u201d of Warming - Health Policy Watch",
       "pubDate": "Sat, 06 Sep 2025 05:00:51 GMT"
-    },
-    {
-      "title": "Can Northern Rockies Survive Climate Change and Humanity's Ecological Footprint - Bozeman Daily Chronicle",
-      "pubDate": "Sat, 06 Sep 2025 02:26:51 GMT"
     },
     {
       "title": "Emissions are Sparking Increases in African Heat Waves in Unexpected Ways, New Study Finds - Inside Climate News",
@@ -3035,6 +3027,10 @@
     {
       "title": "Key ocean current weaker than previously thought, could collapse in 30 years - Yahoo News Canada",
       "pubDate": "Fri, 12 Sep 2025 19:36:12 GMT"
+    },
+    {
+      "title": "Feds try to dodge lawsuit against their bogus climate report - Ars Technica",
+      "pubDate": "Fri, 12 Sep 2025 20:58:03 GMT"
     }
   ],
   "world_news": [
@@ -3129,6 +3125,10 @@
     {
       "title": "Federal Appeals Court urged to drop injunction in NC transgender care case - Carolina Journal",
       "pubDate": "Fri, 12 Sep 2025 13:37:56 GMT"
+    },
+    {
+      "title": "Georgia ICE Raid Netted Workers With Short-Term Business Visas - The New York Times",
+      "pubDate": "Fri, 12 Sep 2025 18:44:47 GMT"
     }
   ],
   "energy_transition": [
