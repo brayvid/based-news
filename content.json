@@ -1,62 +1,52 @@
 {
-  "Artificial Intelligence": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Study shakes Silicon Valley: Researchers break AI - The Jerusalem Post",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWeV9UVW5vaGo3b0xGbjNxVllOTWFwdWtVNk9ZMXc5ME43UDVaOVhjS2Z6T0NvN0oycDY0VDZpNElJUnNwVTdZOGk4NlB3UjV1SEJBWDJacm9aTU1x?oc=5",
-        "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
+        "title": "Taming LLM Sprawl: AI Gateways Cut Costs and Boost Enterprise Efficiency - WebProNews",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnVrVnpjVEp1aHRlQXZuVmZWU0Rvc2FwZ2ZVUkhaN3Atc3pWV3k4b0FXLVJCT1FHRzdXYkVaeGJZSHQyVjNxYm9TRWNHUTI5UmpVNkNnTTNvNWFMYUJuejhCLVpsZDVabDBlelUxMEdQQWFzcm14bEJ4MUxTMTRXMll4N3c3dEZnbUtnTHpvZzdIOC1mSWNMYm5HVVZmd252?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 01:00:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
+    "last_updated_ts": "2025-09-14T07:57:28.071774+00:00"
   },
-  "National Security": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Following another terrible week for Trump, national security veteran David Rothkopf says the 79-year-old president is spiraling. - Yahoo News UK",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFBPVG5PY2JsWnZYeDlMQzEyZTFtaTJ1UWlfQzNqNkQtRmJINl9SZ3A1WGgzSDZuT2t1OFBkUW52bXVyRUZIQWxQMWJiWDF5UC04dTV1RlU3d19JVUFZdmJ4UmpjYlowSjB5TlhGeU4zcnNCLVJLaEMxcl9INnJTQ0NULV8?oc=5",
-        "pubDate": "Sat, 13 Sep 2025 19:04:26 GMT"
+        "title": "Boosted by summits in Alaska and China, Putin moves against Europe, Ukraine - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd21tN3NORVlvMVNzaFdOQ1NpakZXYlFlXzhObWFTSUtLUndtNkt5NW9XWG1tS1RTX2hLaDdCZWtycVU5SXcyTU4wX2RsUk0zNV9Sa2lkZFJpTU84SGJSWVdEdVdUTjBDV1IyZGtiWFN6UkV0OExkbnZIZ1VGZTYzWW5remVEUjlCQXJMaGxuQ2RiWG8?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 07:01:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "People are getting fired for allegedly celebrating Charlie Kirk\u2019s murder. It looks like a coordinated effort - CNN",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WaFRBZDVoYTFHWDI3MVRickZWVHFCeFRBVjNrczlHU3cybWVpbkFoclFETDU0djl2eEJSSXNPazVobEZ2YkFfbUY0XzdDQUJwdnBBbVgwYmp5b3hhbjVuQVJqZm4xZ2lDYWozbV9lMnBSNVZCS1lrYVJHU1lqUQ?oc=5",
-        "pubDate": "Sat, 13 Sep 2025 19:39:45 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Trump is no \u2018strongman\u2019 when it comes to Russia or Israel. If other democracies don\u2019t step up, anarchy awaits - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0VSb2d2aFQwV1pmdU1yQzRwRmJJQVNzLWZ4WEZtZHlZUjhGMGNIZXhkblFqWVJ6bm5OQmNRWGQyU3l6Wk9wb2Q3WkVwODZJV0FOTkc3c3hTaXVNYnA5dWFtTG9XaDM3QjJKMkc1V1U3Y1lCNDRYX1BWV0hweGF0VldPN0Q5X3hZRlhJRnB3b1B3TFJVeTVjanNDNUMtM1pBYlBtd3NWOGthY3NTSmJyaUExZXg?oc=5",
-        "pubDate": "Sun, 14 Sep 2025 05:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
+    "last_updated_ts": "2025-09-14T07:57:28.071774+00:00"
   },
   "Israel": {
     "articles": [
       {
-        "title": "Oscar-winning Palestinian director Basel Adra says Israeli soldiers raided his West Bank home - cbsnews.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkVtM3JneFk0eXA1Sk1DXzFoT2hJNnA4WlhCRGExbjdubndXVXp5Si0xOEVmeWx3ekNFbWdlTmVyN29rVnZ2NXBrRE0zWGxvMG5KWGZHbEYybGR6N1dBQl9oMWw2dGl3Z3NpVE51S1ZfUzQzRVd1c3pnOXpuSjJOSHhSRm9TWXFsOFpSV25mUnctWGRUNW5hUkVsNNIBoAFBVV95cUxQbGNadVZ0dXoyWnVIRjdoa2lKTFBFTFYxY3V4U3F2QWhrZjFhV2hKUFZQd2UxeUhTMFNqWWNoNUZUTUh0cG1BUkdKaGdZTkkyd1Z0RmtXLXE2cTBEXzJwdW01OXI2bUJPWS1qaHpVdzRXc3F1OTVSRlJ4WklKZlNaTlJWR1BrUnJCRUVLbnhMZW1QTjlaa2hra2VnQnNES2R5?oc=5",
-        "pubDate": "Sat, 13 Sep 2025 21:25:00 GMT"
+        "title": "Israel is alienating its most important Arab partner - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54VmxtSDdkUGpvbUhaWE1xLVVkaWx4eWdtTVJuMXZBZEJZVEc2VkJsbEY5TkllNkhZUWpZVHBJeHdRRFY2djNyWjhsNDBHaEpvTUpRUndRUTdfRjFQX1FmZ1NfS0RPM3QycUJjdFBvTTM?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 04:00:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
+    "last_updated_ts": "2025-09-14T07:57:28.071774+00:00"
+  },
+  "China": {
+    "articles": [
+      {
+        "title": "US, Chinese officials to launch talks in Spain on trade irritants, TikTok deadline - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzZnTzR0Yi12SWI4b2pPNDhYQXpPVEdKYnJKTENBU2l4cGh3T3lOdGo4bmRtaXRXRkhsWlpJMEt5ZW5PSzBidHNkanhhUV9mY3ROMEkxbUh0dXIzZjBOMGNjU0VIOFJXd1d3MmxwM25mdDZNNHVkM25jd05JbHNXSm5nWHBBQU5VV3RsUnRzaE5YLXJVOGVPTk82NTBJdjhhZWtvaUlHaDE0RGNiWjgxUjlOaUZFdFFjNDlN?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 04:36:40 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-14T07:57:28.071774+00:00"
   },
   "Quantum Computing": {
     "articles": [
       {
-        "title": "Australia emerges as quantum computing player with role in Microsoft chip - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIMUo3UU1aRGRRRHNRRkE0UkN5c09VUTJQQm9Id1NrMlBialRJOGhmVkRJOUdNWFBlV01tSzh3TTdiaFlmZUNHQk5Ibno0OHhnSkFDeFpzeWpqMTh1OGp5dENRblp5a1dwQ1Nzd0pFTFk?oc=5",
-        "pubDate": "Sun, 14 Sep 2025 04:00:06 GMT"
+        "title": "Trump To Seal US-UK Tech Pact On AI, Chips And Quantum Computing During London Visit: Report - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3NOWFA3d1NoX0NUcFQxdHl5UTg4bE1mbGlkRlFoSHA1WG0yTG5CTXBkZzNITGVSZDlKZlVGRGs0dW1hQVl5ZDUzcVZBTEZnczNkeEZzQS1JWTFkMllWbjU0eUZfVEJWdUJoMFdEMWNCLVV6TWJmWU1KU3ZQVktYWENDMnlMTVo3VV9HTjhMTXlRZ0VpOXVObk5fcV93dmpxUm5ETkZVb0hxOUFuRkVmY25zX2YyOGEtNUZHa2lwQkF3ekZEOXdXZUZWZmQyaHhLczdybUJpN0czNVc0?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 02:37:12 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-14T06:57:22.522714+00:00"
+    "last_updated_ts": "2025-09-14T07:57:28.071774+00:00"
   }
 }
