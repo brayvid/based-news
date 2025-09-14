@@ -267,13 +267,13 @@
     {
       "title": "Israeli airstrike levels Gaza tower as civilian death toll rises - Vatican News",
       "pubDate": "Sun, 14 Sep 2025 13:29:08 GMT"
+    },
+    {
+      "title": "Medics in southern Gaza sound alarm over wave of newly displaced Palestinians - The Guardian",
+      "pubDate": "Sun, 14 Sep 2025 09:00:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump not at war with Chicago but with cartels, Tom Homan says - Politico",
-      "pubDate": "Sun, 07 Sep 2025 17:05:30 GMT"
-    },
     {
       "title": "Trump loses bid to overturn $83.3 million judgment in E. Jean Carroll defamation case - CNBC",
       "pubDate": "Mon, 08 Sep 2025 14:16:18 GMT"
@@ -867,6 +867,10 @@
     {
       "title": "Markets have been acting 'super weird' lately. Just look at gold prices vs. the dollar and bonds - Fortune",
       "pubDate": "Sat, 13 Sep 2025 21:30:00 GMT"
+    },
+    {
+      "title": "Why the Fed\u2019s first rate cut in 9 months could derail the stock-market rally \u2014 and how investors can prepare - MarketWatch",
+      "pubDate": "Sun, 14 Sep 2025 16:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1533,10 +1537,6 @@
   ],
   "china": [
     {
-      "title": "China paves way for renminbi fundraising by Russian energy giants - Financial Times",
-      "pubDate": "Sun, 07 Sep 2025 17:00:09 GMT"
-    },
-    {
       "title": "China export growth seen slowing in August as US trade truce boost fades: Reuters poll - Reuters",
       "pubDate": "Sun, 07 Sep 2025 23:00:10 GMT"
     },
@@ -1651,16 +1651,16 @@
     {
       "title": "China running out of rubbish to burn as waste power goes into overdrive - Financial Times",
       "pubDate": "Sun, 14 Sep 2025 01:00:28 GMT"
+    },
+    {
+      "title": "China, US trade delegations kick off fourth round of talks in Madrid - South China Morning Post",
+      "pubDate": "Sun, 14 Sep 2025 12:08:16 GMT"
     }
   ],
   "us_politics": [
     {
       "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs - CNBC",
       "pubDate": "Sun, 07 Sep 2025 19:28:44 GMT"
-    },
-    {
-      "title": "John Burton, Architect of California Democratic Machine, Dies at 92 - KQED",
-      "pubDate": "Sun, 07 Sep 2025 17:22:18 GMT"
     },
     {
       "title": "Jack Schlossberg, grandson of JFK, takes first step toward running for Congress - The Independent",
@@ -1975,10 +1975,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "iCloud Calendar invites are being abused to send callback phishing emails disguised as purchase notifications directly from Apple's email servers, making them more likely to bypass spam filters to land in targets' inboxes. [...] #Security - LinkedIn",
-      "pubDate": "Sun, 07 Sep 2025 17:13:39 GMT"
-    },
-    {
       "title": "Cybersecurity firm Netskope eyes up to $6.5 billion valuation in US IPO - Reuters",
       "pubDate": "Mon, 08 Sep 2025 11:29:48 GMT"
     },
@@ -2115,10 +2111,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Sell Everything Before October: The Crypto Market Crash Is Imminent - Cointribune",
-      "pubDate": "Sun, 07 Sep 2025 17:05:00 GMT"
-    },
-    {
       "title": "Bitcoin stalls around $110,000; Fed rate cut may not spark rally, analyst says - The Block",
       "pubDate": "Mon, 08 Sep 2025 04:26:44 GMT"
     },
@@ -2201,6 +2193,10 @@
     {
       "title": "\"2.4 Megajoule Energy Yield\": Los Alamos Scientists Achieve Fusion Ignition Using THOR Window System Creating Self-Sustaining Burning Plasma - Energy Reporters",
       "pubDate": "Sat, 13 Sep 2025 22:13:21 GMT"
+    },
+    {
+      "title": "\"Durham Scientists Test 5,500 Nuclear Fusion Wires\": UK Team Verifies Superconducting Materials for 302-Million-Degree ITER Reactor - Visegr\u00e1d Post",
+      "pubDate": "Sun, 14 Sep 2025 05:58:58 GMT"
     }
   ],
   "quantum_computing": [
@@ -2427,6 +2423,10 @@
     {
       "title": "New Report Recommends Near-Term Strategies for HPC Centers to Prepare for Quantum Integration - The Quantum Insider",
       "pubDate": "Sun, 14 Sep 2025 14:06:31 GMT"
+    },
+    {
+      "title": "Quantum Computation Enhances Optical Imaging, Circumventing Signal-to-Noise Limitations In Post-Processing Algorithms - Quantum Zeitgeist",
+      "pubDate": "Sun, 14 Sep 2025 17:09:36 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2461,6 +2461,10 @@
     {
       "title": "Ex-Google Exec Mo Gawdat Says AI will Wipe Out Jobs \u2013 From Entry-level to C-suite - Tekedia",
       "pubDate": "Sat, 13 Sep 2025 11:38:52 GMT"
+    },
+    {
+      "title": "Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief - TechCrunch",
+      "pubDate": "Sun, 14 Sep 2025 17:00:34 GMT"
     }
   ],
   "national_security": [
@@ -2556,10 +2560,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump's Clean Energy Law Sends Insurance Costs Soaring - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sun, 07 Sep 2025 17:00:00 GMT"
-    },
     {
       "title": "Marin Voice: Sea-level rise data shows the water is coming - Marin Independent Journal",
       "pubDate": "Sun, 07 Sep 2025 20:15:00 GMT"
@@ -3023,6 +3023,10 @@
     {
       "title": "Denial of climate change spells trouble for FEMA maps | Letters - Austin American-Statesman",
       "pubDate": "Sun, 14 Sep 2025 09:15:07 GMT"
+    },
+    {
+      "title": "Our broken planning system for renewable energy developments - Nation.Cymru",
+      "pubDate": "Sun, 14 Sep 2025 13:39:14 GMT"
     }
   ],
   "world_news": [
