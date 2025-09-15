@@ -1,52 +1,72 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Google, Meta, Microsoft, OpenAI discuss safe open-source AI use in Seoul - CHOSUNBIZ - Chosun Biz",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1Q2c3MXR1cFg1OUtkTklnU1lwa1ZIaW92eVhDUGphb0VJeUdvOHR1VW1ZVnc3OEQyazZrbGRpRTZ0VXQ4LTFoR0JFVkMzTkM1MC1ydWxqeGZtd2tUWU5wUHBfZTNORjl0bXNpRHFyc0RZR0oyOVdMOXhn0gGOAUFVX3lxTE5seGlHTHZoUHVDUUNGWTVpQkxCTDY0a1JidmxZeWllLThPVWRadGJ6Y2RVOGpHR18tMUttUDNLVDVHcUJOOGpxU2lGNDIzdnhmNzdHdzF0bUU4eVRxcmI1UlFDS3pMNzQ1c1VYV0MtWDd0el82dDNxM2JXaHlDa3NfTXB3cXM5Vzg3NExlckE?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 04:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
+  },
   "Climate Change": {
     "articles": [
       {
-        "title": "Australia\u2019s climate crises are about to get much worse, new report warns - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMml1bjhZMFBJYXQ4UHRYQUViMmptdGtoSTNONkpucGl3X2lzOXAwa0RGRVhrMVZzalJvelRxblRNSmRxNmJmeXdOTkVtZVdORTNyM3k1ZC15WjVGOTlMT3pBMWVkbThDbzdidndWSXgxSHJMMTB5cVRmY0pWRDJTeVNpZ3pJOTQ3Y1pyUmFkY184MEdjR1lCV2VBVkt4Y2ExX0ZnYm9ycGhJekdpb0poaXpIZmlDZlNHR2VqbS0wN2dBc0NVWFp2Q0haaHBwUnBMbE440gHTAUFVX3lxTE12NjdXOXJQRGszZGQtUUNHV0htV0tITDNoLXBmNnFsaUpXY0hyY1V0SFVBQXpOX0xjVUtrSUZRQThjb0NZWDZKTnZydVZNMi1EOVRtRXdzS1BHcjlQVFMxTG5NaWtOV0hPSkpqd3dQakpDUlllcEZtVGIwSS1KUWtiZDJoUG9FRWtfcGh2OUVtV044RUlha3pVd2tFT193Mmd5VHZDRzVPMFA5TGtiZEFLalB2T2JHZXh2TUdVR0RlUlNKcjJueG5ETVZmYlJ2ZjYtQms?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 00:37:31 GMT"
+        "title": "China, climate crisis and Cop31: five takeaways from the Pacific Islands Forum - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFhGT0ZaQlpGN05hWUVhaGQ0QWQ2Um16dzVmRHE2RXJNam11eG9SWDNsQU5Yd1cxWVdncjM1ZFRrREo5MFB2Y18zdmRhanh0VmVwdVhXOFFVRXN5NW01b2xsY0hQa2JXUWlONjB0enlQRFJuYkZ4RHNQS1BmY1MtcVllY1JFbEI5Z0psS05TdjA2TmVMXzN2elNlYw?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 04:02:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-15T03:58:41.465740+00:00"
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
   },
-  "Artificial Intelligence": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "Politicians hoping AI can fix Australia\u2019s housing crisis are risking another Robodebt | Ehsan Nabavi - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnNPc0J6aS1VeGxhVEZrN1ZNLThkVkhnLVR1YWV6bTlfaDJVbWZmZ0ZnYThPbmZaV1lOR2dsQllBREt0RlZPOUNHOWNoSTVYVUdBV2ZpT29PaVhZMW8tOU9sd290RDNZU245eVp1SGhXWlFtbTV2MmVMNW82NUMwVktJQVlMMktwTW82ckJBQTAxTy1tYkFIYmtNSkUxVGtQOHRzb19SWEw4ZlNQU1BMMmw1Z1RFZ200ZFRBS2ZGZElrR3FhckRYbnlGMkZqNHFmbnNGQnRn?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 02:18:00 GMT"
+        "title": "CIRO data breach included personal information for top investment and banking industry executives - The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzd3UldKYXM3cm5UZlBjc3lZZkVpcUFVMVRWZmJYMl9lTGN4NHdZbWNqTWloc3UwOV95OWozZU5Za010SzdGU2lTa1c2NEpiMHV3RV9UNVZVZm1CNTRvNjBiLU5uOWJkaXBLNTk5bU9jTHZOaTR5ODdvdkJzTE5fUHV5a204dUMxMU1FNU5DamFnd2pveFlZU19PTkF5MEVYa2RmanRONDJnclZfSjlSODFjV01qZXh1SDRZ?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 21:39:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-15T03:58:41.465740+00:00"
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
   },
-  "China": {
+  "Geopolitics": {
     "articles": [
       {
-        "title": "China's economy slowdown deepens in August with retail sales, industrial output missing expectations - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaC1tbmFLazljWFBJX2FTU25vRENRZGV0X2gyNFBFcDlzeFZ6b0xPc0FzZmQ1VFhyOWRTa3J0NG1sajJ1SXdpRG1lVC1JcnFmZDhYTTBRaDliRkprRUhPYjJjcnU1X29iOXZpVlp3NGtWVzhvajVqZzBXbEdxZkpMdWxEem03N1Y0M2R4QVFpdUZrbm9oemFwak1URWh3THp3ZjBGSGNCTVRYTHpaMURTYk9TWVp0eU10UU9CQURQT1NxNmRpVGNmb1RmZ3c0R01Y0gHWAUFVX3lxTE9ibkJjVWNwaWFzc0JCVVZ4UWs1bHhUb0RFWm9oeGlEZmRBNG1BWWlCWlRja2FqdVVJcV85b0F1ajlTWlM3ZmlqSkdPajREMmEzQkU4YTdoSnRYZnlvMmt1MlJkaURlQ3ROUkM3ODgwZkZuMTVuM2tYcXNZdERKNUZTNGdEVGs5SkRqMUR3eGEwUFF5YmNLOW11TWFLdk9YS3BoSkowNFZYVGM1dG9hVGdyN2tZdWkxcEhndko2VEw4SzdkTlU3YmZaRTI1ZXpkczJGWmpPRGc?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 02:12:00 GMT"
+        "title": "Booking Holdings: Market-Beating Algorithm Shines Amid Geopolitical Uncertainty (Rating Upgrade) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVVwOUhianlfTFR6MEtfSkF6ckM5V2JuY3F0OGRFS2daYnBzMFR5eTJFMjgzb0daSWZ3djk0ZG1sbG5EaU01MVpOQUJMbEVZb1hmTlpyYm50YUpxRDg4Umw0RkQzelhoWHF4cmt0Q1VmVEhSNU1NaWZrQm9Ha05FRXNIYU1TaTluNWJ1VjhHSnlQN0hnUDVEX2NweEo0dE5UNGRicjNRY0NEWTB4czNKajdjSVg2VkFzNFdPR056bVB5WXNIdVE?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 01:02:16 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-15T03:58:41.465740+00:00"
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
   },
   "Israel": {
     "articles": [
       {
-        "title": "IDF completes preparations for next phase of Gaza City offensive - Long War Journal",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFdJX2NyTHhONGVRajRZTXRDR3NTMlh1YkhTcUp3TE02U3JfOWk4NTBxU3ZEeVJodjlSZTF1QmpTbENpeDVaZDRHUG9ZbHNHRDh1dGM1NXNNNEtjNWpQS0RwUjZKZGl0bk1INWhNcmxtZXl6eU1YMjJJT2R3cDFXM3lreFpGU2NlaVhjR1FobGR6N2NBa2dtaENLSlljMm1QOHdETExfd1JyUEJnSmowckE1R2pzSTA?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 03:07:49 GMT"
+        "title": "An \u2018Arab Nato\u2019? Israel\u2019s air strikes on Qatar may have just brought it to life - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEtybVRud05TMThNVXdESEYwREZHbXlPZWItbFNFcExOOGFCV1JEdnU0bG1SRU41SzltSUlzSWhlQXFSMFZDajhZdkI2enB3NmRaQ3NWdFJxM2hEbGhQT3JBbUpSMWJDcElGTGN4WXRmNGp6bGFUd1liRTRsNnNqemxNODVHVHY4bVZ4MjBYRzlBcG1MMkRmblF1MFdoaWVncENYb1ZqT1FWUzZydmJCUkVta2p5RG5JaWVnbG5B?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 04:10:50 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-15T03:58:41.465740+00:00"
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
   },
-  "United States": {
+  "North Korea": {
     "articles": [
       {
-        "title": "Trump insists foreign workers are \u2018welcome\u2019 days after arrest of hundreds of South Koreans - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSTRDaVZ1VExiMWZaSTBsV3IwLWw0ODdEQ0tGLThOMXIxZ1JxY2lDdmRIYWRhVXNhNWFSWGpadFduSXhORDZJdUxkWUJaMTdrSjdxOTBncjA4VjQ4alJKYXViNlVkNlBXU2lWTXQxQ29QVmFISURkcVM1ZjFXclg1ekxmdmJWSF9pc0g4WGs3UWlLdFNKV1hjT1RQLXpOZw?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 00:40:00 GMT"
+        "title": "North Korea declares nuclear statehood \u2018permanently enshrined\u2019, slams US for committing \u2018grave political provocation\u2019 - Mint",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOckVER1pCaGZrZ25NMFFWNkl2eGNyUUpUd1djR0N2OS1aUjhKeVlseFNIUXVnZzZ0U2V5VlZuRXNJS0RhWk1IcXM0LU1SMGJBT25RZUptSS1yRE55Z3Q2TXZyV3ZWc28tdE5JZzg3TTRyWll1SjNaN2lpekJsZjJteXZ0Tkdwd2VYQ3ZKYVpzVkN5elJWXzV0Vy1DWGFjQ01WbUQ0Qk9lSWEzSy1HbjBTZ0lGUzA3Wlg2dWRpWGZ5VkIwUnJXNnQ4NWdyWVRwdFhWLV84TmJ0WERDMFZIckdROXFSdEtWV1dWRExlbHZDVXR0OU5JcFR1WEh6Q0vSAYICQVVfeXFMTmluWXlEZ2hYaVhDY3JJcVJKVkpsMVFiQjhjV3lGdVZpNmlqWExrMGNKNXQzMlJOcHU1VzNVaXpBNklYeVdPUl9rVk1fR0JLQUJmYS00OThYdHdiOUxCdlB6eFg1cW1zNmJFOTUzV3ZEX2tLN2haZ0hlcGNaY2NUd0ZPa2sxT01NazQ1WkItcGRsNXd5bk0zSllfY3BYcDBUN1FHenFBdDdMa1NZdk5LdzVGUVRBNXIzS2lSam1QdUtwQWxyWWdUazFjNndvQnpDeEFueEV1QzNMSFpldk50RDZVOVBUdU5MRm9OUkxFaGF1TzNCdWNVTWFaOWdUY1ZHSHZR?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 02:22:24 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-15T03:58:41.465740+00:00"
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Zelensky says he\u2019s ready to meet face-to-face with Putin: \u2018Sometimes we need it. Even if we don\u2019t love faces\u2019 - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3BHNjVuRGxNbGM5Ui1SZWVzR1lJU1dEakhlQzdpYzNkSUNQMTZnQ0RXazNWZGc4WEs1QTVyeEVEN29UYm45OXZNcm91QmE3LXNxcjh3NHR4YTd1VG9RQ3E0a2VBa1NwNm5mN2hyd0RGTGtrREt2ODFUcHZsdXhLVEdLTE5KbWNJY2Vod081ZTXSAZYBQVVfeXFMT3BFdzJhTDAzUEYxNFdsandFSEJ6QmpMejBrbXpqMDY1amF6QXljaHk1aDJKMi1HY1lZN2NoNVJTRlYxTm5nR2FBR0R0TUdpWDdQUmpYYjhOOVd1ZmhTMlNERUREekNVSS1vUDN5UVhscFExd0NwVnB3NGpkcVBFOElEVVBtcGE5TGlSTDFZVWlzMGNOQWxB?oc=5",
+        "pubDate": "Sun, 14 Sep 2025 20:45:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-15T04:58:52.421470+00:00"
   }
 }
