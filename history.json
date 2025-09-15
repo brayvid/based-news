@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Actors and directors pledge not to work with Israeli film groups \u2018implicated in genocide\u2019 - The Guardian",
-      "pubDate": "Mon, 08 Sep 2025 15:26:00 GMT"
-    },
-    {
       "title": "Kushner joins Witkoff to meet Netanyahu adviser on Gaza - Axios",
       "pubDate": "Mon, 08 Sep 2025 18:46:40 GMT"
     },
@@ -291,6 +287,10 @@
     {
       "title": "Israel detains dozens of Palestinian men in West Bank - NBC News",
       "pubDate": "Mon, 15 Sep 2025 12:44:19 GMT"
+    },
+    {
+      "title": "Israel threatens Hamas 'wherever they are' as Qatar hosts summit - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 14:07:53 GMT"
     }
   ],
   "donald_trump": [
@@ -1169,16 +1169,16 @@
     {
       "title": "Billionaire Warren Buffett Is Wagering $68 Billion on Just 2 Artificial Intelligence (AI) Stocks - The Globe and Mail",
       "pubDate": "Mon, 15 Sep 2025 08:56:33 GMT"
+    },
+    {
+      "title": "Ancestry CTO\u2019s AI-Agnostic Strategy Processes 65B Records in Days - WebProNews",
+      "pubDate": "Mon, 15 Sep 2025 15:30:39 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Russia would kill civilians in Czechia just like it does in Ukraine, warns spy chief - politico.eu",
       "pubDate": "Mon, 08 Sep 2025 16:45:01 GMT"
-    },
-    {
-      "title": "Trump\u2019s misreading of Russia has cost Ukraine. Now Putin is making his intentions clearer than ever - CNN",
-      "pubDate": "Mon, 08 Sep 2025 15:46:00 GMT"
     },
     {
       "title": "Caring for the caregivers: How Ukraine\u2019s medics get help - The Christian Science Monitor",
@@ -1511,6 +1511,10 @@
     {
       "title": "Russia warns Europe: we will go after any state which takes our assets - Reuters",
       "pubDate": "Mon, 15 Sep 2025 08:59:28 GMT"
+    },
+    {
+      "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
     }
   ],
   "us_economy": [
@@ -1699,13 +1703,13 @@
     {
       "title": "US Challenges China With New Typhon Missile System in Japan - Newsweek",
       "pubDate": "Mon, 15 Sep 2025 14:32:32 GMT"
+    },
+    {
+      "title": "China escalates semiconductor trade war with new probes and tariff threats - Capacity Media",
+      "pubDate": "Mon, 15 Sep 2025 10:04:18 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Supreme Court allows Trump to continue \u2018roving\u2019 ICE patrols in California - CNN",
-      "pubDate": "Mon, 08 Sep 2025 15:41:00 GMT"
-    },
     {
       "title": "House Democrats post 2nd Epstein birthday book page referencing Trump - Axios",
       "pubDate": "Tue, 09 Sep 2025 01:52:30 GMT"
@@ -1997,6 +2001,10 @@
     {
       "title": "A record number of congressional lawmakers aren't running for reelection in 2026. Here's the list - NPR",
       "pubDate": "Mon, 15 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "'Something Dark Might Be Coming': Senator Rebukes Right's Weaponization of Kirk Murder to 'Destroy Dissent' - Common Dreams",
+      "pubDate": "Mon, 15 Sep 2025 14:56:23 GMT"
     }
   ],
   "north_korea": [
@@ -2499,6 +2507,10 @@
     {
       "title": "Quantum Motion delivers silicon CMOS-based quantum computer to UK\u2019s National Quantum Computing Centre - Data Center Dynamics",
       "pubDate": "Mon, 15 Sep 2025 14:42:15 GMT"
+    },
+    {
+      "title": "EuroHPC JU Launches Procurement for Quantum Computer in the Netherlands - HPCwire",
+      "pubDate": "Mon, 15 Sep 2025 15:16:43 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2636,10 +2648,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Scientists find a surprising reason why people are eating more sugar - CNN",
-      "pubDate": "Mon, 08 Sep 2025 15:32:00 GMT"
-    },
     {
       "title": "Climate change is making Americans crave soda to the tune of 100 million pounds of added sugar a year, new study finds - Fortune",
       "pubDate": "Mon, 08 Sep 2025 16:25:00 GMT"
@@ -3111,6 +3119,10 @@
     {
       "title": "Trump agencies halt environmental, health projects in Black communities - The Washington Post",
       "pubDate": "Mon, 15 Sep 2025 14:31:59 GMT"
+    },
+    {
+      "title": "How Climate Scientists Saw the Future Before It Arrived - Quanta Magazine",
+      "pubDate": "Mon, 15 Sep 2025 15:18:23 GMT"
     }
   ],
   "world_news": [
