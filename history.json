@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Gunmen kill five people at Jerusalem bus stop - The Guardian",
-      "pubDate": "Mon, 08 Sep 2025 09:13:00 GMT"
-    },
-    {
-      "title": "Six murdered in Jerusalem terror shooting - JNS.org",
-      "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Israel airstrikes kill 5 in northeastern Lebanon, including 4 Hezbollah members - The Washington Post",
       "pubDate": "Mon, 08 Sep 2025 14:46:11 GMT"
     },
@@ -291,6 +283,10 @@
     {
       "title": "Qatar hosts Arab-Islamic emergency summit over Israeli strike on Doha - BBC",
       "pubDate": "Mon, 15 Sep 2025 06:49:38 GMT"
+    },
+    {
+      "title": "In the Middle East, can old enemies make good neighbors? - The Christian Science Monitor",
+      "pubDate": "Mon, 15 Sep 2025 09:15:00 GMT"
     }
   ],
   "donald_trump": [
@@ -373,6 +369,10 @@
     {
       "title": "Prosecutors moving quickly in trial of Trump\u2019s alleged would-be assassin - CNN",
       "pubDate": "Sun, 14 Sep 2025 21:05:32 GMT"
+    },
+    {
+      "title": "New poll reveals warning signs for Trump with Latino voters - Politico",
+      "pubDate": "Mon, 15 Sep 2025 09:45:00 GMT"
     }
   ],
   "russia": [
@@ -801,6 +801,10 @@
     {
       "title": "India adopts techno-legal path for AI safety: Union minister Ashwini Vaishnaw - The New Indian Express",
       "pubDate": "Mon, 15 Sep 2025 06:41:52 GMT"
+    },
+    {
+      "title": "Is Google Gemini Nano Banana AI tool safe: Privacy, watermarks and other safety concerns that experts war - Times of India",
+      "pubDate": "Mon, 15 Sep 2025 09:04:00 GMT"
     }
   ],
   "financial_markets": [
@@ -887,6 +891,10 @@
     {
       "title": "Why the Fed\u2019s first rate cut in 9 months could derail the stock-market rally \u2014 and how investors can prepare - MarketWatch",
       "pubDate": "Sun, 14 Sep 2025 16:00:00 GMT"
+    },
+    {
+      "title": "South African markets soar despite weak economic data, slow reforms - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 07:45:51 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1499,6 +1507,10 @@
     {
       "title": "Ukraine destroys $40 million Russian Buk air defense system, military intelligence says - The Kyiv Independent",
       "pubDate": "Sun, 14 Sep 2025 20:42:33 GMT"
+    },
+    {
+      "title": "US drone dilemma: Why the most advanced military in the world is playing catchup on the modern battlefield - CNN",
+      "pubDate": "Mon, 15 Sep 2025 09:00:05 GMT"
     }
   ],
   "us_economy": [
@@ -1548,10 +1560,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China Exports to US Slump 33% But Trade Surplus Heads for Record - Bloomberg",
-      "pubDate": "Mon, 08 Sep 2025 09:27:39 GMT"
-    },
     {
       "title": "China\u2019s Green Push May Cut Global Fossil Use by 2030, Says Ember - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 00:00:00 GMT"
@@ -1678,10 +1686,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trial begins for man charged with attempting to assassinate Trump - NPR",
-      "pubDate": "Mon, 08 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 08 Sep 2025 11:44:48 GMT"
@@ -1965,6 +1969,10 @@
     {
       "title": "Trump vows tough action after beheading of Indian motel manager in Dallas - BBC",
       "pubDate": "Mon, 15 Sep 2025 06:39:33 GMT"
+    },
+    {
+      "title": "'We feel like we're in the late '60s': Violence reminder of turbulent era in US politics - The Palm Beach Post",
+      "pubDate": "Mon, 15 Sep 2025 09:07:04 GMT"
     }
   ],
   "north_korea": [
@@ -2247,10 +2255,6 @@
     {
       "title": "Maybell Quantum closes $40m funding round for quantum computing fridges - Data Center Dynamics",
       "pubDate": "Mon, 08 Sep 2025 13:27:05 GMT"
-    },
-    {
-      "title": "Fujitsu, D-Wave, and Quantinuum Show How Quantum Computing Is Moving Into Finance and Telecom - TipRanks",
-      "pubDate": "Mon, 08 Sep 2025 09:12:53 GMT"
     },
     {
       "title": "Surface Code Cultivation Achieves High-Fidelity T States, Advancing Fault-Tolerant Quantum Computing - Quantum Zeitgeist",
@@ -3087,6 +3091,10 @@
     {
       "title": "Scientific Study Declares Polar Ice Rescue Projects Fundamentally Flawed - eu-policies.com",
       "pubDate": "Sun, 14 Sep 2025 22:33:50 GMT"
+    },
+    {
+      "title": "China is quietly saving the world from climate change - Noahpinion | Noah Smith",
+      "pubDate": "Mon, 15 Sep 2025 09:07:26 GMT"
     }
   ],
   "world_news": [
@@ -3126,10 +3134,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Stellantis to scrap target of 100% EVs by 2030, says Europe chief - Reuters",
-      "pubDate": "Mon, 08 Sep 2025 09:19:39 GMT"
-    },
     {
       "title": "Tesla veers away from EV dominance - E&E News by POLITICO",
       "pubDate": "Wed, 10 Sep 2025 10:27:00 GMT"
