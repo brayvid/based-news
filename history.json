@@ -805,13 +805,13 @@
     {
       "title": "New McAfee Kids Online Safety Research Finds Cyberbullying and AI Manipulated Content Top Parents\u2019 Concerns - Business Wire",
       "pubDate": "Mon, 15 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence models need psychiatric safety testing to reduce risk of AI psychosis. - Psychology Today",
+      "pubDate": "Mon, 15 Sep 2025 16:25:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Mortgage rates take a dive on reports of a worsening U.S. economy - MarketWatch",
-      "pubDate": "Mon, 08 Sep 2025 17:01:00 GMT"
-    },
     {
       "title": "Stocks hang near their records as hopes for rate cuts underpin markets - Castanet",
       "pubDate": "Tue, 09 Sep 2025 14:00:00 GMT"
@@ -898,10 +898,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "80% of ransomware attacks now use artificial intelligence - MIT Sloan",
-      "pubDate": "Mon, 08 Sep 2025 16:41:36 GMT"
-    },
     {
       "title": "How to regulate artificial intelligence - Harvard Gazette",
       "pubDate": "Mon, 08 Sep 2025 17:53:26 GMT"
@@ -1176,10 +1172,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia would kill civilians in Czechia just like it does in Ukraine, warns spy chief - politico.eu",
-      "pubDate": "Mon, 08 Sep 2025 16:45:01 GMT"
-    },
     {
       "title": "Caring for the caregivers: How Ukraine\u2019s medics get help - The Christian Science Monitor",
       "pubDate": "Mon, 08 Sep 2025 19:29:43 GMT"
@@ -1518,10 +1510,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Paychecks, not prices, are now the bigger worry - The Boston Globe",
-      "pubDate": "Mon, 08 Sep 2025 16:44:16 GMT"
-    },
     {
       "title": "Why a near-fistfight at a MAGA nightspot spells danger for the global economy - CNN",
       "pubDate": "Tue, 09 Sep 2025 04:00:00 GMT"
@@ -2117,6 +2105,10 @@
     {
       "title": "Massive Data Leak Reveals 500GB+ from China\u2019s Great Firewall - Cyber Press",
       "pubDate": "Mon, 15 Sep 2025 07:10:56 GMT"
+    },
+    {
+      "title": "Closing the Cybersecurity Comms Gap - IBM",
+      "pubDate": "Mon, 15 Sep 2025 12:29:40 GMT"
     }
   ],
   "federal_reserve": [
@@ -2268,14 +2260,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Surface Code Cultivation Achieves High-Fidelity T States, Advancing Fault-Tolerant Quantum Computing - Quantum Zeitgeist",
-      "pubDate": "Mon, 08 Sep 2025 16:29:12 GMT"
-    },
-    {
-      "title": "Quantum Computing Could Leave A Shocking $879 Billion Of Bitcoin Up For Grabs \u2013 Here\u2019s How! - Wccftech",
-      "pubDate": "Mon, 08 Sep 2025 16:22:00 GMT"
-    },
     {
       "title": "New Mexico and DARPA Launch Quantum Frontier Project - Environment+Energy Leader",
       "pubDate": "Mon, 08 Sep 2025 22:00:00 GMT"
@@ -2511,6 +2495,10 @@
     {
       "title": "EuroHPC JU Launches Procurement for Quantum Computer in the Netherlands - HPCwire",
       "pubDate": "Mon, 15 Sep 2025 15:16:43 GMT"
+    },
+    {
+      "title": "Building software for quantum-centric supercomputing - IBM Research",
+      "pubDate": "Mon, 15 Sep 2025 14:31:44 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2649,20 +2637,8 @@
   ],
   "climate_change": [
     {
-      "title": "Climate change is making Americans crave soda to the tune of 100 million pounds of added sugar a year, new study finds - Fortune",
-      "pubDate": "Mon, 08 Sep 2025 16:25:00 GMT"
-    },
-    {
-      "title": "How Is Climate Change Impacting Home Insurance Rates? | Homeowners Insurance | U.S. News - U.S. News & World Report",
-      "pubDate": "Mon, 08 Sep 2025 16:01:19 GMT"
-    },
-    {
       "title": "UNICEF: More than 6M kids will fall into poverty due to climate change - upi.com",
       "pubDate": "Mon, 08 Sep 2025 18:42:57 GMT"
-    },
-    {
-      "title": "Scientists Just Discovered a Massive Source of Drinking Water Hiding Beneath the Atlantic Ocean - ZME Science",
-      "pubDate": "Mon, 08 Sep 2025 16:16:43 GMT"
     },
     {
       "title": "Trump Is Dismantling Climate Science at a Dangerous Pace - Bloomberg.com",
@@ -3229,6 +3205,10 @@
     {
       "title": "Can China stop its EV price wars? - Financial Times",
       "pubDate": "Mon, 15 Sep 2025 03:29:01 GMT"
+    },
+    {
+      "title": "Tesla shares gain as Elon Musk reveals rare $1 billion stock buy in sign of confidence in EV maker - CNBC",
+      "pubDate": "Mon, 15 Sep 2025 10:30:51 GMT"
     }
   ],
   "technology": [
@@ -3295,6 +3275,10 @@
     {
       "title": "Why Fed rate cuts won't help US economy: JPMorgan's David Kelly - Business Insider",
       "pubDate": "Mon, 08 Sep 2025 17:06:00 GMT"
+    },
+    {
+      "title": "A top economist says there's an 'uncomfortably high' chance that the US is heading into a recession in the next year - Business Insider",
+      "pubDate": "Mon, 15 Sep 2025 15:10:00 GMT"
     }
   ],
   "space_exploration": [
@@ -3323,6 +3307,10 @@
     {
       "title": "Platform protest chaos code: Programmed algorithmic uprising revealed - The Sunday Guardian",
       "pubDate": "Sat, 13 Sep 2025 22:06:28 GMT"
+    },
+    {
+      "title": "AI Algorithm Using Routine Mammograms and Age Accurately Predicts Major Cardiovascular Disease Risk in Women - BIOENGINEER.ORG",
+      "pubDate": "Mon, 15 Sep 2025 08:18:48 GMT"
     }
   ],
   "world_economy": [
@@ -3463,6 +3451,12 @@
     {
       "title": "Russia's central bank reveals GDP is shrinking, in a sign Putin's war economy has slipped into recession - Fortune",
       "pubDate": "Sat, 13 Sep 2025 16:45:00 GMT"
+    }
+  ],
+  "alternative_energy": [
+    {
+      "title": "Longroad Energy Achieves Financial Close of 1000 Mile Solar, a 400 MWdc Project - PR Newswire",
+      "pubDate": "Mon, 15 Sep 2025 12:00:00 GMT"
     }
   ]
 }
