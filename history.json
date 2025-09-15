@@ -287,10 +287,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump\u2019s Lewd Birthday Letter to Jeffrey Epstein Emerges - New York Magazine",
-      "pubDate": "Mon, 08 Sep 2025 19:29:06 GMT"
-    },
-    {
       "title": "The Epstein Letter Is Real, and It\u2019s Bad - The Atlantic",
       "pubDate": "Mon, 08 Sep 2025 22:04:00 GMT"
     },
@@ -369,6 +365,10 @@
     {
       "title": "Donald Trump\u2019s new SEC appointee scraps aggressive enforcement agenda - Financial Times",
       "pubDate": "Mon, 15 Sep 2025 04:00:12 GMT"
+    },
+    {
+      "title": "Trump suggests TikTok deal, will talk to China's Xi on Friday - Axios",
+      "pubDate": "Mon, 15 Sep 2025 13:30:14 GMT"
     }
   ],
   "russia": [
@@ -541,10 +541,6 @@
     {
       "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
       "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
-    },
-    {
-      "title": "Anthropic supports California's AI law - because Washington is too slow - the-decoder.com",
-      "pubDate": "Mon, 08 Sep 2025 19:27:12 GMT"
     },
     {
       "title": "Aligning security and economic interests in the age of AI - United States Studies Centre",
@@ -805,6 +801,10 @@
     {
       "title": "California Wraps Up Legislative Session With AI, Chatbot Measures Under Consideration - CCIA",
       "pubDate": "Mon, 15 Sep 2025 17:14:15 GMT"
+    },
+    {
+      "title": "Utah aims to be at forefront of AI technology, with emphasis on safety - KSL.com",
+      "pubDate": "Mon, 15 Sep 2025 12:18:53 GMT"
     }
   ],
   "financial_markets": [
@@ -1165,10 +1165,6 @@
   ],
   "ukraine": [
     {
-      "title": "Caring for the caregivers: How Ukraine\u2019s medics get help - The Christian Science Monitor",
-      "pubDate": "Mon, 08 Sep 2025 19:29:43 GMT"
-    },
-    {
       "title": "Zelenskyy's chief of staff discusses Russian strikes on Ukrainian targets with Rubio - Deccan Herald",
       "pubDate": "Mon, 08 Sep 2025 23:10:03 GMT"
     },
@@ -1495,6 +1491,10 @@
     {
       "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
       "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
+    },
+    {
+      "title": "Ukraine Military Shake-Up: Top Officers Sacked After Frontline Losses - Deccan Herald",
+      "pubDate": "Mon, 15 Sep 2025 18:41:59 GMT"
     }
   ],
   "us_economy": [
@@ -2101,6 +2101,10 @@
     {
       "title": "AI startup Terra Security raises $30M Series A for continuous penetration testing - CTech",
       "pubDate": "Mon, 15 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "CISA audit sparks debate about cybersecurity pay incentives - Cybersecurity Dive",
+      "pubDate": "Mon, 15 Sep 2025 16:03:13 GMT"
     }
   ],
   "federal_reserve": [
@@ -2150,10 +2154,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "NPM Attack: Javascript Library Compromise Goes After Bitcoin Wallets - Bitcoin Magazine",
-      "pubDate": "Mon, 08 Sep 2025 19:51:08 GMT"
-    },
     {
       "title": "Bitcoin wobbles after shocking US jobs revision: What\u2019s next for BTC? - Cointelegraph",
       "pubDate": "Tue, 09 Sep 2025 20:00:39 GMT"
@@ -2253,6 +2253,10 @@
     {
       "title": "France sets new world record by keeping a fusion reactor running for 22 minutes - Earth.com",
       "pubDate": "Mon, 15 Sep 2025 15:52:37 GMT"
+    },
+    {
+      "title": "Fusion Power Possible in Eight Years, US Energy Chief Says - Bloomberg Law News",
+      "pubDate": "Mon, 15 Sep 2025 16:42:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -3099,6 +3103,10 @@
     {
       "title": "A new study finds eastern Colorado is drying faster than the Western Slope due to climate change - Colorado Public Radio",
       "pubDate": "Mon, 15 Sep 2025 10:02:32 GMT"
+    },
+    {
+      "title": "Trump lieutenants tell Europe to stop worrying about climate change - politico.eu",
+      "pubDate": "Mon, 15 Sep 2025 17:54:53 GMT"
     }
   ],
   "world_news": [
@@ -3135,6 +3143,10 @@
     {
       "title": "Booking Holdings: Market-Beating Algorithm Shines Amid Geopolitical Uncertainty (Rating Upgrade) - Seeking Alpha",
       "pubDate": "Mon, 15 Sep 2025 01:02:16 GMT"
+    },
+    {
+      "title": "South Africa Wants BRICS To Become a Global Naval Force - Foundation for Defense of Democracies",
+      "pubDate": "Mon, 15 Sep 2025 14:07:40 GMT"
     }
   ],
   "electric_vehicle": [
