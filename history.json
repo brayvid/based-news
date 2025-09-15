@@ -291,6 +291,10 @@
     {
       "title": "Hannah Einbinder and Javier Bardem among Emmy stars to call for Gaza ceasefire - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 04:52:00 GMT"
+    },
+    {
+      "title": "The bitter relationship between Israel and Arab states - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 08:15:04 GMT"
     }
   ],
   "donald_trump": [
@@ -377,6 +381,10 @@
     {
       "title": "New poll reveals warning signs for Trump with Latino voters - Politico",
       "pubDate": "Mon, 15 Sep 2025 09:45:00 GMT"
+    },
+    {
+      "title": "Donald Trump\u2019s new SEC appointee scraps aggressive enforcement agenda - Financial Times",
+      "pubDate": "Mon, 15 Sep 2025 04:00:12 GMT"
     }
   ],
   "russia": [
@@ -903,10 +911,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI's impact in the workforce is \u2018small,' but it\u2019s not \u2018zero,\u2019 labor economist says - CNBC",
-      "pubDate": "Mon, 08 Sep 2025 11:00:01 GMT"
-    },
-    {
       "title": "AI chatbots can fuel dependence and blur boundaries. Here are the red flags. - Psychology Today",
       "pubDate": "Mon, 08 Sep 2025 13:22:14 GMT"
     },
@@ -917,10 +921,6 @@
     {
       "title": "How to regulate artificial intelligence - Harvard Gazette",
       "pubDate": "Mon, 08 Sep 2025 17:53:26 GMT"
-    },
-    {
-      "title": "AI could make most people poorer, warns top AI pioneer - Windows Central",
-      "pubDate": "Mon, 08 Sep 2025 11:41:35 GMT"
     },
     {
       "title": "Artificial intelligence in the office and the factory: Evidence from administrative software registry data - CEPR",
@@ -1177,17 +1177,13 @@
     {
       "title": "AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns - The Hacker News",
       "pubDate": "Mon, 15 Sep 2025 07:12:00 GMT"
+    },
+    {
+      "title": "We set out to craft the perfect phishing scam. Major AI chatbots were happy to help. - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 10:30:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Video Ukraine hit by biggest Russian drone attack since start of war - ABC News",
-      "pubDate": "Mon, 08 Sep 2025 11:27:46 GMT"
-    },
-    {
-      "title": "HUR Cyber Corps blocks fuel cards in Russia, disrupts dozens of online platforms - source - Ukrinform",
-      "pubDate": "Mon, 08 Sep 2025 11:26:00 GMT"
-    },
     {
       "title": "Russia would kill civilians in Czechia just like it does in Ukraine, warns spy chief - politico.eu",
       "pubDate": "Mon, 08 Sep 2025 16:45:01 GMT"
@@ -1515,6 +1511,10 @@
     {
       "title": "Cluster munitions cause more than 1,200 civilian casualties in Ukraine war, global monitor says - Reuters",
       "pubDate": "Mon, 15 Sep 2025 09:52:14 GMT"
+    },
+    {
+      "title": "Inside the Deadly Game of Drone Warfare - The Atlantic",
+      "pubDate": "Mon, 15 Sep 2025 11:30:00 GMT"
     }
   ],
   "us_economy": [
@@ -1691,17 +1691,13 @@
     {
       "title": "Charges dropped against two men accused of spying for China - BBC",
       "pubDate": "Mon, 15 Sep 2025 09:59:36 GMT"
+    },
+    {
+      "title": "Exclusive: US Democrats press Trump for a trade deal that curbs China's production - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 09:40:06 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 08 Sep 2025 11:44:48 GMT"
-    },
-    {
-      "title": "Live updates: Trump's approval is underwater, but Gen Z's divided, poll finds - NBC News",
-      "pubDate": "Mon, 08 Sep 2025 11:55:36 GMT"
-    },
     {
       "title": "Trump policies deeply unpopular in Colorado poll - Axios",
       "pubDate": "Mon, 08 Sep 2025 12:15:44 GMT"
@@ -1985,6 +1981,10 @@
     {
       "title": "The art of the fawn: pouring praise on Trump is latest political phenomenon - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 10:04:00 GMT"
+    },
+    {
+      "title": "The Corporate Power Reset That Makes Citizens United Irrelevant - Center for American Progress",
+      "pubDate": "Mon, 15 Sep 2025 09:02:42 GMT"
     }
   ],
   "north_korea": [
@@ -2026,10 +2026,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Cybersecurity firm Netskope eyes up to $6.5 billion valuation in US IPO - Reuters",
-      "pubDate": "Mon, 08 Sep 2025 11:29:48 GMT"
-    },
     {
       "title": "Hackers threaten to turn stolen art into AI training data - Politico",
       "pubDate": "Mon, 08 Sep 2025 14:00:00 GMT"
@@ -2260,10 +2256,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "What is a quantum computer's speed limit? Entanglement can provide an answer - Phys.org",
-      "pubDate": "Mon, 08 Sep 2025 11:21:04 GMT"
-    },
     {
       "title": "Maybell Quantum closes $40m funding round for quantum computing fridges - Data Center Dynamics",
       "pubDate": "Mon, 08 Sep 2025 13:27:05 GMT"
@@ -2628,10 +2620,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Satellites demonstrate that cities can clean up the air and cut climate pollution at the same time - Yale Climate Connections",
-      "pubDate": "Mon, 08 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "Can America thrive in an economy without fossil fuels? Of course! - The Hill",
       "pubDate": "Mon, 08 Sep 2025 12:00:00 GMT"
@@ -3099,6 +3087,10 @@
     {
       "title": "California will fare better than other states as Trump guts climate reporting rules - Los Angeles Times",
       "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Climate change fuels interest in technology once considered \"science fiction\" - Axios",
+      "pubDate": "Mon, 15 Sep 2025 11:35:32 GMT"
     }
   ],
   "world_news": [
@@ -3287,12 +3279,6 @@
     {
       "title": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says - ABC News",
       "pubDate": "Thu, 11 Sep 2025 16:52:04 GMT"
-    }
-  ],
-  "battery_technology": [
-    {
-      "title": "Zinc-Iodide Battery Tech Disrupts $293B Energy Storage Market - Forbes",
-      "pubDate": "Mon, 08 Sep 2025 11:00:00 GMT"
     }
   ],
   "terrorism": [
