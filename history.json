@@ -5,10 +5,6 @@
       "pubDate": "Mon, 08 Sep 2025 18:46:40 GMT"
     },
     {
-      "title": "Over 1,300 artists vow boycott of Israeli film institutions amid Gaza war - Al Jazeera",
-      "pubDate": "Mon, 08 Sep 2025 17:17:15 GMT"
-    },
-    {
       "title": "Israel strikes in vicinity of three Syrian cities, Syrian media say - Reuters",
       "pubDate": "Mon, 08 Sep 2025 22:11:55 GMT"
     },
@@ -539,13 +535,13 @@
     {
       "title": "\"Attempts To Harm Ties With India Will Fail\": Russia Amid Trump's Tariffs - NDTV",
       "pubDate": "Mon, 15 Sep 2025 05:03:41 GMT"
+    },
+    {
+      "title": "US military officers observe Russia-Belarus war games as Trump gets closer to Minsk - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 17:04:08 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Anthropic supports California's AI safety bill despite pushback from many in tech world (AMZN:NASDAQ) - Seeking Alpha",
-      "pubDate": "Mon, 08 Sep 2025 17:21:18 GMT"
-    },
     {
       "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
       "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
@@ -809,6 +805,10 @@
     {
       "title": "Artificial intelligence models need psychiatric safety testing to reduce risk of AI psychosis. - Psychology Today",
       "pubDate": "Mon, 15 Sep 2025 16:25:00 GMT"
+    },
+    {
+      "title": "California Wraps Up Legislative Session With AI, Chatbot Measures Under Consideration - CCIA",
+      "pubDate": "Mon, 15 Sep 2025 17:14:15 GMT"
     }
   ],
   "financial_markets": [
@@ -898,10 +898,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How to regulate artificial intelligence - Harvard Gazette",
-      "pubDate": "Mon, 08 Sep 2025 17:53:26 GMT"
-    },
     {
       "title": "Artificial intelligence in the office and the factory: Evidence from administrative software registry data - CEPR",
       "pubDate": "Mon, 08 Sep 2025 23:07:06 GMT"
@@ -1175,10 +1171,6 @@
     {
       "title": "Caring for the caregivers: How Ukraine\u2019s medics get help - The Christian Science Monitor",
       "pubDate": "Mon, 08 Sep 2025 19:29:43 GMT"
-    },
-    {
-      "title": "Ukraine war increasingly likely to go into 2026, military analyst says - CNN",
-      "pubDate": "Mon, 08 Sep 2025 17:53:15 GMT"
     },
     {
       "title": "Zelenskyy's chief of staff discusses Russian strikes on Ukrainian targets with Rubio - Deccan Herald",
@@ -2109,6 +2101,10 @@
     {
       "title": "Closing the Cybersecurity Comms Gap - IBM",
       "pubDate": "Mon, 15 Sep 2025 12:29:40 GMT"
+    },
+    {
+      "title": "AI startup Terra Security raises $30M Series A for continuous penetration testing - CTech",
+      "pubDate": "Mon, 15 Sep 2025 11:00:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2257,6 +2253,10 @@
     {
       "title": "\"China's Artificial Sun Burns at 180 Million Degrees\": EAST Reactor Maintains Nuclear Fusion for Record-Breaking 1,066 Seconds - Energy Reporters",
       "pubDate": "Sun, 14 Sep 2025 13:55:00 GMT"
+    },
+    {
+      "title": "France sets new world record by keeping a fusion reactor running for 22 minutes - Earth.com",
+      "pubDate": "Mon, 15 Sep 2025 15:52:37 GMT"
     }
   ],
   "quantum_computing": [
@@ -2499,6 +2499,10 @@
     {
       "title": "Building software for quantum-centric supercomputing - IBM Research",
       "pubDate": "Mon, 15 Sep 2025 14:31:44 GMT"
+    },
+    {
+      "title": "NERSC/LBNL Report Delivers Deep Dive into Quantum Computing - HPCwire",
+      "pubDate": "Mon, 15 Sep 2025 16:07:03 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3099,6 +3103,10 @@
     {
       "title": "How Climate Scientists Saw the Future Before It Arrived - Quanta Magazine",
       "pubDate": "Mon, 15 Sep 2025 15:18:23 GMT"
+    },
+    {
+      "title": "A new study finds eastern Colorado is drying faster than the Western Slope due to climate change - Colorado Public Radio",
+      "pubDate": "Mon, 15 Sep 2025 10:02:32 GMT"
     }
   ],
   "world_news": [
@@ -3273,10 +3281,6 @@
   ],
   "recession": [
     {
-      "title": "Why Fed rate cuts won't help US economy: JPMorgan's David Kelly - Business Insider",
-      "pubDate": "Mon, 08 Sep 2025 17:06:00 GMT"
-    },
-    {
       "title": "A top economist says there's an 'uncomfortably high' chance that the US is heading into a recession in the next year - Business Insider",
       "pubDate": "Mon, 15 Sep 2025 15:10:00 GMT"
     }
@@ -3311,6 +3315,10 @@
     {
       "title": "AI Algorithm Using Routine Mammograms and Age Accurately Predicts Major Cardiovascular Disease Risk in Women - BIOENGINEER.ORG",
       "pubDate": "Mon, 15 Sep 2025 08:18:48 GMT"
+    },
+    {
+      "title": "GM-QAOA Avoids Barren Plateaus, Demonstrating Dynamical Lie Algebra Isomorphism to Or, Maximizing Conserved Quantities - Quantum Zeitgeist",
+      "pubDate": "Mon, 15 Sep 2025 11:11:36 GMT"
     }
   ],
   "world_economy": [
