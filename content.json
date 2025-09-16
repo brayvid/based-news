@@ -1,72 +1,42 @@
 {
-  "Gaza": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "Israeli military launches ground offensive to occupy Gaza City, Axios reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHAtMHRHT05GWk15X001UEVQOGpKeW5ZSTBSVnRHQ2VZZWgzVWpDVWtDbF9Hb1F3MG9JcTlUS29sVWFHcFRuYmp3ckpyYWlxQ0hnS2M3bzJmNHRKb2FzSHlDWEdINlR6anFzS1lSZ0h4X2kzMlBscFpjNUJIY29HWUJibFRSNG1SaVYweVFDNUdpNE1mSUNzUGt3ak9VemdsSm5hZV9WSmpvaXdvTlVQMkRSdDVYbzZJVVFIOEJyakNlUE8tRUE?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 23:10:32 GMT"
+        "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRQUkFBemxfUkVpR2taY1EtSG5uYjdIQlA4UjMtTllKQTh2THpRS3BoZV9wd1hXbFhMMTVVSEhlTUs4WTRnWmpDbmd2a29uQ3NCS0p3VW45XzFKYjQ2bGd6RF9kWU1vTXB1Z0pfbmFmOUJDQnFYNWdHanNheUR1R3lDYjNnaEo3enN6OGNMalBHZ2dkLWg2Y0NjQnhKWVVkZFdtVGNxRXZMOU5HMUVNczhZTQ?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
+    "last_updated_ts": "2025-09-16T01:01:10.206573+00:00"
   },
-  "Climate Change": {
+  "Financial Markets": {
     "articles": [
       {
-        "title": "Environmental groups are suing to silence scientists who wrote a report questioning climate change alarmism - Reason Magazine",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVZYV3Nub2V0R0J5UVo5SG1RY1l0dGlydmNNNG5Uc2czWVBreWdvQXJNaFF3UUZGQjhHQzltR3RGM1ZZdGZVQW8tdU85NWxmT3Bsam5xSDJyYzVid1ZUUlBSSGJEczRtUTNMV1lnSU5jTjBpOUJGYlFQS2hYSVJhenJzRXVLdjRZN3Z4V01YN0p1anR4MGZoZG5LOFlPdTgyUW1nZS1FSERRUkVVa21lWUVlWXIzNnZBNVFEVUg2UktlczFEUk1KVEtCRTgza0lnem50Ng?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 19:53:40 GMT"
+        "title": "JPMorgan\u2019s Kelly Warns Fed Cuts Risk Hurting Stocks and Bonds - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM05lYUVQc0l2YkJsOGtNRXk1dTRWUVA5LUJma2wzWDE4SG9hTmNhNjBkQmFyT204eHhqajdmSk5jcUp0ZlRzanFEMENDZmtoWEkwNFRpNEx5MXJxdUhVZ0FlOXJpVmhpYkhZWE13RnNfdVFYTFpPU2ZPVjVzVW8tUWgwQVl3eXc1WnIySmpGTWtEdmFsSGpwRUZhU2lSQ0RKRlJ4YkgtSktCR2xIenZJczd3?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 17:24:31 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
+    "last_updated_ts": "2025-09-16T01:01:10.206573+00:00"
   },
-  "Artificial Intelligence": {
+  "Energy Transition": {
     "articles": [
       {
-        "title": "Bridging gap between artificial intelligence, real-world health outcomes - Rice University",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDlUMVNpU2FjcTB1bFQxRXFKMnlxa1BKaFVNRWxaSGRRMHFSY1UtT21NaE1Ed0dQeVREY0VVcnJ4bDhIU2JOTWMtRFZ2WU9yV0otQ3pOZ1NZbzVFYWxKUDRPamF0bW5kb0NPT2dnQVFtQmJxWFVMRVhBWG5EOUR0eXB2ejJ4LW5FLWZ3UTJyb0llQ1hTWDBXZGxkRGw4eFVlVE9fdndB?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 19:00:23 GMT"
+        "title": "US businesses \u2018remain in the energy transition\u2019 despite policy moves - gasworld",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZllvOXl2SFQ3dGRVR1pYeTB2NVRWM2xyUzh5dmZnYWNkeGg2T0xnV3VZVnJYM2xwZ0p6NFBJVEVKMXlkcHE1TDM2ZXdFaFRMMi02cmZ3SlhkdTlBRkJzZnAwYjZQWklxOEp4Q0ZGbEp4QmFlNUNCSEcxR2lHSG4zc1k0bjNyRDJkUnRoTDFIM2d2Z1BaVG02b3hnaG1TX2lfUVhUMnBpMzhzRFVhVk1qZW5OVUQ?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 15:38:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
+    "last_updated_ts": "2025-09-16T01:01:10.206573+00:00"
   },
-  "US Politics": {
+  "Global Health": {
     "articles": [
       {
-        "title": "What Does \u2018Real Unity\u2019 Mean to the White House? - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREtjdDRFMFRDRVNPVXB6a3E3dGd3bHpiYmJPeFhkOHhhblpyYWhOT1lCNW1jZndUWTNNbGxNWlB1VmFpa09oSmkybXpqeU90cm85WHkyYks0OGJMR1UxWTZDSVJLa0w5d2UwZUY0TUY4cExrRnlOSlN1UC05YnJQM0s3VUotZw?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 23:23:07 GMT"
+        "title": "WHO backs weight-loss drugs for obesity and urges change in mindset - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1cyN1djZG5WWXhOQTZOdGhXeHBwa0pTRVhiNm1HMGc4QjZKMWJVR0o1VmtJZlA2c08tbDhoSEs0SXVFcHpmdnZGRy1oMF9iaWFVMko4bnZCbW1PVERQQlJMRkI2SjBDMWd1SU9mYmF3dEtqS2IwRXVmMW9ydVZCMVdtTjNQNF9FWFUzUnJKczU5eTRJS1p0QUdWcjczQmlLbkxSQUplOEEzOHNpZG5IUkZwUFpGTzVycDdxNUxVamg0Z2hZMzU4?oc=5",
+        "pubDate": "Mon, 15 Sep 2025 16:59:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Opinion | Trump has a point about Europe\u2019s reliance on Russian oil - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTViMFljeFZmOS1WbEdoSTFGdUVXN0ZmeXNUV1lsQkpGaUJIemR0V3lud3I3cU1jVWJfM1BUSjFQNGUzeXVUN1RUeFRNcUlxdnNKU1Z2ZkJvTXpoaGxyNzRYbkFIbXBUZUdsUnNYVTl6R0syUjB1NVU0YVRQMDUzMjlIb04xc1d3b0NLd01SNFU?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 23:18:32 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Analysts See over 20% Upside in These 3 Quantum Computing Stocks \u2013 9/15/2025 - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGpvUVBKczU4ODdZUkp4V3dOeWp2N0hWNGxfNTlETUttUl9QYnRQSWZFMEFPdUFORE5tWlhuODRUOXgyZDNaN3BDUTc5ZjRDLTBJQlBNTTBleFdrVE9vRG40dVBiSTdCOWZCTE9HRkR3eVZlbGxCV2M0VVI0aG5pLUdaNUpacVJxanJFUjVCVkV5VGswdW82RFRjaVFYbENfWUZyQ0FR?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 21:09:59 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
-  },
-  "Cybersecurity": {
-    "articles": [
-      {
-        "title": "Columbus cybersecurity report still not released 1 year after attack - 10tv.com",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0syUXdIMTBsREk1S19EX3Izckg1cjk3ZUk0bXpTYTMwVzVjZmRjS3d0cnhwM01zODhaQWNVWXZ5ZHpHcGx4MkJMRFd0eGNuUmQzdHRyeGVJeXVWVE1HQWR3ZkFNSTR2aC11bHZNcklidUpGekl3QndOazZXQWs5T3g5WDJvLVVjNGw0cGNPSlhobkFLclU3QXVDRGE5UUQxeEs1ci11eTZiSWVKSkpKRlBLLTgtbVRSLVJyenJ2X3dIOGdQSmVvczlENHIzcmlITlZYcHJmU2tMakU?oc=5",
-        "pubDate": "Mon, 15 Sep 2025 23:10:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-16T00:01:14.120687+00:00"
+    "last_updated_ts": "2025-09-16T01:01:10.206573+00:00"
   }
 }

@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Syria accuses Israel of carrying out air strikes - BBC",
-      "pubDate": "Tue, 09 Sep 2025 00:58:50 GMT"
-    },
-    {
       "title": "London arms show opens under Israel cloud - France 24",
       "pubDate": "Tue, 09 Sep 2025 03:35:18 GMT"
     },
@@ -543,10 +539,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
-      "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
-    },
-    {
       "title": "Aligning security and economic interests in the age of AI - United States Studies Centre",
       "pubDate": "Tue, 09 Sep 2025 03:39:55 GMT"
     },
@@ -813,6 +805,10 @@
     {
       "title": "World Shipping Council Wants to Use AI to Better Cargo Safety - Sourcing Journal",
       "pubDate": "Mon, 15 Sep 2025 19:08:24 GMT"
+    },
+    {
+      "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
+      "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -903,6 +899,10 @@
     {
       "title": "BIS warns of mounting disconnect between debt and stock markets - Reuters",
       "pubDate": "Mon, 15 Sep 2025 14:31:43 GMT"
+    },
+    {
+      "title": "JPMorgan\u2019s Kelly Warns Fed Cuts Risk Hurting Stocks and Bonds - Bloomberg.com",
+      "pubDate": "Mon, 15 Sep 2025 17:24:31 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -3309,16 +3309,16 @@
   ],
   "energy_transition": [
     {
-      "title": "China Energy Transition Review 2025 - ember-energy.org",
-      "pubDate": "Tue, 09 Sep 2025 00:09:11 GMT"
-    },
-    {
       "title": "LONGi Chairman Zhong Baoshen advocates for supporting Energy Just Transition through global cooperation in PV technology - PV Tech",
       "pubDate": "Sat, 13 Sep 2025 02:03:28 GMT"
     },
     {
       "title": "Chart Shows China Winning Global Clean Energy Race - Newsweek",
       "pubDate": "Sat, 13 Sep 2025 08:00:03 GMT"
+    },
+    {
+      "title": "US businesses \u2018remain in the energy transition\u2019 despite policy moves - gasworld",
+      "pubDate": "Mon, 15 Sep 2025 15:38:32 GMT"
     }
   ],
   "world_politics": [
@@ -3347,6 +3347,10 @@
     {
       "title": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says - ABC News",
       "pubDate": "Thu, 11 Sep 2025 16:52:04 GMT"
+    },
+    {
+      "title": "WHO backs weight-loss drugs for obesity and urges change in mindset - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 16:59:13 GMT"
     }
   ],
   "terrorism": [
