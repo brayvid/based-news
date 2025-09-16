@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "London arms show opens under Israel cloud - France 24",
-      "pubDate": "Tue, 09 Sep 2025 03:35:18 GMT"
-    },
-    {
       "title": "Britain has not concluded Israel's actions in Gaza are genocide - Reuters",
       "pubDate": "Tue, 09 Sep 2025 08:54:18 GMT"
     },
@@ -291,6 +287,10 @@
     {
       "title": "Does Israel face a 'South Africa moment' over Gaza? - BBC",
       "pubDate": "Mon, 15 Sep 2025 18:37:26 GMT"
+    },
+    {
+      "title": "Rubio affirms U.S. support for Israel\u2019s vision of military victory in Gaza - PBS",
+      "pubDate": "Mon, 15 Sep 2025 22:55:28 GMT"
     }
   ],
   "donald_trump": [
@@ -376,10 +376,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "The Wrong Way to Do Diplomacy With Russia - Foreign Affairs",
-      "pubDate": "Tue, 09 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "NATO Ally Reacts to Russia's New 'Radar Station' on NATO Lake - Newsweek",
       "pubDate": "Tue, 09 Sep 2025 12:17:59 GMT"
@@ -546,10 +542,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Aligning security and economic interests in the age of AI - United States Studies Centre",
-      "pubDate": "Tue, 09 Sep 2025 03:39:55 GMT"
-    },
     {
       "title": "Claude Code runs code to test if is safe, which has risks - theregister.com",
       "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
@@ -817,6 +809,10 @@
     {
       "title": "Apple Introduces AI-Driven Safety Tools in iOS 26 for Child Protection - WebProNews",
       "pubDate": "Mon, 15 Sep 2025 19:31:46 GMT"
+    },
+    {
+      "title": "Advancing safety analytics in Australian manufacturing with generative AI - Manufacturers' Monthly",
+      "pubDate": "Tue, 16 Sep 2025 03:49:40 GMT"
     }
   ],
   "financial_markets": [
@@ -911,6 +907,10 @@
     {
       "title": "JPMorgan\u2019s Kelly Warns Fed Cuts Risk Hurting Stocks and Bonds - Bloomberg.com",
       "pubDate": "Mon, 15 Sep 2025 17:24:31 GMT"
+    },
+    {
+      "title": "RBC Capital raises year-end S&P 500 target, but sees \u2018choppy\u2019 action after big rally - CNBC",
+      "pubDate": "Mon, 15 Sep 2025 17:19:16 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1184,14 +1184,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine battles air defence shortage as Pentagon slows shipments - Financial Times",
-      "pubDate": "Tue, 09 Sep 2025 04:00:10 GMT"
-    },
-    {
-      "title": "Gaza aid flotilla says boat struck by drone in Tunisian waters, authorities deny claim - France 24",
-      "pubDate": "Tue, 09 Sep 2025 03:05:18 GMT"
-    },
     {
       "title": "A Russian Iskander missile struck Ukraine's Cabinet building, but photos indicate its warhead failed to detonate - Business Insider",
       "pubDate": "Tue, 09 Sep 2025 06:58:00 GMT"
@@ -1515,13 +1507,13 @@
     {
       "title": "Czech ammo lifeline for Ukraine comes under fire at home - politico.eu",
       "pubDate": "Tue, 16 Sep 2025 02:55:21 GMT"
+    },
+    {
+      "title": "The Ghost of Finlandization Is Haunting the Ukraine Debate - Foreign Policy",
+      "pubDate": "Mon, 15 Sep 2025 16:27:05 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Why a near-fistfight at a MAGA nightspot spells danger for the global economy - CNN",
-      "pubDate": "Tue, 09 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
       "pubDate": "Tue, 09 Sep 2025 14:20:46 GMT"
@@ -2013,6 +2005,10 @@
     {
       "title": "JD Vance says national unity is impossible with those celebrating Charlie Kirk's killing - Daily Herald",
       "pubDate": "Mon, 15 Sep 2025 20:13:33 GMT"
+    },
+    {
+      "title": "Trump says he would designate Antifa, other left-wing groups as \u2018domestic terrorists\u2019 - CNN",
+      "pubDate": "Mon, 15 Sep 2025 22:02:04 GMT"
     }
   ],
   "north_korea": [
