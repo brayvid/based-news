@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Hamas says top leaders survived Israeli strike on Qatar while five lower-ranking members were killed - AP News",
-      "pubDate": "Tue, 09 Sep 2025 17:53:00 GMT"
-    },
-    {
       "title": "\u2018Get out of there!\u2019 Israel warns Gaza City to evacuate - Los Angeles Times",
       "pubDate": "Tue, 09 Sep 2025 18:28:22 GMT"
     },
@@ -27,10 +23,6 @@
     {
       "title": "Israeli strike takes fight with Hamas to Qatar, key intermediary in Gaza talks - The Washington Post",
       "pubDate": "Wed, 10 Sep 2025 00:37:07 GMT"
-    },
-    {
-      "title": "Von der Leyen under growing pressure to take tougher line with Israel - The Guardian",
-      "pubDate": "Tue, 09 Sep 2025 17:50:00 GMT"
     },
     {
       "title": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse - The New York Times",
@@ -287,6 +279,10 @@
     {
       "title": "Israel said arming, paying salaries of Druze militia in Syria\u2019s Sweida area - The Times of Israel",
       "pubDate": "Tue, 16 Sep 2025 15:17:03 GMT"
+    },
+    {
+      "title": "Under US pressure, Syria and Israel inch toward security deal - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 13:50:01 GMT"
     }
   ],
   "donald_trump": [
@@ -369,13 +365,13 @@
     {
       "title": "Trump suggests TikTok deal, will talk to China's Xi on Friday - Axios",
       "pubDate": "Mon, 15 Sep 2025 13:30:14 GMT"
+    },
+    {
+      "title": "Trump to arrive in Britain as the two nations line up deals worth $10 billion - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 15:07:46 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Heroes and villains: Russia braces for eventual return of its enormous army - Reuters",
-      "pubDate": "Tue, 09 Sep 2025 17:13:39 GMT"
-    },
     {
       "title": "Russian air strikes get deadlier and bigger, hitting Ukraine's very heart - BBC",
       "pubDate": "Tue, 09 Sep 2025 20:20:36 GMT"
@@ -555,6 +551,10 @@
     {
       "title": "Russia's drones in Poland raised NATO concerns. Now its war games in Belarus add to tensions - AP News",
       "pubDate": "Tue, 16 Sep 2025 16:14:00 GMT"
+    },
+    {
+      "title": "Authorities Raid Swiss Trader in Probe Linked to Russian Gold - Bloomberg.com",
+      "pubDate": "Tue, 16 Sep 2025 17:31:32 GMT"
     }
   ],
   "ai_safety": [
@@ -569,10 +569,6 @@
     {
       "title": "\u2018Safety First, Always,\u2019 NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility - NVIDIA Blog",
       "pubDate": "Tue, 09 Sep 2025 21:56:15 GMT"
-    },
-    {
-      "title": "Arkansas food safety scientists share latest research on noroviruses, sanitizers, AI - Magnolia Reporter",
-      "pubDate": "Tue, 09 Sep 2025 17:30:00 GMT"
     },
     {
       "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
@@ -1217,6 +1213,10 @@
     {
       "title": "Meta created its own super PAC to politically kneecap its AI rivals - The Verge",
       "pubDate": "Tue, 16 Sep 2025 15:09:18 GMT"
+    },
+    {
+      "title": "Saudi Arabia Eyes Multibillion-Dollar AI Partnership With Private Equity Titans - Bloomberg.com",
+      "pubDate": "Tue, 16 Sep 2025 14:26:58 GMT"
     }
   ],
   "ukraine": [
@@ -1530,10 +1530,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "U.S. economy is worse than thought with 1.2 million fewer jobs \u2014 what that means for the Fed - CNBC",
-      "pubDate": "Tue, 09 Sep 2025 17:56:25 GMT"
-    },
     {
       "title": "JPMorgan CEO Jamie Dimon warns of a cloudy US economic outlook - Reuters",
       "pubDate": "Tue, 09 Sep 2025 23:02:49 GMT"
@@ -2161,6 +2157,10 @@
     {
       "title": "Cybersecurity jobs available right now: September 16, 2025 - Help Net Security",
       "pubDate": "Tue, 16 Sep 2025 04:00:07 GMT"
+    },
+    {
+      "title": "Congress puts up last-minute roadblocks for cyber threat info-sharing - Axios",
+      "pubDate": "Tue, 16 Sep 2025 17:24:16 GMT"
     }
   ],
   "federal_reserve": [
@@ -2727,14 +2727,6 @@
   ],
   "climate_change": [
     {
-      "title": "Climate change is killing Utah national park's unlikely, lush 'Eden' - SFGATE",
-      "pubDate": "Tue, 09 Sep 2025 17:11:22 GMT"
-    },
-    {
-      "title": "Researchers reject geo-engineering as a climate-warming response - Geophysical Institute",
-      "pubDate": "Tue, 09 Sep 2025 17:20:08 GMT"
-    },
-    {
       "title": "Former California Insurance Commissioner Carries on Climate Change Crusade - Insurance Journal",
       "pubDate": "Tue, 09 Sep 2025 20:18:12 GMT"
     },
@@ -3197,6 +3189,10 @@
     {
       "title": "Middle Eastern countries are among the most exposed to climate change \u2013 so why is media coverage so low there? - The Conversation",
       "pubDate": "Tue, 16 Sep 2025 16:21:50 GMT"
+    },
+    {
+      "title": "Trump admin cuts $38.4 million in research funding at UNC: climate change, AIDS, DEI - - The Daily Tar Heel",
+      "pubDate": "Tue, 16 Sep 2025 15:12:21 GMT"
     }
   ],
   "world_news": [
@@ -3389,6 +3385,10 @@
     {
       "title": "The Rise of China and the Future of Clean Energy - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Mon, 15 Sep 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Exclusive / JPMorgan is still bullish on the energy transition - Semafor",
+      "pubDate": "Tue, 16 Sep 2025 14:38:00 GMT"
     }
   ],
   "world_politics": [
