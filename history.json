@@ -1,24 +1,12 @@
 {
   "israel": [
     {
-      "title": "Israel carries out airstrike on Hamas leadership in Qatar\u2019s Doha: Latest - The Independent",
-      "pubDate": "Tue, 09 Sep 2025 14:49:00 GMT"
-    },
-    {
-      "title": "Who is Khalil Al-Hayya, the top Hamas figure targeted by Israel? - Reuters",
-      "pubDate": "Tue, 09 Sep 2025 14:56:10 GMT"
-    },
-    {
       "title": "Live updates: Hamas says top leaders survived Israeli strike on Qatar while five lower-ranking members were killed - AP News",
       "pubDate": "Tue, 09 Sep 2025 17:53:00 GMT"
     },
     {
       "title": "\u2018Get out of there!\u2019 Israel warns Gaza City to evacuate - Los Angeles Times",
       "pubDate": "Tue, 09 Sep 2025 18:28:22 GMT"
-    },
-    {
-      "title": "Netanyahu tells Gaza City residents to leave as he pledges retaliation for Jerusalem attack - NBC News",
-      "pubDate": "Tue, 09 Sep 2025 14:23:21 GMT"
     },
     {
       "title": "Netanyahu says Doha strike targeted Hamas leaders, can lead to peace in Gaza - NBC News",
@@ -825,6 +813,10 @@
     {
       "title": "Exclusive | DeepSeek evaluates AI models for \u2018frontier risks\u2019, source says - South China Morning Post",
       "pubDate": "Tue, 16 Sep 2025 13:00:10 GMT"
+    },
+    {
+      "title": "California Lawmakers Pass Landmark AI Transparency Law for Frontier Models: How SB 53 Differs from Last Year\u2019s Failed Attempt - JD Supra",
+      "pubDate": "Tue, 16 Sep 2025 14:33:34 GMT"
     }
   ],
   "financial_markets": [
@@ -935,6 +927,10 @@
     {
       "title": "Embracing Consistent Growth In Erratic Equity Markets - Seeking Alpha",
       "pubDate": "Tue, 16 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Global Markets Mixed Ahead of Federal Reserve Meeting - The Wall Street Journal",
+      "pubDate": "Tue, 16 Sep 2025 08:25:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1220,14 +1216,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Kremlin Uneasy About Return of Ukraine War Veterans \u2013 Reuters - The Moscow Times",
-      "pubDate": "Tue, 09 Sep 2025 14:08:39 GMT"
-    },
-    {
-      "title": "\"Brutally savage\" Russian strike kills over 20 people in east Ukraine as pensions were handed out, Zelenskyy says - CBS News",
-      "pubDate": "Tue, 09 Sep 2025 14:27:00 GMT"
-    },
     {
       "title": "Heading to Ukraine, French minister says support will continue despite political woes - Reuters",
       "pubDate": "Tue, 09 Sep 2025 16:43:38 GMT"
@@ -1543,14 +1531,6 @@
   ],
   "us_economy": [
     {
-      "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
-      "pubDate": "Tue, 09 Sep 2025 14:20:46 GMT"
-    },
-    {
-      "title": "US job growth through March revised lower by 911K - Fox Business",
-      "pubDate": "Tue, 09 Sep 2025 14:02:00 GMT"
-    },
-    {
       "title": "U.S. economy is worse than thought with 1.2 million fewer jobs \u2014 what that means for the Fed - CNBC",
       "pubDate": "Tue, 09 Sep 2025 17:56:25 GMT"
     },
@@ -1730,10 +1710,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House GOP waiting on Trump for spending cues, Johnson says - Politico",
-      "pubDate": "Tue, 09 Sep 2025 14:11:16 GMT"
-    },
     {
       "title": "Trump approval rating at 42% - weak on economy, Reuters/Ipsos poll shows - Reuters",
       "pubDate": "Tue, 09 Sep 2025 19:08:13 GMT"
@@ -2057,6 +2033,10 @@
     {
       "title": "Kash Patel to face Senate questions amid scrutiny over Charlie Kirk shooting investigation \u2013 live - The Guardian",
       "pubDate": "Tue, 16 Sep 2025 09:40:00 GMT"
+    },
+    {
+      "title": "'Smart people don't like me,' Trump says in viral video - USA Today",
+      "pubDate": "Tue, 16 Sep 2025 14:09:31 GMT"
     }
   ],
   "north_korea": [
@@ -2181,6 +2161,10 @@
     {
       "title": "A new Israeli cybersecurity startup just emerged from stealth and is already valued at $400 million. - Business Insider",
       "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Cybersecurity Firm Netskope Raises IPO Price Target - The Information",
+      "pubDate": "Tue, 16 Sep 2025 03:44:37 GMT"
     }
   ],
   "federal_reserve": [
@@ -2221,12 +2205,10 @@
     {
       "title": "Rescue and fundraising efforts continue following deadly earthquakes in Afghanistan - VPM",
       "pubDate": "Sat, 13 Sep 2025 11:43:00 GMT"
-    }
-  ],
-  "renewable_energy": [
+    },
     {
-      "title": "The US Keeps Breaking Renewable Energy Records - Bloomberg.com",
-      "pubDate": "Tue, 09 Sep 2025 14:30:18 GMT"
+      "title": "Map: 3.3-Magnitude Earthquake Strikes the San Francisco Bay Area - The New York Times",
+      "pubDate": "Tue, 16 Sep 2025 13:42:13 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2340,10 +2322,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "QuEra Expands $230M Financing Round, Advancing Quantum-Accelerated Supercomputing - HPCwire",
-      "pubDate": "Tue, 09 Sep 2025 14:22:10 GMT"
-    },
     {
       "title": "Can Machines Learn Morality? - University of Washington, College of Arts and Sciences",
       "pubDate": "Tue, 09 Sep 2025 18:07:34 GMT"
@@ -3219,6 +3197,10 @@
     {
       "title": "Global Climate Policy Project unveils roadmap for climate coalition - Harvard Gazette",
       "pubDate": "Tue, 16 Sep 2025 12:11:56 GMT"
+    },
+    {
+      "title": "Public can help shape next Delaware Climate Action Plan - Spotlight Delaware",
+      "pubDate": "Tue, 16 Sep 2025 12:08:53 GMT"
     }
   ],
   "world_news": [
@@ -3267,6 +3249,10 @@
     {
       "title": "Geopolitics Weekly (US-Venezuela Relations, France Debt Downgrade, Nepal Protests) - Geopolitical Monitor",
       "pubDate": "Mon, 15 Sep 2025 12:46:02 GMT"
+    },
+    {
+      "title": "Why the West looks small when India and BRICS pull together - The Economic Times",
+      "pubDate": "Tue, 16 Sep 2025 05:07:43 GMT"
     }
   ],
   "electric_vehicle": [
