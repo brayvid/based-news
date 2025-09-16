@@ -1,18 +1,6 @@
 {
   "israel": [
     {
-      "title": "Netanyahu says Doha strike targeted Hamas leaders, can lead to peace in Gaza - NBC News",
-      "pubDate": "Tue, 09 Sep 2025 20:21:07 GMT"
-    },
-    {
-      "title": "Progressives Urge U.S. Arms Embargo After Israel Bombs Qatar - The Intercept",
-      "pubDate": "Tue, 09 Sep 2025 20:55:10 GMT"
-    },
-    {
-      "title": "Israel's attack in Qatar infuriated Trump advisers, officials say - Axios",
-      "pubDate": "Tue, 09 Sep 2025 20:51:52 GMT"
-    },
-    {
       "title": "Hollywood stars boycott Israeli film companies in response to Gaza crisis - NPR",
       "pubDate": "Tue, 09 Sep 2025 22:45:15 GMT"
     },
@@ -279,6 +267,10 @@
     {
       "title": "Under US pressure, Syria and Israel inch toward security deal - Reuters",
       "pubDate": "Tue, 16 Sep 2025 13:50:01 GMT"
+    },
+    {
+      "title": "Netanyahu\u2019s \u2018super-Sparta\u2019 vision braces Israel for isolated economic future - The Guardian",
+      "pubDate": "Tue, 16 Sep 2025 18:41:00 GMT"
     }
   ],
   "donald_trump": [
@@ -372,10 +364,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russian air strikes get deadlier and bigger, hitting Ukraine's very heart - BBC",
-      "pubDate": "Tue, 09 Sep 2025 20:20:36 GMT"
-    },
     {
       "title": "Poland dismisses Russia\u2019s claim drone incursion was unintentional as UK considers bolstering Nato air defences \u2013 live - The Guardian",
       "pubDate": "Wed, 10 Sep 2025 16:21:00 GMT"
@@ -559,13 +547,13 @@
     {
       "title": "Analysis: Greenland\u2019s defenses are being bolstered against Russia and China, but Trump may be the real target - CNN",
       "pubDate": "Tue, 16 Sep 2025 13:19:12 GMT"
+    },
+    {
+      "title": "Russia is running a sprawling network of 'brainwashing' camps for Ukrainian kids: Report - USA Today",
+      "pubDate": "Tue, 16 Sep 2025 19:52:30 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic - TechCrunch",
-      "pubDate": "Tue, 09 Sep 2025 20:11:30 GMT"
-    },
     {
       "title": "AI-powered school bus safety cameras launch in White Plains - News 12 - Hudson Valley",
       "pubDate": "Tue, 09 Sep 2025 22:24:57 GMT"
@@ -821,6 +809,10 @@
     {
       "title": "CPSC Signals Shift to AI-Driven Product Safety Oversight - retailconsumerproductslaw.com",
       "pubDate": "Tue, 16 Sep 2025 13:41:16 GMT"
+    },
+    {
+      "title": "AI Knowledge Management Solution 'Factagora' Enters US Market with AI Verification Technology - The Korea Herald",
+      "pubDate": "Tue, 16 Sep 2025 15:20:17 GMT"
     }
   ],
   "financial_markets": [
@@ -935,6 +927,10 @@
     {
       "title": "Global Markets Mixed Ahead of Federal Reserve Meeting - The Wall Street Journal",
       "pubDate": "Tue, 16 Sep 2025 08:25:00 GMT"
+    },
+    {
+      "title": "China's $19 trillion stock market, once called uninvestable, lures foreigners again - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 14:56:17 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1547,19 +1543,11 @@
       "pubDate": "Tue, 09 Sep 2025 22:55:52 GMT"
     },
     {
-      "title": "Worried About the Economy? Here are 4 Reasons to Be Optimistic - Investopedia",
-      "pubDate": "Tue, 09 Sep 2025 20:11:37 GMT"
-    },
-    {
       "title": "The US economy is weakening. These 5 numbers tell the story. - The Boston Globe",
       "pubDate": "Wed, 10 Sep 2025 10:29:49 GMT"
     }
   ],
   "china": [
-    {
-      "title": "House lawmakers to make official visit to China for the first time since 2019 - NBC News",
-      "pubDate": "Tue, 09 Sep 2025 20:24:22 GMT"
-    },
     {
       "title": "Record share of U.S. businesses divert China investments. Top choice: Southeast Asia - CNBC",
       "pubDate": "Wed, 10 Sep 2025 01:32:00 GMT"
@@ -2029,6 +2017,10 @@
     {
       "title": "Frustrated GOP senators blow steam on Russia: \u2018Sick of\u2019 Trump, Vance \u2018love affair\u2019 with Putin - The Hill",
       "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Democrats Oppose G.O.P. Funding Bill, Threatening a Shutdown - The New York Times",
+      "pubDate": "Tue, 16 Sep 2025 19:41:43 GMT"
     }
   ],
   "north_korea": [
@@ -2058,10 +2050,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Pentagon publishes final cybersecurity rules for contractors - theregister.com",
-      "pubDate": "Tue, 09 Sep 2025 20:06:00 GMT"
-    },
     {
       "title": "SPARTA v3.1 expands space cybersecurity with updated controls, new techniques, and research contributions - Industrial Cyber",
       "pubDate": "Thu, 11 Sep 2025 09:49:19 GMT"
@@ -2319,10 +2307,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Scientist returns to microbial roots and discovers potential quantum computing advancement - Phys.org",
-      "pubDate": "Tue, 09 Sep 2025 20:27:04 GMT"
-    },
-    {
       "title": "Quantum Computing Threat Forces Crypto Revolution in 2025 - eSecurity Planet",
       "pubDate": "Tue, 09 Sep 2025 21:14:28 GMT"
     },
@@ -2545,6 +2529,10 @@
     {
       "title": "If quantum computing is answering unknowable questions, how do we know they're right? - Phys.org",
       "pubDate": "Tue, 16 Sep 2025 12:59:14 GMT"
+    },
+    {
+      "title": "Mizzou students are shaping the future of quantum computing - Show Me Mizzou",
+      "pubDate": "Tue, 16 Sep 2025 11:58:29 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2714,10 +2702,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Former California Insurance Commissioner Carries on Climate Change Crusade - Insurance Journal",
-      "pubDate": "Tue, 09 Sep 2025 20:18:12 GMT"
-    },
     {
       "title": "Top court delivers a \u2018huge\u2019 climate win for island nations - Mongabay",
       "pubDate": "Tue, 09 Sep 2025 21:52:10 GMT"
@@ -3185,6 +3169,10 @@
     {
       "title": "Can Amazon and Andean trees move to survive climate change? | Newswise - Newswise",
       "pubDate": "Tue, 16 Sep 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Fearing Retaliation, Scientists Are Struggling to Share Impacts of Federal Cuts - Inside Climate News",
+      "pubDate": "Tue, 16 Sep 2025 20:00:40 GMT"
     }
   ],
   "world_news": [
