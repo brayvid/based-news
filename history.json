@@ -559,10 +559,6 @@
       "pubDate": "Tue, 09 Sep 2025 22:24:57 GMT"
     },
     {
-      "title": "\u2018Safety First, Always,\u2019 NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility - NVIDIA Blog",
-      "pubDate": "Tue, 09 Sep 2025 21:56:15 GMT"
-    },
-    {
       "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
       "pubDate": "Wed, 10 Sep 2025 05:32:22 GMT"
     },
@@ -813,6 +809,10 @@
     {
       "title": "AI Knowledge Management Solution 'Factagora' Enters US Market with AI Verification Technology - The Korea Herald",
       "pubDate": "Tue, 16 Sep 2025 15:20:17 GMT"
+    },
+    {
+      "title": "Parents Slam OpenAI, Character.AI Over Safety in Senate Hearing - Bloomberg.com",
+      "pubDate": "Tue, 16 Sep 2025 21:32:16 GMT"
     }
   ],
   "financial_markets": [
@@ -1225,6 +1225,10 @@
     {
       "title": "Reykdal seeks $10M to expand artificial intelligence in Washington schools - Washington State Standard",
       "pubDate": "Tue, 16 Sep 2025 11:07:37 GMT"
+    },
+    {
+      "title": "Unified multimodal access layer for Quora\u2019s Poe using Amazon Bedrock - Amazon Web Services",
+      "pubDate": "Tue, 16 Sep 2025 16:40:11 GMT"
     }
   ],
   "ukraine": [
@@ -1235,14 +1239,6 @@
     {
       "title": "Poland on high alert after Ukraine says Russian drones entered its airspace - BNO News",
       "pubDate": "Tue, 09 Sep 2025 23:39:08 GMT"
-    },
-    {
-      "title": "Russia strikes eastern Ukraine village, killing 24, many retirees - The Washington Post",
-      "pubDate": "Tue, 09 Sep 2025 22:00:11 GMT"
-    },
-    {
-      "title": "Attacking these targets could cripple Russia\u2019s war machine: Experts - Defense News",
-      "pubDate": "Tue, 09 Sep 2025 21:37:11 GMT"
     },
     {
       "title": "Ukraine war latest: Poland scrambles NATO air defences after 'unprecedented violation' of airspace by Russia - Sky News",
@@ -1691,6 +1687,10 @@
     {
       "title": "China Issues New Plan to Aid Consumption by Focusing on Services - Bloomberg.com",
       "pubDate": "Tue, 16 Sep 2025 11:21:34 GMT"
+    },
+    {
+      "title": "Dave McCormick: \u2018We should be deeply worried\u2019 about China\u2019s AI dominance - Politico",
+      "pubDate": "Tue, 16 Sep 2025 14:27:42 GMT"
     }
   ],
   "us_politics": [
@@ -2201,10 +2201,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Bitcoin (BTC) Price Prediction: Can Bitcoin Surge to $200K as Fed Nightmare Scenario Unfolds? - Brave New Coin",
-      "pubDate": "Tue, 09 Sep 2025 22:00:45 GMT"
-    },
-    {
       "title": "Exclusive: IPO of Winklevoss-founded crypto exchange Gemini over 20 times oversubscribed, sources say - Reuters",
       "pubDate": "Thu, 11 Sep 2025 22:14:39 GMT"
     },
@@ -2265,6 +2261,10 @@
     {
       "title": "More than 69,000 people in Wisconsin impacted by TransUnion data breach - WBAY",
       "pubDate": "Mon, 15 Sep 2025 23:31:00 GMT"
+    },
+    {
+      "title": "A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users - WIRED",
+      "pubDate": "Tue, 16 Sep 2025 17:07:00 GMT"
     }
   ],
   "fusion_power": [
@@ -2306,10 +2306,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum Computing Threat Forces Crypto Revolution in 2025 - eSecurity Planet",
-      "pubDate": "Tue, 09 Sep 2025 21:14:28 GMT"
-    },
     {
       "title": "Quantum Leap | Duke researchers get green light to plan powerful computer that could be science, tech game changer - ABC11",
       "pubDate": "Tue, 09 Sep 2025 22:41:15 GMT"
@@ -2702,10 +2698,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Top court delivers a \u2018huge\u2019 climate win for island nations - Mongabay",
-      "pubDate": "Tue, 09 Sep 2025 21:52:10 GMT"
-    },
     {
       "title": "California\u2019s \u201841st senator\u2019 is causing climate headaches - Politico",
       "pubDate": "Wed, 10 Sep 2025 01:00:00 GMT"
@@ -3173,6 +3165,10 @@
     {
       "title": "Fearing Retaliation, Scientists Are Struggling to Share Impacts of Federal Cuts - Inside Climate News",
       "pubDate": "Tue, 16 Sep 2025 20:00:40 GMT"
+    },
+    {
+      "title": "1,000+ Experts Rip EPA for 'Reckless Dismissal of Established Climate Science' - Common Dreams",
+      "pubDate": "Tue, 16 Sep 2025 16:45:47 GMT"
     }
   ],
   "world_news": [
@@ -3519,6 +3515,10 @@
     {
       "title": "2 billion people will be able to see 'God of Chaos' asteroid Apophis when it buzzes Earth in April 2029 - Space",
       "pubDate": "Tue, 16 Sep 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Once-In-A-Decade Close Encounter With Hazardous Asteroid 2025 FA22 Approaches - IFLScience",
+      "pubDate": "Tue, 16 Sep 2025 21:17:05 GMT"
     }
   ],
   "battery_electric_vehicle": [
@@ -3593,6 +3593,10 @@
     {
       "title": "Matrix Executions Unveils White-Label Equity Options Algos: True Customization for Broker-Dealers - Business Wire",
       "pubDate": "Tue, 16 Sep 2025 11:45:00 GMT"
+    },
+    {
+      "title": "Sebi extends settlement window till Oct 16 for stock brokers in algo trading case - The Economic Times",
+      "pubDate": "Tue, 16 Sep 2025 12:08:46 GMT"
     }
   ]
 }
