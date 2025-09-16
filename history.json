@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "\u2018Get out of there!\u2019 Israel warns Gaza City to evacuate - Los Angeles Times",
-      "pubDate": "Tue, 09 Sep 2025 18:28:22 GMT"
-    },
-    {
       "title": "Netanyahu says Doha strike targeted Hamas leaders, can lead to peace in Gaza - NBC News",
       "pubDate": "Tue, 09 Sep 2025 20:21:07 GMT"
     },
@@ -369,6 +365,10 @@
     {
       "title": "Trump to arrive in Britain as the two nations line up deals worth $10 billion - Reuters",
       "pubDate": "Tue, 16 Sep 2025 15:07:46 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Trump says group of companies wants to buy TikTok - ABC News",
+      "pubDate": "Tue, 16 Sep 2025 18:08:00 GMT"
     }
   ],
   "russia": [
@@ -555,6 +555,10 @@
     {
       "title": "Authorities Raid Swiss Trader in Probe Linked to Russian Gold - Bloomberg.com",
       "pubDate": "Tue, 16 Sep 2025 17:31:32 GMT"
+    },
+    {
+      "title": "Analysis: Greenland\u2019s defenses are being bolstered against Russia and China, but Trump may be the real target - CNN",
+      "pubDate": "Tue, 16 Sep 2025 13:19:12 GMT"
     }
   ],
   "ai_safety": [
@@ -931,10 +935,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "A new study shows how AI is reshaping the telco value chain: Two experts decode the story behind the numbers - IBM",
-      "pubDate": "Tue, 09 Sep 2025 18:12:23 GMT"
-    },
-    {
       "title": "AI co-pilot boosts noninvasive brain-computer interface by interpreting user intent, UCLA study finds - Newsroom | UCLA",
       "pubDate": "Wed, 10 Sep 2025 00:24:56 GMT"
     },
@@ -1217,13 +1217,13 @@
     {
       "title": "Saudi Arabia Eyes Multibillion-Dollar AI Partnership With Private Equity Titans - Bloomberg.com",
       "pubDate": "Tue, 16 Sep 2025 14:26:58 GMT"
+    },
+    {
+      "title": "Disney, Universal and Warner Bros. Discovery sue Chinese AI firm as Hollywood's copyright battles spread - Los Angeles Times",
+      "pubDate": "Tue, 16 Sep 2025 17:51:45 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "New AI-powered bot campaign targets Ukraine in weeks surrounding Trump-Putin meeting - Axios",
-      "pubDate": "Tue, 09 Sep 2025 18:45:50 GMT"
-    },
     {
       "title": "Ukraine drones attack Sochi soon after Putin visit - Yahoo News Canada",
       "pubDate": "Tue, 09 Sep 2025 22:23:55 GMT"
@@ -2059,10 +2059,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "As hackers take up AI, cybersecurity firms invest more in their own AI tools - Axios",
-      "pubDate": "Tue, 09 Sep 2025 18:06:03 GMT"
-    },
-    {
       "title": "Pentagon publishes final cybersecurity rules for contractors - theregister.com",
       "pubDate": "Tue, 09 Sep 2025 20:06:00 GMT"
     },
@@ -2161,6 +2157,10 @@
     {
       "title": "Congress puts up last-minute roadblocks for cyber threat info-sharing - Axios",
       "pubDate": "Tue, 16 Sep 2025 17:24:16 GMT"
+    },
+    {
+      "title": "Cybersecurity provider Netskope boosts IPO range as it tests tech hotstreak - CNBC",
+      "pubDate": "Tue, 16 Sep 2025 17:31:07 GMT"
     }
   ],
   "federal_reserve": [
@@ -2205,6 +2205,10 @@
     {
       "title": "Map: 3.3-Magnitude Earthquake Strikes the San Francisco Bay Area - The New York Times",
       "pubDate": "Tue, 16 Sep 2025 13:42:13 GMT"
+    },
+    {
+      "title": "Strong Earthquake Strikes Near Alaska Today - Newsweek",
+      "pubDate": "Tue, 16 Sep 2025 09:36:27 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2319,10 +2323,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Can Machines Learn Morality? - University of Washington, College of Arts and Sciences",
-      "pubDate": "Tue, 09 Sep 2025 18:07:34 GMT"
-    },
-    {
       "title": "Scientist returns to microbial roots and discovers potential quantum computing advancement - Phys.org",
       "pubDate": "Tue, 09 Sep 2025 20:27:04 GMT"
     },
@@ -2341,10 +2341,6 @@
     {
       "title": "Quantum Stock Tracker: Nvidia Backs Quantinuum; D-Wave, IonQ Announce New Execs - Benzinga",
       "pubDate": "Tue, 09 Sep 2025 19:42:59 GMT"
-    },
-    {
-      "title": "AI Pushes Quantum 'Q Day' Closer to Reality\u2014And to Breaking Encryption: New Study - Decrypt",
-      "pubDate": "Tue, 09 Sep 2025 18:33:45 GMT"
     },
     {
       "title": "Lunate Capital lines up quantum computing ETF - ETF Stream",
@@ -3193,6 +3189,10 @@
     {
       "title": "Trump admin cuts $38.4 million in research funding at UNC: climate change, AIDS, DEI - - The Daily Tar Heel",
       "pubDate": "Tue, 16 Sep 2025 15:12:21 GMT"
+    },
+    {
+      "title": "Can Amazon and Andean trees move to survive climate change? | Newswise - Newswise",
+      "pubDate": "Tue, 16 Sep 2025 16:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3563,6 +3563,10 @@
     {
       "title": "Elon Musk eyes next target after cars, rockets and robots - The Washington Post",
       "pubDate": "Sat, 13 Sep 2025 16:41:23 GMT"
+    },
+    {
+      "title": "Tesla CEO Elon Musk Says He's 'Burning The Midnight Oil'; China Registrations Lag - Investor's Business Daily",
+      "pubDate": "Tue, 16 Sep 2025 16:29:00 GMT"
     }
   ],
   "republican_party": [
