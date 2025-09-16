@@ -817,6 +817,10 @@
     {
       "title": "AI Titans at War: Inside OpenAI, Google, Meta and the Race to Build AGI - ts2.tech",
       "pubDate": "Tue, 16 Sep 2025 15:38:32 GMT"
+    },
+    {
+      "title": "CPSC Signals Shift to AI-Driven Product Safety Oversight - retailconsumerproductslaw.com",
+      "pubDate": "Tue, 16 Sep 2025 13:41:16 GMT"
     }
   ],
   "financial_markets": [
@@ -1221,6 +1225,10 @@
     {
       "title": "Disney, Universal and Warner Bros. Discovery sue Chinese AI firm as Hollywood's copyright battles spread - Los Angeles Times",
       "pubDate": "Tue, 16 Sep 2025 17:51:45 GMT"
+    },
+    {
+      "title": "Reykdal seeks $10M to expand artificial intelligence in Washington schools - Washington State Standard",
+      "pubDate": "Tue, 16 Sep 2025 11:07:37 GMT"
     }
   ],
   "ukraine": [
@@ -1543,10 +1551,6 @@
       "pubDate": "Tue, 09 Sep 2025 20:11:37 GMT"
     },
     {
-      "title": "US payrolls benchmark revision estimate suggests labor market weaker than previously thought - Reuters",
-      "pubDate": "Tue, 09 Sep 2025 19:33:46 GMT"
-    },
-    {
       "title": "The US economy is weakening. These 5 numbers tell the story. - The Boston Globe",
       "pubDate": "Wed, 10 Sep 2025 10:29:49 GMT"
     }
@@ -1702,10 +1706,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump approval rating at 42% - weak on economy, Reuters/Ipsos poll shows - Reuters",
-      "pubDate": "Tue, 09 Sep 2025 19:08:13 GMT"
-    },
     {
       "title": "House Dems accuse FHFA\u2019s Pulte of weaponizing mortgage data to target \u2018political enemies\u2019 - Scotsman Guide",
       "pubDate": "Tue, 09 Sep 2025 22:56:54 GMT"
@@ -2213,10 +2213,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Bitcoin wobbles after shocking US jobs revision: What\u2019s next for BTC? - Cointelegraph",
-      "pubDate": "Tue, 09 Sep 2025 20:00:39 GMT"
-    },
-    {
       "title": "Bitcoin (BTC) Price Prediction: Can Bitcoin Surge to $200K as Fed Nightmare Scenario Unfolds? - Brave New Coin",
       "pubDate": "Tue, 09 Sep 2025 22:00:45 GMT"
     },
@@ -2337,10 +2333,6 @@
     {
       "title": "QuEra: $230 Million Series B Expanded With NVentures Investment - Pulse 2.0",
       "pubDate": "Tue, 09 Sep 2025 23:38:09 GMT"
-    },
-    {
-      "title": "Quantum Stock Tracker: Nvidia Backs Quantinuum; D-Wave, IonQ Announce New Execs - Benzinga",
-      "pubDate": "Tue, 09 Sep 2025 19:42:59 GMT"
     },
     {
       "title": "Lunate Capital lines up quantum computing ETF - ETF Stream",
@@ -3535,12 +3527,20 @@
     {
       "title": "Deflecting a deadly asteroid just got a lot less dangerous - New Scientist",
       "pubDate": "Thu, 11 Sep 2025 09:00:32 GMT"
+    },
+    {
+      "title": "2 billion people will be able to see 'God of Chaos' asteroid Apophis when it buzzes Earth in April 2029 - Space",
+      "pubDate": "Tue, 16 Sep 2025 15:00:00 GMT"
     }
   ],
   "battery_electric_vehicle": [
     {
       "title": "The end of range anxiety? Mercedes' solid-state battery tech just drove 749 miles without a stop - TechRadar",
       "pubDate": "Thu, 11 Sep 2025 19:00:00 GMT"
+    },
+    {
+      "title": "SK On\u2019s breakthrough all-solid-state EV batteries will arrive ahead of schedule - Electrek",
+      "pubDate": "Tue, 16 Sep 2025 14:35:00 GMT"
     }
   ],
   "economic": [
@@ -3557,6 +3557,10 @@
     {
       "title": "Where Will Bitcoin Be in 5 Years? - Nasdaq",
       "pubDate": "Sun, 14 Sep 2025 08:30:00 GMT"
+    },
+    {
+      "title": "Bitcoin's bizarrely steady price pattern soon to face test - Axios",
+      "pubDate": "Tue, 16 Sep 2025 18:13:21 GMT"
     }
   ],
   "elon_musk": [
@@ -3585,12 +3589,22 @@
     {
       "title": "Longroad Energy Achieves Financial Close of 1000 Mile Solar, a 400 MWdc Project - PR Newswire",
       "pubDate": "Mon, 15 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Houses of Worship Could Help Fuel the Energy Transition. Solar Evangelists Are Hard at Work on That - Inside Climate News",
+      "pubDate": "Tue, 16 Sep 2025 08:55:00 GMT"
     }
   ],
   "nuclear": [
     {
       "title": "Scientists make incredible breakthrough after aiming powerful lasers at diamond: 'An inherently brittle material' - The Cool Down",
       "pubDate": "Mon, 15 Sep 2025 21:15:00 GMT"
+    }
+  ],
+  "algorithmic_trading": [
+    {
+      "title": "Matrix Executions Unveils White-Label Equity Options Algos: True Customization for Broker-Dealers - Business Wire",
+      "pubDate": "Tue, 16 Sep 2025 11:45:00 GMT"
     }
   ]
 }
