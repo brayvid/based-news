@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Hollywood stars boycott Israeli film companies in response to Gaza crisis - NPR",
-      "pubDate": "Tue, 09 Sep 2025 22:45:15 GMT"
-    },
-    {
       "title": "Israeli strike takes fight with Hamas to Qatar, key intermediary in Gaza talks - The Washington Post",
       "pubDate": "Wed, 10 Sep 2025 00:37:07 GMT"
     },
@@ -555,10 +551,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI-powered school bus safety cameras launch in White Plains - News 12 - Hudson Valley",
-      "pubDate": "Tue, 09 Sep 2025 22:24:57 GMT"
-    },
-    {
       "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
       "pubDate": "Wed, 10 Sep 2025 05:32:22 GMT"
     },
@@ -813,6 +805,10 @@
     {
       "title": "Parents Slam OpenAI, Character.AI Over Safety in Senate Hearing - Bloomberg.com",
       "pubDate": "Tue, 16 Sep 2025 21:32:16 GMT"
+    },
+    {
+      "title": "Workplace Safety is No Longer About Physical Precautions: U.S. Workers Fear Policy, Burnout, AI and More - Supply & Demand Chain Executive",
+      "pubDate": "Tue, 16 Sep 2025 16:30:11 GMT"
     }
   ],
   "financial_markets": [
@@ -931,6 +927,10 @@
     {
       "title": "China's $19 trillion stock market, once called uninvestable, lures foreigners again - Reuters",
       "pubDate": "Tue, 16 Sep 2025 14:56:17 GMT"
+    },
+    {
+      "title": "Treasuries Race Past World Peers on Cusp of New Fed Easing Cycle - Bloomberg.com",
+      "pubDate": "Tue, 16 Sep 2025 11:15:52 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1233,10 +1233,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine drones attack Sochi soon after Putin visit - Yahoo News Canada",
-      "pubDate": "Tue, 09 Sep 2025 22:23:55 GMT"
-    },
-    {
       "title": "Poland on high alert after Ukraine says Russian drones entered its airspace - BNO News",
       "pubDate": "Tue, 09 Sep 2025 23:39:08 GMT"
     },
@@ -1527,16 +1523,16 @@
     {
       "title": "Trump says Russian oil purchases by EU and Nato countries must \u2018stop immediately\u2019 \u2014 Europe live - The Guardian",
       "pubDate": "Tue, 16 Sep 2025 07:49:00 GMT"
+    },
+    {
+      "title": "Ukraine Hammers Russian Oil Infrastructure - Zeihan on Geopolitics",
+      "pubDate": "Tue, 16 Sep 2025 15:51:40 GMT"
     }
   ],
   "us_economy": [
     {
       "title": "JPMorgan CEO Jamie Dimon warns of a cloudy US economic outlook - Reuters",
       "pubDate": "Tue, 09 Sep 2025 23:02:49 GMT"
-    },
-    {
-      "title": "Revised job numbers raise new concerns about economic slowdown - PBS",
-      "pubDate": "Tue, 09 Sep 2025 22:55:52 GMT"
     },
     {
       "title": "The US economy is weakening. These 5 numbers tell the story. - The Boston Globe",
@@ -1694,10 +1690,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "House Dems accuse FHFA\u2019s Pulte of weaponizing mortgage data to target \u2018political enemies\u2019 - Scotsman Guide",
-      "pubDate": "Tue, 09 Sep 2025 22:56:54 GMT"
-    },
     {
       "title": "Trump Taking US \u2018Down a Dark Road,\u2019 Says UChicago Political Violence Expert - WTTW",
       "pubDate": "Wed, 10 Sep 2025 00:11:15 GMT"
@@ -2021,6 +2013,10 @@
     {
       "title": "Democrats Oppose G.O.P. Funding Bill, Threatening a Shutdown - The New York Times",
       "pubDate": "Tue, 16 Sep 2025 19:41:43 GMT"
+    },
+    {
+      "title": "White House eyes multifaceted crackdown on liberal organizations after Kirk slaying - MSNBC News",
+      "pubDate": "Tue, 16 Sep 2025 13:00:15 GMT"
     }
   ],
   "north_korea": [
@@ -2303,13 +2299,13 @@
     {
       "title": "Fusion Power Possible in Eight Years, US Energy Chief Says - Bloomberg Law News",
       "pubDate": "Mon, 15 Sep 2025 16:42:00 GMT"
+    },
+    {
+      "title": "US nuclear fusion builders fired up by Big Tech investments - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 12:49:08 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum Leap | Duke researchers get green light to plan powerful computer that could be science, tech game changer - ABC11",
-      "pubDate": "Tue, 09 Sep 2025 22:41:15 GMT"
-    },
     {
       "title": "QuEra: $230 Million Series B Expanded With NVentures Investment - Pulse 2.0",
       "pubDate": "Tue, 09 Sep 2025 23:38:09 GMT"
@@ -2625,6 +2621,10 @@
     {
       "title": "Utah campus where Charlie Kirk was shot provided less security than other venues as he toured nation - The Washington Post",
       "pubDate": "Tue, 16 Sep 2025 09:53:54 GMT"
+    },
+    {
+      "title": "The Hoover Institution Briefing On National Security | September 2025 - Hoover Institution",
+      "pubDate": "Tue, 16 Sep 2025 19:55:46 GMT"
     }
   ],
   "gaza": [
@@ -3169,6 +3169,10 @@
     {
       "title": "1,000+ Experts Rip EPA for 'Reckless Dismissal of Established Climate Science' - Common Dreams",
       "pubDate": "Tue, 16 Sep 2025 16:45:47 GMT"
+    },
+    {
+      "title": "Warming triggers unprecedented carbon loss from tropical soils, study finds - Mongabay",
+      "pubDate": "Tue, 16 Sep 2025 15:39:51 GMT"
     }
   ],
   "world_news": [
