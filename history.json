@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Palestinians on edge as Israel pursues collective punishment after attack - Al Jazeera",
-      "pubDate": "Tue, 09 Sep 2025 09:45:00 GMT"
-    },
-    {
       "title": "Israel carries out airstrike on Hamas leadership in Qatar\u2019s Doha: Latest - The Independent",
       "pubDate": "Tue, 09 Sep 2025 14:49:00 GMT"
     },
@@ -547,13 +543,13 @@
     {
       "title": "Belarus, Russia conduct joint military drills amid NATO tensions - Al Jazeera",
       "pubDate": "Tue, 16 Sep 2025 02:48:45 GMT"
+    },
+    {
+      "title": "EU Delays Russia Sanctions Proposal to Align With G-7 Priorities - Bloomberg.com",
+      "pubDate": "Tue, 16 Sep 2025 06:37:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Claude Code runs code to test if is safe, which has risks - theregister.com",
-      "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
-    },
     {
       "title": "\"They Can Make Bombs After Being Stripped Down\": AI Safety Researchers Expose Dangerous Efficiency Tradeoffs in Open Source Models - Rude Baguette",
       "pubDate": "Tue, 09 Sep 2025 12:10:38 GMT"
@@ -573,10 +569,6 @@
     {
       "title": "Assessing the Capabilities of Artificial Intelligence (AI) Tools in Community Medicine: A Comparative Study of ChatGPT, Gemini, and Bing in Community-Based Clinico-Social Case Interpretation - Cureus",
       "pubDate": "Tue, 09 Sep 2025 16:02:48 GMT"
-    },
-    {
-      "title": "Slowing U.S. job growth turns AI into Wall Street\u2019s new safety play - CryptoRank",
-      "pubDate": "Tue, 09 Sep 2025 09:27:49 GMT"
     },
     {
       "title": "Blackline Safety Appoints Siemens and Amazon AI Executive, Vasi Philomin, to Board of Directors - StreetInsider",
@@ -829,6 +821,10 @@
     {
       "title": "Where South Korea's draft AI law decree fails to quell doubts, concerns - MLex",
       "pubDate": "Tue, 16 Sep 2025 08:16:00 GMT"
+    },
+    {
+      "title": "The looming crackdown on AI companionship - MIT Technology Review",
+      "pubDate": "Tue, 16 Sep 2025 09:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1205,13 +1201,13 @@
     {
       "title": "AI Chatbots in the Medical Field: Healthcare Hero or HIPAA Nightmare? - The National Law Review",
       "pubDate": "Mon, 15 Sep 2025 22:30:00 GMT"
+    },
+    {
+      "title": "How Wall Street\u2019s Big Bets on A.I. Are Driving Interest in Huge Parking Lots - The New York Times",
+      "pubDate": "Tue, 16 Sep 2025 09:01:03 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian glide bomb attack in eastern Ukraine kills at least 21 people in line to receive pensions - yahoo.com",
-      "pubDate": "Tue, 09 Sep 2025 09:51:30 GMT"
-    },
     {
       "title": "Russian airstrike on east Ukraine pension collection point kills 23 - Reuters",
       "pubDate": "Tue, 09 Sep 2025 13:23:55 GMT"
@@ -1219,10 +1215,6 @@
     {
       "title": "Kremlin Uneasy About Return of Ukraine War Veterans \u2013 Reuters - The Moscow Times",
       "pubDate": "Tue, 09 Sep 2025 14:08:39 GMT"
-    },
-    {
-      "title": "\u2018In the process of division\u2019 - Meduza",
-      "pubDate": "Tue, 09 Sep 2025 09:10:00 GMT"
     },
     {
       "title": "\"Brutally savage\" Russian strike kills over 20 people in east Ukraine as pensions were handed out, Zelenskyy says - CBS News",
@@ -1711,6 +1703,10 @@
     {
       "title": "US says framework for deal on future of TikTok ownership agreed with China - BBC",
       "pubDate": "Mon, 15 Sep 2025 19:19:26 GMT"
+    },
+    {
+      "title": "European markets edge lower as traders assess U.S.-China talks - CNBC",
+      "pubDate": "Tue, 16 Sep 2025 05:18:24 GMT"
     }
   ],
   "us_politics": [
@@ -2041,13 +2037,13 @@
     {
       "title": "Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC",
       "pubDate": "Tue, 16 Sep 2025 07:51:05 GMT"
+    },
+    {
+      "title": "Trump accuses NYT of being \u2018mouthpiece\u2019 for Democratic party as he announces defamation action \u2014 US politics live - The Guardian",
+      "pubDate": "Tue, 16 Sep 2025 09:40:27 GMT"
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea's first female leader: Kim Jong-un's daughter, 12, rumoured to take charge amid father's health concerns - Mint",
-      "pubDate": "Tue, 09 Sep 2025 09:44:25 GMT"
-    },
     {
       "title": "North Korea's Kim Ju Ae 'likely successor': Seoul - France 24",
       "pubDate": "Thu, 11 Sep 2025 06:07:10 GMT"
@@ -2074,10 +2070,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Dior Fined By China's Cybersecurity Authority For Sending Consumer Data Overseas - WWD",
-      "pubDate": "Tue, 09 Sep 2025 09:52:07 GMT"
-    },
     {
       "title": "As hackers take up AI, cybersecurity firms invest more in their own AI tools - Axios",
       "pubDate": "Tue, 09 Sep 2025 18:06:03 GMT"
@@ -2733,28 +2725,16 @@
     {
       "title": "Live updates: Israel begins ground offensive in Gaza City, as UN commission says Israel is committing genocide - CNN",
       "pubDate": "Tue, 16 Sep 2025 08:34:00 GMT"
+    },
+    {
+      "title": "Rubio, en route to Qatar, warns of \u2018short window\u2019 to secure Gaza ceasefire - Al Jazeera",
+      "pubDate": "Tue, 16 Sep 2025 06:59:53 GMT"
     }
   ],
   "climate_change": [
     {
-      "title": "Geoengineering Won\u2019t Save Us From Global Warming - Inside Climate News",
-      "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Warmer NC summers mean an increased risk of diseases and viruses. Here's why. - Wilmington Star-News",
-      "pubDate": "Tue, 09 Sep 2025 09:11:17 GMT"
-    },
-    {
-      "title": "Protect Arctic from 'dangerous' climate engineering, scientists warn - BBC",
-      "pubDate": "Tue, 09 Sep 2025 09:06:36 GMT"
-    },
-    {
       "title": "In a single email, the EPA ended her research into how climate change endangers children - The 19th News",
       "pubDate": "Tue, 09 Sep 2025 10:15:55 GMT"
-    },
-    {
-      "title": "Mad science or radical idea to slow climate change? - Sky News",
-      "pubDate": "Tue, 09 Sep 2025 09:03:28 GMT"
     },
     {
       "title": "What we learned by talking to 700 strangers about climate change (Guest Opinion by Aaron Strong) - Syracuse.com",
@@ -3219,6 +3199,10 @@
     {
       "title": "Four Out of Five Companies Report Financial Gains from Climate Action While 70% Are Maintaining or Increasing Overall Investment - PR Newswire",
       "pubDate": "Tue, 16 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Climate scientist discusses \"chemtrails\" conspiracy theories - Axios",
+      "pubDate": "Tue, 16 Sep 2025 09:00:58 GMT"
     }
   ],
   "world_news": [
