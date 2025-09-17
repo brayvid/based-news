@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Live updates: Israel faces growing backlash over unprecedented Qatar strike - CNN",
-      "pubDate": "Wed, 10 Sep 2025 11:33:00 GMT"
-    },
-    {
-      "title": "EU chief pledges action aimed at halting Israel\u2019s war on Gaza - Al Jazeera",
-      "pubDate": "Wed, 10 Sep 2025 11:32:12 GMT"
-    },
-    {
       "title": "Footage shows second claimed attack on Greta Thunberg Gaza flotilla - BBC",
       "pubDate": "Wed, 10 Sep 2025 16:33:01 GMT"
     },
@@ -559,6 +551,10 @@
     {
       "title": "Why UK's undersea cables are vulnerable - and Putin has 'pretty good map' of where they are - Sky News",
       "pubDate": "Wed, 17 Sep 2025 00:33:11 GMT"
+    },
+    {
+      "title": "New lab results show Putin critic Navalny was poisoned in jail, wife says - France 24",
+      "pubDate": "Wed, 17 Sep 2025 10:26:57 GMT"
     }
   ],
   "ai_safety": [
@@ -837,6 +833,10 @@
     {
       "title": "Child-focused AI expands amid safety concerns and persistent incidents - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Wed, 17 Sep 2025 07:13:44 GMT"
+    },
+    {
+      "title": "Aveni Unveils Next Iteration of FinLLM setting AI Safety Standards for Agentic AI Adoption in UK Financial Services - FF News | Fintech Finance",
+      "pubDate": "Wed, 17 Sep 2025 10:12:55 GMT"
     }
   ],
   "financial_markets": [
@@ -962,10 +962,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Nvidia Stock Rises. Why AI Spending Fears Are Receding. - Barron's",
-      "pubDate": "Wed, 10 Sep 2025 11:16:00 GMT"
-    },
     {
       "title": "I\u2019ve been researching generative AI for a decade, and I\u2019m tired of the consciousness debate. Humans barely understand our own - Fortune",
       "pubDate": "Wed, 10 Sep 2025 12:30:00 GMT"
@@ -1555,6 +1551,10 @@
     {
       "title": "Ukrainians are fortifying and flooding underground pipes because Russian troops keep trying to crawl or walk in them - Business Insider",
       "pubDate": "Wed, 17 Sep 2025 08:33:00 GMT"
+    },
+    {
+      "title": "Ukraine's economic police need more to fight shadow economy, director says - Reuters",
+      "pubDate": "Wed, 17 Sep 2025 11:28:00 GMT"
     }
   ],
   "us_economy": [
@@ -1718,10 +1718,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump is used to shaking off criticism. The Epstein saga is different - BBC",
-      "pubDate": "Wed, 10 Sep 2025 11:33:53 GMT"
-    },
     {
       "title": "If Donald Trump Was Incapacitated, Would We Know? - Mother Jones",
       "pubDate": "Wed, 10 Sep 2025 13:18:32 GMT"
@@ -2359,10 +2355,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "PsiQuantum hits $7 billion valuation as investors bet on quantum\u2019s AI-style potential - Fast Company",
-      "pubDate": "Wed, 10 Sep 2025 11:08:33 GMT"
-    },
-    {
       "title": "PsiQuantum closes $1BN equity round - Optics.org",
       "pubDate": "Wed, 10 Sep 2025 13:30:00 GMT"
     },
@@ -2373,10 +2365,6 @@
     {
       "title": "Qubit Technologies Advance Precision Measurements of Cosmological Particles, Mitigating Environmental Noise - Quantum Zeitgeist",
       "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
-    {
-      "title": "PsiQuantum valued at $7 billion in latest funding round, teams up with Nvidia - Reuters",
-      "pubDate": "Wed, 10 Sep 2025 11:03:02 GMT"
     },
     {
       "title": "PsiQuantum raises $1bn backed by Nvidia, BlackRock - Silicon Republic",
@@ -2623,6 +2611,10 @@
     {
       "title": "Forget woke chatbots \u2014 an AI researcher says the real danger is an AI that doesn't care if we live or die - Business Insider",
       "pubDate": "Tue, 16 Sep 2025 10:39:00 GMT"
+    },
+    {
+      "title": "Elon Musk says Grok 5 training starts in few weeks, it has a shot at achieving AGI - India Today",
+      "pubDate": "Wed, 17 Sep 2025 09:58:55 GMT"
     }
   ],
   "national_security": [
@@ -2661,6 +2653,10 @@
     {
       "title": "TikTok\u2019s US operations acquired in landmark deal amid national security concerns - Lynnwood Times",
       "pubDate": "Wed, 17 Sep 2025 02:29:56 GMT"
+    },
+    {
+      "title": "Gaps in Amphibious Forces Pose Unnecessary Risks to National Security - RealClearDefense",
+      "pubDate": "Wed, 17 Sep 2025 11:25:25 GMT"
     }
   ],
   "gaza": [
@@ -2739,16 +2735,16 @@
     {
       "title": "Israel opens \u2018temporary\u2019 route for residents to flee as troops and tanks push deeper into Gaza City \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 06:48:00 GMT"
+    },
+    {
+      "title": "EU unveils plan to hit Israel with tariffs, sanctions amid Gaza war outcry - politico.eu",
+      "pubDate": "Wed, 17 Sep 2025 11:06:52 GMT"
     }
   ],
   "climate_change": [
     {
       "title": "Climate change, quality loss, and adulteration: Botanicals summit calls for sustainable supply chains - NutraIngredients.com",
       "pubDate": "Wed, 10 Sep 2025 12:28:14 GMT"
-    },
-    {
-      "title": "Cyprus will host a regional firefighting hub as climate change worsens blazes - ABC News",
-      "pubDate": "Wed, 10 Sep 2025 11:54:03 GMT"
     },
     {
       "title": "Scientists trace heat waves back to individual fossil fuel companies, with potentially sweeping courtroom implications - CNN",
@@ -3221,6 +3217,10 @@
     {
       "title": "Why solving plastic pollution is a major climate win - The World Economic Forum",
       "pubDate": "Wed, 17 Sep 2025 09:19:16 GMT"
+    },
+    {
+      "title": "Scientists went hunting for freshwater deep beneath the Atlantic Ocean. What they found could have global implications - CNN",
+      "pubDate": "Wed, 17 Sep 2025 11:00:06 GMT"
     }
   ],
   "world_news": [
