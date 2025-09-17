@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Video Retired IDF colonel on Israel\u2019s strike on Qatar - ABC News",
-      "pubDate": "Wed, 10 Sep 2025 18:15:08 GMT"
-    },
-    {
       "title": "Top Qatari official has questioned partnership with US after Israeli strike \u2014 source - The Times of Israel",
       "pubDate": "Wed, 10 Sep 2025 19:13:10 GMT"
     },
@@ -259,13 +255,13 @@
     {
       "title": "The US fired $500 million in top interceptors defending Israel from missile attacks, new documents show - Business Insider",
       "pubDate": "Wed, 17 Sep 2025 17:50:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s culture minister threatens national film awards after Palestinian story takes top prize - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 16:35:00 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "In new lawsuit, fired FBI leaders allege rampant politicization by Trump allies - Politico",
-      "pubDate": "Wed, 10 Sep 2025 18:55:39 GMT"
-    },
     {
       "title": "Shooter still at large after Trump ally and activist Charlie Kirk murdered on Utah campus - CNN",
       "pubDate": "Thu, 11 Sep 2025 09:09:00 GMT"
@@ -348,10 +344,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "\u2018Intensified interest\u2019 in passing Russia sanctions bill, says Thune - Politico",
-      "pubDate": "Wed, 10 Sep 2025 18:37:49 GMT"
-    },
     {
       "title": "Letter: Russia did interfere in 2016 - The Detroit News",
       "pubDate": "Thu, 11 Sep 2025 00:44:10 GMT"
@@ -845,6 +837,10 @@
     {
       "title": "In Honor of Patient Safety Day, Four Recommendations to Improve Healthcare Outcomes - Federation of American Scientists",
       "pubDate": "Wed, 17 Sep 2025 16:22:59 GMT"
+    },
+    {
+      "title": "AI in Campus Facilities Management: Benefits for Safety, Sustainability, and Operations - Campus Safety Magazine",
+      "pubDate": "Wed, 17 Sep 2025 08:37:32 GMT"
     }
   ],
   "financial_markets": [
@@ -967,6 +963,10 @@
     {
       "title": "As the dollar wobbles, why has there not been more flight to the euro? - Atlantic Council",
       "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
+    },
+    {
+      "title": "Why France's Top Financial Market Official Says EU Supervision 'Hinders Competitiveness' - Finance Magnates",
+      "pubDate": "Wed, 17 Sep 2025 08:05:51 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1261,10 +1261,6 @@
   ],
   "ukraine": [
     {
-      "title": "Bipartisan Push For Russia SANCTIONS Passage As Putin 'ESCALATES' Ukraine Assault | TRENDING - The Hill",
-      "pubDate": "Wed, 10 Sep 2025 18:50:00 GMT"
-    },
-    {
       "title": "House passes NDAA, with $848B topline and protections for Ukraine aide - Breaking Defense",
       "pubDate": "Wed, 10 Sep 2025 22:13:00 GMT"
     },
@@ -1547,6 +1543,10 @@
     {
       "title": "Ukraine expects $3.5 billion fund for US weapons to sustain fight against Russia, Zelenskyy says - AP News",
       "pubDate": "Wed, 17 Sep 2025 16:01:00 GMT"
+    },
+    {
+      "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
+      "pubDate": "Wed, 17 Sep 2025 18:48:05 GMT"
     }
   ],
   "us_economy": [
@@ -2541,6 +2541,10 @@
     {
       "title": "NYS to invest $300M for Stony Brook University quantum computing hub, Hochul says - Newsday",
       "pubDate": "Wed, 17 Sep 2025 17:35:59 GMT"
+    },
+    {
+      "title": "IonQ, Honeywell, EPB partner with DOE to boost quantum-in-space collaboration (IONQ:NYSE) - Seeking Alpha",
+      "pubDate": "Wed, 17 Sep 2025 17:22:26 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3189,6 +3193,10 @@
     {
       "title": "National Academy of Sciences rebuffs Trump EPA's effort to undo regulations fighting climate change - AP News",
       "pubDate": "Wed, 17 Sep 2025 16:41:00 GMT"
+    },
+    {
+      "title": "National Academies Publish New Report Reviewing Evidence for Greenhouse Gas Emissions and U.S. Climate, Health, and Welfare - National Academies",
+      "pubDate": "Wed, 17 Sep 2025 16:02:38 GMT"
     }
   ],
   "world_news": [
@@ -3479,10 +3487,6 @@
   ],
   "openai": [
     {
-      "title": "OpenAI and Oracle reportedly ink historic cloud computing deal - TechCrunch",
-      "pubDate": "Wed, 10 Sep 2025 19:00:34 GMT"
-    },
-    {
       "title": "OpenAI CEO Sam Altman fears ChatGPT could be used to create a COVID-style pandemic | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 11 Sep 2025 13:00:32 GMT"
     },
@@ -3621,6 +3625,12 @@
     {
       "title": "SpaceX Eyes First Starship Version 3 Launch In \u201925 Or \u201926 - Aviation Week Network",
       "pubDate": "Wed, 17 Sep 2025 00:51:48 GMT"
+    }
+  ],
+  "public_health": [
+    {
+      "title": "Fired CDC chief Susan Monarez warns senators that RFK Jr. is endangering public health - Los Angeles Times",
+      "pubDate": "Wed, 17 Sep 2025 18:30:36 GMT"
     }
   ]
 }
