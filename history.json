@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse - The New York Times",
-      "pubDate": "Wed, 10 Sep 2025 04:00:09 GMT"
-    },
-    {
       "title": "EU commission president seeks sanctions, partial trade suspension against Israel over war in Gaza - The Hill",
       "pubDate": "Wed, 10 Sep 2025 08:20:00 GMT"
     },
@@ -555,6 +551,10 @@
     {
       "title": "Security analysts flag rise in Russian-created misinformation posts on social media following Kirk shooting - ABC News",
       "pubDate": "Wed, 17 Sep 2025 00:22:30 GMT"
+    },
+    {
+      "title": "Russia Hosts Surprise Guests at Its Wargames: U.S. Military Officers - The Wall Street Journal",
+      "pubDate": "Tue, 16 Sep 2025 19:23:00 GMT"
     }
   ],
   "ai_safety": [
@@ -825,13 +825,13 @@
     {
       "title": "Open AI adding new safety features for teens using ChatGPT - 11Alive.com",
       "pubDate": "Tue, 16 Sep 2025 22:25:00 GMT"
+    },
+    {
+      "title": "Introducing Stargate UK - OpenAI",
+      "pubDate": "Tue, 16 Sep 2025 21:31:51 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Asia stocks gain, bonds fall as traders consider odds of bigger Fed cut - Reuters",
-      "pubDate": "Wed, 10 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "The Economy Looks Shaky. So, Why Is The Stock Market Surging? - Investopedia",
       "pubDate": "Wed, 10 Sep 2025 19:28:24 GMT"
@@ -1551,6 +1551,10 @@
     {
       "title": "The Guardian view on Donald Trump\u2019s Ukraine strategy: talking tough and doing very little isn\u2019t working | Editorial - The Guardian",
       "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
+    },
+    {
+      "title": "Only Ukraine can teach NATO how to combat Putin\u2019s growing drone fleet - Atlantic Council",
+      "pubDate": "Tue, 16 Sep 2025 20:15:00 GMT"
     }
   ],
   "us_economy": [
@@ -1564,10 +1568,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's producer deflation eases, helped by crackdown on price wars - Reuters",
-      "pubDate": "Wed, 10 Sep 2025 03:12:05 GMT"
-    },
     {
       "title": "Top Chinese and US Envoys\u2019 Talks Pave Way for Xi, Trump Meeting - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 02:12:00 GMT"
@@ -2033,6 +2033,10 @@
     {
       "title": "Democratic strategist \u2018absolutely\u2019 worried Trump \u2018going to unleash the Justice Department on\u2019 Democratic Party - The Hill",
       "pubDate": "Tue, 16 Sep 2025 20:15:00 GMT"
+    },
+    {
+      "title": "\"One of one\": Kirk assassination leaves vacuum for MAGA's outside enforcers - Axios",
+      "pubDate": "Tue, 16 Sep 2025 21:32:10 GMT"
     }
   ],
   "north_korea": [
@@ -2719,14 +2723,6 @@
   ],
   "climate_change": [
     {
-      "title": "Two hundred fish died in Grizzly Reservoir from toxic metals. Climate change is to blame. - Aspen Public Radio",
-      "pubDate": "Wed, 10 Sep 2025 03:49:00 GMT"
-    },
-    {
-      "title": "World Cup Venues At Risk As Extreme Heat, Floods Intensify - Earth.Org",
-      "pubDate": "Wed, 10 Sep 2025 03:09:49 GMT"
-    },
-    {
       "title": "Digging beyond oil: Saudi Arabia bids to become a hub for energy transition minerals - Climate Home News",
       "pubDate": "Wed, 10 Sep 2025 05:02:18 GMT"
     },
@@ -3197,13 +3193,13 @@
     {
       "title": "Majority of Florida\u2019s Republican Voters Back Clean Energy Initiatives - FlaglerLive",
       "pubDate": "Wed, 17 Sep 2025 00:45:38 GMT"
+    },
+    {
+      "title": "Australia has an Everest to climb if it wants to protect itself from climate catastrophe. But do we have the political resolve? | Erwin Jackson - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 03:10:00 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "Notified Qatar Of Incoming Israeli Strike: White House - NDTV",
-      "pubDate": "Wed, 10 Sep 2025 03:06:22 GMT"
-    },
     {
       "title": "Larry Ellison eclipses Elon Musk as world's richest person as Oracle stock soars - NBC News",
       "pubDate": "Wed, 10 Sep 2025 23:41:37 GMT"
@@ -3331,6 +3327,10 @@
     {
       "title": "At a truly awful time to build an electric vehicle plant in the U.S., Tesla's distant rival breaks ground on $5b Georgia facility - Fortune",
       "pubDate": "Tue, 16 Sep 2025 12:06:20 GMT"
+    },
+    {
+      "title": "Trump reversed policies supporting electric vehicles \u2212 it will affect the road to clean electricity, too - | The Invading Sea",
+      "pubDate": "Tue, 16 Sep 2025 16:48:28 GMT"
     }
   ],
   "technology": [
@@ -3453,6 +3453,10 @@
     {
       "title": "GM-QAOA Avoids Barren Plateaus, Demonstrating Dynamical Lie Algebra Isomorphism to Or, Maximizing Conserved Quantities - Quantum Zeitgeist",
       "pubDate": "Mon, 15 Sep 2025 11:11:36 GMT"
+    },
+    {
+      "title": "NY\u2019s AG unveils proposed rules for social media algorithms - NEWS10 ABC",
+      "pubDate": "Tue, 16 Sep 2025 20:43:24 GMT"
     }
   ],
   "quantum_mechanics": [
