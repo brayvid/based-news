@@ -1,62 +1,72 @@
 {
-  "AI Safety": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "DeepSeek runs internal checks on AI self-replication risks - Tech in Asia",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG4za2VGMXBZblIyOXJDd3lGejdjcEpwdC1LNUd6YlVTODhmNF9kakxHSEw2cDlpbzF1S3h0TkI1Y0NacFNTWjg2eUJaY0VxNHRoMFRxaHdnaVl2TG5DVVNyME82WW0zR3UzU3N6MDZpX3JqZnlzSENKVkxXVGlBZzR6ajZDZzFnbHkwdVRHaGhsLXVT?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 03:08:00 GMT"
+        "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnBIVGQ4dDQzN0t6MDRBUnhoeno1aENZUWt3NFFJSk5xTzhjM2NmYmxjLXF3X3ZhMktER3JKOXVucnBGRWVTeTBNY0ZRYS0td0J4Q0U0OHQyNTQ2dmtseDM3N3NULXlCVWN3STc3UW84RmxLSk95NXRLci1MWUdPYjd1YXN1YkJ5VWhSNzJtbU0xUjRnSmc?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Estimated 16,500 climate change deaths during Europe summer: study - KPCNews",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWC1hVGZRUU5iLTlETzhEbjRZak52dThOX0ZIOTJtUmJXQjZtbXRMeWJwbndVcjZMSkxXUkF2TjFsbTdURzdMRUxpakZ3b2FnajVlZ1RyT0JZTk1BbF8xdUhPbW1jWi1lWjVGNC1FbDNlaXhRS3h6b3lHajJiVS1OM1dCbzU4RjJ0TjhfWi1qSVo?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 04:25:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   },
   "China": {
     "articles": [
       {
-        "title": "China keeps tight grip on rare earths, costing at least one company 'millions of euros' - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXBiVGgyUHBJeUtnMVloVkZlYVd4Q09hM2E1ZjhPWjZpS3ItbDQ4S2RFZV9kQXBaZ3VhUXdEZzlnQUFUTWh0dC1tT1l3UlZqclB5aUpTdnBnbkxPcFpHUy16TTl2ZWU3QUxLQ1dQYkp5OXRLUC1ockNkTjN1SndOdVlpM0dOanR3MWfSAY8BQVVfeXFMUFNLdFQ1TmZrY2lvRThlYXdzMndtYVlrU2xpeTU2elVKRy14UFg3d3JyUkpaMTViTHpPSmdfZXhiSm1kN2dmUkFrWEI4OGlxbW5qTVpkMm52VTkxQXVnU1RZV3Y3NHBhN0xFQjZCa0ViejdkSzByVVMtdW9sdjY3U1FUZDdmOGZQa3B0bXpXaWc?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 01:17:00 GMT"
+        "title": "China is sending its world-beating auto industry into a tailspin - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDUtandCYkx1NDJhT3A5ZUI0SFpOay1ySWFTazNyWmJjMmV1M1lKZTJLY3BHTFF6NUN5eXlFejFxMnVGVHVQMC00U1hsNjZVSTEzT3lpeFRCeWRUZU1xMWlSQzhCR3dYbFZZNGhxcmtaa2NXU29iN0YwQTlqQjg1dDFTZTZuTWtndkxiTXM4TnFxZUlnRnRUSExGN2c0Wk1ES0ZnVkdjRk05Z3Q4Y21nV2c3VQ?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 05:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   },
   "Ukraine": {
     "articles": [
       {
-        "title": "Providing Wheeled Support for Ukraine\u2019s First Responders - Direct Relief",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEpzWUNaVFlIamJhWFloLU5jb01LYVVXdmFpbWVvelpOOHZNb0NtWTRCOXhTdWZlRk5TNEoyWk4weXZ3RXFfUnNHYnpSRHQyblhQcndpY2Z6WHlBZnNoZTZGbnU2N2VXTnB6anB5TDZTUDZvTTY1NHpXUllJYzNTVzZCSkwxMk1FdzBieVVOYXZ5NFlQZHMwNtIBngFBVV95cUxPWFl4Qjl6Z1M3QjhhNWgtNmZXX2J5cW5KazRPY1NMZE8wcmd6YW5Tal9QNHdtVE5IaW5hTXI1Yk9veGxpajdpa054cjVoaWZpZjNlRU1fNGxudFdDR3BHTFdyWnozTENTZWdfNHF2WTlCTVFoMTJ0WGhia0IwQy04UlhWY1NSMDdJNlM4M3NRRmFlWnIwY3RpY1dpNVRDQQ?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 06:44:55 GMT"
+        "title": "Russia may have supplied North with nuclear reactor, South's military says - Korea JoongAng Daily",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU1JrUFZfSllGSkowajczM1FnWWJ4VVVic3QtZFJQOWROR3Z5algwaVFwNTNIQ21zWEd0ZnhhODFPY0gzTjJsRVFNWFgtSmt3SEZXalJjdzAxYWUwTkdHWGc3cEpaMDczQjZWSGlHZjd2NXU1VHJJZlJJUXJYblU2Qm9OSFNjZXR2M243WGNzMHBnWWVGdU5CTW1TWHQ2TGFuMFI2WGVoN3dtNUdjZjlIVjRtY09lbHFYLVVrTkxlMVNFbE5fa2dOeWU4MU5mblNCRnBOQXdoeUFHaE95dTJ4YW5WMkYycElK?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 01:58:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   },
   "Israel": {
     "articles": [
       {
-        "title": "Advocacy groups call for European ban on Israel team, players in Times Square billboard - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXJra1doV0dNaWVTY0NoT2J4TnZZRDRPckhqbnlDNVZFV2hWdUJSNGdRcEU1MUhILVhpZWtTdDNTRjI1MVFHQy12TDNOZHRza1ZfY0FsYXdVbVA0LVR0cUxyWnlXOFdxYVlDUXE5M21vdGI0T2hoMWhqT1hiNDFqM2tLQWNrWnJ3ODlPSzZJVFlhQ29IN0JlMnUxVnpLdzJnbnJvbmZ1WVlKTnhfTkp0RmNQcDdXSHFwRU16WDUyQ3Ntc2tB?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 00:24:00 GMT"
+        "title": "Democratic megafirm SKDK drops Israel as client - Politico",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmxlWlhralMwNl82ZmtPZExRNTRTUXdmUmxicWEyR1BCNDRjV3R4NWlyRzBuR0tRN3J5UmFNM3RPVUxEX1JZdXZ5a09qdnZuMVdqeXdmbGxUcFNPbEFfcmllTlJpZ3h1NzZWWDV2ZlJLaFZ6c0gwUFVCSkkxaE4yaDR4WU1ZbXZ1dFVjbkh2ZHo4UWFITXl6cjRhVVVPQQ?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 00:19:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   },
-  "US Politics": {
+  "United States": {
     "articles": [
       {
-        "title": "Utah prosecutors\u2019 evidence indicates suspected motives of Charlie Kirk\u2019s alleged shooter - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjBaMHlpejh1c3c5TVY3b1JPMGdIVElhNjJTYmx1akpGUXZIeEQyZjItWGlIMVpDWWtaZkNpaFJnSlBac09tNDdsdzZLLVFkdFJudS1RbDJDaWljVFlkVWpRa0hKa29XUWxPdmxqRW52aFlmS1R6TjhScjhaNzFQM2dfazZkYTQ0NjJF?oc=5",
-        "pubDate": "Tue, 16 Sep 2025 22:24:00 GMT"
+        "title": "US Justice Department sues Oregon, Maine over voter registration lists - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWxucXNPTUppdlNENWkzandQbmdRZFh2R21YbHlabmdIT2RvX0NmU0E4dTZ3cmVqVjFURXdPZDY3VjJNTXYzeGZXZzdiNEY2SWxTX1RxNnR0bzVSRk5FZXdadXRSeWYzTWx3UnVXQzdhWFhnZUF5MXpmTXlIRGNaT0VraFQ1OHhjVi1fMjBaSmw5UW53cUIwQ0JTYkthSjNjOTRSWmRlcW9ROWp6TE9ZYkpHX21VNlN5bEd5THhNVQ?oc=5",
+        "pubDate": "Tue, 16 Sep 2025 23:20:45 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   },
-  "Russia": {
+  "SpaceX": {
     "articles": [
       {
-        "title": "Why UK's undersea cables are vulnerable - and Putin has 'pretty good map' of where they are - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2dzVlJEZTlfVGRNYXhjcGNKRHJjMUFYeVJoUlJ2Rk0xbkpnSDRCdEppZ2hCQ3VDczBOZERPVVJ6dmlReFUwb1NpbmtleVpJeVZMZXp3RDd2c0xwX2hEalNTM0VGckI4Y0FZaElOZjNTNVUxdFhOakdubTQ5cFNGYmh0NE44bDJkLTRsa0tFSDRtZkYtSFlrdncwMHFjc1dBU3h6eVdEcDdVZW8tWk9wSGx0OFZTRDhpLW95dVBKOA?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 00:33:11 GMT"
+        "title": "SpaceX Eyes First Starship Version 3 Launch In \u201925 Or \u201926 - Aviation Week Network",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGlLOXJ5dzVacDhad0RmTE9KcDh3dVdZSjNLSzlRcmlnYzdHaTlhbjN2MzkzeFNLdldXaVBvbnVyUTRSaDJGc3Y1QWlNcGxHUTBtQ2V4Y3BxSlhHWW9qUlhpTS1NRDRhXzdPR0NFV0g3WHA2SjZOR2pRc3NuLUNXUjlYazlQbE5IbjRfN2ZoQU1SVFZsMWRUOWlvTzRVbXU5eTcw?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 00:51:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T07:00:16.430975+00:00"
+    "last_updated_ts": "2025-09-17T08:00:02.692646+00:00"
   }
 }
