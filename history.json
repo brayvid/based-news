@@ -1,20 +1,12 @@
 {
   "israel": [
     {
-      "title": "Footage shows second claimed attack on Greta Thunberg Gaza flotilla - BBC",
-      "pubDate": "Wed, 10 Sep 2025 16:33:01 GMT"
-    },
-    {
       "title": "Video Retired IDF colonel on Israel\u2019s strike on Qatar - ABC News",
       "pubDate": "Wed, 10 Sep 2025 18:15:08 GMT"
     },
     {
       "title": "Top Qatari official has questioned partnership with US after Israeli strike \u2014 source - The Times of Israel",
       "pubDate": "Wed, 10 Sep 2025 19:13:10 GMT"
-    },
-    {
-      "title": "Israeli airstrikes \u2018killed any hope\u2019 for hostages in Gaza, says Qatari prime minister - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 16:59:00 GMT"
     },
     {
       "title": "Israel has hunted its top enemies around the Middle East. What has it achieved? - NPR",
@@ -259,13 +251,13 @@
     {
       "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
       "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
+    },
+    {
+      "title": "Thousands of Palestinians flee Gaza City as Israeli troops advance - BBC",
+      "pubDate": "Wed, 17 Sep 2025 15:55:43 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump makes a rare D.C. restaurant visit to tout his federal crackdown on crime - NPR",
-      "pubDate": "Wed, 10 Sep 2025 16:37:37 GMT"
-    },
     {
       "title": "In new lawsuit, fired FBI leaders allege rampant politicization by Trump allies - Politico",
       "pubDate": "Wed, 10 Sep 2025 18:55:39 GMT"
@@ -352,10 +344,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Poland dismisses Russia\u2019s claim drone incursion was unintentional as UK considers bolstering Nato air defences \u2013 live - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 16:21:00 GMT"
-    },
     {
       "title": "\u2018Intensified interest\u2019 in passing Russia sanctions bill, says Thune - Politico",
       "pubDate": "Wed, 10 Sep 2025 18:37:49 GMT"
@@ -574,10 +562,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Derq Partners with Tacel Ltd. to Expand AI Traffic Safety Solutions Across Canada - Business Wire",
-      "pubDate": "Wed, 10 Sep 2025 16:09:00 GMT"
-    },
     {
       "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg",
       "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
@@ -857,6 +841,10 @@
     {
       "title": "What Wiener learned from vetoed AI bill in latest transparency push - San Francisco Examiner",
       "pubDate": "Wed, 17 Sep 2025 14:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT Can Now Call the Cops : Sam Altman - Geeky Gadgets",
+      "pubDate": "Wed, 17 Sep 2025 10:44:40 GMT"
     }
   ],
   "financial_markets": [
@@ -1277,10 +1265,6 @@
       "pubDate": "Wed, 10 Sep 2025 17:31:42 GMT"
     },
     {
-      "title": "Movie project aims to tell story of Ukraine soccer club Shakhtar during Russian invasion - The Independent",
-      "pubDate": "Wed, 10 Sep 2025 16:55:00 GMT"
-    },
-    {
       "title": "Bipartisan Push For Russia SANCTIONS Passage As Putin 'ESCALATES' Ukraine Assault | TRENDING - The Hill",
       "pubDate": "Wed, 10 Sep 2025 18:50:00 GMT"
     },
@@ -1563,6 +1547,10 @@
     {
       "title": "Ukraine-Russia war latest: Three dead after Putin targets Ukrainian railways in overnight attack - The Independent",
       "pubDate": "Wed, 17 Sep 2025 12:24:56 GMT"
+    },
+    {
+      "title": "Air defence missiles in first US weapons supplies under new mechanism, Zelenskiy says - Reuters",
+      "pubDate": "Wed, 17 Sep 2025 15:39:58 GMT"
     }
   ],
   "us_economy": [
@@ -2061,6 +2049,10 @@
     {
       "title": "Fired health official testifies to Senate committee about chaos in RFK Jr\u2019s department \u2013 live - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 14:31:53 GMT"
+    },
+    {
+      "title": "Trump Attacks NY\u2019s Landmark Climate Change Superfund Law - Food & Water Watch",
+      "pubDate": "Wed, 17 Sep 2025 14:49:33 GMT"
     }
   ],
   "north_korea": [
@@ -2279,10 +2271,6 @@
   ],
   "data_breach": [
     {
-      "title": "PSNI 'cannot afford' to pay staff compensation over data breach - BBC",
-      "pubDate": "Wed, 10 Sep 2025 16:54:07 GMT"
-    },
-    {
       "title": "Powerschool student data leak caused by lack of basic security, experts say - Houston Chronicle",
       "pubDate": "Fri, 12 Sep 2025 23:22:09 GMT"
     },
@@ -2358,10 +2346,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum computing startup PsiQuantum raises $1B, aiming to build 1M qubit-scale machine - SiliconANGLE",
-      "pubDate": "Wed, 10 Sep 2025 16:50:56 GMT"
-    },
     {
       "title": "PsiQuantum raises $1bn backed by Nvidia, BlackRock - Silicon Republic",
       "pubDate": "Thu, 11 Sep 2025 08:12:04 GMT"
@@ -2561,10 +2545,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "'Artificial super astronauts': How AI and robotics could help humanity settle Mars - MSN",
-      "pubDate": "Wed, 10 Sep 2025 16:49:42 GMT"
-    },
-    {
       "title": "OpenAI gets Microsoft OK for restructure, IPO plans - Quartz",
       "pubDate": "Fri, 12 Sep 2025 01:20:12 GMT"
     },
@@ -2614,10 +2594,6 @@
     }
   ],
   "national_security": [
-    {
-      "title": "Exclusive: US warns hidden radios may be embedded in solar-powered highway infrastructure - Reuters",
-      "pubDate": "Wed, 10 Sep 2025 16:41:36 GMT"
-    },
     {
       "title": "USF program trains students for national security careers 24 years after Sept. 11 attacks - FOX 13 Tampa Bay",
       "pubDate": "Thu, 11 Sep 2025 02:53:49 GMT"
@@ -3205,6 +3181,10 @@
     {
       "title": "Coral reefs begin death spiral as climate tipping point nears - The Elkhart Truth",
       "pubDate": "Wed, 17 Sep 2025 15:15:15 GMT"
+    },
+    {
+      "title": "Climate change \u2018beyond scientific dispute,\u2019 National Academies report says - Politico",
+      "pubDate": "Wed, 17 Sep 2025 16:27:22 GMT"
     }
   ],
   "world_news": [
@@ -3480,14 +3460,6 @@
     }
   ],
   "quantum_mechanics": [
-    {
-      "title": "An exploding black hole could reveal the foundations of the universe - EurekAlert!",
-      "pubDate": "Wed, 10 Sep 2025 16:12:19 GMT"
-    },
-    {
-      "title": "In quantum sensing, what beats beating noise? Meeting noise halfway - Phys.org",
-      "pubDate": "Wed, 10 Sep 2025 16:59:04 GMT"
-    },
     {
       "title": "PsiQuantum Raises $1B, Collaborates with NVIDIA | Business | Sep 2025 - Photonics Spectra",
       "pubDate": "Wed, 10 Sep 2025 19:12:10 GMT"
