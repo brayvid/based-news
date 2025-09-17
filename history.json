@@ -559,10 +559,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
-      "pubDate": "Wed, 10 Sep 2025 05:32:22 GMT"
-    },
-    {
       "title": "Commentary: Mental health professionals should oversee AI, not face sanctions for doing so \u2014 Eli Lehrer - Jacksonville Journal-Courier",
       "pubDate": "Wed, 10 Sep 2025 06:05:40 GMT"
     },
@@ -833,6 +829,10 @@
     {
       "title": "Aussie! Aussie! Aussie! AI! AI! AI!: Innovation minister Tim Ayres on the national potential of artificial intelligence - Startup Daily",
       "pubDate": "Tue, 16 Sep 2025 21:36:09 GMT"
+    },
+    {
+      "title": "Parents testify on the impact of AI chatbots: \u2018Our children are not experiments\u2019 - NBC News",
+      "pubDate": "Wed, 17 Sep 2025 01:17:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1261,10 +1261,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine war latest: Poland scrambles NATO air defences after 'unprecedented violation' of airspace by Russia - Sky News",
-      "pubDate": "Wed, 10 Sep 2025 05:29:32 GMT"
-    },
-    {
       "title": "Putin tests Nato with drone attack over Poland - The Telegraph",
       "pubDate": "Wed, 10 Sep 2025 08:29:15 GMT"
     },
@@ -1559,6 +1555,10 @@
     {
       "title": "Only Ukraine can teach NATO how to combat Putin\u2019s growing drone fleet - Atlantic Council",
       "pubDate": "Tue, 16 Sep 2025 20:15:00 GMT"
+    },
+    {
+      "title": "Towcester care home furniture sent to Ukrainian eye hospital - BBC",
+      "pubDate": "Wed, 17 Sep 2025 05:05:25 GMT"
     }
   ],
   "us_economy": [
@@ -2347,10 +2347,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Lunate Capital lines up quantum computing ETF - ETF Stream",
-      "pubDate": "Wed, 10 Sep 2025 05:04:44 GMT"
-    },
-    {
       "title": "PsiQuantum Raises $1 Billion, Says Its Computer Will Be Ready in Two Years - The Wall Street Journal",
       "pubDate": "Wed, 10 Sep 2025 11:00:00 GMT"
     },
@@ -2738,10 +2734,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Digging beyond oil: Saudi Arabia bids to become a hub for energy transition minerals - Climate Home News",
-      "pubDate": "Wed, 10 Sep 2025 05:02:18 GMT"
-    },
     {
       "title": "As Extreme Weather Increases Flooding on Farms, Federal Support for Climate Resilience Evaporates - Civil Eats",
       "pubDate": "Wed, 10 Sep 2025 08:07:40 GMT"
@@ -3217,6 +3209,10 @@
     {
       "title": "Nobel laureate Steven Chu warns of \u2018Titanic\u2019 climate challenge - Harvard Gazette",
       "pubDate": "Tue, 16 Sep 2025 18:57:03 GMT"
+    },
+    {
+      "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
+      "pubDate": "Wed, 17 Sep 2025 04:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3647,6 +3643,12 @@
     {
       "title": "Sebi extends settlement window till Oct 16 for stock brokers in algo trading case - The Economic Times",
       "pubDate": "Tue, 16 Sep 2025 12:08:46 GMT"
+    }
+  ],
+  "spacex": [
+    {
+      "title": "SpaceX targeting Wednesday for Starlink mission from Vandenberg SFB - Santa Maria Times",
+      "pubDate": "Wed, 17 Sep 2025 02:00:00 GMT"
     }
   ]
 }
