@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli strike takes fight with Hamas to Qatar, key intermediary in Gaza talks - The Washington Post",
-      "pubDate": "Wed, 10 Sep 2025 00:37:07 GMT"
-    },
-    {
       "title": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse - The New York Times",
       "pubDate": "Wed, 10 Sep 2025 04:00:09 GMT"
     },
@@ -939,10 +935,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI co-pilot boosts noninvasive brain-computer interface by interpreting user intent, UCLA study finds - Newsroom | UCLA",
-      "pubDate": "Wed, 10 Sep 2025 00:24:56 GMT"
-    },
-    {
       "title": "OpenAI attributes AI hallucinations to LLMs trained to guess answers - digitimes",
       "pubDate": "Wed, 10 Sep 2025 06:55:59 GMT"
     },
@@ -1233,16 +1225,16 @@
     {
       "title": "Unified multimodal access layer for Quora\u2019s Poe using Amazon Bedrock - Amazon Web Services",
       "pubDate": "Tue, 16 Sep 2025 16:40:11 GMT"
+    },
+    {
+      "title": "Exclusive: Ex-Google DeepMinders get $5 million to bring AI algorithm design to the masses - Fortune",
+      "pubDate": "Tue, 16 Sep 2025 23:01:00 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Ukraine war latest: Poland scrambles NATO air defences after 'unprecedented violation' of airspace by Russia - Sky News",
       "pubDate": "Wed, 10 Sep 2025 05:29:32 GMT"
-    },
-    {
-      "title": "Iryna Zarutska was not buried in Ukraine after Charlotte stabbing; family's urgent plea revealed | Hindustan Times - Hindustan Times",
-      "pubDate": "Wed, 10 Sep 2025 00:33:57 GMT"
     },
     {
       "title": "Putin tests Nato with drone attack over Poland - The Telegraph",
@@ -1531,6 +1523,10 @@
     {
       "title": "First Trump administration weapons package to Ukraine approved: Report - The Hill",
       "pubDate": "Tue, 16 Sep 2025 22:13:00 GMT"
+    },
+    {
+      "title": "The Guardian view on Donald Trump\u2019s Ukraine strategy: talking tough and doing very little isn\u2019t working | Editorial - The Guardian",
+      "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
     }
   ],
   "us_economy": [
@@ -1694,10 +1690,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump Taking US \u2018Down a Dark Road,\u2019 Says UChicago Political Violence Expert - WTTW",
-      "pubDate": "Wed, 10 Sep 2025 00:11:15 GMT"
-    },
     {
       "title": "Judge blocks Trump\u2019s bid to fire Lisa Cook from Federal Reserve board - Politico",
       "pubDate": "Wed, 10 Sep 2025 02:42:53 GMT"
@@ -2017,6 +2009,10 @@
     {
       "title": "Bondi Prompts Broad Backlash After Saying She\u2019ll Target \u2018Hate Speech\u2019 - The New York Times",
       "pubDate": "Tue, 16 Sep 2025 19:07:33 GMT"
+    },
+    {
+      "title": "House Republicans threaten to cancel anyone who disparages Charlie Kirk - The Washington Post",
+      "pubDate": "Wed, 17 Sep 2025 00:57:38 GMT"
     }
   ],
   "north_korea": [
@@ -2694,14 +2690,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "California\u2019s \u201841st senator\u2019 is causing climate headaches - Politico",
-      "pubDate": "Wed, 10 Sep 2025 01:00:00 GMT"
-    },
-    {
-      "title": "Verisk's Tolwinski-Ward: Modelling nat cat risk in a changing climate - The Insurer",
-      "pubDate": "Wed, 10 Sep 2025 00:30:46 GMT"
-    },
     {
       "title": "Two hundred fish died in Grizzly Reservoir from toxic metals. Climate change is to blame. - Aspen Public Radio",
       "pubDate": "Wed, 10 Sep 2025 03:49:00 GMT"
@@ -3429,12 +3417,6 @@
     {
       "title": "GM-QAOA Avoids Barren Plateaus, Demonstrating Dynamical Lie Algebra Isomorphism to Or, Maximizing Conserved Quantities - Quantum Zeitgeist",
       "pubDate": "Mon, 15 Sep 2025 11:11:36 GMT"
-    }
-  ],
-  "world_economy": [
-    {
-      "title": "US-China tensions drive business confidence to new lows, survey says - Reuters",
-      "pubDate": "Wed, 10 Sep 2025 00:27:32 GMT"
     }
   ],
   "quantum_mechanics": [
