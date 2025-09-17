@@ -563,10 +563,6 @@
   ],
   "ai_safety": [
     {
-      "title": "The MechaHitler defense contract is raising red flags - The Verge",
-      "pubDate": "Wed, 10 Sep 2025 11:00:00 GMT"
-    },
-    {
       "title": "A False Confidence in the EU AI Act: Epistemic Gaps and Bureaucratic Traps - Tech Policy Press",
       "pubDate": "Wed, 10 Sep 2025 13:16:10 GMT"
     },
@@ -1261,6 +1257,10 @@
     {
       "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
       "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
+    },
+    {
+      "title": "China bans tech companies from buying Nvidia\u2019s AI chips - Financial Times",
+      "pubDate": "Wed, 17 Sep 2025 08:32:57 GMT"
     }
   ],
   "ukraine": [
@@ -1559,12 +1559,12 @@
   ],
   "us_economy": [
     {
-      "title": "The US economy is weakening. These 5 numbers tell the story. - The Boston Globe",
-      "pubDate": "Wed, 10 Sep 2025 10:29:49 GMT"
-    },
-    {
       "title": "Former BLS commissioner says firing her was a \u2018dangerous\u2019 step for the US economy - CNN",
       "pubDate": "Tue, 16 Sep 2025 21:13:47 GMT"
+    },
+    {
+      "title": "The economy is reliant on the \u2018fortunes of the well-to-do\u2019 says Moody\u2019s\u2014if the ultra-rich get nervy that means recession - Fortune",
+      "pubDate": "Wed, 17 Sep 2025 10:16:00 GMT"
     }
   ],
   "china": [
@@ -2053,6 +2053,10 @@
     {
       "title": "Trump makes second state visit to the UK - live updates - CNN",
       "pubDate": "Wed, 17 Sep 2025 09:26:00 GMT"
+    },
+    {
+      "title": "Trump announces Republican midterm convention - Axios",
+      "pubDate": "Wed, 17 Sep 2025 06:43:17 GMT"
     }
   ],
   "north_korea": [
@@ -2354,10 +2358,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "PsiQuantum Raises $1 Billion, Says Its Computer Will Be Ready in Two Years - The Wall Street Journal",
-      "pubDate": "Wed, 10 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "PsiQuantum hits $7 billion valuation as investors bet on quantum\u2019s AI-style potential - Fast Company",
       "pubDate": "Wed, 10 Sep 2025 11:08:33 GMT"
@@ -2735,6 +2735,10 @@
     {
       "title": "If Labour admitted there is a genocide in Gaza, it would have to admit its own hand in it | Owen Jones - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 05:00:55 GMT"
+    },
+    {
+      "title": "Israel opens \u2018temporary\u2019 route for residents to flee as troops and tanks push deeper into Gaza City \u2013 Middle East crisis live - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 06:48:00 GMT"
     }
   ],
   "climate_change": [
@@ -3213,6 +3217,10 @@
     {
       "title": "Risky Summer 2025 Heat Added by Climate Change - Climate Central",
       "pubDate": "Wed, 17 Sep 2025 09:33:31 GMT"
+    },
+    {
+      "title": "Why solving plastic pollution is a major climate win - The World Economic Forum",
+      "pubDate": "Wed, 17 Sep 2025 09:19:16 GMT"
     }
   ],
   "world_news": [
@@ -3235,6 +3243,10 @@
     {
       "title": "Scientists say they've found the world's oldest mummies, and they're far from Egypt - NBC News",
       "pubDate": "Tue, 16 Sep 2025 10:26:55 GMT"
+    },
+    {
+      "title": "Hundreds of tourists left stranded near Machu Picchu after protests - CNN",
+      "pubDate": "Wed, 17 Sep 2025 07:48:46 GMT"
     }
   ],
   "geopolitics": [
@@ -3264,10 +3276,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Tesla veers away from EV dominance - E&E News by POLITICO",
-      "pubDate": "Wed, 10 Sep 2025 10:27:00 GMT"
-    },
     {
       "title": "Toyota to manufacture EV SUVs at US Kentucky plant - Reuters",
       "pubDate": "Wed, 10 Sep 2025 23:07:00 GMT"
