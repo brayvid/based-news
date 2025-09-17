@@ -263,6 +263,10 @@
     {
       "title": "Smotrich: Gaza could be a \u2018real estate bonanza\u2019 - Al Jazeera",
       "pubDate": "Wed, 17 Sep 2025 20:51:55 GMT"
+    },
+    {
+      "title": "US judge orders deportation of Columbia University anti-Israel protest leader Khalil - The Times of Israel",
+      "pubDate": "Wed, 17 Sep 2025 22:43:01 GMT"
     }
   ],
   "donald_trump": [
@@ -345,20 +349,16 @@
     {
       "title": "Trump's Approval Rating Hits New Second-Term Low: Poll - Newsweek",
       "pubDate": "Wed, 17 Sep 2025 01:25:33 GMT"
+    },
+    {
+      "title": "Litigation not on the menu as Trump, Rupert Murdoch dine at Windsor Castle - USA Today",
+      "pubDate": "Wed, 17 Sep 2025 22:32:16 GMT"
     }
   ],
   "russia": [
     {
       "title": "Letter: Russia did interfere in 2016 - The Detroit News",
       "pubDate": "Thu, 11 Sep 2025 00:44:10 GMT"
-    },
-    {
-      "title": "Drone incidents show Russia is testing NATO\u2019s defenses and reaction times - CNN",
-      "pubDate": "Wed, 10 Sep 2025 22:03:00 GMT"
-    },
-    {
-      "title": "\u2018Putin is mocking\u2019 Trump, Polish foreign minister says after Russian drone incursion - PBS",
-      "pubDate": "Wed, 10 Sep 2025 22:50:16 GMT"
     },
     {
       "title": "Russia dismisses Polish statements on drones in its airspace as 'nothing new' - Reuters",
@@ -551,16 +551,16 @@
     {
       "title": "Denmark to buy long-range precision weapons to counter Russian threat - Reuters",
       "pubDate": "Wed, 17 Sep 2025 14:25:54 GMT"
+    },
+    {
+      "title": "Poland Deputy PM Seeks 'Toughest' Pressure on Russia After Drone Incursion - Newsweek",
+      "pubDate": "Wed, 17 Sep 2025 19:52:51 GMT"
     }
   ],
   "ai_safety": [
     {
       "title": "Business groups, watchdogs debate guardrails for AI developers during Michigan House panel - Michigan Advance",
       "pubDate": "Wed, 10 Sep 2025 23:04:12 GMT"
-    },
-    {
-      "title": "Boeing Assesses AI Certifiability In Automated Taxiing, Runway Safety - Aviation Week Network",
-      "pubDate": "Wed, 10 Sep 2025 22:36:49 GMT"
     },
     {
       "title": "Zypher Network\u2019s $POP Token Secures KuCoin Listing Ahead Of Trading Launch - BlockchainReporter",
@@ -1257,13 +1257,13 @@
     {
       "title": "AI has added $160 billion to 'true GDP' since 2022, Goldman Sachs says. There's just one problem: That's not official - Fortune",
       "pubDate": "Wed, 17 Sep 2025 09:37:00 GMT"
+    },
+    {
+      "title": "Google DeepMind claims \u2018historic\u2019 AI breakthrough in problem solving - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 17:00:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "House passes NDAA, with $848B topline and protections for Ukraine aide - Breaking Defense",
-      "pubDate": "Wed, 10 Sep 2025 22:13:00 GMT"
-    },
     {
       "title": "Trump says \u2018here we go\u2019 in reaction to Russia violating Polish airspace: Ukraine live - The Independent",
       "pubDate": "Wed, 10 Sep 2025 23:14:30 GMT"
@@ -1727,16 +1727,8 @@
   ],
   "us_politics": [
     {
-      "title": "Charlie Kirk murder the latest in political violence plaguing Trump, Congress and courts - USA Today",
-      "pubDate": "Wed, 10 Sep 2025 22:42:24 GMT"
-    },
-    {
       "title": "Another summer of political violence in America - Politico",
       "pubDate": "Wed, 10 Sep 2025 23:02:55 GMT"
-    },
-    {
-      "title": "How Charlie Kirk changed conservative media \u2014 and American politics - CNN",
-      "pubDate": "Wed, 10 Sep 2025 22:27:00 GMT"
     },
     {
       "title": "House passes $892.6 billion defense bill over Democrats\u2019 protests - The Washington Post",
@@ -2329,10 +2321,6 @@
   ],
   "fusion_power": [
     {
-      "title": "DOE Announces $134M to Advance US Fusion Leadership Through Targeted Research - HPCwire",
-      "pubDate": "Wed, 10 Sep 2025 23:01:03 GMT"
-    },
-    {
       "title": "Nuclear waste might one day be used to create tritium to fuel fusion power plants - Chemistry World",
       "pubDate": "Fri, 12 Sep 2025 14:18:54 GMT"
     },
@@ -2363,6 +2351,10 @@
     {
       "title": "The FIRE is lit: US to advance nuclear reactor design to tackle heat, improve fuel - Interesting Engineering",
       "pubDate": "Wed, 17 Sep 2025 13:14:00 GMT"
+    },
+    {
+      "title": "Scientists 'surprised' by breakthrough that could help unlock nearly limitless energy: 'A potential innovative design path' - yahoo.com",
+      "pubDate": "Wed, 17 Sep 2025 21:15:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -2754,10 +2746,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "ICJ Advisory Opinion on Climate Change: When Law and Politics Meet - SDG Knowledge Hub",
-      "pubDate": "Wed, 10 Sep 2025 23:00:54 GMT"
-    },
     {
       "title": "France holds the cards in EU climate goal negotiations - Financial Times",
       "pubDate": "Thu, 11 Sep 2025 04:01:01 GMT"
@@ -3229,6 +3217,10 @@
     {
       "title": "Grapes or olives? Dilemma for Bronze Age farmers beset by climate change - The Times",
       "pubDate": "Wed, 17 Sep 2025 18:00:07 GMT"
+    },
+    {
+      "title": "Marjorie Taylor Greene mixes conspiracies and religion in bid to discredit climate science - MSNBC News",
+      "pubDate": "Wed, 17 Sep 2025 21:29:19 GMT"
     }
   ],
   "world_news": [
@@ -3649,6 +3641,10 @@
     {
       "title": "SpaceX Eyes First Starship Version 3 Launch In \u201925 Or \u201926 - Aviation Week Network",
       "pubDate": "Wed, 17 Sep 2025 00:51:48 GMT"
+    },
+    {
+      "title": "Judge dismisses environmental lawsuit against FAA over failed SpaceX launch - The Texas Tribune",
+      "pubDate": "Wed, 17 Sep 2025 21:59:30 GMT"
     }
   ],
   "public_health": [
