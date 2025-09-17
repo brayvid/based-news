@@ -17,10 +17,6 @@
       "pubDate": "Wed, 10 Sep 2025 16:59:00 GMT"
     },
     {
-      "title": "Israel is forcing us to leave Gaza City. We know they may never let us return - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 13:57:00 GMT"
-    },
-    {
       "title": "Israel has hunted its top enemies around the Middle East. What has it achieved? - NPR",
       "pubDate": "Thu, 11 Sep 2025 09:02:00 GMT"
     },
@@ -251,6 +247,10 @@
     {
       "title": "Democratic megafirm SKDK drops Israel as client - Politico",
       "pubDate": "Wed, 17 Sep 2025 00:19:18 GMT"
+    },
+    {
+      "title": "Israel-Syria Security Talks Stalled, Senior Officials Tell I24NEWS - i24NEWS",
+      "pubDate": "Wed, 17 Sep 2025 13:10:00 GMT"
     }
   ],
   "donald_trump": [
@@ -555,13 +555,13 @@
     {
       "title": "New lab results show Putin critic Navalny was poisoned in jail, wife says - France 24",
       "pubDate": "Wed, 17 Sep 2025 10:26:57 GMT"
+    },
+    {
+      "title": "Ukraine will need to buy $1 billion of gas to hit winter storage target after Russian attacks - Reuters",
+      "pubDate": "Wed, 17 Sep 2025 13:22:35 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "A False Confidence in the EU AI Act: Epistemic Gaps and Bureaucratic Traps - Tech Policy Press",
-      "pubDate": "Wed, 10 Sep 2025 13:16:10 GMT"
-    },
     {
       "title": "Derq Partners with Tacel Ltd. to Expand AI Traffic Safety Solutions Across Canada - Business Wire",
       "pubDate": "Wed, 10 Sep 2025 16:09:00 GMT"
@@ -963,10 +963,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Why AI in finance often stalls\u2014and how to fix it - IBM",
-      "pubDate": "Wed, 10 Sep 2025 13:40:17 GMT"
-    },
-    {
       "title": "US data center build hits record as AI demand surges, Bank of America Institute says - Reuters",
       "pubDate": "Wed, 10 Sep 2025 15:28:56 GMT"
     },
@@ -1253,6 +1249,10 @@
     {
       "title": "China bans tech companies from buying Nvidia\u2019s AI chips - Financial Times",
       "pubDate": "Wed, 17 Sep 2025 08:32:57 GMT"
+    },
+    {
+      "title": "AI has added $160 billion to 'true GDP' since 2022, Goldman Sachs says. There's just one problem: That's not official - Fortune",
+      "pubDate": "Wed, 17 Sep 2025 09:37:00 GMT"
     }
   ],
   "ukraine": [
@@ -1710,10 +1710,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "If Donald Trump Was Incapacitated, Would We Know? - Mother Jones",
-      "pubDate": "Wed, 10 Sep 2025 13:18:32 GMT"
-    },
     {
       "title": "Democrat Frost calls GOP\u2019s Higgins \u2018lapdog\u2019 for Trump as DC crime bill meeting erupts - The Hill",
       "pubDate": "Wed, 10 Sep 2025 15:59:00 GMT"
@@ -2255,10 +2251,6 @@
   ],
   "data_breach": [
     {
-      "title": "LNER urges customers to be vigilant after passenger details accessed in cyber-attack - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 13:11:00 GMT"
-    },
-    {
       "title": "Jaguar Land Rover Admits Data Breach Caused by Recent Cyberattack - SecurityWeek",
       "pubDate": "Wed, 10 Sep 2025 15:00:03 GMT"
     },
@@ -2346,10 +2338,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "PsiQuantum closes $1BN equity round - Optics.org",
-      "pubDate": "Wed, 10 Sep 2025 13:30:00 GMT"
-    },
     {
       "title": "Quantum computing startup PsiQuantum raises $1B, aiming to build 1M qubit-scale machine - SiliconANGLE",
       "pubDate": "Wed, 10 Sep 2025 16:50:56 GMT"
@@ -2553,10 +2541,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI CFO Warns: AI to Disrupt SaaS with In-House Development Shift - WebProNews",
-      "pubDate": "Wed, 10 Sep 2025 13:45:37 GMT"
-    },
-    {
       "title": "'Artificial super astronauts': How AI and robotics could help humanity settle Mars - MSN",
       "pubDate": "Wed, 10 Sep 2025 16:49:42 GMT"
     },
@@ -2649,13 +2633,13 @@
     {
       "title": "Gaps in Amphibious Forces Pose Unnecessary Risks to National Security - RealClearDefense",
       "pubDate": "Wed, 17 Sep 2025 11:25:25 GMT"
+    },
+    {
+      "title": "House bill seeks major overhaul of U.S. counterintelligence system - Washington Times",
+      "pubDate": "Wed, 17 Sep 2025 12:37:55 GMT"
     }
   ],
   "gaza": [
-    {
-      "title": "Reports: Controversial Gaza Aid Sites Staffed by American anti-Islam Biker Gangs - Haaretz",
-      "pubDate": "Wed, 10 Sep 2025 13:51:00 GMT"
-    },
     {
       "title": "Israeli review says UN-backed declaration of Gaza famine biased, 2 panel members praised Oct. 7 - The Times of Israel",
       "pubDate": "Thu, 11 Sep 2025 07:18:18 GMT"
@@ -2761,10 +2745,6 @@
     {
       "title": "ICJ Advisory Opinion on Climate Change: When Law and Politics Meet - SDG Knowledge Hub",
       "pubDate": "Wed, 10 Sep 2025 23:00:54 GMT"
-    },
-    {
-      "title": "New climate models to reveal secret life of water - Rice University",
-      "pubDate": "Wed, 10 Sep 2025 13:45:12 GMT"
     },
     {
       "title": "Climate Change Solutions - September 9, 2025 - Environmental and Energy Study Institute",
@@ -3209,6 +3189,10 @@
     {
       "title": "Scientists went hunting for freshwater deep beneath the Atlantic Ocean. What they found could have global implications - CNN",
       "pubDate": "Wed, 17 Sep 2025 11:00:06 GMT"
+    },
+    {
+      "title": "Rising CO2 and Climate Change Reorganize Global Terrestrial Carbon Cycling - eos.org",
+      "pubDate": "Wed, 17 Sep 2025 12:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3391,6 +3375,10 @@
     {
       "title": "US Justice Department sues Oregon, Maine over voter registration lists - Reuters",
       "pubDate": "Tue, 16 Sep 2025 23:20:45 GMT"
+    },
+    {
+      "title": "Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle - ABC News",
+      "pubDate": "Wed, 17 Sep 2025 11:37:30 GMT"
     }
   ],
   "energy_transition": [
@@ -3499,6 +3487,10 @@
     {
       "title": "Physicists just found a way to make \u201csomething from nothing\u201d - ScienceDaily",
       "pubDate": "Sun, 14 Sep 2025 13:47:50 GMT"
+    },
+    {
+      "title": "AI-Powered Method Accelerates Analysis of Atomic Interactions in Materials - AZoQuantum",
+      "pubDate": "Wed, 17 Sep 2025 12:36:00 GMT"
     }
   ],
   "openai": [
