@@ -1,32 +1,62 @@
 {
-  "US Politics": {
+  "AI Safety": {
     "articles": [
       {
-        "title": "House Republicans threaten to cancel anyone who disparages Charlie Kirk - The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODhtNDJjUVZvc05HNVZmcTRfU0V2QVozMGlBdTVSazNUNG5oeGkxZE4tT3d0TTRHcUlVN3p6WHBwMXpTUlZkTlNIbkJ2dWt0eWZkY1E4b0F0YWhiQW8tbUNhXzVneHNOMlNTUmJFd3hnOVF3a2tiX3cySUE1blAyRmp5N3Z5RmhBalRvSUJtQUxXRzZ2X0tOZjVWNk01YUZPVmRILUFn?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 00:57:38 GMT"
+        "title": "ChatGPT teen-safety measures to include age verification, OpenAI says - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamNQTnEwUGVCWnhJOFRoTWJwaFlkR2VCQkt3U1FfNGVzZHNKVlYzWGdySURFYm50Rkc5UFBidzhVcTNxSF84d0w1ZDNxTXhES2JCcGFGRWRtMGFJaS14MUxxaF8tb09zVzR4b2djZ09KcXpFclR6MHZJMWlobUM3RERQWUFKVUxsVmdic3o3TG1PWjRacVJ3MXUtLUktc0lPeDd1MzMwWi1NUVJwNXpnX2NqWnduZ9IBVkFVX3lxTE40ODFHOHpCX3lEX2pkVUR3WHZ0ek1ZSExDT3k3NWJWTlFBdzRGQUFPYVhMMVpIa2s4ckZWM055cVNJRThQUzVnejhXOWRYRTFWNWNocWR3?oc=5",
+        "pubDate": "Tue, 16 Sep 2025 15:27:32 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T01:01:16.922133+00:00"
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
   },
-  "Ukraine": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "The Guardian view on Donald Trump\u2019s Ukraine strategy: talking tough and doing very little isn\u2019t working | Editorial - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYzZ4Y1lEeEI4NFJUN3RNeVA1QUtHVWx5SGZFdGtLU0dRQkxlT2pKTWNiYlJiaDdCbnBEbGZLRlBwZ3lidVIydVlBZXJHc0gtRVZKcFNnRnZQN0VkTjdjS0tnZk0yS0R4elpQTnFMQXZodzF4ZndNUHZtTXFuM2ZoeVVPV2Vnclh1RU5uUGFvLWNIaHlWTGZzOGJwdXBqT1Z6TUgxOWF2cVB4b0NuZ0dZMnBnRVRsV1YzWGV0SVF1X0dYVzZqOEhCMFRxWDc4eThmVllsZVdRcjBHdTFrdTRmdzUxVG9GV3ZG?oc=5",
+        "title": "Climate change could drastically reduce aquifer recharge in Brazil - Phys.org",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGdsc0xLVHB2aUsxMGhNVGhHcklhY0dMZ3FtODl4YnpFOFpkWlJncjBpeDJwUHF3b2JBVmpEdm5nTjRfU05VNUs3a2xmdmpOWUxDemRkSzNDZ2RrNHRQUV8tU1dIUDVKc0tzX0d6enEwSVgxVGlXTWU4Q2JBSC1rOWIyZTA?oc=5",
+        "pubDate": "Tue, 16 Sep 2025 19:43:04 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "CrowdStrike Ushers In The Agentic Era Of Cybersecurity - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2VfQ18zRWNQNVdsTFFVWUVqOWJIOEk2ZVdvc1ltUWFXVXQwTDN2ZWlKeWtnM2hfdjhBTjMxMk0yUmM0VVg0MVRiTFdDRFNkb0xwYmZxczBkRlctRXQ3cDVTUXc2ZFQ3VDNManFKZlhPWE5EQTJuekl1ZGRPZzVUOUp5M0phSEx5cGRyWlJSTUl6RHlBU2R0MUNKaWpnMlNKandIYlBzdkFnTU0?oc=5",
+        "pubDate": "Tue, 16 Sep 2025 20:34:36 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
+  },
+  "Donald Trump": {
+    "articles": [
+      {
+        "title": "Trump's Approval Rating Hits New Second-Term Low: Poll - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFBOdklRdV9LclpjQ1lmZGNqQ2dtRzhEcGhaQ3Q3WUdsckZvaUdlOXJPUkpoRWVUWXd6ZGF6RWNvSm9CV1FWbm1rQkplMWlQbzloVlZaQWExQUV1QVJCcGpkeUlNVEFBZmVaT2trOTliUThrUW9VaElXWVoweW1fWEx2c2hwUUFQTXZtVDRR?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 01:25:33 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
+  },
+  "Financial Markets": {
+    "articles": [
+      {
+        "title": "As the dollar wobbles, why has there not been more flight to the euro? - Atlantic Council",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkVBbmRjQWRYZHI5bVUzemxnU2kyVjZoSHgxbkNla2xzWnRCb3BUd2F4ZnBoN1dJQlNWenc1RWNRSzE0SFpqMllBX2FhSGlBbUhrRndOdGY5WTJ0dndNb1JMc19sSkl5MHBfYU1KNGpYSFR5bVRNblBrdWNYZng3Z29Cdk9IamxaekFDQ0FmOVlycWIzWWQ3aF9SSWxrRHJFZWpSVVZJaktuMmtrcGN5ZlV2M2h2X29pdDlybExoRXc?oc=5",
         "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T01:01:16.922133+00:00"
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
   },
-  "Artificial Intelligence": {
+  "Russia": {
     "articles": [
       {
-        "title": "Exclusive: Ex-Google DeepMinders get $5 million to bring AI algorithm design to the masses - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXpUT01PbkctaVhoSkdfZ2c4YVZnWWJKUWFjejJ1Y1dINHo1RWdlb1QzeGRvUUJBeFNRZllYWGI4WnIxOW41cE9lYk5WemtRUmdBU2VoTUtEMjRHVEpsV0VCRFhUamhXTi1zUHRqOExrNVdVYUV5cGxrS016RjBBUzdQODZsZmMxZ2hhNzJiRkNrc0JMQWtpdWNteUNzeExuRllQWktGM3ZJWUNGTEtqck5iV052VUxUeGY3VA?oc=5",
-        "pubDate": "Tue, 16 Sep 2025 23:01:00 GMT"
+        "title": "Russia Tries to Buy Back S-400 Air Defense Systems Amid Shortages: Report - Newsweek",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UdjRuNENTRmtEQVVlZ2d3MDNDX3FWMktvSTduMUYzbWhZa3B6QVZ2bjJZd05Wc0ljXzgzakVMc2pFS25aREV2clhJNVRhTWpTd1hoZEVQQ0g0VV9GanBhVnhrRFBseEZxUGtRTWF6bVZuak8yR3c?oc=5",
+        "pubDate": "Tue, 16 Sep 2025 15:04:43 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-17T01:01:16.922133+00:00"
+    "last_updated_ts": "2025-09-17T02:01:07.094169+00:00"
   }
 }
