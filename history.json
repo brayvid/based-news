@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Gazans face new dilemma as Israeli forces advance - Reuters",
-      "pubDate": "Thu, 11 Sep 2025 14:24:05 GMT"
-    },
-    {
       "title": "\u2018There will be no Palestinian state\u2019: PM signs plan cementing E1 settlement expansion - The Times of Israel",
       "pubDate": "Thu, 11 Sep 2025 20:42:18 GMT"
     },
@@ -287,6 +283,10 @@
     {
       "title": "Two Killed in Shooting Attack at Israel-Jordan Border Crossing - Haaretz",
       "pubDate": "Thu, 18 Sep 2025 12:54:00 GMT"
+    },
+    {
+      "title": "ABC pulls Jimmy Kimmel over Charlie Kirk comments and Israel's real estate plans for Gaza: Morning Rundown - NBC News",
+      "pubDate": "Thu, 18 Sep 2025 11:08:03 GMT"
     }
   ],
   "donald_trump": [
@@ -369,6 +369,10 @@
     {
       "title": "King and Trump hail UK-US special relationship in banquet speech - BBC",
       "pubDate": "Wed, 17 Sep 2025 22:41:55 GMT"
+    },
+    {
+      "title": "Trump holds UK news conference as Jimmy Kimmel eclipses trip: Updates - USA Today",
+      "pubDate": "Thu, 18 Sep 2025 14:11:09 GMT"
     }
   ],
   "russia": [
@@ -1003,18 +1007,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "FDA will convene an advisory committee to tackle AI mental health device regulation - statnews.com",
-      "pubDate": "Thu, 11 Sep 2025 14:36:39 GMT"
-    },
-    {
-      "title": "Inside Apple\u2019s Artificial Intelligence Strategy - Built In",
-      "pubDate": "Thu, 11 Sep 2025 14:18:34 GMT"
-    },
-    {
-      "title": "Albania appoints AI bot as minister to tackle corruption - Reuters",
-      "pubDate": "Thu, 11 Sep 2025 14:40:48 GMT"
-    },
-    {
       "title": "Alibaba, Baidu begin using own chips to train AI models, The Information reports - Reuters",
       "pubDate": "Thu, 11 Sep 2025 17:34:47 GMT"
     },
@@ -1292,10 +1284,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Russia\u2019s Putin hails war advances; Ukraine retakes parts of Donetsk - Al Jazeera",
-      "pubDate": "Thu, 11 Sep 2025 14:03:45 GMT"
-    },
     {
       "title": "Ukraine's Zelenskiy says discussed Russia sanctions, joint arms production with US envoy Kellogg - Reuters",
       "pubDate": "Thu, 11 Sep 2025 18:28:54 GMT"
@@ -1575,6 +1563,10 @@
     {
       "title": "Putin Fires Top Advisor Who Wanted to End Ukraine War: Report - Newsweek",
       "pubDate": "Thu, 18 Sep 2025 11:29:24 GMT"
+    },
+    {
+      "title": "Ukraine pledges to bolster Polish drone defence with training - Al Jazeera",
+      "pubDate": "Thu, 18 Sep 2025 13:52:30 GMT"
     }
   ],
   "us_economy": [
@@ -2627,6 +2619,10 @@
     {
       "title": "Gemini just aced the world's most elite coding competition - what it means for AGI - ZDNET",
       "pubDate": "Wed, 17 Sep 2025 17:16:00 GMT"
+    },
+    {
+      "title": "Google\u2019s Gemini AI achieves gold medal in prestigious ICPC coding competition, outperforming most human teams - Dataconomy",
+      "pubDate": "Thu, 18 Sep 2025 09:06:44 GMT"
     }
   ],
   "national_security": [
@@ -3233,6 +3229,10 @@
     {
       "title": "Exxon CEO Warns of \u2018Bone-Crushing\u2019 EU Climate, Human Rights Law - Bloomberg.com",
       "pubDate": "Thu, 18 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "CA just aligned its carbon market with WA\u2019s. Here\u2019s why that matters - The Seattle Times",
+      "pubDate": "Thu, 18 Sep 2025 13:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3655,6 +3655,18 @@
     {
       "title": "UN Security Council to vote on Gaza ceasefire resolution despite US opposition - France 24",
       "pubDate": "Thu, 18 Sep 2025 02:16:31 GMT"
+    }
+  ],
+  "nvidia": [
+    {
+      "title": "Intel surges 24% as Nvidia to invest $5 billion in chipmaker, co-develop data center and PC chips - CNBC",
+      "pubDate": "Thu, 18 Sep 2025 11:09:22 GMT"
+    }
+  ],
+  "fbi": [
+    {
+      "title": "Suspect in custody after ramming car into FBI gate in 'act of terror,' officials say - ABC News",
+      "pubDate": "Thu, 18 Sep 2025 05:26:15 GMT"
     }
   ]
 }
