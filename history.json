@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "\u2018There will be no Palestinian state\u2019: PM signs plan cementing E1 settlement expansion - The Times of Israel",
-      "pubDate": "Thu, 11 Sep 2025 20:42:18 GMT"
-    },
-    {
       "title": "Israel threatens to strike museum storehouse containing \u2018unique\u2019 Palestinian artefacts, archaeologists say - The Independent",
       "pubDate": "Fri, 12 Sep 2025 10:08:00 GMT"
     },
@@ -291,6 +287,10 @@
     {
       "title": "LIVE: Israel turning Gaza City into \u2018lifeless wasteland\u2019; attacks Lebanon - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 19:46:26 GMT"
+    },
+    {
+      "title": "US vetoes UN demand for ceasefire, aid access in Gaza - Reuters",
+      "pubDate": "Thu, 18 Sep 2025 20:07:58 GMT"
     }
   ],
   "donald_trump": [
@@ -373,6 +373,10 @@
     {
       "title": "Trump holds UK news conference as Jimmy Kimmel eclipses trip: Updates - USA Today",
       "pubDate": "Thu, 18 Sep 2025 14:11:09 GMT"
+    },
+    {
+      "title": "Trump floats pulling licenses if networks are 'against' him after Jimmy Kimmel suspended - CNBC",
+      "pubDate": "Thu, 18 Sep 2025 18:46:38 GMT"
     }
   ],
   "russia": [
@@ -1253,16 +1257,16 @@
     {
       "title": "Artificial intelligence could help detect \u2018predatory\u2019 journals - Physics World",
       "pubDate": "Wed, 17 Sep 2025 21:44:13 GMT"
+    },
+    {
+      "title": "Inside AI\u2019s rapid expansion: What every investor should know - Bloomberg.com",
+      "pubDate": "Thu, 18 Sep 2025 20:45:02 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "Russians lose internet access as Ukrainian drones hit close to home - Financial Times",
       "pubDate": "Fri, 12 Sep 2025 04:00:12 GMT"
-    },
-    {
-      "title": "NATO's first drone battle pits million-dollar jets against cheap drones, exposing vulnerabilities - AP News",
-      "pubDate": "Thu, 11 Sep 2025 20:53:00 GMT"
     },
     {
       "title": "Who is in Nato and what are Article 4 and Article 5? - BBC",
@@ -1561,10 +1565,6 @@
   ],
   "china": [
     {
-      "title": "Mexico to raise tariffs on cars from China to 50% in major overhaul - Reuters",
-      "pubDate": "Thu, 11 Sep 2025 20:40:08 GMT"
-    },
-    {
       "title": "China pilots village surveillance in Solomon Islands, seeks stability - Reuters",
       "pubDate": "Thu, 11 Sep 2025 22:50:38 GMT"
     },
@@ -1709,10 +1709,6 @@
     {
       "title": "Why the U.S. is experiencing heightened political violence - PBS",
       "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
-    },
-    {
-      "title": "After firing their brother, are the Demoulas sisters prepping Market Basket for a sale? - The Boston Globe",
-      "pubDate": "Thu, 11 Sep 2025 20:15:00 GMT"
     },
     {
       "title": "Trump news at a glance: president says his supporters should respond peacefully to Charlie Kirk killing - The Guardian",
@@ -2165,6 +2161,10 @@
     {
       "title": "Canadian Cybersecurity Network report highlights surge in OT cyber incidents, rising critical infrastructure vulnerabilities - Industrial Cyber",
       "pubDate": "Thu, 18 Sep 2025 15:55:25 GMT"
+    },
+    {
+      "title": "Healthcare firms\u2019 hack-related losses outpace those of other sectors - Cybersecurity Dive",
+      "pubDate": "Thu, 18 Sep 2025 16:41:34 GMT"
     }
   ],
   "federal_reserve": [
@@ -2335,6 +2335,10 @@
     {
       "title": "Chesterfield approves world's first commercial fusion power plant - Richmond Times-Dispatch",
       "pubDate": "Thu, 18 Sep 2025 19:00:00 GMT"
+    },
+    {
+      "title": "General Atomics Leads Effort to Build National Data Ecosystem Aimed at Accelerating Commercial Fusion Power - General Atomics",
+      "pubDate": "Thu, 18 Sep 2025 18:10:55 GMT"
     }
   ],
   "quantum_computing": [
@@ -2569,6 +2573,10 @@
     {
       "title": "The Air Force wants more research on quantum computing, and it's sending stocks in the sector soaring - Business Insider",
       "pubDate": "Thu, 18 Sep 2025 19:17:00 GMT"
+    },
+    {
+      "title": "IQM and Scientek Corporation Sign Reseller Agreement to Boost Quantum Computing in Taiwan - HPCwire",
+      "pubDate": "Thu, 18 Sep 2025 15:33:45 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2762,10 +2770,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Clean energy, climate change advocates rally for day of action at Michigan Capitol - Michigan Advance",
-      "pubDate": "Thu, 11 Sep 2025 20:36:07 GMT"
-    },
     {
       "title": "How EJ lost the oil drilling fight - Politico",
       "pubDate": "Fri, 12 Sep 2025 01:00:00 GMT"
@@ -3249,6 +3253,10 @@
     {
       "title": "Q&A: Will China and the BRICS fill the \u2018leadership gap\u2019 on climate change? - Carbon Brief",
       "pubDate": "Thu, 18 Sep 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Europe champions fighting climate change but misses emissions deadline - Reuters",
+      "pubDate": "Thu, 18 Sep 2025 17:31:49 GMT"
     }
   ],
   "world_news": [
