@@ -389,10 +389,6 @@
       "pubDate": "Thu, 11 Sep 2025 17:45:27 GMT"
     },
     {
-      "title": "Russia in recession, rouble crashes \u2013 Kremlin insists situation \"stable\" - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-      "pubDate": "Thu, 11 Sep 2025 16:20:13 GMT"
-    },
-    {
       "title": "Russian booksellers face legal minefield over new 'foreign agent' rules - Reuters",
       "pubDate": "Fri, 12 Sep 2025 06:04:00 GMT"
     },
@@ -578,18 +574,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "California Lawmakers Advance Suite of AI Bills - Inside Global Tech",
-      "pubDate": "Thu, 11 Sep 2025 16:34:27 GMT"
-    },
-    {
-      "title": "FTC Probes Big Tech About Child Safety Concerns with AI Chatbots - The Wall Street Journal",
-      "pubDate": "Thu, 11 Sep 2025 16:52:00 GMT"
-    },
-    {
-      "title": "California\u2019s latest attempt at AI regulation is inching toward passage - Fast Company",
-      "pubDate": "Thu, 11 Sep 2025 16:07:59 GMT"
-    },
     {
       "title": "F5 to acquire AI security firm CalypsoAI for $180 million - CyberScoop",
       "pubDate": "Thu, 11 Sep 2025 17:59:35 GMT"
@@ -877,6 +861,10 @@
     {
       "title": "AI can hide its true intentions and lie, says OpenAI: Research shows shocking 'scheming' behaviour against - The Economic Times",
       "pubDate": "Thu, 18 Sep 2025 15:09:43 GMT"
+    },
+    {
+      "title": "Study cautions that monitoring chains of thought soon may no longer ensure genuine AI alignment - the-decoder.com",
+      "pubDate": "Thu, 18 Sep 2025 16:36:28 GMT"
     }
   ],
   "financial_markets": [
@@ -1011,6 +999,10 @@
     {
       "title": "Stock Market Today: Investors stumped as indecisive Fed cuts rates, offers wide array of 2026 forecasts - TheStreet",
       "pubDate": "Wed, 17 Sep 2025 23:43:35 GMT"
+    },
+    {
+      "title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
+      "pubDate": "Thu, 18 Sep 2025 14:42:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1579,6 +1571,10 @@
     {
       "title": "Ukraine destroys giant radio telescope used by Russian military - Space",
       "pubDate": "Thu, 18 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Ukrainian drones hit Volgograd oil refinery, operations suspended - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Thu, 18 Sep 2025 08:20:40 GMT"
     }
   ],
   "us_economy": [
@@ -2057,6 +2053,10 @@
     {
       "title": "Why Voters Will Feel the Impact of GOP Health Cuts Before the Midterms - Politico",
       "pubDate": "Thu, 18 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump asks Supreme Court to let him fire Lisa Cook from Federal Reserve - CNN",
+      "pubDate": "Thu, 18 Sep 2025 15:44:31 GMT"
     }
   ],
   "north_korea": [
@@ -2226,10 +2226,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Satellite images capture destruction from Afghanistan quake - BBC",
-      "pubDate": "Thu, 11 Sep 2025 16:30:00 GMT"
-    },
     {
       "title": "World Earthquake Report for Friday, 12 September 2025 - Volcano Discovery",
       "pubDate": "Fri, 12 Sep 2025 08:37:30 GMT"
@@ -2581,6 +2577,10 @@
     {
       "title": "Quantum computing stocks on the rise: Why are IonQ, D-Wave, Rigetti, and QUBT moving higher? - Fast Company",
       "pubDate": "Thu, 18 Sep 2025 12:32:52 GMT"
+    },
+    {
+      "title": "Rigetti Stock Rises 14% After Landing Air Force Award. Quantum Stocks Jump. - Barron's",
+      "pubDate": "Thu, 18 Sep 2025 15:32:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2781,10 +2781,6 @@
     {
       "title": "How EJ lost the oil drilling fight - Politico",
       "pubDate": "Fri, 12 Sep 2025 01:00:00 GMT"
-    },
-    {
-      "title": "August 2025: Earth\u2019s 3rd-hottest August on record - Yale Climate Connections",
-      "pubDate": "Thu, 11 Sep 2025 16:48:32 GMT"
     },
     {
       "title": "Clearing the Air by Hannah Ritchie review \u2013 practical climate optimism - The Guardian",
@@ -3249,13 +3245,13 @@
     {
       "title": "Scientists predict wildfire smoke will be the most costly climate-related health hazard - NBC News",
       "pubDate": "Thu, 18 Sep 2025 15:12:42 GMT"
+    },
+    {
+      "title": "\u2018No end\u2019 expected to floods and storms as global heating continues - UN News",
+      "pubDate": "Thu, 18 Sep 2025 16:16:50 GMT"
     }
   ],
   "world_news": [
-    {
-      "title": "Americans mark the 24th anniversary of the 9/11 attacks with emotional ceremonies - AP News",
-      "pubDate": "Thu, 11 Sep 2025 16:18:00 GMT"
-    },
     {
       "title": "Jepchirchir pips Assefa to world marathon title in Tokyo - worldathletics.org",
       "pubDate": "Sun, 14 Sep 2025 06:24:41 GMT"
@@ -3486,10 +3482,6 @@
     }
   ],
   "global_health": [
-    {
-      "title": "Ebola cases in Congo rise as authorities race to contain spread of outbreak, health agency says - ABC News",
-      "pubDate": "Thu, 11 Sep 2025 16:52:04 GMT"
-    },
     {
       "title": "WHO backs weight-loss drugs for obesity and urges change in mindset - Reuters",
       "pubDate": "Mon, 15 Sep 2025 16:59:13 GMT"
