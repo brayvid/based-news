@@ -1,12 +1,72 @@
 {
-  "Ukraine": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Top Russian officer reports advances on all Ukrainian fronts - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGVJT2RfaktRcVNId09TTkpOSGU2UkEzdjRndGNiS3ExWHc2alMwekxwcnlRZ05qYWNVaFJST3VhSGRlYnMxcmJPLVdKcWZjSklCeWRNampwb1RKYlNXSERIMERmWEg3b2Y2Q0l0aVdnMlRteEY3V3JSTmlZQXFsUy1iYkM2bDRFOElROTY1TVREOGRORkVVMUp1TkpacWlv?oc=5",
-        "pubDate": "Wed, 17 Sep 2025 21:52:34 GMT"
+        "title": "Australia announces higher emission cuts by 2035 - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13OXBhRWdYV3NZR3ZzY2k1b01jaGtzb0hSX24zWlJmQjBBYUlUTnc5amQ4NEpOYzJ5Z1pnR1JqXzBmSm40T2VMMjU0SjByd1M0dFBHUVFlNnlsZ9IBX0FVX3lxTE1jTVNic1hDS09FUWpYT2RKZHRmVXFsTmdUMG9HRjhZNmpLM1ZZaklSb0ZiZXJFTndBb0haNHdlT3FEOGx2RU1TRGdJVGxrc21IVVQ1X2dtRFpMUzdXblhR?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 03:47:53 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-18T04:00:55.041515+00:00"
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Facebook owner Meta unveils new range of AI-powered smart glasses - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZUgxTWJEdXhLdDBiOVNvcmZhdEN1NVZZVkhSYTFXWVp5TFNrVnhRREl6eU1kZ2NZMW8zVUJBaVFnZ1luLUlheExPSnRMWTNnOFREY3RJTENrUdIBX0FVX3lxTE91YjE4QUZhQkMwTy12TUszZlk4dElJVnliMkNHdTdURlQzSjNBbHA2d2t2SGFkT2JWT2pRNzlRa2JWY1dHNEZhXzJKdXBoQ0lLenV2VzZ0a0swX1MtYVVF?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 03:41:45 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "PsiQuantum Launches Construct, Tool For Fault\u2011Tolerant Quantum Algorithms - Quantum Zeitgeist",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0NCeXQ1emViNnJnV2VIVGU5bUZKdXlFNzdOZ3FoY05vRHdITXhPb2xNTVR1RHZMUDdxNmFsMUdMWW5iSUNrZmJmR25WRVYzUmJLdlRqWkhNVjhncWwzcmVldFJhdlYwdHhQOTJGNmRTNW1lUmZNRnY5SW1MT2N0VXU2LXY5cUg5UWE2NkIzN2hibllWRmU5eGJHel9jSmozX214a0lta3VIX05kcHZB?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 21:05:41 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "GOP shuts down House Democrats' effort to subpoena banks handling Jeffrey Epstein money - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHdTbWhHM2F4a3ZJUVFFcWNtWG9UYU9DU3M5QmR4dDRMcURMWmNKYUQzWkZKRi03WTU1TkxHRE1GQkpCbWl4aGdkUncxcnBOV1RqYTloNDZzeFJnYlpndGtGRGpuRk1KMzVCTEdOTTZ1R1NYT29WVkgxTTBiZDdoejdxRTBVUFVoLUVxOXp6Q1R3TzNwWkxnVm5FUXFoNlZSYmNvNmhVQld1ZWlPa1RtWGdOUmZJdk5JczRj?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 21:20:54 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Netanyahu blasts 'monstrous big lie' that Israel killed Kirk, suggests conspiracists are paid by Qatar - The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDVPNXJIUi03TlJUZG9pX243eE1rQmpRV2pRb09lVFAzYlc5aE9lb21ZYWVIQ2UzRkJHYXZmcW1HX0RfNnR3Sy1yU3BYNzRtV2l5d0U0MmJLZ1dBNXJtMXpYYmw5TDZYSjAySEEtN2RGSHhyVjRYNzNIWk52VFh5Um9LM1BUY1lsUnRFemFFalpTX3VMSUhXVmFOaV96STlUZURuUGo0WXVTcUFWZTFlZENFQUZuQzlSMFRzQ3NsWk5JcFUtTU42S3FvVWZneDg1QkpuNUx1NzhxQWlIWHc?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 04:48:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "Russia": {
+    "articles": [
+      {
+        "title": "Nvidia CEO Huang caught between US, China's 'larger agendas' - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXE3RE9Nak1xYndYeVVOV2RSQU5mTVlxNkUzWGVfdEM5Q1RPbjJET2pHcWhPZHNBVmk1aVNpd3JTNzRxUUdiTGNQdmc3bmRobHRvWHljdmp5VlpwN2ZvcUhWV0hBYnh1aFVnTktxRktIOVdzLU5EZ19GbG5velFXYk0xOHF2Sl9mWTR0Z3FielZqRDhRMlZ2dlFQRlBiSjFiWWtHaE1LT2VQLW1kdGc?oc=5",
+        "pubDate": "Wed, 17 Sep 2025 18:30:21 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
+  },
+  "World News": {
+    "articles": [
+      {
+        "title": "Saudi Arabia, nuclear-armed Pakistan sign mutual defence pact - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnhsZFIwdXJFVWlsSzFxbFNsdE14QmcweUtFRld0azI3VVBHNFFhZzJNSnpZTzB5MHRNemp6UDVkaFVpeXFsZ1FrU01nX1ctbnUzbUVDdFBUbXFWMEJXXzdTU2VLQVpVVnU0ZUVHY3lac2F3ZUdLYkpWTE83VGhrbTJOUngyUm5aN2pxcWdoSkZCNm5QN3dOZWJfQVlOckZYNmVXYTAzYTV3MG9YUFFxa0hLSVRjUQ?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 04:25:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-18T05:00:52.033306+00:00"
   }
 }
