@@ -373,10 +373,6 @@
   ],
   "russia": [
     {
-      "title": "Senate mounts new Russia pressure campaign - Axios",
-      "pubDate": "Thu, 11 Sep 2025 18:31:17 GMT"
-    },
-    {
       "title": "Russia\u2019s National Guard Revives Tank Units, Chief Says - The Moscow Times",
       "pubDate": "Thu, 11 Sep 2025 19:18:00 GMT"
     },
@@ -567,20 +563,8 @@
   ],
   "ai_safety": [
     {
-      "title": "AI-powered security robots patrolling Austin neighborhoods - KVUE",
-      "pubDate": "Thu, 11 Sep 2025 18:58:00 GMT"
-    },
-    {
       "title": "Are Republicans changing their minds about AI safety? - Platformer",
       "pubDate": "Fri, 12 Sep 2025 00:37:05 GMT"
-    },
-    {
-      "title": "Ted Cruz AI bill could let firms bribe Trump to avoid safety laws, critics warn - Ars Technica",
-      "pubDate": "Thu, 11 Sep 2025 18:21:08 GMT"
-    },
-    {
-      "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others - TechCrunch",
-      "pubDate": "Thu, 11 Sep 2025 18:06:15 GMT"
     },
     {
       "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
@@ -857,13 +841,13 @@
     {
       "title": "Lovable CEO pledges 50% of future earnings to combatting \u2018bad AI\u2019 - Sifted",
       "pubDate": "Thu, 18 Sep 2025 15:04:48 GMT"
+    },
+    {
+      "title": "Susan Solves It: AI safety controls - tampabay28.com",
+      "pubDate": "Thu, 18 Sep 2025 11:11:18 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "August in capital markets: Prediction markets, regulator tech upgrades - The Real Economy Blog",
-      "pubDate": "Thu, 11 Sep 2025 18:04:04 GMT"
-    },
     {
       "title": "Asian shares track Wall Street rallies as a US interest rate cut next week looks more certain - KTVN",
       "pubDate": "Fri, 12 Sep 2025 05:34:53 GMT"
@@ -1272,10 +1256,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine's Zelenskiy says discussed Russia sanctions, joint arms production with US envoy Kellogg - Reuters",
-      "pubDate": "Thu, 11 Sep 2025 18:28:54 GMT"
-    },
     {
       "title": "Rheinmetall to build ammunition plant in Ukraine, Kyiv says (RNMBF:OTCMKTS) - Seeking Alpha",
       "pubDate": "Thu, 11 Sep 2025 19:43:23 GMT"
@@ -1733,10 +1713,6 @@
     {
       "title": "FBI releases photos of person of interest in Charlie Kirk shooting - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 19:55:10 GMT"
-    },
-    {
-      "title": "A new era of American political violence is upon us. How did we get here? How does it end? - Los Angeles Times",
-      "pubDate": "Thu, 11 Sep 2025 18:28:00 GMT"
     },
     {
       "title": "'A critical moment to stop the tinderbox from exploding': political violence expert on Charlie Kirk shooting - CNN",
@@ -2585,6 +2561,10 @@
     {
       "title": "Rigetti Computing Awarded $5.8 Million Contract for Advancements in Superconducting Quantum Networking with AFRL and QphoX Collaboration - Quiver Quantitative",
       "pubDate": "Thu, 18 Sep 2025 12:44:00 GMT"
+    },
+    {
+      "title": "'Like talking on the telephone': Quantum computing engineers get atoms chatting long distance - Phys.org",
+      "pubDate": "Thu, 18 Sep 2025 18:00:13 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3257,6 +3237,10 @@
     {
       "title": "Ozone comeback? Report shows Earth\u2019s shield regaining strength - Homenewshere.com",
       "pubDate": "Thu, 18 Sep 2025 16:59:10 GMT"
+    },
+    {
+      "title": "Renowned Scientist Gives Lecture on Campus - Hampden-Sydney College",
+      "pubDate": "Thu, 18 Sep 2025 16:24:18 GMT"
     }
   ],
   "world_news": [
@@ -3570,10 +3554,6 @@
     }
   ],
   "battery_electric_vehicle": [
-    {
-      "title": "The end of range anxiety? Mercedes' solid-state battery tech just drove 749 miles without a stop - TechRadar",
-      "pubDate": "Thu, 11 Sep 2025 19:00:00 GMT"
-    },
     {
       "title": "SK On\u2019s breakthrough all-solid-state EV batteries will arrive ahead of schedule - Electrek",
       "pubDate": "Tue, 16 Sep 2025 14:35:00 GMT"
