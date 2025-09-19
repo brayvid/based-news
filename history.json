@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel threatens to strike museum storehouse containing \u2018unique\u2019 Palestinian artefacts, archaeologists say - The Independent",
-      "pubDate": "Fri, 12 Sep 2025 10:08:00 GMT"
-    },
-    {
       "title": "Rubio Will Visit Israel to Discuss Gaza War, Fight Against Hamas - Bloomberg.com",
       "pubDate": "Fri, 12 Sep 2025 13:00:01 GMT"
     },
@@ -319,6 +315,10 @@
     {
       "title": "20 years later, Israelis ask if the Gaza exit backfired \u2014 and if it's time to go back - NPR",
       "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Europe, Canada, Saudi Arabia poke at Trump with Palestinian statehood - Politico",
+      "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
     }
   ],
   "donald_trump": [
@@ -421,13 +421,13 @@
     {
       "title": "Trump calls for US regulator to clamp down on critical media - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 08:48:33 GMT"
+    },
+    {
+      "title": "September 18, 2025: Trump presidency news - CNN",
+      "pubDate": "Fri, 19 Sep 2025 00:48:00 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Russia Cuts Key Rate to 17% Defying Calls for Quicker Easing - Bloomberg",
-      "pubDate": "Fri, 12 Sep 2025 10:35:36 GMT"
-    },
     {
       "title": "Investigating reports of mass drone attack against Russia - BBC",
       "pubDate": "Fri, 12 Sep 2025 12:03:33 GMT"
@@ -889,10 +889,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stock Markets Surge Amid Jobs Slowdown. Trump Tariffs, Stagflation Could Ruin the Party. - Barron's",
-      "pubDate": "Fri, 12 Sep 2025 10:45:00 GMT"
-    },
-    {
       "title": "Nasdaq hits record, S&P 500 heads for winning week as Fed decision looms: Live updates - CNBC",
       "pubDate": "Fri, 12 Sep 2025 18:40:00 GMT"
     },
@@ -1015,6 +1011,10 @@
     {
       "title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
       "pubDate": "Thu, 18 Sep 2025 14:42:00 GMT"
+    },
+    {
+      "title": "Stock futures are little changed after market rallies to all-time highs: Live updates - CNBC",
+      "pubDate": "Fri, 19 Sep 2025 09:54:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1297,6 +1297,10 @@
     {
       "title": "Leo rejects plan for AI pope - politico.eu",
       "pubDate": "Fri, 19 Sep 2025 09:40:13 GMT"
+    },
+    {
+      "title": "AI medical tools downplay symptoms in women and ethnic minorities - Financial Times",
+      "pubDate": "Fri, 19 Sep 2025 04:00:46 GMT"
     }
   ],
   "ukraine": [
@@ -1591,6 +1595,10 @@
     {
       "title": "UK sees 'no evidence' Russia's Putin is interested in a negotiated peace with Ukraine, MI6 chief says - Reuters",
       "pubDate": "Fri, 19 Sep 2025 07:44:42 GMT"
+    },
+    {
+      "title": "Russia appeals global aviation agency\u2019s decision blaming it for downing MH17 over Ukraine in 2014 - The Hill",
+      "pubDate": "Fri, 19 Sep 2025 10:40:00 GMT"
     }
   ],
   "us_economy": [
@@ -1749,10 +1757,6 @@
     {
       "title": "Trump doubles down on blaming 'radical left' after vow to go after political violence - ABC News",
       "pubDate": "Fri, 12 Sep 2025 17:48:45 GMT"
-    },
-    {
-      "title": "After Charlie Kirk assassination, Wisconsin Rep. Derrick Van Orden fans the flames - Wisconsin Examiner",
-      "pubDate": "Fri, 12 Sep 2025 10:04:25 GMT"
     },
     {
       "title": "Tyler Robinson, 22, named as Charlie Kirk's murder suspect - follow live - BBC",
@@ -2205,6 +2209,10 @@
     {
       "title": "Cybersecurity CEO explains 'new' source of threat in AI age - Fox Business",
       "pubDate": "Fri, 19 Sep 2025 03:40:18 GMT"
+    },
+    {
+      "title": "Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine - The Hacker News",
+      "pubDate": "Fri, 19 Sep 2025 08:24:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2811,10 +2819,6 @@
   ],
   "climate_change": [
     {
-      "title": "Feeling the Heat? These fossil fuel giants are to blame, new study says - USA Today",
-      "pubDate": "Fri, 12 Sep 2025 10:04:48 GMT"
-    },
-    {
       "title": "How COP30 could deliver an ambitious outcome on global finance flows - Climate Home News",
       "pubDate": "Fri, 12 Sep 2025 12:37:28 GMT"
     },
@@ -2829,10 +2833,6 @@
     {
       "title": "Bringing Global Connections to the Classroom - NC State University",
       "pubDate": "Fri, 12 Sep 2025 12:03:00 GMT"
-    },
-    {
-      "title": "E&E News: UK rejects plan to deflect sun\u2019s rays to curb climate change - POLITICO Pro",
-      "pubDate": "Fri, 12 Sep 2025 10:24:01 GMT"
     },
     {
       "title": "Exclusive: Canada may drop oil emissions cap as part of new climate plan, sources say - Reuters",
@@ -3309,6 +3309,10 @@
     {
       "title": "Climate Change Impacts Allergy Health Risks: Gary Falcetano, PA-C, AE-C - American Journal of Managed Care",
       "pubDate": "Fri, 19 Sep 2025 02:49:41 GMT"
+    },
+    {
+      "title": "Research finds that Americans are turning to more sugar as the Earth gets hotter from climate change - Milwaukee Independent",
+      "pubDate": "Fri, 19 Sep 2025 10:00:36 GMT"
     }
   ],
   "world_news": [
