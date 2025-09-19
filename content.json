@@ -1,32 +1,72 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "Red Teaming Generative AI in Classrooms and Beyond - Tech Policy Press",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0hfVm9MT1QzQzJRLU9Lc1h0d2dXVnc4NGYzSnRaWFFKR1Y1N0RJTTFOaVBPZ3Z4VnB1X3d4ZWRmMFdNOXFMNm40d2dPSzNTMVdqSmV0UW1wSlg2ZnRaNi1xV19ELW1kVHl0Z3lrTi1nNnJaQXh6Z3JhbDNLU1NJRjloVlB5c1k?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 17:25:30 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Children Plead With U.S. Lawmakers to Protect EPA\u2019s Endangerment Finding - Inside Climate News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVN3bmJwSTcxUnlHRG5KZklYcTdqRXBxTE5KTFRxTWh0d19Ha01Hb2lkSGNzbV9zSDZSVlB5TTV2Zm1icExZdmk0UG5PeC1KbzlxUkpELWdWS3NLZFRFZjI2TF84WHNuQ0Q1Ql9IYVpnRHctYjBfNGFnSHNZT0k2RklRM0dvYmpjeFZ4ZWplWWozaUFWNUNkdmppZXBpZXRLQnA4?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 19:31:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
+  },
+  "Cybersecurity": {
+    "articles": [
+      {
+        "title": "UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmUyZ1lOTWNPTWxQbzU2YVNYaEU3OGpJdEtJR3ZrV1hMbHVTek8wX0Q1N3VUZW5pSGlfbVlPd1lpb2NuVE4wZGtaWkZnb0VTWTBsTFFKSUU5MkNZb3U3c190cllSbmRMYWpaLTVnQjBJMUtUaV81SGg5OHU5UElsVDNMaw?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 16:06:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
+  },
   "Ukraine": {
     "articles": [
       {
-        "title": "European Commission proposes fresh round of sanctions against Russia - CNN",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0lrQkFqSTdmYVcwVTZWM3Jqdm12cHIzeXVkajJBRTZibXZUZ1Zjbnk4N0htXzJSTGd2VHpMSzVEZ3FoZllwQkxHbGw0WE9Tc1Z4dzRudXdRY05ITG00MkU1Y19Nb3Q5aW9yMnowSkJCVmRuVjZvVDVyR0syTzNhTzZpaw?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 14:27:57 GMT"
+        "title": "Russia becoming \u2018more dangerous\u2019, EU foreign affairs head warns - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRm1ELV9MWnJSZDJra0toT2JfcmpTT19tbmF5SzFiWUpaeWZKN0lTd1I2aVhLOVRmR0J4UmREenNua2g5YnJQZmlHcGNmYnhLZU16TlhCRlh3QnpWVHdWcFBjLUFfaGhYRlFvWW9qTHpKenhsV3lFOUZDSlJzWkRnclZleEdIeS11MGtaX2k5S2dSeDBwNXVxQnpfWkVjalRVWnkyYTlMMXVaQ29aNWgzVNIBtgFBVV95cUxOeWxPSWdDZU1hRzVFT2JNRWREc2g3TEpqMUNYM21aakJjZ0RDUnQ0dVhPelRHWmR2N3RWdlFtcEM4VTBQN3lOYk1UeElWTUJVREdIU1JtcHVxc1BEQVBuTW5RWWt1Nnp1QmIwb3l1MXZWbmFkLVp3eHRVVU9QSnBOajYwYXQtcmJJSDFQMmxWN2Z2MDJMVnhEeE9SU01uNWJ3ZVZacTQyNXgyMTFTM2s1QUZPQ0kzUQ?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 19:35:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-19T19:01:47.989218+00:00"
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
   },
-  "Israel": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Hezbollah chief makes overtures to Saudi Arabia for front against Israel - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEZCZGNaWnNPMDNUSk1SX2FFbWREWmRBYVV1M19XcTAxSTNnLXowanZlQWtpdkJ3cU11RjdBVEJDRE9neXpCcU9pcTdJSHMycnhmVkpvSHRqUEpROW11RmJ3U3FBNURVcTNHNDVzVk1pQS1rT3RKRS1FcXZIeDJNRjE5Yl9FVmV6TVVIdXlIclpzcDVabV9sV1Q2eDkybzV5blMzS2UzUnAybFlPZE5LcC03ajdZQzE4WWVR?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 16:10:40 GMT"
+        "title": "AOC rips Charlie Kirk as \u2018ignorant\u2019 and ABC over Kimmel as House passes tribute with 95 Democrats voting \u2018yes\u2019 - The Independent",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjBJeUZsYXR6dXh0NUZ5bDRNd0ljWnZOMmsyZ21FcnV5VnJaRGVJWVFlRGxoYTNxRHVHSm1VYTQ1NHJKcXM4enhxQTJtNUd5TkVfLWg1Rk1RWDJNTWtvRG8tT1YwR2lhZHRnR2lveTZLY3RJcWRVejRJN1NBdUhFemJIOF8zNmQ5Z2ZfT3Z6d0VQY3lVbW1hSm4yM25VTUVUbjY0SmpBdkZhS3RCbGc?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 19:05:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-19T19:01:47.989218+00:00"
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "OpenAI taps Apple supplier to make AI device, the Information reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTBkQjU3V3BCLVNEb3VvdkUxbHFXaDI5ZFU0UmNOMWs3MXB4NWNjRTg0elRBS1gzTjZYV0k2YmdobGRqMnBBSzZLYjc5V2d3dU9SSE1rdHdRZjZRcnZUS1pyUVpTMXEybVN0U05MVEdHdFJzeTFQT2V6NHFVUVRXMFFmcVM1cE1uUGNOTlFzQ2F1S3dOQUd0NzFDeldRVUVfc08wOEpWLWtMLTQ5Nmc?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 13:46:15 GMT"
+        "title": "AI data centers would need millions of gallons of North Carolina\u2019s water supply a day - WRAL.com",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWRWRHZSaWJ1RWtiNGxOZzNGWW1OREo2T21oQ0ZEVXE3XzROR2l2d1VfSEZJUno3SGZzQ3Z1V3JQQTJWeElUUWstNVdnSXRjWUdCcmNPZzE0SDJBZmJCbnRQRUxtQlZlUE13Z2ZnMk1qZHZnQjE3bkc2bG9nb3I3eA?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 18:24:24 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-19T19:01:47.989218+00:00"
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RNzN5RHoxLXQyQTkwS0RaTTNZQzdMV1NMbEJUdW10ckl5b3VlQ2g1UDZkNkhLSnZScERscEcwanpBSktVVlNiSEdQMjNYQ0J6OUFqSkg0NGo4UjdTaGJPSWJlQlpxMW9rRUVNOHF5Qy0?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T20:01:59.399475+00:00"
   }
 }

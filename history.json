@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Antisemitic and Anti-Israel Conspiracy Theories Follow Fatal Shooting of Charlie Kirk - Anti-Defamation League",
-      "pubDate": "Fri, 12 Sep 2025 19:18:45 GMT"
-    },
-    {
-      "title": "Israeli military sniper from Chicago suburbs killed apparently unarmed man in Gaza, investigation finds - Chicago Sun-Times",
-      "pubDate": "Fri, 12 Sep 2025 19:07:00 GMT"
-    },
-    {
       "title": "Universities around the world cut ties with Israeli academia over Gaza war - The Guardian",
       "pubDate": "Sat, 13 Sep 2025 10:15:00 GMT"
     },
@@ -413,10 +405,6 @@
       "pubDate": "Fri, 12 Sep 2025 20:20:14 GMT"
     },
     {
-      "title": "Putin seizes Air Liquide assets in Russia - C&EN",
-      "pubDate": "Fri, 12 Sep 2025 19:23:23 GMT"
-    },
-    {
       "title": "Trump urges NATO to stop buying Russian oil, proposes sanctions on China - Deccan Herald",
       "pubDate": "Sat, 13 Sep 2025 12:00:42 GMT"
     },
@@ -589,10 +577,6 @@
     {
       "title": "AI Company Rushed Safety Testing, Contributed to Teen\u2019s Death, Parents Allege - Focus on the Family",
       "pubDate": "Fri, 12 Sep 2025 21:05:15 GMT"
-    },
-    {
-      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI - Anthropic",
-      "pubDate": "Fri, 12 Sep 2025 19:44:49 GMT"
     },
     {
       "title": "The U.S. State Department Knows AI Risks - Forbes",
@@ -865,6 +849,10 @@
     {
       "title": "Meta\u2019s AR ambitions meet reality, and California gets serious about AI safety\u2026again - TechCrunch",
       "pubDate": "Fri, 19 Sep 2025 17:20:38 GMT"
+    },
+    {
+      "title": "Red Teaming Generative AI in Classrooms and Beyond - Tech Policy Press",
+      "pubDate": "Fri, 19 Sep 2025 17:25:30 GMT"
     }
   ],
   "financial_markets": [
@@ -1013,10 +1001,6 @@
     {
       "title": "UK workers wary of AI despite Starmer\u2019s push to increase uptake, survey finds - The Guardian",
       "pubDate": "Sat, 13 Sep 2025 05:00:00 GMT"
-    },
-    {
-      "title": "ARTIFICIAL INTELLIGENCE AND ITS SECRET CONSEQUENCES - seymourhersh.substack.com",
-      "pubDate": "Fri, 12 Sep 2025 19:40:05 GMT"
     },
     {
       "title": "AI slop is on the rise \u2014 what does it mean for how we use the internet? - Live Science",
@@ -1273,13 +1257,13 @@
     {
       "title": "OpenAI taps Apple supplier to make AI device, the Information reports - Reuters",
       "pubDate": "Fri, 19 Sep 2025 13:46:15 GMT"
+    },
+    {
+      "title": "AI data centers would need millions of gallons of North Carolina\u2019s water supply a day - WRAL.com",
+      "pubDate": "Fri, 19 Sep 2025 18:24:24 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Zelenskiy says many details on paper on Ukraine security guarantees - Reuters",
-      "pubDate": "Fri, 12 Sep 2025 19:52:56 GMT"
-    },
     {
       "title": "After Poland incursions, Ukrainians fear Europe will hold back air defenses - The Washington Post",
       "pubDate": "Fri, 12 Sep 2025 21:09:31 GMT"
@@ -1579,6 +1563,10 @@
     {
       "title": "European Commission proposes fresh round of sanctions against Russia - CNN",
       "pubDate": "Fri, 19 Sep 2025 14:27:57 GMT"
+    },
+    {
+      "title": "Russia becoming \u2018more dangerous\u2019, EU foreign affairs head warns - Al Jazeera",
+      "pubDate": "Fri, 19 Sep 2025 19:35:00 GMT"
     }
   ],
   "us_economy": [
@@ -1719,16 +1707,8 @@
   ],
   "us_politics": [
     {
-      "title": "Missouri Senate passes Trump-backed redistricting plan that could give Republicans another U.S. House seat - PBS",
-      "pubDate": "Fri, 12 Sep 2025 19:28:11 GMT"
-    },
-    {
       "title": "Vice President Vance recalls Charlie Kirk's essential role in rapid rise to political power - WLWT",
       "pubDate": "Fri, 12 Sep 2025 22:31:00 GMT"
-    },
-    {
-      "title": "Trump to meet with prime minister of Qatar; Sen. Chuck Schumer issues shutdown warning - NBC News",
-      "pubDate": "Fri, 12 Sep 2025 19:39:06 GMT"
     },
     {
       "title": "Brett Kavanaugh Reveals What He Sees as Biggest Threat to Democracy - Newsweek",
@@ -2029,6 +2009,10 @@
     {
       "title": "American Politics Is Due for a Realignment - The Atlantic",
       "pubDate": "Fri, 19 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "AOC rips Charlie Kirk as \u2018ignorant\u2019 and ABC over Kimmel as House passes tribute with 95 Democrats voting \u2018yes\u2019 - The Independent",
+      "pubDate": "Fri, 19 Sep 2025 19:05:00 GMT"
     }
   ],
   "north_korea": [
@@ -2177,6 +2161,10 @@
     {
       "title": "NIST injects $3 million to boost workforce development and education, as cybersecurity jobs shortfall nears 500,000 - Industrial Cyber",
       "pubDate": "Fri, 19 Sep 2025 10:54:36 GMT"
+    },
+    {
+      "title": "UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware - The Hacker News",
+      "pubDate": "Fri, 19 Sep 2025 16:06:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2351,6 +2339,10 @@
     {
       "title": "It's official: TVA, Type One Energy map out rules for world's first nuclear fusion plant - Knoxville News Sentinel",
       "pubDate": "Fri, 19 Sep 2025 16:42:44 GMT"
+    },
+    {
+      "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
+      "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
     }
   ],
   "quantum_computing": [
@@ -2647,10 +2639,6 @@
   ],
   "national_security": [
     {
-      "title": "Judge releases redacted document used to justify search of John Bolton\u2019s home - The Seattle Times",
-      "pubDate": "Fri, 12 Sep 2025 19:20:22 GMT"
-    },
-    {
       "title": "Following another terrible week for Trump, national security veteran David Rothkopf says the 79-year-old president is spiraling. - Yahoo News UK",
       "pubDate": "Sat, 13 Sep 2025 19:04:26 GMT"
     },
@@ -2777,10 +2765,6 @@
     {
       "title": "Sign up for new symposium on communicating climate solutions - UC Santa Cruz - News",
       "pubDate": "Fri, 12 Sep 2025 22:20:35 GMT"
-    },
-    {
-      "title": "Key ocean current weaker than previously thought, could collapse in 30 years - Yahoo News Canada",
-      "pubDate": "Fri, 12 Sep 2025 19:36:12 GMT"
     },
     {
       "title": "Feds try to dodge lawsuit against their bogus climate report - Ars Technica",
@@ -3253,6 +3237,10 @@
     {
       "title": "NMU Team Surveys NPS Visitors About Climate Change - Northern Michigan University",
       "pubDate": "Fri, 19 Sep 2025 13:49:45 GMT"
+    },
+    {
+      "title": "Children Plead With U.S. Lawmakers to Protect EPA\u2019s Endangerment Finding - Inside Climate News",
+      "pubDate": "Fri, 19 Sep 2025 19:31:26 GMT"
     }
   ],
   "world_news": [
