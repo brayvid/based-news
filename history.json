@@ -583,14 +583,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Are Republicans changing their minds about AI safety? - Platformer",
-      "pubDate": "Fri, 12 Sep 2025 00:37:05 GMT"
-    },
-    {
-      "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
-      "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
-    },
-    {
       "title": "Top 10 Jobs Safe From Generative AI, According To Microsoft Study - News18",
       "pubDate": "Fri, 12 Sep 2025 07:15:17 GMT"
     },
@@ -865,6 +857,10 @@
     {
       "title": "Susan Solves It: AI safety controls - tampabay28.com",
       "pubDate": "Thu, 18 Sep 2025 11:11:18 GMT"
+    },
+    {
+      "title": "AI-led enhancements could boost mining safety - International Mining",
+      "pubDate": "Thu, 18 Sep 2025 13:07:25 GMT"
     }
   ],
   "financial_markets": [
@@ -1711,10 +1707,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump news at a glance: president says his supporters should respond peacefully to Charlie Kirk killing - The Guardian",
-      "pubDate": "Fri, 12 Sep 2025 00:39:25 GMT"
-    },
-    {
       "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
       "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
     },
@@ -2025,6 +2017,10 @@
     {
       "title": "Congressman Raskin urges Democrats to avoid 'trap,' vote for Charlie Kirk honor - Reuters",
       "pubDate": "Thu, 18 Sep 2025 21:59:18 GMT"
+    },
+    {
+      "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
+      "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
     }
   ],
   "north_korea": [
@@ -2173,6 +2169,10 @@
     {
       "title": "Healthcare firms\u2019 hack-related losses outpace those of other sectors - Cybersecurity Dive",
       "pubDate": "Thu, 18 Sep 2025 16:41:34 GMT"
+    },
+    {
+      "title": "UCR computer scientists boost US cybersecurity - University of California, Riverside",
+      "pubDate": "Thu, 18 Sep 2025 21:21:15 GMT"
     }
   ],
   "federal_reserve": [
@@ -2346,10 +2346,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Spotlight China TuringQ secretly delivers first quantum computers to Chinese military - Intelligence Online",
-      "pubDate": "Fri, 12 Sep 2025 00:22:30 GMT"
-    },
     {
       "title": "UK Clears IonQ Acquisition of Oxford Ionics, With Conditions - The Quantum Insider",
       "pubDate": "Fri, 12 Sep 2025 07:35:05 GMT"
@@ -2585,6 +2581,10 @@
     {
       "title": "Physicists create new electrically controlled silicon-based quantum device - Phys.org",
       "pubDate": "Thu, 18 Sep 2025 16:51:04 GMT"
+    },
+    {
+      "title": "Protein qubit can be used as a quantum biosensor - Physics World",
+      "pubDate": "Fri, 19 Sep 2025 00:04:55 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2778,10 +2778,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "How EJ lost the oil drilling fight - Politico",
-      "pubDate": "Fri, 12 Sep 2025 01:00:00 GMT"
-    },
     {
       "title": "Clearing the Air by Hannah Ritchie review \u2013 practical climate optimism - The Guardian",
       "pubDate": "Fri, 12 Sep 2025 06:00:00 GMT"
@@ -3269,6 +3265,10 @@
     {
       "title": "Trump axes climate reporting program, ignoring international courts and frontline communities - Grist.org",
       "pubDate": "Thu, 18 Sep 2025 16:03:46 GMT"
+    },
+    {
+      "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
+      "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
     }
   ],
   "world_news": [

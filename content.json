@@ -1,32 +1,52 @@
 {
+  "AI Safety": {
+    "articles": [
+      {
+        "title": "AI-led enhancements could boost mining safety - International Mining",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTi1ra1NYYjlCbW9BOXJILXlyZ3prMUdnT3M4cVZQVkVkM3hCQmtlbTRhTWxzZlVZWWwyMXdaRVJzRGQzSFdZQlAzVjFJRjkxNS1xRUlVNHhERktPSnJfMm1EbjVuVXlzU3o5dUJoOVByRkt6SFNZV1BXb1BYWWw0YmtfRnNjblhyZWFYeUk4WVVOUDc5ZlUzLTI1NGlkd21z?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 13:07:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T01:01:31.920737+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGR5MlFhM0FzRXQ5UmtzODhuQXRXazR3M0lqSXNFcVUtZGp1WTJwYXNCcGdDX1FpS2owNjdnSFNoT2FsNnIxRS1MY09Ya0pqZVVON1BmU3Q1bVd0a2Y2eXNQTEsyM1JXZzd1ak9pLTN0dWZBUGFPNmRNZzVxZ1FuNEZzWVdNMm9oV2NMVW9vSnRNamxaOGphMGRNZHRCejdzNGxWbER2UDdKNGNUeTZlVHBMY2FuTkNMbVdWYW80bWJnQQ?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T01:01:31.920737+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Protein qubit can be used as a quantum biosensor - Physics World",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEZtNTJvVlRtYkRzRTZDV1A0eFVvMzkyN0d3V1dER1NKOExxZVdUVFlSVmUzem83bkdMcGhibEVJMnJQZnNoVl82eHV2c0JRX2xZSjJTZklhTmhqSnFubzFpTkVMa3ZsTXRWcFB6VWJJSFotTGtmSm9aU2pMMUlRdmdn?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 00:04:55 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T01:01:31.920737+00:00"
+  },
   "US Politics": {
     "articles": [
       {
-        "title": "Congressman Raskin urges Democrats to avoid 'trap,' vote for Charlie Kirk honor - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTZCNlpnZUp0OEIxdHJMRy1zX2U1V2dkUzBvaE5vb2lBWUxaWG9PTllFRGJubjA1c0dSTUVySmU3dnJVVDk5cmNid1MxZXlvYzNJM0NKd1FNbWpkVHM4LVJOaEZqTW9nc05TOWxNQ2VJOF9keGVGcFptb1BFRk9ndGE3RXd5Vy1sQlVxWV9PSDlzY0w1NzFtZEdhWjN2YnZQV0gzVUlzZ2w1WDRoN2JkZkdPRlc?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 21:59:18 GMT"
+        "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUWJ5YzRaSVhTYTdyZGQxbTZya2JJU0xJOHBoR3hubTFERG1zX3J2UFU2VEtnTUdva04xcTJyQm5IOEVxQXNvTFphT3IzbTM5bDNQQ05LejN2NThkMmo3bFdpbjBjLXd2UkhEUUJIYkRkQnlJSWFyQTNreHpvWUFpdVZaWEpoM2ZXMHfSAY8BQVVfeXFMUEdzTzJKc1NoaUVycV9KMXVTWi1HY2cwakt2Sll1UFMxZTdZN3pTZDd0Wkw3TWFnaGM0cDNocFpaMWFqRVBNVElRc2JOcXM3VWM4U3ppWjJWa3FIMkFmRU04bE11V3dHYjc0dTlaQ3I2R196QTY5TmxTbllLZjlYdWlMNzFwdDdYM1dMSkZPbjQ?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
+    "last_updated_ts": "2025-09-19T01:01:31.920737+00:00"
   },
-  "Artificial Intelligence": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws - Computerworld",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVc2M00yQkczN0xJem5LRzJ2bDdJUmlFdGJyRUNTb19qOHNyR0dkQV80LUFscm9kdy1OZU5ISGRNR0FXMjVmXzQwcFBCYW9rWWs5RHhCV0ZwQUxYYzRlTDJuTW53anFUX2lDaFNQSWthTVlyY0hGTHhFZjdEVFBBNFVYVnhscE5sY0FfdjNxMFdtSUhTU3JpMktIa08tVUV5SDhGUjJkVnA4TEc1dGNfc2ZEbVl5UndEM0lwUllxQmhjUndYZkN6ZEk1S1FUMHh6bnpzNUpR?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 12:38:18 GMT"
+        "title": "UCR computer scientists boost US cybersecurity - University of California, Riverside",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXNTNDVxQ0JDaTNIYzM0dlBlS2FpYkZ5bUlMSW53cmZoR2JnclY0eGUzNmRJXzRaOHBJUFFaa1FpdXVBSm1CUmF1U3g4VjZ6cTRPaGFhVTVVbEJoUHJSVGZqQzRTSGNoS01lZm5ld0pELWkzNUdRLXVRQnVRM2p2ZUxDbk9qekE4ZFJJVEJOVzM?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 21:21:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
-  },
-  "Israel": {
-    "articles": [
-      {
-        "title": "How Israel is losing America - The Economist",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sYkc3VDZGTXFsbGxZQVR5bEVYQVI5bnduaFRCeHhUMHc2YjRqY1NkdFlXOEVnR0JHUjkxdmQwdDNhZ1hPS2otZEpBWHVmOEM3SWJIelVFNVE0Y2FaSTM1ZngxZ08zajlKaW5qLUc3aklnQUgyQ005Xzl1bTVOZw?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 12:55:20 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
+    "last_updated_ts": "2025-09-19T01:01:31.920737+00:00"
   }
 }
