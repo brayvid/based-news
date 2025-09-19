@@ -417,10 +417,6 @@
   ],
   "russia": [
     {
-      "title": "Russian booksellers face legal minefield over new 'foreign agent' rules - Reuters",
-      "pubDate": "Fri, 12 Sep 2025 06:04:00 GMT"
-    },
-    {
       "title": "UK launches new Russia-related sanctions targeting shadow fleet, weapons suppliers - Reuters",
       "pubDate": "Fri, 12 Sep 2025 07:32:03 GMT"
     },
@@ -1305,13 +1301,13 @@
     {
       "title": "Joint Commission unveils first AI guidance in partnership with Coalition for Health AI - American Hospital Association",
       "pubDate": "Thu, 18 Sep 2025 20:37:33 GMT"
+    },
+    {
+      "title": "Elon Musk Has Focused on xAI Since Leaving Washington - The New York Times",
+      "pubDate": "Thu, 18 Sep 2025 21:44:46 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukrainian Drones Attack Russia\u2019s Key Oil Port Primorsk Overnight - Bloomberg",
-      "pubDate": "Fri, 12 Sep 2025 06:02:00 GMT"
-    },
     {
       "title": "Kremlin Says Russia-Ukraine Negotiations Are on \u2018Pause\u2019 - Bloomberg.com",
       "pubDate": "Fri, 12 Sep 2025 11:07:03 GMT"
@@ -1595,6 +1591,10 @@
     {
       "title": "Ukrainian refugee in Norfolk 'can finally sleep soundly' - BBC",
       "pubDate": "Fri, 19 Sep 2025 05:36:17 GMT"
+    },
+    {
+      "title": "Expert: Kyiv 'hits nail on the head' with strikes on Russian oil sites - Euronews.com",
+      "pubDate": "Fri, 19 Sep 2025 05:00:53 GMT"
     }
   ],
   "us_economy": [
@@ -1612,10 +1612,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China investors seen looking past Cambricon index rebalance, staying bullish on AI - Mint",
-      "pubDate": "Fri, 12 Sep 2025 07:00:18 GMT"
-    },
     {
       "title": "China Warns Mexico Against Tariffs That Could Harm Chinese Goods - The Wall Street Journal",
       "pubDate": "Fri, 12 Sep 2025 07:46:02 GMT"
@@ -2061,6 +2057,10 @@
     {
       "title": "Military leaders consider recruiting campaign centered on Charlie Kirk - NBC News",
       "pubDate": "Thu, 18 Sep 2025 16:49:25 GMT"
+    },
+    {
+      "title": "ABC\u2019s Suspension of Kimmel and Trump\u2019s Chilling Effect on Late Night TV - The New York Times",
+      "pubDate": "Fri, 19 Sep 2025 04:51:00 GMT"
     }
   ],
   "north_korea": [
@@ -2273,10 +2273,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Bitcoin price today: rises to $115k on rate cut cheer, but caution remains - Investing.com",
-      "pubDate": "Fri, 12 Sep 2025 06:33:56 GMT"
-    },
-    {
       "title": "Institutional Tsunami: Billions Pour into Bitcoin as Spot ETFs Ignite a New Era for Cryptocurrency - FinancialContent",
       "pubDate": "Fri, 12 Sep 2025 23:16:00 GMT"
     },
@@ -2325,6 +2321,10 @@
     {
       "title": "1.1 million Farmers Insurance customers hit by data breach linked to Salesforce hack - Class Action Lawsuits",
       "pubDate": "Tue, 16 Sep 2025 20:48:45 GMT"
+    },
+    {
+      "title": "HPD promises NYC housing lotteries are safe after data breach exposed info, but applicants' concerns linger - CBS News",
+      "pubDate": "Fri, 19 Sep 2025 03:39:31 GMT"
     }
   ],
   "fusion_power": [
@@ -2625,6 +2625,10 @@
     {
       "title": "Protein qubit can be used as a quantum biosensor - Physics World",
       "pubDate": "Fri, 19 Sep 2025 00:04:55 GMT"
+    },
+    {
+      "title": "Bitcoin must act fast to beat quantum by 2030: Solana founder - Cointelegraph",
+      "pubDate": "Fri, 19 Sep 2025 06:06:49 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2814,10 +2818,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Mega-Dryness Spreads Throughout Northern Hemisphere - CounterPunch.org",
-      "pubDate": "Fri, 12 Sep 2025 06:12:10 GMT"
-    },
     {
       "title": "Countries split over COP30 response to weak climate plans - Climate Home News",
       "pubDate": "Fri, 12 Sep 2025 09:26:37 GMT"
@@ -3305,6 +3305,10 @@
     {
       "title": "Guterres pushes leaders to \u2018turn the tide\u2019 on global crises during high-stakes UNGA week - UN News",
       "pubDate": "Fri, 19 Sep 2025 04:15:20 GMT"
+    },
+    {
+      "title": "\u2018Crisis of justice\u2019 as floods devastate: Pakistan\u2019s climate change minister - Al Jazeera",
+      "pubDate": "Fri, 19 Sep 2025 05:05:00 GMT"
     }
   ],
   "world_news": [
