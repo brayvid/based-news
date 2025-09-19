@@ -1,72 +1,32 @@
 {
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Congressman Raskin urges Democrats to avoid 'trap,' vote for Charlie Kirk honor - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTZCNlpnZUp0OEIxdHJMRy1zX2U1V2dkUzBvaE5vb2lBWUxaWG9PTllFRGJubjA1c0dSTUVySmU3dnJVVDk5cmNid1MxZXlvYzNJM0NKd1FNbWpkVHM4LVJOaEZqTW9nc05TOWxNQ2VJOF9keGVGcFptb1BFRk9ndGE3RXd5Vy1sQlVxWV9PSDlzY0w1NzFtZEdhWjN2YnZQV0gzVUlzZ2w1WDRoN2JkZkdPRlc?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 21:59:18 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
+  },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "AI models must adapt or die - Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NNnFscW5hd1lsanJ1Y2xhMGdtVjhYZ0I3Z3J4NllWYWM0MlJucnVpekxwZy0zYWg4TEdBcEpkOURMMndLY3MzWk9DX3Zubnd3NWhKTDZjR3poN25lY2oyczBwc2hnS0pMdWxPSmJEZVA?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 13:01:01 GMT"
+        "title": "OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws - Computerworld",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVc2M00yQkczN0xJem5LRzJ2bDdJUmlFdGJyRUNTb19qOHNyR0dkQV80LUFscm9kdy1OZU5ISGRNR0FXMjVmXzQwcFBCYW9rWWs5RHhCV0ZwQUxYYzRlTDJuTW53anFUX2lDaFNQSWthTVlyY0hGTHhFZjdEVFBBNFVYVnhscE5sY0FfdjNxMFdtSUhTU3JpMktIa08tVUV5SDhGUjJkVnA4TEc1dGNfc2ZEbVl5UndEM0lwUllxQmhjUndYZkN6ZEk1S1FUMHh6bnpzNUpR?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 12:38:18 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Trump axes climate reporting program, ignoring international courts and frontline communities - Grist.org",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT081RGJhS1ZSa0ZhVjhueTJ0R2dDZzYyeWIyX3FSdHZQeWpJZkU2dEk4cE9UdFdmM2c4aFREUWVNa0VNZWJia2o2bm15ZFEtMXVtelR2c21JU2ZQWDNuYURMMk83bjFIcW9ncWJCb3ozVVFCRmxrazh0dEFhOTM3bmlHZXZHMVBsS2hFWXp0R0ZOLUo4WG5VcFJ3R0xZajBuSXdWeWNUaFJHdmRLZUJHbUZmZ0ZGbjBSNExqRTJGbWw1NG9J?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 16:03:46 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
+    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
   },
   "Israel": {
     "articles": [
       {
-        "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXgzQXpyX0tQa3gxVWlDdlJOVEpzR3UzMXpmUXBrWnZqNzAyQmpUSGxHY1JWWUJ3d3poZUhpVHc3NFNUVktBLXBZYzZPYTZFM2Zkem9YUWIxS1JQVm1NXzNWNzdsQU1GMU1PX3JoWVNvLUM2S0x5NGo4ZERYcjRzcDQyTjQ1YnBXcmVvR3lpRThoOHBlYklvejln?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
+        "title": "How Israel is losing America - The Economist",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sYkc3VDZGTXFsbGxZQVR5bEVYQVI5bnduaFRCeHhUMHc2YjRqY1NkdFlXOEVnR0JHUjkxdmQwdDNhZ1hPS2otZEpBWHVmOEM3SWJIelVFNVE0Y2FaSTM1ZngxZ08zajlKaW5qLUc3aklnQUgyQ005Xzl1bTVOZw?oc=5",
+        "pubDate": "Thu, 18 Sep 2025 12:55:20 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "Physicists create new electrically controlled silicon-based quantum device - Phys.org",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3ZPNnU0RlBtTE9Od1NkcHhJRzJPUlRCYkIxN2xhNmllbVZNZUdnT1RHelFGcHZpcnBGQlF4OGxlOFlmb1pmZ3BZUThyTkhoUFoxUzFxakhxcmRjQm1jaDRIZWl2RXRBWDZrNUY5SnQ4Umc1NFdXUVVBUjUzVmRtX2dfOVFUcGs?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 16:51:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
-  },
-  "US Politics": {
-    "articles": [
-      {
-        "title": "Senate GOP confirms 48 Trump nominees under \u2018nuclear\u2019 move - Politico",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzNBd1RUMWkzUkRuVVRUUHJ0czJSbW1EYkdHeUNBQ3dZZExWWlR5S0lIS3lQb2c0T1UyM0dYNUNTR0trcEduT2U0RlFsemg5eXBJUXBUdHNqZkNtbUhUM3VDSERKdlVCajFEdk9ldzNvTHJvakdLRXNGY3Y0MHk3bjZqSGJ2bnBYTko0M1Z1RDRLV095dWxfdnJBY21jaVlqRkE?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 21:06:44 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
-  },
-  "Russia": {
-    "articles": [
-      {
-        "title": "Putin Orders Succession Plan for Russia's Next Leadership - Newsweek",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWdDNUlxTGcteG84aC1zSVpXNnpDaWdNSTlKaUdsdDllZnlsNnhvbVpXdG5RZm9HOGR5bFRBQnBOY3BwMHpkZ1E5RVRPVDZ3WnZrV196S2NzSnV1WllBNUs3ZHdEZjd3bjFfTkVWMHVHUHVZU2FDLXdvb1J1YTBMYk1TdjNzZw?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 14:15:07 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
-  },
-  "Electric Vehicle": {
-    "articles": [
-      {
-        "title": "Nissan reveals unbelievable price tag for upcoming model: 'Lowest starting MSRP for any new EV' - Yahoo! Autos",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFF6U1lmaUY4cGxXUmxLWktGdlI5LWk4MXFYX0MxOW1PY2hhWlJTMnJTRFllZktlSFBIbWhyX1ZUTzE5UE1VVm94YXMzUkZmUWh4SzlFT3RfalhTYmdrVU13UTlzaWx4YXBJdXBqdndrZEVCcDZnWHFldVJZeU9sbHcyanBWb3FwTDFRMnAzYzNiaVpXZEhnWktnbHNHVHBqYjNJczB5VQ?oc=5",
-        "pubDate": "Thu, 18 Sep 2025 22:15:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-18T23:01:46.278548+00:00"
+    "last_updated_ts": "2025-09-19T00:01:31.027524+00:00"
   }
 }
