@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "UN General Assembly backs two-state push for Israel and Palestine - Al Jazeera",
-      "pubDate": "Fri, 12 Sep 2025 17:21:50 GMT"
-    },
-    {
       "title": "UN overwhelmingly endorses two-state solution declaration that condemns Hamas - Reuters",
       "pubDate": "Fri, 12 Sep 2025 18:52:47 GMT"
     },
@@ -303,6 +299,10 @@
     {
       "title": "Hollywood stars back boycott as Israel's minister targets film academy - NPR",
       "pubDate": "Fri, 19 Sep 2025 16:32:48 GMT"
+    },
+    {
+      "title": "Civilians made up 15 of every 16 people killed by Israel in Gaza since March, data suggests - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 16:15:00 GMT"
     }
   ],
   "donald_trump": [
@@ -408,10 +408,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Russian drones force Europe to defend itself after Putin \u2018put down a marker\u2019 to NATO - AP News",
-      "pubDate": "Fri, 12 Sep 2025 17:54:00 GMT"
-    },
     {
       "title": "WATCH: NATO leaders hold news conference in wake of Russian drone incursion - PBS",
       "pubDate": "Fri, 12 Sep 2025 20:20:14 GMT"
@@ -583,6 +579,10 @@
     {
       "title": "After Trump pressure, EU aims to bring forward Russian LNG import ban - Reuters",
       "pubDate": "Fri, 19 Sep 2025 14:09:53 GMT"
+    },
+    {
+      "title": "Russia brings back Soviet-era international singing contest to rival Eurovision - The Independent",
+      "pubDate": "Fri, 19 Sep 2025 14:54:00 GMT"
     }
   ],
   "ai_safety": [
@@ -861,6 +861,10 @@
     {
       "title": "Nagpur-based explosives manufacturer to implement AI safety systems after recent blast - Mid-day",
       "pubDate": "Fri, 19 Sep 2025 12:33:00 GMT"
+    },
+    {
+      "title": "Meta\u2019s AR ambitions meet reality, and California gets serious about AI safety\u2026again - TechCrunch",
+      "pubDate": "Fri, 19 Sep 2025 17:20:38 GMT"
     }
   ],
   "financial_markets": [
@@ -1715,20 +1719,12 @@
   ],
   "us_politics": [
     {
-      "title": "Trump doubles down on blaming 'radical left' after vow to go after political violence - ABC News",
-      "pubDate": "Fri, 12 Sep 2025 17:48:45 GMT"
-    },
-    {
       "title": "Tyler Robinson, 22, named as Charlie Kirk's murder suspect - follow live - BBC",
       "pubDate": "Fri, 12 Sep 2025 18:56:59 GMT"
     },
     {
       "title": "Missouri Senate passes Trump-backed redistricting plan that could give Republicans another U.S. House seat - PBS",
       "pubDate": "Fri, 12 Sep 2025 19:28:11 GMT"
-    },
-    {
-      "title": "Trump has turned up the temperature after Kirk\u2019s killing. Spencer Cox is trying to turn it back down. - CNN",
-      "pubDate": "Fri, 12 Sep 2025 17:19:00 GMT"
     },
     {
       "title": "Vice President Vance recalls Charlie Kirk's essential role in rapid rise to political power - WLWT",
@@ -2033,6 +2029,10 @@
     {
       "title": "House Republicans pass stopgap spending bill, set up shutdown fight with Senate - The Hill",
       "pubDate": "Fri, 19 Sep 2025 14:48:00 GMT"
+    },
+    {
+      "title": "American Politics Is Due for a Realignment - The Atlantic",
+      "pubDate": "Fri, 19 Sep 2025 10:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -2589,6 +2589,10 @@
     {
       "title": "Quantum computers have finally achieved unconditional supremacy - New Scientist",
       "pubDate": "Fri, 19 Sep 2025 09:00:46 GMT"
+    },
+    {
+      "title": "Trump administration plans quantum computing strategy expansion, Cyberscoop says - Investing.com",
+      "pubDate": "Fri, 19 Sep 2025 16:15:23 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2693,10 +2697,6 @@
   ],
   "gaza": [
     {
-      "title": "\u2018We took the gloves off\u2019: ex-IDF chief confirms Gaza casualties over 200,000 - The Guardian",
-      "pubDate": "Fri, 12 Sep 2025 17:21:00 GMT"
-    },
-    {
       "title": "Gaza: International community must \u2018match words with action\u2019 now - UN News",
       "pubDate": "Fri, 12 Sep 2025 21:00:02 GMT"
     },
@@ -2781,10 +2781,6 @@
     {
       "title": "EPA proposes to ax requirement for companies to report their planet-warming emissions - The Hill",
       "pubDate": "Fri, 12 Sep 2025 20:21:00 GMT"
-    },
-    {
-      "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change - Phys.org",
-      "pubDate": "Fri, 12 Sep 2025 18:00:02 GMT"
     },
     {
       "title": "US energy secretary downplays climate risks as Washington seeks EU gas deals - Reuters",
@@ -3269,6 +3265,10 @@
     {
       "title": "Experts to Challenge Food Industry Disinformation at Climate Week NYC Event - Center for Biological Diversity",
       "pubDate": "Fri, 19 Sep 2025 16:22:20 GMT"
+    },
+    {
+      "title": "NMU Team Surveys NPS Visitors About Climate Change - Northern Michigan University",
+      "pubDate": "Fri, 19 Sep 2025 13:49:45 GMT"
     }
   ],
   "world_news": [
@@ -3677,6 +3677,12 @@
     {
       "title": "Suspect in custody after ramming car into FBI gate in 'act of terror,' officials say - ABC News",
       "pubDate": "Thu, 18 Sep 2025 05:26:15 GMT"
+    }
+  ],
+  "economic_recession": [
+    {
+      "title": "The Fed\u2019s cut was 'more hawkish than anticipated,' Moody\u2019s Zandi says \u2014 and warns it won\u2019t be enough - Fortune",
+      "pubDate": "Fri, 19 Sep 2025 10:05:00 GMT"
     }
   ]
 }
