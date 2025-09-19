@@ -21,14 +21,6 @@
       "pubDate": "Fri, 12 Sep 2025 18:52:47 GMT"
     },
     {
-      "title": "Israel\u2019s Gaza Disengagement Worked Far Too Well - Foreign Policy",
-      "pubDate": "Fri, 12 Sep 2025 11:57:57 GMT"
-    },
-    {
-      "title": "Israeli soldiers, and their mothers, increasingly reject calls to return to Gaza - AP News",
-      "pubDate": "Fri, 12 Sep 2025 11:41:00 GMT"
-    },
-    {
       "title": "Netherlands ready to join Eurovision boycott over Israel - BBC",
       "pubDate": "Fri, 12 Sep 2025 12:37:05 GMT"
     },
@@ -319,6 +311,10 @@
     {
       "title": "Europe, Canada, Saudi Arabia poke at Trump with Palestinian statehood - Politico",
       "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "IDF chief: Lessons will be learned from Allenby Crossing attack; until then, Gaza aid from Jordan is halted - The Times of Israel",
+      "pubDate": "Fri, 19 Sep 2025 11:17:38 GMT"
     }
   ],
   "donald_trump": [
@@ -611,16 +607,8 @@
   ],
   "ai_safety": [
     {
-      "title": "Financial Services Firms Racing into AI Risk Leaving Gaps in Safety Controls, EY Finds - BBN Times",
-      "pubDate": "Fri, 12 Sep 2025 11:59:39 GMT"
-    },
-    {
       "title": "School security on Long Island: New safety measures include AI-powered gun detection and wearable panic buttons - Newsday",
       "pubDate": "Fri, 12 Sep 2025 12:27:16 GMT"
-    },
-    {
-      "title": "Between Safe and Secure: What Next for India\u2019s AI Safety Institute? - orfonline.org",
-      "pubDate": "Fri, 12 Sep 2025 11:44:52 GMT"
     },
     {
       "title": "Ohio launches new artificial intelligence public safety reporting app - The Center Square",
@@ -885,6 +873,10 @@
     {
       "title": "Startup in spotlight: Irregular raises $80M to become the first dedicated frontier AI security lab - Tech Funding News",
       "pubDate": "Fri, 19 Sep 2025 07:08:10 GMT"
+    },
+    {
+      "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots - NPR",
+      "pubDate": "Fri, 19 Sep 2025 11:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1304,10 +1296,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Kremlin Says Russia-Ukraine Negotiations Are on \u2018Pause\u2019 - Bloomberg.com",
-      "pubDate": "Fri, 12 Sep 2025 11:07:03 GMT"
-    },
     {
       "title": "Supporters of Ukraine Anti-Corruption Investigator Call His Jailing Absurd - The New York Times",
       "pubDate": "Fri, 12 Sep 2025 12:36:46 GMT"
@@ -2061,6 +2049,10 @@
     {
       "title": "What Democracy Doomsayers Get Wrong About America - Politico",
       "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Following Kirk's assassination, Republicans sour on direction of the country, new AP-NORC poll finds - AP News",
+      "pubDate": "Fri, 19 Sep 2025 11:01:00 GMT"
     }
   ],
   "north_korea": [
@@ -2082,10 +2074,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit - The Hacker News",
-      "pubDate": "Fri, 12 Sep 2025 11:50:00 GMT"
-    },
     {
       "title": "CISA official calls on lawmakers to extend cyber info-sharing law - The Record from Recorded Future News",
       "pubDate": "Fri, 12 Sep 2025 13:52:39 GMT"
@@ -2629,6 +2617,10 @@
     {
       "title": "Chicago Quantum Exchange-Led Coalition Reaches Final Stage in NSF Engine Competition - Bioengineer.org",
       "pubDate": "Thu, 18 Sep 2025 21:43:53 GMT"
+    },
+    {
+      "title": "Quantum computers have finally achieved unconditional supremacy - New Scientist",
+      "pubDate": "Fri, 19 Sep 2025 09:00:46 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2691,6 +2683,10 @@
     {
       "title": "DeepMind hails \u2018Kasparov moment\u2019 as AI beats best human coders - The Times",
       "pubDate": "Thu, 18 Sep 2025 19:49:08 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg says Meta AI lab is like a group science project where researchers have no deadlines - India Today",
+      "pubDate": "Fri, 19 Sep 2025 07:34:00 GMT"
     }
   ],
   "national_security": [
@@ -2825,10 +2821,6 @@
     {
       "title": "How we made it: carbon removals fall short - Financial Times",
       "pubDate": "Fri, 12 Sep 2025 13:20:26 GMT"
-    },
-    {
-      "title": "Wealth and power shape the climate emergency \u2013 the most important tool we have to defend ourselves is the facts - The Guardian",
-      "pubDate": "Fri, 12 Sep 2025 11:02:00 GMT"
     },
     {
       "title": "Bringing Global Connections to the Classroom - NC State University",
@@ -3313,6 +3305,10 @@
     {
       "title": "Research finds that Americans are turning to more sugar as the Earth gets hotter from climate change - Milwaukee Independent",
       "pubDate": "Fri, 19 Sep 2025 10:00:36 GMT"
+    },
+    {
+      "title": "Warming atmosphere fueling heavier U.S. rainfall and rising flood risk, AccuWeather analysis shows - AccuWeather",
+      "pubDate": "Fri, 19 Sep 2025 10:26:00 GMT"
     }
   ],
   "world_news": [
