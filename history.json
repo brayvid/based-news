@@ -303,10 +303,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Lisa Cook bank docs appear to contradict mortgage fraud allegations - NBC News",
-      "pubDate": "Sat, 13 Sep 2025 16:12:00 GMT"
-    },
-    {
       "title": "Trump says he hopes nation will heal after Kirk assassination but claims \u2018radical left\u2019 an obstacle - The Hill",
       "pubDate": "Sun, 14 Sep 2025 01:48:00 GMT"
     },
@@ -602,10 +598,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "The U.S. State Department Knows AI Risks - Forbes",
-      "pubDate": "Sat, 13 Sep 2025 16:03:07 GMT"
-    },
     {
       "title": "Taming LLM Sprawl: AI Gateways Cut Costs and Boost Enterprise Efficiency - WebProNews",
       "pubDate": "Sun, 14 Sep 2025 01:00:47 GMT"
@@ -905,10 +897,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Stock market\u2019s relentless rally threatens to turn into a \u2018melt-up\u2019. What\u2019s next. - MarketWatch",
-      "pubDate": "Sat, 13 Sep 2025 16:39:00 GMT"
-    },
-    {
       "title": "Markets have been acting 'super weird' lately. Just look at gold prices vs. the dollar and bonds - Fortune",
       "pubDate": "Sat, 13 Sep 2025 21:30:00 GMT"
     },
@@ -1017,10 +1005,6 @@
     {
       "title": "Apple AI Exec Robby Walker Departs Amid Talent Exodus to Rivals - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 19:41:15 GMT"
-    },
-    {
-      "title": "OpenAI plans to spend $300 billion on cloud computing starting 2027 - Mitrade",
-      "pubDate": "Sat, 13 Sep 2025 16:37:04 GMT"
     },
     {
       "title": "One of Apple's top AI executives is reportedly leaving the company - Mashable",
@@ -1301,6 +1285,10 @@
     {
       "title": "Engineer who accurately predicted the impact of AI 10 years ago has given terrifying prediction for 2030 - LADbible",
       "pubDate": "Sat, 20 Sep 2025 13:28:07 GMT"
+    },
+    {
+      "title": "Meet the Skyrocketing Artificial Intelligence (AI) Stock That's Leaving Nvidia in the Dust - Nasdaq",
+      "pubDate": "Sat, 20 Sep 2025 11:32:00 GMT"
     }
   ],
   "ukraine": [
@@ -1635,6 +1623,10 @@
     {
       "title": "Ukraine war live: Poland scrambles jets after Moscow launches aerial assault on Kyiv - The Independent",
       "pubDate": "Sat, 20 Sep 2025 15:31:58 GMT"
+    },
+    {
+      "title": "Russia launches dozens of drones as Ukraine claims 'important success' - Space War News",
+      "pubDate": "Sat, 20 Sep 2025 10:13:32 GMT"
     }
   ],
   "us_economy": [
@@ -1781,10 +1773,6 @@
     {
       "title": "U.S. Sen. Chris Van Hollen, Democrats call for end to political violence after Charlie Kirk's death - Iowa Capital Dispatch",
       "pubDate": "Sat, 13 Sep 2025 23:46:56 GMT"
-    },
-    {
-      "title": "Trump picks \u2018cat fight\u2019 with New York City mayoral candidate - PennLive.com",
-      "pubDate": "Sat, 13 Sep 2025 16:06:00 GMT"
     },
     {
       "title": "Trump says George Soros \u2018should be in jail\u2019 for supporting progressive causes: \u2018He\u2019s a bad guy\u2019 - The Independent",
@@ -2257,6 +2245,10 @@
     {
       "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 10:52:30 GMT"
+    },
+    {
+      "title": "Cyberattack on Collins Aerospace disrupts flights at Heathrow, other European airports - Industrial Cyber",
+      "pubDate": "Sat, 20 Sep 2025 14:09:57 GMT"
     }
   ],
   "federal_reserve": [
@@ -2831,6 +2823,10 @@
     {
       "title": "Kids Under Fire in Gaza - Mother Jones",
       "pubDate": "Sat, 20 Sep 2025 14:44:34 GMT"
+    },
+    {
+      "title": "'Are there words left to describe the horror we are wreaking on Gaza?' - Le Monde.fr",
+      "pubDate": "Sat, 20 Sep 2025 16:37:07 GMT"
     }
   ],
   "climate_change": [
@@ -3341,6 +3337,10 @@
     {
       "title": "New evidence confirms Yorkshire North Sea asteroid impact - BBC",
       "pubDate": "Sat, 20 Sep 2025 09:04:17 GMT"
+    },
+    {
+      "title": "New Map Shows Where Cancer-Causing Chemicals Are Polluting Water for Over 200M - Truthout",
+      "pubDate": "Sat, 20 Sep 2025 16:06:58 GMT"
     }
   ],
   "world_news": [
@@ -3519,6 +3519,10 @@
     {
       "title": "Trump says US hit another \u2018drug vessel\u2019, Venezuela slams \u2018undeclared war\u2019 - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 06:11:15 GMT"
+    },
+    {
+      "title": "US warns sanctuary states to aid deportation of criminal immigrants - Reuters",
+      "pubDate": "Sat, 20 Sep 2025 14:39:38 GMT"
     }
   ],
   "energy_transition": [
@@ -3653,10 +3657,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Elon Musk eyes next target after cars, rockets and robots - The Washington Post",
-      "pubDate": "Sat, 13 Sep 2025 16:41:23 GMT"
-    },
-    {
       "title": "Tesla CEO Elon Musk Says He's 'Burning The Midnight Oil'; China Registrations Lag - Investor's Business Daily",
       "pubDate": "Tue, 16 Sep 2025 16:29:00 GMT"
     },
@@ -3667,12 +3667,6 @@
     {
       "title": "Elon Musk's Neuralink plans brain implant trial for speech impairments - Reuters",
       "pubDate": "Fri, 19 Sep 2025 22:21:44 GMT"
-    }
-  ],
-  "economic_news": [
-    {
-      "title": "Russia's central bank reveals GDP is shrinking, in a sign Putin's war economy has slipped into recession - Fortune",
-      "pubDate": "Sat, 13 Sep 2025 16:45:00 GMT"
     }
   ],
   "alternative_energy": [
@@ -3747,6 +3741,10 @@
     {
       "title": "The Fed\u2019s cut was 'more hawkish than anticipated,' Moody\u2019s Zandi says \u2014 and warns it won\u2019t be enough - Fortune",
       "pubDate": "Fri, 19 Sep 2025 10:05:00 GMT"
+    },
+    {
+      "title": "There\u2019s one word on everyone\u2019s lips: recession - The Telegraph",
+      "pubDate": "Sat, 20 Sep 2025 07:30:00 GMT"
     }
   ],
   "volcanoes": [
