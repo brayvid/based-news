@@ -5,10 +5,6 @@
       "pubDate": "Sat, 13 Sep 2025 22:01:32 GMT"
     },
     {
-      "title": "Oscar-winning Palestinian director Basel Adra says Israeli soldiers raided his West Bank home - cbsnews.com",
-      "pubDate": "Sat, 13 Sep 2025 21:25:00 GMT"
-    },
-    {
       "title": "Israel is alienating its most important Arab partner - Financial Times",
       "pubDate": "Sun, 14 Sep 2025 04:00:15 GMT"
     },
@@ -295,6 +291,10 @@
     {
       "title": "'My son is being bombed to death on Netanyahu's orders': Thousands protest across Israel - Haaretz",
       "pubDate": "Sat, 20 Sep 2025 15:20:00 GMT"
+    },
+    {
+      "title": "Two Hezbollah terrorists killed, vessel destroyed by Israeli Air Force - The Jerusalem Post",
+      "pubDate": "Sat, 20 Sep 2025 18:12:00 GMT"
     }
   ],
   "donald_trump": [
@@ -404,10 +404,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "GOP Russia Hawks Have a New Plan to Outmaneuver Isolationists - Politico",
-      "pubDate": "Sat, 13 Sep 2025 21:12:11 GMT"
-    },
     {
       "title": "Trump is no \u2018strongman\u2019 when it comes to Russia or Israel. If other democracies don\u2019t step up, anarchy awaits - The Guardian",
       "pubDate": "Sun, 14 Sep 2025 05:00:00 GMT"
@@ -901,10 +897,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Markets have been acting 'super weird' lately. Just look at gold prices vs. the dollar and bonds - Fortune",
-      "pubDate": "Sat, 13 Sep 2025 21:30:00 GMT"
-    },
-    {
       "title": "Why the Fed\u2019s first rate cut in 9 months could derail the stock-market rally \u2014 and how investors can prepare - MarketWatch",
       "pubDate": "Sun, 14 Sep 2025 16:00:00 GMT"
     },
@@ -1281,6 +1273,10 @@
     {
       "title": "OpenAI Tries to Train AI Not to Deceive Users, Realizes It's Instead Teaching It How to Deceive Them While Covering Its Tracks - Futurism",
       "pubDate": "Sat, 20 Sep 2025 12:15:46 GMT"
+    },
+    {
+      "title": "Microsoft CEO Concerned AI Will Destroy the Entire Company - Futurism",
+      "pubDate": "Sat, 20 Sep 2025 11:30:44 GMT"
     }
   ],
   "ukraine": [
@@ -1607,6 +1603,10 @@
     {
       "title": "EU Advances on Russia Assets Plan as Ukraine Funding Needs Rise - Bloomberg.com",
       "pubDate": "Sat, 20 Sep 2025 14:40:09 GMT"
+    },
+    {
+      "title": "Multiple Russian incursions expose contrast between U.S. and allies' responses - NBC News",
+      "pubDate": "Sat, 20 Sep 2025 12:40:44 GMT"
     }
   ],
   "us_economy": [
@@ -1746,10 +1746,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump says the new White House ballroom will be 'a little bigger' than initially planned - NBC News",
-      "pubDate": "Sat, 13 Sep 2025 21:38:58 GMT"
-    },
     {
       "title": "U.S. Sen. Chris Van Hollen, Democrats call for end to political violence after Charlie Kirk's death - Iowa Capital Dispatch",
       "pubDate": "Sat, 13 Sep 2025 23:46:56 GMT"
@@ -2406,10 +2402,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum Enabled Solutions Achieve Real-Time Currency Arbitrage - Quantum Zeitgeist",
-      "pubDate": "Sat, 13 Sep 2025 21:49:15 GMT"
-    },
     {
       "title": "Generative Quantum Advantage Demonstrated with 68-Qubit Processor for Classical and Quantum Problems - Quantum Zeitgeist",
       "pubDate": "Sat, 13 Sep 2025 23:33:53 GMT"
@@ -3321,6 +3313,10 @@
     {
       "title": "Uttarakhand's Naini Lake temperatures boost fish survival, but signal global warming threat - The New Indian Express",
       "pubDate": "Sat, 20 Sep 2025 17:27:14 GMT"
+    },
+    {
+      "title": "EPA tells some scientists to stop publishing studies, employees say - The Washington Post",
+      "pubDate": "Sat, 20 Sep 2025 21:32:04 GMT"
     }
   ],
   "world_news": [
@@ -3464,10 +3460,6 @@
     }
   ],
   "united_states": [
-    {
-      "title": "Venezuela says US marines raided a fishermen's boat in the Caribbean as tensions rise - The Washington Post",
-      "pubDate": "Sat, 13 Sep 2025 21:43:59 GMT"
-    },
     {
       "title": "Man Fatally Shot by ICE Had Just Dropped His Sons at School - Newsweek",
       "pubDate": "Sun, 14 Sep 2025 12:27:39 GMT"
@@ -3725,6 +3717,10 @@
     {
       "title": "There\u2019s one word on everyone\u2019s lips: recession - The Telegraph",
       "pubDate": "Sat, 20 Sep 2025 07:30:00 GMT"
+    },
+    {
+      "title": "What should I do to protect myself from a recession? - Chicago Sun-Times",
+      "pubDate": "Sat, 20 Sep 2025 11:00:00 GMT"
     }
   ],
   "volcanoes": [
@@ -3755,6 +3751,12 @@
     {
       "title": "Trump administration moves to revoke permit for Mass. offshore wind project - WCVB",
       "pubDate": "Sat, 20 Sep 2025 16:25:00 GMT"
+    }
+  ],
+  "h-1b_visas": [
+    {
+      "title": "New US H-1B visa fee could disrupt Indian IT operations, says industry body - Reuters",
+      "pubDate": "Sat, 20 Sep 2025 11:09:32 GMT"
     }
   ]
 }
