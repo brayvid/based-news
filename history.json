@@ -307,10 +307,6 @@
       "pubDate": "Sat, 13 Sep 2025 15:46:31 GMT"
     },
     {
-      "title": "Trump is selling a strong economy. Voters aren\u2019t buying it. - Politico",
-      "pubDate": "Sat, 13 Sep 2025 11:00:00 GMT"
-    },
-    {
       "title": "Lisa Cook bank docs appear to contradict mortgage fraud allegations - NBC News",
       "pubDate": "Sat, 13 Sep 2025 16:12:00 GMT"
     },
@@ -1301,6 +1297,10 @@
     {
       "title": "AGI Debate: Between Hype, Skepticism, and Realistic Expectations - Unite.AI",
       "pubDate": "Sat, 20 Sep 2025 10:09:22 GMT"
+    },
+    {
+      "title": "Billionaire Ken Griffin Sells Tesla Stock and Buys an Artificial Intelligence (AI) Stock Up 1,100% Since 2023 (Hint: Not Palantir) - MSN",
+      "pubDate": "Sat, 20 Sep 2025 08:41:03 GMT"
     }
   ],
   "ukraine": [
@@ -1623,6 +1623,10 @@
     {
       "title": "Air Defense Forces neutralize 552 drones, two ballistic missiles, and 29 cruise missiles - Ukrinform",
       "pubDate": "Sat, 20 Sep 2025 08:16:00 GMT"
+    },
+    {
+      "title": "Live: Zelensky slams large-scale Russian strikes on Ukraine, Poland deploys air defences - France 24",
+      "pubDate": "Sat, 20 Sep 2025 05:24:02 GMT"
     }
   ],
   "us_economy": [
@@ -2089,6 +2093,10 @@
     {
       "title": "Republicans who came to Congress to fight the deficit face attacks for raising it under Trump - NBC News",
       "pubDate": "Sat, 20 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "\u2018Tidal wave of problems\u2019: With harvest here, Trump\u2019s trade war pushes some US farmers to the brink - CNN",
+      "pubDate": "Sat, 20 Sep 2025 10:30:05 GMT"
     }
   ],
   "north_korea": [
@@ -2110,10 +2118,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Wesco Transforms Cybersecurity with AI and Integrated Tools - WebProNews",
-      "pubDate": "Sat, 13 Sep 2025 11:28:25 GMT"
-    },
     {
       "title": "Hacker Exploits Claude AI to Automate Cyberattacks on 17 Companies - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 20:21:21 GMT"
@@ -2241,6 +2245,10 @@
     {
       "title": "Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell - The Hacker News",
       "pubDate": "Sat, 20 Sep 2025 05:48:00 GMT"
+    },
+    {
+      "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
+      "pubDate": "Sat, 20 Sep 2025 10:52:30 GMT"
     }
   ],
   "federal_reserve": [
@@ -2270,10 +2278,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Rescue and fundraising efforts continue following deadly earthquakes in Afghanistan - VPM",
-      "pubDate": "Sat, 13 Sep 2025 11:43:00 GMT"
-    },
     {
       "title": "Map: 3.3-Magnitude Earthquake Strikes the San Francisco Bay Area - The New York Times",
       "pubDate": "Tue, 16 Sep 2025 13:42:13 GMT"
@@ -2641,10 +2645,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "Ex-Google Exec Mo Gawdat Says AI will Wipe Out Jobs \u2013 From Entry-level to C-suite - Tekedia",
-      "pubDate": "Sat, 13 Sep 2025 11:38:52 GMT"
-    },
-    {
       "title": "Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief - TechCrunch",
       "pubDate": "Sun, 14 Sep 2025 17:00:34 GMT"
     },
@@ -2823,13 +2823,13 @@
     {
       "title": "GPS Extra: Why has Netanyahu escalated his assault on Gaza? - CNN",
       "pubDate": "Fri, 19 Sep 2025 23:57:59 GMT"
+    },
+    {
+      "title": "Israel\u2019s intensifying attacks on Gaza kill at least 51 and send thousands fleeing - The Independent",
+      "pubDate": "Sat, 20 Sep 2025 11:04:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump's Energy Department disbands group that sowed doubt about climate change - Houston Public Media",
-      "pubDate": "Sat, 13 Sep 2025 11:36:52 GMT"
-    },
     {
       "title": "How Panama Canal plans to engineer over future of severe drought and climate change - CNBC",
       "pubDate": "Sat, 13 Sep 2025 14:15:01 GMT"
@@ -3329,6 +3329,10 @@
     {
       "title": "National parks remove signs about climate, slavery and Japanese internment - The Washington Post",
       "pubDate": "Sat, 20 Sep 2025 10:09:17 GMT"
+    },
+    {
+      "title": "Nahant author talks climate change - Itemlive",
+      "pubDate": "Sat, 20 Sep 2025 00:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3380,10 +3384,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Stellantis Cancels Electric Ram 1500 REV, Pivots to Hybrid Ramcharger - WebProNews",
-      "pubDate": "Sat, 13 Sep 2025 11:25:18 GMT"
-    },
     {
       "title": "Hyundai Delays $5.5B Georgia Battery Plant After Immigration Raid - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 14:45:49 GMT"
@@ -3455,6 +3455,10 @@
     {
       "title": "Stellantis unveils lighter, faster-charging EV battery - Reuters",
       "pubDate": "Fri, 19 Sep 2025 18:54:02 GMT"
+    },
+    {
+      "title": "EV maker Polestar recalls over 27,000 US vehicles due to rearview camera issue, NHTSA says - Reuters",
+      "pubDate": "Sat, 20 Sep 2025 07:28:57 GMT"
     }
   ],
   "technology": [
