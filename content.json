@@ -1,72 +1,62 @@
 {
-  "Climate Change": {
+  "US Politics": {
     "articles": [
       {
-        "title": "Trump\u2019s tariffs, deportations and climate change are making groceries more expensive - CNN",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnVMUFRPZzFoNURQT2JlOFlKTXd6dWlhX2h4a1VBSGhtOHVXa0dqeDNJaUUzMTAzMzBhVG5JdUY5eXRnTmZfYVhVQlVaUjlDM1YwQnRCNVYyQUxaS2wyVXdhLWJ2NXkzUG1WVzY0bFBlTVNPYm52b1loWlN4YzZhQg?oc=5",
-        "pubDate": "Sat, 20 Sep 2025 08:00:06 GMT"
+        "title": "House gives lawmakers more money for personal security after concerns in wake of Kirk assassination - WDSU",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDFKM3RpLUNpTHNOZlFRaDdzSVEtUmNzZkQ2M1I3WnZwSVczWkhndUU3Q0lJckhhT1RqbnE4aVJkYUlTY0w4UE1qTTJLTXFVckpnVEFzWlBnUjZ4VjA5XzRGTjRVOHZYbGt3Tl92TUtKSmZOY28teXhrWklGQ01aZmdDNWRlZ3lHUExVMA?oc=5",
+        "pubDate": "Sat, 20 Sep 2025 08:56:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "Researchers created a soft squeezable computer mouse - Popular Science",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82TmpENG9JeDJJZWRocTduNmVaM19Ba1dkZ1hiY050cXZnTDU1STNRcVM3X2dEck9NUUFleU9RQmptM25pMzctLXdVSGhXZTZJaGJwWjQxSW44T1g1VVA0TjlraW1HTHFlTF9ueg?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 21:14:00 GMT"
+        "title": "xAI launches Grok-4-Fast: Unified Reasoning and Non-Reasoning Model with 2M-Token Context and Trained End-to-End with Tool-Use Reinforcement Learning (RL) - MarkTechPost",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPS0ptN3BZcVk1MzJaZXA5RXRqbkx2b1cwNDdaYnB1a3k4WEI3Sm02STV3RFlYeE9fNC1JZHNXbVZPdTVXS1h6SV9yMlRHUTJ1YUVyU05BcFNYOEZ2M1FOOTk2cGp4R3B6MWkza2R0bE1RQmE2Uk9UV2RwWk45QnYtVTlHbF9Qc1lJOVRQdHc2U2V2WlFoeW9oSzRVNmpHdFN0dTBIUWZNSC03NXdCS2NGbWJuVGp3OTZ4WkJNRlgzU2ZMN1JybkF3UXlxTHhtX0RUUjJWVVQxb1JQUE5lcXZMVklZSUo3VVdrZzRPTFB3MW9qNjBhRXZaWVVkUVVYRmF3SWlGZDVySWdCT2Zwa212bzRFV0tnYnNkR01mR9IBogJBVV95cUxNMlhZcmVNN29UbnZEYVY4MVJJVWhVWjd1VnFDaVhKOGduZHFkeVp0QlR6OXJIMDgwVEZKZ3dmb212eG9Xa3RUVkxDOHJIVndIN0FtQWFRTDVTRFdUOUNxUHdEbmVlejBSMWNwRjNBQWhXbDZUTmlud21lU0ZqZmFWZHVfU3V3dFM1VjJoNkc1OFYzTkpnUlFKcGdYTlo2UzluYW5iTG9aMHhubUZ6cEFveHNldUhBRW9QajB1WUQxbkhNTV9Ba1RnZEJyRHcwY2lwU1pKUW1KNVpJeFVSclc2MkZCckpMQWwyOGFrUjFpTE9FNzYtV3NENFY4bGEtQ3FWZjQ3M296WkxkNDFBRWF4YWVFbTFxbWxtZXRSZmZNZkZsQQ?oc=5",
+        "pubDate": "Sat, 20 Sep 2025 09:17:17 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   },
-  "United States": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Trump says US hit another \u2018drug vessel\u2019, Venezuela slams \u2018undeclared war\u2019 - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3dxVjdULTNPZERieUxEanlVRjRiSnNyTlFxVnpRd2V2X1dmN0pZSDdBSmRFemw4cGVBbHlGMWZXUlRlemZlMlJ6c0tFWGZlVWI4ci1sMThVbWJCSmR2VW02MW15a2IxQW9UbXJ3VDZCbzlLb0VmLW1LVU1SNHJmdzhUa3hiYVVaZklnQmszVWVfM2ZCdTAyZFdPYlNnZWZNWWNES2RreXozXzJrZGJuT0Y0QdIBuAFBVV95cUxNQzVOcHZ6TWFfWnE3QllLUG1yS2RVQ2ozUHNwdlcwaVJBU2dPX01PMlJ2Ui1DeHBVc2hWSGd4NkZ2NUdWX3JFVHAyYUx4NlRyUW5TTnpGYmVPR3BiRExhN3RaRWF1MzR2d0xaenhuR29XZV9jUk94bV9QS3pQRXBhTzNLU3dWdFpMdWtFVFZ0eTdEaExUMjFHaTlDUXZSYlZoc3pKSEMwVkpFSXdHYk4yMk1lWWF5TUMt?oc=5",
-        "pubDate": "Sat, 20 Sep 2025 06:11:15 GMT"
+        "title": "\u2018Something is working\u2019: UN climate chief optimistic about green transition - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVldwNUpNT1NyUUxOOTNmWHVTZGZOTWRLOTFQWDVpOTRDd21YbWh6UmZYc0RmaWlEaGlPbjdmS05vczJ3T2c5bXRUWHMxSVdPZUF0QzZWSUhuN0JwMmxqNGExMXNMUUFQVnZHaTNsUWw3VU0yZDlidktsU0E2WXJoaHo3aHhLTHZBS016T25KWVByajBrMGY3aVk1aTcyMWstSXpRd1hRMmg2Y1kwWnAxR1JhWnkyQQ?oc=5",
+        "pubDate": "Sat, 20 Sep 2025 07:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   },
-  "Data Breach": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent - The Hacker News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTZVNlo5RnJhaGVpU0YzNGpLcWhPQWZhT05zU1U5NlVoM0czYXBhNzFEWDJYUWhNVTVwMTVPSmZYbWw5c1huaDBPQ1l2WmJ2S2VYWDA2UmVkNTlvSnI0bFhvVm50R0dXNXFqRllkaUZmSHlWbGRqVndiaHFhZXZPaVZyZw?oc=5",
-        "pubDate": "Sat, 20 Sep 2025 05:31:00 GMT"
+        "title": "Air Defense Forces neutralize 552 drones, two ballistic missiles, and 29 cruise missiles - Ukrinform",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFl1TEEteTA4eDduZXR6WENsMGJBd2JfZ3BuV0lFUjZZTEJSRVpJRUZXS0pUcGFMUlpOTVREMERNXzVISnpjaGxxQ3Q5d3F0bl9DVjVTUmE3UmR2Y3hqMFZ6ckZ1M2VDeGNLWkdNZlNqcGxIVU1tZTBDeVVFczZwVE83VmdsRVdEUVhXNG42NDZHZkp6LURQX1l1b0lUZzdlbUxOcWRNb0cxMi1KQ1JjS1ZnV0VVSTZTTnZBZEpMSnRNZTZydGdNNkhhb25XSG1LVlHSAdcBQVVfeXFMUEVLd2Etb3B0NGxPOE1JZXczdzB5aU1NR3BnTDJkTEVmdmhQa3BvOWlGYjZSeEVWcDE3WTVGSXZMTm1ielI3Uk16RWh2YWZGbW9zcm13QlBMSl9vUl91WnlrRXJLZW80TTFINThJeDFnNW95R01tOU1GUDkwRXFPM3RNdzhZei13a1JaQTZLeFZPVWktZEhZdWoyOWVscWdkaGlmWUdCXzZfSl9kWGdvQ2hBVW9Xd1hUdkF6R1FXTTJUUngwZm0xT3pnS1A1R1dkTEMyUEh6YkE?oc=5",
+        "pubDate": "Sat, 20 Sep 2025 08:16:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   },
-  "Space Exploration": {
+  "Financial Markets": {
     "articles": [
       {
-        "title": "VIPER lives! Jeff Bezos' Blue Origin will land ice-hunting NASA rover on the moon in 2027 - Space",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejRicjlQYW5jR042WmxDSnpTNi1vNzVfendGLVFZSGQ5UlV5VUNRcEFFVnhZNmljdXR5Y2RQVVFJbHQxUGdyRjYyZ0x2NDN0bUczWlVWMlFRUWdSbHJsb3lGZEwtbDJMQVF3eVNiUW9CT1NtQ0x0R2s5MFlIenRwVFVfTER0Uzc4UjZ2SnhlQ3c2WE1hbmh0SF93R21TaHF3emNidnhrQkZiTVdGbUJOUExwNll4M3RGSXVPeVc0S1Bzdw?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 22:03:00 GMT"
+        "title": "US stock market closing levels: Can't stop, won't stop - investingLive",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY3QtaVloT2Raaks5UTA1NHNfOWtzbWhTZG8yckFRSkVDT05ZSnZtRmtDU2RmV2lTUjJUWTY1NFpJME1VWDZObTI0VkNkVU9JcndYX290bExRRG1nQmxCNTVwN1JQUWhMemtocElCVGhMeXdWNzRQNmtPOE54OVhGcVJRbUNITVlzaUxOX2xZdzA4YXhHUS1FSXI5VXJ6Q29peU9wbFc4VWh6QdIBrwFBVV95cUxOT29TSkZ5M0NlTUNJYS10ZnBSSnJOQXF0MzFGdkZnQWI0eVc4bHVHclFzbjZMTk9sMEM1c1RrbEt3SGpLaUtlalM3OGpFbVhhN01tQ1E4WEdZSFgtaWdJS204Q1VvWWh6RXk1aWQ5NzAtWWRmNEpsSTJWV3phZ3BPQkFTdVNNaWFyV0hGTmhEVngyU2xkVGIzMXc1WE1vZ3BXSnJzNEkxemVwbzNscGdj?oc=5",
+        "pubDate": "Sat, 20 Sep 2025 09:37:13 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   },
-  "Energy Transition": {
+  "Technology": {
     "articles": [
       {
-        "title": "EVE Energy Achieves World's First 400MWh Energy Storage Project with 628Ah Ultra-Large Cells - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZUxZTGR6aUM2YUtKQk03T3gzV29QWnJIZ3NHTTVpRFFkOEtlMlg3SzVzODVkQjY1NlFXSWhkQTc4N1FLVllnRVpldV8zRVVpTVZLdlg1YU1xMHE2UUttTm1wQ2t3YjB5aXEtbmlSRUZRdGlzeXMyOTRlOHQybnNYYWNxUU5SZ2xZR2t5dG9jTndaU2xDeW9RS29KaDIxa3VfMDRqU3BIeHMyOEhfdmlaaHNBT2FDNTlIMUZUSTFwWlJ0X1JsN0lIbERldWtfUnNoUmthbS1sRUJsVldpVjZncw?oc=5",
-        "pubDate": "Sat, 20 Sep 2025 00:25:00 GMT"
+        "title": "Google Turns Browser Into AI Assistant With Gemini - PYMNTS.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHBjVW1KVTZDYjIteXkxMU5oelY3VXhsa2kzQ2hpSVdwcU51NksxQmtXTEtuY2Z3NDh3RU9xc1NoRVdHdzdGMjlCdG1nV1VQdFE5cVItem52Nko2SG5Iay05WXVaYV9YSzgwai1UcWlmcjE0N3lObWtpV3FxSHpqTmVhRUE0UmRoUkFHaUl4SkxIRm1VWmtfLUxDT3VyVE5KdktSRk43QmRVemF5?oc=5",
+        "pubDate": "Fri, 19 Sep 2025 23:26:15 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
-  },
-  "Quantum Computing": {
-    "articles": [
-      {
-        "title": "USU Mathematicians' Topological Theories Could Foster Quantum Computing Breakthrough - Utah State University",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0ZxVVhOMDUycEhuWHg0QzY1XzY2azBYVENXdXpzclNrc0ZDMjgxakZScVI3aDBYcmxVTWdfMVVtdE9iSEVWZDBsUnh3emJ4THdOQUNpQ2ZGNDZGNE1xU1p6YzBlZWhSU25ubUNiSEFXV3ZXaXRybXptb2ViSnFtRjlmamI5TDRiTEpGdFVRVUY2UkVmcFBPcG5PY0tkOXRRVFd3VUZWalpTS0k0TW9adFYzUWhJUQ?oc=5",
-        "pubDate": "Fri, 19 Sep 2025 21:47:31 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-20T08:58:55.807254+00:00"
+    "last_updated_ts": "2025-09-20T09:59:16.578717+00:00"
   }
 }
