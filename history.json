@@ -295,13 +295,13 @@
     {
       "title": "[UN: Sept.19] Waltz O.K.\u2019d for UN Post, Israel Bans Peanut Butter Into Gaza & More - PassBlue",
       "pubDate": "Sat, 20 Sep 2025 01:37:58 GMT"
+    },
+    {
+      "title": "Israel presses Gaza offensive, reportedly urges US to prod Egypt on Sinai military buildup - The Times of Israel",
+      "pubDate": "Sat, 20 Sep 2025 15:23:01 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump Threatens Russia With \u2018Major Sanctions\u2019 - Forbes",
-      "pubDate": "Sat, 13 Sep 2025 15:46:31 GMT"
-    },
     {
       "title": "Lisa Cook bank docs appear to contradict mortgage fraud allegations - NBC News",
       "pubDate": "Sat, 13 Sep 2025 16:12:00 GMT"
@@ -1011,10 +1011,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Can computers read minds? Shocking study decodes human thoughts without speech or movement - Times of India",
-      "pubDate": "Sat, 13 Sep 2025 15:08:00 GMT"
-    },
-    {
       "title": "Why California backed off again from ambitious AI regulation - CalMatters",
       "pubDate": "Sat, 13 Sep 2025 18:15:00 GMT"
     },
@@ -1301,6 +1297,10 @@
     {
       "title": "AI agent helps negotiate car deals, saving buyers time and money - 6abc Philadelphia",
       "pubDate": "Sat, 20 Sep 2025 14:35:43 GMT"
+    },
+    {
+      "title": "Engineer who accurately predicted the impact of AI 10 years ago has given terrifying prediction for 2030 - LADbible",
+      "pubDate": "Sat, 20 Sep 2025 13:28:07 GMT"
     }
   ],
   "ukraine": [
@@ -1631,6 +1631,10 @@
     {
       "title": "Many wounded as Russian strikes hit Ukraine\u2019s Dnipropetrovsk region - AP News",
       "pubDate": "Sat, 20 Sep 2025 14:18:00 GMT"
+    },
+    {
+      "title": "Ukraine war live: Poland scrambles jets after Moscow launches aerial assault on Kyiv - The Independent",
+      "pubDate": "Sat, 20 Sep 2025 15:31:58 GMT"
     }
   ],
   "us_economy": [
@@ -1770,10 +1774,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Patel faces congressional hearings after missteps in Kirk assassination probe and turmoil at FBI - AP News",
-      "pubDate": "Sat, 13 Sep 2025 15:04:00 GMT"
-    },
     {
       "title": "Trump says the new White House ballroom will be 'a little bigger' than initially planned - NBC News",
       "pubDate": "Sat, 13 Sep 2025 21:38:58 GMT"
@@ -2105,13 +2105,13 @@
     {
       "title": "Massive banners with Trump\u2019s face are adorning some federal buildings in DC. Democrats are crying foul - CNN",
       "pubDate": "Sat, 20 Sep 2025 12:00:05 GMT"
+    },
+    {
+      "title": "As Republican lawmakers attack democracy, Missourians must come to its defense | Opinion - Springfield News-Leader",
+      "pubDate": "Sat, 20 Sep 2025 09:12:11 GMT"
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea to boost nuclear arsenal, conventional military: state media - The Hindu",
-      "pubDate": "Sat, 13 Sep 2025 15:53:00 GMT"
-    },
     {
       "title": "North Korean leader's sister warns against US joint drills - CNA",
       "pubDate": "Sun, 14 Sep 2025 01:25:52 GMT"
@@ -3337,6 +3337,10 @@
     {
       "title": "Boykoff: Wise up for positive (environmental) change - Boulder Daily Camera",
       "pubDate": "Sat, 20 Sep 2025 11:04:17 GMT"
+    },
+    {
+      "title": "New evidence confirms Yorkshire North Sea asteroid impact - BBC",
+      "pubDate": "Sat, 20 Sep 2025 09:04:17 GMT"
     }
   ],
   "world_news": [
@@ -3477,6 +3481,10 @@
     {
       "title": "Google Turns Browser Into AI Assistant With Gemini - PYMNTS.com",
       "pubDate": "Fri, 19 Sep 2025 23:26:15 GMT"
+    },
+    {
+      "title": "Meta Faces Fresh Backlash as Schoolgirl Photos Used in Threads Ads Spark Safety Concerns - International Business Times UK",
+      "pubDate": "Sat, 20 Sep 2025 14:00:05 GMT"
     }
   ],
   "united_states": [
@@ -3617,12 +3625,6 @@
       "pubDate": "Sun, 14 Sep 2025 19:33:22 GMT"
     }
   ],
-  "iran": [
-    {
-      "title": "G7 and Allies Warn Iran Over \u201cUnacceptable\u201d Overseas Kidnap and Harassment Campaigns - kurdistan24.net",
-      "pubDate": "Sat, 13 Sep 2025 15:21:00 GMT"
-    }
-  ],
   "asteroids": [
     {
       "title": "2 billion people will be able to see 'God of Chaos' asteroid Apophis when it buzzes Earth in April 2029 - Space",
@@ -3640,10 +3642,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Gemini Stock ($GEMI) Surges 14% on IPO Debut; Winklevoss Brothers Predict $1M Bitcoin - CoinDesk",
-      "pubDate": "Sat, 13 Sep 2025 15:57:12 GMT"
-    },
     {
       "title": "Where Will Bitcoin Be in 5 Years? - Nasdaq",
       "pubDate": "Sun, 14 Sep 2025 08:30:00 GMT"
@@ -3761,6 +3759,12 @@
     {
       "title": "VIPER lives! Jeff Bezos' Blue Origin will land ice-hunting NASA rover on the moon in 2027 - Space",
       "pubDate": "Fri, 19 Sep 2025 22:03:00 GMT"
+    }
+  ],
+  "economic": [
+    {
+      "title": "Overbought Conditions Across Multiple Markets - Real Investment Advice",
+      "pubDate": "Sat, 20 Sep 2025 11:55:16 GMT"
     }
   ]
 }
