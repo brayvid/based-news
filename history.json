@@ -1309,6 +1309,10 @@
     {
       "title": "Hunger strikers want end to 'superhuman' AI - Sky News",
       "pubDate": "Sat, 20 Sep 2025 06:14:15 GMT"
+    },
+    {
+      "title": "Researchers created a soft squeezable computer mouse - Popular Science",
+      "pubDate": "Fri, 19 Sep 2025 21:14:00 GMT"
     }
   ],
   "ukraine": [
@@ -2349,6 +2353,10 @@
     {
       "title": "HPD promises NYC housing lotteries are safe after data breach exposed info, but applicants' concerns linger - CBS News",
       "pubDate": "Fri, 19 Sep 2025 03:39:31 GMT"
+    },
+    {
+      "title": "ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent - The Hacker News",
+      "pubDate": "Sat, 20 Sep 2025 05:31:00 GMT"
     }
   ],
   "fusion_power": [
@@ -2422,10 +2430,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "How is NVIDIA 'Betting' on Quantum? A Look at NVentures Quantum Investment Playbook From Skepticism to Strategic Stakes - The Quantum Insider",
-      "pubDate": "Sat, 13 Sep 2025 08:15:44 GMT"
-    },
     {
       "title": "IBM Scientists Challenge Quantum\u2019s \u2018Noise Barrier\u2019 - The Quantum Insider",
       "pubDate": "Sat, 13 Sep 2025 12:20:57 GMT"
@@ -2637,6 +2641,10 @@
     {
       "title": "LANL: Quantum Computers Tackle Century-Old Math Puzzle - Los Alamos Daily Post",
       "pubDate": "Fri, 19 Sep 2025 23:01:01 GMT"
+    },
+    {
+      "title": "USU Mathematicians' Topological Theories Could Foster Quantum Computing Breakthrough - Utah State University",
+      "pubDate": "Fri, 19 Sep 2025 21:47:31 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3333,6 +3341,10 @@
     {
       "title": "First treaty to protect marine life in high seas to take effect in January - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 07:31:28 GMT"
+    },
+    {
+      "title": "Trump\u2019s tariffs, deportations and climate change are making groceries more expensive - CNN",
+      "pubDate": "Sat, 20 Sep 2025 08:00:06 GMT"
     }
   ],
   "world_news": [
@@ -3503,13 +3515,13 @@
     {
       "title": "Trump Unveils $1 Million 'Gold Card' Visa Program For US Residency - NDTV",
       "pubDate": "Sat, 20 Sep 2025 00:14:50 GMT"
+    },
+    {
+      "title": "Trump says US hit another \u2018drug vessel\u2019, Venezuela slams \u2018undeclared war\u2019 - Al Jazeera",
+      "pubDate": "Sat, 20 Sep 2025 06:11:15 GMT"
     }
   ],
   "energy_transition": [
-    {
-      "title": "Chart Shows China Winning Global Clean Energy Race - Newsweek",
-      "pubDate": "Sat, 13 Sep 2025 08:00:03 GMT"
-    },
     {
       "title": "US businesses \u2018remain in the energy transition\u2019 despite policy moves - gasworld",
       "pubDate": "Mon, 15 Sep 2025 15:38:32 GMT"
@@ -3537,6 +3549,10 @@
     {
       "title": "CEA warns of banking risks from energy transition power plant closures - The Times of India",
       "pubDate": "Fri, 19 Sep 2025 20:24:00 GMT"
+    },
+    {
+      "title": "EVE Energy Achieves World's First 400MWh Energy Storage Project with 628Ah Ultra-Large Cells - PR Newswire",
+      "pubDate": "Sat, 20 Sep 2025 00:25:00 GMT"
     }
   ],
   "world_politics": [
@@ -3765,6 +3781,12 @@
     {
       "title": "Hawaii\u2019s Kilauea volcano erupts again - WGN-TV",
       "pubDate": "Fri, 19 Sep 2025 17:51:35 GMT"
+    }
+  ],
+  "space_exploration": [
+    {
+      "title": "VIPER lives! Jeff Bezos' Blue Origin will land ice-hunting NASA rover on the moon in 2027 - Space",
+      "pubDate": "Fri, 19 Sep 2025 22:03:00 GMT"
     }
   ]
 }
