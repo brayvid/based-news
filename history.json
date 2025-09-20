@@ -13,10 +13,6 @@
       "pubDate": "Sat, 13 Sep 2025 22:01:32 GMT"
     },
     {
-      "title": "Israel hostages forum says Qatar air strikes show Netanyahu is an obstacle to ending Gaza war - France 24",
-      "pubDate": "Sat, 13 Sep 2025 18:31:52 GMT"
-    },
-    {
       "title": "Oscar-winning Palestinian director Basel Adra says Israeli soldiers raided his West Bank home - cbsnews.com",
       "pubDate": "Sat, 13 Sep 2025 21:25:00 GMT"
     },
@@ -295,6 +291,10 @@
     {
       "title": "Israel presses Gaza offensive, reportedly urges US to prod Egypt on Sinai military buildup - The Times of Israel",
       "pubDate": "Sat, 20 Sep 2025 15:23:01 GMT"
+    },
+    {
+      "title": "IDF says Lebanon drone strike targeted Hezbollah operative gathering intel on Israeli troops - The Times of Israel",
+      "pubDate": "Sat, 20 Sep 2025 18:08:40 GMT"
     }
   ],
   "donald_trump": [
@@ -889,6 +889,10 @@
     {
       "title": "Researchers Warn Superintelligent AI Could End Humanity - Khaama Press",
       "pubDate": "Sat, 20 Sep 2025 11:45:18 GMT"
+    },
+    {
+      "title": "Huawei Unveils \u201cSafe\u201d DeepSeek AI Model as Beijing Tightens Grip on Domestic AI Development - Tekedia",
+      "pubDate": "Sat, 20 Sep 2025 13:34:21 GMT"
     }
   ],
   "financial_markets": [
@@ -995,10 +999,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Why California backed off again from ambitious AI regulation - CalMatters",
-      "pubDate": "Sat, 13 Sep 2025 18:15:00 GMT"
-    },
-    {
       "title": "Apple AI Exec Robby Walker Departs Amid Talent Exodus to Rivals - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 19:41:15 GMT"
     },
@@ -1009,10 +1009,6 @@
     {
       "title": "Penske Media sues Google over AI search overviews - Axios",
       "pubDate": "Sun, 14 Sep 2025 00:03:22 GMT"
-    },
-    {
-      "title": "Databricks at a crossroads: Can its AI strategy prevail without Naveen Rao? - InfoWorld",
-      "pubDate": "Sat, 13 Sep 2025 18:10:41 GMT"
     },
     {
       "title": "Measuring Machine Intelligence Using Turing Test 2.0 - mindmatters.ai",
@@ -1284,10 +1280,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Poland Scrambles Jets Amid Renewed Drone Threat in Nearby Ukraine Territory - Newsweek",
-      "pubDate": "Sat, 13 Sep 2025 18:33:22 GMT"
-    },
     {
       "title": "These Charts Show How Putin Is Defying Trump by Escalating Airstrikes on Ukraine - The Wall Street Journal",
       "pubDate": "Sat, 13 Sep 2025 20:38:28 GMT"
@@ -2081,6 +2073,10 @@
     {
       "title": "As Republican lawmakers attack democracy, Missourians must come to its defense | Opinion - Springfield News-Leader",
       "pubDate": "Sat, 20 Sep 2025 09:12:11 GMT"
+    },
+    {
+      "title": "Pentagon unveils new media restrictions in effort to quash leaks - The Hill",
+      "pubDate": "Sat, 20 Sep 2025 16:33:00 GMT"
     }
   ],
   "north_korea": [
@@ -2609,6 +2605,10 @@
     {
       "title": "USU Mathematicians' Topological Theories Could Foster Quantum Computing Breakthrough - Utah State University",
       "pubDate": "Fri, 19 Sep 2025 21:47:31 GMT"
+    },
+    {
+      "title": "UT Austin, Quantinuum Researchers Report \u2018Unconditional\u2019 Quantum Supremacy - The Quantum Insider",
+      "pubDate": "Sat, 20 Sep 2025 13:30:35 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3313,6 +3313,10 @@
     {
       "title": "New Map Shows Where Cancer-Causing Chemicals Are Polluting Water for Over 200M - Truthout",
       "pubDate": "Sat, 20 Sep 2025 16:06:58 GMT"
+    },
+    {
+      "title": "Northeast fall foliage 2025: Experts warn of an early and shorter season - NBC News",
+      "pubDate": "Sat, 20 Sep 2025 17:00:41 GMT"
     }
   ],
   "world_news": [
@@ -3735,6 +3739,18 @@
     {
       "title": "Overbought Conditions Across Multiple Markets - Real Investment Advice",
       "pubDate": "Sat, 20 Sep 2025 11:55:16 GMT"
+    }
+  ],
+  "world_economy": [
+    {
+      "title": "Charting the Global Economy: Fed Resumes Rate Cuts While BOE Holds - Bloomberg.com",
+      "pubDate": "Sat, 20 Sep 2025 09:00:00 GMT"
+    }
+  ],
+  "renewable_energy": [
+    {
+      "title": "Trump administration moves to revoke permit for Mass. offshore wind project - WCVB",
+      "pubDate": "Sat, 20 Sep 2025 16:25:00 GMT"
     }
   ]
 }
