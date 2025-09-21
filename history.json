@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel is alienating its most important Arab partner - Financial Times",
-      "pubDate": "Sun, 14 Sep 2025 04:00:15 GMT"
-    },
-    {
       "title": "Israel intensifies Gaza City bombing as Rubio arrives - Reuters",
       "pubDate": "Sun, 14 Sep 2025 11:27:41 GMT"
     },
@@ -1007,10 +1003,6 @@
       "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
     },
     {
-      "title": "Bias embedded in AI algorithms - The Philadelphia Tribune",
-      "pubDate": "Sun, 14 Sep 2025 04:00:00 GMT"
-    },
-    {
       "title": "Why do AI chatbots use so much energy? - Live Science",
       "pubDate": "Sun, 14 Sep 2025 09:00:00 GMT"
     },
@@ -1297,6 +1289,10 @@
     {
       "title": "Promising Artificial Intelligence Stocks To Follow Now - September 20th - MarketBeat",
       "pubDate": "Sat, 20 Sep 2025 17:24:53 GMT"
+    },
+    {
+      "title": "Podcast: A New Test to Measure Understanding in AI Models - mindmatters.ai",
+      "pubDate": "Sat, 20 Sep 2025 21:11:15 GMT"
     }
   ],
   "ukraine": [
@@ -1660,10 +1656,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US, Chinese officials to launch talks in Spain on trade irritants, TikTok deadline - Reuters",
-      "pubDate": "Sun, 14 Sep 2025 04:36:40 GMT"
-    },
     {
       "title": "China, US trade delegations kick off fourth round of talks in Madrid - South China Morning Post",
       "pubDate": "Sun, 14 Sep 2025 12:08:16 GMT"
@@ -2113,6 +2105,10 @@
     {
       "title": "Trump demands Venezuela take action on one of his most outlandish claims \u2013 or face an \u2018incalculable\u2019 price - The Independent",
       "pubDate": "Sat, 20 Sep 2025 20:31:00 GMT"
+    },
+    {
+      "title": "Trump warns of \u2018incalculable price\u2019 if Venezuela won\u2019t accept \u2018prisoners\u2019 - Al Jazeera",
+      "pubDate": "Sat, 20 Sep 2025 21:07:10 GMT"
     }
   ],
   "north_korea": [
@@ -2297,6 +2293,10 @@
     {
       "title": "7.8 magnitude quake off Kamchatka was one of many aftershocks since July - Alaska's News Source",
       "pubDate": "Fri, 19 Sep 2025 03:35:00 GMT"
+    },
+    {
+      "title": "Earthquakes Rock Islands in Southern Hemisphere - Newsweek",
+      "pubDate": "Sat, 20 Sep 2025 18:06:43 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2438,14 +2438,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Australia emerges as quantum computing player with role in Microsoft chip - Financial Times",
-      "pubDate": "Sun, 14 Sep 2025 04:00:06 GMT"
-    },
-    {
-      "title": "Rigetti Computing Gets Closer To Crucial Quantum Milestone (Rating Upgrade) - Seeking Alpha",
-      "pubDate": "Sun, 14 Sep 2025 04:57:17 GMT"
-    },
     {
       "title": "Ueno Bank Brings Its 2.2M Customers Quantum-Resistant Banking with SignQuantum and QANplatform - GlobeNewswire",
       "pubDate": "Sun, 14 Sep 2025 09:46:38 GMT"
@@ -2641,6 +2633,10 @@
     {
       "title": "A giant quantum computing center for warfare threatens the cost of living on Chicago\u2019s South Side - Liberation News",
       "pubDate": "Sat, 20 Sep 2025 21:46:39 GMT"
+    },
+    {
+      "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
+      "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2831,6 +2827,10 @@
     {
       "title": "'Farewell picture' of 48 hostages raises alarm as Gaza war rages on; families call for urgent ceasefire | World News - Hindustan Times",
       "pubDate": "Sat, 20 Sep 2025 18:21:11 GMT"
+    },
+    {
+      "title": "U.K. to Formally Recognize Palestinian State on Sunday, Report Says - Haaretz",
+      "pubDate": "Sun, 21 Sep 2025 03:23:00 GMT"
     }
   ],
   "climate_change": [
@@ -3417,10 +3417,6 @@
   ],
   "electric_vehicle": [
     {
-      "title": "'Game-changer' new battery type sees Mercedes EV travel 748 miles on one charge - The Mirror",
-      "pubDate": "Sun, 14 Sep 2025 04:56:00 GMT"
-    },
-    {
       "title": "Volkswagen's EV Battery Dreams Are Coming Together - InsideEVs",
       "pubDate": "Sun, 14 Sep 2025 12:02:24 GMT"
     },
@@ -3499,10 +3495,6 @@
   ],
   "technology": [
     {
-      "title": "AI-controlled drone swarms set to transform combat on battlefield - Financial Times",
-      "pubDate": "Sun, 14 Sep 2025 04:00:15 GMT"
-    },
-    {
       "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
       "pubDate": "Thu, 18 Sep 2025 22:23:04 GMT"
     },
@@ -3513,6 +3505,10 @@
     {
       "title": "Meta Faces Fresh Backlash as Schoolgirl Photos Used in Threads Ads Spark Safety Concerns - International Business Times UK",
       "pubDate": "Sat, 20 Sep 2025 14:00:05 GMT"
+    },
+    {
+      "title": "Amazon releases new profit analytics dashboard for sellers - PPC Land",
+      "pubDate": "Sat, 20 Sep 2025 19:22:07 GMT"
     }
   ],
   "united_states": [
@@ -3823,6 +3819,12 @@
     {
       "title": "Iran tests of 'most advanced missile yet' as president vows: 'They cannot stop us!' - Ynetnews",
       "pubDate": "Sat, 20 Sep 2025 17:25:35 GMT"
+    }
+  ],
+  "cancer": [
+    {
+      "title": "Federal funding cuts to pediatric brain cancer research \u2018taking away hope\u2019 from families - PBS",
+      "pubDate": "Sat, 20 Sep 2025 21:45:48 GMT"
     }
   ]
 }
