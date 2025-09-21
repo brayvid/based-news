@@ -579,13 +579,13 @@
     {
       "title": "Russian military plane entered airspace over Baltic Sea on Sunday, Germany's air force says - Reuters",
       "pubDate": "Sun, 21 Sep 2025 13:41:04 GMT"
+    },
+    {
+      "title": "Why Vladimir Putin Decided to Arrest Evan Gershkovich - Politico",
+      "pubDate": "Sun, 21 Sep 2025 11:00:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "California Assembly introduces law to advance safety of artificial intelligence and public computing power - Nation of Change",
-      "pubDate": "Sun, 14 Sep 2025 14:18:21 GMT"
-    },
     {
       "title": "Google, Meta, Microsoft, OpenAI discuss safe open-source AI use in Seoul - CHOSUNBIZ - Chosun Biz",
       "pubDate": "Mon, 15 Sep 2025 04:00:00 GMT"
@@ -1003,10 +1003,6 @@
       "pubDate": "Sun, 14 Sep 2025 16:23:33 GMT"
     },
     {
-      "title": "AI: Job Killer or Career Catalyst? - Windows Central",
-      "pubDate": "Sun, 14 Sep 2025 14:39:14 GMT"
-    },
-    {
       "title": "OpenAI explains why language models \u2018hallucinate\u2019; evaluation incentives reward guessing over uncertainty - The Economic Times",
       "pubDate": "Sun, 14 Sep 2025 23:32:00 GMT"
     },
@@ -1289,16 +1285,16 @@
     {
       "title": "What jobs will AI replace, and which are safe? - USA Today",
       "pubDate": "Sun, 21 Sep 2025 09:11:41 GMT"
+    },
+    {
+      "title": "Delivering growth and competitiveness - KPMG",
+      "pubDate": "Sun, 21 Sep 2025 05:10:16 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "President Zelensky on the path to peace in Ukraine; Finland\u2019s President on being a bridge between the US and Europe; Russia\u2019s kidnapping of Ukrainian children; A female soldier in a Ukraine tells her story - CNN",
       "pubDate": "Sun, 14 Sep 2025 18:40:16 GMT"
-    },
-    {
-      "title": "US House Republican McCaul, a vocal Ukraine ally, will not seek re-election - Reuters",
-      "pubDate": "Sun, 14 Sep 2025 14:57:34 GMT"
     },
     {
       "title": "Ukraine destroys $40 million Russian Buk air defense system, military intelligence says - The Kyiv Independent",
@@ -2125,6 +2121,10 @@
     {
       "title": "Trump urges US Justice Department to charge his prominent political enemies - France 24",
       "pubDate": "Sun, 21 Sep 2025 06:26:08 GMT"
+    },
+    {
+      "title": "For Erika Kirk, a Husband\u2019s Life Cut Short by Violence He Seemed to Foresee - The New York Times",
+      "pubDate": "Sun, 21 Sep 2025 09:02:38 GMT"
     }
   ],
   "north_korea": [
@@ -2273,6 +2273,10 @@
     {
       "title": "Rising threats push industrial supply chains to adopt real-time monitoring, proactive cybersecurity practices - Industrial Cyber",
       "pubDate": "Sun, 21 Sep 2025 09:25:26 GMT"
+    },
+    {
+      "title": "Cybersecurity Breach Disrupts Major Airports Across Europe: Delays Hit Passengers at Brussels, Heathrow, and Berlin, Affecting Etihad Airways Operations - Travel And Tour World",
+      "pubDate": "Sun, 21 Sep 2025 05:56:47 GMT"
     }
   ],
   "federal_reserve": [
@@ -2446,14 +2450,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "How a European quantum-computing startup plans to take on IBM and Google | Company Business News - Mint",
-      "pubDate": "Sun, 14 Sep 2025 14:31:15 GMT"
-    },
-    {
-      "title": "New Report Recommends Near-Term Strategies for HPC Centers to Prepare for Quantum Integration - The Quantum Insider",
-      "pubDate": "Sun, 14 Sep 2025 14:06:31 GMT"
-    },
     {
       "title": "Quantum Computation Enhances Optical Imaging, Circumventing Signal-to-Noise Limitations In Post-Processing Algorithms - Quantum Zeitgeist",
       "pubDate": "Sun, 14 Sep 2025 17:09:36 GMT"
@@ -2653,6 +2649,10 @@
     {
       "title": "3 Quantum-AI Stocks That Could Be Better Buys Than Traditional Tech Giants - AOL.com",
       "pubDate": "Sun, 21 Sep 2025 10:59:43 GMT"
+    },
+    {
+      "title": "Sampled-based Guided Quantum Walk Solves Binary Combinatorial Optimization Problems Without Classical Optimization - Quantum Zeitgeist",
+      "pubDate": "Sun, 21 Sep 2025 11:57:13 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2855,13 +2855,13 @@
     {
       "title": "Hamas releases 'farewell picture' of Israeli hostages: Report - Deccan Herald",
       "pubDate": "Sun, 21 Sep 2025 06:38:22 GMT"
+    },
+    {
+      "title": "Pope on Gaza: \u2018There is no future based on violence, forced exile, and vengeance' - Vatican News",
+      "pubDate": "Sun, 21 Sep 2025 11:03:39 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Tropical forests are disappearing at a record rate - vijesti.me",
-      "pubDate": "Sun, 14 Sep 2025 14:09:03 GMT"
-    },
     {
       "title": "Aesthetic Meets Activism: How Creative Instagram Posts Spark Climate Conversations - Earth Day",
       "pubDate": "Sun, 14 Sep 2025 21:38:32 GMT"
@@ -3389,6 +3389,10 @@
     {
       "title": "Setting a 'Tech Agenda' for Climate Week - Tech Policy Press",
       "pubDate": "Sun, 21 Sep 2025 13:11:08 GMT"
+    },
+    {
+      "title": "Fighting for our shared future: Evalyn Gates - Cleveland.com",
+      "pubDate": "Sun, 21 Sep 2025 09:11:00 GMT"
     }
   ],
   "world_news": [
@@ -3644,10 +3648,6 @@
     }
   ],
   "openai": [
-    {
-      "title": "OpenAI Realizes It Made a Terrible Mistake - Futurism",
-      "pubDate": "Sun, 14 Sep 2025 14:30:56 GMT"
-    },
     {
       "title": "OpenAI board chair Bret Taylor says we\u2019re in an AI bubble (but that\u2019s okay) - TechCrunch",
       "pubDate": "Sun, 14 Sep 2025 19:33:22 GMT"
