@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel accuses Spanish PM of inciting anti-Israeli protests in Madrid - politico.eu",
-      "pubDate": "Sun, 14 Sep 2025 22:49:45 GMT"
-    },
-    {
       "title": "Israeli hospitals are pushing limits of wartime health care - The Jerusalem Post",
       "pubDate": "Sun, 14 Sep 2025 23:14:57 GMT"
     },
@@ -287,6 +283,10 @@
     {
       "title": "Arab-Israel Normalization Faces Major Test After Qatar Attack - Bloomberg.com",
       "pubDate": "Sun, 21 Sep 2025 06:45:00 GMT"
+    },
+    {
+      "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel\u2019s isolation - CNN",
+      "pubDate": "Sun, 21 Sep 2025 16:03:25 GMT"
     }
   ],
   "donald_trump": [
@@ -1269,6 +1269,10 @@
     {
       "title": "I failed to land an H-1B visa 3 times. My work in AI helped me get an 'Einstein visa' instead. - Business Insider",
       "pubDate": "Sun, 21 Sep 2025 18:23:00 GMT"
+    },
+    {
+      "title": "Nvidia supplier Ibiden to expand IC substrate output amid AI boom - Nikkei Asia",
+      "pubDate": "Sun, 21 Sep 2025 15:58:00 GMT"
     }
   ],
   "ukraine": [
@@ -1619,6 +1623,10 @@
     {
       "title": "Defense Intelligence hits three russian Mi-8 helicopters and Nebo-U radar in occupied Crimea - ukranews.com",
       "pubDate": "Sun, 21 Sep 2025 14:46:00 GMT"
+    },
+    {
+      "title": "Ukrainian and Russian attacks kill 3 civilians as Zelenskyy prepares to meet Trump - AccessWdun",
+      "pubDate": "Sun, 21 Sep 2025 15:00:02 GMT"
     }
   ],
   "us_economy": [
@@ -1640,10 +1648,6 @@
     }
   ],
   "china": [
-    {
-      "title": "FirstFT: Lack of progress on US-China talks cast doubt on Beijing summit - Financial Times",
-      "pubDate": "Sun, 14 Sep 2025 22:02:53 GMT"
-    },
     {
       "title": "China's Military Threats Grow. so Does Taiwan's Civilian Training. - Business Insider",
       "pubDate": "Mon, 15 Sep 2025 00:17:00 GMT"
@@ -2601,6 +2605,10 @@
     {
       "title": "Sampled-based Guided Quantum Walk Solves Binary Combinatorial Optimization Problems Without Classical Optimization - Quantum Zeitgeist",
       "pubDate": "Sun, 21 Sep 2025 11:57:13 GMT"
+    },
+    {
+      "title": "Booz Allen, SEEQC Expand Partnership to Advance Quantum Computing - WashingtonExec",
+      "pubDate": "Sun, 21 Sep 2025 12:22:15 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2795,10 +2803,6 @@
   ],
   "climate_change": [
     {
-      "title": "Mysterious \u2018warm blob\u2019 re-emerges in Pacific Ocean, long term impacts expected - PIX11",
-      "pubDate": "Sun, 14 Sep 2025 22:31:48 GMT"
-    },
-    {
       "title": "Millions of Australians at risk from rising sea levels and heat deaths could soar, landmark climate report warns - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 00:00:00 GMT"
     },
@@ -2825,10 +2829,6 @@
     {
       "title": "Australia Pledges $6 Billion by 2030 to Tackle Climate Hazards as Disaster Risk Rises - Bloomberg.com",
       "pubDate": "Mon, 15 Sep 2025 05:54:00 GMT"
-    },
-    {
-      "title": "Scientific Study Declares Polar Ice Rescue Projects Fundamentally Flawed - eu-policies.com",
-      "pubDate": "Sun, 14 Sep 2025 22:33:50 GMT"
     },
     {
       "title": "China is quietly saving the world from climate change - Noahpinion | Noah Smith",
@@ -3755,6 +3755,12 @@
     {
       "title": "Federal funding cuts to pediatric brain cancer research \u2018taking away hope\u2019 from families - PBS",
       "pubDate": "Sat, 20 Sep 2025 21:45:48 GMT"
+    }
+  ],
+  "energy_storage": [
+    {
+      "title": "BYD doubles Tesla Megapack capacity with record beating ESS that costs a cent per kWh - Notebookcheck",
+      "pubDate": "Sun, 21 Sep 2025 19:05:00 GMT"
     }
   ]
 }

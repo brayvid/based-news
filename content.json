@@ -1,12 +1,52 @@
 {
-  "Economic": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "US Market Outlook: Momentum Gains - The Hindu BusinessLine",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaTBCanZSa2toeGdUOGUtcE9ZcW5MNGVtU3hCSl9KQTFsZlp6WGpadGsxZXFMOTNjUW9vWXdEdUllMnF5cjNDOGw4WEcyVzdjRkR2VVNQSnA5NGVMZk5FQ010dnYyX0VpemZRVkRsckZuS3gtME9nOS11Z2pKXzR6RTYyZEYyTWFVaXQ2TkFZRlJ2b3V5OHFrTWo3ckI5aE5YQnJSOTdFcl9lZnR1VWNKNVlmODdyYXprbEHSAcABQVVfeXFMUDRVYnZaTGRyWEpHSDl6UXJVQUtXakJWVllKa1dlV0U0QjB2TkNUY19wdFp5TnlIMk83cXcwZjQzRENCaEx1ZXYtYi11LWsydDlQd2wtQTB5RjlfZjZtNGIxTnZTamFTMGpxSTVxbkpJM3dIRnpNZVBCYjZNTDFITGljZXBETFJ3eW9QUkkwYmJmcjJQbEp5NEUwVTZhOEdidkRwMFloemROdEMwSXE2QnN4djdfeUNRNDJ6Qk5zcGdO?oc=5",
-        "pubDate": "Sun, 21 Sep 2025 14:03:45 GMT"
+        "title": "Ukrainian and Russian attacks kill 3 civilians as Zelenskyy prepares to meet Trump - AccessWdun",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm11V2xCMEU5WVB0R2ZfY09xSEtYbEJnR0hPOG5jb01QbHNCeEtkSEZjalpfNGE4Z2JTSFNfa0RVaW9CSF9MQXJVeldtUGY5Z3R6NXJ1bFZFb05lbmdMZGdIWUUzUkhfZ1ZCXzllSDMwM1RfQlhGQjFmdEs5TTRpbFBoX2hTdTg?oc=5",
+        "pubDate": "Sun, 21 Sep 2025 15:00:02 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-21T20:59:08.049903+00:00"
+    "last_updated_ts": "2025-09-21T22:59:40.376569+00:00"
+  },
+  "Israel": {
+    "articles": [
+      {
+        "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel\u2019s isolation - CNN",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYk1mYXZOcVdaVnNka05menFOQ3JvSWI3LUc2V2o3cDE1anBlYWJhVWlFTDVzZmNSMlhDUDY4cmlfbW9TZ2l6M2ZCNDhMeDdURncxLTJqd3JVRV9IbC1lV1Jsazg2ckhTb0VhTFpSS3UwY0dLU2g3NFQzdFJkS1FqVVRodHJXZw?oc=5",
+        "pubDate": "Sun, 21 Sep 2025 16:03:25 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-21T22:59:40.376569+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Nvidia supplier Ibiden to expand IC substrate output amid AI boom - Nikkei Asia",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQURvcl85Nk1SYXUwVXowY1g1SUJZVU1hMmdsMEdfOHF4Rk1wNzlmY1g5SW5yYjZBdE9DWHVaWHFjYUlfcldvU0xPVm1hbkFJVjNTUnE2MEl0Vk9zYVVXblNidlhjaHhkS2VRQU1pQ0VGYkdjN1BZclZmS2Q4MFdUZG5XX1l0U2hadEJERWJGVGNheUkyYkRRNjNKdTNSamc1eHpGT2FKLVJvbmkyVlhwNm13T011MHpVTldzcEgwQU5uX3FiQ1pqYmhnRjRldw?oc=5",
+        "pubDate": "Sun, 21 Sep 2025 15:58:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-21T22:59:40.376569+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Booz Allen, SEEQC Expand Partnership to Advance Quantum Computing - WashingtonExec",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZm4xbU14NmdfQkJUTl9qcHdqazBpdU1hVVo1R2hLbkpoakxKaDVVY3JuMld6VE1FMGRGV0JmZEU3RlBYWWZyb3RBaDNCUmtBR1hpMXZoNUY1cl9EUUNFeXpOMS0yQklibUkwQWtLakVDTWk1dWNhc0JfNm1JWjJabWU5cFZiX3BweHFBZzZZMkRoTzdIVm0xejJKWGhHbVhDX2c?oc=5",
+        "pubDate": "Sun, 21 Sep 2025 12:22:15 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-21T22:59:40.376569+00:00"
+  },
+  "Energy Storage": {
+    "articles": [
+      {
+        "title": "BYD doubles Tesla Megapack capacity with record beating ESS that costs a cent per kWh - Notebookcheck",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalJaNmtfNDdYdkE0UzIySV91UXkwSlBvenR5Q1BLcVdJU2Zmc1p3T2MxSW5kUHJTRTMybkQ4emZnMGtWTzctaVNJV21fQndrajVPaVFZOFNQdGhNUHl0VEZCaXBSOGlPaHphRG5iM1ZOTURONjlIRHQ4b2xJb3U3RVhfNWdjaGZXdlZSVTQ5MU5KMUhUZzBBd1M4Y1RmMVI0aW9hczVlN2txMEhYb2lsa1VGSk5xT1BrcVk0RHJRUUY0YlpxMlNIaWpR?oc=5",
+        "pubDate": "Sun, 21 Sep 2025 19:05:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-21T22:59:40.376569+00:00"
   }
 }
