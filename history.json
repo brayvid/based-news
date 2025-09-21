@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "How to burst the Israeli bubble | Noam Sheizaf - The Guardian",
-      "pubDate": "Sun, 14 Sep 2025 13:00:00 GMT"
-    },
-    {
-      "title": "Israeli airstrike levels Gaza tower as civilian death toll rises - Vatican News",
-      "pubDate": "Sun, 14 Sep 2025 13:29:08 GMT"
-    },
-    {
       "title": "Southern Lebanon residents describe hardships under Israeli military occupation - PBS",
       "pubDate": "Sun, 14 Sep 2025 21:45:35 GMT"
     },
@@ -583,6 +575,10 @@
     {
       "title": "Russia is testing Nato \u2014 could the West shoot down the next jet? - The Times",
       "pubDate": "Sat, 20 Sep 2025 21:30:00 GMT"
+    },
+    {
+      "title": "Russian military plane entered airspace over Baltic Sea on Sunday, Germany's air force says - Reuters",
+      "pubDate": "Sun, 21 Sep 2025 13:41:04 GMT"
     }
   ],
   "ai_safety": [
@@ -991,6 +987,10 @@
     {
       "title": "US stock market closing levels: Can't stop, won't stop - investingLive",
       "pubDate": "Sat, 20 Sep 2025 09:37:13 GMT"
+    },
+    {
+      "title": "Wall St Week Ahead US housing shares shine as Fed restarts rate cuts - Reuters",
+      "pubDate": "Sun, 21 Sep 2025 12:59:51 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1001,10 +1001,6 @@
     {
       "title": "Google faces its first AI Overviews lawsuit from a major US publisher - Engadget",
       "pubDate": "Sun, 14 Sep 2025 16:23:33 GMT"
-    },
-    {
-      "title": "Hunger strikers in SF and London are calling for an end to AI. We Facetimed two of them - The San Francisco Standard",
-      "pubDate": "Sun, 14 Sep 2025 13:00:00 GMT"
     },
     {
       "title": "AI: Job Killer or Career Catalyst? - Windows Central",
@@ -1289,13 +1285,13 @@
     {
       "title": "Contributor: The internet made us stupid. AI promises to make it worse - Los Angeles Times",
       "pubDate": "Sun, 21 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "What jobs will AI replace, and which are safe? - USA Today",
+      "pubDate": "Sun, 21 Sep 2025 09:11:41 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile - Al Jazeera",
-      "pubDate": "Sun, 14 Sep 2025 13:47:01 GMT"
-    },
     {
       "title": "President Zelensky on the path to peace in Ukraine; Finland\u2019s President on being a bridge between the US and Europe; Russia\u2019s kidnapping of Ukrainian children; A female soldier in a Ukraine tells her story - CNN",
       "pubDate": "Sun, 14 Sep 2025 18:40:16 GMT"
@@ -1643,6 +1639,10 @@
     {
       "title": "Ukraine has a massive new sea drone, could threaten Russia's Crimean Bridge - The Kyiv Independent",
       "pubDate": "Sun, 21 Sep 2025 09:43:07 GMT"
+    },
+    {
+      "title": "Ukraine analysis finds N. Korean migrant workers entering Russian military - Japan Wire by KYODO NEWS",
+      "pubDate": "Sun, 21 Sep 2025 12:04:00 GMT"
     }
   ],
   "us_economy": [
@@ -2121,6 +2121,10 @@
     {
       "title": "CEOs Have So Much Faith in AI, They\u2019re Ignoring Everything Else - Bloomberg.com",
       "pubDate": "Sun, 21 Sep 2025 12:00:29 GMT"
+    },
+    {
+      "title": "Trump urges US Justice Department to charge his prominent political enemies - France 24",
+      "pubDate": "Sun, 21 Sep 2025 06:26:08 GMT"
     }
   ],
   "north_korea": [
@@ -2384,10 +2388,6 @@
     }
   ],
   "fusion_power": [
-    {
-      "title": "\"China's Artificial Sun Burns at 180 Million Degrees\": EAST Reactor Maintains Nuclear Fusion for Record-Breaking 1,066 Seconds - Energy Reporters",
-      "pubDate": "Sun, 14 Sep 2025 13:55:00 GMT"
-    },
     {
       "title": "France sets new world record by keeping a fusion reactor running for 22 minutes - Earth.com",
       "pubDate": "Mon, 15 Sep 2025 15:52:37 GMT"
@@ -2851,20 +2851,16 @@
     {
       "title": "U.K. to Formally Recognize Palestinian State on Sunday, Report Says - Haaretz",
       "pubDate": "Sun, 21 Sep 2025 03:23:00 GMT"
+    },
+    {
+      "title": "Hamas releases 'farewell picture' of Israeli hostages: Report - Deccan Herald",
+      "pubDate": "Sun, 21 Sep 2025 06:38:22 GMT"
     }
   ],
   "climate_change": [
     {
-      "title": "Our broken planning system for renewable energy developments - Nation.Cymru",
-      "pubDate": "Sun, 14 Sep 2025 13:39:14 GMT"
-    },
-    {
       "title": "Tropical forests are disappearing at a record rate - vijesti.me",
       "pubDate": "Sun, 14 Sep 2025 14:09:03 GMT"
-    },
-    {
-      "title": "Oregon mass layoffs approach Great Recession levels - OregonLive.com",
-      "pubDate": "Sun, 14 Sep 2025 13:50:00 GMT"
     },
     {
       "title": "Aesthetic Meets Activism: How Creative Instagram Posts Spark Climate Conversations - Earth Day",
@@ -3389,6 +3385,10 @@
     {
       "title": "Space Lasers Reveal a 30-Year Secret About Our Rising Oceans - SciTechDaily",
       "pubDate": "Sun, 21 Sep 2025 10:58:20 GMT"
+    },
+    {
+      "title": "Setting a 'Tech Agenda' for Climate Week - Tech Policy Press",
+      "pubDate": "Sun, 21 Sep 2025 13:11:08 GMT"
     }
   ],
   "world_news": [
@@ -3432,10 +3432,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Trump policies will cause \u2018substantial\u2019 drop in EV sales, forecast says - The Seattle Times",
-      "pubDate": "Sun, 14 Sep 2025 13:00:08 GMT"
-    },
     {
       "title": "Toyota\u2019s First American-Made Battery Electric Vehicles Will Be Built in Kentucky - Yahoo! Autos",
       "pubDate": "Sun, 14 Sep 2025 15:10:48 GMT"
@@ -3642,10 +3638,6 @@
     }
   ],
   "quantum_mechanics": [
-    {
-      "title": "Physicists just found a way to make \u201csomething from nothing\u201d - ScienceDaily",
-      "pubDate": "Sun, 14 Sep 2025 13:47:50 GMT"
-    },
     {
       "title": "AI-Powered Method Accelerates Analysis of Atomic Interactions in Materials - AZoQuantum",
       "pubDate": "Wed, 17 Sep 2025 12:36:00 GMT"
