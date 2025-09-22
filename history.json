@@ -1,20 +1,12 @@
 {
   "israel": [
     {
-      "title": "Israel detains dozens of Palestinian men in West Bank - NBC News",
-      "pubDate": "Mon, 15 Sep 2025 12:44:19 GMT"
-    },
-    {
       "title": "Israel threatens Hamas 'wherever they are' as Qatar hosts summit - Reuters",
       "pubDate": "Mon, 15 Sep 2025 14:07:53 GMT"
     },
     {
       "title": "Israel links crypto wallets that received $1.5 billion to Iran\u2019s Revolutionary Guard - Elliptic",
       "pubDate": "Mon, 15 Sep 2025 14:03:59 GMT"
-    },
-    {
-      "title": "Israel will face more rounds of fighting against Iran, warns Defense Ministry director - The Times of Israel",
-      "pubDate": "Mon, 15 Sep 2025 12:56:15 GMT"
     },
     {
       "title": "Rubio says Netanyahu has full support of US over plans to destroy Hamas - The Guardian",
@@ -579,20 +571,12 @@
   ],
   "ai_safety": [
     {
-      "title": "New McAfee Kids Online Safety Research Finds Cyberbullying and AI Manipulated Content Top Parents\u2019 Concerns - Business Wire",
-      "pubDate": "Mon, 15 Sep 2025 13:00:00 GMT"
-    },
-    {
       "title": "Artificial intelligence models need psychiatric safety testing to reduce risk of AI psychosis. - Psychology Today",
       "pubDate": "Mon, 15 Sep 2025 16:25:00 GMT"
     },
     {
       "title": "California Wraps Up Legislative Session With AI, Chatbot Measures Under Consideration - CCIA",
       "pubDate": "Mon, 15 Sep 2025 17:14:15 GMT"
-    },
-    {
-      "title": "Utah aims to be at forefront of AI technology, with emphasis on safety - KSL.com",
-      "pubDate": "Mon, 15 Sep 2025 12:18:53 GMT"
     },
     {
       "title": "World Shipping Council Wants to Use AI to Better Cargo Safety - Sourcing Journal",
@@ -885,6 +869,10 @@
     {
       "title": "Almost 40% of UK Public Sees AI as an Economic Threat - digit.fyi",
       "pubDate": "Mon, 22 Sep 2025 10:59:07 GMT"
+    },
+    {
+      "title": "Elon Musk led xAI Grok chatbot flagged for NSFW content, workers warn of CSAM risks - India Today",
+      "pubDate": "Mon, 22 Sep 2025 12:38:44 GMT"
     }
   ],
   "financial_markets": [
@@ -1289,20 +1277,12 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine's front line regains Starlink internet after a brief global outage that paused some drone flights - Business Insider",
-      "pubDate": "Mon, 15 Sep 2025 12:24:00 GMT"
-    },
-    {
       "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
       "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
     },
     {
       "title": "Ukraine Military Shake-Up: Top Officers Sacked After Frontline Losses - Deccan Herald",
       "pubDate": "Mon, 15 Sep 2025 18:41:59 GMT"
-    },
-    {
-      "title": "How Ukraine and Gaza scrambled the ideological map - Financial Times",
-      "pubDate": "Mon, 15 Sep 2025 12:21:16 GMT"
     },
     {
       "title": "Trump is moving away from aiding Ukraine - Al Jazeera",
@@ -1643,6 +1623,10 @@
     {
       "title": "Russian 'Tracked Terminator' Destroyed in Ukraine, Kyiv Says - Newsweek",
       "pubDate": "Mon, 22 Sep 2025 10:28:23 GMT"
+    },
+    {
+      "title": "I fled Ukraine and rebuilt my life in Georgia. Now my legal status is at risk. - AJC.com",
+      "pubDate": "Mon, 22 Sep 2025 10:31:58 GMT"
     }
   ],
   "us_economy": [
@@ -1664,10 +1648,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US says it will press ahead with TikTok ban if China doesn't drop tariff, tech demands - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 12:14:51 GMT"
-    },
     {
       "title": "US Challenges China With New Typhon Missile System in Japan - Newsweek",
       "pubDate": "Mon, 15 Sep 2025 14:32:32 GMT"
@@ -2078,10 +2058,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Closing the Cybersecurity Comms Gap - IBM",
-      "pubDate": "Mon, 15 Sep 2025 12:29:40 GMT"
-    },
     {
       "title": "CISA audit sparks debate about cybersecurity pay incentives - Cybersecurity Dive",
       "pubDate": "Mon, 15 Sep 2025 16:03:13 GMT"
@@ -2585,6 +2561,10 @@
     {
       "title": "Why the U.S.-U.K. Quantum Computing Pact Is Vital for the Nascent Technology - Barron's",
       "pubDate": "Mon, 22 Sep 2025 05:00:00 GMT"
+    },
+    {
+      "title": "$500M Private Placement: Quantum Computing Inc Attracts Major Asset Manager, Boosts Cash to $850M Total - Stock Titan",
+      "pubDate": "Mon, 22 Sep 2025 02:57:15 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2683,10 +2663,6 @@
     {
       "title": "LIVE: Qatar\u2019s emir says Israeli \u2018aggression blatant, treacherous, cowardly\u2019 - Al Jazeera",
       "pubDate": "Mon, 15 Sep 2025 13:20:17 GMT"
-    },
-    {
-      "title": "More than 10% of Gaza\u2019s population has been killed or injured, former Israeli military chief says - CNN",
-      "pubDate": "Mon, 15 Sep 2025 12:30:03 GMT"
     },
     {
       "title": "Israeli military launches ground offensive to occupy Gaza City, Axios reports - Reuters",
@@ -3305,6 +3281,10 @@
     {
       "title": "Meta Put a Climate Change Denier in Charge of Fighting AI Bias - DeSmog",
       "pubDate": "Mon, 22 Sep 2025 11:29:00 GMT"
+    },
+    {
+      "title": "\u2018Net Zero cannot be our hero\u2019: Why climate activists question Net Zero 2050-70 carbon emissions goal and whether \u2018real zero\u2019 is possible as climate change continues to wreck havoc - The Indian Express",
+      "pubDate": "Mon, 22 Sep 2025 11:58:41 GMT"
     }
   ],
   "world_news": [
@@ -3329,10 +3309,6 @@
     {
       "title": "South Africa Wants BRICS To Become a Global Naval Force - Foundation for Defense of Democracies",
       "pubDate": "Mon, 15 Sep 2025 14:07:40 GMT"
-    },
-    {
-      "title": "Geopolitics Weekly (US-Venezuela Relations, France Debt Downgrade, Nepal Protests) - Geopolitical Monitor",
-      "pubDate": "Mon, 15 Sep 2025 12:46:02 GMT"
     },
     {
       "title": "Why the West looks small when India and BRICS pull together - The Economic Times",
