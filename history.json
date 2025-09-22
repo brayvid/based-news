@@ -275,6 +275,10 @@
     {
       "title": "Israel eyes partial West Bank annexation after Palestine recognition, awaits U.S. backing - Haaretz",
       "pubDate": "Sun, 21 Sep 2025 18:42:00 GMT"
+    },
+    {
+      "title": "Five killed in Israeli strike on Lebanon, but claim some were US citizens is being disputed - CNN",
+      "pubDate": "Sun, 21 Sep 2025 22:42:01 GMT"
     }
   ],
   "donald_trump": [
@@ -384,10 +388,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "\"Attempts To Harm Ties With India Will Fail\": Russia Amid Trump's Tariffs - NDTV",
-      "pubDate": "Mon, 15 Sep 2025 05:03:41 GMT"
-    },
     {
       "title": "US military officers observe Russia-Belarus war games as Trump gets closer to Minsk - Reuters",
       "pubDate": "Mon, 15 Sep 2025 17:04:08 GMT"
@@ -1289,6 +1289,10 @@
     {
       "title": "Meta AI Proposes \u2018Metacognitive Reuse\u2019: Turning LLM Chains-of-Thought into a Procedural Handbook that Cuts Tokens by 46% - MarkTechPost",
       "pubDate": "Mon, 22 Sep 2025 00:39:53 GMT"
+    },
+    {
+      "title": "New Breakthrough in Large Model Training: Meta Proposes LSP for Dramatic Capability Improvement Without Data - 36Kr",
+      "pubDate": "Mon, 22 Sep 2025 02:14:45 GMT"
     }
   ],
   "ukraine": [
@@ -1677,10 +1681,6 @@
   ],
   "china": [
     {
-      "title": "China's home prices extend decline, more policy support needed - MSN",
-      "pubDate": "Mon, 15 Sep 2025 05:40:13 GMT"
-    },
-    {
       "title": "China says Nvidia violated anti-monopoly law as probe to continue - CNBC",
       "pubDate": "Mon, 15 Sep 2025 08:25:45 GMT"
     },
@@ -1774,10 +1774,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump intensifies crackdown on Washington, DC, threatens national emergency over ICE cooperaton - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 05:20:00 GMT"
-    },
     {
       "title": "Trump vows tough action after beheading of Indian motel manager in Dallas - BBC",
       "pubDate": "Mon, 15 Sep 2025 06:39:33 GMT"
@@ -2637,6 +2633,10 @@
     {
       "title": "High-dimensional Topological Photonic Entanglement Achieves Resilience with up to Five Entangled Modes - Quantum Zeitgeist",
       "pubDate": "Sun, 21 Sep 2025 23:57:45 GMT"
+    },
+    {
+      "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement of Common Stock Priced at the Market Under Nasdaq Rules - PR Newswire",
+      "pubDate": "Mon, 22 Sep 2025 02:55:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2838,14 +2838,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Climate change is causing ever more disruption. Can Australia\u2019s new adaptation plan help? - The Conversation",
-      "pubDate": "Mon, 15 Sep 2025 05:33:49 GMT"
-    },
-    {
-      "title": "Australia Pledges $6 Billion by 2030 to Tackle Climate Hazards as Disaster Risk Rises - Bloomberg.com",
-      "pubDate": "Mon, 15 Sep 2025 05:54:00 GMT"
-    },
     {
       "title": "China is quietly saving the world from climate change - Noahpinion | Noah Smith",
       "pubDate": "Mon, 15 Sep 2025 09:07:26 GMT"
@@ -3361,6 +3353,10 @@
     {
       "title": "Top Fossil Fuel Producing Nations Plan to Blow Past Climate Targets - Inside Climate News",
       "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
+    },
+    {
+      "title": "The warped economics of insuring climate destruction - Financial Times",
+      "pubDate": "Mon, 22 Sep 2025 04:00:53 GMT"
     }
   ],
   "world_news": [
@@ -3757,6 +3753,10 @@
     {
       "title": "US Market Outlook: Momentum Gains - The Hindu BusinessLine",
       "pubDate": "Sun, 21 Sep 2025 14:03:45 GMT"
+    },
+    {
+      "title": "BlackRock CEO Warns US Economy at Risk of \u201cCollapse\u201d Without Growth Surge - Sri Lanka Guardian",
+      "pubDate": "Mon, 22 Sep 2025 03:39:45 GMT"
     }
   ],
   "world_economy": [
@@ -3809,6 +3809,10 @@
     {
       "title": "Trump news at a glance: president calls Charlie Kirk a \u2018martyr\u2019 at memorial - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 00:49:34 GMT"
+    },
+    {
+      "title": "Trump reveals autism announcement during Charlie Kirk memorial: 'We found an answer' - USA Today",
+      "pubDate": "Mon, 22 Sep 2025 02:15:00 GMT"
     }
   ]
 }
