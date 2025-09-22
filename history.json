@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel threatens Hamas 'wherever they are' as Qatar hosts summit - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 14:07:53 GMT"
-    },
-    {
-      "title": "Israel links crypto wallets that received $1.5 billion to Iran\u2019s Revolutionary Guard - Elliptic",
-      "pubDate": "Mon, 15 Sep 2025 14:03:59 GMT"
-    },
-    {
       "title": "Rubio says Netanyahu has full support of US over plans to destroy Hamas - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 20:03:00 GMT"
     },
@@ -271,6 +263,10 @@
     {
       "title": "U.S. and Israel against the world as Palestine dominates UN week - Axios",
       "pubDate": "Mon, 22 Sep 2025 09:06:12 GMT"
+    },
+    {
+      "title": "Israel to demolish homes of Palestinians who killed six in Jerusalem bus stop attack - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 14:51:16 GMT"
     }
   ],
   "donald_trump": [
@@ -873,13 +869,13 @@
     {
       "title": "Google AI risk document spotlights risk of models resisting shutdown - Axios",
       "pubDate": "Mon, 22 Sep 2025 13:00:48 GMT"
+    },
+    {
+      "title": "Strengthening our Frontier Safety Framework - Google DeepMind",
+      "pubDate": "Mon, 22 Sep 2025 13:25:43 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "BIS warns of mounting disconnect between debt and stock markets - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 14:31:43 GMT"
-    },
     {
       "title": "JPMorgan\u2019s Kelly Warns Fed Cuts Risk Hurting Stocks and Bonds - Bloomberg.com",
       "pubDate": "Mon, 15 Sep 2025 17:24:31 GMT"
@@ -1631,6 +1627,10 @@
     {
       "title": "Zelensky Issues Tragic Update After Latest Russia Strike - Newsweek",
       "pubDate": "Mon, 22 Sep 2025 07:14:12 GMT"
+    },
+    {
+      "title": "Zaporizhzhia suffers 5 enemy strikes, infrastructure and industrial facilities damaged - Ukrinform",
+      "pubDate": "Mon, 22 Sep 2025 04:10:00 GMT"
     }
   ],
   "us_economy": [
@@ -1652,10 +1652,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US Challenges China With New Typhon Missile System in Japan - Newsweek",
-      "pubDate": "Mon, 15 Sep 2025 14:32:32 GMT"
-    },
     {
       "title": "The return of our China column - The Economist",
       "pubDate": "Mon, 15 Sep 2025 20:22:54 GMT"
@@ -1734,10 +1730,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "'Something Dark Might Be Coming': Senator Rebukes Right's Weaponization of Kirk Murder to 'Destroy Dissent' - Common Dreams",
-      "pubDate": "Mon, 15 Sep 2025 14:56:23 GMT"
-    },
     {
       "title": "US military kills 3 in second deadly strike against \u2018narcoterrorists\u2019 in international waters, Trump says - CNN",
       "pubDate": "Mon, 15 Sep 2025 20:19:42 GMT"
@@ -2049,6 +2041,10 @@
     {
       "title": "Trump's new visa policy inspires mostly sour response from tech firms - Reuters",
       "pubDate": "Mon, 22 Sep 2025 13:14:34 GMT"
+    },
+    {
+      "title": "After Charlie Kirk's murder, some Republicans talk revival as others seek retribution - NPR",
+      "pubDate": "Mon, 22 Sep 2025 09:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -2271,6 +2267,10 @@
     {
       "title": "Crypto suffers \u00a31bn slump as \u2018Trump bump\u2019 fades - The Telegraph",
       "pubDate": "Mon, 22 Sep 2025 12:45:00 GMT"
+    },
+    {
+      "title": "Bitcoin, Ethereum, and XRP Tumble. Why Cryptos Are Slumping Today. - Barron's",
+      "pubDate": "Mon, 22 Sep 2025 10:34:00 GMT"
     }
   ],
   "data_breach": [
@@ -2371,24 +2371,12 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Motion delivers silicon CMOS-based quantum computer to UK\u2019s National Quantum Computing Centre - Data Center Dynamics",
-      "pubDate": "Mon, 15 Sep 2025 14:42:15 GMT"
-    },
-    {
       "title": "EuroHPC JU Launches Procurement for Quantum Computer in the Netherlands - HPCwire",
       "pubDate": "Mon, 15 Sep 2025 15:16:43 GMT"
     },
     {
-      "title": "Building software for quantum-centric supercomputing - IBM Research",
-      "pubDate": "Mon, 15 Sep 2025 14:31:44 GMT"
-    },
-    {
       "title": "NERSC/LBNL Report Delivers Deep Dive into Quantum Computing - HPCwire",
       "pubDate": "Mon, 15 Sep 2025 16:07:03 GMT"
-    },
-    {
-      "title": "Building a quantum workforce - MIT Sloan",
-      "pubDate": "Mon, 15 Sep 2025 15:00:00 GMT"
     },
     {
       "title": "Quantum Computing News: IonQ Cleared for UK Deal, PsiQuantum\u2019s $1 Billion Raise, Nvidia and IBM Advance - TipRanks",
@@ -2573,6 +2561,10 @@
     {
       "title": "$500M Private Placement: Quantum Computing Inc Attracts Major Asset Manager, Boosts Cash to $850M Total - Stock Titan",
       "pubDate": "Mon, 22 Sep 2025 02:57:15 GMT"
+    },
+    {
+      "title": "New tool makes generative AI models more likely to create breakthrough materials - MIT News",
+      "pubDate": "Mon, 22 Sep 2025 09:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2778,10 +2770,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Trump agencies halt environmental, health projects in Black communities - The Washington Post",
-      "pubDate": "Mon, 15 Sep 2025 14:31:59 GMT"
-    },
     {
       "title": "How Climate Scientists Saw the Future Before It Arrived - Quanta Magazine",
       "pubDate": "Mon, 15 Sep 2025 15:18:23 GMT"
@@ -3318,10 +3306,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "South Africa Wants BRICS To Become a Global Naval Force - Foundation for Defense of Democracies",
-      "pubDate": "Mon, 15 Sep 2025 14:07:40 GMT"
-    },
     {
       "title": "Why the West looks small when India and BRICS pull together - The Economic Times",
       "pubDate": "Tue, 16 Sep 2025 05:07:43 GMT"
