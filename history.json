@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "In the Middle East, can old enemies make good neighbors? - The Christian Science Monitor",
-      "pubDate": "Mon, 15 Sep 2025 09:15:00 GMT"
-    },
-    {
       "title": "Israel detains dozens of Palestinian men in West Bank - NBC News",
       "pubDate": "Mon, 15 Sep 2025 12:44:19 GMT"
     },
@@ -282,10 +278,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "New poll reveals warning signs for Trump with Latino voters - Politico",
-      "pubDate": "Mon, 15 Sep 2025 09:45:00 GMT"
-    },
     {
       "title": "Trump suggests TikTok deal, will talk to China's Xi on Friday - Axios",
       "pubDate": "Mon, 15 Sep 2025 13:30:14 GMT"
@@ -578,10 +570,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Is Google Gemini Nano Banana AI tool safe: Privacy, watermarks and other safety concerns that experts war - Times of India",
-      "pubDate": "Mon, 15 Sep 2025 09:04:00 GMT"
-    },
     {
       "title": "Jobsite risk is rising. It's time to benchmark AI-powered worker safety tools - healthsafetyconstruction-now.com",
       "pubDate": "Mon, 15 Sep 2025 10:58:17 GMT"
@@ -885,6 +873,10 @@
     {
       "title": "Law for Large-Scale AI Risk: FAQ on AI Safety Law - Harvard Law School",
       "pubDate": "Mon, 22 Sep 2025 04:39:43 GMT"
+    },
+    {
+      "title": "Korea companies establish AI red teams to hunt vulnerabilities and harden systems - CHOSUNBIZ - Chosun Biz",
+      "pubDate": "Mon, 22 Sep 2025 07:18:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1285,17 +1277,13 @@
     {
       "title": "The \u2018Machine Bullshit\u2019 Problem: Why AI Lies and How to Stop It - Unite.AI",
       "pubDate": "Mon, 22 Sep 2025 04:24:28 GMT"
+    },
+    {
+      "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
+      "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "US drone dilemma: Why the most advanced military in the world is playing catchup on the modern battlefield - CNN",
-      "pubDate": "Mon, 15 Sep 2025 09:00:05 GMT"
-    },
-    {
-      "title": "Cluster munitions cause more than 1,200 civilian casualties in Ukraine war, global monitor says - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 09:52:14 GMT"
-    },
     {
       "title": "Inside the Deadly Game of Drone Warfare - The Atlantic",
       "pubDate": "Mon, 15 Sep 2025 11:30:00 GMT"
@@ -1673,14 +1661,6 @@
   ],
   "china": [
     {
-      "title": "Charges dropped against two men accused of spying for China - BBC",
-      "pubDate": "Mon, 15 Sep 2025 09:59:36 GMT"
-    },
-    {
-      "title": "Exclusive: US Democrats press Trump for a trade deal that curbs China's production - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 09:40:06 GMT"
-    },
-    {
       "title": "US says it will press ahead with TikTok ban if China doesn't drop tariff, tech demands - Reuters",
       "pubDate": "Mon, 15 Sep 2025 12:14:51 GMT"
     },
@@ -1771,16 +1751,8 @@
   ],
   "us_politics": [
     {
-      "title": "'We feel like we're in the late '60s': Violence reminder of turbulent era in US politics - The Palm Beach Post",
-      "pubDate": "Mon, 15 Sep 2025 09:07:04 GMT"
-    },
-    {
       "title": "The art of the fawn: pouring praise on Trump is latest political phenomenon - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 10:04:00 GMT"
-    },
-    {
-      "title": "The Corporate Power Reset That Makes Citizens United Irrelevant - Center for American Progress",
-      "pubDate": "Mon, 15 Sep 2025 09:02:42 GMT"
     },
     {
       "title": "Democrats activate weeklong voter drive to offset critical registration losses - The Guardian",
@@ -1789,10 +1761,6 @@
     {
       "title": "Trump renews calls for ending quarterly reports for companies - Reuters",
       "pubDate": "Mon, 15 Sep 2025 13:42:17 GMT"
-    },
-    {
-      "title": "A record number of congressional lawmakers aren't running for reelection in 2026. Here's the list - NPR",
-      "pubDate": "Mon, 15 Sep 2025 09:00:00 GMT"
     },
     {
       "title": "'Something Dark Might Be Coming': Senator Rebukes Right's Weaponization of Kirk Murder to 'Destroy Dissent' - Common Dreams",
@@ -2253,6 +2221,10 @@
     {
       "title": "European airports struggle to fix check-in glitch after cyberattack - Reuters",
       "pubDate": "Sun, 21 Sep 2025 14:57:10 GMT"
+    },
+    {
+      "title": "EU agency says cyberattack behind airport disruptions - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 08:54:40 GMT"
     }
   ],
   "federal_reserve": [
@@ -2319,6 +2291,10 @@
     {
       "title": "BitGo Files for IPO With $4.2B in H1 2025 Revenue, $90B in Crypto on Platform - CoinDesk",
       "pubDate": "Sat, 20 Sep 2025 14:26:15 GMT"
+    },
+    {
+      "title": "Sudden $200 Billion Crypto Sell-Off Sparks Fresh Bitcoin Price Crash Fears - Forbes",
+      "pubDate": "Mon, 22 Sep 2025 08:45:36 GMT"
     }
   ],
   "data_breach": [
@@ -2414,10 +2390,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Huge milestone achieved in mass-production of quantum computers - UKTN",
-      "pubDate": "Mon, 15 Sep 2025 09:53:26 GMT"
-    },
     {
       "title": "Quantum Motion delivers silicon CMOS-based quantum computer to UK\u2019s National Quantum Computing Centre - Data Center Dynamics",
       "pubDate": "Mon, 15 Sep 2025 14:42:15 GMT"
@@ -2625,10 +2597,6 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI Ramps Up Robotics Work in Race Toward AGI - WIRED",
-      "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
-    },
-    {
       "title": "Dyna Robotics Raises $120 Million to Advance Robotic Foundation Models on the Path to Physical Artificial General Intelligence - PR Newswire",
       "pubDate": "Mon, 15 Sep 2025 21:00:00 GMT"
     },
@@ -2713,6 +2681,10 @@
     {
       "title": "Pentagon steps up media restrictions, requiring approval before reporting even unclassified info - Los Angeles Times",
       "pubDate": "Mon, 22 Sep 2025 02:32:00 GMT"
+    },
+    {
+      "title": "Pentagon imposes new rules on reporters amid criticism by media groups - nhk.or.jp",
+      "pubDate": "Mon, 22 Sep 2025 08:48:25 GMT"
     }
   ],
   "gaza": [
@@ -2830,14 +2802,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "China is quietly saving the world from climate change - Noahpinion | Noah Smith",
-      "pubDate": "Mon, 15 Sep 2025 09:07:26 GMT"
-    },
-    {
-      "title": "California will fare better than other states as Trump guts climate reporting rules - Los Angeles Times",
-      "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT"
-    },
     {
       "title": "Climate change fuels interest in technology once considered \"science fiction\" - Axios",
       "pubDate": "Mon, 15 Sep 2025 11:35:32 GMT"
@@ -3353,6 +3317,10 @@
     {
       "title": "The Top Polluting Nations Are Revising Their Emissions Targets. Is It Enough? - Bloomberg.com",
       "pubDate": "Mon, 22 Sep 2025 08:30:27 GMT"
+    },
+    {
+      "title": "Utilities are doing even worse on climate than they were five years ago - Canary Media",
+      "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
     }
   ],
   "world_news": [
@@ -3389,6 +3357,10 @@
     {
       "title": "How GCs Can Help Build A Geopolitical Command Center - FTI Consulting",
       "pubDate": "Fri, 19 Sep 2025 11:24:39 GMT"
+    },
+    {
+      "title": "Revealed: Putin\u2019s Secret Plan to Hack Moldova\u2019s Pivotal Election - Bloomberg.com",
+      "pubDate": "Mon, 22 Sep 2025 04:00:00 GMT"
     }
   ],
   "electric_vehicle": [
