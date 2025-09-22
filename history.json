@@ -275,10 +275,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump suggests TikTok deal, will talk to China's Xi on Friday - Axios",
-      "pubDate": "Mon, 15 Sep 2025 13:30:14 GMT"
-    },
-    {
       "title": "Trump to arrive in Britain as the two nations line up deals worth $10 billion - Reuters",
       "pubDate": "Tue, 16 Sep 2025 15:07:46 GMT"
     },
@@ -873,13 +869,13 @@
     {
       "title": "Elon Musk led xAI Grok chatbot flagged for NSFW content, workers warn of CSAM risks - India Today",
       "pubDate": "Mon, 22 Sep 2025 12:38:44 GMT"
+    },
+    {
+      "title": "Google AI risk document spotlights risk of models resisting shutdown - Axios",
+      "pubDate": "Mon, 22 Sep 2025 13:00:48 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "US Stocks Advance as Traders Await Highly-Anticipated Rate Cut - Bloomberg.com",
-      "pubDate": "Mon, 15 Sep 2025 13:40:31 GMT"
-    },
     {
       "title": "BIS warns of mounting disconnect between debt and stock markets - Reuters",
       "pubDate": "Mon, 15 Sep 2025 14:31:43 GMT"
@@ -1273,6 +1269,10 @@
     {
       "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
       "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
+    },
+    {
+      "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
+      "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
     }
   ],
   "ukraine": [
@@ -1627,6 +1627,10 @@
     {
       "title": "I fled Ukraine and rebuilt my life in Georgia. Now my legal status is at risk. - AJC.com",
       "pubDate": "Mon, 22 Sep 2025 10:31:58 GMT"
+    },
+    {
+      "title": "Zelensky Issues Tragic Update After Latest Russia Strike - Newsweek",
+      "pubDate": "Mon, 22 Sep 2025 07:14:12 GMT"
     }
   ],
   "us_economy": [
@@ -1730,10 +1734,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump renews calls for ending quarterly reports for companies - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 13:42:17 GMT"
-    },
     {
       "title": "'Something Dark Might Be Coming': Senator Rebukes Right's Weaponization of Kirk Murder to 'Destroy Dissent' - Common Dreams",
       "pubDate": "Mon, 15 Sep 2025 14:56:23 GMT"
@@ -2045,6 +2045,10 @@
     {
       "title": "Erika Kirk heart-wrenchingly \u2018forgives\u2019 Charlie\u2019s killer before Trump declares \u2018hate\u2019 for foes in politics-laden eulogy - The Independent",
       "pubDate": "Mon, 22 Sep 2025 00:01:00 GMT"
+    },
+    {
+      "title": "Trump's new visa policy inspires mostly sour response from tech firms - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 13:14:34 GMT"
     }
   ],
   "north_korea": [
@@ -2263,6 +2267,10 @@
     {
       "title": "Sudden $200 Billion Crypto Sell-Off Sparks Fresh Bitcoin Price Crash Fears - Forbes",
       "pubDate": "Mon, 22 Sep 2025 08:45:36 GMT"
+    },
+    {
+      "title": "Crypto suffers \u00a31bn slump as \u2018Trump bump\u2019 fades - The Telegraph",
+      "pubDate": "Mon, 22 Sep 2025 12:45:00 GMT"
     }
   ],
   "data_breach": [
@@ -2661,10 +2669,6 @@
   ],
   "gaza": [
     {
-      "title": "LIVE: Qatar\u2019s emir says Israeli \u2018aggression blatant, treacherous, cowardly\u2019 - Al Jazeera",
-      "pubDate": "Mon, 15 Sep 2025 13:20:17 GMT"
-    },
-    {
       "title": "Israeli military launches ground offensive to occupy Gaza City, Axios reports - Reuters",
       "pubDate": "Mon, 15 Sep 2025 23:10:32 GMT"
     },
@@ -2767,6 +2771,10 @@
     {
       "title": "Opinion | 11 Questions the Western Media Should Be Investigating About the Gaza Genocide - Common Dreams",
       "pubDate": "Sun, 21 Sep 2025 13:44:50 GMT"
+    },
+    {
+      "title": "Israel\u2019s War Costs Seen Rising $7.5 Billion on Gaza City Assault - Bloomberg.com",
+      "pubDate": "Mon, 22 Sep 2025 13:23:33 GMT"
     }
   ],
   "climate_change": [
@@ -3285,6 +3293,10 @@
     {
       "title": "\u2018Net Zero cannot be our hero\u2019: Why climate activists question Net Zero 2050-70 carbon emissions goal and whether \u2018real zero\u2019 is possible as climate change continues to wreck havoc - The Indian Express",
       "pubDate": "Mon, 22 Sep 2025 11:58:41 GMT"
+    },
+    {
+      "title": "Amazon sustainability chief & top scientist: AI could end up being climate\u2019s most powerful tool - Fortune",
+      "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
     }
   ],
   "world_news": [
