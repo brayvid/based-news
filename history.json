@@ -1,24 +1,12 @@
 {
   "israel": [
     {
-      "title": "An \u2018Arab Nato\u2019? Israel\u2019s air strikes on Qatar may have just brought it to life - South China Morning Post",
-      "pubDate": "Mon, 15 Sep 2025 04:10:50 GMT"
-    },
-    {
-      "title": "IDF chief to Knesset ahead Gaza offensive: Netanyahu gives no plan, army unsure what's next - Ynetnews",
-      "pubDate": "Mon, 15 Sep 2025 04:32:09 GMT"
-    },
-    {
       "title": "Qatar hosts Arab-Islamic emergency summit over Israeli strike on Doha - BBC",
       "pubDate": "Mon, 15 Sep 2025 06:49:38 GMT"
     },
     {
       "title": "In the Middle East, can old enemies make good neighbors? - The Christian Science Monitor",
       "pubDate": "Mon, 15 Sep 2025 09:15:00 GMT"
-    },
-    {
-      "title": "Hannah Einbinder and Javier Bardem among Emmy stars to call for Gaza ceasefire - The Guardian",
-      "pubDate": "Mon, 15 Sep 2025 04:52:00 GMT"
     },
     {
       "title": "The bitter relationship between Israel and Arab states - Reuters",
@@ -293,10 +281,6 @@
     {
       "title": "New poll reveals warning signs for Trump with Latino voters - Politico",
       "pubDate": "Mon, 15 Sep 2025 09:45:00 GMT"
-    },
-    {
-      "title": "Donald Trump\u2019s new SEC appointee scraps aggressive enforcement agenda - Financial Times",
-      "pubDate": "Mon, 15 Sep 2025 04:00:12 GMT"
     },
     {
       "title": "Trump suggests TikTok deal, will talk to China's Xi on Friday - Axios",
@@ -594,10 +578,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Google, Meta, Microsoft, OpenAI discuss safe open-source AI use in Seoul - CHOSUNBIZ - Chosun Biz",
-      "pubDate": "Mon, 15 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "India adopts techno-legal path for AI safety: Union minister Ashwini Vaishnaw - The New Indian Express",
       "pubDate": "Mon, 15 Sep 2025 06:41:52 GMT"
@@ -905,6 +885,10 @@
     {
       "title": "MCG, MCM launch AI-based road audit to detect defects, boost safety | Hindustan Times - Hindustan Times",
       "pubDate": "Sun, 21 Sep 2025 23:11:22 GMT"
+    },
+    {
+      "title": "Call for Applications: Future Impact Group Fellowship 2025\u20132026 - Global South Opportunities",
+      "pubDate": "Sun, 21 Sep 2025 20:21:46 GMT"
     }
   ],
   "financial_markets": [
@@ -1007,13 +991,13 @@
     {
       "title": "Intel-Nvidia Deal Extends Stock Markets\u2019 Good News Rally. Why There\u2019s More to Come. - Barron's",
       "pubDate": "Mon, 22 Sep 2025 03:00:25 GMT"
+    },
+    {
+      "title": "Asian shares are mostly higher after Wall Street's record week - LancasterOnline",
+      "pubDate": "Mon, 22 Sep 2025 03:52:36 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "A Map of the Impossible: MICrONS Delivers AI and Neuroscience Advances - the-scientist.com",
-      "pubDate": "Mon, 15 Sep 2025 04:13:30 GMT"
-    },
     {
       "title": "AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns - The Hacker News",
       "pubDate": "Mon, 15 Sep 2025 07:12:00 GMT"
@@ -1667,6 +1651,10 @@
     {
       "title": "Europe\u2019s half-measures only invite Russian escalation - The Hill",
       "pubDate": "Sun, 21 Sep 2025 19:00:00 GMT"
+    },
+    {
+      "title": "United States \u2022 Ukraine's 'stolen children': US intelligence asked to do more to document Russian abuses - Intelligence Online",
+      "pubDate": "Mon, 22 Sep 2025 04:01:28 GMT"
     }
   ],
   "us_economy": [
@@ -2142,10 +2130,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "3 Top Cybersecurity Stocks to Buy in September - sharewise.com",
-      "pubDate": "Mon, 15 Sep 2025 04:17:25 GMT"
-    },
     {
       "title": "Massive Data Leak Reveals 500GB+ from China\u2019s Great Firewall - Cyber Press",
       "pubDate": "Mon, 15 Sep 2025 07:10:56 GMT"
@@ -2855,10 +2839,6 @@
   ],
   "climate_change": [
     {
-      "title": "China, climate crisis and Cop31: five takeaways from the Pacific Islands Forum - The Guardian",
-      "pubDate": "Mon, 15 Sep 2025 04:02:00 GMT"
-    },
-    {
       "title": "Climate change is causing ever more disruption. Can Australia\u2019s new adaptation plan help? - The Conversation",
       "pubDate": "Mon, 15 Sep 2025 05:33:49 GMT"
     },
@@ -3377,6 +3357,10 @@
     {
       "title": "Sun Day in Asheville shines a light on clean energy push, climate awareness - WLOS",
       "pubDate": "Mon, 22 Sep 2025 00:09:58 GMT"
+    },
+    {
+      "title": "Top Fossil Fuel Producing Nations Plan to Blow Past Climate Targets - Inside Climate News",
+      "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
     }
   ],
   "world_news": [
@@ -3819,6 +3803,12 @@
     {
       "title": "Starmer announces formal UK recognition of Palestinian state - BBC",
       "pubDate": "Sun, 21 Sep 2025 20:34:13 GMT"
+    }
+  ],
+  "politics": [
+    {
+      "title": "Trump news at a glance: president calls Charlie Kirk a \u2018martyr\u2019 at memorial - The Guardian",
+      "pubDate": "Mon, 22 Sep 2025 00:49:34 GMT"
     }
   ]
 }
