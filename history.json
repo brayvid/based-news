@@ -381,10 +381,6 @@
   ],
   "russia": [
     {
-      "title": "Opinion | Trump has a point about Europe\u2019s reliance on Russian oil - The Washington Post",
-      "pubDate": "Mon, 15 Sep 2025 23:18:32 GMT"
-    },
-    {
       "title": "Ukrainian children have been taken to more than 200 facilities in Russia, new report finds - NBC News",
       "pubDate": "Tue, 16 Sep 2025 04:01:00 GMT"
     },
@@ -979,10 +975,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "These fields could see job cuts because of artificial intelligence, federal data says - CBS News",
-      "pubDate": "Mon, 15 Sep 2025 23:41:00 GMT"
-    },
-    {
       "title": "How Artificial Intelligence Is Revolutionizing Emergency Medicine - News-Medical",
       "pubDate": "Tue, 16 Sep 2025 03:09:00 GMT"
     },
@@ -1261,6 +1253,10 @@
     {
       "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
       "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
+    },
+    {
+      "title": "Can Artificial Intelligence Help Us Talk To Dolphins? - DOGO News",
+      "pubDate": "Mon, 22 Sep 2025 18:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1631,6 +1627,10 @@
     {
       "title": "Ukrainian Drones Strike Russia\u2019s Rare Be-12 Flying Boats - The War Zone",
       "pubDate": "Mon, 22 Sep 2025 19:40:59 GMT"
+    },
+    {
+      "title": "Moldova detains 74 people over alleged Russia-backed plot before elections - Al Jazeera",
+      "pubDate": "Mon, 22 Sep 2025 19:18:45 GMT"
     }
   ],
   "us_economy": [
@@ -1723,16 +1723,8 @@
   ],
   "us_politics": [
     {
-      "title": "What Does \u2018Real Unity\u2019 Mean to the White House? - The New York Times",
-      "pubDate": "Mon, 15 Sep 2025 23:23:07 GMT"
-    },
-    {
       "title": "Scoop: A group of House Democrats has a steep demand list to stop a shutdown - Axios",
       "pubDate": "Tue, 16 Sep 2025 00:25:02 GMT"
-    },
-    {
-      "title": "Manchin says he wanted GOP to win Senate to stop Democrats' quest for 'raw political power' - yahoo.com",
-      "pubDate": "Mon, 15 Sep 2025 23:44:41 GMT"
     },
     {
       "title": "Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC",
@@ -2043,13 +2035,13 @@
     {
       "title": "North Korea can talk to US if it stops insisting on denuclearisation, Kim says - Reuters",
       "pubDate": "Sun, 21 Sep 2025 23:34:42 GMT"
+    },
+    {
+      "title": "North Korean Leader Kim Jong Un\u2019s Proposition to Trump: Let\u2019s Talk\u2014but Not About Nukes - The Wall Street Journal",
+      "pubDate": "Mon, 22 Sep 2025 19:34:00 GMT"
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Columbus cybersecurity report still not released 1 year after attack - 10tv.com",
-      "pubDate": "Mon, 15 Sep 2025 23:10:00 GMT"
-    },
     {
       "title": "Russian hackers target Polish hospitals and city water supply - Financial Times",
       "pubDate": "Tue, 16 Sep 2025 04:00:15 GMT"
@@ -2169,6 +2161,10 @@
     {
       "title": "EU agency says cyberattack behind airport disruptions - Reuters",
       "pubDate": "Mon, 22 Sep 2025 08:54:40 GMT"
+    },
+    {
+      "title": "Stellantis Cybersecurity Breach: What Hackers Got and What Stayed Safe - autoblog.com",
+      "pubDate": "Mon, 22 Sep 2025 14:30:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2255,10 +2251,6 @@
   ],
   "data_breach": [
     {
-      "title": "More than 69,000 people in Wisconsin impacted by TransUnion data breach - WBAY",
-      "pubDate": "Mon, 15 Sep 2025 23:31:00 GMT"
-    },
-    {
       "title": "A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users - WIRED",
       "pubDate": "Tue, 16 Sep 2025 17:07:00 GMT"
     },
@@ -2331,6 +2323,10 @@
     {
       "title": "Eni signs a billion-dollar PPA with Commonwealth Fusion Systems - Latitude Media",
       "pubDate": "Mon, 22 Sep 2025 11:00:48 GMT"
+    },
+    {
+      "title": "China Is Desperate to Dominate Nuclear Fusion - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Mon, 22 Sep 2025 17:00:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -2636,10 +2632,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Israeli military launches ground offensive to occupy Gaza City, Axios reports - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 23:10:32 GMT"
-    },
     {
       "title": "Reports: IDF conducts extensive strikes in Gaza City; hostage families rally at PM's home - Haaretz",
       "pubDate": "Tue, 16 Sep 2025 02:50:00 GMT"
@@ -3253,6 +3245,10 @@
     {
       "title": "New York AG Letitia James joins fight against EPA's climate change rollback proposal - WRGB",
       "pubDate": "Mon, 22 Sep 2025 20:00:48 GMT"
+    },
+    {
+      "title": "How Climate Change Could Destroy Shark Teeth and Threaten Their Entire Existence - SYFY",
+      "pubDate": "Mon, 22 Sep 2025 22:31:54 GMT"
     }
   ],
   "world_news": [
@@ -3439,6 +3435,10 @@
     {
       "title": "Trump's $100k visa fee for skilled workers puts US at risk of recession, analysts warn - MSN",
       "pubDate": "Mon, 22 Sep 2025 09:08:00 GMT"
+    },
+    {
+      "title": "Economists warn Colorado lawmakers of more budget cuts looming \u2014 and higher recession risk - The Denver Post",
+      "pubDate": "Mon, 22 Sep 2025 21:00:22 GMT"
     }
   ],
   "algorithms": [
