@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "UN inquiry finds top Israeli officials incited genocide in Gaza - USA Today",
-      "pubDate": "Tue, 16 Sep 2025 12:09:52 GMT"
-    },
-    {
       "title": "Israel said arming, paying salaries of Druze militia in Syria\u2019s Sweida area - The Times of Israel",
       "pubDate": "Tue, 16 Sep 2025 15:17:03 GMT"
     },
@@ -267,6 +263,10 @@
     {
       "title": "France recognises Palestine as a state: A landmark action that infuriates Israel - France 24",
       "pubDate": "Tue, 23 Sep 2025 09:38:19 GMT"
+    },
+    {
+      "title": "Israeli forces push deeper into Gaza City with heavy shelling and explosions reported - CNN",
+      "pubDate": "Tue, 23 Sep 2025 12:09:47 GMT"
     }
   ],
   "donald_trump": [
@@ -551,13 +551,13 @@
     {
       "title": "Hungary refuses to stop buying Russian oil despite Trump\u2019s Nato demand - The Guardian",
       "pubDate": "Tue, 23 Sep 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Drones shut Copenhagen Airport in 'serious attack'; NATO weighs tougher Russia action - NBC News",
+      "pubDate": "Tue, 23 Sep 2025 11:07:30 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Exclusive | DeepSeek evaluates AI models for \u2018frontier risks\u2019, source says - South China Morning Post",
-      "pubDate": "Tue, 16 Sep 2025 13:00:10 GMT"
-    },
     {
       "title": "California Lawmakers Pass Landmark AI Transparency Law for Frontier Models: How SB 53 Differs from Last Year\u2019s Failed Attempt - JD Supra",
       "pubDate": "Tue, 16 Sep 2025 14:33:34 GMT"
@@ -857,6 +857,10 @@
     {
       "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
       "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
+    },
+    {
+      "title": "Why balance is required for establishing feasible AI Red Lines - Diginomica",
+      "pubDate": "Tue, 23 Sep 2025 11:29:43 GMT"
     }
   ],
   "financial_markets": [
@@ -943,6 +947,10 @@
     {
       "title": "Crypto hoarders turn to share buybacks in push to boost falling stock prices - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 04:00:18 GMT"
+    },
+    {
+      "title": "What D.E. Shaw\u2019s First Human Fund Says About the Market - Bloomberg",
+      "pubDate": "Tue, 23 Sep 2025 12:00:26 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1232,10 +1240,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Zelenskyy calls for a European air defense system as Russian strike wounds 13 in Ukrainian city - Boston Herald",
-      "pubDate": "Tue, 16 Sep 2025 12:04:37 GMT"
-    },
     {
       "title": "Ukraine says Russia's new jet-powered attack drone is full of foreign parts and immune to electronic warfare - Business Insider",
       "pubDate": "Tue, 16 Sep 2025 13:47:00 GMT"
@@ -1719,10 +1723,6 @@
       "pubDate": "Tue, 16 Sep 2025 19:41:43 GMT"
     },
     {
-      "title": "White House eyes multifaceted crackdown on liberal organizations after Kirk slaying - MSNBC News",
-      "pubDate": "Tue, 16 Sep 2025 13:00:15 GMT"
-    },
-    {
       "title": "Bondi Prompts Broad Backlash After Saying She\u2019ll Target \u2018Hate Speech\u2019 - The New York Times",
       "pubDate": "Tue, 16 Sep 2025 19:07:33 GMT"
     },
@@ -2017,6 +2017,10 @@
     {
       "title": "Republicans know Trump's redistricting push is wrong. They'll do it anyway. | Opinion - IndyStar",
       "pubDate": "Tue, 23 Sep 2025 09:32:50 GMT"
+    },
+    {
+      "title": "Secret Service says it dismantled \u2018imminent telecommunications threat\u2019 near UN general assembly ahead of Trump speech \u2013 live - The Guardian",
+      "pubDate": "Tue, 23 Sep 2025 09:37:00 GMT"
     }
   ],
   "north_korea": [
@@ -2038,10 +2042,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "A new Israeli cybersecurity startup just emerged from stealth and is already valued at $400 million. - Business Insider",
-      "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
-    },
     {
       "title": "Congress puts up last-minute roadblocks for cyber threat info-sharing - Axios",
       "pubDate": "Tue, 16 Sep 2025 17:24:16 GMT"
@@ -2261,10 +2261,6 @@
   ],
   "fusion_power": [
     {
-      "title": "US nuclear fusion builders fired up by Big Tech investments - Reuters",
-      "pubDate": "Tue, 16 Sep 2025 12:49:08 GMT"
-    },
-    {
       "title": "The FIRE is lit: US to advance nuclear reactor design to tackle heat, improve fuel - Interesting Engineering",
       "pubDate": "Wed, 17 Sep 2025 13:14:00 GMT"
     },
@@ -2318,10 +2314,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "If quantum computing is answering unknowable questions, how do we know they're right? - Phys.org",
-      "pubDate": "Tue, 16 Sep 2025 12:59:14 GMT"
-    },
     {
       "title": "Evaluating Variational Quantum Circuit Architectures Enables Eight-Qubit Distributed Quantum Computing - Quantum Zeitgeist",
       "pubDate": "Tue, 16 Sep 2025 17:54:08 GMT"
@@ -2525,6 +2517,10 @@
     {
       "title": "First-Ever Quantum Signal Conversion: IonQ Unlocks Key to Quantum Internet Using Existing Fiber Networks - Stock Titan",
       "pubDate": "Tue, 23 Sep 2025 11:05:00 GMT"
+    },
+    {
+      "title": "IonQ jumps after announcing tech breakthrough on interconnecting quantum computers - Sherwood News",
+      "pubDate": "Tue, 23 Sep 2025 11:57:34 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2730,18 +2726,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Gen Z climate activists take Trump to court in Montana for singlehandedly worsening global warming, they say - Fortune",
-      "pubDate": "Tue, 16 Sep 2025 12:20:21 GMT"
-    },
-    {
-      "title": "Global Climate Policy Project unveils roadmap for climate coalition - Harvard Gazette",
-      "pubDate": "Tue, 16 Sep 2025 12:11:56 GMT"
-    },
-    {
-      "title": "Public can help shape next Delaware Climate Action Plan - Spotlight Delaware",
-      "pubDate": "Tue, 16 Sep 2025 12:08:53 GMT"
-    },
     {
       "title": "Tropical rainforest soil may fuel climate change as Earth warms, accelerating global warming - Phys.org",
       "pubDate": "Tue, 16 Sep 2025 15:46:04 GMT"
@@ -3257,6 +3241,10 @@
     {
       "title": "Poor climate crisis warnings put countries around globe at increasing risk of acute hunger - The Independent",
       "pubDate": "Tue, 23 Sep 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s allies still waiting for him to land his hardest climate blow - Politico",
+      "pubDate": "Tue, 23 Sep 2025 09:00:00 GMT"
     }
   ],
   "world_news": [
@@ -3280,10 +3268,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "At a truly awful time to build an electric vehicle plant in the U.S., Tesla's distant rival breaks ground on $5b Georgia facility - Fortune",
-      "pubDate": "Tue, 16 Sep 2025 12:06:20 GMT"
-    },
     {
       "title": "Trump reversed policies supporting electric vehicles \u2212 it will affect the road to clean electricity, too - | The Invading Sea",
       "pubDate": "Tue, 16 Sep 2025 16:48:28 GMT"
@@ -3511,12 +3495,6 @@
     {
       "title": "Satellite Photos Show China's Nuclear Bomber Base on South China Sea Island - Newsweek",
       "pubDate": "Fri, 19 Sep 2025 13:29:16 GMT"
-    }
-  ],
-  "algorithmic_trading": [
-    {
-      "title": "Sebi extends settlement window till Oct 16 for stock brokers in algo trading case - The Economic Times",
-      "pubDate": "Tue, 16 Sep 2025 12:08:46 GMT"
     }
   ],
   "spacex": [
