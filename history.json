@@ -263,6 +263,10 @@
     {
       "title": "Israel closes Allenby crossing until further notice - The Jerusalem Post",
       "pubDate": "Tue, 23 Sep 2025 12:22:20 GMT"
+    },
+    {
+      "title": "Israel shuts crossing that connects occupied West Bank to Jordan - Al Jazeera",
+      "pubDate": "Tue, 23 Sep 2025 16:58:27 GMT"
     }
   ],
   "donald_trump": [
@@ -380,10 +384,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Authorities Raid Swiss Trader in Probe Linked to Russian Gold - Bloomberg.com",
-      "pubDate": "Tue, 16 Sep 2025 17:31:32 GMT"
-    },
     {
       "title": "Russia is running a sprawling network of 'brainwashing' camps for Ukrainian kids: Report - USA Today",
       "pubDate": "Tue, 16 Sep 2025 19:52:30 GMT"
@@ -833,6 +833,10 @@
     {
       "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
       "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
+    },
+    {
+      "title": "Cloudflare Confidence Scorecards - making AI safer for the Internet - The Cloudflare Blog",
+      "pubDate": "Tue, 23 Sep 2025 15:39:26 GMT"
     }
   ],
   "financial_markets": [
@@ -927,13 +931,13 @@
     {
       "title": "Stock Market Today: Dow Futures Steady Ahead of Fed Chair Powell's Comments \u2014 Live Updates - The Wall Street Journal",
       "pubDate": "Tue, 23 Sep 2025 15:42:00 GMT"
+    },
+    {
+      "title": "Fed Chief Powell says stock prices appear 'fairly highly valued' - CNBC",
+      "pubDate": "Tue, 23 Sep 2025 17:05:19 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Disney, Universal and Warner Bros. Discovery sue Chinese AI firm as Hollywood's copyright battles spread - Los Angeles Times",
-      "pubDate": "Tue, 16 Sep 2025 17:51:45 GMT"
-    },
     {
       "title": "Exclusive: Ex-Google DeepMinders get $5 million to bring AI algorithm design to the masses - Fortune",
       "pubDate": "Tue, 16 Sep 2025 23:01:00 GMT"
@@ -1591,6 +1595,10 @@
     {
       "title": "Russian fuel exports drop as Ukraine intensifies its strikes on oil refineries - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 11:30:55 GMT"
+    },
+    {
+      "title": "Trump assails allies over migration, energy and Ukraine - Financial Times",
+      "pubDate": "Tue, 23 Sep 2025 17:42:29 GMT"
     }
   ],
   "us_economy": [
@@ -1679,6 +1687,10 @@
     {
       "title": "Exclusive: China asks brokers to pause real-world asset business in Hong Kong, sources say - Reuters",
       "pubDate": "Tue, 23 Sep 2025 04:04:00 GMT"
+    },
+    {
+      "title": "China\u2019s latest aircraft carrier showcases new fighter jet launch system. Only the US has the same tech - CNN",
+      "pubDate": "Tue, 23 Sep 2025 06:07:23 GMT"
     }
   ],
   "us_politics": [
@@ -1701,10 +1713,6 @@
     {
       "title": "\"One of one\": Kirk assassination leaves vacuum for MAGA's outside enforcers - Axios",
       "pubDate": "Tue, 16 Sep 2025 21:32:10 GMT"
-    },
-    {
-      "title": "Mary Rose Oakar, 85, First Arab American Woman in Congress, Dies - The New York Times",
-      "pubDate": "Tue, 16 Sep 2025 17:18:52 GMT"
     },
     {
       "title": "Utah prosecutors\u2019 evidence indicates suspected motives of Charlie Kirk\u2019s alleged shooter - The Guardian",
@@ -1989,6 +1997,10 @@
     {
       "title": "Trump cancels meeting with top Democrats as shutdown looms - Axios",
       "pubDate": "Tue, 23 Sep 2025 14:19:35 GMT"
+    },
+    {
+      "title": "Ted Cruz Plays the Long Game by Defending Jimmy Kimmel - Politico",
+      "pubDate": "Tue, 23 Sep 2025 17:06:09 GMT"
     }
   ],
   "north_korea": [
@@ -2010,14 +2022,6 @@
     }
   ],
   "cybersecurity": [
-    {
-      "title": "Congress puts up last-minute roadblocks for cyber threat info-sharing - Axios",
-      "pubDate": "Tue, 16 Sep 2025 17:24:16 GMT"
-    },
-    {
-      "title": "Cybersecurity provider Netskope boosts IPO range as it tests tech hotstreak - CNBC",
-      "pubDate": "Tue, 16 Sep 2025 17:31:07 GMT"
-    },
     {
       "title": "CrowdStrike Ushers In The Agentic Era Of Cybersecurity - Forbes",
       "pubDate": "Tue, 16 Sep 2025 20:34:36 GMT"
@@ -2203,10 +2207,6 @@
   ],
   "data_breach": [
     {
-      "title": "A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users - WIRED",
-      "pubDate": "Tue, 16 Sep 2025 17:07:00 GMT"
-    },
-    {
       "title": "1.1 million Farmers Insurance customers hit by data breach linked to Salesforce hack - Class Action Lawsuits",
       "pubDate": "Tue, 16 Sep 2025 20:48:45 GMT"
     },
@@ -2282,10 +2282,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Evaluating Variational Quantum Circuit Architectures Enables Eight-Qubit Distributed Quantum Computing - Quantum Zeitgeist",
-      "pubDate": "Tue, 16 Sep 2025 17:54:08 GMT"
-    },
     {
       "title": "My View: Arizona should lead in quantum computing by leaping beyond science and into practice - The Business Journals",
       "pubDate": "Tue, 16 Sep 2025 21:33:00 GMT"
@@ -3205,6 +3201,10 @@
     {
       "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
       "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
+    },
+    {
+      "title": "Building Trust in Soil Carbon as a Climate Solution Requires Stronger Evidence - Yale School of the Environment",
+      "pubDate": "Tue, 23 Sep 2025 13:00:00 GMT"
     }
   ],
   "world_news": [
