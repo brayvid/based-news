@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Netanyahu\u2019s \u2018super-Sparta\u2019 vision braces Israel for isolated economic future - The Guardian",
-      "pubDate": "Tue, 16 Sep 2025 18:41:00 GMT"
-    },
-    {
       "title": "Advocacy groups call for European ban on Israel team, players in Times Square billboard - Reuters",
       "pubDate": "Wed, 17 Sep 2025 00:24:00 GMT"
     },
@@ -267,13 +263,13 @@
     {
       "title": "Israel shuts crossing that connects occupied West Bank to Jordan - Al Jazeera",
       "pubDate": "Tue, 23 Sep 2025 16:58:27 GMT"
+    },
+    {
+      "title": "Israel arms exports boom despite global pressure - CNN",
+      "pubDate": "Tue, 23 Sep 2025 10:00:51 GMT"
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump admin live updates: Trump says group of companies wants to buy TikTok - ABC News",
-      "pubDate": "Tue, 16 Sep 2025 18:08:00 GMT"
-    },
     {
       "title": "Trump's Approval Rating Hits New Second-Term Low: Poll - Newsweek",
       "pubDate": "Wed, 17 Sep 2025 01:25:33 GMT"
@@ -381,6 +377,10 @@
     {
       "title": "Trump to address world leaders at United Nations today - CBS News",
       "pubDate": "Tue, 23 Sep 2025 13:20:00 GMT"
+    },
+    {
+      "title": "Trump says Nato countries should shoot down Russian aircraft entering their airspace \u2013 US politics live - The Guardian",
+      "pubDate": "Tue, 23 Sep 2025 09:37:00 GMT"
     }
   ],
   "russia": [
@@ -837,13 +837,13 @@
     {
       "title": "Cloudflare Confidence Scorecards - making AI safer for the Internet - The Cloudflare Blog",
       "pubDate": "Tue, 23 Sep 2025 15:39:26 GMT"
+    },
+    {
+      "title": "Great Neck parents fear for children\u2019s safety on AI-generated bus routes - LI Press",
+      "pubDate": "Tue, 23 Sep 2025 16:52:24 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "As the dollar wobbles, why has there not been more flight to the euro? - Atlantic Council",
-      "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
-    },
     {
       "title": "Why France's Top Financial Market Official Says EU Supervision 'Hinders Competitiveness' - Finance Magnates",
       "pubDate": "Wed, 17 Sep 2025 08:05:51 GMT"
@@ -1209,16 +1209,16 @@
     {
       "title": "How Can We Meet AI\u2019s Insatiable Demand for Compute Power? - Bain & Company",
       "pubDate": "Tue, 23 Sep 2025 04:32:04 GMT"
+    },
+    {
+      "title": "Ford's CEO: America is ignoring the 'essential economy' as AI eats entry-level white-collar jobs - Fortune",
+      "pubDate": "Tue, 23 Sep 2025 18:24:16 GMT"
     }
   ],
   "ukraine": [
     {
       "title": "First Trump administration weapons package to Ukraine approved: Report - The Hill",
       "pubDate": "Tue, 16 Sep 2025 22:13:00 GMT"
-    },
-    {
-      "title": "The Guardian view on Donald Trump\u2019s Ukraine strategy: talking tough and doing very little isn\u2019t working | Editorial - The Guardian",
-      "pubDate": "Tue, 16 Sep 2025 18:06:00 GMT"
     },
     {
       "title": "Only Ukraine can teach NATO how to combat Putin\u2019s growing drone fleet - Atlantic Council",
@@ -1599,6 +1599,10 @@
     {
       "title": "Trump assails allies over migration, energy and Ukraine - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 17:42:29 GMT"
+    },
+    {
+      "title": "US president Trump set to meet Ukraine's Zelensky ahead of UN address - RFI",
+      "pubDate": "Tue, 23 Sep 2025 12:48:57 GMT"
     }
   ],
   "us_economy": [
@@ -2691,6 +2695,10 @@
     {
       "title": "More experts see genocide in Israel\u2019s wartime conduct in Gaza - WTOP",
       "pubDate": "Tue, 23 Sep 2025 04:17:34 GMT"
+    },
+    {
+      "title": "Trump at UN: Gaza war must end now, Palestinian recognition 'rewards' Oct. 7 attack - Haaretz",
+      "pubDate": "Tue, 23 Sep 2025 18:14:00 GMT"
     }
   ],
   "climate_change": [
@@ -2713,10 +2721,6 @@
     {
       "title": "Australia has an Everest to climb if it wants to protect itself from climate catastrophe. But do we have the political resolve? | Erwin Jackson - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 03:10:00 GMT"
-    },
-    {
-      "title": "Nobel laureate Steven Chu warns of \u2018Titanic\u2019 climate challenge - Harvard Gazette",
-      "pubDate": "Tue, 16 Sep 2025 18:57:03 GMT"
     },
     {
       "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
@@ -3205,6 +3209,10 @@
     {
       "title": "Building Trust in Soil Carbon as a Climate Solution Requires Stronger Evidence - Yale School of the Environment",
       "pubDate": "Tue, 23 Sep 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Windmills, wars and marble floors: 10 topics Trump hit in meandering UN speech - Axios",
+      "pubDate": "Tue, 23 Sep 2025 18:40:53 GMT"
     }
   ],
   "world_news": [
@@ -3404,10 +3412,6 @@
     }
   ],
   "bitcoin": [
-    {
-      "title": "Bitcoin's bizarrely steady price pattern soon to face test - Axios",
-      "pubDate": "Tue, 16 Sep 2025 18:13:21 GMT"
-    },
     {
       "title": "Bitcoin mining difficulty paints new ATH amid centralization fears - Cointelegraph",
       "pubDate": "Sat, 20 Sep 2025 17:06:42 GMT"
