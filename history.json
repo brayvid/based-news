@@ -551,17 +551,13 @@
     {
       "title": "Putin says Russia will stick to nuclear arms limits for 1 year - NBC News",
       "pubDate": "Mon, 22 Sep 2025 13:36:54 GMT"
+    },
+    {
+      "title": "Hungary refuses to stop buying Russian oil despite Trump\u2019s Nato demand - The Guardian",
+      "pubDate": "Tue, 23 Sep 2025 04:01:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "Where South Korea's draft AI law decree fails to quell doubts, concerns - MLex",
-      "pubDate": "Tue, 16 Sep 2025 08:16:00 GMT"
-    },
-    {
-      "title": "The looming crackdown on AI companionship - MIT Technology Review",
-      "pubDate": "Tue, 16 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "Turing Award 2025: Andrew Barto & Richard Sutton Honored with \u2018Nobel Prize of Computing\u2019 - Jagran Josh",
       "pubDate": "Tue, 16 Sep 2025 10:13:00 GMT"
@@ -857,6 +853,10 @@
     {
       "title": "InTouch: AI Traffic Enforcement Boosts Safety and Compliance in Modern Cities - Parking-Net",
       "pubDate": "Tue, 23 Sep 2025 06:37:47 GMT"
+    },
+    {
+      "title": "Ohio launches Safeguard Ohio app to enhance safety with AI-powered threat reporting system - WKEF",
+      "pubDate": "Tue, 23 Sep 2025 01:07:06 GMT"
     }
   ],
   "financial_markets": [
@@ -865,16 +865,8 @@
       "pubDate": "Tue, 16 Sep 2025 10:15:11 GMT"
     },
     {
-      "title": "Will the Fed cut rates on Wednesday? See 5 economic charts that may determine its decision. - CBS News",
-      "pubDate": "Tue, 16 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Embracing Consistent Growth In Erratic Equity Markets - Seeking Alpha",
       "pubDate": "Tue, 16 Sep 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Global Markets Mixed Ahead of Federal Reserve Meeting - The Wall Street Journal",
-      "pubDate": "Tue, 16 Sep 2025 08:25:00 GMT"
     },
     {
       "title": "China's $19 trillion stock market, once called uninvestable, lures foreigners again - Reuters",
@@ -1739,10 +1731,6 @@
       "pubDate": "Tue, 16 Sep 2025 14:09:31 GMT"
     },
     {
-      "title": "Former Sen. Joe Manchin reflects on career, state of U.S. politics in new memoir - NPR",
-      "pubDate": "Tue, 16 Sep 2025 08:07:36 GMT"
-    },
-    {
       "title": "Frustrated GOP senators blow steam on Russia: \u2018Sick of\u2019 Trump, Vance \u2018love affair\u2019 with Putin - The Hill",
       "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
     },
@@ -2037,6 +2025,10 @@
     {
       "title": "Trump rails against Tylenol but autism claims not supported by science - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 23:25:00 GMT"
+    },
+    {
+      "title": "Trump signs executive order calling antifa a \"domestic terrorist organization\" - CBS News",
+      "pubDate": "Mon, 22 Sep 2025 23:27:00 GMT"
     }
   ],
   "north_korea": [
@@ -2277,6 +2269,10 @@
     {
       "title": "Luxury customer data hack rattles global industry - Nation Thailand",
       "pubDate": "Sun, 21 Sep 2025 02:32:00 GMT"
+    },
+    {
+      "title": "TransUnion verifies authenticity of letters sent to consumers about data breach affecting millions - WGAL",
+      "pubDate": "Tue, 23 Sep 2025 00:24:00 GMT"
     }
   ],
   "fusion_power": [
@@ -2652,10 +2648,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "Live updates: Israel begins ground offensive in Gaza City, as UN commission says Israel is committing genocide - CNN",
-      "pubDate": "Tue, 16 Sep 2025 08:34:00 GMT"
-    },
     {
       "title": "If Labour admitted there is a genocide in Gaza, it would have to admit its own hand in it | Owen Jones - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 05:00:55 GMT"
@@ -3277,6 +3269,10 @@
     {
       "title": "World\u2019s oldest society faces increasing threat from climate crisis - CNN",
       "pubDate": "Tue, 23 Sep 2025 06:55:54 GMT"
+    },
+    {
+      "title": "At Climate Week, Chile and the United Kingdom Commit to Ocean-Based Action Plans Ahead of COP30 - Inside Climate News",
+      "pubDate": "Tue, 23 Sep 2025 08:45:00 GMT"
     }
   ],
   "world_news": [
@@ -3363,6 +3359,10 @@
     {
       "title": "EVs near one-fifth of South Korea car sales - The Korea Herald",
       "pubDate": "Sun, 21 Sep 2025 05:50:13 GMT"
+    },
+    {
+      "title": "Porsche shares plunge after announcing EV rollout delay - BBC",
+      "pubDate": "Tue, 23 Sep 2025 06:49:47 GMT"
     }
   ],
   "technology": [
@@ -3530,10 +3530,6 @@
     }
   ],
   "alternative_energy": [
-    {
-      "title": "Houses of Worship Could Help Fuel the Energy Transition. Solar Evangelists Are Hard at Work on That - Inside Climate News",
-      "pubDate": "Tue, 16 Sep 2025 08:55:00 GMT"
-    },
     {
       "title": "Startup reimagines nuclear energy with mile-deep micro-reactor pilot - Mugglehead Magazine",
       "pubDate": "Mon, 22 Sep 2025 23:20:05 GMT"
@@ -3711,6 +3707,12 @@
     {
       "title": "Gabrielle becomes Category 4 hurricane in the tropical Atlantic Ocean - WPBF",
       "pubDate": "Mon, 22 Sep 2025 23:03:00 GMT"
+    }
+  ],
+  "hacking": [
+    {
+      "title": "Teenage hacker arrested for cyberattacks against Las Vegas casinos - USA Today",
+      "pubDate": "Tue, 23 Sep 2025 00:20:18 GMT"
     }
   ]
 }
