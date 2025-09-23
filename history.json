@@ -535,24 +535,8 @@
   ],
   "ai_safety": [
     {
-      "title": "Parents Slam OpenAI, Character.AI Over Safety in Senate Hearing - Bloomberg.com",
-      "pubDate": "Tue, 16 Sep 2025 21:32:16 GMT"
-    },
-    {
-      "title": "Child Safety Group Gives Google\u2019s Gemini AI \u2018High Risk\u2019 Rating - Harlem World Magazine",
-      "pubDate": "Tue, 16 Sep 2025 21:47:38 GMT"
-    },
-    {
       "title": "Open AI adding new safety features for teens using ChatGPT - 11Alive.com",
       "pubDate": "Tue, 16 Sep 2025 22:25:00 GMT"
-    },
-    {
-      "title": "Introducing Stargate UK - OpenAI",
-      "pubDate": "Tue, 16 Sep 2025 21:31:51 GMT"
-    },
-    {
-      "title": "Aussie! Aussie! Aussie! AI! AI! AI!: Innovation minister Tim Ayres on the national potential of artificial intelligence - Startup Daily",
-      "pubDate": "Tue, 16 Sep 2025 21:36:09 GMT"
     },
     {
       "title": "Parents testify on the impact of AI chatbots: \u2018Our children are not experiments\u2019 - NBC News",
@@ -833,6 +817,10 @@
     {
       "title": "Axon to acquire AI-powered 911 communications company Prepared, strengthening the public safety ecosystem from call to closure - PR Newswire",
       "pubDate": "Tue, 23 Sep 2025 15:15:00 GMT"
+    },
+    {
+      "title": "Why China Hawks Love Talking About AI - Foreign Policy",
+      "pubDate": "Tue, 23 Sep 2025 17:41:30 GMT"
     }
   ],
   "financial_markets": [
@@ -1591,13 +1579,13 @@
     {
       "title": "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion - The Guardian",
       "pubDate": "Tue, 23 Sep 2025 19:46:00 GMT"
+    },
+    {
+      "title": "Military Intelligence blows up occupation supply bridge in Belgorod region - Interfax-Ukraine",
+      "pubDate": "Tue, 23 Sep 2025 14:33:34 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "Former BLS commissioner says firing her was a \u2018dangerous\u2019 step for the US economy - CNN",
-      "pubDate": "Tue, 16 Sep 2025 21:13:47 GMT"
-    },
     {
       "title": "The economy is reliant on the \u2018fortunes of the well-to-do\u2019 says Moody\u2019s\u2014if the ultra-rich get nervy that means recession - Fortune",
       "pubDate": "Wed, 17 Sep 2025 10:16:00 GMT"
@@ -1689,10 +1677,6 @@
     {
       "title": "House Republicans threaten to cancel anyone who disparages Charlie Kirk - The Washington Post",
       "pubDate": "Wed, 17 Sep 2025 00:57:38 GMT"
-    },
-    {
-      "title": "\"One of one\": Kirk assassination leaves vacuum for MAGA's outside enforcers - Axios",
-      "pubDate": "Tue, 16 Sep 2025 21:32:10 GMT"
     },
     {
       "title": "Utah prosecutors\u2019 evidence indicates suspected motives of Charlie Kirk\u2019s alleged shooter - The Guardian",
@@ -1981,6 +1965,10 @@
     {
       "title": "Ted Cruz Plays the Long Game by Defending Jimmy Kimmel - Politico",
       "pubDate": "Tue, 23 Sep 2025 17:06:09 GMT"
+    },
+    {
+      "title": "House intelligence leader: DIA chief fired for his handling of Havana Syndrome cases - Washington Times",
+      "pubDate": "Tue, 23 Sep 2025 19:47:17 GMT"
     }
   ],
   "north_korea": [
@@ -2251,13 +2239,13 @@
     {
       "title": "China Is Desperate to Dominate Nuclear Fusion - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Mon, 22 Sep 2025 17:00:00 GMT"
+    },
+    {
+      "title": "The ultimate American nightmare: China is winning the fusion energy race - The Telegraph",
+      "pubDate": "Tue, 23 Sep 2025 11:55:00 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "My View: Arizona should lead in quantum computing by leaping beyond science and into practice - The Business Journals",
-      "pubDate": "Tue, 16 Sep 2025 21:33:00 GMT"
-    },
     {
       "title": "Our new collaboration with Maryland will accelerate scalable quantum computing - The Official Microsoft Blog",
       "pubDate": "Wed, 17 Sep 2025 14:17:01 GMT"
@@ -2461,6 +2449,10 @@
     {
       "title": "Quantum Computing Moves from Theoretical to Inevitable - Bain & Company",
       "pubDate": "Tue, 23 Sep 2025 05:05:52 GMT"
+    },
+    {
+      "title": "IonQ Demonstrates Quantum Frequency Conversion to Telecom Wavelengths - The Quantum Insider",
+      "pubDate": "Tue, 23 Sep 2025 12:53:12 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -3173,6 +3165,10 @@
     {
       "title": "Brazil Says Climate Goals Should Recognize China\u2019s Contributions - Bloomberg",
       "pubDate": "Tue, 23 Sep 2025 19:11:45 GMT"
+    },
+    {
+      "title": "UN Secretary-General: 2035 climate targets hampered, adverse effects of global uncertainty - tanahair.net",
+      "pubDate": "Tue, 23 Sep 2025 12:01:36 GMT"
     }
   ],
   "world_news": [
@@ -3355,12 +3351,6 @@
     {
       "title": "AI-Powered Method Accelerates Analysis of Atomic Interactions in Materials - AZoQuantum",
       "pubDate": "Wed, 17 Sep 2025 12:36:00 GMT"
-    }
-  ],
-  "asteroids": [
-    {
-      "title": "Once-In-A-Decade Close Encounter With Hazardous Asteroid 2025 FA22 Approaches - IFLScience",
-      "pubDate": "Tue, 16 Sep 2025 21:17:05 GMT"
     }
   ],
   "bitcoin": [
