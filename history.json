@@ -381,10 +381,6 @@
   ],
   "russia": [
     {
-      "title": "EU Delays Russia Sanctions Proposal to Align With G-7 Priorities - Bloomberg.com",
-      "pubDate": "Tue, 16 Sep 2025 06:37:00 GMT"
-    },
-    {
       "title": "Moscow and Minsk rehearse launch of nuclear weapons deployed in Belarus, Lukashenko says - Reuters",
       "pubDate": "Tue, 16 Sep 2025 10:33:42 GMT"
     },
@@ -558,10 +554,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "California poised to enact first-of-its-kind AI chatbot safety law - Imperial Valley Press Online",
-      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT"
-    },
     {
       "title": "Where South Korea's draft AI law decree fails to quell doubts, concerns - MLex",
       "pubDate": "Tue, 16 Sep 2025 08:16:00 GMT"
@@ -861,6 +853,10 @@
     {
       "title": "US, Japan formalize SAMURAI project arrangement to advance AI safety in unmanned aerial vehicles - af.mil",
       "pubDate": "Mon, 22 Sep 2025 19:58:19 GMT"
+    },
+    {
+      "title": "InTouch: AI Traffic Enforcement Boosts Safety and Compliance in Modern Cities - Parking-Net",
+      "pubDate": "Tue, 23 Sep 2025 06:37:47 GMT"
     }
   ],
   "financial_markets": [
@@ -1249,6 +1245,10 @@
     {
       "title": "These AI Stocks are Spiking and OpenAI could be the first Trillion Dollar IPO - MSN",
       "pubDate": "Tue, 23 Sep 2025 01:19:41 GMT"
+    },
+    {
+      "title": "AI poses questions for the future of digital literacy - thepostathens.com",
+      "pubDate": "Tue, 23 Sep 2025 04:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -2161,6 +2161,10 @@
     {
       "title": "Stellantis Cybersecurity Breach: What Hackers Got and What Stayed Safe - autoblog.com",
       "pubDate": "Mon, 22 Sep 2025 14:30:00 GMT"
+    },
+    {
+      "title": "Senate Deadlock Threatens Critical Cybersecurity Programs Before Sept. 30 Shutdown - Homeland Security Today",
+      "pubDate": "Tue, 23 Sep 2025 00:39:30 GMT"
     }
   ],
   "federal_reserve": [
@@ -2205,6 +2209,10 @@
     {
       "title": "4.3 quake centered in Berkeley felt across the Bay Area - NBC Bay Area",
       "pubDate": "Mon, 22 Sep 2025 10:12:27 GMT"
+    },
+    {
+      "title": "NASA satellites track Pacific tsunami in real time after massive Russian earthquake - Space",
+      "pubDate": "Mon, 22 Sep 2025 20:00:00 GMT"
     }
   ],
   "cryptocurrency": [
@@ -2639,10 +2647,6 @@
     {
       "title": "Live updates: Israel begins ground offensive in Gaza City, as UN commission says Israel is committing genocide - CNN",
       "pubDate": "Tue, 16 Sep 2025 08:34:00 GMT"
-    },
-    {
-      "title": "Rubio, en route to Qatar, warns of \u2018short window\u2019 to secure Gaza ceasefire - Al Jazeera",
-      "pubDate": "Tue, 16 Sep 2025 06:59:53 GMT"
     },
     {
       "title": "If Labour admitted there is a genocide in Gaza, it would have to admit its own hand in it | Owen Jones - The Guardian",
@@ -3465,6 +3469,10 @@
     {
       "title": "CMA is \u201cwatching and learning\u201d from US algorithmic pricing cases - Global Competition Review",
       "pubDate": "Thu, 18 Sep 2025 17:38:41 GMT"
+    },
+    {
+      "title": "Export controls on TikTok's algorithm are unique but not unprecedented - marketplace.org",
+      "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -3517,6 +3525,10 @@
     {
       "title": "Houses of Worship Could Help Fuel the Energy Transition. Solar Evangelists Are Hard at Work on That - Inside Climate News",
       "pubDate": "Tue, 16 Sep 2025 08:55:00 GMT"
+    },
+    {
+      "title": "Startup reimagines nuclear energy with mile-deep micro-reactor pilot - Mugglehead Magazine",
+      "pubDate": "Mon, 22 Sep 2025 23:20:05 GMT"
     }
   ],
   "nuclear": [
@@ -3685,6 +3697,12 @@
     {
       "title": "Nvidia plans to invest up to $100B in OpenAI - TechCrunch",
       "pubDate": "Mon, 22 Sep 2025 17:24:33 GMT"
+    }
+  ],
+  "atlantic_ocean": [
+    {
+      "title": "Gabrielle becomes Category 4 hurricane in the tropical Atlantic Ocean - WPBF",
+      "pubDate": "Mon, 22 Sep 2025 23:03:00 GMT"
     }
   ]
 }
