@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Smotrich: Gaza could be a \u2018real estate bonanza\u2019 - Al Jazeera",
-      "pubDate": "Wed, 17 Sep 2025 20:51:55 GMT"
-    },
-    {
       "title": "US judge orders deportation of Columbia University anti-Israel protest leader Khalil - The Times of Israel",
       "pubDate": "Wed, 17 Sep 2025 22:43:01 GMT"
     },
@@ -259,6 +255,10 @@
     {
       "title": "King Felipe pleads with Israel to \u2018stop massacre and abhorrent acts\u2019 in Gaza - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 16:56:00 GMT"
+    },
+    {
+      "title": "At least 20 injured after drone strike on southern Israel, ambulance service says - NBC News",
+      "pubDate": "Wed, 24 Sep 2025 16:23:06 GMT"
     }
   ],
   "donald_trump": [
@@ -507,6 +507,10 @@
     {
       "title": "Russia to Trump: We\u2019re a real bear, not a paper tiger - politico.eu",
       "pubDate": "Wed, 24 Sep 2025 11:43:00 GMT"
+    },
+    {
+      "title": "Russia Fires North Korean JU-90 Cluster Munitions at Kherson, Dud Rate Leaves Deadly Threats for Civilians - UNITED24 Media",
+      "pubDate": "Wed, 24 Sep 2025 15:26:00 GMT"
     }
   ],
   "ai_safety": [
@@ -805,13 +809,13 @@
     {
       "title": "Sea Otter Awareness Week, advocates urge Newsom to sign AI chatbot safety bill - 90.3 KAZU",
       "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "AI safety tool flags student activity, spurs debate on privacy and accuracy - Straight Arrow News",
+      "pubDate": "Wed, 24 Sep 2025 19:56:15 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Markets didn\u2019t know which way to go after Wednesday\u2019s Fed rate cut. Expect more volatility ahead. - MarketWatch",
-      "pubDate": "Wed, 17 Sep 2025 20:49:00 GMT"
-    },
     {
       "title": "Fed cuts interest rates by quarter point, signals more could be coming - The Washington Post",
       "pubDate": "Thu, 18 Sep 2025 02:39:03 GMT"
@@ -899,6 +903,10 @@
     {
       "title": "The Bull Run in Stocks Leaves Strategists Struggling to Keep Up - Bloomberg.com",
       "pubDate": "Wed, 24 Sep 2025 09:05:13 GMT"
+    },
+    {
+      "title": "Stocks closer lower for second day as investors continue selling AI plays Nvidia and Oracle - CNBC",
+      "pubDate": "Wed, 24 Sep 2025 20:19:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1199,10 +1207,6 @@
     {
       "title": "Ukraine war briefing: Europe-funded weapons shipments begin under \u2018Purl\u2019 scheme - The Guardian",
       "pubDate": "Thu, 18 Sep 2025 01:05:00 GMT"
-    },
-    {
-      "title": "The Russia-Ukraine War Report Card, Sept. 17, 2025 - Russia Matters",
-      "pubDate": "Wed, 17 Sep 2025 20:48:45 GMT"
     },
     {
       "title": "Top Russian officer reports advances on all Ukrainian fronts - Reuters",
@@ -1687,10 +1691,6 @@
   ],
   "us_politics": [
     {
-      "title": "Republicans declare 'war' on liberals in response to Kirk's death - NPR",
-      "pubDate": "Wed, 17 Sep 2025 20:06:39 GMT"
-    },
-    {
       "title": "Schiff proposes reforms to limit Trump's power: 'Necessity even greater now' - ABC News",
       "pubDate": "Thu, 18 Sep 2025 00:33:45 GMT"
     },
@@ -1981,6 +1981,10 @@
     {
       "title": "A Federal Shutdown May Be Imminent. How Would It Affect the Economy? - The New York Times",
       "pubDate": "Wed, 24 Sep 2025 16:50:54 GMT"
+    },
+    {
+      "title": "Trump administration rehires hundreds of federal employees laid off by DOGE - CNN",
+      "pubDate": "Wed, 24 Sep 2025 13:33:11 GMT"
     }
   ],
   "north_korea": [
@@ -3197,6 +3201,10 @@
     {
       "title": "China, world\u2019s largest carbon polluting nation, announces new climate goal to cut emissions - The Hill",
       "pubDate": "Wed, 24 Sep 2025 19:17:00 GMT"
+    },
+    {
+      "title": "Climate Change Could Slash Global GDP 24% By 2100 - eos.org",
+      "pubDate": "Wed, 24 Sep 2025 19:02:54 GMT"
     }
   ],
   "world_news": [
@@ -3601,6 +3609,12 @@
     {
       "title": "CISA Warns of Actively Exploited Google Chrome 0-Day Vulnerability - Cyber Press",
       "pubDate": "Wed, 24 Sep 2025 08:56:35 GMT"
+    }
+  ],
+  "quantum_mechanics": [
+    {
+      "title": "Heisenberg\u2019s Uncertainty Principle Is Unbreakable. These Physicists Found a Loophole - Gizmodo",
+      "pubDate": "Wed, 24 Sep 2025 18:01:40 GMT"
     }
   ]
 }
