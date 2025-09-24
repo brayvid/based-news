@@ -259,6 +259,10 @@
     {
       "title": "At least 20 injured after drone strike on southern Israel, ambulance service says - NBC News",
       "pubDate": "Wed, 24 Sep 2025 16:23:06 GMT"
+    },
+    {
+      "title": "Israeli attempt to annex West Bank would be \u2018red line\u2019 for US, says Macron - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 20:48:00 GMT"
     }
   ],
   "donald_trump": [
@@ -514,10 +518,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Exclusive: Credo AI CEO says U.S. needs safety standards to win AI race - Axios",
-      "pubDate": "Wed, 17 Sep 2025 21:12:56 GMT"
-    },
     {
       "title": "AI Models Match Human Coders at Global Contest - Digital Information World",
       "pubDate": "Thu, 18 Sep 2025 04:12:00 GMT"
@@ -813,6 +813,10 @@
     {
       "title": "AI safety tool flags student activity, spurs debate on privacy and accuracy - Straight Arrow News",
       "pubDate": "Wed, 24 Sep 2025 19:56:15 GMT"
+    },
+    {
+      "title": "Newsom suggests he will sign major California AI bill - Politico",
+      "pubDate": "Wed, 24 Sep 2025 19:06:31 GMT"
     }
   ],
   "financial_markets": [
@@ -925,10 +929,6 @@
     {
       "title": "Facebook owner Meta unveils new range of AI-powered smart glasses - BBC",
       "pubDate": "Thu, 18 Sep 2025 03:41:45 GMT"
-    },
-    {
-      "title": "Artificial intelligence could help detect \u2018predatory\u2019 journals - Physics World",
-      "pubDate": "Wed, 17 Sep 2025 21:44:13 GMT"
     },
     {
       "title": "Inside AI\u2019s rapid expansion: What every investor should know - Bloomberg.com",
@@ -1207,10 +1207,6 @@
     {
       "title": "Ukraine war briefing: Europe-funded weapons shipments begin under \u2018Purl\u2019 scheme - The Guardian",
       "pubDate": "Thu, 18 Sep 2025 01:05:00 GMT"
-    },
-    {
-      "title": "Top Russian officer reports advances on all Ukrainian fronts - Reuters",
-      "pubDate": "Wed, 17 Sep 2025 21:52:34 GMT"
     },
     {
       "title": "The weapons Ukraine hopes will help resist Russian invasion - The Independent",
@@ -1587,6 +1583,10 @@
     {
       "title": "Canada allocates \u20b492 million to Ukraine to strengthen cybersecurity - Ukrinform",
       "pubDate": "Wed, 24 Sep 2025 11:38:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s abrupt Ukraine shift exposes fresh frustrations with Putin - The Hill",
+      "pubDate": "Wed, 24 Sep 2025 21:13:00 GMT"
     }
   ],
   "us_economy": [
@@ -1693,10 +1693,6 @@
     {
       "title": "Schiff proposes reforms to limit Trump's power: 'Necessity even greater now' - ABC News",
       "pubDate": "Thu, 18 Sep 2025 00:33:45 GMT"
-    },
-    {
-      "title": "GOP shuts down House Democrats' effort to subpoena banks handling Jeffrey Epstein money - USA Today",
-      "pubDate": "Wed, 17 Sep 2025 21:20:54 GMT"
     },
     {
       "title": "What a Bigger-Tent Democratic Party Could Look Like - The Bulwark",
@@ -1985,6 +1981,10 @@
     {
       "title": "Trump administration rehires hundreds of federal employees laid off by DOGE - CNN",
       "pubDate": "Wed, 24 Sep 2025 13:33:11 GMT"
+    },
+    {
+      "title": "Nearly 8 in 10 see political crisis in US: Survey - The Hill",
+      "pubDate": "Wed, 24 Sep 2025 19:12:00 GMT"
     }
   ],
   "north_korea": [
@@ -2101,13 +2101,13 @@
     {
       "title": "CISA urges dependency checks following Shai-Hulud compromise - Cybersecurity Dive",
       "pubDate": "Wed, 24 Sep 2025 16:03:10 GMT"
+    },
+    {
+      "title": "Zscaler, Varonis, SailPoint among top cybersecurity stocks to own, JPMorgan says (ZS:NASDAQ) - Seeking Alpha",
+      "pubDate": "Wed, 24 Sep 2025 18:55:31 GMT"
     }
   ],
   "federal_reserve": [
-    {
-      "title": "Federal reserve issues first rate cut since December 2024 - CBS News",
-      "pubDate": "Wed, 17 Sep 2025 21:28:00 GMT"
-    },
     {
       "title": "Federal Reserve lowers rates, but less than Trump wants - NPR",
       "pubDate": "Fri, 19 Sep 2025 20:14:23 GMT"
@@ -2209,10 +2209,6 @@
   ],
   "fusion_power": [
     {
-      "title": "Scientists 'surprised' by breakthrough that could help unlock nearly limitless energy: 'A potential innovative design path' - yahoo.com",
-      "pubDate": "Wed, 17 Sep 2025 21:15:00 GMT"
-    },
-    {
       "title": "\"It Powers Entire Cities Now\": American Engineers Complete Revolutionary Fusion Magnet That Pulverizes Every Energy Crisis Forever - Visegr\u00e1d Post",
       "pubDate": "Thu, 18 Sep 2025 07:51:32 GMT"
     },
@@ -2271,16 +2267,16 @@
     {
       "title": "Eni Places Over $1B Order for Power from Commonwealth Fusion - Rigzone",
       "pubDate": "Wed, 24 Sep 2025 13:07:26 GMT"
+    },
+    {
+      "title": "Eni, CFS sign $1bn deal to commercialise fusion energy - TradeArabia",
+      "pubDate": "Wed, 24 Sep 2025 10:00:25 GMT"
     }
   ],
   "quantum_computing": [
     {
       "title": "South Side Activists Come Out \u2018Unequivocally\u2019 Against Quantum Computing Campus - Block Club Chicago",
       "pubDate": "Wed, 17 Sep 2025 23:35:39 GMT"
-    },
-    {
-      "title": "PsiQuantum Launches Construct, Tool For Fault\u2011Tolerant Quantum Algorithms - Quantum Zeitgeist",
-      "pubDate": "Wed, 17 Sep 2025 21:05:41 GMT"
     },
     {
       "title": "Universal scheme efficiently generates arbitrary two-qubit gates in superconducting quantum processors - Phys.org",
@@ -2551,10 +2547,6 @@
   ],
   "national_security": [
     {
-      "title": "White House readies executive order on political violence as liberal groups sound warning - Reuters",
-      "pubDate": "Wed, 17 Sep 2025 21:53:41 GMT"
-    },
-    {
       "title": "Homeland Security warns of possible threats to Charlie Kirk memorial with Trump attending - Arizona Mirror",
       "pubDate": "Fri, 19 Sep 2025 19:43:13 GMT"
     },
@@ -2710,10 +2702,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Marjorie Taylor Greene mixes conspiracies and religion in bid to discredit climate science - MSNBC News",
-      "pubDate": "Wed, 17 Sep 2025 21:29:19 GMT"
-    },
     {
       "title": "Federal judge questions scope of possible remedy in climate change lawsuit - Daily Montanan",
       "pubDate": "Thu, 18 Sep 2025 01:13:48 GMT"
@@ -3205,6 +3193,10 @@
     {
       "title": "Climate Change Could Slash Global GDP 24% By 2100 - eos.org",
       "pubDate": "Wed, 24 Sep 2025 19:02:54 GMT"
+    },
+    {
+      "title": "China plans 7-10% greenhouse gas reduction by 2035, Xi tells UN - Reuters",
+      "pubDate": "Wed, 24 Sep 2025 20:52:00 GMT"
     }
   ],
   "world_news": [
@@ -3421,12 +3413,6 @@
     {
       "title": "Satellite Photos Show China's Nuclear Bomber Base on South China Sea Island - Newsweek",
       "pubDate": "Fri, 19 Sep 2025 13:29:16 GMT"
-    }
-  ],
-  "spacex": [
-    {
-      "title": "Judge dismisses environmental lawsuit against FAA over failed SpaceX launch - The Texas Tribune",
-      "pubDate": "Wed, 17 Sep 2025 21:59:30 GMT"
     }
   ],
   "united_nations": [
