@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
-      "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
-    },
-    {
-      "title": "Thousands of Palestinians flee Gaza City as Israeli troops advance - BBC",
-      "pubDate": "Wed, 17 Sep 2025 15:55:43 GMT"
-    },
-    {
       "title": "The US fired $500 million in top interceptors defending Israel from missile attacks, new documents show - Business Insider",
       "pubDate": "Wed, 17 Sep 2025 17:50:00 GMT"
     },
@@ -821,6 +813,10 @@
     {
       "title": "AI psychosis \u2013 how Google\u2019s latest safety report reveals a hidden threat - Cybernews",
       "pubDate": "Wed, 24 Sep 2025 13:09:06 GMT"
+    },
+    {
+      "title": "Empowering AI Researchers Through Intelligent Agents - Bioengineer.org",
+      "pubDate": "Wed, 24 Sep 2025 13:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -1196,14 +1192,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Air defence missiles in first US weapons supplies under new mechanism, Zelenskiy says - Reuters",
-      "pubDate": "Wed, 17 Sep 2025 15:39:58 GMT"
-    },
-    {
-      "title": "Ukraine expects $3.5 billion fund for US weapons to sustain fight against Russia, Zelenskyy says - AP News",
-      "pubDate": "Wed, 17 Sep 2025 16:01:00 GMT"
-    },
     {
       "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
       "pubDate": "Wed, 17 Sep 2025 18:48:05 GMT"
@@ -2011,10 +1999,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Microsoft disrupts global phishing campaign that led to widespread credential theft - Cybersecurity Dive",
-      "pubDate": "Wed, 17 Sep 2025 15:32:49 GMT"
-    },
-    {
       "title": "Jaguar Land Rover cyberattack deepens, with prolonged production outage, supply chain fallout - Industrial Cyber",
       "pubDate": "Thu, 18 Sep 2025 06:49:58 GMT"
     },
@@ -2555,6 +2539,10 @@
     {
       "title": "NVIDIA commits $100 billion investment in OpenAI partnership for massive AI infrastructure expansion - www.israelhayom.com",
       "pubDate": "Mon, 22 Sep 2025 16:55:50 GMT"
+    },
+    {
+      "title": "Salesforce shifts focus from AI models to agentic AI - Computer Weekly",
+      "pubDate": "Wed, 24 Sep 2025 10:14:50 GMT"
     }
   ],
   "national_security": [
@@ -2711,13 +2699,13 @@
     {
       "title": "U.N. Commission: Israel Establishing Permanent Control in Gaza and Jewish Majority in West Bank - Democracy Now!",
       "pubDate": "Wed, 24 Sep 2025 14:22:35 GMT"
+    },
+    {
+      "title": "Spain\u2019s king blasts Israel over Gaza \u2018massacre,\u2019 claims country \u2018proud of its Sephardic roots\u2019 - The Times of Israel",
+      "pubDate": "Wed, 24 Sep 2025 13:21:01 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Coral reefs begin death spiral as climate tipping point nears - The Elkhart Truth",
-      "pubDate": "Wed, 17 Sep 2025 15:15:15 GMT"
-    },
     {
       "title": "Climate change \u2018beyond scientific dispute,\u2019 National Academies report says - Politico",
       "pubDate": "Wed, 17 Sep 2025 16:27:22 GMT"
@@ -3423,6 +3411,10 @@
     {
       "title": "Startup reimagines nuclear energy with mile-deep micro-reactor pilot - Mugglehead Magazine",
       "pubDate": "Mon, 22 Sep 2025 23:20:05 GMT"
+    },
+    {
+      "title": "Oman selects developers for 500 MW solar-plus-storage project - pv magazine International",
+      "pubDate": "Wed, 24 Sep 2025 12:15:10 GMT"
     }
   ],
   "nuclear": [
@@ -3601,12 +3593,28 @@
     {
       "title": "Scientists consider nuclear option to stop asteroid 2024 YR4 before it hits the Moon - Moneycontrol",
       "pubDate": "Wed, 24 Sep 2025 05:16:47 GMT"
+    },
+    {
+      "title": "'Invisible' asteroids near Venus could one day crash into Earth warn scientists - The Mirror",
+      "pubDate": "Wed, 24 Sep 2025 10:36:00 GMT"
     }
   ],
   "nuclear_power": [
     {
       "title": "Could astronauts travel to Mars on nuclear-powered rockets: These scientists want to make it happen - Space",
       "pubDate": "Wed, 24 Sep 2025 10:00:00 GMT"
+    }
+  ],
+  "algorithmic_trading": [
+    {
+      "title": "GenAI is democratising algo trading, but experts warn on quality and regulation risks - Moneycontrol",
+      "pubDate": "Wed, 24 Sep 2025 05:17:04 GMT"
+    }
+  ],
+  "cybersecurity_and_infrastructure_security_agency": [
+    {
+      "title": "CISA Warns of Actively Exploited Google Chrome 0-Day Vulnerability - Cyber Press",
+      "pubDate": "Wed, 24 Sep 2025 08:56:35 GMT"
     }
   ]
 }
