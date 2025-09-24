@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "Advocacy groups call for European ban on Israel team, players in Times Square billboard - Reuters",
-      "pubDate": "Wed, 17 Sep 2025 00:24:00 GMT"
-    },
-    {
-      "title": "Democratic megafirm SKDK drops Israel as client - Politico",
-      "pubDate": "Wed, 17 Sep 2025 00:19:18 GMT"
-    },
-    {
       "title": "Israel-Syria Security Talks Stalled, Senior Officials Tell I24NEWS - i24NEWS",
       "pubDate": "Wed, 17 Sep 2025 13:10:00 GMT"
     },
@@ -389,14 +381,6 @@
   ],
   "russia": [
     {
-      "title": "Security analysts flag rise in Russian-created misinformation posts on social media following Kirk shooting - ABC News",
-      "pubDate": "Wed, 17 Sep 2025 00:22:30 GMT"
-    },
-    {
-      "title": "Why UK's undersea cables are vulnerable - and Putin has 'pretty good map' of where they are - Sky News",
-      "pubDate": "Wed, 17 Sep 2025 00:33:11 GMT"
-    },
-    {
       "title": "New lab results show Putin critic Navalny was poisoned in jail, wife says - France 24",
       "pubDate": "Wed, 17 Sep 2025 10:26:57 GMT"
     },
@@ -535,6 +519,10 @@
     {
       "title": "Official text: Statement by the North Atlantic Council on recent airspace violations by Russia, 23-Sep.-2025 - NATO - Homepage",
       "pubDate": "Tue, 23 Sep 2025 10:27:38 GMT"
+    },
+    {
+      "title": "'We cannot wait': EU calls for drone wall to deter Russia after new incident in Denmark - Euronews.com",
+      "pubDate": "Tue, 23 Sep 2025 12:57:48 GMT"
     }
   ],
   "ai_safety": [
@@ -1193,6 +1181,10 @@
     {
       "title": "Ford's CEO: America is ignoring the 'essential economy' as AI eats entry-level white-collar jobs - Fortune",
       "pubDate": "Tue, 23 Sep 2025 18:24:16 GMT"
+    },
+    {
+      "title": "OpenAI Unveils GPT - 5: A Leap Closer to General Artificial Intelligence - 36Kr",
+      "pubDate": "Tue, 23 Sep 2025 23:30:30 GMT"
     }
   ],
   "ukraine": [
@@ -1683,13 +1675,13 @@
     {
       "title": "China\u2019s latest aircraft carrier showcases new fighter jet launch system. Only the US has the same tech - CNN",
       "pubDate": "Tue, 23 Sep 2025 06:07:23 GMT"
+    },
+    {
+      "title": "China\u2019s State Banks Shift Dollar-Swap Strategy Amid Yuan Rally - Bloomberg",
+      "pubDate": "Tue, 23 Sep 2025 22:30:00 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "House Republicans threaten to cancel anyone who disparages Charlie Kirk - The Washington Post",
-      "pubDate": "Wed, 17 Sep 2025 00:57:38 GMT"
-    },
     {
       "title": "Trump makes second state visit to the UK - live updates - CNN",
       "pubDate": "Wed, 17 Sep 2025 09:26:00 GMT"
@@ -1981,6 +1973,10 @@
     {
       "title": "Hegseth axes panel that encourages women to enter military - Politico",
       "pubDate": "Tue, 23 Sep 2025 18:26:45 GMT"
+    },
+    {
+      "title": "Trump UN escalator snafu: White House wants investigation of sudden stop - CNBC",
+      "pubDate": "Tue, 23 Sep 2025 15:58:59 GMT"
     }
   ],
   "north_korea": [
@@ -2675,13 +2671,13 @@
     {
       "title": "Trump at UN: Gaza war must end now, Palestinian recognition 'rewards' Oct. 7 attack - Haaretz",
       "pubDate": "Tue, 23 Sep 2025 18:14:00 GMT"
+    },
+    {
+      "title": "Explosions and multiple drones targeting Gaza aid flotilla boats, activists say - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 00:48:26 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Majority of Florida\u2019s Republican Voters Back Clean Energy Initiatives - FlaglerLive",
-      "pubDate": "Wed, 17 Sep 2025 00:45:38 GMT"
-    },
     {
       "title": "Australia has an Everest to climb if it wants to protect itself from climate catastrophe. But do we have the political resolve? | Erwin Jackson - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 03:10:00 GMT"
@@ -3193,6 +3189,10 @@
     {
       "title": "Stanford study projects increased US death toll due to wildfire smoke, climate change - ABC7 San Francisco",
       "pubDate": "Tue, 23 Sep 2025 23:37:30 GMT"
+    },
+    {
+      "title": "Pacific 'blob' heat wave now spans an area the size of the US - SFGATE",
+      "pubDate": "Tue, 23 Sep 2025 23:59:47 GMT"
     }
   ],
   "world_news": [
@@ -3405,10 +3405,6 @@
     {
       "title": "SpaceX targeting Wednesday for Starlink mission from Vandenberg SFB - Santa Maria Times",
       "pubDate": "Wed, 17 Sep 2025 02:00:00 GMT"
-    },
-    {
-      "title": "SpaceX Eyes First Starship Version 3 Launch In \u201925 Or \u201926 - Aviation Week Network",
-      "pubDate": "Wed, 17 Sep 2025 00:51:48 GMT"
     },
     {
       "title": "Judge dismisses environmental lawsuit against FAA over failed SpaceX launch - The Texas Tribune",
