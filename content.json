@@ -1,72 +1,62 @@
 {
-  "AI Safety": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Empowering AI Researchers Through Intelligent Agents - Bioengineer.org",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGJ6ZTI2VTlfQmo4Tm9hcEk3RDZDVm5BV2gycGozWjlhZGt4TE5EN01fYXlIY2dmNms5djFUQzVCdFROM0t2SXdFbWhXUDVFY2VKbWVDbVptbGZoaG5RUzBPZjdHbG56UHFTQkk4VnltQXRyeGtRR2FzbXR3ZTYyMUloTQ?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 13:30:00 GMT"
+        "title": "Ukraine issues a stark warning about a global arms race and AI war - NPR",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXNXNm5CY1hvendobHc4VWxIZVVYZlpSRE9fZkZOZzF3OWdkc1hheC1FMDdXUE5IcFdTbk5LMVpvdGRIN0c1cG4tUzV0R05yMVljam5JYWp1aWduQkRjalBnYm1pNWpwMzJCVW1hWTRTTE9pNEFoSk1nR3YtdkVBNEpTeFA3d3NRLXlKSndBTmw4QQ?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 15:41:51 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
-  },
-  "Algorithmic Trading": {
-    "articles": [
-      {
-        "title": "GenAI is democratising algo trading, but experts warn on quality and regulation risks - Moneycontrol",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdnk2SWFBVFhxYmpROG9rTmxrYWZ0aGhwdndGTmRwQWthVWloellMdV9Ib0k2cGwxQ2EzbDB5c0hTN2tzZmNJMElUMjNWOVlxVTRZaWNZUGg4Tk1sTDd4ejJaMEY0VExLSXNuNFhtV2REQXdEclZISmlxWFVTQlJzLWxzb1IzeW9kQUo5NzBualI0aDVUZlpONkt2Y0toUmFvLW4wR0RZVFRfZ2VYaVVFUEZtMG9MX2c1SEVzek53c2VSM09qYmdFWW1LeFo2OTEtb2h1SE5EMm1KRVV3eDlBaU9VMNIB6AFBVV95cUxQWVVzUHBQcndsd214MEtPUjlvZWxxZjVNcFJwZlBGdzJqdTlJWEhjdHZXa2tqOTdRRmRWZUItTnctbjdhWmhBdmJjbHdXYzJYdktPWDMxVnZPY1ZabEpWd0N4WWI4Z0puU21fY2dhOUktUl9oa3k2R1NmNWxLRnZ5RElGdHBDdEZSMWxfZDRndG1NakRNWE15ZHZ1T0NsLWh2ZVNTYkZuNk9HcjV6ZkFvMmV6dER6MTBFYWdSV3drT1BBVlJBSllnT1lhaU01TURjTmxvS1hweEt2QWc4cXpmWFdmeDl5a2I1?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 05:17:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
-  },
-  "Alternative Energy": {
-    "articles": [
-      {
-        "title": "Oman selects developers for 500 MW solar-plus-storage project - pv magazine International",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPclVnWERWaXdwYlpIdDlpVGM2M0NMcTJZMDU1amFzaDRNVE1FOTZIN2toVWRIR0FTamVtR2x5LVB5X2NkcXN4ak8ycVl3NUlncGY4Y3hiTm43a2d6Y2IwUjNpenNia01jX19pNFdnSTRYTVpkRlZwbzdBU3JXcU9ac3JMRlR5NnZhcElOYWNMdEdEeV9VNEJlZnIwVDVIc3A2ZmI0?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 12:15:10 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
-  },
-  "Artificial General Intelligence": {
-    "articles": [
-      {
-        "title": "Salesforce shifts focus from AI models to agentic AI - Computer Weekly",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWZ4RTZtaHVyekVJSjI5T25PUmZKQklmcmdJcG13Wkh6b1ZIRjcwcVNIY0JFUEdDdUdFbVdHTXhudXM5SVozdUFEMENaYlAxVE9ERy1hVngyTHZEZHRhMHEtMlE0SXpWNG5NZkxvWkpYbDNwaFJNdTJsWU5tUHNHOFgxX1dETEd2UVFvQ05zbXAtVll0VlZwWnpvZDBRVHc?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 10:14:50 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
-  },
-  "Asteroids": {
-    "articles": [
-      {
-        "title": "'Invisible' asteroids near Venus could one day crash into Earth warn scientists - The Mirror",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEdWekgtLUhHR3JldC1Hd3lMWWpFaVVxYzkyM2hZWjZhWGY4bFhKUlVEUUdNWVp1YnlmV254eXBnU0JUb1NVSU40UGRCc2FXMVFGOXMyM0plWExja1ptaTFnZW96SkN2aDBrM2JMRGx5a05IVHVWazlTNGtwcVhRMUdiZXlaYTFWQUpZ0gGQAUFVX3lxTFBJT0ExbEJ4c3RjdENYb2FXbnhLcFBIcXBidUZyS0dLRi16b1dlS2p6Y2duSXFXbW9HVi1ibUhQQlpnS3ZlRVUyNWtnWkR4NmNCTXJGU0hWSmdpSHdVUWJaTjZFMThhSnhVV3Qyc0lwMnpiZWdINXpMVnhkY0hPRXhvZHBibkJnN3JaUzNVMEM1Rw?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 10:36:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
-  },
-  "Cybersecurity and Infrastructure Security Agency": {
-    "articles": [
-      {
-        "title": "CISA Warns of Actively Exploited Google Chrome 0-Day Vulnerability - Cyber Press",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUndYdndyV0N6M2VZbW5vd0FoR2U0NVFxWDlyOXZxcUZpQnYtS2t5enFlLUJJdGtZZldHVVRMTW9ka2J3SjFESk5sSGl4NV9rak1LY0UyVU1FVlV3YnN3?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 08:56:35 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
   },
   "Gaza": {
     "articles": [
       {
-        "title": "Spain\u2019s king blasts Israel over Gaza \u2018massacre,\u2019 claims country \u2018proud of its Sephardic roots\u2019 - The Times of Israel",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HTXMwQXcycG5mT3lSRGdSajlialB0ZWRYNi04aWdITnYtNGdIWFFGUlR3S25PbXlXNl9NZXlLdlp4MGhPd2JxeWZWeU0xZVpTaUNQdHItc3ZLZmNHNUxvdFNNNFcyeGhP0gFuQVVfeXFMTTR4Rm41SE05SFBYWDJUMTJpaG1UMmNmZUxiaWVkTWEyV3NGS1ZSUTJUZkp1aG9VN3lNZy1UZldYUFNPTTAwVXl4cXE5Sm1hNHMtd3ZyT2J5U3kzUUpGREhIUHp4VWtZVFlwYUF0Rmc?oc=5",
-        "pubDate": "Wed, 24 Sep 2025 13:21:01 GMT"
+        "title": "The Gaza Left and the Gender Left - The Atlantic",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzU5dlYwVWt1dU5aNVZTZUZKdHEwY1JJNWFjLTJsbUduUGhiOFJFVXZuSThRVXFnbTc0R0M3aHNOejF5V0tyUjJ5YW9nMHZxM2UzSEN5Yl9pOUNPMXpGX082Q3FzSW0tUmE0OGl0RFVmd1o2Yk5WTDZZSDNWTEk4MWYwckp6ODdsdjN4cFlfdw?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 10:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-24T16:01:30.754307+00:00"
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
+  },
+  "Climate Change": {
+    "articles": [
+      {
+        "title": "Oceans dangerously acidic from carbon emissions, report warns - CBC",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkNKWGVoMno4Vm9ORnZzSXpSMUR2NTN6VnVCZjJkMVFIaG5ibWlEQ3dNQ2F4M2pqTHFHdlNQLTIzaEJoTWJKX0E1ajJrZXY3Zk40bEE5M1dxRVpqdDEtX0h4UFlRNFV0bmVVWm9NNUR2NHlhb19BUFhLMHVIZC1rSklpZFFfTEZpSzE2MQ?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 16:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
+  },
+  "Artificial Intelligence": {
+    "articles": [
+      {
+        "title": "Private health insurers use AI to approve or deny care. Soon Medicare will, too. - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2JOMnllME5qZ1FDRTV1ZEtMTnBSTmhuRVZReDRrcEdLeWp0VEdoeVg4Wkp6bUdXVWV4dEQyRENmUlR1S3ZqNkRBYl9SdTUyUjRTZFY1UlQyZ1A3WEFTMUU2ZXRwR25GX0xaMjdXdTM4VTBfRkNQa1NkeGlzanhlNGpQUEJTeEZiZ0s3T2l1UmRTSWc1NzUxZGI0X1NHSVk4VzlSbEl5QUJjS0U0bTBEZllSTXNYY1lOclJrTTVB0gFWQVVfeXFMTXJBVU5IR1Z4RHNKQlNZY1VTVk4tTHI0UmpkNXpMNm9nbmhLWUtLcGVkZlVXc0dyTkg0QktrdDJYWXY0VmZPcF8zQWlPMkpkU2pqdnJ3amc?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
+  },
+  "Quantum Computing": {
+    "articles": [
+      {
+        "title": "Quantum computer chips clear major manufacturing hurdle - Tech Xplore",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nNkpOWW1renZ4UmZMNmFEN0xKc2NzallMNk1SMkpDdHpjRjRELTYyckV4dlZhU09wSzBXTy05bGotSUVESWVUcHhmSFNmYTkzenlOdnNLNnM3Nlc3ZmIteE9JcFdjZXh3dC15T0Jfem1DLXNTWWc?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 15:00:09 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
+  },
+  "Fusion Power": {
+    "articles": [
+      {
+        "title": "Eni Places Over $1B Order for Power from Commonwealth Fusion - Rigzone",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWtfMVRNVWlZWFZoSzBVakNsa3RaZ3p5b2VtOVJvNFlZZFVCTXRObi1fMlJUR3owWGZoV0VUNXhHNDJNX1hBeGc4WGlqNEROSXAtTldleVpnalpiYUtoRlAyeDRvMG16RmRKQ19GakpreDNTQUZ1WmVxTFFTMlJyeDE1OEoweU4wLVpuOVEtU1ZsN0psb1dSNV9OUm9BcGlTWDltYWxKd1hGZUItS0hmSmVaYmFEVVE?oc=5",
+        "pubDate": "Wed, 24 Sep 2025 13:07:26 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-24T17:01:55.486894+00:00"
   }
 }
