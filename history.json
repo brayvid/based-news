@@ -543,10 +543,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Child-focused AI expands amid safety concerns and persistent incidents - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Wed, 17 Sep 2025 07:13:44 GMT"
-    },
-    {
       "title": "Aveni Unveils Next Iteration of FinLLM setting AI Safety Standards for Agentic AI Adoption in UK Financial Services - FF News | Fintech Finance",
       "pubDate": "Wed, 17 Sep 2025 10:12:55 GMT"
     },
@@ -841,6 +837,10 @@
     {
       "title": "Motorola Solutions tops Fast Company list for AI in public safety - IT Brief Australia",
       "pubDate": "Wed, 24 Sep 2025 02:53:00 GMT"
+    },
+    {
+      "title": "ABS and Persona AI Partner to Bring Humanoid Robotics to Shipyards, Advancing Safety and Productivity - Silicon Canals",
+      "pubDate": "Tue, 23 Sep 2025 22:03:07 GMT"
     }
   ],
   "financial_markets": [
@@ -938,10 +938,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
-      "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
-    },
     {
       "title": "China bans tech companies from buying Nvidia\u2019s AI chips - Financial Times",
       "pubDate": "Wed, 17 Sep 2025 08:32:57 GMT"
@@ -2237,6 +2233,10 @@
     {
       "title": "TransUnion verifies authenticity of letters sent to consumers about data breach affecting millions - WGAL",
       "pubDate": "Tue, 23 Sep 2025 00:24:00 GMT"
+    },
+    {
+      "title": "App targeting Charlie Kirk critics leaks user data in huge privacy breach - The Economic Times",
+      "pubDate": "Tue, 23 Sep 2025 21:05:06 GMT"
     }
   ],
   "fusion_power": [
@@ -2529,6 +2529,10 @@
     {
       "title": "Marketers using agentic AI foresee quantum computing\u2019s rise soon - IT Brief New Zealand",
       "pubDate": "Wed, 24 Sep 2025 00:56:00 GMT"
+    },
+    {
+      "title": "IBM and AMD to Collaborate on Quantum-centric Supercomputing - EE Times Asia",
+      "pubDate": "Wed, 24 Sep 2025 01:56:15 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2723,6 +2727,10 @@
     {
       "title": "Explosions and multiple drones targeting Gaza aid flotilla boats, activists say - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 00:48:26 GMT"
+    },
+    {
+      "title": "BRICS leader Ramaphosa shames west-dominated UNSC, cites Israel's Gaza 'genocide' after Trump speech | Hindustan Times - Hindustan Times",
+      "pubDate": "Wed, 24 Sep 2025 01:59:08 GMT"
     }
   ],
   "climate_change": [
@@ -3233,10 +3241,6 @@
   ],
   "world_news": [
     {
-      "title": "Hundreds of tourists left stranded near Machu Picchu after protests - CNN",
-      "pubDate": "Wed, 17 Sep 2025 07:48:46 GMT"
-    },
-    {
       "title": "Saudi Arabia, nuclear-armed Pakistan sign mutual defence pact - Reuters",
       "pubDate": "Thu, 18 Sep 2025 04:25:00 GMT"
     }
@@ -3405,6 +3409,10 @@
     {
       "title": "Export controls on TikTok's algorithm are unique but not unprecedented - marketplace.org",
       "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
+    },
+    {
+      "title": "Oracle to control Tik Tok US algorithm - news8000.com",
+      "pubDate": "Tue, 23 Sep 2025 20:13:05 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -3605,6 +3613,12 @@
     {
       "title": "China tests world-class robot arms for \u2018artificial sun\u2019 project - Interesting Engineering",
       "pubDate": "Mon, 22 Sep 2025 23:00:00 GMT"
+    }
+  ],
+  "asteroids": [
+    {
+      "title": "Scientists consider nuclear option to stop asteroid 2024 YR4 before it hits the Moon - Moneycontrol",
+      "pubDate": "Wed, 24 Sep 2025 05:16:47 GMT"
     }
   ]
 }
