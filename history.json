@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "The US fired $500 million in top interceptors defending Israel from missile attacks, new documents show - Business Insider",
-      "pubDate": "Wed, 17 Sep 2025 17:50:00 GMT"
-    },
-    {
       "title": "European Commission seeks sweeping sanctions on Israel amid Gaza offensive - Jewish Telegraphic Agency",
       "pubDate": "Wed, 17 Sep 2025 18:20:21 GMT"
     },
@@ -255,6 +251,10 @@
     {
       "title": "BRICS leaders Slam Netanyahu; Ramaphosa, Lula Call Out Israeli Aggression In Gaza - Times of India",
       "pubDate": "Tue, 23 Sep 2025 23:02:08 GMT"
+    },
+    {
+      "title": "Yemen drone attack injures more than 20 in Israeli city of Eilat, including two in serious condition - CNN",
+      "pubDate": "Wed, 24 Sep 2025 17:46:52 GMT"
     }
   ],
   "donald_trump": [
@@ -809,6 +809,10 @@
     {
       "title": "Empowering AI Researchers Through Intelligent Agents - Bioengineer.org",
       "pubDate": "Wed, 24 Sep 2025 13:30:00 GMT"
+    },
+    {
+      "title": "The boy who cried AI - Cybernews",
+      "pubDate": "Wed, 24 Sep 2025 12:00:52 GMT"
     }
   ],
   "financial_markets": [
@@ -1181,6 +1185,10 @@
     {
       "title": "Private health insurers use AI to approve or deny care. Soon Medicare will, too. - NBC News",
       "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "AI can now pass the hardest level of the CFA exam in a matter of minutes - CNBC",
+      "pubDate": "Wed, 24 Sep 2025 12:28:40 GMT"
     }
   ],
   "ukraine": [
@@ -1575,6 +1583,10 @@
     {
       "title": "Ukraine issues a stark warning about a global arms race and AI war - NPR",
       "pubDate": "Wed, 24 Sep 2025 15:41:51 GMT"
+    },
+    {
+      "title": "\u2018Most destructive arms race in human history\u2019: Zelenskyy appeals at UN for intervention to stop Russia - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 11:36:00 GMT"
     }
   ],
   "us_economy": [
@@ -1973,6 +1985,10 @@
     {
       "title": "Two people detained by US immigration reportedly shot at Dallas Ice facility \u2013 live updates - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 09:50:00 GMT"
+    },
+    {
+      "title": "A Federal Shutdown May Be Imminent. How Would It Affect the Economy? - The New York Times",
+      "pubDate": "Wed, 24 Sep 2025 16:50:54 GMT"
     }
   ],
   "north_korea": [
@@ -2267,14 +2283,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "NYS to invest $300M for Stony Brook University quantum computing hub, Hochul says - Newsday",
-      "pubDate": "Wed, 17 Sep 2025 17:35:59 GMT"
-    },
-    {
-      "title": "IonQ, Honeywell, EPB partner with DOE to boost quantum-in-space collaboration (IONQ:NYSE) - Seeking Alpha",
-      "pubDate": "Wed, 17 Sep 2025 17:22:26 GMT"
-    },
-    {
       "title": "Microsoft to open quantum research center at the University of Maryland - StateScoop",
       "pubDate": "Wed, 17 Sep 2025 19:14:37 GMT"
     },
@@ -2497,13 +2505,13 @@
     {
       "title": "Quantum computer chips clear major manufacturing hurdle - Tech Xplore",
       "pubDate": "Wed, 24 Sep 2025 15:00:09 GMT"
+    },
+    {
+      "title": "QuEra and Collaborators Unveil Breakthrough in Algorithmic Fault Tolerance for Quantum Computing, Cutting Runtime Overheads and Accelerating the Path to Real-World Applications - PR Newswire",
+      "pubDate": "Wed, 24 Sep 2025 15:00:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
-    {
-      "title": "Gemini just aced the world's most elite coding competition - what it means for AGI - ZDNET",
-      "pubDate": "Wed, 17 Sep 2025 17:16:00 GMT"
-    },
     {
       "title": "Google\u2019s Gemini AI achieves gold medal in prestigious ICPC coding competition, outperforming most human teams - Dataconomy",
       "pubDate": "Thu, 18 Sep 2025 09:06:44 GMT"
@@ -2713,10 +2721,6 @@
     {
       "title": "Doctor Warns Children Face Heightened Risks In US Climate Trial - Barron's",
       "pubDate": "Wed, 17 Sep 2025 19:14:00 GMT"
-    },
-    {
-      "title": "Grapes or olives? Dilemma for Bronze Age farmers beset by climate change - The Times",
-      "pubDate": "Wed, 17 Sep 2025 18:00:07 GMT"
     },
     {
       "title": "Marjorie Taylor Greene mixes conspiracies and religion in bid to discredit climate science - MSNBC News",
@@ -3197,6 +3201,10 @@
     {
       "title": "Oceans dangerously acidic from carbon emissions, report warns - CBC",
       "pubDate": "Wed, 24 Sep 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Watch NGFS Secretary General Yann Marin on Climate Risks - Bloomberg.com",
+      "pubDate": "Wed, 24 Sep 2025 17:15:24 GMT"
     }
   ],
   "world_news": [
