@@ -817,10 +817,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Fed cuts interest rates by quarter point, signals more could be coming - The Washington Post",
-      "pubDate": "Thu, 18 Sep 2025 02:39:03 GMT"
-    },
-    {
       "title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
       "pubDate": "Thu, 18 Sep 2025 14:42:00 GMT"
     },
@@ -903,6 +899,10 @@
     {
       "title": "Stocks closer lower for second day as investors continue selling AI plays Nvidia and Oracle - CNBC",
       "pubDate": "Wed, 24 Sep 2025 20:19:00 GMT"
+    },
+    {
+      "title": "Treasury Secretary Bessent unveils $20 billion \u2018bazooka\u2019 to try to stem Argentina\u2019s financial crisis - MarketWatch",
+      "pubDate": "Wed, 24 Sep 2025 17:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1185,6 +1185,10 @@
     {
       "title": "TSMC, chip design software firms tap AI to help chips use less energy - Reuters",
       "pubDate": "Thu, 25 Sep 2025 01:10:00 GMT"
+    },
+    {
+      "title": "Sam Altman Calls for \u2018Abundant Intelligence\u2019 in Blog Post - PYMNTS.com",
+      "pubDate": "Wed, 24 Sep 2025 23:03:45 GMT"
     }
   ],
   "ukraine": [
@@ -1969,6 +1973,10 @@
     {
       "title": "A frustrated Sen. Van Hollen urges Democrats to take bigger risks - The Washington Post",
       "pubDate": "Wed, 24 Sep 2025 22:46:31 GMT"
+    },
+    {
+      "title": "Republicans, Democrats call for primaries, election to fill vacant Senate District 26 seat - Northwest Arkansas Democrat-Gazette",
+      "pubDate": "Thu, 25 Sep 2025 01:28:00 GMT"
     }
   ],
   "north_korea": [
@@ -2711,10 +2719,6 @@
   ],
   "climate_change": [
     {
-      "title": "China tests an express route to Europe through a thawing Arctic - politico.eu",
-      "pubDate": "Thu, 18 Sep 2025 02:49:14 GMT"
-    },
-    {
       "title": "Australia announces higher emission cuts by 2035 - BBC",
       "pubDate": "Thu, 18 Sep 2025 03:47:53 GMT"
     },
@@ -3213,6 +3217,10 @@
     {
       "title": "China leads nations with new climate plans, defying US climate denial - Reuters",
       "pubDate": "Thu, 25 Sep 2025 00:59:00 GMT"
+    },
+    {
+      "title": "Houston residents divided politically about what\u2019s causing climate change, survey finds - Houston Public Media",
+      "pubDate": "Wed, 24 Sep 2025 21:27:09 GMT"
     }
   ],
   "world_news": [
@@ -3433,10 +3441,6 @@
   ],
   "united_nations": [
     {
-      "title": "UN Security Council to vote on Gaza ceasefire resolution despite US opposition - France 24",
-      "pubDate": "Thu, 18 Sep 2025 02:16:31 GMT"
-    },
-    {
       "title": "Israel kills 34 people in Gaza ahead of UN meeting, where countries will recognize Palestinian state - AJC.com",
       "pubDate": "Sun, 21 Sep 2025 09:11:58 GMT"
     }
@@ -3621,6 +3625,12 @@
     {
       "title": "Heisenberg\u2019s Uncertainty Principle Is Unbreakable. These Physicists Found a Loophole - Gizmodo",
       "pubDate": "Wed, 24 Sep 2025 18:01:40 GMT"
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Trump presents new plan to end war in Gaza to Arab and Muslim leaders - France 24",
+      "pubDate": "Wed, 24 Sep 2025 21:42:04 GMT"
     }
   ]
 }
