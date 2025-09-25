@@ -1,72 +1,62 @@
 {
-  "Ukraine": {
-    "articles": [
-      {
-        "title": "Ukraine says Russia's war will spread unless they're forced into ceasefire - NPR",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJnckJkelQydEdVM3RFRUw5eTdvVmh3QkU3WXRGZ0xzMEg5UUJQd0pnUjRVRTg2MVRISDNHblIwMFhSRC1fMWdFV3QwY3lmQ1VPQ2xSc3R2dnFPT3JveGlJRmZicWNDakpvWFhpLXI1azBwOG5pUUxja2I3OGc2bXl6aV9Pa1ZTYnRUQ0lFeE0xQVRkSHdWVHJoYzZRRzB1Q2FmUERoeEpxcDJWZEl6cnVOT2VnRURa?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 09:02:49 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
-  },
-  "Gaza": {
-    "articles": [
-      {
-        "title": "'We Did Not Act Like a Superpower\u2019: Some Biden Aides Have Regrets Over Gaza - Politico",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTBoNWdFNHhGRFVDc2dHdEg0ZUpOc2F2NW84d0FXMjktb2h3RDFjcnlnUTVWUk9hekFQbFV3VWdYWGlIZ2dRUkJTdmNnTkprcTBCZjUxeTd1NldkQVJHU3M5V0JucGZweVFaTFMtUUNHcFY4bzdmNXlpcDcyYlp3YVdvWkhkdHRMRXkzSkkyN0cxekk?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
-  },
   "Artificial Intelligence": {
     "articles": [
       {
-        "title": "The United States Regulates Artificial Intelligence with Export Controls - The Regulatory Review",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVlfMkRvLUVBQnY3S3h1bjNDUHlzTWpvYlFiVVNCV2NtdGlWdzBFMF9ubHROVkxkNlBCTHVWeTlRM05CeWlzYUxtZFlpanVFcVdnSnhlenhZa3Mtd3FydzBabS0xR3Bvbm8tS2hrb04yZ0RvTDc3RXFKUHlLQUlkNEE4VXU1WDVfbE8yZHNoVjlLMFdVdmo3SV9pTkxtVlRHTGVZcU9jZ212R3NWMl9Jei01MEZydk1wR0ZTT29n?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 04:18:16 GMT"
+        "title": "Chinese studio criticized for using AI to make gay couple straight in body horror film - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnBKZzlkV0l6ZGFpVlB5cnpGZ2RBZkxrQ2hIc2N4WWUxUUpMSXlhWFFrR09HN2N5aE9YbmxqVE5ZZmV0NncyYks2V2JkaXgybVduVUZONmlwaU1TY19mOUNsTzZ3MnJFblB6VUhjV3E5NWFnakswSFp3YV9fVWRKTUZOdWpvcnU0UDFEZkZ2Ym40ekJyTlBWRHB5T3pteFNFT1lPdmVLdmFHZXdiQjNLemxPYWnSAVZBVV95cUxPNjk4OW9OZ2FwOTBnd2lmbkZtMTdpaUZFTWZLV0xLSXdKUWRQclFSNWliUldoSTJmTWptUWdnaUJXekViaC1FOVRqeVlYUGFDaEFVNmplQQ?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 11:21:14 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
-  },
-  "Climate Change": {
-    "articles": [
-      {
-        "title": "Climate change is making trees grow larger in the Amazon rainforest - New Scientist",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHpkRWJybTBkUzdNaXhhNGsxN0tZWmIxd19wTWo4cG5WeUxadFlTajlvUVFQcDVFSnVMNzhxTld1X0pYa0N4Y3pGbEZjczlnSkFvUjkwVThIek1wRklqZFBWd0dmcGd3X1NyTFZsMUkwS1hsbms3RHBIQ3c3Q2dHWWphaEhfTDB2Nm0xbHVuZnU5UHVsajVYUGRZb3lzSlBSZ0tHa0VLV19yNUY5b3ZJQ2F4cw?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 09:00:04 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
-  },
-  "Financial Markets": {
-    "articles": [
-      {
-        "title": "AMERICAS More Fedspeak, more questions - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0pWbEdYVk9CdUozaTFFWjRkRVYyN2RlX3R0ZHpndTJlNUdxZTF2TDVSRE9fTF9HQWViZ0hST1FsMzdfM3BXODljeDdKZTJNWDBVUnRxZWRhR3RvakVuVDJWa05Id2Y1T3lKZUdaenB3RFVTRkRXN0VYcXQ2cnFkdDFn?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 10:45:28 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
   },
   "Cybersecurity": {
     "articles": [
       {
-        "title": "Airport attack suspect arrested, DDoS hits new record, BRICKSTORM backdoor steals IPs - CISO Series",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGF4UUw0ZHkzR0FrdDJkdnJsNUZTWGdPbm4yaDRwamhQeVRvS0dWc205UGJrNUhGcVhDek9FS3NvZWM5UVNrTXJXWmNSSWVEM0ZrdzhUbHF1N0htZG9RT0xmQjB0NUV6M2JSY2NHQllYOHVnYmtrZmFMYUY3ZWowYkpOV2Z6alNJbGc2NXFOUG1qWElDZ0lYdUd1YVIzc3FhZnAyVlE4N1RTOXhwRFpTZWJOclJhMFFOek5uRFpXcmxkaURTbkZGQmdjZHhPMWZWTEZsSg?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 10:00:00 GMT"
+        "title": "Malicious Rust Crates Steal Solana and Ethereum Keys \u2014 8,424 Downloads Confirmed - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVQwQ1pkMDZCa3dIYU5MQlhYd2x3ODdmTExUa281Sl9HclB5UElMMmwyR2xndGtOamY2OHFTb0hZbWwwdDhnOVE4ZUVkZTZscjBMWkotS3VMengzOXFsYlZnMS1za2RSdnNEYUVuRmdBZVRyRF9GVXp3Q0FGVU9SWi1uUQ?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 07:59:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
   },
-  "North Korea": {
+  "Data Breach": {
     "articles": [
       {
-        "title": "Seoul says North Korea holds up to two tonnes of weapons-grade uranium - France 24",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVM3d0szS1cwZkNoeUV6QVhpYVdHSU0tc3dOdGdaR3lIRnYyZFVXeG5ULXZLeW5NR0dBclRNb19Sc3JWOTNWT0RLZDY1OFJKd1g1MlYyaDZLOUpoZ2JrbmFNd2xWYWZmMi1Ecno2LUhRQ0JlalR0aVBwNmZiYjBHd184ZWJuTU1uNmJBMUtvbzJSQTdBelg2Uy1OSE9SeWdVMHZPVFFRNjF5dmpOTlpFbl9waG5CbDJ3UlZYaQ?oc=5",
-        "pubDate": "Thu, 25 Sep 2025 05:24:07 GMT"
+        "title": "Volvo Group Employee Data Stolen in Ransomware Attack - SecurityWeek",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHRxVmhKTDIwLXk2VTN0NEJJYmFvd3F1UFF4djViamd3ZkZubXgzQWFOUnAtc0o1QjFPdHZHVkdIQ2ZtbHluZzFDWWx3cXktNUZFS3lfY1NZUktESUlKLTRTLWRabWU4WVk3Uk43QjB1V3VyUktnMUktS0k5MFdrbDl4NDl4NDdxZWVn0gGQAUFVX3lxTFAzdWU3bVVDQk96Sk4ycU9Ud3p2SkIxSEpSQmdNRXlpRXg4REZScWxJVndtaVJXZm9VMExGQjQtbDhWMVdYY0ZvTHViMjZ6TDQ4T0QwOXZfX29iTFoxQkVlczZfaVIxQ0dkRGtGZl9MVnEzbm5VeE5EdnZzcFBPMkpMV0FpQ21Sai1WcjdIOXpwbA?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 10:06:47 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-25T11:00:43.514141+00:00"
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
+  },
+  "Geopolitics": {
+    "articles": [
+      {
+        "title": "Is China using an alleged criminal to get Paraguay to ditch Taiwan? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWFoSVMtYU4wZng4ME91QjM3aDRjV1EtR3piMkQ2bHVjVHoyS1hMS0lvc2xIYlF6SVdleG1SVU5YSlFXWktXQmVGSXBWdFVGTHlVb3lOX3ZybjNpM2lmMU05ek5pNDRhd2RxcFZyYlpTMlR6TkZoYlctMVhpSEFhM0xxUWR0SkJINEtaX21nMkRuWUwwVFNUaVBKcG5MMFE2enBBbU5kbG54VGIzRTdMSkpQTW1xZUlu0gG-AUFVX3lxTE8zVEFhOTZBZU84aEtFV0I1Tjc4TUZYbVdPaUIzdnp4Y0pXTTJXU3VwYnh2cEdQU1RNXzV3NWhtSFFOWTBnU2dzR0stRTJuTkoxUXdDcFVfODladmtZRXhXaHFuSlR3aE8yWXhsNHdNcV9uM3JWMk45STRzR1VwT1Z5SV9IT1dXdzZLcm9UaFlscjREX2xlX2s5WjVzNElpQzJYRHlGWE9FenBnRVhETTNxOG1tem5NVkYyMER0WVE?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 10:43:42 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
+  },
+  "US Politics": {
+    "articles": [
+      {
+        "title": "Democratic anger at their own party fuels 2026 primaries - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm03cnBJc18wUDZaUzMyajE3M21QZ2lVYldRSTRnNE1IdmxrUDZfazFUV1doeGp6NUhKQnlPUUYtWF9Ubkw4aV9fOHdIYVJSaWZzbkU0RV9tU1R5R2lsOTBsck5qTVFqalcwdXBhQ3YtMEdOLVBqaTFlNXZBa245RHJKYkUwM0hWZXlWS0tHYWhQVzhvbW5BNTA2Z3NJdFVfX3Y00gFWQVVfeXFMTnVLYlg1MHR1bVFXVy1HeDBWUUE5YVFrc0dKVXBVSUFFQ0NZaUtHVWdMcHB0UnlmSi1sVkZHaEY3VG9Zczh1Qzdwc2htaGJSYmZmN0dzcXc?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
+  },
+  "World News": {
+    "articles": [
+      {
+        "title": "At least 17 killed in Gaza Strip as leaders ramp up pressure for a ceasefire - The Hill",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdURpSlRtWGdjcjQxZFJNdGc0MnBxdEpqc2llMm8zbXFjd1BuU0VOb3MtQU9kZk1wMkJ0XzZxNG1oc1NiN2R1NDZtZHdLN1M0dE1ZVDk2XzdsbFBHOTdCVEE1VlVBa2tRX3BXNVN4aGVaWnltZFhLY1RoLTRYTXFKWk5zenNvYnJjQTVhQzVzaUtxS000TjQwSWhpLXgtMFR4ZE9SZDQ1YmxQcDM3TDJ4N0ZQU3VYeXdDbm0ya3Q4MVVmQkVQTWMxbdIBzgFBVV95cUxOVnBtcWFHdnh4dDJrM2lTX3hHeHF3WmlRd0pxSjUzb3dqbmFXbWdPMld0UmtxWU5uNkNIWXVFV2hjd3ZsSm9reF9XVG5rWXFTdkJ5ZW1tQ3BENUJDRmZMZHBSUVhPTnM3djBXSkdaMDg0alMwWmlKci15LVJXT042enFJd05nU0c5QnB1bFAxcWlyYld4YjBDTi1tYXp1V04xb1dZNngxX3cxbkRqbEN1M0ZGZWtuelFLVWpSNmNENEtkZTdnYXhiZklTa29EQQ?oc=5",
+        "pubDate": "Thu, 25 Sep 2025 10:53:00 GMT"
+      }
+    ],
+    "last_updated_ts": "2025-09-25T12:00:44.823304+00:00"
   }
 }

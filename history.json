@@ -5,10 +5,6 @@
       "pubDate": "Thu, 18 Sep 2025 12:54:00 GMT"
     },
     {
-      "title": "ABC pulls Jimmy Kimmel over Charlie Kirk comments and Israel's real estate plans for Gaza: Morning Rundown - NBC News",
-      "pubDate": "Thu, 18 Sep 2025 11:08:03 GMT"
-    },
-    {
       "title": "LIVE: Israel turning Gaza City into \u2018lifeless wasteland\u2019; attacks Lebanon - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 19:46:26 GMT"
     },
@@ -503,10 +499,6 @@
       "pubDate": "Thu, 18 Sep 2025 12:30:06 GMT"
     },
     {
-      "title": "RiskRubric.ai Now Generally Available as the First-Ever AI Model Risk Leaderboard - PR Newswire",
-      "pubDate": "Thu, 18 Sep 2025 12:00:00 GMT"
-    },
-    {
       "title": "AI can hide its true intentions and lie, says OpenAI: Research shows shocking 'scheming' behaviour against - The Economic Times",
       "pubDate": "Thu, 18 Sep 2025 15:09:43 GMT"
     },
@@ -517,10 +509,6 @@
     {
       "title": "Lovable CEO pledges 50% of future earnings to combatting \u2018bad AI\u2019 - Sifted",
       "pubDate": "Thu, 18 Sep 2025 15:04:48 GMT"
-    },
-    {
-      "title": "Susan Solves It: AI safety controls - tampabay28.com",
-      "pubDate": "Thu, 18 Sep 2025 11:11:18 GMT"
     },
     {
       "title": "AI-led enhancements could boost mining safety - International Mining",
@@ -1189,20 +1177,16 @@
     {
       "title": "The United States Regulates Artificial Intelligence with Export Controls - The Regulatory Review",
       "pubDate": "Thu, 25 Sep 2025 04:18:16 GMT"
+    },
+    {
+      "title": "Chinese studio criticized for using AI to make gay couple straight in body horror film - NBC News",
+      "pubDate": "Thu, 25 Sep 2025 11:21:14 GMT"
     }
   ],
   "ukraine": [
     {
-      "title": "Putin Fires Top Advisor Who Wanted to End Ukraine War: Report - Newsweek",
-      "pubDate": "Thu, 18 Sep 2025 11:29:24 GMT"
-    },
-    {
       "title": "Ukraine pledges to bolster Polish drone defence with training - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 13:52:30 GMT"
-    },
-    {
-      "title": "Ukraine destroys giant radio telescope used by Russian military - Space",
-      "pubDate": "Thu, 18 Sep 2025 12:00:00 GMT"
     },
     {
       "title": "Ukraine slammed more long-range drones into Russian oil, taking aim at its most valuable industry - Business Insider",
@@ -1981,6 +1965,10 @@
     {
       "title": "Trump demands inquiry over UN 'triple sabotage' - BBC",
       "pubDate": "Thu, 25 Sep 2025 03:15:40 GMT"
+    },
+    {
+      "title": "Democratic anger at their own party fuels 2026 primaries - NBC News",
+      "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
     }
   ],
   "north_korea": [
@@ -2117,6 +2105,10 @@
     {
       "title": "Airport attack suspect arrested, DDoS hits new record, BRICKSTORM backdoor steals IPs - CISO Series",
       "pubDate": "Thu, 25 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Malicious Rust Crates Steal Solana and Ethereum Keys \u2014 8,424 Downloads Confirmed - The Hacker News",
+      "pubDate": "Thu, 25 Sep 2025 07:59:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2221,6 +2213,10 @@
     {
       "title": "AT&T data breach settlement claim deadline approaching. What to know in Tennessee - The Commercial Appeal",
       "pubDate": "Wed, 24 Sep 2025 19:38:44 GMT"
+    },
+    {
+      "title": "Volvo Group Employee Data Stolen in Ransomware Attack - SecurityWeek",
+      "pubDate": "Thu, 25 Sep 2025 10:06:47 GMT"
     }
   ],
   "fusion_power": [
@@ -3239,6 +3235,10 @@
     {
       "title": "UN latest: Kremlin responds after Trump's 'big shift' on Ukraine - Sky News",
       "pubDate": "Wed, 24 Sep 2025 07:07:30 GMT"
+    },
+    {
+      "title": "At least 17 killed in Gaza Strip as leaders ramp up pressure for a ceasefire - The Hill",
+      "pubDate": "Thu, 25 Sep 2025 10:53:00 GMT"
     }
   ],
   "geopolitics": [
@@ -3253,13 +3253,13 @@
     {
       "title": "Gold holds near record high on rate-cut bets, geopolitical tensions - Reuters",
       "pubDate": "Wed, 24 Sep 2025 08:43:51 GMT"
+    },
+    {
+      "title": "Is China using an alleged criminal to get Paraguay to ditch Taiwan? - Al Jazeera",
+      "pubDate": "Thu, 25 Sep 2025 10:43:42 GMT"
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Inside the rush to buy an electric vehicle - National Geographic",
-      "pubDate": "Thu, 18 Sep 2025 11:03:45 GMT"
-    },
     {
       "title": "Nissan reveals unbelievable price tag for upcoming model: 'Lowest starting MSRP for any new EV' - Yahoo! Autos",
       "pubDate": "Thu, 18 Sep 2025 22:15:00 GMT"
@@ -3455,12 +3455,6 @@
     {
       "title": "Israel kills 34 people in Gaza ahead of UN meeting, where countries will recognize Palestinian state - AJC.com",
       "pubDate": "Sun, 21 Sep 2025 09:11:58 GMT"
-    }
-  ],
-  "nvidia": [
-    {
-      "title": "Intel surges 24% as Nvidia to invest $5 billion in chipmaker, co-develop data center and PC chips - CNBC",
-      "pubDate": "Thu, 18 Sep 2025 11:09:22 GMT"
     }
   ],
   "fbi": [
