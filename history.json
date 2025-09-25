@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli strikes kill 19 Palestinians near Gaza\u2019s last functioning hospitals - Al Jazeera",
-      "pubDate": "Wed, 17 Sep 2025 23:06:59 GMT"
-    },
-    {
       "title": "Netanyahu blasts 'monstrous big lie' that Israel killed Kirk, suggests conspiracists are paid by Qatar - The Times of Israel",
       "pubDate": "Thu, 18 Sep 2025 04:48:26 GMT"
     },
@@ -255,6 +251,10 @@
     {
       "title": "Israeli attempt to annex West Bank would be \u2018red line\u2019 for US, says Macron - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 20:48:00 GMT"
+    },
+    {
+      "title": "BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC",
+      "pubDate": "Wed, 24 Sep 2025 23:15:12 GMT"
     }
   ],
   "donald_trump": [
@@ -805,16 +805,16 @@
     {
       "title": "As AI advances, doomers warn the superintelligence apocalypse is nigh - WXXI News",
       "pubDate": "Wed, 24 Sep 2025 20:21:00 GMT"
+    },
+    {
+      "title": "The Middle East\u2019s Big Bet on Artificial Intelligence and Data Security - Crowell & Moring LLP",
+      "pubDate": "Wed, 24 Sep 2025 20:44:42 GMT"
     }
   ],
   "financial_markets": [
     {
       "title": "Fed cuts interest rates by quarter point, signals more could be coming - The Washington Post",
       "pubDate": "Thu, 18 Sep 2025 02:39:03 GMT"
-    },
-    {
-      "title": "Stock Market Today: Investors stumped as indecisive Fed cuts rates, offers wide array of 2026 forecasts - TheStreet",
-      "pubDate": "Wed, 17 Sep 2025 23:43:35 GMT"
     },
     {
       "title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
@@ -1180,10 +1180,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine sentences military officer to 15 years as he spied for Russian intelligence - Euromaidan Press",
-      "pubDate": "Wed, 17 Sep 2025 23:34:18 GMT"
-    },
     {
       "title": "Ukraine war briefing: Europe-funded weapons shipments begin under \u2018Purl\u2019 scheme - The Guardian",
       "pubDate": "Thu, 18 Sep 2025 01:05:00 GMT"
@@ -1675,10 +1671,6 @@
       "pubDate": "Thu, 18 Sep 2025 00:33:45 GMT"
     },
     {
-      "title": "What a Bigger-Tent Democratic Party Could Look Like - The Bulwark",
-      "pubDate": "Wed, 17 Sep 2025 23:32:48 GMT"
-    },
-    {
       "title": "Why Voters Will Feel the Impact of GOP Health Cuts Before the Midterms - Politico",
       "pubDate": "Thu, 18 Sep 2025 09:00:00 GMT"
     },
@@ -1965,6 +1957,10 @@
     {
       "title": "Nearly 8 in 10 see political crisis in US: Survey - The Hill",
       "pubDate": "Wed, 24 Sep 2025 19:12:00 GMT"
+    },
+    {
+      "title": "A frustrated Sen. Van Hollen urges Democrats to take bigger risks - The Washington Post",
+      "pubDate": "Wed, 24 Sep 2025 22:46:31 GMT"
     }
   ],
   "north_korea": [
@@ -2255,13 +2251,13 @@
     {
       "title": "Commonwealth Fusion Systems site sells for $74M - The Business Journals",
       "pubDate": "Wed, 24 Sep 2025 20:16:00 GMT"
+    },
+    {
+      "title": "\"France Built A Star In A Bottle\": Scientists Create Magnet 280,000 Times Stronger Than Earth That Changes Everything Forever - Sustainability Times",
+      "pubDate": "Wed, 24 Sep 2025 12:46:40 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "South Side Activists Come Out \u2018Unequivocally\u2019 Against Quantum Computing Campus - Block Club Chicago",
-      "pubDate": "Wed, 17 Sep 2025 23:35:39 GMT"
-    },
     {
       "title": "Universal scheme efficiently generates arbitrary two-qubit gates in superconducting quantum processors - Phys.org",
       "pubDate": "Thu, 18 Sep 2025 10:30:01 GMT"
@@ -2485,6 +2481,10 @@
     {
       "title": "Physicists set record with 6,100-qubit array - Phys.org",
       "pubDate": "Wed, 24 Sep 2025 16:32:41 GMT"
+    },
+    {
+      "title": "HSBC says quantum computing trial helps bond trading - Yahoo",
+      "pubDate": "Wed, 24 Sep 2025 23:05:22 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2697,10 +2697,6 @@
     {
       "title": "Australia announces higher emission cuts by 2035 - BBC",
       "pubDate": "Thu, 18 Sep 2025 03:47:53 GMT"
-    },
-    {
-      "title": "How Supreme Court may get chance to re-examine landmark climate ruling - Harvard Gazette",
-      "pubDate": "Wed, 17 Sep 2025 23:37:30 GMT"
     },
     {
       "title": "In coastal Ghana, female oyster farmers try to save an old practice threatened by climate change - ABC News",
@@ -3185,6 +3181,10 @@
     {
       "title": "Climate Clarity: Combatting New Denialism in the United States - Carnegie Endowment for International Peace",
       "pubDate": "Wed, 24 Sep 2025 22:26:40 GMT"
+    },
+    {
+      "title": "China unveils underwhelming emissions-cutting target for 2035 - Climate Home News",
+      "pubDate": "Wed, 24 Sep 2025 21:53:10 GMT"
     }
   ],
   "world_news": [
