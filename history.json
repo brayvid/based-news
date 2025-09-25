@@ -263,10 +263,6 @@
   ],
   "donald_trump": [
     {
-      "title": "After Shocking Jimmy Kimmel Suspension, Trump Keeps Successfully Silencing His Critics \u2014 and That\u2019s Terrifying - Variety",
-      "pubDate": "Thu, 18 Sep 2025 01:29:00 GMT"
-    },
-    {
       "title": "Trump holds UK news conference as Jimmy Kimmel eclipses trip: Updates - USA Today",
       "pubDate": "Thu, 18 Sep 2025 14:11:09 GMT"
     },
@@ -911,10 +907,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta launches smart glasses with built-in display, reaching for 'superintelligence' - Reuters",
-      "pubDate": "Thu, 18 Sep 2025 01:20:00 GMT"
-    },
-    {
       "title": "Facebook owner Meta unveils new range of AI-powered smart glasses - BBC",
       "pubDate": "Thu, 18 Sep 2025 03:41:45 GMT"
     },
@@ -1189,13 +1181,13 @@
     {
       "title": "Security Council LIVE: Guardrails urgently needed for AI on the battlefield, warns Guterres - UN News",
       "pubDate": "Wed, 24 Sep 2025 19:32:36 GMT"
+    },
+    {
+      "title": "TSMC, chip design software firms tap AI to help chips use less energy - Reuters",
+      "pubDate": "Thu, 25 Sep 2025 01:10:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Europe-funded weapons shipments begin under \u2018Purl\u2019 scheme - The Guardian",
-      "pubDate": "Thu, 18 Sep 2025 01:05:00 GMT"
-    },
     {
       "title": "The weapons Ukraine hopes will help resist Russian invasion - The Independent",
       "pubDate": "Thu, 18 Sep 2025 08:50:00 GMT"
@@ -1575,6 +1567,10 @@
     {
       "title": "Trump\u2019s abrupt Ukraine shift exposes fresh frustrations with Putin - The Hill",
       "pubDate": "Wed, 24 Sep 2025 21:13:00 GMT"
+    },
+    {
+      "title": "Ukraine, Syria restore diplomatic ties after breakdown during Assad regime - Al Jazeera",
+      "pubDate": "Thu, 25 Sep 2025 00:45:00 GMT"
     }
   ],
   "us_economy": [
@@ -1597,6 +1593,10 @@
     {
       "title": "Federal Reserve cuts interest rates: What\u2019s next for credit cards, auto loans, mortgages - USA Today",
       "pubDate": "Wed, 24 Sep 2025 13:52:00 GMT"
+    },
+    {
+      "title": "Trade war and the dollar anchor - Brookings",
+      "pubDate": "Thu, 25 Sep 2025 01:00:41 GMT"
     }
   ],
   "china": [
@@ -2089,6 +2089,10 @@
     {
       "title": "Zscaler, Varonis, SailPoint among top cybersecurity stocks to own, JPMorgan says (ZS:NASDAQ) - Seeking Alpha",
       "pubDate": "Wed, 24 Sep 2025 18:55:31 GMT"
+    },
+    {
+      "title": "Cybersecurity in Oil and Gas: Protecting Critical Infrastructure and Operations in the Digital Age - Spencer Fane",
+      "pubDate": "Wed, 24 Sep 2025 19:56:22 GMT"
     }
   ],
   "federal_reserve": [
@@ -2263,6 +2267,10 @@
     {
       "title": "\"France Built A Star In A Bottle\": Scientists Create Magnet 280,000 Times Stronger Than Earth That Changes Everything Forever - Sustainability Times",
       "pubDate": "Wed, 24 Sep 2025 12:46:40 GMT"
+    },
+    {
+      "title": "UW researcher pushes for federal funding for nuclear fusion research - Channel 3000",
+      "pubDate": "Wed, 24 Sep 2025 23:59:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -2497,6 +2505,10 @@
     {
       "title": "HSBC demonstrates world\u2019s first-known quantum-enabled algorithmic trading with IBM - HSBC",
       "pubDate": "Wed, 24 Sep 2025 23:04:52 GMT"
+    },
+    {
+      "title": "Quantum Computing: Overvalued And Not Much To Show For - Seeking Alpha",
+      "pubDate": "Wed, 24 Sep 2025 15:48:06 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2698,10 +2710,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Federal judge questions scope of possible remedy in climate change lawsuit - Daily Montanan",
-      "pubDate": "Thu, 18 Sep 2025 01:13:48 GMT"
-    },
     {
       "title": "China tests an express route to Europe through a thawing Arctic - politico.eu",
       "pubDate": "Thu, 18 Sep 2025 02:49:14 GMT"
@@ -3201,6 +3209,10 @@
     {
       "title": "How climate change is fueling California's \"hydroclimate whiplash\" | Climate Watch - CBS News",
       "pubDate": "Thu, 25 Sep 2025 00:22:00 GMT"
+    },
+    {
+      "title": "China leads nations with new climate plans, defying US climate denial - Reuters",
+      "pubDate": "Thu, 25 Sep 2025 00:59:00 GMT"
     }
   ],
   "world_news": [
