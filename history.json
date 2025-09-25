@@ -9,10 +9,6 @@
       "pubDate": "Thu, 18 Sep 2025 20:07:58 GMT"
     },
     {
-      "title": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border - The New York Times",
-      "pubDate": "Thu, 18 Sep 2025 17:38:21 GMT"
-    },
-    {
       "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
       "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
     },
@@ -769,6 +765,10 @@
     {
       "title": "Nuclear regulator considering \u2018AI-enhanced drafting\u2019 of safety assessments - New Civil Engineer",
       "pubDate": "Thu, 25 Sep 2025 14:02:42 GMT"
+    },
+    {
+      "title": "AI giants are shying from safety pledges and pushing voluntary model testing - MLex",
+      "pubDate": "Thu, 25 Sep 2025 13:17:00 GMT"
     }
   ],
   "financial_markets": [
@@ -859,16 +859,16 @@
     {
       "title": "AMERICAS More Fedspeak, more questions - Reuters",
       "pubDate": "Thu, 25 Sep 2025 10:45:28 GMT"
+    },
+    {
+      "title": "Opinion: The Fed\u2019s interest-rate cuts are fueling a stock market \u2018melt-up\u2019 \u2014 and ruin for some investors - MarketWatch",
+      "pubDate": "Thu, 25 Sep 2025 11:35:00 GMT"
     }
   ],
   "artificial_intelligence": [
     {
       "title": "Inside AI\u2019s rapid expansion: What every investor should know - Bloomberg.com",
       "pubDate": "Thu, 18 Sep 2025 20:45:02 GMT"
-    },
-    {
-      "title": "Artificial intelligence reveals hidden facial cues of mild depression - PsyPost",
-      "pubDate": "Thu, 18 Sep 2025 18:00:00 GMT"
     },
     {
       "title": "Joint Commission unveils first AI guidance in partnership with Coalition for Health AI - American Hospital Association",
@@ -1145,6 +1145,10 @@
     {
       "title": "Chinese studio criticized for using AI to make gay couple straight in body horror film - NBC News",
       "pubDate": "Thu, 25 Sep 2025 11:21:14 GMT"
+    },
+    {
+      "title": "Accelerating breakthroughs with artificial intelligence - American Society for Biochemistry and Molecular Biology",
+      "pubDate": "Thu, 25 Sep 2025 14:06:04 GMT"
     }
   ],
   "ukraine": [
@@ -1519,6 +1523,10 @@
     {
       "title": "Tusk issues stark reality check about Trump\u2019s pro-Ukraine pivot - politico.eu",
       "pubDate": "Thu, 25 Sep 2025 13:40:12 GMT"
+    },
+    {
+      "title": "Zelensky: Kremlin officials \u2018have to know where the bomb shelters are\u2019 - The Hill",
+      "pubDate": "Thu, 25 Sep 2025 15:11:00 GMT"
     }
   ],
   "us_economy": [
@@ -1642,10 +1650,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Kimmel suspension highlights Trump\u2019s growing power over U.S. media landscape - PBS",
-      "pubDate": "Thu, 18 Sep 2025 17:49:16 GMT"
-    },
     {
       "title": "Senate GOP confirms 48 Trump nominees under \u2018nuclear\u2019 move - Politico",
       "pubDate": "Thu, 18 Sep 2025 21:06:44 GMT"
@@ -1941,6 +1945,10 @@
     {
       "title": "Federal prosecutors reportedly gave US attorney memo suggesting not to file charges against James Comey \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 25 Sep 2025 10:01:00 GMT"
+    },
+    {
+      "title": "Hegseth orders hundreds of senior military officers to Virginia for highly unusual meeting - CNN",
+      "pubDate": "Thu, 25 Sep 2025 17:13:26 GMT"
     }
   ],
   "north_korea": [
@@ -2259,10 +2267,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "'Like talking on the telephone': Quantum computing engineers get atoms chatting long distance - Phys.org",
-      "pubDate": "Thu, 18 Sep 2025 18:00:13 GMT"
-    },
-    {
       "title": "The Air Force wants more research on quantum computing, and it's sending stocks in the sector soaring - Business Insider",
       "pubDate": "Thu, 18 Sep 2025 19:17:00 GMT"
     },
@@ -2565,6 +2569,10 @@
     {
       "title": "FBI says it found classified documents in John Bolton\u2019s DC office - Politico",
       "pubDate": "Wed, 24 Sep 2025 14:02:26 GMT"
+    },
+    {
+      "title": "Rare earth minerals key to national security, Trump moves to put US first - Fox Business",
+      "pubDate": "Thu, 25 Sep 2025 13:49:15 GMT"
     }
   ],
   "gaza": [
@@ -2682,14 +2690,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Q&A: Will China and the BRICS fill the \u2018leadership gap\u2019 on climate change? - Carbon Brief",
-      "pubDate": "Thu, 18 Sep 2025 18:00:00 GMT"
-    },
-    {
-      "title": "Europe champions fighting climate change but misses emissions deadline - Reuters",
-      "pubDate": "Thu, 18 Sep 2025 17:31:49 GMT"
-    },
     {
       "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
       "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
@@ -3169,6 +3169,10 @@
     {
       "title": "AG Coleman letter rejects climate change harm, claims 'net benefits' of emissions - The Courier-Journal",
       "pubDate": "Thu, 25 Sep 2025 09:10:11 GMT"
+    },
+    {
+      "title": "Tesla urges Trump not to repeal vehicle emissions rules, climate finding - Reuters",
+      "pubDate": "Thu, 25 Sep 2025 17:26:26 GMT"
     }
   ],
   "world_news": [
@@ -3338,10 +3342,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "CMA is \u201cwatching and learning\u201d from US algorithmic pricing cases - Global Competition Review",
-      "pubDate": "Thu, 18 Sep 2025 17:38:41 GMT"
-    },
     {
       "title": "Export controls on TikTok's algorithm are unique but not unprecedented - marketplace.org",
       "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
