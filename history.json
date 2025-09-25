@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Two Killed in Shooting Attack at Israel-Jordan Border Crossing - Haaretz",
-      "pubDate": "Thu, 18 Sep 2025 12:54:00 GMT"
-    },
-    {
       "title": "LIVE: Israel turning Gaza City into \u2018lifeless wasteland\u2019; attacks Lebanon - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 19:46:26 GMT"
     },
@@ -19,10 +15,6 @@
     {
       "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
       "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
-    },
-    {
-      "title": "How Israel is losing America - The Economist",
-      "pubDate": "Thu, 18 Sep 2025 12:55:20 GMT"
     },
     {
       "title": "Trump is co-signing Israel's terrible new operation in Gaza City - MSNBC News",
@@ -495,10 +487,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Models Can Now Scheme against Creators, OpenAI Study Reveals - datamation.com",
-      "pubDate": "Thu, 18 Sep 2025 12:30:06 GMT"
-    },
-    {
       "title": "AI can hide its true intentions and lie, says OpenAI: Research shows shocking 'scheming' behaviour against - The Economic Times",
       "pubDate": "Thu, 18 Sep 2025 15:09:43 GMT"
     },
@@ -793,6 +781,10 @@
     {
       "title": "AGI, Superintelligence: If Anyone Builds It, Everyone Dies - WorldHealth.net",
       "pubDate": "Thu, 25 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "\u2018UK\u2019s mission is embedding AI safely in society\u2019, Lammy tells UN - PublicTechnology",
+      "pubDate": "Thu, 25 Sep 2025 12:33:31 GMT"
     }
   ],
   "financial_markets": [
@@ -893,14 +885,6 @@
     {
       "title": "Inside AI\u2019s rapid expansion: What every investor should know - Bloomberg.com",
       "pubDate": "Thu, 18 Sep 2025 20:45:02 GMT"
-    },
-    {
-      "title": "AI models must adapt or die - Financial Times",
-      "pubDate": "Thu, 18 Sep 2025 13:01:01 GMT"
-    },
-    {
-      "title": "OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws - Computerworld",
-      "pubDate": "Thu, 18 Sep 2025 12:38:18 GMT"
     },
     {
       "title": "Artificial intelligence reveals hidden facial cues of mild depression - PsyPost",
@@ -1555,6 +1539,10 @@
     {
       "title": "Ukraine says Russia's war will spread unless they're forced into ceasefire - NPR",
       "pubDate": "Thu, 25 Sep 2025 09:02:49 GMT"
+    },
+    {
+      "title": "Polish PM warns against 'illusions' over Trump's Ukraine rhetoric - Reuters",
+      "pubDate": "Thu, 25 Sep 2025 11:37:43 GMT"
     }
   ],
   "us_economy": [
@@ -1663,6 +1651,10 @@
     {
       "title": "China urges its companies in the US to avoid the cutthroat competition that has sent prices down - Business Insider",
       "pubDate": "Thu, 25 Sep 2025 07:42:00 GMT"
+    },
+    {
+      "title": "Taiwan convicts four former ruling party officials of spying for China - The Guardian",
+      "pubDate": "Thu, 25 Sep 2025 10:11:00 GMT"
     }
   ],
   "us_politics": [
@@ -1969,6 +1961,10 @@
     {
       "title": "Democratic anger at their own party fuels 2026 primaries - NBC News",
       "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Top Trump Aide Ditches the White House as Exodus Speeds Up - The Daily Beast",
+      "pubDate": "Thu, 25 Sep 2025 11:50:00 GMT"
     }
   ],
   "north_korea": [
@@ -2221,10 +2217,6 @@
   ],
   "fusion_power": [
     {
-      "title": "US lab opens door for plasma jets to skip lasers for nuclear fusion breakthrough - Interesting Engineering",
-      "pubDate": "Thu, 18 Sep 2025 12:55:00 GMT"
-    },
-    {
       "title": "Chesterfield approves world's first commercial fusion power plant - Richmond Times-Dispatch",
       "pubDate": "Thu, 18 Sep 2025 19:00:00 GMT"
     },
@@ -2295,16 +2287,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum computing stocks on the rise: Why are IonQ, D-Wave, Rigetti, and QUBT moving higher? - Fast Company",
-      "pubDate": "Thu, 18 Sep 2025 12:32:52 GMT"
-    },
-    {
       "title": "Rigetti Stock Rises 14% After Landing Air Force Award. Quantum Stocks Jump. - Barron's",
       "pubDate": "Thu, 18 Sep 2025 15:32:00 GMT"
-    },
-    {
-      "title": "Rigetti Computing Awarded $5.8 Million Contract for Advancements in Superconducting Quantum Networking with AFRL and QphoX Collaboration - Quiver Quantitative",
-      "pubDate": "Thu, 18 Sep 2025 12:44:00 GMT"
     },
     {
       "title": "'Like talking on the telephone': Quantum computing engineers get atoms chatting long distance - Phys.org",
@@ -2730,10 +2714,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "CA just aligned its carbon market with WA\u2019s. Here\u2019s why that matters - The Seattle Times",
-      "pubDate": "Thu, 18 Sep 2025 13:00:00 GMT"
-    },
     {
       "title": "Scientists predict wildfire smoke will be the most costly climate-related health hazard - NBC News",
       "pubDate": "Thu, 18 Sep 2025 15:12:42 GMT"
@@ -3229,6 +3209,10 @@
     {
       "title": "Climate change is making trees grow larger in the Amazon rainforest - New Scientist",
       "pubDate": "Thu, 25 Sep 2025 09:00:04 GMT"
+    },
+    {
+      "title": "Average size of trees in Amazon has increased as CO\u2082 levels rise - Phys.org",
+      "pubDate": "Thu, 25 Sep 2025 09:00:09 GMT"
     }
   ],
   "world_news": [
@@ -3637,6 +3621,18 @@
     {
       "title": "Trump presents new plan to end war in Gaza to Arab and Muslim leaders - France 24",
       "pubDate": "Wed, 24 Sep 2025 21:42:04 GMT"
+    }
+  ],
+  "nuclear_weapons": [
+    {
+      "title": "India Tests Nuclear-Capable Missile As Chinese Spy Ship Watches - Newsweek",
+      "pubDate": "Thu, 25 Sep 2025 09:08:48 GMT"
+    }
+  ],
+  "global_health": [
+    {
+      "title": "'We can end HIV': Groundbreaking preventative drug to be rolled out for $40 a year from 2027 - France 24",
+      "pubDate": "Thu, 25 Sep 2025 09:12:13 GMT"
     }
   ]
 }
