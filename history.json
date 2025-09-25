@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Exclusive: UAE could downgrade diplomatic ties if Israel annexes West Bank, sources say - Reuters",
-      "pubDate": "Thu, 18 Sep 2025 10:43:01 GMT"
-    },
-    {
       "title": "Two Killed in Shooting Attack at Israel-Jordan Border Crossing - Haaretz",
       "pubDate": "Thu, 18 Sep 2025 12:54:00 GMT"
     },
@@ -367,10 +363,6 @@
     {
       "title": "Russia\u2019s most famous diva tells Vladimir Putin to end the war - The Economist",
       "pubDate": "Thu, 18 Sep 2025 13:52:19 GMT"
-    },
-    {
-      "title": "Putin \u2018rewards Kim Jong-un with nuclear submarine reactors\u2019 - The Telegraph",
-      "pubDate": "Thu, 18 Sep 2025 10:56:00 GMT"
     },
     {
       "title": "Putin Orders Succession Plan for Russia's Next Leadership - Newsweek",
@@ -903,6 +895,10 @@
     {
       "title": "Treasury Secretary Bessent unveils $20 billion \u2018bazooka\u2019 to try to stem Argentina\u2019s financial crisis - MarketWatch",
       "pubDate": "Wed, 24 Sep 2025 17:00:00 GMT"
+    },
+    {
+      "title": "AMERICAS More Fedspeak, more questions - Reuters",
+      "pubDate": "Thu, 25 Sep 2025 10:45:28 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1189,6 +1185,10 @@
     {
       "title": "California Law Will Require AI Developers to Disclose Training Data - PYMNTS.com",
       "pubDate": "Thu, 25 Sep 2025 00:24:20 GMT"
+    },
+    {
+      "title": "The United States Regulates Artificial Intelligence with Export Controls - The Regulatory Review",
+      "pubDate": "Thu, 25 Sep 2025 04:18:16 GMT"
     }
   ],
   "ukraine": [
@@ -1567,6 +1567,10 @@
     {
       "title": "Russia Sails Nuclear-Armed Submarine Near US Ally - Newsweek",
       "pubDate": "Thu, 25 Sep 2025 07:32:00 GMT"
+    },
+    {
+      "title": "Ukraine says Russia's war will spread unless they're forced into ceasefire - NPR",
+      "pubDate": "Thu, 25 Sep 2025 09:02:49 GMT"
     }
   ],
   "us_economy": [
@@ -1995,6 +1999,10 @@
     {
       "title": "Kim Jong Un Says Denuclearization Is off the Table for North Korea - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
       "pubDate": "Mon, 22 Sep 2025 13:23:53 GMT"
+    },
+    {
+      "title": "Seoul says North Korea holds up to two tonnes of weapons-grade uranium - France 24",
+      "pubDate": "Thu, 25 Sep 2025 05:24:07 GMT"
     }
   ],
   "cybersecurity": [
@@ -2105,6 +2113,10 @@
     {
       "title": "AI coding assistants amplify deeper cybersecurity risks - csoonline.com",
       "pubDate": "Thu, 25 Sep 2025 07:02:57 GMT"
+    },
+    {
+      "title": "Airport attack suspect arrested, DDoS hits new record, BRICKSTORM backdoor steals IPs - CISO Series",
+      "pubDate": "Thu, 25 Sep 2025 10:00:00 GMT"
     }
   ],
   "federal_reserve": [
@@ -2286,10 +2298,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Universal scheme efficiently generates arbitrary two-qubit gates in superconducting quantum processors - Phys.org",
-      "pubDate": "Thu, 18 Sep 2025 10:30:01 GMT"
-    },
     {
       "title": "Quantum computing stocks on the rise: Why are IonQ, D-Wave, Rigetti, and QUBT moving higher? - Fast Company",
       "pubDate": "Thu, 18 Sep 2025 12:32:52 GMT"
@@ -2719,13 +2727,13 @@
     {
       "title": "Harris faces protesters, condemns Israel\u2019s war in Gaza on first night of book tour - CNN",
       "pubDate": "Thu, 25 Sep 2025 00:48:00 GMT"
+    },
+    {
+      "title": "'We Did Not Act Like a Superpower\u2019: Some Biden Aides Have Regrets Over Gaza - Politico",
+      "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Exxon CEO Warns of \u2018Bone-Crushing\u2019 EU Climate, Human Rights Law - Bloomberg.com",
-      "pubDate": "Thu, 18 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "CA just aligned its carbon market with WA\u2019s. Here\u2019s why that matters - The Seattle Times",
       "pubDate": "Thu, 18 Sep 2025 13:00:00 GMT"
@@ -3221,6 +3229,10 @@
     {
       "title": "Breakingviews - China hides climate ambition under a bushel - Reuters",
       "pubDate": "Thu, 25 Sep 2025 07:59:18 GMT"
+    },
+    {
+      "title": "Climate change is making trees grow larger in the Amazon rainforest - New Scientist",
+      "pubDate": "Thu, 25 Sep 2025 09:00:04 GMT"
     }
   ],
   "world_news": [
