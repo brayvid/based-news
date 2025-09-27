@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel-China Tensions Surface at Xiangshan Forum Over Gaza War - Modern Diplomacy",
-      "pubDate": "Sat, 20 Sep 2025 22:00:20 GMT"
-    },
-    {
       "title": "Why the World Still Gives Netanyahu a Chance to Make Amends at the UN Despite Gaza - Haaretz",
       "pubDate": "Sun, 21 Sep 2025 03:01:00 GMT"
     },
@@ -295,6 +291,10 @@
     {
       "title": "Russia at UNGA: Foreign minister Lavrov pushes for permanent seat for India in UNSC - Top quotes - The Times of India",
       "pubDate": "Sat, 27 Sep 2025 16:44:00 GMT"
+    },
+    {
+      "title": "Ukraine war live: Russia has \u2018no plans\u2019 to attack Europe and \u2018open\u2019 to negotiate - The Independent",
+      "pubDate": "Sat, 27 Sep 2025 22:34:32 GMT"
     }
   ],
   "ai_safety": [
@@ -598,10 +598,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Mark Zuckerberg blames \u2018poor wifi\u2019 as Meta\u2019s live AI demonstration fails - AOL.com",
-      "pubDate": "Sat, 20 Sep 2025 22:31:39 GMT"
-    },
     {
       "title": "The White House: TikTok Agreement Ensures American Control Over App Algorithms - tesaaworld.com",
       "pubDate": "Sat, 20 Sep 2025 23:53:53 GMT"
@@ -1869,10 +1865,6 @@
       "pubDate": "Sun, 21 Sep 2025 08:03:40 GMT"
     },
     {
-      "title": "The world at 60 gigatonnes of greenhouse gas emissions - Brookings",
-      "pubDate": "Sat, 20 Sep 2025 22:08:44 GMT"
-    },
-    {
       "title": "Zero Emissions Day in the Arctic: A 24-Hour Stress Test for the Planet - High North News",
       "pubDate": "Sun, 21 Sep 2025 10:09:41 GMT"
     },
@@ -2315,6 +2307,10 @@
     {
       "title": "UN sanctions against Iran to resume over banned nuclear activity - BBC",
       "pubDate": "Sat, 27 Sep 2025 05:28:36 GMT"
+    },
+    {
+      "title": "'Snapback' sends West back to the drawing board on Iran's nuclear programme - Reuters",
+      "pubDate": "Sat, 27 Sep 2025 22:11:10 GMT"
     }
   ],
   "energy_storage": [
@@ -2375,6 +2371,10 @@
     {
       "title": "'Invisible' asteroids near Venus could one day crash into Earth warn scientists - The Mirror",
       "pubDate": "Wed, 24 Sep 2025 10:36:00 GMT"
+    },
+    {
+      "title": "\"NASA Just Called Emergency Meeting\": Scientist Reveals Asteroid Will Smash Moon In Eight Years While Agency Considers Nuclear Strike - Visegr\u00e1d Post",
+      "pubDate": "Sat, 27 Sep 2025 16:56:15 GMT"
     }
   ],
   "nuclear_power": [
@@ -2471,6 +2471,10 @@
     {
       "title": "BRICS Warns Tariffs Are Becoming \u2018Means of Coercion\u2019 - The Wire India",
       "pubDate": "Sat, 27 Sep 2025 13:38:56 GMT"
+    },
+    {
+      "title": "BRICS foreign ministers condemn military aggression against Iran's nuclear facilities - IRNA English",
+      "pubDate": "Sat, 27 Sep 2025 21:55:13 GMT"
     }
   ],
   "european_union": [
@@ -2483,6 +2487,24 @@
     {
       "title": "Trump demands Microsoft fire global affairs head Lisa Monaco - TechCrunch",
       "pubDate": "Sat, 27 Sep 2025 15:24:11 GMT"
+    }
+  ],
+  "india": [
+    {
+      "title": "Stampede at Actor\u2019s Political Rally Kills at Least 36 in India - The New York Times",
+      "pubDate": "Sat, 27 Sep 2025 21:03:57 GMT"
+    }
+  ],
+  "the_pentagon": [
+    {
+      "title": "US military brass brace for firings as Pentagon chief orders top-level meeting - The Guardian",
+      "pubDate": "Sat, 27 Sep 2025 15:07:00 GMT"
+    }
+  ],
+  "us_congress": [
+    {
+      "title": "Veteran groups warn Congress against shutdown: \u2018Resist the pull of political brinkmanship\u2019 - The Hill",
+      "pubDate": "Sat, 27 Sep 2025 22:00:00 GMT"
     }
   ]
 }
