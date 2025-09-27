@@ -5,10 +5,6 @@
       "pubDate": "Sat, 20 Sep 2025 22:00:20 GMT"
     },
     {
-      "title": "In Its Vengeful War in Gaza, Israel Played the Tragic Role Hamas Had Scripted - Haaretz",
-      "pubDate": "Sat, 20 Sep 2025 20:55:00 GMT"
-    },
-    {
       "title": "Why the World Still Gives Netanyahu a Chance to Make Amends at the UN Despite Gaza - Haaretz",
       "pubDate": "Sun, 21 Sep 2025 03:01:00 GMT"
     },
@@ -213,6 +209,10 @@
     {
       "title": "Trump says he'll send troops to Portland, Oregon, in latest deployment to U.S. cities - CNBC",
       "pubDate": "Sat, 27 Sep 2025 16:15:10 GMT"
+    },
+    {
+      "title": "Trump accuses Wray of lying about agency actions on January 6, days after Comey indicted - CNN",
+      "pubDate": "Sat, 27 Sep 2025 20:43:20 GMT"
     }
   ],
   "russia": [
@@ -299,13 +299,13 @@
     {
       "title": "Russia will give \u2018decisive response\u2019 if provoked by the West, says Lavrov - Al Jazeera",
       "pubDate": "Sat, 27 Sep 2025 18:45:00 GMT"
+    },
+    {
+      "title": "Russia at UNGA: Foreign minister Lavrov pushes for permanent seat for India in UNSC - Top quotes - The Times of India",
+      "pubDate": "Sat, 27 Sep 2025 16:44:00 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "China\u2013ASEAN to Align AI Data, Launch Safety Network in 2026 - The China-Global South Project",
-      "pubDate": "Sat, 20 Sep 2025 20:07:33 GMT"
-    },
     {
       "title": "Huawei launches DeepSeek-R1-Safe to block politically sensitive AI content: How it works - Mint",
       "pubDate": "Sun, 21 Sep 2025 09:17:44 GMT"
@@ -1027,6 +1027,10 @@
     {
       "title": "Ukraine and Russia Point Fingers After Zaporizhzhia Nuclear Power Plant Offline for Days - The Moscow Times",
       "pubDate": "Sat, 27 Sep 2025 16:03:56 GMT"
+    },
+    {
+      "title": "Ukraine received Patriot system from Israel - Euractiv",
+      "pubDate": "Sat, 27 Sep 2025 14:46:35 GMT"
     }
   ],
   "us_economy": [
@@ -1133,10 +1137,6 @@
     {
       "title": "News Wrap: Trump\u2019s $100,000 H1-B visa fee hike leaves companies scrambling - PBS",
       "pubDate": "Sat, 20 Sep 2025 21:50:13 GMT"
-    },
-    {
-      "title": "Trump demands Venezuela take action on one of his most outlandish claims \u2013 or face an \u2018incalculable\u2019 price - The Independent",
-      "pubDate": "Sat, 20 Sep 2025 20:31:00 GMT"
     },
     {
       "title": "Trump warns of \u2018incalculable price\u2019 if Venezuela won\u2019t accept \u2018prisoners\u2019 - Al Jazeera",
@@ -1413,6 +1413,10 @@
     {
       "title": "Beijing's RedNovember hacked critical US, global orgs - theregister.com",
       "pubDate": "Sat, 27 Sep 2025 11:06:00 GMT"
+    },
+    {
+      "title": "Agentic AI Revolutionizes Cybersecurity in 2025: Innovations and Risks - WebProNews",
+      "pubDate": "Sat, 27 Sep 2025 19:13:19 GMT"
     }
   ],
   "earthquakes": [
@@ -1525,16 +1529,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Breakthrough phason discovery in twisted 2D materials transforms quantum computing - Yahoo",
-      "pubDate": "Sat, 20 Sep 2025 20:07:00 GMT"
-    },
-    {
       "title": "A giant quantum computing center for warfare threatens the cost of living on Chicago\u2019s South Side - Liberation News",
       "pubDate": "Sat, 20 Sep 2025 21:46:39 GMT"
-    },
-    {
-      "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
-      "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
     },
     {
       "title": "Quantum Stocks Rally: RGTI, QUBT, IonQ Lead Double-Digit Rally on Speculation Buzz - Yahoo",
@@ -1771,6 +1767,10 @@
     {
       "title": "After Trump cut the National Science Foundation by 56 percent, a venerable Arctic research center closes its doors - Grist.org",
       "pubDate": "Sat, 27 Sep 2025 13:01:08 GMT"
+    },
+    {
+      "title": "U.S. preparing options for military strikes on drug targets inside Venezuela, sources say - NBC News",
+      "pubDate": "Sat, 27 Sep 2025 13:09:00 GMT"
     }
   ],
   "gaza": [
@@ -1855,10 +1855,6 @@
     {
       "title": "EPA tells some scientists to stop publishing studies, employees say - The Washington Post",
       "pubDate": "Sat, 20 Sep 2025 21:32:04 GMT"
-    },
-    {
-      "title": "Plastics found inside vegetable tissues for the first time, raising new food safety concerns - Earth.com",
-      "pubDate": "Sat, 20 Sep 2025 20:30:42 GMT"
     },
     {
       "title": "Treaty to protect deep ocean clears way to enter into force - Climate Home News",
@@ -2271,6 +2267,10 @@
     {
       "title": "Elon Musk\u2019s Father Accused of Sexually Abusing His Children - The Cut",
       "pubDate": "Tue, 23 Sep 2025 20:10:51 GMT"
+    },
+    {
+      "title": "Elon Musk's big reveal about Epstein island after being 'named' in files: \u2018He tried to\u2026\u2019 | Hindustan Times - Hindustan Times",
+      "pubDate": "Sat, 27 Sep 2025 20:38:47 GMT"
     }
   ],
   "alternative_energy": [
@@ -2483,6 +2483,12 @@
     {
       "title": "Germany Pledges $41B for Space Defense Against Russia, China - The Defense Post",
       "pubDate": "Sat, 27 Sep 2025 15:19:12 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "BRICS Warns Tariffs Are Becoming \u2018Means of Coercion\u2019 - The Wire India",
+      "pubDate": "Sat, 27 Sep 2025 13:38:56 GMT"
     }
   ]
 }
