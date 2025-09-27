@@ -163,6 +163,10 @@
     {
       "title": "Slovenia bans Israeli prime minister Netanyahu from entering the EU country - Newsday",
       "pubDate": "Thu, 25 Sep 2025 14:50:58 GMT"
+    },
+    {
+      "title": "Revealed: US 21-point plan for ending Gaza war, creating pathway to Palestinian state - The Times of Israel",
+      "pubDate": "Sat, 27 Sep 2025 13:07:30 GMT"
     }
   ],
   "donald_trump": [
@@ -299,6 +303,10 @@
     {
       "title": "Ukraine nuclear plant enters fifth day on emergency power as Zelenskyy announces $90B arms deal - WTOP",
       "pubDate": "Sat, 27 Sep 2025 16:39:50 GMT"
+    },
+    {
+      "title": "Kenyan police break up ring trafficking people to Russia to fight in Ukraine - BBC",
+      "pubDate": "Sat, 27 Sep 2025 11:19:43 GMT"
     }
   ],
   "ai_safety": [
@@ -609,14 +617,6 @@
     {
       "title": "Tech analyst says outdated law and profit-driven algorithms fuel online toxicity - News 9",
       "pubDate": "Sat, 20 Sep 2025 19:36:54 GMT"
-    },
-    {
-      "title": "OpenAI o3 Model Revolutionizes Multimodal LLM App Development in 2025 - WebProNews",
-      "pubDate": "Sat, 20 Sep 2025 17:21:53 GMT"
-    },
-    {
-      "title": "Promising Artificial Intelligence Stocks To Follow Now - September 20th - MarketBeat",
-      "pubDate": "Sat, 20 Sep 2025 17:24:53 GMT"
     },
     {
       "title": "Podcast: A New Test to Measure Understanding in AI Models - mindmatters.ai",
@@ -1031,6 +1031,10 @@
     {
       "title": "Putin preparing to attack another European country, Zelenskyy says - The Guardian",
       "pubDate": "Sat, 27 Sep 2025 15:31:00 GMT"
+    },
+    {
+      "title": "Ukraine and Russia Point Fingers After Zaporizhzhia Nuclear Power Plant Offline for Days - The Moscow Times",
+      "pubDate": "Sat, 27 Sep 2025 16:03:56 GMT"
     }
   ],
   "us_economy": [
@@ -1865,16 +1869,16 @@
     {
       "title": "An American nurse in Gaza City films a hospital\u2019s collapse as Israeli forces surround it - AP News",
       "pubDate": "Sat, 27 Sep 2025 05:11:00 GMT"
+    },
+    {
+      "title": "Thousands march through central Berlin protesting the war in Gaza - AP News",
+      "pubDate": "Sat, 27 Sep 2025 16:19:00 GMT"
     }
   ],
   "climate_change": [
     {
       "title": "Greenpeace USA unveils giant \u201cbill\u201d with the economic damages brought on by five major oil and gas companies at NYC Climate Week - greenpeace.org",
       "pubDate": "Sat, 20 Sep 2025 19:39:16 GMT"
-    },
-    {
-      "title": "Uttarakhand's Naini Lake temperatures boost fish survival, but signal global warming threat - The New Indian Express",
-      "pubDate": "Sat, 20 Sep 2025 17:27:14 GMT"
     },
     {
       "title": "EPA tells some scientists to stop publishing studies, employees say - The Washington Post",
@@ -2281,6 +2285,10 @@
     {
       "title": "New Zealand appoints Swede to lead central bank as economy faces \u2018double-dip recession\u2019 - Financial Times",
       "pubDate": "Wed, 24 Sep 2025 04:53:11 GMT"
+    },
+    {
+      "title": "China's LEI falls again, recession signals flash in August: TCB - Fibre2Fashion",
+      "pubDate": "Sat, 27 Sep 2025 06:13:00 GMT"
     }
   ],
   "algorithms": [
@@ -2291,12 +2299,6 @@
     {
       "title": "Oracle to control Tik Tok US algorithm - news8000.com",
       "pubDate": "Tue, 23 Sep 2025 20:13:05 GMT"
-    }
-  ],
-  "bitcoin": [
-    {
-      "title": "Bitcoin mining difficulty paints new ATH amid centralization fears - Cointelegraph",
-      "pubDate": "Sat, 20 Sep 2025 17:06:42 GMT"
     }
   ],
   "elon_musk": [
@@ -2352,10 +2354,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Iran tests of 'most advanced missile yet' as president vows: 'They cannot stop us!' - Ynetnews",
-      "pubDate": "Sat, 20 Sep 2025 17:25:35 GMT"
-    },
     {
       "title": "Iran threatens deadly response after missile test - www.israelhayom.com",
       "pubDate": "Sun, 21 Sep 2025 06:00:37 GMT"
@@ -2489,6 +2487,18 @@
     {
       "title": "Microsoft forced to block Israel\u2019s use of its cloud, AI in mass spying of Palestinians - PressTV",
       "pubDate": "Sat, 27 Sep 2025 10:20:00 GMT"
+    }
+  ],
+  "kim_jong_un": [
+    {
+      "title": "North Korea\u2019s Kim calls for sharpening of \u2018nuclear shield and sword\u2019 - Al Jazeera",
+      "pubDate": "Sat, 27 Sep 2025 06:05:22 GMT"
+    }
+  ],
+  "terrorism": [
+    {
+      "title": "In Trump\u2019s \u2018domestic terrorism\u2019 memo, some see blueprint for vengeance that echoes history - Los Angeles Times",
+      "pubDate": "Sat, 27 Sep 2025 10:00:00 GMT"
     }
   ]
 }
