@@ -213,6 +213,10 @@
     {
       "title": "Would-be Trump assassin tries to stab himself in neck after guilty verdict - CNN",
       "pubDate": "Tue, 23 Sep 2025 18:34:49 GMT"
+    },
+    {
+      "title": "Trump says he'll send troops to Portland, Oregon, in latest deployment to U.S. cities - CNBC",
+      "pubDate": "Sat, 27 Sep 2025 16:15:10 GMT"
     }
   ],
   "russia": [
@@ -291,6 +295,10 @@
     {
       "title": "Russia\u2019s new daytime attacks put millions of lives on hold - CNN",
       "pubDate": "Thu, 25 Sep 2025 04:00:51 GMT"
+    },
+    {
+      "title": "Ukraine nuclear plant enters fifth day on emergency power as Zelenskyy announces $90B arms deal - WTOP",
+      "pubDate": "Sat, 27 Sep 2025 16:39:50 GMT"
     }
   ],
   "ai_safety": [
@@ -513,6 +521,10 @@
     {
       "title": "Superintelligence could wipe us out if we rush into it \u2014 but humanity can still pull back, a top AI safety expert says - Business Insider",
       "pubDate": "Sat, 27 Sep 2025 10:55:00 GMT"
+    },
+    {
+      "title": "Leaked memo suggests Meta tightened AI chatbot rules amid safety concerns over child protection - financialexpress.com",
+      "pubDate": "Sat, 27 Sep 2025 11:11:26 GMT"
     }
   ],
   "financial_markets": [
@@ -768,10 +780,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Enemy attacked Poltava region, hitting civilian infrastructure - Ukrinform",
-      "pubDate": "Sat, 20 Sep 2025 17:02:00 GMT"
-    },
     {
       "title": "Ukraine\u2019s Supply Runs Turn to Nightmares as Drones Menace Roads Far Beyond the Front - The Wall Street Journal",
       "pubDate": "Sun, 21 Sep 2025 02:41:56 GMT"
@@ -1123,10 +1131,6 @@
   ],
   "us_politics": [
     {
-      "title": "Pentagon unveils new media restrictions in effort to quash leaks - The Hill",
-      "pubDate": "Sat, 20 Sep 2025 16:33:00 GMT"
-    },
-    {
       "title": "White House says TikTok's algorithm and data will be controlled 'by America' in new deal - NBC News",
       "pubDate": "Sat, 20 Sep 2025 19:43:46 GMT"
     },
@@ -1409,6 +1413,10 @@
     {
       "title": "US Cybersecurity Agency Urges Immediate Action After Major Hacking Campaign - Devdiscourse",
       "pubDate": "Sat, 27 Sep 2025 12:33:58 GMT"
+    },
+    {
+      "title": "Beijing's RedNovember hacked critical US, global orgs - theregister.com",
+      "pubDate": "Sat, 27 Sep 2025 11:06:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1771,13 +1779,13 @@
     {
       "title": "Rare earth minerals key to national security, Trump moves to put US first - Fox Business",
       "pubDate": "Thu, 25 Sep 2025 13:49:15 GMT"
+    },
+    {
+      "title": "After Trump cut the National Science Foundation by 56 percent, a venerable Arctic research center closes its doors - Grist.org",
+      "pubDate": "Sat, 27 Sep 2025 13:01:08 GMT"
     }
   ],
   "gaza": [
-    {
-      "title": "'Are there words left to describe the horror we are wreaking on Gaza?' - Le Monde.fr",
-      "pubDate": "Sat, 20 Sep 2025 16:37:07 GMT"
-    },
     {
       "title": "Gaza Now founder arrested at European airport - www.israelhayom.com",
       "pubDate": "Sat, 20 Sep 2025 19:15:16 GMT"
@@ -1853,17 +1861,13 @@
     {
       "title": "'We Did Not Act Like a Superpower\u2019: Some Biden Aides Have Regrets Over Gaza - Politico",
       "pubDate": "Thu, 25 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "An American nurse in Gaza City films a hospital\u2019s collapse as Israeli forces surround it - AP News",
+      "pubDate": "Sat, 27 Sep 2025 05:11:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "New Map Shows Where Cancer-Causing Chemicals Are Polluting Water for Over 200M - Truthout",
-      "pubDate": "Sat, 20 Sep 2025 16:06:58 GMT"
-    },
-    {
-      "title": "Northeast fall foliage 2025: Experts warn of an early and shorter season - NBC News",
-      "pubDate": "Sat, 20 Sep 2025 17:00:41 GMT"
-    },
     {
       "title": "Greenpeace USA unveils giant \u201cbill\u201d with the economic damages brought on by five major oil and gas companies at NYC Climate Week - greenpeace.org",
       "pubDate": "Sat, 20 Sep 2025 19:39:16 GMT"
@@ -2347,12 +2351,6 @@
       "pubDate": "Mon, 22 Sep 2025 14:42:47 GMT"
     }
   ],
-  "renewable_energy": [
-    {
-      "title": "Trump administration moves to revoke permit for Mass. offshore wind project - WCVB",
-      "pubDate": "Sat, 20 Sep 2025 16:25:00 GMT"
-    }
-  ],
   "iran": [
     {
       "title": "Iran tests of 'most advanced missile yet' as president vows: 'They cannot stop us!' - Ynetnews",
@@ -2485,6 +2483,12 @@
     {
       "title": "White House Places Quantum And AI at The Summit of R&D Priorities - The Quantum Insider",
       "pubDate": "Sat, 27 Sep 2025 08:46:57 GMT"
+    }
+  ],
+  "cloud_computing": [
+    {
+      "title": "Microsoft forced to block Israel\u2019s use of its cloud, AI in mass spying of Palestinians - PressTV",
+      "pubDate": "Sat, 27 Sep 2025 10:20:00 GMT"
     }
   ]
 }
