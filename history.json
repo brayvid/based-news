@@ -1,14 +1,6 @@
 {
   "israel": [
     {
-      "title": "IDF says Lebanon drone strike targeted Hezbollah operative gathering intel on Israeli troops - The Times of Israel",
-      "pubDate": "Sat, 20 Sep 2025 18:08:40 GMT"
-    },
-    {
-      "title": "Two Hezbollah terrorists killed, vessel destroyed by Israeli Air Force - The Jerusalem Post",
-      "pubDate": "Sat, 20 Sep 2025 18:12:00 GMT"
-    },
-    {
       "title": "Israel-China Tensions Surface at Xiangshan Forum Over Gaza War - Modern Diplomacy",
       "pubDate": "Sat, 20 Sep 2025 22:00:20 GMT"
     },
@@ -307,6 +299,10 @@
     {
       "title": "Kenyan police break up ring trafficking people to Russia to fight in Ukraine - BBC",
       "pubDate": "Sat, 27 Sep 2025 11:19:43 GMT"
+    },
+    {
+      "title": "Russia will give \u2018decisive response\u2019 if provoked by the West, says Lavrov - Al Jazeera",
+      "pubDate": "Sat, 27 Sep 2025 18:45:00 GMT"
     }
   ],
   "ai_safety": [
@@ -533,6 +529,10 @@
     {
       "title": "Leaked memo suggests Meta tightened AI chatbot rules amid safety concerns over child protection - financialexpress.com",
       "pubDate": "Sat, 27 Sep 2025 11:11:26 GMT"
+    },
+    {
+      "title": "Meta\u2019s Chatbot Scandal Is Really a Culture Problem - Bloomberg.com",
+      "pubDate": "Sat, 27 Sep 2025 12:00:08 GMT"
     }
   ],
   "financial_markets": [
@@ -1061,6 +1061,10 @@
     {
       "title": "US economy expanded at a surprising 3.8% pace in significant upgrade of second quarter growth - AP News",
       "pubDate": "Thu, 25 Sep 2025 12:42:00 GMT"
+    },
+    {
+      "title": "The U.S. economy is running even hotter than previously thought, and GDP growth could reach 4% in Q3 - Fortune",
+      "pubDate": "Sat, 27 Sep 2025 17:21:00 GMT"
     }
   ],
   "china": [
@@ -1424,10 +1428,6 @@
     }
   ],
   "earthquakes": [
-    {
-      "title": "Earthquakes Rock Islands in Southern Hemisphere - Newsweek",
-      "pubDate": "Sat, 20 Sep 2025 18:06:43 GMT"
-    },
     {
       "title": "4.3 quake centered in Berkeley felt across the Bay Area - NBC Bay Area",
       "pubDate": "Mon, 22 Sep 2025 10:12:27 GMT"
@@ -1795,10 +1795,6 @@
       "pubDate": "Sat, 20 Sep 2025 19:15:16 GMT"
     },
     {
-      "title": "'Farewell picture' of 48 hostages raises alarm as Gaza war rages on; families call for urgent ceasefire | World News - Hindustan Times",
-      "pubDate": "Sat, 20 Sep 2025 18:21:11 GMT"
-    },
-    {
       "title": "U.K. to Formally Recognize Palestinian State on Sunday, Report Says - Haaretz",
       "pubDate": "Sun, 21 Sep 2025 03:23:00 GMT"
     },
@@ -1907,10 +1903,6 @@
     {
       "title": "Coalition denial makes Labor seem reasonable on climate \u2013 but neither is ambitious enough | Zoe Daniel - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 01:22:00 GMT"
-    },
-    {
-      "title": "Climate change blamed for poisonous sea creatures washing up on shore - The Telegraph",
-      "pubDate": "Sat, 20 Sep 2025 18:47:00 GMT"
     },
     {
       "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
@@ -2249,6 +2241,10 @@
     {
       "title": "BYD outsells Tesla in EU for second month, Stellantis returns to sales growth - Reuters",
       "pubDate": "Thu, 25 Sep 2025 04:01:00 GMT"
+    },
+    {
+      "title": "China tightens rules for electric vehicle exports by requiring permits from 2026 - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 27 Sep 2025 12:15:10 GMT"
     }
   ],
   "technology": [
@@ -2499,6 +2495,24 @@
     {
       "title": "In Trump\u2019s \u2018domestic terrorism\u2019 memo, some see blueprint for vengeance that echoes history - Los Angeles Times",
       "pubDate": "Sat, 27 Sep 2025 10:00:00 GMT"
+    }
+  ],
+  "us_treasury": [
+    {
+      "title": "U.S. Treasury Secretary calls Taiwan 'world's biggest single point of failure': Lion's share of advanced chips are made in Taiwan - MSN",
+      "pubDate": "Sat, 27 Sep 2025 11:07:50 GMT"
+    }
+  ],
+  "climate": [
+    {
+      "title": "COP30 urged to link climate justice with reparations for historical crimes - Al Jazeera",
+      "pubDate": "Sat, 27 Sep 2025 06:56:15 GMT"
+    }
+  ],
+  "outer_space": [
+    {
+      "title": "Germany Pledges $41B for Space Defense Against Russia, China - The Defense Post",
+      "pubDate": "Sat, 27 Sep 2025 15:19:12 GMT"
     }
   ]
 }
