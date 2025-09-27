@@ -1,16 +1,8 @@
 {
   "israel": [
     {
-      "title": "Israel presses Gaza offensive, reportedly urges US to prod Egypt on Sinai military buildup - The Times of Israel",
-      "pubDate": "Sat, 20 Sep 2025 15:23:01 GMT"
-    },
-    {
       "title": "IDF says Lebanon drone strike targeted Hezbollah operative gathering intel on Israeli troops - The Times of Israel",
       "pubDate": "Sat, 20 Sep 2025 18:08:40 GMT"
-    },
-    {
-      "title": "'My son is being bombed to death on Netanyahu's orders': Thousands protest across Israel - Haaretz",
-      "pubDate": "Sat, 20 Sep 2025 15:20:00 GMT"
     },
     {
       "title": "Two Hezbollah terrorists killed, vessel destroyed by Israeli Air Force - The Jerusalem Post",
@@ -517,6 +509,10 @@
     {
       "title": "AI giants are shying from safety pledges and pushing voluntary model testing - MLex",
       "pubDate": "Thu, 25 Sep 2025 13:17:00 GMT"
+    },
+    {
+      "title": "Superintelligence could wipe us out if we rush into it \u2014 but humanity can still pull back, a top AI safety expert says - Business Insider",
+      "pubDate": "Sat, 27 Sep 2025 10:55:00 GMT"
     }
   ],
   "financial_markets": [
@@ -773,10 +769,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine war live: Poland scrambles jets after Moscow launches aerial assault on Kyiv - The Independent",
-      "pubDate": "Sat, 20 Sep 2025 15:31:58 GMT"
-    },
-    {
       "title": "Enemy attacked Poltava region, hitting civilian infrastructure - Ukrinform",
       "pubDate": "Sat, 20 Sep 2025 17:02:00 GMT"
     },
@@ -1027,6 +1019,10 @@
     {
       "title": "Zelensky: Kremlin officials \u2018have to know where the bomb shelters are\u2019 - The Hill",
       "pubDate": "Thu, 25 Sep 2025 15:11:00 GMT"
+    },
+    {
+      "title": "Putin preparing to attack another European country, Zelenskyy says - The Guardian",
+      "pubDate": "Sat, 27 Sep 2025 15:31:00 GMT"
     }
   ],
   "us_economy": [
@@ -1129,10 +1125,6 @@
     {
       "title": "Pentagon unveils new media restrictions in effort to quash leaks - The Hill",
       "pubDate": "Sat, 20 Sep 2025 16:33:00 GMT"
-    },
-    {
-      "title": "As anxiety over political violence and the economy spikes, Trump\u2019s popularity slides in a new poll - MassLive",
-      "pubDate": "Sat, 20 Sep 2025 15:47:00 GMT"
     },
     {
       "title": "White House says TikTok's algorithm and data will be controlled 'by America' in new deal - NBC News",
@@ -1413,6 +1405,10 @@
     {
       "title": "Optiv + ClearShark Achieves CMMC Level 2 Certification, Strengthening Federal Cybersecurity Leadership - PR Newswire",
       "pubDate": "Thu, 25 Sep 2025 13:07:00 GMT"
+    },
+    {
+      "title": "US Cybersecurity Agency Urges Immediate Action After Major Hacking Campaign - Devdiscourse",
+      "pubDate": "Sat, 27 Sep 2025 12:33:58 GMT"
     }
   ],
   "earthquakes": [
@@ -1785,10 +1781,6 @@
     {
       "title": "Gaza Now founder arrested at European airport - www.israelhayom.com",
       "pubDate": "Sat, 20 Sep 2025 19:15:16 GMT"
-    },
-    {
-      "title": "Gaza hospital director receives bodies of brother and other relatives while on duty - CNN",
-      "pubDate": "Sat, 20 Sep 2025 15:51:26 GMT"
     },
     {
       "title": "'Farewell picture' of 48 hostages raises alarm as Gaza war rages on; families call for urgent ceasefire | World News - Hindustan Times",
@@ -2207,6 +2199,10 @@
     {
       "title": "Tesla urges Trump not to repeal vehicle emissions rules, climate finding - Reuters",
       "pubDate": "Thu, 25 Sep 2025 17:26:26 GMT"
+    },
+    {
+      "title": "Bill Ritter: While the president denies climate change, Colorado lives the crisis and leads the response - The Denver Post",
+      "pubDate": "Sat, 27 Sep 2025 11:01:05 GMT"
     }
   ],
   "world_news": [
@@ -2234,10 +2230,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Tesla Drops Electrifying 2025 Cybertruck AWD Lease Deal for September - autoblog.com",
-      "pubDate": "Sat, 20 Sep 2025 15:40:00 GMT"
-    },
     {
       "title": "EVs near one-fifth of South Korea car sales - The Korea Herald",
       "pubDate": "Sun, 21 Sep 2025 05:50:13 GMT"
@@ -2369,6 +2361,10 @@
     {
       "title": "Iran threatens deadly response after missile test - www.israelhayom.com",
       "pubDate": "Sun, 21 Sep 2025 06:00:37 GMT"
+    },
+    {
+      "title": "UN sanctions against Iran to resume over banned nuclear activity - BBC",
+      "pubDate": "Sat, 27 Sep 2025 05:28:36 GMT"
     }
   ],
   "cancer": [
@@ -2477,6 +2473,18 @@
     {
       "title": "'We can end HIV': Groundbreaking preventative drug to be rolled out for $40 a year from 2027 - France 24",
       "pubDate": "Thu, 25 Sep 2025 09:12:13 GMT"
+    }
+  ],
+  "us_supreme_court": [
+    {
+      "title": "DOJ asks Supreme Court if Trump can end birthright citizenship - USA Today",
+      "pubDate": "Sat, 27 Sep 2025 14:32:24 GMT"
+    }
+  ],
+  "quantum": [
+    {
+      "title": "White House Places Quantum And AI at The Summit of R&D Priorities - The Quantum Insider",
+      "pubDate": "Sat, 27 Sep 2025 08:46:57 GMT"
     }
   ]
 }
