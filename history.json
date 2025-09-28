@@ -185,6 +185,10 @@
     {
       "title": "Trump administration says it will revoke Colombian President Gustavo Petro's visa - USA Today",
       "pubDate": "Sat, 27 Sep 2025 23:12:23 GMT"
+    },
+    {
+      "title": "Before Trump touted the drug leucovorin for autism, these families had already tried it - NBC News",
+      "pubDate": "Sun, 28 Sep 2025 09:00:00 GMT"
     }
   ],
   "russia": [
@@ -278,10 +282,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
-      "pubDate": "Sun, 21 Sep 2025 11:15:00 GMT"
-    },
     {
       "title": "It\u2019s official\u2014Minnesota sues TikTok for using addictive algorithms that harm minors - Pedirayudas",
       "pubDate": "Sun, 21 Sep 2025 15:40:10 GMT"
@@ -497,6 +497,10 @@
     {
       "title": "Meta\u2019s Chatbot Scandal Is Really a Culture Problem - Bloomberg.com",
       "pubDate": "Sat, 27 Sep 2025 12:00:08 GMT"
+    },
+    {
+      "title": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California - Los Angeles Times",
+      "pubDate": "Sun, 28 Sep 2025 10:00:00 GMT"
     }
   ],
   "financial_markets": [
@@ -989,14 +993,6 @@
   ],
   "china": [
     {
-      "title": "US House lawmakers make rare China visit to stabilise ties - Reuters",
-      "pubDate": "Sun, 21 Sep 2025 11:11:43 GMT"
-    },
-    {
-      "title": "China isn't begging for Nvidia anymore. Here are homegrown tech plays to watch - CNBC",
-      "pubDate": "Sun, 21 Sep 2025 11:55:26 GMT"
-    },
-    {
       "title": "Warren Buffett exits BYD amid China\u2019s cutthroat EV market - South China Morning Post",
       "pubDate": "Mon, 22 Sep 2025 06:18:55 GMT"
     },
@@ -1437,10 +1433,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Sampled-based Guided Quantum Walk Solves Binary Combinatorial Optimization Problems Without Classical Optimization - Quantum Zeitgeist",
-      "pubDate": "Sun, 21 Sep 2025 11:57:13 GMT"
-    },
-    {
       "title": "Booz Allen, SEEQC Expand Partnership to Advance Quantum Computing - WashingtonExec",
       "pubDate": "Sun, 21 Sep 2025 12:22:15 GMT"
     },
@@ -1659,13 +1651,13 @@
     {
       "title": "U.S. preparing options for military strikes on drug targets inside Venezuela, sources say - NBC News",
       "pubDate": "Sat, 27 Sep 2025 13:09:00 GMT"
+    },
+    {
+      "title": "Terrorist death penalty bill advances after Knesset vote - The Jerusalem Post",
+      "pubDate": "Sun, 28 Sep 2025 10:48:00 GMT"
     }
   ],
   "gaza": [
-    {
-      "title": "Pope on Gaza: \u2018There is no future based on violence, forced exile, and vengeance' - Vatican News",
-      "pubDate": "Sun, 21 Sep 2025 11:03:39 GMT"
-    },
     {
       "title": "Opinion | 11 Questions the Western Media Should Be Investigating About the Gaza Genocide - Common Dreams",
       "pubDate": "Sun, 21 Sep 2025 13:44:50 GMT"
@@ -1741,6 +1733,10 @@
     {
       "title": "Updates: Israel kills dozens in Gaza as war on enclave draws global outcry - Al Jazeera",
       "pubDate": "Sun, 28 Sep 2025 00:33:45 GMT"
+    },
+    {
+      "title": "Tanks thrust deeper into Gaza, medics say many injured are trapped - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 10:58:34 GMT"
     }
   ],
   "climate_change": [
@@ -2065,6 +2061,10 @@
     {
       "title": "China tightens rules for electric vehicle exports by requiring permits from 2026 - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 27 Sep 2025 12:15:10 GMT"
+    },
+    {
+      "title": "Electric vehicle shoppers race to claim $7,500 tax credit before September 30 - USA Today",
+      "pubDate": "Sun, 28 Sep 2025 03:49:46 GMT"
     }
   ],
   "united_states": [
@@ -2181,6 +2181,10 @@
     {
       "title": "Iranian parliament to discuss pulling out of NPT, lawmaker says - The Times of Israel",
       "pubDate": "Sun, 28 Sep 2025 07:28:33 GMT"
+    },
+    {
+      "title": "United Nations arms embargo, other sanctions reimposed on Iran - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 01:08:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2481,6 +2485,12 @@
     {
       "title": "Housing Market's Stubborn Stagnation: Falling Mortgage Rates Fail to Ignite Future Home Sales, Raising Broader Market Concerns | FinancialContent - FinancialContent",
       "pubDate": "Sat, 27 Sep 2025 20:59:00 GMT"
+    }
+  ],
+  "health": [
+    {
+      "title": "Shutdown fight over Obamacare highlights drawback of health care law - The Washington Post",
+      "pubDate": "Sun, 28 Sep 2025 11:31:50 GMT"
     }
   ]
 }
