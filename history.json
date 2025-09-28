@@ -139,14 +139,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Trump Might Be Losing His Race Against Time - The Atlantic",
-      "pubDate": "Sun, 21 Sep 2025 15:49:02 GMT"
-    },
-    {
-      "title": "Trump approval poll: See where president stands on crime, immigration, foreign wars - USA Today",
-      "pubDate": "Sun, 21 Sep 2025 15:29:00 GMT"
-    },
-    {
       "title": "Trump will never change, but Kirk\u2019s death shines a path to MAGA\u2019s future - CNN",
       "pubDate": "Mon, 22 Sep 2025 04:00:05 GMT"
     },
@@ -189,6 +181,10 @@
     {
       "title": "Before Trump touted the drug leucovorin for autism, these families had already tried it - NBC News",
       "pubDate": "Sun, 28 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump to attend gathering of top generals, upending last-minute plans - The Washington Post",
+      "pubDate": "Sun, 28 Sep 2025 14:52:29 GMT"
     }
   ],
   "russia": [
@@ -278,10 +274,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "It\u2019s official\u2014Minnesota sues TikTok for using addictive algorithms that harm minors - Pedirayudas",
-      "pubDate": "Sun, 21 Sep 2025 15:40:10 GMT"
-    },
     {
       "title": "MCG, MCM launch AI-based road audit to detect defects, boost safety | Hindustan Times - Hindustan Times",
       "pubDate": "Sun, 21 Sep 2025 23:11:22 GMT"
@@ -575,10 +567,6 @@
       "pubDate": "Sun, 21 Sep 2025 18:23:00 GMT"
     },
     {
-      "title": "Nvidia supplier Ibiden to expand IC substrate output amid AI boom - Nikkei Asia",
-      "pubDate": "Sun, 21 Sep 2025 15:58:00 GMT"
-    },
-    {
       "title": "AI is 'coming at us fast'. But what exactly is it being used for right now? - Australian Broadcasting Corporation",
       "pubDate": "Sun, 21 Sep 2025 18:39:03 GMT"
     },
@@ -717,6 +705,10 @@
     {
       "title": "How Walmart plans to prepare America\u2019s largest private workforce for an AI-driven future - AP News",
       "pubDate": "Sun, 28 Sep 2025 12:51:00 GMT"
+    },
+    {
+      "title": "People Are More Likely to Cheat When They Use AI - Scientific American",
+      "pubDate": "Sun, 28 Sep 2025 10:00:00 GMT"
     }
   ],
   "ukraine": [
@@ -1301,6 +1293,10 @@
     {
       "title": "Harrods luxury department store warns customers of data breach - Cybernews",
       "pubDate": "Sun, 28 Sep 2025 08:12:56 GMT"
+    },
+    {
+      "title": "DOGE's insecure Social Security database part of secretive cybersecurity nightmare, report claims - Mashable",
+      "pubDate": "Sun, 28 Sep 2025 08:35:20 GMT"
     }
   ],
   "earthquakes": [
@@ -1729,10 +1725,6 @@
   ],
   "climate_change": [
     {
-      "title": "Deforestation reduces precepitation in the Amazon rainforest - Max-Planck-Gesellschaft zur F\u00f6rderung der Wissenschaften",
-      "pubDate": "Sun, 21 Sep 2025 15:21:08 GMT"
-    },
-    {
       "title": "Climate change causes weather extremes: West Virginia battles fire, flood, and drought - WCHS",
       "pubDate": "Sun, 21 Sep 2025 23:36:06 GMT"
     },
@@ -2007,6 +1999,10 @@
     {
       "title": "As Millions Face Climate Relocation, the Nation\u2019s First Attempt Sparks Warnings and Regret - Inside Climate News",
       "pubDate": "Sun, 28 Sep 2025 08:55:00 GMT"
+    },
+    {
+      "title": "Greta Thunberg issues stern response to Donald Trump's climate change claims at UN - Yahoo",
+      "pubDate": "Sun, 28 Sep 2025 09:26:37 GMT"
     }
   ],
   "world_news": [
@@ -2495,6 +2491,12 @@
     {
       "title": "Shutdown fight over Obamacare highlights drawback of health care law - The Washington Post",
       "pubDate": "Sun, 28 Sep 2025 11:31:50 GMT"
+    }
+  ],
+  "united_nations_security_council": [
+    {
+      "title": "Sanctions on Iran have been a spectacular strategic failure for the West - Al Jazeera",
+      "pubDate": "Sun, 28 Sep 2025 12:56:15 GMT"
     }
   ]
 }
