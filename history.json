@@ -151,14 +151,6 @@
   ],
   "donald_trump": [
     {
-      "title": "\u2018We can\u2019t delay any longer\u2019: Trump urges Bondi to prosecute his rivals - Politico",
-      "pubDate": "Sun, 21 Sep 2025 01:18:23 GMT"
-    },
-    {
-      "title": "Trump publicly pushes Attorney General Pam Bondi to go after his political foes - NBC News",
-      "pubDate": "Sun, 21 Sep 2025 01:24:00 GMT"
-    },
-    {
       "title": "Trump Might Be Losing His Race Against Time - The Atlantic",
       "pubDate": "Sun, 21 Sep 2025 15:49:02 GMT"
     },
@@ -753,6 +745,10 @@
     {
       "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
       "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
+    },
+    {
+      "title": "Researchers uncover hidden ingredients behind AI creativity - Live Science",
+      "pubDate": "Sat, 27 Sep 2025 20:23:00 GMT"
     }
   ],
   "ukraine": [
@@ -1111,6 +1107,10 @@
     {
       "title": "China boosts broadband, IoT and weather satellite fleets with flurry of launches - SpaceNews",
       "pubDate": "Sat, 27 Sep 2025 15:38:43 GMT"
+    },
+    {
+      "title": "Exclusive | Xi Is Chasing a Huge Concession from Trump: Opposing Taiwan Independence - The Wall Street Journal",
+      "pubDate": "Sun, 28 Sep 2025 01:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1705,10 +1705,6 @@
   ],
   "national_security": [
     {
-      "title": "'Beyond comprehension': National security expert slams new Pentagon 'pledge' for journalists - MSNBC News",
-      "pubDate": "Sun, 21 Sep 2025 01:37:21 GMT"
-    },
-    {
       "title": "Guiding RealmOne\u2019s Growth: Matt Ford on Staying Agile amid Evolving Natsec Threats - WashingtonExec",
       "pubDate": "Sun, 21 Sep 2025 21:51:13 GMT"
     },
@@ -1832,14 +1828,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "What to know about pika research in central Oregon - Statesman Journal",
-      "pubDate": "Sun, 21 Sep 2025 01:42:05 GMT"
-    },
-    {
-      "title": "Coalition denial makes Labor seem reasonable on climate \u2013 but neither is ambitious enough | Zoe Daniel - The Guardian",
-      "pubDate": "Sun, 21 Sep 2025 01:22:00 GMT"
-    },
     {
       "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 06:00:00 GMT"
@@ -2139,6 +2127,10 @@
     {
       "title": "Wildfires in Western U.S. Play a Role in Global Warming, Research Shows - U.S. News & World Report",
       "pubDate": "Sat, 27 Sep 2025 13:31:56 GMT"
+    },
+    {
+      "title": "Lawmakers push landmark bill to address crisis impacting land: 'A proud and defining moment' - The Cool Down",
+      "pubDate": "Sun, 28 Sep 2025 01:15:00 GMT"
     }
   ],
   "world_news": [
@@ -2485,6 +2477,10 @@
     {
       "title": "Moldovans vote in high-stakes parliamentary election - Reuters",
       "pubDate": "Sat, 27 Sep 2025 21:15:35 GMT"
+    },
+    {
+      "title": "European Union and Russia battle over Moldova in elections that could define the future of both blocs - Gamereactor UK",
+      "pubDate": "Sat, 27 Sep 2025 16:22:56 GMT"
     }
   ],
   "microsoft": [
@@ -2507,6 +2503,10 @@
     {
       "title": "Native Americans condemn Pentagon move to preserve Wounded Knee medals - Reuters",
       "pubDate": "Sat, 27 Sep 2025 18:52:02 GMT"
+    },
+    {
+      "title": "DJI loses lawsuit against Pentagon, leaving its popular drones in peril - Mashable",
+      "pubDate": "Sat, 27 Sep 2025 17:03:10 GMT"
     }
   ],
   "us_congress": [
@@ -2537,6 +2537,12 @@
     {
       "title": "New report reveals crucial sector where US is falling behind global competition: 'China is the engine' - The Cool Down",
       "pubDate": "Sat, 27 Sep 2025 17:30:00 GMT"
+    }
+  ],
+  "privacy": [
+    {
+      "title": "Microsoft Copilot Accesses 3M Sensitive Records, Heightens Privacy Risks - WebProNews",
+      "pubDate": "Sat, 27 Sep 2025 14:49:04 GMT"
     }
   ]
 }
