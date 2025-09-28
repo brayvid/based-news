@@ -5,10 +5,6 @@
       "pubDate": "Sun, 21 Sep 2025 03:01:00 GMT"
     },
     {
-      "title": "EXCLUSIVE: Bill to Block Arms Sales to Israel Endorsed by Congressional Progressive Caucus - Zeteo | Substack",
-      "pubDate": "Sat, 20 Sep 2025 23:30:19 GMT"
-    },
-    {
       "title": "Gaza war: Hamas releases 'farewell images' of 48 remaining captives; issues chilling message - The Times of India",
       "pubDate": "Sun, 21 Sep 2025 05:58:00 GMT"
     },
@@ -205,6 +201,10 @@
     {
       "title": "Trump accuses Wray of lying about agency actions on January 6, days after Comey indicted - CNN",
       "pubDate": "Sat, 27 Sep 2025 20:43:20 GMT"
+    },
+    {
+      "title": "Trump administration says it will revoke Colombian President Gustavo Petro's visa - USA Today",
+      "pubDate": "Sat, 27 Sep 2025 23:12:23 GMT"
     }
   ],
   "russia": [
@@ -599,10 +599,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "The White House: TikTok Agreement Ensures American Control Over App Algorithms - tesaaworld.com",
-      "pubDate": "Sat, 20 Sep 2025 23:53:53 GMT"
-    },
-    {
       "title": "Scientists just made atoms talk to each other inside silicon chips - ScienceDaily",
       "pubDate": "Sun, 21 Sep 2025 06:03:03 GMT"
     },
@@ -753,6 +749,10 @@
     {
       "title": "Accelerating breakthroughs with artificial intelligence - American Society for Biochemistry and Molecular Biology",
       "pubDate": "Thu, 25 Sep 2025 14:06:04 GMT"
+    },
+    {
+      "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
+      "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
     }
   ],
   "ukraine": [
@@ -1044,10 +1044,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Chinese tourists splash the cash in Japan as weak yen drives travel surge - South China Morning Post",
-      "pubDate": "Sun, 21 Sep 2025 00:00:14 GMT"
-    },
     {
       "title": "Chinese COVID whistleblower sentenced to 4 more years in jail, group says - Reuters",
       "pubDate": "Sun, 21 Sep 2025 05:36:00 GMT"
@@ -1833,17 +1829,13 @@
     {
       "title": "Hamas operative who killed officer Arnon Zmora during Gaza hostage rescue op slain in airstrike - The Times of Israel",
       "pubDate": "Sat, 27 Sep 2025 16:51:05 GMT"
+    },
+    {
+      "title": "Yvette Cooper suggests international community on brink of Gaza peace deal - The Guardian",
+      "pubDate": "Sat, 27 Sep 2025 19:56:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "Treaty to protect deep ocean clears way to enter into force - Climate Home News",
-      "pubDate": "Sat, 20 Sep 2025 23:14:16 GMT"
-    },
-    {
-      "title": "Move over, green lawns: Drier, warmer climate boosts interest in low-water landscaping - WLWT",
-      "pubDate": "Sat, 20 Sep 2025 23:12:00 GMT"
-    },
     {
       "title": "Thousands Protest on NYC Streets Ahead of Climate Week - Newsweek",
       "pubDate": "Sun, 21 Sep 2025 00:08:58 GMT"
@@ -2231,6 +2223,10 @@
     {
       "title": "China's LEI falls again, recession signals flash in August: TCB - Fibre2Fashion",
       "pubDate": "Sat, 27 Sep 2025 06:13:00 GMT"
+    },
+    {
+      "title": "Recession warnings are looking flat wrong as consumers power the economy forward - Axios",
+      "pubDate": "Sat, 27 Sep 2025 14:38:44 GMT"
     }
   ],
   "algorithms": [
@@ -2349,12 +2345,20 @@
     {
       "title": "Gabrielle becomes Category 4 hurricane in the tropical Atlantic Ocean - WPBF",
       "pubDate": "Mon, 22 Sep 2025 23:03:00 GMT"
+    },
+    {
+      "title": "Humberto strengthens to Category 5 in the Atlantic. Maps show its forecast path. - WTOP",
+      "pubDate": "Sat, 27 Sep 2025 18:40:48 GMT"
     }
   ],
   "hacking": [
     {
       "title": "Teenage hacker arrested for cyberattacks against Las Vegas casinos - USA Today",
       "pubDate": "Tue, 23 Sep 2025 00:20:18 GMT"
+    },
+    {
+      "title": "China-Linked Hackers Target Asian Telecoms, ASEAN with PlugX and Bookworm Malware - WebProNews",
+      "pubDate": "Sat, 27 Sep 2025 14:49:03 GMT"
     }
   ],
   "nuclear_energy": [
@@ -2505,6 +2509,12 @@
     {
       "title": "Veteran groups warn Congress against shutdown: \u2018Resist the pull of political brinkmanship\u2019 - The Hill",
       "pubDate": "Sat, 27 Sep 2025 22:00:00 GMT"
+    }
+  ],
+  "drones": [
+    {
+      "title": "Germany plans to let military shoot down drones domestically - politico.eu",
+      "pubDate": "Sat, 27 Sep 2025 14:00:00 GMT"
     }
   ]
 }
