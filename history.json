@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Gaza war: Hamas releases 'farewell images' of 48 remaining captives; issues chilling message - The Times of India",
-      "pubDate": "Sun, 21 Sep 2025 05:58:00 GMT"
-    },
-    {
       "title": "Arab-Israel Normalization Faces Major Test After Qatar Attack - Bloomberg.com",
       "pubDate": "Sun, 21 Sep 2025 06:45:00 GMT"
     },
@@ -283,6 +279,10 @@
     {
       "title": "Ukraine war live: Russia has \u2018no plans\u2019 to attack Europe and \u2018open\u2019 to negotiate - The Independent",
       "pubDate": "Sat, 27 Sep 2025 22:34:32 GMT"
+    },
+    {
+      "title": "Poland briefly closes airspace as NATO increases presence in the Baltic Sea - Al Jazeera",
+      "pubDate": "Sun, 28 Sep 2025 05:48:11 GMT"
     }
   ],
   "ai_safety": [
@@ -603,10 +603,6 @@
       "pubDate": "Sun, 21 Sep 2025 09:11:41 GMT"
     },
     {
-      "title": "Delivering growth and competitiveness - KPMG",
-      "pubDate": "Sun, 21 Sep 2025 05:10:16 GMT"
-    },
-    {
       "title": "I failed to land an H-1B visa 3 times. My work in AI helped me get an 'Einstein visa' instead. - Business Insider",
       "pubDate": "Sun, 21 Sep 2025 18:23:00 GMT"
     },
@@ -745,13 +741,13 @@
     {
       "title": "Researchers uncover hidden ingredients behind AI creativity - Live Science",
       "pubDate": "Sat, 27 Sep 2025 20:23:00 GMT"
+    },
+    {
+      "title": "What corporate earnings calls reveal about the AI stock rally - CEPR",
+      "pubDate": "Sat, 27 Sep 2025 23:04:57 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "UK proposes using billions in frozen Russian cash for Ukraine loans - politico.eu",
-      "pubDate": "Sun, 21 Sep 2025 05:09:52 GMT"
-    },
     {
       "title": "'Demographic conquest': Inside Russia\u2019s campaign to indoctrinate kidnapped Ukrainian children - France 24",
       "pubDate": "Sun, 21 Sep 2025 07:33:49 GMT"
@@ -999,6 +995,10 @@
     {
       "title": "Ukraine received Patriot system from Israel - Euractiv",
       "pubDate": "Sat, 27 Sep 2025 14:46:35 GMT"
+    },
+    {
+      "title": "Breaking News Live Updates: Ukraine FM says \u2018hundreds\u2019 of Russian drones and missiles hit Ukraine overnight - The Times of India",
+      "pubDate": "Sun, 28 Sep 2025 05:20:19 GMT"
     }
   ],
   "us_economy": [
@@ -1032,10 +1032,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Chinese COVID whistleblower sentenced to 4 more years in jail, group says - Reuters",
-      "pubDate": "Sun, 21 Sep 2025 05:36:00 GMT"
-    },
     {
       "title": "US House lawmakers make rare China visit to stabilise ties - Reuters",
       "pubDate": "Sun, 21 Sep 2025 11:11:43 GMT"
@@ -1303,10 +1299,6 @@
       "pubDate": "Sun, 21 Sep 2025 09:25:26 GMT"
     },
     {
-      "title": "Cybersecurity Breach Disrupts Major Airports Across Europe: Delays Hit Passengers at Brussels, Heathrow, and Berlin, Affecting Etihad Airways Operations - Travel And Tour World",
-      "pubDate": "Sun, 21 Sep 2025 05:56:47 GMT"
-    },
-    {
       "title": "European airports struggle to fix check-in glitch after cyberattack - Reuters",
       "pubDate": "Sun, 21 Sep 2025 14:57:10 GMT"
     },
@@ -1488,10 +1480,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "Quantum Stocks Rally: RGTI, QUBT, IonQ Lead Double-Digit Rally on Speculation Buzz - Yahoo",
-      "pubDate": "Sun, 21 Sep 2025 05:48:00 GMT"
-    },
     {
       "title": "Quantum Computing (NASDAQ:QUBT) Coverage Initiated at Lake Street Capital - MarketBeat",
       "pubDate": "Sun, 21 Sep 2025 09:33:06 GMT"
@@ -1805,6 +1793,10 @@
     {
       "title": "Yvette Cooper suggests international community on brink of Gaza peace deal - The Guardian",
       "pubDate": "Sat, 27 Sep 2025 19:56:00 GMT"
+    },
+    {
+      "title": "Updates: Israel kills dozens in Gaza as war on enclave draws global outcry - Al Jazeera",
+      "pubDate": "Sun, 28 Sep 2025 00:33:45 GMT"
     }
   ],
   "climate_change": [
@@ -2138,10 +2130,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "EVs near one-fifth of South Korea car sales - The Korea Herald",
-      "pubDate": "Sun, 21 Sep 2025 05:50:13 GMT"
-    },
     {
       "title": "Porsche shares plunge after announcing EV rollout delay - BBC",
       "pubDate": "Tue, 23 Sep 2025 06:49:47 GMT"
@@ -2511,6 +2499,10 @@
     {
       "title": "Pro-democracy advocates worried over Trump overtures to Putin-friendly Belarus - Washington Times",
       "pubDate": "Sat, 27 Sep 2025 17:54:18 GMT"
+    },
+    {
+      "title": "Trump's moves to consolidate power, punish enemies draw comparisons to places where democracy faded - AP News",
+      "pubDate": "Sun, 28 Sep 2025 04:03:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -2523,6 +2515,12 @@
     {
       "title": "Microsoft Copilot Accesses 3M Sensitive Records, Heightens Privacy Risks - WebProNews",
       "pubDate": "Sat, 27 Sep 2025 14:49:04 GMT"
+    }
+  ],
+  "trade_war": [
+    {
+      "title": "Trade negotiations between the U.S. and China have stalled, escalating into a \"bean war.\"According t.. - \ub9e4\uc77c\uacbd\uc81c",
+      "pubDate": "Sun, 28 Sep 2025 05:21:34 GMT"
     }
   ]
 }
