@@ -505,10 +505,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Wall St Week Ahead US housing shares shine as Fed restarts rate cuts - Reuters",
-      "pubDate": "Sun, 21 Sep 2025 12:59:51 GMT"
-    },
-    {
       "title": "Intel-Nvidia Deal Extends Stock Markets\u2019 Good News Rally. Why There\u2019s More to Come. - Barron's",
       "pubDate": "Mon, 22 Sep 2025 03:00:25 GMT"
     },
@@ -724,10 +720,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine analysis finds N. Korean migrant workers entering Russian military - Japan Wire by KYODO NEWS",
-      "pubDate": "Sun, 21 Sep 2025 12:04:00 GMT"
-    },
     {
       "title": "Defense Intelligence hits three russian Mi-8 helicopters and Nebo-U radar in occupied Crimea - ukranews.com",
       "pubDate": "Sun, 21 Sep 2025 14:46:00 GMT"
@@ -959,6 +951,10 @@
     {
       "title": "NATO fighter jets scrambled in Poland as Russia launches deadly strikes on Ukraine - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sun, 28 Sep 2025 07:51:34 GMT"
+    },
+    {
+      "title": "Poland closes airspace, scrambles jets amid \u2018massive\u2019 Russian attack on Ukraine - politico.eu",
+      "pubDate": "Sun, 28 Sep 2025 10:11:00 GMT"
     }
   ],
   "us_economy": [
@@ -1054,10 +1050,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "CEOs Have So Much Faith in AI, They\u2019re Ignoring Everything Else - Bloomberg.com",
-      "pubDate": "Sun, 21 Sep 2025 12:00:29 GMT"
-    },
     {
       "title": "Takeaways from Charlie Kirk\u2019s emotional memorial service - CNN",
       "pubDate": "Mon, 22 Sep 2025 00:07:00 GMT"
@@ -1433,10 +1425,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "Booz Allen, SEEQC Expand Partnership to Advance Quantum Computing - WashingtonExec",
-      "pubDate": "Sun, 21 Sep 2025 12:22:15 GMT"
-    },
-    {
       "title": "Quantum Simulation of Fermi-Hubbard Dynamics Achieves Scalability with over 100 Qubits on Superconducting Computers - Quantum Zeitgeist",
       "pubDate": "Sun, 21 Sep 2025 14:48:02 GMT"
     },
@@ -1583,6 +1571,10 @@
     {
       "title": "Quantum Computing Takes Its First Steps Into Wall Street - Quantum Zeitgeist",
       "pubDate": "Thu, 25 Sep 2025 10:58:03 GMT"
+    },
+    {
+      "title": "Quantum chips just proved they\u2019re ready for the real world - ScienceDaily",
+      "pubDate": "Sun, 28 Sep 2025 11:02:38 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -1613,6 +1605,10 @@
     {
       "title": "Sam Altman predicts AI will outsmart humanity by 2030 - Straight Arrow News",
       "pubDate": "Sat, 27 Sep 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Alibaba Unveils AGI and ASI Strategy: Eddie Wu\u2019s Speech Drives $28B Rally - China Academy",
+      "pubDate": "Sun, 28 Sep 2025 08:19:11 GMT"
     }
   ],
   "national_security": [
@@ -1655,6 +1651,10 @@
     {
       "title": "Terrorist death penalty bill advances after Knesset vote - The Jerusalem Post",
       "pubDate": "Sun, 28 Sep 2025 10:48:00 GMT"
+    },
+    {
+      "title": "South Korea's Lee calls for improving security at national data centre after fire - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 10:07:20 GMT"
     }
   ],
   "gaza": [
@@ -1737,6 +1737,10 @@
     {
       "title": "Tanks thrust deeper into Gaza, medics say many injured are trapped - Reuters",
       "pubDate": "Sun, 28 Sep 2025 10:58:34 GMT"
+    },
+    {
+      "title": "Gaza death toll surpasses 66,000 as Israel-Hamas war, famine crisis deepen | World News - Hindustan Times",
+      "pubDate": "Sun, 28 Sep 2025 11:29:59 GMT"
     }
   ],
   "climate_change": [
@@ -2185,6 +2189,10 @@
     {
       "title": "United Nations arms embargo, other sanctions reimposed on Iran - Reuters",
       "pubDate": "Sun, 28 Sep 2025 01:08:00 GMT"
+    },
+    {
+      "title": "UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran - NPR",
+      "pubDate": "Sun, 28 Sep 2025 05:29:33 GMT"
     }
   ],
   "energy_storage": [
@@ -2349,6 +2357,10 @@
     {
       "title": "COP30 urged to link climate justice with reparations for historical crimes - Al Jazeera",
       "pubDate": "Sat, 27 Sep 2025 06:56:15 GMT"
+    },
+    {
+      "title": "California Names 4,000+ Companies Now Required to Report Under New Climate Disclosure Rules - calcoasttimes.com",
+      "pubDate": "Sun, 28 Sep 2025 08:00:08 GMT"
     }
   ],
   "outer_space": [
