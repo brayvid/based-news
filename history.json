@@ -583,10 +583,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "As AI tools reshape education, schools struggle with how to draw the line on cheating - Pittsburgh Post-Gazette",
-      "pubDate": "Sun, 21 Sep 2025 08:00:00 GMT"
-    },
-    {
       "title": "Contributor: The internet made us stupid. AI promises to make it worse - Los Angeles Times",
       "pubDate": "Sun, 21 Sep 2025 10:00:00 GMT"
     },
@@ -983,6 +979,10 @@
     {
       "title": "Breaking News Live Updates: Ukraine FM says \u2018hundreds\u2019 of Russian drones and missiles hit Ukraine overnight - The Times of India",
       "pubDate": "Sun, 28 Sep 2025 05:20:19 GMT"
+    },
+    {
+      "title": "NATO fighter jets scrambled in Poland as Russia launches deadly strikes on Ukraine - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sun, 28 Sep 2025 07:51:34 GMT"
     }
   ],
   "us_economy": [
@@ -1275,6 +1275,10 @@
     {
       "title": "Seoul says North Korea holds up to two tonnes of weapons-grade uranium - France 24",
       "pubDate": "Thu, 25 Sep 2025 05:24:07 GMT"
+    },
+    {
+      "title": "North rejects denuclearization, calls weapons \"backbone\" of foreign policy - Korea JoongAng Daily",
+      "pubDate": "Sun, 28 Sep 2025 07:32:53 GMT"
     }
   ],
   "cybersecurity": [
@@ -1353,6 +1357,10 @@
     {
       "title": "Agentic AI Revolutionizes Cybersecurity in 2025: Innovations and Risks - WebProNews",
       "pubDate": "Sat, 27 Sep 2025 19:13:19 GMT"
+    },
+    {
+      "title": "Harrods luxury department store warns customers of data breach - Cybernews",
+      "pubDate": "Sun, 28 Sep 2025 08:12:56 GMT"
     }
   ],
   "earthquakes": [
@@ -1461,6 +1469,10 @@
     {
       "title": "Boston-Area Headquarters of Commonwealth Fusion Systems Acquired for $74 Million by Pivotal Manufacturing Partners and Declaration Partners - Boston Real Estate Times",
       "pubDate": "Wed, 24 Sep 2025 19:13:54 GMT"
+    },
+    {
+      "title": "US firm inches closer to revolutionary energy breakthrough: 'Holy grail' - Yahoo",
+      "pubDate": "Sat, 27 Sep 2025 21:15:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -1780,10 +1792,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "The Florida Climate Forecast Conference is returning to the Suncoast in November - Sarasota Herald-Tribune",
-      "pubDate": "Sun, 21 Sep 2025 08:03:40 GMT"
-    },
     {
       "title": "Zero Emissions Day in the Arctic: A 24-Hour Stress Test for the Planet - High North News",
       "pubDate": "Sun, 21 Sep 2025 10:09:41 GMT"
@@ -2387,6 +2395,10 @@
     {
       "title": "In Trump\u2019s \u2018domestic terrorism\u2019 memo, some see blueprint for vengeance that echoes history - Los Angeles Times",
       "pubDate": "Sat, 27 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Mali Accuses Algeria of Supporting Terrorism at UN Assembly - Barlaman Today",
+      "pubDate": "Sun, 28 Sep 2025 07:01:18 GMT"
     }
   ],
   "us_treasury": [
@@ -2523,6 +2535,18 @@
     {
       "title": "ACA Premiums Set to Increase in 2026 as Enhanced Marketplace Premium Tax Credits Expire - AZ Public Health Association",
       "pubDate": "Sun, 28 Sep 2025 00:43:46 GMT"
+    }
+  ],
+  "violence": [
+    {
+      "title": "Human Rights Watch urges UN to authorize a mission to address violence in Haiti - JURIST Legal News",
+      "pubDate": "Sun, 28 Sep 2025 02:57:48 GMT"
+    }
+  ],
+  "world_economy": [
+    {
+      "title": "Housing Market's Stubborn Stagnation: Falling Mortgage Rates Fail to Ignite Future Home Sales, Raising Broader Market Concerns | FinancialContent - FinancialContent",
+      "pubDate": "Sat, 27 Sep 2025 20:59:00 GMT"
     }
   ]
 }
