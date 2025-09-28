@@ -173,14 +173,6 @@
   ],
   "russia": [
     {
-      "title": "Putin sacks top general after Ukraine grinds Russia's summer offensive down as Vlad helps out on military exercise - The US Sun",
-      "pubDate": "Sun, 21 Sep 2025 23:47:04 GMT"
-    },
-    {
-      "title": "UK spy boss warns Putin is \u2018stringing us along\u2019 in stark outgoing speech - AOL.com",
-      "pubDate": "Sun, 21 Sep 2025 23:22:41 GMT"
-    },
-    {
       "title": "US tries to keep Russian airlines from getting their hands on sanctioned parts - politico.eu",
       "pubDate": "Mon, 22 Sep 2025 02:25:10 GMT"
     },
@@ -251,13 +243,13 @@
     {
       "title": "Poland briefly closes airspace as NATO increases presence in the Baltic Sea - Al Jazeera",
       "pubDate": "Sun, 28 Sep 2025 05:48:11 GMT"
+    },
+    {
+      "title": "Authorities investigate possible Russian \"hybrid warfare\" after oil tanker cuts undersea cables - CBS News",
+      "pubDate": "Sun, 28 Sep 2025 23:32:22 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "MCG, MCM launch AI-based road audit to detect defects, boost safety | Hindustan Times - Hindustan Times",
-      "pubDate": "Sun, 21 Sep 2025 23:11:22 GMT"
-    },
     {
       "title": "Law for Large-Scale AI Risk: FAQ on AI Safety Law - Harvard Law School",
       "pubDate": "Mon, 22 Sep 2025 04:39:43 GMT"
@@ -677,6 +669,10 @@
     {
       "title": "People Are More Likely to Cheat When They Use AI - Scientific American",
       "pubDate": "Sun, 28 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "SAP Exec: Get Ready to Be Fired Because of AI - Futurism",
+      "pubDate": "Sun, 28 Sep 2025 12:15:00 GMT"
     }
   ],
   "ukraine": [
@@ -1003,6 +999,10 @@
     {
       "title": "China ferry fleet built amid Taiwan invasion preparations, classified report warns - Australian Broadcasting Corporation",
       "pubDate": "Sun, 28 Sep 2025 18:41:30 GMT"
+    },
+    {
+      "title": "China weaponizes ag imports to target Trump and US farmers - Politico",
+      "pubDate": "Sun, 28 Sep 2025 16:00:00 GMT"
     }
   ],
   "us_politics": [
@@ -1168,10 +1168,6 @@
     }
   ],
   "north_korea": [
-    {
-      "title": "North Korea can talk to US if it stops insisting on denuclearisation, Kim says - Reuters",
-      "pubDate": "Sun, 21 Sep 2025 23:34:42 GMT"
-    },
     {
       "title": "North Korean Leader Kim Jong Un\u2019s Proposition to Trump: Let\u2019s Talk\u2014but Not About Nukes - The Wall Street Journal",
       "pubDate": "Mon, 22 Sep 2025 19:34:00 GMT"
@@ -1384,10 +1380,6 @@
     }
   ],
   "quantum_computing": [
-    {
-      "title": "High-dimensional Topological Photonic Entanglement Achieves Resilience with up to Five Entangled Modes - Quantum Zeitgeist",
-      "pubDate": "Sun, 21 Sep 2025 23:57:45 GMT"
-    },
     {
       "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement of Common Stock Priced at the Market Under Nasdaq Rules - PR Newswire",
       "pubDate": "Mon, 22 Sep 2025 02:55:00 GMT"
@@ -1692,10 +1684,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Climate change causes weather extremes: West Virginia battles fire, flood, and drought - WCHS",
-      "pubDate": "Sun, 21 Sep 2025 23:36:06 GMT"
-    },
     {
       "title": "Sun Day in Asheville shines a light on clean energy push, climate awareness - WLOS",
       "pubDate": "Mon, 22 Sep 2025 00:09:58 GMT"
@@ -2125,6 +2113,10 @@
     {
       "title": "Iran weighs response after U.N. sanctions are reimposed over its nuclear program - NBC News",
       "pubDate": "Sun, 28 Sep 2025 07:18:16 GMT"
+    },
+    {
+      "title": "Iran threatens to engage in war with US if attacked by Israel again - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "pubDate": "Sun, 28 Sep 2025 22:00:00 GMT"
     }
   ],
   "middle_east": [
@@ -2299,6 +2291,10 @@
     {
       "title": "California Names 4,000+ Companies Now Required to Report Under New Climate Disclosure Rules - calcoasttimes.com",
       "pubDate": "Sun, 28 Sep 2025 08:00:08 GMT"
+    },
+    {
+      "title": "Energy Dept. adds \u2018climate change\u2019 and \u2018emissions\u2019 to banned words list - Politico",
+      "pubDate": "Sun, 28 Sep 2025 18:47:25 GMT"
     }
   ],
   "outer_space": [
@@ -2381,6 +2377,10 @@
     {
       "title": "Deadly shooting at Dallas ICE facility investigated by FBI as targeted attack; medical examiner identifies victim - CBS News",
       "pubDate": "Sat, 27 Sep 2025 18:32:46 GMT"
+    },
+    {
+      "title": "Videos of fatal ICE shooting in Chicago raise questions about DHS account - The Washington Post",
+      "pubDate": "Sun, 28 Sep 2025 16:00:00 GMT"
     }
   ],
   "democracy": [
@@ -2463,6 +2463,12 @@
     {
       "title": "NASA announces humans could return to the Moon in less than 6 months - supercarblondie.com",
       "pubDate": "Sun, 28 Sep 2025 15:24:00 GMT"
+    }
+  ],
+  "computers": [
+    {
+      "title": "Caltech Builds World\u2019s Largest Neutral-Atom Quantum Computer - Decrypt",
+      "pubDate": "Sun, 28 Sep 2025 18:01:03 GMT"
     }
   ]
 }
