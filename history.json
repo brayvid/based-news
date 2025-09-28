@@ -1307,10 +1307,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Corporate cybersecurity threats exceed 7,000 cases in past 6 yrs: data - Yonhap News Agency",
-      "pubDate": "Sun, 21 Sep 2025 00:53:11 GMT"
-    },
-    {
       "title": "Rising threats push industrial supply chains to adopt real-time monitoring, proactive cybersecurity practices - Industrial Cyber",
       "pubDate": "Sun, 21 Sep 2025 09:25:26 GMT"
     },
@@ -1837,10 +1833,6 @@
   ],
   "climate_change": [
     {
-      "title": "Thousands Protest on NYC Streets Ahead of Climate Week - Newsweek",
-      "pubDate": "Sun, 21 Sep 2025 00:08:58 GMT"
-    },
-    {
       "title": "What to know about pika research in central Oregon - Statesman Journal",
       "pubDate": "Sun, 21 Sep 2025 01:42:05 GMT"
     },
@@ -2267,10 +2259,6 @@
   ],
   "fbi": [
     {
-      "title": "Trump border czar Tom Homan reportedly accepted $50,000 in cash from undercover FBI agents - The Guardian",
-      "pubDate": "Sun, 21 Sep 2025 00:02:00 GMT"
-    },
-    {
       "title": "DOJ nearing decision whether to charge former FBI Director James Comey with lying to Congress, sources say - CNN",
       "pubDate": "Wed, 24 Sep 2025 19:50:25 GMT"
     }
@@ -2307,6 +2295,10 @@
     {
       "title": "'Snapback' sends West back to the drawing board on Iran's nuclear programme - Reuters",
       "pubDate": "Sat, 27 Sep 2025 22:11:10 GMT"
+    },
+    {
+      "title": "Iran's clerical leaders face existential crisis amid nuclear deadlock - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 00:14:00 GMT"
     }
   ],
   "energy_storage": [
@@ -2397,6 +2389,10 @@
     {
       "title": "CISA Warns of Actively Exploited Google Chrome 0-Day Vulnerability - Cyber Press",
       "pubDate": "Wed, 24 Sep 2025 08:56:35 GMT"
+    },
+    {
+      "title": "China Prepares for Cyberattacks - Security Boulevard",
+      "pubDate": "Sun, 28 Sep 2025 00:21:57 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -2479,6 +2475,10 @@
     {
       "title": "BRICS foreign ministers condemn military aggression against Iran's nuclear facilities - IRNA English",
       "pubDate": "Sat, 27 Sep 2025 21:55:13 GMT"
+    },
+    {
+      "title": "BRICS nations criticise protectionism, condemn Israel attacks on Qatar - The Hindu",
+      "pubDate": "Sat, 27 Sep 2025 16:56:00 GMT"
     }
   ],
   "european_union": [
@@ -2503,6 +2503,10 @@
     {
       "title": "US military brass brace for firings as Pentagon chief orders top-level meeting - The Guardian",
       "pubDate": "Sat, 27 Sep 2025 15:07:00 GMT"
+    },
+    {
+      "title": "Native Americans condemn Pentagon move to preserve Wounded Knee medals - Reuters",
+      "pubDate": "Sat, 27 Sep 2025 18:52:02 GMT"
     }
   ],
   "us_congress": [
@@ -2515,6 +2519,24 @@
     {
       "title": "Germany plans to let military shoot down drones domestically - politico.eu",
       "pubDate": "Sat, 27 Sep 2025 14:00:00 GMT"
+    }
+  ],
+  "department_of_homeland_security": [
+    {
+      "title": "Deadly shooting at Dallas ICE facility investigated by FBI as targeted attack; medical examiner identifies victim - CBS News",
+      "pubDate": "Sat, 27 Sep 2025 18:32:46 GMT"
+    }
+  ],
+  "democracy": [
+    {
+      "title": "Pro-democracy advocates worried over Trump overtures to Putin-friendly Belarus - Washington Times",
+      "pubDate": "Sat, 27 Sep 2025 17:54:18 GMT"
+    }
+  ],
+  "renewable_energy": [
+    {
+      "title": "New report reveals crucial sector where US is falling behind global competition: 'China is the engine' - The Cool Down",
+      "pubDate": "Sat, 27 Sep 2025 17:30:00 GMT"
     }
   ]
 }
