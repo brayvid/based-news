@@ -1,72 +1,62 @@
 {
-  "Donald Trump": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Donald Trump: Head of Gaza - Politico",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHhtOThnckh1TUVUZTJYaU9HWDFaNUxSUUpxQXN4WUFzcGRpaU5rS3dpdnVWNnFuUEM3NFc5eFl3Vjd5Wm9yNGE0OUNWXzFMeXlGcjVVelF1OEZhWVRFUm8xbEpoVFJjRURoWFkwS2NSSzRnLWowZEoyZnNsNHVxdTdiUTVrM3BkZTU2UzhxYlJ6S1hKWUtqYUxhaFBBZENOTlZ6NnJpQUp1V3JJQ2JxOVVEV1lLQWZRWXMxNFln?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 21:34:46 GMT"
+        "title": "Here are the biggest threats to the U.S. economy - TheStreet",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3hHSGZWWHVXS2xNOWpMQl95Q0p0NXJ3ZnRYdGdBNFZHNEJOMzAzVTVYeGhOeG9oTjdNeWl2WTJvQjRxWm9nODRpWmVOZVo0Z09wOW5MQTItbVRyLTZQNnI4WlZMNXJpMThEU2huLXNfb2JMbldtN01IbGxxTWNFWExZTVBVUQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 19:00:22 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   },
-  "North Korea": {
+  "Artificial Intelligence": {
     "articles": [
       {
-        "title": "North Korea tells UN: We will never give up nuclear program - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWNOX0EyME9fdHdLSWZzd3lCSlBFV0RjTWJMUG9abmVUQU1WMTd4ZnpEc3RUZUxJWW5RWG9QN2x1VF8ydDJsc1VTS3pldnh1R1dpdEtmYkN6TEFSNmpwMGY2NFZSX1BCS08wbWRXVGg3NzF6T05UX3pWdklndXdLMXhTcWdjZW1NR0c1ckdqNkZHN1A2cDNTQmJZVkhHZ1hkMVFBenI3WU8tQm01WkpYMjNmdw?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 16:59:06 GMT"
+        "title": "Artificial intelligence may not be artificial - Harvard Gazette",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblRiVFR1eWFMQlRZallVTjNVLVpHZlVFSXJnN0h6SEJvYS1fSG8xVGFiMGlnQlhRUzEzUnh0WGh5emhqRlRIcU5pT0JKeDBWZ0QzdTVhSXYwMU5fSFV5bVJMcUgzcVI0R205M0lUbDViU0ZFTDQwcFZKREUyNHRPTjc3cWZzelBGd19pWVY1QkZXeEkyRTRIRg?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 20:17:04 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   },
-  "Fusion Power": {
+  "Climate Change": {
     "articles": [
       {
-        "title": "Scientists make key breakthrough in effort to reproduce the sun's power: 'Can we help lead the world?' - The Cool Down",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHEzWnA0T01QVE9SN3RLdGpnUV9CUXRqZlZVbGRRTDhvZ0ZJQmc5Ykd0SGpHcVJnRDcybUhQMDFUYWNveTF3UjFNbmN6cTVIUmd2MnlfNTJJTTZTUzdFd1FBeHlKQjZ2bkY4ZUkwUENZcW1ORGlxMjNONVpDUXRXMWxKcVM2QQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 21:15:00 GMT"
+        "title": "How lasers can help us see climate change - Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FT09YNURzQ2lyUUpXOHZHcjlaTjJHbGd0a2NjRExDbDhxOFA2enVPSFZ5TEJ2OGp1Z2JJZzRleHJiZnJpai1Da2lpUFNyZ3RvVS1fbnF1NXd2cmFTby0xRHlwYV9uY3lNVXlUQUN4MG4?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 11:00:06 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   },
-  "OpenAI": {
+  "Energy Transition": {
     "articles": [
       {
-        "title": "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos - WIRED",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNSXBxNUlibmdINjhNd29KYzNnSTNoRWl5d3o5UlR4a1AzREN1SlpTUUYyOUNtaVlJSmJ5czdOWHFpWXFucnZfMTFQN1RZV0ZmdVluS0MwTGYtTk1aVi05dURQOXRQSXQzQjJNQW0ycEFZRnlST0E?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 19:32:00 GMT"
+        "title": "Green energy pact has curbed fossil fuel funding - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNE5JTnRoYXNkUzlxVkN1THdycGFNNUVBZzd1QTF3Tll5dXlmYWNiMEVPY05IcmJYdmRIcEdOTWM2NVFxVzhLdGIxVlZOYmk4M2FYZkZ6YUp5c0N0Ui1DLVJhVWNfUTZwZ2pDYmdIV0pzbFVKZnc3MHlqNmVuNGtvV3MwNmhtR1pyb051YXdMUVRXNDZDczIwSEl3Y0pfaWNpYlhLdEpn?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 22:06:56 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   },
-  "India": {
+  "Cloud Computing": {
     "articles": [
       {
-        "title": "Canada lists India's Bishnoi gang as terrorist entity - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycS05b3RXeml3RWhlS3VGMFRjYktjUDY1NnI4YXJOY1N3RkJXN3hmMmhJcHJ4LWp2SG9jbnJFcEZTTE9uSEpkN29DcTVDckZqMUMyTHFBUng5Z9IBX0FVX3lxTFBGMERhU0xRV0hoRmUtUDZuWGloY1NkczAzTjJBNm9ZaU9JaGNXcmxzZ3hFN09GVWZENklsR1hLUTlxNFRhaG4tMW9zSDhLS1ZCWkllUDUyTVNEb0VQcm0w?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 15:22:45 GMT"
+        "title": "David and Goliath: How a buzzy startup took Amazon Web Services by surprise - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2I0NDRQVV9aM3VkcUxLMW8zRTlrM0kyV01xNTBORzdjM3djMC1GeUlCemF0QjF4SnNqWFlud0h4dkNnUXhHWVZXWVlBejBoTVJPNVJwMUgzTWo5VjNQd2hVcC1RendRQjIwTGl1SS1wLXd1dGZoTFByaDhuUkUzMA?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 12:30:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   },
   "Internet": {
     "articles": [
       {
-        "title": "Afghanistan Has Nationwide Internet Blackout, Monitors Say - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHJsWWpnZDA2bEVLcy1GRlQzRE1EVnRuRGdXRzlOdXRDNE5RVjk5ZklJTzh0MThJS2loMXlBYXo1T3g5ZHAwWGg0TUFNMVd2TGxMQllCTFk0aGVNd2VnSTBmQkIzTkwyeUgxeHh3LWcyMVZkZkk4MmJQRXdJZU5ERE81M3oyVVE?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 18:40:14 GMT"
+        "title": "Internet shutdowns rise as some African states crackdown on dissent - https-//www.semafor.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWU01V09jMFI2NTZCWWR4VmNxaHNhTTFjaEZKSmxaWHhEM3duVEtLU2cyVloxS1ZCMzdJN0t0Zm1XcEdHUGROVWstMjc3b19mMXFJRHIyQmJMdVdXdm9qLUxQdnIwZ1YyMk5aUUZ2bjdMeEFWT0RKaXRiVmlyZF9xTkpmakZtMEZiRTd1R205MUVESUZwRV9ydnAxU2dERWJaV3VSZU1fd29BT25OR2kxdg?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 12:46:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
-  },
-  "Artificial General Intelligence": {
-    "articles": [
-      {
-        "title": "Murphy: Regulate AI Before It Destroys Us - New Haven Independent",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDlOWER5eGVoS2kxS3VrUUE1Z1BIQ0ZEUkNqOGhPQ0ZIZzVmOGtDVTJUdDVXMVZOQ1BQTVF3N1BXRVVwUlpqMnV1Q3FaODMzdHRvV3hIM3hRMjNNM0VFb1FyeWEzeV9tSEJCWGE1WnBDX2pSUm5TSGw2ZDNSTGlobXFvT0J5b0RrTFJHVG93?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 16:45:38 GMT"
-      }
-    ],
-    "last_updated_ts": "2025-09-29T22:03:05.744147+00:00"
+    "last_updated_ts": "2025-09-29T23:02:32.281535+00:00"
   }
 }

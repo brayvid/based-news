@@ -91,10 +91,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Live updates: Trump holds briefing on autism with RFK Jr. - NBC4 Washington",
-      "pubDate": "Mon, 22 Sep 2025 22:48:25 GMT"
-    },
-    {
       "title": "Trump to address world leaders at United Nations today - CBS News",
       "pubDate": "Tue, 23 Sep 2025 13:20:00 GMT"
     },
@@ -569,6 +565,10 @@
     {
       "title": "Lufthansa airline group to shed 4,000 jobs by 2030 with help of AI, sees stronger profits ahead - The Hill",
       "pubDate": "Mon, 29 Sep 2025 09:27:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence may not be artificial - Harvard Gazette",
+      "pubDate": "Mon, 29 Sep 2025 20:17:04 GMT"
     }
   ],
   "ukraine": [
@@ -773,13 +773,13 @@
     {
       "title": "US Economy Will Only Get Murkier If Key Data Is Delayed in Shutdown - Bloomberg.com",
       "pubDate": "Mon, 29 Sep 2025 15:40:44 GMT"
+    },
+    {
+      "title": "Here are the biggest threats to the U.S. economy - TheStreet",
+      "pubDate": "Mon, 29 Sep 2025 19:00:22 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China Floods the World With Cheap Exports After Trump\u2019s Tariffs - Bloomberg.com",
-      "pubDate": "Mon, 22 Sep 2025 23:00:29 GMT"
-    },
     {
       "title": "For China, TikTok becomes bargaining chip amid tensions with US - Al Jazeera",
       "pubDate": "Tue, 23 Sep 2025 02:17:58 GMT"
@@ -1441,10 +1441,6 @@
   ],
   "climate_change": [
     {
-      "title": "How Climate Change Could Destroy Shark Teeth and Threaten Their Entire Existence - SYFY",
-      "pubDate": "Mon, 22 Sep 2025 22:31:54 GMT"
-    },
-    {
       "title": "Tracking algae and climate change from the sky with Arctic AIR - KNOM Radio Mission",
       "pubDate": "Mon, 22 Sep 2025 23:38:19 GMT"
     },
@@ -1647,6 +1643,10 @@
     {
       "title": "Trump\u2019s Energy Department forbids staff from saying \u2018climate change\u2019 or \u2018green\u2019 - TechCrunch",
       "pubDate": "Mon, 29 Sep 2025 15:00:28 GMT"
+    },
+    {
+      "title": "How lasers can help us see climate change - Financial Times",
+      "pubDate": "Mon, 29 Sep 2025 11:00:06 GMT"
     }
   ],
   "world_news": [
@@ -1705,6 +1705,10 @@
     {
       "title": "EU announces $638m to support Africa\u2019s clean energy transition - Power Technology",
       "pubDate": "Mon, 29 Sep 2025 12:07:12 GMT"
+    },
+    {
+      "title": "Green energy pact has curbed fossil fuel funding - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 22:06:56 GMT"
     }
   ],
   "recession": [
@@ -1857,12 +1861,6 @@
       "pubDate": "Mon, 29 Sep 2025 09:58:09 GMT"
     }
   ],
-  "nuclear_energy": [
-    {
-      "title": "China tests world-class robot arms for \u2018artificial sun\u2019 project - Interesting Engineering",
-      "pubDate": "Mon, 22 Sep 2025 23:00:00 GMT"
-    }
-  ],
   "asteroids": [
     {
       "title": "Scientists consider nuclear option to stop asteroid 2024 YR4 before it hits the Moon - Moneycontrol",
@@ -1967,6 +1965,10 @@
     {
       "title": "German investigators raid AI cloud company Northern Data - Communications Today",
       "pubDate": "Mon, 29 Sep 2025 02:47:35 GMT"
+    },
+    {
+      "title": "David and Goliath: How a buzzy startup took Amazon Web Services by surprise - Fortune",
+      "pubDate": "Mon, 29 Sep 2025 12:30:00 GMT"
     }
   ],
   "kim_jong_un": [
@@ -2363,6 +2365,10 @@
     {
       "title": "Afghanistan Has Nationwide Internet Blackout, Monitors Say - The New York Times",
       "pubDate": "Mon, 29 Sep 2025 18:40:14 GMT"
+    },
+    {
+      "title": "Internet shutdowns rise as some African states crackdown on dissent - https-//www.semafor.com",
+      "pubDate": "Mon, 29 Sep 2025 12:46:00 GMT"
     }
   ]
 }
