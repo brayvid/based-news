@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "U.S. and Israel against the world as Palestine dominates UN week - Axios",
-      "pubDate": "Mon, 22 Sep 2025 09:06:12 GMT"
-    },
-    {
       "title": "Israel to demolish homes of Palestinians who killed six in Jerusalem bus stop attack - Reuters",
       "pubDate": "Mon, 22 Sep 2025 14:51:16 GMT"
     },
@@ -641,6 +637,10 @@
     {
       "title": "Regulators struggle to keep up with the fast-moving and complicated landscape of AI therapy apps - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 29 Sep 2025 01:41:02 GMT"
+    },
+    {
+      "title": "Lufthansa airline group to shed 4,000 jobs by 2030 with help of AI, sees stronger profits ahead - The Hill",
+      "pubDate": "Mon, 29 Sep 2025 09:27:00 GMT"
     }
   ],
   "ukraine": [
@@ -951,6 +951,10 @@
     {
       "title": "China Goes on Offense - Foreign Affairs",
       "pubDate": "Mon, 29 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Chinese former minister sentenced to death for bribery - Asia News Network",
+      "pubDate": "Mon, 29 Sep 2025 06:35:18 GMT"
     }
   ],
   "us_politics": [
@@ -965,14 +969,6 @@
     {
       "title": "Republicans remember Charlie Kirk and talk immigration at conservative fundraiser - Iowa Public Radio",
       "pubDate": "Mon, 22 Sep 2025 14:07:00 GMT"
-    },
-    {
-      "title": "Rural health clinics are closing after Trump\u2019s \u2018One Big Beautiful Bill,\u2019 raising the legislation\u2019s political risks - CNN",
-      "pubDate": "Mon, 22 Sep 2025 10:00:05 GMT"
-    },
-    {
-      "title": "Trump press secretary denies president is weaponizing justice department and dodges question on autism announcement \u2013 live - The Guardian",
-      "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
     },
     {
       "title": "White House bullish after a long string of Supreme Court victories - NBC News",
@@ -1625,10 +1621,6 @@
       "pubDate": "Mon, 22 Sep 2025 11:58:41 GMT"
     },
     {
-      "title": "Amazon sustainability chief & top scientist: AI could end up being climate\u2019s most powerful tool - Fortune",
-      "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
-    },
-    {
       "title": "Meet Megan O'Rourke, The Former Federal Climate Scientist Running For Congress - Forbes",
       "pubDate": "Mon, 22 Sep 2025 15:07:52 GMT"
     },
@@ -1921,10 +1913,6 @@
   ],
   "recession": [
     {
-      "title": "Trump's $100k visa fee for skilled workers puts US at risk of recession, analysts warn - MSN",
-      "pubDate": "Mon, 22 Sep 2025 09:08:00 GMT"
-    },
-    {
       "title": "Economists warn Colorado lawmakers of more budget cuts looming \u2014 and higher recession risk - The Denver Post",
       "pubDate": "Mon, 22 Sep 2025 21:00:22 GMT"
     },
@@ -2065,6 +2053,10 @@
     {
       "title": "China-Linked Hackers Target Asian Telecoms, ASEAN with PlugX and Bookworm Malware - WebProNews",
       "pubDate": "Sat, 27 Sep 2025 14:49:03 GMT"
+    },
+    {
+      "title": "Zero-Click Hacking Emerges as Sophisticated Cyber Threat - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Mon, 29 Sep 2025 06:26:34 GMT"
     }
   ],
   "nuclear_energy": [
@@ -2119,6 +2111,10 @@
     {
       "title": "Trump presents new plan to end war in Gaza to Arab and Muslim leaders - France 24",
       "pubDate": "Wed, 24 Sep 2025 21:42:04 GMT"
+    },
+    {
+      "title": "Trump and Putin are threatening to carve up Europe between them. Suddenly, it all feels a bit 1939 | Simon Tisdall - The Guardian",
+      "pubDate": "Mon, 29 Sep 2025 03:19:00 GMT"
     }
   ],
   "nuclear_weapons": [
@@ -2221,6 +2217,10 @@
     {
       "title": "Trump officials shut off funding for climate adaptation centers - The Washington Post",
       "pubDate": "Sun, 28 Sep 2025 17:00:19 GMT"
+    },
+    {
+      "title": "Germany provides nearly $14 billion for climate financing in 2024 - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 06:17:00 GMT"
     }
   ],
   "outer_space": [
@@ -2287,6 +2287,10 @@
     {
       "title": "Veteran groups warn Congress against shutdown: \u2018Resist the pull of political brinkmanship\u2019 - The Hill",
       "pubDate": "Sat, 27 Sep 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Shutdown staring contest heads to the Oval Office - Politico",
+      "pubDate": "Mon, 29 Sep 2025 08:45:00 GMT"
     }
   ],
   "drones": [
@@ -2449,6 +2453,12 @@
     {
       "title": "The Sound of Earth's Flipping Magnetic Field Is an Unnerving Horror - ScienceAlert",
       "pubDate": "Sun, 28 Sep 2025 23:34:10 GMT"
+    }
+  ],
+  "blockchain": [
+    {
+      "title": "Swift to launch blockchain in response to rise of stablecoins - Financial Times",
+      "pubDate": "Mon, 29 Sep 2025 09:15:05 GMT"
     }
   ]
 }
