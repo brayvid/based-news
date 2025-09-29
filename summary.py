@@ -100,7 +100,7 @@ def format_history(data):
 
 # --- Gemini query ---
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
+model = genai.GenerativeModel("models/gemini-2.5-flash")
 
 question = (
     "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. "
