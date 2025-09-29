@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel to demolish homes of Palestinians who killed six in Jerusalem bus stop attack - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 14:51:16 GMT"
-    },
-    {
       "title": "Footage shows public executions in Gaza City street - BBC",
       "pubDate": "Mon, 22 Sep 2025 19:57:25 GMT"
     },
@@ -235,13 +231,13 @@
     {
       "title": "Russian attacks keep \u201cpushing the limits\u201d of NATO countries - Al Jazeera",
       "pubDate": "Mon, 29 Sep 2025 10:35:03 GMT"
+    },
+    {
+      "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference - BBC",
+      "pubDate": "Mon, 29 Sep 2025 11:14:42 GMT"
     }
   ],
   "ai_safety": [
-    {
-      "title": "UN General Assembly opens with plea for binding AI safeguards - NBC News",
-      "pubDate": "Mon, 22 Sep 2025 15:00:40 GMT"
-    },
     {
       "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI - Ars Technica",
       "pubDate": "Mon, 22 Sep 2025 18:18:00 GMT"
@@ -417,6 +413,10 @@
     {
       "title": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California - Los Angeles Times",
       "pubDate": "Sun, 28 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "ETIH EdTech News: OpenAI partners with AARP and OATS on AI safety for older adults - EdTech Innovation Hub",
+      "pubDate": "Mon, 29 Sep 2025 05:30:00 GMT"
     }
   ],
   "financial_markets": [
@@ -935,14 +935,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump claims he ended a war - between countries that are 4,000 miles apart - The Independent",
-      "pubDate": "Mon, 22 Sep 2025 15:01:00 GMT"
-    },
-    {
-      "title": "Republicans remember Charlie Kirk and talk immigration at conservative fundraiser - Iowa Public Radio",
-      "pubDate": "Mon, 22 Sep 2025 14:07:00 GMT"
-    },
-    {
       "title": "White House bullish after a long string of Supreme Court victories - NBC News",
       "pubDate": "Mon, 22 Sep 2025 20:42:45 GMT"
     },
@@ -1091,10 +1083,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Stellantis Cybersecurity Breach: What Hackers Got and What Stayed Safe - autoblog.com",
-      "pubDate": "Mon, 22 Sep 2025 14:30:00 GMT"
-    },
-    {
       "title": "Senate Deadlock Threatens Critical Cybersecurity Programs Before Sept. 30 Shutdown - Homeland Security Today",
       "pubDate": "Tue, 23 Sep 2025 00:39:30 GMT"
     },
@@ -1173,6 +1161,10 @@
     {
       "title": "Cybersecurity leaders underreport cyber incidents to executives - Help Net Security",
       "pubDate": "Mon, 29 Sep 2025 04:30:52 GMT"
+    },
+    {
+      "title": "Canada's WestJet says some passenger data exposed in cybersecurity breach - Yahoo",
+      "pubDate": "Mon, 29 Sep 2025 14:20:15 GMT"
     }
   ],
   "earthquakes": [
@@ -1277,20 +1269,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum computing stocks pare off last week's gains amid Quantum's private placement - Seeking Alpha",
-      "pubDate": "Mon, 22 Sep 2025 14:08:11 GMT"
-    },
-    {
       "title": "My New Quantum Computing Price Target Takes a Leap - TheStreet Pro",
       "pubDate": "Mon, 22 Sep 2025 15:05:00 GMT"
-    },
-    {
-      "title": "Quantum computing stock plummets on financing decision - TheStreet",
-      "pubDate": "Mon, 22 Sep 2025 15:03:00 GMT"
-    },
-    {
-      "title": "Breakthrough: Quantum Entanglement Achieved Between The Hearts of Two Atoms - ScienceAlert",
-      "pubDate": "Mon, 22 Sep 2025 15:03:08 GMT"
     },
     {
       "title": "LLNL and UC Researchers Advance Ion Trap Quantum Computing with 3D Printing - HPCwire",
@@ -1409,10 +1389,6 @@
     {
       "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems - OpenAI",
       "pubDate": "Mon, 22 Sep 2025 16:04:15 GMT"
-    },
-    {
-      "title": "AI Is Much More Evolutionary Than Revolutionary - Information Technology and Innovation Foundation (ITIF)",
-      "pubDate": "Mon, 22 Sep 2025 14:03:53 GMT"
     },
     {
       "title": "Nvidia and OpenAI\u2019s $100B Deal for 10GW AI Data Centers by 2026 - WebProNews",
@@ -1919,12 +1895,6 @@
       "pubDate": "Wed, 24 Sep 2025 10:50:23 GMT"
     }
   ],
-  "economic": [
-    {
-      "title": "Fed officials throw doubt on need for further cuts - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 14:42:47 GMT"
-    }
-  ],
   "iran": [
     {
       "title": "UN sanctions against Iran to resume over banned nuclear activity - BBC",
@@ -2207,6 +2177,10 @@
     {
       "title": "Moldovans cast ballots in a tense election plagued by Russian interference claims - NBC News",
       "pubDate": "Sun, 28 Sep 2025 10:12:35 GMT"
+    },
+    {
+      "title": "EU confirms it has reinstated sanctions against Iran - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 08:57:10 GMT"
     }
   ],
   "microsoft": [
@@ -2233,6 +2207,10 @@
     {
       "title": "DJI loses lawsuit against Pentagon, leaving its popular drones in peril - Mashable",
       "pubDate": "Sat, 27 Sep 2025 17:03:10 GMT"
+    },
+    {
+      "title": "Pentagon Asks to Quadruple Missile Production: Report - Newsweek",
+      "pubDate": "Mon, 29 Sep 2025 10:26:00 GMT"
     }
   ],
   "us_congress": [
@@ -2411,6 +2389,18 @@
     {
       "title": "Swift to launch blockchain in response to rise of stablecoins - Financial Times",
       "pubDate": "Mon, 29 Sep 2025 09:15:05 GMT"
+    }
+  ],
+  "large_language_models": [
+    {
+      "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security - The Hacker News",
+      "pubDate": "Mon, 29 Sep 2025 08:52:00 GMT"
+    }
+  ],
+  "cancer": [
+    {
+      "title": "Genmab to Buy Cancer-Treatment Developer Merus For $8 Billion in Cash - The Wall Street Journal",
+      "pubDate": "Mon, 29 Sep 2025 06:26:00 GMT"
     }
   ]
 }
