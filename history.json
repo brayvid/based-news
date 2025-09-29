@@ -169,10 +169,6 @@
   ],
   "russia": [
     {
-      "title": "US tries to keep Russian airlines from getting their hands on sanctioned parts - politico.eu",
-      "pubDate": "Mon, 22 Sep 2025 02:25:10 GMT"
-    },
-    {
       "title": "Putin offers Trump one-year extension to nuclear weapons treaty - Reuters",
       "pubDate": "Mon, 22 Sep 2025 16:16:28 GMT"
     },
@@ -243,6 +239,10 @@
     {
       "title": "Authorities investigate possible Russian \"hybrid warfare\" after oil tanker cuts undersea cables - CBS News",
       "pubDate": "Sun, 28 Sep 2025 23:32:22 GMT"
+    },
+    {
+      "title": "Vance: It is \u2018clearly time\u2019 for Russia to \u2018talk seriously\u2019 about peace - Politico",
+      "pubDate": "Sun, 28 Sep 2025 15:45:52 GMT"
     }
   ],
   "ai_safety": [
@@ -457,10 +457,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Intel-Nvidia Deal Extends Stock Markets\u2019 Good News Rally. Why There\u2019s More to Come. - Barron's",
-      "pubDate": "Mon, 22 Sep 2025 03:00:25 GMT"
-    },
-    {
       "title": "Asian shares are mostly higher after Wall Street's record week - LancasterOnline",
       "pubDate": "Mon, 22 Sep 2025 03:52:36 GMT"
     },
@@ -526,10 +522,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "New Breakthrough in Large Model Training: Meta Proposes LSP for Dramatic Capability Improvement Without Data - 36Kr",
-      "pubDate": "Mon, 22 Sep 2025 02:14:45 GMT"
-    },
     {
       "title": "The \u2018Machine Bullshit\u2019 Problem: Why AI Lies and How to Stop It - Unite.AI",
       "pubDate": "Mon, 22 Sep 2025 04:24:28 GMT"
@@ -1365,16 +1357,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement of Common Stock Priced at the Market Under Nasdaq Rules - PR Newswire",
-      "pubDate": "Mon, 22 Sep 2025 02:55:00 GMT"
-    },
-    {
       "title": "Why the U.S.-U.K. Quantum Computing Pact Is Vital for the Nascent Technology - Barron's",
       "pubDate": "Mon, 22 Sep 2025 05:00:00 GMT"
-    },
-    {
-      "title": "$500M Private Placement: Quantum Computing Inc Attracts Major Asset Manager, Boosts Cash to $850M Total - Stock Titan",
-      "pubDate": "Mon, 22 Sep 2025 02:57:15 GMT"
     },
     {
       "title": "New tool makes generative AI models more likely to create breakthrough materials - MIT News",
@@ -1547,10 +1531,6 @@
     {
       "title": "A US startup wants to build a giant military cargo plane that can fit 4 F-35 stealth fighters inside - Business Insider",
       "pubDate": "Mon, 22 Sep 2025 04:58:00 GMT"
-    },
-    {
-      "title": "Pentagon steps up media restrictions, requiring approval before reporting even unclassified info - Los Angeles Times",
-      "pubDate": "Mon, 22 Sep 2025 02:32:00 GMT"
     },
     {
       "title": "Pentagon imposes new rules on reporters amid criticism by media groups - nhk.or.jp",
@@ -2117,12 +2097,6 @@
       "pubDate": "Thu, 25 Sep 2025 05:40:46 GMT"
     }
   ],
-  "politics": [
-    {
-      "title": "Trump reveals autism announcement during Charlie Kirk memorial: 'We found an answer' - USA Today",
-      "pubDate": "Mon, 22 Sep 2025 02:15:00 GMT"
-    }
-  ],
   "openai": [
     {
       "title": "Nvidia plans to invest up to $100B in OpenAI - TechCrunch",
@@ -2239,6 +2213,10 @@
     {
       "title": "Microsoft forced to block Israel\u2019s use of its cloud, AI in mass spying of Palestinians - PressTV",
       "pubDate": "Sat, 27 Sep 2025 10:20:00 GMT"
+    },
+    {
+      "title": "German investigators raid AI cloud company Northern Data - Communications Today",
+      "pubDate": "Mon, 29 Sep 2025 02:47:35 GMT"
     }
   ],
   "kim_jong_un": [
@@ -2263,6 +2241,10 @@
     {
       "title": "Study: Left-wing terrorism climbs to 30-year high - Axios",
       "pubDate": "Sun, 28 Sep 2025 13:12:54 GMT"
+    },
+    {
+      "title": "Trump Signs Directive Targeting Domestic Terrorism After Charlie Kirk Assassination - Yahoo",
+      "pubDate": "Sun, 28 Sep 2025 21:00:41 GMT"
     }
   ],
   "us_treasury": [
@@ -2423,6 +2405,10 @@
     {
       "title": "ACA Premiums Set to Increase in 2026 as Enhanced Marketplace Premium Tax Credits Expire - AZ Public Health Association",
       "pubDate": "Sun, 28 Sep 2025 00:43:46 GMT"
+    },
+    {
+      "title": "Wisconsin Reports H5N1 in Poultry, Boosts Farm Biosecurity - Global Biodefense",
+      "pubDate": "Sun, 28 Sep 2025 14:57:23 GMT"
     }
   ],
   "violence": [
@@ -2465,6 +2451,24 @@
     {
       "title": "Caltech Builds World\u2019s Largest Neutral-Atom Quantum Computer - Decrypt",
       "pubDate": "Sun, 28 Sep 2025 18:01:03 GMT"
+    }
+  ],
+  "hurricanes": [
+    {
+      "title": "Category 4 Humberto and Tropical Storm Imelda threaten Bahamas and parts of U.S. - NBC News",
+      "pubDate": "Sun, 28 Sep 2025 18:51:00 GMT"
+    }
+  ],
+  "new_york_city": [
+    {
+      "title": "Video: Eric Adams Suspends Re-Election Bid for Mayor of New York City - The New York Times",
+      "pubDate": "Mon, 29 Sep 2025 01:47:19 GMT"
+    }
+  ],
+  "space_exploration": [
+    {
+      "title": "SpaceX launches Starlink satellites from Vandenberg in California - Space",
+      "pubDate": "Mon, 29 Sep 2025 02:35:46 GMT"
     }
   ]
 }
