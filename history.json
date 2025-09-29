@@ -577,10 +577,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine Accepts IMF Forecast of Bigger $65 Billion Financing Gap - Bloomberg.com",
-      "pubDate": "Mon, 22 Sep 2025 20:11:38 GMT"
-    },
-    {
       "title": "Moldova accuses Russia of election interference ahead of key vote - Atlantic Council",
       "pubDate": "Mon, 22 Sep 2025 23:10:00 GMT"
     },
@@ -867,17 +863,13 @@
     {
       "title": "China sentences 11 members of Ming mafia family to death - BBC",
       "pubDate": "Mon, 29 Sep 2025 11:18:52 GMT"
+    },
+    {
+      "title": "China's new K visa beckons foreign tech talent as US hikes H-1B fee - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 15:50:32 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "White House bullish after a long string of Supreme Court victories - NBC News",
-      "pubDate": "Mon, 22 Sep 2025 20:42:45 GMT"
-    },
-    {
-      "title": "Trump links autism to acetaminophen use during pregnancy, despite decades of evidence it\u2019s safe - CNN",
-      "pubDate": "Mon, 22 Sep 2025 21:00:12 GMT"
-    },
     {
       "title": "Trump promotes unproven ties between Tylenol, vaccines and autism without new evidence - AP News",
       "pubDate": "Tue, 23 Sep 2025 00:44:00 GMT"
@@ -1189,14 +1181,6 @@
   ],
   "quantum_computing": [
     {
-      "title": "LLNL and UC Researchers Advance Ion Trap Quantum Computing with 3D Printing - HPCwire",
-      "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
-    },
-    {
-      "title": "\"Scientists Break Quantum Physics Laws\": Room-Temperature Breakthrough Terrifies Tech Giants While Computing Revolution Begins - Rude Baguette",
-      "pubDate": "Mon, 22 Sep 2025 20:45:08 GMT"
-    },
-    {
       "title": "Hybrid Quantum-Classical: Europe\u2019s First Exascale Computer Connects to D-Wave - EE Times Europe",
       "pubDate": "Tue, 23 Sep 2025 09:12:45 GMT"
     },
@@ -1355,10 +1339,6 @@
   ],
   "gaza": [
     {
-      "title": "Two Gaza hospitals forced to stop operations as Israeli offensive escalates, health ministry says - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 20:51:55 GMT"
-    },
-    {
       "title": "More experts see genocide in Israel\u2019s wartime conduct in Gaza - WTOP",
       "pubDate": "Tue, 23 Sep 2025 04:17:34 GMT"
     },
@@ -1453,16 +1433,8 @@
   ],
   "climate_change": [
     {
-      "title": "World, business leaders hope to keep momentum in fight against climate change despite US - AJC.com",
-      "pubDate": "Mon, 22 Sep 2025 20:08:19 GMT"
-    },
-    {
       "title": "How Climate Change Could Destroy Shark Teeth and Threaten Their Entire Existence - SYFY",
       "pubDate": "Mon, 22 Sep 2025 22:31:54 GMT"
-    },
-    {
-      "title": "Nationally Determined Contributions: The Action Plans Behind Global Efforts To Fight the Climate Crisis - Center for American Progress",
-      "pubDate": "Mon, 22 Sep 2025 20:14:40 GMT"
     },
     {
       "title": "Tracking algae and climate change from the sky with Arctic AIR - KNOM Radio Mission",
@@ -1663,6 +1635,10 @@
     {
       "title": "Climate change brings Europe fewer but heavier hailstones, experts find - The Independent",
       "pubDate": "Mon, 29 Sep 2025 11:06:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s Energy Department forbids staff from saying \u2018climate change\u2019 or \u2018green\u2019 - TechCrunch",
+      "pubDate": "Mon, 29 Sep 2025 15:00:28 GMT"
     }
   ],
   "world_news": [
@@ -1725,10 +1701,6 @@
   ],
   "recession": [
     {
-      "title": "Economists warn Colorado lawmakers of more budget cuts looming \u2014 and higher recession risk - The Denver Post",
-      "pubDate": "Mon, 22 Sep 2025 21:00:22 GMT"
-    },
-    {
       "title": "New Zealand appoints Swede to lead central bank as economy faces \u2018double-dip recession\u2019 - Financial Times",
       "pubDate": "Wed, 24 Sep 2025 04:53:11 GMT"
     },
@@ -1742,10 +1714,6 @@
     }
   ],
   "algorithms": [
-    {
-      "title": "Export controls on TikTok's algorithm are unique but not unprecedented - marketplace.org",
-      "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
-    },
     {
       "title": "Oracle to control Tik Tok US algorithm - news8000.com",
       "pubDate": "Tue, 23 Sep 2025 20:13:05 GMT"
@@ -1843,6 +1811,10 @@
     {
       "title": "OpenAI to bring parental controls in ChatGPT after California teen's suicide - Reuters",
       "pubDate": "Mon, 29 Sep 2025 11:30:28 GMT"
+    },
+    {
+      "title": "OpenAI's new Sora video generator to require copyright holders to opt out, WSJ reports - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 19:41:18 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -2111,6 +2083,10 @@
     {
       "title": "Pentagon Asks to Quadruple Missile Production: Report - Newsweek",
       "pubDate": "Mon, 29 Sep 2025 10:26:00 GMT"
+    },
+    {
+      "title": "Pentagon, Sikorsky ink $10 billion deal for 99 CH-53K heavy lift helos - Breaking Defense",
+      "pubDate": "Mon, 29 Sep 2025 13:40:19 GMT"
     }
   ],
   "us_congress": [
@@ -2149,6 +2125,10 @@
     {
       "title": "DHS Seizes Guns, \u2018Explosive Device\u2019 From Protesters Outside ICE Center - Newsweek",
       "pubDate": "Sun, 28 Sep 2025 23:12:00 GMT"
+    },
+    {
+      "title": "Pritzker: DHS will deploy 100 'military troops' to Illinois, citing need to protect ICE officers - Chicago Sun-Times",
+      "pubDate": "Mon, 29 Sep 2025 20:19:00 GMT"
     }
   ],
   "democracy": [
@@ -2315,6 +2295,10 @@
     {
       "title": "Big AI firms pump money into world models as LLM advances slow - Ars Technica",
       "pubDate": "Mon, 29 Sep 2025 13:56:05 GMT"
+    },
+    {
+      "title": "Deepmind says video models for visual tasks could become what LLMs are for text tasks - the-decoder.com",
+      "pubDate": "Mon, 29 Sep 2025 13:19:39 GMT"
     }
   ],
   "cancer": [
@@ -2351,6 +2335,12 @@
     {
       "title": "Fed\u2019s Waller Says Technology Can Deliver More Choice in Payments - Bloomberg Law News",
       "pubDate": "Mon, 29 Sep 2025 11:30:00 GMT"
+    }
+  ],
+  "solar_power": [
+    {
+      "title": "Honda and Astrobotic Establish Joint Development Agreement to Explore Scalable Lunar Power Solutions - Honda Newsroom",
+      "pubDate": "Mon, 29 Sep 2025 12:30:00 GMT"
     }
   ]
 }
