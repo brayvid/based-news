@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israeli army detonates 17 booby-trapped vehicles daily in Gaza City, each equivalent to a 3.7-magnitude earthquake - Countercurrents",
-      "pubDate": "Mon, 22 Sep 2025 03:22:58 GMT"
-    },
-    {
       "title": "U.S. and Israel against the world as Palestine dominates UN week - Axios",
       "pubDate": "Mon, 22 Sep 2025 09:06:12 GMT"
     },
@@ -118,10 +114,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump will never change, but Kirk\u2019s death shines a path to MAGA\u2019s future - CNN",
-      "pubDate": "Mon, 22 Sep 2025 04:00:05 GMT"
-    },
     {
       "title": "Trump expected to link autism with Tylenol, a claim highly disputed - Reuters",
       "pubDate": "Mon, 22 Sep 2025 17:19:11 GMT"
@@ -243,6 +235,10 @@
     {
       "title": "Vance: It is \u2018clearly time\u2019 for Russia to \u2018talk seriously\u2019 about peace - Politico",
       "pubDate": "Sun, 28 Sep 2025 15:45:52 GMT"
+    },
+    {
+      "title": "There have been no signals from Kyiv about resuming Russia-Ukraine talks, Kremlin says - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 00:57:00 GMT"
     }
   ],
   "ai_safety": [
@@ -457,10 +453,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Asian shares are mostly higher after Wall Street's record week - LancasterOnline",
-      "pubDate": "Mon, 22 Sep 2025 03:52:36 GMT"
-    },
-    {
       "title": "ECB can still frustrate euro surge with 'contingency cut' - Reuters",
       "pubDate": "Mon, 22 Sep 2025 06:19:00 GMT"
     },
@@ -519,6 +511,10 @@
     {
       "title": "Opinion: The Fed\u2019s interest-rate cuts are fueling a stock market \u2018melt-up\u2019 \u2014 and ruin for some investors - MarketWatch",
       "pubDate": "Thu, 25 Sep 2025 11:35:00 GMT"
+    },
+    {
+      "title": "Bond Traders Say Rally Hinges on Jobs Data at Risk From Shutdown - Bloomberg.com",
+      "pubDate": "Sun, 28 Sep 2025 19:00:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -1653,6 +1649,10 @@
     {
       "title": "\u2018Horrific\u2019: Israel bombs hospitals, residential towers amid Gaza onslaught - Al Jazeera",
       "pubDate": "Sun, 28 Sep 2025 23:37:58 GMT"
+    },
+    {
+      "title": "Trump optimistic on Gaza peace deal; Hamas says it lost contact with two hostages in Gaza City - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 20:44:03 GMT"
     }
   ],
   "climate_change": [
@@ -1937,10 +1937,6 @@
   ],
   "geopolitics": [
     {
-      "title": "Revealed: Putin\u2019s Secret Plan to Hack Moldova\u2019s Pivotal Election - Bloomberg.com",
-      "pubDate": "Mon, 22 Sep 2025 04:00:00 GMT"
-    },
-    {
       "title": "Gold holds near record high on rate-cut bets, geopolitical tensions - Reuters",
       "pubDate": "Wed, 24 Sep 2025 08:43:51 GMT"
     },
@@ -2048,10 +2044,6 @@
     }
   ],
   "economic": [
-    {
-      "title": "BlackRock CEO Warns US Economy at Risk of \u201cCollapse\u201d Without Growth Surge - Sri Lanka Guardian",
-      "pubDate": "Mon, 22 Sep 2025 03:39:45 GMT"
-    },
     {
       "title": "Fed officials throw doubt on need for further cuts - Reuters",
       "pubDate": "Mon, 22 Sep 2025 14:42:47 GMT"
@@ -2201,6 +2193,10 @@
     {
       "title": "Supreme Court allows Trump to cancel $4B in foreign aid already approved by Congress - My Ozarks Online",
       "pubDate": "Sun, 28 Sep 2025 17:57:31 GMT"
+    },
+    {
+      "title": "A 160-year-old campaign against civil rights heads to the supreme court - The Guardian",
+      "pubDate": "Sun, 28 Sep 2025 16:43:00 GMT"
     }
   ],
   "quantum": [
@@ -2469,6 +2465,24 @@
     {
       "title": "SpaceX launches Starlink satellites from Vandenberg in California - Space",
       "pubDate": "Mon, 29 Sep 2025 02:35:46 GMT"
+    }
+  ],
+  "republican_party": [
+    {
+      "title": "With Comey Indictment, Trump Sets Retribution Precedent That Could Haunt His Allies - The New York Times",
+      "pubDate": "Sun, 28 Sep 2025 19:29:15 GMT"
+    }
+  ],
+  "machine_learning": [
+    {
+      "title": "Fiverr Lays Off 30% Staff After AI Productivity Push, Faces Backlash - WebProNews",
+      "pubDate": "Sun, 28 Sep 2025 21:46:17 GMT"
+    }
+  ],
+  "self-driving_cars": [
+    {
+      "title": "Tesla self-driving crash halts coast-to-coast attempt - valleyvanguardonline.com",
+      "pubDate": "Mon, 29 Sep 2025 03:02:49 GMT"
     }
   ]
 }
