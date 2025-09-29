@@ -145,6 +145,10 @@
     {
       "title": "Donald Trump\u2019s own words could doom the criminal case against James Comey, legal experts say - CNN",
       "pubDate": "Mon, 29 Sep 2025 11:00:52 GMT"
+    },
+    {
+      "title": "Trump announces 100% tariff on foreign-made movies - CNN",
+      "pubDate": "Mon, 29 Sep 2025 13:15:16 GMT"
     }
   ],
   "russia": [
@@ -235,6 +239,10 @@
     {
       "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference - BBC",
       "pubDate": "Mon, 29 Sep 2025 11:14:42 GMT"
+    },
+    {
+      "title": "In the global AI boom, Russia is conspicuously absent - Financial Times",
+      "pubDate": "Mon, 29 Sep 2025 15:00:07 GMT"
     }
   ],
   "ai_safety": [
@@ -616,10 +624,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Exclusive: Ukrainian Railways plans freight tariff increase to tackle debt - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 15:07:29 GMT"
-    },
     {
       "title": "Ukraine claims first-ever kills of Russian Be-12 seaplanes. These aircraft are said to hunt naval drones. - Business Insider",
       "pubDate": "Mon, 22 Sep 2025 16:12:00 GMT"
@@ -1269,16 +1273,8 @@
   ],
   "quantum_computing": [
     {
-      "title": "My New Quantum Computing Price Target Takes a Leap - TheStreet Pro",
-      "pubDate": "Mon, 22 Sep 2025 15:05:00 GMT"
-    },
-    {
       "title": "LLNL and UC Researchers Advance Ion Trap Quantum Computing with 3D Printing - HPCwire",
       "pubDate": "Mon, 22 Sep 2025 20:15:00 GMT"
-    },
-    {
-      "title": "New, improved 3,000-qubit neutral atom array system reloads atoms continuously for more than two hours - Phys.org",
-      "pubDate": "Mon, 22 Sep 2025 15:54:31 GMT"
     },
     {
       "title": "\"Scientists Break Quantum Physics Laws\": Room-Temperature Breakthrough Terrifies Tech Giants While Computing Revolution Begins - Rude Baguette",
@@ -1548,10 +1544,6 @@
     }
   ],
   "climate_change": [
-    {
-      "title": "Meet Megan O'Rourke, The Former Federal Climate Scientist Running For Congress - Forbes",
-      "pubDate": "Mon, 22 Sep 2025 15:07:52 GMT"
-    },
     {
       "title": "New York readies for record Climate Week despite Trump chill factor - Reuters",
       "pubDate": "Mon, 22 Sep 2025 17:25:13 GMT"
@@ -1935,6 +1927,10 @@
     {
       "title": "Iran executes 'one of most important spies' for Israel - Reuters",
       "pubDate": "Mon, 29 Sep 2025 05:25:00 GMT"
+    },
+    {
+      "title": "Iran: Executions of 15, 13, and more prisoners in Iran on Sept 24, 28, and 29 - National Council of Resistance of Iran - NCRI",
+      "pubDate": "Mon, 29 Sep 2025 14:44:10 GMT"
     }
   ],
   "middle_east": [
@@ -2021,6 +2017,10 @@
     {
       "title": "China Prepares for Cyberattacks - Security Boulevard",
       "pubDate": "Sun, 28 Sep 2025 00:21:57 GMT"
+    },
+    {
+      "title": "CISA issues Emergency Directive requiring federal agencies to mitigate critical Cisco ASA zero-day vulnerabilities - Industrial Cyber",
+      "pubDate": "Mon, 29 Sep 2025 09:52:21 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -2395,6 +2395,10 @@
     {
       "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security - The Hacker News",
       "pubDate": "Mon, 29 Sep 2025 08:52:00 GMT"
+    },
+    {
+      "title": "Big AI firms pump money into world models as LLM advances slow - Ars Technica",
+      "pubDate": "Mon, 29 Sep 2025 13:56:05 GMT"
     }
   ],
   "cancer": [
