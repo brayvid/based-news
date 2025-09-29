@@ -91,10 +91,6 @@
   ],
   "donald_trump": [
     {
-      "title": "Tracking Trump: Trump ties Tylenol to autism; Jimmy Kimmel returns to TV; Supreme Court allows Trump to fire FTC member; and more - The Washington Post",
-      "pubDate": "Mon, 22 Sep 2025 21:51:47 GMT"
-    },
-    {
       "title": "Live updates: Trump holds briefing on autism with RFK Jr. - NBC4 Washington",
       "pubDate": "Mon, 22 Sep 2025 22:48:25 GMT"
     },
@@ -137,6 +133,10 @@
     {
       "title": "Trump announces 100% tariff on foreign-made movies - CNN",
       "pubDate": "Mon, 29 Sep 2025 13:15:16 GMT"
+    },
+    {
+      "title": "Donald Trump: Head of Gaza - Politico",
+      "pubDate": "Mon, 29 Sep 2025 21:34:46 GMT"
     }
   ],
   "russia": [
@@ -400,10 +400,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stocks hit record highs, dollar falls as investors assess mixed Fed messages - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 21:50:50 GMT"
-    },
     {
       "title": "Asia stocks ride the AI rush, gold hits another peak - Reuters",
       "pubDate": "Tue, 23 Sep 2025 02:02:00 GMT"
@@ -999,6 +995,10 @@
     {
       "title": "North rejects denuclearization, calls weapons \"backbone\" of foreign policy - Korea JoongAng Daily",
       "pubDate": "Sun, 28 Sep 2025 07:32:53 GMT"
+    },
+    {
+      "title": "North Korea tells UN: We will never give up nuclear program - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 16:59:06 GMT"
     }
   ],
   "cybersecurity": [
@@ -1177,6 +1177,10 @@
     {
       "title": "US firm inches closer to revolutionary energy breakthrough: 'Holy grail' - Yahoo",
       "pubDate": "Sat, 27 Sep 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Scientists make key breakthrough in effort to reproduce the sun's power: 'Can we help lead the world?' - The Cool Down",
+      "pubDate": "Mon, 29 Sep 2025 21:15:00 GMT"
     }
   ],
   "quantum_computing": [
@@ -1305,6 +1309,10 @@
     {
       "title": "Defining The Big Picture Framework When It Comes To The Economics Of Transformative AI - Forbes",
       "pubDate": "Mon, 29 Sep 2025 07:15:00 GMT"
+    },
+    {
+      "title": "Murphy: Regulate AI Before It Destroys Us - New Haven Independent",
+      "pubDate": "Mon, 29 Sep 2025 16:45:38 GMT"
     }
   ],
   "national_security": [
@@ -1815,6 +1823,10 @@
     {
       "title": "OpenAI's new Sora video generator to require copyright holders to opt out, WSJ reports - Reuters",
       "pubDate": "Mon, 29 Sep 2025 19:41:18 GMT"
+    },
+    {
+      "title": "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos - WIRED",
+      "pubDate": "Mon, 29 Sep 2025 19:32:00 GMT"
     }
   ],
   "atlantic_ocean": [
@@ -2065,6 +2077,10 @@
     {
       "title": "Stampede at Actor\u2019s Political Rally Kills at Least 36 in India - The New York Times",
       "pubDate": "Sat, 27 Sep 2025 21:03:57 GMT"
+    },
+    {
+      "title": "Canada lists India's Bishnoi gang as terrorist entity - BBC",
+      "pubDate": "Mon, 29 Sep 2025 15:22:45 GMT"
     }
   ],
   "the_pentagon": [
@@ -2341,6 +2357,12 @@
     {
       "title": "Honda and Astrobotic Establish Joint Development Agreement to Explore Scalable Lunar Power Solutions - Honda Newsroom",
       "pubDate": "Mon, 29 Sep 2025 12:30:00 GMT"
+    }
+  ],
+  "internet": [
+    {
+      "title": "Afghanistan Has Nationwide Internet Blackout, Monitors Say - The New York Times",
+      "pubDate": "Mon, 29 Sep 2025 18:40:14 GMT"
     }
   ]
 }
