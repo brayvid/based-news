@@ -153,10 +153,6 @@
   ],
   "russia": [
     {
-      "title": "Putin offers Trump one-year extension to nuclear weapons treaty - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 16:16:28 GMT"
-    },
-    {
       "title": "Hungary refuses to stop buying Russian oil despite Trump\u2019s Nato demand - The Guardian",
       "pubDate": "Tue, 23 Sep 2025 04:01:00 GMT"
     },
@@ -499,10 +495,6 @@
       "pubDate": "Mon, 22 Sep 2025 18:48:46 GMT"
     },
     {
-      "title": "AI algorithms reinforce discrimination against women: UN chief - Anadolu Ajans\u0131",
-      "pubDate": "Mon, 22 Sep 2025 16:30:28 GMT"
-    },
-    {
       "title": "These AI Stocks are Spiking and OpenAI could be the first Trillion Dollar IPO - MSN",
       "pubDate": "Tue, 23 Sep 2025 01:19:41 GMT"
     },
@@ -625,10 +617,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine claims first-ever kills of Russian Be-12 seaplanes. These aircraft are said to hunt naval drones. - Business Insider",
-      "pubDate": "Mon, 22 Sep 2025 16:12:00 GMT"
-    },
-    {
       "title": "Ukraine is Upending the Global Oil Market. Here\u2019s Who Benefits. - Barron's",
       "pubDate": "Mon, 22 Sep 2025 17:24:00 GMT"
     },
@@ -647,10 +635,6 @@
     {
       "title": "Moldova detains 74 people over alleged Russia-backed plot before elections - Al Jazeera",
       "pubDate": "Mon, 22 Sep 2025 19:18:45 GMT"
-    },
-    {
-      "title": "West, Russia clash at UN after incidents in NATO air space - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 16:17:29 GMT"
     },
     {
       "title": "Cuba has sent thousands of mercenaries to fight for Russia, Ukrainian leaders say - Miami Herald",
@@ -853,6 +837,10 @@
     {
       "title": "The U.S. economy is running even hotter than previously thought, and GDP growth could reach 4% in Q3 - Fortune",
       "pubDate": "Sat, 27 Sep 2025 17:21:00 GMT"
+    },
+    {
+      "title": "US Economy Will Only Get Murkier If Key Data Is Delayed in Shutdown - Bloomberg.com",
+      "pubDate": "Mon, 29 Sep 2025 15:40:44 GMT"
     }
   ],
   "china": [
@@ -935,6 +923,10 @@
     {
       "title": "China opens world's highest bridge, breaking its own record - NBC News",
       "pubDate": "Mon, 29 Sep 2025 10:55:58 GMT"
+    },
+    {
+      "title": "China sentences 11 members of Ming mafia family to death - BBC",
+      "pubDate": "Mon, 29 Sep 2025 11:18:52 GMT"
     }
   ],
   "us_politics": [
@@ -1383,16 +1375,8 @@
   ],
   "artificial_general_intelligence": [
     {
-      "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems - OpenAI",
-      "pubDate": "Mon, 22 Sep 2025 16:04:15 GMT"
-    },
-    {
       "title": "Nvidia and OpenAI\u2019s $100B Deal for 10GW AI Data Centers by 2026 - WebProNews",
       "pubDate": "Mon, 22 Sep 2025 16:59:53 GMT"
-    },
-    {
-      "title": "NVIDIA commits $100 billion investment in OpenAI partnership for massive AI infrastructure expansion - www.israelhayom.com",
-      "pubDate": "Mon, 22 Sep 2025 16:55:50 GMT"
     },
     {
       "title": "Salesforce shifts focus from AI models to agentic AI - Computer Weekly",
@@ -1555,10 +1539,6 @@
     {
       "title": "World, business leaders hope to keep momentum in fight against climate change despite US - AJC.com",
       "pubDate": "Mon, 22 Sep 2025 20:08:19 GMT"
-    },
-    {
-      "title": "New York Climate Week Begins With Over 1,000 Events Across The City - Forbes",
-      "pubDate": "Mon, 22 Sep 2025 16:10:36 GMT"
     },
     {
       "title": "New York AG Letitia James joins fight against EPA's climate change rollback proposal - WRGB",
@@ -2163,6 +2143,10 @@
     {
       "title": "BRICS nations criticise protectionism, condemn Israel attacks on Qatar - The Hindu",
       "pubDate": "Sat, 27 Sep 2025 16:56:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s team keeps posting AI portraits of him. We keep clicking - AP News",
+      "pubDate": "Mon, 29 Sep 2025 11:22:00 GMT"
     }
   ],
   "european_union": [
@@ -2289,6 +2273,10 @@
     {
       "title": "Sergei Lavrov warns NATO and EU countries over 'aggression' towards Russia - Sky News",
       "pubDate": "Sat, 27 Sep 2025 21:10:12 GMT"
+    },
+    {
+      "title": "Putin Signs Military Draft for 135,000 Citizens Amid Ongoing Mobilization Plans - UNITED24 Media",
+      "pubDate": "Mon, 29 Sep 2025 12:26:46 GMT"
     }
   ],
   "public_health": [
@@ -2405,6 +2393,18 @@
     {
       "title": "Genmab to Buy Cancer-Treatment Developer Merus For $8 Billion in Cash - The Wall Street Journal",
       "pubDate": "Mon, 29 Sep 2025 06:26:00 GMT"
+    }
+  ],
+  "military_and_defense": [
+    {
+      "title": "NATO Bolsters \u2018Baltic Sentry\u2019 in Face of Russian Drone Threat - Newsweek",
+      "pubDate": "Mon, 29 Sep 2025 16:49:00 GMT"
+    }
+  ],
+  "united_kingdom": [
+    {
+      "title": "Why is the UK introducing digital IDs \u2013 and why are they so controversial? - Al Jazeera",
+      "pubDate": "Mon, 29 Sep 2025 13:52:30 GMT"
     }
   ]
 }
