@@ -240,7 +240,7 @@ def main():
         if os.path.exists(SUMMARIES_LOG_FILE):
             with open(SUMMARIES_LOG_FILE, "r", encoding="utf-8") as f:
                 summaries = json.load(f)
-        summaries.insert(0, summary_entry) # Add newest to the top
+        summaries.append(summary_entry) # Add newest to the bottom
         with open(SUMMARIES_LOG_FILE, "w", encoding="utf-8") as f:
             json.dump(summaries, f, indent=2, ensure_ascii=False)
         logging.info(f"Summary appended to {SUMMARIES_LOG_FILE}")
