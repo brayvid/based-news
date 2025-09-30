@@ -23,7 +23,7 @@ try:
 except NameError:
     BASE_DIR = os.getcwd()
 
-CONTENT_FILE = os.path.join(BASE_DIR, "content.json")
+HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
 SUMMARY_FILE = os.path.join(BASE_DIR, "public", "summary.html")
 SUMMARIES_LOG_FILE = os.path.join(BASE_DIR, "summaries.json")
 LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
@@ -103,7 +103,7 @@ def generate_summary(digest_content: dict) -> str:
     
     # Combine prompt and data into a single request
     full_prompt = [
-        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Separate paragraphs with a single newline.",
+        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Separate paragraphs with a single newline.",
         "\n---BEGIN HEADLINES---\n",
         format_digest_for_summary(digest_content),
         "\n---END HEADLINES---"
@@ -178,11 +178,11 @@ def perform_git_operations(base_dir, current_zone, config_obj):
 def main():
     # 1. Load the latest digest content
     try:
-        with open(CONTENT_FILE, "r", encoding="utf-8") as f:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             digest_data = json.load(f)
-        logging.info(f"Successfully loaded latest digest from: {CONTENT_FILE}")
+        logging.info(f"Successfully loaded headlines from: {HISTORY_FILE}")
     except (FileNotFoundError, json.JSONDecodeError, IOError) as e:
-        logging.critical(f"Failed to load or parse {CONTENT_FILE}: {e}. Cannot generate summary.")
+        logging.critical(f"Failed to load or parse {HISTORY_FILE}: {e}. Cannot generate summary.")
         sys.exit(1)
 
     # 2. Generate the summary
