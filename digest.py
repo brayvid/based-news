@@ -39,6 +39,7 @@ import re
 import ast
 from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
+from collections import defaultdict
 import requests
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
@@ -102,7 +103,8 @@ def load_config_from_sheet(url):
                 key = row[0].strip()
                 val = row[1].strip()
                 try:
-                    if '.' in val and not val.startswith('0') and val.count('.') == 1:
+                    # Improved check for float conversion
+                    if '.' in val and val.replace('.', '', 1).isdigit():
                         config[key] = float(val)
                     else:
                         config[key] = int(val)
@@ -130,7 +132,7 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 MAX_HISTORY_DIGESTS = int(CONFIG.get("MAX_HISTORY_DIGESTS", 12))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4))
-GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash")
+GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-1.5-flash") # Corrected model name
 STALE_TOPIC_THRESHOLD_HOURS = int(CONFIG.get("STALE_TOPIC_THRESHOLD_HOURS", 72)) # Not used in this "snapshot" model
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
@@ -187,34 +189,30 @@ if None in (TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES):
 
 def normalize(text):
     words = re.findall(r'\b\w+\b', text.lower())
-    stemmed = [stemmer.stem(w) for w in words]
-    lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
+    # Combining stemming and lemmatization is often redundant; lemmatization is generally preferred.
+    # Sticking to lemmatization for cleaner base words.
+    lemmatized = [lemmatizer.lemmatize(w) for w in words]
     return " ".join(lemmatized)
 
-def is_high_confidence_duplicate_in_history(article_title: str, history: dict, threshold: float) -> bool:
+def is_high_confidence_duplicate(norm_title_tokens: set, history_token_sets: list, threshold: float) -> bool:
     """
-    Checks if a given article title is a high-confidence (near-identical) duplicate
-    of any article title already in the history log, based on word overlap.
+    Checks if a set of tokens for a new title is a high-confidence duplicate
+    of any token set in a pre-normalized list of history token sets using Jaccard similarity.
     """
-    norm_title_tokens = set(normalize(article_title).split())
     if not norm_title_tokens:
         return False
 
-    for articles_in_topic in history.values():
-        for past_article_data in articles_in_topic:
-            past_title = past_article_data.get("title", "")
-            past_tokens = set(normalize(past_title).split())
-            if not past_tokens:
-                continue
-            
-            intersection_len = len(norm_title_tokens.intersection(past_tokens))
-            union_len = len(norm_title_tokens.union(past_tokens))
-            if union_len == 0: continue
+    for past_tokens in history_token_sets:
+        if not past_tokens:
+            continue
+        
+        intersection_len = len(norm_title_tokens.intersection(past_tokens))
+        union_len = len(norm_title_tokens.union(past_tokens))
+        if union_len == 0: continue
 
-            similarity = intersection_len / union_len
-            if similarity >= threshold:
-                logging.debug(f"Article '{article_title}' is a high-confidence match to past article '{past_title}' with similarity {similarity:.2f} >= {threshold}")
-                return True
+        similarity = intersection_len / union_len
+        if similarity >= threshold:
+            return True
     return False
 
 def to_user_timezone(dt):
@@ -240,11 +238,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
                 logging.warning(f"Skipping article with missing link or pubDate for topic '{topic}': Title '{title}'")
                 continue
             try:
-                pub_dt_utc = parsedate_to_datetime(pubDate)
-                if pub_dt_utc.tzinfo is None:
-                    pub_dt_utc = pub_dt_utc.replace(tzinfo=ZoneInfo("UTC"))
-                else:
-                    pub_dt_utc = pub_dt_utc.astimezone(ZoneInfo("UTC"))
+                pub_dt_utc = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("UTC"))
             except Exception as e:
                 logging.warning(f"Could not parse pubDate '{pubDate}' for article '{title}': {e}")
                 continue
@@ -253,7 +247,6 @@ def fetch_articles_for_topic(topic, max_articles=10):
             articles.append({"title": title.strip(), "link": link, "pubDate": pubDate})
             if len(articles) >= max_articles:
                 break
-        # logging.info(f"Fetched {len(articles)} articles for topic '{topic}'")
         return articles
     except requests.exceptions.RequestException as e:
         logging.warning(f"Request failed for topic {topic} articles: {e}")
@@ -282,20 +275,17 @@ def load_recent_digest_history(digests_dir, manifest_file, max_digests):
         logging.warning(f"Could not read or parse manifest file for history, continuing without. Error: {e}")
         return []
 
-    # Manifest is sorted newest to oldest, so we take the top N
     digests_to_load = manifest[:max_digests]
     logging.info(f"Loading history from the {len(digests_to_load)} most recent digests.")
 
     for entry in digests_to_load:
-        # Construct the full path to the historical digest file
         digest_file_path = os.path.join(os.path.dirname(manifest_file), entry["file"])
         if os.path.exists(digest_file_path):
             try:
                 with open(digest_file_path, "r", encoding="utf-8") as f:
                     content = f.read()
-                    # Simple but effective regex to find all headlines within the <a> tags
                     found_headlines = re.findall(r'<a href="[^"]+" target="_blank">([^<]+)</a>', content)
-                    history_headlines.extend(html.unescape(h) for h in found_headlines) # Unescape HTML entities
+                    history_headlines.extend(html.unescape(h.strip()) for h in found_headlines)
             except IOError as e:
                 logging.warning(f"Could not read historical digest file {digest_file_path}: {e}")
 
@@ -303,32 +293,12 @@ def load_recent_digest_history(digests_dir, manifest_file, max_digests):
     logging.info(f"Loaded {len(unique_history)} unique headlines from recent digest history.")
     return unique_history
 
-def build_user_preferences(topics, keywords, overrides):
-    preferences = []
-    if topics:
-        preferences.append("User topics (ranked 1-5 in importance, 5 is most important):")
-        for topic, score in sorted(topics.items(), key=lambda x: -x[1]):
-            preferences.append(f"- {topic}: {score}")
-    if keywords:
-        preferences.append("\nHeadline keywords (ranked 1-5 in importance, 5 is most important):")
-        for keyword, score in sorted(keywords.items(), key=lambda x: -x[1]):
-            preferences.append(f"- {keyword}: {score}")
-    banned = [k for k, v in overrides.items() if v == "ban"]
-    demoted = [k for k, v in overrides.items() if v == "demote"]
-    if banned:
-        preferences.append("\nBanned terms (must not appear in topics or headlines):")
-        preferences.extend(f"- {term}" for term in banned)
-    if demoted:
-        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times less important to the user, all else equal):")
-        preferences.extend(f"- {term}" for term in demoted)
-    return "\n".join(preferences)
-
 def safe_parse_json(raw_json_string: str) -> dict:
     if not raw_json_string:
         logging.warning("safe_parse_json received empty string.")
         return {}
     text = raw_json_string.strip()
-    text = re.sub(r"^```(?:json)?\s*", "", text)
+    text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s*```$", "", text)
     text = text.strip()
     if not text:
@@ -336,27 +306,17 @@ def safe_parse_json(raw_json_string: str) -> dict:
         return {}
     try:
         return json.loads(text)
-    except json.JSONDecodeError as e:
-        logging.warning(f"Initial JSON.loads failed: {e}. Attempting cleaning.")
-        text = text.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
-        text = re.sub(r",\s*([\]}])", r"\1", text)
-        text = text.replace("True", "true").replace("False", "false").replace("None", "null")
+    except json.JSONDecodeError:
+        # If json.loads fails, try to fix common errors and re-parse.
+        # This is a common failure mode for LLMs.
+        text = re.sub(r",\s*([\]}])", r"\1", text) # Remove trailing commas
         try:
-            parsed_data = ast.literal_eval(text)
-            if isinstance(parsed_data, dict):
-                return parsed_data
-            else:
-                logging.warning(f"ast.literal_eval parsed to non-dict type: {type(parsed_data)}. Raw: {text[:100]}")
-                return {}
-        except (ValueError, SyntaxError, TypeError) as e_ast:
-            logging.warning(f"ast.literal_eval also failed: {e_ast}. Trying regex for quotes.")
-            try:
-                text = re.sub(r'(?<=([{,]\s*))([a-zA-Z_][a-zA-Z0-9_]*)\s*:', r'"\1":', text)
-                text = re.sub(r":\s*'([^']*)'", r': "\1"', text)
-                return json.loads(text)
-            except json.JSONDecodeError as e2:
-                logging.error(f"JSON.loads failed after all cleaning attempts: {e2}. Raw content (first 500 chars): {raw_json_string[:500]}")
-                return {}
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            logging.error(f"JSON parsing failed after cleaning: {e}. Raw content (first 500 chars): {raw_json_string[:500]}")
+            return {}
+
+# --- Tooling for Gemini ---
 
 digest_tool_schema = {
     "type": "object",
@@ -364,22 +324,19 @@ digest_tool_schema = {
         "selected_digest_entries": {
             "type": "array",
             "description": (
-                f"A list of selected news topics. Each entry in the list should be an object "
-                f"containing a 'topic_name' (string) and 'headlines' (a list of strings). "
-                f"Select up to {MAX_TOPICS} topics, and for each topic, select up to "
-                f"{MAX_ARTICLES_PER_TOPIC} of the most relevant headlines."
+                f"A list of selected news topics. Each entry should be an object "
+                f"with 'topic_name' (string) and 'headlines' (list of strings). "
+                f"Select up to {MAX_TOPICS} topics, and for each topic, up to "
+                f"{MAX_ARTICLES_PER_TOPIC} relevant headlines."
             ),
             "items": {
                 "type": "object",
                 "properties": {
-                    "topic_name": {
-                        "type": "string",
-                        "description": "The name of the news topic (e.g., 'Technology', 'Climate Change')."
-                    },
+                    "topic_name": {"type": "string", "description": "The name of the news topic."},
                     "headlines": {
                         "type": "array",
-                        "items": {"type": "string", "description": "A selected headline string for this topic."},
-                        "description": f"A list of up to {MAX_ARTICLES_PER_TOPIC} most important headline strings for this topic."
+                        "items": {"type": "string"},
+                        "description": f"A list of up to {MAX_ARTICLES_PER_TOPIC} important headlines."
                     }
                 },
                 "required": ["topic_name", "headlines"]
@@ -394,11 +351,9 @@ SELECT_DIGEST_ARTICLES_TOOL = Tool(
         FunctionDeclaration(
             name="format_digest_selection",
             description=(
-                f"Formats the selected news topics and headlines for the user's digest. "
-                f"You must select up to {MAX_TOPICS} of the most important topics. "
-                f"For each selected topic, return up to {MAX_ARTICLES_PER_TOPIC} most important headlines. "
-                "The output should be structured as a list of objects, where each object contains a 'topic_name' "
-                "and a list of 'headlines' corresponding to that topic."
+                f"Formats selected news topics and headlines. Select up to {MAX_TOPICS} topics "
+                f"and up to {MAX_ARTICLES_PER_TOPIC} headlines per topic. The output is a list "
+                "of objects, each containing a 'topic_name' and a 'headlines' list."
             ),
             parameters=digest_tool_schema,
         )
@@ -407,8 +362,53 @@ SELECT_DIGEST_ARTICLES_TOOL = Tool(
 
 def contains_banned_keyword(text, banned_terms):
     if not text: return False
-    norm_text = normalize(text)
-    return any(banned_term in norm_text for banned_term in banned_terms if banned_term)
+    # No need to normalize here if banned_terms are pre-normalized
+    return any(banned_term in text.lower() for banned_term in banned_terms if banned_term)
+
+def pre_filter_and_deduplicate_headlines(
+    headlines_to_send: dict,
+    digest_history_headlines: list,
+    banned_terms: list
+) -> dict:
+    """
+    Filters headlines based on history and banned terms, and performs aggressive
+    deduplication before sending them to the AI. This is a deterministic pre-filter.
+    """
+    # Create a set of normalized headlines from the recent digest history for fast lookups.
+    history_set = {normalize(h) for h in digest_history_headlines}
+    
+    seen_normalized_headlines = set()
+    pre_filtered_headlines = defaultdict(list)
+    
+    # Iterate through all candidate articles
+    for topic, headlines in headlines_to_send.items():
+        for headline in headlines:
+            # 1. Banned Term Filtering (done first as it's a hard rule)
+            # Assumes banned_terms are already normalized (lower-cased)
+            if contains_banned_keyword(headline, banned_terms):
+                logging.debug(f"Pre-filter BAN: '{headline}'")
+                continue
+
+            normalized_headline = normalize(headline)
+            if not normalized_headline:
+                continue
+
+            # 2. History Filtering
+            if normalized_headline in history_set:
+                logging.debug(f"Pre-filter HISTORY: '{headline}'")
+                continue
+                
+            # 3. Aggressive Deduplication within this run
+            if normalized_headline in seen_normalized_headlines:
+                logging.debug(f"Pre-filter DEDUPE: '{headline}'")
+                continue
+            
+            # If the headline passes all deterministic checks, add it to the list for the LLM
+            seen_normalized_headlines.add(normalized_headline)
+            pre_filtered_headlines[topic].append(headline)
+            
+    # Remove any topics that have become empty after filtering
+    return {k: v for k, v in pre_filtered_headlines.items() if v}
 
 def prioritize_with_gemini(
     headlines_to_send: dict,
@@ -418,68 +418,70 @@ def prioritize_with_gemini(
     keyword_weights: dict,
     overrides: dict
 ) -> dict:
+    # --- PRE-FILTERING STAGE ---
+    banned_terms = [k for k, v in overrides.items() if v == "ban"]
+    demoted_terms = [k for k, v in overrides.items() if v == "demote"]
+
+    logging.info(f"Original candidate count: {sum(len(h) for h in headlines_to_send.values())} headlines.")
+    
+    # Use the new helper function to perform deterministic filtering first.
+    filtered_headlines_for_gemini = pre_filter_and_deduplicate_headlines(
+        headlines_to_send,
+        digest_history,
+        banned_terms
+    )
+    
+    total_headlines_for_gemini = sum(len(h) for h in filtered_headlines_for_gemini.values())
+    logging.info(f"Pre-filtered to {total_headlines_for_gemini} headlines across {len(filtered_headlines_for_gemini)} topics for Gemini.")
+
+    # If pre-filtering removes everything, we can exit early.
+    if not filtered_headlines_for_gemini:
+        logging.info("No headlines remained after pre-filtering. Exiting Gemini call.")
+        return {}
+    # --- END PRE-FILTERING STAGE ---
+
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(
         model_name=GEMINI_MODEL_NAME,
         tools=[SELECT_DIGEST_ARTICLES_TOOL]
     )
 
-    digest_history_json = json.dumps(digest_history, indent=2)
-
-    # Build the preferences JSON from the arguments passed into the function.
-    # This makes the function self-contained and removes global dependencies.
+    # Build the preferences JSON. Note: `banned_terms` are excluded as they are already filtered out.
     pref_data = {
         "topic_weights": topic_weights,
         "keyword_weights": keyword_weights,
-        "banned_terms": [k for k, v in overrides.items() if v == "ban"],
-        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
+        "demoted_terms": demoted_terms
     }
     user_preferences_json = json.dumps(pref_data, indent=2)
 
-    # The prompt is now fully self-contained and uses the data passed in.
+    # The prompt is now simplified because several steps are done in code.
+    # It focuses on the nuanced tasks that require AI.
     prompt = (
-        "You are an expert news curator. Your task is to meticulously select and deduplicate the most relevant news topics and headlines "
-        "for a user's digest based on a strict set of inputs and rules. Your goal is to produce a concise, high-quality digest, "
-        "and your final output MUST be a single call to the `format_digest_selection` tool. Do not provide any other text.\n\n"
+        "You are an expert news curator. Your task is to apply nuanced quality filters and prioritize the best articles for a news digest.\n"
+        "The initial batch of articles has already been de-duplicated and filtered against user history and banned terms. Your job is to perform the final selection and sorting.\n\n"
         "### Inputs\n"
-        f"1.  **User Preferences:** Defines topic weights and banned/demoted terms.\n```json\n{user_preferences_json}\n```\n"
-        f"2.  **Candidate Headlines:** The pool of new articles to choose from.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
-        f"3.  **Digest History:** Articles the user has already seen. You MUST NOT select headlines for events already in this list.\n```json\n{digest_history_json}\n```\n\n"
-        "--- MANDATORY PROCESSING ORDER ---\n"
-        "You MUST execute these steps in this exact order to ensure quality.\n\n"
-        "**STEP 1: AGGRESSIVE GLOBAL DE-DUPLICATION**\n"
-        "1.  Analyze ALL `Candidate Headlines` across ALL topics at once.\n"
-        "2.  CRITICAL: If multiple headlines cover the *exact same core event or announcement*, even if from different sources, select ONLY ONE. Choose the single most comprehensive and informative version.\n"
-        "3.  IMMEDIATELY DISCARD all other redundant headlines. Proceed ONLY with this new, de-duplicated list.\n\n"
-        "**STEP 2: HISTORY FILTERING**\n"
-        "1.  Take your de-duplicated list from Step 1.\n"
-        "2.  Compare each headline against the `Digest History`.\n"
-        "3.  If a headline reports on an event already present in the history, DISCARD IT. Only keep headlines that are genuinely new information for the user.\n\n"
-        "**STEP 3: STRICT QUALITY & RELEVANCE FILTERING**\n"
-        "Apply these rules to the remaining headlines.\n\n"
+        f"1.  **User Preferences:** Defines topic weights and terms to de-prioritize.\n```json\n{user_preferences_json}\n```\n"
+        f"2.  **Candidate Headlines:** A pre-filtered list of articles to choose from.\n```json\n{json.dumps(dict(sorted(filtered_headlines_for_gemini.items())), indent=2)}\n```\n\n"
+        "--- MANDATORY PROCESSING ORDER ---\n\n"
+        "**STEP 1: QUALITY & RELEVANCE FILTERING**\n"
+        "Apply these nuanced rules to the candidate headlines.\n\n"
         "**A. Content to REMOVE (Reject immediately):**\n"
-        "-   **Banned Terms:** Headlines containing any 'banned_terms' from User Preferences.\n"
-        "-   **Purely Local News:** AVOID news that is *solely* of local interest *unless* it has clear and direct national or major international implications relevant to a U.S. audience.\n"
-        "-   **Commercial Content:** STRICTLY REJECT articles that primarily offer investment advice or promote specific stocks/cryptocurrencies as 'buy now' opportunities (e.g., \"Top 5 Stocks to Buy\"). News about broad market trends (e.g., \"S&P 500 reaches record high\") IS acceptable. The key is to avoid direct investment solicitation.\n"
-        "-   **Low-Quality Content:** REJECT advertisements, celebrity gossip, fluff pieces, opinion/Op-Eds, and sensationalist or clickbait headlines (e.g., using words like \"shocking,\" withholding key info, or being phrased as questions or listicles).\n\n"
+        "-   **Purely Local News:** AVOID news that is *solely* of local interest *unless* it has clear and direct national or major international implications.\n"
+        "-   **Commercial Content:** STRICTLY REJECT articles that primarily offer investment advice or promote specific stocks (e.g., \"Top 5 Stocks to Buy\"). Broad market reports are OK.\n"
+        "-   **Low-Quality Content:** REJECT advertisements, celebrity gossip, fluff pieces, opinion/Op-Eds, and sensationalist or clickbait headlines.\n\n"
         "**B. Content to STRONGLY DE-PRIORITIZE:**\n"
-        "-   **Demoted Terms:** Headlines with 'demoted_terms' should be treated as having almost zero importance. Only select if their relevance is exceptionally high and no other headlines are suitable for a critical user topic.\n\n"
-        "**STEP 4: FINAL SELECTION & CRITICAL SORTING FOR TOOL CALL**\n"
-        "1.  From the final, fully-filtered pool of high-quality headlines, select your final choices, respecting the limits: "
+        "-   **Demoted Terms:** Headlines with 'demoted_terms' should be treated as having almost zero importance. Only select if their relevance is exceptionally high.\n\n"
+        "**STEP 2: FINAL SELECTION & CRITICAL SORTING**\n"
+        "1.  Select the best articles, respecting the limits: "
         f"max **{MAX_TOPICS} topics** and max **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
         "2.  **FINAL SORTING RULES (MANDATORY):**\n"
-        "    a. **Topic Ordering Algorithm (Follow Precisely):**\n"
-        "        - First, mentally score all selected headlines based on a combination of `User Preferences` and objective news importance.\n"
-        "        - Identify the single highest-scoring headline overall. The topic this headline belongs to MUST be the first topic in your output.\n"
-        "        - Then, find the highest-scoring headline from any of the *remaining* topics. That headline's topic MUST be the second topic in your output.\n"
-        "        - Continue this process until all selected topics are ordered.\n"
-        "    b. ***CRITICAL WARNING: DO NOT SORT TOPICS ALPHABETICALLY.*** Sorting MUST follow the importance-based algorithm described above.\n"
+        "    a. **Topic Ordering:** Find the single most important headline overall; its topic is #1. Then, find the most important headline from the *remaining* topics; its topic is #2. Continue this process.\n"
+        "    b. ***CRITICAL WARNING: DO NOT SORT TOPICS ALPHABETICALLY.*** Sorting MUST follow the importance-based algorithm.\n"
         "    c. **Headline Ordering:** Within each topic, sort its headlines from most to least important.\n"
-        "3.  **Final Review (Internal Monologue):** Before calling the tool, quickly ask yourself: \"Have I removed all duplicates? Have I filtered according to the rules? Is my topic order based on importance and NOT alphabetical order?\"\n"
-        "4.  Call the `format_digest_selection` tool with your final, importance-sorted data. This is your only output."
+        "3.  Call the `format_digest_selection` tool with your final, importance-sorted data. This is your only output."
     )
-
-    logging.info("Sending request to Gemini for prioritization with history.")
+    
+    logging.info("Sending smaller, pre-filtered request to Gemini.")
     
     try:
         response = model.generate_content(
@@ -488,100 +490,60 @@ def prioritize_with_gemini(
         )
 
         finish_reason_display_str = "N/A"
-        raw_finish_reason_value = None
-
         if response.candidates and hasattr(response.candidates[0], 'finish_reason'):
-            raw_finish_reason_value = response.candidates[0].finish_reason
-            if hasattr(raw_finish_reason_value, 'name'):
-                finish_reason_display_str = raw_finish_reason_value.name
-            else:
-                finish_reason_display_str = str(raw_finish_reason_value)
+            finish_reason_display_str = response.candidates[0].finish_reason.name
 
-        has_tool_call = False
         function_call_part = None
-        if response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
-            for part in response.candidates[0].content.parts:
-                if hasattr(part, 'function_call') and part.function_call:
+        if response.parts:
+             for part in response.parts:
+                if part.function_call:
                     function_call_part = part.function_call
-                    has_tool_call = True
-                    finish_reason_display_str = "TOOL_CALLS"
                     break
-
-        logging.info(f"Gemini response. finish_reason: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
+        
+        logging.info(f"Gemini response. finish_reason: {finish_reason_display_str}, has_tool_call: {function_call_part is not None}")
 
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args
-                logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...")
-
                 transformed_output = {}
-                if isinstance(args, (MapComposite, dict)):
-                    entries_list_proto = args.get("selected_digest_entries")
-                    if isinstance(entries_list_proto, (RepeatedComposite, list)):
-                        for entry_proto in entries_list_proto:
-                            if isinstance(entry_proto, (MapComposite, dict)):
-                                topic_name = entry_proto.get("topic_name")
-                                headlines_proto = entry_proto.get("headlines")
-
-                                headlines_python_list = []
-                                if isinstance(headlines_proto, (RepeatedComposite, list)):
-                                    for h_item in headlines_proto:
-                                        headlines_python_list.append(str(h_item))
-
-                                if isinstance(topic_name, str) and topic_name.strip() and headlines_python_list:
-                                    transformed_output[topic_name.strip()] = headlines_python_list
-                                else:
-                                    logging.warning(f"Skipping invalid entry from tool: topic '{topic_name}', headlines '{headlines_python_list}'")
-                            else:
-                                logging.warning(f"Skipping non-dict/MapComposite item in 'selected_digest_entries' from tool: {type(entry_proto)}")
-                    else:
-                        logging.warning(f"'selected_digest_entries' from tool is not a list/RepeatedComposite or is missing. Type: {type(entries_list_proto)}")
-                else:
-                    logging.warning(f"Gemini tool call 'args' is not a MapComposite or dict. Type: {type(args)}")
-
-                logging.info(f"Transformed output from Gemini tool call: {transformed_output}")
+                if "selected_digest_entries" in args:
+                    for entry in args["selected_digest_entries"]:
+                        topic_name = entry.get("topic_name")
+                        headlines = entry.get("headlines", [])
+                        if topic_name and headlines:
+                            transformed_output[topic_name] = headlines
+                logging.info(f"Successfully processed tool call from Gemini. Returning {len(transformed_output)} topics.")
                 return transformed_output
             else:
                 logging.warning(f"Gemini called an unexpected tool: {function_call_part.name}")
                 return {}
-        elif response.candidates and response.candidates[0].content and response.candidates[0].content.parts:
-            text_content = "".join(part.text for part in response.candidates[0].content.parts if hasattr(part, 'text'))
-            if text_content.strip():
+        else: # Fallback for text-based responses or errors
+            if response.text:
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
-                parsed_json_fallback = safe_parse_json(text_content)
-                # The returned value from Gemini is a dict of {topic: [headlines]}
-                # Let's check if the parsed content matches this structure.
-                if isinstance(parsed_json_fallback, dict) and "selected_digest_entries" in parsed_json_fallback:
-                    # It seems the model might return JSON matching the tool structure, even in text.
-                    # We should handle this gracefully.
-                    entries = parsed_json_fallback.get("selected_digest_entries", [])
-                    if isinstance(entries, list):
-                        transformed_output = {}
-                        for item in entries:
-                            if isinstance(item, dict):
-                                topic = item.get("topic_name")
-                                headlines = item.get("headlines")
-                                if isinstance(topic, str) and isinstance(headlines, list):
-                                    transformed_output[topic] = headlines
-                        if transformed_output:
-                             logging.info(f"Successfully parsed tool-like structure from Gemini text response: {transformed_output}")
-                             return transformed_output
-
-                logging.warning(f"Could not parse Gemini's text response into expected format. Raw text: {text_content[:500]}")
-                return {}
+                parsed_json = safe_parse_json(response.text)
+                if "selected_digest_entries" in parsed_json:
+                     # Handle the case where Gemini returns the tool structure as a JSON string
+                    transformed_output = {}
+                    for entry in parsed_json["selected_digest_entries"]:
+                        topic_name = entry.get("topic_name")
+                        headlines = entry.get("headlines", [])
+                        if topic_name and headlines:
+                            transformed_output[topic_name] = headlines
+                    if transformed_output:
+                        logging.info("Successfully parsed tool-like structure from Gemini's text response.")
+                        return transformed_output
+                logging.warning(f"Could not parse Gemini's text response into expected format. Raw text: {response.text[:500]}")
             else:
-                 logging.warning("Gemini returned no usable function call and no parsable text content.")
-                 return {}
-        else:
-            if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
+                logging.warning("Gemini returned no usable function call and no parsable text content.")
+            
+            if response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
-            logging.warning(f"Gemini returned no candidates or no content parts.")
             return {}
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         return {}
-
+    
 def generate_digest_html_content(digest_data, current_zone):
     """Generates just the HTML string for a digest, without writing to a file."""
     html_parts = []
@@ -858,20 +820,17 @@ def perform_git_operations(base_dir, current_zone, config_obj):
         logging.error(f"General error during Git operations: {e}", exc_info=True)
         
 def main():
-    # Load the full history log. This is used for the high-confidence pre-filter
-    # and for the final history update.
+    # Load the full history log for deep, long-term deduplication.
     history = {}
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 history = json.load(f)
-        except json.JSONDecodeError:
-            logging.warning("history.json is empty or invalid. Starting with an empty history log.")
-        except Exception as e:
-            logging.error(f"Error loading history.json: {e}. Starting with empty history log.")
+        except (json.JSONDecodeError, IOError) as e:
+            logging.warning(f"history.json is empty or invalid. Starting with an empty history log. Error: {e}")
 
     # Load the user-facing history from recent HTML digests. This is the context passed to the LLM.
-    recent_digest_headlines = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
+    recent_digest_headlines_for_llm = load_recent_digest_history(DIGESTS_DIR, DIGEST_MANIFEST_FILE, MAX_HISTORY_DIGESTS)
 
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
@@ -879,70 +838,49 @@ def main():
             logging.error("Missing GEMINI_API_KEY environment variable. Exiting.")
             sys.exit(1)
 
-        headlines_to_send_to_llm = {}
+        all_fetched_headlines = defaultdict(list)
         full_articles_map_this_run = {}
-
-        banned_terms_list = [k for k, v in OVERRIDES.items() if v == "ban"]
-        normalized_banned_terms = [normalize(term) for term in banned_terms_list if term]
-
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
 
-        # --- HYBRID PRE-FILTERING STAGE ---
+        # --- STAGE 1: FETCH ALL CANDIDATE ARTICLES ---
+        logging.info("Fetching all candidate articles...")
         for topic_name in TOPIC_WEIGHTS:
-            fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic)
-            if fetched_topic_articles:
-                current_topic_headlines_for_llm = []
-                for art in fetched_topic_articles:
-                    if is_high_confidence_duplicate_in_history(art["title"], history, MATCH_THRESHOLD):
-                        logging.debug(f"Skipping (high-confidence history match): {art['title']}")
-                        continue
-
-                    if contains_banned_keyword(art["title"], normalized_banned_terms):
-                        logging.debug(f"Skipping (banned keyword): {art['title']}")
-                        continue
-
-                    current_topic_headlines_for_llm.append(art["title"])
+            fetched_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic)
+            if fetched_articles:
+                for art in fetched_articles:
+                    all_fetched_headlines[topic_name].append(art["title"])
+                    # Use normalized title as a key to prevent minor variations from creating duplicate entries.
                     norm_title_key = normalize(art["title"])
                     if norm_title_key not in full_articles_map_this_run:
                          full_articles_map_this_run[norm_title_key] = art
+        
+        logging.info(f"Fetched a total of {len(full_articles_map_this_run)} unique articles across {len(all_fetched_headlines)} topics.")
 
-                if current_topic_headlines_for_llm:
-                    headlines_to_send_to_llm[topic_name] = current_topic_headlines_for_llm
-
+        # --- STAGE 2: CALL GEMINI FOR PRIORITIZATION (which now includes the pre-filter) ---
         gemini_processed_content = {}
-
-        if not headlines_to_send_to_llm:
-            logging.info("No new, non-banned, non-duplicate headlines available to send to LLM.")
+        if not all_fetched_headlines:
+            logging.info("No articles fetched. Nothing to send to Gemini.")
         else:
-            total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
-            logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
-
+            # This single call now handles the pre-filtering AND the AI-based selection.
             selected_content_raw_from_llm = prioritize_with_gemini(
-                headlines_to_send=headlines_to_send_to_llm,
-                digest_history=recent_digest_headlines,
+                headlines_to_send=all_fetched_headlines,
+                digest_history=recent_digest_headlines_for_llm,
                 gemini_api_key=gemini_api_key,
                 topic_weights=TOPIC_WEIGHTS,
                 keyword_weights=KEYWORD_WEIGHTS,
                 overrides=OVERRIDES
             )
 
-            if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
+            # --- STAGE 3: MAP LLM RESPONSE BACK TO FULL ARTICLE DATA ---
+            if not selected_content_raw_from_llm:
                 logging.warning("Gemini returned no content or invalid format.")
             else:
                 logging.info(f"Processing {len(selected_content_raw_from_llm)} topics returned by Gemini.")
                 seen_normalized_titles_in_llm_output = set()
 
                 for topic_from_llm, titles_from_llm in selected_content_raw_from_llm.items():
-                    if not isinstance(titles_from_llm, list):
-                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}'. Skipping.")
-                        continue
-
                     current_topic_articles_for_digest = []
                     for title_from_llm in titles_from_llm[:MAX_ARTICLES_PER_TOPIC]:
-                        if not isinstance(title_from_llm, str):
-                            logging.warning(f"LLM returned non-string headline: {title_from_llm}. Skipping.")
-                            continue
-
                         norm_llm_title = normalize(title_from_llm)
                         if not norm_llm_title or norm_llm_title in seen_normalized_titles_in_llm_output:
                             continue
@@ -952,8 +890,10 @@ def main():
                             current_topic_articles_for_digest.append(article_data)
                             seen_normalized_titles_in_llm_output.add(norm_llm_title)
                         else:
+                            # Fallback for when the LLM slightly alters a title
                             found_fallback = False
                             for stored_norm_title, stored_article_data in full_articles_map_this_run.items():
+                                # Simple substring check can find slightly modified headlines
                                 if norm_llm_title in stored_norm_title or stored_norm_title in norm_llm_title:
                                     if stored_norm_title not in seen_normalized_titles_in_llm_output:
                                         current_topic_articles_for_digest.append(stored_article_data)
@@ -968,60 +908,45 @@ def main():
 
         final_digest_for_display_and_state = gemini_processed_content
 
+        # --- STAGE 4: GENERATE OUTPUTS AND UPDATE STATE ---
         if final_digest_for_display_and_state:
             logging.info(f"Final digest contains {len(final_digest_for_display_and_state)} topics, ordered by Gemini.")
             
-            # ** CORE PERFORMANCE FIX LOGIC **
-            # 1. Generate the latest digest HTML content string
             new_digest_html = generate_digest_html_content(final_digest_for_display_and_state, ZONE)
 
-            # 2. Write that content to your established `digest.html` file
             with open(LATEST_DIGEST_HTML_FILE, "w", encoding="utf-8") as f:
                 f.write(new_digest_html)
             logging.info(f"Latest digest content written to {LATEST_DIGEST_HTML_FILE}")
 
-            # 3. Inject the same HTML content into the template to create the final index.html
             try:
                 template_path = os.path.join(BASE_DIR, "public", "index.template.html")
                 final_index_path = os.path.join(BASE_DIR, "public", "index.html")
-
                 with open(template_path, "r", encoding="utf-8") as f:
-                    index_content = f.read()
-
-                # Replace the placeholder with the actual latest digest HTML
-                index_content = index_content.replace("<!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->", new_digest_html)
-
+                    index_content = f.read().replace("<!--LATEST_DIGEST_CONTENT_PLACEHOLDER-->", new_digest_html)
                 with open(final_index_path, "w", encoding="utf-8") as f:
                     f.write(index_content)
-                logging.info(f"Generated final index.html with embedded digest at {final_index_path}")
-
+                logging.info(f"Generated final index.html with embedded digest.")
             except Exception as e:
                 logging.error(f"Failed to embed latest digest into index.html from template: {e}")
-            # ** END CORE PERFORMANCE FIX LOGIC **
 
-            # Update historical digests and manifest
             update_digest_history(new_digest_html, ZONE)
 
-            # Update state/history files
             try:
                 content_json_to_save = {}
                 now_utc_iso = datetime.now(ZoneInfo("UTC")).isoformat()
                 for topic, articles in final_digest_for_display_and_state.items():
                     content_json_to_save[topic] = { "articles": articles, "last_updated_ts": now_utc_iso }
-
                 with open(DIGEST_STATE_FILE, "w", encoding="utf-8") as f:
                     json.dump(content_json_to_save, f, indent=2)
                 logging.info(f"Snapshot of current digest saved to {DIGEST_STATE_FILE}")
             except IOError as e:
                 logging.error(f"Failed to write digest state file {DIGEST_STATE_FILE}: {e}")
-
         else:
-            logging.info("No topics from Gemini this run. Files are not modified.")
+            logging.info("No topics selected by Gemini this run. Output files are not modified.")
 
         update_history_file(final_digest_for_display_and_state, history, HISTORY_FILE, ZONE)
 
         if CONFIG.get("ENABLE_GIT_PUSH", False):
-            # The git operation will automatically pick up the new index.html
             perform_git_operations(BASE_DIR, ZONE, CONFIG)
         else:
             logging.info("Git push is disabled in config. Skipping.")
@@ -1030,6 +955,6 @@ def main():
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
         logging.info(f"Script finished at {datetime.now(ZONE)}")
-        
+             
 if __name__ == "__main__":
     main()
