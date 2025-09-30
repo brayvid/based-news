@@ -4,23 +4,27 @@ import os
 import sys
 import json
 import logging
+import csv
+import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 import google.generativeai as genai
 import subprocess
-import requests
-import csv
-from email.message import EmailMessage
-import smtplib
+import html
 
-
+# --- Configuration ---
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 
-# --- Setup ---
-BASE_DIR = os.path.dirname(__file__)
-HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
+# --- Setup Paths ---
+try:
+    BASE_DIR = os.path.dirname(os.path.realpath(__file__))
+except NameError:
+    BASE_DIR = os.getcwd()
+
+CONTENT_FILE = os.path.join(BASE_DIR, "content.json")
 SUMMARY_FILE = os.path.join(BASE_DIR, "public", "summary.html")
+SUMMARIES_LOG_FILE = os.path.join(BASE_DIR, "summaries.json")
 LOGFILE = os.path.join(BASE_DIR, "logs/summary.log")
 os.makedirs(os.path.dirname(LOGFILE), exist_ok=True)
 
@@ -36,7 +40,6 @@ logging.info("Summary script started.")
 load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Loads key-value config settings from a CSV Google Sheet URL.
 def load_config_from_sheet(url):
     config = {}
     try:
@@ -47,144 +50,197 @@ def load_config_from_sheet(url):
         next(reader, None)  # skip header
         for row in reader:
             if len(row) >= 2:
-                key = row[0].strip()
-                val = row[1].strip()
+                key, val = row[0].strip(), row[1].strip()
                 try:
-                    if '.' in val:
+                    if '.' in val and val.replace('.', '', 1).isdigit():
                         config[key] = float(val)
                     else:
                         config[key] = int(val)
                 except ValueError:
-                    config[key] = val  # fallback to string
+                    if val.lower() == 'true': config[key] = True
+                    elif val.lower() == 'false': config[key] = False
+                    else: config[key] = val
         logging.info("Successfully loaded config from Google Sheet.")
         return config
     except Exception as e:
         logging.error(f"Failed to load config from {url}: {e}")
         return None
 
-# Load config before main
+# --- Load Configuration ---
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
 if CONFIG is None:
     logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
     sys.exit(1)
 
-# Load specified timezone to report in
+GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-1.5-flash")
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
     ZONE = ZoneInfo(USER_TIMEZONE)
 except Exception:
-    logging.warning(f"Invalid TIMEZONE '{USER_TIMEZONE}' in config. Falling back to 'America/New_York'")
     ZONE = ZoneInfo("America/New_York")
+    logging.warning(f"Invalid TIMEZONE. Falling back to '{ZONE}'.")
 
-# Converts datetime to user timezone
-def to_user_timezone(dt):
-    return dt.astimezone(ZONE)
-
-# --- Load history ---
-try:
-    with open(HISTORY_FILE, "r") as f:
-        history_data = json.load(f)
-    logging.info(f"Successfully loaded history file: {HISTORY_FILE}")
-except Exception as e:
-    logging.critical(f"Failed to load history.json: {e}")
-    sys.exit(1)
-
-# --- Format history into plain text ---
-def format_history(data):
+def format_digest_for_summary(data):
+    """Formats the content.json structure for the LLM prompt."""
     parts = []
-    for topic, articles in data.items():
-        parts.append(f"### {topic.title()}")
-        for a in articles:
-            parts.append(f"- {a['title']} ({a['pubDate']})")
+    for topic, content in data.items():
+        # Handles the nested structure of content.json: {"Topic": {"articles": [...]}}
+        articles = content.get("articles", [])
+        if articles:
+            parts.append(f"### {html.unescape(topic)}")
+            for article in articles:
+                parts.append(f"- {html.unescape(article['title'])}")
     return "\n".join(parts)
 
-# --- Gemini query ---
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("models/gemini-2.5-flash")
+def generate_summary(digest_content: dict) -> str:
+    """Generates a summary from the digest content using Gemini."""
+    if not GEMINI_API_KEY:
+        logging.error("Missing GEMINI_API_KEY. Cannot generate summary.")
+        return ""
 
-question = (
-    "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. "
-    "**Use Google Search to actively verify all information, such as names, places, figures, and event details to ensure the summary is factually accurate and grounded in real-world information, not just inferences from the headlines.** "
-    "Use simple language, cite figures, and be specific with people, places, things, etc. "
-    "Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. "
-    "State the timeframe being discussed. Don't state that it's a report, simply present the findings. "
-    "At the end, in 50 words, using all available clues in the headlines and your search findings, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
-)
-
-try:
-    logging.info("Sending prompt to Gemini with grounding enabled...")
-    prompt = f"{question}\n\n{format_history(history_data)}"
+    genai.configure(api_key=GEMINI_API_KEY)
+    model = genai.GenerativeModel(GEMINI_MODEL_NAME)
     
-    # Correctly create the grounding tool using the proper path
-    tools = [genai.types.Tool(google_search_retrieval={})]
+    formatted_digest = format_digest_for_summary(digest_content)
+    if not formatted_digest:
+        logging.warning("Digest content was empty after formatting. No summary to generate.")
+        return ""
 
-    # Pass the tool in the `tools` parameter
-    result = model.generate_content(prompt, tools=tools)
+    prompt = (
+        "You are a news analyst. Based on the following headlines from the last 24 hours, provide a concise briefing.\n"
+        "Your task has two parts:\n"
+        "1.  **Executive Summary:** In a single, fluid paragraph (around 100-125 words), synthesize the most significant global and national events. Identify the key players, locations, and the core issues. Do not use markdown or bullet points. Ensure your analysis is factually grounded by using Google Search to verify details inferred from the headlines.\n"
+        "2.  **Outlook:** In a separate, shorter paragraph (around 50 words), provide a brief, forward-looking statement. Based on the events, what are the most likely immediate consequences or developments to watch for?\n\n"
+        "---BEGIN HEADLINES---\n"
+        f"{formatted_digest}\n"
+        "---END HEADLINES---"
+    )
+
+    try:
+        logging.info("Sending prompt to Gemini with Google Search grounding enabled...")
+        tools = [genai.types.Tool(google_search_retrieval={})]
+        response = model.generate_content(prompt, tools=tools)
+        
+        if response.text:
+            logging.info("Successfully received summary from Gemini.")
+            return response.text.strip()
+        else:
+            logging.warning("Gemini returned an empty response. There may have been a content safety block.")
+            if response.prompt_feedback:
+                logging.warning(f"Prompt Feedback: {response.prompt_feedback}")
+            return ""
+    except Exception as e:
+        logging.error(f"Gemini request failed: {e}", exc_info=True)
+        return ""
+
+def perform_git_operations(base_dir, current_zone, config_obj):
+    """Performs a robust sequence of Git operations to commit and push changes."""
+    # This function is adapted from the main script for consistency and reliability.
+    try:
+        # Configuration
+        github_token = os.getenv("GITHUB_TOKEN")
+        github_repository = os.getenv("GITHUB_REPOSITORY")
+        if not github_token or not github_repository:
+            logging.error("GITHUB_TOKEN or GITHUB_REPOSITORY not set. Cannot push.")
+            return
+
+        remote_url = f"https://oauth2:{github_token}@github.com/{github_repository}.git"
+        author_name = config_obj.get("GIT_USER_NAME", "Automated Digest Bot")
+        author_email = config_obj.get("GIT_USER_EMAIL", "bot@example.com")
+
+        # Set Git config
+        subprocess.run(["git", "config", "user.name", author_name], check=True, cwd=base_dir)
+        subprocess.run(["git", "config", "user.email", author_email], check=True, cwd=base_dir)
+        subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=base_dir, capture_output=True)
+
+        current_branch = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True, check=True, cwd=base_dir).stdout.strip()
+
+        # Safely pull changes
+        logging.info("Stashing local changes before pull...")
+        subprocess.run(["git", "stash", "push", "-u", "-m", "WIP_Summary_Script"], check=True, cwd=base_dir, capture_output=True)
+        logging.info(f"Pulling with rebase from origin/{current_branch}...")
+        subprocess.run(["git", "pull", "--rebase", "origin", current_branch], check=True, cwd=base_dir, capture_output=True)
+        logging.info("Popping stashed changes...")
+        subprocess.run(["git", "stash", "pop"], check=True, cwd=base_dir, capture_output=True)
+
+        # Add, Commit, and Push
+        files_to_add = [os.path.relpath(SUMMARY_FILE, base_dir), os.path.relpath(SUMMARIES_LOG_FILE, base_dir)]
+        logging.info(f"Staging files: {files_to_add}")
+        subprocess.run(["git", "add"] + files_to_add, check=True, cwd=base_dir)
+
+        status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True, cwd=base_dir)
+        if not status_result.stdout.strip():
+            logging.info("No changes to commit.")
+            return
+
+        commit_message = f"Auto-update news summary - {datetime.now(current_zone).strftime('%Y-%m-%d %H:%M:%S %Z')}"
+        subprocess.run(["git", "commit", "-m", commit_message], check=True, cwd=base_dir)
+        logging.info(f"Pushing changes to origin/{current_branch}...")
+        subprocess.run(["git", "push", "origin", current_branch], check=True, cwd=base_dir)
+        logging.info("Summary committed and pushed to GitHub.")
+
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Git operation failed: {e.cmd}\n{e.stderr.decode() if e.stderr else e.stdout.decode()}")
+    except Exception as e:
+        logging.error(f"An unexpected error occurred during Git operations: {e}", exc_info=True)
+
+
+def main():
+    # 1. Load the latest digest content
+    try:
+        with open(CONTENT_FILE, "r", encoding="utf-8") as f:
+            digest_data = json.load(f)
+        logging.info(f"Successfully loaded latest digest from: {CONTENT_FILE}")
+    except (FileNotFoundError, json.JSONDecodeError, IOError) as e:
+        logging.critical(f"Failed to load or parse {CONTENT_FILE}: {e}. Cannot generate summary.")
+        sys.exit(1)
+
+    # 2. Generate the summary
+    summary_text = generate_summary(digest_data)
+    if not summary_text:
+        logging.warning("No summary was generated. Script will exit without updating files.")
+        sys.exit(0)
+
+    # 3. Format for HTML and write to file
+    formatted_html_body = summary_text.replace('\n', '<br><br>')
+    timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
+    html_output = (
+        f"<p>{formatted_html_body}</p>\n"
+        f"<div class='timestamp' id='summary-last-updated' style='display: none;'>Last updated: {timestamp}</div>"
+    )
     
-    answer = result.text.strip()
-    logging.info("Gemini returned a response.")
+    try:
+        with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
+            f.write(html_output)
+        logging.info(f"Summary written to {SUMMARY_FILE}")
+    except IOError as e:
+        logging.error(f"Failed to write summary.html: {e}")
 
-except Exception as e:
-    logging.error(f"Gemini request failed: {e}")
-    sys.exit(1)
-
-# --- Format HTML output ---
-formatted = answer.replace('\n', '<br>')
-timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
-html_output = f"""<html>
-  <body>
-    <p>{formatted}</p>
-    <div class='timestamp' id='summary-last-updated' style='display: none;'>Last updated: {timestamp}</div>
-  </body>
-</html>"""
-
-# --- Write to file ---
-try:
-    os.makedirs(os.path.dirname(SUMMARY_FILE), exist_ok=True)
-    with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
-        f.write(html_output)
-    logging.info(f"Summary written to {SUMMARY_FILE}")
-except Exception as e:
-    logging.error(f"Failed to write summary.html: {e}")
-
-# The rest of your script (email, git push, etc.) remains the same.
-# ... (rest of your script) ...
-
-SUMMARIES_FILE = os.path.join(BASE_DIR, "summaries.json")
-summary_entry = {
-    "timestamp": datetime.now(ZONE).isoformat(),
-    "summary": formatted
-}
-try:
-    if os.path.exists(SUMMARIES_FILE):
-        with open(SUMMARIES_FILE, "r", encoding="utf-8") as f:
-            summaries = json.load(f)
-    else:
+    # 4. Append to the persistent JSON log of all summaries
+    summary_entry = {
+        "timestamp": datetime.now(ZONE).isoformat(),
+        "summary_html": formatted_html_body
+    }
+    try:
         summaries = []
-    summaries.append(summary_entry)
-    with open(SUMMARIES_FILE, "w", encoding="utf-8") as f:
-        json.dump(summaries, f, indent=2, ensure_ascii=False)
-    logging.info("Summary appended to summaries.json")
-except Exception as e:
-    logging.error(f"Failed to append to summaries.json: {e}")
+        if os.path.exists(SUMMARIES_LOG_FILE):
+            with open(SUMMARIES_LOG_FILE, "r", encoding="utf-8") as f:
+                summaries = json.load(f)
+        summaries.insert(0, summary_entry) # Add newest to the top
+        with open(SUMMARIES_LOG_FILE, "w", encoding="utf-8") as f:
+            json.dump(summaries, f, indent=2, ensure_ascii=False)
+        logging.info(f"Summary appended to {SUMMARIES_LOG_FILE}")
+    except (json.JSONDecodeError, IOError) as e:
+        logging.error(f"Failed to append to summaries log: {e}")
+        
+    # 5. Push changes to Git if enabled
+    if CONFIG.get("ENABLE_GIT_PUSH", False):
+        perform_git_operations(BASE_DIR, ZONE, CONFIG)
+    else:
+        logging.info("Git push is disabled in config. Skipping.")
 
-try:
-    GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-    GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
-    REPO = "based-news"
-    REPO_OWNER = "brayvid"
-    remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{REPO_OWNER}/{REPO}.git"
-    logging.info("Configuring git remote and pulling latest changes...")
-    subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, cwd=BASE_DIR)
-    subprocess.run(["git", "pull", "origin", "main"], check=True, cwd=BASE_DIR)
-    logging.info("Adding files to git...")
-    subprocess.run(["git", "add", "public/summary.html","summaries.json"], check=True, cwd=BASE_DIR)
-    logging.info("Committing changes...")
-    subprocess.run(["git", "commit", "-m", "Auto-update digest and history"], check=True, cwd=BASE_DIR)
-    logging.info("Pushing changes to GitHub...")
-    subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
-    logging.info("Digest and history committed and pushed to GitHub.")
-except Exception as e:
-    logging.error(f"Git commit/push failed: {e}")
+    logging.info("Summary script finished successfully.")
 
-logging.info("Summary script finished.")
+
+if __name__ == "__main__":
+    main()
