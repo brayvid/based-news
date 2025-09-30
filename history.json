@@ -195,10 +195,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Why China Hawks Love Talking About AI - Foreign Policy",
-      "pubDate": "Tue, 23 Sep 2025 17:41:30 GMT"
-    },
-    {
       "title": "Sam Altman wants to build 1 gigawatt of 'AI infrastructure' a week \u2014 enough to power 876,000 households a year - Business Insider",
       "pubDate": "Tue, 23 Sep 2025 22:40:00 GMT"
     },
@@ -328,10 +324,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Fed Chief Powell says stock prices appear 'fairly highly valued' - CNBC",
-      "pubDate": "Tue, 23 Sep 2025 17:05:19 GMT"
-    },
     {
       "title": "The Bull Run in Stocks Leaves Strategists Struggling to Keep Up - Bloomberg.com",
       "pubDate": "Wed, 24 Sep 2025 09:05:13 GMT"
@@ -480,10 +472,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Trump assails allies over migration, energy and Ukraine - Financial Times",
-      "pubDate": "Tue, 23 Sep 2025 17:42:29 GMT"
-    },
     {
       "title": "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion - The Guardian",
       "pubDate": "Tue, 23 Sep 2025 19:46:00 GMT"
@@ -727,10 +715,6 @@
   ],
   "us_politics": [
     {
-      "title": "Ted Cruz Plays the Long Game by Defending Jimmy Kimmel - Politico",
-      "pubDate": "Tue, 23 Sep 2025 17:06:09 GMT"
-    },
-    {
       "title": "House intelligence leader: DIA chief fired for his handling of Havana Syndrome cases - Washington Times",
       "pubDate": "Tue, 23 Sep 2025 19:47:17 GMT"
     },
@@ -938,10 +922,6 @@
     }
   ],
   "cryptocurrency": [
-    {
-      "title": "Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026 - Mint",
-      "pubDate": "Tue, 23 Sep 2025 17:41:25 GMT"
-    },
     {
       "title": "U.S. bid to keep $163M in cryptocurrency provides glimpse into \u2018pig-butchering\u2019 - MLive.com",
       "pubDate": "Sat, 27 Sep 2025 10:00:00 GMT"
@@ -1155,6 +1135,10 @@
     {
       "title": "Cargo theft: An emerging national and economic security crisis - The Hill",
       "pubDate": "Mon, 29 Sep 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Trump Tells Generals the Military Will Be Used to Fight \u2018Enemy Within\u2019 - The Wall Street Journal",
+      "pubDate": "Tue, 30 Sep 2025 16:47:00 GMT"
     }
   ],
   "gaza": [
@@ -1665,6 +1649,10 @@
     {
       "title": "NASA confirms 54-foot asteroid to pass near Earth, poses no threat - CNBC TV18",
       "pubDate": "Tue, 30 Sep 2025 09:41:36 GMT"
+    },
+    {
+      "title": "NASA considers using nuclear bombs to destroy Moon-bound \u2018city killer\u2019 asteroid 2024 YR4 | Hindustan Times - Hindustan Times",
+      "pubDate": "Tue, 30 Sep 2025 07:04:05 GMT"
     }
   ],
   "nuclear_power": [
@@ -1779,6 +1767,10 @@
     {
       "title": "Witness to North Korea executions: \u2018He was only 22 and shot for watching and distributing 70 songs and three South Korean TV series\u2019 - EL PA\u00cdS English",
       "pubDate": "Sun, 28 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "\"Kim Jong Un Builds 5,000-Ton War Machine\": North Korea Launches Destroyer After Previous Ship Capsized While Naval Expansion Threatens Regional Stability - Energy Reporters",
+      "pubDate": "Tue, 30 Sep 2025 11:53:35 GMT"
     }
   ],
   "terrorism": [
@@ -1801,6 +1793,10 @@
     {
       "title": "Russia\u2019s Crime-Terror Nexus: Criminality as a Tool of Hybrid Warfare in Europe - GLOBSEC",
       "pubDate": "Tue, 30 Sep 2025 11:54:40 GMT"
+    },
+    {
+      "title": "Hamas terrorist who invaded on Oct. 7, bombed soldier in Gaza, killed in strike \u2013 IDF - The Times of Israel",
+      "pubDate": "Tue, 30 Sep 2025 17:17:35 GMT"
     }
   ],
   "us_treasury": [
@@ -2011,6 +2007,10 @@
     {
       "title": "Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture - CTV News",
       "pubDate": "Tue, 30 Sep 2025 01:54:00 GMT"
+    },
+    {
+      "title": "Leaked texts on Scott Bessent's phone suggest the White House got played bailing out Argentina\u2014and U.S. soybean farmers are the casualties - Fortune",
+      "pubDate": "Tue, 30 Sep 2025 16:52:30 GMT"
     }
   ],
   "infrastructure": [
@@ -2101,6 +2101,10 @@
     {
       "title": "2 killed in Cuba as Tropical Storm Imelda and Hurricane Humberto threaten Bahamas and Bermuda - AP News",
       "pubDate": "Tue, 30 Sep 2025 10:23:00 GMT"
+    },
+    {
+      "title": "Hurricanes Humberto and Imelda barrel toward Bermuda as the tiny island prepares - PBS",
+      "pubDate": "Tue, 30 Sep 2025 15:45:42 GMT"
     }
   ],
   "new_york_city": [
@@ -2311,6 +2315,12 @@
     {
       "title": "Northeast Pacific endures fourth-largest marine heat wave on record - Mongabay",
       "pubDate": "Tue, 30 Sep 2025 10:03:39 GMT"
+    }
+  ],
+  "protest": [
+    {
+      "title": "Madagascar police fire tear gas as government sacking fails to placate protesters - BBC",
+      "pubDate": "Tue, 30 Sep 2025 15:13:51 GMT"
     }
   ]
 }
