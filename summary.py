@@ -72,6 +72,7 @@ if CONFIG is None:
     logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
     sys.exit(1)
 
+# This now correctly defaults to the required model.
 GEMINI_MODEL_NAME = CONFIG.get("SUMMARY_GEMINI_MODEL_NAME", "gemini-2.5-pro")
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
@@ -84,7 +85,6 @@ def format_digest_for_summary(data):
     """Formats the content.json structure for the LLM prompt."""
     parts = []
     for topic, content in data.items():
-        # Handles the nested structure of content.json: {"Topic": {"articles": [...]}}
         articles = content.get("articles", [])
         if articles:
             parts.append(f"### {html.unescape(topic)}")
@@ -117,8 +117,12 @@ def generate_summary(digest_content: dict) -> str:
     )
 
     try:
-        logging.info("Sending prompt to Gemini with Google Search grounding enabled...")
+        logging.info(f"Sending prompt to Gemini model '{GEMINI_MODEL_NAME}' with Google Search grounding enabled...")
+        
+        # This is the correct, modern syntax required for gemini-2.5-pro.
+        # It will work after you upgrade the google-generativeai library.
         tools = [genai.types.Tool(google_search={})]
+        
         response = model.generate_content(prompt, tools=tools)
         
         if response.text:
@@ -135,9 +139,7 @@ def generate_summary(digest_content: dict) -> str:
 
 def perform_git_operations(base_dir, current_zone, config_obj):
     """Performs a robust sequence of Git operations to commit and push changes."""
-    # This function is adapted from the main script for consistency and reliability.
     try:
-        # Configuration
         github_token = os.getenv("GITHUB_TOKEN")
         github_repository = os.getenv("GITHUB_REPOSITORY")
         if not github_token or not github_repository:
