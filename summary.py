@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import subprocess
 import html
+import re
 
 # --- Configuration ---
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
@@ -195,7 +196,7 @@ def main():
         sys.exit(0)
 
     # 3. Format for HTML and write to file
-    formatted_html_body = summary_text.replace('\n', '<br><br>')
+    formatted_html_body = re.sub(r'\n+', '<br>', summary_text)
     timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
     html_output = (
         f"<p>{formatted_html_body}</p>\n"
