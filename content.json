@@ -1,72 +1,72 @@
 {
-  "US Congress": {
+  "Cybersecurity": {
     "articles": [
       {
-        "title": "Senate CR vote Tuesday - Politico",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYW9DT2JLZk1uSTNJNUl3MV9aWTQ0V1ZaUGFlX0FNTkFpR2huVGJjdE5UOUpiSUVCTTlsWWdDMzUyNm5HTEdHLWY5T2ppdmxTdU84T0ZqNF92bDNuaU8xVm4xYUZ3VVlYOGxLaVdWM3d6SzJFS1NLNFY4bHNEa1FoNHU5aTdJR0tqcVk3MDNXUHdYb3c?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 18:58:00 GMT"
+        "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems - The Hacker News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWMxQzJSTDdoMHAyM3lEVEZmU0hpLTVqT0k0WDRrVVRvRUZrYUIyMXhBSEtuQVJiV0VXcUp6V1hvWGY1dTlBN0FPVUlIN0dQQndja3FLZlVNS3hqa2IxRDM3eW5QengtcW9CMHZHNmFNQUhJWFZJYzJRZ1pxaEV0TWJJTFo?oc=5",
+        "pubDate": "Tue, 30 Sep 2025 05:41:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "Russia": {
+  "US Economy": {
     "articles": [
       {
-        "title": "Putin says Russia is prevailing in 'righteous battle' in Ukraine - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbk9jamNDTzBIYXhNcjI1aEE0WUhkTlN1ZDdMbXVZa0doOS00eWQtbVNCNVRjdV9iZUZXMWM1VVhkZjV2ZFVvMVRnajZKTGZxaVdiQ2NtazZEeUJ0c253SEFkaUw5WVc1OGV2MXE2STJPbUE2bnM4SVN6ZXFjNFRROURDbno3QzhCQ1QzVGV4c192a1JfSlJNUVpUQTc3MFZnRmU5b1pyREw?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 22:03:46 GMT"
+        "title": "Trump imposes new tariffs as warning lights on US economy flash - World Socialist Web Site",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1abHo3ZG5YTUVmeGRMVWtxekJlNHkxXzBHQmxndmFpeU1jX1hab1JId19od2V0cTU3aXA1NWJzRFlneXRnZjBIeV9yekZ4RlVOV1VRcC1JT3ZtSnNzUHQwblo2RHJRdEx2?oc=5",
+        "pubDate": "Tue, 30 Sep 2025 01:45:46 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "Data Breach": {
+  "Gaza": {
     "articles": [
       {
-        "title": "Hackers Stole FEMA, Customs and Border Protection Employee Data - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0xPbjAtcGZiS0NEU1ZFM2FjUVJuOUF5eVBBbWNuN0xuVThFSnZNTGpYaGtKZERPLWNNc2hCNXU4eE82YXVfbURvdmNMcWhieUNCM3dwMHBJZFE1RGhCWV9lVlBQU0d0cWw1VGFaMWxJNy1TbU54U0JQWEFRNmxCdHZwa05iR0UwQlNseHB5VWFtcW5yaTNWdHJ3VFdfYWJGQ2tSZndISE1jSGYxc041T29KTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 23:07:28 GMT"
+        "title": "Women in Gaza say they were promised food, money or work in exchange for sexual interactions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0xoX1NMb0N2WUdKdnQ0bkNQMGdzUjZlRjYyUFNNbHJDNVN2VVJkdXVCM2tTeU1ZNGtDZW9IbWpQYWlZNWtLdTFMdUxYRTA2X21PdG9RZVNMNTlTWFNmNXBXb0NQTjhLcHFOdEhTV2c1TzR6cWdfRDY1a1NscnlYeU9pbU1oaVNxeE1uU19BMDF0YUNBbHlXT1VyVVAyVy10NmpqV3hJcFE?oc=5",
+        "pubDate": "Tue, 30 Sep 2025 04:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "NVIDIA": {
+  "Ukraine": {
     "articles": [
       {
-        "title": "Huawei to Double Output of Top AI Chip as Nvidia Wavers in China - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmtKTTliczJHVF9tQ2UyRVhPRFNSTlI1a0ZJSFlRaU1qV0RvZmdEeDdNak1pWnFjQUwzNDVqTVhSZ2F2YzdPZGU3MDVMdlRYb2tnUmIzYWdkckFmcUtzdzZwbWI3T01MZlJDb2U4ckZfc3FuaTBISmFxT2FETWNMVkx1RXdOc3lkU09BODNxZjRaSzgxRjQwY1ZZQUM1QUszTlBSMzNnZVFOYzF3OTJoNDdVRVRtZw?oc=5",
-        "pubDate": "Tue, 30 Sep 2025 02:05:00 GMT"
+        "title": "Ukraine said its modified Neptune naval missile was used to blast a Russian factory 150 miles away - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWERtZllBUUhRdTItSHY1bXdJd1BlODdJbzk4YWNBR3BrVTVXRWlkSm10VDYwbEY4QnVzZWlJbklvaVlOYy0tZlFZamxmLVhXbGhXZ2xKMVR1NGVxWk5qc0wyb0VwOEVseE9iRS16TFdrZ29lQ2pxd1BXa0tEamZvSW05MkNrUGdYbTM0R2dYZFVsSmc?oc=5",
+        "pubDate": "Tue, 30 Sep 2025 06:28:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "Programming": {
+  "Federal Reserve": {
     "articles": [
       {
-        "title": "Anthropic releases Claude Sonnet 4.5, a model it says can build software and accomplish business tasks autonomously - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVng4RlVZY0stcmpPYkVNbHV0NEJ4bWx1SW1qNDdhaTBwR0Nobk1ETmJJdlFwQTNXV3JURFBwbEswb0ZndVVtUVhMZU5ZZWZhVFM0WnpSYll2Q252alJ0cnU0SHZySTVudGU5VGhEQmthbVpMZFZJZDRrRDlEQ28wWkIzbXA0RTNrV01LVXZleFJjOC1ncTBXZTVjVnBXV1dVLUFVbFZfdElLaWRLZlZqWXoxeVN0YnNmck9YR2VGaWk1U3VoeFBlT1hrb0preTU3RndXLUVtQ1k0X01ydDJF?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 17:00:00 GMT"
+        "title": "Fed's Williams: Recent rate cut aimed at bolstering job market - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkNObzR4NElkZGQ5MkJDaTFoX0JHX1NTZHJ2Q193VUEtZXNiUDdaSkpWWGhuSkIxRXFaS2wwd2pYZkQ2YVZzdE5FMDBIMVlSUFUtUlp4THVneHY1OXB2R29nclB2M1lpNUdyRUZxQkttakZpb2VmQmJ5emZ6RHFNWlZBVVI4YnFHYkdnZFZMZ212ZEVwUFVTa3pCOEZCNTFBekI5ZEpNcTdwbXdpXzBmQlZfdlMwMWNadVZmVWRmbEZlZDZUZVpRZG93YmU5VkxkQVE?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 19:25:11 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "Electric Vehicle": {
+  "Google": {
     "articles": [
       {
-        "title": "Exclusive: Ford, GM launch programs to extend use of $7,500 EV lease credit - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEZMRVVydHJuTzNuTHBCc2oyU00zaEEyYUVVNC1VcmY2NEc2YWFoNU9QM29CUlp4Sl9VaGRYX3ZvU2VZaHB4QllsMU9XSlpfYVFUN0ppVkNfUVNGNEk1Yk1DeFAycmFZd191X0FEejhWUE5LYWEybXgzdExKRHk1SkdBeFdYVWNsV3d5SEd0Wk9KZnB6eldrU1JhRnVvV0NoT1NxZHBCYWdOUE53VENkNmV0aW85U0RwT0hEOE5R?oc=5",
-        "pubDate": "Tue, 30 Sep 2025 01:25:00 GMT"
+        "title": "Newsom signs bill targeting Google, Meta, OpenAI and Anthropic - SFGATE",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMk9VbjRWLUtmc2hNVWY0Z2R4NUR1YklGWmtRNHI3ZHNMQ2dOcEVwYWdKSGJLRW56TWhGR0JVYmFZRXNvRkFKNVpHWXljYjNsZW82Q1ZaOXBYZ1UxTGRSM3hOcGhGdTJNWkhHUTB0cTJ0cUhNYTRqRDBSOUJ1OW1rOFZERFU?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 22:16:48 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   },
-  "Global Health": {
+  "Outer Space": {
     "articles": [
       {
-        "title": "Lives and economies at risk from weak primary health care in Latin America and the Caribbean: World Bank\u2013PAHO Lancet Regional Health \u2013 Americas Commission report - Pan American Health Organization (PAHO)",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdm1JYVBaTUpyV2ZRTks4eEZxZ3N5ajV4b2s2YjJmV21BOWxDaWRULURhUUd3MTM4emNsVFQ0enVGbU1aeWFFcmVYaHdEeTZiREx0WTY3M0lrcTdIdUhuNHpxRVpFT0I3Y1VZX1BCRTFNRkxib0NEcEl0Y0xiS28wMjZqVnpIWE5ONDBJci1Jb3VXajY1VC1QWWVpS2ZCTmxETTBCQnE3eVFDRkpEemY5MGtMYThPc1l0aVVuNWdfZw?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 18:30:21 GMT"
+        "title": "Astronauts on the moon and Mars: World space leaders lay out visions for an ambitious future - Space",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2h4dFZKOWtzSnNzemFoR2xjbzV3NXRHVExNTjdCMkRUcWdQVG9hSmxDV1JZMUEwaE5wQThxSUtVTDlxRGttcDFUSGdVR2RKcHh2S244ZjlqMldYbUxvN3lJVjRPVmNGVWdjMzVfTy1WNUZTcHZjaENVTXZ1M1M2WmE1QjdwdTZ6eWhzbzh2VGw0WndfWGtnZmJaRV9SVl9FN1BPTHRCQXNtcHBRd0d6ZGdJREg4bVVSWEVCYUZmU3RLUk01VzlzT3JGSQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 21:00:00 GMT"
       }
     ],
-    "last_updated_ts": "2025-09-30T05:02:23.922432+00:00"
+    "last_updated_ts": "2025-09-30T06:59:52.297242+00:00"
   }
 }

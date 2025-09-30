@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Why pomegranates, a Rosh Hashanah staple, are disappearing from Israeli farms - The Times of Israel",
-      "pubDate": "Tue, 23 Sep 2025 06:26:26 GMT"
-    },
-    {
       "title": "France recognises Palestine as a state: A landmark action that infuriates Israel - France 24",
       "pubDate": "Tue, 23 Sep 2025 09:38:19 GMT"
     },
@@ -226,14 +222,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "InTouch: AI Traffic Enforcement Boosts Safety and Compliance in Modern Cities - Parking-Net",
-      "pubDate": "Tue, 23 Sep 2025 06:37:47 GMT"
-    },
-    {
-      "title": "Elon Musk\u2019s Commitment to His A.I. Company After Leaving Washington - Berawang News",
-      "pubDate": "Tue, 23 Sep 2025 05:14:41 GMT"
-    },
     {
       "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
       "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
@@ -561,10 +549,6 @@
       "pubDate": "Tue, 23 Sep 2025 09:00:00 GMT"
     },
     {
-      "title": "The Only Security Guarantee Ukraine Can Trust - Foreign Affairs",
-      "pubDate": "Tue, 23 Sep 2025 06:12:31 GMT"
-    },
-    {
       "title": "Ukraine is ready to export its weapons, like the fearsome sea drones that helped it cripple Russia's Black Sea Fleet - Business Insider",
       "pubDate": "Tue, 23 Sep 2025 14:24:00 GMT"
     },
@@ -707,6 +691,10 @@
     {
       "title": "Ukraine's Zelenskiy proposes joint aerial shield with allies - Reuters",
       "pubDate": "Mon, 29 Sep 2025 10:49:49 GMT"
+    },
+    {
+      "title": "Ukraine said its modified Neptune naval missile was used to blast a Russian factory 150 miles away - Business Insider",
+      "pubDate": "Tue, 30 Sep 2025 06:28:00 GMT"
     }
   ],
   "us_economy": [
@@ -745,13 +733,13 @@
     {
       "title": "Here are the biggest threats to the U.S. economy - TheStreet",
       "pubDate": "Mon, 29 Sep 2025 19:00:22 GMT"
+    },
+    {
+      "title": "Trump imposes new tariffs as warning lights on US economy flash - World Socialist Web Site",
+      "pubDate": "Tue, 30 Sep 2025 01:45:46 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s latest aircraft carrier showcases new fighter jet launch system. Only the US has the same tech - CNN",
-      "pubDate": "Tue, 23 Sep 2025 06:07:23 GMT"
-    },
     {
       "title": "China\u2019s State Banks Shift Dollar-Swap Strategy Amid Yuan Rally - Bloomberg",
       "pubDate": "Tue, 23 Sep 2025 22:30:00 GMT"
@@ -1029,6 +1017,10 @@
     {
       "title": "Why burnout is a growing problem in cybersecurity - BBC",
       "pubDate": "Mon, 29 Sep 2025 23:02:20 GMT"
+    },
+    {
+      "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems - The Hacker News",
+      "pubDate": "Tue, 30 Sep 2025 05:41:00 GMT"
     }
   ],
   "earthquakes": [
@@ -1135,10 +1127,6 @@
     {
       "title": "IonQ jumps after announcing tech breakthrough on interconnecting quantum computers - Sherwood News",
       "pubDate": "Tue, 23 Sep 2025 11:57:34 GMT"
-    },
-    {
-      "title": "Quantum Computing Moves from Theoretical to Inevitable - Bain & Company",
-      "pubDate": "Tue, 23 Sep 2025 05:05:52 GMT"
     },
     {
       "title": "IonQ Demonstrates Quantum Frequency Conversion to Telecom Wavelengths - The Quantum Insider",
@@ -1373,13 +1361,13 @@
     {
       "title": "Hundreds of Israeli soldiers were badly wounded in Gaza. Here's what saved them - NPR",
       "pubDate": "Mon, 29 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Women in Gaza say they were promised food, money or work in exchange for sexual interactions - AP News",
+      "pubDate": "Tue, 30 Sep 2025 04:00:00 GMT"
     }
   ],
   "climate_change": [
-    {
-      "title": "World\u2019s oldest society faces increasing threat from climate crisis - CNN",
-      "pubDate": "Tue, 23 Sep 2025 06:55:54 GMT"
-    },
     {
       "title": "At Climate Week, Chile and the United Kingdom Commit to Ocean-Based Action Plans Ahead of COP30 - Inside Climate News",
       "pubDate": "Tue, 23 Sep 2025 08:45:00 GMT"
@@ -1598,10 +1586,6 @@
     }
   ],
   "electric_vehicle": [
-    {
-      "title": "Porsche shares plunge after announcing EV rollout delay - BBC",
-      "pubDate": "Tue, 23 Sep 2025 06:49:47 GMT"
-    },
     {
       "title": "BYD outsells Tesla in EU for second month, Stellantis returns to sales growth - Reuters",
       "pubDate": "Thu, 25 Sep 2025 04:01:00 GMT"
@@ -1959,6 +1943,10 @@
     {
       "title": "Germany Pledges $41B for Space Defense Against Russia, China - The Defense Post",
       "pubDate": "Sat, 27 Sep 2025 15:19:12 GMT"
+    },
+    {
+      "title": "Astronauts on the moon and Mars: World space leaders lay out visions for an ambitious future - Space",
+      "pubDate": "Mon, 29 Sep 2025 21:00:00 GMT"
     }
   ],
   "brics": [
@@ -2293,6 +2281,10 @@
     {
       "title": "Fed\u2019s Waller Says Technology Can Deliver More Choice in Payments - Bloomberg Law News",
       "pubDate": "Mon, 29 Sep 2025 11:30:00 GMT"
+    },
+    {
+      "title": "Fed's Williams: Recent rate cut aimed at bolstering job market - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 19:25:11 GMT"
     }
   ],
   "solar_power": [
@@ -2327,6 +2319,12 @@
     {
       "title": "Anthropic releases Claude Sonnet 4.5, a model it says can build software and accomplish business tasks autonomously - Fortune",
       "pubDate": "Mon, 29 Sep 2025 17:00:00 GMT"
+    }
+  ],
+  "google": [
+    {
+      "title": "Newsom signs bill targeting Google, Meta, OpenAI and Anthropic - SFGATE",
+      "pubDate": "Mon, 29 Sep 2025 22:16:48 GMT"
     }
   ]
 }
