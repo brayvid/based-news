@@ -192,10 +192,7 @@ def main():
         sys.exit(0)
 
     # 3. Format for HTML and write to file
-    # <-- 2. THIS IS THE FIX -->
-    # Use regex to replace any sequence of one or more newlines with a single <br> tag.
-    # This guarantees there is only one <br> between paragraphs.
-    formatted_html_body = re.sub(r'\n+', '<br>', summary_text)
+    formatted_html_body = re.sub(r'\n+', '<br><br>', summary_text)
     
     timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
     html_output = (
