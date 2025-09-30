@@ -504,6 +504,59 @@ def select_top_candidate_topics(headlines_by_topic: dict, topic_weights: dict, m
     
     return {topic: headlines_by_topic[topic] for topic in top_topics}
      
+def select_smarter_candidate_topics(
+    headlines_by_topic: dict,
+    topic_weights: dict,  # Kept for future use, though currently unused if all are equal
+    keyword_weights: dict,
+    max_topics_to_consider: int
+) -> dict:
+    """
+    Scores topics based on a qualitative analysis of their headlines, factoring in
+    user keywords and penalizing low-quality headline patterns.
+    """
+    topic_scores = defaultdict(float)
+    
+    # Pre-compile regex for efficiency
+    listicle_pattern = re.compile(r'\b(top \d+|\d+ best|\d+ reasons why|how to)\b', re.IGNORECASE)
+
+    for topic, headlines in headlines_by_topic.items():
+        if not headlines:
+            continue
+
+        current_topic_total_score = 0
+        for headline in headlines:
+            headline_score = 1.0  # Base score for every article
+
+            # --- Keyword Bonus ---
+            # Use a set for faster lookups if many keywords
+            for keyword, weight in keyword_weights.items():
+                if keyword.lower() in headline.lower():
+                    headline_score += weight
+
+            # --- Quality Penalties ---
+            if headline.endswith('?'):
+                headline_score -= 2.0
+            
+            if listicle_pattern.search(headline):
+                headline_score -= 2.0
+            
+            # Ensure score doesn't go below a floor (e.g., 0)
+            current_topic_total_score += max(0, headline_score)
+
+        # The topic's final score is the sum of its quality-adjusted headline scores
+        if current_topic_total_score > 0:
+            topic_scores[topic] = current_topic_total_score
+
+    # Sort topics by our new, smarter score
+    sorted_topics = sorted(topic_scores, key=topic_scores.get, reverse=True)
+    
+    top_topics = sorted_topics[:max_topics_to_consider]
+    
+    logging.info(f"Top 5 topics by smart score: {[(t, round(topic_scores[t], 1)) for t in sorted_topics[:5]]}")
+    
+    return {topic: headlines_by_topic[topic] for topic in top_topics}
+
+
 def generate_digest_html_content(digest_data, current_zone):
     """Generates just the HTML string for a digest, without writing to a file."""
     html_parts = []
@@ -822,8 +875,8 @@ def main():
 
         # Stage 2b: Topic Selection Filter (reduces the payload for the AI)
         max_topics_for_gemini = int(CONFIG.get("MAX_TOPICS_FOR_GEMINI", 40))
-        final_candidates_for_gemini = select_top_candidate_topics(
-            stage1_filtered, TOPIC_WEIGHTS, max_topics_for_gemini
+        final_candidates_for_gemini = select_smarter_candidate_topics(
+            stage1_filtered, TOPIC_WEIGHTS, KEYWORD_WEIGHTS, max_topics_for_gemini
         )
         final_candidates_count = sum(len(h) for h in final_candidates_for_gemini.values())
         logging.info(f"Stage 2 filter (topic selection) reduced candidates to {final_candidates_count} headlines across {len(final_candidates_for_gemini)} topics.")
