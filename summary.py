@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import subprocess
 import html
-import re
+import re  # <-- 1. IMPORT THE REGULAR EXPRESSION MODULE
 
 # --- Configuration ---
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
@@ -101,21 +101,17 @@ def generate_summary(digest_content: dict) -> str:
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel(GEMINI_MODEL_NAME)
     
-    formatted_digest = format_digest_for_summary(digest_content)
-    if not formatted_digest:
-        logging.warning("Digest content was empty after formatting. No summary to generate.")
-        return ""
-
-    prompt = (
-        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Ensure there is exactly one <br> separating each paragraph."
-    )
+    # Combine prompt and data into a single request
+    full_prompt = [
+        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Separate paragraphs with a single newline.",
+        "\n---BEGIN HEADLINES---\n",
+        format_digest_for_summary(digest_content),
+        "\n---END HEADLINES---"
+    ]
 
     try:
-        # Updated log message to reflect that grounding is disabled.
         logging.info(f"Sending prompt to Gemini model '{GEMINI_MODEL_NAME}' (Search grounding disabled).")
-        
-        # The 'tools' argument has been removed from the call below to disable grounding.
-        response = model.generate_content(prompt)
+        response = model.generate_content(full_prompt)
         
         if response.text:
             logging.info("Successfully received summary from Gemini.")
@@ -196,7 +192,11 @@ def main():
         sys.exit(0)
 
     # 3. Format for HTML and write to file
+    # <-- 2. THIS IS THE FIX -->
+    # Use regex to replace any sequence of one or more newlines with a single <br> tag.
+    # This guarantees there is only one <br> between paragraphs.
     formatted_html_body = re.sub(r'\n+', '<br>', summary_text)
+    
     timestamp = datetime.now(ZONE).strftime("%A, %d %B %Y %I:%M %p %Z")
     html_output = (
         f"<p>{formatted_html_body}</p>\n"
