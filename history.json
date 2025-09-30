@@ -137,10 +137,6 @@
   ],
   "russia": [
     {
-      "title": "Hungary refuses to stop buying Russian oil despite Trump\u2019s Nato demand - The Guardian",
-      "pubDate": "Tue, 23 Sep 2025 04:01:00 GMT"
-    },
-    {
       "title": "Drones shut Copenhagen Airport in 'serious attack'; NATO weighs tougher Russia action - NBC News",
       "pubDate": "Tue, 23 Sep 2025 11:07:30 GMT"
     },
@@ -223,6 +219,10 @@
     {
       "title": "In the global AI boom, Russia is conspicuously absent - Financial Times",
       "pubDate": "Mon, 29 Sep 2025 15:00:07 GMT"
+    },
+    {
+      "title": "Putin says Russia is prevailing in 'righteous battle' in Ukraine - Reuters",
+      "pubDate": "Mon, 29 Sep 2025 22:03:46 GMT"
     }
   ],
   "ai_safety": [
@@ -397,10 +397,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Crypto hoarders turn to share buybacks in push to boost falling stock prices - Financial Times",
-      "pubDate": "Tue, 23 Sep 2025 04:00:18 GMT"
-    },
-    {
       "title": "What D.E. Shaw\u2019s First Human Fund Says About the Market - Bloomberg",
       "pubDate": "Tue, 23 Sep 2025 12:00:26 GMT"
     },
@@ -443,16 +439,8 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "AI poses questions for the future of digital literacy - thepostathens.com",
-      "pubDate": "Tue, 23 Sep 2025 04:00:00 GMT"
-    },
-    {
       "title": "The hidden environmental cost of generative AI and its toll on climate - USA Today",
       "pubDate": "Tue, 23 Sep 2025 09:06:05 GMT"
-    },
-    {
-      "title": "How Can We Meet AI\u2019s Insatiable Demand for Compute Power? - Bain & Company",
-      "pubDate": "Tue, 23 Sep 2025 04:32:04 GMT"
     },
     {
       "title": "Ford's CEO: America is ignoring the 'essential economy' as AI eats entry-level white-collar jobs - Fortune",
@@ -560,10 +548,6 @@
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine braces for new test as Russia steps up drive to seize Donetsk\u2019s fortress belt - Yahoo",
-      "pubDate": "Tue, 23 Sep 2025 05:01:00 GMT"
-    },
     {
       "title": "Russia Claims NATO Plotting Ukraine \u2018Landing\u2019, Moldova \u2018Occupation\u2019 - Newsweek",
       "pubDate": "Tue, 23 Sep 2025 08:57:00 GMT"
@@ -764,10 +748,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Exclusive: China asks brokers to pause real-world asset business in Hong Kong, sources say - Reuters",
-      "pubDate": "Tue, 23 Sep 2025 04:04:00 GMT"
-    },
     {
       "title": "China\u2019s latest aircraft carrier showcases new fighter jet launch system. Only the US has the same tech - CNN",
       "pubDate": "Tue, 23 Sep 2025 06:07:23 GMT"
@@ -1059,10 +1039,6 @@
   ],
   "cryptocurrency": [
     {
-      "title": "Crypto Traders Bet on Fresh Volatility Post $1.5 Billion Wipeout - Bloomberg",
-      "pubDate": "Tue, 23 Sep 2025 03:15:00 GMT"
-    },
-    {
       "title": "Crypto-Hoarding Firms Face \u2018Death Rattle\u2019 as Prices Fall - PYMNTS.com",
       "pubDate": "Tue, 23 Sep 2025 16:28:03 GMT"
     },
@@ -1095,6 +1071,10 @@
     {
       "title": "Medusa Ransomware Claims Comcast Data Breach, Demands $1.2M - Hack Read",
       "pubDate": "Sun, 28 Sep 2025 23:41:43 GMT"
+    },
+    {
+      "title": "Hackers Stole FEMA, Customs and Border Protection Employee Data - Bloomberg.com",
+      "pubDate": "Mon, 29 Sep 2025 23:07:28 GMT"
     }
   ],
   "fusion_power": [
@@ -1306,10 +1286,6 @@
     }
   ],
   "gaza": [
-    {
-      "title": "More experts see genocide in Israel\u2019s wartime conduct in Gaza - WTOP",
-      "pubDate": "Tue, 23 Sep 2025 04:17:34 GMT"
-    },
     {
       "title": "Trump at UN: Gaza war must end now, Palestinian recognition 'rewards' Oct. 7 attack - Haaretz",
       "pubDate": "Tue, 23 Sep 2025 18:14:00 GMT"
@@ -1645,6 +1621,10 @@
     {
       "title": "The $7,500 Federal EV Tax Credit Ends Tomorrow Night - Kelley Blue Book",
       "pubDate": "Mon, 29 Sep 2025 15:44:50 GMT"
+    },
+    {
+      "title": "Exclusive: Ford, GM launch programs to extend use of $7,500 EV lease credit - Reuters",
+      "pubDate": "Tue, 30 Sep 2025 01:25:00 GMT"
     }
   ],
   "united_states": [
@@ -1871,6 +1851,10 @@
     {
       "title": "Study finds side effects of exposure to plastics during pregnancy widely underestimated: 'One of the biggest global health threats of our time' - The Cool Down",
       "pubDate": "Mon, 29 Sep 2025 00:10:00 GMT"
+    },
+    {
+      "title": "Lives and economies at risk from weak primary health care in Latin America and the Caribbean: World Bank\u2013PAHO Lancet Regional Health \u2013 Americas Commission report - Pan American Health Organization (PAHO)",
+      "pubDate": "Mon, 29 Sep 2025 18:30:21 GMT"
     }
   ],
   "us_supreme_court": [
@@ -2059,6 +2043,10 @@
     {
       "title": "Shutdown staring contest heads to the Oval Office - Politico",
       "pubDate": "Mon, 29 Sep 2025 08:45:00 GMT"
+    },
+    {
+      "title": "Senate CR vote Tuesday - Politico",
+      "pubDate": "Mon, 29 Sep 2025 18:58:00 GMT"
     }
   ],
   "drones": [
@@ -2327,6 +2315,18 @@
     {
       "title": "As data centers gobble up electricity, Big Tech goes all-in on nuclear power - marketplace.org",
       "pubDate": "Mon, 29 Sep 2025 20:26:00 GMT"
+    }
+  ],
+  "nvidia": [
+    {
+      "title": "Huawei to Double Output of Top AI Chip as Nvidia Wavers in China - Bloomberg.com",
+      "pubDate": "Tue, 30 Sep 2025 02:05:00 GMT"
+    }
+  ],
+  "programming": [
+    {
+      "title": "Anthropic releases Claude Sonnet 4.5, a model it says can build software and accomplish business tasks autonomously - Fortune",
+      "pubDate": "Mon, 29 Sep 2025 17:00:00 GMT"
     }
   ]
 }
