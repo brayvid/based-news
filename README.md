@@ -27,7 +27,7 @@ View the live demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 ## Tech Stack
 
 *   **Backend:** Python 3
-*   **AI:** Google Gemini API (`gemini-1.5-flash`)
+*   **AI:** Google Gemini API (`gemini-2.5-flash-lite`)
 *   **Data/NLP:** `requests`, `nltk`
 *   **Frontend:** HTML5, CSS3, Vanilla JavaScript
 *   **Configuration:** Google Sheets (published as CSV)
@@ -142,7 +142,7 @@ horoscope,ban
 | `MAX_ARTICLES_PER_TOPIC` | Maximum number of articles to show per selected topic.                      | `5`                |
 | `DEMOTE_FACTOR`          | Multiplier (0.0 to 1.0) for the importance of headlines with 'demote' terms. The prompt translates this to a qualitative instruction for Gemini. | `0.2`              |
 | `TIMEZONE`               | Timezone for date/time display in the digest (e.g., `America/New_York`).    | `America/New_York` |
-| `GEMINI_MODEL_NAME`      | The specific Gemini model to use for generation.                            | `gemini-1.5-flash-latest` |
+| `GEMINI_MODEL_NAME`      | The specific Gemini model to use for generation.                            | `gemini-2.5-flash-lite` |
 | `MAX_OUTPUT_TOKENS_GEMINI` | Max tokens for Gemini's response.                                           | `8192`             |
 | `TEMPERATURE_GEMINI`     | Creativity level for Gemini (0.0-1.0). Lower is more deterministic.         | `0.3`              |
 | `TOP_P_GEMINI`           | Nucleus sampling parameter for Gemini.                                      | `0.9`              |
