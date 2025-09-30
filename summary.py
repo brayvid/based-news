@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import subprocess
 import html
-import re  # <-- 1. IMPORT THE REGULAR EXPRESSION MODULE
+import re
 
 # --- Configuration ---
 CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
@@ -81,16 +81,30 @@ except Exception:
     ZONE = ZoneInfo("America/New_York")
     logging.warning(f"Invalid TIMEZONE. Falling back to '{ZONE}'.")
 
+# --- START: SCRIPT FIX ---
 def format_digest_for_summary(data):
-    """Formats the content.json structure for the LLM prompt."""
+    """Formats the history.json structure for the LLM prompt, including dates."""
     parts = []
-    for topic, content in data.items():
-        articles = content
+    for topic, articles in data.items():
         if articles:
             parts.append(f"### {html.unescape(topic)}")
             for article in articles:
-                parts.append(f"- {html.unescape(article['title'])}")
+                # Use the correct key 'pubDate'
+                date_str = article.get("pubDate", "")
+                formatted_date = ""
+                if date_str:
+                    try:
+                        # Parse the specific date format: "Tue, 23 Sep 2025 19:41:15 GMT"
+                        dt_obj = datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S %Z")
+                        formatted_date = dt_obj.strftime("%Y-%m-%d")
+                    except ValueError:
+                        logging.warning(f"Could not parse date: {date_str}")
+                        formatted_date = "" # Fallback to empty if format is wrong
+
+                title = html.unescape(article.get('title', 'No Title'))
+                parts.append(f"- {formatted_date} - {title}")
     return "\n".join(parts)
+# --- END: SCRIPT FIX ---
 
 def generate_summary(digest_content: dict) -> str:
     """Generates a summary from the digest content using Gemini."""
@@ -101,9 +115,18 @@ def generate_summary(digest_content: dict) -> str:
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel(GEMINI_MODEL_NAME)
     
+    # Updated prompt to guide the model on using the provided dates
+    prompt = (
+        "Give a brief report on how the world has been doing lately based on the attached headlines. Use the dates provided with each headline to correctly identify the timeframe of your report (e.g., 'In late September 2025'). "
+        "Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points, section headings, or any markdown formatting. Use only complete sentences. "
+        "Don't state that it's a report, simply present the findings. "
+        "At the end, in a separate paragraph of about 50 words, use all available clues to predict what will likely occur in the near future, what is less likely but still possible, and the potential ramifications. "
+        "Separate paragraphs with a single newline."
+    )
+
     # Combine prompt and data into a single request
     full_prompt = [
-        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Separate paragraphs with a single newline.",
+        prompt,
         "\n---BEGIN HEADLINES---\n",
         format_digest_for_summary(digest_content),
         "\n---END HEADLINES---"
