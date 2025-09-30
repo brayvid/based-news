@@ -72,7 +72,6 @@ if CONFIG is None:
     logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
     sys.exit(1)
 
-# This now correctly defaults to the required model.
 GEMINI_MODEL_NAME = CONFIG.get("SUMMARY_GEMINI_MODEL_NAME", "gemini-2.5-pro")
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
@@ -107,23 +106,15 @@ def generate_summary(digest_content: dict) -> str:
         return ""
 
     prompt = (
-        "You are a news analyst. Based on the following headlines from the last 24 hours, provide a concise briefing.\n"
-        "Your task has two parts:\n"
-        "1.  **Executive Summary:** In a single, fluid paragraph (around 100-125 words), synthesize the most significant global and national events. Identify the key players, locations, and the core issues. Do not use markdown or bullet points. Ensure your analysis is factually grounded by using Google Search to verify details inferred from the headlines.\n"
-        "2.  **Outlook:** In a separate, shorter paragraph (around 50 words), provide a brief, forward-looking statement. Based on the events, what are the most likely immediate consequences or developments to watch for?\n\n"
-        "---BEGIN HEADLINES---\n"
-        f"{formatted_digest}\n"
-        "---END HEADLINES---"
+        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
     )
 
     try:
-        logging.info(f"Sending prompt to Gemini model '{GEMINI_MODEL_NAME}' with Google Search grounding enabled...")
+        # Updated log message to reflect that grounding is disabled.
+        logging.info(f"Sending prompt to Gemini model '{GEMINI_MODEL_NAME}' (Search grounding disabled).")
         
-        # This is the correct, modern syntax required for gemini-2.5-pro.
-        # It will work after you upgrade the google-generativeai library.
-        tools = [genai.types.Tool(google_search={})]
-        
-        response = model.generate_content(prompt, tools=tools)
+        # The 'tools' argument has been removed from the call below to disable grounding.
+        response = model.generate_content(prompt)
         
         if response.text:
             logging.info("Successfully received summary from Gemini.")
