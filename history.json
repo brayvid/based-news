@@ -1,10 +1,6 @@
 {
   "israel": [
     {
-      "title": "Israel Can No Longer Wish Palestine Away - Foreign Affairs",
-      "pubDate": "Tue, 23 Sep 2025 13:16:14 GMT"
-    },
-    {
       "title": "Israel shuts crossing that connects occupied West Bank to Jordan - Al Jazeera",
       "pubDate": "Tue, 23 Sep 2025 16:58:27 GMT"
     },
@@ -70,10 +66,6 @@
     }
   ],
   "donald_trump": [
-    {
-      "title": "Trump to address world leaders at United Nations today - CBS News",
-      "pubDate": "Tue, 23 Sep 2025 13:20:00 GMT"
-    },
     {
       "title": "Would-be Trump assassin tries to stab himself in neck after guilty verdict - CNN",
       "pubDate": "Tue, 23 Sep 2025 18:34:49 GMT"
@@ -337,6 +329,10 @@
     {
       "title": "Newsom Signs First-in-US AI Safety Disclosure Requirements - Bloomberg Law News",
       "pubDate": "Mon, 29 Sep 2025 20:22:00 GMT"
+    },
+    {
+      "title": "What California\u2019s First AI Safety Law Means for OpenAI, Meta, and Google - convergence-now.com",
+      "pubDate": "Tue, 30 Sep 2025 12:08:52 GMT"
     }
   ],
   "financial_markets": [
@@ -477,13 +473,13 @@
     {
       "title": "Artificial intelligence may not be artificial - Harvard Gazette",
       "pubDate": "Mon, 29 Sep 2025 20:17:04 GMT"
+    },
+    {
+      "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up - The New York Times",
+      "pubDate": "Tue, 30 Sep 2025 09:03:06 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine is ready to export its weapons, like the fearsome sea drones that helped it cripple Russia's Black Sea Fleet - Business Insider",
-      "pubDate": "Tue, 23 Sep 2025 14:24:00 GMT"
-    },
     {
       "title": "Trump assails allies over migration, energy and Ukraine - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 17:42:29 GMT"
@@ -491,10 +487,6 @@
     {
       "title": "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion - The Guardian",
       "pubDate": "Tue, 23 Sep 2025 19:46:00 GMT"
-    },
-    {
-      "title": "Military Intelligence blows up occupation supply bridge in Belgorod region - Interfax-Ukraine",
-      "pubDate": "Tue, 23 Sep 2025 14:33:34 GMT"
     },
     {
       "title": "Trump, in major shift, suggests Ukraine can win back territory long held by Russia - NPR",
@@ -735,10 +727,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump cancels meeting with top Democrats as shutdown looms - Axios",
-      "pubDate": "Tue, 23 Sep 2025 14:19:35 GMT"
-    },
-    {
       "title": "Ted Cruz Plays the Long Game by Defending Jimmy Kimmel - Politico",
       "pubDate": "Tue, 23 Sep 2025 17:06:09 GMT"
     },
@@ -925,12 +913,20 @@
     {
       "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems - The Hacker News",
       "pubDate": "Tue, 30 Sep 2025 05:41:00 GMT"
+    },
+    {
+      "title": "Talent Shortage: AI-Driven Cybersecurity Requires Skilled Human Oversight - Cybercrime Magazine",
+      "pubDate": "Tue, 30 Sep 2025 12:46:33 GMT"
     }
   ],
   "earthquakes": [
     {
       "title": "How damaging can an earthquake near me be? Map shows threat level across California - The Desert Sun",
       "pubDate": "Tue, 23 Sep 2025 21:01:55 GMT"
+    },
+    {
+      "title": "Strong earthquake strikes Central Philippines - CNN",
+      "pubDate": "Tue, 30 Sep 2025 14:26:48 GMT"
     }
   ],
   "cryptocurrency": [
@@ -1013,13 +1009,13 @@
     {
       "title": "Scientists make key breakthrough in effort to reproduce the sun's power: 'Can we help lead the world?' - The Cool Down",
       "pubDate": "Mon, 29 Sep 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Inside Zap: Seattle-area company tries to build \u2018a star in a jar\u2019 to unlock abundant clean energy - GeekWire",
+      "pubDate": "Tue, 30 Sep 2025 12:00:00 GMT"
     }
   ],
   "quantum_computing": [
-    {
-      "title": "LUMI-Q Consortium Inaugurates VLQ Quantum Computer at IT4Innovations Supercomputing Center - Quantum Computing Report",
-      "pubDate": "Tue, 23 Sep 2025 13:39:00 GMT"
-    },
     {
       "title": "Trumps PQC Push Could Boost IBM, Google, NVIDIA & Quantum Pure Plays - TradingView",
       "pubDate": "Tue, 23 Sep 2025 19:00:00 GMT"
@@ -1637,6 +1633,10 @@
     {
       "title": "GenAI is democratising algo trading, but experts warn on quality and regulation risks - Moneycontrol",
       "pubDate": "Wed, 24 Sep 2025 05:17:04 GMT"
+    },
+    {
+      "title": "India extends timeline to roll out algo trading for retail investors - Reuters",
+      "pubDate": "Tue, 30 Sep 2025 12:49:11 GMT"
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
@@ -2111,6 +2111,10 @@
     {
       "title": "Genmab to Buy Cancer-Treatment Developer Merus For $8 Billion in Cash - The Wall Street Journal",
       "pubDate": "Mon, 29 Sep 2025 06:26:00 GMT"
+    },
+    {
+      "title": "Belly fat linked to higher risk of 3 cancers - MedicalNewsToday",
+      "pubDate": "Tue, 30 Sep 2025 09:27:57 GMT"
     }
   ],
   "military_and_defense": [
