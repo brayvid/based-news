@@ -72,7 +72,7 @@ if CONFIG is None:
     logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
     sys.exit(1)
 
-GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash-lite")
+GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash")
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
     ZONE = ZoneInfo(USER_TIMEZONE)
