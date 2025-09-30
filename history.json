@@ -231,10 +231,6 @@
       "pubDate": "Tue, 23 Sep 2025 06:37:47 GMT"
     },
     {
-      "title": "Ohio launches Safeguard Ohio app to enhance safety with AI-powered threat reporting system - WKEF",
-      "pubDate": "Tue, 23 Sep 2025 01:07:06 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s Commitment to His A.I. Company After Leaving Washington - Berawang News",
       "pubDate": "Tue, 23 Sep 2025 05:14:41 GMT"
     },
@@ -393,13 +389,13 @@
     {
       "title": "ETIH EdTech News: OpenAI partners with AARP and OATS on AI safety for older adults - EdTech Innovation Hub",
       "pubDate": "Mon, 29 Sep 2025 05:30:00 GMT"
+    },
+    {
+      "title": "Newsom Signs First-in-US AI Safety Disclosure Requirements - Bloomberg Law News",
+      "pubDate": "Mon, 29 Sep 2025 20:22:00 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Asia stocks ride the AI rush, gold hits another peak - Reuters",
-      "pubDate": "Tue, 23 Sep 2025 02:02:00 GMT"
-    },
     {
       "title": "Crypto hoarders turn to share buybacks in push to boost falling stock prices - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 04:00:18 GMT"
@@ -446,10 +442,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "These AI Stocks are Spiking and OpenAI could be the first Trillion Dollar IPO - MSN",
-      "pubDate": "Tue, 23 Sep 2025 01:19:41 GMT"
-    },
     {
       "title": "AI poses questions for the future of digital literacy - thepostathens.com",
       "pubDate": "Tue, 23 Sep 2025 04:00:00 GMT"
@@ -773,10 +765,6 @@
   ],
   "china": [
     {
-      "title": "For China, TikTok becomes bargaining chip amid tensions with US - Al Jazeera",
-      "pubDate": "Tue, 23 Sep 2025 02:17:58 GMT"
-    },
-    {
       "title": "Exclusive: China asks brokers to pause real-world asset business in Hong Kong, sources say - Reuters",
       "pubDate": "Tue, 23 Sep 2025 04:04:00 GMT"
     },
@@ -1057,6 +1045,10 @@
     {
       "title": "Canada's WestJet says some passenger data exposed in cybersecurity breach - Yahoo",
       "pubDate": "Mon, 29 Sep 2025 14:20:15 GMT"
+    },
+    {
+      "title": "Why burnout is a growing problem in cybersecurity - BBC",
+      "pubDate": "Mon, 29 Sep 2025 23:02:20 GMT"
     }
   ],
   "earthquakes": [
@@ -1649,6 +1641,10 @@
     {
       "title": "Electric vehicle catches fire in Littleton shopping center parking lot, businesses evacuated - KDVR",
       "pubDate": "Sun, 28 Sep 2025 19:01:06 GMT"
+    },
+    {
+      "title": "The $7,500 Federal EV Tax Credit Ends Tomorrow Night - Kelley Blue Book",
+      "pubDate": "Mon, 29 Sep 2025 15:44:50 GMT"
     }
   ],
   "united_states": [
@@ -1969,6 +1965,10 @@
     {
       "title": "Germany provides nearly $14 billion for climate financing in 2024 - Reuters",
       "pubDate": "Mon, 29 Sep 2025 06:17:00 GMT"
+    },
+    {
+      "title": "World\u2019s major cities hit by 25% leap in extremely hot days since the 1990s - The Guardian",
+      "pubDate": "Tue, 30 Sep 2025 00:31:48 GMT"
     }
   ],
   "outer_space": [
@@ -2101,6 +2101,10 @@
     {
       "title": "Trump's moves to consolidate power, punish enemies draw comparisons to places where democracy faded - AP News",
       "pubDate": "Sun, 28 Sep 2025 04:03:00 GMT"
+    },
+    {
+      "title": "Democracy activist Nathan Law denied entry to Singapore - Financial Times",
+      "pubDate": "Mon, 29 Sep 2025 15:55:23 GMT"
     }
   ],
   "renewable_energy": [
@@ -2217,6 +2221,10 @@
     {
       "title": "Japan Just Built a Plasma Thruster That Hits Record Power to Destroy Space Junk - The Daily Galaxy",
       "pubDate": "Mon, 29 Sep 2025 13:45:00 GMT"
+    },
+    {
+      "title": "Firefly Aerospace's Alpha rocket explodes during preflight test - Space",
+      "pubDate": "Mon, 29 Sep 2025 20:59:05 GMT"
     }
   ],
   "republican_party": [
@@ -2313,6 +2321,12 @@
     {
       "title": "Internet shutdowns rise as some African states crackdown on dissent - https-//www.semafor.com",
       "pubDate": "Mon, 29 Sep 2025 12:46:00 GMT"
+    }
+  ],
+  "big_data": [
+    {
+      "title": "As data centers gobble up electricity, Big Tech goes all-in on nuclear power - marketplace.org",
+      "pubDate": "Mon, 29 Sep 2025 20:26:00 GMT"
     }
   ]
 }
