@@ -38,7 +38,7 @@ try:
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY environment variable not set.")
     genai.configure(api_key=GEMINI_API_KEY)
-    GEMINI_MODEL_NAME = "gemini-2.5-flash-lite"
+    GEMINI_MODEL_NAME = "gemini-2.5-flash"
     GENERATION_CONFIG = {"temperature": 0.2, "response_mime_type": "application/json"}
     SAFETY_SETTINGS = [
         {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_ONLY_HIGH"},

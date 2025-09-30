@@ -27,7 +27,7 @@ View the live demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 ## Tech Stack
 
 *   **Backend:** Python 3
-*   **AI:** Google Gemini API (`gemini-2.5-flash-lite`)
+*   **AI:** Google Gemini API (`gemini-2.5-flash`)
 *   **Data/NLP:** `requests`, `nltk`
 *   **Frontend:** HTML5, CSS3, Vanilla JavaScript
 *   **Configuration:** Google Sheets (published as CSV)
