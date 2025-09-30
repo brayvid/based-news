@@ -195,20 +195,12 @@
       "pubDate": "Tue, 23 Sep 2025 16:52:24 GMT"
     },
     {
-      "title": "Axon to acquire AI-powered 911 communications company Prepared, strengthening the public safety ecosystem from call to closure - PR Newswire",
-      "pubDate": "Tue, 23 Sep 2025 15:15:00 GMT"
-    },
-    {
       "title": "Why China Hawks Love Talking About AI - Foreign Policy",
       "pubDate": "Tue, 23 Sep 2025 17:41:30 GMT"
     },
     {
       "title": "Sam Altman wants to build 1 gigawatt of 'AI infrastructure' a week \u2014 enough to power 876,000 households a year - Business Insider",
       "pubDate": "Tue, 23 Sep 2025 22:40:00 GMT"
-    },
-    {
-      "title": "Samsara expands AI safety platform with new tools for fleet managers - Investing.com",
-      "pubDate": "Tue, 23 Sep 2025 15:10:39 GMT"
     },
     {
       "title": "Stakeholders call for AI safety at UK summit - Vanguard News",
@@ -477,6 +469,10 @@
     {
       "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up - The New York Times",
       "pubDate": "Tue, 30 Sep 2025 09:03:06 GMT"
+    },
+    {
+      "title": "IMESD learns to teach artificial intelligence - Elkhorn Media Group",
+      "pubDate": "Tue, 30 Sep 2025 13:41:22 GMT"
     }
   ],
   "ukraine": [
@@ -1249,10 +1245,6 @@
   ],
   "climate_change": [
     {
-      "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
-      "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
-    },
-    {
       "title": "Windmills, wars and marble floors: 10 topics Trump hit in meandering UN speech - Axios",
       "pubDate": "Tue, 23 Sep 2025 18:40:53 GMT"
     },
@@ -1489,6 +1481,10 @@
     {
       "title": "Oracle to control Tik Tok US algorithm - news8000.com",
       "pubDate": "Tue, 23 Sep 2025 20:13:05 GMT"
+    },
+    {
+      "title": "New Algorithm Renders Planes, Drones Invisible - Mirage News",
+      "pubDate": "Tue, 30 Sep 2025 09:20:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1505,6 +1501,10 @@
     {
       "title": "Oman selects developers for 500 MW solar-plus-storage project - pv magazine International",
       "pubDate": "Wed, 24 Sep 2025 12:15:10 GMT"
+    },
+    {
+      "title": "New rocket fuel compound packs 150% more energy - ScienceDaily",
+      "pubDate": "Tue, 30 Sep 2025 14:50:14 GMT"
     }
   ],
   "fbi": [
@@ -1593,6 +1593,10 @@
     {
       "title": "Humberto strengthens to Category 5 in the Atlantic. Maps show its forecast path. - WTOP",
       "pubDate": "Sat, 27 Sep 2025 18:40:48 GMT"
+    },
+    {
+      "title": "Hurricane Imelda forms in the Atlantic Ocean - NewsNation",
+      "pubDate": "Tue, 30 Sep 2025 12:21:06 GMT"
     }
   ],
   "hacking": [
@@ -1621,6 +1625,10 @@
     {
       "title": "\"NASA Just Called Emergency Meeting\": Scientist Reveals Asteroid Will Smash Moon In Eight Years While Agency Considers Nuclear Strike - Visegr\u00e1d Post",
       "pubDate": "Sat, 27 Sep 2025 16:56:15 GMT"
+    },
+    {
+      "title": "NASA confirms 54-foot asteroid to pass near Earth, poses no threat - CNBC TV18",
+      "pubDate": "Tue, 30 Sep 2025 09:41:36 GMT"
     }
   ],
   "nuclear_power": [
@@ -2201,6 +2209,18 @@
     {
       "title": "SpaceX targeting Oct. 13 for next Starship megarocket launch - Space",
       "pubDate": "Tue, 30 Sep 2025 08:29:52 GMT"
+    }
+  ],
+  "amazon": [
+    {
+      "title": "Amazon announces new Kindle Scribes including one with a color screen - The Verge",
+      "pubDate": "Tue, 30 Sep 2025 14:43:55 GMT"
+    }
+  ],
+  "astronomy": [
+    {
+      "title": "First Stars Appeared in a 'Pre-Heated' Universe, Says Surprising Study - ScienceAlert",
+      "pubDate": "Tue, 30 Sep 2025 13:04:52 GMT"
     }
   ]
 }
