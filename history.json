@@ -183,16 +183,16 @@
     {
       "title": "Russia\u2019s Military Budget Shrinks as War Costs Hit Kremlin\u2019s Economic Limits - The New York Times",
       "pubDate": "Tue, 30 Sep 2025 12:56:53 GMT"
+    },
+    {
+      "title": "Europe \u2018No Longer At Peace\u2019 With Russia: German Chancellor - Newsweek",
+      "pubDate": "Tue, 30 Sep 2025 12:12:00 GMT"
     }
   ],
   "ai_safety": [
     {
       "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
       "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
-    },
-    {
-      "title": "Cloudflare Confidence Scorecards - making AI safer for the Internet - The Cloudflare Blog",
-      "pubDate": "Tue, 23 Sep 2025 15:39:26 GMT"
     },
     {
       "title": "Great Neck parents fear for children\u2019s safety on AI-generated bus routes - LI Press",
@@ -332,10 +332,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock Market Today: Dow Futures Steady Ahead of Fed Chair Powell's Comments \u2014 Live Updates - The Wall Street Journal",
-      "pubDate": "Tue, 23 Sep 2025 15:42:00 GMT"
-    },
     {
       "title": "Fed Chief Powell says stock prices appear 'fairly highly valued' - CNBC",
       "pubDate": "Tue, 23 Sep 2025 17:05:19 GMT"
@@ -481,6 +477,10 @@
     {
       "title": "With therapy hard to get, people lean on AI for mental health. What are the risks? - NPR",
       "pubDate": "Tue, 30 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "My petty gripe: not only am I losing my livelihood to AI \u2013 now it\u2019s stealing my em dashes too - The Guardian",
+      "pubDate": "Tue, 30 Sep 2025 15:02:00 GMT"
     }
   ],
   "ukraine": [
@@ -821,6 +821,10 @@
     {
       "title": "Donald Trump addresses military leaders as Pete Hegseth declares war on diversity efforts \u2013 US politics live - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 09:54:00 GMT"
+    },
+    {
+      "title": "Firing allowed, training is not: Trump administration shares shutdown plans - Reuters",
+      "pubDate": "Tue, 30 Sep 2025 14:14:53 GMT"
     }
   ],
   "north_korea": [
@@ -925,6 +929,10 @@
     {
       "title": "Talent Shortage: AI-Driven Cybersecurity Requires Skilled Human Oversight - Cybercrime Magazine",
       "pubDate": "Tue, 30 Sep 2025 12:46:33 GMT"
+    },
+    {
+      "title": "Cybersecurity Course Bundle on Sale - Mashable",
+      "pubDate": "Tue, 30 Sep 2025 14:50:26 GMT"
     }
   ],
   "earthquakes": [
@@ -1415,6 +1423,10 @@
     {
       "title": "Schwarzenegger: \u2018Catholic Church a powerhouse for environmental activism\u2019 - Vatican News",
       "pubDate": "Tue, 30 Sep 2025 12:39:20 GMT"
+    },
+    {
+      "title": "4 Foods Climate Change May Wipe Out - Earth Day",
+      "pubDate": "Tue, 30 Sep 2025 13:49:48 GMT"
     }
   ],
   "world_news": [
@@ -1425,6 +1437,10 @@
     {
       "title": "At least 17 killed in Gaza Strip as leaders ramp up pressure for a ceasefire - The Hill",
       "pubDate": "Thu, 25 Sep 2025 10:53:00 GMT"
+    },
+    {
+      "title": "Trump gives Hamas \u2018three or four days\u2019 to respond to Gaza peace plan or face \u2018a very sad end\u2019 \u2013 live - The Guardian",
+      "pubDate": "Tue, 30 Sep 2025 06:43:00 GMT"
     }
   ],
   "geopolitics": [
@@ -2249,6 +2265,12 @@
     {
       "title": "First Stars Appeared in a 'Pre-Heated' Universe, Says Surprising Study - ScienceAlert",
       "pubDate": "Tue, 30 Sep 2025 13:04:52 GMT"
+    }
+  ],
+  "energy_storage": [
+    {
+      "title": "New Sodium Battery Design Works Even at Subzero Temperatures - SciTechDaily",
+      "pubDate": "Tue, 30 Sep 2025 08:17:00 GMT"
     }
   ]
 }
