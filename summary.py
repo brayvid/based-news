@@ -85,7 +85,7 @@ def format_digest_for_summary(data):
     """Formats the content.json structure for the LLM prompt."""
     parts = []
     for topic, content in data.items():
-        articles = content.get("articles", [])
+        articles = content
         if articles:
             parts.append(f"### {html.unescape(topic)}")
             for article in articles:
