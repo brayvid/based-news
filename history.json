@@ -389,10 +389,6 @@
       "pubDate": "Tue, 23 Sep 2025 12:00:26 GMT"
     },
     {
-      "title": "How Argentina\u2019s Javier Milei lost the markets and turned to Donald Trump - Financial Times",
-      "pubDate": "Tue, 23 Sep 2025 07:02:07 GMT"
-    },
-    {
       "title": "Stock Market Today: Dow Futures Steady Ahead of Fed Chair Powell's Comments \u2014 Live Updates - The Wall Street Journal",
       "pubDate": "Tue, 23 Sep 2025 15:42:00 GMT"
     },
@@ -537,16 +533,8 @@
   ],
   "ukraine": [
     {
-      "title": "Russia Claims NATO Plotting Ukraine \u2018Landing\u2019, Moldova \u2018Occupation\u2019 - Newsweek",
-      "pubDate": "Tue, 23 Sep 2025 08:57:00 GMT"
-    },
-    {
       "title": "Unexploded Russian bombs contaminate Ukraine's farmland while climate change worsens the damage - Milwaukee Independent",
       "pubDate": "Tue, 23 Sep 2025 10:01:24 GMT"
-    },
-    {
-      "title": "How to reintegrate over a million veterans? Groups in Ukraine are working on it - NPR",
-      "pubDate": "Tue, 23 Sep 2025 09:00:00 GMT"
     },
     {
       "title": "Ukraine is ready to export its weapons, like the fearsome sea drones that helped it cripple Russia's Black Sea Fleet - Business Insider",
@@ -1369,10 +1357,6 @@
   ],
   "climate_change": [
     {
-      "title": "At Climate Week, Chile and the United Kingdom Commit to Ocean-Based Action Plans Ahead of COP30 - Inside Climate News",
-      "pubDate": "Tue, 23 Sep 2025 08:45:00 GMT"
-    },
-    {
       "title": "The Gap Between Climate Targets and Fossil Fuel Production Is Wider Than Ever - Sierra Club",
       "pubDate": "Tue, 23 Sep 2025 09:11:15 GMT"
     },
@@ -1385,16 +1369,8 @@
       "pubDate": "Tue, 23 Sep 2025 11:02:00 GMT"
     },
     {
-      "title": "Trump\u2019s allies still waiting for him to land his hardest climate blow - Politico",
-      "pubDate": "Tue, 23 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "The ICJ\u2019s Advisory Opinion on Climate Change: Does It Throw a Wrench into the Negotiator\u2019s Toolbox of Diplomatic Problem-Solving Techniques? - EJIL: Talk!",
       "pubDate": "Tue, 23 Sep 2025 12:07:39 GMT"
-    },
-    {
-      "title": "'Don't believe the doomsters' on climate action, says UK's Miliband - Reuters",
-      "pubDate": "Tue, 23 Sep 2025 08:00:23 GMT"
     },
     {
       "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
@@ -1937,6 +1913,10 @@
     {
       "title": "World\u2019s major cities hit by 25% leap in extremely hot days since the 1990s - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 00:31:48 GMT"
+    },
+    {
+      "title": "EU will have new climate targets by COP30 summit, von der Leyen says - Reuters",
+      "pubDate": "Tue, 30 Sep 2025 08:33:22 GMT"
     }
   ],
   "outer_space": [
@@ -2103,6 +2083,10 @@
     {
       "title": "Trade negotiations between the U.S. and China have stalled, escalating into a \"bean war.\"According t.. - \ub9e4\uc77c\uacbd\uc81c",
       "pubDate": "Sun, 28 Sep 2025 05:21:34 GMT"
+    },
+    {
+      "title": "Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture - CTV News",
+      "pubDate": "Tue, 30 Sep 2025 01:54:00 GMT"
     }
   ],
   "infrastructure": [
@@ -2175,6 +2159,10 @@
     {
       "title": "Caltech Builds World\u2019s Largest Neutral-Atom Quantum Computer - Decrypt",
       "pubDate": "Sun, 28 Sep 2025 18:01:03 GMT"
+    },
+    {
+      "title": "Cisco unveils software to accelerate quantum networks - Computer Weekly",
+      "pubDate": "Tue, 30 Sep 2025 08:43:23 GMT"
     }
   ],
   "hurricanes": [
@@ -2325,6 +2313,18 @@
     {
       "title": "Newsom signs bill targeting Google, Meta, OpenAI and Anthropic - SFGATE",
       "pubDate": "Mon, 29 Sep 2025 22:16:48 GMT"
+    }
+  ],
+  "bitcoin": [
+    {
+      "title": "Chinese woman convicted in UK after 'world's biggest' bitcoin seizure - BBC",
+      "pubDate": "Tue, 30 Sep 2025 07:37:28 GMT"
+    }
+  ],
+  "spacex": [
+    {
+      "title": "SpaceX targeting Oct. 13 for next Starship megarocket launch - Space",
+      "pubDate": "Tue, 30 Sep 2025 08:29:52 GMT"
     }
   ]
 }
