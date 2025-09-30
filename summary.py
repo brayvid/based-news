@@ -72,7 +72,7 @@ if CONFIG is None:
     logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
     sys.exit(1)
 
-GEMINI_MODEL_NAME = "gemini-2.5-pro"
+GEMINI_MODEL_NAME = CONFIG.get("SUMMARY_GEMINI_MODEL_NAME", "gemini-2.5-pro")
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
     ZONE = ZoneInfo(USER_TIMEZONE)
@@ -118,7 +118,7 @@ def generate_summary(digest_content: dict) -> str:
 
     try:
         logging.info("Sending prompt to Gemini with Google Search grounding enabled...")
-        tools = [genai.types.Tool(google_search_retrieval={})]
+        tools = [genai.types.Tool(google_search={})]
         response = model.generate_content(prompt, tools=tools)
         
         if response.text:
