@@ -106,7 +106,7 @@ def generate_summary(digest_content: dict) -> str:
         return ""
 
     prompt = (
-        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
+        "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications. Ensure there is exactly one <br> separating each paragraph."
     )
 
     try:
