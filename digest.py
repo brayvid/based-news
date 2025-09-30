@@ -472,16 +472,14 @@ def prioritize_with_gemini(
         "-   Headlines phrased as questions or listicles (e.g., \"Is X the future?\", \"7 Reasons Why...\").\n\n"
         "**B. Content to STRONGLY DE-PRIORITIZE:**\n"
         "-   Headlines containing 'demoted_terms' from User Preferences. Treat their importance as nearly zero. Only include if the story is exceptionally significant despite the term.\n\n"
-        "**STEP 4: FINAL SELECTION, SORTING, & TOOL CALL**\n"
+        "**STEP 4: FINAL SELECTION & CRITICAL SORTING FOR TOOL CALL**\n"
         "1.  From the final, fully-filtered pool of high-quality headlines, select your final choices, respecting the limits: "
         f"max **{MAX_TOPICS} topics** and max **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
-        "2.  **Topic Ordering Algorithm (Follow Precisely):**\n"
-        "    a. First, mentally score all selected headlines based on a combination of `User Preferences` and objective news importance.\n"
-        "    b. Identify the single highest-scoring headline overall. The topic this headline belongs to MUST be the first topic in your output.\n"
-        "    c. Then, find the highest-scoring headline from any of the *remaining* topics. That headline's topic MUST be the second topic in your output.\n"
-        "    d. Continue this process until all selected topics are ordered.\n"
-        "3.  **Headline Ordering:** Within each topic, order the headlines from most to least newsworthy (if there is more than one).\n"
-        "4.  Call the `format_digest_selection` tool with your final, sorted list. This is your only output."
+        "2.  **FINAL SORTING RULES (MANDATORY):**\n"
+        "    - **Topic Order:** The final list of topics you return MUST be sorted by importance, NOT alphabetically. To do this, find the single most important headline overall; its topic is #1. Then, find the most important headline from the *remaining* topics; its topic is #2. Continue this process until all topics are ordered.\n"
+        "    - ***CRITICAL WARNING: DO NOT SORT TOPICS ALPHABETICALLY.*** Sorting MUST follow the importance-based method described above.\n"
+        "    - **Headline Order:** Within each topic, sort its headlines from most to least important.\n"
+        "3.  Call the `format_digest_selection` tool with your final, importance-sorted data. This is your only output."
     )
 
     logging.info("Sending request to Gemini for prioritization with history.")
