@@ -171,10 +171,6 @@
   ],
   "ai_safety": [
     {
-      "title": "DeepSeek Reveals AI Safety Risks in Landmark Study - Security Boulevard",
-      "pubDate": "Wed, 24 Sep 2025 08:53:24 GMT"
-    },
-    {
       "title": "AI safety tool sparks student backlash after flagging art as porn, deleting emails - The Washington Post",
       "pubDate": "Wed, 24 Sep 2025 10:20:31 GMT"
     },
@@ -193,10 +189,6 @@
     {
       "title": "The boy who cried AI - Cybernews",
       "pubDate": "Wed, 24 Sep 2025 12:00:52 GMT"
-    },
-    {
-      "title": "Sea Otter Awareness Week, advocates urge Newsom to sign AI chatbot safety bill - 90.3 KAZU",
-      "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
     },
     {
       "title": "AI safety tool flags student activity, spurs debate on privacy and accuracy - Straight Arrow News",
@@ -307,10 +299,6 @@
       "pubDate": "Wed, 24 Sep 2025 13:58:00 GMT"
     },
     {
-      "title": "Private health insurers use AI to approve or deny care. Soon Medicare will, too. - NBC News",
-      "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "AI can now pass the hardest level of the CFA exam in a matter of minutes - CNBC",
       "pubDate": "Wed, 24 Sep 2025 12:28:40 GMT"
     },
@@ -405,10 +393,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine's drones again attack Russia's major petrochemical complex - Reuters",
-      "pubDate": "Wed, 24 Sep 2025 06:48:00 GMT"
-    },
-    {
       "title": "Russia hits back at Trump after his abrupt swing toward Ukraine - The Washington Post",
       "pubDate": "Wed, 24 Sep 2025 10:20:27 GMT"
     },
@@ -419,10 +403,6 @@
     {
       "title": "Can Ukraine now win the war? | Join live Michael Clarke Q&A - Sky News",
       "pubDate": "Wed, 24 Sep 2025 12:49:57 GMT"
-    },
-    {
-      "title": "\u2018Ukraine is only the first\u2019, Zelenskyy warns UN as he highlights global threats \u2013 Europe live - The Guardian",
-      "pubDate": "Wed, 24 Sep 2025 07:35:00 GMT"
     },
     {
       "title": "Ukraine issues a stark warning about a global arms race and AI war - NPR",
@@ -519,10 +499,6 @@
   ],
   "us_economy": [
     {
-      "title": "Auto lender\u2019s bust raises alarms over financial health of US households - Financial Times",
-      "pubDate": "Wed, 24 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Seasonal retail hiring to fall to lowest level since 2009, signaling trouble for holidays, report says - CNBC",
       "pubDate": "Wed, 24 Sep 2025 14:12:14 GMT"
     },
@@ -556,10 +532,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Super Typhoon Ragasa latest: China evacuates two million people as world\u2019s strongest storm nears landfall - The Independent",
-      "pubDate": "Wed, 24 Sep 2025 06:32:00 GMT"
-    },
     {
       "title": "China urges its companies in the US to avoid the cutthroat competition that has sent prices down - Business Insider",
       "pubDate": "Thu, 25 Sep 2025 07:42:00 GMT"
@@ -707,10 +679,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Atos wins \u20ac326M European Commission cybersecurity contract - Investing.com",
-      "pubDate": "Wed, 24 Sep 2025 08:03:45 GMT"
-    },
-    {
       "title": "CISA urges dependency checks following Shai-Hulud compromise - Cybersecurity Dive",
       "pubDate": "Wed, 24 Sep 2025 16:03:10 GMT"
     },
@@ -831,6 +799,10 @@
     {
       "title": "Hackers Stole FEMA, Customs and Border Protection Employee Data - Bloomberg.com",
       "pubDate": "Mon, 29 Sep 2025 23:07:28 GMT"
+    },
+    {
+      "title": "Union Sued Over Data Breach Exposing 55K Members' Info - Law360",
+      "pubDate": "Tue, 30 Sep 2025 23:19:00 GMT"
     }
   ],
   "fusion_power": [
@@ -1089,16 +1061,8 @@
   ],
   "climate_change": [
     {
-      "title": "Hurricane Helene an example of how climate change is impacting weather, intense inland storms - The Augusta Chronicle",
-      "pubDate": "Wed, 24 Sep 2025 08:04:15 GMT"
-    },
-    {
       "title": "Super Typhoon Ragasa: scientists warn climate change leads to stronger storms - South China Morning Post",
       "pubDate": "Wed, 24 Sep 2025 09:31:24 GMT"
-    },
-    {
-      "title": "The \u2018Green Revolution\u2019 transformed global agriculture. Now it\u2019s adapting to climate change. - Grist.org",
-      "pubDate": "Wed, 24 Sep 2025 08:30:49 GMT"
     },
     {
       "title": "How to track the super polluters next door - CNN",
@@ -1235,10 +1199,6 @@
   ],
   "world_news": [
     {
-      "title": "UN latest: Kremlin responds after Trump's 'big shift' on Ukraine - Sky News",
-      "pubDate": "Wed, 24 Sep 2025 07:07:30 GMT"
-    },
-    {
       "title": "At least 17 killed in Gaza Strip as leaders ramp up pressure for a ceasefire - The Hill",
       "pubDate": "Thu, 25 Sep 2025 10:53:00 GMT"
     },
@@ -1248,10 +1208,6 @@
     }
   ],
   "geopolitics": [
-    {
-      "title": "Gold holds near record high on rate-cut bets, geopolitical tensions - Reuters",
-      "pubDate": "Wed, 24 Sep 2025 08:43:51 GMT"
-    },
     {
       "title": "Is China using an alleged criminal to get Paraguay to ditch Taiwan? - Al Jazeera",
       "pubDate": "Thu, 25 Sep 2025 10:43:42 GMT"
@@ -1311,6 +1267,10 @@
     {
       "title": "Auto giant's collapse sparks recession fears in parallel to 2008 crash - MSN",
       "pubDate": "Tue, 30 Sep 2025 12:50:51 GMT"
+    },
+    {
+      "title": "Bay State faces recession risk from new policies and tariffs - WWLP",
+      "pubDate": "Tue, 30 Sep 2025 23:26:38 GMT"
     }
   ],
   "algorithms": [
@@ -1395,6 +1355,10 @@
     {
       "title": "Iran: Executions of 15, 13, and more prisoners in Iran on Sept 24, 28, and 29 - National Council of Resistance of Iran - NCRI",
       "pubDate": "Mon, 29 Sep 2025 14:44:10 GMT"
+    },
+    {
+      "title": "US condemns Iran over prison deaths, activist hunger strike, and looming execution - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "pubDate": "Wed, 01 Oct 2025 06:30:31 GMT"
     }
   ],
   "middle_east": [
@@ -1480,10 +1444,6 @@
     }
   ],
   "cybersecurity_and_infrastructure_security_agency": [
-    {
-      "title": "CISA Warns of Actively Exploited Google Chrome 0-Day Vulnerability - Cyber Press",
-      "pubDate": "Wed, 24 Sep 2025 08:56:35 GMT"
-    },
     {
       "title": "China Prepares for Cyberattacks - Security Boulevard",
       "pubDate": "Sun, 28 Sep 2025 00:21:57 GMT"
@@ -1691,6 +1651,10 @@
     {
       "title": "EU confirms it has reinstated sanctions against Iran - Reuters",
       "pubDate": "Mon, 29 Sep 2025 08:57:10 GMT"
+    },
+    {
+      "title": "The world's first carbon border tax will soon go live \u2014 shaking up global trade - CNBC",
+      "pubDate": "Tue, 30 Sep 2025 23:04:28 GMT"
     }
   ],
   "microsoft": [
@@ -1927,6 +1891,10 @@
     {
       "title": "Video: Eric Adams Suspends Re-Election Bid for Mayor of New York City - The New York Times",
       "pubDate": "Mon, 29 Sep 2025 01:47:19 GMT"
+    },
+    {
+      "title": "Journalists grabbed, shoved by ICE agents in New York immigration court, video shows - CNN",
+      "pubDate": "Tue, 30 Sep 2025 23:24:33 GMT"
     }
   ],
   "space_exploration": [
@@ -2057,6 +2025,10 @@
     {
       "title": "Internet shutdowns rise as some African states crackdown on dissent - https-//www.semafor.com",
       "pubDate": "Mon, 29 Sep 2025 12:46:00 GMT"
+    },
+    {
+      "title": "Afghanistan: Internet Shutdowns Imperil Rights - Human Rights Watch",
+      "pubDate": "Wed, 01 Oct 2025 04:00:00 GMT"
     }
   ],
   "big_data": [
@@ -2125,6 +2097,10 @@
     {
       "title": "Government Shutdown Looms: A Perfect Storm of Economic Data Uncertainty and Market Panic - FinancialContent",
       "pubDate": "Tue, 30 Sep 2025 14:50:00 GMT"
+    },
+    {
+      "title": "Gold hits record high as US shutdown, weak job data spur safe-haven rush - Reuters",
+      "pubDate": "Wed, 01 Oct 2025 06:28:00 GMT"
     }
   ],
   "pacific_ocean": [
