@@ -918,7 +918,6 @@ def main():
         else:
             selected_content_raw_from_llm = prioritize_with_gemini(
                 headlines_to_send=final_candidates_for_gemini,
-                digest_history=recent_digest_headlines_for_llm,
                 gemini_api_key=gemini_api_key,
                 topic_weights=TOPIC_WEIGHTS,
                 keyword_weights=KEYWORD_WEIGHTS,
