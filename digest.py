@@ -418,12 +418,22 @@ def prioritize_with_gemini(
     keyword_weights: dict,
     overrides: dict
 ) -> dict:
-    # This function now assumes a smaller, pre-filtered input for best performance.
     genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(
-        model_name=GEMINI_MODEL_NAME, # Uses the name from your config
-        tools=[SELECT_DIGEST_ARTICLES_TOOL]
+    
+    # --- START: RECOMMENDED PROMPT IMPROVEMENT ---
+    system_instruction = (
+        "You are an expert news curator. Your primary function is to analyze a list of headlines "
+        "and select the most globally and nationally significant ones based on a set of topics. "
+        "You must always respond by calling the `format_digest_selection` function. If you determine that "
+        "no headlines meet the selection criteria, you must call the function with an empty list of headlines. "
+        "Do not refuse to answer or return an empty response."
     )
+    model = genai.GenerativeModel(
+        model_name=GEMINI_MODEL_NAME,
+        tools=[SELECT_DIGEST_ARTICLES_TOOL],
+        system_instruction=system_instruction
+    )
+    # --- END: RECOMMENDED PROMPT IMPROVEMENT ---
 
     pref_data = {
         "topic_weights": topic_weights,
@@ -432,7 +442,6 @@ def prioritize_with_gemini(
     }
     user_preferences_json = json.dumps(pref_data, indent=2)
     
-    # Using the concise prompt that works well with pre-filtered data
     prompt = (
         "You are an expert news curator. A pre-filter has removed duplicates and banned topics. "
         "Your task is to perform the final nuanced selection and sorting on this high-relevance candidate list.\n\n"
@@ -448,47 +457,44 @@ def prioritize_with_gemini(
         logging.info("Sending smaller, pre-filtered request to Gemini.")
         response = model.generate_content(
             [prompt],
-            # This tool_config is crucial for reliability
             tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}}
         )
 
+        # --- START: ENHANCED LOGGING AND ERROR CHECKING ---
         function_call_part = None
         if response.parts:
             for part in response.parts:
                 if part.function_call:
                     function_call_part = part.function_call
                     break
-
-        if function_call_part:
-            args = function_call_part.args
-            transformed_output = {}
-            if "selected_digest_entries" in args:
-                for entry in args["selected_digest_entries"]:
-                    topic_name = entry.get("topic_name")
-                    # This is the special Protobuf object
-                    headlines_proto = entry.get("headlines", [])
-                    
-                    # --- THIS IS THE FIX ---
-                    # Explicitly convert the special object to a standard Python list of strings.
-                    headlines_list = [str(h) for h in headlines_proto]
-                    # --- END OF FIX ---
-
-                    if topic_name and headlines_list:
-                        # Assign the clean Python list to the output
-                        transformed_output[topic_name] = headlines_list
-
-            logging.info(f"Successfully processed tool call from Gemini. Returning {len(transformed_output)} topics.")
-            return transformed_output
-        else:
-            logging.warning("Gemini returned no usable function call. Check prompt feedback if available.")
-            if response.prompt_feedback:
-                logging.warning(f"Prompt Feedback: {response.prompt_feedback}")
+        
+        # This is the crucial check. If there's no function call, log the feedback.
+        if not function_call_part:
+            logging.warning("Gemini returned no usable function call.")
+            if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
+                # This will print the exact reason for the block (e.g., SAFETY)
+                logging.error(f"PROMPT FEEDBACK: {response.prompt_feedback}")
             return {}
+
+        # If we have a function call, process it as before.
+        args = function_call_part.args
+        transformed_output = {}
+        if "selected_digest_entries" in args:
+            for entry in args["selected_digest_entries"]:
+                topic_name = entry.get("topic_name")
+                headlines_proto = entry.get("headlines", [])
+                headlines_list = [str(h) for h in headlines_proto]
+
+                if topic_name and headlines_list:
+                    transformed_output[topic_name] = headlines_list
+
+        logging.info(f"Successfully processed tool call from Gemini. Returning {len(transformed_output)} topics.")
+        return transformed_output
+        # --- END: ENHANCED LOGGING AND ERROR CHECKING ---
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         return {}
-    
 def select_top_candidate_topics(headlines_by_topic: dict, topic_weights: dict, max_topics_to_consider: int) -> dict:
     """
     Scores topics based on user weights and headline volume, returning a reduced set for the LLM.
