@@ -412,7 +412,6 @@ def pre_filter_and_deduplicate_headlines(
 
 def prioritize_with_gemini(
     headlines_to_send: dict,
-    digest_history: list,
     gemini_api_key: str,
     topic_weights: dict,
     keyword_weights: dict,
@@ -442,41 +441,37 @@ def prioritize_with_gemini(
     }
     user_preferences_json = json.dumps(pref_data, indent=2)
     
+    headlines_to_send_json = json.dumps(dict(sorted(headlines_to_send.items())), indent=2)
+
     prompt = (
-        "You are an expert news curator. Your task is to meticulously select and deduplicate the most relevant news topics and headlines "
-        "for a user's digest based on a strict set of inputs and rules. Your goal is to produce a concise, high-quality digest, "
-        "and your final output MUST be a single call to the `format_digest_selection` tool. Do not provide any other text.\n\n"
+        "You are an expert news curator. You will be given a PRE-FILTERED list of high-relevance candidate headlines. "
+        "Your task is to perform the final qualitative selection and importance-based sorting. "
+        "Your final output MUST be a single call to the `format_digest_selection` tool.\n\n"
         "### Inputs\n"
-        f"1.  **User Preferences:** Defines topic weights and banned/demoted terms.\n```json\n{user_preferences_json}\n```\n"
-        f"2.  **Candidate Headlines:** The pool of new articles to choose from.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
-        "--- MANDATORY PROCESSING ORDER ---\n"
-        "You MUST execute these steps in this exact order to ensure quality.\n\n"
-        "**STEP 1: AGGRESSIVE GLOBAL DE-DUPLICATION**\n"
-        "1.  Analyze ALL `Candidate Headlines` across ALL topics at once.\n"
-        "2.  CRITICAL: If multiple headlines cover the *exact same core event or announcement*, even if from different sources, select ONLY ONE. Choose the single most comprehensive and informative version.\n"
-        "3.  IMMEDIATELY DISCARD all other redundant headlines. Proceed ONLY with this new, de-duplicated list.\n\n"
-        "**STEP 2: STRICT QUALITY & RELEVANCE FILTERING**\n"
-        "Apply these rules to the remaining headlines.\n\n"
-        "**A. Content to REMOVE (Reject immediately):**\n"
-        "-   **Banned Terms:** Headlines containing any 'banned_terms' from User Preferences.\n"
-        "-   **Purely Local News:** AVOID news that is *solely* of local interest *unless* it has clear and direct national or major international implications relevant to a U.S. audience.\n"
-        "-   **Commercial Content:** STRICTLY REJECT articles that primarily offer investment advice or promote specific stocks/cryptocurrencies as 'buy now' opportunities (e.g., \"Top 5 Stocks to Buy\"). News about broad market trends (e.g., \"S&P 500 reaches record high\") IS acceptable. The key is to avoid direct investment solicitation.\n"
-        "-   **Low-Quality Content:** REJECT advertisements, celebrity gossip, fluff pieces, opinion/Op-Eds, and sensationalist or clickbait headlines (e.g., using words like \"shocking,\" withholding key info, or being phrased as questions or listicles).\n\n"
+        f"1.  **User Preferences:** Defines topic weights and terms to demote.\n```json\n{user_preferences_json}\n```\n"
+        f"2.  **Candidate Headlines:** The pre-filtered pool of new articles to choose from.\n```json\n{headlines_to_send_json}\n```\n\n"
+        "--- MANDATORY PROCESSING ORDER ---\n\n"
+        "**STEP 1: FINAL CURATION & FILTERING**\n"
+        "Apply these nuanced rules to the `Candidate Headlines`.\n\n"
+        "**A. Content to REMOVE:**\n"
+        "-   **Semantic Duplicates:** If multiple headlines cover the *exact same core event* (even with different wording), select ONLY the single most informative version and DISCARD the others.\n"
+        "-   **Low-Quality Content:** REJECT advertisements, celebrity gossip, opinion/Op-Eds, and sensationalist or clickbait headlines.\n"
+        "-   **Purely Local News:** AVOID news of only local interest unless it has clear national or international implications for a U.S. audience.\n"
+        "-   **Commercial Content:** REJECT articles that are direct investment advice (e.g., \"Top 5 Stocks to Buy\"). News about broad market trends IS acceptable.\n\n"
         "**B. Content to STRONGLY DE-PRIORITIZE:**\n"
-        "-   **Demoted Terms:** Headlines with 'demoted_terms' should be treated as having almost zero importance. Only select if their relevance is exceptionally high and no other headlines are suitable for a critical user topic.\n\n"
-        "**STEP 3: FINAL SELECTION & CRITICAL SORTING FOR TOOL CALL**\n"
-        "1.  From the final, fully-filtered pool of high-quality headlines, select your final choices, respecting the limits: "
+        "-   **Demoted Terms:** Headlines with 'demoted_terms' from User Preferences should be considered very low importance.\n\n"
+        "**STEP 2: FINAL SELECTION & CRITICAL SORTING**\n"
+        "1.  From your final, fully-filtered pool, select your choices, respecting the limits: "
         f"max **{MAX_TOPICS} topics** and max **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
         "2.  **FINAL SORTING RULES (MANDATORY):**\n"
         "    a. **Topic Ordering Algorithm (Follow Precisely):**\n"
-        "        - First, mentally score all selected headlines based on a combination of `User Preferences` and objective news importance.\n"
-        "        - Identify the single highest-scoring headline overall. The topic this headline belongs to MUST be the first topic in your output.\n"
-        "        - Then, find the highest-scoring headline from any of the *remaining* topics. That headline's topic MUST be the second topic in your output.\n"
+        "        - First, score all selected headlines based on `User Preferences` and objective news importance.\n"
+        "        - Identify the single highest-scoring headline overall. Its topic MUST be the first topic in your output.\n"
+        "        - Find the highest-scoring headline from any of the *remaining* topics. That headline's topic MUST be the second topic.\n"
         "        - Continue this process until all selected topics are ordered.\n"
-        "    b. ***CRITICAL WARNING: DO NOT SORT TOPICS ALPHABETICALLY.*** Sorting MUST follow the importance-based algorithm described above.\n"
+        "    b. ***CRITICAL WARNING: DO NOT SORT TOPICS ALPHABETICALLY.*** Sorting MUST follow the importance-based algorithm.\n"
         "    c. **Headline Ordering:** Within each topic, sort its headlines from most to least important.\n"
-        "3.  **Final Review (Internal Monologue):** Before calling the tool, quickly ask yourself: \"Have I removed all duplicates? Have I filtered according to the rules? Is my topic order based on importance and NOT alphabetical order?\"\n"
-        "4.  Call the `format_digest_selection` tool with your final, importance-sorted data. This is your only output."
+        "3.  Call the `format_digest_selection` tool with your final, importance-sorted data. This is your only output."
     )
 
     try:
