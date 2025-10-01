@@ -410,6 +410,7 @@ def pre_filter_and_deduplicate_headlines(
     # Remove any topics that have become empty after filtering
     return {k: v for k, v in pre_filtered_headlines.items() if v}
 
+# --- FIX: Replaced the entire function with a clearer prompt and more reliable API call ---
 def prioritize_with_gemini(
     headlines_to_send: dict,
     gemini_api_key: str,
@@ -440,34 +441,29 @@ def prioritize_with_gemini(
     user_preferences_json = json.dumps(pref_data, indent=2)
 
     prompt = (
-        "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. "
-        "Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest. "
-        "You must be ruthless in eliminating noise and low-quality content.\n\n"
-        "### Inputs Provided\n"
-        f"1.  **User Preferences:** Defines topic interests, importance weights, and banned/demoted keywords.\n```json\n{user_preferences_json}\n```\n"
-        f"2.  **Candidate Headlines:** A pre-filtered pool of new articles to choose from. History and basic duplicates have already been removed.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n\n"
-        "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
-        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\n"
-        "Analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event.\n"
-        "-   **Group by Meaning:** Cluster headlines based on their substantive meaning (e.g., 'Fed Pauses Rate Hikes' and 'Federal Reserve Holds Interest Rates Steady' are the same event).\n"
-        "-   **Select One Champion:** From each cluster, select ONLY ONE headline—the one that is the most comprehensive and authoritative. Discard all others.\n\n"
-        "**Step 2: Rigorous Relevance & Quality Filtering**\n"
-        "For the remaining, unique headlines, apply the following strict filtering criteria:\n\n"
-        f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
-        "*   **Geographic Focus:** Focus on national (U.S.) or major international news. AVOID purely local news.\n"
-        "*   **Banned/Demoted Content:** Strictly REJECT any headlines containing 'banned' terms. Strongly deprioritize 'demoted' terms.\n"
-        "*   **Commercial Content:** REJECT advertisements and articles that are primarily investment advice (e.g., \"Top X Stocks to Invest In\"). News about broad market trends IS acceptable.\n"
-        "*   **Content Quality:** AGGRESSIVELY REJECT sensationalist, celebrity gossip, clickbait, opinion/op-ed, and question-based headlines.\n\n"
-        "**Step 3: Final Selection and Ordering**\n"
-        "From the fully filtered pool, make your final selection.\n"
-        "1.  **Topic Ordering:** Order topics from most to least significant based on a blend of user preference and objective news importance. DO NOT sort alphabetically.\n"
-        "2.  **Headline Ordering:** Within each topic, order headlines from most to least newsworthy.\n\n"
-        "### Final Output\n"
-        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool."
+        "You are an expert news editor creating a concise, high-signal daily digest. "
+        "Your task is to select and organize the most important news stories from a provided list of candidates.\n\n"
+        "### Your Goal\n"
+        f"Produce a curated list of up to {MAX_TOPICS} topics, each with up to {MAX_ARTICLES_PER_TOPIC} of the most significant headlines.\n\n"
+        "### Inputs\n"
+        "1.  **User Preferences:** Defines topic weights and keywords to avoid or deprioritize.\n"
+        f"```json\n{user_preferences_json}\n```\n"
+        "2.  **Candidate Headlines:** A list of recent headlines grouped by search topic. Duplicates and old articles have been pre-filtered.\n"
+        f"```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n\n"
+        "### Guiding Principles for Selection (Apply these to ALL headlines)\n"
+        "*   **Significance is Key:** Prioritize stories with major national (U.S.) or global impact. Strongly avoid purely local news, celebrity gossip, or niche topics unless specified in user preferences.\n"
+        "*   **Eliminate Redundancy (Crucial):** Do not include multiple headlines covering the same core event, even if they come from different topics. Analyze all candidates and select only the single best, most comprehensive headline for each distinct news story.\n"
+        "*   **Content Quality:**\n"
+        "    *   **Reject:** Clickbait, listicles (e.g., \"Top 10...\"), question-based headlines, opinion pieces, and promotional content.\n"
+        "    *   **Filter by Keywords:** Strictly reject any headline containing a 'banned' term. Heavily penalize headlines with 'demoted' terms.\n"
+        f"*   **Adhere to Limits:** The final output must not exceed {MAX_TOPICS} topics.\n\n"
+        "### Output Formatting\n"
+        "1.  **Topic Order:** The final list of topics should be ordered from most to least newsworthy. Do not sort alphabetically.\n"
+        "2.  **Tool Usage:** You MUST use the `format_digest_selection` tool to return your final, curated list. If no headlines meet the criteria, call the tool with an empty list of entries."
     )
 
     try:
-        logging.info("Sending request to Gemini for prioritization.")
+        logging.info(f"Sending request to Gemini model '{GEMINI_MODEL_NAME}' for prioritization.")
         
         safety_settings = {
             HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
@@ -478,33 +474,36 @@ def prioritize_with_gemini(
 
         response = model.generate_content(
             [prompt],
-            tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}},
+            # Use 'MANDATORY' mode to ensure the model always calls the function
+            tool_config={"function_calling_config": {"mode": "MANDATORY", "allowed_function_names": ["format_digest_selection"]}},
             safety_settings=safety_settings
         )
-
+        
+        # In mandatory mode, the function call should be the first and only part
         function_call_part = None
-        if response.parts:
-            for part in response.parts:
-                if part.function_call:
-                    function_call_part = part.function_call
-                    break
+        if response.parts and response.parts[0].function_call:
+            function_call_part = response.parts[0].function_call
         
         if not function_call_part:
-            logging.warning("Gemini returned no usable function call.")
+            logging.warning("Gemini did not return a function call despite 'MANDATORY' mode.")
             if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.error(f"PROMPT FEEDBACK: {response.prompt_feedback}")
+            if response.text:
+                 logging.error(f"GEMINI RAW TEXT RESPONSE: {response.text}")
             return {}
 
         if function_call_part.name == "format_digest_selection":
             args = function_call_part.args
-            logging.info(f"Gemini used tool 'format_digest_selection'.")
+            logging.info(f"Gemini successfully used tool 'format_digest_selection'.")
             
             transformed_output = {}
-            if "selected_digest_entries" in args:
+            # Defensively check for args and the key before iterating
+            if args and "selected_digest_entries" in args:
                 for entry in args["selected_digest_entries"]:
                     topic_name = entry.get("topic_name")
                     headlines_proto = entry.get("headlines", [])
-                    headlines_list = [str(h) for h in headlines_proto]
+                    # Ensure headlines are converted to a standard list of strings
+                    headlines_list = [str(h) for h in headlines_proto] if headlines_proto else []
 
                     if topic_name and headlines_list:
                         transformed_output[topic_name] = headlines_list
