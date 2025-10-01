@@ -419,7 +419,6 @@ def prioritize_with_gemini(
 ) -> dict:
     genai.configure(api_key=gemini_api_key)
     
-    # --- START: RECOMMENDED PROMPT IMPROVEMENT ---
     system_instruction = (
         "You are an expert news curator. Your primary function is to analyze a list of headlines "
         "and select the most globally and nationally significant ones based on a set of topics. "
@@ -432,7 +431,6 @@ def prioritize_with_gemini(
         tools=[SELECT_DIGEST_ARTICLES_TOOL],
         system_instruction=system_instruction
     )
-    # --- END: RECOMMENDED PROMPT IMPROVEMENT ---
 
     pref_data = {
         "topic_weights": topic_weights,
@@ -440,7 +438,6 @@ def prioritize_with_gemini(
         "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
     }
     user_preferences_json = json.dumps(pref_data, indent=2)
-    
     headlines_to_send_json = json.dumps(dict(sorted(headlines_to_send.items())), indent=2)
 
     prompt = (
