@@ -46,7 +46,7 @@ from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
-from google.generativeai.types import FunctionDeclaration, Tool
+from google.generativeai.types import FunctionDeclaration, Tool, HarmCategory, HarmBlockThreshold
 import subprocess
 from proto.marshal.collections.repeated import RepeatedComposite
 from proto.marshal.collections.maps import MapComposite
@@ -473,12 +473,21 @@ def prioritize_with_gemini(
 
     try:
         logging.info("Sending smaller, pre-filtered request to Gemini.")
+
+        # Define safety settings to prevent the API from blocking news-related content.
+        safety_settings = {
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+        }
+
         response = model.generate_content(
             [prompt],
-            tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}}
+            tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}},
+            safety_settings=safety_settings  # Pass the settings to the API call
         )
 
-        # --- START: ENHANCED LOGGING AND ERROR CHECKING ---
         function_call_part = None
         if response.parts:
             for part in response.parts:
@@ -486,15 +495,12 @@ def prioritize_with_gemini(
                     function_call_part = part.function_call
                     break
         
-        # This is the crucial check. If there's no function call, log the feedback.
         if not function_call_part:
             logging.warning("Gemini returned no usable function call.")
             if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
-                # This will print the exact reason for the block (e.g., SAFETY)
                 logging.error(f"PROMPT FEEDBACK: {response.prompt_feedback}")
             return {}
 
-        # If we have a function call, process it as before.
         args = function_call_part.args
         transformed_output = {}
         if "selected_digest_entries" in args:
@@ -508,12 +514,11 @@ def prioritize_with_gemini(
 
         logging.info(f"Successfully processed tool call from Gemini. Returning {len(transformed_output)} topics.")
         return transformed_output
-        # --- END: ENHANCED LOGGING AND ERROR CHECKING ---
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         return {}
-    
+     
 def select_top_candidate_topics(headlines_by_topic: dict, topic_weights: dict, max_topics_to_consider: int) -> dict:
     """
     Scores topics based on user weights and headline volume, returning a reduced set for the LLM.
