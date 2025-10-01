@@ -495,6 +495,7 @@ def prioritize_with_gemini(
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
         return {}
+    
 def select_top_candidate_topics(headlines_by_topic: dict, topic_weights: dict, max_topics_to_consider: int) -> dict:
     """
     Scores topics based on user weights and headline volume, returning a reduced set for the LLM.
