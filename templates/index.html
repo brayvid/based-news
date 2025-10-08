@@ -107,7 +107,13 @@
     }
 }
   </style>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Asynchronously load Google Fonts to prevent render-blocking -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" media="print" onload="this.media='all'" />
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" />
+  </noscript>
 </head>
 <body>
   <header>
@@ -197,7 +203,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // --- CORRECTED `showDigest` and `loadDigestContent` ---
     async function showDigest(index) {
         if (index < 0 || index >= totalItems) return;
         
@@ -236,7 +241,6 @@ document.addEventListener("DOMContentLoaded", function () {
             console.error(`Could not load content for index ${index}:`, error);
         }
     }
-    // --- END OF CORRECTIONS ---
 
 
     function handleSwipe() {
