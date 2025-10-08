@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Based News | Blake Rayvid</title>
+  <meta name="description" content="A tunable news digest, curated hourly by Google's Gemini AI. Get unbiased, up-to-the-minute headlines on the topics that matter most to you.">
+  <link rel="canonical" href="https://news.blakerayvid.com" />
+  <link rel="icon" href="/static/favicon.ico" sizes="any">
+  <!-- SEO and other meta tags can remain the same -->
+  <style>
+    /* All your CSS from the original file can remain exactly the same */
+    :root { color-scheme: dark; }
+    body { margin: 0; font-family: 'Open Sans', sans-serif; background-color: #121212; color: #e0e0e0; line-height: 1.6; }
+    .container { width: 90%; max-width: 800px; margin: 0 auto; padding-top: 4px; }
+    header { background-color: #121212; padding: 1.5em 0; text-align: center; }
+    header h1 { margin: 0; font-family: 'Merriweather', serif; font-size: 2.5em; color: #e0e0e0; }
+    .subheading { margin-top: 0.5em; font-size: 1.1em; color: #bbb; }
+    main { background: #1e1e1e; border: 1px solid #333; margin-top: 2em; padding: 2em 1.6em; }
+    .digest-pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 1em; margin-top: 0.8em; user-select: none; }
+    .arrow-btn { background-color: transparent; border: none; color: #aaa; font-size: 18px; cursor: pointer; padding: 5px; line-height: 1; transition: color 0.2s; }
+    .arrow-btn:hover:not(:disabled) { color: #fff; }
+    .arrow-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+    #dots-container { display: flex; align-items: center; gap: 12px; }
+    .dot { width: 10px; height: 10px; background-color: #555; border-radius: 50%; cursor: pointer; transition: background-color 0.2s, transform 0.2s; flex-shrink: 0; }
+    .dot.active { background-color: #4a90e2; transform: scale(1.2); }
+    .digest-timestamp { font-family: 'Merriweather', serif; font-size: 1.1em; text-align: center; color: #ccc; margin-bottom: 1em; border-bottom: 1px solid #444; padding-bottom: 0.5em; }
+    #digest-slider-wrapper { overflow: hidden; position: relative; width: 100%; transition: height 0.25s ease-in-out; min-height: 200px; }
+    #digest-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
+    .digest-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; }
+    section h3 { font-family: 'Merriweather', serif; border-bottom: 2px solid #555; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.5em; }
+    section p { margin: 0.5em 0 1em 0; word-break: break-word; }
+    section a { color: #8ab4f8; text-decoration: none; font-weight: 600; }
+    section a:hover { text-decoration: underline; }
+    footer { text-align: center; font-size: 0.9em; color: #999; padding: 2em 0; }
+    footer a { color: #8ab4f8; }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Based News Reader</h1>
+      <p class="subheading">Curated with Gemini, updated hourly.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="digest-container">
+      <div class="digest-pagination">
+        <button id="older-btn" class="arrow-btn" disabled title="Older Digest">◄</button>
+        <div id="dots-container"></div>
+        <button id="newer-btn" class="arrow-btn" disabled title="Newer Digest">►</button>
+      </div>
+      <p id="digest-timestamp-header" class="digest-timestamp">Loading...</p>
+      <div id="digest-slider-wrapper">
+        <div id="digest-slider">
+          <!-- The first slide is rendered by the server using Jinja2 templating -->
+          <div class="digest-slide" id="digest-slide-0">
+              {% if latest_digest %}
+                {% for topic, articles in latest_digest.items() %}
+                  <h3>{{ topic }}</h3>
+                  {% for article in articles %}
+                  <p>
+                    <a href="{{ article.link | e }}" target="_blank">{{ article.title | e }}</a><br>
+                    <small>{{ article.date_str }}</small>
+                  </p>
+                  {% endfor %}
+                {% endfor %}
+              {% else %}
+                <p>No news to display at the moment. Please check back later.</p>
+              {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p><a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">Settings</a> | <a href="https://github.com/brayvid/based-news">GitHub</a> | <a href="https://blakerayvid.com">Portfolio</a></p>
+    </div>
+  </footer>
+
+  <script defer>
+    document.addEventListener("DOMContentLoaded", function () {
+      const digestSliderWrapper = document.getElementById("digest-slider-wrapper");
+      const digestSlider = document.getElementById("digest-slider");
+      const olderBtn = document.getElementById("older-btn");
+      const newerBtn = document.getElementById("newer-btn");
+      const dotsContainer = document.getElementById("dots-container");
+      const timestampHeader = document.getElementById("digest-timestamp-header");
+
+      let manifest = [];
+      let currentIndex = 0;
+      let totalItems = 0;
+      let touchStartX = 0;
+      let touchEndX = 0;
+      const swipeThreshold = 50;
+
+      function updateNavControls() {
+        olderBtn.disabled = currentIndex >= totalItems - 1;
+        newerBtn.disabled = currentIndex <= 0;
+        document.querySelectorAll('.dot').forEach((dot, idx) => {
+          dot.classList.toggle('active', idx === currentIndex);
+        });
+      }
+
+      function updateTimestampHeader() {
+        const entry = manifest[currentIndex];
+        if (!entry) return;
+        const date = new Date(entry.timestamp);
+        date.setMinutes(date.getMinutes() + 30);
+        date.setMinutes(0, 0, 0);
+        const options = { weekday: 'long', month: 'long', day: 'numeric', hour: 'numeric', timeZoneName: 'short' };
+        timestampHeader.textContent = date.toLocaleString(undefined, options);
+      }
+
+      function adjustWrapperHeight(slide) {
+        if (slide) {
+          requestAnimationFrame(() => {
+            digestSliderWrapper.style.height = `${slide.offsetHeight}px`;
+          });
+        }
+      }
+
+      async function showDigest(index) {
+        if (index < 0 || index >= totalItems) return;
+        currentIndex = index;
+        const slide = document.getElementById(`digest-slide-${index}`);
+        if (!slide) return;
+
+        if (slide.children.length === 0) {
+          await loadDigestContent(index, slide);
+        }
+        
+        digestSlider.style.transform = `translateX(-${index * 100}%)`;
+        updateNavControls();
+        updateTimestampHeader();
+      }
+
+      async function loadDigestContent(index, slideElement) {
+        const entry = manifest[index];
+        if (!entry || !entry.id) return;
+        try {
+          const response = await fetch(`/digest/${entry.id}`);
+          if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+          slideElement.innerHTML = await response.text();
+          if (index === currentIndex) {
+            adjustWrapperHeight(slideElement);
+          }
+        } catch (error) {
+          slideElement.innerHTML = "<p>Unable to load this digest.</p>";
+          console.error(`Could not load content for index ${index}:`, error);
+        }
+      }
+
+      function handleSwipe() {
+        const deltaX = touchEndX - touchStartX;
+        if (Math.abs(deltaX) > swipeThreshold) {
+          if (deltaX < 0 && currentIndex < totalItems - 1) { // Swipe Left: Go Older
+            showDigest(currentIndex + 1);
+          } else if (deltaX > 0 && currentIndex > 0) { // Swipe Right: Go Newer
+            showDigest(currentIndex - 1);
+          }
+        }
+      }
+
+      async function initializeSite() {
+        try {
+          const manifestRes = await fetch("/manifest");
+          if (!manifestRes.ok) throw new Error("Manifest not found");
+          manifest = await manifestRes.json();
+          totalItems = manifest.length;
+          if (totalItems === 0) throw new Error("Manifest is empty.");
+
+          const firstSlide = document.getElementById('digest-slide-0');
+          digestSlider.innerHTML = '';
+          digestSlider.appendChild(firstSlide);
+
+          dotsContainer.innerHTML = '';
+          for (let i = 0; i < totalItems; i++) {
+            if (i > 0) {
+              const slide = document.createElement('div');
+              slide.className = 'digest-slide';
+              slide.id = `digest-slide-${i}`;
+              digestSlider.appendChild(slide);
+            }
+            const dot = document.createElement('div');
+            dot.className = 'dot';
+            dot.dataset.logicalIndex = i;
+            dot.onclick = () => showDigest(i);
+            const entry = manifest[i];
+            const date = new Date(entry.timestamp);
+            dot.title = `Digest from ${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
+            dotsContainer.appendChild(dot);
+          }
+
+          olderBtn.onclick = () => { if (currentIndex < totalItems - 1) showDigest(currentIndex + 1); };
+          newerBtn.onclick = () => { if (currentIndex > 0) showDigest(currentIndex - 1); };
+
+          await showDigest(0);
+          adjustWrapperHeight(firstSlide);
+
+        } catch (error) {
+          console.error("Initialization failed:", error);
+          timestampHeader.textContent = "Could not load headlines";
+        }
+      }
+
+      digestSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+      digestSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });
+      window.addEventListener('resize', () => adjustWrapperHeight(document.getElementById(`digest-slide-${currentIndex}`)));
+      
+      initializeSite();
+    });
+  </script>
+</body>
+</html>
