@@ -7,3 +7,5 @@ python-dotenv
 nltk
 google-generativeai
 python-dateutil
+beautifulsoup4
+lxml

@@ -9,6 +9,9 @@ from email.utils import parsedate_to_datetime
 import psycopg2
 from flask import Flask, render_template, jsonify, abort
 
+from dotenv import load_dotenv
+load_dotenv()
+
 app = Flask(__name__)
 
 # Load database URL from environment variables, provided by Railway
@@ -90,7 +93,7 @@ def get_manifest():
     cur = conn.cursor()
     # Fetch all digest IDs and timestamps, newest first, up to the configured limit
     max_history = int(os.environ.get("MAX_HISTORY_DIGESTS", 12))
-    cur.execute("SELECT id, created_at FROM digests ORDER BY created_at DESC LIMIT %s", (max_history,))
+    cur.execute("SELECT id, created_at FROM digests ORDER BY created_at ASC LIMIT %s", (max_history,))
     digests = cur.fetchall()
     cur.close()
     conn.close()
