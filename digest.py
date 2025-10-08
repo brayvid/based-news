@@ -1,5 +1,4 @@
 # Author: Blake Rayvid <https://github.com/brayvid/based-news>
-# Version: Corrected to emulate the successful logic of Script B
 
 import os
 import sys
@@ -40,9 +39,7 @@ KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
 
 # --- Logging and NLP Setup ---
-log_path = os.path.join(BASE_DIR, "logs/digest.log")
-os.makedirs(os.path.dirname(log_path), exist_ok=True)
-logging.basicConfig(filename=log_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info(f"Worker script started at {datetime.now()}")
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
@@ -199,16 +196,14 @@ def save_digest_to_db(digest_content):
             for topic, articles in digest_content.items() for i, art in enumerate(articles)
         ]
         extras.execute_values(cur, "INSERT INTO articles (digest_id, topic, title, link, pub_date, display_order) VALUES %s", articles_to_insert)
-        cur.execute("DELETE FROM digests WHERE id IN (SELECT id FROM digests ORDER BY created_at DESC OFFSET %s)", (MAX_HISTORY_DIGESTS,))
         conn.commit()
-        logging.info(f"Saved digest {digest_id} with {len(articles_to_insert)} articles to DB.")
+        logging.info(f"Saved digest {digest_id} with {len(articles_to_insert)} articles to DB. Deletion is disabled.")
     except Exception as e:
         if conn: conn.rollback()
         logging.error(f"Failed to save digest to DB: {e}", exc_info=True)
     finally:
         if conn: conn.close()
 
-# --- START: TRANSPLANTED BLOCK FROM SCRIPT B (THE CORE FIX & IMPROVEMENT) ---
 digest_tool_schema = { "type": "object", "properties": { "selected_digest_entries": { "type": "array", "items": { "type": "object", "properties": { "topic_name": {"type": "string"}, "headlines": {"type": "array", "items": {"type": "string"}}}, "required": ["topic_name", "headlines"]}}}, "required": ["selected_digest_entries"]}
 SELECT_DIGEST_ARTICLES_TOOL = Tool(function_declarations=[FunctionDeclaration(name="format_digest_selection", description="Formats the selected news.", parameters=digest_tool_schema)])
 
@@ -279,8 +274,7 @@ def main():
         # 2. Fetch articles and apply a correctly built banned keyword filter.
         headlines_to_send_to_llm = {}
         full_articles_map_this_run = {}
-        
-        # --- THE DEFINITIVE FIX IS HERE ---
+    
         # First, we normalize ALL potential banned terms.
         all_normalized_terms = [normalize(k) for k, v in OVERRIDES.items() if v == "ban"]
         # THEN, we create the final list, filtering out any that became empty strings.
@@ -309,7 +303,7 @@ def main():
                 headlines_to_send_to_llm[topic] = current_topic_headlines
 
         if not headlines_to_send_to_llm:
-            logging.warning("Still no headlines after fetching and filtering. This may be due to a slow news day or a very broad banned term. Check MAX_ARTICLE_HOURS.")
+            logging.warning("Still no headlines after fetching and filtering.")
             return
         
         total_candidates = sum(len(v) for v in headlines_to_send_to_llm.values())
