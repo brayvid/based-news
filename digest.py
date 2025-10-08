@@ -613,56 +613,54 @@ def prioritize_with_gemini(
         return {}
 
 def main():
-    # Load user-facing history from the DATABASE.
-    recent_digest_headlines = load_recent_headlines_from_db(MAX_HISTORY_DIGESTS)
-    
-    # Create a history object compatible with the pre-filter function
-    history_for_prefilter = { "all_history": [{"title": h} for h in recent_digest_headlines] }
-
+    print("--- WORKER SCRIPT START ---")
     try:
+        # --- Step 1: Check for API Key ---
         gemini_api_key = os.getenv("GEMINI_API_KEY")
+        print(f"GEMINI_API_KEY found: {bool(gemini_api_key)}")
         if not gemini_api_key:
-            logging.error("Missing GEMINI_API_KEY environment variable. Exiting.")
+            print("ERROR: Missing GEMINI_API_KEY environment variable. Exiting.")
             sys.exit(1)
 
+        # --- Step 2: Load History from DB ---
+        print("Loading history from database...")
+        recent_digest_headlines = load_recent_headlines_from_db(MAX_HISTORY_DIGESTS)
+        history_for_prefilter = { "all_history": [{"title": h} for h in recent_digest_headlines] }
+        print(f"Loaded {len(recent_digest_headlines)} headlines from history.")
+
+        # --- Step 3: Fetch New Articles ---
+        print("Fetching new articles...")
         headlines_to_send_to_llm = {}
         full_articles_map_this_run = {}
-
         banned_terms_list = [k for k, v in OVERRIDES.items() if v == "ban"]
         normalized_banned_terms = [normalize(term) for term in banned_terms_list if term]
-
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
 
-        # --- HYBRID PRE-FILTERING STAGE ---
         for topic_name in TOPIC_WEIGHTS:
             fetched_topic_articles = fetch_articles_for_topic(topic_name, articles_to_fetch_per_topic)
             if fetched_topic_articles:
                 current_topic_headlines_for_llm = []
                 for art in fetched_topic_articles:
                     if is_high_confidence_duplicate_in_history(art["title"], history_for_prefilter, MATCH_THRESHOLD):
-                        logging.debug(f"Skipping (high-confidence history match): {art['title']}")
                         continue
-
                     if contains_banned_keyword(art["title"], normalized_banned_terms):
-                        logging.debug(f"Skipping (banned keyword): {art['title']}")
                         continue
-
                     current_topic_headlines_for_llm.append(art["title"])
                     norm_title_key = normalize(art["title"])
                     if norm_title_key not in full_articles_map_this_run:
                          full_articles_map_this_run[norm_title_key] = art
-
                 if current_topic_headlines_for_llm:
                     headlines_to_send_to_llm[topic_name] = current_topic_headlines_for_llm
+        
+        total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
+        print(f"Found {total_headlines_count} new, filtered headlines to send to Gemini.")
 
+        # --- Step 4: Call Gemini API ---
         gemini_processed_content = {}
-
         if not headlines_to_send_to_llm:
-            logging.info("No new, non-banned, non-duplicate headlines available to send to LLM.")
+            print("No new headlines to send to LLM. Exiting gracefully.")
         else:
-            total_headlines_count = sum(len(v) for v in headlines_to_send_to_llm.values())
-            logging.info(f"Sending {total_headlines_count} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
-
+            print("Sending request to Gemini...")
             selected_content_raw_from_llm = prioritize_with_gemini(
                 headlines_to_send=headlines_to_send_to_llm,
                 digest_history=recent_digest_headlines,
@@ -671,28 +669,20 @@ def main():
                 keyword_weights=KEYWORD_WEIGHTS,
                 overrides=OVERRIDES
             )
+            print("Received a response from Gemini.")
 
             if not selected_content_raw_from_llm or not isinstance(selected_content_raw_from_llm, dict):
-                logging.warning("Gemini returned no content or invalid format.")
+                print("Gemini returned no content or invalid format.")
             else:
-                logging.info(f"Processing {len(selected_content_raw_from_llm)} topics returned by Gemini.")
+                # (Processing logic remains the same)
                 seen_normalized_titles_in_llm_output = set()
-
                 for topic_from_llm, titles_from_llm in selected_content_raw_from_llm.items():
-                    if not isinstance(titles_from_llm, list):
-                        logging.warning(f"LLM returned non-list for topic '{topic_from_llm}'. Skipping.")
-                        continue
-
+                    if not isinstance(titles_from_llm, list): continue
                     current_topic_articles_for_digest = []
                     for title_from_llm in titles_from_llm[:MAX_ARTICLES_PER_TOPIC]:
-                        if not isinstance(title_from_llm, str):
-                            logging.warning(f"LLM returned non-string headline: {title_from_llm}. Skipping.")
-                            continue
-
+                        if not isinstance(title_from_llm, str): continue
                         norm_llm_title = normalize(title_from_llm)
-                        if not norm_llm_title or norm_llm_title in seen_normalized_titles_in_llm_output:
-                            continue
-
+                        if not norm_llm_title or norm_llm_title in seen_normalized_titles_in_llm_output: continue
                         article_data = full_articles_map_this_run.get(norm_llm_title)
                         if article_data:
                             current_topic_articles_for_digest.append(article_data)
@@ -706,24 +696,27 @@ def main():
                                         seen_normalized_titles_in_llm_output.add(stored_norm_title)
                                         found_fallback = True
                                         break
-                            if not found_fallback:
-                                logging.warning(f"Could not map LLM title '{title_from_llm}' back to a fetched article.")
-
                     if current_topic_articles_for_digest:
                         gemini_processed_content[topic_from_llm] = current_topic_articles_for_digest
 
         final_digest_for_db = gemini_processed_content
+        print(f"Gemini processing resulted in {len(final_digest_for_db)} topics for the digest.")
 
+        # --- Step 5: Save to Database ---
         if final_digest_for_db:
-            logging.info(f"Final digest contains {len(final_digest_for_db)} topics. Saving to database.")
+            print("--- ATTEMPTING TO SAVE TO DB ---")
             save_digest_to_db(final_digest_for_db)
+            print("--- SUCCESSFULLY SAVED TO DB ---")
         else:
-            logging.info("No topics from Gemini this run. Database will not be updated.")
+            print("No topics in final digest. Nothing to save.")
 
     except Exception as e:
+        print(f"--- AN UNHANDLED ERROR OCCURRED IN MAIN ---")
+        print(f"ERROR: {e}")
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
+        print(f"--- WORKER SCRIPT FINISH ---")
         logging.info(f"Worker script finished at {datetime.now(ZONE)}")
-        
+
 if __name__ == "__main__":
     main()
