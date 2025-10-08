@@ -1,0 +1,11 @@
+# based-news/requirements.txt
+Flask
+gunicorn
+psycopg2-binary
+requests
+python-dotenv
+nltk
+google-generativeai
+python-dateutil
+beautifulsoup4
+lxml
