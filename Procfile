@@ -1,2 +1,1 @@
-web: gunicorn app:app --log-file -
-worker: python digest.py
+web: gunicorn app:app
