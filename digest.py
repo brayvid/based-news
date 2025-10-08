@@ -105,7 +105,7 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(stemmer.stem(w)) for w in words]
     return " ".join(lemmatized)
 
-def fetch_articles_for_topic(topic, max_articles=10):
+def fetch_articles_for_topic(topic, max_articles=5):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}&hl=en-US&gl=US&ceid=US:en"
     try:
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
@@ -128,7 +128,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
                 pubDate_text = pubDate_element.text if pubDate_element is not None else None
 
                 if not all([title, link, pubDate_text]):
-                    # Silently skip if essential data is missing, or log a warning if you prefer
+                    # Silently skip if essential data is missing
                     continue
 
                 pub_dt_naive = parsedate_to_datetime(pubDate_text)
@@ -150,7 +150,6 @@ def fetch_articles_for_topic(topic, max_articles=10):
                     break
             except Exception as e:
                 # If one article fails to parse, log it and continue with the next one.
-                # This prevents the whole topic from failing.
                 logging.warning(f"Skipping one article in topic '{topic}' due to parse error: {e}")
                 continue
 
@@ -280,7 +279,7 @@ def main():
         # THEN, we create the final list, filtering out any that became empty strings.
         normalized_banned_terms = [term for term in all_normalized_terms if term]
 
-        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 10))
+        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 5))
 
         logging.info(f"Fetching articles. Valid banned terms being used: {normalized_banned_terms}")
         for topic in TOPIC_WEIGHTS:

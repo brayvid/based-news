@@ -7,7 +7,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 import psycopg2
-from flask import Flask, render_template, jsonify, abort
+from flask import Flask, render_template, jsonify, abort, redirect, url_for
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -131,6 +131,11 @@ def get_digest_html(digest_id):
                 f'</p>\n'
             )
     return "".join(html_parts)
+
+@app.errorhandler(404)
+def page_not_found(e):
+    """Catch 404 errors and redirect to the homepage."""
+    return redirect(url_for('index'))
 
 if __name__ == '__main__':
     # For local development
