@@ -1,4 +1,4 @@
-# based-news/app.py
+# based-news/web/app.py
 
 import os
 import html
@@ -91,10 +91,17 @@ def get_manifest():
     """Provides a list of historical digests for the frontend slider."""
     conn = get_db_connection()
     cur = conn.cursor()
-    # Fetch all digest IDs and timestamps, newest first, up to the configured limit
+    
     max_history = int(os.environ.get("MAX_HISTORY_DIGESTS", 12))
-    cur.execute("SELECT id, created_at FROM digests ORDER BY created_at ASC LIMIT %s", (max_history,))
+    
+    # 1. Fetch the N MOST RECENT digests (newest first)
+    cur.execute("SELECT id, created_at FROM digests ORDER BY created_at DESC LIMIT %s", (max_history,))
     digests = cur.fetchall()
+    
+    # 2. Reverse the list in Python so the oldest of the recent digests is first
+    #    This gives the ascending order the JavaScript expects.
+    digests.reverse()
+    
     cur.close()
     conn.close()
     
