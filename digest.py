@@ -6,7 +6,6 @@ import csv
 import logging
 import json
 import re
-import ast
 from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 import requests
@@ -78,6 +77,7 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 MAX_HISTORY_DIGESTS = int(CONFIG.get("MAX_HISTORY_DIGESTS", 12))
 GEMINI_MODEL_NAME = CONFIG.get("DIGEST_GEMINI_MODEL_NAME", "gemini-2.5-flash")
 ZONE = ZoneInfo(CONFIG.get("TIMEZONE", "America/New_York"))
+MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 500))
 
 def load_csv_data(url, is_overrides=False):
     try:
@@ -105,6 +105,20 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(stemmer.stem(w)) for w in words]
     return " ".join(lemmatized)
 
+def create_title_fingerprint(title: str) -> str:
+    """Creates a deterministic, normalized fingerprint from an article title."""
+    base_title = title.rsplit(' - ', 1)[0]
+    return normalize(base_title)
+
+def calculate_local_score(article_title, topic, topic_weights, keyword_weights):
+    """Calculates a simple score for an article based on its topic and keywords."""
+    score = topic_weights.get(topic, 0)
+    normalized_title = normalize(article_title)
+    for keyword, weight in keyword_weights.items():
+        if keyword in normalized_title:
+            score += weight
+    return score
+
 def fetch_articles_for_topic(topic, max_articles=5):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}&hl=en-US&gl=US&ceid=US:en"
     try:
@@ -115,48 +129,25 @@ def fetch_articles_for_topic(topic, max_articles=5):
         root = ET.fromstring(response.content)
         time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
         articles = []
-
         for item in root.findall("./channel/item"):
-            try:  # --- ADDED: Inner try-except block for each article ---
-                title_element = item.find("title")
+            try:
+                title_element, link_element, pubDate_element = item.find("title"), item.find("link"), item.find("pubDate")
                 title = title_element.text.strip() if title_element is not None and title_element.text else None
-                
-                link_element = item.find("link")
                 link = link_element.text if link_element is not None else None
-
-                pubDate_element = item.find("pubDate")
                 pubDate_text = pubDate_element.text if pubDate_element is not None else None
-
-                if not all([title, link, pubDate_text]):
-                    # Silently skip if essential data is missing
-                    continue
-
+                if not all([title, link, pubDate_text]): continue
+                
                 pub_dt_naive = parsedate_to_datetime(pubDate_text)
-                if pub_dt_naive.tzinfo is None:
-                    pub_dt_utc = pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
-                else:
-                    pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC"))
-
-                if pub_dt_utc <= time_cutoff_utc:
-                    continue
-
-                articles.append({
-                    "title": title,
-                    "link": link,
-                    "pubDate": pubDate_text
-                })
-
-                if len(articles) >= max_articles:
-                    break
+                pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC")) if pub_dt_naive.tzinfo else pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
+                
+                if pub_dt_utc <= time_cutoff_utc: continue
+                
+                articles.append({"title": title, "link": link, "pubDate": pubDate_text})
+                if len(articles) >= max_articles: break
             except Exception as e:
-                # If one article fails to parse, log it and continue with the next one.
                 logging.warning(f"Skipping one article in topic '{topic}' due to parse error: {e}")
                 continue
-
-        if articles:
-            logging.info(f"Successfully fetched {len(articles)} recent articles for topic '{topic}'.")
         return articles
-        
     except Exception as e:
         logging.error(f"Major error fetching articles for topic '{topic}': {e}", exc_info=True)
         return []
@@ -168,6 +159,28 @@ def contains_banned_keyword(text, banned_terms):
 def get_db_connection():
     if not DATABASE_URL: logging.critical("DATABASE_URL not set."); sys.exit(1)
     return psycopg2.connect(DATABASE_URL)
+
+def load_recent_titles_for_dedup(hours_to_check: int) -> list[str]:
+    """Loads raw titles of all articles from digests created in the last N hours."""
+    titles = []
+    try:
+        conn = get_db_connection(); cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT a.title
+            FROM articles a
+            JOIN digests d ON a.digest_id = d.id
+            WHERE d.created_at >= NOW() - INTERVAL '%s hours'
+            """,
+            (hours_to_check,)
+        )
+        titles = [row[0] for row in cur.fetchall()]
+        cur.close(); conn.close()
+        logging.info(f"Loaded {len(titles)} raw titles from DB to build deduplication set.")
+        return titles
+    except Exception as e:
+        logging.error(f"Could not load recent titles from DB: {e}")
+        return titles
 
 def load_history_from_db(max_digests):
     """Loads a flat list of recent headlines from the DB to use as context for the LLM."""
@@ -190,75 +203,121 @@ def save_digest_to_db(digest_content):
         conn = get_db_connection(); cur = conn.cursor()
         cur.execute("INSERT INTO digests (created_at) VALUES (NOW()) RETURNING id")
         digest_id = cur.fetchone()[0]
-        articles_to_insert = [
-            (digest_id, topic, art["title"], art["link"], parsedate_to_datetime(art["pubDate"]).astimezone(ZoneInfo("UTC")), i)
-            for topic, articles in digest_content.items() for i, art in enumerate(articles)
-        ]
+
+        ### MODIFIED FOR GLOBAL IMPORTANCE SORTING ###
+        # The 'digest_content' dict is now ordered by importance. We use enumerate
+        # to get the topic's rank and save it as the display_order for its articles.
+        articles_to_insert = []
+        for topic_rank, (topic, articles) in enumerate(digest_content.items()):
+            for art in articles:
+                articles_to_insert.append(
+                    (
+                        digest_id, 
+                        topic, 
+                        art["title"], 
+                        art["link"], 
+                        parsedate_to_datetime(art["pubDate"]).astimezone(ZoneInfo("UTC")), 
+                        topic_rank # Use the topic's rank as the global display order
+                    )
+                )
+        ### END MODIFICATION ###
+
         extras.execute_values(cur, "INSERT INTO articles (digest_id, topic, title, link, pub_date, display_order) VALUES %s", articles_to_insert)
         conn.commit()
-        logging.info(f"Saved digest {digest_id} with {len(articles_to_insert)} articles to DB. Deletion is disabled.")
+        logging.info(f"Saved digest {digest_id} with {len(articles_to_insert)} articles to DB, preserving importance order.")
     except Exception as e:
         if conn: conn.rollback()
         logging.error(f"Failed to save digest to DB: {e}", exc_info=True)
     finally:
         if conn: conn.close()
 
-digest_tool_schema = { "type": "object", "properties": { "selected_digest_entries": { "type": "array", "items": { "type": "object", "properties": { "topic_name": {"type": "string"}, "headlines": {"type": "array", "items": {"type": "string"}}}, "required": ["topic_name", "headlines"]}}}, "required": ["selected_digest_entries"]}
-SELECT_DIGEST_ARTICLES_TOOL = Tool(function_declarations=[FunctionDeclaration(name="format_digest_selection", description="Formats the selected news.", parameters=digest_tool_schema)])
+# --- Gemini Interaction ---
 
-def prioritize_with_gemini(
-    headlines_to_send: dict,
-    digest_history: list,
-    gemini_api_key: str,
-    topic_weights: dict,
-    keyword_weights: dict,
-    overrides: dict
-) -> dict:
+# NEW SCHEMA: Now includes a mandatory 'importance_rank' field.
+digest_tool_schema = {
+    "type": "object",
+    "properties": {
+        "selected_digest_entries": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "topic_name": {"type": "string"},
+                    "selected_article_ids": {"type": "array", "items": {"type": "string"}},
+                    "importance_rank": {
+                        "type": "integer",
+                        "description": "A numerical rank for the topic's importance (1 is the most important, 2 is second most important, etc.). This field is mandatory."
+                    }
+                },
+                "required": ["topic_name", "selected_article_ids", "importance_rank"]
+            }
+        }
+    },
+    "required": ["selected_digest_entries"]
+}
+SELECT_DIGEST_ARTICLES_TOOL = Tool(function_declarations=[FunctionDeclaration(name="format_digest_selection", description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.", parameters=digest_tool_schema)])
+
+def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name=GEMINI_MODEL_NAME, tools=[SELECT_DIGEST_ARTICLES_TOOL])
-
     pref_data = {"topic_weights": topic_weights, "keyword_weights": keyword_weights, "banned_terms": [k for k, v in overrides.items() if v == "ban"], "demoted_terms": [k for k, v in overrides.items() if v == "demote"]}
     
+    # PROMPT UPDATED with instructions to prioritize informative headlines
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
         f"### Inputs Provided\n1.  **User Preferences:**\n```json\n{json.dumps(pref_data, indent=2)}\n```\n"
-        f"2.  **Candidate Headlines:**\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
+        f"2.  **Candidate Articles:** Each article has a unique `id` for you to reference.\n```json\n{json.dumps(candidates_to_send, indent=2)}\n```\n"
         f"3.  **Digest History:**\n```json\n{json.dumps(digest_history, indent=2)}\n```\n\n"
         "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
-        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event. From each cluster, select ONLY ONE headline—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other headlines in that cluster immediately.\n\n"
-        "**Step 2: History-Based Filtering**\nNow, take your deduplicated list of 'champion' headlines. Compare each one against the `Digest History`. If any of your champion headlines reports on the exact same event that has already been sent, DISCARD it.\n\n"
-        "**Step 3: Rigorous Relevance & Quality Filtering**\nFor the remaining, unique, and new headlines, apply the following strict filtering criteria with full force:\n"
+        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Articles`. Your primary task is to identify and group all articles from ALL topics that cover the same core news event. From each cluster, select ONLY ONE article—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other articles in that cluster immediately.\n\n"
+        "**Step 2: History-Based Filtering**\nNow, take your deduplicated list of 'champion' articles. Compare each one against the `Digest History`. If any of your champion articles reports on the exact same event that has already been sent, DISCARD it.\n\n"
+        "**Step 3: Rigorous Relevance & Quality Filtering**\nFor the remaining, unique, and new articles, apply the following strict filtering criteria with full force:\n"
         f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "*   **Audience Focus (CRITICAL):** The digest is for a **US-specific audience**. AGGRESSIVELY REJECT articles about local or regional events outside the United States that have no significant impact on a US audience (e.g., local elections in other countries, regional crime stories, municipal news). Retain international news only if it has a clear and significant impact on US interests, politics, or the economy.\n"
+        ### NEW CRITERION FOR INFORMATIVENESS ###
+        "*   **Headline Informativeness (CRITICAL):** Prioritize headlines that are self-contained statements of fact. AGGRESSIVELY REJECT or heavily down-rank 'content-free' headlines. This includes:\n"
+        "    *   **Vague Teasers:** Headlines that require a click to understand the basic story (e.g., 'Here's what experts are saying about the economy').\n"
+        "    *   **Unanswered Questions:** Headlines phrased as questions without providing the answer (e.g., 'Will the new law pass?').\n"
+        "    *   **Simple Topic Labels:** Headlines that just name a subject without reporting an event (e.g., 'A Look at the Housing Market').\n"
+        "    *   **Instead, select headlines that deliver the core news directly.** For example, prefer 'Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns' over 'What Will the Federal Reserve Do Next?'.\n"
         "*   **Content Quality & Style (CRITICAL):** AGGRESSIVELY AVOID AND REJECT headlines that are: Sensationalist, celebrity gossip, clickbait, primarily opinion/op-ed pieces, or resemble 'hot stock tips'. Focus on content-rich, factual, objective reporting.\n\n"
-        "**Step 4: Final Selection and Ordering**\nFrom the fully filtered and vetted pool of headlines, make your final selection. Order topics and headlines from most to least significant based on a blend of user preference and objective news importance.\n\n"
-        "### Final Output\nBased on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool."
+        "**Step 4: Final Selection and Ranking**\nFrom the fully filtered and vetted pool of articles, make your final selection. **For each topic you select, you must assign a numerical `importance_rank`, where 1 is the most significant topic.**\n\n"
+        "### Final Output\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool. "
+        "You must populate the mandatory `importance_rank` for every topic and return the unique `id` of each selected article."
     )
-
-    logging.info("Sending request to Gemini for prioritization with history.")
+    # ... The rest of the function remains the same ...
+    logging.info(f"Sending request to Gemini for prioritization with {len(candidates_to_send)} top candidates.")
     try:
         response = model.generate_content([prompt], tool_config={"function_calling_config": "any"})
         function_call_part = next((part.function_call for part in response.candidates[0].content.parts if hasattr(part, 'function_call')), None)
-
         if function_call_part and function_call_part.name == "format_digest_selection":
             args = function_call_part.args
-            logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}).")
-            transformed_output = {}
+            logging.info("Gemini used tool 'format_digest_selection'.")
+            ranked_results = []
             if isinstance(args, (MapComposite, dict)):
                 entries = args.get("selected_digest_entries", [])
                 if isinstance(entries, (RepeatedComposite, list)):
                     for entry in entries:
                         if isinstance(entry, (MapComposite, dict)):
                             topic = entry.get("topic_name")
-                            headlines = [str(h) for h in entry.get("headlines", [])]
-                            if topic and headlines: transformed_output[topic.strip()] = headlines
-            logging.info(f"Transformed output from Gemini tool call: {transformed_output}")
-            return transformed_output
+                            rank = entry.get("importance_rank")
+                            article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
+                            if rank is None:
+                                logging.warning(f"Model failed to provide importance_rank for topic '{topic}'. Defaulting to 99.")
+                                rank = 99
+                            if topic and article_ids:
+                                ranked_results.append((int(rank), topic.strip(), article_ids))
+            ranked_results.sort()
+            ordered_selected_ids = {topic: ids for rank, topic, ids in ranked_results}
+            logging.info(f"Transformed and sorted ID output from Gemini: {ordered_selected_ids}")
+            return ordered_selected_ids
         else:
             logging.warning("Gemini did not use the expected tool."); return {}
     except Exception as e:
         logging.error(f"Error during Gemini API call: {e}", exc_info=True); return {}
-
-
+     
+# --- Main Execution ---
 def main():
     logging.info("--- Main execution starting ---")
     try:
@@ -267,74 +326,111 @@ def main():
             logging.critical("Missing GEMINI_API_KEY. Exiting.")
             sys.exit(1)
 
-        # 1. Load history from DB for LLM context.
+        # 1. Load history and build in-memory deduplication set.
         recent_headlines_for_llm = load_history_from_db(MAX_HISTORY_DIGESTS)
+        recent_raw_titles = load_recent_titles_for_dedup(hours_to_check=48)
+        published_title_fingerprints = {create_title_fingerprint(t) for t in recent_raw_titles}
+        logging.info(f"Created in-memory set with {len(published_title_fingerprints)} unique fingerprints for deduplication.")
 
-        # 2. Fetch articles and apply a correctly built banned keyword filter.
-        headlines_to_send_to_llm = {}
-        full_articles_map_this_run = {}
-    
-        # First, we normalize ALL potential banned terms.
+        # 2. Fetch, filter, and score all articles locally.
+        all_candidate_articles = []
+        seen_fingerprints_this_run = set()
+        # In the main() function
+
+        all_candidate_articles = []
+        seen_fingerprints_this_run = set()
+        
+        # --- ROBUST BANNED KEYWORD PREPARATION ---
         all_normalized_terms = [normalize(k) for k, v in OVERRIDES.items() if v == "ban"]
         # THEN, we create the final list, filtering out any that became empty strings.
         normalized_banned_terms = [term for term in all_normalized_terms if term]
+        if len(all_normalized_terms) != len(normalized_banned_terms):
+            logging.warning("Filtered out empty or whitespace-only banned keywords from your overrides list.")
+        logging.info(f"Using {len(normalized_banned_terms)} valid banned keywords for filtering.")
 
-        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 5))
-
-        logging.info(f"Fetching articles. Valid banned terms being used: {normalized_banned_terms}")
+        
+        logging.info("--- Starting Article Fetching and Filtering Stage ---")
         for topic in TOPIC_WEIGHTS:
-            fetched_articles = fetch_articles_for_topic(topic, articles_to_fetch_per_topic)
+            logging.debug(f"\n===== Processing Topic: {topic} =====")
+            fetched_articles = fetch_articles_for_topic(topic, int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 5)))
+            
             if not fetched_articles:
+                logging.debug(f"No recent articles returned from RSS feed for topic: '{topic}'.")
                 continue
 
-            current_topic_headlines = []
+            logging.debug(f"Fetched {len(fetched_articles)} articles for '{topic}'. Evaluating each...")
             for art in fetched_articles:
-                if contains_banned_keyword(art['title'], normalized_banned_terms):
-                    logging.debug(f"Skipping (banned keyword): {art['title']}")
+                title = art['title']
+                fingerprint = create_title_fingerprint(title)
+                
+                logging.debug(f"  -> Evaluating: '{title}'")
+
+                # Perform all deterministic checks first
+                if fingerprint in published_title_fingerprints:
+                    logging.debug(f"     [FILTERED] Reason: Already published in a recent digest.")
                     continue
                 
-                current_topic_headlines.append(art['title'])
-                norm_title = normalize(art['title'])
-                if norm_title not in full_articles_map_this_run:
-                    full_articles_map_this_run[norm_title] = art
-            
-            if current_topic_headlines:
-                headlines_to_send_to_llm[topic] = current_topic_headlines
+                if fingerprint in seen_fingerprints_this_run:
+                    logging.debug(f"     [FILTERED] Reason: Duplicate article found in this run.")
+                    continue
 
-        if not headlines_to_send_to_llm:
-            logging.warning("Still no headlines after fetching and filtering.")
+                if contains_banned_keyword(title, normalized_banned_terms):
+                    logging.debug(f"     [FILTERED] Reason: Contains a banned keyword.")
+                    continue
+                
+                # If all checks pass, it's a valid candidate
+                logging.info(f"     [ACCEPTED] Adding as candidate: '{title}'")
+                score = calculate_local_score(title, topic, TOPIC_WEIGHTS, KEYWORD_WEIGHTS)
+                all_candidate_articles.append({'score': score, 'article_data': art, 'topic': topic})
+                seen_fingerprints_this_run.add(fingerprint)
+
+        if not all_candidate_articles:
+            logging.warning("No new, unique headlines found after fetching and filtering. Exiting run.")
+            # The detailed logs above will now explain WHY this happened.
+            logging.info("--- Worker script finished ---")
             return
-        
-        total_candidates = sum(len(v) for v in headlines_to_send_to_llm.values())
-        logging.info(f"SUCCESS: Sending {total_candidates} candidate headlines across {len(headlines_to_send_to_llm)} topics to Gemini.")
 
-        # 3. Call Gemini.
-        selected_raw = prioritize_with_gemini(
-            headlines_to_send=headlines_to_send_to_llm,
+        # 3. Select the top candidates to send to the LLM.
+        # ... (rest of your main function is unchanged) ...
+        all_candidate_articles.sort(key=lambda x: x['score'], reverse=True)
+        top_candidates = all_candidate_articles[:MAX_CANDIDATES_FOR_LLM]
+
+        # 4. Prepare data for Gemini with unique IDs for robust mapping.
+        id_to_article_map = {}
+        candidates_for_gemini = []
+        for i, candidate in enumerate(top_candidates):
+            article_id = f"art_{i:03d}"
+            id_to_article_map[article_id] = candidate['article_data']
+            candidates_for_gemini.append({"id": article_id, "topic": candidate['topic'], "title": candidate['article_data']['title']})
+        
+        logging.info(f"Locally scored and filtered down to {len(candidates_for_gemini)} top candidates to send to Gemini.")
+
+        # 5. Call Gemini with the curated list.
+        selected_ids_by_topic = prioritize_with_gemini(
+            candidates_to_send=candidates_for_gemini,
             digest_history=recent_headlines_for_llm,
             gemini_api_key=gemini_api_key,
             topic_weights=TOPIC_WEIGHTS,
             keyword_weights=KEYWORD_WEIGHTS,
             overrides=OVERRIDES
         )
-        if not selected_raw:
+        if not selected_ids_by_topic:
             logging.warning("Gemini returned no content. Exiting."); return
 
-        # 4. Map and save results.
+        # 6. Map results using the robust IDs and save.
         final_digest = {}
-        seen_titles = set()
-        for topic, titles in selected_raw.items():
+        seen_article_ids = set()
+        for topic, article_ids in selected_ids_by_topic.items():
             articles_for_topic = []
-            for title in titles[:MAX_ARTICLES_PER_TOPIC]:
-                norm_title = normalize(title)
-                if norm_title in seen_titles: continue
+            for article_id in article_ids[:MAX_ARTICLES_PER_TOPIC]:
+                if article_id in seen_article_ids: continue
                 
-                article_data = full_articles_map_this_run.get(norm_title)
+                article_data = id_to_article_map.get(article_id)
                 if article_data:
                     articles_for_topic.append(article_data)
-                    seen_titles.add(norm_title)
+                    seen_article_ids.add(article_id)
                 else:
-                    logging.warning(f"Could not map LLM title '{title}' back to a fetched article.")
+                    logging.warning(f"Gemini returned an unknown article ID '{article_id}' for topic '{topic}'.")
             
             if articles_for_topic:
                 final_digest[topic] = articles_for_topic
