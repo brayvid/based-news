@@ -142,18 +142,16 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   
-  <script>
+ <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // --- Business Day Helper Function (UTC) ---
+        // --- Business Day Helper Function (Correct) ---
         function addBusinessDays(utcTimestamp, days) {
             let currentDate = new Date(utcTimestamp);
             let added = 0;
             while (added < days) {
                 currentDate.setUTCDate(currentDate.getUTCDate() + 1);
                 const dayOfWeek = currentDate.getUTCDay();
-                if (dayOfWeek !== 0 && dayOfWeek !== 6) { // 0=Sun, 6=Sat
-                    added++;
-                }
+                if (dayOfWeek !== 0 && dayOfWeek !== 6) { added++; }
             }
             return currentDate;
         }
@@ -186,17 +184,18 @@
             const forecastPercentage = prediction.direction === 'UP' ? 1.015 : 0.985;
             const forecastTarget = lastPrice * forecastPercentage;
 
+            // --- THE FINAL FIX: Create a simple two-point line ---
             const forecastLineData = [];
             const numForecastDays = 5;
-            
+
+            // Point 1: The start of the forecast line (the last real data point)
             forecastLineData.push({ x: lastTimestamp, y: lastPrice });
 
-            for (let i = 1; i <= numForecastDays; i++) {
-                const futureDate = addBusinessDays(lastTimestamp, i);
-                const futureTimestamp = futureDate.getTime();
-                const interpolatedPrice = lastPrice + (forecastTarget - lastPrice) * (i / numForecastDays);
-                forecastLineData.push({ x: futureTimestamp, y: interpolatedPrice });
-            }
+            // Point 2: The end of the forecast line (5 business days in the future)
+            const futureDate = addBusinessDays(lastTimestamp, numForecastDays);
+            const futureTimestamp = futureDate.getTime();
+            forecastLineData.push({ x: futureTimestamp, y: forecastTarget });
+            // --------------------------------------------------------
             
             new Chart(ctx, {
                 type: 'line',
@@ -215,10 +214,11 @@
                         borderWidth: 2,
                         borderDash: [5, 5],
                         pointRadius: 0,
-                        tension: 0
+                        tension: 0 // Keep tension at 0 for a straight line
                     }]
                 },
                 options: {
+                    // ... (all options are correct) ...
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: {
