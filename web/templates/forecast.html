@@ -7,7 +7,7 @@
   <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" sizes="any">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<style>
+  <style>
     :root { color-scheme: dark; }
     body { margin: 0; font-family: 'Open Sans', sans-serif; background-color: #121212; color: #e0e0e0; line-height: 1.6; }
     .container { width: 90%; max-width: 800px; margin: 0 auto; padding-top: 4px; }
@@ -55,40 +55,15 @@
         height: 300px;
         margin-top: 1.5em;
     }
-    .evidence-section { display: none; }
-    .evidence-section h3 {
-        font-family: 'Merriweather', serif;
-        font-size: 1.1em;
-        margin-top: 1.5em;
-        margin-bottom: 0.5em;
-        border-bottom: 1px solid #3a3a3a;
-        padding-bottom: 0.3em;
-    }
-    .evidence-list { list-style-type: none; padding-left: 0; }
-    .evidence-list li { margin-bottom: 0.8em; font-size: 0.95em; color: #bbb; }
-    .evidence-list li small { color: #888; margin-right: 8px; }
     footer { text-align: center; font-size: 0.9em; color: #999; padding: 2em 0; }
     footer a { color: #8ab4f8; }
 
-    /* --- NEW: MOBILE STYLES --- */
     @media (max-width: 600px) {
-        .card-header h2 {
-            font-size: 1.2em; /* Make the date slightly smaller */
-        }
-        .prediction-details {
-            flex-direction: column; /* Stack vertically */
-            align-items: flex-start; /* Align to the left */
-            gap: 0.25em; /* Add a small space between them */
-        }
-        .prediction-signal {
-            font-size: 1.2em; /* Reduce font size */
-        }
-        .confidence {
-            font-size: 1.0em; /* Reduce font size */
-        }
+        .card-header h2 { font-size: 1.2em; }
+        .prediction-details { flex-direction: column; align-items: flex-start; gap: 0.25em; }
+        .prediction-signal { font-size: 1.2em; }
+        .confidence { font-size: 1.0em; }
     }
-    /* -------------------------- */
-
   </style>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" media="print" onload="this.media='all'" />
 </head>
@@ -101,36 +76,29 @@
   </header>
 
   <main class="container">
-    {% for prediction in predictions %}
-    <div class="prediction-card">
-        <div class="card-header">
-            <h2>{{ prediction.news_date_formatted }}</h2>
-            <div class="prediction-details">
-                {% if prediction.direction == 'UP' %}
-                    <span class="prediction-signal prediction-up">1-WEEK FORECAST: HIGHER ↑</span>
-                {% else %}
-                    <span class="prediction-signal prediction-down">1-WEEK FORECAST: LOWER ↓</span>
-                {% endif %}
-                <span class="confidence">Confidence: {{ "%.1f"|format(prediction.confidence * 100) }}%</span>
+    {% if predictions %}
+        {% set latest_prediction = predictions[0] %}
+        
+        <div class="prediction-card">
+            <div class="card-header">
+                <h2>{{ latest_prediction.news_date_formatted }}</h2>
+                <div class="prediction-details">
+                    {% if latest_prediction.direction == 'UP' %}
+                        <span class="prediction-signal prediction-up">1-WEEK FORECAST: HIGHER ↑</span>
+                    {% else %}
+                        <span class="prediction-signal prediction-down">1-WEEK FORECAST: LOWER ↓</span>
+                    {% endif %}
+                    <span class="confidence">Confidence: {{ "%.1f"|format(latest_prediction.confidence * 100) }}%</span>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <canvas id="forecast-chart"></canvas>
             </div>
         </div>
-        
-        <div class="chart-container">
-            <canvas id="chart-{{ loop.index }}"></canvas>
-        </div>
-
-        <!-- <div class="evidence-section">
-            <h3>Driving Evidence</h3>
-            <ul class="evidence-list">
-                {% for evidence in prediction.evidence if evidence.headline %}
-                <li><small>(ID: {{ evidence.id }})</small> "{{ evidence.headline }}"</li>
-                {% endfor %}
-            </ul>
-        </div> -->
-    </div>
     {% else %}
-        <p>No predictions found in the database yet.</p>
-    {% endfor %}
+        <p>No forecasts found. Forecasts are generated on weekdays shortly before the market opens.</p>
+    {% endif %}
   </main>
 
   <footer>
@@ -142,40 +110,39 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   
- <script>
+  <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // --- Business Day Helper Function (Correct) ---
-        function addBusinessDays(utcTimestamp, days) {
-            let currentDate = new Date(utcTimestamp);
-            let added = 0;
-            while (added < days) {
-                currentDate.setUTCDate(currentDate.getUTCDate() + 1);
-                const dayOfWeek = currentDate.getUTCDay();
-                if (dayOfWeek !== 0 && dayOfWeek !== 6) { added++; }
+        const jsonString = '{{ predictions | tojson | safe }}';
+        const predictionsData = JSON.parse(jsonString);
+
+        // --- THE FIX: Check for data inside JavaScript ---
+        if (predictionsData && predictionsData.length > 0) {
+            const prediction = predictionsData[0]; // Get the latest prediction
+
+            // --- Business Day Helper Function ---
+            function addBusinessDays(utcTimestamp, days) {
+                let currentDate = new Date(utcTimestamp);
+                let added = 0;
+                while (added < days) {
+                    currentDate.setUTCDate(currentDate.getUTCDate() + 1);
+                    const dayOfWeek = currentDate.getUTCDay();
+                    if (dayOfWeek !== 0 && dayOfWeek !== 6) { added++; }
+                }
+                return currentDate;
             }
-            return currentDate;
-        }
-
-        const predictionsJson = '{{ predictions | tojson | safe }}';
-        const predictionsData = JSON.parse(predictionsJson);
-        const timezoneOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
-
-        predictionsData.forEach((prediction, index) => {
-            const canvasId = `chart-${index + 1}`;
-            const ctx = document.getElementById(canvasId);
+            
+            const ctx = document.getElementById('forecast-chart');
             if (!ctx) return;
 
             const chartData = prediction.chart_data;
             if (!chartData || !chartData.points || chartData.points.length === 0) {
                 const container = ctx.parentElement;
-                if(container) container.style.display = 'none';
+                if (container) container.style.display = 'none';
                 return; 
             }
 
-            const adjustedHistoricalPoints = chartData.points.map(point => ({
-                x: point.x + timezoneOffsetMs,
-                y: point.y
-            }));
+            const timezoneOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
+            const adjustedHistoricalPoints = chartData.points.map(point => ({ x: point.x + timezoneOffsetMs, y: point.y }));
 
             const lastPoint = adjustedHistoricalPoints[adjustedHistoricalPoints.length - 1];
             const lastTimestamp = lastPoint.x;
@@ -184,75 +151,33 @@
             const forecastPercentage = prediction.direction === 'UP' ? 1.015 : 0.985;
             const forecastTarget = lastPrice * forecastPercentage;
 
-            // --- THE FINAL FIX: Create a simple two-point line ---
             const forecastLineData = [];
             const numForecastDays = 5;
-
-            // Point 1: The start of the forecast line (the last real data point)
             forecastLineData.push({ x: lastTimestamp, y: lastPrice });
 
-            // Point 2: The end of the forecast line (5 business days in the future)
             const futureDate = addBusinessDays(lastTimestamp, numForecastDays);
             const futureTimestamp = futureDate.getTime();
             forecastLineData.push({ x: futureTimestamp, y: forecastTarget });
-            // --------------------------------------------------------
             
             new Chart(ctx, {
                 type: 'line',
                 data: {
-                    datasets: [{
-                        label: 'SPY Daily Close',
-                        data: adjustedHistoricalPoints,
-                        borderColor: 'rgb(75, 192, 192)',
-                        borderWidth: 2,
-                        pointRadius: 0,
-                        tension: 0.1
-                    }, {
-                        label: '1-Week Forecast',
-                        data: forecastLineData,
-                        borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)',
-                        borderWidth: 2,
-                        borderDash: [5, 5],
-                        pointRadius: 0,
-                        tension: 0 // Keep tension at 0 for a straight line
-                    }]
+                    datasets: [
+                        { label: 'SPY Daily Close', data: adjustedHistoricalPoints, borderColor: 'rgb(75, 192, 192)', borderWidth: 2, pointRadius: 0, tension: 0.1 },
+                        { label: '1-Week Forecast', data: forecastLineData, borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', borderWidth: 2, borderDash: [5, 5], pointRadius: 0, tension: 0 }
+                    ]
                 },
                 options: {
-                    // ... (all options are correct) ...
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: {
-                        x: {
-                            type: 'time',
-                            time: {
-                                unit: 'day',
-                                tooltipFormat: 'MMM dd, yyyy'
-                            },
-                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
-                            ticks: {
-                                color: '#ccc',
-                                source: 'auto',
-                                maxRotation: 0,
-                                autoSkip: true,
-                                maxTicksLimit: 10,
-                            }
-                        },
-                        y: {
-                            position: 'right',
-                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
-                            ticks: { color: '#ccc' }
-                        }
+                        x: { type: 'time', time: { unit: 'day', tooltipFormat: 'MMM dd, yyyy' }, grid: { color: 'rgba(255, 255, 255, 0.1)' }, ticks: { color: '#ccc', source: 'auto', maxRotation: 0, autoSkip: true, maxTicksLimit: 10 } },
+                        y: { position: 'right', grid: { color: 'rgba(255, 255, 255, 0.1)' }, ticks: { color: '#ccc' } }
                     },
-                    plugins: {
-                        legend: { display: false },
-                        tooltip: { 
-                            intersect: false, 
-                            mode: 'nearest'
-                        }
-                    }
+                    plugins: { legend: { display: false }, tooltip: { intersect: false, mode: 'nearest' } }
                 }
             });
-        });
+        }
     });
   </script>
 </body>
