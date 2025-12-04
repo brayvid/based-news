@@ -3,63 +3,46 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Market Forecast | Based News</title>
+  <title>S&P 500 Forecast | Based News</title>
   <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" sizes="any">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
     :root { color-scheme: dark; }
-    body { margin: 0; font-family: 'Open Sans', sans-serif; background-color: #121212; color: #e0e0e0; line-height: 1.6; }
+    body { margin: 0; font-family: 'Open Sans', sans-serif; background-color: #121212; color: #e0e0e0; line-height: 1.6; overscroll-behavior-x: none; }
     .container { width: 90%; max-width: 800px; margin: 0 auto; padding-top: 4px; }
     header { background-color: #121212; padding: 1.5em 0; text-align: center; }
     header h1 { margin: 0; font-family: 'Merriweather', serif; font-size: clamp(1.8em, 8vw, 2.5em); color: #e0e0e0; cursor: pointer; }
     header h1:hover { text-decoration: underline; }
     header h1 a { color: inherit; text-decoration: none; }
     .subheading { margin-top: 0.5em; font-size: 1.1em; color: #bbb; }
-    main { padding-top: 1em; }
-    .prediction-card {
-        background: #1e1e1e;
-        border: 1px solid #333;
-        margin-bottom: 2em;
-        padding: 1.5em;
-    }
-    .card-header {
-        border-bottom: 1px solid #444;
-        padding-bottom: 0.8em;
-        margin-bottom: 1em;
-    }
-    .card-header h2 {
-        font-family: 'Merriweather', serif;
-        margin: 0;
-        font-size: 1.4em;
-    }
-    .prediction-details {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-top: 0.5em;
-        flex-wrap: wrap;
-    }
-    .prediction-signal {
-        font-size: 1.5em;
-        font-weight: bold;
-    }
-    .prediction-up { color: #4CAF50; } /* Green */
-    .prediction-down { color: #F44336; } /* Red */
-    .confidence {
-        font-size: 1.2em;
-        color: #ccc;
-    }
-    .chart-container {
-        position: relative;
-        height: 300px;
-        margin-top: 1.5em;
-    }
+    
+    main { background: #1e1e1e; border: 1px solid #333; margin-top: 2em; padding: 2em 1.6em; }
+    .prediction-card { padding: 0; margin: 0; }
+    .card-header { border-bottom: 1px solid #444; padding-bottom: 0.8em; margin-bottom: 1em; }
+    .prediction-details { display: flex; justify-content: space-between; align-items: center; margin-top: 0.5em; flex-wrap: wrap; }
+    .prediction-signal { font-size: 1.5em; font-weight: bold; }
+    .prediction-up { color: #4CAF50; }
+    .prediction-down { color: #F44336; }
+    .confidence { font-size: 1.2em; color: #ccc; }
+    .chart-container { position: relative; height: 300px; margin-top: 1.5em; }
     footer { text-align: center; font-size: 0.9em; color: #999; padding: 2em 0; }
     footer a { color: #8ab4f8; }
 
+    .forecast-pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 1em; margin-top: 1em; user-select: none; }
+    .arrow-btn { background-color: transparent; border: none; color: #aaa; font-size: 18px; cursor: pointer; padding: 5px; line-height: 1; transition: color 0.2s; }
+    .arrow-btn:hover:not(:disabled) { color: #fff; }
+    .arrow-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+    #dots-container { display: flex; align-items: center; gap: 12px; }
+    .dot { width: 10px; height: 10px; background-color: #555; border-radius: 50%; cursor: pointer; transition: background-color 0.2s, transform 0.2s; flex-shrink: 0; }
+    .dot.active { background-color: #4a90e2; transform: scale(1.2); }
+    .forecast-timestamp { font-family: 'Merriweather', serif; font-size: 1.1em; text-align: center; color: #ccc; margin-bottom: 1em; border-bottom: 1px solid #444; padding-bottom: 0.5em; }
+    #forecast-slider-wrapper { overflow: hidden; position: relative; width: 100%; transition: height 0.25s ease-in-out; min-height: 400px; padding-bottom: 1em; }
+    #forecast-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
+    .forecast-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; }
+
     @media (max-width: 600px) {
-        .card-header h2 { font-size: 1.2em; }
+        main { padding: 1.2em 1em; }
         .prediction-details { flex-direction: column; align-items: flex-start; gap: 0.25em; }
         .prediction-signal { font-size: 1.2em; }
         .confidence { font-size: 1.0em; }
@@ -71,29 +54,41 @@
   <header>
     <div class="container">
       <h1><a href="{{ url_for('index') }}">Based News Reader</a></h1>
-      <p class="subheading">Market Forecast (S&P 500)</p>
+      <p class="subheading">S&P 500 Forecast</p>
     </div>
   </header>
 
   <main class="container">
     {% if predictions %}
-        {% set latest_prediction = predictions[0] %}
+        <div class="forecast-pagination">
+          <button id="older-btn" class="arrow-btn" disabled title="Older Forecast">◄</button>
+          <div id="dots-container"></div>
+          <button id="newer-btn" class="arrow-btn" disabled title="Newer Forecast">►</button>
+        </div>
+        <p id="forecast-timestamp-header" class="forecast-timestamp"></p>
         
-        <div class="prediction-card">
-            <div class="card-header">
-                <h2>{{ latest_prediction.news_date_formatted }}</h2>
-                <div class="prediction-details">
-                    {% if latest_prediction.direction == 'UP' %}
-                        <span class="prediction-signal prediction-up">1-WEEK FORECAST: HIGHER ↑</span>
-                    {% else %}
-                        <span class="prediction-signal prediction-down">1-WEEK FORECAST: LOWER ↓</span>
-                    {% endif %}
-                    <span class="confidence">Confidence: {{ "%.1f"|format(latest_prediction.confidence * 100) }}%</span>
+        <div id="forecast-slider-wrapper">
+            <div id="forecast-slider">
+                {% for prediction in predictions | reverse %}
+                <div class="forecast-slide">
+                    <div class="prediction-card">
+                        <div class="card-header">
+                            <div class="prediction-details">
+                                {% if prediction.direction == 'UP' %}
+                                    <span class="prediction-signal prediction-up">1-WEEK FORECAST: HIGHER ↑</span>
+                                {% else %}
+                                    <span class="prediction-signal prediction-down">1-WEEK FORECAST: LOWER ↓</span>
+                                {% endif %}
+                                <span class="confidence">Confidence: {{ "%.1f"|format(prediction.confidence * 100) }}%</span>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <canvas id="forecast-chart-{{ loop.index0 }}"></canvas>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="chart-container">
-                <canvas id="forecast-chart"></canvas>
+                {% endfor %}
             </div>
         </div>
     {% else %}
@@ -113,71 +108,159 @@
   <script>
     document.addEventListener('DOMContentLoaded', function() {
         const jsonString = '{{ predictions | tojson | safe }}';
-        const predictionsData = JSON.parse(jsonString);
+        if (!jsonString || jsonString === 'null' || jsonString === '[]') return;
+        
+        const predictionsData = JSON.parse(jsonString).reverse();
 
-        // --- THE FIX: Check for data inside JavaScript ---
-        if (predictionsData && predictionsData.length > 0) {
-            const prediction = predictionsData[0]; // Get the latest prediction
+        const forecastSliderWrapper = document.getElementById("forecast-slider-wrapper");
+        const forecastSlider = document.getElementById("forecast-slider");
+        const olderBtn = document.getElementById("older-btn");
+        const newerBtn = document.getElementById("newer-btn");
+        const dotsContainer = document.getElementById("dots-container");
+        const timestampHeader = document.getElementById("forecast-timestamp-header");
 
-            // --- Business Day Helper Function ---
-            function addBusinessDays(utcTimestamp, days) {
-                let currentDate = new Date(utcTimestamp);
-                let added = 0;
-                while (added < days) {
-                    currentDate.setUTCDate(currentDate.getUTCDate() + 1);
-                    const dayOfWeek = currentDate.getUTCDay();
-                    if (dayOfWeek !== 0 && dayOfWeek !== 6) { added++; }
-                }
-                return currentDate;
-            }
-            
-            const ctx = document.getElementById('forecast-chart');
+        let chartInstances = [];
+        let currentIndex = 0;
+        let totalItems = predictionsData.length;
+        let touchStartX = 0;
+        let touchEndX = 0;
+        const swipeThreshold = 50;
+        
+        function renderChart(index) {
+            if (chartInstances[index] || !predictionsData[index]) return;
+
+            const prediction = predictionsData[index];
+            const ctx = document.getElementById('forecast-chart-' + index);
             if (!ctx) return;
 
             const chartData = prediction.chart_data;
             if (!chartData || !chartData.points || chartData.points.length === 0) {
-                const container = ctx.parentElement;
-                if (container) container.style.display = 'none';
-                return; 
+                if (ctx.parentElement) ctx.parentElement.style.display = 'none';
+                return;
             }
 
-            const timezoneOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
-            const adjustedHistoricalPoints = chartData.points.map(point => ({ x: point.x + timezoneOffsetMs, y: point.y }));
+            function addBusinessDays(utcTimestamp, days) {
+                let d = new Date(utcTimestamp);
+                let added = 0;
+                while (added < days) {
+                    d.setUTCDate(d.getUTCDate() + 1);
+                    if (d.getUTCDay() !== 0 && d.getUTCDay() !== 6) { added++; }
+                }
+                return d;
+            }
 
-            const lastPoint = adjustedHistoricalPoints[adjustedHistoricalPoints.length - 1];
-            const lastTimestamp = lastPoint.x;
-            const lastPrice = lastPoint.y;
+            const tzOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
+            // --- (!!!) CORRECTED LOGIC (!!!) ---
+            // The historical points array is NOT modified. It contains the last point.
+            const histPoints = chartData.points.map(p => ({ x: p.x + tzOffsetMs, y: p.y }));
+            const lastPoint = histPoints[histPoints.length - 1];
             
-            const forecastPercentage = prediction.direction === 'UP' ? 1.015 : 0.985;
-            const forecastTarget = lastPrice * forecastPercentage;
-
-            const forecastLineData = [];
-            const numForecastDays = 5;
-            forecastLineData.push({ x: lastTimestamp, y: lastPrice });
-
-            const futureDate = addBusinessDays(lastTimestamp, numForecastDays);
-            const futureTimestamp = futureDate.getTime();
-            forecastLineData.push({ x: futureTimestamp, y: forecastTarget });
+            const forecastPct = prediction.direction === 'UP' ? 1.015 : 0.985;
+            const forecastTarget = lastPoint.y * forecastPct;
             
-            new Chart(ctx, {
+            // The forecast line ALSO starts with the last point, creating a seamless overlap.
+            const forecastLineData = [{ x: lastPoint.x, y: lastPoint.y }, { x: addBusinessDays(lastPoint.x, 5).getTime(), y: forecastTarget }];
+            
+            chartInstances[index] = new Chart(ctx, {
                 type: 'line',
                 data: {
                     datasets: [
-                        { label: 'SPY Daily Close', data: adjustedHistoricalPoints, borderColor: 'rgb(75, 192, 192)', borderWidth: 2, pointRadius: 0, tension: 0.1 },
-                        { label: '1-Week Forecast', data: forecastLineData, borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', borderWidth: 2, borderDash: [5, 5], pointRadius: 0, tension: 0 }
+                        { label: 'SPY', data: histPoints, borderColor: '#aaaaaa', borderWidth: 2, pointRadius: 0, tension: 0.1 },
+                        { label: 'Forecast', data: forecastLineData, borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', borderWidth: 2, borderDash: [5, 5], pointRadius: 0, tension: 0 }
                     ]
                 },
                 options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
+                    responsive: true, maintainAspectRatio: false,
                     scales: {
-                        x: { type: 'time', time: { unit: 'day', tooltipFormat: 'MMM dd, yyyy' }, grid: { color: 'rgba(255, 255, 255, 0.1)' }, ticks: { color: '#ccc', source: 'auto', maxRotation: 0, autoSkip: true, maxTicksLimit: 10 } },
-                        y: { position: 'right', grid: { color: 'rgba(255, 255, 255, 0.1)' }, ticks: { color: '#ccc' } }
+                        x: { type: 'time', time: { unit: 'day', tooltipFormat: 'MMM dd, yyyy' }, grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#ccc', source: 'auto', maxRotation: 0, autoSkip: true, maxTicksLimit: 10 } },
+                        y: { position: 'right', grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#ccc' } }
                     },
-                    plugins: { legend: { display: false }, tooltip: { intersect: false, mode: 'nearest' } }
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top',
+                            align: 'start',
+                            labels: {
+                                color: '#ccc',
+                                usePointStyle: true,
+                                pointStyle: 'line',
+                                useBorderDash: true,
+                                boxWidth: 20,
+                                padding: 20
+                            }
+                        },
+                        tooltip: {
+                            intersect: false,
+                            mode: 'nearest',
+                            // --- (!!!) IMPLEMENTED REQUEST (!!!) ---
+                            // This hides the color icon in the tooltip.
+                            displayColors: false
+                        }
+                    }
                 }
             });
         }
+        
+        function updateNavControls() {
+            olderBtn.disabled = currentIndex <= 0;
+            newerBtn.disabled = currentIndex >= totalItems - 1;
+            document.querySelectorAll('.dot').forEach((dot, idx) => dot.classList.toggle('active', idx === currentIndex));
+        }
+
+        function updateTimestampHeader() {
+            const prediction = predictionsData[currentIndex];
+            if (prediction && prediction.news_date_formatted) {
+                timestampHeader.textContent = prediction.news_date_formatted;
+            }
+        }
+
+        function adjustWrapperHeight() {
+            const currentSlide = forecastSlider.children[currentIndex];
+            if (currentSlide) requestAnimationFrame(() => { forecastSliderWrapper.style.height = `${currentSlide.offsetHeight}px`; });
+        }
+
+        function showForecast(index) {
+            if (index < 0 || index >= totalItems) return;
+            currentIndex = index;
+            forecastSlider.style.transform = `translateX(-${index * 100}%)`;
+            updateNavControls();
+            updateTimestampHeader();
+            renderChart(index);
+            adjustWrapperHeight();
+        }
+        
+        function handleSwipe() {
+            const deltaX = touchEndX - touchStartX;
+            if (Math.abs(deltaX) > swipeThreshold) {
+                if (deltaX < 0 && currentIndex < totalItems - 1) showForecast(currentIndex + 1); // Swipe left -> newer
+                else if (deltaX > 0 && currentIndex > 0) showForecast(currentIndex - 1); // Swipe right -> older
+            }
+        }
+
+        function initializeCarousel() {
+            if (totalItems === 0) return;
+            
+            dotsContainer.innerHTML = '';
+            for (let i = 0; i < totalItems; i++) {
+                const dot = document.createElement('div');
+                dot.className = 'dot';
+                dot.onclick = () => showForecast(i);
+                dotsContainer.appendChild(dot);
+                chartInstances.push(null);
+            }
+
+            olderBtn.onclick = () => { if (currentIndex > 0) showForecast(currentIndex - 1); };
+            newerBtn.onclick = () => { if (currentIndex < totalItems - 1) showForecast(currentIndex + 1); };
+
+            forecastSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+            forecastSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });
+            
+            window.addEventListener('resize', adjustWrapperHeight);
+            
+            showForecast(totalItems - 1); 
+        }
+        
+        initializeCarousel();
     });
   </script>
 </body>

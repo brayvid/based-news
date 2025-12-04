@@ -71,13 +71,12 @@ def index():
     conn.close()
     return render_template('index.html', latest_digest=latest_digest_data)
 
-@app.route('/forecast') # <-- Renamed route to match your file
+@app.route('/forecast')
 def forecast_dashboard():
     """Serves the AI predictions dashboard with a simple daily close price chart."""
     conn = get_db_connection()
     cur = conn.cursor()
 
-    # --- 1. FETCH PREDICTIONS ---
     cur.execute(
         """
         SELECT 
@@ -93,13 +92,15 @@ def forecast_dashboard():
     if not results:
         return render_template('forecast.html', predictions=[])
 
-    # --- 2. ONE EFFICIENT & ROBUST DOWNLOAD ---
+    # Define the number of historical days to show on each chart
+    HISTORICAL_DAYS = 60 # Approx. 3 months of trading days
+
     master_spy_data = pd.DataFrame()
     try:
         print("INFO: Fetching last 3 months of daily SPY data...")
-        master_spy_data = yf.download("SPY", period="3mo", interval="1d", progress=False)
+        # We fetch a bit more than needed to ensure the oldest forecast has a full window
+        master_spy_data = yf.download("SPY", period="4mo", interval="1d", progress=False) 
         
-        # Add the data cleaning step to handle the multi-level index bug
         if isinstance(master_spy_data.columns, pd.MultiIndex):
             master_spy_data.columns = master_spy_data.columns.get_level_values(0)
         
@@ -109,28 +110,31 @@ def forecast_dashboard():
     except Exception as e:
         print(f"YFinance master download failed: {e}")
 
-    # --- 3. PROCESS PREDICTIONS & FILTER CHART DATA ---
     predictions_list = []
     for row in results:
         news_date_obj = row[0]
         
         chart_data = {'points': []}
         if not master_spy_data.empty:
-            # Filter master data to show prices ON OR BEFORE the prediction's date
+            # First, get all data available up to and including the forecast date
             point_in_time_data = master_spy_data[master_spy_data.index.date <= news_date_obj]
-            
-            if not point_in_time_data.empty:
-                points = []
-                for index, row_price in point_in_time_data.iterrows():
-                    points.append({
-                        'x': int(index.value // 1_000_000),
-                        'y': float(round(row_price['Close'], 2))
-                    })
+
+            # Now, take only the last N days to create a consistent "sliding window"
+            chart_window_data = point_in_time_data.tail(HISTORICAL_DAYS)
+
+            # Proceed using the new, sliced chart_window_data
+            if not chart_window_data.empty:
+                points = [
+                    {'x': int(index.value // 1_000_000), 'y': float(round(row_price['Close'], 2))}
+                    for index, row_price in chart_window_data.iterrows()
+                ]
                 chart_data['points'] = points
+        
+        formatted_date = f"{news_date_obj.strftime('%A, %B')} {news_date_obj.day}, {news_date_obj.year}"
 
         prediction = {
             "news_date": news_date_obj.strftime('%Y-%m-%d'),
-            "news_date_formatted": news_date_obj.strftime('%B %d, %Y'),
+            "news_date_formatted": formatted_date,
             "direction": str(row[1]),
             "confidence": float(row[2]),
             "evidence": [
