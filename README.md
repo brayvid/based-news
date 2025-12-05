@@ -1,7 +1,3 @@
-Here is the updated README.md incorporating the new AI Market Forecast functionality, updated tech stack, and directory structure.
-
-***
-
 # Based News Reader
 
 This project is a fully automated news digest and market intelligence web app. It fetches headlines from Google News, uses Google's Gemini AI to intelligently select and rank them based on user preferences, and serves the content from a live database. Additionally, it features a Machine Learning engine that analyzes news sentiment to forecast stock market trends.
