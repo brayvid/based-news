@@ -35,3 +35,8 @@ dist/
 
 based_news.lock
 summary.lock
+
+
+.DS_Store
+
+models/

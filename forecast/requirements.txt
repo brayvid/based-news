@@ -1,0 +1,15 @@
+# Data & Math
+pandas
+numpy
+
+# Machine Learning & NLP
+scikit-learn
+joblib
+
+# Finance & Database
+yfinance
+psycopg2-binary
+python-dotenv
+
+# Utilities (for timezones)
+pytz
