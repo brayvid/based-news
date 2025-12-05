@@ -54,7 +54,7 @@
   <header>
     <div class="container">
       <h1><a href="{{ url_for('index') }}">Based News Reader</a></h1>
-      <p class="subheading">S&P 500 forecast, updated weekdays after market close.</p>
+      <p class="subheading">S&P 500 forecast updated weekdays shortly before market open.</p>
     </div>
   </header>
 
@@ -92,7 +92,7 @@
             </div>
         </div>
     {% else %}
-        <p>No forecasts found. Forecasts are generated on weekdays shortly before the market opens.</p>
+        <p>No forecasts found. Forecasts generated on weekdays shortly before market open.</p>
     {% endif %}
   </main>
 
@@ -150,7 +150,6 @@
             }
 
             const tzOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
-            // --- (!!!) CORRECTED LOGIC (!!!) ---
             // The historical points array is NOT modified. It contains the last point.
             const histPoints = chartData.points.map(p => ({ x: p.x + tzOffsetMs, y: p.y }));
             const lastPoint = histPoints[histPoints.length - 1];
@@ -192,8 +191,6 @@
                         tooltip: {
                             intersect: false,
                             mode: 'nearest',
-                            // --- (!!!) IMPLEMENTED REQUEST (!!!) ---
-                            // This hides the color icon in the tooltip.
                             displayColors: false
                         }
                     }

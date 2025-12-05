@@ -6,8 +6,11 @@ from collections import OrderedDict
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import psycopg2
+import psycopg2.extras
 import yfinance as yf
 import pandas as pd
+import numpy as np
+
 from flask import Flask, render_template, jsonify, abort, redirect, url_for
 
 from dotenv import load_dotenv
@@ -19,6 +22,8 @@ app = Flask(__name__)
 DATABASE_URL = os.environ.get('DATABASE_URL')
 if not DATABASE_URL:
     raise RuntimeError("DATABASE_URL environment variable is not set.")
+
+TICKER = "SPY"
 
 # Get timezone from environment or use a default
 USER_TIMEZONE = os.environ.get("TIMEZONE", "America/New_York")
@@ -72,83 +77,72 @@ def index():
     return render_template('index.html', latest_digest=latest_digest_data)
 
 @app.route('/forecast')
-def forecast_dashboard():
-    """Serves the AI predictions dashboard with a simple daily close price chart."""
+def forecast_page():
+    """
+    Renders the forecast page with predictions and their corresponding
+    historical price charts.
+    """
     conn = get_db_connection()
-    cur = conn.cursor()
-
-    cur.execute(
-        """
-        SELECT 
-            news_date, direction, confidence,
-            evidence_1, evidence_1_id, evidence_2, evidence_2_id, evidence_3, evidence_3_id
-        FROM predictions
-        ORDER BY prediction_date DESC
-        LIMIT 20;
-        """
-    )
-    results = cur.fetchall()
+    # Use a DictCursor to get results as dictionaries
+    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
-    if not results:
-        return render_template('forecast.html', predictions=[])
-
-    # Define the number of historical days to show on each chart
-    HISTORICAL_DAYS = 60 # Approx. 3 months of trading days
-
-    master_spy_data = pd.DataFrame()
-    try:
-        print("INFO: Fetching last 3 months of daily SPY data...")
-        # We fetch a bit more than needed to ensure the oldest forecast has a full window
-        master_spy_data = yf.download("SPY", period="4mo", interval="1d", progress=False) 
-        
-        if isinstance(master_spy_data.columns, pd.MultiIndex):
-            master_spy_data.columns = master_spy_data.columns.get_level_values(0)
-        
-        if master_spy_data.empty or not pd.api.types.is_numeric_dtype(master_spy_data['Close']):
-            print("WARNING: Master SPY data download failed or was invalid.")
-            master_spy_data = pd.DataFrame()
-    except Exception as e:
-        print(f"YFinance master download failed: {e}")
-
-    predictions_list = []
-    for row in results:
-        news_date_obj = row[0]
-        
-        chart_data = {'points': []}
-        if not master_spy_data.empty:
-            # First, get all data available up to and including the forecast date
-            point_in_time_data = master_spy_data[master_spy_data.index.date <= news_date_obj]
-
-            # Now, take only the last N days to create a consistent "sliding window"
-            chart_window_data = point_in_time_data.tail(HISTORICAL_DAYS)
-
-            # Proceed using the new, sliced chart_window_data
-            if not chart_window_data.empty:
-                points = [
-                    {'x': int(index.value // 1_000_000), 'y': float(round(row_price['Close'], 2))}
-                    for index, row_price in chart_window_data.iterrows()
-                ]
-                chart_data['points'] = points
-        
-        formatted_date = f"{news_date_obj.strftime('%A, %B')} {news_date_obj.day}, {news_date_obj.year}"
-
-        prediction = {
-            "news_date": news_date_obj.strftime('%Y-%m-%d'),
-            "news_date_formatted": formatted_date,
-            "direction": str(row[1]),
-            "confidence": float(row[2]),
-            "evidence": [
-                {"headline": str(row[3]) if row[3] else None, "id": int(row[4]) if row[4] else None},
-                {"headline": str(row[5]) if row[5] else None, "id": int(row[6]) if row[6] else None},
-                {"headline": str(row[7]) if row[7] else None, "id": int(row[8]) if row[8] else None},
-            ],
-            "chart_data": chart_data
-        }
-        predictions_list.append(prediction)
-    
+    # Fetch the last 10 predictions
+    cur.execute("SELECT * FROM predictions WHERE ticker = %s ORDER BY news_date DESC LIMIT 10", (TICKER,))
+    predictions_raw = cur.fetchall()
     cur.close()
     conn.close()
 
+    predictions_list = []
+    for prediction in predictions_raw:
+        pred_dict = dict(prediction)
+        
+        # Define the date range for the historical chart data
+        prediction_date = pred_dict['news_date']
+        end_date = prediction_date
+        start_date = end_date - timedelta(days=35) # Fetch ~1 month of data
+        
+        try:
+            # Fetch data from yfinance
+            market_data = yf.download(
+                TICKER,
+                start=start_date,
+                end=end_date,
+                progress=False,
+                auto_adjust=True
+            )
+
+            # --- FIX FOR YFINANCE MULTI-INDEX ISSUE ---
+            # If yfinance returns columns like ('Close', 'SPY'), flatten them to just 'Close'
+            if isinstance(market_data.columns, pd.MultiIndex):
+                market_data.columns = market_data.columns.get_level_values(0)
+            # ------------------------------------------
+
+            # Format the data for Chart.js if the download was successful
+            if not market_data.empty:
+                market_data = market_data.reset_index()
+                
+                # Chart.js expects UTC timestamps in milliseconds
+                timestamps = (market_data['Date'].astype(np.int64) // 10**6).tolist()
+                prices = market_data['Close'].tolist()
+                
+                # Create the points list in the format {x, y}
+                chart_points = [{'x': ts, 'y': price} for ts, price in zip(timestamps, prices)]
+                
+                # Attach the chart data to the prediction dictionary
+                pred_dict['chart_data'] = {'points': chart_points}
+            else:
+                 pred_dict['chart_data'] = {'points': []}
+
+        except Exception as e:
+            # Print the specific error to the console for debugging
+            print(f"Error processing yfinance data for {prediction_date}: {e}")
+            pred_dict['chart_data'] = {'points': []}
+        
+        # Add a nicely formatted date string for the header
+        pred_dict['news_date_formatted'] = prediction_date.strftime('%A, %B %d, %Y')
+        
+        predictions_list.append(pred_dict)
+        
     return render_template('forecast.html', predictions=predictions_list)
 
 @app.route('/manifest')
