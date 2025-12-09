@@ -103,7 +103,7 @@
   </footer>
   
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <!-- NOTE: Date FNS adapter removed as we are now using category axis for manual spacing -->
   
   <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -126,6 +126,21 @@
         let touchEndX = 0;
         const swipeThreshold = 50;
         
+        // Helper to format timestamps into strings for the Category Axis
+        function formatDateLabel(timestamp) {
+            const date = new Date(timestamp);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+
+        // Helper to get next business day (skips Sat/Sun)
+        function getNextBusinessDay(dateObj) {
+            let d = new Date(dateObj);
+            do {
+                d.setDate(d.getDate() + 1);
+            } while (d.getDay() === 0 || d.getDay() === 6);
+            return d;
+        }
+
         function renderChart(index) {
             if (chartInstances[index] || !predictionsData[index]) return;
 
@@ -139,40 +154,88 @@
                 return;
             }
 
-            function addBusinessDays(utcTimestamp, days) {
-                let d = new Date(utcTimestamp);
-                let added = 0;
-                while (added < days) {
-                    d.setUTCDate(d.getUTCDate() + 1);
-                    if (d.getUTCDay() !== 0 && d.getUTCDay() !== 6) { added++; }
-                }
-                return d;
-            }
-
             const tzOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
-            // The historical points array is NOT modified. It contains the last point.
-            const histPoints = chartData.points.map(p => ({ x: p.x + tzOffsetMs, y: p.y }));
-            const lastPoint = histPoints[histPoints.length - 1];
+            
+            // 1. Prepare Historical Data and Labels
+            const labels = [];
+            const histData = [];
+            
+            chartData.points.forEach(p => {
+                // Adjust for timezone to ensure date string consistency
+                const localTs = p.x + tzOffsetMs; 
+                labels.push(formatDateLabel(localTs));
+                histData.push(p.y);
+            });
+
+            // 2. Prepare Forecast Target
+            const lastHistVal = histData[histData.length - 1];
+            const lastHistDateTs = chartData.points[chartData.points.length - 1].x + tzOffsetMs;
             
             const forecastPct = prediction.direction === 'UP' ? 1.015 : 0.985;
-            const forecastTarget = lastPoint.y * forecastPct;
+            const forecastTarget = lastHistVal * forecastPct;
+
+            // 3. Generate Future Labels (Business Days Only)
+            let currentDateObj = new Date(lastHistDateTs);
+            for(let i=0; i<5; i++) {
+                currentDateObj = getNextBusinessDay(currentDateObj);
+                labels.push(formatDateLabel(currentDateObj));
+            }
+
+            // 4. Prepare Forecast Data Array
+            // Fill with nulls for historical period, set start point at last history index
+            const forecastData = new Array(histData.length).fill(null);
+            forecastData[histData.length - 1] = lastHistVal; // Connect the lines
             
-            // The forecast line ALSO starts with the last point, creating a seamless overlap.
-            const forecastLineData = [{ x: lastPoint.x, y: lastPoint.y }, { x: addBusinessDays(lastPoint.x, 5).getTime(), y: forecastTarget }];
-            
+            // Fill empty slots for intermediate forecast days (for alignment)
+            for(let i=0; i<4; i++) {
+                forecastData.push(null);
+            }
+            // Add the final target
+            forecastData.push(forecastTarget);
+
             chartInstances[index] = new Chart(ctx, {
                 type: 'line',
                 data: {
+                    labels: labels, // Shared strings array
                     datasets: [
-                        { label: 'SPY', data: histPoints, borderColor: '#aaaaaa', borderWidth: 2, pointRadius: 0, tension: 0.1 },
-                        { label: 'Forecast', data: forecastLineData, borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', borderWidth: 2, borderDash: [5, 5], pointRadius: 0, tension: 0 }
+                        { 
+                            label: 'SPY', 
+                            data: histData, 
+                            borderColor: '#aaaaaa', 
+                            borderWidth: 2, 
+                            pointRadius: 0, 
+                            tension: 0.1 
+                        },
+                        { 
+                            label: 'Forecast', 
+                            data: forecastData, 
+                            borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', 
+                            borderWidth: 2, 
+                            borderDash: [5, 5], 
+                            pointRadius: 0, 
+                            tension: 0,
+                            spanGaps: true // Crucial: Draws line over the nulls in forecast period
+                        }
                     ]
                 },
                 options: {
                     responsive: true, maintainAspectRatio: false,
                     scales: {
-                        x: { type: 'time', time: { unit: 'day', tooltipFormat: 'MMM dd, yyyy' }, grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#ccc', source: 'auto', maxRotation: 0, autoSkip: true, maxTicksLimit: 10 } },
-                        y: { position: 'right', grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#ccc' } }
+                        x: { 
+                            type: 'category', // Even spacing, no gaps for weekends
+                            grid: { color: 'rgba(255,255,255,0.1)' }, 
+                            ticks: { 
+                                color: '#ccc', 
+                                maxRotation: 0, 
+                                autoSkip: true, 
+                                maxTicksLimit: 6 
+                            } 
+                        },
+                        y: { 
+                            position: 'right', 
+                            grid: { color: 'rgba(255,255,255,0.1)' }, 
+                            ticks: { color: '#ccc' } 
+                        }
                     },
                     plugins: {
                         legend: {
@@ -190,7 +253,7 @@
                         },
                         tooltip: {
                             intersect: false,
-                            mode: 'nearest',
+                            mode: 'index', // Show both lines at specific X index
                             displayColors: false
                         }
                     }
@@ -229,8 +292,8 @@
         function handleSwipe() {
             const deltaX = touchEndX - touchStartX;
             if (Math.abs(deltaX) > swipeThreshold) {
-                if (deltaX < 0 && currentIndex < totalItems - 1) showForecast(currentIndex + 1); // Swipe left -> newer
-                else if (deltaX > 0 && currentIndex > 0) showForecast(currentIndex - 1); // Swipe right -> older
+                if (deltaX < 0 && currentIndex < totalItems - 1) showForecast(currentIndex + 1);
+                else if (deltaX > 0 && currentIndex > 0) showForecast(currentIndex - 1);
             }
         }
 

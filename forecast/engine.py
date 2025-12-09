@@ -32,12 +32,19 @@ def get_last_market_close_time():
     nyse = mcal.get_calendar(MARKET_CALENDAR)
     now_et = datetime.now(pytz.timezone(MARKET_TIMEZONE))
     
-    # Get the schedule for the last 5 days to find the most recent valid trading day
-    schedule = nyse.schedule(start_date=now_et.date() - timedelta(days=5), end_date=now_et.date())
+    # Get the schedule for the last 10 days to ensure we catch the last valid trading day
+    schedule = nyse.schedule(start_date=now_et.date() - timedelta(days=10), end_date=now_et.date())
     
     # The last market close is the 'market_close' of the last day in the schedule
-    # that is before the current time.
-    last_valid_day = schedule[schedule['market_close'] < now_et].iloc[-1]
+    # that is strictly before the current time.
+    # Note: If running exactly AT close, this effectively treats the current close as valid.
+    valid_schedule = schedule[schedule['market_close'] <= now_et]
+    
+    if valid_schedule.empty:
+        # Fallback for extreme edge cases (e.g. fresh year start), usually unlikely
+        return now_et.astimezone(pytz.utc) - timedelta(days=1)
+
+    last_valid_day = valid_schedule.iloc[-1]
     last_market_close_et = last_valid_day['market_close']
     
     # Convert to UTC for database comparison
@@ -64,8 +71,6 @@ def get_news_and_split(last_market_close_utc):
     df['pub_date'] = pd.to_datetime(df['pub_date'], utc=True)
 
     # Split data:
-    # - Training data is all news published up to and including the last market close.
-    # - Prediction data is all news published after the last market close.
     training_df_raw = df[df['pub_date'] <= last_market_close_utc]
     prediction_df_raw = df[df['pub_date'] > last_market_close_utc]
     
@@ -77,8 +82,6 @@ def get_news_and_split(last_market_close_utc):
 def process_and_group_news(df, is_for_training=True):
     """
     Processes and aggregates a dataframe of news articles.
-    - For training data, groups by market day.
-    - For prediction data, aggregates all into a single row.
     """
     if df.empty:
         return pd.DataFrame()
@@ -88,7 +91,7 @@ def process_and_group_news(df, is_for_training=True):
     df['News_Text'] = "[" + df['topic'] + "] " + df['title']
     
     if is_for_training:
-        # For training, group by the US market date to align with yfinance data
+        # For training, group by the US market date
         df['Date'] = df['pub_date'].dt.tz_convert(MARKET_TIMEZONE).dt.date
         grouped_df = df.groupby('Date').agg(
             News_Text=('News_Text', ' '.join),
@@ -98,9 +101,9 @@ def process_and_group_news(df, is_for_training=True):
         ).reset_index()
         return grouped_df.sort_values('Date')
     else:
-        # For prediction, aggregate all overnight news into a single row
+        # For prediction, aggregate all overnight/new news into a single row
         aggregated_data = {
-            'Date': [datetime.now(pytz.timezone(MARKET_TIMEZONE)).date()], # Use today's date for the prediction
+            'Date': [datetime.now(pytz.timezone(MARKET_TIMEZONE)).date()], 
             'News_Text': [' '.join(df['News_Text'])],
             'articles': [list(df['title'])],
             'article_ids': [list(df['id'])],
@@ -109,30 +112,58 @@ def process_and_group_news(df, is_for_training=True):
         return pd.DataFrame(aggregated_data)
 
 def add_market_targets(df):
-    """Aligns news data with market outcomes (this function remains largely the same)."""
+    """
+    Aligns news data with market outcomes. 
+    Explicitly ensures the YFinance download covers the most recent close.
+    """
     print("2. Downloading market data to create training labels...")
     if df.empty:
         return pd.DataFrame()
-        
+    
+    # --- UPDATED DATE LOGIC ---
+    # We define the download range based on the News Data start
+    # BUT we define the end date based on actual Current Time to ensure
+    # we capture the very latest close if we are running after-hours.
     start_date = pd.to_datetime(df['Date'].min())
-    end_date = pd.to_datetime(df['Date'].max())
+    
+    # We add 2 days to 'now' to ensure 'end' (which is exclusive in yfinance) covers today
+    # regardless of whether the news dataframe has rows for today or not.
+    end_date = datetime.now() + timedelta(days=2) 
     
     try:
-        market = yf.download(TICKER, start=start_date, end=end_date + timedelta(days=15), progress=False)
-        if market.empty: raise ValueError("No data returned from yfinance.")
+        # Downloading with '1d' interval.
+        market = yf.download(TICKER, start=start_date, end=end_date, progress=False, interval="1d")
+        
+        if market.empty: 
+            raise ValueError("No data returned from yfinance.")
+            
     except Exception as e:
         print(f"   ERROR: yfinance download failed: {e}")
         return pd.DataFrame()
 
+    # Flatten MultiIndex columns if present (common in newer yfinance versions)
     if isinstance(market.columns, pd.MultiIndex):
         market.columns = market.columns.get_level_values(0)
+        
     market = market.reset_index()
+    
+    # Ensure Date format aligns with News Data
+    # yfinance dates might be timezone aware or naive depending on version/source
+    # We normalize everything to a standard date object.
     market['Date'] = pd.to_datetime(market['Date']).dt.date
 
+    # Log the latest market date found
+    last_market_date = market['Date'].max()
+    print(f"   - Latest market close available: {last_market_date}")
+
+    # Create Targets
+    # We want to predict if price goes up in 5 days (1 Week)
     market['Future_Close'] = market['Close'].shift(-5)
     market['Target_1W'] = np.where(market['Future_Close'] > market['Close'], 1, 0)
 
-    full_df = pd.merge(df, market[['Date', 'Future_Close', 'Target_1W']], on='Date', how='inner')
+    # Merge News with Market Data
+    # Inner merge ensures we only train on days where we have both News AND Price history
+    full_df = pd.merge(df, market[['Date', 'Close', 'Future_Close', 'Target_1W']], on='Date', how='inner')
     
     return full_df
 
@@ -172,9 +203,8 @@ def save_prediction_to_db(news_date, direction, confidence, evidence):
         conn.close()
 
 def run_engine():
-    """Main function to train on historical data and predict on overnight news."""
+    """Main function to train on historical data and predict on news since last close."""
     
-    # --- DATA PREPARATION ---
     # 1. Determine the exact cutoff time: the last market close.
     last_market_close_utc = get_last_market_close_time()
     
@@ -183,7 +213,7 @@ def run_engine():
 
     # Exit if there's no new news to predict on.
     if prediction_df_raw.empty:
-        print("No new headlines found since last market close. Exiting.")
+        print("No new headlines found since last market close. Nothing to predict. Exiting.")
         return
 
     # 3. Process and group the dataframes.
@@ -191,16 +221,18 @@ def run_engine():
     prediction_df_grouped = process_and_group_news(prediction_df_raw, is_for_training=False)
 
     # 4. Add market targets to historical data
+    # Note: This will download prices up to "Now" to ensure we have the absolute latest context
     labeled_data = add_market_targets(training_data_grouped)
 
-    # Training data is everything where we know the 1-week outcome
+    # Filter for valid training data (must have a Future_Close known)
+    # Rows from the last 5 days will be dropped here because we don't know the future yet.
     training_df = labeled_data.dropna(subset=['Future_Close'])
     
-    # The single row of aggregated overnight news
+    # The single row of aggregated recent news
     prediction_row = prediction_df_grouped.iloc[0]
 
     if training_df.empty:
-        print("Not enough historical data with known outcomes to train. Exiting.")
+        print("Not enough historical data with known outcomes (5-day lag) to train. Exiting.")
         return
 
     # --- TRAINING ---
@@ -226,7 +258,6 @@ def run_engine():
     word_weights = {feature_names[i]: importances[i] for i in range(len(feature_names)) if importances[i] > 0.001}
     
     evidence_scores = []
-    # Create a temporary DataFrame of the individual articles used in the prediction
     pred_day_articles = pd.DataFrame({
         'id': prediction_row['article_ids'],
         'topic': prediction_row['topics'],
@@ -247,17 +278,16 @@ def run_engine():
     confidence = probs[1] if pred == 1 else probs[0]
     
     # --- SAVE & OUTPUT ---
-    # I've added an ON CONFLICT clause to the SQL to handle re-running the script
     save_prediction_to_db(news_date, direction, confidence, top_evidence)
     
     print("\n" + "="*60)
     print(f"      AI 1-WEEK MARKET FORECAST ({TICKER})")
-    print(f"      Prediction for: {news_date}")
-    print(f"      Based on {len(pred_day_articles)} articles since last close.")
+    print(f"      Prediction Date: {news_date}")
+    print(f"      Articles Processed: {len(pred_day_articles)}")
     print("="*60)
     print(f"      Direction:  {direction}")
     print(f"      Confidence: {confidence:.2%}")
-    print("\n      Top Evidence:")
+    print("\n      Top Evidence Headlines:")
     for i, ev in enumerate(top_evidence):
         print(f"        {i+1}. {ev['headline']} (id: {ev['id']})")
     print("="*60)
