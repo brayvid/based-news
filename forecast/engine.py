@@ -114,43 +114,75 @@ def process_and_group_news(df, is_for_training=True):
 def add_market_targets(df):
     """
     Aligns news data with market outcomes. 
-    Explicitly ensures the YFinance download covers the most recent close.
+    Explicitly ensures the YFinance download covers the most recent close,
+    even immediately after market close.
     """
     print("2. Downloading market data to create training labels...")
     if df.empty:
         return pd.DataFrame()
     
-    # --- UPDATED DATE LOGIC ---
-    # We define the download range based on the News Data start
-    # BUT we define the end date based on actual Current Time to ensure
-    # we capture the very latest close if we are running after-hours.
-    start_date = pd.to_datetime(df['Date'].min())
+    # 1. Setup Timezone and Dates
+    # We use NY time to ensure 'today' is correct regardless of server time (UTC)
+    ny_tz = pytz.timezone(MARKET_TIMEZONE)
+    now_ny = datetime.now(ny_tz)
     
-    # We add 2 days to 'now' to ensure 'end' (which is exclusive in yfinance) covers today
-    # regardless of whether the news dataframe has rows for today or not.
-    end_date = datetime.now() + timedelta(days=2) 
+    # Start date based on news
+    start_date = pd.to_datetime(df['Date'].min()).date()
+    
+    # End date: Add 2 days to 'now' to ensure the 'end' parameter (which is exclusive)
+    # definitely covers today.
+    end_date = (now_ny + timedelta(days=2)).date()
     
     try:
-        # Downloading with '1d' interval.
+        # 2. Bulk Download
         market = yf.download(TICKER, start=start_date, end=end_date, progress=False, interval="1d")
         
         if market.empty: 
             raise ValueError("No data returned from yfinance.")
             
+        # Handle MultiIndex columns (common in yfinance v0.2+)
+        if isinstance(market.columns, pd.MultiIndex):
+            market.columns = market.columns.get_level_values(0)
+            
+        market = market.reset_index()
+        
+        # Normalize Date format to match News Data
+        # Using .dt.date removes time components/timezones for safe merging
+        market['Date'] = pd.to_datetime(market['Date']).dt.date
+        
+        # 3. LATENCY FIX: Check if today's data is missing after market close
+        # If it's a weekday, after 4:15 PM ET, and the last date in data is NOT today:
+        last_date_in_data = market['Date'].max()
+        is_weekday = now_ny.weekday() < 5 # 0-4 is Mon-Fri
+        # Check if we are past 4:15 PM ET (giving 15 mins buffer for data to settle)
+        is_post_close = now_ny.time() >= datetime.strptime("16:15", "%H:%M").time()
+        
+        if is_weekday and is_post_close and last_date_in_data < now_ny.date():
+            print(f"   - Bulk download missing today ({now_ny.date()}). Fetching latest update manually...")
+            
+            # Force fetch the specific day
+            ticker_obj = yf.Ticker(TICKER)
+            todays_data = ticker_obj.history(period="1d")
+            
+            if not todays_data.empty:
+                todays_data = todays_data.reset_index()
+                todays_data['Date'] = pd.to_datetime(todays_data['Date']).dt.date
+                
+                # Verify the fetched data is actually for today
+                if todays_data['Date'].iloc[0] == now_ny.date():
+                    # Align columns (keep only what's in market df)
+                    common_cols = market.columns.intersection(todays_data.columns)
+                    todays_row = todays_data[common_cols]
+                    
+                    # Append to main dataframe
+                    market = pd.concat([market, todays_row], ignore_index=True)
+                    # Drop duplicates just in case to be safe
+                    market = market.drop_duplicates(subset=['Date'], keep='last')
+                    print("   - Successfully appended today's close.")
+
     except Exception as e:
         print(f"   ERROR: yfinance download failed: {e}")
         return pd.DataFrame()
-
-    # Flatten MultiIndex columns if present (common in newer yfinance versions)
-    if isinstance(market.columns, pd.MultiIndex):
-        market.columns = market.columns.get_level_values(0)
-        
-    market = market.reset_index()
-    
-    # Ensure Date format aligns with News Data
-    # yfinance dates might be timezone aware or naive depending on version/source
-    # We normalize everything to a standard date object.
-    market['Date'] = pd.to_datetime(market['Date']).dt.date
 
     # Log the latest market date found
     last_market_date = market['Date'].max()
