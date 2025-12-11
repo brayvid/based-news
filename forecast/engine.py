@@ -3,15 +3,15 @@ import psycopg2
 import pandas as pd
 import numpy as np
 import yfinance as yf
-from datetime import datetime, timedelta, date
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
-import joblib
-
-# --- NEW DEPENDENCIES ---
+from sklearn.preprocessing import StandardScaler
+from scipy.sparse import hstack
 import pytz
 import pandas_market_calendars as mcal
+import warnings
 
 # --- CONFIGURATION ---
 load_dotenv()
@@ -20,309 +20,250 @@ TICKER = "SPY"
 MARKET_TIMEZONE = "America/New_York"
 MARKET_CALENDAR = "NYSE"
 
+# Silence warnings for cleaner output
+warnings.filterwarnings('ignore', category=UserWarning, module='pandas')
+warnings.filterwarnings('ignore', category=FutureWarning, module='yfinance')
+
 def get_db_connection():
-    """Establishes a connection to the PostgreSQL database."""
     return psycopg2.connect(DATABASE_URL)
 
 def get_last_market_close_time():
-    """
-    Calculates the precise UTC timestamp of the last market close.
-    Handles weekends and holidays automatically.
-    """
     nyse = mcal.get_calendar(MARKET_CALENDAR)
     now_et = datetime.now(pytz.timezone(MARKET_TIMEZONE))
-    
-    # Get the schedule for the last 10 days to ensure we catch the last valid trading day
     schedule = nyse.schedule(start_date=now_et.date() - timedelta(days=10), end_date=now_et.date())
-    
-    # The last market close is the 'market_close' of the last day in the schedule
-    # that is strictly before the current time.
-    # Note: If running exactly AT close, this effectively treats the current close as valid.
     valid_schedule = schedule[schedule['market_close'] <= now_et]
     
     if valid_schedule.empty:
-        # Fallback for extreme edge cases (e.g. fresh year start), usually unlikely
         return now_et.astimezone(pytz.utc) - timedelta(days=1)
 
-    last_valid_day = valid_schedule.iloc[-1]
-    last_market_close_et = last_valid_day['market_close']
-    
-    # Convert to UTC for database comparison
-    last_market_close_utc = last_market_close_et.to_pydatetime().astimezone(pytz.utc)
-    
-    return last_market_close_utc
+    return valid_schedule.iloc[-1]['market_close'].to_pydatetime().astimezone(pytz.utc)
 
 def get_news_and_split(last_market_close_utc):
-    """
-    Loads all articles from the DB and splits them into training and prediction sets
-    based on the last market close time.
-    """
-    print(f"1. Loading all news from DB and splitting based on last market close: {last_market_close_utc.strftime('%Y-%m-%d %H:%M:%S %Z')}")
+    print(f"1. Loading news... Cutoff: {last_market_close_utc.strftime('%Y-%m-%d %H:%M')}")
     conn = get_db_connection()
     try:
+        # Load all articles
         df = pd.read_sql("SELECT id, topic, title, pub_date FROM articles ORDER BY pub_date ASC", conn)
     finally:
         conn.close()
 
-    if df.empty:
-        return pd.DataFrame(), pd.DataFrame()
+    if df.empty: return pd.DataFrame(), pd.DataFrame()
 
-    # Ensure pub_date is timezone-aware (UTC)
     df['pub_date'] = pd.to_datetime(df['pub_date'], utc=True)
-
-    # Split data:
-    training_df_raw = df[df['pub_date'] <= last_market_close_utc]
-    prediction_df_raw = df[df['pub_date'] > last_market_close_utc]
     
-    print(f"   - Found {len(training_df_raw)} articles for training.")
-    print(f"   - Found {len(prediction_df_raw)} new articles for prediction.")
+    # Split based on cutoff
+    training_df = df[df['pub_date'] <= last_market_close_utc]
+    prediction_df = df[df['pub_date'] > last_market_close_utc]
     
-    return training_df_raw, prediction_df_raw
+    print(f"   - Historical Articles: {len(training_df)}")
+    print(f"   - New Articles (to predict): {len(prediction_df)}")
+    
+    return training_df, prediction_df
 
 def process_and_group_news(df, is_for_training=True):
-    """
-    Processes and aggregates a dataframe of news articles.
-    """
-    if df.empty:
-        return pd.DataFrame()
-
+    if df.empty: return pd.DataFrame()
+    
     df['topic'] = df['topic'].fillna('').astype(str)
     df['title'] = df['title'].fillna('').astype(str)
     df['News_Text'] = "[" + df['topic'] + "] " + df['title']
     
     if is_for_training:
-        # For training, group by the US market date
+        # Group by Date for training
         df['Date'] = df['pub_date'].dt.tz_convert(MARKET_TIMEZONE).dt.date
-        grouped_df = df.groupby('Date').agg(
+        grouped = df.groupby('Date').agg(
             News_Text=('News_Text', ' '.join),
-            articles=('title', list),
             article_ids=('id', list),
+            articles=('title', list),
             topics=('topic', list)
         ).reset_index()
-        return grouped_df.sort_values('Date')
+        return grouped.sort_values('Date')
     else:
-        # For prediction, aggregate all overnight/new news into a single row
-        aggregated_data = {
+        # Aggregate everything into one row for prediction
+        return pd.DataFrame({
             'Date': [datetime.now(pytz.timezone(MARKET_TIMEZONE)).date()], 
             'News_Text': [' '.join(df['News_Text'])],
-            'articles': [list(df['title'])],
             'article_ids': [list(df['id'])],
+            'articles': [list(df['title'])],
             'topics': [list(df['topic'])]
-        }
-        return pd.DataFrame(aggregated_data)
+        })
 
-def add_market_targets(df):
-    """
-    Aligns news data with market outcomes. 
-    Explicitly ensures the YFinance download covers the most recent close,
-    even immediately after market close.
-    """
-    print("2. Downloading market data to create training labels...")
-    if df.empty:
-        return pd.DataFrame()
+def calculate_rsi(series, period=14):
+    delta = series.diff(1)
+    gain = (delta.where(delta > 0, 0)).rolling(window=period).mean()
+    loss = (-delta.where(delta < 0, 0)).rolling(window=period).mean()
+    rs = gain / loss
+    return 100 - (100 / (1 + rs))
+
+def add_market_context(df):
+    print("2. Downloading market context...")
+    if df.empty: return pd.DataFrame()
     
-    # 1. Setup Timezone and Dates
-    # We use NY time to ensure 'today' is correct regardless of server time (UTC)
     ny_tz = pytz.timezone(MARKET_TIMEZONE)
     now_ny = datetime.now(ny_tz)
     
-    # Start date based on news
-    start_date = pd.to_datetime(df['Date'].min()).date()
-    
-    # End date: Add 2 days to 'now' to ensure the 'end' parameter (which is exclusive)
-    # definitely covers today.
+    # Download 2 years of data to ensure indicators can calculate
+    start_date = pd.to_datetime(df['Date'].min()).date() - timedelta(days=730)
     end_date = (now_ny + timedelta(days=2)).date()
     
+    tickers = [TICKER, "^VIX", "^TNX"]
     try:
-        # 2. Bulk Download
-        market = yf.download(TICKER, start=start_date, end=end_date, progress=False, interval="1d")
-        
-        if market.empty: 
-            raise ValueError("No data returned from yfinance.")
-            
-        # Handle MultiIndex columns (common in yfinance v0.2+)
-        if isinstance(market.columns, pd.MultiIndex):
-            market.columns = market.columns.get_level_values(0)
-            
-        market = market.reset_index()
-        
-        # Normalize Date format to match News Data
-        # Using .dt.date removes time components/timezones for safe merging
-        market['Date'] = pd.to_datetime(market['Date']).dt.date
-        
-        # 3. LATENCY FIX: Check if today's data is missing after market close
-        # If it's a weekday, after 4:15 PM ET, and the last date in data is NOT today:
-        last_date_in_data = market['Date'].max()
-        is_weekday = now_ny.weekday() < 5 # 0-4 is Mon-Fri
-        # Check if we are past 4:15 PM ET (giving 15 mins buffer for data to settle)
-        is_post_close = now_ny.time() >= datetime.strptime("16:15", "%H:%M").time()
-        
-        if is_weekday and is_post_close and last_date_in_data < now_ny.date():
-            print(f"   - Bulk download missing today ({now_ny.date()}). Fetching latest update manually...")
-            
-            # Force fetch the specific day
-            ticker_obj = yf.Ticker(TICKER)
-            todays_data = ticker_obj.history(period="1d")
-            
-            if not todays_data.empty:
-                todays_data = todays_data.reset_index()
-                todays_data['Date'] = pd.to_datetime(todays_data['Date']).dt.date
-                
-                # Verify the fetched data is actually for today
-                if todays_data['Date'].iloc[0] == now_ny.date():
-                    # Align columns (keep only what's in market df)
-                    common_cols = market.columns.intersection(todays_data.columns)
-                    todays_row = todays_data[common_cols]
-                    
-                    # Append to main dataframe
-                    market = pd.concat([market, todays_row], ignore_index=True)
-                    # Drop duplicates just in case to be safe
-                    market = market.drop_duplicates(subset=['Date'], keep='last')
-                    print("   - Successfully appended today's close.")
-
+        data = yf.download(tickers, start=start_date, end=end_date, progress=False, group_by='ticker', auto_adjust=True)
     except Exception as e:
-        print(f"   ERROR: yfinance download failed: {e}")
+        print(f"   Error: {e}")
         return pd.DataFrame()
 
-    # Log the latest market date found
-    last_market_date = market['Date'].max()
-    print(f"   - Latest market close available: {last_market_date}")
+    if data.empty: return pd.DataFrame()
 
-    # Create Targets
-    # We want to predict if price goes up in 5 days (1 Week)
+    # Extract Data (handling potential yfinance structure variations)
+    try:
+        spy = data[TICKER].copy()
+        vix = data['^VIX'][['Close']].rename(columns={'Close': 'VIX_Close'})
+        tnx = data['^TNX'][['Close']].rename(columns={'Close': 'TNX_Close'})
+    except KeyError:
+        spy = data.xs(TICKER, level=0, axis=1).copy()
+        vix = data.xs('^VIX', level=0, axis=1)[['Close']].rename(columns={'Close': 'VIX_Close'})
+        tnx = data.xs('^TNX', level=0, axis=1)[['Close']].rename(columns={'Close': 'TNX_Close'})
+
+    # Prepare SPY
+    market = spy.reset_index()
+    market['Date'] = pd.to_datetime(market['Date']).dt.date
+    
+    # Merge VIX/TNX
+    vix = vix.reset_index()
+    vix['Date'] = pd.to_datetime(vix['Date']).dt.date
+    tnx = tnx.reset_index()
+    tnx['Date'] = pd.to_datetime(tnx['Date']).dt.date
+    
+    market = market.merge(vix, on='Date', how='left').merge(tnx, on='Date', how='left')
+    market[['VIX_Close', 'TNX_Close']] = market[['VIX_Close', 'TNX_Close']].ffill()
+
+    # --- INDICATORS ---
+    market['RSI'] = calculate_rsi(market['Close'])
+    market['SMA_50'] = market['Close'].rolling(window=50).mean()
+    
+    # Note: Removed SMA_200 to increase training data availability
+    # market['SMA_200'] = market['Close'].rolling(window=200).mean()
+
+    market['Dist_SMA_50'] = (market['Close'] - market['SMA_50']) / market['SMA_50']
+    market['Vol_Change'] = market['Volume'].pct_change(fill_method=None)
+
+    # Clean up NaNs created by indicators (first 50 days)
+    market = market.dropna(subset=['SMA_50', 'RSI'])
+
+    # Targets (Next 5 Days)
     market['Future_Close'] = market['Close'].shift(-5)
     market['Target_1W'] = np.where(market['Future_Close'] > market['Close'], 1, 0)
-
-    # Merge News with Market Data
-    # Inner merge ensures we only train on days where we have both News AND Price history
-    full_df = pd.merge(df, market[['Date', 'Close', 'Future_Close', 'Target_1W']], on='Date', how='inner')
     
+    # Merge
+    full_df = pd.merge(df, market, on='Date', how='inner')
     return full_df
 
-def save_prediction_to_db(news_date, direction, confidence, evidence):
-    """Inserts the prediction results into the 'predictions' table."""
-    print("5. Saving prediction to database...")
-    evidence_headlines = [item.get('headline') for item in evidence] + [None, None, None]
-    evidence_ids = [item.get('id') for item in evidence] + [None, None, None]
-    confidence_py_float = float(confidence)
-
+def save_prediction(news_date, direction, confidence, evidence):
+    print("5. Saving to DB...")
+    evidence_headlines = [e['headline'] for e in evidence] + [None]*3
+    evidence_ids = [e['id'] for e in evidence] + [None]*3
+    
     conn = get_db_connection()
     try:
         with conn.cursor() as cur:
-            cur.execute(
-                """
+            cur.execute("""
                 INSERT INTO predictions (news_date, ticker, direction, confidence, evidence_1, evidence_1_id, evidence_2, evidence_2_id, evidence_3, evidence_3_id)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (news_date, ticker) DO UPDATE SET
-                    direction = EXCLUDED.direction,
-                    confidence = EXCLUDED.confidence,
-                    evidence_1 = EXCLUDED.evidence_1,
-                    evidence_1_id = EXCLUDED.evidence_1_id,
-                    evidence_2 = EXCLUDED.evidence_2,
-                    evidence_2_id = EXCLUDED.evidence_2_id,
-                    evidence_3 = EXCLUDED.evidence_3,
-                    evidence_3_id = EXCLUDED.evidence_3_id,
-                    updated_at = NOW();
-                """,
-                (news_date, TICKER, direction, confidence_py_float, evidence_headlines[0], evidence_ids[0], evidence_headlines[1], evidence_ids[1], evidence_headlines[2], evidence_ids[2])
-            )
+                    direction = EXCLUDED.direction, confidence = EXCLUDED.confidence, updated_at = NOW();
+            """, (news_date, TICKER, direction, float(confidence), evidence_headlines[0], evidence_ids[0], evidence_headlines[1], evidence_ids[1], evidence_headlines[2], evidence_ids[2]))
         conn.commit()
-        print("   ✅ Prediction successfully logged.")
+        print("   ✅ Saved.")
     except Exception as e:
-        print(f"   ❌ Failed to save prediction: {e}")
+        print(f"   ❌ Error: {e}")
         conn.rollback()
     finally:
         conn.close()
 
 def run_engine():
-    """Main function to train on historical data and predict on news since last close."""
-    
-    # 1. Determine the exact cutoff time: the last market close.
-    last_market_close_utc = get_last_market_close_time()
-    
-    # 2. Fetch all news and split into raw training/prediction sets.
-    training_df_raw, prediction_df_raw = get_news_and_split(last_market_close_utc)
+    # 1. Split Data
+    cutoff = get_last_market_close_time()
+    train_raw, pred_raw = get_news_and_split(cutoff)
 
-    # Exit if there's no new news to predict on.
-    if prediction_df_raw.empty:
-        print("No new headlines found since last market close. Nothing to predict. Exiting.")
+    if pred_raw.empty:
+        print("No new news. Exiting.")
         return
 
-    # 3. Process and group the dataframes.
-    training_data_grouped = process_and_group_news(training_df_raw, is_for_training=True)
-    prediction_df_grouped = process_and_group_news(prediction_df_raw, is_for_training=False)
+    # 2. Process
+    train_grouped = process_and_group_news(train_raw, True)
+    pred_grouped = process_and_group_news(pred_raw, False)
 
-    # 4. Add market targets to historical data
-    # Note: This will download prices up to "Now" to ensure we have the absolute latest context
-    labeled_data = add_market_targets(training_data_grouped)
-
-    # Filter for valid training data (must have a Future_Close known)
-    # Rows from the last 5 days will be dropped here because we don't know the future yet.
-    training_df = labeled_data.dropna(subset=['Future_Close'])
+    # 3. Add Market Data
+    labeled_data = add_market_context(train_grouped)
     
-    # The single row of aggregated recent news
-    prediction_row = prediction_df_grouped.iloc[0]
-
+    # Use .copy() to avoid SettingWithCopyWarning
+    training_df = labeled_data.dropna(subset=['Future_Close']).copy()
+    
     if training_df.empty:
-        print("Not enough historical data with known outcomes (5-day lag) to train. Exiting.")
+        print("Insufficient training data (Check date overlap between News and Market data).")
         return
 
-    # --- TRAINING ---
-    print(f"3. Training model on {len(training_df)} historical market days...")
+    # 4. Train
+    print(f"3. Training Model (Samples: {len(training_df)})...")
+    
+    # Text
     vectorizer = TfidfVectorizer(stop_words='english', max_features=1000, min_df=2)
-    X_train = vectorizer.fit_transform(training_df['News_Text'])
+    X_text_train = vectorizer.fit_transform(training_df['News_Text'])
+    
+    # Numbers
+    feature_cols = ['VIX_Close', 'TNX_Close', 'RSI', 'Dist_SMA_50', 'Vol_Change']
+    training_df[feature_cols] = training_df[feature_cols].fillna(0)
+    
+    scaler = StandardScaler()
+    X_num_train = scaler.fit_transform(training_df[feature_cols])
+    
+    # Combine
+    X_train = hstack([X_text_train, X_num_train])
     y_train = training_df['Target_1W']
 
-    model = RandomForestClassifier(n_estimators=200, class_weight='balanced', random_state=42)
+    model = RandomForestClassifier(n_estimators=300, max_depth=20, random_state=42)
     model.fit(X_train, y_train)
-    print("   ✅ Model training complete.")
 
-    # --- PREDICTION ---
-    print(f"4. Generating prediction for news published since {last_market_close_utc.strftime('%Y-%m-%d %H:%M')}")
-    X_predict = vectorizer.transform([prediction_row['News_Text']])
+    # 5. Predict
+    print("4. Predicting...")
+    latest_market = labeled_data.iloc[-1] # Most recent known market state
     
-    pred = model.predict(X_predict)[0]
-    probs = model.predict_proba(X_predict)[0]
+    # Text input
+    X_text_pred = vectorizer.transform(pred_grouped['News_Text'])
     
-    # --- EVIDENCE EXTRACTION ---
-    importances = model.feature_importances_
-    feature_names = vectorizer.get_feature_names_out()
-    word_weights = {feature_names[i]: importances[i] for i in range(len(feature_names)) if importances[i] > 0.001}
+    # Number input
+    latest_nums = pd.DataFrame([latest_market[feature_cols].values], columns=feature_cols)
+    X_num_pred = scaler.transform(latest_nums)
     
-    evidence_scores = []
-    pred_day_articles = pd.DataFrame({
-        'id': prediction_row['article_ids'],
-        'topic': prediction_row['topics'],
-        'title': prediction_row['articles']
-    })
-
-    for index, row in pred_day_articles.iterrows():
-        headline_text = ("[" + str(row['topic']) + "] " + str(row['title'])).lower()
-        score = sum(word_weights.get(word, 0) for word in headline_text.split())
-        if score > 0:
-            evidence_scores.append({'id': int(row['id']), 'headline': str(row['title']), 'score': score})
-            
-    top_evidence = sorted(evidence_scores, key=lambda x: x['score'], reverse=True)[:3]
-
-    # Format Results
-    news_date = prediction_row['Date']
+    X_pred = hstack([X_text_pred, X_num_pred])
+    
+    # Result
+    pred = model.predict(X_pred)[0]
+    conf = model.predict_proba(X_pred)[0]
     direction = "UP" if pred == 1 else "DOWN"
-    confidence = probs[1] if pred == 1 else probs[0]
+    confidence = conf[1] if pred == 1 else conf[0]
+
+    # Evidence
+    importances = model.feature_importances_[:X_text_train.shape[1]]
+    words = vectorizer.get_feature_names_out()
+    word_weights = dict(zip(words, importances))
     
-    # --- SAVE & OUTPUT ---
-    save_prediction_to_db(news_date, direction, confidence, top_evidence)
+    evidence = []
+    ids, titles, topics = pred_grouped.iloc[0][['article_ids', 'articles', 'topics']]
     
+    for i in range(len(ids)):
+        text = (f"[{topics[i]}] {titles[i]}").lower()
+        score = sum(word_weights.get(w, 0) for w in text.split())
+        if score > 0: evidence.append({'id': ids[i], 'headline': titles[i], 'score': score})
+    
+    top_evidence = sorted(evidence, key=lambda x: x['score'], reverse=True)[:3]
+
     print("\n" + "="*60)
-    print(f"      AI 1-WEEK MARKET FORECAST ({TICKER})")
-    print(f"      Prediction Date: {news_date}")
-    print(f"      Articles Processed: {len(pred_day_articles)}")
+    print(f"      AI FORECAST: {direction} ({confidence:.1%})")
+    print(f"      Context: RSI={latest_market['RSI']:.1f}, VIX={latest_market['VIX_Close']:.1f}")
     print("="*60)
-    print(f"      Direction:  {direction}")
-    print(f"      Confidence: {confidence:.2%}")
-    print("\n      Top Evidence Headlines:")
-    for i, ev in enumerate(top_evidence):
-        print(f"        {i+1}. {ev['headline']} (id: {ev['id']})")
-    print("="*60)
+    
+    save_prediction(pred_grouped.iloc[0]['Date'], direction, confidence, top_evidence)
 
 if __name__ == "__main__":
     run_engine()

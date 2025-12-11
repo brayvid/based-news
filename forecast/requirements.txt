@@ -1,6 +1,7 @@
 # Data & Math
 pandas
 numpy
+scipy
 
 # Machine Learning & NLP
 scikit-learn
@@ -11,6 +12,6 @@ yfinance
 psycopg2-binary
 python-dotenv
 
-# Utilities (for timezones)
+# Utilities
 pytz
 pandas_market_calendars
