@@ -6,6 +6,7 @@ scipy
 # Machine Learning & NLP
 scikit-learn
 joblib
+nltk
 
 # Finance & Database
 yfinance

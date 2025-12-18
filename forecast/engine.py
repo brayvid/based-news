@@ -12,15 +12,23 @@ from scipy.sparse import hstack
 import pytz
 import pandas_market_calendars as mcal
 import warnings
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # --- CONFIGURATION ---
 load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 TICKER = "SPY"
 MARKET_TIMEZONE = "America/New_York"
-MARKET_CALENDAR = "NYSE"
+MARKET_CALENDAR = "XNYS" # Updated to correct ISO code
 
-# Silence warnings for cleaner output
+# Download VADER lexicon if not present
+try:
+    nltk.data.find('sentiment/vader_lexicon.zip')
+except LookupError:
+    nltk.download('vader_lexicon')
+
+# Silence warnings
 warnings.filterwarnings('ignore', category=UserWarning, module='pandas')
 warnings.filterwarnings('ignore', category=FutureWarning, module='yfinance')
 
@@ -42,7 +50,7 @@ def get_news_and_split(last_market_close_utc):
     print(f"1. Loading news... Cutoff: {last_market_close_utc.strftime('%Y-%m-%d %H:%M')}")
     conn = get_db_connection()
     try:
-        # Load all articles
+        # Use simple query (Pandas read_sql warning is harmless here)
         df = pd.read_sql("SELECT id, topic, title, pub_date FROM articles ORDER BY pub_date ASC", conn)
     finally:
         conn.close()
@@ -51,7 +59,7 @@ def get_news_and_split(last_market_close_utc):
 
     df['pub_date'] = pd.to_datetime(df['pub_date'], utc=True)
     
-    # Split based on cutoff
+    # Split
     training_df = df[df['pub_date'] <= last_market_close_utc]
     prediction_df = df[df['pub_date'] > last_market_close_utc]
     
@@ -59,6 +67,20 @@ def get_news_and_split(last_market_close_utc):
     print(f"   - New Articles (to predict): {len(prediction_df)}")
     
     return training_df, prediction_df
+
+def get_sentiment_score(texts):
+    """Calculates average compound sentiment for a list (or Series) of headlines."""
+    sia = SentimentIntensityAnalyzer()
+    
+    # FIX: Convert Pandas Series to list
+    if hasattr(texts, 'tolist'):
+        texts = texts.tolist()
+        
+    if not texts: return 0.0
+    
+    # Calculate scores ensuring inputs are strings
+    scores = [sia.polarity_scores(str(t))['compound'] for t in texts]
+    return np.mean(scores)
 
 def process_and_group_news(df, is_for_training=True):
     if df.empty: return pd.DataFrame()
@@ -68,20 +90,23 @@ def process_and_group_news(df, is_for_training=True):
     df['News_Text'] = "[" + df['topic'] + "] " + df['title']
     
     if is_for_training:
-        # Group by Date for training
         df['Date'] = df['pub_date'].dt.tz_convert(MARKET_TIMEZONE).dt.date
         grouped = df.groupby('Date').agg(
             News_Text=('News_Text', ' '.join),
+            # This calls the fixed function above
+            Sentiment_Score=('title', get_sentiment_score),
             article_ids=('id', list),
             articles=('title', list),
             topics=('topic', list)
         ).reset_index()
         return grouped.sort_values('Date')
     else:
-        # Aggregate everything into one row for prediction
+        # Prediction grouping
         return pd.DataFrame({
             'Date': [datetime.now(pytz.timezone(MARKET_TIMEZONE)).date()], 
             'News_Text': [' '.join(df['News_Text'])],
+            # Manually convert to list for single-row dataframe creation
+            'Sentiment_Score': [get_sentiment_score(df['title'].tolist())],
             'article_ids': [list(df['id'])],
             'articles': [list(df['title'])],
             'topics': [list(df['topic'])]
@@ -101,7 +126,6 @@ def add_market_context(df):
     ny_tz = pytz.timezone(MARKET_TIMEZONE)
     now_ny = datetime.now(ny_tz)
     
-    # Download 2 years of data to ensure indicators can calculate
     start_date = pd.to_datetime(df['Date'].min()).date() - timedelta(days=730)
     end_date = (now_ny + timedelta(days=2)).date()
     
@@ -114,7 +138,6 @@ def add_market_context(df):
 
     if data.empty: return pd.DataFrame()
 
-    # Extract Data (handling potential yfinance structure variations)
     try:
         spy = data[TICKER].copy()
         vix = data['^VIX'][['Close']].rename(columns={'Close': 'VIX_Close'})
@@ -124,11 +147,8 @@ def add_market_context(df):
         vix = data.xs('^VIX', level=0, axis=1)[['Close']].rename(columns={'Close': 'VIX_Close'})
         tnx = data.xs('^TNX', level=0, axis=1)[['Close']].rename(columns={'Close': 'TNX_Close'})
 
-    # Prepare SPY
     market = spy.reset_index()
     market['Date'] = pd.to_datetime(market['Date']).dt.date
-    
-    # Merge VIX/TNX
     vix = vix.reset_index()
     vix['Date'] = pd.to_datetime(vix['Date']).dt.date
     tnx = tnx.reset_index()
@@ -140,21 +160,19 @@ def add_market_context(df):
     # --- INDICATORS ---
     market['RSI'] = calculate_rsi(market['Close'])
     market['SMA_50'] = market['Close'].rolling(window=50).mean()
-    
-    # Note: Removed SMA_200 to increase training data availability
-    # market['SMA_200'] = market['Close'].rolling(window=200).mean()
-
     market['Dist_SMA_50'] = (market['Close'] - market['SMA_50']) / market['SMA_50']
+    
+    # Stationary features
+    market['VIX_Change'] = market['VIX_Close'].pct_change()
+    market['TNX_Change'] = market['TNX_Close'].pct_change()
     market['Vol_Change'] = market['Volume'].pct_change(fill_method=None)
 
-    # Clean up NaNs created by indicators (first 50 days)
-    market = market.dropna(subset=['SMA_50', 'RSI'])
+    market = market.dropna(subset=['SMA_50', 'RSI', 'VIX_Change'])
 
-    # Targets (Next 5 Days)
+    # Targets
     market['Future_Close'] = market['Close'].shift(-5)
     market['Target_1W'] = np.where(market['Future_Close'] > market['Close'], 1, 0)
     
-    # Merge
     full_df = pd.merge(df, market, on='Date', how='inner')
     return full_df
 
@@ -181,7 +199,6 @@ def save_prediction(news_date, direction, confidence, evidence):
         conn.close()
 
 def run_engine():
-    # 1. Split Data
     cutoff = get_last_market_close_time()
     train_raw, pred_raw = get_news_and_split(cutoff)
 
@@ -189,57 +206,55 @@ def run_engine():
         print("No new news. Exiting.")
         return
 
-    # 2. Process
     train_grouped = process_and_group_news(train_raw, True)
     pred_grouped = process_and_group_news(pred_raw, False)
 
-    # 3. Add Market Data
     labeled_data = add_market_context(train_grouped)
-    
-    # Use .copy() to avoid SettingWithCopyWarning
     training_df = labeled_data.dropna(subset=['Future_Close']).copy()
     
     if training_df.empty:
-        print("Insufficient training data (Check date overlap between News and Market data).")
+        print("Insufficient training data.")
         return
 
-    # 4. Train
     print(f"3. Training Model (Samples: {len(training_df)})...")
     
-    # Text
-    vectorizer = TfidfVectorizer(stop_words='english', max_features=1000, min_df=2)
+    # Text Features
+    vectorizer = TfidfVectorizer(stop_words='english', max_features=1000, min_df=2, ngram_range=(1,2))
     X_text_train = vectorizer.fit_transform(training_df['News_Text'])
     
-    # Numbers
-    feature_cols = ['VIX_Close', 'TNX_Close', 'RSI', 'Dist_SMA_50', 'Vol_Change']
+    # Numerical Features
+    feature_cols = ['VIX_Change', 'TNX_Change', 'RSI', 'Dist_SMA_50', 'Vol_Change', 'Sentiment_Score']
     training_df[feature_cols] = training_df[feature_cols].fillna(0)
     
     scaler = StandardScaler()
     X_num_train = scaler.fit_transform(training_df[feature_cols])
     
-    # Combine
     X_train = hstack([X_text_train, X_num_train])
     y_train = training_df['Target_1W']
 
-    model = RandomForestClassifier(n_estimators=300, max_depth=20, random_state=42)
+    model = RandomForestClassifier(
+        n_estimators=500, 
+        max_depth=10, 
+        min_samples_leaf=4,
+        class_weight='balanced_subsample', 
+        random_state=42
+    )
     model.fit(X_train, y_train)
 
-    # 5. Predict
     print("4. Predicting...")
-    latest_market = labeled_data.iloc[-1] # Most recent known market state
+    latest_market = labeled_data.iloc[-1]
     
-    # Text input
     X_text_pred = vectorizer.transform(pred_grouped['News_Text'])
     
-    # Number input
-    latest_nums = pd.DataFrame([latest_market[feature_cols].values], columns=feature_cols)
-    X_num_pred = scaler.transform(latest_nums)
+    latest_nums_df = pd.DataFrame([latest_market[feature_cols[:-1]].values], columns=feature_cols[:-1])
+    latest_nums_df['Sentiment_Score'] = pred_grouped.iloc[0]['Sentiment_Score']
     
+    X_num_pred = scaler.transform(latest_nums_df[feature_cols])
     X_pred = hstack([X_text_pred, X_num_pred])
     
-    # Result
     pred = model.predict(X_pred)[0]
     conf = model.predict_proba(X_pred)[0]
+    
     direction = "UP" if pred == 1 else "DOWN"
     confidence = conf[1] if pred == 1 else conf[0]
 
@@ -251,16 +266,23 @@ def run_engine():
     evidence = []
     ids, titles, topics = pred_grouped.iloc[0][['article_ids', 'articles', 'topics']]
     
+    sia = SentimentIntensityAnalyzer()
+
     for i in range(len(ids)):
         text = (f"[{topics[i]}] {titles[i]}").lower()
-        score = sum(word_weights.get(w, 0) for w in text.split())
-        if score > 0: evidence.append({'id': ids[i], 'headline': titles[i], 'score': score})
+        tfidf_score = sum(word_weights.get(w, 0) for w in text.split())
+        sent_score = abs(sia.polarity_scores(titles[i])['compound'])
+        final_score = tfidf_score + (sent_score * 0.5)
+        
+        if final_score > 0: 
+            evidence.append({'id': ids[i], 'headline': titles[i], 'score': final_score})
     
     top_evidence = sorted(evidence, key=lambda x: x['score'], reverse=True)[:3]
 
     print("\n" + "="*60)
     print(f"      AI FORECAST: {direction} ({confidence:.1%})")
-    print(f"      Context: RSI={latest_market['RSI']:.1f}, VIX={latest_market['VIX_Close']:.1f}")
+    print(f"      Sentiment: {latest_nums_df['Sentiment_Score'].values[0]:.2f}")
+    print(f"      VIX Chg: {latest_market['VIX_Change']:.1%}, RSI: {latest_market['RSI']:.1f}")
     print("="*60)
     
     save_prediction(pred_grouped.iloc[0]['Date'], direction, confidence, top_evidence)
