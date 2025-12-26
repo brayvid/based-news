@@ -102,14 +102,26 @@
     </div>
   </footer>
   
+  <!-- Data Container: Holds the raw JSON safely -->
+  <script id="predictions-data" type="application/json">
+        {{ predictions | tojson | safe }}
+  </script>
+    
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <!-- NOTE: Date FNS adapter removed as we are now using category axis for manual spacing -->
   
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-        const jsonString = '{{ predictions | tojson | safe }}';
-        if (!jsonString || jsonString === 'null' || jsonString === '[]') return;
+        // 1. Get the data from the hidden script tag
+        const dataElement = document.getElementById('predictions-data');
+        if (!dataElement) return;
+
+        const jsonString = dataElement.textContent;
+
+        // 2. Validate valid JSON string exists
+        if (!jsonString || jsonString.trim() === 'null' || jsonString.trim() === '') return;
         
+        // 3. Parse safely
         const predictionsData = JSON.parse(jsonString).reverse();
 
         const forecastSliderWrapper = document.getElementById("forecast-slider-wrapper");
