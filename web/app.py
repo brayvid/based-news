@@ -3,7 +3,7 @@
 import os
 import html
 from collections import OrderedDict
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 import psycopg2
 import psycopg2.extras
@@ -22,8 +22,6 @@ app = Flask(__name__)
 DATABASE_URL = os.environ.get('DATABASE_URL')
 if not DATABASE_URL:
     raise RuntimeError("DATABASE_URL environment variable is not set.")
-
-TICKER = "SPY"
 
 # Get timezone from environment or use a default
 USER_TIMEZONE = os.environ.get("TIMEZONE", "America/New_York")
@@ -83,66 +81,87 @@ def forecast_page():
     historical price charts.
     """
     conn = get_db_connection()
-    # Use a DictCursor to get results as dictionaries
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
-    # Fetch the last 10 predictions
-    cur.execute("SELECT * FROM predictions WHERE ticker = %s ORDER BY news_date DESC LIMIT 10", (TICKER,))
+    # CHANGED: Removed "WHERE ticker = 'SPY'" so we see Sector picks too
+    cur.execute("SELECT * FROM predictions ORDER BY news_date DESC LIMIT 10")
     predictions_raw = cur.fetchall()
     cur.close()
     conn.close()
 
     predictions_list = []
+    
+    # Current date for chart clamping
+    today = datetime.now().date()
+
     for prediction in predictions_raw:
         pred_dict = dict(prediction)
+        ticker = pred_dict['ticker']
         
-        # Define the date range for the historical chart data
-        prediction_date = pred_dict['news_date']
-        end_date = prediction_date
-        start_date = end_date - timedelta(days=35) # Fetch ~1 month of data
+        # --- DATE LOGIC FIX ---
+        # Ensure we are working with a date object
+        p_date = pred_dict['news_date']
+        if isinstance(p_date, datetime):
+            p_date = p_date.date()
+        elif isinstance(p_date, str):
+            p_date = datetime.strptime(p_date, '%Y-%m-%d').date()
+
+        # Add nicely formatted date string
+        pred_dict['news_date_formatted'] = p_date.strftime('%A, %B %d, %Y')
+
+        # Logic: If prediction is in the future (2026), stop chart at TODAY (2025)
+        # to prevent yfinance errors.
+        if p_date > today:
+            chart_end = today
+        else:
+            chart_end = p_date
+        
+        # Look back 45 days for context
+        chart_start = chart_end - timedelta(days=45) 
         
         try:
             # Fetch data from yfinance
+            # progress=False hides the console noise
             market_data = yf.download(
-                TICKER,
-                start=start_date,
-                end=end_date,
+                ticker,
+                start=chart_start,
+                end=chart_end + timedelta(days=1), # +1 to include the end date
                 progress=False,
                 auto_adjust=True
             )
 
-            # --- FIX FOR YFINANCE MULTI-INDEX ISSUE ---
-            # If yfinance returns columns like ('Close', 'SPY'), flatten them to just 'Close'
-            if isinstance(market_data.columns, pd.MultiIndex):
-                market_data.columns = market_data.columns.get_level_values(0)
-            # ------------------------------------------
-
-            # Format the data for Chart.js if the download was successful
+            # --- FIX FOR YFINANCE MULTI-INDEX ---
             if not market_data.empty:
+                # If columns are MultiIndex (Price, Ticker), drop the ticker level
+                if isinstance(market_data.columns, pd.MultiIndex):
+                    market_data.columns = market_data.columns.get_level_values(0)
+
                 market_data = market_data.reset_index()
                 
-                # Chart.js expects UTC timestamps in milliseconds
-                timestamps = (market_data['Date'].astype(np.int64) // 10**6).tolist()
-                prices = market_data['Close'].tolist()
+                chart_points = []
+                for _, row in market_data.iterrows():
+                    # Extract timestamp (JS uses milliseconds)
+                    ts = int(row['Date'].timestamp() * 1000)
+                    
+                    # Extract Close price safely (handle scalar vs series)
+                    val = row['Close']
+                    if hasattr(val, 'iloc'):
+                        val = val.iloc[0]
+                    
+                    if pd.notna(val):
+                        chart_points.append({'x': ts, 'y': float(val)})
                 
-                # Create the points list in the format {x, y}
-                chart_points = [{'x': ts, 'y': price} for ts, price in zip(timestamps, prices)]
-                
-                # Attach the chart data to the prediction dictionary
                 pred_dict['chart_data'] = {'points': chart_points}
             else:
                  pred_dict['chart_data'] = {'points': []}
 
         except Exception as e:
-            # Print the specific error to the console for debugging
-            print(f"Error processing yfinance data for {prediction_date}: {e}")
+            print(f"Error processing yfinance data for {ticker}: {e}")
             pred_dict['chart_data'] = {'points': []}
-        
-        # Add a nicely formatted date string for the header
-        pred_dict['news_date_formatted'] = prediction_date.strftime('%A, %B %d, %Y')
         
         predictions_list.append(pred_dict)
         
+    # NOTE: Ensure you saved the previous HTML I gave you as 'templates/forecast.html'
     return render_template('forecast.html', predictions=predictions_list)
 
 @app.route('/manifest')

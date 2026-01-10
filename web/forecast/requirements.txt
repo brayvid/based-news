@@ -1,0 +1,18 @@
+# Data & Math
+pandas
+numpy
+scipy
+
+# Machine Learning & NLP
+scikit-learn
+joblib
+nltk
+
+# Finance & Database
+yfinance
+psycopg2-binary
+python-dotenv
+
+# Utilities
+pytz
+pandas_market_calendars

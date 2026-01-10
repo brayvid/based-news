@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>S&P 500 Forecast | Based News</title>
+  <title>Market Forecast | Blake Rayvid</title>
   <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" sizes="any">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,78 +11,103 @@
     :root { color-scheme: dark; }
     body { margin: 0; font-family: 'Open Sans', sans-serif; background-color: #121212; color: #e0e0e0; line-height: 1.6; overscroll-behavior-x: none; }
     .container { width: 90%; max-width: 800px; margin: 0 auto; padding-top: 4px; }
-    header { background-color: #121212; padding: 1.5em 0; text-align: center; }
-    header h1 { margin: 0; font-family: 'Merriweather', serif; font-size: clamp(1.8em, 8vw, 2.5em); color: #e0e0e0; cursor: pointer; }
-    header h1:hover { text-decoration: underline; }
-    header h1 a { color: inherit; text-decoration: none; }
-    .subheading { margin-top: 0.5em; font-size: 1.1em; color: #bbb; }
     
-    main { background: #1e1e1e; border: 1px solid #333; margin-top: 2em; padding: 2em 1.6em; }
-    .prediction-card { padding: 0; margin: 0; }
-    .card-header { border-bottom: 1px solid #444; padding-bottom: 0.8em; margin-bottom: 1em; }
-    .prediction-details { display: flex; justify-content: space-between; align-items: center; margin-top: 0.5em; flex-wrap: wrap; }
-    .prediction-signal { font-size: 1.5em; font-weight: bold; }
-    .prediction-up { color: #4CAF50; }
-    .prediction-down { color: #F44336; }
-    .confidence { font-size: 1.2em; color: #ccc; }
-    .chart-container { position: relative; height: 300px; margin-top: 1.5em; }
-    footer { text-align: center; font-size: 0.9em; color: #999; padding: 2em 0; }
-    footer a { color: #8ab4f8; }
+    header { background-color: #121212; padding: 1.5em 0; text-align: center; border-bottom: 1px solid #333; margin-bottom: 2em; }
+    header h1 { margin: 0; font-family: 'Merriweather', serif; font-size: clamp(1.8em, 8vw, 2.5em); color: #e0e0e0; }
+    header h1 a { color: inherit; text-decoration: none; }
+    .subheading { margin-top: 0.5em; font-size: 1.0em; color: #888; font-style: italic; }
+    
+    main { padding-bottom: 3em; }
 
-    .forecast-pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 1em; margin-top: 1em; user-select: none; }
-    .arrow-btn { background-color: transparent; border: none; color: #aaa; font-size: 18px; cursor: pointer; padding: 5px; line-height: 1; transition: color 0.2s; }
-    .arrow-btn:hover:not(:disabled) { color: #fff; }
+    /* --- SLIDER & NAV --- */
+    .forecast-pagination { display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 1.5em; user-select: none; }
+    .arrow-btn { background: #333; border: none; color: #fff; font-size: 18px; cursor: pointer; padding: 8px 14px; border-radius: 4px; transition: background 0.2s; }
+    .arrow-btn:hover:not(:disabled) { background: #555; }
     .arrow-btn:disabled { opacity: 0.3; cursor: not-allowed; }
-    #dots-container { display: flex; align-items: center; gap: 12px; }
-    .dot { width: 10px; height: 10px; background-color: #555; border-radius: 50%; cursor: pointer; transition: background-color 0.2s, transform 0.2s; flex-shrink: 0; }
-    .dot.active { background-color: #4a90e2; transform: scale(1.2); }
-    .forecast-timestamp { font-family: 'Merriweather', serif; font-size: 1.1em; text-align: center; color: #ccc; margin-bottom: 1em; border-bottom: 1px solid #444; padding-bottom: 0.5em; }
-    #forecast-slider-wrapper { overflow: hidden; position: relative; width: 100%; transition: height 0.25s ease-in-out; min-height: 400px; padding-bottom: 1em; }
+    .timestamp-label { font-family: 'Merriweather', serif; color: #aaa; font-size: 1.1em; }
+
+    #forecast-slider-wrapper { overflow: hidden; position: relative; width: 100%; min-height: 450px; transition: height 0.3s ease; }
     #forecast-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
-    .forecast-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; }
+    .forecast-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; padding: 0 5px; }
+
+    /* --- CARD STYLING --- */
+    .prediction-card { 
+        background: #1e1e1e; 
+        border: 1px solid #333; 
+        border-radius: 8px; 
+        padding: 1.5em;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    
+    .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em; border-bottom: 1px solid #333; padding-bottom: 1em; }
+    
+    .signal-badge { font-weight: bold; padding: 6px 12px; border-radius: 4px; font-size: 1.1em; letter-spacing: 0.5px; }
+    .signal-crash { background-color: rgba(244, 67, 54, 0.15); color: #ff5252; border: 1px solid rgba(244, 67, 54, 0.3); }
+    .signal-sector { background-color: rgba(76, 175, 80, 0.15); color: #69f0ae; border: 1px solid rgba(76, 175, 80, 0.3); }
+    
+    .ticker-name { font-size: 1.5em; font-weight: 800; color: #fff; margin-right: 10px; }
+    .confidence { font-size: 0.9em; color: #888; text-transform: uppercase; letter-spacing: 1px; }
+
+    .evidence-box { background: #181818; padding: 1em; border-left: 3px solid #555; margin-bottom: 1.5em; font-family: 'Merriweather', serif; font-size: 1.05em; color: #ddd; }
+    .evidence-label { display: block; font-size: 0.75em; color: #666; font-family: 'Open Sans', sans-serif; text-transform: uppercase; margin-bottom: 4px; }
+
+    .chart-container { position: relative; height: 320px; width: 100%; }
+
+    footer { text-align: center; font-size: 0.9em; color: #666; padding: 2em 0; border-top: 1px solid #333; margin-top: 3em; }
+    footer a { color: #8ab4f8; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
 
     @media (max-width: 600px) {
-        main { padding: 1.2em 1em; }
-        .prediction-details { flex-direction: column; align-items: flex-start; gap: 0.25em; }
-        .prediction-signal { font-size: 1.2em; }
-        .confidence { font-size: 1.0em; }
+        .card-header { flex-direction: column; align-items: flex-start; gap: 10px; }
+        .ticker-name { font-size: 1.3em; }
     }
   </style>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" media="print" onload="this.media='all'" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;800&display=swap" />
 </head>
 <body>
+
   <header>
     <div class="container">
-      <h1><a href="{{ url_for('index') }}">Based News Reader</a></h1>
-      <p class="subheading">S&P 500 forecast, updated weekdays shortly before market open.</p>
+      <h1><a href="{{ url_for('index') }}">Based News</a></h1>
+      <p class="subheading">AI-Driven Sector Rotation & Risk Analysis</p>
     </div>
   </header>
 
   <main class="container">
     {% if predictions %}
+        <!-- Navigation Controls -->
         <div class="forecast-pagination">
-          <button id="older-btn" class="arrow-btn" disabled title="Older Forecast">◄</button>
-          <div id="dots-container"></div>
-          <button id="newer-btn" class="arrow-btn" disabled title="Newer Forecast">►</button>
+          <button id="older-btn" class="arrow-btn" disabled title="Previous Forecast">◄</button>
+          <span id="forecast-timestamp-header" class="timestamp-label"></span>
+          <button id="newer-btn" class="arrow-btn" disabled title="Next Forecast">►</button>
         </div>
-        <p id="forecast-timestamp-header" class="forecast-timestamp"></p>
         
         <div id="forecast-slider-wrapper">
             <div id="forecast-slider">
                 {% for prediction in predictions | reverse %}
                 <div class="forecast-slide">
                     <div class="prediction-card">
+                        
+                        <!-- Dynamic Header based on Prediction Type -->
                         <div class="card-header">
-                            <div class="prediction-details">
-                                {% if prediction.direction == 'UP' %}
-                                    <span class="prediction-signal prediction-up">1-WEEK FORECAST: HIGHER ↑</span>
+                            <div>
+                                <span class="ticker-name">{{ prediction.ticker }}</span>
+                                {% if prediction.ticker == 'SPY' and prediction.direction == 'DOWN' %}
+                                    <span class="signal-badge signal-crash">⚠️ CRASH WARNING</span>
                                 {% else %}
-                                    <span class="prediction-signal prediction-down">1-WEEK FORECAST: LOWER ↓</span>
+                                    <span class="signal-badge signal-sector">TOP PICK: {{ prediction.direction }}</span>
                                 {% endif %}
-                                <span class="confidence">Confidence: {{ "%.1f"|format(prediction.confidence * 100) }}%</span>
                             </div>
+                            <span class="confidence">AI Confidence: {{ "%.0f"|format(prediction.confidence * 100) }}%</span>
+                        </div>
+
+                        <!-- Analysis Text / Return Projection -->
+                        <div class="evidence-box">
+                            <span class="evidence-label">Model Output</span>
+                            {{ prediction.evidence_1 }}
                         </div>
                         
+                        <!-- Chart -->
                         <div class="chart-container">
                             <canvas id="forecast-chart-{{ loop.index0 }}"></canvas>
                         </div>
@@ -92,247 +117,227 @@
             </div>
         </div>
     {% else %}
-        <p>No forecasts found. Forecasts generated on weekdays shortly before market open.</p>
+        <div style="text-align:center; padding: 3em; color: #666;">
+            <p>No active forecasts found.</p>
+            <p>Forecasts are generated weekdays before market open.</p>
+        </div>
     {% endif %}
   </main>
 
   <footer>
     <div class="container">
-      <p><a href="/">Home</a> | <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">Settings</a> | <a href="https://github.com/brayvid/based-news">GitHub</a> | <a href="https://blakerayvid.com">Portfolio</a></p>
+      <p>
+        <a href="https://github.com/brayvid/based-news">GitHub</a> &bull; 
+        <a href="https://blakerayvid.com">Portfolio</a>
+      </p>
     </div>
   </footer>
   
-  <!-- Data Container: Holds the raw JSON safely -->
+  <!-- Data Injection -->
   <script id="predictions-data" type="application/json">
         {{ predictions | tojson | safe }}
   </script>
     
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <!-- NOTE: Date FNS adapter removed as we are now using category axis for manual spacing -->
   
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // 1. Get the data from the hidden script tag
         const dataElement = document.getElementById('predictions-data');
         if (!dataElement) return;
 
-        const jsonString = dataElement.textContent;
-
-        // 2. Validate valid JSON string exists
-        if (!jsonString || jsonString.trim() === 'null' || jsonString.trim() === '') return;
+        const rawJson = dataElement.textContent;
+        if (!rawJson || rawJson.trim() === 'null' || rawJson.trim() === '') return;
         
-        // 3. Parse safely
-        const predictionsData = JSON.parse(jsonString).reverse();
+        const predictionsData = JSON.parse(rawJson).reverse();
+        if(predictionsData.length === 0) return;
 
-        const forecastSliderWrapper = document.getElementById("forecast-slider-wrapper");
-        const forecastSlider = document.getElementById("forecast-slider");
+        const slider = document.getElementById("forecast-slider");
+        const sliderWrapper = document.getElementById("forecast-slider-wrapper");
         const olderBtn = document.getElementById("older-btn");
         const newerBtn = document.getElementById("newer-btn");
-        const dotsContainer = document.getElementById("dots-container");
-        const timestampHeader = document.getElementById("forecast-timestamp-header");
+        const timestampLabel = document.getElementById("forecast-timestamp-header");
 
         let chartInstances = [];
         let currentIndex = 0;
         let totalItems = predictionsData.length;
-        let touchStartX = 0;
-        let touchEndX = 0;
-        const swipeThreshold = 50;
-        
-        // Helper to format timestamps into strings for the Category Axis
+
+        // --- Chart Helper Functions ---
+
         function formatDateLabel(timestamp) {
             const date = new Date(timestamp);
-            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
         }
 
-        // Helper to get next business day (skips Sat/Sun)
         function getNextBusinessDay(dateObj) {
             let d = new Date(dateObj);
             do {
                 d.setDate(d.getDate() + 1);
-            } while (d.getDay() === 0 || d.getDay() === 6);
+            } while (d.getDay() === 0 || d.getDay() === 6); // Skip Sun(0) and Sat(6)
             return d;
         }
 
         function renderChart(index) {
             if (chartInstances[index] || !predictionsData[index]) return;
 
-            const prediction = predictionsData[index];
+            const pred = predictionsData[index];
             const ctx = document.getElementById('forecast-chart-' + index);
             if (!ctx) return;
 
-            const chartData = prediction.chart_data;
-            if (!chartData || !chartData.points || chartData.points.length === 0) {
-                if (ctx.parentElement) ctx.parentElement.style.display = 'none';
-                return;
-            }
+            const chartData = pred.chart_data;
+            if (!chartData || !chartData.points || chartData.points.length === 0) return;
 
-            const tzOffsetMs = new Date().getTimezoneOffset() * 60 * 1000;
-            
-            // 1. Prepare Historical Data and Labels
+            // 1. Prepare History Data
+            // We use browser local time to interpret the timestamp to avoid date shifting
+            // But formatting uses standard US locale
             const labels = [];
             const histData = [];
             
             chartData.points.forEach(p => {
-                // Adjust for timezone to ensure date string consistency
-                const localTs = p.x + tzOffsetMs; 
-                labels.push(formatDateLabel(localTs));
+                labels.push(formatDateLabel(p.x));
                 histData.push(p.y);
             });
 
-            // 2. Prepare Forecast Target
-            const lastHistVal = histData[histData.length - 1];
-            const lastHistDateTs = chartData.points[chartData.points.length - 1].x + tzOffsetMs;
+            // 2. Prepare Forecast Line
+            const lastPrice = histData[histData.length - 1];
+            const lastTs = chartData.points[chartData.points.length - 1].x;
             
-            const forecastPct = prediction.direction === 'UP' ? 1.015 : 0.985;
-            const forecastTarget = lastHistVal * forecastPct;
-
-            // 3. Generate Future Labels (Business Days Only)
-            let currentDateObj = new Date(lastHistDateTs);
-            for(let i=0; i<5; i++) {
-                currentDateObj = getNextBusinessDay(currentDateObj);
-                labels.push(formatDateLabel(currentDateObj));
+            // Extract projected return from "evidence_1" text (e.g. "Forecast: 5.67%...")
+            // If regex fails, fallback to simple direction-based projection
+            let pctChange = 0.0;
+            const match = pred.evidence_1 ? pred.evidence_1.match(/([+-]?\d+(\.\d+)?)%/) : null;
+            
+            if (match) {
+                pctChange = parseFloat(match[1]) / 100;
+            } else {
+                // Fallback: 2% up or down
+                pctChange = pred.direction === 'UP' ? 0.02 : -0.02;
             }
 
-            // 4. Prepare Forecast Data Array
-            // Fill with nulls for historical period, set start point at last history index
+            const targetPrice = lastPrice * (1 + pctChange);
+
+            // 3. Generate Future Date Labels (Next 5 Business Days for visualization)
+            // We don't show the full 20 days because it cramps the mobile chart
+            let currDate = new Date(lastTs);
+            for(let i=0; i<5; i++) {
+                currDate = getNextBusinessDay(currDate);
+                labels.push(formatDateLabel(currDate.getTime()));
+            }
+
+            // 4. Fill Forecast Dataset
+            // Nulls for history, then Last Price -> Target Price
             const forecastData = new Array(histData.length).fill(null);
-            forecastData[histData.length - 1] = lastHistVal; // Connect the lines
+            forecastData[histData.length - 1] = lastPrice; // Connect lines
             
-            // Fill empty slots for intermediate forecast days (for alignment)
+            // Add intermediate nulls
             for(let i=0; i<4; i++) {
                 forecastData.push(null);
             }
-            // Add the final target
-            forecastData.push(forecastTarget);
+            // Add final target point
+            forecastData.push(targetPrice);
 
+            // 5. Create Chart
             chartInstances[index] = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: labels, // Shared strings array
+                    labels: labels,
                     datasets: [
-                        { 
-                            label: 'SPY', 
-                            data: histData, 
-                            borderColor: '#aaaaaa', 
-                            borderWidth: 2, 
-                            pointRadius: 0, 
-                            tension: 0.1 
+                        {
+                            label: 'History',
+                            data: histData,
+                            borderColor: '#aaaaaa',
+                            borderWidth: 2,
+                            pointRadius: 0,
+                            tension: 0.1
                         },
-                        { 
-                            label: 'Forecast', 
-                            data: forecastData, 
-                            borderColor: prediction.direction === 'UP' ? 'rgba(80, 160, 115, 0.8)' : 'rgba(215, 85, 65, 0.8)', 
-                            borderWidth: 2, 
-                            borderDash: [5, 5], 
-                            pointRadius: 0, 
+                        {
+                            label: 'Forecast',
+                            data: forecastData,
+                            borderColor: pred.direction === 'UP' ? '#69f0ae' : '#ff5252',
+                            borderWidth: 2,
+                            borderDash: [5, 5],
+                            pointRadius: 2, // Highlight the target
                             tension: 0,
-                            spanGaps: true // Crucial: Draws line over the nulls in forecast period
+                            spanGaps: true
                         }
                     ]
                 },
                 options: {
-                    responsive: true, maintainAspectRatio: false,
+                    responsive: true,
+                    maintainAspectRatio: false,
                     scales: {
-                        x: { 
-                            type: 'category', // Even spacing, no gaps for weekends
-                            grid: { color: 'rgba(255,255,255,0.1)' }, 
+                        x: {
+                            type: 'category',
+                            grid: { color: 'rgba(255,255,255,0.05)' },
                             ticks: { 
-                                color: '#ccc', 
-                                maxRotation: 0, 
-                                autoSkip: true, 
-                                maxTicksLimit: 6 
-                            } 
+                                color: '#888',
+                                maxTicksLimit: 6,
+                                maxRotation: 0
+                            }
                         },
-                        y: { 
-                            position: 'right', 
-                            grid: { color: 'rgba(255,255,255,0.1)' }, 
-                            ticks: { color: '#ccc' } 
+                        y: {
+                            position: 'right',
+                            grid: { color: 'rgba(255,255,255,0.05)' },
+                            ticks: { color: '#888' }
                         }
                     },
                     plugins: {
-                        legend: {
-                            display: true,
-                            position: 'top',
-                            align: 'start',
-                            labels: {
-                                color: '#ccc',
-                                usePointStyle: true,
-                                pointStyle: 'line',
-                                useBorderDash: true,
-                                boxWidth: 20,
-                                padding: 20
-                            }
-                        },
+                        legend: { display: false },
                         tooltip: {
+                            mode: 'index',
                             intersect: false,
-                            mode: 'index', // Show both lines at specific X index
-                            displayColors: false
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) label += ': ';
+                                    if (context.parsed.y !== null) {
+                                        label += new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(context.parsed.y);
+                                    }
+                                    return label;
+                                }
+                            }
                         }
                     }
                 }
             });
         }
-        
-        function updateNavControls() {
+
+        // --- Slider Logic ---
+
+        function updateNav() {
             olderBtn.disabled = currentIndex <= 0;
             newerBtn.disabled = currentIndex >= totalItems - 1;
-            document.querySelectorAll('.dot').forEach((dot, idx) => dot.classList.toggle('active', idx === currentIndex));
-        }
-
-        function updateTimestampHeader() {
-            const prediction = predictionsData[currentIndex];
-            if (prediction && prediction.news_date_formatted) {
-                timestampHeader.textContent = prediction.news_date_formatted;
+            
+            const pred = predictionsData[currentIndex];
+            if (pred && pred.news_date_formatted) {
+                timestampLabel.textContent = pred.news_date_formatted;
             }
         }
 
-        function adjustWrapperHeight() {
-            const currentSlide = forecastSlider.children[currentIndex];
-            if (currentSlide) requestAnimationFrame(() => { forecastSliderWrapper.style.height = `${currentSlide.offsetHeight}px`; });
-        }
-
-        function showForecast(index) {
+        function showSlide(index) {
             if (index < 0 || index >= totalItems) return;
             currentIndex = index;
-            forecastSlider.style.transform = `translateX(-${index * 100}%)`;
-            updateNavControls();
-            updateTimestampHeader();
+            slider.style.transform = `translateX(-${index * 100}%)`;
+            updateNav();
             renderChart(index);
-            adjustWrapperHeight();
-        }
-        
-        function handleSwipe() {
-            const deltaX = touchEndX - touchStartX;
-            if (Math.abs(deltaX) > swipeThreshold) {
-                if (deltaX < 0 && currentIndex < totalItems - 1) showForecast(currentIndex + 1);
-                else if (deltaX > 0 && currentIndex > 0) showForecast(currentIndex - 1);
+            
+            // Adjust height
+            const slide = slider.children[index];
+            if(slide) {
+                sliderWrapper.style.height = slide.offsetHeight + 'px';
             }
         }
 
-        function initializeCarousel() {
-            if (totalItems === 0) return;
-            
-            dotsContainer.innerHTML = '';
-            for (let i = 0; i < totalItems; i++) {
-                const dot = document.createElement('div');
-                dot.className = 'dot';
-                dot.onclick = () => showForecast(i);
-                dotsContainer.appendChild(dot);
-                chartInstances.push(null);
-            }
+        olderBtn.onclick = () => showSlide(currentIndex - 1);
+        newerBtn.onclick = () => showSlide(currentIndex + 1);
 
-            olderBtn.onclick = () => { if (currentIndex > 0) showForecast(currentIndex - 1); };
-            newerBtn.onclick = () => { if (currentIndex < totalItems - 1) showForecast(currentIndex + 1); };
-
-            forecastSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
-            forecastSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });
-            
-            window.addEventListener('resize', adjustWrapperHeight);
-            
-            showForecast(totalItems - 1); 
-        }
+        // Initialize
+        window.addEventListener('resize', () => showSlide(currentIndex));
         
-        initializeCarousel();
+        // Start at latest (which is last in the array after reverse)
+        // Actually, Flask logic | reverse reverses order, JS logic .reverse() reverses it back to Chronological?
+        // Let's assume prediction[0] is Oldest, prediction[Length-1] is Newest.
+        // We want to show Newest first.
+        showSlide(totalItems - 1);
     });
   </script>
 </body>
