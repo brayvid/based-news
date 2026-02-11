@@ -5,7 +5,6 @@
   },
   "deploy": {
     "startCommand": "gunicorn app:app --log-file -",
-    "restartPolicyType": "ON_FAILURE",
-    "restartPolicyMaxRetries": 10
+    "restartPolicyType": "ALWAYS"
   }
 }
