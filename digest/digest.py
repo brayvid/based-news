@@ -12,10 +12,8 @@ import requests
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from dotenv import load_dotenv
-import google.generativeai as genai
-from google.generativeai.types import FunctionDeclaration, Tool
-from proto.marshal.collections.repeated import RepeatedComposite
-from proto.marshal.collections.maps import MapComposite
+from google import genai
+from google.genai import types
 import psycopg2
 from psycopg2 import extras
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -252,12 +250,27 @@ digest_tool_schema = {
     },
     "required": ["selected_digest_entries"]
 }
-SELECT_DIGEST_ARTICLES_TOOL = Tool(function_declarations=[FunctionDeclaration(name="format_digest_selection", description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.", parameters=digest_tool_schema)])
+
+SELECT_DIGEST_ARTICLES_TOOL = types.Tool(
+    function_declarations=[
+        types.FunctionDeclaration(
+            name="format_digest_selection",
+            description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.",
+            parameters=digest_tool_schema
+        )
+    ]
+)
 
 def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> list:
-    genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name=GEMINI_MODEL_NAME, tools=[SELECT_DIGEST_ARTICLES_TOOL])
-    pref_data = {"topic_weights": topic_weights, "keyword_weights": keyword_weights, "banned_terms": [k for k, v in overrides.items() if v == "ban"], "demoted_terms": [k for k, v in overrides.items() if v == "demote"]}
+    # Initialize the new Client
+    client = genai.Client(api_key=gemini_api_key)
+    
+    pref_data = {
+        "topic_weights": topic_weights, 
+        "keyword_weights": keyword_weights, 
+        "banned_terms": [k for k, v in overrides.items() if v == "ban"], 
+        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
+    }
     
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
@@ -284,36 +297,51 @@ def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list,
 
     logging.info(f"Sending request to Gemini for prioritization with {len(candidates_to_send)} top candidates.")
     try:
-        response = model.generate_content([prompt], tool_config={"function_calling_config": "any"})
-        function_call_part = next((part.function_call for part in response.candidates[0].content.parts if hasattr(part, 'function_call')), None)
-        if function_call_part and function_call_part.name == "format_digest_selection":
-            args = function_call_part.args
-            logging.info("Gemini used tool 'format_digest_selection'.")
-            
-            ranked_results = []
-            if isinstance(args, (MapComposite, dict)):
-                entries = args.get("selected_digest_entries", [])
-                if isinstance(entries, (RepeatedComposite, list)):
-                    for entry in entries:
-                        if isinstance(entry, (MapComposite, dict)):
-                            topic = entry.get("topic_name")
-                            rank = entry.get("importance_rank")
-                            article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
-                            if rank is None:
-                                logging.warning(f"Model failed to provide importance_rank for topic '{topic}'. Defaulting to 99.")
-                                rank = 99
-                            if topic and article_ids:
-                                ranked_results.append((int(rank), topic.strip(), article_ids))
-            
-            # Sort the list based on the rank.
-            ranked_results.sort()
+        response = client.models.generate_content(
+            model=GEMINI_MODEL_NAME,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[SELECT_DIGEST_ARTICLES_TOOL],
+                tool_config=types.ToolConfig(
+                    function_calling_config=types.FunctionCallingConfig(
+                        mode="ANY" # FORCES GEMINI TO USE THE TOOL
+                    )
+                ),
+            ),
+        )
 
-            logging.info(f"Transformed and sorted output from Gemini: {ranked_results}")
-            return ranked_results
-        else:
-            logging.warning("Gemini did not use the expected tool."); return []
+        for part in response.candidates[0].content.parts:
+            if part.function_call:
+                args = part.function_call.args
+                logging.info("Gemini used tool 'format_digest_selection'.")
+                
+                ranked_results = []
+                # New SDK returns a standard python dict for args, so we can access it directly
+                entries = args.get("selected_digest_entries", [])
+                
+                for entry in entries:
+                    topic = entry.get("topic_name")
+                    rank = entry.get("importance_rank")
+                    article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
+                    
+                    if rank is None:
+                        logging.warning(f"Model failed to provide importance_rank for topic '{topic}'. Defaulting to 99.")
+                        rank = 99
+                    if topic and article_ids:
+                        ranked_results.append((int(rank), topic.strip(), article_ids))
+                
+                # Sort the list based on the rank.
+                ranked_results.sort()
+
+                logging.info(f"Transformed and sorted output from Gemini: {ranked_results}")
+                return ranked_results
+
+        logging.warning("Gemini did not use the expected tool.")
+        return []
+
     except Exception as e:
-        logging.error(f"Error during Gemini API call: {e}", exc_info=True); return []
+        logging.error(f"Error during Gemini API call: {e}", exc_info=True)
+        return []
       
 def main():
     logging.info("--- Main execution starting ---")
