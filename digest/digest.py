@@ -78,6 +78,7 @@ MAX_HISTORY_DIGESTS = int(CONFIG.get("MAX_HISTORY_DIGESTS", 12))
 GEMINI_MODEL_NAME = CONFIG.get("DIGEST_GEMINI_MODEL_NAME", "gemini-2.5-flash-lite")
 ZONE = ZoneInfo(CONFIG.get("TIMEZONE", "America/New_York"))
 MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 150))
+BATCH_SIZE = 10 # Process 10 topics per request to Google News
 
 def load_csv_data(url, is_overrides=False):
     try:
@@ -119,34 +120,33 @@ def calculate_local_score(article_title, topic, topic_weights, keyword_weights):
             score += weight
     return score
 
-def fetch_articles_for_topic(topic, max_articles=5):
-    """Fetches articles for a topic with retry logic and jitter to handle 503 errors."""
-    url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}&hl=en-US&gl=US&ceid=US:en"
+def fetch_articles_for_batch(topics_batch):
+    """Fetches articles for a group of topics using Boolean OR to reduce request count and handle 503s."""
+    query_string = " OR ".join([f'"{t}"' for t in topics_batch])
+    url = f"https://news.google.com/rss/search?q={requests.utils.quote(f'({query_string})')}&hl=en-US&gl=US&ceid=US:en"
     
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
     ]
 
     max_retries = 3
     for attempt in range(max_retries):
         try:
             headers = {"User-Agent": random.choice(user_agents)}
-            response = requests.get(url, headers=headers, timeout=20)
+            response = requests.get(url, headers=headers, timeout=25)
             
-            # If rate limited, wait and retry
             if response.status_code == 503:
                 wait_time = (attempt + 1) * random.randint(5, 10)
-                logging.warning(f"503 Service Unavailable for '{topic}'. Attempt {attempt+1}/{max_retries}. Retrying in {wait_time}s...")
+                logging.warning(f"503 Service Unavailable for batch. Retrying in {wait_time}s...")
                 time.sleep(wait_time)
                 continue
 
             response.raise_for_status()
-
             root = ET.fromstring(response.content)
             time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
+            
             articles = []
             for item in root.findall("./channel/item"):
                 try:
@@ -160,17 +160,13 @@ def fetch_articles_for_topic(topic, max_articles=5):
                     pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC")) if pub_dt_naive.tzinfo else pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
                     
                     if pub_dt_utc <= time_cutoff_utc: continue
-                    
                     articles.append({"title": title, "link": link, "pubDate": pubDate_text})
-                    if len(articles) >= max_articles: break
-                except Exception as e:
-                    logging.warning(f"Skipping article in topic '{topic}' due to parse error: {e}")
-                    continue
+                except: continue
             return articles
 
         except Exception as e:
             if attempt == max_retries - 1:
-                logging.error(f"Final attempt failed for topic '{topic}': {e}")
+                logging.error(f"Batch fetch failed: {e}")
                 return []
             time.sleep(2)
     return []
@@ -184,29 +180,21 @@ def get_db_connection():
     return psycopg2.connect(DATABASE_URL)
 
 def load_recent_titles_for_dedup(hours_to_check: int) -> list[str]:
-    """Loads raw titles of all articles from digests created in the last N hours."""
     titles = []
     try:
         conn = get_db_connection(); cur = conn.cursor()
         cur.execute(
-            """
-            SELECT a.title
-            FROM articles a
-            JOIN digests d ON a.digest_id = d.id
-            WHERE d.created_at >= NOW() - INTERVAL '%s hours'
-            """,
+            "SELECT a.title FROM articles a JOIN digests d ON a.digest_id = d.id WHERE d.created_at >= NOW() - INTERVAL '%s hours'",
             (hours_to_check,)
         )
         titles = [row[0] for row in cur.fetchall()]
         cur.close(); conn.close()
-        logging.info(f"Loaded {len(titles)} raw titles from DB to build deduplication set.")
         return titles
     except Exception as e:
         logging.error(f"Could not load recent titles from DB: {e}")
         return titles
 
 def load_history_from_db(max_digests):
-    """Loads a flat list of recent headlines from the DB to use as context for the LLM."""
     try:
         conn = get_db_connection(); cur = conn.cursor()
         cur.execute("SELECT id FROM digests ORDER BY created_at DESC LIMIT %s", (max_digests,))
@@ -216,7 +204,6 @@ def load_history_from_db(max_digests):
         cur.execute("SELECT title FROM articles WHERE digest_id = ANY(%s) ORDER BY pub_date DESC", (digest_ids,))
         headlines = [row[0] for row in cur.fetchmany(MAX_HISTORY_HEADLINES_FOR_LLM)]
         cur.close(); conn.close()
-        logging.info(f"Loaded {len(headlines)} headlines from DB for LLM context.")
         return headlines
     except Exception as e: logging.error(f"Could not load history from DB: {e}"); return []
 
@@ -226,34 +213,22 @@ def save_digest_to_db(digest_list):
         conn = get_db_connection(); cur = conn.cursor()
         cur.execute("INSERT INTO digests (created_at) VALUES (NOW()) RETURNING id")
         digest_id = cur.fetchone()[0]
-
         articles_to_insert = []
-        # Iterate over the list, which has a guaranteed order of importance.
         for topic_rank, (topic, articles) in enumerate(digest_list):
             for art in articles:
-                articles_to_insert.append(
-                    (
-                        digest_id, 
-                        topic, 
-                        art["title"], 
-                        art["link"], 
-                        parsedate_to_datetime(art["pubDate"]).astimezone(ZoneInfo("UTC")), 
-                        topic_rank # Use the topic's rank as the global display order
-                    )
-                )
-
+                articles_to_insert.append((
+                    digest_id, topic, art["title"], art["link"],
+                    parsedate_to_datetime(art["pubDate"]).astimezone(ZoneInfo("UTC")), topic_rank
+                ))
         extras.execute_values(cur, "INSERT INTO articles (digest_id, topic, title, link, pub_date, display_order) VALUES %s", articles_to_insert)
         conn.commit()
-        logging.info(f"Saved digest {digest_id} with {len(articles_to_insert)} articles to DB, preserving importance order.")
     except Exception as e:
         if conn: conn.rollback()
-        logging.error(f"Failed to save digest to DB: {e}", exc_info=True)
+        logging.error(f"Failed to save digest to DB: {e}")
     finally:
         if conn: conn.close()
 
 # --- Gemini Interaction ---
-
-# NEW SCHEMA: Now includes a mandatory 'importance_rank' field.
 digest_tool_schema = {
     "type": "object",
     "properties": {
@@ -287,9 +262,7 @@ SELECT_DIGEST_ARTICLES_TOOL = types.Tool(
 )
 
 def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> list:
-    # Initialize the new Client
     client = genai.Client(api_key=gemini_api_key)
-    
     pref_data = {
         "topic_weights": topic_weights, 
         "keyword_weights": keyword_weights, 
@@ -323,44 +296,24 @@ def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list,
     logging.info(f"Sending request to Gemini for prioritization with {len(candidates_to_send)} top candidates.")
     try:
         response = client.models.generate_content(
-            model=GEMINI_MODEL_NAME,
-            contents=prompt,
+            model=GEMINI_MODEL_NAME, contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[SELECT_DIGEST_ARTICLES_TOOL],
-                tool_config=types.ToolConfig(
-                    function_calling_config=types.FunctionCallingConfig(
-                        mode="ANY" # FORCES GEMINI TO USE THE TOOL
-                    )
-                ),
+                tool_config=types.ToolConfig(function_calling_config=types.ToolConfig(function_calling_config=types.FunctionCallingConfig(mode="ANY")))
             ),
         )
-
         for part in response.candidates[0].content.parts:
             if part.function_call:
-                args = part.function_call.args
-                logging.info("Gemini used tool 'format_digest_selection'.")
-                
+                entries = part.function_call.args.get("selected_digest_entries", [])
                 ranked_results = []
-                entries = args.get("selected_digest_entries", [])
-                
                 for entry in entries:
                     topic = entry.get("topic_name")
-                    rank = entry.get("importance_rank")
+                    rank = entry.get("importance_rank", 99)
                     article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
-                    
-                    if rank is None:
-                        logging.warning(f"Model failed to provide importance_rank for topic '{topic}'. Defaulting to 99.")
-                        rank = 99
-                    if topic and article_ids:
-                        ranked_results.append((int(rank), topic.strip(), article_ids))
-                
+                    if topic and article_ids: ranked_results.append((int(rank), topic.strip(), article_ids))
                 ranked_results.sort()
-                logging.info(f"Transformed and sorted output from Gemini: {ranked_results}")
                 return ranked_results
-
-        logging.warning("Gemini did not use the expected tool.")
         return []
-
     except Exception as e:
         logging.error(f"Error during Gemini API call: {e}", exc_info=True)
         return []
@@ -369,45 +322,52 @@ def main():
     logging.info("--- Main execution starting ---")
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
-        if not gemini_api_key:
-            logging.critical("Missing GEMINI_API_KEY. Exiting.")
-            sys.exit(1)
+        if not gemini_api_key: sys.exit(1)
 
         recent_headlines_for_llm = load_history_from_db(MAX_HISTORY_DIGESTS)
         recent_raw_titles = load_recent_titles_for_dedup(hours_to_check=48)
         published_title_fingerprints = {create_title_fingerprint(t) for t in recent_raw_titles}
-        logging.info(f"Created in-memory set with {len(published_title_fingerprints)} unique fingerprints for deduplication.")
 
         all_candidate_articles = []
         seen_fingerprints_this_run = set()
-        all_normalized_terms = [normalize(k) for k, v in OVERRIDES.items() if v == "ban"]
-        normalized_banned_terms = [term for term in all_normalized_terms if term]
+        banned_terms = [normalize(k) for k, v in OVERRIDES.items() if v == "ban"]
         
-        logging.info("--- Starting Article Fetching and Filtering Stage ---")
+        logging.info("--- Starting Article Fetching (Batch Mode) ---")
         
-        # Shuffle topics to avoid predictable scraping patterns that trigger 503s
-        shuffled_topics = list(TOPIC_WEIGHTS.keys())
-        random.shuffle(shuffled_topics)
+        # Batch topics to handle 500+ topics quickly
+        topic_keys = list(TOPIC_WEIGHTS.keys())
+        random.shuffle(topic_keys)
+        batches = [topic_keys[i:i + BATCH_SIZE] for i in range(0, len(topic_keys), BATCH_SIZE)]
 
-        for topic in shuffled_topics:
-            fetched_articles = fetch_articles_for_topic(topic, int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 5)))
-            
-            # MANDATORY JITTER: Delay between 1.5 and 3 seconds to avoid rate limiting
-            time.sleep(random.uniform(1.5, 3.0))
+        for batch in batches:
+            batch_results = fetch_articles_for_batch(batch)
+            time.sleep(random.uniform(1.5, 3.0)) # Jitter between batches
 
-            if not fetched_articles: continue
-            for art in fetched_articles:
+            for art in batch_results:
                 title = art['title']
+                norm_title = normalize(title)
                 fingerprint = create_title_fingerprint(title)
-                if fingerprint in published_title_fingerprints or fingerprint in seen_fingerprints_this_run or contains_banned_keyword(title, normalized_banned_terms):
+                
+                if fingerprint in published_title_fingerprints or fingerprint in seen_fingerprints_this_run:
                     continue
-                score = calculate_local_score(title, topic, TOPIC_WEIGHTS, KEYWORD_WEIGHTS)
-                all_candidate_articles.append({'score': score, 'article_data': art, 'topic': topic})
-                seen_fingerprints_this_run.add(fingerprint)
+                
+                # Score and filter based on topic weights
+                best_topic = None
+                highest_weight = -1
+                for topic in batch:
+                    if normalize(topic) in norm_title:
+                        weight = TOPIC_WEIGHTS.get(topic, 0)
+                        if weight > highest_weight:
+                            highest_weight = weight
+                            best_topic = topic
+                
+                if best_topic:
+                    if contains_banned_keyword(title, banned_terms): continue
+                    score = calculate_local_score(title, best_topic, TOPIC_WEIGHTS, KEYWORD_WEIGHTS)
+                    all_candidate_articles.append({'score': score, 'article_data': art, 'topic': best_topic})
+                    seen_fingerprints_this_run.add(fingerprint)
 
-        if not all_candidate_articles:
-            logging.warning("No new, unique headlines found after fetching and filtering. Exiting run.")
-            return
+        if not all_candidate_articles: return
 
         all_candidate_articles.sort(key=lambda x: x['score'], reverse=True)
         top_candidates = all_candidate_articles[:MAX_CANDIDATES_FOR_LLM]
@@ -419,25 +379,13 @@ def main():
             id_to_article_map[article_id] = candidate['article_data']
             candidates_for_gemini.append({"id": article_id, "topic": candidate['topic'], "title": candidate['article_data']['title']})
         
-        logging.info(f"Locally scored and filtered down to {len(candidates_for_gemini)} top candidates to send to Gemini.")
-
-        ranked_topics_from_gemini = prioritize_with_gemini(
-            candidates_to_send=candidates_for_gemini,
-            digest_history=recent_headlines_for_llm,
-            gemini_api_key=gemini_api_key,
-            topic_weights=TOPIC_WEIGHTS,
-            keyword_weights=KEYWORD_WEIGHTS,
-            overrides=OVERRIDES
-        )
-        if not ranked_topics_from_gemini:
-            logging.warning("Gemini returned no content. Exiting."); return
-
-        limited_ranked_topics = ranked_topics_from_gemini[:MAX_TOPICS]
+        ranked_topics_from_gemini = prioritize_with_gemini(candidates_for_gemini, recent_headlines_for_llm, gemini_api_key, TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
         
+        if not ranked_topics_from_gemini: return
+
         final_digest_list = []
         seen_article_ids = set()
-
-        for rank, topic, article_ids in limited_ranked_topics:
+        for rank, topic, article_ids in ranked_topics_from_gemini[:MAX_TOPICS]:
             articles_for_topic = []
             for article_id in article_ids[:MAX_ARTICLES_PER_TOPIC]:
                 if article_id in seen_article_ids: continue
@@ -445,18 +393,12 @@ def main():
                 if article_data:
                     articles_for_topic.append(article_data)
                     seen_article_ids.add(article_id)
-                else:
-                    logging.warning(f"Gemini returned an unknown article ID '{article_id}' for topic '{topic}'.")
-            if articles_for_topic:
-                final_digest_list.append((topic, articles_for_topic))
+            if articles_for_topic: final_digest_list.append((topic, articles_for_topic))
         
-        if final_digest_list:
-            save_digest_to_db(final_digest_list)
-        else:
-            logging.info("No topics in final digest after processing. Nothing to save.")
+        if final_digest_list: save_digest_to_db(final_digest_list)
 
     except Exception as e:
-        logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
+        logging.critical(f"Unhandled error in main: {e}", exc_info=True)
     finally:
         logging.info(f"--- Worker script finished ---")
 
