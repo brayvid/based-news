@@ -6,6 +6,8 @@ import csv
 import logging
 import json
 import re
+import time
+import random
 from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 import requests
@@ -118,37 +120,60 @@ def calculate_local_score(article_title, topic, topic_weights, keyword_weights):
     return score
 
 def fetch_articles_for_topic(topic, max_articles=5):
+    """Fetches articles for a topic with retry logic and jitter to handle 503 errors."""
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}&hl=en-US&gl=US&ceid=US:en"
-    try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
-        response = requests.get(url, headers=headers, timeout=20)
-        response.raise_for_status()
+    
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+    ]
 
-        root = ET.fromstring(response.content)
-        time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
-        articles = []
-        for item in root.findall("./channel/item"):
-            try:
-                title_element, link_element, pubDate_element = item.find("title"), item.find("link"), item.find("pubDate")
-                title = title_element.text.strip() if title_element is not None and title_element.text else None
-                link = link_element.text if link_element is not None else None
-                pubDate_text = pubDate_element.text if pubDate_element is not None else None
-                if not all([title, link, pubDate_text]): continue
-                
-                pub_dt_naive = parsedate_to_datetime(pubDate_text)
-                pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC")) if pub_dt_naive.tzinfo else pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
-                
-                if pub_dt_utc <= time_cutoff_utc: continue
-                
-                articles.append({"title": title, "link": link, "pubDate": pubDate_text})
-                if len(articles) >= max_articles: break
-            except Exception as e:
-                logging.warning(f"Skipping one article in topic '{topic}' due to parse error: {e}")
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            headers = {"User-Agent": random.choice(user_agents)}
+            response = requests.get(url, headers=headers, timeout=20)
+            
+            # If rate limited, wait and retry
+            if response.status_code == 503:
+                wait_time = (attempt + 1) * random.randint(5, 10)
+                logging.warning(f"503 Service Unavailable for '{topic}'. Attempt {attempt+1}/{max_retries}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
                 continue
-        return articles
-    except Exception as e:
-        logging.error(f"Major error fetching articles for topic '{topic}': {e}", exc_info=True)
-        return []
+
+            response.raise_for_status()
+
+            root = ET.fromstring(response.content)
+            time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
+            articles = []
+            for item in root.findall("./channel/item"):
+                try:
+                    title_element, link_element, pubDate_element = item.find("title"), item.find("link"), item.find("pubDate")
+                    title = title_element.text.strip() if title_element is not None and title_element.text else None
+                    link = link_element.text if link_element is not None else None
+                    pubDate_text = pubDate_element.text if pubDate_element is not None else None
+                    if not all([title, link, pubDate_text]): continue
+                    
+                    pub_dt_naive = parsedate_to_datetime(pubDate_text)
+                    pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC")) if pub_dt_naive.tzinfo else pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
+                    
+                    if pub_dt_utc <= time_cutoff_utc: continue
+                    
+                    articles.append({"title": title, "link": link, "pubDate": pubDate_text})
+                    if len(articles) >= max_articles: break
+                except Exception as e:
+                    logging.warning(f"Skipping article in topic '{topic}' due to parse error: {e}")
+                    continue
+            return articles
+
+        except Exception as e:
+            if attempt == max_retries - 1:
+                logging.error(f"Final attempt failed for topic '{topic}': {e}")
+                return []
+            time.sleep(2)
+    return []
      
 def contains_banned_keyword(text, banned_terms):
     return any(term in normalize(text) for term in banned_terms)
@@ -316,7 +341,6 @@ def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list,
                 logging.info("Gemini used tool 'format_digest_selection'.")
                 
                 ranked_results = []
-                # New SDK returns a standard python dict for args, so we can access it directly
                 entries = args.get("selected_digest_entries", [])
                 
                 for entry in entries:
@@ -330,9 +354,7 @@ def prioritize_with_gemini(candidates_to_send: list[dict], digest_history: list,
                     if topic and article_ids:
                         ranked_results.append((int(rank), topic.strip(), article_ids))
                 
-                # Sort the list based on the rank.
                 ranked_results.sort()
-
                 logging.info(f"Transformed and sorted output from Gemini: {ranked_results}")
                 return ranked_results
 
@@ -360,13 +382,19 @@ def main():
         seen_fingerprints_this_run = set()
         all_normalized_terms = [normalize(k) for k, v in OVERRIDES.items() if v == "ban"]
         normalized_banned_terms = [term for term in all_normalized_terms if term]
-        if len(all_normalized_terms) != len(normalized_banned_terms):
-            logging.warning("Filtered out empty or whitespace-only banned keywords from your overrides list.")
-        logging.info(f"Using {len(normalized_banned_terms)} valid banned keywords for filtering.")
-
+        
         logging.info("--- Starting Article Fetching and Filtering Stage ---")
-        for topic in TOPIC_WEIGHTS:
+        
+        # Shuffle topics to avoid predictable scraping patterns that trigger 503s
+        shuffled_topics = list(TOPIC_WEIGHTS.keys())
+        random.shuffle(shuffled_topics)
+
+        for topic in shuffled_topics:
             fetched_articles = fetch_articles_for_topic(topic, int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 5)))
+            
+            # MANDATORY JITTER: Delay between 1.5 and 3 seconds to avoid rate limiting
+            time.sleep(random.uniform(1.5, 3.0))
+
             if not fetched_articles: continue
             for art in fetched_articles:
                 title = art['title']
