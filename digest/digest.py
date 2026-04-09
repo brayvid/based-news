@@ -181,7 +181,7 @@ def save_digest_to_db(digest_list):
         logging.info(f"Successfully saved digest {digest_id} to database.")
     except Exception as e: logging.error(f"Database save failed: {e}")
 
-# --- Gemini Logic ---
+# --- Gemini Interaction ---
 digest_tool_schema = {
     "type": "object",
     "properties": {
@@ -225,18 +225,32 @@ def prioritize_with_gemini(candidates_to_send, digest_history, gemini_api_key, t
         "### Final Output\nUse the 'format_digest_selection' tool."
     )
 
-    try:
-        response = client.models.generate_content(
-            model=GEMINI_MODEL_NAME, contents=prompt,
-            config=types.GenerateContentConfig(tools=[SELECT_DIGEST_ARTICLES_TOOL], tool_config=types.ToolConfig(function_calling_config=types.ToolConfig(function_calling_config=types.ToolConfig(function_calling_config=types.FunctionCallingConfig(mode="ANY")))))
-        )
-        for part in response.candidates[0].content.parts:
-            if part.function_call:
-                entries = part.function_call.args.get("selected_digest_entries", [])
-                results = [(int(e.get("importance_rank", 99)), e["topic_name"], e["selected_article_ids"]) for e in entries]
-                results.sort(); return results
-        return []
-    except Exception as e: logging.error(f"Gemini error: {e}"); return []
+    # Added Retry Logic for 503 Unavailable
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model=GEMINI_MODEL_NAME, 
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    tools=[SELECT_DIGEST_ARTICLES_TOOL], 
+                    tool_config=types.ToolConfig(
+                        function_calling_config=types.FunctionCallingConfig(mode="ANY")
+                    )
+                )
+            )
+            for part in response.candidates[0].content.parts:
+                if part.function_call:
+                    entries = part.function_call.args.get("selected_digest_entries", [])
+                    results = [(int(e.get("importance_rank", 99)), e["topic_name"], e["selected_article_ids"]) for e in entries]
+                    results.sort(); return results
+            return []
+        except Exception as e:
+            if "503" in str(e) and attempt < 2:
+                logging.warning(f"Gemini 503 (Busy). Retrying in 10s... (Attempt {attempt+1}/3)")
+                time.sleep(10)
+                continue
+            logging.error(f"Gemini error: {e}"); return []
+    return []
 
 def main():
     logging.info("--- Main execution starting ---")
@@ -271,12 +285,10 @@ def main():
                 best_topic, highest_w = None, -1
                 for topic in batch:
                     norm_topic = normalize(topic)
-                    # Match if full topic name or any significant word is in headline
                     if norm_topic in norm_title or any(word in norm_title for word in norm_topic.split() if len(word) > 3):
                         weight = TOPIC_WEIGHTS.get(topic, 0)
                         if weight > highest_w: highest_w, best_topic = weight, topic
                 
-                # Fallback: if Google matched it but headline is vague, assign to highest batch weight
                 if not best_topic:
                     best_topic = max(batch, key=lambda t: TOPIC_WEIGHTS.get(t, 0))
 
