@@ -1,8 +1,8 @@
 # Based News Reader
 
-This project is a fully automated news digest and market intelligence web app. It fetches headlines from Google News, uses Google's Gemini AI to intelligently select and rank them based on user preferences, and serves the content from a live database.
+This project is a fully automated news digest web app. It fetches headlines from Google News, uses Google's Gemini AI to intelligently select and rank them based on user preferences, and serves the content from a live database.
 
-The entire process is hosted on Railway, with a scheduled worker that update the news and generate market predictions automatically.
+The entire process is hosted on Railway, with a scheduled worker that updates the news hourly.
 
 View the demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 
