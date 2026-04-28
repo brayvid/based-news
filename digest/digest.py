@@ -192,7 +192,10 @@ digest_tool_schema = {
                 "properties": {
                     "topic_name": {"type": "string"},
                     "selected_article_ids": {"type": "array", "items": {"type": "string"}},
-                    "importance_rank": {"type": "integer"}
+                    "importance_rank": {
+                        "type": "integer",
+                        "description": "A numerical rank for the topic's importance (1 is the most important, 2 is second most important, etc.). This field is mandatory."
+                    }
                 },
                 "required": ["topic_name", "selected_article_ids", "importance_rank"]
             }
@@ -202,30 +205,50 @@ digest_tool_schema = {
 }
 
 SELECT_DIGEST_ARTICLES_TOOL = types.Tool(
-    function_declarations=[types.FunctionDeclaration(name="format_digest_selection", description="Curate news.", parameters=digest_tool_schema)]
+    function_declarations=[
+        types.FunctionDeclaration(
+            name="format_digest_selection",
+            description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.",
+            parameters=digest_tool_schema
+        )
+    ]
 )
 
 def prioritize_with_gemini(candidates_to_send, digest_history, gemini_api_key, topic_weights, keyword_weights, overrides):
     client = genai.Client(api_key=gemini_api_key)
-    pref_data = {"topic_weights": topic_weights, "keyword_weights": keyword_weights, "banned_terms": [k for k, v in overrides.items() if v == "ban"]}
+    # Reverting to exact original pref_data which includes demoted_terms
+    pref_data = {
+        "topic_weights": topic_weights, 
+        "keyword_weights": keyword_weights, 
+        "banned_terms": [k for k, v in overrides.items() if v == "ban"], 
+        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
+    }
     
     # EXACT PROMPT PRESERVED
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
         f"### Inputs Provided\n1.  **User Preferences:**\n```json\n{json.dumps(pref_data, indent=2)}\n```\n"
-        f"2.  **Candidate Articles:**\n```json\n{json.dumps(candidates_to_send, indent=2)}\n```\n"
+        f"2.  **Candidate Articles:** Each article has a unique `id` for you to reference.\n```json\n{json.dumps(candidates_to_send, indent=2)}\n```\n"
         f"3.  **Digest History:**\n```json\n{json.dumps(digest_history, indent=2)}\n```\n\n"
         "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
-        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Articles`. group headlines covering the same core news event. select ONLY ONE champion headline.\n\n"
-        "**Step 2: History-Based Filtering**\nCompare champion against `Digest History`. If idential event, DISCARD.\n\n"
-        "**Step 3: Rigorous Relevance & Quality Filtering**\n"
-        f"*   **Output Limits:** {MAX_TOPICS} topics, {MAX_ARTICLES_PER_TOPIC} per topic.\n"
-        "*   **Headline Informativeness (CRITICAL):** Reject vague teasers or question-based headlines.\n\n"
-        "**Step 4: Final Selection and Ranking**\nAssign `importance_rank` where 1 is the most significant topic.\n\n"
-        "### Final Output\nUse the 'format_digest_selection' tool."
+        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Articles`. Your primary task is to identify and group all articles from ALL topics that cover the same core news event. From each cluster, select ONLY ONE article—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other articles in that cluster immediately.\n\n"
+        "**Step 2: History-Based Filtering**\nNow, take your deduplicated list of 'champion' articles. Compare each one against the `Digest History`. If any of your champion articles reports on the exact same event that has already been sent, DISCARD it.\n\n"
+        "**Step 3: Rigorous Relevance & Quality Filtering**\nFor the remaining, unique, and new articles, apply the following strict filtering criteria with full force:\n"
+        f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "*   **Audience Focus (CRITICAL):** The digest is for a **US-specific audience**. AGGRESSIVELY REJECT articles about local or regional events outside the United States that have no significant impact on a US audience (e.g., local elections in other countries, regional crime stories, municipal news). Retain international news only if it has a clear and significant impact on US interests, politics, or the economy.\n"
+        "*   **Headline Informativeness (CRITICAL):** Prioritize headlines that are self-contained statements of fact. AGGRESSIVELY REJECT or heavily down-rank 'content-free' headlines. This includes:\n"
+        "    *   **Vague Teasers:** Headlines that require a click to understand the basic story (e.g., 'Here's what experts are saying about the economy').\n"
+        "    *   **Unanswered Questions:** Headlines phrased as questions without providing the answer (e.g., 'Will the new law pass?').\n"
+        "    *   **Simple Topic Labels:** Headlines that just name a subject without reporting an event (e.g., 'A Look at the Housing Market').\n"
+        "    *   **Instead, select headlines that deliver the core news directly.** For example, prefer 'Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns' over 'What Will the Federal Reserve Do Next?'.\n"
+        "*   **Content Quality & Style (CRITICAL):** AGGRESSIVELY AVOID AND REJECT headlines that are: Sensationalist, celebrity gossip, clickbait, primarily opinion/op-ed pieces, or resemble 'hot stock tips'. Focus on content-rich, factual, objective reporting.\n\n"
+        "**Step 4: Final Selection and Ranking**\nFrom the fully filtered and vetted pool of articles, make your final selection. **For each topic you select, you must assign a numerical `importance_rank`, where 1 is the most significant topic.**\n\n"
+        "### Final Output\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool. "
+        "You must populate the mandatory `importance_rank` for every topic and return the unique `id` of each selected article."
     )
 
-    # Added Retry Logic for 503 Unavailable
+    # Retry Logic for 503 Unavailable
     for attempt in range(3):
         try:
             response = client.models.generate_content(
@@ -334,3 +357,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    sys.exit(0)
