@@ -534,6 +534,39 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
+    // Keyboard Navigation Listener
+    document.addEventListener("keydown", function (e) {
+        if (e.key === "ArrowLeft") {
+            // If the main digest container is active, move main carousel back
+            if (digestContainer.style.display !== "none") {
+                if (currentIndex > 0) {
+                    showDigest(currentIndex - 1);
+                }
+            } else {
+                // If single-topic container is active, move topic slider back
+                if (topicCurrentPage > 0) {
+                    showTopicDay(topicCurrentPage - 1);
+                }
+            }
+        } else if (e.key === "ArrowRight") {
+            // If the main digest container is active, move main carousel forward
+            if (digestContainer.style.display !== "none") {
+                if (currentIndex < totalItems - 1) {
+                    showDigest(currentIndex + 1);
+                }
+            } else {
+                if (topicCurrentPage < topicTotalPages - 1) {
+                    showTopicDay(topicCurrentPage + 1);
+                }
+            }
+        } else if (e.key === "Escape" || e.key === "Esc") {
+            // Revert back to standard carousel on Escape keypress
+            if (digestContainer.style.display === "none") {
+                hideTopicView();
+            }
+        }
+    });
+
     // Event delegation handling clickable topic headlines
     digestSlider.addEventListener("click", function (e) {
         const h3 = e.target.closest("h3");
