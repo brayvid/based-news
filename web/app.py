@@ -2,6 +2,7 @@
 
 import os
 import html
+import math
 from collections import OrderedDict
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
@@ -11,7 +12,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 
-from flask import Flask, render_template, jsonify, abort, redirect, url_for
+from flask import Flask, render_template, jsonify, abort, redirect, url_for, request
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -83,7 +84,6 @@ def forecast_page():
     conn = get_db_connection()
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     
-    # CHANGED: Removed "WHERE ticker = 'SPY'" so we see Sector picks too
     cur.execute("SELECT * FROM predictions ORDER BY news_date DESC LIMIT 10")
     predictions_raw = cur.fetchall()
     cur.close()
@@ -99,40 +99,32 @@ def forecast_page():
         ticker = pred_dict['ticker']
         
         # --- DATE LOGIC FIX ---
-        # Ensure we are working with a date object
         p_date = pred_dict['news_date']
         if isinstance(p_date, datetime):
             p_date = p_date.date()
         elif isinstance(p_date, str):
             p_date = datetime.strptime(p_date, '%Y-%m-%d').date()
 
-        # Add nicely formatted date string
-        pred_dict['news_date_formatted'] = p_date.strftime('%A, %B %d, %Y')
+        # Format date dynamically without leading zeros
+        pred_dict['news_date_formatted'] = p_date.strftime(f'%A, %B {p_date.day}, %Y')
 
-        # Logic: If prediction is in the future (2026), stop chart at TODAY (2025)
-        # to prevent yfinance errors.
         if p_date > today:
             chart_end = today
         else:
             chart_end = p_date
         
-        # Look back 45 days for context
         chart_start = chart_end - timedelta(days=45) 
         
         try:
-            # Fetch data from yfinance
-            # progress=False hides the console noise
             market_data = yf.download(
                 ticker,
                 start=chart_start,
-                end=chart_end + timedelta(days=1), # +1 to include the end date
+                end=chart_end + timedelta(days=1),
                 progress=False,
                 auto_adjust=True
             )
 
-            # --- FIX FOR YFINANCE MULTI-INDEX ---
             if not market_data.empty:
-                # If columns are MultiIndex (Price, Ticker), drop the ticker level
                 if isinstance(market_data.columns, pd.MultiIndex):
                     market_data.columns = market_data.columns.get_level_values(0)
 
@@ -140,10 +132,7 @@ def forecast_page():
                 
                 chart_points = []
                 for _, row in market_data.iterrows():
-                    # Extract timestamp (JS uses milliseconds)
                     ts = int(row['Date'].timestamp() * 1000)
-                    
-                    # Extract Close price safely (handle scalar vs series)
                     val = row['Close']
                     if hasattr(val, 'iloc'):
                         val = val.iloc[0]
@@ -161,7 +150,6 @@ def forecast_page():
         
         predictions_list.append(pred_dict)
         
-    # NOTE: Ensure you saved the previous HTML I gave you as 'templates/forecast.html'
     return render_template('forecast.html', predictions=predictions_list)
 
 @app.route('/manifest')
@@ -189,10 +177,96 @@ def get_digest_html(digest_id):
     digest_data = format_digest_data(articles)
     html_parts = []
     for topic, articles_list in digest_data.items():
-        html_parts.append(f"<h3>{html.escape(topic)}</h3>\n")
+        html_parts.append(f'<h3 class="topic-header">{html.escape(topic)}</h3>\n')
         for article in articles_list:
             html_parts.append(f'<p><a href="{html.escape(article["link"])}" target="_blank">{html.escape(article["title"])}</a><br><small>{article["date_str"]}</small></p>\n')
     return "".join(html_parts)
+
+@app.route('/api/topic/<path:topic_name>')
+def get_topic_articles(topic_name):
+    """
+    Returns articles for a given topic grouped by day, limiting 
+    the returned dataset to the 10 most recent days of updates.
+    """
+    page = request.args.get('page', -1, type=int)
+
+    conn = get_db_connection()
+    cur = conn.cursor()
+    try:
+        cur.execute("""
+            SELECT a.* FROM articles a
+            JOIN digests d ON a.digest_id = d.id
+            WHERE a.topic = %s
+            ORDER BY d.created_at DESC, a.display_order ASC
+        """, (topic_name,))
+        articles = cur.fetchall()
+    except Exception as e:
+        print(f"Fallback query executed due to error: {e}")
+        cur.execute("""
+            SELECT * FROM articles 
+            WHERE topic = %s 
+            ORDER BY digest_id DESC, display_order ASC
+        """, (topic_name,))
+        articles = cur.fetchall()
+    finally:
+        cur.close()
+        conn.close()
+
+    # Group records by local timezone day (YYYY-MM-DD)
+    days_map = OrderedDict()
+    for article in articles:
+        try:
+            pub_dt_user_tz = to_user_timezone(article[5])
+            day_key = pub_dt_user_tz.strftime("%Y-%m-%d") if pub_dt_user_tz else "Date unavailable"
+            
+            # Format day dynamically to remove leading zeros on any platform
+            day_display = pub_dt_user_tz.strftime(f"%A, %B {pub_dt_user_tz.day}, %Y") if pub_dt_user_tz else "Date unavailable"
+            
+            time_str = pub_dt_user_tz.strftime("%I:%M %p %Z") if pub_dt_user_tz else ""
+        except Exception:
+            day_key = "Date unavailable"
+            day_display = "Date unavailable"
+            time_str = ""
+
+        if day_key not in days_map:
+            days_map[day_key] = {
+                "day_display": day_display,
+                "articles": []
+            }
+
+        days_map[day_key]["articles"].append({
+            "title": article[3],
+            "link": article[4],
+            "time_str": time_str
+        })
+
+    # Retrieve only the 10 most recent days of updates
+    days_list = list(days_map.values())[:10]
+    
+    # Reverse list so oldest of the 10 days is at index 0, newest is at last index
+    days_list.reverse()
+    total_pages = len(days_list) if days_list else 1
+
+    # Default to the newest day (last index) if request index is -1
+    if page == -1:
+        page = total_pages - 1
+
+    page = max(0, min(page, total_pages - 1))
+
+    if days_list:
+        selected_day = days_list[page]
+        day_display = selected_day["day_display"]
+        day_articles = selected_day["articles"]
+    else:
+        day_display = "No updates found"
+        day_articles = []
+
+    return jsonify({
+        "articles": day_articles,
+        "day_display": day_display,
+        "page": page,
+        "total_pages": total_pages
+    })
 
 @app.errorhandler(404)
 def page_not_found(e):

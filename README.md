@@ -20,6 +20,7 @@ View the demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 *   **Interactive Frontend:**
     *   Pure HTML, CSS, and vanilla JavaScript (dependency-free).
     *   Includes swipeable carousels for browsing past digests and market forecasts.
+    *   **Chronological Topic Drill-down:** Click on any topic heading to view chronological updates filtered specifically for that topic, paginated day-by-day across the 10 most recent updates with navigation arrows, circular step indicators, and localized date subheaders.
 
 ## Tech Stack
 
@@ -56,13 +57,55 @@ based-news/
 
 ## Local Development
 
-1.  **Clone** your forked repository.
-2.  **Create and activate** a Python virtual environment.
-3.  **Install dependencies:** `pip install -r requirements.txt` and `pip install -r web/requirements.txt`.
-4.  **Create a `.env` file** with your `GEMINI_API_KEY` and the `DATABASE_URL` from your Railway project.
-5.  **Run the news digest worker:** `python digest.py`.
-6.  **Run the forecast engine:** `python forecast/engine.py`.
-7.  **Run the web server** to view the site: `python web/app.py` and navigate to `http://localhost:5000`.
+### 1. General Setup
+1. **Clone** your forked repository:
+   ```bash
+   git clone <your-repository-url>
+   cd based-news
+   ```
+2. **Create a `.env` file** in the project root containing your `GEMINI_API_KEY` and the `DATABASE_URL` from your Railway project.
+
+---
+
+### 2. Run the Background Worker (Root Context)
+The background curation scripts run from the project root.
+1. Create and activate a Python virtual environment in the project root:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+2. Install the worker dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the news digest worker script:
+   ```bash
+   python digest.py
+   ```
+
+---
+
+### 3. Run the Web Server (Web Context)
+The Flask web interface is managed within the `web/` subdirectory and uses its own virtual environment.
+1. **Navigate** into the web directory:
+   ```bash
+   cd web
+   ```
+2. Create and activate a separate virtual environment inside the `web/` directory:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+3. Install the web service dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Copy or link your `.env` file from the project root into this `web/` folder so the Flask server can access your database configurations.
+5. Run the web server:
+   ```bash
+   flask run
+   ```
+6. Open your browser and navigate to `http://localhost:5000`.
 
 ---
 
@@ -71,4 +114,4 @@ based-news/
 ![](images/example.png)
 
 ---
-<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
+<p align="center">&copy; 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
