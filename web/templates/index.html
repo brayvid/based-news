@@ -366,6 +366,10 @@ document.addEventListener("DOMContentLoaded", function () {
     // Displays chronological paginated feed for the selected topic
     async function showTopicView(topicName) {
         currentTopicName = topicName;
+        
+        // Sync topic title header text
+        topicViewTitle.textContent = topicName;
+        
         topicSlider.innerHTML = "<p style='width: 100%; flex-shrink: 0;'>Loading updates...</p>";
         topicDateHeader.textContent = "Loading...";
         topicSliderWrapper.style.height = "200px";
