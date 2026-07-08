@@ -63,7 +63,7 @@
         min-height: 200px;
         padding-bottom: 1em;
     }
-    #digest-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
+    #digest-slider, #topic-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
     .digest-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; }
     section h3 { font-family: 'Merriweather', serif; border-bottom: 2px solid #555; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.5em; }
     section p { margin: 0.5em 0 1em 0; word-break: break-word; }
@@ -207,8 +207,12 @@
       </div>
       <p id="topic-date-header" class="digest-timestamp">Loading...</p>
 
-      <!-- Chronological headlines list for selected day -->
-      <div id="topic-articles-list"></div>
+      <!-- Chronological headlines slider representing each day -->
+      <div id="topic-slider-wrapper" style="overflow: hidden; position: relative; width: 100%; transition: height 0.25s ease-in-out; min-height: 200px; padding-bottom: 1em;">
+        <div id="topic-slider">
+          <!-- Dynamically generated slides matching .digest-slide widths will be placed here -->
+        </div>
+      </div>
     </section>
   </main>
 
@@ -232,14 +236,15 @@ document.addEventListener("DOMContentLoaded", function () {
     // Topic View Elements
     const topicViewContainer = document.getElementById("topic-view-container");
     const topicViewTitle = document.getElementById("topic-view-title");
-    const topicArticlesList = document.getElementById("topic-articles-list");
     const closeTopicBtn = document.getElementById("close-topic-btn");
 
-    // Day selector elements matching original layout structures
+    // Topic Day selector elements matching original layouts
     const topicOlderBtn = document.getElementById("topic-older-btn");
     const topicNewerBtn = document.getElementById("topic-newer-btn");
     const topicDotsContainer = document.getElementById("topic-dots-container");
     const topicDateHeader = document.getElementById("topic-date-header");
+    const topicSliderWrapper = document.getElementById("topic-slider-wrapper");
+    const topicSlider = document.getElementById("topic-slider");
 
     let manifest = [];
     let currentIndex = 0; // Index 0 is OLDEST
@@ -253,6 +258,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let topicCurrentPage = 0; // Index 0 is OLDEST day in dataset
     let topicTotalPages = 0;
     let topicIsLoading = false;
+    let topicDaysData = [];
 
     // Day Swipe Gesture State Parameters
     let topicTouchStartX = 0;
@@ -349,10 +355,10 @@ document.addEventListener("DOMContentLoaded", function () {
         if (Math.abs(deltaX) > swipeThreshold) {
             if (deltaX < 0 && topicCurrentPage < topicTotalPages - 1) {
                 // Swipe left -> Navigates to next chronological day (newer)
-                if (!topicIsLoading) loadTopicPage(topicCurrentPage + 1);
+                showTopicDay(topicCurrentPage + 1);
             } else if (deltaX > 0 && topicCurrentPage > 0) {
                 // Swipe right -> Navigates to previous chronological day (older)
-                if (!topicIsLoading) loadTopicPage(topicCurrentPage - 1);
+                showTopicDay(topicCurrentPage - 1);
             }
         }
     }
@@ -360,65 +366,79 @@ document.addEventListener("DOMContentLoaded", function () {
     // Displays chronological paginated feed for the selected topic
     async function showTopicView(topicName) {
         currentTopicName = topicName;
-        
-        topicViewTitle.textContent = topicName;
-        topicArticlesList.innerHTML = "<p>Loading updates...</p>";
+        topicSlider.innerHTML = "<p style='width: 100%; flex-shrink: 0;'>Loading updates...</p>";
         topicDateHeader.textContent = "Loading...";
+        topicSliderWrapper.style.height = "200px";
 
         // Swap view visibility
         digestContainer.style.display = "none";
         topicViewContainer.style.display = "block";
         window.scrollTo({ top: 0, behavior: 'instant' });
 
-        // Load page index -1 to request latest chronological day from backend
-        await loadTopicPage(-1);
-    }
-
-    async function loadTopicPage(targetPage) {
-        if (topicIsLoading) return;
-        topicIsLoading = true;
-        topicArticlesList.innerHTML = "<p>Loading updates...</p>";
-
         try {
-            const response = await fetch(`/api/topic/${encodeURIComponent(currentTopicName)}?page=${targetPage}`);
+            const response = await fetch(`/api/topic/${encodeURIComponent(currentTopicName)}`);
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             
-            const payload = await response.json();
-            const articles = payload.articles;
-            topicTotalPages = payload.total_pages;
-            topicCurrentPage = payload.page; 
-
-            topicDateHeader.textContent = payload.day_display;
-
-            if (articles.length === 0) {
-                topicArticlesList.innerHTML = "<p>No articles found for this day.</p>";
-                renderTopicDots();
-                updateTopicNavControls();
+            topicDaysData = await response.json();
+            topicTotalPages = topicDaysData.length;
+            
+            if (topicTotalPages === 0) {
+                topicSlider.innerHTML = "<p style='width: 100%; flex-shrink: 0;'>No articles found for this topic.</p>";
+                topicDateHeader.textContent = "No updates";
                 return;
             }
 
-            let htmlContent = "";
-            articles.forEach(article => {
-                htmlContent += `
-                    <p style="margin-bottom: 1.2em;">
-                        <a href="${escapeHtml(article.link)}" target="_blank">${escapeHtml(article.title)}</a><br>
-                        <small>${escapeHtml(article.time_str)}</small>
-                    </p>
-                `;
+            // Build all slider slides dynamically
+            topicSlider.innerHTML = "";
+            topicDaysData.forEach((dayData, idx) => {
+                const slide = document.createElement("div");
+                slide.className = "digest-slide";
+                slide.id = `topic-slide-${idx}`;
+                
+                let htmlContent = "";
+                dayData.articles.forEach(article => {
+                    htmlContent += `
+                        <p style="margin-bottom: 1.2em;">
+                            <a href="${escapeHtml(article.link)}" target="_blank">${escapeHtml(article.title)}</a><br>
+                            <small>${escapeHtml(article.time_str)}</small>
+                        </p>
+                    `;
+                });
+                slide.innerHTML = htmlContent;
+                topicSlider.appendChild(slide);
             });
-            
-            topicArticlesList.innerHTML = htmlContent;
-            
-            // Build visual pagination elements & click handlers
-            renderTopicDots();
-            updateTopicNavControls();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
+
+            // Default target selection is the newest day (last index)
+            await showTopicDay(topicTotalPages - 1);
         } catch (error) {
-            console.error("Could not load topic page:", error);
-            topicArticlesList.innerHTML = "<p>Error loading headlines. Please try again.</p>";
+            console.error("Could not build topic slider:", error);
+            topicSlider.innerHTML = "<p style='width: 100%; flex-shrink: 0;'>Error loading updates. Please try again.</p>";
             topicDateHeader.textContent = "Error Loading Date";
-        } finally {
-            topicIsLoading = false;
+        }
+    }
+
+    // Shifts the topic slider to the selected index and updates standard selectors
+    async function showTopicDay(index) {
+        if (index < 0 || index >= topicTotalPages) return;
+        topicCurrentPage = index;
+
+        const slide = document.getElementById(`topic-slide-${index}`);
+        
+        // Horizontal slide transform matching main carousel
+        topicSlider.style.transform = `translateX(-${index * 100}%)`;
+
+        if (topicDaysData[index]) {
+            topicDateHeader.textContent = topicDaysData[index].day_display;
+        }
+
+        renderTopicDots();
+        updateTopicNavControls();
+
+        // Adjust wrapper container height dynamically to prevent layout shifts
+        if (slide) {
+            requestAnimationFrame(() => {
+                topicSliderWrapper.style.height = `${slide.offsetHeight}px`;
+            });
         }
     }
 
@@ -432,8 +452,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 dot.classList.add("active");
             }
             dot.onclick = () => {
-                if (i !== topicCurrentPage && !topicIsLoading) {
-                    loadTopicPage(i);
+                if (i !== topicCurrentPage) {
+                    showTopicDay(i);
                 }
             };
             topicDotsContainer.appendChild(dot);
@@ -445,17 +465,13 @@ document.addEventListener("DOMContentLoaded", function () {
         // Left arrow ◄ goes to the older day index (smaller index value)
         topicOlderBtn.disabled = topicCurrentPage <= 0;
         topicOlderBtn.onclick = () => {
-            if (topicCurrentPage > 0 && !topicIsLoading) {
-                loadTopicPage(topicCurrentPage - 1);
-            }
+            if (topicCurrentPage > 0) showTopicDay(topicCurrentPage - 1);
         };
 
         // Right arrow ► goes to the newer day index (larger index value)
         topicNewerBtn.disabled = topicCurrentPage >= topicTotalPages - 1;
         topicNewerBtn.onclick = () => {
-            if (topicCurrentPage < topicTotalPages - 1 && !topicIsLoading) {
-                loadTopicPage(topicCurrentPage + 1);
-            }
+            if (topicCurrentPage < topicTotalPages - 1) showTopicDay(topicCurrentPage + 1);
         };
     }
 
@@ -537,6 +553,13 @@ document.addEventListener("DOMContentLoaded", function () {
             const currentSlide = document.getElementById(`digest-slide-${currentIndex}`);
             if (currentSlide) {
                 adjustWrapperHeight(currentSlide);
+            }
+        } else {
+            const currentTopicSlide = document.getElementById(`topic-slide-${topicCurrentPage}`);
+            if (currentTopicSlide) {
+                requestAnimationFrame(() => {
+                    topicSliderWrapper.style.height = `${currentTopicSlide.offsetHeight}px`;
+                });
             }
         }
     });

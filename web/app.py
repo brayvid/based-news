@@ -185,11 +185,9 @@ def get_digest_html(digest_id):
 @app.route('/api/topic/<path:topic_name>')
 def get_topic_articles(topic_name):
     """
-    Returns articles for a given topic grouped by day, limiting 
-    the returned dataset to the 10 most recent days of updates.
+    Returns up to the 10 most recent days of grouped articles for a topic.
+    Returns the complete structured chronological array for frontend slider rendering.
     """
-    page = request.args.get('page', -1, type=int)
-
     conn = get_db_connection()
     cur = conn.cursor()
     try:
@@ -219,8 +217,8 @@ def get_topic_articles(topic_name):
             pub_dt_user_tz = to_user_timezone(article[5])
             day_key = pub_dt_user_tz.strftime("%Y-%m-%d") if pub_dt_user_tz else "Date unavailable"
             
-            # Format day dynamically to remove leading zeros on any platform
-            day_display = pub_dt_user_tz.strftime(f"%A, %B {pub_dt_user_tz.day}, %Y") if pub_dt_user_tz else "Date unavailable"
+            # Format day dynamically to remove leading zeros and year
+            day_display = pub_dt_user_tz.strftime(f"%A, %B {pub_dt_user_tz.day}") if pub_dt_user_tz else "Date unavailable"
             
             time_str = pub_dt_user_tz.strftime("%I:%M %p %Z") if pub_dt_user_tz else ""
         except Exception:
@@ -245,28 +243,8 @@ def get_topic_articles(topic_name):
     
     # Reverse list so oldest of the 10 days is at index 0, newest is at last index
     days_list.reverse()
-    total_pages = len(days_list) if days_list else 1
 
-    # Default to the newest day (last index) if request index is -1
-    if page == -1:
-        page = total_pages - 1
-
-    page = max(0, min(page, total_pages - 1))
-
-    if days_list:
-        selected_day = days_list[page]
-        day_display = selected_day["day_display"]
-        day_articles = selected_day["articles"]
-    else:
-        day_display = "No updates found"
-        day_articles = []
-
-    return jsonify({
-        "articles": day_articles,
-        "day_display": day_display,
-        "page": page,
-        "total_pages": total_pages
-    })
+    return jsonify(days_list)
 
 @app.errorhandler(404)
 def page_not_found(e):
