@@ -254,6 +254,10 @@ document.addEventListener("DOMContentLoaded", function () {
     let topicTotalPages = 0;
     let topicIsLoading = false;
 
+    // Day Swipe Gesture State Parameters
+    let topicTouchStartX = 0;
+    let topicTouchEndX = 0;
+
     function escapeHtml(text) {
         if (!text) return "";
         const map = {
@@ -336,6 +340,20 @@ document.addEventListener("DOMContentLoaded", function () {
         if (Math.abs(deltaX) > swipeThreshold) {
             if (deltaX < 0 && currentIndex < totalItems - 1) { showDigest(currentIndex + 1); } 
             else if (deltaX > 0 && currentIndex > 0) { showDigest(currentIndex - 1); }
+        }
+    }
+
+    // Handles swipe gestures for single-topic chronological views
+    function handleTopicSwipe() {
+        const deltaX = topicTouchEndX - topicTouchStartX;
+        if (Math.abs(deltaX) > swipeThreshold) {
+            if (deltaX < 0 && topicCurrentPage < topicTotalPages - 1) {
+                // Swipe left -> Navigates to next chronological day (newer)
+                if (!topicIsLoading) loadTopicPage(topicCurrentPage + 1);
+            } else if (deltaX > 0 && topicCurrentPage > 0) {
+                // Swipe right -> Navigates to previous chronological day (older)
+                if (!topicIsLoading) loadTopicPage(topicCurrentPage - 1);
+            }
         }
     }
 
@@ -509,6 +527,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     digestSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
     digestSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });
+
+    // Single-topic view touch gesture event listeners
+    topicViewContainer.addEventListener('touchstart', e => { topicTouchStartX = e.changedTouches[0].screenX; }, { passive: true });
+    topicViewContainer.addEventListener('touchend', e => { topicTouchEndX = e.changedTouches[0].screenX; handleTopicSwipe(); });
+
     window.addEventListener('resize', () => {
         if (digestContainer.style.display !== "none") {
             const currentSlide = document.getElementById(`digest-slide-${currentIndex}`);
