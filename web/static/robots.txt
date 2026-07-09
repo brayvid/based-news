@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /forecast
+Disallow: /digest/
+Disallow: /api/
+Disallow: /manifest
+
+Sitemap: https://news.blakerayvid.com/sitemap.xml

@@ -12,7 +12,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 
-from flask import Flask, render_template, jsonify, abort, redirect, url_for, request
+from flask import Flask, render_template, jsonify, abort, redirect, url_for, send_from_directory, request
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -249,6 +249,17 @@ def get_topic_articles(topic_name):
 @app.errorhandler(404)
 def page_not_found(e):
     return redirect(url_for('index'))
+
+@app.route('/robots.txt')
+def serve_robots():
+    """Serves the robots.txt file to web crawlers."""
+    return send_from_directory(app.static_folder, 'robots.txt')
+
+@app.route('/llms.txt')
+def serve_llms():
+    """Serves the llms.txt contextual profile to LLM agents."""
+    return send_from_directory(app.static_folder, 'llms.txt', mimetype='text/plain')
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=int(os.environ.get("PORT", 5000)))
