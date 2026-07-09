@@ -5,4 +5,20 @@ Disallow: /digest/
 Disallow: /api/
 Disallow: /manifest
 
+# Block aggressive AI scrapers to prevent high dynamic database hits
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
 Sitemap: https://news.blakerayvid.com/sitemap.xml

@@ -260,6 +260,24 @@ def serve_llms():
     """Serves the llms.txt contextual profile to LLM agents."""
     return send_from_directory(app.static_folder, 'llms.txt', mimetype='text/plain')
 
+@app.route('/sitemap.xml')
+def serve_sitemap():
+    """Serves a dynamic sitemap.xml to indexing crawlers."""
+    sitemap_xml = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://news.blakerayvid.com/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://news.blakerayvid.com/forecast</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>"""
+    return sitemap_xml, 200, {'Content-Type': 'application/xml'}
+
 @app.errorhandler(404)
 def page_not_found(e):
     return redirect(url_for('index'))
