@@ -2,21 +2,15 @@
 
 An automated news digest curation web application. Curated hourly by Google Gemini (`gemini-2.5-flash-lite`) from Google News RSS feeds based on user configurations, and served from a PostgreSQL database using a lightweight Flask backend.
 
-> https://news.blakerayvid.com
+> [Based News Reader Website](https://news.blakerayvid.com)
 
-## Core URL Paths
+## Core URL Paths (Search Allowed)
 
-- `/` : Dynamic news digest homepage. Features a swipable calendar carousel of hourly digests. Click any topic header to drill down into chronological daily headlines.
-- `/forecast` : Prediction tracking dashboard showing sector picks, price projections, and contextual market charts compiled via Yahoo Finance data.
+- [Based News Home](https://news.blakerayvid.com/): Dynamic news digest homepage. Features a swipeable calendar carousel of hourly digests. Click any topic header to drill down into chronological daily headlines.
+- [Forecast Dashboard](https://news.blakerayvid.com/forecast): Prediction tracking dashboard showing sector picks, price projections, and contextual market charts compiled via Yahoo Finance data.
 
-## Server API Endpoints
+## System Resources & Source Code
 
-- `GET /manifest` : Retrieves a JSON array of the latest history digests containing their database IDs and generation timestamps.
-- `GET /digest/<int:digest_id>` : Fetches server-side rendered HTML fragments containing categorized news topics and links for a specified digest ID.
-- `GET /api/topic/<path:topic_name>` : Fetches grouped, chronological daily headlines (up to the 10 most recent days) for a given topic as JSON.
-
-## Architecture
-
-- **Curation Worker (`digest/digest.py`)**: Fetches target RSS feeds, structures deduplicated arguments, queries Gemini for context-sensitive weights, and commits output arrays to PostgreSQL.
-- **Web App (`web/app.py`)**: Flask web service facilitating standard SQL operations and returning rendered template parameters.
-- **Frontend**: Dependency-free Vanilla JS/CSS facilitating fluid slider cards, keyboard navigation (`Arrows` to navigate days, `Esc` to close drilldown details), and touch-swipe gestures on mobile screens.
+- [Configuration Settings Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing): User management weights, target topics, keywords, and parameter configurations.
+- [Project Source Repository](https://github.com/brayvid/based-news): Root repository containing both background worker systems and Flask application server code.
+- [Blake Rayvid Portfolio](https://blakerayvid.com): Personal development profile of the system creator.
