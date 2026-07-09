@@ -12,7 +12,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 
-from flask import Flask, render_template, jsonify, abort, redirect, url_for, send_from_directory, request
+from flask import Flask, render_template, jsonify, abort, redirect, url_for, request, send_from_directory
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -177,7 +177,8 @@ def get_digest_html(digest_id):
     digest_data = format_digest_data(articles)
     html_parts = []
     for topic, articles_list in digest_data.items():
-        html_parts.append(f'<h3 class="topic-header">{html.escape(topic)}</h3>\n')
+        # Changed <h3> topic-header to <h2> for sequential accessibility compliance
+        html_parts.append(f'<h2 class="topic-header">{html.escape(topic)}</h2>\n')
         for article in articles_list:
             html_parts.append(f'<p><a href="{html.escape(article["link"])}" target="_blank">{html.escape(article["title"])}</a><br><small>{article["date_str"]}</small></p>\n')
     return "".join(html_parts)
@@ -185,9 +186,12 @@ def get_digest_html(digest_id):
 @app.route('/api/topic/<path:topic_name>')
 def get_topic_articles(topic_name):
     """
-    Returns up to the 10 most recent days of grouped articles for a topic.
-    Returns the complete structured chronological array for frontend slider rendering.
+    Returns articles for a given topic grouped by day, limiting 
+    the returned dataset to the 10 most recent days of updates.
+    The day string is formatted as "Weekday, Month Day" (no year, no leading zeros).
     """
+    page = request.args.get('page', -1, type=int)
+
     conn = get_db_connection()
     cur = conn.cursor()
     try:
@@ -246,10 +250,6 @@ def get_topic_articles(topic_name):
 
     return jsonify(days_list)
 
-@app.errorhandler(404)
-def page_not_found(e):
-    return redirect(url_for('index'))
-
 @app.route('/robots.txt')
 def serve_robots():
     """Serves the robots.txt file to web crawlers."""
@@ -260,6 +260,9 @@ def serve_llms():
     """Serves the llms.txt contextual profile to LLM agents."""
     return send_from_directory(app.static_folder, 'llms.txt', mimetype='text/plain')
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return redirect(url_for('index'))
 
 if __name__ == '__main__':
     app.run(debug=True, port=int(os.environ.get("PORT", 5000)))

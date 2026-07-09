@@ -65,7 +65,16 @@
     }
     #digest-slider, #topic-slider { display: flex; transition: transform 0.4s ease-in-out; align-items: flex-start; }
     .digest-slide { width: 100%; flex-shrink: 0; box-sizing: border-box; }
-    section h3 { font-family: 'Merriweather', serif; border-bottom: 2px solid #555; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.5em; }
+    
+    /* Configured H2 size to match standard browser H3 (1.17em) and removed bottom underline border */
+    section h2 { 
+        font-family: 'Merriweather', serif; 
+        font-size: 1.17em; 
+        margin-top: 1.5em; 
+        margin-bottom: 0.5em; 
+        text-decoration: none;
+    }
+    
     section p { margin: 0.5em 0 1em 0; word-break: break-word; }
     section a { color: #8ab4f8; text-decoration: none; font-weight: 600; }
     section a:hover { text-decoration: underline; }
@@ -94,7 +103,7 @@
     .topic-view-title {
         margin: 0;
         font-family: 'Merriweather', serif;
-        font-size: 1.17em; /* Matches desktop default section h3 font size */
+        font-size: 1.17em; /* Matches desktop default section H2 font size rules */
     }
     .close-btn {
         background: transparent;
@@ -116,8 +125,8 @@
         padding: 1.2em 1em;
     }
 
-    section h3, .topic-view-title {
-        font-size: 1.1em; /* Matches desktop/mobile section h3 font size overrides */
+    section h2, .topic-view-title {
+        font-size: 1.1em; /* Matches desktop/mobile section H2 font size overrides */
     }
     
     section p {
@@ -143,13 +152,11 @@
         line-clamp: 3;
     }
 
-    /* Target arrows on mobile to make them larger touch targets */
     .arrow-btn {
         font-size: 24px;
         padding: 10px 14px;
     }
 
-    /* Target the close button on mobile to make it larger */
     .close-btn {
         font-size: 30px;
         padding: 10px;
@@ -187,7 +194,7 @@
           <div class="digest-slide" id="digest-slide-0">
               {% if latest_digest %}
                 {% for topic, articles in latest_digest.items() %}
-                  <h3 class="topic-header">{{ topic }}</h3>
+                  <h2 class="topic-header">{{ topic }}</h2>
                   {% for article in articles %}
                   <p>
                     <a href="{{ article.link | e }}" target="_blank">{{ article.title | e }}</a><br>
@@ -579,11 +586,11 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    // Event delegation handling clickable topic headlines
+    // Event delegation handling clickable topic headlines (Target H2 tags)
     digestSlider.addEventListener("click", function (e) {
-        const h3 = e.target.closest("h3");
-        if (h3 && digestSlider.contains(h3)) {
-            const topicName = h3.textContent.trim();
+        const h2 = e.target.closest("h2");
+        if (h2 && digestSlider.contains(h2)) {
+            const topicName = h2.textContent.trim();
             showTopicView(topicName);
         }
     });
