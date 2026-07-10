@@ -8,7 +8,7 @@ View the demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
 
 ---
 
-## Key Features & How It Works
+## Key Features
 
 *   **Configurable via Google Sheets:** Easily manage topics, keywords, banned terms, and application parameters by copying and editing a [Google Sheet](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing).
 *   **Intelligent Curation with Gemini:** A carefully engineered prompt instructs the Gemini AI to perform aggressive cross-topic deduplication, filter out low-quality content, and prioritize headlines based on user-defined weights.
@@ -16,11 +16,12 @@ View the demo: **[news.blakerayvid.com](https://news.blakerayvid.com)**
     *   The backend is a lightweight Flask web server that queries a PostgreSQL database.
     *   Server-side rendering ensures fast load times, while historical data is lazy-loaded on demand.
 *   **Automated Updates:**
-    *   `digest.py`: Runs hourly to fetch and curate fresh news.
+    *   `digest/digest.py`: Runs hourly to fetch and curate fresh news.
 *   **Interactive Frontend:**
     *   Pure HTML, CSS, and vanilla JavaScript (dependency-free).
     *   Includes swipeable carousels for browsing past digests.
-    *   **Single-topic mode:** Click on any topic heading to view chronological updates filtered specifically for that topic, paginated day-by-day across the 10 most recent updates with navigation arrows, circular step indicators, and localized date subheaders.
+    *   **Single-topic mode:** Click on any topic heading to view chronological updates filtered specifically for that topic. This drills down into a single, scrollable page displaying the 10 most recent days of headlines, grouped chronologically by day headers with the newest headlines at the top.
+    *   **Accessible Navigation:** Supports keyboard controls (`ArrowLeft` / `ArrowRight` to transition digests, `Escape` to close topic views), pointer hovers, and clean hierarchical heading layouts.
 
 ## Tech Stack
 
@@ -63,7 +64,6 @@ based-news/
    git clone <your-repository-url>
    cd based-news
    ```
-2. **Create a `.env` file** in the project root containing your `GEMINI_API_KEY` and the `DATABASE_URL` from your Railway project.
 
 ---
 
@@ -117,7 +117,6 @@ The Flask web interface is managed within the `web/` subdirectory and uses its o
    flask run
    ```
 6. Open your browser and navigate to `http://localhost:5000`.
-
 
 ---
 

@@ -188,9 +188,7 @@ def get_topic_articles(topic_name):
     """
     Returns articles for a given topic grouped by day, limiting 
     the returned dataset to the 10 most recent days of updates.
-    Dates are formatted as:
-    - day_display: e.g. "Thursday, July 9 2026"
-    - time_str: e.g. "Thu, 09 Jul 2026 06:09 PM EDT"
+    Returns chronologically ordered days (newest first).
     """
     conn = get_db_connection()
     cur = conn.cursor()
@@ -243,11 +241,8 @@ def get_topic_articles(topic_name):
             "time_str": time_str
         })
 
-    # Retrieve only the 10 most recent days of updates
+    # Retrieve only the 10 most recent days of updates (ordered newest first)
     days_list = list(days_map.values())[:10]
-    
-    # Reverse list so oldest of the 10 days is at index 0, newest is at last index
-    days_list.reverse()
 
     return jsonify(days_list)
 
