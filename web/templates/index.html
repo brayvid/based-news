@@ -73,6 +73,8 @@
         margin-top: 1.5em; 
         margin-bottom: 0.5em; 
         text-decoration: none;
+        border-bottom: 1px solid #444;
+        padding-bottom: 0.3em;
     }
     
     section p { margin: 0.5em 0 1em 0; word-break: break-word; }
@@ -86,8 +88,11 @@
         cursor: pointer;
         transition: color 0.2s ease;
     }
+    
+    /* Configured topic header to underline on hover to match default link behavior */
     .topic-header:hover {
-        color: #8ab4f8;
+        color: #ffffff;
+        text-decoration: underline;
     }
 
     /* Topic View Title Layout */
@@ -95,7 +100,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border-bottom: 2px solid #555;
+        border-bottom: 1px solid #444; /* Matches thin section border divider styling */
         padding-bottom: 0.5em;
         margin-bottom: 1em;
         margin-top: 0.85em;
@@ -104,6 +109,14 @@
         margin: 0;
         font-family: 'Merriweather', serif;
         font-size: 1.17em; /* Matches desktop default section H2 font size rules */
+        border-bottom: none; /* Removes inherited section h2 bottom border style */
+        padding-bottom: 0;
+        cursor: pointer; /* Visual pointer cue */
+    }
+    
+    /* Visual cue on hover matching standard header rules */
+    .topic-view-title:hover {
+        text-decoration: underline;
     }
     .close-btn {
         background: transparent;
@@ -596,6 +609,9 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     closeTopicBtn.onclick = hideTopicView;
+    
+    // Configured single-topic title text click action to match close button functionality
+    topicViewTitle.onclick = hideTopicView;
 
     digestSliderWrapper.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
     digestSliderWrapper.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(); });

@@ -188,10 +188,10 @@ def get_topic_articles(topic_name):
     """
     Returns articles for a given topic grouped by day, limiting 
     the returned dataset to the 10 most recent days of updates.
-    The day string is formatted as "Weekday, Month Day" (no year, no leading zeros).
+    Dates are formatted as:
+    - day_display: e.g. "Thursday, July 9 2026"
+    - time_str: e.g. "Thu, 09 Jul 2026 06:09 PM EDT"
     """
-    page = request.args.get('page', -1, type=int)
-
     conn = get_db_connection()
     cur = conn.cursor()
     try:
@@ -221,10 +221,11 @@ def get_topic_articles(topic_name):
             pub_dt_user_tz = to_user_timezone(article[5])
             day_key = pub_dt_user_tz.strftime("%Y-%m-%d") if pub_dt_user_tz else "Date unavailable"
             
-            # Format day dynamically to remove leading zeros and year
-            day_display = pub_dt_user_tz.strftime(f"%A, %B {pub_dt_user_tz.day}") if pub_dt_user_tz else "Date unavailable"
+            # Big day header format: "Thursday, July 9 2026"
+            day_display = pub_dt_user_tz.strftime(f"%A, %B {pub_dt_user_tz.day} %Y") if pub_dt_user_tz else "Date unavailable"
             
-            time_str = pub_dt_user_tz.strftime("%I:%M %p %Z") if pub_dt_user_tz else ""
+            # Small article timestamp format: "Thu, 09 Jul 2026 06:09 PM EDT"
+            time_str = pub_dt_user_tz.strftime("%a, %d %b %Y %I:%M %p %Z") if pub_dt_user_tz else ""
         except Exception:
             day_key = "Date unavailable"
             day_display = "Date unavailable"
