@@ -3,3 +3,4 @@ python-dotenv>=1.0.1
 google-genai
 psycopg2-binary>=2.9.9
 nltk>=3.9.1
+regex

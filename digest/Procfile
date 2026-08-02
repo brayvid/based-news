@@ -1,1 +1,1 @@
-worker: python digest.py
+worker: python -P digest.py

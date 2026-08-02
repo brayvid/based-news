@@ -54,7 +54,7 @@ ensure_nltk_data()
 
 def load_config_from_sheet(url):
     try:
-        response = requests.get(url, timeout=15); response.raise_for_status()
+        response = requests.get(url, timeout=30); response.raise_for_status()
         config = {}
         reader = csv.reader(response.text.splitlines()); next(reader, None)
         for row in reader:
@@ -79,7 +79,7 @@ BATCH_SIZE = 10
 
 def load_csv_data(url, is_overrides=False):
     try:
-        response = requests.get(url, timeout=15); response.raise_for_status()
+        response = requests.get(url, timeout=30); response.raise_for_status()
         data = {}
         reader = csv.reader(response.text.splitlines()); next(reader, None)
         for row in reader:
