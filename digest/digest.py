@@ -1,16 +1,7 @@
 # Author: Blake Rayvid <https://github.com/brayvid/based-news>
 
-import sys
 import os
-
-# Remove the current working directory from the import path 
-# to prevent the NLTK security block
-cwd = os.getcwd()
-while cwd in sys.path:
-    sys.path.remove(cwd)
-while "" in sys.path:
-    sys.path.remove("")
-    
+import sys
 import csv
 import logging
 import json
