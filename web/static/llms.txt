@@ -4,10 +4,9 @@ An automated news digest curation web application. Curated hourly by Google Gemi
 
 > [Based News Reader Website](https://news.blakerayvid.com)
 
-## Core URL Paths (Search Allowed)
+## Core URL Path
 
 - [Based News Home](https://news.blakerayvid.com/): Dynamic news digest homepage. Features a swipeable calendar carousel of hourly digests. Click any topic header to drill down into chronological daily headlines.
-- [Forecast Dashboard](https://news.blakerayvid.com/forecast): Prediction tracking dashboard showing sector picks, price projections, and contextual market charts compiled via Yahoo Finance data.
 
 ## System Resources & Source Code
 

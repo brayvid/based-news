@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /forecast
 Disallow: /digest/
 Disallow: /api/
 Disallow: /manifest
