@@ -189,11 +189,6 @@ def serve_sitemap():
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://news.blakerayvid.com/forecast</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
 </urlset>"""
     return sitemap_xml, 200, {'Content-Type': 'application/xml'}
 
