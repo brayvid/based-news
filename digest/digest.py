@@ -21,7 +21,33 @@ from psycopg2 import extras
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.data import find
 import nltk
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 
+# --- Robust HTTP Fetcher with Retries ---
+def fetch_url_with_retry(url, max_retries=3):
+    """
+    Fetches URL with automatic backoff retries.
+    Returns response string on success, or None on failure.
+    """
+    session = requests.Session()
+    retries = Retry(
+        total=max_retries,
+        backoff_factor=3,  # Waits 3s, 6s, 12s between retries
+        status_forcelist=[500, 502, 503, 504],
+        raise_on_status=False
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+
+    try:
+        # timeout tuple: (10s connect timeout, 35s read timeout)
+        response = session.get(url, timeout=(10, 35))
+        response.raise_for_status()
+        return response.text
+    except Exception as e:
+        logging.warning(f"Fetch failed after retries: {e}")
+        return None
+        
 # --- SETUP: LOAD ENVIRONMENT VARIABLES FIRST ---
 load_dotenv()
 
@@ -53,20 +79,49 @@ def ensure_nltk_data():
 ensure_nltk_data()
 
 def load_config_from_sheet(url):
-    try:
-        response = requests.get(url, timeout=30); response.raise_for_status()
-        config = {}
-        reader = csv.reader(response.text.splitlines()); next(reader, None)
-        for row in reader:
-            if len(row) >= 2:
-                key, val = row[0].strip(), row[1].strip()
-                try: config[key] = int(val) if '.' not in val else float(val)
-                except ValueError: config[key] = {'true': True, 'false': False}.get(val.lower(), val)
-        return config
-    except Exception as e: logging.error(f"Failed to load config: {e}"); return None
+    csv_text = fetch_url_with_retry(url)
+    if not csv_text:
+        return None
+    config = {}
+    reader = csv.reader(csv_text.splitlines())
+    next(reader, None)
+    for row in reader:
+        if len(row) >= 2:
+            key, val = row[0].strip(), row[1].strip()
+            try:
+                config[key] = int(val) if '.' not in val else float(val)
+            except ValueError:
+                config[key] = {'true': True, 'false': False}.get(val.lower(), val)
+    return config
 
+def load_csv_data(url, is_overrides=False):
+    csv_text = fetch_url_with_retry(url)
+    if csv_text is None:
+        return None
+    data = {}
+    reader = csv.reader(csv_text.splitlines())
+    next(reader, None)
+    for row in reader:
+        if len(row) >= 2:
+            key, val = row[0].strip(), row[1].strip()
+            if is_overrides:
+                data[key.lower()] = val.lower()
+            else:
+                try:
+                    data[key] = int(val)
+                except ValueError:
+                    continue
+    return data
+
+# --- LOAD CONFIG & DATA (SKIP RUN CLEANLY ON FAILURE) ---
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
-if CONFIG is None: sys.exit(1)
+TOPIC_WEIGHTS = load_csv_data(TOPICS_CSV_URL)
+KEYWORD_WEIGHTS = load_csv_data(KEYWORDS_CSV_URL)
+OVERRIDES = load_csv_data(OVERRIDES_CSV_URL, is_overrides=True)
+
+if any(x is None for x in [CONFIG, TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES]):
+    logging.warning("Failed to load configuration from Google Sheets after retries. Skipping run.")
+    sys.exit(0)  # Exit code 0 tells Railway Cron the job finished cleanly
 
 MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 12))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
@@ -76,25 +131,6 @@ GEMINI_MODEL_NAME = CONFIG.get("DIGEST_GEMINI_MODEL_NAME", "gemini-2.5-flash-lit
 ZONE = ZoneInfo(CONFIG.get("TIMEZONE", "America/New_York"))
 MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 150))
 BATCH_SIZE = 10
-
-def load_csv_data(url, is_overrides=False):
-    try:
-        response = requests.get(url, timeout=30); response.raise_for_status()
-        data = {}
-        reader = csv.reader(response.text.splitlines()); next(reader, None)
-        for row in reader:
-            if len(row) >= 2:
-                key, val = row[0].strip(), row[1].strip()
-                if is_overrides: data[key.lower()] = val.lower()
-                else:
-                    try: data[key] = int(val)
-                    except ValueError: continue
-        return data
-    except Exception as e: logging.error(f"Failed to load data: {e}"); return None
-
-TOPIC_WEIGHTS = load_csv_data(TOPICS_CSV_URL)
-KEYWORD_WEIGHTS = load_csv_data(KEYWORDS_CSV_URL)
-OVERRIDES = load_csv_data(OVERRIDES_CSV_URL, is_overrides=True)
 
 # --- Helpers ---
 def normalize(text):
