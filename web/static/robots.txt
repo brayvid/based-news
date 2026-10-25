@@ -20,4 +20,29 @@ Disallow: /
 User-agent: Amazonbot
 Disallow: /
 
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ExaSearchBot
+Disallow: /
+
+User-agent: KeenableBot
+Disallow: /
+
+# Block resource-heavy SEO and commercial data scrapers
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AwarioBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: ApcosysBot
+Disallow: /
+
 Sitemap: https://news.blakerayvid.com/sitemap.xml
