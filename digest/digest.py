@@ -251,7 +251,10 @@ SELECT_DIGEST_ARTICLES_TOOL = types.Tool(
 )
 
 def prioritize_with_gemini(candidates_to_send, digest_history, gemini_api_key, topic_weights, keyword_weights, overrides):
-    client = genai.Client(api_key=gemini_api_key)
+    client = genai.Client(
+        api_key=gemini_api_key,
+        http_options={'api_version': 'v1beta'}
+    )
     # Reverting to exact original pref_data which includes demoted_terms
     pref_data = {
         "topic_weights": topic_weights, 
