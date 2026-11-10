@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # Author: Blake Rayvid <https://github.com/brayvid/based-news>
 
 import os
@@ -12,13 +11,12 @@ load_dotenv(os.path.join(BASE_DIR, ".env"))
 load_dotenv(os.path.join(BASE_DIR, "..", ".env"))
 
 DATABASE_URL = os.environ.get("DATABASE_URL")
-RETENTION_DAYS = int(os.environ.get("RETENTION_DAYS", 60))
+RETENTION_DAYS = int(os.environ.get("RETENTION_DAYS", 30))
 
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
-
 
 def prune_database():
     if not DATABASE_URL:
@@ -94,7 +92,6 @@ def prune_database():
     finally:
         if conn:
             conn.close()
-
 
 if __name__ == "__main__":
     prune_database()
