@@ -1,4 +1,4 @@
-# Based News Reader
+# Custom News Reader
 
 This project is a fully automated news digest web app. It fetches headlines from Google News, uses Google's Gemini AI to intelligently select and rank them based on user preferences, and serves the content from a live database.
 
